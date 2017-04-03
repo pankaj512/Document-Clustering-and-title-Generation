@@ -1,8 +1,4 @@
-import nltk
-s = "i am pankaj kumar"
-data = s.split()
-bigram = list(nltk.bigrams(data))
-list_of_bi = []
-for b in bigram:
-    list_of_bi.append(' '.join(b))
-print(list_of_bi)
+
+x = {1: 2, 3: 4, 4: 3, 2: 1, 0: 0}
+sorted_x = sorted(x, key=lambda y:x[y])
+print(sorted_x)
