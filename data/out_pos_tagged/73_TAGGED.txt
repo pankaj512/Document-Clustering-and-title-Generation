@@ -1,0 +1,15 @@
+German/JJ growth/NN goes/VBZ into/IN reverse/NN
+
+Germany's/NNP economy/NN shrank/VBD 0.2%/CD in/IN the/DT last/JJ three/CD months/NNS of/IN 2004/CD upsetting/VBG hopes/NNS of/IN a/DT sustained/JJ recovery./NN
+
+The/DT figures/NNS confounded/VBD hopes/NNS of/IN a/DT 0.2%/CD expansion/NN in/IN the/DT fourth/JJ quarter/NN in/IN Europe's/NNP biggest/JJS economy./NN
+The/DT Federal/NNP Statistics/NNPS Office/NNP said/VBD growth/NN for/IN the/DT whole/NN of/IN 2004/CD was/VBD 1.6%/CD after/IN a/DT year/NN of/IN contraction/NN in/IN 2003/CD down/RB from/IN an/DT earlier/JJR estimate/NN of/IN 1.7%./CD
+It/PRP said/VBD growth/NN in/IN the/DT third/JJ quarter/NN had/VBD been/VBN zero/CD putting/VBG the/DT economy/NN at/IN a/DT standstill/NN from/IN July/NNP onward./NN
+Germany/NNP has/VBZ been/VBN reliant/JJ on/IN exports/NNS to/TO get/VB its/PRP$ economy/NN back/RB on/IN track/NN as/IN unemployment/NN of/IN more/RBR than/IN five/CD million/CD and/CC impending/JJ cuts/NNS to/TO welfare/VB mean/VBP German/JJ consumers/NNS have/VBP kept/VBN their/PRP$ money/NN to/TO themselves./VB
+Major/NN companies/NNS including/VBG Volkswagen/NNP DaimlerChrysler/NNP and/CC Siemens/NNP have/VBP spent/VBN much/JJ of/IN 2004/CD in/IN tough/JJ talks/NNS with/IN unions/NNS about/IN trimming/VBG jobs/NNS and/CC costs./NN
+According/VBG to/TO the/DT statistics/NNS office/NN Destatis/NNP rising/VBG exports/NNS were/VBD outweighed/VBN in/IN the/DT fourth/JJ quarter/NN by/IN the/DT continuing/VBG weakness/NN of/IN domestic/JJ demand./NN
+
+But/CC the/DT relentless/JJ rise/NN in/IN the/DT value/NN of/IN the/DT euro/NN last/JJ year/NN has/VBZ also/RB hit/VBN the/DT competitiveness/NN of/IN German/JJ products/NNS overseas./NN
+The/DT effect/NN has/VBZ been/VBN to/TO depress/VB prospects/NNS for/IN the/DT 12-nation/JJ eurozone/NN as/IN a/DT whole/NN as/RB well/RB as/IN Germany./NNP
+Eurozone/NNP interest/NN rates/NNS are/VBP at/IN 2%/CD but/CC senior/JJ officials/NNS at/IN the/DT rate-setting/JJ European/NNP Central/NNP Bank/NNP are/VBP beginning/VBG to/TO talk/VB about/IN the/DT threat/NN of/IN inflation/NN prompting/VBG fears/NNS that/IN interest/NN rates/NNS may/MD rise./VB
+The/DT ECB's/NNP mandate/NN is/VBZ to/TO fight/VB rising/VBG prices/NNS by/IN boosting/VBG interest/NN rates/NNS -/: and/CC that/WDT could/MD further/RB threaten/VB Germany's/NNP hopes/VBZ of/IN recovery./NN

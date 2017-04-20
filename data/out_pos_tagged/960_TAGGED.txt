@@ -1,0 +1,19 @@
+Blair/NNP hails/VBZ Turkey-EU/NNP talks/NNS deal/NN
+
+Tony/NNP Blair/NNP has/VBZ hailed/VBN a/DT deal/NN bringing/VBG Turkey/NNP a/DT step/NN closer/JJR to/TO EU/NNP membership/NN as/IN important/JJ for/IN the/DT world's/NNS future/JJ "peace/NN and/CC prosperity"./NN
+
+Mr/NNP Blair/NNP has/VBZ been/VBN a/DT leading/VBG advocate/NN of/IN Turkish/JJ membership/NN despite/IN controversy/NN surrounding/VBG the/DT idea./NN
+Leaving/VBG a/DT Brussels/NNP summit/NN Mr/NNP Blair/NNP said/VBD "the/NN fact/NN Turkey/NNP is/VBZ a/DT Muslim/NNP country/NN does/VBZ not/RB mean/VB it/PRP should/MD be/VB barred"./NN
+The/DT deal/NN to/TO open/VB formal/JJ talks/NNS with/IN Ankara/NNP came/VBD despite/IN an/DT EU/NNP demand/NN for/IN Turkey/NNP to/TO recognise/VB Cyprus./NNP
+It/PRP was/VBD agreed/VBN the/DT issue/NN can/MD be/VB tackled/VBN at/IN a/DT later/JJ date/NN but/CC Turkish/JJ premier/NN Recep/NNP Erdogan/NNP had/VBD to/TO accept/VB negotiations/NNS did/VBD not/RB guarantee/VB his/PRP$ country/NN full/JJ EU/NNP membership./NN
+
+If/IN it/PRP joins/VBZ Turkey/NNP may/MD have/VB to/TO accept/VB restrictions/NNS to/TO limit/VB migration/NN by/IN its/PRP$ citizens./NN
+Mr/NNP Blair/NNP said/VBD having/VBG Turkey/NNP in/IN the/DT EU/NNP was/VBD of/IN "importance/NN to/TO the/DT future/JJ peace/NN and/CC prosperity/NN of/IN my/PRP$ country/NN Britain/NNP and/CC the/DT wider/JJR world"./NN
+
+"We/NN are/VBP stating/VBG a/DT fundamental/JJ principle/NN that/IN the/DT fact/NN Turkey/NNP is/VBZ a/DT Muslim/NNP country/NN does/VBZ not/RB mean/VB it/PRP should/MD be/VB barred/VBN from/IN Europe./NNP
+"On/NN the/DT contrary/NN if/IN it/PRP fulfils/VBZ the/DT same/JJ principles/NNS of/IN human/JJ rights/NNS then/RB Muslim/NNP and/CC Christian/NNP can/MD work/VB together."/NN Under/IN the/DT agreement/NN Turkey/NNP must/MD issue/VB a/DT written/VBN statement/NN promising/VBG to/TO sign/VB an/DT accord/NN effectively/RB recognising/VBG the/DT Greek/JJ Cypriot/NNP government/NN but/CC gives/VBZ Turkey/NNP more/JJR time/NN to/TO sell/VB the/DT idea/NN to/TO its/PRP$ people./NN
+
+The/DT internationally/RB recognised/VBN southern/JJ part/NN of/IN Cyprus/NNP is/VBZ an/DT EU/NNP member/NN but/CC Turkey/NNP which/WDT occupies/VBZ northern/JJ Cyprus/NNP had/VBD previously/RB insisted/VBN it/PRP would/MD not/RB bow/VB to/TO demands/NNS to/TO recognise/VB the/DT country/NN calling/VBG the/DT issue/NN a/DT "red/VBN line"./NN
+It/PRP could/MD take/VB up/IN to/TO 15/CD years/NNS before/IN Turkey/NNP is/VBZ able/JJ to/TO join/VB and/CC entry/NN cannot/NN be/VB guaranteed./NN
+The/DT EU/NNP has/VBZ also/RB announced/VBN that/IN it/PRP will/MD start/VB accession/NN talks/NNS with/IN Croatia/NNP in/IN April/NNP 2005./CD
+However/RB talks/NNS will/MD begin/VB only/RB if/IN the/DT country/NN co-operates/NNS fully/RB with/IN the/DT UN/NNP war/NN crimes/NNS tribunal/NN for/IN the/DT former/JJ Yugoslavia./NNP

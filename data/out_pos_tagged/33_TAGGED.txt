@@ -1,0 +1,14 @@
+Rich/NNP grab/VB half/NN Colombia/NNP poor/JJ fund/NN
+
+Half/NN of/IN the/DT money/NN put/VBD aside/RB by/IN the/DT Colombian/JJ government/NN to/TO help/VB the/DT country's/NNS poor/JJ is/VBZ benefiting/VBG people/NNS who/WP do/VBP not/RB need/VB it/PRP a/DT study/NN has/VBZ found./NN
+
+A/DT total/NN of/IN 24.2/CD trillion/CD pesos/NNS ($10.2bn/CD £5.5bn)/CD is/VBZ earmarked/VBN for/IN subsidies/NNS for/IN the/DT poor/JJ the/DT government/NN department/NN for/IN planning/NN said./NN
+But/CC it/PRP also/RB found/VBD 12.1/CD trillion/CD pesos/NNS was/VBD going/VBG to/TO the/DT richest/JJS part/NN of/IN the/DT population/NN rather/RB than/IN to/TO those/DT in/IN need./NN
+Sound/NNP distribution/NN of/IN the/DT cash/NN could/MD cut/VB poverty/NN levels/NNS to/TO 36%/CD from/IN 53%/CD the/DT government/NN believes./NN
+"Resources/NN are/VBP more/JJR than/IN enough/JJ to/TO reduce/VB poverty/NN and/CC there/EX is/VBZ no/DT need/NN for/IN more/JJR tax/NN reforms/NNS but/CC a/DT better/JJR distribution"/JJ deputy/NN planning/NN director/NN Jose/NNP Leibovich/NNP said./NN
+
+Colombia/NNP has/VBZ a/DT population/NN of/IN about/IN 44/CD million/CD and/CC half/NN lives/NNS below/IN poverty/NN line./NN
+However/RB some/DT large/JJ properties/NNS are/VBP paying/VBG less/JJR in/IN tax/NN as/IN they/PRP are/VBP situated/VBN inside/IN poor/JJ areas/NNS which/WDT benefit/NN from/IN cheaper/JJR utilities/NNS such/JJ as/IN electricity/NN and/CC water/NN government/NN research/NN found./NN
+Government/NNP expenditure/NN in/IN areas/NNS such/JJ as/IN pensions/NNS public/JJ services/NNS education/NN property/NN and/CC health/NN should/MD be/VB revised/VBN Mr/NNP Leibovich/NNP said./NN
+He/PRP added/VBD that/IN the/DT government/NN is/VBZ now/RB examining/VBG the/DT report/NN but/CC warned/VBD there/EX would/MD be/VB no/DT easy/JJ solution/NN to/TO the/DT problem./NN
+With/IN a/DT good/JJ distribution/NN of/IN such/JJ subsidies/NNS and/CC economic/JJ growth/NN of/IN just/RB 2%/CD by/IN 2019/CD poverty/NN could/MD fall/VB as/RB low/JJ as/IN 15.3%/CD he/PRP said./VB

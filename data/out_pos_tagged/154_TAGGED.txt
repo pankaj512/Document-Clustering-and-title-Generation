@@ -1,0 +1,22 @@
+Golden/NNP rule/NN boost/NN for/IN Chancellor/NNP
+
+Chancellor/NNP Gordon/NNP Brown/NNP has/VBZ been/VBN given/VBN a/DT £2.1bn/CD boost/NN in/IN his/PRP$ attempts/NNS to/TO meet/VB his/PRP$ golden/JJ economic/JJ rule/NN which/WDT allows/VBZ him/PRP to/TO borrow/VB only/RB for/IN investment./NN
+
+The/DT extra/JJ leeway/NN came/VBD after/IN the/DT Office/NNP for/IN National/NNP Statistics/NNPS said/VBD it/PRP had/VBD been/VBN measuring/VBG road/NN expenditure/NN data/NNS wrongly/RB over/IN the/DT past/JJ five/CD years./NN
+It/PRP comes/VBZ just/RB weeks/NNS ahead/RB of/IN the/DT Budget/NNP and/CC an/DT expected/VBN general/JJ election./NN
+Shadow/NNP chancellor/NN Oliver/NNP Letwin/NNP said/VBD "At/NN best/JJS the/DT timing/NN of/IN these/DT changes/NNS is/VBZ very/RB convenient/JJ for/IN the/DT government."/NN
+
+A/DT review/NN by/IN the/DT ONS/NNP found/VBD it/PRP had/VBD made/VBN a/DT mistake/NN by/IN "double/JJ counting"/NN some/DT spending/NN on/IN roads/NNS since/IN 1998/9./CD
+Correcting/VBG the/DT error/NN would/MD mean/VB reducing/VBG current/JJ expenditure/NN and/CC increasing/VBG net/JJ investment/NN thus/RB helping/VBG Mr/NNP Brown/NNP to/TO meet/VB his/PRP$ "golden/NN rule"/NN of/IN borrowing/NN only/RB to/TO invest/VB over/IN the/DT economic/JJ cycle./NN
+Economists/NNS speculated/VBD that/IN it/PRP might/MD also/RB allow/VB for/IN some/DT vote-catching/JJ measures/NNS in/IN the/DT Budget./NNP
+
+The/DT changes/NNS by/IN the/DT ONS/NNP increase/NN the/DT current/JJ budget/NN measure/NN for/IN the/DT past/JJ five/CD years/NNS by/IN £2.1bn/CD in/IN total./NN
+Mr/NNP Letwin/NNP said/VBD "This/NN is/VBZ a/DT very/RB murky/JJ area.../NN
+There/EX will/MD inevitably/RB be/VB suspicions/NNS that/IN the/DT figures/NNS are/VBP being/VBG fiddled."/NN The/DT Conservatives/NNS also/RB said/VBD Mr/NNP Brown/NNP would/MD still/RB be/VB forced/VBN to/TO raise/VB taxes/NNS after/IN the/DT general/JJ election/NN to/TO fill/VB an/DT annual/JJ £10.5bn/CD "black/NN hole"/NN in/IN the/DT nation's/NNS coffers./NN
+But/CC the/DT Treasury/NNP said/VBD there/EX would/MD be/VB no/DT relaxation/NN of/IN economic/JJ discipline/NN and/CC the/DT golden/JJ rule/NN would/MD be/VB met/VBN even/RB without/IN the/DT data/NNS revisions./NN
+
+In/IN January/NNP the/DT independent/JJ Institute/NNP for/IN Fiscal/JJ Studies/NNPS (IFS)/NN said/VBD Mr/NNP Brown/NNP would/MD need/VB to/TO raise/VB taxes/NNS to/TO get/VB public/JJ finances/NNS onto/IN the/DT track/NN predicted/VBD in/IN last/JJ year's/NNS Budget./NNP
+It/PRP also/RB said/VBD the/DT government/NN might/MD narrowly/RB miss/VB its/PRP$ "golden/NN rule"/NN if/IN the/DT current/JJ economic/JJ cycle/NN ended/VBD in/IN 2005/06./CD
+After/IN the/DT ONS/NNP announcement/NN economists/NNS said/VBD there/EX could/MD also/RB be/VB a/DT proportionate/NN boost/NN to/TO the/DT current/JJ budget/NN in/IN 2004/05/CD of/IN about/IN £400m./CD
+"None/NN of/IN this/DT changes/NNS the/DT big/JJ picture/NN of/IN a/DT dramatic/JJ deterioration/NN in/IN the/DT overall/JJ fiscal/JJ position/NN over/IN the/DT last/JJ four/CD or/CC five/CD years"/NN said/VBD Jonathan/NNP Loynes/NNP chief/NN UK/NNP economist/NN at/IN Capital/NNP Economics./NNP
+"Accordingly/RB it/PRP seems/VBZ very/RB likely/JJ that/IN some/DT form/NN of/IN fiscal/JJ consolidation/NN will/MD be/VB required/VBN in/IN due/JJ course."/NN

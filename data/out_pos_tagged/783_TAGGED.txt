@@ -1,0 +1,17 @@
+Famed/JJ music/NN director/NN Viotti/NNP dies/VBZ
+
+Conductor/NNP Marcello/NNP Viotti/NNP director/NN of/IN Venice's/NNP famous/JJ La/NNP Fenice/NNP Theatre/NNP has/VBZ died/VBN in/IN Germany/NNP at/IN 50./CD
+
+Viotti/NNP director/NN of/IN La/NNP Fenice/NNP since/IN 2002/CD conducted/VBN at/IN renowned/JJ opera/NN houses/NNS worldwide/NN including/VBG Milan's/NNP La/NNP Scala/NNP and/CC the/DT Vienna/NNP State/NNP Opera./NNP
+His/PRP$ time/NN at/IN La/NNP Fenice/NNP coincided/VBD with/IN its/PRP$ reopening/VBG in/IN 2003/CD after/IN it/PRP was/VBD destroyed/VBN by/IN fire/NN in/IN 1996./CD
+He/PRP fell/VBD into/IN a/DT coma/NN after/IN suffering/VBG a/DT stroke/NN during/IN rehearsals/NNS for/IN Jules/NNP Massenet's/NNP Manon/NNP last/JJ week./NN
+
+He/PRP conducted/VBD some/DT of/IN the/DT best/JJS orchestras/NNS in/IN the/DT world/NN including/VBG the/DT Berlin/NNP Philharmonic/NNP and/CC the/DT English/NNP Chamber/NNP Orchestra./NNP
+Viotti/NNP was/VBD born/VBN in/IN Switzerland/NNP and/CC studied/VBD the/DT piano/NN cello/NN and/CC singing/VBG at/IN the/DT Lausanne/NNP Conservatory./NNP
+His/PRP$ career/NN breakthrough/NN came/VBD in/IN 1982/CD when/WRB he/PRP won/VBD first/JJ prize/NN at/IN the/DT Gino/NNP Marinuzzi/NNP conducting/VBG competition/NN in/IN Italy./NNP
+Viotti/NNP established/VBD himself/PRP as/IN chief/JJ conductor/NN of/IN the/DT Turin/NNP Opera/NNP and/CC went/VBD on/RP to/TO become/VB chief/JJ conductor/NN of/IN Munich's/NNP Radio/NNP Orchestra./NNP
+At/IN La/NNP Fenice/NNP Viotti/NNP was/VBD widely/RB acclaimed/JJ for/IN his/PRP$ production/NN of/IN the/DT French/JJ composer/NN Massenet's/NNP Thais/NNP and/CC some/DT of/IN his/PRP$ other/JJ productions/NNS included/VBD Giuseppe/NNP Verdi's/NNP La/NNP Traviata/NNP and/CC Richard/NNP Strauss's/NNP Ariadne/NNP auf/NN Naxos./NNP
+
+The/DT last/JJ opera/NN he/PRP directed/VBD at/IN La/NNP Fenice/NNP was/VBD Massenet's/NNP Le/NNP Roi/NNP de/IN Lahore./NNP
+Viotti's/NNP debut/NN at/IN the/DT New/NNP York's/NNP Metropolitan/NNP Opera/NNP came/VBD in/IN 2000/CD with/IN Giacomo/NNP Puccini's/NNP Madame/NNP Butterfly/NN followed/VBD by/IN La/NNP Boheme/NNP La/NNP Traviata/NNP and/CC Fromental/NNP Halevy's/NNP La/NNP Juive./NNP
+Giampaolo/NNP Vianello/NNP superintendent/NN of/IN the/DT Fenice/NNP Theatre/NNP Foundation/NNP said/VBD "I/NN am/VBP filled/VBN with/IN extreme/JJ sadness/NN because/IN other/JJ than/IN a/DT great/JJ artist/NN he/PRP is/VBZ missed/VBN as/IN a/DT friend/NN -/: a/DT main/JJ character/NN in/IN the/DT latest/JJS joyous/JJ times/NNS during/IN the/DT rebirth/NN of/IN our/PRP$ theatre."/NN Viotti's/NNP last/JJ public/JJ performance/NN was/VBD on/IN 5/CD February/NNP when/WRB he/PRP conducted/VBD Vincenzo/NNP Bellini's/NNP Norma/NNP at/IN the/DT Vienna/NNP State/NNP Opera./NNP

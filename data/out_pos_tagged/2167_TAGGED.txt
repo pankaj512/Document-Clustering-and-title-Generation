@@ -1,0 +1,20 @@
+Ultra/NNP fast/RB wi-fi/JJ nears/VBZ completion/NN
+
+Ultra/NNP high/JJ speed/NN wi-fi/JJ connections/NNS moved/VBD closer/RBR to/TO reality/NN on/IN Thursday/NNP when/WRB Intel/NNP said/VBD it/PRP would/MD list/VB standards/NNS for/IN the/DT technology/NN later/RB this/DT year./NN
+
+Intel/NNP is/VBZ developing/VBG ultra-wideband/JJ technology/NN (UWB)/NN which/WDT would/MD allow/VB fast/RB data/NNS transfer/VBP but/CC with/IN low/JJ power/NN needs./NN
+UWB/NNP is/VBZ tipped/VBN to/TO be/VB used/VBN for/IN wireless/JJ transfer/VBP of/IN video/NN in/IN the/DT home/NN or/CC office/NN and/CC for/IN use/NN in/IN wireless/JJ USB/NNP devices/NNS which/WDT need/VBP low/JJ power/NN consumption./NN
+A/DT rival/JJ UWB/NNP standard/JJ is/VBZ being/VBG developed/VBN by/IN Motorola/NNP and/CC chip/NN firm/NN Freescale./NNP
+At/IN the/DT mobile/JJ phone/NN conference/NN 3GSM/CD in/IN Cannes/NNP last/JJ month/NN Samsung/NNP demonstrated/VBD a/DT phone/NN using/VBG UWB/NNP technology/NN from/IN Freescale./NNP
+
+At/IN a/DT press/NN conference/NN on/IN Thursday/NNP Intel/NNP announced/VBD that/IN two/CD UWB/NNP groups/NNS WiMedia/NNP Alliance/NNP and/CC Multi-band/NNP OFDM/NNP alliance/NN had/VBD merged/VBN to/TO support/VB the/DT technology./NN
+UWB/NNP makes/VBZ it/PRP possible/JJ to/TO stream/VB huge/JJ amounts/NNS of/IN data/NNS through/IN the/DT air/NN over/IN short/JJ distances./JJ
+One/CD of/IN the/DT more/RBR likely/JJ uses/NNS of/IN UWB/NNP is/VBZ to/TO make/VB it/PRP possible/JJ to/TO send/VB DVD/NNP quality/NN video/NN images/NNS wirelessly/RB to/TO TV/VB screens/NNS or/CC to/TO let/VB people/NNS beam/VBP music/NN to/TO media/NNS players/NNS around/IN their/PRP$ home./NN
+
+The/DT technology/NN has/VBZ the/DT potential/NN to/TO transmit/VB hundreds/NNS of/IN megabits/NNS of/IN data/NNS per/IN second./NN
+"Consumer/NN electronics/NNS companies/NNS want/VBP UWB/NNP to/TO replace/VB cables/NNS and/CC simplify/VB set-up"/JJ Jeff/NNP Ravencraft/NNP technology/NN strategist/NN at/IN Intel/NNP and/CC chairman/NN of/IN the/DT Wireless/NNP USB/NNP Promoter/NNP Group/NNP told/VBD technology/NN site/NN ZDNet./NNP
+"Thirty/NN percent/NN of/IN consumer/NN electronics/NNS returns/NNS are/VBP because/IN the/DT consumer/NN couldn't/NN set/VBD up/RP the/DT equipment."/NN The/DT first/JJ products/NNS using/VBG UWB/NNP technology/NN from/IN Intel/NNP are/VBP due/JJ to/TO hit/VB the/DT market/NN later/RB this/DT year./NN
+Initially/RB they/PRP will/MD be/VB products/NNS using/VBG wireless/JJ USB/NNP 2.0/CD connections./NN
+UWB/NNP could/MD also/RB be/VB used/VBN to/TO create/VB so-called/JJ Personal/NNP Area/NNP Networks/NNP that/WDT let/VBP a/DT person's/NNS gadgets/NNS quickly/RB and/CC easily/RB swap/NN data/NNS amongst/IN themselves./NN
+The/DT technology/NN works/VBZ over/IN a/DT range/NN up/IN to/TO 10/CD metres/NNS and/CC uses/VBZ billions/NNS of/IN short/JJ radio/NN pulses/NNS every/DT second/JJ to/TO carry/VB data./NN
+Intel/NNP says/VBZ the/DT benefit/NN of/IN UWB/NNP is/VBZ that/IN it/PRP does/VBZ not/RB interfere/VB with/IN other/JJ wi-fi/JJ technologies/NNS already/RB in/IN use/NN such/JJ as/IN wi-fi/JJ wimax/NN and/CC mobile/JJ phone/NN networks./NN

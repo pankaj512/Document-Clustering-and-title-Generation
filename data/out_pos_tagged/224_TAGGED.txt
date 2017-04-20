@@ -1,0 +1,31 @@
+Man/NNP Utd/NNP to/TO open/VB books/NNS to/TO Glazer/NNP
+
+Manchester/NNP United's/NNP board/NN has/VBZ agreed/VBN to/TO give/VB US/PRP tycoon/VBP Malcolm/NNP Glazer/NNP access/NN to/TO its/PRP$ books./NN
+
+Earlier/RBR this/DT month/NN Mr/NNP Glazer/NNP presented/VBD the/DT board/NN with/IN detailed/JJ proposals/NNS on/IN an/DT offer/NN to/TO buy/VB the/DT football/NN club./NN
+In/IN a/DT statement/NN the/DT club/NN said/VBD it/PRP would/MD allow/VB Mr/NNP Glazer/NNP "limited/VBD due/JJ diligence"/NN to/TO give/VB him/PRP the/DT opportunity/NN to/TO take/VB the/DT proposal/NN on/RP to/TO a/DT formal/JJ bid./NN
+But/CC it/PRP said/VBD it/PRP continued/VBD to/TO oppose/VB Mr/NNP Glazer's/NNP plans/VBZ calling/VBG his/PRP$ assumptions/NNS "aggressive"/NN and/CC his/PRP$ plan/NN "damaging"./NN
+Many/JJ of/IN Manchester/NNP United's/NNP supporters/NNS own/JJ shares/NNS in/IN the/DT club/NN and/CC the/DT fan-based/JJ group/NN Shareholders/NNS United/NNP is/VBZ strongly/RB opposed/VBN to/TO any/DT takeover/NN by/IN Mr/NNP Glazer./NNP
+About/IN 300/CD fans/NNS protested/VBD outside/IN the/DT Old/NNP Trafford/NNP ground/NN two/CD days/NNS ago./NN
+
+Rival/JJ local/JJ club/NN Manchester/NNP City/NNP has/VBZ pleaded/VBN with/IN visiting/VBG fans/NNS not/RB to/TO protest/VB inside/IN its/PRP$ ground/NN when/WRB the/DT two/CD teams/NNS play/VBP a/DT televised/VBN match/NN on/IN Sunday./NNP
+
+Manchester/NNP United's/NNP response/NN comes/VBZ as/IN little/JJ surprise/NN as/IN the/DT board/NN made/VBD clear./NN
+"Any/NN board/NN has/VBZ a/DT responsibility/NN to/TO consider/VB a/DT bona/NN fide/NN offer/NN proposal"/NN the/DT club/NN said/VBD in/IN its/PRP$ statement./NN
+Should/MD it/PRP become/VB a/DT firm/JJ offer/NN it/PRP should/MD be/VB at/IN a/DT price/NN that/DT "the/NN board/NN is/VBZ likely/JJ to/TO regard/VB as/IN fair"/NN and/CC on/IN terms/NNS which/WDT "may/NN be/VB deliverable"./NN
+But/CC it/PRP also/RB stressed/VBD that/IN it/PRP stayed/VBD opposed/VBN to/TO Mr/NNP Glazer's/NNP proposal./NN
+"The/NN board/NN continues/VBZ to/TO believe/VB that/IN Mr/NNP Glazer's/NNP business/NN plan/NN assumptions/NNS are/VBP aggressive"/VBG the/DT statement/NN said/VBD "and/NN the/DT direct/JJ and/CC indirect/JJ financial/JJ strain/NN on/IN the/DT business/NN could/MD be/VB damaging."/NN Whether/IN or/CC not/RB the/DT bid/NN is/VBZ attractive/JJ in/IN monetary/JJ terms/NNS in/IN the/DT case/NN of/IN Manchester/NNP United/NNP many/JJ investors/NNS hold/VBP the/DT stock/NN for/IN sentimental/JJ rather/RB than/IN financial/JJ reasons./NN
+At/IN present/JJ Mr/NNP Glazer/NNP and/CC his/PRP$ family/NN hold/VB a/DT 28.1%/CD stake/NN making/VBG them/PRP Manchester/NNP United's/NNP second/JJ biggest/JJS shareholders./NN
+They/PRP own/VBD the/DT successful/JJ Tampa/NNP Bay/NNP Buccaneers/NNP American/JJ football/NN team/NN based/VBN in/IN Florida./NNP
+If/IN the/DT family/NN makes/VBZ a/DT formal/JJ offer/NN they/PRP will/MD need/VB the/DT support/NN of/IN the/DT club's/NNS biggest/JJS shareholders./NN
+
+Irish/JJ horse/NN racing/VBG millionaires/NNS JP/NNP McManus/NNP and/CC John/NNP Magnier/NNP own/JJ 29%/CD of/IN United/NNP through/IN their/PRP$ investment/NN vehicle/NN Cubic/JJ Expression/NN and/CC have/VBP yet/RB to/TO express/VB a/DT view/NN on/IN the/DT bid/NN approach./NN
+
+A/DT group/NN of/IN five/CD MPs/NNP are/VBP calling/VBG on/IN the/DT Department/NNP of/IN Trade/NNP and/CC Industry/NNP to/TO block/VB any/DT takeover/NN of/IN the/DT club/NN by/IN the/DT US/PRP football/NN magnate/NN on/IN public/JJ interest/NN grounds./NN
+They/PRP have/VBP signed/VBN a/DT House/NNP of/IN Commons/NNPS motion/NN and/CC Tony/NNP Lloyd/NNP the/DT Manchester/NNP Central/NNP MP/NNP whose/WP$ constituency/NN includes/VBZ the/DT club's/NNS Old/NNP Trafford/NNP ground/NN has/VBZ pledged/VBN to/TO take/VB the/DT matter/NN "to/NN Tony/NNP Blair/NNP if/IN necessary"./NN
+The/DT Commons/NNPS motion/NN says/VBZ "any/NN takeover/NN designed/VBN to/TO transform/VB the/DT club/NN into/IN a/DT private/JJ company/NN would/MD be/VB against/IN the/DT interests/NNS of/IN those/DT supporters/NNS and/CC football"./NN
+However/RB the/DT DTI/NNP has/VBZ dismissed/VBN the/DT proposal./NN
+A/DT spokesman/NN said/VBD the/DT department/NN did/VBD not/RB believe/VB there/EX was/VBD a/DT case/NN for/IN changing/VBG the/DT Enterprise/NNP Act/NNP so/IN that/IN takeovers/NNS of/IN football/NN clubs/NNS could/MD be/VB looked/VBN at/IN on/IN non-competition/JJ grounds./NN
+Mr/NNP Glazer's/NNP offer/NN values/NNS the/DT club/NN at/IN £800m/CD ($1.5bn)./CD
+Pitched/VBD at/IN 300p/CD per/IN share/NN it/PRP also/RB relies/VBZ less/JJR on/IN debt/NN to/TO finance/VB it/PRP than/IN an/DT earlier/JJR approach/NN from/IN the/DT US/PRP tycoon/VBP which/WDT was/VBD rejected/VBN out/IN of/IN hand./NN
+Manchester/NNP United/NNP shares/NNS closed/VBD at/IN 270.25p/CD on/IN Friday/NNP down/RB 3.75p/CD on/IN the/DT day./NN

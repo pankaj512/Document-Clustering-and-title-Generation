@@ -1,0 +1,15 @@
+Hariri/NNP killing/VBG hits/NNS Beirut/NNP shares/NNS
+
+Shares/NNS in/IN Solidere/NNP the/DT Lebanese/JJ company/NN founded/VBN by/IN assassinated/VBD former/JJ prime/JJ minister/NN Rafik/NNP Hariri/NNP fell/VBD 15%/CD in/IN renewed/VBN trading/NN in/IN Beirut./NNP
+
+The/DT real/JJ estate/NN firm/NN which/WDT dominates/VBZ Lebanon's/NNP stock/NN exchange/NN ended/VBD the/DT day/NN down/RP at/IN $8.08./CD
+Traders/NNS said/VBD there/EX was/VBD some/DT panic/NN selling/NN during/IN Friday's/NNP session/NN the/DT first/JJ since/IN a/DT three-day/JJ market/NN closure/NN to/TO mourn/VB the/DT death/NN of/IN Mr/NNP Hariri./NNP
+Beirut's/NNP benchmark/NN BLOM/NNP stock/NN index/NN closed/VBD down/RB 7.9%/CD at/IN 642.80./CD
+
+Solidere/NNP in/IN which/WDT Mr/NNP Hariri/NNP was/VBD a/DT major/JJ shareholder/NN was/VBD the/DT major/JJ drag/NN on/IN the/DT index./NN
+The/DT company/NN owns/VBZ much/JJ of/IN the/DT property/NN in/IN central/JJ Beirut/NNP which/WDT it/PRP restored/VBD and/CC redeveloped/VBN following/VBG the/DT end/NN of/IN Lebanon's/NNP bitter/JJ 15-year/JJ civil/JJ war./NN
+"Solidere/NN should/MD be/VB above/IN $10/CD but/CC because/IN of/IN this/DT disaster/NN it/PRP is/VBZ falling"/NN said/VBN one/CD trader./NN
+"If/NNP Solidere/NNP drops/NNS much/RB lower/JJR I/PRP would/MD consider/VB it/PRP a/DT buying/VBG opportunity./NN
+This/DT is/VBZ a/DT very/RB big/JJ company/NN held/VBN by/IN many/JJ Lebanese."/NNP Critics/NNS had/VBD accused/VBN Mr/NNP Hariri/NNP of/IN using/VBG Lebanon's/NNP post-war/JJ reconstruction/NN drive/NN for/IN his/PRP$ personal/JJ financial/JJ gain./NN
+But/CC his/PRP$ assassination/NN on/IN Monday/NNP sent/VBD shudders/NNS through/IN Lebanon's/NNP business/NN community/NN which/WDT saw/VBD the/DT billionaire/NN tycoon/NN as/IN the/DT country's/NNS best/JJS hope/NN for/IN economic/JJ revival./NN
+Solidere/NNP posted/VBD profits/NNS of/IN $12.5m/CD in/IN the/DT first/JJ half/NN of/IN 2004/CD and/CC its/PRP$ shares/NNS had/VBD been/VBN gaining/VBG in/IN recent/JJ months./NN

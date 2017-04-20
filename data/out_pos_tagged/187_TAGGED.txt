@@ -1,0 +1,18 @@
+Bank/NNP payout/NN to/TO Pinochet/NNP victims/NNS
+
+A/DT US/PRP bank/VBP has/VBZ said/VBN it/PRP will/MD donate/VB more/JJR than/IN $8m/CD to/TO victims/NNS of/IN former/JJ Chilean/JJ military/JJ ruler/NN Augusto/NNP Pinochet's/NNP regime/NN under/IN a/DT Madrid/NNP court/NN settlement./NN
+
+Riggs/NNP Bank/NNP will/MD put/VB money/NN in/IN a/DT special/JJ fund/NN to/TO be/VB managed/VBN by/IN a/DT Madrid-based/JJ charity/NN the/DT Salvador/NNP Allende/NNP Foundation/NNP which/WDT helps/VBZ abused/VBN victims./NN
+The/DT bank/NN had/VBD been/VBN accused/VBN of/IN illegally/RB concealing/VBG Gen/NNP Pinochet's/NNP assets./NN
+More/JJR than/IN 3000/CD people/NNS were/VBD killed/VBN for/IN political/JJ reasons/NNS under/IN Gen/NNP Pinochet's/NNP regime/NN an/DT official/JJ report/NN says./NN
+Last/JJ month/NN in/IN a/DT US/PRP court/VBP Riggs/NNP Bank/NNP pleaded/VBD guilty/JJ to/TO failing/VBG to/TO report/VB suspicious/JJ activity/NN relating/VBG to/TO accounts/NNS held/VBN by/IN Gen/NNP Pinochet/NNP and/CC the/DT government/NN of/IN Equatorial/NNP Guinea./NNP
+On/IN that/DT occasion/VBP it/PRP was/VBD ordered/VBN to/TO pay/VB a/DT fine/NN of/IN $16m./CD
+Gen/NNP Pinochet/NNP himself/PRP has/VBZ never/RB been/VBN put/VBN on/IN trial/NN for/IN human/JJ rights/NNS violations/NNS under/IN his/PRP$ 1973-90/JJ rule/NN despite/IN several/JJ high-profile/JJ cases/NNS against/IN him./NN
+He/PRP is/VBZ now/RB facing/VBG charges/NNS relating/VBG to/TO the/DT murder/NN of/IN one/CD Chilean/JJ and/CC the/DT disappearance/NN of/IN nine/CD others./NN
+He/PRP is/VBZ also/RB being/VBG investigated/VBD for/IN tax/NN evasion/NN tax/NN fraud/NN and/CC embezzlement/NN of/IN state/NN funds./NN
+
+The/DT general's/NNS opponents/NNS rejoiced/VBN at/IN the/DT settlement/NN which/WDT was/VBD agreed/VBN in/IN a/DT court/NN in/IN the/DT Spanish/JJ capital/NN Madrid./NNP
+A/DT lawyer/NN for/IN the/DT victims/NNS Eduardo/NNP Contreras/NNP told/VBD Reuters/NNP news/NN agency/NN "This/NN demonstrates/VBZ that/IN the/DT horrors/NNS of/IN the/DT Pinochet/NNP dictatorship/NN are/VBP not/RB a/DT mystery/NN to/TO anyone/NN and/CC that/IN the/DT whole/JJ world/NN knows/VBZ his/PRP$ victims/NNS deserve/VBP reparations."/NN Riggs/NNP spokesman/NN Mark/NNP Hendrix/NNP said/VBD the/DT settlement/NN details/NNS of/IN which/WDT will/MD be/VB announced/VBN next/JJ week/NN was/VBD an/DT opportunity/NN to/TO move/VB on./NN
+"This/NN enables/VBZ the/DT institution/NN to/TO put/VB the/DT matter/NN behind/IN us"/NN he/PRP told/VBD Reuters./NNP
+The/DT settlement/NN follows/VBZ a/DT legal/JJ complaint/NN filed/VBN against/IN the/DT bank/NN by/IN Spanish/JJ Judge/NNP Baltasar/NNP Garzon/NNP alleging/VBG that/IN it/PRP had/VBD illegally/RB concealed/VBN assets./NN
+The/DT bank/NN agreed/VBD to/TO create/VB a/DT fund/NN for/IN the/DT victims/NNS but/CC the/DT charges/NNS were/VBD dropped./NN

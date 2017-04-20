@@ -1,0 +1,20 @@
+Ferguson/NNP urges/VBZ Henry/NNP punishment/NN
+
+Sir/NNP Alex/NNP Ferguson/NNP has/VBZ called/VBN on/IN the/DT Football/NNP Association/NNP to/TO punish/VB Arsenal's/NNP Thierry/NNP Henry/NNP for/IN an/DT incident/NN involving/VBG Gabriel/NNP Heinze./NNP
+
+Ferguson/NNP believes/VBZ Henry/NNP deliberately/RB caught/VBD Heinze/NNP on/IN the/DT head/NN with/IN his/PRP$ knee/NN during/IN United's/NNP controversial/JJ win./NN
+The/DT United/NNP boss/NN said/VBD it/PRP was/VBD worse/JJR than/IN Ruud/NNP van/NNP Nistelrooy's/NNP foul/JJ on/IN Ashley/NNP Cole/NNP for/IN which/WDT he/PRP got/VBD a/DT three-game/JJ ban./NN
+"We/NN shall/MD present/VB it/PRP to/TO the/DT FA/NNP and/CC see/VB what/WP they/PRP do./VBP
+The/DT tackle/NN on/IN Heinze/NNP was/VBD terrible"/NN he/PRP said./VB
+Clubs/NNS are/VBP permitted/VBN to/TO ask/VB the/DT FA/NNP to/TO examine/VB specific/JJ incidents/NNS but/CC information/NN is/VBZ expected/VBN to/TO be/VB provided/VBN within/IN 48/CD hours/NNS of/IN the/DT game./NN
+The/DT clash/NN occurred/VBD moments/NNS before/IN half-time/NN when/WRB a/DT Freddie/NNP Ljungberg/NNP challenge/NN left/VBN Heinze/NNP on/IN the/DT ground/NN on/IN the/DT left/NN touchline./NN
+Henry/NNP following/VBG the/DT ball/NN attempted/VBN to/TO hurdle/VB the/DT Argentine/JJ but/CC his/PRP$ knee/NN collided/VBN with/IN the/DT back/NN of/IN Heinze's/NNP head./NN
+
+The/DT striker/NN protested/VBD his/PRP$ innocence/NN -/: and/CC referee/NN Mike/NNP Riley/NNP deemed/VBD the/DT collision/NN accidental./NN
+Ferguson/NNP was/VBD also/RB upset/VBN by/IN Arsenal's/NNP overall/JJ discipline/NN during/IN the/DT heated/JJ encounter/NN between/IN the/DT two/CD arch-rivals/NNS and/CC praised/VBD his/PRP$ own/JJ side's/NNS behaviour./NN
+"Edu/NN produced/VBD a/DT terrible/JJ tackle/NN on/IN Scholes/NNP that/WDT was/VBD a/DT potential/JJ leg-breaker"/NN he/PRP said./VB
+"There/NN were/VBD 24/CD fouls/NNS in/IN the/DT game/NN by/IN Arsenal/NN seven/CD on/IN Heinze/NNP five/CD on/IN Ronaldo/NNP six/CD by/IN Vieira/NNP -/: and/CC it/PRP was/VBD only/RB his/PRP$ sixth/JJ foul/NN that/WDT got/VBD him/PRP booked./VB
+Phil/NNP Neville/NNP got/VBD booked/VBN for/IN his/PRP$ first/JJ challenge./NN
+"I/NN am/VBP proud/JJ of/IN my/PRP$ players/NNS for/IN the/DT way/NN they/PRP handled/VBD that/DT pressure./NN
+"We/NN have/VBP always/RB been/VBN good/JJ at/IN being/VBG gracious/JJ in/IN defeat./NN
+What/WP happened/VBD on/IN Sunday/NNP overshadowed/VBD our/PRP$ achievement/NN but/CC then/RB they/PRP do/VBP it/PRP all/PDT the/DT time/NN don't/NN they?"/NN

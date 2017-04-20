@@ -1,0 +1,17 @@
+West/NNP End/NN to/TO honour/VB finest/JJS shows/NNS
+
+The/DT West/NNP End/NN is/VBZ honouring/VBG its/PRP$ finest/JJS stars/NNS and/CC shows/VBZ at/IN the/DT Evening/NN Standard/NNP Theatre/NNP Awards/NNS in/IN London/NNP on/IN Monday./NNP
+
+The/DT Producers/NNPS starring/VBG Nathan/NNP Lane/NNP and/CC Lee/NNP Evans/NNP is/VBZ up/RB for/IN best/JJS musical/JJ at/IN the/DT ceremony/NN at/IN the/DT National/NNP Theatre./NNP
+It/PRP is/VBZ competing/VBG against/IN Sweeney/NNP Todd/NNP and/CC A/DT Funny/NNP Thing/NN Happened/VBD on/IN the/DT Way/NNP to/TO the/DT Forum/NNP for/IN the/DT award./NN
+The/DT Goat/NNP or/CC Who/WP is/VBZ Sylvia?/NNP by/IN Edward/NNP Albee/NNP The/DT Pillowman/NNP by/IN Martin/NNP McDonagh/NNP and/CC Alan/NNP Bennett's/NNP The/DT History/NNP Boys/NNPS are/VBP shortlisted/VBN in/IN the/DT best/JJS play/VB category./NN
+
+Pam/NNP Ferris/JJ Victoria/NNP Hamilton/NNP and/CC Kelly/NNP Reilly/NNP are/VBP nominated/VBN for/IN best/JJS actress./NN
+Ferris/JJ -/: best/JJS known/VBN for/IN her/PRP$ television/NN roles/NNS in/IN programmes/NNS such/JJ as/IN The/DT Darling/NN Buds/NNS of/IN May/NNP -/: has/VBZ made/VBN the/DT shortlist/NN for/IN her/PRP$ role/NN in/IN Notes/NNS on/IN Falling/NN Leaves/VBZ at/IN the/DT Royal/NNP Court/NNP Theatre./NNP
+Meanwhile/RB Richard/NNP Griffiths/NNP who/WP plays/VBZ Hector/NNP in/IN The/DT History/NNP Boys/NNPS at/IN the/DT National/NNP Theatre/NNP will/MD battle/VB it/PRP out/RP for/IN the/DT best/JJS actor/NN award/NN with/IN Douglas/NNP Hodge/NNP (Dumb/NN Show)/NNP and/CC Stanley/NNP Townsend/NNP (Shining/VBG City)./NNP
+The/DT best/JJS director/NN shortlist/NN includes/VBZ Luc/NNP Bondy/NNP for/IN Cruel/JJ and/CC Tender/NN Simon/NNP McBurney/NNP for/IN Measure/NN for/IN Measure/NN and/CC Rufus/NNP Norris/NNP for/IN Festen./NNP
+
+Festen/NNP is/VBZ also/RB shortlisted/VBN in/IN the/DT best/JJS designer/NN category/NN where/WRB Ian/NNP MacNeil/NNP Jean/NNP Kalman/NNP and/CC Paul/NNP Arditti/NNP will/MD be/VB up/RP against/IN Hildegard/NNP Bechtler/NNP for/IN Iphigenia/NNP at/IN Aulis/NNP and/CC Paul/NNP Brown/NNP for/IN False/JJ Servant./NNP
+The/DT Milton/NNP Shulman/NNP Award/NN for/IN outstanding/JJ newcomer/NN will/MD be/VB presented/VBN to/TO Dominic/NNP Cooper/NNP (His/NN Dark/JJ Materials/NNPS and/CC The/DT History/NN Boys)/NNP Romola/NNP Garai/NNP (Calico)/NN Eddie/NNP Redmayne/NNP (The/NN Goat/NNP or/CC Who/WP is/VBZ Sylvia?)/NNP or/CC Ben/NNP Wishaw/NNP (Hamlet)./NN
+And/CC playwrights/NNS David/NNP Eldridge/NNP Rebecca/NNP Lenkiewicz/NNP and/CC Owen/NNP McCafferty/NNP will/MD fight/VB it/PRP out/RP for/IN The/DT Charles/NNP Wintour/NNP Award/NN and/CC a/DT £30000/CD bursary./NN
+Three/CD 50th/JJ Anniversary/NN Special/JJ Awards/NNS will/MD also/RB be/VB presented/VBN to/TO an/DT institution/NN a/DT playwright/NN and/CC an/DT individual./NN

@@ -1,0 +1,36 @@
+Karachi/NN stocks/NNS hit/VBD historic/JJ high/JJ
+
+The/DT Karachi/NNP Stock/NNP Exchange/NNP (KSE)/NN has/VBZ recorded/VBN its/PRP$ largest/JJS single/JJ day/NN gain/NN surging/VBG 3.5%/CD to/TO a/DT new/JJ high./NN
+
+The/DT index/NN rose/VBD 225.79/CD points/NNS in/IN four/CD hours/NNS of/IN furious/JJ trading/NN with/IN many/JJ investors/NNS optimistic/JJ that/IN political/JJ stability/NN could/MD bring/VB an/DT economic/JJ boom./NN
+The/DT KSE/NNP index/NN closed/VBD at/IN 6709.93/CD -/: an/DT overall/JJ gain/NN of/IN nearly/RB 400/CD points/NNS in/IN the/DT first/JJ two/CD trading/NN days/NNS of/IN the/DT week./NN
+Energy/NNP and/CC telecommunication/NN stocks/NNS performed/VBN particularly/RB well/RB recording/VBG an/DT 8%-10%/JJ rise/NN since/IN Monday/NNP morning./NN
+
+In/IN 2002/CD the/DT KSE/NNP was/VBD the/DT world's/NNS best/JJS performing/VBG stock/NN market/NN with/IN the/DT index/NN rising/VBG 112%./CD
+
+Pakistani/JJ investors/NNS are/VBP expecting/VBG the/DT KSE/NNP to/TO repeat/VB if/IN not/RB improve/VBP on/IN its/PRP$ 2002/CD performance./NN
+Jubilant/JJ investors/NNS danced/VBN on/IN the/DT streets/NNS as/IN the/DT market/NN closed/VBD for/IN the/DT day/NN on/IN Tuesday/NNP confident/JJ that/IN the/DT boom/NN will/MD continue/VB at/IN least/JJS until/IN the/DT public/JJ holiday/NN on/IN 22/CD January./NNP
+Others/NNS however/RB who/WP had/VBD stayed/VBN out/RP fearing/VBG an/DT imminent/JJ collapse/NN because/IN of/IN prices/NNS overheating/VBG continued/VBD to/TO warn/VB that/IN the/DT "bubble/NN may/MD burst/VB any/DT time"./NN
+"That's/NN rubbish"/NN KSE/NNP chairman/NN Yaseen/NNP Lakhani/NNP told/VBD the/DT BBC/NNP News/NNP website./NN
+"Whenever/NN the/DT market/NN reflects/VBZ Pakistan's/NNP true/JJ economic/JJ reality/NN it/PRP is/VBZ described/VBN as/IN a/DT bubble."/NN Mr/NNP Lakhani/NNP feels/VBZ that/IN the/DT market/NN has/VBZ risen/VBN on/IN the/DT basis/NN of/IN solid/JJ economic/JJ growth/NN and/CC its/PRP$ current/JJ level/NN rests/VBZ on/IN sound/NN foundations./NN
+
+Market/NN analysts/NNS are/VBP inclined/VBN to/TO agree/VB with/IN Mr/NNP Lakhani/NNP arguing/VBG that/IN there/EX are/VBP a/DT number/NN of/IN major/JJ factors/NNS behind/IN the/DT KSE's/NNP performance./NN
+Analysts/NNS argue/VBP that/IN a/DT steady/JJ improvement/NN in/IN Pakistan's/NNP credit/NN ratings/NNS by/IN international/JJ credit/NN rating/NN agencies/NNS has/VBZ finally/RB begun/VBN to/TO register/VB in/IN the/DT market./NN
+Standard/NNP &/CC Poor's/NNP upgraded/VBD Pakistan/NNP a/DT few/JJ weeks/NNS ago./NN
+There/EX are/VBP indications/NNS of/IN yet/RB another/DT upgrade/NN by/IN the/DT end/NN of/IN February./NNP
+
+Then/RB say/VBP analysts/NNS there/RB is/VBZ corporate/JJ profitability/NN in/IN the/DT current/JJ fiscal/JJ year/NN which/WDT has/VBZ gone/VBN up/RP by/IN 27%/CD from/IN last/JJ year./NN
+"Coupled/VBN with/IN the/DT 7%/CD GDP/NNP growth/NN expected/VBN by/IN June/NNP this/DT year/NN I/PRP am/VBP least/JJS surprised/VBN at/IN the/DT market's/NNS performance"/NN says/VBZ Mr/NNP Lakhani./NNP
+One/CD leading/VBG Karachi/NNP broker/NN said/VBD the/DT real/JJ reasons/NNS may/MD be/VB political./NN
+"If/NN you/PRP file/VBP a/DT $1.3/CD trillion/CD case/NN against/IN Saudi/JJ money/NN after/IN 9/11/CD Arab/NNP money/NN will/MD not/RB go/VB to/TO the/DT US/PRP any/DT more."/NN A/DT lot/NN of/IN Arab/NNP money/NN he/PRP says/VBZ has/VBZ already/RB gone/VBN to/TO Malaysia/NNP and/CC Indonesia./NNP
+Pakistanis/NNS are/VBP now/RB hoping/VBG that/DT energy/NN and/CC telecoms/NNS two/CD of/IN the/DT strongest/JJS sectors/NNS in/IN Pakistan/NNP draw/VB some/DT of/IN the/DT Arab/JJ money/NN to/TO the/DT KSE./NNP
+
+Locally/RB too/RB say/VBP analysts/NNS recent/JJ political/JJ developments/NNS have/VBP worked/VBN to/TO the/DT market's/NNS advantage./NN
+
+An/DT anti-Musharraf/JJ campaign/NN threatened/VBN by/IN the/DT MMA/NNP a/DT countrywide/NN alliance/NN of/IN religious/JJ parties/NNS has/VBZ fizzled/VBN out./NN
+The/DT release/NN of/IN Asif/NNP Zardari/NNP former/JJ Prime/NNP Minister/NNP Benazir/NNP Bhutto's/NNP husband/NN has/VBZ eased/VBN political/JJ tensions/NNS between/IN the/DT military-backed/JJ government/NN and/CC the/DT opposition/NN Pakistan/NNP People's/NNP Party./NNP
+Most/JJS importantly/RB say/VBP analysts/NNS the/DT failure/NN of/IN talks/NNS between/IN India/NNP and/CC Pakistan/NNP on/IN the/DT Baglihar/NNP dam/NN in/IN Indian-administered/JJ Kashmir/NNP has/VBZ not/RB automatically/RB led/VBN to/TO heightened/VBN tensions./NN
+This/DT they/PRP say/VBP indicates/VBZ that/IN neither/DT country/NN is/VBZ interested/JJ in/IN raising/VBG the/DT temperature/NN at/IN this/DT stage/NN irrespective/RB of/IN the/DT state/NN of/IN their/PRP$ disagreements./JJ
+The/DT market/NN is/VBZ abuzz/JJ with/IN speculation/NN that/IN substantial/JJ investment/NN may/MD now/RB start/VB to/TO flow/VB in/IN from/IN the/DT US/PRP a/DT country/NN seen/VBN locally/RB as/RB deeply/RB interested/JJ in/IN defusing/VBG tensions/NNS between/IN the/DT South/JJ Asian/JJ neighbours./NN
+"You/NN can/MD call/VB it/PRP a/DT peace/NN dividend"/NN smiles/VBZ one/CD broker./NN
+"Let/NN us/PRP see/VBP how/WRB long/JJ one/PRP can/MD reap/VB its/PRP$ benefits."/NN

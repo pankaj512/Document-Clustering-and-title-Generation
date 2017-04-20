@@ -1,0 +1,18 @@
+Tory/NNP leader/NN 'cleared'/NN over/IN work/NN
+
+Scottish/NNP Conservative/JJ Party/NNP leader/NN David/NNP McLetchie/NNP claims/VBZ he/PRP has/VBZ been/VBN cleared/VBN over/IN a/DT potential/JJ conflict/NN of/IN interest./JJ
+
+The/DT Edinburgh/NNP MSP/NNP earns/VBZ up/IN to/TO £30000/CD a/DT year/NN from/IN the/DT law/NN firm/NN Tods/NNP Murray/NNP where/WRB he/PRP is/VBZ a/DT partner./NN
+Mr/NNP McLetchie/NNP said/VBD he/PRP has/VBZ taken/VBN advice/NN from/IN Holyrood/NNP officials/NNS about/IN what/WP details/NNS he/PRP needs/VBZ to/TO declare./VB
+He/PRP was/VBD advised/VBN to/TO exercise/VB judgement/NN to/TO avoid/VB the/DT perception/NN of/IN a/DT conflict/NN and/CC said/VBD he/PRP had/VBD done/VBN nothing/NN wrong./NN
+As/IN an/DT MSP/NNP Mr/NNP McLetchie/NNP signed/VBD a/DT parliamentary/JJ motion/NN questioning/VBG expansion/NN plans/NNS for/IN Edinburgh/NNP Airport./NNP
+
+It/PRP then/RB emerged/VBD Tods/NNP Murray/NNP has/VBZ a/DT client/NN which/WDT opposes/VBZ the/DT development./NN
+Mr/NNP McLetchie/NNP then/RB sought/VBD guidance/NN from/IN the/DT standards/NNS committee/NN to/TO clarify/VB his/PRP$ position./NN
+BBC/NNP Scotland's/NNP political/JJ correspondent/NN Glenn/NNP Campbell/NNP said/VBD no/DT complaint/NN had/VBD been/VBN made/VBN against/IN Mr/NNP McLetchie/NNP but/CC questions/NNS were/VBD raised/VBN about/IN his/PRP$ dual/JJ role./NN
+Glenn/NNP said/VBD MSPs/NNP are/VBP advised/VBN to/TO guard/VB against/IN a/DT conflict/NN of/IN interests/NNS and/CC a/DT perception/NN of/IN a/DT conflict./NN
+
+Mr/NNP McLetchie/NNP said/VBD "I'm/NN quite/RB clear/JJ that/IN no/DT conflicts/NNS of/IN interest/NN arise/NN in/IN my/PRP$ case/NN that/IN the/DT judgement/NN I/PRP took/VBD has/VBZ effectively/RB been/VBN vindicated/VBN when/WRB you/PRP look/VBP at/IN the/DT advice/NN that/WDT has/VBZ been/VBN given/VBN to/TO me/PRP and/CC that/IN these/DT allegations/NNS are/VBP unfounded."/NN He/PRP said/VBD nothing/NN had/VBD changed/VBN in/IN respect/NN of/IN his/PRP$ work/NN with/IN the/DT law/NN firm/NN and/CC it/PRP was/VBD a/DT matter/NN he/PRP would/MD have/VB to/TO discuss/VB with/IN the/DT other/JJ partners/NNS at/IN Tods/NNP Murray./NNP
+"The/NN firm/NN and/CC I/PRP have/VBP a/DT very/RB good/JJ working/JJ relationship/NN and/CC we/PRP have/VBP done/VBN for/IN the/DT last/JJ six/CD years"/NN said/VBD Mr/NNP McLetchie./NNP
+"I/NN don't/NN suppose/VBP I'll/NNP be/VB working/VBG forever/RB as/IN a/DT lawyer/NN or/CC a/DT politician./NN
+I/PRP deserve/VBP to/TO retire/VB from/IN both/DT but/CC I'm/NNP not/RB willing/JJ to/TO put/VB time/NN limits/NNS on/IN them."/NN

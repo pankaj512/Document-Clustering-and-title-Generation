@@ -1,0 +1,18 @@
+India's/NNP Reliance/NNP family/NN feud/NN heats/VBZ up/RP
+
+The/DT ongoing/JJ public/JJ spat/NN between/IN the/DT two/CD heirs/NNS of/IN India's/NNP biggest/JJS conglomerate/NN Reliance/NNP Group/NNP has/VBZ spilled/VBN over/RP to/TO the/DT board/NN meeting/NN of/IN a/DT leading/VBG company/NN within/IN the/DT group./NN
+
+Anil/NNP Ambani/NNP vice-chairman/JJ of/IN India/NNP Petrochemicals/NNS Limited/NNP (IPCL)/NN stayed/VBD away/RB from/IN a/DT gathering/NN of/IN senior/JJ managers/NNS on/IN Thursday./NNP
+The/DT move/NN follows/VBZ a/DT decision/NN earlier/RBR this/DT month/NN by/IN Anil/NNP -/: the/DT younger/JJR brother/NN of/IN Reliance/NNP Group/NNP president/NN Mukesh/NNP Ambani/NNP -/: to/TO resign/VB from/IN his/PRP$ post./NN
+His/PRP$ resignation/NN was/VBD not/RB accepted/VBN by/IN his/PRP$ brother/NN who/WP is/VBZ also/RB the/DT boss/NN of/IN IPCL./NNP
+The/DT IPCL/NNP board/NN met/VBD in/IN Mumbai/NNP to/TO discuss/VB the/DT company's/NNS results/NNS for/IN the/DT October-to-December/NNP quarter./NN
+
+It/PRP is/VBZ understood/VBN that/IN the/DT board/NN also/RB considered/VBN Anil's/NNP resignation/NN and/CC asked/VBD him/PRP to/TO reconsider/VB his/PRP$ decision./NN
+However/RB Anil's/NNP demand/NN that/IN Anand/NNP Jain/NNP -/: another/DT IPCL/NNP board/NN member/NN accused/VBN by/IN Anil/NNP of/IN creating/VBG a/DT rift/NN in/IN the/DT Ambani/NNP family/NN -/: be/VB thrown/VBN out/RP was/VBD not/RB met./NN
+Anil/NNP has/VBZ accused/VBN Anand/NNP Jain/NNP a/DT confidant/NN of/IN his/PRP$ brother/NN Mukesh/NNP of/IN playing/VBG a/DT negative/JJ role/NN in/IN the/DT Ambani/NNP family/NN and/CC being/VBG responsible/JJ for/IN the/DT trouble/NN between/IN the/DT brothers./NN
+On/IN Wednesday/NNP the/DT board/NN of/IN Reliance/NNP Energy/NNP another/DT Reliance/NNP Group/NNP company/NN reaffirmed/VBD its/PRP$ faith/NN in/IN Anil/NNP who/WP is/VBZ the/DT company's/NNS chief./NN
+Reliance/NNP Group/NNP acquired/VBD the/DT government's/NNS 26%/CD stake/NN in/IN IPCL/NNP -/: India's/NNP second-largest/JJ petrochemicals/NNS company/NN -/: in/IN 2002/CD as/IN part/NN of/IN the/DT privatisation/NN drive./NN
+Meanwhile/RB the/DT group's/NNS flagship/NN company/NN Reliance/NNP Industries/NNPS has/VBZ its/PRP$ board/NN meeting/NN on/IN Friday/NNP to/TO consider/VB its/PRP$ financial/JJ results./NN
+Mukesh/NNP is/VBZ the/DT company's/NNS chairman/NN and/CC Anil/NNP its/PRP$ deputy/NN and/CC it/PRP is/VBZ expected/VBN that/IN both/DT brothers/NNS will/MD come/VB face/NN to/TO face/VB in/IN the/DT meeting./NN
+The/DT Ambani/NNP family/NN controls/NNS 48%/CD of/IN the/DT group/NN which/WDT is/VBZ worth/JJ $17bn/CD (£9.1bn/CD 745bn/CD Indian/JJ rupees)./NN
+It/PRP was/VBD founded/VBN by/IN their/PRP$ father/NN Dhiru/NNP Bhai/NNP Ambani/NNP who/WP died/VBD two/CD years/NNS ago./NN

@@ -1,0 +1,25 @@
+Tutu's/NNP Guantanamo/NNP release/NN call/NN
+
+Archbishop/NNP Desmond/NNP Tutu/NNP has/VBZ called/VBN for/IN the/DT release/NN of/IN the/DT remaining/VBG inmates/NNS at/IN Guantanamo/NNP Bay/NNP and/CC terror/NN suspects/VBZ detained/VBN without/IN trial/NN in/IN the/DT UK./NNP
+
+His/PRP$ comments/NNS follow/VBP news/NN that/IN all/DT four/CD Britons/NNP held/VBN by/IN the/DT US/PRP in/IN the/DT Cuban/JJ camp/NN will/MD be/VB freed/VBN within/IN weeks./NN
+The/DT South/JJ African/JJ archbishop/NN said/VBD detentions/NNS without/IN trial/NN were/VBD "unacceptable"/NN and/CC "distressing"./NN
+Twelve/CD foreign/JJ nationals/NNS are/VBP being/VBG held/VBN indefinitely/RB without/IN trial/NN in/IN the/DT UK/NNP under/IN anti-terror/JJ laws./NN
+Referring/VBG to/TO the/DT detentions/NNS in/IN Cuba/NNP Archbishop/NNP Tutu/NNP told/VBD BBC/NNP News/NNP "It/NN is/VBZ utterly/RB unacceptable./NN
+"The/NN rule/NN of/IN law/NN is/VBZ in/IN order/NN to/TO ensure/VB that/IN those/DT who/WP have/VBP power/NN don't/NN use/VBP their/PRP$ power/NN arbitrarily/RB and/CC every/DT person/NN retains/VBZ their/PRP$ human/JJ rights/NNS until/IN you/PRP have/VBP proven/VBN conclusively/RB that/IN so-and-so/JJ is/VBZ in/IN fact/NN guilty."/NN
+
+Moazzam/NNP Begg/NNP from/IN Birmingham/NNP and/CC Martin/NNP Mubanga/NNP Richard/NNP Belmar/NNP and/CC Feroz/NNP Abbasi/NNP from/IN London/NNP have/VBP been/VBN held/VBN by/IN the/DT US/PRP at/IN Guantanamo/NNP Bay/NNP for/IN almost/RB three/CD years./NN
+On/IN Tuesday/NNP Foreign/NNP Secretary/NNP Jack/NNP Straw/NNP told/VBD the/DT Commons/NNPS that/IN the/DT US/PRP had/VBD agreed/VBN to/TO release/VB the/DT four/CD after/IN "intensive/JJ and/CC complex/JJ discussions"/NN over/IN security./NN
+The/DT Britons/NNP were/VBD detained/VBN as/IN part/NN of/IN the/DT US-led/JJ "war/NN on/IN terror"./NN
+The/DT archbishop/NN added/VBD "Whilst/NN we/PRP are/VBP saying/VBG thank/NN you/PRP that/IN these/DT have/VBP been/VBN released/VBN what/WP is/VBZ happening/VBG to/TO those/DT left/VBN behind?/NN "We/NN in/IN South/NNP Africa/NNP used/VBD to/TO have/VB a/DT dispensation/NN that/WDT detained/VBD people/NNS without/IN trial/NN and/CC the/DT world/NN quite/RB rightly/RB condemned/VBN that/IN as/IN unacceptable./NN
+
+"Now/NN if/IN it/PRP was/VBD unacceptable/JJ then/RB how/WRB come/VB it/PRP can/MD be/VB acceptable/JJ to/TO Britain/NNP and/CC the/DT United/NNP States./NNP
+It/PRP is/VBZ so/RB so/RB deeply/RB distressing."/JJ Following/NN Mr/NNP Straw's/NNP announcement/NN lawyer/NN Louise/NNP Christian/NNP who/WP represents/VBZ Mr/NNP Abbasi/NNP and/CC Mr/NNP Mubanga/NNP said/VBD the/DT government/NN should/MD have/VB acted/VBN sooner./NN
+Foreign/JJ nationals/NNS detained/VBD in/IN the/DT UK/NNP are/VBP being/VBG held/VBN at/IN Belmarsh/NNP and/CC Woodhill/NNP prisons./NN
+In/IN December/NNP the/DT House/NNP of/IN Lords/NNPS the/DT UK's/NNP highest/JJS court/NN ruled/VBD that/IN the/DT anti-terror/JJ measures/NNS broke/VBD human/JJ rights/NNS laws./NN
+But/CC the/DT men/NNS are/VBP still/RB behind/IN bars./NN
+
+Archbishop/NNP Tutu/NNP criticised/VBD the/DT measures/NNS saying/VBG "I/NN am/VBP opposed/VBN to/TO any/DT arbitrary/JJ detention/NN that/WDT is/VBZ happening/VBG even/RB in/IN Britain."/NNP Shami/NNP Chakrabarti/NNP director/NN of/IN civil/JJ rights/NNS group/NN Liberty/NNP has/VBZ called/VBN on/IN the/DT government/NN to/TO "practise/VB what/WP it/PRP preaches"/NN and/CC either/CC free/JJ or/CC charge/VB the/DT detained/JJ men./NN
+But/CC the/DT Home/NNP Office/NNP defended/VBD the/DT measures./NN
+A/DT spokesman/NN said/VBD "These/NN individuals/NNS cannot/NN currently/RB be/VB prosecuted/VBN because/IN some/DT evidence/NN such/JJ as/IN that/DT provided/VBD by/IN third/JJ parties/NNS cannot/NN safely/RB be/VB disclosed/VBN in/IN criminal/JJ proceedings/NNS without/IN putting/VBG others/NNS at/IN risk./NN
+"It/NN is/VBZ also/RB currently/RB the/DT case/NN that/DT intelligence/NN gained/VBD from/IN covert/JJ intercepts/NNS cannot/NN be/VB used/VBN in/IN a/DT court/NN of/IN law."/NN

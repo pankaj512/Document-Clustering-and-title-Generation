@@ -1,0 +1,22 @@
+DVD/NNP copy/NN protection/NN strengthened/VBD
+
+DVDs/NNP will/MD be/VB harder/JJR to/TO copy/VB thanks/NNS to/TO new/JJ anti-piracy/JJ measures/NNS devised/VBN by/IN copy/NN protection/NN firm/NN Macrovision./NNP
+
+The/DT pirated/VBN DVD/NNP market/NN is/VBZ enormous/JJ because/IN current/JJ copy/NN protection/NN was/VBD hacked/VBN more/RBR than/IN five/CD years/NNS ago./NN
+Macrovision/NNP says/VBZ its/PRP$ new/JJ RipGuard/NNP technology/NN will/MD thwart/VB most/JJS but/CC not/RB all/DT of/IN the/DT current/JJ DVD/NNP ripping/VBG (copying)/NN programs/NNS used/VBN to/TO pirate/VB DVDs./NNP
+"RipGuard/NN is/VBZ designed/VBN to.../NN
+reduce/VB DVD/NNP ripping/VBG and/CC the/DT resulting/VBG supply/NN of/IN illegal/JJ peer/NN to/TO peer"/VB said/VBD the/DT firm./NN
+Macrovision/NNP said/VBD the/DT new/JJ technology/NN will/MD work/VB in/IN "nearly/RB all"/NN current/JJ DVD/NNP players/NNS when/WRB applied/VBN to/TO the/DT discs/NNS but/CC it/PRP did/VBD not/RB specify/VB how/WRB many/JJ machines/NNS could/MD have/VB a/DT problem/NN with/IN RipGuard./NNP
+The/DT new/JJ technology/NN will/MD be/VB welcomed/VBN by/IN Hollywood/NNP film/NN studios/NNS which/WDT are/VBP increasingly/RB relying/VBG on/IN revenue/NN from/IN DVD/NNP sales./NN
+
+The/DT film/NN industry/NN has/VBZ stepped/VBN up/RP efforts/NNS to/TO fight/VB DVD/NNP piracy/NN in/IN the/DT last/JJ 12/CD months/NNS taking/VBG legal/JJ action/NN against/IN websites/NNS which/WDT offer/NN pirated/VBN copies/NNS of/IN DVD/NNP movies/NNS for/IN download./NN
+
+"Ultimately/RB we/PRP see/VBP RipGuard/NNP DVD.../NNP
+evolving/VBG beyond/IN anti-piracy/JJ and/CC towards/IN enablement/NN of/IN legitimate/JJ online/NN transactions/NNS interoperability/JJ in/IN tomorrow's/NNS digital/JJ home/NN and/CC the/DT upcoming/VBG high-definition/JJ formats"/NN said/VBD Steve/NNP Weinstein/NNP executive/JJ vice/NN president/NN and/CC general/JJ manager/NN of/IN Macrovision's/NNP Entertainment/NNP Technologies/NNPS Group./NNP
+Macrovision/NNP said/VBD RipGuard/NNP was/VBD designed/VBN to/TO plug/VB the/DT "digital/JJ hole"/NN that/WDT was/VBD created/VBN by/IN so-called/JJ DeCSS/NNP ripper/NN software./NN
+It/PRP circumvents/VBZ Content/NN Scrambling/VBG System/NNP measures/NNS placed/VBN on/IN DVDs/NNP and/CC let/VB people/NNS make/VB perfect/JJ digital/JJ copies/NNS of/IN copyrighted/VBN DVDs/NNP in/IN minutes./NN
+Those/DT copies/NNS could/MD then/RB be/VB burned/VBN onto/IN a/DT blank/JJ DVD/NNP or/CC uploaded/VBN for/IN exchange/NN to/TO a/DT peer-to-peer/JJ network./NN
+Macrovision/NNP said/VBD RipGuard/NNP would/MD also/RB prevent/VB against/IN "rent/NN rip/NN and/CC return"/NN -/: where/WRB people/NNS would/MD rent/VB a/DT DVD/NNP copy/NN it/PRP and/CC then/RB return/VB the/DT original./NN
+RipGuard/NNP is/VBZ expected/VBN to/TO be/VB rolled/VBN out/RP on/IN DVDs/NNP from/IN the/DT middle/NN of/IN 2005/CD the/DT company/NN said./NN
+The/DT new/JJ system/NN works/VBZ specifically/RB to/TO block/VB most/JJS ripping/JJ programs/NNS -/: if/IN used/VBN those/DT programs/NNS will/MD now/RB most/RBS likely/JJ crash/NN the/DT company/NN said./NN
+Macrovision/NNP has/VBZ said/VBN that/IN Rip/NNP Guard/NNP can/MD be/VB updated/VBN if/IN hackers/NNS find/VBP a/DT way/NN around/IN the/DT new/JJ anti-copying/JJ measures./NN

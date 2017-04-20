@@ -1,0 +1,11 @@
+Mitsubishi/NNP in/IN Peugeot/NNP link/NN talks/NNS
+
+Trouble-hit/NNP Mitsubishi/NNP Motors/NNPS is/VBZ in/IN talks/NNS with/IN French/JJ carmaker/NN PSA/NNP Peugeot/NNP Citroen/NNP about/IN a/DT possible/JJ alliance./NN
+
+On/IN Tuesday/NNP Mitsubishi/NNP the/DT only/JJ major/JJ Japanese/JJ car/NN firm/NN in/IN the/DT red/NN confirmed/VBD earlier/JJR reports/NNS of/IN negotiations./NN
+But/CC a/DT spokesman/NN refused/VBD to/TO comment/VB on/IN speculation/NN that/IN Mitsubishi/NNP could/MD end/VB up/RP building/NN cars/NNS for/IN PSA/NNP and/CC perhaps/RB its/PRP$ Japanese/JJ rival/JJ Nissan./NNP
+Mitsubishi/NNP has/VBZ been/VBN hit/VBN by/IN a/DT recall/NN scandal/NN and/CC the/DT withdrawal/NN of/IN support/NN from/IN shareholder/NN DaimlerChrysler./NNP
+The/DT US-German/NNP firm/NN once/RB a/DT majority/NN shareholder/NN decided/VBD last/JJ April/NNP to/TO stop/VB providing/VBG financial/JJ backing./NN
+Mitsubishi's/NN sales/NNS have/VBP slid/VBN 41%/CD in/IN the/DT past/JJ year/NN catalysed/VBN by/IN the/DT revelation/NN that/IN the/DT company/NN had/VBD systematically/RB been/VBN hiding/VBG records/NNS of/IN faults/NNS and/CC then/RB secretly/RB repairing/VBG vehicles./NN
+Mitsubishi/NNP is/VBZ due/JJ to/TO unveil/VB a/DT recovery/NN plan/NN later/RB in/IN January./NNP
+Analysts/NNS said/VBD that/IN alliances/NNS with/IN other/JJ carmakers/NNS would/MD be/VB a/DT necessary/JJ part/NN of/IN whatever/WDT it/PRP came/VBD up/RP with/IN not/RB least/JJS because/IN its/PRP$ own/JJ slow/JJ sales/NNS have/VBP left/VBN its/PRP$ manufacturing/NN capacity/NN under-used./JJ

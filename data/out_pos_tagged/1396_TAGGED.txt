@@ -1,0 +1,8 @@
+Johnson/NNP too/RB strong/JJ for/IN GB/NNP runners/NNS
+
+Britain's/NNP Kathy/NNP Butler/NNP and/CC Hayley/NNP Yelling/VBG were/VBD no/DT match/NN for/IN Benita/NNP Johnson/NNP in/IN the/DT 51st/CD Cross/NNP International/NNP Zornotza/NNP in/IN Amorebieta/NNP Spain./NNP
+
+Butler/NNP and/CC Yelling/VBG finished/VBD fourth/JJ and/CC fifth/JJ as/IN Australian/JJ world/NN champion/NN Johnson/NNP romped/VBD to/TO a/DT five-second/JJ victory/NN in/IN the/DT 6km/CD race/NN ahead/RB of/IN Edith/NNP Masai./NNP
+Masai's/NNP fellow/JJ Kenyan/NNP Alice/NNP Timbilil/NNP finished/VBD third./NN
+Johnson/NNP said/VBD "I/NN ran/VBD comfortably/RB for/IN the/DT first/JJ 3km/CD and/CC then/RB I/PRP tried/VBD to/TO leave/VB the/DT others/NNS but/CC it/PRP wasn't/NN an/DT easy/JJ task."/NN Butler/NNP clocked/VBD a/DT time/NN of/IN 22/CD minutes/NNS 45/CD seconds/NNS -/: 22secs/CD behind/IN the/DT winner/NN but/CC four/CD ahead/RB of/IN Yelling/VBG who/WP last/JJ month/NN succeeded/VBN Paula/NNP Radcliffe/NNP as/IN European/JJ champion./NN
+Johnson/NNP will/MD be/VB one/CD of/IN the/DT star/NN attractions/NNS at/IN the/DT Great/NNP EdinburghInternational/NNP Cross/NNP Country/NNP on/IN 15/CD January./NNP

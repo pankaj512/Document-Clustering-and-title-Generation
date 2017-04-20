@@ -1,0 +1,18 @@
+Lufthansa/NNP may/MD sue/VB over/IN Bush/NNP visit/NN
+
+German/JJ airline/NN Lufthansa/NNP may/MD sue/VB federal/JJ agencies/NNS for/IN damages/NNS after/IN the/DT arrival/NN of/IN US/PRP president/VBP George/NNP W/NNP Bush/NNP disrupted/VBD flights./NN
+
+Lufthansa/NNP said/VBD that/IN it/PRP may/MD lose/VB millions/NNS of/IN euros/NNS as/IN a/DT result/NN of/IN Air/NNP Force/NNP One/CD landing/NN at/IN Frankfurt/NNP airport./NN
+Flights/NNS were/VBD affected/VBN for/IN an/DT hour/NN on/IN Wednesday/NNP morning/NN double/JJ the/DT time/NN that/WDT had/VBD been/VBN expected/VBN leading/VBG to/TO cancellations/NNS and/CC delays./NN
+Lufthansa/NN accounts/VBZ for/IN six/CD out/IN of/IN every/DT 10/CD planes/NNS using/VBG Frankfurt's/NNP airport./NN
+
+"We/NN are/VBP doing/VBG research/NN into/IN the/DT possibilities/NNS we/PRP have"/VBP Michael/NNP Lamberty/NNP a/DT Lufthansa/NNP spokesman/NN told/VBD the/DT BBC./NNP
+"We/NN are/VBP checking/NN if/IN there/EX is/VBZ action/NN to/TO be/VB taken/VBN and/CC in/IN which/WDT courts/NNS it/PRP could/MD be/VB taken."/NN Mr/NNP Lamberty/NNP explained/VBD that/IN the/DT company/NN did/VBD not/RB plan/VB to/TO pursue/VB Germany's/NNP air/NN traffic/NN controllers'/NN organisation/NN or/CC the/DT airport/NN authority/NN but/CC wanted/VBD instead/RB to/TO see/VB if/IN it/PRP was/VBD possible/JJ to/TO sue/VB the/DT German/JJ federal/JJ agencies/NNS that/WDT gave/VBD the/DT orders./NN
+The/DT company/NN said/VBD that/IN it/PRP had/VBD to/TO cancel/VB 77/CD short/JJ and/CC medium-distance/JJ flights/NNS affecting/VBG about/IN 5000/CD passengers./NN
+Long-haul/JJ travellers/NNS were/VBD not/RB disrupted./JJ
+
+Central/NN to/TO the/DT problem/NN was/VBD that/IN instead/RB of/IN half/PDT an/DT hour/NN the/DT arrival/NN of/IN President/NNP Bush/NNP on/IN the/DT German/NNP leg/NN of/IN his/PRP$ European/JJ tour/NN took/VBD the/DT best/JJS part/NN of/IN an/DT hour/NN Lufthansa/NNP said./NN
+During/IN that/DT time/NN restrictions/NNS were/VBD put/VBN on/IN planes/NNS taxiing/VBG taking/VBG off/RP and/CC landing/NN at/IN Frankfurt's/NNP Rhein-Main/NNP airport./NN
+The/DT extra/JJ time/NN taken/VBN by/IN President/NNP Bush/NNP and/CC his/PRP$ entourage/NN meant/VBN that/IN there/EX was/VBD a/DT knock-on/JJ effect/NN that/WDT led/VBD to/TO significant/JJ delays./NN
+Mr/NNP Lamberty/NNP said/VBD that/IN 92/CD outgoing/JJ flights/NNS and/CC 86/CD income/NN flights/NNS were/VBD delayed/VBN by/IN an/DT average/NN of/IN an/DT hour/NN following/VBG President/NNP Bush's/NNP arrival/NN affecting/VBG almost/RB 17000/CD passengers./NN
+Despite/IN the/DT problems/NNS Mr/NNP Lamberty/NNP said/VBD that/IN it/PRP was/VBD not/RB certain/JJ that/IN Lufthansa/NNP would/MD take/VB legal/JJ action./NN

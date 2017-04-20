@@ -1,0 +1,12 @@
+Parker's/NNP saxophone/NN heads/VBZ auction/NN
+
+A/DT saxophone/NN belonging/VBG to/TO legendary/JJ jazz/NN musician/NN Charlie/NNP Parker/NNP is/VBZ expected/VBN to/TO fetch/VB up/IN to/TO $1m/CD (£535000)/CD at/IN an/DT auction/NN of/IN jazz/NN memorabilia/NNS next/IN month./NN
+
+The/DT sale/NN at/IN Guernsey's/NNP Auction/NN House/NNP in/IN New/NNP York/NNP will/MD feature/VB instruments/NNS from/IN other/JJ musicians/NNS including/VBG John/NNP Coltrane/NNP and/CC Benny/NNP Goodman./NNP
+Other/JJ items/NNS will/MD include/VB an/DT evening/NN gown/NN belonging/VBG to/TO Ella/NNP Fitzgerald./NNP
+Organisers/NNP said/VBD the/DT auction/NN was/VBD the/DT first/JJ in/IN the/DT US/PRP to/TO be/VB devoted/VBN to/TO items/NNS belonging/VBG to/TO jazz/VB musicians./NN
+
+Other/JJ items/NNS that/WDT will/MD be/VB auctioned/VBN include/VBP unreleased/VBN tape/NN recordings/NNS of/IN music/NN by/IN Parker/NNP as/RB well/RB as/IN handwritten/JJ sheet/NN music/NN by/IN jazz/NN composers/NNS John/NNP Coltrane/NNP and/CC Theolonius/NNP Monk./NNP
+Among/IN the/DT instruments/NNS in/IN the/DT sale/NN will/MD be/VB a/DT trumpet/NN which/WDT belonged/VBD to/TO Dizzy/NNP Gillespie/NNP which/WDT is/VBZ expected/VBN to/TO fetch/VB around/IN $500000/CD (£267000)/CD as/RB well/RB as/IN JJ/NNP Johnson's/NNP trombone/NN and/CC a/DT vibraphone/NN which/WDT beloned/VBD to/TO Lionel/NNP Hampton./NNP
+Works/NNP of/IN art/NN by/IN musicians/NNS including/VBG Miles/NNP Davis/NNP and/CC Bruni/NNP Sablan/NNP will/MD also/RB be/VB featured./NN
+The/DT proceeds/NNS from/IN the/DT auction/NN which/WDT will/MD take/VB place/NN on/IN 20/CD February/NNP will/MD go/VB towards/IN several/JJ organisations/NNS including/VBG the/DT John/NNP Coltrane/NNP Foundation/NNP a/DT foundation/NN set/VBD up/RP in/IN memory/NN of/IN Benny/NNP Goodman/NNP and/CC the/DT Red/NNP Cross./NNP

@@ -1,0 +1,24 @@
+Nuclear/NNP body/NN seeks/VBZ new/JJ tech/NN
+
+The/DT computer/NN systems/NNS used/VBN to/TO monitor/VB the/DT world's/NNS nuclear/JJ power/NN installations/NNS are/VBP so/RB outdated/JJ that/IN they/PRP are/VBP hampering/VBG the/DT work/NN of/IN inspectors./NN
+
+A/DT spokesman/NN for/IN the/DT International/NNP Atomic/JJ Energy/NNP Agency/NNP (IAEA)/NN said/VBD its/PRP$ current/JJ technology/NN could/MD allow/VB key/JJ information/NN to/TO be/VB overlooked/VBN as/IN it/PRP was/VBD more/JJR than/IN 20/CD years/NNS old./NN
+Such/JJ systems/NNS are/VBP the/DT only/JJ method/NN of/IN tracking/VBG nuclear/JJ material/NN worldwide./NN
+The/DT agency/NN has/VBZ appealed/VBN for/IN more/JJR funds/NNS to/TO update/VB its/PRP$ hardware/NN and/CC software./NN
+"A/NN major/JJ overhaul/NN of/IN the/DT system/NN is/VBZ needed/VBN to/TO allow/VB inspectors/NNS immediate/JJ secure/NN online/NN access/NN to/TO information"/NN said/VBD project/NN manager/NN Livio/NNP Costantini./NNP
+
+IAEA/NN inspectors/NNS make/VBP around/IN 3000/CD visits/NNS a/DT year/NN to/TO more/JJR than/IN 900/CD nuclear/JJ facilities/NNS worldwide./NN
+They/PRP are/VBP there/RB to/TO verify/VB official/JJ reports/NNS of/IN activities/NNS in/IN the/DT plants/NNS to/TO carry/VB out/RP environmental/JJ checks/NNS and/CC also/RB to/TO look/VB for/IN any/DT signs/NNS that/IN nuclear/JJ material/NN is/VBZ being/VBG smuggled/VBN in/IN or/CC out/IN of/IN the/DT facility./NN
+
+The/DT computer/NN system/NN inspectors/NNS currently/RB use/VBP for/IN comparing/VBG data/NNS from/IN earlier/JJR visits/NNS for/IN instance/NN was/VBD built/VBN in/IN the/DT 1970s/NNS and/CC largely/RB paper/NN based./NN
+An/DT IAEA/NNP spokesman/NN said/VBD this/DT was/VBD extremely/RB inefficient/JJ and/CC makes/VBZ searching/VBG for/IN anomalies/NNS like/IN searching/VBG for/IN a/DT needle/NN in/IN a/DT haystack./NN
+The/DT organisation/NN is/VBZ aiming/VBG to/TO start/VB a/DT system/NN upgrade/VBP in/IN November/NNP aiming/VBG to/TO provide/VB inspectors/NNS in/IN the/DT field/NN with/IN secure/NN online/NN access/NN to/TO previous/JJ inspection/NN data/NNS design/NN blueprints/NNS of/IN nuclear/JJ facilities/NNS even/RB satellite/VBP images/NNS of/IN the/DT plant./NN
+Where/WRB possible/JJ it/PRP hopes/VBZ to/TO link/VB the/DT system/NN with/IN national/JJ records/NNS of/IN the/DT import/NN and/CC export/NN of/IN nuclear/JJ materials./NN
+Further/RB analysis/NN of/IN these/DT could/MD help/VB spot/VB potential/JJ smuggling/NN activities/NNS or/CC illicit/JJ technology/NN transfers/NNS between/IN countries/NNS according/VBG to/TO a/DT spokesman./NN
+
+Computer/NNP specialist/NN at/IN the/DT IAEA/NNP Peter/NNP Smith/NNP would/MD like/VB to/TO be/VB able/JJ to/TO incorporate/VB state/NN of/IN the/DT art/NN visualisation/NN techniques/NNS more/RBR familiar/JJ to/TO video/VB games/NNS players/NNS into/IN the/DT inspector's/NNS toolkit./NN
+"The/NN commercials/NNS you/PRP now/RB see/VBP have/VBP people/NNS are/VBP moving/VBG around/RB in/IN a/DT virtual/JJ world"/NN he/PRP said./VB
+"If/NN we/PRP could/MD have/VB that/IN on/IN our/PRP$ laptops/NNS we/PRP could/MD be/VB walking/VBG through/IN the/DT plant/NN seeing/VBG on/IN the/DT laptop/NN how/WRB the/DT plant/NN should/MD look./VB
+"And/NN if/IN there's/NNS a/DT door/NN in/IN the/DT wall/NN that/WDT is/VBZ not/RB on/IN our/PRP$ laptop/NN then/RB we/PRP have/VBP a/DT problem."/NN The/DT IAEA/NNP estimates/VBZ the/DT total/JJ cost/NN of/IN the/DT four-year/JJ project/NN to/TO upgrade/VB its/PRP$ technology/NN will/MD be/VB $40m./CD
+So/RB far/RB it/PRP has/VBZ only/RB received/VBN $11m/CD from/IN the/DT US/PRP and/CC the/DT UK./NNP
+"Failure/NN to/TO replace/VB the/DT hardware/NN and/CC software/NN and/CC to/TO integrate/VB fully/RB all/PDT the/DT information/NN system/NN components/NNS will/MD carry/VB large/JJ risks"/NN said/VBD an/DT agency/NN statement./NN

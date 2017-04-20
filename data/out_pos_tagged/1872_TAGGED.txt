@@ -1,0 +1,21 @@
+'No/NN re-draft'/JJ for/IN EU/NNP patent/NN law/NN
+
+A/DT proposed/VBN European/JJ law/NN on/IN software/NN patents/NNS will/MD not/RB be/VB re-drafted/JJ by/IN the/DT European/NNP Commission/NNP (EC)/NN despite/IN requests/NNS by/IN MEPs./NNP
+
+The/DT law/NN is/VBZ proving/VBG controversial/JJ and/CC has/VBZ been/VBN in/IN limbo/NN for/IN a/DT year./NN
+Some/DT major/JJ tech/NN firms/NNS say/VBP it/PRP is/VBZ needed/VBN to/TO protect/VB inventions/NNS while/IN others/NNS fear/VBP it/PRP will/MD hurt/VB smaller/JJR tech/NN firms/NNS The/DT EC/NNP says/VBZ the/DT Council/NNP of/IN Ministers/NNS will/MD adopt/VB a/DT draft/NN version/NN that/WDT was/VBD agreed/VBN upon/IN last/JJ May/NNP but/CC said/VBD it/PRP would/MD review/VB "all/NN aspects/NNS of/IN the/DT directive"./NN
+The/DT directive/NN is/VBZ intended/VBN to/TO offer/VB patent/NN protection/NN to/TO inventions/NNS that/WDT use/VBP software/NN to/TO achieve/VB their/PRP$ effect/NN in/IN other/JJ words/NNS "computer/NN implemented/VBD invention"./NN
+
+In/IN a/DT letter/NN EC/NNP President/NNP Jos&#233/CD Manuel/NNP Barroso/NNP told/VBD the/DT President/NNP of/IN the/DT European/NNP Parliament/NNP Josep/NNP Borrell/NNP that/IN the/DT Commission/NNP "did/NN not/RB intend/VB to/TO refer/VB a/DT new/JJ proposal/NN to/TO the/DT Parliament/NNP and/CC the/DT Council/NNP (of/NN ministers)"/NN as/IN it/PRP had/VBD supported/VBN the/DT agreement/NN reached/VBN by/IN ministers/NNS in/IN May/NNP 2004./CD
+
+If/IN the/DT European/NNP Council/NNP agrees/VBZ on/IN the/DT draft/NN directive/NN it/PRP will/MD then/RB return/VB for/IN a/DT second/JJ reading/NN at/IN the/DT European/NNP Parliament./NNP
+But/CC that/DT will/MD not/RB guarantee/VB that/IN the/DT directive/NN will/MD become/VB law/NN -/: instead/RB it/PRP will/MD probably/RB mean/VB further/JJ delays/NNS and/CC controversy/NN over/IN the/DT directive./NN
+Most/JJS EU/NNP legislation/NN now/RB needs/VBZ the/DT approval/NN of/IN both/DT parliament/NN and/CC the/DT Council/NNP of/IN Ministers/NNS before/IN it/PRP becomes/VBZ law./NN
+French/JJ Green/NNP MEP/NNP Alain/NNP Lipietz/NNP warned/VBD two/CD weeks/NNS ago/RB that/IN if/IN the/DT Commission/NNP ignored/VBD the/DT Parliament's/NNP request/NN it/PRP would/MD be/VB an/DT "insult"/NN to/TO the/DT assembly./NN
+He/PRP said/VBD that/IN the/DT parliament/NN would/MD then/RB reject/VB the/DT Council's/NNP version/NN of/IN the/DT legislation/NN as/IN part/NN of/IN the/DT final/JJ or/CC conciliation/NN stage/NN of/IN the/DT decision/NN procedure./NN
+In/IN the/DT US/PRP the/DT patenting/NN of/IN computer/NN programs/NNS and/CC internet/JJ business/NN methods/NNS is/VBZ permitted./NN
+
+This/DT means/VBZ that/IN the/DT US-based/JJ Amazon.com/NNP holds/VBZ a/DT patent/NN for/IN its/PRP$ "one-click/JJ shopping"/NN service/NN for/IN example./NN
+Critics/NNS are/VBP concerned/VBN that/IN the/DT directive/NN could/MD lead/VB to/TO a/DT similar/JJ model/NN happening/VBG in/IN Europe./NNP
+This/DT they/PRP fear/VBP could/MD hurt/VB small/JJ software/NN developers/NNS because/IN they/PRP do/VBP not/RB have/VB the/DT legal/JJ and/CC financial/JJ might/MD of/IN larger/JJR companies/NNS if/IN they/PRP had/VBD to/TO fight/VB patent/NN legal/JJ action/NN in/IN court./NN
+Supporters/NNS say/VBP current/JJ laws/NNS are/VBP inefficient/JJ and/CC it/PRP would/MD serve/VB to/TO even/RB up/IN a/DT playing/NN field/NN without/IN bringing/VBG EU/NNP laws/NNS in/IN line/NN with/IN the/DT US./NNP

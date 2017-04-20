@@ -1,0 +1,11 @@
+Rochus/NNP shocks/NNS Coria/NNP in/IN Auckland/NNP
+
+Top/JJ seed/NN Guillermo/NNP Coria/NNP went/VBD out/IN of/IN the/DT Heineken/NNP Open/NNP in/IN Auckland/NNP on/IN Thursday/NNP with/IN a/DT surprise/NN loss/NN to/TO Olivier/NNP Rochus/NNP of/IN Belgium./NNP
+
+Coria/NNP lost/VBD the/DT semi-final/JJ 6-4/JJ 6-4/JJ to/TO Rochus/NNP who/WP goes/VBZ on/IN to/TO face/VB Czech/JJ Jan/NNP Hernych/NNP a/DT 6-4/JJ 7-5/JJ winner/NN over/IN Jose/NNP Acasuso/NNP of/IN Argentina./NNP
+Fifth/NNP seed/NN Fernando/NNP Gonzalez/NNP eased/VBD past/JJ American/NNP Robby/NNP Ginepri/NNP 6-3/JJ 6-4./JJ
+The/DT Chilean/NN will/MD meet/VB sixth/JJ seed/NN Juan/NNP Ignacio/NNP Chela/NNP next/JJ after/IN the/DT Argentine/JJ beat/NN Potito/NNP Starace/NNP 6-1/JJ 7-6/JJ (7-5)./JJ
+Rochus/NNP made/VBD the/DT semi-finals/NNS at/IN the/DT Australian/JJ hardcourt/NN championships/NNS in/IN Adelaide/NNP last/JJ week/NN and/CC is/VBZ naturally/RB delighted/JJ with/IN his/PRP$ form./NN
+"It's/NN been/VBD two/CD unbelievable/JJ weeks/NNS for/IN me"/NN he/PRP said./VB
+"Today/NN I/PRP knew/VBD I/PRP had/VBD nothing/NN to/TO lose./VB
+If/IN I/PRP beat/VBP him/PRP great/JJ if/IN I/PRP lost/VBD I/PRP would/MD be/VB losing/VBG to/TO a/DT top-10/JJ player."/NN Coria/NNP conceded/VBD that/IN Rochus/NNP "played/VBD just/RB too/RB good"/NN and/CC added/VBD "When/NN you/PRP give/VBP your/PRP$ best/JJS out/IN there/RB you/PRP can't/VBP be/VB too/RB sad."/NN

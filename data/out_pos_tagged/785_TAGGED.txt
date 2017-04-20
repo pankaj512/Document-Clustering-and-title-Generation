@@ -1,0 +1,44 @@
+The/DT Producers/NNPS scoops/VBZ stage/NN awards/NNS
+
+The/DT Producers/NNPS has/VBZ beaten/VBN Mary/NNP Poppins/NNP in/IN the/DT battle/NN of/IN the/DT blockbuster/NN West/NNP End/NN musicals/NNS at/IN the/DT Olivier/NNP Awards./NNP
+
+The/DT Producers/NNPS won/VBD three/CD prizes/NNS at/IN the/DT UK's/NNP most/RBS prestigious/JJ annual/JJ theatre/FW awards/NNS while/IN Mary/NNP Poppins/NNP won/VBD two./NN
+Mel/NNP Brooks'/NNP hit/VBD show/NN triumphed/VBD in/IN the/DT battle/NN for/IN best/JJS new/JJ musical/JJ where/WRB it/PRP was/VBD up/RB against/IN Mary/NNP Poppins/NNP and/CC Andrew/NNP Lloyd/NNP Webber's/NNP The/DT Woman/NNP in/IN White./NNP
+Alan/NNP Bennett's/NNP The/DT History/NNP Boys/NNPS was/VBD the/DT big/JJ winner/NN in/IN the/DT straight/JJ theatre/FW categories/NNS picking/VBG up/RP three/CD trophies./NN
+But/CC all/DT eyes/NNS were/VBD on/IN the/DT musical/JJ prizes/NNS after/IN The/DT Producers/NNPS Mary/NNP Poppins/NNP and/CC The/DT Woman/NNP in/IN White/NNP all/DT had/VBD high-profile/JJ openings/NNS in/IN the/DT last/JJ six/CD months./NN
+
+The/DT Producers'/NNP Nathan/NNP Lane/NNP a/DT last-minute/JJ replacement/NN for/IN Richard/NNP Dreyfuss/NNP beat/VB his/PRP$ former/JJ co-star/JJ Lee/NNP Evans/NNP to/TO win/VB best/JJS musical/JJ actor./NN
+Lane/NNP has/VBZ already/RB left/VBN the/DT production./NN
+A/DT smash/JJ hit/VBD on/IN Broadway/NNP before/IN moving/VBG to/TO London/NNP the/DT show/NN also/RB won/VBD best/RBS musical/JJ performance/NN in/IN a/DT supporting/VBG role/NN for/IN Conleth/NNP Hill/NNP who/WP plays/VBZ director/NN Roger/NNP DeBris./NNP
+Mary/NNP Poppins'/NNP awards/NNS came/VBD for/IN best/JJS choreography/NN and/CC best/JJS musical/JJ actress/NN for/IN its/PRP$ star/NN Laura/NNP Michelle/NNP Kelly./NNP
+It/PRP led/VBD the/DT nominations/NNS going/VBG into/IN Sunday's/NNP ceremony/NN at/IN London's/NNP Hilton/NNP hotel/NN up/RP for/IN nine/CD awards./NN
+Both/DT shows/NNS are/VBP stage/NN adaptations/NNS of/IN 1960s/NNS films./NN
+The/DT History/NNP Boys/NNPS set/VBD in/IN a/DT grammar/NN school/NN in/IN the/DT early/JJ 1980s/CD and/CC partly/RB based/VBN on/IN Bennett's/NNP experiences/NNS as/IN a/DT teacher/NN was/VBD named/VBN best/JJS new/JJ play./NN
+
+It/PRP also/RB won/VBD best/RBS actor/NN for/IN Richard/NNP Griffiths/NNP who/WP beat/VBP his/PRP$ Harry/NNP Potter/NNP film/NN co-star/JJ Michael/NNP Gambon/NNP nominated/VBD for/IN Endgame/NNP as/RB well/RB as/IN Jonathan/NNP Pryce/NNP and/CC Ben/NNP Whishaw./NNP
+The/DT play/NN also/RB won/VBD National/NNP Theatre/NNP artistic/JJ director/NN Nicholas/NNP Hytner/NNP best/JJS director/NN and/CC Bennett/NNP got/VBD a/DT special/JJ award/NN for/IN outstanding/JJ contribution/NN to/TO British/JJ theatre./NN
+Dame/NNP Judi/NNP Dench/NNP who/WP starred/VBD in/IN All's/NNP Well/RB That/DT Ends/NNS Well/RB at/IN the/DT Gielgud/NNP lost/VBD out/RP in/IN the/DT best/JJS supporting/VBG role/NN category/NN to/TO Amanda/NNP Harris/NNP who/WP played/VBD Emilia/NNP in/IN Othello/NNP for/IN the/DT Royal/NNP Shakespeare/NNP Company./NNP
+The/DT Olivier/NNP Awards/NNS have/VBP been/VBN handed/VBN out/RP by/IN the/DT Society/NNP of/IN London/NNP since/IN 1976./CD
+
+-/: Best/JJS lighting/VBG design/NN -/: His/PRP$ Dark/JJ Materials/NNPS designed/VBD by/IN Paule/NNP Constable/NNP at/IN the/DT Olivier/NNP
+-/: Best/JJS sound/NN design/NN -/: The/DT Woman/NNP in/IN White/NNP designed/VBD by/IN Mick/NNP Potter/NNP at/IN the/DT Palace/NNP
+-/: Best/JJS new/JJ opera/NN -/: Lady/NNP Macbeth/NNP of/IN Mtsensk/NNP at/IN the/DT Royal/NNP Opera/NNP House/NNP
+-/: Outstanding/JJ achievement/NN in/IN opera/NN -/: Thomas/NNP Ades/NNP and/CC the/DT Royal/NNP Opera/NNP House/NNP for/IN the/DT world/NN premiere/NN of/IN The/DT Tempest/NNP
+-/: Best/JJS costume/NN design/NN -/: All's/NNP Well/RB That/DT Ends/NNS Well/RB designed/VBN by/IN Deirdre/NNP Clancy/NNP at/IN the/DT Gielgud/NNP
+-/: Best/JJS Revival/NN -/: Hamlet/NNP by/IN William/NNP Shakespeare/NNP at/IN The/DT Old/NNP Vic/NNP
+-/: Best/JJS set/VBN design/NN -/: His/PRP$ Dark/JJ Materials/NNPS designed/VBD by/IN Giles/NNP Cadle/NNP at/IN the/DT Olivier/NNP
+-/: Outstanding/JJ musical/JJ production/NN -/: Grand/NNP Hotel/NNP at/IN the/DT Donmar/NNP Warehouse/NNP
+-/: Best/JJS supporting/VBG role/NN in/IN a/DT musical/JJ -/: Conleth/NNP Hill/NNP for/IN The/DT Producers/NNPS at/IN Theatre/NNP Royal/NNP Drury/NNP Lane/NNP
+-/: Best/JJS theatre/FW choreographer/NN -/: Matthew/NNP Bourne/NNP and/CC Stephen/NNP Mear/NNP for/IN Mary/NNP Poppins/NNP at/IN the/DT Prince/NNP Edward/NNP
+-/: Best/JJS actor/NN -/: Richard/NNP Griffiths/NNP for/IN The/DT History/NNP Boys/NNPS at/IN the/DT Lyttelton/NNP
+-/: Outstanding/JJ achievement/NN or/CC performance/NN in/IN an/DT affiliate/NN theatre/FW -/: Andrew/NNP Scott/NNP for/IN A/DT Girl/NNP in/IN A/DT Car/NNP With/IN A/DT Man/NN at/IN the/DT Jerwood/NNP Theatre/NNP Upstairs/NN at/IN the/DT Royal/NNP Court/NNP
+-/: Best/JJS new/JJ dance/NN production/NN -/: Rambert/NNP Dance/NNP Company's/NNP Swamp/VB at/IN Sadler's/NNP Wells/NNP
+-/: Outstanding/JJ achievement/NN in/IN dance/NN -/: San/NNP Francisco/NNP Ballet/NNP for/IN their/PRP$ season/NN at/IN Sadler's/NNP Wells/NNP
+-/: Best/JJS performance/NN in/IN a/DT supporting/VBG role/NN -/: Amanda/NNP Harris/NNP for/IN Othello/NNP at/IN Trafalgar/NNP Studios/NNP
+-/: Best/JJS actress/NN -/: Clare/NNP Higgins/NNP for/IN Hecuba/NNP at/IN the/DT Donmar/NNP Warehouse/NNP
+-/: Best/JJS musical/JJ actor/NN -/: Nathan/NNP Lane/NNP for/IN The/DT Producers/NNPS at/IN Theatre/NNP Royal/NNP Drury/NNP Lane/NNP
+-/: Best/JJS musical/JJ actress/NN -/: Laura/NNP Michelle/NNP Kelly/NNP for/IN Mary/NNP Poppins/NNP at/IN the/DT Prince/NNP Edward/NNP
+-/: Best/JJS director/NN -/: Nicholas/NNP Hytner/NNP for/IN The/DT History/NNP Boys/NNPS at/IN the/DT Lyttelton/NNP
+-/: Best/JJS new/JJ play/NN -/: The/DT History/NNP Boys/NNPS by/IN Alan/NNP Bennett/NNP at/IN the/DT Lyttelton/NNP
+-/: Best/JJS new/JJ musical/JJ -/: The/DT Producers/NNPS at/IN Theatre/NNP Royal/NNP Drury/NNP Lane/NNP
+-/: Special/JJ award/NN -/: Alan/NNP Bennett/NNP for/IN his/PRP$ outstanding/JJ contribution/NN to/TO British/JJ theatre/FW

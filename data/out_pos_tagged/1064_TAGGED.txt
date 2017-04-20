@@ -1,0 +1,32 @@
+MPs'/NNP murder/NN sentence/NN concern/NN
+
+Murder/NN sentences/NNS should/MD not/RB be/VB reduced/VBN automatically/RB simply/RB because/IN of/IN a/DT guilty/JJ plea/NN says/VBZ a/DT new/JJ MPs'/NNP report./NN
+
+The/DT influential/JJ Commons/NNPS home/NN affairs/NNS committee/NN was/VBD responding/VBG to/TO sentencing/VB guidelines/NNS issued/VBD this/DT summer./NN
+The/DT MPs/NNP also/RB call/VBP for/IN tougher/JJR sentences/NNS for/IN crimes/NNS committed/VBN under/IN the/DT influence/NN of/IN drink/NN or/CC drugs./NN
+They/PRP say/VBP the/DT influence/NN of/IN drugs/NNS and/CC alcohol/NN should/MD be/VB introduced/VBN as/IN an/DT aggravating/VBG factor/NN when/WRB judges/NNS and/CC magistrates/NNS sentence/NN offenders./NN
+Committee/NNP chairman/NN John/NNP Denham/NNP said/VBD drugs/NNS of/IN alcohol/NN were/VBD sometimes/RB used/VBN as/IN an/DT excuse./NN
+
+"The/NN committee/NN believes/VBZ that/IN these/DT arguments/NNS should/MD be/VB rejected/VBN by/IN sentencers/NNS and/CC that/IN being/VBG under/IN their/PRP$ influence/NN should/MD instead/RB be/VB an/DT aggravating/VBG factor."/NN At/IN present/JJ judges/NNS when/WRB sentencing/NN murderers/NNS to/TO the/DT mandatory/JJ life/NN sentence/NN can/MD reduce/VB the/DT tariff/NN -/: the/DT minimum/JJ term/NN they/PRP must/MD serve/VB -/: if/IN the/DT defendant/NN pleads/NNS guilty./NN
+But/CC although/IN they/PRP are/VBP spared/VBN the/DT ordeal/NN of/IN a/DT trial/NN many/JJ murder/NN victims'/NN relatives/NNS are/VBP unhappy./NN
+In/IN July/NNP this/DT year/NN Amanda/NNP Champion's/NNP killer/NN James/NNP Ford/NNP pleaded/VBD guilty/JJ to/TO her/PRP$ murder/NN and/CC was/VBD jailed/VBN for/IN at/IN least/JJS 15/CD years/NNS -/: it/PRP would/MD have/VB been/VBN longer/RB had/VBD he/PRP denied/VBN the/DT charge./NN
+
+Amanda's/NNP uncle/NN Lewis/NNP Champion/NNP told/VBD the/DT BBC/NNP News/NNP website/NN Ford/NNP did/VBD not/RB deserve/VB any/DT credit/NN for/IN his/PRP$ plea/NN saying/VBG "Nothing/VBG at/IN all/DT is/VBZ worth/JJ taking/VBG five/CD years/NNS off/IN a/DT murder/NN sentence."/NN MPs/NNP criticised/VBD Home/NNP Secretary/NNP David/NNP Blunkett/NNP last/JJ year/NN for/IN introducing/VBG last-minute/JJ rules/NNS allowing/VBG reduced/VBN sentences/NNS for/IN murderers/NNS who/WP pleaded/VBD guilty./NN
+
+The/DT measures/NNS passed/VBD into/IN law/NN virtually/RB unnoticed/JJ after/IN Mr/NNP Blunkett/NNP introduced/VBD them/PRP at/IN a/DT late/JJ stage/NN of/IN the/DT Criminal/NNP Justice/NNP Bill./NNP
+
+As/IN a/DT result/NN says/VBZ the/DT committee/NN the/DT government/NN may/MD need/VB to/TO re-legislate/JJ to/TO "remove/VB ambiguity"/NN over/IN how/WRB murderers/NNS should/MD be/VB sentenced./NN
+It/PRP is/VBZ also/RB calling/VBG on/IN the/DT senior/JJ judge/NN in/IN England/NNP and/CC Wales/NNP Lord/NNP Woolf/NNP to/TO abandon/VB draft/NN guidelines/NNS he/PRP proposed/VBD in/IN September/NNP to/TO reduce/VB sentences/NNS of/IN murderers/NNS who/WP plead/VBP guilty./NN
+The/DT committee/NN said/VBD the/DT plans/NNS had/VBD not/RB reflected/VBN the/DT "public/JJ disquiet"/NN expressed/VBN over/IN the/DT possibility/NN of/IN significantly/RB reduced/VBN prison/NN terms/NNS for/IN murderers./NN
+Lord/NNP Woolf's/NNP Sentencing/VBG Guidelines/NNS Council/NNP (SGC)/NN caused/VBD further/JJ controversy/NN by/IN suggesting/VBG a/DT one/CD third/JJ discount/NN off/IN sentences/NNS for/IN early/JJ guilty/JJ pleas/NNS in/IN all/DT types/NNS of/IN crime./NN
+As/IN a/DT result/NN murderers/NNS who/WP face/VBP a/DT 15-year/JJ tariff/NN could/MD get/VB five/CD years/NNS knocked/VBD off/RP if/IN they/PRP give/VBP themselves/PRP up/IN to/TO the/DT police./NN
+
+Mr/NNP Denham/NNP believes/VBZ the/DT SGC/NNP should/MD reconsider/VB its/PRP$ proposals/NNS to/TO reflect/VB Parliament's/NNP wish/VBP that/DT murder/NN should/MD be/VB treated/VBN as/IN a/DT separate/JJ and/CC especially/RB grave/JJ category/NN of/IN offence./NN
+He/PRP said/VBD "We/NN want/VBP to/TO see/VB sentencers/NNS advised/VBD that/IN in/IN the/DT case/NN of/IN murder/NN reduction/NN in/IN sentence/NN for/IN a/DT guilty/JJ plea/NN should/MD not/RB normally/RB be/VB granted/VBN in/IN addition/NN to/TO reductions/NNS for/IN other/JJ mitigating/NN circumstances."/NN But/CC a/DT spokesman/NN for/IN the/DT Home/NNP Office/NNP defended/VBD the/DT proposals./NN
+He/PRP said/VBD "By/NN making/VBG express/NN provision/NN for/IN murder/NN tariffs/NNS in/IN the/DT Criminal/NNP Justice/NNP Act/NNP Parliament/NNP sent/VBD a/DT clear/JJ signal/NN that/IN it/PRP expects/VBZ murder/NN to/TO be/VB treated/VBN differently/RB to/TO other/JJ offences./NN
+"We/NN stand/VBP by/IN the/DT provisions/NNS in/IN the/DT Act/NNP that/WDT cover/NN guilty/JJ plea/NN discounts/NNS which/WDT have/VBP potential/JJ benefits/NNS for/IN victims/NNS and/CC witnesses/NNS of/IN avoiding/VBG the/DT trauma/NN of/IN a/DT trial."/NN
+
+Shadow/NNP home/NN secretary/NN David/NNP Davis/NNP echoed/VBD criticisms/NNS of/IN the/DT way/NN Mr/NNP Blunkett/NNP introduced/VBD the/DT murder/NN tariff/NN rules./NN
+"There/NN is/VBZ genuine/JJ concern/NN about/IN potential/JJ reductions/NNS in/IN murder/NN sentences/NNS -/: such/JJ action/NN sends/VBZ out/RP the/DT wrong/JJ signals/NNS to/TO violent/JJ criminals/NNS and/CC completely/RB undermines/VBZ the/DT government's/NNS claim/VBP to/TO be/VB tough/JJ on/IN crime"/NN he/PRP said./VB
+But/CC Liberal/NNP Democrat/NNP spokesman/NN Mark/NNP Oaten/NNP warned/VBD the/DT MPs'/NNP committee/NN that/IN binding/JJ judges/NNS too/RB much/RB might/MD look/VB like/IN political/JJ interference./JJ
+"The/NN danger/NN of/IN having/VBG a/DT prescriptive/JJ approach/NN is/VBZ that/DT whilst/NN every/DT murder/NN is/VBZ awful/JJ it/PRP is/VBZ also/RB different"/NN he/PRP told/VBD BBC/NNP News./NNP

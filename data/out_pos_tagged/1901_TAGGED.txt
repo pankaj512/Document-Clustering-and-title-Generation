@@ -1,0 +1,33 @@
+Rich/NN pickings/NNS for/IN hi-tech/JJ thieves/NNS
+
+Viruses/NN trojans/NNS and/CC other/JJ malicious/JJ programs/NNS sent/VBD on/RP to/TO the/DT net/NN to/TO catch/VB you/PRP out/RP are/VBP undergoing/VBG a/DT subtle/JJ change./NN
+
+The/DT shift/NN is/VBZ happening/VBG as/IN tech/NN savvy/JJ criminals/NNS turn/VBP to/TO technology/VB to/TO help/VB them/PRP con/VBP people/NNS out/IN of/IN cash/NN steal/VBP valuable/JJ data/NNS or/CC take/VB over/RP home/NN PCs./NNP
+Viruses/NNP written/VBN to/TO make/VB headlines/NNS by/IN infecting/VBG millions/NNS are/VBP getting/VBG rarer./NN
+Instead/RB programs/NNS are/VBP now/RB crafted/VBN for/IN directly/RB criminal/JJ ends/NNS and/CC firms/NNS are/VBP tightening/VBG up/RP networks/NNS with/IN defences/NNS to/TO combat/VB the/DT new/JJ wave/NN of/IN malicious/JJ code./NN
+
+The/DT growing/VBG criminal/JJ use/NN of/IN malware/NN has/VBZ meant/VBN the/DT end/NN of/IN the/DT neat/JJ categorisation/NN of/IN different/JJ sorts/NNS of/IN viruses/NNS and/CC malicious/JJ programs./NN
+Before/IN now/RB it/PRP has/VBZ been/VBN broadly/RB possible/JJ to/TO name/VB and/CC categorise/NN viruses/NNS by/IN the/DT method/NN they/PRP use/VBP to/TO spread/VB and/CC how/WRB they/PRP infect/VBP machines./NN
+But/CC many/JJ of/IN the/DT viruses/NNS written/VBN by/IN criminals/NNS roll/NN lots/NNS of/IN technical/JJ tricks/NNS together/RB into/IN one/CD nasty/JJ package./NN
+
+"You/NN cannot/NN put/VBD them/PRP in/RP to/TO the/DT neat/JJ little/JJ box/NN that/IN you/PRP used/VBD to"/NN said/VBD Pete/NNP Simpson/NNP head/NN of/IN the/DT threat/NN laboratory/NN at/IN security/NN firm/NN Clearswift./NNP
+Now/RB viruses/NNS are/VBP just/RB as/RB likely/JJ to/TO spread/VB by/IN themselves/PRP like/IN worms/NNS or/CC to/TO exploit/VB loopholes/NNS in/IN browsers/NNS or/CC hide/VB in/IN e-mail/JJ message/NN attachments./NN
+"It's/NN about/IN outright/JJ criminality/NN now"/NN said/VBD Mr/NNP Simpson/NNP explaining/VBG why/WRB this/DT change/NN has/VBZ come/VBN about./NN
+He/PRP said/VBD many/JJ of/IN the/DT criminal/JJ programs/NNS came/VBD from/IN Eastern/NNP Europe/NNP where/WRB cash-rich/JJ organised/VBN gangs/NNS can/MD find/VB a/DT ready/JJ supply/NN of/IN technical/JJ experts/NNS that/WDT will/MD crank/VB out/RP code/NN to/TO order./VB
+Former/NNP virus/NN writer/NN Marek/NNP Strihavka/NNP aka/NN Benny/NNP from/IN the/DT 29A/CD virus/NN writing/NN group/NN recently/RB quit/VBD the/DT malware/NN scene/NN partly/RB because/IN it/PRP was/VBD being/VBG taken/VBN over/RP by/IN spyware/NN writers/NNS phishing/VBG gangs/NNS and/CC spammers/NNS who/WP are/VBP more/RBR interested/JJ in/IN money/NN rather/RB than/IN the/DT technology./NN
+No/DT longer/RB do/VBP virus/NN writers/NNS produce/VBP programs/NNS to/TO show/VB off/RP their/PRP$ technical/JJ prowess/NN to/TO rivals/NNS in/IN the/DT underground/JJ world/NN of/IN malware/NN authors./NN
+Not/RB least/JJS said/VBD Paul/NNP King/NNP principal/JJ security/NN consultant/NN at/IN Cisco/NNP because/IN the/DT defences/NNS against/IN such/JJ attacks/NNS are/VBP so/RB common./NN
+"In/NN many/JJ ways/NNS the/DT least/JJS likely/JJ way/NN to/TO do/VB it/PRP is/VBZ e-mail/JJ because/IN most/JJS of/IN us/PRP have/VBP got/VBN anti-virus/JJ and/CC firewalls/NNS now"/VBP he/PRP said./VB
+Few/JJ of/IN the/DT malicious/JJ programs/NNS written/VBN by/IN hi-tech/JJ thieves/NNS are/VBP cleverly/RB written/VBN many/JJ are/VBP much/RB more/RBR pragmatic/JJ and/CC use/NN tried/VBD and/CC tested/VBN techniques/NNS to/TO infect/VB machines/NNS or/CC to/TO trick/VB users/NNS into/IN installing/VBG a/DT program/NN or/CC handing/VBG over/IN important/JJ data./NN
+"If/NN you/PRP think/VBP of/IN criminals/NNS they/PRP do/VBP not/RB do/VB clever"/NN said/VBD Mr/NNP King/NNP "they/NN just/RB do/VBP what/WP works."/NN
+
+As/IN the/DT tactics/NNS used/VBN by/IN malicious/JJ programs/NNS change/VBP said/VBD Mr/NNP King/NNP so/RB many/JJ firms/NNS were/VBD changing/VBG the/DT way/NN they/PRP defend/VBP themselves./NN
+Now/RB many/JJ scan/VBP machines/NNS that/WDT connect/VBP to/TO the/DT corporate/JJ networks/NNS to/TO ensure/VB they/PRP have/VBP not/RB been/VBN compromised/VBN while/IN off/RP the/DT core/NN network./NN
+
+Many/JJ will/MD not/RB let/VB a/DT machine/NN connect/NN and/CC a/DT worker/NN get/NN on/IN with/IN their/PRP$ job/NN before/IN the/DT latest/JJS patches/NNS and/CC settings/NNS have/VBP been/VBN uploaded./VBG
+As/RB well/RB as/IN using/VBG different/JJ tactics/NNS criminals/NNS also/RB use/VBP technology/NN for/IN reasons/NNS that/WDT are/VBP much/RB more/JJR transparent./NN
+"The/NN main/JJ motivation/NN now/RB is/VBZ money"/NN said/VBN Gary/NNP Stowell/NNP spokesman/NN for/IN St/NNP Bernard/NNP software./NN
+Mr/NNP Stowell/NNP said/VBD organised/VBN crime/NN gangs/NNS were/VBD turning/VBG to/TO computer/NN crime/NN because/IN the/DT risks/NNS of/IN being/VBG caught/VBN were/VBD low/JJ and/CC the/DT rates/NNS of/IN return/NN were/VBD very/RB high./NN
+With/IN almost/RB any/DT phishing/VBG or/CC spyware/NN attack/NN criminals/NNS are/VBP guaranteed/VBN to/TO catch/VB some/DT people/NNS out/RB and/CC have/VBP the/DT contacts/NNS to/TO exploit/VB what/WP they/PRP recover./VBP
+So-called/JJ spyware/NN was/VBD proving/VBG very/RB popular/JJ with/IN criminals/NNS because/IN it/PRP allowed/VBD them/PRP to/TO take/VB over/RP machines/NNS for/IN their/PRP$ own/JJ ends/VBZ to/TO steal/VB key/JJ data/NNS from/IN users/NNS or/CC to/TO hijack/VB web/NN browsing/VBG sessions/NNS to/TO point/VB people/NNS at/IN particular/JJ sites./NN
+In/IN some/DT cases/NNS spyware/NN was/VBD being/VBG written/VBN that/WDT searched/VBD for/IN rival/JJ malicious/JJ programs/NNS on/IN PCs/NNS it/PRP infects/VBZ and/CC then/RB trying/VBG to/TO erase/VB them/PRP so/IN it/PRP has/VBZ sole/JJ ownership/NN of/IN that/DT machine./NN

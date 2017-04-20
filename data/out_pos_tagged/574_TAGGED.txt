@@ -1,0 +1,32 @@
+Hollywood/NNP ready/JJ for/IN Oscars/NNP night/NN
+
+Hollywood/NNP is/VBZ preparing/VBG for/IN the/DT biggest/JJS night/NN in/IN the/DT film/NN world's/NNS calendar/VBP the/DT 77th/JJ Academy/NNP Awards/NNS on/IN Sunday./NNP
+
+A/DT host/NN of/IN stars/NNS are/VBP expected/VBN to/TO grace/VB the/DT red/JJ carpet/NN outside/IN Los/NNP Angeles'/NNP Kodak/NNP Theatre/NNP including/VBG Johnny/NNP Depp/NNP Cate/NNP Blanchett/NNP and/CC Leonardo/NNP DiCaprio./NNP
+British/JJ actors/NNS in/IN attendance/NN include/VBP nominees/NNS Clive/NNP Owen/NNP Imelda/NNP Staunton/NNP Kate/NNP Winslet/NNP and/CC director/NN Mike/NNP Leigh./NNP
+The/DT Aviator/NNP leads/VBZ the/DT shortlist/NN but/CC critics/NNS believe/VBP the/DT night/NN may/MD belong/VB to/TO Clint/NNP Eastwood's/NNP Million/CD Dollar/NN Baby./NNP
+A/DT recent/JJ poll/NN of/IN US/PRP pundits/VBZ found/VBD Eastwood's/NNP boxing/VBG drama/NN had/VBD become/VBN the/DT new/JJ favourite/NN to/TO win/VB best/JJS film/NN over/IN the/DT Howard/NNP Hughes/NNP biopic./NN
+
+If/IN the/DT 74-year-old/JJ does/VBZ win/VB he/PRP will/MD become/VB the/DT oldest/JJS person/NN ever/RB to/TO be/VB named/VBN best/JJS director/NN at/IN the/DT ceremony./NN
+UK/NN critics/NNS still/RB favour/VBP The/DT Aviator/NNP for/IN best/JJS film/NN but/CC believe/VBP the/DT best/JJS director/NN title/NN will/MD generate/VB a/DT close/NN fought/VBD battle/NN between/IN Eastwood/NNP and/CC Martin/NNP Scorsese./NNP
+
+Scorsese/NNP has/VBZ never/RB won/VBN the/DT best/JJS director/NN prize/NN despite/IN four/CD previous/JJ nominations/NNS for/IN films/NNS including/VBG Raging/VBG Bull/NNP Goodfellas/NNP and/CC Gangs/NNS of/IN New/NNP York./NNP
+Eastwood/NNP has/VBZ won/VBN best/RBS director/NN once/RB before/IN for/IN Unforgiven/NNP in/IN 1993./CD
+Most/JJS experts/NNS predict/VBP the/DT twice-nominated/JJ Jamie/NNP Foxx/NNP will/MD win/VB best/JJS actor/NN for/IN his/PRP$ portrayal/NN of/IN singer/NN Ray/NNP Charles/NNP while/IN Vera/NNP Drake/NNP star/NN Imelda/NNP Staunton/NNP looks/VBZ likely/JJ to/TO lose/VB out/RP in/IN the/DT best/JJS actress/NN field/NN to/TO Hilary/NNP Swank/NNP in/IN Million/CD Dollar/NN Baby./NNP
+The/DT UK's/NNP highest/JJS hopes/VBZ remain/VB with/IN Clive/NNP Owen/NNP who/WP has/VBZ scooped/VBN both/DT the/DT Golden/NNP Globe/NNP and/CC the/DT Bafta/NNP for/IN his/PRP$ supporting/VBG role/NN in/IN Closer./NNP
+Actor/NN and/CC comedian/NN Chris/NNP Rock/NNP will/MD host/VB the/DT event/NN which/WDT will/MD be/VB broadcast/NN with/IN a/DT seven-second/JJ time/NN delay/NN to/TO allow/VB censors/NNS to/TO cut/VB out/RP any/DT unsuitable/JJ content./NN
+
+"We/NN have/VBP the/DT bleep/NN machine/NN ready/JJ but/CC bleeps/NNS will/MD be/VB used/VBN as/IN needed"/NN producer/NN Gil/NNP Cates/NNP told/VBD reporters./NN
+However/RB he/PRP added/VBD that/IN he/PRP strongly/RB disapproved/VBD of/IN the/DT growing/VBG tendency/NN to/TO censor/VB live/VB broadcasts/NNS on/IN US/PRP TV./NNP
+
+He/PRP also/RB played/VBD down/RP fears/NNS that/IN Rock/NNP who/WP is/VBZ known/VBN for/IN using/VBG strong/JJ language/NN in/IN his/PRP$ stand-up/JJ routines/NNS might/MD cause/VB controversy/NN on/IN the/DT night./NN
+The/DT 40-year-old/JJ comic/JJ has/VBZ already/RB promised/VBN not/RB to/TO swear/VB live/VB on/IN air/NN during/IN the/DT show./NN
+"Chris/NN has/VBZ a/DT sense/NN of/IN humour/NN and/CC everything/NN he/PRP says/VBZ is/VBZ really/RB said/VBN humorously"/NN Cates/NNP said./NN
+"You/NN need/VBP a/DT movie/NN star/NN and/CC someone/NN who/WP is/VBZ a/DT stand-up/JJ comic/JJ so/IN they/PRP can/MD deal/VB with/IN the/DT vicissitudes/NNS of/IN the/DT show."/NN Security/NNP will/MD also/RB be/VB tight/JJ with/IN police/NN employing/VBG a/DT system/NN to/TO detect/VB sarin/NN nerve/NN gas./NN
+"We/NN are/VBP pulling/VBG out/RP all/PDT the/DT stops"/NN said/VBD John/NNP Miller/NNP chief/NN of/IN counterterrorism/NN at/IN the/DT Los/NNP Angeles/NNP Police/NNP Department./NNP
+The/DT show/NN is/VBZ "a/NN symbol/NN of/IN American/JJ culture/NN and/CC has/VBZ the/DT potential/NN to/TO be/VB a/DT high-visibility/JJ target"/NN he/PRP added./VB
+Meanwhile/RB organisers/NNS have/VBP erected/VBN a/DT canopy/NN over/IN the/DT red/JJ carpet/NN following/VBG an/DT outbreak/NN of/IN torrential/JJ rain/NN in/IN Los/NNP Angeles/NNP over/IN the/DT past/JJ week./NN
+Cates/NNP said/VBD the/DT covers/NNS would/MD be/VB removed/VBN if/IN the/DT threat/NN of/IN wet/JJ weather/NN receded./NN
+Details/NNS have/VBP also/RB emerged/VBN of/IN the/DT contents/NNS of/IN this/DT year's/NNS gift/NN bags/NNS which/WDT are/VBP given/VBN to/TO nominees/NNS and/CC presenters/NNS on/IN the/DT night./NN
+This/DT year's/VBZ bags/NNS will/MD include/VB a/DT gift/NN certificate/NN for/IN a/DT luxury/NN beach/NN resort/NN a/DT pair/NN of/IN mink/NN eyelashes/NNS and/CC a/DT kitchen/NN set/VBN with/IN a/DT year's/NNS supply/NN of/IN tea/NN and/CC coffee./NN
+The/DT event/NN will/MD be/VB televised/VBN by/IN the/DT ABC/NNP network/NN from/IN 1700/CD local/JJ time/NN (0100/CD GMT)/NNP and/CC on/IN Sky/NNP Movies/NNS in/IN the/DT UK/NNP from/IN 0130/CD GMT./NNP

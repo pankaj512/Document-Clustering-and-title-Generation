@@ -1,0 +1,23 @@
+Enron/NN bosses/NNS in/IN $168m/CD payout/NN
+
+Eighteen/CD former/JJ Enron/NNP directors/NNS have/VBP agreed/VBN a/DT $168m/CD (£89m)/CD settlement/NN deal/NN in/IN a/DT shareholder/NN lawsuit/NN over/IN the/DT collapse/NN of/IN the/DT energy/NN firm./NN
+
+Leading/VBG plaintiff/NN the/DT University/NNP of/IN California/NNP announced/VBD the/DT news/NN adding/VBG that/IN 10/CD of/IN the/DT former/JJ directors/NNS will/MD pay/VB $13m/CD from/IN their/PRP$ own/JJ pockets./NN
+The/DT settlement/NN will/MD be/VB put/VBN to/TO the/DT courts/NNS for/IN approval/NN next/JJ week./NN
+Enron/NNP went/VBD bankrupt/JJ in/IN 2001/CD after/IN it/PRP emerged/VBD it/PRP had/VBD hidden/VBN hundreds/NNS of/IN millions/NNS of/IN dollars/NNS in/IN debt./NN
+
+Before/IN its/PRP$ collapse/NN the/DT firm/NN was/VBD the/DT seventh/JJ biggest/JJS public/JJ US/PRP company/VBP by/IN revenue./NN
+Its/PRP$ demise/NN sent/VBD shockwaves/NNS through/IN financial/JJ markets/NNS and/CC dented/VBN investor/NN confidence/NN in/IN corporate/JJ America./NNP
+
+"The/NN settlement/NN is/VBZ very/RB significant/JJ in/IN holding/VBG these/DT outside/JJ directors/NNS at/IN least/JJS partially/RB personally/RB responsible"/NN William/NNP Lerach/NNP the/DT lawyer/NN leading/VBG the/DT class/NN action/NN suit/NN against/IN Enron/NNP said./NN
+"Hopefully/RB this/DT will/MD help/VB send/VB a/DT message/NN to/TO corporate/JJ boardrooms/NNS of/IN the/DT importance/NN of/IN directors/NNS performing/VBG their/PRP$ legal/JJ duties"/NN he/PRP added./VB
+Under/IN the/DT terms/NNS of/IN the/DT $168m/CD settlement/NN -/: $155m/CD of/IN which/WDT will/MD be/VB covered/VBN by/IN insurance/NN -/: none/NN of/IN the/DT 18/CD former/JJ directors/NNS will/MD admit/VB any/DT wrongdoing./NN
+The/DT deal/NN is/VBZ the/DT fourth/JJ major/JJ settlement/NN negotiated/VBN by/IN lawyers/NNS who/WP filed/VBD a/DT class/NN action/NN on/IN behalf/NN of/IN Enron's/NNP shareholders/NNS almost/RB three/CD years/NNS ago./NN
+So/RB far/RB including/VBG the/DT latest/JJS deal/NN just/RB under/IN $500m/CD (£378.8m)/CD has/VBZ been/VBN retrieved/VBN for/IN investors./NN
+
+However/RB the/DT latest/JJS deal/NN does/VBZ not/RB include/VB former/JJ Enron/NNP chief/NN executives/NNS Ken/NNP Lay/VBD and/CC Jeff/NNP Skilling./NNP
+Both/DT men/NNS are/VBP facing/VBG criminal/JJ charges/NNS for/IN their/PRP$ alleged/VBN misconduct/NN in/IN the/DT run/NN up/IN to/TO the/DT firm's/NNS collapse./NN
+Neither/DT does/VBZ it/PRP cover/VB Andrew/NNP Fastow/NNP who/WP has/VBZ pleaded/VBN guilty/JJ to/TO taking/VBG part/NN in/IN an/DT illegal/JJ conspiracy/NN while/IN he/PRP was/VBD chief/JJ financial/JJ officer/NN at/IN the/DT group./NN
+Enron's/NN shareholders/NNS are/VBP still/RB seeking/VBG damages/NNS from/IN a/DT long/JJ list/NN of/IN other/JJ big/JJ name/NN defendants/NNS including/VBG the/DT financial/JJ institutions/NNS JP/NNP Morgan/NNP Chase/NNP Citigroup/NNP Merrill/NNP Lynch/NNP and/CC Credit/NNP Suisse/NNP First/NNP Boston./NNP
+The/DT University/NNP of/IN California/NNP said/VBD the/DT trial/NN in/IN the/DT case/NN is/VBZ scheduled/VBN to/TO begin/VB in/IN October/NNP 2006./CD
+It/PRP joined/VBD the/DT lawsuit/NN in/IN December/NNP 2001alleging/CD "massive/JJ insider/NN trading"/NN and/CC fraud/NN claiming/VBG it/PRP had/VBD lost/VBN $145m/CD on/IN its/PRP$ investments/NNS in/IN the/DT company./NN

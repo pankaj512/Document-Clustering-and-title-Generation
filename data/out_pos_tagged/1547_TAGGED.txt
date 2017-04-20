@@ -1,0 +1,14 @@
+FA/NNP charges/NNS Liverpool/NNP and/CC Millwall/NNP
+
+Liverpool/NNP and/CC Millwall/NNP have/VBP been/VBN charged/VBN by/IN the/DT Football/NNP Association/NNP over/IN crowd/NN trouble/NN during/IN their/PRP$ Carling/NNP Cup/NNP match/VB on/IN 26/CD October./NNP
+
+Millwall/NNP who/WP lost/VBD the/DT match/JJ 3-0/JJ have/VBP also/RB been/VBN charged/VBN over/IN alleged/JJ racist/JJ behaviour/NN by/IN their/PRP$ supporters./NN
+During/IN the/DT match/NN at/IN Millwall's/NNP new/JJ Den/NNP Stadium/NNP seats/NNS were/VBD ripped/VBN up/RB and/CC four/CD people/NNS were/VBD ejected/VBN from/IN the/DT ground./NN
+A/DT disabled/JJ fan/NN was/VBD injured/VBN at/IN the/DT perimeter/NN of/IN the/DT pitch/NN and/CC riot/NN police/NNS were/VBD needed/VBN to/TO control/VB the/DT situation./NN
+Liverpool/NN fans/NNS claimed/VBD the/DT trouble/NN was/VBD sparked/VBN by/IN chants/NNS about/IN the/DT Hillsborough/NNP disaster/NN where/WRB 96/CD supporters/NNS were/VBD crushed/VBN to/TO death/NN in/IN April/NNP 1989./CD
+But/CC Lions/NNP chairman/NN Theo/NNP Paphitis/NNP has/VBZ denied/VBN the/DT claims./NN
+He/PRP has/VBZ said/VBN CCTV/NNP footage/NN showed/VBD the/DT catalyst/NN for/IN the/DT trouble/NN was/VBD a/DT Liverpool/NNP fan/NN attacking/VBG a/DT Millwall/NNP fan/NN in/IN the/DT west/NN stand./NN
+However/RB Millwall/NNP have/VBP been/VBN charged/VBN with/IN two/CD breaches/NNS of/IN FA/NNP rules./NN
+They/PRP have/VBP been/VBN charged/VBN with/IN failing/VBG to/TO ensure/VB that/IN fans/NNS refrained/VBN from/IN racist/JJ and/or/NN abusive/JJ behaviour/NN and/CC for/IN failing/VBG to/TO prevent/VB spectators/NNS throwing/VBG missiles/NNS onto/IN the/DT pitch./NN
+Liverpool/NNS have/VBP been/VBN charged/VBN with/IN one/CD breach/NN for/IN failing/VBG to/TO prevent/VB their/PRP$ fans/NNS conducting/VBG themselves/PRP in/IN threatening/VBG and/or/NN violent/JJ and/or/NN provocative/JJ behaviour./NN
+Both/DT clubs/NNS have/VBP until/IN 23/CD December/NNP to/TO respond./VB

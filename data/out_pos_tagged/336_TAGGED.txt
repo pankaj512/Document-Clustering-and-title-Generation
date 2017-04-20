@@ -1,0 +1,24 @@
+Banker/NNP loses/VBZ sexism/NN claim/NN
+
+A/DT former/JJ executive/NN at/IN the/DT London/NNP offices/NNS of/IN Merrill/NNP Lynch/NNP has/VBZ lost/VBN her/PRP$ £7.5m/CD ($14.6m)/CD sex/NN discrimination/NN case/NN against/IN the/DT US/PRP investment/VBP bank./NN
+
+An/DT employment/NN tribunal/NN dismissed/VBN Stephanie/NNP Villalba's/NNP allegations/NNS of/IN sexual/JJ discrimination/NN and/CC unequal/JJ pay./NN
+But/CC the/DT 42-year-old/NN won/VBD her/PRP$ claim/NN of/IN unfair/JJ dismissal/NN resulting/VBG from/IN her/PRP$ sacking/VBG in/IN August/NNP 2003./CD
+Her/PRP$ partial/JJ victory/NN is/VBZ likely/JJ to/TO cap/VB her/PRP$ compensation/NN to/TO about/IN £55000/CD a/DT tiny/JJ fraction/NN of/IN what/WP she/PRP asked/VBD for./NN
+The/DT extent/NN of/IN damages/NNS will/MD be/VB assessed/VBN in/IN the/DT New/NNP Year./NNP
+The/DT action/NN -/: the/DT biggest/JJS claim/NN heard/VBN by/IN an/DT employment/NN tribunal/NN in/IN the/DT UK/NNP -/: had/VBD been/VBN viewed/VBN as/IN something/NN of/IN a/DT test/NN case./NN
+
+The/DT tribunal/NN decided/VBD that/IN Ms/NNP Villalba/NNP had/VBD been/VBN unfairly/RB dismissed/VBN because/IN having/VBG been/VBN removed/VBN from/IN a/DT senior/JJ post/NN she/PRP was/VBD entitled/VBN to/TO wait/VB to/TO see/VB if/IN a/DT suitable/JJ alternative/NN position/NN could/MD be/VB found/VBN in/IN the/DT organisation./NN
+Ms/NNP Villalba/NNP the/DT former/JJ head/NN of/IN Merrill's/NNP private/JJ client/NN business/NN in/IN Europe/NNP has/VBZ made/VBN no/DT decision/NN on/IN whether/IN to/TO appeal./VB
+
+A/DT spokesman/NN for/IN her/PRP$ lawyers/NNS described/VBD the/DT decision/NN as/IN "very/NN disappointing"/JJ but/CC pointed/VBD to/TO some/DT criticism/NN of/IN Merrill's/NNP procedures/NNS within/IN the/DT lengthy/JJ judgement./NN
+The/DT tribunal/NN upheld/VBD Ms/NNP Villalba's/NNP claim/NN of/IN victimisation/NN on/IN certain/JJ specific/JJ issues/NNS including/VBG bullying/VBG e-mails/NNS in/IN connection/NN with/IN a/DT contract/NN but/CC said/VBD it/PRP found/VBD no/DT evidence/NN of/IN "laddish/NN culture"/NN at/IN the/DT bank./NN
+"We/NN said/VBD from/IN the/DT start/NN that/IN this/DT case/NN was/VBD about/IN performance/NN not/RB gender"/NN Merrill/NNP said/VBD in/IN a/DT statement./NN
+"Ms/NNP Villalba/NNP was/VBD removed/VBN by/IN the/DT very/RB same/JJ person/NN who/WP had/VBD promoted/VBN her/PRP into/IN the/DT position/NN and/CC who/WP then/RB replaced/VBD her/PRP with/IN another/DT woman./NN
+"Merrill/NNP Lynch/NNP is/VBZ dedicated/VBN to/TO creating/VBG a/DT true/JJ meritocracy/NN where/WRB every/DT employee/NN has/VBZ the/DT opportunity/NN to/TO advance/VB based/VBN on/IN their/PRP$ skills/NNS and/CC hard/JJ work."/NN
+
+Based/VBN in/IN London's/NNP financial/JJ district/NN Ms/NNP Villalba/NNP worked/VBD for/IN Merrill's/NNP global/JJ private/JJ client/NN business/NN in/IN Europe/NNP investing/VBG funds/NNS for/IN some/DT of/IN Merrill's/NNP most/RBS important/JJ customers./NN
+But/CC in/IN 2003/CD her/PRP$ employers/NNS told/VBD her/PRP$ she/PRP had/VBD no/DT future/NN after/IN 17/CD years/NNS with/IN the/DT company/NN and/CC she/PRP was/VBD made/VBN redundant./NN
+Merrill/NNP Lynch/NNP denied/VBD Ms/NNP Villalba's/NNP claims/NNS and/CC said/VBD she/PRP was/VBD removed/VBN from/IN her/PRP$ post/NN because/IN of/IN the/DT extensive/JJ losses/NNS the/DT firm/NN was/VBD suffering/VBG on/IN the/DT continent./NN
+The/DT firm/NN had/VBD told/VBN the/DT tribunal/NN that/IN Ms/NNP Villalba's/NNP division/NN had/VBD been/VBN losing/VBG about/IN $1m/CD a/DT week./NN
+Merrill/NNP said/VBD Ms/NNP Villalba/NNP lacked/VBD the/DT leadership/NN skills/NNS to/TO turn/VB around/IN the/DT unit./NN

@@ -1,0 +1,22 @@
+Movie/NNP body/NN hits/NNS peer-to-peer/JJ nets/NNS
+
+The/DT movie/NN industry/NN has/VBZ struck/VBN out/RP at/IN file-sharing/JJ networks/NNS with/IN another/DT round/NN of/IN lawsuits/NNS in/IN the/DT US./NNP
+
+The/DT Motion/NNP Picture/NNP Association/NNP of/IN America/NNP (MPAA)/NN also/RB said/VBD it/PRP had/VBD succeeded/VBN in/IN getting/VBG a/DT network/NN called/VBN LokiTorrent/NNP closed/VBD down./NN
+It/PRP is/VBZ the/DT latest/JJS network/NN which/WDT uses/VBZ the/DT peer-to-peer/JJ system/NN called/VBN BitTorrent/NNP to/TO be/VB hit/VBN by/IN the/DT MPAA./NNP
+The/DT MPAA/NNP began/VBD its/PRP$ legal/JJ campaign/NN against/IN operators/NNS of/IN similar/JJ networks/NNS across/IN four/CD continents/NNS in/IN December./NNP
+A/DT Dallas/NNP court/NN agreed/VBD that/IN Hollywood/NNP lawyers/NNS would/MD be/VB allowed/VBN access/NN to/TO LokiTorrent's/NNP server/NN records/NNS which/WDT could/MD let/VB them/PRP single/VB out/RP those/DT who/WP were/VBD sharing/VBG files/NNS illegally./NN
+In/IN October/NNP 2004/CD the/DT site/NN had/VBD provided/VBN links/NNS to/TO more/JJR than/IN 30000/CD files./NN
+The/DT action/NN came/VBD after/IN the/DT operators/NNS of/IN LokiTorrent/NNP agreed/VBD a/DT settlement/NN with/IN the/DT MPAA./NNP
+A/DT stark/JJ message/NN has/VBZ appeared/VBN on/IN the/DT site/NN from/IN the/DT MPAA/NNP warning/NN "You/NN can/MD click/VB but/CC you/PRP can't/VBP hide"./NN
+In/IN BitTorrent/NNP systems/NNS server/NN sites/NNS do/VBP not/RB host/VB the/DT files/NNS being/VBG shared./NN
+They/PRP host/VBP links/NNS called/VBD "trackers"/NN that/IN direct/JJ people/NNS to/TO others/NNS that/WDT have/VBP it/PRP instead./NN
+
+As/RB well/RB as/IN filing/VBG an/DT unspecified/JJ number/NN of/IN file/NN suits/NNS across/IN the/DT US/PRP the/DT MPAA/NNP said/VBD it/PRP had/VBD given/VBN operators/NNS that/DT host/NN eDonkey/NN servers/NNS "take/NN down"/NN notices./NN
+Hollywood/NN studios/NNS are/VBP aggressively/RB clamping/VBG down/RP on/IN file-sharers/NNS who/WP it/PRP says/VBZ infringe/VB copyright/NN laws/NNS by/IN copying/NN films/NNS and/CC TV/NN programmes/NNS then/RB share/VBP the/DT files/NNS online./NN
+But/CC it/PRP is/VBZ now/RB targeting/VBG the/DT operators/NNS of/IN BitTorrent/NNP networks/NNS themselves./NN
+It/PRP has/VBZ filed/VBN 100/CD lawsuits/NNS against/IN operators/NNS of/IN BitTorrent/NNP server/NN sites/NNS since/IN December./NNP
+The/DT strategy/NN of/IN hitting/VBG those/DT who/WP run/VBP the/DT servers/NNS which/WDT link/NN to/TO copyrighted/VBN material/NN is/VBZ intended/VBN to/TO stunt/VB file-sharers'/JJ ability/NN to/TO swap/VB content/NN using/VBG BitTorrent/NNP systems./NN
+The/DT film/NN industry/NN says/VBZ the/DT black/JJ market/NN for/IN illegally/RB copied/VBN videos/NNS and/CC DVDs/NNP already/RB costs/VBZ them/PRP billions/NNS every/DT year/NN and/CC it/PRP is/VBZ worried/VBN that/IN illegal/JJ file-sharing/JJ is/VBZ adding/VBG to/TO their/PRP$ losses./NN
+In/IN December/NNP the/DT legal/JJ action/NN claimed/VBD its/PRP$ most/RBS high-profile/JJ victim./NN
+The/DT popular/JJ Suprnova.org/NNP website/NN was/VBD forced/VBN to/TO close/VB and/CC others/NNS like/IN Phoenix/NNP Torrent/NN followed/VBD soon/RB after./NN

@@ -1,0 +1,13 @@
+Takeover/NN rumour/NN lifts/NNS Exel/NNP shares/NNS
+
+Shares/NNS in/IN storage/NN and/CC delivery/NN firm/NN Exel/NNP closed/VBD up/RB 9%/CD at/IN a/DT two-and-a-half/JJ year/NN high/JJ on/IN Tuesday/NNP on/IN speculation/NN it/PRP is/VBZ to/TO receive/VB an/DT imminent/JJ takeover/NN bid./NN
+
+The/DT talk/NN in/IN the/DT City/NNP is/VBZ that/IN US/PRP giant/JJ United/NNP Parcel/NNP Services/NNPS (UPS)/NN is/VBZ the/DT most/RBS likely/JJ bidder/NN for/IN the/DT firm./NN
+Yet/RB other/JJ names/NNS mentioned/VBN in/IN connection/NN to/TO buying/VBG Exel/NNP are/VBP DHL-owner/NNP Deutsche/NNP Post/NNP and/CC finance/NN firm/NN GE/NNP Capital./NNP
+With/IN its/PRP$ shares/NNS closing/NN Tuesday/NNP at/IN 873p/CD Bracknell-based/JJ Exel/NNP is/VBZ currently/RB valued/VBN at/IN £2.6bn/CD ($6.3bn)./CD
+
+Exel/NNP employs/VBZ 109000/CD people/NNS in/IN more/JJR than/IN 120/CD countries/NNS and/CC has/VBZ itself/PRP been/VBN active/JJ in/IN the/DT consolidation/NN of/IN the/DT logistics/NNS sector/NN paying/VBG £328m/CD to/TO buy/VB fellow/JJ UK/NNP firm/NN Tibbett/NNP &/CC Britten/NNP last/JJ August./NNP
+Its/PRP$ customers/NNS include/VBP Boots/NNP Burberry/NNP Mothercare/NNP and/CC consumer/NN products/NNS giant/JJ Procter/NNP &/CC Gamble./NNP
+Andrew/NNP Beh/NNP of/IN brokers/NNS ING/NNP said/VBD UPS/NNP and/CC Deutsche/NNP Post/NNP were/VBD the/DT most/RBS likely/JJ bidders/NNS and/CC an/DT offer/NN of/IN 950p/CD a/DT share/NN would/MD be/VB fair/JJ if/IN a/DT bidding/NN battle/NN did/VBD not/RB break/VB out./NN
+"It's/NN a/DT great/JJ strategic/JJ fit/NN for/IN both/DT companies"/NN he/PRP said./VB
+"Both/NN are/VBP interested/JJ in/IN expanding/VBG in/IN logistics/NNS and/CC you/PRP can/MD make/VB a/DT decent/JJ case/NN for/IN cost/NN synergies/NNS which/WDT could/MD justify/VB the/DT premium/NN and/CC that's/NNS before/IN you/PRP make/VBP any/DT argument/NN about/IN revenue/NN synergies."/NN

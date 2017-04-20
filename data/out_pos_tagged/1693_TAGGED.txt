@@ -1,0 +1,22 @@
+Ireland/NNP 21-19/JJ Argentina/NNP
+
+An/DT injury-time/NN dropped/VBD goal/NN by/IN Ronan/NNP O'Gara/NNP stole/VBD victory/NN for/IN Ireland/NNP from/IN underneath/IN the/DT noses/NNS of/IN Argentina/NNP at/IN Lansdowne/NNP Road/NNP on/IN Saturday./NNP
+
+O'Gara/NNP kicked/VBD all/DT of/IN Ireland's/NNP points/NNS with/IN two/CD dropped/VBD goals/NNS and/CC five/CD penalties/NNS to/TO give/VB the/DT home/NN side/NN a/DT 100%/CD record/NN in/IN their/PRP$ autumn/NN internationals./JJ
+An/DT impressive/JJ Argentina/NNP appeared/VBD in/IN control/NN until/IN the/DT dying/VBG seconds./NN
+The/DT Pumas/NNP shocked/VBD the/DT Irish/JJ early/NN on/IN with/IN a/DT try/NN from/IN Federico/NNP Aramburu/NNP and/CC Felipe/NNP Contepomi/NNP kicked/VBD 14/CD points./NN
+The/DT well-drilled/JJ and/CC sharper/JJR Pumas/NNP out-played/JJ and/CC out-thought/JJ Ireland/NNP in/IN the/DT early/JJ stages./NN
+Indiscipline/NNP allowed/VBD Argentina's/NNP Leinster/NNP fly-half/JJ Contepomi/NNP to/TO open/VB the/DT scoring/NN in/IN the/DT third/JJ minute/NN with/IN a/DT straightforward/JJ penalty./NN
+He/PRP was/VBD on/IN the/DT mark/NN again/RB two/CD minutes/NNS later/RB when/WRB Argentina/NNP shocked/VBD a/DT ragged/JJ Ireland/NNP with/IN the/DT first/JJ try/NN of/IN the/DT game./NN
+Ireland/NNP turned/VBD the/DT ball/NN over/RB and/CC Manuel/NNP Contepomi/NNP broke/VBD through/IN an/DT unstructured/VBN defence/NN before/IN feeding/VBG his/PRP$ midfield/NN partner/NN Aramburu/NNP to/TO sprint/VB in/IN under/IN the/DT posts./NN
+O'Gara/NNP finally/RB got/VBD Ireland/NNP on/IN the/DT board/NN with/IN a/DT dropped/VBN goal/NN in/IN the/DT ninth/JJ minute/NN only/RB for/IN Contepomi/NNP to/TO rifle/VB over/IN his/PRP$ second/JJ penalty/NN two/CD minutes/NNS later./NN
+Playing/VBG into/IN a/DT strong/JJ wind/NN and/CC rain/NN Ireland/NNP continued/VBD to/TO come/VB second/JJ best/JJS in/IN tight/JJ situations/NNS and/CC turnovers/NNS began/VBD to/TO mount/VB up/RP against/IN a/DT rugged/JJ defence./NN
+O'Gara/NNP managed/VBD to/TO land/VB his/PRP$ second/JJ penalty/NN in/IN the/DT 36th/JJ minute/NN but/CC once/RB again/RB Contepomi/NNP replied/VBD in/IN kind/NN four/CD minutes/NNS into/IN first-half/JJ injury/NN time./NN
+The/DT second-half/NN started/VBD as/IN the/DT first/JJ had/VBD ended./NN
+O'Gara/NNP rifled/VBD over/IN another/DT penalty/NN in/IN the/DT 45th/JJ minute/NN but/CC Contepomi/NNP matched/VBD it/PRP three/CD minutes/NNS later./NN
+The/DT upper-body/JJ strength/NN of/IN the/DT Pumas/NNP never/RB allowed/VBD Ireland/NNP to/TO take/VB control/NN up/RP front/NN while/IN the/DT three-quarters/NNS had/VBD no/DT space/NN to/TO manoeuvre./VB
+Ireland/NNP had/VBD to/TO rely/VB on/IN O'Gara's/NNP boot/NN to/TO keep/VB in/IN touch/NN rather/RB than/IN any/DT contrived/JJ running/NN plays./NN
+The/DT Munsterman/NNP landed/VBD two/CD more/JJR penalties/NNS -/: one/CD of/IN them/PRP from/IN 48/CD metres/NNS -/: to/TO bring/VB his/PRP$ team/NN to/TO within/IN four/CD points/NNS with/IN 13/CD minutes/NNS on/IN the/DT clock/NN remaining./NN
+And/CC Ireland's/NNP chance/NN came/VBD when/WRB Argentina's/NNP number/NN eight/CD Gonzalo/NNP Longo/NNP was/VBD yellow/JJ carded/VBN with/IN six/CD minutes/NNS to/TO go/VB for/IN an/DT offence/NN in/IN the/DT line-out./JJ
+O'Gara/NNP made/VBD no/DT mistake/NN as/IN he/PRP rifled/VBD over/IN his/PRP$ fifth/JJ penalty/NN to/TO set/VB up/RP a/DT tense/JJ final/JJ few/JJ minutes./NN
+But/CC Ireland/NNP showed/VBD great/JJ composure/NN to/TO get/VB themselves/PRP into/IN a/DT position/NN to/TO allow/VB O'Gara/NNP to/TO thump/VB over/IN a/DT massive/JJ drop/NN goal/NN to/TO complete/VB a/DT tremendous/NN if/IN fortuitous/JJ comeback./NN

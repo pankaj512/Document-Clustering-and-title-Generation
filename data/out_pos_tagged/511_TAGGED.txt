@@ -1,0 +1,15 @@
+Gallery/NNP unveils/VBZ interactive/JJ tree/NN
+
+A/DT Christmas/NNP tree/NN that/WDT can/MD receive/VB text/NN messages/NNS has/VBZ been/VBN unveiled/VBN at/IN London's/NNP Tate/NNP Britain/NNP art/NN gallery./NN
+
+The/DT spruce/VBP has/VBZ an/DT antenna/NN which/WDT can/MD receive/VB Bluetooth/NNP texts/NNS sent/VBN by/IN visitors/NNS to/TO the/DT Tate./NNP
+The/DT messages/NNS will/MD be/VB "unwrapped"/NN by/IN sculptor/NN Richard/NNP Wentworth/NNP who/WP is/VBZ responsible/JJ for/IN decorating/VBG the/DT tree/NN with/IN broken/VBN plates/NNS and/CC light/JJ bulbs./NN
+It/PRP is/VBZ the/DT 17th/JJ year/NN that/IN the/DT gallery/NN has/VBZ invited/VBN an/DT artist/NN to/TO dress/VB their/PRP$ Christmas/NNP tree./NN
+Artists/NNP who/WP have/VBP decorated/VBN the/DT Tate/NNP tree/NN in/IN previous/JJ years/NNS include/VBP Tracey/NNP Emin/NNP in/IN 2002./CD
+
+The/DT plain/JJ green/JJ Norway/NNP spruce/VB is/VBZ displayed/VBN in/IN the/DT gallery's/NNS foyer./NN
+Its/PRP$ light/JJ bulb/NN adornments/NNS are/VBP dimmed/VBN ordinary/JJ domestic/JJ ones/NNS joined/VBD together/RB with/IN string./NN
+The/DT plates/NNS decorating/VBG the/DT branches/NNS will/MD be/VB auctioned/VBN off/RP for/IN the/DT children's/NNS charity/NN ArtWorks./NNP
+Wentworth/NNP worked/VBD as/IN an/DT assistant/NN to/TO sculptor/VB Henry/NNP Moore/NNP in/IN the/DT late/JJ 1960s./CD
+His/PRP$ reputation/NN as/IN a/DT sculptor/NN grew/VBD in/IN the/DT 1980s/CD while/IN he/PRP has/VBZ been/VBN one/CD of/IN the/DT most/RBS influential/JJ teachers/NNS during/IN the/DT last/JJ two/CD decades./NN
+Wentworth/NNP is/VBZ also/RB known/VBN for/IN his/PRP$ photography/NN of/IN mundane/JJ everyday/JJ subjects/NNS such/JJ as/IN a/DT cigarette/NN packet/NN jammed/VBN under/IN the/DT wonky/JJ leg/NN of/IN a/DT table./NN

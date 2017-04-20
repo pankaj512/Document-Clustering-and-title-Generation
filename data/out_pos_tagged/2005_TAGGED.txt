@@ -1,0 +1,17 @@
+Mobiles/NNP double/JJ up/RP as/IN bus/NN tickets/NNS
+
+Mobiles/NNP could/MD soon/RB double/VB up/RP as/IN travel/NN cards/NNS with/IN Nokia/NNP planning/VBG to/TO try/VB out/RP a/DT wireless/JJ ticket/NN system/NN on/IN German/JJ buses./NN
+
+Early/RB next/JJ year/NN travellers/NNS in/IN the/DT city/NN of/IN Hanau/NNP near/IN Frankfurt/NNP will/MD be/VB able/JJ to/TO pay/VB for/IN tickets/NNS by/IN passing/VBG their/PRP$ phone/NN over/IN a/DT smart-card/JJ reader/NN already/RB installed/VBD on/IN the/DT buses./NN
+Passengers/NNS will/MD need/VB to/TO own/VB a/DT Nokia/NNP 3220/CD handset/NN which/WDT will/MD have/VB a/DT special/JJ shell/NN attached/VBN to/TO it./VB
+The/DT system/NN would/MD reduce/VB queues/NNS and/CC make/VB travelling/VBG easier/JJR said/VBD Nokia./NNP
+
+Transport/NN systems/NNS around/IN the/DT world/NN are/VBP seeing/VBG the/DT advantage/NN of/IN using/VBG ticketless/JJ smartcards./NN
+Using/VBG a/DT mobile/JJ phone/NN is/VBZ the/DT next/JJ step/NN said/VBD Gerhard/NNP Romen/NNP head/NN of/IN market/NN development/NN at/IN Nokia./NNP
+
+The/DT ticketless/JJ trial/NN will/MD start/VB early/RB in/IN 2005/CD and/CC people/NNS will/MD also/RB be/VB able/JJ to/TO access/VB transport/NN information/NN and/CC timetables/NNS via/IN their/PRP$ phones./NN
+Nokia/NNP has/VBZ worked/VBN with/IN electronics/NNS giant/JJ Philips/NNP to/TO develop/VB a/DT shell/NN for/IN the/DT mobile/JJ phone/NN that/WDT will/MD be/VB compatible/JJ with/IN Hanau's/NNP existing/VBG ticketing/VBG system./NN
+The/DT system/NN opens/VBZ up/RP possibilities/NNS for/IN mobile/JJ devices/NNS to/TO be/VB interact/JJ with/IN everyday/JJ environments/NNS said/VBD Mr/NNP Romen./NNP
+"It/NN could/MD be/VB used/VBN in/IN shops/NNS to/TO get/VB product/NN information/NN at/IN bus-stops/NNS to/TO get/VB information/NN about/IN the/DT next/JJ bus/NN or/CC for/IN example/NN by/IN being/VBG passed/VBN over/IN an/DT advert/NN of/IN a/DT rock/NN star/NN to/TO find/VB out/RP details/NNS of/IN concerts/NNS or/CC get/VB ringtones"/NN he/PRP told/VBD the/DT BBC/NNP News/NNP website./NN
+He/PRP is/VBZ confident/JJ that/IN the/DT trial/NN being/VBG run/VBN in/IN Germany/NNP could/MD be/VB extended/VBN to/TO transport/VB systems/NNS in/IN other/JJ countries./NN
+"The/NN technology/NN offers/VBZ access/NN to/TO a/DT lot/NN of/IN services/NNS and/CC makes/VBZ it/PRP easy/JJ to/TO get/VB the/DT information/NN you/PRP want"/VBP he/PRP said./VB

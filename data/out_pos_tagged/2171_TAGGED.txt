@@ -1,0 +1,37 @@
+Cebit/NNP opens/VBZ to/TO mobile/JJ music/NN tune/NN
+
+Cebit/VBG the/DT world's/NNS largest/JJS hi-tech/JJ fair/JJ has/VBZ opened/VBN its/PRP$ doors/NNS in/IN Hanover/NNP for/IN a/DT look/NN at/IN the/DT latest/JJS technologies/NNS for/IN homes/NNS and/CC businesses./NN
+
+There/EX are/VBP more/JJR than/IN 6000/CD exhibitors/NNS registered/VBN and/CC about/IN 500000/CD visitors/NNS are/VBP expected/VBN to/TO pass/VB through/IN the/DT doors./NN
+Third/JJ generation/NN mobiles/NNS the/DT digital/JJ home/NN and/CC broadband/NN are/VBP key/JJ themes/NNS at/IN the/DT show./NN
+Camera/NN phones/NNS will/MD get/VB better/JJR resolutions/NNS as/IN vendors/NNS set/VBD out/RP to/TO prove/VB that/IN bigger/JJR is/VBZ definitely/RB better./NN
+Samsung/NNP is/VBZ set/VBN to/TO steal/VB some/DT initial/JJ limelight/NN with/IN the/DT launch/NN of/IN a/DT 7-megapixel/JJ phone/NN on/IN the/DT opening/NN day./NN
+
+The/DT SCH-V770/CD has/VBZ some/DT of/IN the/DT features/NNS of/IN high-end/JJ digital/JJ single/JJ lens/NN reflex/JJ cameras/NNS such/JJ as/IN manual/JJ focus/NN and/CC the/DT ability/NN to/TO attach/VB a/DT telephoto/NN or/CC wide-angle/JJ lens./NN
+Camera/NN phones/NNS are/VBP likely/JJ to/TO prove/VB an/DT interesting/JJ battle/NN ground/NN at/IN the/DT show/NN said/VBD Ben/NNP Wood/NNP principal/JJ analyst/NN at/IN research/NN firm/NN Gartner./NNP
+"It/NN is/VBZ firmly/RB established/VBN that/IN cameras/NNS are/VBP an/DT integral/JJ part/NN of/IN phones/NNS and/CC now/RB the/DT technology/NN arms/NNS race/NN is/VBZ on/RP in/IN terms/NNS of/IN megapixels./NN
+There/EX will/MD be/VB a/DT certain/JJ amount/NN of/IN 'look/NN how/WRB big/JJ mine/JJ is'"/NN he/PRP said./VB
+There/EX will/MD also/RB be/VB increasing/VBG focus/NN on/IN music-enabled/JJ mobiles./NN
+"At/NN 3GSM/CD in/IN Cannes/NNP everyone/NN went/VBD music/NN mad/JJ and/CC music/NN is/VBZ going/VBG to/TO be/VB a/DT big/JJ theme/NN for/IN all/PDT the/DT vendors/NNS at/IN Cebit"/NNP said/VBD Mr/NNP Wood./NNP
+Sony/NNP Ericsson/NNP will/MD use/VB the/DT fair/JJ to/TO show/VB off/RP the/DT W800/CD -/: its/PRP$ recently/RB unveiled/VBD Walkman/NNP branded/VBD phone/NN -/: and/CC there/EX is/VBZ speculation/NN that/IN Motorola/NNP may/MD unveil/VB its/PRP$ ROKR/NNP handset/NN widely/RB tipped/VBD as/IN the/DT first/JJ to/TO carry/VB Apple's/NNP iTunes/NNS music/NN software./NN
+Apple/NNP and/CC Motorola/NNP announced/VBD they/PRP were/VBD getting/VBG together/RB at/IN the/DT end/NN of/IN last/JJ year/NN as/IN a/DT result/NN of/IN a/DT long-standing/JJ friendship/NN between/IN Motorola's/NNP chief/NN executive/NN Ed/NNP Zander/NNP and/CC Steve/NNP Jobs./NNP
+
+Some/DT analysts/NNS think/VBP Motorola/NNP may/MD save/VB the/DT launch/NN for/IN CTIA/NNP a/DT wireless/JJ show/VBP in/IN America/NNP the/DT following/JJ week/NN which/WDT could/MD be/VB a/DT telling/VBG sign/NN about/IN how/WRB operators/NNS are/VBP coming/VBG to/TO view/VB the/DT German/JJ tech/NN fair./NN
+
+"One/NN of/IN the/DT interesting/JJ things/NNS is/VBZ that/IN CeBIT/NNP is/VBZ clearly/RB a/DT show/NN in/IN decline"/NN said/VBD Mr/NNP Wood./NNP
+"A/NN lot/NN of/IN the/DT big/JJ players/NNS such/JJ as/IN Nokia/NNP are/VBP pulling/VBG back/RB saying/VBG it/PRP is/VBZ hard/JJ to/TO justify/VB a/DT big/JJ presence/NN at/IN all/DT of/IN the/DT shows./NN
+It/PRP could/MD be/VB the/DT last/JJ big/JJ year/NN for/IN Cebit"/NNP he/PRP said./VB
+Other/JJ themes/NNS include/VBP TV-enabled/JJ mobiles/NNS which/WDT are/VBP bound/VBN to/TO create/VB a/DT buzz/NN in/IN the/DT halls/NNS as/IN Vodafone/NNP unveils/VBZ a/DT prototype/NN handset/NN that/WDT can/MD show/VB live/NN digital/JJ television./NN
+There/EX has/VBZ been/VBN a/DT glut/NN of/IN recent/JJ headlines/NNS about/IN mobile/JJ TV/NN -/: French/JJ operators/NNS are/VBP teaming/VBG up/RP O2/CD is/VBZ trialling/VBG a/DT system/NN in/IN Oxford/NNP UK/NNP and/CC Nokia/NNP begins/VBZ trialling/VBG a/DT system/NN in/IN Finland/NNP with/IN the/DT Finnish/JJ Broadcasting/NNP Company/NNP YLE/NNP TV/NN and/CC commercial/JJ TV/NN channels./NN
+Cebit/NNP could/MD become/VB the/DT battleground/NN for/IN the/DT two/CD competing/VBG methods/NNS for/IN getting/VBG TV/NN on/RP to/TO mobiles/NNS and/CC is/VBZ also/RB likely/JJ to/TO provide/VB a/DT stage/NN for/IN a/DT technology/NN slated/VBN to/TO compete/VB with/IN 3G./CD
+HSDPA/NNP (High/NN Speed/VB Downlink/NNP Packet/NN Access)/NNP has/VBZ been/VBN described/VBN as/IN "3G/CD on/IN steroids"/NN and/CC could/MD offer/VB consumers/NNS much/JJ faster/JJR download/NN times./NN
+For/IN instance/NN a/DT song/NN which/WDT currently/RB takes/VBZ one/CD and/CC a/DT half/NN minutes/NNS to/TO download/VB to/TO a/DT phone/NN could/MD be/VB done/VBN in/IN 10/CD seconds./NN
+Korean/JJ giants/NNS LG/NNP Electronics/NNP and/CC Samsung/NNP will/MD show/VB off/RP HSDPA/NNP handsets/NNS at/IN the/DT show/NN and/CC the/DT technology/NN is/VBZ set/VBN to/TO be/VB rolled/VBN out/RP in/IN the/DT US/PRP Europe/NNP and/CC Korea/NNP next/JJ year./NN
+Broadband/NNP will/MD continue/VB to/TO be/VB a/DT key/JJ theme/NN at/IN the/DT show/NN with/IN internet/JJ telephony/NN proving/VBG this/DT year's/NNS killer/NN application./NN
+
+Germany's/NNP largest/JJS online/NN service/NN provider/NN T-Online/NNP is/VBZ tipped/VBN to/TO reveal/VB software/NN for/IN low-cost/JJ net/JJ telephony/NN which/WDT would/MD see/VB it/PRP competing/VBG with/IN its/PRP$ parent/NN company/NN Deutsche/NNP Telekom./NNP
+Cebit/NNP is/VBZ used/VBN by/IN many/JJ to/TO unveil/VB cutting/VBG edge/NN products/NNS and/CC in/IN the/DT mobile/JJ sphere/NN this/DT is/VBZ likely/JJ to/TO mean/VB a/DT lot/NN of/IN bright/JJ colourful/JJ handsets/NNS as/IN fashion/NN continues/VBZ to/TO compete/VB with/IN technology/NN when/WRB it/PRP comes/VBZ to/TO the/DT device/NN everyone/NN has/VBZ in/IN their/PRP$ pockets./NN
+Rainbow-coloured/JJ phones/NNS influenced/VBN by/IN handsets/NNS from/IN Japan/NNP are/VBP just/RB one/CD example/NN of/IN how/WRB Asian/JJ companies/NNS will/MD stamp/VB their/PRP$ mark/NN on/IN this/DT year's/NNS show/VBP at/IN which/WDT they/PRP will/MD have/VB their/PRP$ biggest/JJS ever/RB presence./NN
+Cebit/NN organisers/NNS have/VBP created/VBN a/DT digital/JJ home/NN in/IN Hall/NNP 25/CD of/IN the/DT 27/CD hangar-like/JJ buildings/NNS that/WDT will/MD house/VB the/DT show./NN
+"The/NN digital/JJ home/NN will/MD be/VB a/DT hyped/VBN theme/NN at/IN the/DT show./NN
+The/DT house/NN will/MD be/VB totally/RB wired/VBN and/CC full/JJ of/IN things/NNS that/WDT can/MD be/VB used/VBN for/IN home/NN entertainment"/NN said/VBD Cebit/NNP organiser/NN Gabriele/NNP Dorries./NNP

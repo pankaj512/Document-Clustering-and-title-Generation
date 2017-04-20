@@ -1,0 +1,15 @@
+Half-Life/NN 2/CD sweeps/NNS Bafta/NNP awards/NNS
+
+PC/NN first/JJ person/NN shooter/NN Half-Life/NN 2/CD has/VBZ won/VBN six/CD Bafta/NNP Awards/NNS including/VBG best/JJS game/NN and/CC best/JJS online/NN game./NN
+
+The/DT title/NN developed/VBD by/IN Valve/NN was/VBD released/VBN last/JJ year/NN to/TO universal/JJ acclaim/VB -/: receiving/VBG special/JJ praise/NN for/IN its/PRP$ immersive/JJ plot/NN and/CC physics/NN engine./NN
+The/DT game/NN also/RB won/VBD Baftas/NNP for/IN best/JJS action/NN adventure/NN best/JJS PC/NN game/NN art/NN direction/NN and/CC animation./NN
+Burnout/NN 3/CD won/VBD three/CD awards/NNS in/IN the/DT categories/NNS for/IN racing/VBG technical/JJ direction/NN and/CC best/JJS PlayStation/NNP 2/CD game./NN
+Grant/NNP Dean/NNP chairman/NN of/IN the/DT Bafta/NNP games/NNS awards/NNS said/VBD at/IN a/DT ceremony/NN in/IN London/NNP on/IN Tuesday/NNP "The/NN last/JJ year/NN has/VBZ been/VBN a/DT great/JJ year/NN for/IN the/DT interactive/JJ entertainment/NN industry./NN
+
+"These/NN awards/NNS reflect/VBP the/DT enormous/JJ achievements/NNS progress/NN and/CC diversity/NN that/IN we/PRP have/VBP seen/VBN in/IN that/DT time."/NN Halo/NN 2/CD won/VBD the/DT best/JJS Xbox/NNP game/NN category/NN while/IN Prince/NNP of/IN Persia/NNP Warrior/NN Within/IN was/VBD adjudged/VBN the/DT best/JJS GameCube/NNP title./NN
+The/DT sports/NNS award/NN went/VBD to/TO Konami's/NNP Pro/FW Evolution/NN Soccer/NN 4./CD
+Bafta/NNP said/VBD the/DT "significant/NN feature"/NN of/IN this/DT year's/NNS awards/NNS was/VBD the/DT number/NN of/IN "non-traditional/JJ games"./NN
+The/DT originality/NN award/NN was/VBD won/VBN by/IN PlayStation/NNP 2/CD title/NN Singstar/NNP while/IN the/DT children's/NNS award/NN went/VBD to/TO GameCube/NNP bongo/NN rhythm/NN game/NN Donkey/NNP Konga./NNP
+The/DT Handheld/JJ Award/NN went/VBD to/TO Colin/NNP McRae/NNP Rally/NNP 2005/CD while/IN the/DT mobile/JJ category/NN was/VBD won/VBN by/IN Blue/NNP Tooth/NN Byplanes./NNP
+The/DT audio/JJ award/NN was/VBD won/VBN by/IN Call/NN of/IN Duty/NN Finest/JJS Hour/NN and/CC Hitman/NNP Contracts/NNPS won/VBD the/DT music/NN award./NN

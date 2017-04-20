@@ -1,0 +1,22 @@
+Young/NNP debut/NN cut/NN short/JJ by/IN Ginepri/NNP
+
+Fifteen-year-old/NNP Donald/NNP Young's/NNP first/JJ appearance/NN in/IN an/DT ATP/NNP tennis/NN tournament/NN proved/VBD brief/JJ as/IN the/DT teenager/NN went/VBD out/RP in/IN round/NN one/CD of/IN the/DT San/NNP Jose/NNP Open./NNP
+
+Young/NNP shot/NN to/TO the/DT top/NN of/IN the/DT junior/JJ world/NN rankings/NNS when/WRB he/PRP won/VBD the/DT boys'/NN singles/NNS at/IN January's/NNP Australian/JJ Open./NNP
+But/CC the/DT wildcard/NN entry/NN was/VBD dispatched/VBN by/IN fellow/JJ American/NNP Robby/NNP Ginepri/NNP in/IN straight/JJ sets/NNS 6-2/JJ 6-2/NN in/IN California./NNP
+Despite/IN that/IN he/PRP was/VBD happy/JJ with/IN his/PRP$ Tour/NN debut./NN
+"It/NN was/VBD fun./NN
+I/PRP had/VBD my/PRP$ chances/NNS but/CC they/PRP didn't/VBP come/VBN through"/NN he/PRP said./VB
+Young/NNP who/WP beat/VBP two/CD players/NNS ranked/VBD in/IN the/DT top/JJ 200/CD when/WRB he/PRP was/VBD just/RB 14/CD was/VBD only/RB 2-1/JJ down/RP in/IN the/DT first/JJ set/VBN before/IN losing/VBG 10/CD of/IN the/DT next/JJ 13/CD games./NN
+And/CC Ginepri/NNP -/: six/CD years/NNS older/JJR than/IN the/DT youngest/JJS player/NN to/TO ever/RB win/VB a/DT junior/JJ slam/NN and/CC top/JJ the/DT global/JJ standings/NNS -/: admitted/VBN he/PRP was/VBD impressed./NN
+
+"He's/NN very/RB talented"/NN said/VBD Ginepri./NNP
+"He's/NN got/VBD a/DT long/JJ future/JJ ahead/RB of/IN him./NN
+"Being/VBG left-handed/JJ he/PRP was/VBD very/RB quick/JJ around/IN the/DT court./NN
+"His/NN serve/NN is/VBZ a/DT little/JJ deceptive./NN
+He/PRP came/VBD into/IN the/DT net/JJ and/CC volleyed/JJ better/RB than/IN I/PRP thought."/VBP Earlier/RBR South/NNP Korean/JJ Hyung-Taik/NNP Lee/NNP defeated/VBD American/NNP Jan-Michael/NNP Gambill/NNP 6-3/JJ 7-6/JJ (7-4)./JJ
+American/NNP Kevin/NNP Kim/NNP defeated/VBD Jan/NNP Hernych/NNP of/IN the/DT Czech/JJ Republic/NNP 7-5/JJ 6-3/JJ Canadian/JJ qualifier/NN Frank/NNP Dancevic/NNP downed/VBD American/NNP Jeff/NNP Morrison/NNP 4-6/JJ 7-6/JJ (7-3)/JJ 6-0/JJ and/CC Denmark's/NNP Kenneth/NNP Carlsen/NNP beat/VB Irakli/NNP Labadze/NNP of/IN the/DT Republic/NNP of/IN Georgia/NNP 6-7/JJ (4-7)/JJ 6-2/JJ 6-3./JJ
+Top/JJ seed/NN Andy/NNP Roddick/NNP launches/VBZ his/PRP$ defence/NN of/IN the/DT title/NN on/IN Wednesday/NNP against/IN qualifier/NN Paul/NNP Goldstein./NNP
+Second/JJ seed/NN Andre/NNP Agassi/NNP opens/VBZ his/PRP$ campaign/NN on/IN Tuesday/NNP against/IN wildcard/NN Bobby/NNP Reynolds/NNP last/JJ year's/NNS US/PRP collegiate/JJ champion./NN
+Agassi/NNP has/VBZ won/VBN the/DT San/NNP Jose/NNP five/CD times/NNS but/CC his/PRP$ run/NN of/IN three/CD straight/JJ titles/NNS ended/VBD last/JJ year/NN when/WRB he/PRP fell/VBD to/TO Mardy/NNP Fish/NN in/IN the/DT semi-finals./JJ
+Fish/NN went/VBD on/RP to/TO lose/VB to/TO Roddick/NNP in/IN the/DT final./NN

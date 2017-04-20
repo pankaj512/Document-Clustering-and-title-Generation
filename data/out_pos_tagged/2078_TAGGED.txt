@@ -1,0 +1,19 @@
+Broadband/NNP in/IN the/DT UK/NNP gathers/NNS pace/NN
+
+One/CD person/NN in/IN the/DT UK/NNP is/VBZ joining/VBG the/DT internet's/NNS fast/RB lane/VBP every/DT 10/CD seconds/NNS according/VBG to/TO BT./NNP
+
+The/DT telecoms/NNS giant/NN said/VBD the/DT number/NN of/IN people/NNS on/IN broadband/NN via/IN the/DT telephone/NN line/NN had/VBD now/RB surpassed/VBN four/CD million./NN
+Including/VBG those/DT connected/VBN via/IN cable/NN almost/RB six/CD million/CD people/NNS have/VBP a/DT fast/RB always-on/JJ connection./NN
+The/DT boom/NN has/VBZ been/VBN fuelled/VBN by/IN fierce/JJ competition/NN and/CC falling/VBG prices/NNS as/RB well/RB as/IN the/DT greater/JJR availability/NN of/IN broadband/NN over/IN the/DT phone/NN line./NN
+"The/NN take-up/JJ rate/NN for/IN broadband/NN is/VBZ accelerating/VBG at/IN a/DT terrific/JJ pace"/NN said/VBD Ben/NNP Verwaayen/NNP BT's/NNP chief/NN executive./NN
+"We/NN will/MD be/VB in/IN a/DT very/RB strong/JJ position/NN to/TO hit/VB our/PRP$ five/CD million/CD target/NN by/IN summer/NN 2006/CD much/JJ earlier/RBR than/IN we/PRP had/VBD previously/RB expected."/NN
+
+The/DT last/JJ million/CD connections/NNS were/VBD made/VBN over/IN the/DT past/JJ four/CD months/NNS with/IN thousands/NNS of/IN people/NNS being/VBG added/VBD to/TO the/DT total/JJ every/DT day/NN of/IN the/DT week./NN
+
+Those/DT signing/VBG up/IN to/TO broadband/VB include/VBP those/DT that/WDT get/VBP their/PRP$ service/NN direct/JJ from/IN BT/NNP or/CC via/IN the/DT many/JJ companies/NNS that/IN re-sell/JJ BT/NNP lines/NNS under/IN their/PRP$ own/JJ name./NN
+Part/NN of/IN the/DT surge/NN in/IN people/NNS signing/VBG up/RP was/VBD due/JJ to/TO BT/NNP stretching/VBG the/DT reach/NN of/IN ADSL/NNP -/: the/DT UK's/NNP most/RBS widely/RB used/VBN way/NN of/IN getting/VBG broadband/NN -/: beyond/IN six/CD kilometres./NN
+Asymmetric/NNP Digital/NNP Subscriber/NN Line/NNP technology/NN lets/VBZ ordinary/JJ copper/NN phone/NN lines/NNS support/VBP high/JJ data/NNS speeds./NN
+The/DT standard/JJ speed/NN is/VBZ 512kbps/CD though/IN faster/JJR connections/NNS are/VBP available./NN
+According/VBG to/TO BT/NNP more/JJR than/IN 95%/CD of/IN UK/NNP homes/NNS and/CC businesses/NNS can/MD receive/VB broadband/NN over/IN the/DT phone/NN line./NN
+It/PRP aims/VBZ to/TO extend/VB this/DT figure/NN to/TO 99.4%/CD by/IN next/JJ summer./NN
+There/EX are/VBP also/RB an/DT estimated/VBN 1.7/CD million/CD cable/NN broadband/NN customers/NNS in/IN the/DT UK./NNP

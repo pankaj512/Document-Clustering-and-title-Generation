@@ -1,0 +1,20 @@
+BMW/NN drives/NNS record/NN sales/NNS in/IN Asia/NNP
+
+BMW/NNP has/VBZ forecast/NN sales/NNS growth/NN of/IN at/IN least/JJS 10%/CD in/IN Asia/NNP this/DT year/NN after/IN registering/VBG record/NN sales/NNS there/RB in/IN 2004./CD
+
+The/DT luxury/NN carmaker/NN saw/VBD strong/JJ sales/NNS of/IN its/PRP$ three/CD marques/NNS -/: BMW/NNP Mini/NNP and/CC Rolls-Royce/NNP -/: in/IN Asia/NNP last/JJ year/NN after/IN the/DT launch/NN of/IN three/CD new/JJ models./NN
+The/DT company/NN which/WDT is/VBZ vying/VBG with/IN Mercedes-Benz/NNP for/IN the/DT title/NN of/IN leading/VBG premium/NN carmaker/NN is/VBZ confident/JJ about/IN its/PRP$ prospects/NNS for/IN the/DT region/NN in/IN 2005./CD
+It/PRP is/VBZ launching/VBG a/DT revamped/VBN version/NN of/IN its/PRP$ 3-Series/JJ saloon/NN class/NN next/JJ month./NN
+
+BMW/NNP sold/VBD nearly/RB 95000/CD cars/NNS in/IN Asia/NNP last/JJ year/NN up/IN 2.6%/CD on/IN 2003./CD
+
+BMW-brand/NNP sales/NNS rose/VBD 2.3%/CD to/TO 80600/CD while/IN sales/NNS of/IN Mini/NNP models/NNS rose/VBD 3.6%/CD to/TO 14800./CD
+There/EX was/VBD also/RB a/DT significant/JJ increase/NN in/IN sales/NNS of/IN Rolls-Royces/NNP on/IN the/DT continent./NN
+BMW/NNP sold/VBD more/JJR than/IN 100/CD of/IN the/DT iconic/JJ models/NNS compared/VBN with/IN just/RB ten/VB the/DT previous/JJ year./NN
+The/DT German/JJ carmaker/NN is/VBZ aiming/VBG to/TO boost/VB annual/JJ sales/NNS in/IN Asia/NNP to/TO 150000/CD by/IN 2008./CD
+"Here/NN in/IN Asia/NNP we/PRP consider/VBP a/DT double-digit/JJ increase/NN in/IN retail/JJ on/IN the/DT order/NN of/IN 10/CD to/TO 15%/CD to/TO be/VB realistic/JJ on/IN the/DT basis/NN of/IN current/JJ features"/NN said/VBD Helmut/NNP Panke/NNP BMW's/NNP group/NN chief/NN executive./NN
+
+China/NNP remains/VBZ the/DT main/JJ area/NN of/IN concern/NN for/IN BMW/NNP after/IN sales/NNS there/RB fell/VBD 16%/CD last/JJ year./NN
+However/RB BMW/NNP is/VBZ hopeful/JJ of/IN a/DT much/RB better/JJR year/NN in/IN 2005/CD as/IN its/PRP$ direct/JJ investment/NN in/IN China/NNP begins/VBZ to/TO pay/VB dividends./NN
+The/DT company/NN only/RB began/VBD assembling/VBG luxury/NN high-powered/JJ sedans/NNS in/IN China/NNP in/IN 2003./CD
+2004/CD was/VBD generally/RB a/DT good/JJ year/NN for/IN BMW/NNP which/WDT saw/VBD revenues/NNS from/IN its/PRP$ core/NN car-making/JJ operations/NNS rise/VBP 11%./CD

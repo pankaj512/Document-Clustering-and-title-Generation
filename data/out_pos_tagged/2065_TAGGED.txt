@@ -1,0 +1,14 @@
+Hollywood/NN to/TO sue/VB net/JJ film/NN pirates/NNS
+
+The/DT US/PRP movie/VBP industry/NN has/VBZ launched/VBN legal/JJ action/NN to/TO sue/VB people/NNS who/WP facilitate/VBP illegal/JJ film/NN downloading./NN
+
+The/DT Motion/NNP Picture/NNP Association/NNP of/IN America/NNP wants/VBZ to/TO stop/VB people/NNS using/VBG the/DT program/NN BitTorrent/NNP to/TO swap/VB movies./NN
+The/DT industry/NN is/VBZ targeting/VBG people/NNS who/WP run/VBP websites/NNS which/WDT provide/VBP information/NN and/CC internet/JJ links/NNS to/TO movies/NNS which/WDT have/VBP been/VBN copied/VBN or/CC filmed/VBN in/IN cinemas./NN
+More/JJR than/IN 100/CD server/NN operators/NNS have/VBP been/VBN targeted/VBN in/IN the/DT actions/NNS launched/VBN in/IN the/DT US/PRP and/CC UK/NNP the/DT MPAA/NNP added./NN
+The/DT suits/NNS were/VBD filed/VBN against/IN users/NNS of/IN the/DT file-sharing/JJ programs/NNS BitTorrent/NNP eDonkey/NN and/CC DirectConnect/NNP in/IN the/DT United/NNP States/NNPS United/NNP Kingdom/NNP France/NNP Finland/NNP and/CC the/DT Netherlands/NNP the/DT MPAA/NNP said./NN
+
+BitTorrent/NN users/NNS can/MD download/VB movies/NNS by/IN following/VBG a/DT link/NN to/TO files/NNS which/WDT are/VBP found/VBN on/IN websites/NNS called/VBD trackers./NN
+Unlike/IN most/RBS peer-to-peer/JJ programs/NNS BitTorrent/NNP works/VBZ by/IN sharing/VBG a/DT file/NN which/WDT could/MD be/VB anything/NN from/IN a/DT legitimate/JJ digital/JJ photo/NN to/TO a/DT copied/VBN movie/NN among/IN multiple/JJ users/NNS at/IN the/DT same/JJ time./NN
+The/DT movie/NN industry/NN hopes/NNS that/IN suing/VBG the/DT people/NNS who/WP run/VBP the/DT trackers/NNS will/MD cut/VB BitTorrent/NNP users/NNS off/RP from/IN illegal/JJ movies/NNS at/IN source./NN
+Last/JJ month/NN major/JJ film/NN studios/NNS started/VBD legal/JJ action/NN against/IN 200/CD individuals/NNS who/WP were/VBD swapping/VBG films/NNS online./NN
+The/DT growth/NN in/IN broadband/NN has/VBZ made/VBN it/PRP quicker/JJR for/IN people/NNS to/TO download/VB movies/NNS and/CC the/DT industry/NN fears/NNS that/IN if/IN it/PRP does/VBZ not/RB take/VB action/NN now/RB it/PRP could/MD suffer/VB the/DT same/JJ downturn/NN as/IN the/DT music/NN industry./NN

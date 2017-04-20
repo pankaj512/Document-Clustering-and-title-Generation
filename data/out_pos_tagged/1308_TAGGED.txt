@@ -1,0 +1,14 @@
+'Last/NN chance'/NN warning/NN for/IN voters/NNS
+
+People/NNS in/IN England/NNP Scotland/NNP and/CC Wales/NNP must/MD have/VB registered/VBN by/IN 1700/CD GMT/NNP to/TO be/VB able/JJ to/TO vote/VB in/IN the/DT general/JJ election/NN if/IN it/PRP is/VBZ held/VBN as/IN expected/VBN on/IN 5/CD May./NNP
+
+Those/DT who/WP filled/VBD in/IN forms/NNS last/JJ autumn/NN should/MD already/RB be/VB on/IN the/DT register/NN -/: but/CC those/DT who/WP have/VBP moved/VBN house/NN or/CC were/VBD on/IN holiday/NN may/MD have/VB been/VBN left/VBN off./NN
+There/EX will/MD also/RB be/VB elections/NNS for/IN local/JJ councils/NNS and/CC mayors/NNS in/IN parts/NNS of/IN England/NNP on/IN 5/CD May./NNP
+The/DT deadline/NN for/IN voters/NNS to/TO register/VB in/IN Northern/JJ Ireland/NNP expired/VBD on/IN Thursday./NNP
+
+Completed/VBN registration/NN forms/NNS can/MD be/VB handed/VBN into/IN local/JJ authorities/NNS throughout/IN the/DT day/NN on/IN Friday/NNP and/CC some/DT will/MD accept/VB them/PRP by/IN fax./NN
+As/RB well/RB as/IN for/IN English/JJ county/NN councils/NNS polls/NNS for/IN unitary/JJ authorities/NNS at/IN Bristol/NNP Isle/NNP of/IN Wight/NNP and/CC Stockton-on-Tees/NNP and/CC mayors/NNS at/IN Doncaster/NNP Hartlepool/NNP North/NNP Tyneside/NNP and/CC Stoke-on-Trent/NNP are/VBP also/RB scheduled/VBN for/IN 5/CD May./NNP
+Last/JJ week/NN Preston/NNP City/NNP Council/NNP reported/VBD that/IN more/JJR than/IN 14000/CD of/IN its/PRP$ voters/NNS were/VBD not/RB registered./NN
+Its/PRP$ electoral/JJ roll/NN fell/VBD by/IN 17.5%/CD in/IN a/DT year/NN -/: the/DT biggest/JJS dip/NN in/IN the/DT UK./NNP
+An/DT Electoral/JJ Commission/NNP spokeswoman/NN said/VBD "Political/JJ decisions/NNS are/VBP made/VBN on/IN your/PRP$ behalf/NN every/DT day/NN but/CC only/RB by/IN using/VBG your/PRP$ right/NN to/TO vote/VB at/IN an/DT election/NN can/MD you/PRP really/RB have/VBP a/DT say/NN on/IN the/DT issues/NNS you/PRP care/VBP about./NN
+"If/NN you/PRP want/VBP your/PRP$ voice/NN to/TO be/VB heard/VBN on/IN 5/CD May/NNP you/PRP will/MD need/VB to/TO have/VB registered/VBN by/IN Friday/NNP 11/CD March."/NNP Council/NNP tax/NN payers/NNS are/VBP not/RB eligible/JJ to/TO vote/VB without/IN registration/NN officials/NNS have/VBP stressed./NN

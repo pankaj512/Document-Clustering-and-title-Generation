@@ -1,0 +1,25 @@
+Blair/NNP stresses/VBZ prosperity/NN goals/NNS
+
+Tony/NNP Blair/NNP says/VBZ his/PRP$ party's/NNS next/IN manifesto/NN will/MD be/VB "unremittingly/RB New/NNP Labour"/NNP and/CC aimed/VBD at/IN producing/VBG "personal/JJ prosperity/NN for/IN all"./NN
+
+The/DT prime/JJ minister/NN is/VBZ trying/VBG to/TO draw/VB a/DT line/NN under/IN speculation/NN over/IN the/DT state/NN of/IN his/PRP$ relationship/NN with/IN Gordon/NNP Brown/NNP with/IN the/DT speech/NN in/IN Chatham/NNP Kent./NNP
+He/PRP is/VBZ saying/VBG that/DT prosperity/NN means/VBZ both/DT individual/JJ wealth/NN and/CC ensuring/VBG "radically/RB improved"/NN public/JJ services./NN
+He/PRP is/VBZ also/RB claiming/VBG Labour/NNP is/VBZ more/RBR ideologically/RB united/VBN than/IN ever./NN
+Mr/NNP Brown/NNP is/VBZ currently/RB touring/VBG Africa/NNP after/IN a/DT week/NN of/IN facing/VBG questions/NNS about/IN reports/NNS of/IN his/PRP$ splits/NNS with/IN Downing/NNP Street./NNP
+
+With/IN the/DT election/NN widely/RB predicted/VBD for/IN May/NNP angry/JJ Labour/NNP MPs/NNP this/DT week/NN warned/VBD Mr/NNP Blair/NNP and/CC Mr/NNP Brown/NNP about/IN the/DT dangers/NNS of/IN disunity./JJ
+Now/RB Mr/NNP Blair/NNP is/VBZ trying/VBG to/TO put/VB the/DT focus/NN on/IN the/DT substance/NN of/IN Labour's/NNP platform/NN for/IN a/DT third/JJ term/NN in/IN government./NN
+Labour/NNP made/VBD low/JJ inflation/NN unemployment/NN and/CC mortgage/NN rates/NNS the/DT centrepiece/NN of/IN a/DT new/JJ poster/NN campaign/NN this/DT week./NN
+
+And/CC on/IN Thursday/NNP Mr/NNP Blair/NNP is/VBZ saying/VBG "I/NN want/VBP to/TO talk/VB about/IN the/DT central/JJ purpose/NN ofNew/NN Labour/NNP -/: which/WDT is/VBZ to/TO increase/VB personal/JJ prosperity/NN and/CC well-being/NN not/RB justfor/VB a/DT few/JJ but/CC for/IN all./NN
+"By/NN prosperity/NN I/PRP mean/VBP both/DT the/DT income/NN and/CC wealth/NN of/IN individuals/NNS and/CC theirfamilies/NNS and/CC the/DT opportunity/NN and/CC security/NN available/JJ to/TO them/PRP through/IN radicallyimproved/VBN public/JJ services/NNS and/CC a/DT reformed/VBN welfare/NN state."/NN
+
+The/DT Tories/NNPS are/VBP trying/VBG to/TO capitalise/VB on/IN the/DT apparent/JJ feud/NN at/IN the/DT top/NN of/IN government./NN
+On/IN Wednesday/NNP they/PRP unveiled/VBD a/DT poster/NN which/WDT pictured/VBD the/DT prime/JJ minister/NN and/CC Mr/NNP Brown/NNP under/IN the/DT words/NNS "How/NN can/MD they/PRP fight/RB crime/NN when/WRB they/PRP are/VBP fighting/VBG each/DT other?"/NN Michael/NNP Howard/NNP and/CC frontbencher/NN John/NNP Redwood/NNP on/IN Thursday/NNP launched/VBD new/JJ plans/NNS to/TO abolish/VB hundreds/NNS of/IN quangos./NN
+They/PRP say/VBP government/NN is/VBZ spending/VBG too/RB much/JJ and/CC lower/JJR taxes/NNS are/VBP needed/VBN to/TO make/VB Britain/NNP more/JJR competitive./NN
+
+The/DT Liberal/NNP Democrats/NNPS have/VBP also/RB claimed/VBN infighting/NN its/PRP$ obstructing/VBG good/JJ government./NN
+The/DT latest/JJS speculation/NN about/IN relations/NNS between/IN New/NNP Labour's/NNP two/CD most/RBS powerful/JJ figures/NNS came/VBD after/IN the/DT publication/NN of/IN a/DT new/JJ book/NN Brown's/NNP Britain/NNP by/IN Robert/NNP Preston./NNP
+In/IN it/PRP he/PRP alleges/VBZ that/IN Mr/NNP Blair/NNP told/VBD Mr/NNP Brown/NNP in/IN 2003/CD he/PRP would/MD step/VB down/RP as/IN prime/JJ minister/NN before/IN the/DT coming/VBG general/JJ election./NN
+The/DT book/NN claims/NNS the/DT premier/NN went/VBD back/RB on/IN his/PRP$ pledge/NN after/IN support/NN from/IN Cabinet/NNP allies/NNS and/CC suspicion/NN that/IN Mr/NNP Brown/NNP was/VBD manoeuvring/VBG against/IN him./NN
+Mr/NNP Peston's/NNP book/NN claimed/VBD that/IN Mr/NNP Brown/NNP told/VBD Mr/NNP Blair/NNP "There/NN is/VBZ nothing/NN you/PRP could/MD ever/RB say/VB to/TO me/PRP now/RB that/IN I/PRP could/MD ever/RB believe."/VB On/IN Wednesday/NNP Mr/NNP Blair/NNP directly/RB denied/VBD Mr/NNP Brown/NNP made/VBN that/DT quote/NN and/CC before/IN he/PRP left/VBD for/IN Africa/NNP on/IN Tuesday/NNP the/DT chancellor/NN told/VBD reporters/NNS "Of/NN course/NN I/PRP trust/VBP the/DT prime/JJ minister."/NN

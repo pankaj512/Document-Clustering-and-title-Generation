@@ -1,0 +1,21 @@
+Benitez/NNP delight/NN after/IN crucial/JJ win/NN
+
+Liverpool/NNP manager/NN Rafael/NNP Benitez/NNP admitted/VBD victory/NN against/IN Deportivo/NNP La/NNP Coruna/NNP was/VBD vital/JJ in/IN their/PRP$ tight/JJ Champions/NNS League/NNP group./NN
+
+Jorge/NNP Andrade's/NNP early/JJ own/JJ goal/NN gave/VBD Liverpool/NNP a/DT 1-0/JJ win./NN
+And/CC Benitez/NNP said/VBD "We/NN started/VBD at/IN a/DT very/RB high/JJ tempo/NN and/CC had/VBD many/JJ chances./NN
+It/PRP is/VBZ a/DT very/RB important/JJ win/NN for/IN us/PRP and/CC we/PRP could/MD have/VB scored/VBN more/JJR goals./NN
+"We/NN were/VBD very/RB good/JJ defensively/RB and/CC also/RB good/JJ on/IN the/DT counter/NN attack./NN
+We/PRP are/VBP pleased/JJ but/CC move/VB on/RP to/TO the/DT next/JJ game."/NN Igor/NNP Biscan/NNP was/VBD outstanding/JJ in/IN midfield/NN after/IN replacing/VBG injured/VBN Xabi/NNP Alonso/NNP and/CC Benitez/NNP said/VBD "He/NN played/VBD very/RB well./NN
+"It/NN is/VBZ important/JJ to/TO have/VB all/PDT the/DT players/NNS ready/JJ and/CC a/DT good/JJ squad/NN so/IN you/PRP can/MD play/VB more/JJR games/NNS at/IN a/DT high/JJ level."/NN Benitez/NNP added/VBD "It/NN is/VBZ all/DT back/RB in/IN our/PRP$ own/JJ hands/NNS now/RB it/PRP was/VBD a/DT great/JJ win/NN for/IN us/PRP and/CC I/PRP was/VBD delighted/JJ with/IN what/WP I/PRP feel/VBP was/VBD the/DT best/JJS Liverpool/NNP I/PRP have/VBP seen./NN
+"As/NN far/RB as/IN my/PRP$ feelings/NNS about/IN winning/VBG in/IN Spain/NNP that/WDT is/VBZ really/RB not/RB important./NN
+"I/NN want/VBP to/TO see/VB us/PRP win/VBP away/RB matches/VBZ in/IN the/DT Champions/NNS League/NNP that/IN it/PRP was/VBD in/IN Spain/NNP was/VBD not/RB my/PRP$ first/JJ consideration./NN
+"As/NN far/RB as/IN I/PRP am/VBP concerned/VBN it/PRP is/VBZ important/JJ for/IN Liverpool/NNP to/TO win/VB it/PRP is/VBZ not/RB important/JJ in/IN what/WP country/NN it/PRP is/VBZ in."/NN Benitez/NNP added/VBD Benitez/NNP said/VBD "We/NN had/VBD a/DT problem/NN before/IN the/DT start/NN it/PRP was/VBD decided/VBN that/IN Xabi/NNP could/MD not/RB play/VB more/JJR than/IN 45/CD minutes./NN
+"But/NN in/IN the/DT end/NN because/IN of/IN the/DT way/NN that/DT (Dietmar)/NN Hamann/NNP and/CC (Igor)/NN Biscan/NNP performed/VBD we/PRP did/VBD not/RB need/VB to/TO change/VB things/NNS until/IN right/NN at/IN the/DT end/NN of/IN the/DT match./NN
+"Depor/NN are/VBP a/DT good/JJ team/NN and/CC if/IN you/PRP allow/VBP them/PRP to/TO keep/VB possession/NN they/PRP can/MD be/VB very/RB dangerous/JJ indeed./NN
+"But/NN we/PRP knew/VBD that/IN if/IN we/PRP hit/VBD them/PRP on/IN the/DT counter-attack/JJ it/PRP would/MD make/VB them/PRP nervous/JJ and/CC that/DT is/VBZ how/WRB it/PRP worked/VBD out."/NN Deportivo/NNP coach/NN Javier/NNP Irureta/NNP said/VBD "Liverpool/NN played/VBD very/RB well/RB and/CC we/PRP just/RB could/MD not/RB break/VB them/PRP down./VBP
+"I/NN know/NN we/PRP have/VBP now/RB gone/VBN six/CD games/NNS at/IN home/NN in/IN Europe/NNP without/IN scoring/VBG but/CC that/DT does/VBZ not/RB reflect/VB our/PRP$ overall/JJ performances./NN
+"But/NN this/DT time/NN we/PRP did/VBD not/RB play/VB well/RB and/CC we/PRP lacked/VBD imagination./NN
+"The/NN goal/NN was/VBD a/DT bad/JJ mistake/NN and/CC a/DT big/JJ blow/NN to/TO our/PRP$ confidence./NN
+Players/NNS who/WP usually/RB want/VBP the/DT ball/NN at/IN that/DT stage/NN did/VBD not/RB want/VB it./NN
+"I/NN know/NN we/PRP are/VBP bottom/NN of/IN the/DT group/NN but/CC as/RB long/RB as/IN there/EX is/VBZ hope/NN of/IN qualifying/VBG we/PRP will/MD hang/VB on/IN to/TO that."/VB

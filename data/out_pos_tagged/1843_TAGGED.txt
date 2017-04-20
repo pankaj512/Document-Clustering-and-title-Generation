@@ -1,0 +1,25 @@
+Intel/NNP unveils/VBZ laser/NN breakthrough/NN
+
+Intel/NNP has/VBZ unveiled/VBN research/NN that/WDT could/MD mean/VB data/NNS is/VBZ soon/RB being/VBG moved/VBD around/IN chips/NNS at/IN the/DT speed/NN of/IN light./NN
+
+Scientists/NNS at/IN Intel/NNP have/VBP overcome/VBN a/DT fundamental/JJ problem/NN that/IN before/IN now/RB has/VBZ prevented/VBN silicon/NN being/VBG used/VBN to/TO generate/VB and/CC amplify/VB laser/NN light./NN
+The/DT breakthrough/NN should/MD make/VB it/PRP easier/JJR to/TO interconnect/VB data/NNS networks/NNS with/IN the/DT chips/NNS that/DT process/VBP the/DT information./NN
+The/DT Intel/NNP researchers/NNS said/VBD products/NNS exploiting/VBG the/DT breakthrough/NN should/MD appear/VB by/IN the/DT end/NN of/IN the/DT decade./NN
+
+"We've/NN overcome/VB a/DT fundamental/JJ limit"/NN said/VBD Dr/NNP Mario/NNP Paniccia/NNP director/NN of/IN Intel's/NNP photonics/NNS technology/NN lab./NN
+Writing/VBG in/IN the/DT journal/NN Nature/NNP Dr/NNP Paniccia/NNP -/: and/CC colleagues/NNS Haisheng/NNP Rong/NNP Richard/NNP Jones/NNP Ansheng/NNP Liu/NNP Oded/NNP Cohen/NNP Dani/NNP Hak/NNP and/CC Alexander/NNP Fang/NNP -/: show/NN how/WRB they/PRP have/VBP made/VBN a/DT continuous/JJ laser/NN from/IN the/DT same/JJ material/NN used/VBN to/TO make/VB computer/NN processors./NN
+Currently/RB says/VBZ Dr/NNP Paniccia/NNP telecommunications/NNS equipment/NN that/WDT amplifies/VBZ the/DT laser/NN light/JJ that/WDT travels/VBZ down/RB fibre/NN optic/JJ cables/NNS is/VBZ very/RB expensive/JJ because/IN of/IN the/DT exotic/JJ materials/NNS such/JJ as/IN gallium/NN arsenide/NN used/VBN to/TO make/VB it./NN
+
+Telecommunications/NNS firms/NNS and/CC chip/NN makers/NNS would/MD prefer/VB to/TO use/VB silicon/NN for/IN these/DT light-moving/JJ elements/NNS because/IN it/PRP is/VBZ cheap/JJ and/CC many/JJ of/IN the/DT problems/NNS of/IN using/VBG it/PRP in/IN high-volume/JJ manufacturing/NN have/VBP been/VBN solved./VBG
+"We're/NN trying/VBG to/TO take/VB our/PRP$ silicon/NN competency/NN in/IN manufacturing/NN and/CC apply/VB it/PRP to/TO new/JJ areas"/NN said/VBD Dr/NNP Paniccia./NNP
+While/IN work/NN has/VBZ been/VBN done/VBN to/TO make/VB some/DT of/IN the/DT components/NNS that/WDT can/MD move/VB light/JJ around/IN before/IN now/RB silicon/NN has/VBZ not/RB successfully/RB been/VBN used/VBN to/TO generate/VB or/CC amplify/VB the/DT laser/NN light/JJ pulses/NNS used/VBN to/TO send/VB data/NNS over/IN long/RB distances./JJ
+This/DT is/VBZ despite/IN the/DT fact/NN that/DT silicon/NN is/VBZ a/DT much/RB better/JJR amplifier/NN of/IN light/JJ pulses/NNS than/IN the/DT form/NN of/IN the/DT material/NN used/VBN in/IN fibre/NN optic/JJ cables./NN
+This/DT improved/VBN amplification/NN is/VBZ due/JJ to/TO the/DT crystalline/JJ structure/NN of/IN the/DT silicon/NN used/VBN to/TO make/VB computer/NN chips./NN
+Dr/NNP Paniccia/NNP said/VBD that/IN the/DT structure/NN of/IN silicon/NN meant/VBN that/IN when/WRB laser/NN light/JJ passed/VBN through/IN it/PRP some/DT colliding/VBG photons/NNS rip/NN electrons/NNS off/IN the/DT atoms/NNS within/IN the/DT material./NN
+"It/NN creates/VBZ a/DT cloud/NN of/IN electrons/NNS sitting/VBG in/IN the/DT silicon/NN and/CC that/DT absorbs/VBZ all/PDT the/DT light"/NN he/PRP said./VB
+But/CC the/DT Intel/NNP researchers/NNS have/VBP found/VBN a/DT way/NN to/TO suck/VB away/RB these/DT errant/NN electrons/NNS and/CC turn/VB silicon/NN into/IN a/DT material/NN that/WDT can/MD both/DT generate/VBP and/CC amplify/VB laser/NN light./NN
+Even/RB better/JJR the/DT laser/NN light/JJ produced/VBN in/IN this/DT way/NN can/MD with/IN the/DT help/NN of/IN easy-to-make/JJ filters/NNS be/VB tuned/VBN across/IN a/DT very/RB wide/JJ range/NN of/IN frequencies./NN
+Semi-conductor/NN lasers/NNS made/VBN before/IN now/RB have/VBP only/RB produced/VBD light/NN in/IN a/DT narrow/JJ frequency/NN ranges./NN
+The/DT result/NN could/MD be/VB the/DT close/NN integration/NN of/IN the/DT fibre/NN optic/JJ cables/NNS that/WDT carry/NN data/NNS as/IN light/NN with/IN the/DT computer/NN chips/NNS that/DT process/NN it./NN
+Dr/NNP Paniccia/NNP said/VBD the/DT work/NN was/VBD the/DT one/CD of/IN several/JJ steps/NNS needed/VBN if/IN silicon/NN was/VBD to/TO be/VB used/VBN to/TO make/VB components/NNS that/WDT could/MD carry/VB and/CC process/NN light/NN in/IN the/DT form/NN of/IN data/NNS pulses./NN
+"It's/NN a/DT technical/JJ validation/NN that/IN it/PRP can/MD work"/VB he/PRP said./VB

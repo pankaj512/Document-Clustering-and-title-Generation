@@ -1,0 +1,45 @@
+Mobile/NNP music/NN challenges/NNS 'iPod/NN age'/NN
+
+Nokia/NNP and/CC Microsoft/NNP have/VBP agreed/VBN a/DT deal/NN to/TO work/VB on/IN delivery/NN of/IN music/NN to/TO handsets/NNS while/IN Sony/NNP Ericsson/NNP has/VBZ unveiled/VBN its/PRP$ phone/NN Walkman/NNP and/CC Motorola/NNP is/VBZ working/VBG on/IN an/DT iTunes/NNS phone./NN
+
+Can/MD mobile/VB phones/NNS replace/VBP the/DT MP3/CD player/NN in/IN your/PRP$ pocket?/NN The/DT music/NN download/NN market/NN has/VBZ been/VBN growing/VBG steadily/RB since/IN record/NN firms/NNS embraced/VBD digital/JJ distribution./JJ
+Ease/VB of/IN use/NN relative/JJ low/JJ price/NN and/CC increased/VBN access/NN to/TO broadband/NN has/VBZ helped/VBN drive/VB the/DT phenomenal/JJ growth/NN of/IN MP3/CD players./NN
+
+Full-length/JJ music/NN downloads/NNS on/IN mobile/JJ phones/NNS have/VBP not/RB taken/VBN off/RP so/RB quickly/RB -/: held/VBN back/RB by/IN technical/JJ challenges/NNS as/RB well/RB as/IN issues/NNS over/IN music/NN availability./NN
+But/CC the/DT mobile/JJ music/NN industry/NN is/VBZ confident/JJ that/IN the/DT days/NNS of/IN dedicated/VBN MP3/CD players/NNS are/VBP numbered./NN
+
+Gilles/NNP Babinet/NNP chief/NN executive/NN of/IN mobile/JJ music/NN firm/NN Musiwave/NNP said/VBD "Music/JJ downloads/NNS on/IN mobiles/NNS have/VBP the/DT potential/NN to/TO be/VB the/DT biggest-ever/JJ medium/NN for/IN music."/NN
+
+Musiwave/NNP provides/VBZ downloading/VBG infrastructure/NN for/IN the/DT mobile/JJ phone/NN market/NN and/CC Mr/NNP Babinet/NNP said/VBD the/DT industry/NN was/VBD enjoying/VBG "definite/NN momentum."/NN But/CC there/EX are/VBP hurdles/NNS to/TO overcome./VB
+Mobile/NN phones/NNS offer/VBP limited/VBN storage/NN for/IN music/NN -/: certainly/RB nothing/NN to/TO rival/JJ Apple's/NNP 60GB/CD iPod./NN
+But/CC the/DT first/JJ mobile/JJ phones/NNS with/IN hard/JJ disk/NN players/NNS will/MD be/VB on/IN the/DT market/NN soon/RB and/CC the/DT current/JJ generation/NN of/IN mobiles/NNS using/VBG flash/NN technology/NN can/MD store/VB up/IN to/TO one/CD gigabyte/NN of/IN music/NN -/: enough/RB for/IN 250/CD songs./NN
+"We/NN are/VBP working/VBG in/IN the/DT hard/JJ disk/NN area/NN and/CC we/PRP will/MD be/VB bringing/VBG out/RP exciting/JJ devices"/NN Jonas/NNP Guest/NN vice/NN president/NN for/IN entertainment/NN at/IN Nokia/NNP told/VBD the/DT BBC/NNP News/NNP website./NN
+But/CC will/MD mobiles/NNS become/VBP mere/JJ storage/NN devices?/NN "One/NN of/IN the/DT problems/NNS we/PRP could/MD have/VB is/VBZ that/IN mobiles/NNS are/VBP used/VBN just/RB for/IN storage/NN and/CC playback/NN while/IN PCs/NNS are/VBP used/VBN for/IN downloading"/NN said/VBD Mr/NNP Babinet/NNP
+
+"We/NN don't/NN want/VBP people/NNS to/TO cast/VB aside/RB their/PRP$ PCs/NNS -/: we/PRP want/VBP mobile/JJ users/NNS to/TO hook/VB up/RP into/IN the/DT existing/VBG ecosystems"/NN explained/VBD Mr/NNP Guest./NNP
+"You/NN must/MD enable/VB people/NNS to/TO transfer/VB music/NN from/IN a/DT PC/NN to/TO a/DT handset/NN and/CC vice/NN versa."/NN
+
+One/CD of/IN the/DT key/JJ elements/NNS of/IN the/DT Nokia/NNP and/CC Microsoft/NNP deal/NN is/VBZ the/DT agreed/VBN ability/NN to/TO transfer/VB songs/NNS between/IN a/DT handset/NN and/CC a/DT PC./NNP
+Microsoft/NNP will/MD adopt/VB open/JJ standards/NNS allowing/VBG music/NN to/TO cross/VB boundaries/NNS for/IN the/DT first/JJ time./NN
+Songs/NNS can/MD be/VB downloaded/VBN on/IN PC/NN or/CC mobile/JJ and/CC transferred/VBN between/IN the/DT platforms./NN
+"The/NN line/NN between/IN online/NN and/CC wireless/JJ is/VBZ going/VBG to/TO blur"/VB predicted/VBD Ted/NNP Cohen/NNP senior/JJ vice/NN president/NN of/IN digital/JJ development/NN and/CC distribution/NN at/IN EMI./NNP
+He/PRP said/VBD "The/NN market/NN is/VBZ more/RBR regional/JJ in/IN its/PRP$ maturity./NN
+In/IN Asia/NNP it/PRP is/VBZ beyond/IN belief./NN
+"The/NN majority/NN of/IN our/PRP$ digital/JJ revenues/NNS in/IN Asia/NNP comes/VBZ from/IN mobiles./NN
+In/IN North/NNP America/NNP it/PRP is/VBZ fixed/VBN line/NN while/IN there/EX is/VBZ equilibrium/NN in/IN Europe."/NNP
+
+EMI/NNP currently/RB offers/VBZ its/PRP$ entire/JJ 200000/CD download/NN catalogue/NN for/IN use/NN by/IN both/DT by/IN PCs/NNS and/CC mobile/JJ phones./NN
+Mr/NNP Cohen/NNP said/VBD "It's/NN going/VBG to/TO be/VB just/RB as/RB important/JJ to/TO connect/VB through/IN 3G/CD or/CC wireless/JJ as/IN it/PRP is/VBZ through/IN your/PRP$ PC./NNP
+"We/NN want/VBP music/NN to/TO be/VB a/DT continuum."/NN The/DT seamless/JJ experience/NN of/IN mobiles/NNS and/CC PC/NN downloads/NNS is/VBZ approaching/VBG he/PRP predicted./VB
+Mr/NNP Babinet/NNP said/VBD the/DT mobile/JJ phone/NN had/VBD a/DT number/NN of/IN advantages/NNS over/IN PCs/NNS which/WDT would/MD see/VB it/PRP become/VB the/DT focus/NN for/IN music/NN downloading/VBG in/IN the/DT future./NN
+"Getting/VBG music/NN from/IN your/PRP$ PC/NN onto/IN a/DT device/NN is/VBZ not/RB an/DT easy/JJ experience./NN
+You/PRP have/VBP to/TO switch/VB the/DT PC/NN on/IN load/NN the/DT operating/VBG system/NN load/NN the/DT program/NN buy/VBP the/DT music/NN download/NN the/DT music/NN and/CC then/RB transfer/VB the/DT music./NN
+"All/NN of/IN these/DT steps/NNS can/MD be/VB done/VBN in/IN one/CD step/NN on/IN a/DT mobile/JJ phone."/NN He/PRP said/VBD the/DT mobile/JJ phone's/NNS billing/NN system/NN would/MD make/VB it/PRP easier/JJR for/IN teenagers/NNS to/TO embrace/VB downloads/NNS because/IN pre-paid/JJ cards/NNS were/VBD already/RB accepted/VBN by/IN the/DT age/NN group./NN
+
+"Certainly/RB we/PRP have/VBP a/DT problem/NN with/IN battery/NN memory/NN and/CC bandwidth./NN
+But/CC it's/NNS not/RB about/IN the/DT current/JJ status./NN
+It's/NNP about/IN the/DT potential./NN
+"You/NN will/MD have/VB all/DT of/IN your/PRP$ music/NN on/IN your/PRP$ mobile."/NN All/DT three/CD men/NNS said/VBD that/IN the/DT social/JJ interaction/NN of/IN mobile/JJ music/NN would/MD drive/VB the/DT market./NN
+Mr/NNP Cohen/NNP said/VBD "I/NN can/MD send/VB you/PRP the/DT song/NN and/CC it/PRP is/VBZ either/RB billed/VBN to/TO me/PRP or/CC I/PRP send/VBP it/PRP to/TO you/PRP and/CC if/IN you/PRP listen/VBP to/TO it/PRP and/CC want/VBP to/TO keep/VB it/PRP is/VBZ billed/VBN to/TO you./VB
+"It's/NN a/DT social/JJ phenomenon."/NN Mr/NNP Babinet/NNP said/VBD "Today/NN you/PRP use/VBP radio/NN and/CC TV/NN to/TO discover/VB music./NN
+Tomorrow/NN you/PRP will/MD discover/VB and/CC consume/VB music/NN via/IN one/CD device/NN -/: the/DT mobile."/NN

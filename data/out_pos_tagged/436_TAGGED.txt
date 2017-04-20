@@ -1,0 +1,18 @@
+ECB/NNP holds/VBZ rates/NNS amid/IN growth/NN fears/NNS
+
+The/DT European/NNP Central/NNP Bank/NNP has/VBZ left/VBN its/PRP$ key/JJ interest/NN rate/NN unchanged/JJ at/IN 2%/CD for/IN the/DT 19th/JJ month/NN in/IN succession./NN
+
+Borrowing/NN costs/NNS have/VBP remained/VBN on/IN hold/NN amid/IN concerns/NNS about/IN the/DT strength/NN of/IN economic/JJ growth/NN in/IN the/DT 12/CD nations/NNS sharing/VBG the/DT euro/NN analysts/NNS said./NN
+Despite/IN signs/NNS of/IN pick-up/JJ labour/NN markets/NNS and/CC consumer/NN demand/NN remain/VBP sluggish/JJ while/IN firms/NNS are/VBP eyeing/VBG cost/NN cutting/VBG measures/NNS such/JJ as/IN redundancies./NN
+High/JJ oil/NN prices/NNS meanwhile/RB have/VBP put/VBN upward/JJ pressure/NN on/IN the/DT inflation/NN rate./NN
+
+Surveys/NNS of/IN economists/NNS have/VBP shown/VBN that/IN the/DT majority/NN expect/VBP borrowing/NN costs/NNS to/TO stay/VB at/IN 2%/CD in/IN coming/VBG months/NNS with/IN an/DT increase/NN of/IN a/DT quarter/NN of/IN a/DT percentage/NN point/NN predicted/VBD some/DT time/NN in/IN the/DT second/JJ half/NN of/IN the/DT year./NN
+If/IN anything/NN there/EX may/MD be/VB greater/JJR calls/VBZ for/IN an/DT interest/NN rate/NN cut/NN especially/RB with/IN the/DT euro/NN continuing/VBG to/TO strengthen/VB against/IN the/DT dollar./NN
+"The/NN euro/NN land/NN economy/NN is/VBZ still/RB struggling/VBG with/IN this/DT recovery"/NN said/VBD economist/NN Dirk/NNP Schumacher./NNP
+The/DT ECB/NNP "may/NN sound/NN rather/RB hawkish/JJ but/CC once/RB the/DT data/NNS allows/VBZ them/PRP to/TO cut/VB again/RB they/PRP will."/VBP Data/NNP coming/VBG out/IN of/IN Germany/NNP on/IN Thursday/NNP underlined/VBD the/DT problems/NNS facing/VBG European/JJ policy/NN makers./NN
+While/IN Germany's/NNP economy/NN expanded/VBN by/IN 1.7%/CD in/IN 2004/CD growth/NN was/VBD driven/VBN by/IN export/NN sales/NNS and/CC lost/VBD some/DT of/IN its/PRP$ momentum/NN in/IN the/DT last/JJ three/CD months/NNS of/IN the/DT year./NN
+
+The/DT strength/NN of/IN the/DT euro/NN is/VBZ threatening/VBG to/TO dampen/VB that/IN foreign/JJ demand/NN in/IN 2005/CD and/CC domestic/JJ consumption/NN currently/RB is/VBZ not/RB strong/JJ enough/RB to/TO take/VB up/RP the/DT slack./NN
+Inflation/NN in/IN the/DT eurozone/NN however/RB is/VBZ estimated/VBN at/IN about/IN 2.3%/CD in/IN December/NNP above/IN ECB/NNP guidelines/NNS of/IN 2%./CD
+ECB/NNP President/NNP Jean-Claude/NNP Trichet/NNP has/VBZ remained/VBN upbeat/JJ about/IN prospects/NNS for/IN the/DT region/NN and/CC inflation/NN is/VBZ expected/VBN to/TO drop/VB below/IN 2%/CD later/RB in/IN 2005./CD
+The/DT ECB/NNP has/VBZ forecast/JJ economic/JJ growth/NN in/IN the/DT eurozone/NN of/IN 1.9%/CD in/IN 2005./CD

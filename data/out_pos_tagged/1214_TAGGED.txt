@@ -1,0 +1,18 @@
+Labour/NNP in/IN constituency/NN race/NN row/NN
+
+Labour's/NNP choice/NN of/IN a/DT white/JJ candidate/NN for/IN one/CD of/IN the/DT UK's/NNP most/RBS multi-racial/JJ seats/NNS proves/VBZ the/DT need/NN for/IN all-black/JJ short/JJ lists/NNS says/VBZ a/DT race/NN group./NN
+
+Local/JJ councillor/NN Lyn/NNP Brown/NNP was/VBD selected/VBN for/IN West/NNP Ham/NN east/JJ London/NNP in/IN a/DT contest/NN between/IN two/CD white/JJ and/CC five/CD ethnic/JJ minority/NN women./NN
+An/DT Operation/NN Black/NNP Vote/NN spokesman/NN said/VBD they/PRP now/RB wanted/VBD to/TO meet/VB Labour/NNP party/NN chairman/NN Ian/NNP McCartney/NNP for/IN discussions./JJ
+Mr/NNP McCartney/NNP recently/RB announced/VBD party/NN consultation/NN on/IN all-black/JJ shortlists./NN
+However/RB Labour/NNP has/VBZ so/RB far/RB unable/JJ been/VBN unable/JJ to/TO comment/VB on/IN the/DT implications/NNS of/IN the/DT West/NNP Ham/NN result./NN
+
+Ashok/NNP Vishwanathan/NNP of/IN Operation/NN Black/NNP Vote/NN which/WDT aims/VBZ to/TO increase/VB ethnic/JJ minorities'/NN participation/NN in/IN the/DT political/JJ process/NN and/CC their/PRP$ representation/NN said/VBD the/DT result/NN again/RB showed/VBD all-women/JJ shortlists/NNS were/VBD not/RB effective/JJ in/IN getting/VBG minority/NN women/NNS selected./NN
+"I/NN think/VBP all-black/JJ shortlists/NNS are/VBP the/DT only/JJ way/NN to/TO cut/VB to/TO the/DT chase/NN and/CC address/VB the/DT lack/NN of/IN minority/NN candidates"/NN Mr/NNP Vishwanathan/NNP said./NN
+
+Last/JJ month/NN the/DT chairman/NN of/IN the/DT Commission/NNP for/IN Racial/JJ Equality/NN (CRE)/NN also/RB called/VBD for/IN ethnic/JJ minority/NN shortlists/NNS in/IN certain/JJ circumstances./NN
+A/DT CRE/NNP spokesman/NN said/VBD the/DT organisation/NN had/VBD nothing/NN to/TO add/VB on/IN the/DT shortlist/NN issue/NN specifically/RB but/CC would/MD be/VB working/VBG with/IN all/PDT the/DT political/JJ parties/NNS to/TO address/VB the/DT under-representation/NN of/IN ethnic/JJ minorities/NNS in/IN Parliament./NNP
+"We/NN will/MD be/VB raising/VBG it/PRP with/IN each/DT of/IN the/DT party/NN leaders/NNS on/IN a/DT formal/JJ basis/NN and/CC helping/VBG them/PRP find/VBP the/DT most/RBS appropriate/JJ way/NN forward"/NN the/DT spokesman/NN said./NN
+Ethnic/JJ minorities/NNS make/VBP up/RP 8%/CD of/IN the/DT United/NNP Kingdom/NNP population/NN but/CC only/RB 2%/CD of/IN MPs/NNP -/: 13/CD out/IN of/IN 659/CD -/: are/VBP from/IN a/DT visible/JJ minority/NN group./NN
+Twelve/CD of/IN them/PRP represent/VBP Labour/NNP and/CC one/CD is/VBZ a/DT Liberal/NNP Democrat./NNP
+If/IN ethnic/JJ minorities/NNS were/VBD represented/VBN in/IN the/DT House/NNP of/IN Commons/NNPS in/IN proportion/NN to/TO their/PRP$ numbers/NNS in/IN the/DT population/NN there/EX would/MD be/VB 42/CD ethnic/JJ minority/NN MPs./NNP

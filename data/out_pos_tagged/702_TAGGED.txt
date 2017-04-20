@@ -1,0 +1,18 @@
+Springer/NNP criticises/NNS Opera/NNP musical/JJ
+
+Talk/NN show/NN host/NN Jerry/NNP Springer/NNP whose/WP$ programme/NN inspired/VBD the/DT controversial/JJ opera/NN shown/VBN by/IN the/DT BBC/NNP has/VBZ said/VBN he/PRP would/MD not/RB have/VB written/VBN it/PRP himself./NN
+
+The/DT BBC/NNP received/VBD 47000/CD complaints/NNS before/IN the/DT musical/NN was/VBD broadcast/NN and/CC protesters/NNS demonstrated/VBD outside/IN BBC/NNP buildings/NNS across/IN the/DT UK./NNP
+Springer/NNP helped/VBD launch/VB the/DT West/NNP End/NN show/NN and/CC attended/VBD the/DT opening/NN night./NN
+"I/NN wouldn't/NN have/VBP written/VBN it./NN
+I/PRP don't/VBP believe/VBP in/IN making/VBG fun/NN of/IN other/JJ religions"/NN he/PRP said./VB
+
+The/DT TV/NN host/NN said/VBD he/PRP understood/VBD how/WRB people/NNS could/MD have/VB thought/VBN the/DT musical/NN had/VBD gone/VBN too/RB far./NN
+"You/NN know/NN on/IN our/PRP$ TV/NN show/NN if/IN people/NNS use/VBP inappropriate/JJ language/NN we/PRP bleep/VBP it/PRP out/RP if/IN there's/NNS nudity/VBP we/PRP cover/VBP it/PRP up/RP so/IN that/IN viewers/NNS at/IN home/NN don't/NN get/NN to/TO see/VB any/DT of/IN this"/NN he/PRP said./VB
+
+Asked/VBN whether/IN he/PRP thought/VBD the/DT BBC/NNP should/MD have/VB screened/VBN the/DT controversial/JJ musical/NN he/PRP said/VBD "I/NN don't/NN know/NN if/IN they/PRP should/MD have/VB had/VBN it/PRP on/IN television/NN but/CC good/JJ Lord/NNP if/IN you/PRP don't/VBP like/IN what's/NNS on/IN television/NN that's/NNS why/WRB God/NNP gave/VBD us/PRP remote/JJ controls./NN
+"My/NN show/NN is/VBZ about/IN dysfunctional/JJ people/NNS and/CC I/PRP defy/VBP anyone/NN to/TO watch/VB the/DT show/NN and/CC suggest/VBP to/TO me/PRP the/DT people/NNS on/IN it/PRP aren't/NN to/TO some/DT degree/NN dysfunctional."/NN
+
+"If/NN I/PRP did/VBD a/DT show/NN about/IN the/DT war/NN in/IN Iraq/NNP it/PRP wouldn't/NN make/VBP me/PRP a/DT warmonger/NN I/PRP would/MD just/RB be/VB doing/VBG my/PRP$ job/NN to/TO report/VB on/IN the/DT war./NN
+"In/NN the/DT case/NN of/IN my/PRP$ show/NN it's/NNS my/PRP$ job/NN to/TO report/VB on/IN the/DT dysfunctions/NNS that/WDT take/NN place/NN in/IN society."/NN The/DT British-born/JJ presenter/NN is/VBZ in/IN London/NNP to/TO speak/VB at/IN a/DT fundraising/VBG dinner/NN for/IN the/DT United/NNP Jewish/JJ Israel/NNP Appeal./NNP
+The/DT dinner/NN on/IN Tuesday/NNP is/VBZ expected/VBN to/TO be/VB attended/VBN by/IN more/JJR than/IN 800/CD guests./NN

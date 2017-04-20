@@ -1,0 +1,32 @@
+Apple/NNP iPod/NN family/NN expands/VBZ market/NN
+
+Apple/NNP has/VBZ expanded/VBN its/PRP$ iPod/NN family/NN with/IN the/DT release/NN of/IN its/PRP$ next/JJ generation/NN of/IN the/DT digital/JJ music/NN players./NN
+
+Its/PRP$ latest/JJS challenges/NNS to/TO the/DT growing/VBG digital/JJ music/NN gadget/NN market/NN include/VBP an/DT iPod/NN mini/NN model/NN which/WDT can/MD hold/VB 6GB/CD compared/VBN to/TO a/DT previous/JJ 4GB./CD
+The/DT company/NN which/WDT hopes/VBZ to/TO keep/VB its/PRP$ dominant/JJ place/NN in/IN the/DT digital/JJ music/NN market/NN also/RB said/VBD the/DT gold/NN coloured/JJ version/NN of/IN the/DT mini/NN would/MD be/VB dropped./NN
+A/DT 30GB/CD version/NN has/VBZ also/RB been/VBN added/VBN to/TO the/DT iPod/NN Photo/NNP family./NN
+The/DT latest/JJS models/NNS have/VBP a/DT longer/RB battery/NN life/NN and/CC their/PRP$ prices/NNS have/VBP been/VBN cut/VBN by/IN an/DT average/NN of/IN £40./CD
+The/DT original/JJ iPod/NN took/VBD an/DT early/JJ lead/NN in/IN the/DT digital/JJ music/NN player/NN market/NN thanks/NNS to/TO its/PRP$ large/JJ storage/NN capacity/NN and/CC simple/JJ design./NN
+
+During/IN 2004/CD about/IN 25/CD million/CD portable/JJ players/NNS were/VBD sold/VBN 10/CD million/CD of/IN which/WDT were/VBD Apple/NNP iPods./NN
+But/CC analysts/NNS agree/VBP that/IN the/DT success/NN is/VBZ also/RB down/RB to/TO its/PRP$ integration/NN with/IN the/DT iTunes/NNS online/NN store/NN which/WDT has/VBZ given/VBN the/DT company/NN a/DT 70%/CD share/NN of/IN the/DT legal/JJ download/NN music/NN market./NN
+Mike/NNP McGuire/NNP a/DT research/NN director/NN at/IN analyst/NN Gartner/NNP told/VBD the/DT BBC/NNP News/NNP website/NN that/IN Apple/NNP had/VBD done/VBN a/DT good/JJ job/NN in/IN "sealing/VBG off/RP the/DT market/NN from/IN competition"/NN so/RB far./NN
+"They/NN have/VBP created/VBN a/DT very/JJ seamless/JJ package/NN which/WDT I/PRP think/VBP is/VBZ the/DT idea/NN of/IN the/DT product/NN -/: the/DT design/NN function/NN and/CC the/DT software/NN are/VBP very/RB impressive"/NN he/PRP said./VB
+He/PRP added/VBD that/IN the/DT threat/NN from/IN others/NNS was/VBD always/RB present/JJ however./NN
+"Creative/JJ other/JJ Microsoft-partnered/JJ devices/NNS Real/JJ Sony/NNP and/CC so/RB on/IN are/VBP ratcheting/VBG up/RP the/DT marketing/NN message/NN and/CC advertising"/NN he/PRP said./VB
+Creative/NN was/VBD very/RB upbeat/JJ about/IN how/WRB many/JJ of/IN its/PRP$ Creative/JJ Zen/NNP players/NNS it/PRP had/VBD shipped/VBN by/IN the/DT end/NN of/IN last/JJ year/NN he/PRP said./VB
+Its/PRP$ second-generation/JJ models/NNS like/IN the/DT Creative/JJ Zen/NNP Micro/NNP Photo/NNP is/VBZ due/JJ out/IN in/IN the/DT summer./NN
+It/PRP will/MD have/VB 5GB/CD of/IN memory/NN on/IN board./NN
+
+Digital/NNP music/NN players/NNS are/VBP now/RB the/DT gadget/NN of/IN choice/NN among/IN young/JJ Americans/NNS according/VBG to/TO recent/JJ research/NN by/IN the/DT Pew/NNP Internet/NNP and/CC American/NNP Life/NNP Project./NNP
+One/CD in/IN 10/CD US/PRP adults/VBZ -/: 22/CD million/CD people/NNS -/: now/RB owns/VBZ a/DT digital/JJ music/NN player/NN of/IN some/DT sort./NN
+Sales/NNS of/IN legally/RB downloaded/VBN songs/NNS also/RB rose/VBD more/JJR than/IN tenfold/RB in/IN 2004/CD according/VBG to/TO the/DT record/NN industry/NN with/IN 200/CD million/CD tracks/VBZ bought/VBN online/NN in/IN the/DT US/PRP and/CC Europe/NNP in/IN 12/CD months./NN
+The/DT IFPI/NNP industry/NN body/NN said/VBD that/IN the/DT popularity/NN of/IN portable/JJ music/NN players/NNS was/VBD behind/IN the/DT growth./NN
+Analysts/NNS say/VBP that/IN the/DT ease/NN of/IN use/NN and/CC growth/NN of/IN music/NN services/NNS available/JJ on/IN the/DT net/NN will/MD continue/VB to/TO drive/VB the/DT trend/NN towards/IN portable/JJ music/NN players./NN
+
+People/NNS are/VBP also/RB starting/VBG to/TO use/VB them/PRP in/IN novel/NN ways./NN
+Some/DT are/VBP combining/VBG automatic/JJ syncing/NN functions/NNS many/JJ of/IN them/PRP have/VBP with/IN other/JJ net/JJ functions/NNS to/TO automatically/RB distribute/VB DIY/NNP radio/NN shows/VBZ called/VBN podcasts./NN
+But/CC 2005/CD will/MD also/RB see/VB more/JJR competition/NN from/IN mobile/JJ phone/NN operators/NNS who/WP are/VBP keen/JJ to/TO offer/VB streaming/VBG services/NNS on/IN much/RB more/RBR powerful/JJ and/CC sophisticated/JJ handsets./NN
+According/VBG to/TO Mr/NNP McGuire/NNP research/NN suggests/VBZ that/IN people/NNS like/IN the/DT idea/NN of/IN building/NN up/RP huge/JJ libraries/NNS of/IN music/NN which/WDT they/PRP can/MD do/VB with/IN high-capacity/JJ storage/NN devices/NNS like/IN iPods/NNS and/CC Creative/JJ Zens./NNP
+Mobiles/NNS do/VBP not/RB yet/RB have/VB this/DT capacity/NN though/IN and/CC there/EX are/VBP issues/NNS about/IN the/DT ease/NN of/IN portability/NN of/IN mobile/JJ music./NN
+Mr/NNP McGuire/NNP said/VBD Apple/NNP was/VBD ensuring/VBG it/PRP kept/VBD a/DT foot/NN in/IN the/DT mobile/JJ music/NN door/NN with/IN its/PRP$ recent/JJ deal/NN with/IN Motorola/NNP to/TO produce/VB a/DT version/NN of/IN iTunes/NNS for/IN Motorola/NNP phones./NN

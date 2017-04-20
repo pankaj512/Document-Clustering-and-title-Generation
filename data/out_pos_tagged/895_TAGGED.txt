@@ -1,0 +1,15 @@
+Hobbit/NNP picture/NN 'four/NN years/NNS away'/NN
+
+Lord/NNP of/IN the/DT Rings/NNS director/NN Peter/NNP Jackson/NNP has/VBZ said/VBN that/IN it/PRP will/MD be/VB up/IN to/TO four/CD years/NNS before/IN he/PRP starts/VBZ work/NN on/IN a/DT film/NN version/NN of/IN The/DT Hobbit./NNP
+
+The/DT Oscar/NNP winner/NN said/VBD on/IN a/DT visit/NN to/TO Sydney/NNP there/EX was/VBD a/DT "desire"/NN to/TO make/VB it/PRP but/CC not/RB before/IN lengthy/JJ negotiations./NN
+"I/NN think/VBP it's/NNS gonna/NN be/VB a/DT lot/NN of/IN lawyers/NNS sitting/VBG in/IN a/DT room/NN trying/VBG to/TO thrash/VB out/RP a/DT deal/NN before/IN it/PRP will/MD ever/RB happen"/VB said/VBD the/DT New/NNP Zealander./NNP
+The/DT rights/NNS to/TO JRR/NNP Tolkien's/NNP book/NN are/VBP split/VBN between/IN two/CD major/JJ film/NN studios./NN
+Jackson/NNP who/WP is/VBZ currently/RB filming/VBG a/DT remake/NN of/IN Hollywood/NNP classic/JJ King/NNP Kong/NNP said/VBD he/PRP thought/VBD that/IN the/DT sale/NN of/IN MGM/NNP studios/NNS to/TO the/DT Sony/NNP Corporation/NNP would/MD cast/VB further/JJ uncertainty/NN on/IN the/DT project./NN
+The/DT 43-year-old/NN was/VBD in/IN the/DT Australian/JJ city/NN to/TO visit/VB a/DT Lord/NNP of/IN the/DT Rings/NNS exhibition/NN which/WDT has/VBZ attracted/VBN 140000/CD visitors/NNS since/IN it/PRP opened/VBD in/IN December./NNP
+
+The/DT film-maker/NN recently/RB sued/VBD film/NN company/NN New/NNP Line/NNP Cinema/NNP for/IN undisclosed/JJ damages/NNS over/IN alleged/VBN withheld/VBN profits/NNS and/CC lost/VBD revenue/NN from/IN the/DT first/JJ part/NN of/IN the/DT Middle/NNP Earth/NNP trilogy./NN
+The/DT Fellowship/NNP of/IN The/DT Ring/NN from/IN 2001/CD went/VBD on/RP to/TO make/VB worldwide/NN profits/NNS of/IN $291/CD million/CD (£152/CD million)./NN
+Jackson/NNP is/VBZ thought/VBN to/TO have/VB secured/VBN the/DT most/RBS lucrative/JJ film/NN directing/VBG deal/NN in/IN history/NN to/TO remake/VB King/NNP Kong/NNP which/WDT is/VBZ currently/RB in/IN production/NN in/IN Wellington./NNP
+The/DT picture/NN which/WDT stars/NNS Naomi/NNP Watts/NNP and/CC Oscar/NNP winner/NN Adrien/NNP Brody/NNP is/VBZ due/JJ to/TO be/VB released/VBN in/IN December./NNP
+Jackson/NNP has/VBZ also/RB committed/VBN to/TO making/VBG a/DT film/NN version/NN of/IN Lovely/JJ Bones/NNS based/VBN on/IN the/DT best-selling/JJS book/NN by/IN Alice/NNP Sebold./NNP

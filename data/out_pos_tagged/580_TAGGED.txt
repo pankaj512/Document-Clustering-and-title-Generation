@@ -1,0 +1,24 @@
+Children/NNP vote/NN Shrek/NNP 2/CD best/JJS film/NN
+
+Young/NNP UK/NNP film/NN fans/NNS voted/VBD animated/VBN Hollywood/NNP hit/VBD Shrek/NNP 2/CD best/JJS film/NN at/IN the/DT children's/NNS Bafta/NNP awards/NNS on/IN Sunday./NNP
+
+More/JJR than/IN 6000/CD children/NNS voted/VBD in/IN the/DT only/JJ category/NN chosen/VBN by/IN fans./NN
+Harry/NNP Potter/NNP and/CC the/DT Prisoner/NN of/IN Azkaban/NNP runner-up/JJ in/IN the/DT poll/NN was/VBD the/DT choice/NN of/IN the/DT Bafta/NNP experts/NNS who/WP named/VBD it/PRP best/JJS feature/NN film./NN
+BBC/NNP One/CD Saturday/NNP morning/NN show/NN Dick/NNP and/CC Dom/NNP In/IN Da/NNP Bungalow/NNP won/VBD two/CD awards/NNS -/: best/JJS entertainment/NN and/CC best/JJS presenters/NNS for/IN Richard/NNP McCourt/NNP and/CC Dominic/NNP Wood./NNP
+
+Former/NNP Playschool/NNP presenter/NN Floella/NNP Benjamin/NNP was/VBD awarded/VBN the/DT Special/JJ Award/NN for/IN outstanding/JJ creative/JJ contribution/NN to/TO children's/NNS film/NN and/CC television./NN
+She/PRP first/RB appeared/VBD on/IN Playschool/NNP 25/CD years/NNS ago/RB and/CC was/VBD made/VBN an/DT OBE/NNP in/IN 2001/CD for/IN services/NNS to/TO broadcasting./VB
+South/NNP American-themed/NNP cartoon/NN Joko/NNP Jakamoko/NNP Toto/NNP won/VBD the/DT honour/NN for/IN pre-school/JJ animation/NN and/CC its/PRP$ writer/NN Tony/NNP Collingwood/NNP for/IN original/JJ writer./NN
+Debbie/NNP Isitt/NNP won/VBD the/DT award/NN for/IN best/JJS adapted/VBN writer/NN for/IN her/PRP$ work/NN with/IN Jacqueline/NNP Wilson's/NNP The/DT Illustrated/NNP Mum/NNP which/WDT won/VBD the/DT award/NN for/IN best/JJS schools/NNS drama./NN
+
+Schools'/NNP Factual/JJ (primary)/NN -/: Thinking/VBG Skills/NNS Think/VBP About/IN It/PRP -/: Hiding/VBG Places/NNPS
+
+Schools'/NNP Factual/JJ (secondary)/NN -/: In/IN Search/NN of/IN the/DT Tartan/NNP Turban/NN
+
+Pre-School/NNP Live/JJ Action/NNP -/: Balamory/NNP
+
+Animation/NN -/: Brush/NNP Head/NNP
+
+Drama/NN -/: Featherboy/NNP
+
+Factual/JJ -/: Serious/NNP Desert/NNP Interactive/JJ Bafta/NNP -/: King/NNP Arthur/NNP International/NNP category/NN -/: 8/CD Simple/NNP Rules/NNPS for/IN Dating/VBG my/PRP$ Teenage/JJ Daughter/NN

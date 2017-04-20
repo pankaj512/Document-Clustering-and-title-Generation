@@ -1,0 +1,17 @@
+Marsh/NNP executive/NN in/IN guilty/JJ plea/NN
+
+An/DT executive/NN at/IN US/PRP insurance/VBP firm/NN Marsh/NNP &/CC McLennan/NNP has/VBZ pleaded/VBN guilty/JJ to/TO criminal/JJ charges/NNS in/IN connection/NN with/IN an/DT ongoing/JJ fraud/NN and/CC bid-rigging/JJ probe./NN
+
+New/NNP York/NNP Attorney/NNP General/NNP Elliot/NNP Spitzer/NNP said/VBD senior/JJ vice/NN president/NN Robert/NNP Stearns/NNP had/VBD pleaded/VBN guilty/JJ to/TO scheming/JJ to/TO defraud./VB
+The/DT offence/NN carries/VBZ a/DT sentence/NN of/IN 16/CD months/NNS to/TO four/CD years/NNS in/IN state/NN prison./NN
+Mr/NNP Spitzer's/NNP office/NN added/VBD Mr/NNP Stearns/NNP had/VBD also/RB agreed/VBN to/TO testify/VB in/IN future/JJ cases/NNS during/IN the/DT industry/NN inquiry./NN
+"We/NN are/VBP saddened/VBN by/IN the/DT development"/NN Marsh/NNP said/VBD in/IN a/DT statement./NN
+The/DT company/NN added/VBD it/PRP would/MD continue/VB to/TO co-operate/JJ in/IN the/DT case/NN adding/VBG it/PRP was/VBD "committed/VBN to/TO resolving/VBG the/DT company's/NNS legal/JJ issues/NNS and/CC to/TO serving/VBG our/PRP$ clients/NNS with/IN the/DT highest/JJS standards/NNS of/IN transparency/NN and/CC ethics"./NN
+
+According/VBG to/TO a/DT statement/NN from/IN Mr/NNP Spitzer's/NNP office/NN the/DT Marsh/NNP executive/NN admitted/VBD he/PRP instructed/VBD insurance/NN companies/NNS to/TO submit/VB non-competitive/JJ bids/NNS for/IN insurance/NN business/NN between/IN 2002/CD and/CC 2004./CD
+Those/DT bids/NNS were/VBD then/RB "conveyed/VBN to/TO Marsh/NNP clients/NNS under/IN false/JJ and/CC fraudulent/JJ pretences"./NN
+Through/IN the/DT practice/NN Marsh/NNP was/VBD allowed/VBN to/TO determine/VB which/WDT insurers/NNS won/VBD business/NN from/IN clients/NNS and/CC so/RB control/VB the/DT insurance/NN market/NN Mr/NNP Spitzer's/NNP office/NN added./NN
+It/PRP also/RB protected/VBD incumbent/JJ insurers/NNS when/WRB their/PRP$ business/NN was/VBD up/RB for/IN renewal/NN and/CC helped/VBD Marsh/NNP to/TO maximise/VB its/PRP$ fees/NNS a/DT statement/NN said./NN
+In/IN one/CD case/NN an/DT email/NN showed/VBD Mr/NNP Stearns/NNP had/VBD instructed/VBN a/DT colleague/NN to/TO solicit/VB a/DT non-competitive/JJ -/: or/CC "B"/NN -/: quote/NN from/IN AIG/NNP that/WDT was/VBD "higher/NN in/IN premium/NN and/CC more/RBR restrictive/JJ in/IN coverage"/NN and/CC so/RB fixed/JJ the/DT bids/NNS in/IN a/DT way/NN that/WDT would/MD support/VB the/DT present/JJ provider/NN Chubb./NNP
+The/DT company/NN is/VBZ also/RB still/RB being/VBG examined/VBN by/IN US/PRP stock/VBP market/NN regulator/NN the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP (SEC)./NN
+Late/RB last/JJ month/NN the/DT SEC/NNP asked/VBD for/IN information/NN about/IN transactions/NNS involving/VBG holders/NNS of/IN 5%/CD or/CC more/JJR of/IN the/DT firm's/NNS shares./NN

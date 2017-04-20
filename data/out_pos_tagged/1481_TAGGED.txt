@@ -1,0 +1,17 @@
+Adriano's/NNP Chelsea/NNP link/NN rejected/VBD
+
+Adriano's/NNP agent/NN Gilmar/NNP Rinaldi/NNP has/VBZ insisted/VBN that/IN he/PRP has/VBZ had/VBN no/DT contact/NN with/IN Chelsea/NNP over/IN the/DT striker./NN
+
+Chelsea/NNP were/VBD reported/VBN to/TO have/VB made/VBN inquiries/NNS about/IN Inter/NNP Milan's/NNP 22-year-old/JJ Brazilian/JJ star./NN
+Rinaldi/NNP told/VBD BBC/NNP Sport/NNP from/IN Rio/NNP de/NNP Janeiro/NNP "I/NN can/MD assure/VB you/PRP that/IN Chelsea/NNP have/VBP had/VBN no/DT dealings/NNS whatsoever/RB with/IN either/CC me/PRP or/CC Adriano./NNP
+"Parma/NN and/CC Real/JJ Madrid/NNP are/VBP interested/JJ but/CC there's/NNS nothing/VBG new/JJ there./NN
+Their/PRP$ interest/NN has/VBZ been/VBN known/VBN for/IN some/DT time."/NN Adriano/NNP has/VBZ scored/VBN 14/CD goals/NNS in/IN 20/CD Serie/NNP A/NNP appearances/NNS this/DT season./NN
+And/CC Chelsea/NNP boss/NN Jose/NNP Mourinho/NNP had/VBD claimed/VBN that/IN he/PRP was/VBD in/IN Milan/NNP talking/VBG to/TO Adriano/NNP on/IN the/DT day/NN he/PRP is/VBZ alleged/VBN to/TO have/VB held/VBN a/DT clandestine/JJ meeting/NN with/IN Arsenal/NN defender/NN Ashley/NNP Cole./NNP
+Mourinho/NNP said/VBD he/PRP was/VBD "just/NN practising/VBG my/PRP$ Portuguese/NNP with/IN him/PRP because/IN I/PRP don't/VBP need/VBP strikers"./NN
+Rinaldi/NNP told/VBD BBC/NNP Sport/NNP "I/NN have/VBP to/TO say/VB that/IN nobody/NN from/IN Chelsea/NNP or/CC any/DT other/JJ London/NNP club/NN has/VBZ contacted/VBN me./NN
+"If/NN they/PRP want/VBP to/TO that's/NNS fine./NN
+I/PRP can/MD tell/VB them/PRP what/WP the/DT situation/NN is./NN
+"If/NNP Chelsea/NNP are/VBP interested/JJ then/RB they/PRP must/MD make/VB an/DT offer."/NN Inter/NNP are/VBP reported/VBN to/TO have/VB slapped/VBN a/DT price/NN tag/NN in/IN the/DT region/NN of/IN £40m/CD on/IN the/DT head/NN of/IN Adriano/NNP who/WP joined/VBD them/PRP just/RB over/IN a/DT year/NN ago/RB from/IN Parma./NNP
+Real/JJ Madrid/NNP view/NN him/PRP as/IN a/DT natural/JJ replacement/NN for/IN compatriot/NN Ronaldo./NNP
+But/CC Rinaldi/NNP said/VBD "I/NN cannot/NN give/VBP you/PRP a/DT price/NN that/IN Inter/NNP would/MD accept/VB for/IN Adriano./NNP
+That's/NNP something/NN that/WDT would/MD have/VB to/TO be/VB negotiated/VBN between/IN the/DT interested/JJ clubs."/NN

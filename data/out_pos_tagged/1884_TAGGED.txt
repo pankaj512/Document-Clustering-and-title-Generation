@@ -1,0 +1,19 @@
+Microsoft/NN releases/NNS patches/NNS
+
+Microsoft/NNP has/VBZ warned/VBN PC/NN users/NNS to/TO update/VB their/PRP$ systems/NNS with/IN the/DT latest/JJS security/NN fixes/NNS for/IN flaws/NNS in/IN Windows/NNS programs./NN
+
+In/IN its/PRP$ monthly/JJ security/NN bulletin/NN it/PRP flagged/VBD up/RP eight/CD "critical"/NN security/NN holes/NNS which/WDT could/MD leave/VB PCs/NNS open/JJ to/TO attack/VB if/IN left/VBN unpatched./NN
+The/DT number/NN of/IN holes/NNS considered/VBD "critical"/NN is/VBZ more/JJR than/IN usual./NN
+They/PRP affect/VBP Windows/NNS programs/NNS including/VBG Internet/NNP Explorer/NNP (IE)/NN media/NNS player/NN and/CC instant/JJ messaging./NN
+Four/CD other/JJ important/JJ fixes/NNS were/VBD also/RB released./NN
+These/DT were/VBD considered/VBN to/TO be/VB less/RBR critical/JJ however./NN
+If/IN not/RB updated/VBN either/CC automatically/RB or/CC manually/RB PC/NN users/NNS running/VBG the/DT programs/NNS could/MD be/VB vulnerable/JJ to/TO viruses/NNS or/CC other/JJ malicious/JJ attacks/NNS designed/VBN to/TO exploit/VB the/DT holes./NN
+Many/JJ of/IN the/DT flaws/NNS could/MD be/VB used/VBN by/IN virus/NN writers/NNS to/TO take/VB over/RP computers/NNS remotely/RB install/VBP programs/NNS change/VBP and/CC delete/VB or/CC see/VB data./NN
+
+One/CD of/IN the/DT critical/JJ patches/NNS Microsoft/NNP has/VBZ made/VBN available/JJ is/VBZ an/DT important/JJ one/CD that/WDT fixes/NNS some/DT IE/NNP flaws./NN
+Stephen/NNP Toulouse/NNP a/DT Microsoft/NNP security/NN manager/NN said/VBD the/DT flaws/NNS were/VBD known/VBN about/IN and/CC although/IN the/DT firm/NN had/VBD not/RB seen/VBN any/DT attacks/NNS exploiting/VBG the/DT flaw/NN he/PRP did/VBD not/RB rule/VB them/PRP out./VBP
+Often/RB when/WRB a/DT critical/JJ flaw/NN is/VBZ announced/VBN spates/NNS of/IN viruses/NNS follow/VBP because/IN home/NN users/NNS and/CC businesses/NNS leave/VBP the/DT flaw/NN unpatched./NN
+A/DT further/JJ patch/NN fixes/NNS a/DT hole/NN in/IN Media/NNP Player/NNP Windows/NNS Messenger/NN and/CC MSN/NNP Messenger/NN which/WDT an/DT attacker/NN could/MD use/VB to/TO take/VB control/NN of/IN unprotected/VBN machines/NNS through/IN .png/NN files./NN
+Microsoft/NN announces/VBZ any/DT vulnerabilities/NNS in/IN its/PRP$ software/NN every/DT month./NN
+The/DT most/RBS important/JJ ones/NNS are/VBP those/DT which/WDT are/VBP classed/VBN as/IN "critical"./NN
+Its/PRP$ latest/JJS releases/NNS came/VBD the/DT week/NN that/IN the/DT company/NN announced/VBD it/PRP was/VBD to/TO buy/VB security/NN software/NN maker/NN Sybari/NNP Software/NNP as/IN part/NN of/IN Microsoft's/NNP plans/VBZ to/TO make/VB its/PRP$ own/JJ security/NN programs./NN

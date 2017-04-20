@@ -1,0 +1,27 @@
+Anglers/NNP 'could/NN face/NN prosecution'/NN
+
+Anglers/NNP and/CC fishermen/NNS could/MD find/VB themselves/PRP prosecuted/VBD under/IN plans/NNS to/TO crack/VB down/RP on/IN animal/NN cruelty/NN a/DT committee/NN of/IN MPs/NNP has/VBZ warned./NN
+
+Sloppy/JJ wording/NN of/IN the/DT draft/NN animal/NN welfare/NN bill/NN could/MD leave/VB anglers/NNS facing/VBG court/NN even/RB though/IN it/PRP was/VBD not/RB intended/VBN the/DT environment/NN select/NN committee/NN said./NN
+The/DT MPs/NNP said/VBD they/PRP were/VBD "concerned"/NN the/DT government/NN had/VBD not/RB consulted/VBN directly/RB on/IN its/PRP$ plans/NNS to/TO improve/VB animal/NN welfare./NN
+They/PRP raised/VBD complex/JJ and/CC emotive/JJ issues/NNS which/WDT needed/VBD to/TO be/VB resolved/VBN MPs/NNP said./NN
+
+They/PRP called/VBD for/IN a/DT "cast-iron/JJ guarantee"/NN that/IN the/DT government/NN consults/VBZ on/IN any/DT plans/NNS to/TO regulate/VB animal/NN industries/NNS like/IN pet/NN fairs/NNS and/CC game/NN bird/NN rearing./NN
+The/DT draft/NN bill/NN seeks/VBZ to/TO modernise/VB and/CC improve/VB animal/NN welfare/NN legislation/NN and/CC intends/VBZ to/TO protect/VB "kept/NN animals"/NN and/CC "companion"/NN animals/NNS by/IN setting/VBG up/RP a/DT "duty/NN of/IN care"./NN
+In/IN addition/NN to/TO maintaining/VBG existing/VBG cruelty/NN offences/NNS it/PRP creates/VBZ an/DT offence/NN of/IN neglect/NN by/IN keepers/NNS who/WP fail/VBP to/TO protect/VB the/DT animals/NNS for/IN whom/WP they/PRP are/VBP responsible./NN
+The/DT bill/NN would/MD allow/VB animal/NN welfare/NN officers/NNS to/TO intervene/VB to/TO prevent/VB harm/NN to/TO an/DT animal/NN as/RB well/RB as/IN outlawing/VBG "mutilation"/NN of/IN animals/NNS -/: unless/IN it/PRP can/MD be/VB demonstrated/VBN to/TO be/VB in/IN the/DT animal's/NNS best/JJS interest./JJ
+
+The/DT environment/NN select/NN committee/NN made/VBD 101/CD recommendations/NNS after/IN hearing/NN evidence/NN from/IN 51/CD organisations/NNS and/CC individuals./NN
+One/CD was/VBD a/DT call/NN to/TO amend/VB the/DT bill/NN so/IN that/IN prosecutions/NNS against/IN those/DT engaged/VBN in/IN fishing/NN were/VBD not/RB inadvertently/RB encouraged/VBN -/: even/RB if/IN they/PRP were/VBD to/TO later/RB fail./VB
+"We/NN accept/NN that/IN neither/DT commercial/JJ fishing/NN nor/CC recreational/JJ angling/NN should/MD fall/VB within/IN the/DT remit/NN of/IN the/DT of/JJ the/DT draft/NN bill/NN and/CC we/PRP therefore/RB support/VBP the/DT government's/NNS intention/NN to/TO exempt/JJ fishing/NN as/IN an/DT activity."/NN
+
+But/CC the/DT committee/NN said/VBD an/DT amendment/NN was/VBD needed/VBN to/TO ensure/VB cases/NNS were/VBD not/RB brought./NN
+"However/NN in/IN exempting/VBG fishing/NN the/DT government/NN should/MD be/VB careful/JJ to/TO ensure/VB that/IN those/DT persons/NNS who/WP catch/VBP fish/NN are/VBP not/RB given/VBN 'carte/NN blanche'/NN to/TO inflict/VB unnecessary/JJ suffering/NN in/IN the/DT course/NN of/IN pursuing/VBG this/DT activity"/NN the/DT committee/NN added./NN
+The/DT committee/NN also/RB said/VBD some/DT legal/JJ protections/NNS for/IN animals/NNS were/VBD downgraded/VBN by/IN the/DT bill/NN such/JJ as/IN the/DT law/NN on/IN abandonment/NN of/IN animals/NNS which/WDT "would/NN be/VB significantly/RB weakened"./NN
+MPs/NNP urged/VBD the/DT government/NN to/TO redraft/VB clauses/NNS relating/VBG to/TO the/DT prosecution/NN of/IN cruelty/NN offences./NN
+This/DT was/VBD because/IN as/IN it/PRP stood/VBD the/DT draft/NN bill/NN would/MD allow/VB certain/JJ acts/NNS that/WDT should/MD be/VB prosecuted/VBN -/: such/JJ as/IN unnecessary/JJ suffering/NN caused/VBN to/TO an/DT animal/NN through/IN neglect/NN or/CC unnecessary/JJ mental/JJ suffering/NN -/: to/TO go/VB unpunished./NN
+
+Committee/NNP chairman/NN Michael/NNP Jack/NNP said/VBD "Any/NN change/NN in/IN the/DT law/NN as/IN it/PRP affects/VBZ animals/NNS always/RB arouses/VBZ powerful/JJ emotions/NNS and/CC great/JJ public/JJ interest./JJ
+"This/NN draft/NN bill/NN is/VBZ no/DT exception./NN
+My/PRP$ committee/NN welcomes/VBZ the/DT development/NN of/IN an/DT approach/NN to/TO animal/VB welfare/NN which/WDT doesn't/NN just/RB wait/VB for/IN a/DT problem/NN to/TO occur/VB but/CC enables/VBZ action/NN to/TO be/VB taken/VBN to/TO protect/VB animals/NNS before/IN irreversible/JJ suffering/NN takes/VBZ place."/NN But/CC Mr/NNP Jack/NNP said/VBD the/DT bill/NN "very/NN much/NN had/VBD the/DT feel/NN of/IN a/DT 'work/NN in/IN progress'/NN and/CC urged/VBD the/DT government/NN to/TO guarantee/VB that/DT "an/NN obligation/NN to/TO consult/VB will/MD be/VB enshrined/VBN in/IN law"/NN before/IN it/PRP extended/VBD legislative/JJ plans/NNS to/TO areas/NNS such/JJ as/IN pet/NN fairs/NNS circuses/NNS and/CC game/NN bird/NN farms./NN
+"The/NN government/NN must/MD work/VB hard/JJ to/TO take/VB the/DT rough/JJ edges/NNS of/IN its/PRP$ initial/JJ proposals/NNS before/IN the/DT bill/NN is/VBZ introduced/VBN to/TO Parliament"/NNP he/PRP added./VB

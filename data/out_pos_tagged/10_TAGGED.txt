@@ -1,0 +1,14 @@
+Court/NNP rejects/VBZ $280bn/CD tobacco/NN case/NN
+
+A/DT US/PRP government/VBP claim/NN accusing/VBG the/DT country's/NNS biggest/JJS tobacco/NN companies/NNS of/IN covering/VBG up/RP the/DT effects/NNS of/IN smoking/NN has/VBZ been/VBN thrown/VBN out/RP by/IN an/DT appeal/NN court./NN
+
+The/DT demand/NN for/IN $280bn/CD (£155bn)/CD -/: filed/VBN by/IN the/DT Clinton/NNP administration/NN in/IN 1999/CD -/: was/VBD rejected/VBN in/IN a/DT 2-1/JJ decision./NN
+The/DT court/NN in/IN Washington/NNP found/VBD that/IN the/DT case/NN could/MD not/RB be/VB brought/VBN under/IN federal/JJ anti-racketeering/JJ laws./NN
+Among/IN the/DT accused/VBN were/VBD Altria/NNP Group/NNP RJ/NNP Reynolds/NNP Tobacco/NN Lorillard/NNP Tobacco/NN Liggett/NNP Group/NNP and/CC Brown/NNP and/CC Williamson./NNP
+In/IN its/PRP$ case/NN the/DT government/NN claimed/VBD tobacco/NN firms/NNS manipulated/VBD nicotine/JJ levels/NNS to/TO increase/VB addiction/NN targeted/VBN teenagers/NNS with/IN multi-billion/JJ dollar/NN advertising/NN campaigns/NNS lied/VBD about/IN the/DT dangers/NNS of/IN smoking/NN and/CC ignored/VBN research/NN to/TO the/DT contrary./NN
+
+Prosecutors/NNS wanted/VBD the/DT cigarette/NN firms/NNS to/TO surrender/VB $280bn/CD in/IN profits/NNS accumulated/VBN over/IN the/DT past/JJ 50/CD years/NNS and/CC impose/VB tougher/JJR rules/NNS on/IN marketing/VBG their/PRP$ products./NN
+But/CC the/DT Court/NNP of/IN Appeals/NNPS for/IN the/DT District/NNP of/IN Columbia/NNP ruled/VBD that/IN the/DT US/PRP government/VBP could/MD not/RB sue/VB the/DT firms/NNS under/IN legislation/NN drawn/VBD up/RP to/TO counteract/VB Mafia/NNP infiltration/NN of/IN business./NN
+The/DT tobacco/NN companies/NNS deny/VBP that/IN they/PRP illegally/RB conspired/VBD to/TO promote/VB smoking/NN and/CC defraud/VB the/DT public./NN
+They/PRP also/RB say/VBP they/PRP have/VBP already/RB met/VBN many/JJ of/IN the/DT government's/NNS demands/NNS in/IN a/DT landmark/NN $206bn/CD settlement/NN reached/VBN with/IN 46/CD states/NNS in/IN 1998./CD
+Shares/NNS of/IN tobacco/NN companies/NNS closed/VBD higher/JJR after/IN the/DT ruling/NN with/IN Altria/NNP rising/VBG 5%/CD and/CC Reynolds/NNP showing/VBG gains/NNS of/IN 4.5%./CD

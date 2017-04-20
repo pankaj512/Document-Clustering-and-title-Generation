@@ -1,0 +1,17 @@
+Gervais/NNP writing/VBG Simpsons/NNP episode/NN
+
+The/DT Office's/NNP Ricky/NNP Gervais/NNP is/VBZ writing/VBG an/DT episode/NN of/IN hit/JJ US/PRP cartoon/VBP The/DT Simpsons/NNP following/VBG an/DT invitation/NN from/IN its/PRP$ creator/NN Matt/NNP Groening./NNP
+
+Gervais/NNP has/VBZ already/RB begun/VBN writing/VBG the/DT script/NN but/CC is/VBZ keeping/VBG its/PRP$ subject/JJ matter/NN a/DT closely/RB guarded/VBN secret./NN
+He/PRP will/MD also/RB write/VB a/DT part/NN for/IN himself/PRP in/IN the/DT episode./NN
+"I've/NN got/VBD the/DT rough/JJ idea/NN but/CC this/DT is/VBZ the/DT most/JJS intimidating/JJ project/NN of/IN my/PRP$ career./NN
+The/DT Simpsons/NNP is/VBZ the/DT greatest/JJS TV/NN show/NN of/IN all/DT time"/NN he/PRP said./VB
+Groening/NNP recently/RB heaped/VBD praise/NN on/IN The/DT Office/NNP saying/VBG "Everybody/NN on/IN The/DT Simpsons/NNP is/VBZ a/DT fan/NN of/IN The/DT Office/NNP -/: it's/NNS one/CD of/IN the/DT best/JJS shows/VBZ on/IN TV/NN in/IN the/DT last/JJ decade."/NN Gervais/NNP has/VBZ already/RB said/VBN he/PRP would/MD not/RB guest/VB star/NN in/IN the/DT show/NN as/IN his/PRP$ Office/NNP character/NN David/NNP having/VBG left/VBN him/PRP behind/RB for/IN good/JJ in/IN the/DT Christmas/NNP specials./NN
+The/DT Office/NNP became/VBD a/DT surprise/NN US/PRP success/VBP when/WRB it/PRP was/VBD screened/VBN on/IN cable/NN channel/NN BBC/NNP America./NNP
+The/DT first/JJ series/NN won/VBD two/CD Golden/NNP Globes/NNP in/IN 2004/CD for/IN best/JJS comedy/NN and/CC best/JJS TV/NN actor/NN for/IN Gervais./NNP
+
+In/IN winning/VBG it/PRP beat/VB the/DT likes/NNS of/IN Sex/NN and/CC the/DT City/NNP and/CC Will/MD and/CC Grace./NNP
+An/DT American/JJ version/NN was/VBD produced/VBN but/CC so/RB far/RB only/RB a/DT pilot/NN has/VBZ been/VBN broadcast/NN -/: to/TO much/JJ criticism/NN that/IN it/PRP failed/VBD to/TO live/VB up/IN to/TO the/DT original./NN
+At/IN the/DT British/NNP Comedy/NNP Awards/NNS on/IN Wednesday/NNP Gervais/NNP was/VBD handed/VBN a/DT special/JJ achievement/NN award/NN for/IN writing./NN
+But/CC The/DT Office/NNP missed/VBD out/RP in/IN the/DT best/JJS comedy/NN show/NN category/NN to/TO Little/NNP Britain./NNP
+Matt/NNP Groening/NNP was/VBD also/RB at/IN the/DT awards/NNS to/TO collect/VB the/DT award/NN for/IN best/JJS international/JJ comedy/NN for/IN The/DT Simpsons./NNP

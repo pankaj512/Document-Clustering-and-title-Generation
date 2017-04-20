@@ -1,0 +1,34 @@
+Cable/NNP offers/VBZ video-on-demand/JJ
+
+Cable/NNP firms/NNS NTL/NNP and/CC Telewest/NNP have/VBP both/DT launched/VBN video-on-demand/JJ services/NNS as/IN the/DT battle/NN between/IN satellite/NN and/CC cable/NN TV/NN heats/VBZ up./NN
+
+Movies/NNS from/IN Sony/NNP Pictures/NNP Walt/NNP Disney/NNP Touchstone/NNP Miramax/NNP Columbia/NNP and/CC Buena/NNP Vista/NNP will/MD be/VB among/IN those/DT on/IN offer./NN
+The/DT service/NN is/VBZ similar/JJ to/TO Sky/NNP Plus/NNP as/IN users/NNS can/MD pause/VB fast/RB forward/RB and/CC rewind/NN content/NN but/CC they/PRP cannot/VBP store/NN programmes/NNS on/IN their/PRP$ set/VBN top/JJ box/NN -/: yet./NN
+It/PRP could/MD sound/VB the/DT death/NN knell/NN for/IN some/DT TV/NN channels/NNS Telewest/NNP predicts./NN
+"It/NN allows/VBZ us/PRP to/TO demonstrate/VB a/DT clear/JJ competitive/JJ advantage/NN over/IN Sky/NNP for/IN the/DT first/JJ time/NN in/IN many/JJ years"/NN said/VBD Telewest/NNP chief/NN executive/NN Eric/NNP Tveter./NNP
+
+"Video-on-demand/JJ will/MD offer/VB a/DT deeper/JJR range/NN of/IN content/NN than/IN currently/RB exists/VBZ on/IN TV./NNP
+There/EX will/MD be/VB less/JJR compromising/VBG around/IN the/DT TV/NN schedule/NN and/CC some/DT of/IN the/DT less/RBR popular/JJ channels/NNS may/MD go/VB by/IN the/DT wayside"/NN said/VBD Philip/NNP Snalune/NNP director/NN of/IN products/NNS at/IN Telewest./NNP
+Telewest/NN customers/NNS in/IN Bristol/NNP and/CC NTL/NNP viewers/NNS in/IN Glasgow/NNP will/MD be/VB the/DT first/JJ to/TO test/VB the/DT new/JJ service/NN which/WDT sees/VBZ a/DT raft/NN of/IN movies/NNS on/IN offer/NN for/IN 24/CD hour/NN rental./NN
+During/IN the/DT year/NN the/DT service/NN will/MD be/VB extended/VBN to/TO all/DT cable/NN regions./NN
+Films/NNS will/MD range/VB in/IN price/NN from/IN £1/CD or/CC £2/CD for/IN archived/VBN movies/NNS to/TO £3.50/CD for/IN current/JJ releases./NN
+New/JJ releases/NNS initially/RB on/IN offer/NN will/MD include/VB 50/CD First/NNP dates/NNS Kill/VBP Bill/NNP Volume/NN 2/CD Gothika/NNP and/CC The/DT Station/NNP Agent./NNP
+In/IN addition/NN NTL/NNP is/VBZ offering/VBG children's/NNS programmes/NNS adult/NN content/NN music/NN video/NN and/CC concerts./NN
+Telewest/NNP will/MD launch/VB similar/JJ services/NNS later/RB in/IN the/DT year./NN
+NTL/NNP is/VBZ also/RB offering/VBG viewers/NNS the/DT chance/NN to/TO catch/VB up/RP with/IN programmes/NNS they/PRP have/VBP missed./NN
+Its/PRP$ pick/NN of/IN the/DT week/NN service/NN will/MD offer/VB a/DT selection/NN of/IN BBC/NNP programmes/NNS from/IN the/DT previous/JJ seven/CD days/NNS such/JJ as/IN Eastenders/NNP Casualty/NNP Top/JJ Gear/NNP and/CC Antiques/NNP Roadshow./NNP
+The/DT BBC/NNP is/VBZ trialling/VBG a/DT similar/JJ service/NN offering/NN broadband/NN users/NNS the/DT chance/NN to/TO watch/VB programmes/NNS already/RB broadcast/VBP on/IN their/PRP$ PC./NNP
+For/IN Telewest/NNP it/PRP is/VBZ the/DT beginning/NN of/IN a/DT £20m/CD investment/NN in/IN TV-on-demand/NNP which/WDT will/MD also/RB see/VB the/DT launch/NN of/IN a/DT personal/JJ video/NN recorder/NN (PVR)./NN
+PVR/NNP has/VBZ been/VBN a/DT big/JJ success/NN for/IN Sky/NNP because/IN it/PRP gives/VBZ customers/NNS control/NN over/IN programmes./NN
+Satellite/NN customers/NNS without/IN PVR/NNP cannot/NN pause/NN rewind/NN or/CC fast/RB forward/RB their/PRP$ programmes./NN
+
+With/IN both/DT services/NNS on/IN offer/NN from/IN Telewest/NNP Mr/NNP Tveter/NNP is/VBZ confident/JJ the/DT cable/NN firm/NN can/MD dent/VB not/RB just/RB the/DT viewing/VBG figures/NNS for/IN terrestrial/JJ TV/NN but/CC also/RB gain/VB a/DT huge/JJ competitive/JJ advantage/NN over/IN Sky./NNP
+
+"We/NN offer/NN the/DT best/JJS of/IN both/DT worlds/NNS and/CC most/JJS households/NNS have/VBP an/DT interest/NN in/IN having/VBG both/DT video-on-demand/JJ and/CC PVR"/NNP he/PRP said./VB
+Video/NNP rental/JJ stores/NNS may/MD also/RB have/VB to/TO watch/VB their/PRP$ back./NN
+"Video-on-demand/JJ is/VBZ better/JJR than/IN having/VBG a/DT video-store/NN in/IN your/PRP$ living/VBG room/NN and/CC is/VBZ more/JJR convenient"/NN he/PRP said./VB
+NTL/NNP said/VBD it/PRP had/VBD not/RB ruled/VBN out/RP the/DT possibility/NN of/IN offering/VBG a/DT PVR/NNP but/CC for/IN the/DT moment/NN is/VBZ concentrating/VBG on/IN video-on-demand./JJ
+"PVR/NN is/VBZ a/DT recording/NN mechanism/NN whereas/IN what/WP we/PRP are/VBP offering/NN is/VBZ truly/RB on/IN demand"/NN said/VBD a/DT spokesman/NN for/IN the/DT company./NN
+Video-on-demand/NNP has/VBZ the/DT added/VBN advantage/NN of/IN not/RB requiring/VBG a/DT separate/JJ set-top/JJ box/NN or/CC extra/JJ remote/JJ controls/NNS he/PRP added./VB
+Adam/NNP Thomas/NNP an/DT analyst/NN at/IN research/NN firm/NN Informa/NNP Media/NNP believes/VBZ the/DT time/NN is/VBZ ripe/JJ for/IN video-on-demand/JJ to/TO flourish./VB
+"While/NNP Sky/NNP will/MD remain/VB the/DT dominant/JJ force/NN in/IN UK/NNP pay/VB TV/NN for/IN some/DT time/NN to/TO come/VB NTL/NNP and/CC Telewest/NNP seem/VBP well/RB placed/VBN to/TO successfully/RB ride/VB this/DT second/JJ wave/NN of/IN VOD/NNP enthusiasm/NN and/CC if/IN marketed/VBN correctly/RB this/DT could/MD help/VB them/PRP eat/VB into/IN Sky's/NNP lead"/NN he/PRP said./VB

@@ -1,0 +1,51 @@
+Wenger/NN steps/NNS up/RP row/NN
+
+Arsene/NNP Wenger/NNP has/VBZ stepped/VBN up/RP his/PRP$ feud/NN with/IN Sir/NNP Alex/NNP Ferguson/NNP by/IN claiming/VBG the/DT Manchester/NNP United/NNP manager/NN is/VBZ guilty/JJ of/IN bringing/VBG football/NN into/IN disrepute./JJ
+
+The/DT pair's/NNS long-running/JJ row/NN was/VBD put/VBN back/RB in/IN the/DT headlines/NNS on/IN Saturday/NNP when/WRB Ferguson/NNP said/VBD his/PRP$ Arsenal/NN counterpart/NN was/VBD "a/NN disgrace"./JJ
+Wenger/NNP initially/RB refused/VBD to/TO bite/VB back/RB saying/VBG only/RB "I/NN will/MD never/RB answer/VB any/DT questions/NNS any/DT more/JJR about/IN this/DT man."/NN But/CC now/RB he/PRP claims/VBZ Ferguson/NNP should/MD be/VB punished/VBN by/IN the/DT Football/NNP Association./NNP
+The/DT latest/JJS twist/NN in/IN the/DT Ferguson-Wenger/NNP saga/NN came/VBD on/IN Saturday/NNP when/WRB the/DT United/NNP boss/NN in/IN an/DT interview/NN with/IN The/DT Independent/NNP newspaper/NN discussed/VBD the/DT events/NNS after/IN the/DT game/NN between/IN the/DT two/CD sides/NNS in/IN October./NNP
+United/NNP won/VBD 2-0/JJ that/DT day/NN at/IN Old/NNP Trafford/NNP but/CC the/DT game/NN was/VBD followed/VBN by/IN a/DT now/RB notorious/JJ food/NN fight/NN which/WDT saw/VBD Ferguson's/NNP clothes/NNS covered/VBN in/IN soup/NN and/CC pizza./NN
+The/DT sides/NNS meet/VBP again/RB at/IN Highbury/NNP on/IN 1/CD February./NNP
+"In/NN the/DT tunnel/NN Wenger/NNP was/VBD criticising/VBG my/PRP$ players/NNS calling/VBG them/PRP cheats/NNS so/IN I/PRP told/VBD him/PRP to/TO leave/VB them/PRP alone/RB and/CC behave/VB himself"/NN Ferguson/NNP said/VBD on/IN Saturday./NNP
+"He/NN ran/VBD at/IN me/PRP with/IN hands/NNS raised/VBD saying/VBG 'what/NN do/VBP you/PRP want/VB to/TO do/VB about/IN it?'/NN "To/NN not/RB apologise/NN for/IN the/DT behaviour/NN of/IN the/DT players/NNS to/TO another/DT manager/NN is/VBZ unthinkable./NN
+It's/VBG a/DT disgrace/NN but/CC I/PRP don't/VBP expect/VBP Wenger/NNP to/TO ever/RB apologise/VB he's/NNS that/DT type/NN of/IN person."/NN
+
+Those/DT allegations/NNS were/VBD put/VBN to/TO Wenger/NNP after/IN Saturday's/NNP game/NN at/IN Bolton/NNP which/WDT Arsenal/NN lost/VBD to/TO slip/VB 10/CD points/NNS behind/IN Chelsea/NNP in/IN the/DT title/NN race./NN
+At/IN first/JJ he/PRP said/VBD only/RB "I've/NN always/RB been/VBN consistent/JJ with/IN that/DT story/NN and/CC told/VBD you/PRP nothing/NN happened./NN
+"If/NN he/PRP has/VBZ to/TO talk/VB he/PRP talks./VB
+If/IN he/PRP wants/VBZ to/TO make/VB a/DT newspaper/NN article/NN he/PRP makes/VBZ a/DT newspaper/NN article./NN
+"He/NN doesn't/NN interest/NN me/PRP and/CC doesn't/NN matter/NN to/TO me/PRP at/IN all./NN
+I/PRP will/MD never/RB answer/VB to/TO any/DT provocation/NN from/IN him/PRP any/DT more./NN
+"He/NN does/VBZ what/WP he/PRP likes/VBZ in/IN England/NNP anyway./NN
+He/PRP can/MD go/VB abroad/RB one/CD day/NN and/CC see/VB how/WRB it/PRP is."/NN But/CC later/RB on/IN Saturday/NNP according/VBG to/TO The/DT Independent/NNP Wenger/NNP spoke/VBD to/TO a/DT smaller/JJR group/NN of/IN reporters/NNS and/CC expanded/VBN on/IN his/PRP$ reaction./NN
+"I/NN have/VBP no/DT diplomatic/JJ relations/NNS with/IN him"/NN the/DT Arsenal/NN boss/NN is/VBZ quoted/VBN as/IN saying./NN
+"What/NN I/PRP don't/VBP understand/VB is/VBZ that/IN he/PRP does/VBZ what/WP he/PRP wants/VBZ and/CC you/PRP (the/VBP press)/NN are/VBP all/DT at/IN his/PRP$ feet./NN
+
+"The/NN situation/NN (concerning/VBG the/DT food/NN fight)/NN has/VBZ been/VBN judged/VBN and/CC there/EX is/VBZ a/DT game/NN going/VBG on/RP in/IN a/DT month./NN
+"The/NN managers/NNS have/VBP a/DT responsibility/NN to/TO protect/VB the/DT game/NN before/IN the/DT game./NN
+But/CC in/IN England/NNP you/PRP are/VBP only/RB punished/VBN for/IN what/WP you/PRP say/VBP after/IN the/DT game./NN
+"Now/NN the/DT whole/JJ story/NN starts/VBZ again./NN
+I/PRP don't/VBP go/VBP into/IN that/DT game./NN
+We/PRP play/VBP football./NN
+I/PRP am/VBP a/DT football/NN manager/NN and/CC I/PRP love/VBP football/NN above/IN all/DT .../:
+no/DT matter/NN what/WP people/NNS say."/VBP Reminded/VBD that/IN Ferguson/NNP called/VBD him/PRP "a/VB disgrace"/JJ Wenger/NNP added/VBD "I/NN don't/NN respond/VB to/TO anything./VB
+In/IN England/NNP you/PRP have/VBP a/DT good/JJ phrase./NN
+It/PRP is/VBZ 'bringing/VBG the/DT game/NN into/IN disrepute'./JJ
+"But/NN that/DT is/VBZ not/RB only/RB after/IN a/DT game/NN it/PRP is/VBZ as/RB well/RB before/IN a/DT game."/NN
+
+Ferguson/NNP had/VBD also/RB claimed/VBN that/IN United/NNP chief/NN executive/NN David/NNP Gill/NNP and/CC Arsenal/NN vice-chairman/JJ David/NNP Dein/NNP had/VBD agreed/VBN at/IN boardroom/NN level/NN not/RB to/TO discuss/VB the/DT incident/NN in/IN public./NN
+But/CC Ferguson/NNP added/VBD "In/NN the/DT ensuing/VBG weeks/NNS all/DT you/PRP got/VBD was/VBD a/DT diatribe/NN from/IN Arsenal/NN about/IN being/VBG kicked/VBD off/RP the/DT pitch/NN and/CC all/DT that/DT nonsense./JJ
+Gill/NNP phoned/VBD Dein/NNP three/CD times/NNS to/TO complain/VB but/CC nothing/NN was/VBD done./NN
+"The/NN return/NN is/VBZ on/IN 1/CD February/NNP and/CC they/PRP will/MD come/VB out/RP with/IN another/DT diatribe./NN
+"David/NNP Gill/NNP and/CC I/PRP feel/VBP we/PRP should/MD set/VB the/DT record/NN straight/JJ because/IN Arsenal/NN have/VBP not/RB written/VBN to/TO us/PRP to/TO apologise/VB and/CC we/PRP would/MD not/RB let/VB that/DT happen/NN here."/NN Meanwhile/RB the/DT League/NNP Managers/NNS Association/NNP have/VBP offered/VBN to/TO act/VB as/IN peacemakers/NNS in/IN the/DT hope/NN of/IN resolving/VBG the/DT on-going/JJ row./NN
+During/IN that/DT stormy/JJ game/NN in/IN October/NNP United/NNP striker/NN Ruud/NNP van/NNP Nistelrooy/NNP caught/VBD Arsenal's/NNP Ashley/NNP Cole/NNP with/IN one/CD particularly/RB strong/JJ tackle./NN
+Wenger/NNP later/RB accused/VBD Van/NNP Nistelrooy/NNP of/IN "cheating"/NN and/CC was/VBD fined/VBN £15000/CD and/CC "severely/RB reprimanded"/NN by/IN the/DT Football/NNP Association./NNP
+Ferguson/NNP admitted/VBD on/IN Saturday/NNP that/IN Van/NNP Nistelrooy's/NNP tackle/VB which/WDT earned/VBD the/DT Dutchman/NNP a/DT ban/NN "could/NN have/VBP given/VBN (Cole)/NN a/DT serious/JJ injury"/NN but/CC he/PRP believes/VBZ Arsenal/NN were/VBD the/DT main/JJ aggressors./NN
+
+"Wenger/NN is/VBZ always/RB complaining/VBG the/DT match/NN was/VBD not/RB played/VBN in/IN the/DT right/JJ spirit"/NN he/PRP added./VB
+"They/NN are/VBP the/DT worst/JJS losers/NNS of/IN all/DT time/NN they/PRP don't/VBP know/NN how/WRB to/TO lose./VB
+Maybe/RB it/PRP is/VBZ just/RB Manchester/NNP United/NNP they/PRP don't/VBP lose/VBP many/JJ games/NNS to/TO other/JJ teams./NN
+"We/NN tend/VBP to/TO forget/VB the/DT worst/JJS disciplinary/JJ record/NN of/IN all/DT time/NN was/VBD Arsenal's/NNP up/RP until/IN last/JJ season./NN
+In/IN fairness/NN it/PRP has/VBZ improved/VBN and/CC now/RB they/PRP are/VBP seen/VBN as/IN paragons/NNS of/IN virtue./NN
+"But/NN to/TO Wenger/NNP it/PRP never/RB happens/VBZ it/PRP is/VBZ all/PDT some/DT dream/NN or/CC nightmare."/NN

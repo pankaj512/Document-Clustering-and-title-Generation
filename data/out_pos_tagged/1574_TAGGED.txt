@@ -1,0 +1,11 @@
+McClaren/NNP eyes/NNS Uefa/NNP Cup/NNP top/JJ spot/NN
+
+Steve/NNP McClaren/NNP wants/VBZ his/PRP$ Middlesbrough/NNP team/NN to/TO win/VB their/PRP$ Uefa/NNP Cup/NNP group/NN by/IN beating/VBG Partizan/NNP Belgrade./NNP
+
+Boro/NNS have/VBP already/RB qualified/VBN for/IN the/DT knockout/NN stages/NNS alongside/IN Partizan/NNP and/CC Villareal/NNP at/IN the/DT expense/NN of/IN Lazio./NNP
+But/CC boss/NN McClaren/NNP is/VBZ looking/VBG for/IN a/DT victory/NN which/WDT would/MD mean/VB they/PRP avoid/VBP a/DT team/NN that/WDT has/VBZ played/VBN in/IN the/DT Champions/NNS League/NNP in/IN Friday's/NNP third-round/JJ draw./NN
+"To/NN need/VBP a/DT win/NN to/TO finish/VB top/JJ is/VBZ fantastic/JJ but/CC it/PRP is/VBZ going/VBG to/TO be/VB a/DT tough/JJ one"/NN McClaren/NNP said./NN
+"When/NN the/DT draw/NN was/VBD made/VBN I/PRP thought/VBD it/PRP was/VBD the/DT toughest/JJS group/NN of/IN them/PRP all/DT -/: and/CC so/IN it/PRP has/VBZ proved./NN
+"Lazio/NN were/VBD favourites/NNS Villarreal/NNP have/VBP been/VBN semi-finalists/NNS and/CC Partizan/NNP have/VBP fantastic/JJ experience/NN in/IN Europe./NNP
+"The/NN pleasing/VBG thing/NN is/VBZ we/PRP did/VBN the/DT business/NN in/IN the/DT first/JJ two/CD games./NN
+"Winning/VBG those/DT two/CD has/VBZ put/VBN us/PRP in/IN a/DT great/JJ position/NN and/CC it/PRP has/VBZ been/VBN a/DT fantastic/JJ experience/NN playing/VBG these/DT teams."/NN

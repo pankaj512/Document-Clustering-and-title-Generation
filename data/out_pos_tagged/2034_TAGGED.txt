@@ -1,0 +1,30 @@
+Toxic/JJ web/NN links/NNS help/VBP virus/VB spread/NN
+
+Virus/NN writers/NNS have/VBP begun/VBN using/VBG the/DT power/NN of/IN the/DT web/NN to/TO spread/VB their/PRP$ malicious/JJ wares./NN
+
+A/DT Windows/NNS virus/NN called/VBN Bofra/NNP is/VBZ turning/VBG infected/JJ machines/NNS into/IN distributors/NNS of/IN its/PRP$ malicious/JJ code./NN
+Those/DT clicking/NN on/IN the/DT poisoned/VBN links/NNS in/IN e-mail/JJ messages/NNS sent/VBD out/RP by/IN infected/JJ machines/NNS may/MD fall/VB victim/NN to/TO the/DT virus./NN
+The/DT trick/NN is/VBZ being/VBG used/VBN to/TO prevent/VB the/DT progam/NN being/VBG caught/VBN by/IN anti-virus/JJ software/NN that/IN combs/NNS through/IN code/NN contained/VBN in/IN e-mail/JJ attachments./NN
+
+The/DT virus/NN that/WDT uses/VBZ this/DT trick/NN is/VBZ called/VBN Bofra/NNP and/CC the/DT first/JJ member/NN of/IN the/DT family/NN of/IN worms/NNS appeared/VBD on/IN 10/CD November./NNP
+They/PRP exploit/VBP a/DT Windows/NNS vulnerability/NN that/WDT was/VBD discovered/VBN only/RB a/DT few/JJ days/NNS earlier./NN
+
+Like/IN many/JJ other/JJ recent/JJ viruses/NNS Bofra/NNP plunders/NNS the/DT address/NN book/NN in/IN Microsoft/NNP Outlook/NN for/IN e-mail/JJ addresses/NNS and/CC scours/NNS other/JJ files/NNS on/IN an/DT infected/JJ machine/NN for/IN fresh/JJ target/NN addresses./NN
+The/DT virus/NN uses/VBZ its/PRP$ own/JJ mail/NN sending/VBG software/NN to/TO despatch/VB e-mail/JJ messages/NNS to/TO potential/JJ victims/NNS but/CC unlike/IN many/JJ other/JJ recent/JJ viruses/NNS does/VBZ not/RB itself/PRP travel/VBP via/IN mail./NN
+Instead/RB the/DT body/NN of/IN the/DT mail/NN messages/NNS sent/VBD out/RP contain/VB fake/JJ weblinks/NNS that/IN when/WRB clicked/VBD on/IN connect/VBP back/RB to/TO the/DT machine/NN that/WDT distributed/VBD that/IN e-mail./JJ
+Essentially/RB Bofra/NNP turns/VBZ infected/JJ machines/NNS into/IN small/JJ web/NN servers/NNS that/WDT happily/RB dole/VBP out/RP copies/NNS of/IN the/DT virus./NN
+The/DT messages/NNS try/VBP to/TO trick/VB people/NNS into/IN clicking/VBG on/IN the/DT links/NNS by/IN promising/VBG pornographic/JJ videos/NNS and/CC images/NNS or/CC by/IN posing/VBG as/IN payment/NN confirmation/NN for/IN a/DT Paypal/NNP transaction./NN
+
+Copies/NNS of/IN the/DT messages/NNS seen/VBN by/IN the/DT BBC/NNP News/NNP website/NN had/VBD bright/JJ yellow/JJ and/CC green/JJ backgrounds./NN
+Those/DT clicking/NN on/IN the/DT links/NNS will/MD inadvertently/RB download/VB the/DT Bofra/NNP virus/NN which/WDT will/MD then/RB start/VB searching/VBG for/IN new/JJ addresses/NNS to/TO send/VB itself/PRP to./VBP
+Filtering/VBG firm/NN Clearswift/NNP said/VBD this/DT tactic/NN of/IN creating/VBG thousands/NNS of/IN mini/NN web/NN servers/NNS was/VBD designed/VBN to/TO help/VB the/DT virus/NN spread/NN quickly/RB and/CC avoid/VB attempts/NNS to/TO shut/VB it/PRP down./NN
+In/IN the/DT past/JJ other/JJ malicious/JJ programs/NNS have/VBP relied/VBN on/IN a/DT single/JJ web/NN server/NN that/WDT downloads/NNS viral/JJ code/NN to/TO target/VB machines./NN
+Shutting/VBG down/RP this/DT central/JJ server/NN usually/RB stops/VBZ the/DT virus/NN spreading./NN
+
+Clearswift/NNP said/VBD that/DT fact/NN that/IN no/DT viral/JJ code/NN travels/VBZ in/IN the/DT e-mail/JJ messages/NNS sent/VBD out/RP by/IN machines/NNS infected/JJ by/IN Bofra/NNP could/MD hamper/VB effects/NNS to/TO limit/VB its/PRP$ spread./NN
+Finnish/JJ anti-virus/JJ firm/NN F-Secure/NNP said/VBD that/IN so/RB far/RB it/PRP had/VBD not/RB seen/VBN many/JJ copies/NNS of/IN the/DT Bofra/NNP virus/NN and/CC its/PRP$ variants/NNS in/IN circulation./NN
+
+Tim/NNP Warner/NNP spokesman/NN for/IN anti-virus/JJ firm/NN Finjan/NNP said/VBD "You/NN have/VBP people/NNS getting/VBG very/RB creative/JJ now/RB to/TO deliver/VB the/DT virus/NN and/CC get/VB it/PRP propagating."/NN Mr/NNP Warner/NNP said/VBD organisations/NNS needed/VBN to/TO prepare/VB deep/JJ defences/NNS to/TO keep/VB out/RP the/DT modern/JJ form/NN of/IN malicious/JJ mobile/JJ code./NN
+"Most/NN firms/NNS have/VBP secured/VBN their/PRP$ e-mail/JJ gateway"/NN said/VBD Mr/NNP Warner/NNP "but/NN the/DT irony/NN is/VBZ that/IN most/JJS of/IN them/PRP let/VBP malicious/JJ content/NN through/IN the/DT web/NN gateways."/NN He/PRP said/VBD behavioural/JJ systems/NNS that/WDT monitor/NN what/WP users/NNS do/VBP can/MD help/VB to/TO spot/VB when/WRB viruses/NNS have/VBP penetrated/VBN organisations/NNS and/CC have/VBP started/VBN hunting/NN for/IN other/JJ victims./NN
+The/DT Bofra/NNP family/NN of/IN viruses/NNS which/WDT were/VBD originally/RB thought/VBN to/TO be/VB offshoots/NNS of/IN the/DT MyDoom/NNP bug/NN can/MD infect/VB machines/NNS running/VBG Windows/NNS 2000/CD 95/CD 98/CD Me/PRP NT/NNP XP/NNP and/CC Server/NNP 2003./CD
+Users/NNS running/VBG Windows/NNS XP/NNP that/WDT have/VBP applied/VBN the/DT SP2/CD update/NN are/VBP not/RB vulnerable/JJ to/TO the/DT loophole/NN that/IN Bofra/NNP exploits./NN

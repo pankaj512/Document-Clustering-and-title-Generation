@@ -1,0 +1,17 @@
+Abba/NNP reunite/VB for/IN musical/JJ premiere/NN
+
+The/DT original/JJ stars/NNS of/IN Swedish/JJ pop/NN quartet/NN Abba/NNP have/VBP reunited/VBN for/IN the/DT home/NN premiere/NN of/IN hit/JJ musical/JJ Mamma/NNP Mia/NNP which/WDT is/VBZ based/VBN on/IN the/DT band's/NNS songs./NN
+
+It/PRP is/VBZ the/DT first/JJ time/NN in/IN almost/RB 20/CD years/NNS that/IN the/DT four/CD Bjorn/NNP Ulvaeus/NNP Benny/NNP Andersson/NNP Agnetha/NNP Faltskog/NNP and/CC Anni-Frid/NNP Lyngstad/NNP have/VBP met/VBN publicly./NN
+Faltskog/NNP has/VBZ been/VBN a/DT virtual/JJ recluse/NN since/IN the/DT band/NN split/NN up/RP in/IN 1982./CD
+The/DT musical/JJ which/WDT has/VBZ become/VBN a/DT global/JJ phenomenon/NN will/MD be/VB performed/VBN in/IN Swedish/JJ for/IN the/DT first/JJ time./NN
+Fans/NNS camped/VBN outside/IN Stockholm's/NNP Cirkus/NNP theatre/NNP in/IN the/DT snow/NN for/IN a/DT glimpse/NN of/IN the/DT stars./NN
+The/DT premiere/NN marks/NNS Abba's/NNP first/JJ public/JJ reunion/NN since/IN the/DT legendary/JJ band's/NNS acrimonious/JJ break-up/NN in/IN the/DT early/JJ 1980s./CD
+It/PRP was/VBD thought/VBN that/IN Faltskog/NNP would/MD appear/VB in/IN London/NNP for/IN the/DT musical's/NNS fifth/JJ anniversary/NN celebrations/NNS in/IN April/NNP 2004/CD but/CC she/PRP stayed/VBD away/RB due/JJ to/TO her/PRP$ fear/NN of/IN flying./NN
+
+Original/NNP Abba/NNP member/NN Bjorn/NNP Ulvaeus/NNP set/VBD about/IN translating/VBG the/DT musical/NN into/IN the/DT band's/NNS mother/NN tongue/NN for/IN the/DT celebrated/JJ homecoming/NN alongside/IN Swedish/JJ artist/NN Niklas/NNP Stromstedt./NNP
+Almost/RB all/DT of/IN Abba's/NNP original/JJ songs/NNS which/WDT have/VBP sold/VBN more/JJR than/IN 350/CD million/CD records/NNS worldwide/NN were/VBD written/VBN and/CC recorded/VBN in/IN English./NNP
+The/DT musical/JJ set/VBD on/IN a/DT small/JJ Greek/JJ island/NN tells/VBZ of/IN the/DT story/NN of/IN a/DT young/JJ woman/NN and/CC her/PRP$ fiercely/RB independent/JJ single/JJ mother./NN
+The/DT show/NN will/MD include/VB such/JJ classics/NNS as/IN Super/NNP Trouper/NNP SOS/NNP and/CC Dancing/NN Queen./NNP
+There/EX are/VBP currently/RB 14/CD productions/NNS being/VBG staged/VBD worldwide/NN including/VBG New/NNP York/NNP and/CC London/NNP with/IN road/NN shows/VBZ in/IN Toronto/NNP South/NNP Korea/NNP and/CC Madrid./NNP
+More/JJR than/IN 20/CD million/CD people/NNS around/IN the/DT world/NN have/VBP seen/VBN the/DT show./NN

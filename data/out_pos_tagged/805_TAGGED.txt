@@ -1,0 +1,14 @@
+Dame/NNP Julie/NNP pops/VBZ in/RP to/TO see/VB Poppins/NNP
+
+Mary/NNP Poppins/NNP star/NN Dame/NNP Julie/NNP Andrews/NNP watched/VBD the/DT hit/NN stage/NN version/NN of/IN her/PRP$ classic/JJ film/NN at/IN a/DT charity/NN performance/NN in/IN London's/NNP West/NNP End./NNP
+
+It/PRP was/VBD the/DT first/JJ time/NN Dame/NNP Julie/NNP who/WP shot/VBP to/TO fame/VB as/IN the/DT nanny/NN in/IN the/DT 1964/CD Disney/NNP movie/NN had/VBD seen/VBN the/DT musical/NN staged/VBD at/IN the/DT Prince/NNP Edward/NNP Theatre./NNP
+She/PRP watched/VBD Laura/NNP Michelle/NNP Kelly/NNP 23/CD reprise/NN the/DT role/NN on/IN stage./NN
+The/DT show/NN has/VBZ been/VBN one/CD of/IN the/DT West/NNP End's/NNP hottest/JJS tickets/NNS since/IN opening/NN in/IN December/NNP winning/VBG two/CD Olivier/NNP Awards./NNP
+Kelly/NNP was/VBD named/VBN best/JJS musical/JJ actress/NN at/IN last/JJ month's/NNS ceremony/NN and/CC the/DT musical/JJ also/RB won/VBD best/RBS choreography./NN
+
+But/CC Kelly/NNP said/VBD she/PRP was/VBD "very/NN nervous"/NN about/IN meeting/NN Dame/NNP Julie/NNP because/IN she/PRP was/VBD "my/NN absolute/JJ hero"./NN
+The/DT gala/NN performance/NN saw/VBD Dame/NNP Julie/NNP 69/CD return/NN to/TO the/DT theatre/FW where/WRB she/PRP had/VBD her/PRP$ first/JJ starring/NN role/NN in/IN a/DT performance/NN of/IN Humpty/NNP Dumpty/NNP in/IN 1948./CD
+The/DT Mary/NNP Poppins/NNP musical/JJ has/VBZ been/VBN masterminded/VBN by/IN theatre/FW impresario/NN Sir/NNP Cameron/NNP Mackintosh/NNP and/CC directed/VBN by/IN Richard/NNP Eyre/NNP with/IN choreography/NN by/IN Matthew/NNP Bourne./NNP
+Sir/NNP Cameron/NNP said/VBD he/PRP hoped/VBD the/DT production/NN which/WDT cost/NN £9m/CD to/TO bring/VB to/TO the/DT stage/NN was/VBD a/DT blend/NN of/IN the/DT sweet-natured/JJ film/NN and/CC the/DT original/JJ book/NN by/IN PL/NNP Travers./NNP
+Proceeds/NNS from/IN Thursday's/NNP show/NN will/MD go/VB to/TO charities/NNS including/VBG Absolute/JJ Return/NN for/IN Kids/NNP (Ark)/NN international/JJ relief/NN agency/NN Operation/NN USA/NNP and/CC drama/NN school/NN Lamda./NNP

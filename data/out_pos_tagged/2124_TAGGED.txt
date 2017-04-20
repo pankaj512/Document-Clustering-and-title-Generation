@@ -1,0 +1,49 @@
+Apple/NNP Mac/NNP mini/NN gets/VBZ warm/JJ welcome/NN
+
+The/DT Mac/NNP mini/NN has/VBZ been/VBN welcomed/VBN by/IN Apple/NNP fans/NNS industry/NN experts/NNS and/CC PC/NN users./NN
+
+The/DT release/NN of/IN the/DT tiny/JJ low-cost/JJ machine/NN is/VBZ seen/VBN as/IN a/DT good/JJ move/NN for/IN Apple/NNP which/WDT currently/RB has/VBZ a/DT small/JJ share/NN of/IN the/DT desktop/NN computer/NN market./NN
+Mac/NN watchers/NNS and/CC some/DT analysts/NNS say/VBP the/DT Mac/NNP mini/NN will/MD go/VB a/DT long/JJ way/NN to/TO help/VB Apple/NNP appeal/NN to/TO the/DT mass/NN of/IN consumers./NN
+They/PRP speculate/VBP that/IN the/DT Mac/NNP mini/NN will/MD be/VB bought/VBN by/IN iPod/NN owners/NNS and/CC those/DT wanting/VBG an/DT easy-to-use/JJ and/CC administer/VB second/JJ home/NN computer./NN
+
+"It's/NN the/DT bravest/JJS move/NN they/PRP have/VBP made/VBN yet"/NN said/VBD Jonny/NNP Evans/NNP news/NN editor/NN at/IN Macworld/NNP magazine./NN
+Mr/NNP Evans/NNP said/VBD the/DT combination/NN of/IN low/JJ cost/NN small/JJ size/NN and/CC huge/JJ numbers/NNS of/IN iPod/NN users/NNS could/MD make/VB it/PRP a/DT big/JJ success./NN
+
+He/PRP thought/VBD that/IN the/DT machine/NN would/MD appeal/VB to/TO those/DT that/DT like/IN Apple/NNP technology/NN but/CC who/WP before/IN now/RB have/VBP balked/VBN at/IN paying/VBG high/JJ prices/NNS for/IN its/PRP$ hardware./NN
+"It's/NN deeply/RB affordable"/NN he/PRP said./VB
+"Plus/NN you/PRP know/VBP that/IN you/PRP do/VBP not/RB get/VB viruses/NNS or/CC all/DT of/IN the/DT associated/VBN problems."/NN Already/RB he/PRP said/VBD PC/NN owning/VBG friends/NNS had/VBD declared/VBN that/IN they/PRP would/MD be/VB buying/VBG one./NN
+Interest/NN in/IN the/DT new/JJ products/NNS launched/VBN at/IN Macworld/NNP expo/NN was/VBD so/RB strong/JJ that/IN websites/NNS for/IN Apple's/NNP store/NN and/CC the/DT show/NN struggled/VBD to/TO cope/VB with/IN demand./NN
+According/VBG to/TO response/NN statistics/NNS gathered/VBN by/IN Netcraft/NNP many/JJ visiting/VBG the/DT Apple/NNP store/NN in/IN the/DT wake/NN of/IN Mr/NNP Jobs'/NNP speech/NN suffered/VBD lengthy/JJ response/NN times./NN
+The/DT Macworld/NNP Expo/NNP site/NN was/VBD completely/RB overwhelmed/VBN and/CC went/VBD offline./NN
+
+"I/NN think/VBP fundamentally/RB it's/VBZ a/DT good/JJ idea/NN because/IN it's/NNS cheap/JJ even/RB for/IN a/DT PC"/NNP said/VBD Nick/NNP Ross/NNP deputy/NN labs/NNS editor/NN at/IN PC/NN Pro./NNP
+Apple's/NNP work/NN on/IN making/VBG things/NNS easy/JJ to/TO use/VB would/MD also/RB help/VB the/DT Mac/NNP mini/NN win/NN fans/NNS he/PRP said./VB
+"I/NN think/VBP people/NNS expect/VBP it/PRP just/RB to/TO work/VB now/RB and/CC really/RB it/PRP should"/NN hesaid./NN
+The/DT Mac/NNP mini/NN could/MD find/VB a/DT role/NN in/IN homes/NNS that/WDT need/VBP a/DT second/JJ computer/NN that/WDT is/VBZ easy/JJ to/TO install/VB and/CC administer/VB he/PRP said./VB
+"For/NN browsing/VBG the/DT web/NN e-mail/JJ and/CC all/DT kinds/NNS of/IN basic/JJ duties/NNS it's/NNS going/VBG to/TO be/VB absolutely/RB adequate"/NN said/VBD Mr/NNP Ross./NNP
+Ian/NNP Fogg/NNP broadband/NN and/CC personal/JJ technology/NN analyst/NN at/IN Jupiter/NNP Research/NNP agreed/VBD that/IN the/DT Mac/NNP mini/NN could/MD be/VB very/RB popular./NN
+"Apple/NN has/VBZ been/VBN hoping/VBG that/IN sales/NNS of/IN the/DT iPod/NN will/MD have/VB a/DT halo/NN effect/NN on/IN the/DT sales/NNS of/IN the/DT Mac"/NNP he/PRP said./VB
+
+Before/IN now/RB he/PRP said/VBD Apple/NNP has/VBZ been/VBN seen/VBN as/IN a/DT premium/NN brand./NN
+But/CC he/PRP said/VBD the/DT Mac/NNP mini/NN changed/VBD that/DT perception./NN
+"It's/NN a/DT particularly/RB good/JJ price/NN when/WRB you/PRP see/VBP that/IN it's/NNS Apple/NNP that/WDT is/VBZ doing/VBG it"/NN he/PRP said./VB
+Apple/NNP expects/VBZ the/DT Mac/NNP mini/NN to/TO sell/VB for/IN £339/CD in/IN the/DT UK/NNP and/CC $499/CD in/IN the/DT US./NNP
+Adding/VBG extras/NNS such/JJ as/IN a/DT larger/JJR hard/JJ drive/NN more/JJR memory/NN and/CC networking/NN options/NNS will/MD increase/VB the/DT basic/JJ price./NN
+It/PRP will/MD go/VB on/IN sale/NN from/IN 22/CD January./NNP
+"For/NN consumers/NNS interested/JJ in/IN style/NN design/NN and/CC small/JJ size/NN -/: which/WDT is/VBZ what/WP the/DT majority/NN of/IN iPod/NN customers/NNS are/VBP interested/JJ in/IN -/: it's/NNS a/DT natural/JJ next/JJ step"/NN said/VBD Mr/NNP Fogg./NNP
+Apple/NNP has/VBZ traditionally/RB done/VBN well/RB in/IN the/DT market/NN that/IN the/DT Mac/NNP mini/NN is/VBZ aimed/VBN at/IN said/VBD Mr/NNP Fogg/NNP who/WP also/RB expected/VBD many/JJ PC/NN makers/NNS to/TO release/VB copycat/NN devices/NNS in/IN reaction./NN
+
+His/PRP$ only/JJ misgivings/NNS were/VBD over/IN how/WRB easy/JJ other/JJ consumers/NNS other/JJ than/IN iPod/NN owners/NNS would/MD find/VB using/VBG the/DT machine./NN
+He/PRP said/VBD anyone/NN wanting/VBG to/TO use/VB the/DT Mac/NNP mini/NN with/IN the/DT peripherals/NNS from/IN an/DT old/JJ computer/NN may/MD find/VB it/PRP odd/JJ to/TO have/VB something/NN so/RB small/JJ and/CC sleek/JJ next/JJ to/TO a/DT hulking/VBG monitor./NN
+"They'd/NN be/VB much/RB more/RBR likely/JJ to/TO pair/VB a/DT Mac/NNP mini/NN with/IN a/DT LCD/NNP or/CC flat/JJ panel/NN monitor/NN which/WDT increases/VBZ the/DT upgrade/NN cost"/NN he/PRP said./VB
+Those/DT with/IN flat/JJ screens/NNS and/CC LCD/NNP monitors/NNS are/VBP likely/JJ to/TO have/VB bought/VBN them/PRP recently/RB and/CC not/RB be/VB in/IN the/DT market/NN for/IN a/DT new/JJ machine./NN
+
+There/EX are/VBP also/RB questions/NNS over/IN whether/IN the/DT Mac/NNP mini/NN will/MD work/VB with/IN very/RB old/JJ peripherals/NNS such/JJ as/IN display/NN keyboard/NN and/CC mouse./NN
+The/DT Mac/NNP mini/NN also/RB fell/VBD short/RB of/IN being/VBG a/DT media/NNS server/NN that/WDT can/MD be/VB a/DT video/NN recorder/NN as/RB well/RB as/IN a/DT store/NN for/IN all/PDT the/DT digital/JJ music/NN movies/NNS and/CC images/NNS people/NNS accumulate/VBP said/VBD Mr/NNP Fogg./NNP
+"The/NNP Mac/NNP mini/NN is/VBZ not/RB quite/RB ready/JJ for/IN that/DT yet"/NN he/PRP said./VB
+"It/NN does/VBZ not/RB have/VB the/DT right/JJ connectors/NNS that/WDT fit/VBP a/DT TV/NN screen/NN or/CC enough/JJ storage."/NN Said/NNP Mr/NNP Fogg/NNP "It's/NN very/RB much/RB a/DT computer."/NN One/CD dissenting/JJ opinion/NN came/VBD from/IN Brian/NNP Gammage/NNP vice-president/NN of/IN research/NN at/IN analysts/NNS Gartner./NNP
+He/PRP said/VBD "I/NN don't/NN think/VBP it/PRP changes/VBZ the/DT world."/NN Although/IN the/DT Mac/NNP mini/NN was/VBD very/RB cheap/JJ for/IN an/DT Apple/NNP computer/NN it/PRP was/VBD still/RB expensive/JJ compared/VBN to/TO many/JJ PCs./NNP
+Also/RB he/PRP said/VBD it/PRP appealed/VBD in/IN categories/NNS that/IN few/JJ consumers/NNS care/NN about/IN when/WRB buying/VBG a/DT home/NN computer./NN
+"The/NN PC/NN world/NN is/VBZ a/DT pile-em-high/JJ sell-em-cheap/JJ market"/NN he/PRP said/VBD "and/NN all/DT of/IN them/PRP are/VBP pretty/RB interchangeable."/JJ "Since/NN the/DT days/NNS when/WRB Apple/NNP ruled/VBD the/DT personal/JJ computing/NN world/NN its/PRP$ market/NN share/NN has/VBZ been/VBN on/IN a/DT long/JJ slow/JJ decline"/NN he/PRP said./VB
+"Every/NN few/JJ years/NNS it/PRP does/VBZ something/NN to/TO give/VB its/PRP$ market/NN share/NN a/DT kick/NN then/RB it/PRP starts/VBZ to/TO go/VB back/RB down/RP again"/NN said/VBD Mr/NNP Gammage./NNP
+The/DT release/NN of/IN the/DT Mac/NNP mini/NN fit/NN perfectly/RB with/IN this/DT trend/NN he/PRP said./VB

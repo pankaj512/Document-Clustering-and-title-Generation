@@ -1,0 +1,35 @@
+Man/NNP Utd/NNP through/IN after/IN Exeter/NNP test/NN
+
+Manchester/NNP United/NNP avoided/VBD an/DT FA/NNP Cup/NNP upset/VBD by/IN edging/VBG past/JJ Exeter/NNP City/NNP in/IN their/PRP$ third/JJ round/NN replay./NN
+
+Cristiano/NNP Ronaldo/NNP scored/VBD the/DT opener/NN slipping/VBG the/DT ball/NN between/IN Paul/NNP Jones'/NNP legs/NNS after/IN just/RB nine/CD minutes./NN
+United/NNP wasted/VBD a/DT host/NN of/IN chances/NNS to/TO make/VB it/PRP safe/JJ as/IN Jones/NNP made/VBD some/DT great/JJ saves/NNS but/CC Wayne/NNP Rooney/NNP put/VBD the/DT tie/NN beyond/IN doubt/NN late/RB on/IN with/IN a/DT cool/JJ finish./NN
+Exeter/NNP had/VBD chances/NNS of/IN their/PRP$ own/JJ Sean/NNP Devine/NNP twice/RB volleying/VBG wide/JJ and/CC Andrew/NNP Taylor/NNP forcing/VBG Tim/NNP Howard/NNP to/TO save./VB
+United/NNP boss/NN Sir/NNP Alex/NNP Ferguson/NNP was/VBD taking/VBG few/JJ chances/NNS after/IN their/PRP$ 0-0/JJ draw/NN in/IN the/DT first/JJ game/NN and/CC he/PRP handed/VBD starts/VBZ to/TO Paul/NNP Scholes/NNP and/CC Ryan/NNP as/RB well/RB as/IN Ronaldo/NNP and/CC Rooney./NNP
+Exeter/NNP began/VBD brightly/RB with/IN Devine/NNP and/CC Steve/NNP Flack/NNP seeing/VBG plenty/NN of/IN the/DT ball/NN but/CC it/PRP did/VBD not/RB take/VB United/NNP long/JJ to/TO assert/VB their/PRP$ authority/NN and/CC the/DT hosts/NNS soon/RB found/VBD themselves/PRP a/DT goal/NN down./NN
+Scholes/NNP played/VBD a/DT lovely/JJ pass/NN in/RP to/TO Ronaldo/NNP on/IN the/DT left-hand/JJ side/NN of/IN the/DT six-yard/JJ box/NN and/CC the/DT Portuguese/NNP winger/NN slid/VBD the/DT ball/NN between/IN the/DT legs/NNS of/IN Jones/NNP to/TO open/VB the/DT scoring./NN
+
+United/NNP sensed/VBD a/DT chance/NN to/TO finish/VB the/DT tie/NN as/IN a/DT contest/NN early/RB on/IN and/CC Ronaldo/NNP blazed/VBD over/RP before/IN Jones/NNP saved/VBD well/RB from/IN Scholes/NNP and/CC then/RB Rooney./NNP
+The/DT visitors'/NN pressure/NN by/IN now/RB was/VBD incessant/NN and/CC Rooney/NNP had/VBD another/DT shot/NN blocked/VBN while/IN Ronaldo/NNP slammed/VBD well/RB over/IN the/DT bar/NN again/RB from/IN a/DT good/JJ position./NN
+Just/RB before/IN the/DT break/NN Giggs/NNP had/VBD a/DT golden/JJ chance/NN to/TO double/VB the/DT advantage/NN but/CC the/DT Welshman/NNP dragged/VBD a/DT left-foot/JJ effort/NN badly/RB wide/JJ from/IN 10/CD yards./NN
+In/IN stoppage/NN time/NN Exeter/NNP created/VBD their/PRP$ best/JJS chance/NN as/IN Alex/NNP Jeannin/NNP swung/VBD in/IN a/DT cross/NN from/IN the/DT left/NN that/IN Devine/NNP managed/VBD to/TO flick/VB goalwards/NNS but/CC the/DT ball/NN flew/VBD wide/JJ of/IN Howard's/NNP goal./NN
+The/DT Grecians/NNPS came/VBD out/RP after/IN the/DT break/NN in/IN determined/VBN fashion/NN and/CC Howard/NNP had/VBD to/TO show/VB safe/JJ hands/NNS to/TO collect/VB two/CD searching/VBG crosses/NNS into/IN the/DT United/NNP box./NN
+Rooney/NNP looked/VBD like/IN he/PRP might/MD have/VB sealed/VBN the/DT result/NN with/IN a/DT turn/NN and/CC shot/NN but/CC the/DT ball/NN stuck/VBN in/IN the/DT St/NNP James/NNP Park/NNP mud/NN and/CC Jones/NNP raced/VBD back/RB to/TO gather/VB on/IN the/DT goalline./NN
+Moments/NNS later/RB Devine/NNP had/VBD the/DT chance/NN to/TO make/VB himself/PRP a/DT hero/NN but/CC he/PRP could/MD only/RB volley/VB Jeannin's/NNP brilliant/JJ cross/VBP wide/JJ of/IN Howard's/NNP goal/NN after/IN being/VBG left/VBN unmarked/JJ six/CD yards/NNS out./NN
+After/IN Rooney/NNP had/VBD completely/RB messed/VBN up/RP a/DT free-kick/JJ 20/CD yards/NNS out/RP Taylor/NNP showed/VBD him/PRP how/WRB it/PRP should/MD be/VB done/VBN his/PRP$ stunning/JJ drive/NN from/IN distance/NN forcing/VBG a/DT flying/VBG stop/NN from/IN Howard./NNP
+The/DT home/NN crowd/NN were/VBD baying/VBG for/IN a/DT goal/NN and/CC they/PRP did/VBD get/VB the/DT ball/NN into/IN the/DT net/JJ only/RB for/IN Devine's/NNP low/JJ effort/NN to/TO be/VB ruled/VBN out/RP for/IN an/DT obvious/JJ offside./NN
+The/DT persistent/JJ Rooney/NNP eventually/RB rounded/VBD Jones/NNP with/IN three/CD minutes/NNS to/TO go/VB and/CC slotted/VBN into/IN an/DT empty/JJ net/NN to/TO book/VB a/DT home/NN tie/NN with/IN Middlesbrough/NNP in/IN the/DT fourth/JJ round./NN
+
+Jones/NNP Hiley/NNP Sawyer/NNP Gaia/NNP Jeannin/NNP Moxey/NNP Taylor/NNP (Martin/NN 89)/CD Ampadu/NNP (Afful/JJ 69)/CD Clay/NNP Flack/NNP (Edwards/NN 74)/CD Devine./NNP
+Subs/NNP Not/RB Used/VBD Rice/NNP Todd./NNP
+
+Ampadu/NNP Clay./NNP
+
+Howard/NNP Phil/NNP Neville/NNP Gary/NNP Neville/NNP O'Shea/NNP Fortune/NNP Giggs/NNP (Saha/NN 70)/CD Miller/NNP (Fletcher/NN 66)/CD Scholes/NNP Djemba-Djemba/NNP (Silvestre/NN 80)/CD Ronaldo/NNP Rooney./NNP
+Subs/NNP Not/RB Used/VBD Ricardo/NNP Bellion./NNP
+
+Ronaldo/NNP 9/CD Rooney/NNP 87./CD
+
+9033./CD
+
+P/NNP Dowd/NNP (Staffordshire)./NN

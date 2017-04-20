@@ -1,0 +1,17 @@
+Baghdad/NNP Blogger/NNP on/IN big/JJ screen/NN
+
+A/DT film/NN based/VBN on/IN the/DT internet/JJ musings/NNS of/IN the/DT "Baghdad/NN Blogger"/NNP has/VBZ been/VBN shown/VBN at/IN the/DT Rotterdam/NNP Film/NNP Festival./NNP
+
+The/DT film/NN has/VBZ been/VBN directed/VBN by/IN the/DT man/NN who/WP calls/VBZ himself/PRP Salam/NNP Pax/NNP the/DT author/NN of/IN the/DT weblog/NN about/IN Iraqi/JJ life/NN during/IN and/CC after/IN the/DT war./NN
+The/DT movie/NN version/NN comes/VBZ in/IN the/DT form/NN of/IN a/DT series/NN of/IN shorts/NNS made/VBN by/IN Pax/NNP on/IN a/DT hand-held/JJ camera./NN
+Baghdad/NNP Blogger/NNP is/VBZ among/IN a/DT number/NN of/IN films/NNS about/IN Iraq/NNP showcased/VBD at/IN the/DT Dutch/JJ festival/NN which/WDT runs/VBZ until/IN Sunday./NNP
+Following/VBG the/DT fascination/NN with/IN the/DT writing/NN of/IN Salam/NNP Pax/NNP -/: not/RB his/PRP$ real/JJ name/NN -/: he/PRP began/VBD a/DT regular/JJ column/NN in/IN The/DT Guardian/NNP newspaper/NN and/CC was/VBD given/VBN a/DT crash/NN course/NN in/IN documentary/NN film-making./JJ
+For/IN the/DT film/NN he/PRP travelled/VBD Iraq/NNP to/TO document/VB the/DT changing/VBG landscape/NN of/IN the/DT country/NN and/CC the/DT problems/NNS it/PRP has/VBZ faced/VBN since/IN the/DT invasion/NN speaking/VBG to/TO ordinary/JJ Iraqis/NNP about/IN their/PRP$ experiences./NN
+The/DT festival/NN will/MD also/RB see/VB the/DT screening/NN of/IN Underexposure/NNP one/CD of/IN Iraq's/NNP first/JJ features/NNS to/TO emerge/VB since/IN the/DT toppling/NN of/IN Saddam/NNP Hussein./NNP
+
+Director/NNP Oday/NNP Rasheed/NNP made/VBD the/DT film/NN on/IN discarded/VBN 1980s/CD Kodak/NNP film/NN taken/VBN from/IN the/DT remains/NNS for/IN the/DT former/JJ Ministry/NNP of/IN Culture/NNP building./NN
+It/PRP centres/VBZ on/IN the/DT lives/NNS of/IN families/NNS and/CC strangers/NNS going/VBG about/IN their/PRP$ everyday/JJ business/NN as/IN Baghdad/NNP is/VBZ under/IN siege./NN
+Rasheed/NNP said/VBD the/DT title/NN was/VBD refers/VBZ to/TO the/DT isolation/NN felt/VBN by/IN Iraqis/NNP under/IN Saddam's/NNP regime/NN and/CC the/DT difficult/JJ time/NN the/DT country/NN is/VBZ now/RB experiencing./NN
+"Saddam's/NN regime/NN was/VBD hell/NN but/CC now/RB I/PRP think/VBP the/DT hell/NN has/VBZ doubled"/NN Rasheed/NNP said./NN
+The/DT festival/NN was/VBD also/RB due/JJ to/TO screen/NN murdered/VBD Dutch/JJ film-maker/NN Theo/NNP Van/NNP Gogh's/NNP film/NN about/IN the/DT treatment/NN of/IN woman/NN under/IN Islam/NNP but/CC it/PRP was/VBD withdrawn/VBN due/JJ to/TO safety/NN fears./NN
+Van/NNP Gogh/NNP was/VBD shot/VBN and/CC stabbed/VBN in/IN November/NNP 2004/CD following/VBG death/NN threats/NNS he/PRP received/VBD about/IN his/PRP$ film/NN Submission./NNP

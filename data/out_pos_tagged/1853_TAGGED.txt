@@ -1,0 +1,19 @@
+Open/NNP source/NN leaders/NNS slam/NN patents/NNS
+
+The/DT war/NN of/IN words/NNS between/IN Microsoft/NNP and/CC the/DT open/JJ source/NN movement/NN heated/VB up/RP this/DT week/NN as/IN Linux/NNP founder/NN Linus/NNP Torvalds/NNP led/VBD an/DT attack/NN on/IN software/NN patents./NN
+
+In/IN a/DT panel/NN discussion/NN at/IN a/DT Linux/NNP summit/NN in/IN California/NNP Mr/NNP Torvalds/NNP said/VBD software/NN patents/NNS were/VBD a/DT problem/NN for/IN the/DT open/JJ source/NN movement./NN
+Mitchell/NNP Kapor/NNP chairman/NN of/IN the/DT Mozilla/NNP foundation/NN warned/VBD that/IN Microsoft/NNP could/MD use/VB patent/NN lawsuits/NNS in/IN the/DT future./NN
+Linux/NNP is/VBZ a/DT freely-available/JJ alternative/NN to/TO Microsoft's/NNP Windows./NNP
+It/PRP relies/VBZ on/IN a/DT community/NN of/IN programmers/NNS for/IN its/PRP$ development/NN and/CC is/VBZ based/VBN on/IN open/JJ source/NN principles/NNS which/WDT allow/VBP others/NNS to/TO use/VB and/CC modify/VB it/PRP without/IN having/VBG to/TO pay/VB licence/NN fees./NN
+The/DT attack/NN on/IN software/NN patents/NNS comes/VBZ at/IN a/DT time/NN when/WRB IBM/NNP has/VBZ made/VBN 500/CD of/IN its/PRP$ patents/NNS freely/RB available./VBP
+Other/JJ companies/NNS are/VBP expected/VBN to/TO follow/VB suit./NN
+
+There/EX are/VBP between/IN 150000/CD and/CC 300000/CD registered/VBN software/NN patents/NNS in/IN the/DT US/PRP and/CC open/JJ source/NN developers/NNS argue/VBP that/IN many/JJ should/MD never/RB have/VB been/VBN granted./VBG
+This/DT is/VBZ a/DT view/NN corroborated/VBN by/IN the/DT UK/NNP Patent/NN Office./NNP
+"Some/NN of/IN the/DT patents/NNS have/VBP dubious/JJ validity/NN and/CC are/VBP being/VBG wielded/VBN by/IN some/DT big/JJ companies/NNS to/TO force/VB smaller/JJR companies/NNS to/TO buy/VB licenses/NNS in/IN the/DT knowledge/NN that/IN they/PRP can't/VBP afford/NN to/TO take/VB them/PRP to/TO court"/VB said/VBD Dr/NNP Jeremy/NNP Philpott/NNP of/IN the/DT UK/NNP Patent/NN Office./NNP
+Some/DT panel/NN members/NNS are/VBP worried/VBN that/IN Microsoft/NNP would/MD issue/VB a/DT series/NN of/IN patent/NN lawsuits/NNS in/IN the/DT future./NN
+"If/NN totally/RB pushed/VBN to/TO the/DT wall/NN -/: because/IN their/PRP$ business/NN model/NN no/RB longer/RB holds/VBZ up/RP in/IN an/DT era/NN in/IN which/WDT open/JJ source/NN is/VBZ an/DT economically/RB superior/JJ way/NN to/TO produce/VB software...of/NN course/NN they're/NN going/VBG to/TO unleash/VB the/DT WMDs"/NNP Mr/NNP Kapor/NNP is/VBZ reported/VBN as/IN saying./NN
+Microsoft/NNP did/VBD not/RB want/VB to/TO comment/VB directly/RB referring/VBG the/DT issue/NN instead/RB to/TO trade/VB body/NN Intellect/NN of/IN which/WDT it/PRP is/VBZ a/DT member./NN
+"As/NN far/RB as/IN Intellect/NN is/VBZ concerned/VBN open/JJ source/NN and/CC patents/NNS have/VBP co-existed/JJ for/IN many/JJ years/NNS without/IN problems"/NN said/VBD spokeswoman/NN Jill/NNP Sutherland./NNP
+"The/NN industry/NN respects/VBZ the/DT open/JJ source/NN movement/NN and/CC in/IN fact/NN many/JJ of/IN the/DT members/NNS we/PRP represent/VBP use/NN the/DT open/JJ source/NN system/NN to/TO develop/VB software"/NN "We/NN think/VBP the/DT important/JJ point/NN to/TO make/VB is/VBZ that/IN companies/NNS should/MD be/VB able/JJ to/TO choose/VB between/IN patents/NNS copyrights/NNS and/CC open/JJ source/NN as/IN to/TO the/DT treatment/NN of/IN their/PRP$ intellectual/JJ discoveries/NNS and/CC not/RB be/VB forced/VBN into/IN using/VBG one/CD or/CC the/DT other"/NN she/PRP added./VBP

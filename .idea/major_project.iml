@@ -4,9 +4,11 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/data" />
       <excludeFolder url="file://$MODULE_DIR$/data2" />
+      <excludeFolder url="file://$MODULE_DIR$/head/data" />
+      <excludeFolder url="file://$MODULE_DIR$/headline/data" />
       <excludeFolder url="file://$MODULE_DIR$/test_data" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.5.2 virtualenv at C:\Python35" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

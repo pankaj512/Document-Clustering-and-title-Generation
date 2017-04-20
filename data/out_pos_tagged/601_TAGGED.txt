@@ -1,0 +1,14 @@
+Wine/NNP comedy/NN wins/VBZ critics'/NN award/NN
+
+Quirky/JJ comedy/NN Sideways/RB was/VBD named/VBN the/DT best/JJS film/NN of/IN the/DT year/NN by/IN the/DT Los/NNP Angeles/NNP Film/NNP Critics/NNS Association./NNP
+
+The/DT US/PRP movie/VBP also/RB picked/VBD up/RB four/CD other/JJ accolades/NNS including/VBG best/JJS director/NN for/IN Alexander/NNP Payne/NNP and/CC supporting/VBG actor/NN for/IN Thomas/NNP Haden/NNP Church./NNP
+British/JJ actress/NN Imelda/NNP Staunton/NNP has/VBZ again/RB been/VBN recognised/VBN for/IN her/PRP$ role/NN in/IN Vera/NNP Drake/NNP winning/VBG best/JJS actress/NN while/IN Liam/NNP Neeson/NNP won/VBD best/RBS actor/NN for/IN Kinsey./NNP
+The/DT awards/NNS will/MD be/VB handed/VBN out/RP on/IN 13/CD January/NNP at/IN a/DT ceremony/NN in/IN Las/NNP Vegas./NNP
+
+Sideways/RB tells/VBZ the/DT story/NN of/IN two/CD men/NNS who/WP take/VBP a/DT road/NN trip/NN through/IN California's/NNP wine/NN regions/NNS and/CC also/RB stars/NNS Paul/NNP Giamatti./NNP
+Virginia/NNP Madsen/NNP was/VBD also/RB named/VBN best/JJS supporting/VBG actress/NN for/IN her/PRP$ performance/NN in/IN the/DT film./NN
+House/NNP of/IN Flying/NNP Daggers/NNP directed/VBD by/IN Yimou/NNP Zhang/NNP was/VBD named/VBN best/JJS foreign/JJ language/NN film/NN while/IN the/DT animation/NN award/NN went/VBD to/TO The/DT Incredibles./NNP
+Unusually/RB the/DT runners-up/NNS in/IN categories/NNS were/VBD also/RB named/VBN with/IN Clint/NNP Eastwood's/NNP Million/CD Dollar/NN Baby/NNP just/RB missing/VBG out/RP on/IN the/DT best/JJS film/NN award./NN
+The/DT best/JJS director/NN runner-up/NN was/VBD Martin/NNP Scorsese/NNP for/IN The/DT Aviator./NNP
+A/DT career/NN achievement/NN award/NN will/MD be/VB handed/VBN to/TO veteran/VB actor/NN and/CC comic/JJ Jerry/NNP Lewis/NNP at/IN the/DT ceremony/NN next/JJ year./NN

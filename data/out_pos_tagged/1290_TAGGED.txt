@@ -1,0 +1,24 @@
+Economy/NNP focus/VB for/IN election/NN battle/NN
+
+Britain's/NNP economic/JJ future/NN will/MD be/VB at/IN the/DT heart/NN of/IN Labour's/NNP poll/NN campaign/NN Chancellor/NNP Gordon/NNP Brown/NNP has/VBZ said./NN
+
+He/PRP was/VBD speaking/VBG after/IN Cabinet/NNP members/NNS held/VBD their/PRP$ last/JJ meeting/NN at/IN No/DT 10/NN before/IN the/DT expected/JJ election/NN announcement./NN
+He/PRP said/VBD voters/NNS would/MD recognise/VB that/IN Labour/NNP had/VBD brought/VBN stability/NN and/CC growth/NN and/CC would/MD continue/VB to/TO do/VB so./NN
+Meanwhile/RB the/DT Tories/NNPS outlined/VBD their/PRP$ plans/NNS to/TO tackle/VB "yob/NN culture"/NN and/CC the/DT Lib/NNP Dems/NNP gave/VBD more/JJR details/NNS about/IN their/PRP$ proposals/NNS to/TO replace/VB council/NN tax./NN
+Earlier/RBR the/DT Archbishop/NNP of/IN Canterbury/NNP wrote/VBD to/TO all/DT three/CD parties/NNS urging/VBG them/PRP not/RB to/TO fight/VB the/DT election/NN by/IN exploiting/VBG people's/NNS fears./NN
+
+In/IN an/DT open/JJ letter/NN he/PRP called/VBD on/IN them/PRP not/RB to/TO turn/VB the/DT election/NN into/IN a/DT competition/NN about/IN who/WP can/MD most/RBS effectively/RB frighten/JJ voters/NNS about/IN terrorism/NN asylum/NN and/CC crime./NN
+He/PRP said/VBD they/PRP should/MD concentrate/VB instead/RB on/IN issues/NNS such/JJ as/IN the/DT environment/NN international/JJ development/NN and/CC the/DT arms/NNS trade/NN family/NN policy/NN and/CC the/DT reform/NN of/IN the/DT criminal/JJ justice/NN system./NN
+
+Shadow/NNP foreign/JJ secretary/NN Michael/NNP Ancram/NNP said/VBD "We/NN have/VBP fought/VBN a/DT very/RB positive/JJ campaign./NN
+I/PRP think/VBP he/PRP will/MD want/VB to/TO look/VB quite/RB carefully/RB at/IN what/WP Jack/NNP Straw/NNP said/VBD about/IN Michael/NNP Howard."/NNP
+
+In/IN a/DT speech/NN to/TO the/DT Foreign/NNP Policy/NNP Centre/NNP Mr/NNP Straw/NNP said/VBD of/IN the/DT Tory/NNP leader/NN "He/NN is/VBZ clever/JJ fluent/JJ and/CC tactical/JJ but/CC he/PRP is/VBZ not/RB wise./NN
+"He/NN lacks/VBZ strategy/NN and/CC good/JJ judgment/NN and/CC his/PRP$ quick/JJ temper/NN and/CC impetuosity/NN too/RB often/RB get/VB the/DT better/JJR of/IN him."/NN The/DT Foreign/NNP Secretary/NNP told/VBD the/DT BBC/NNP "I/NN was/VBD making/VBG the/DT observation/NN that/IN because/IN of/IN Michael/NNP Howard's/NNP impetuosity/NN you/PRP can/MD get/VB lurches/NNS of/IN policy."/NN Liberal/NNP Democrat/NNP chairman/NN Matthew/NNP Taylor/NNP said/VBD "People/NN are/VBP already/RB really/RB turned/VBD off/RP by/IN the/DT kind/NN of/IN campaign/NN the/DT others/NNS are/VBP fighting/VBG and/CC you/PRP will/MD see/VB us/PRP putting/VBG emphasis/NN on/IN some/DT of/IN these/DT huge/JJ issues/NNS facing/VBG the/DT world/NN particularly/RB the/DT environment."/NN
+
+Labour's/NNP focus/VB on/IN the/DT economy/NN as/IN their/PRP$ key/JJ message/NN -/: came/VBD on/IN the/DT day/NN a/DT new/JJ report/NN was/VBD published/VBN by/IN the/DT Institute/NNP of/IN Fiscal/JJ Studies/NNPS suggesting/VBG that/DT household/NN incomes/NNS have/VBP fallen/VBN for/IN the/DT first/JJ time/NN in/IN more/JJR than/IN a/DT decade./NN
+The/DT IFS/NNP says/VBZ the/DT drop/NN partly/RB reflects/VBZ measures/NNS announced/VBD in/IN what/WP it/PRP called/VBD the/DT Chancellor's/NNP tax-raising/JJ Budget/NNP of/IN 2002./CD
+The/DT Treasury/NNP dismissed/VBD the/DT research/NN as/IN "complete/NN rubbish"./NN
+Party/NNP election/NN supremo/NN Alan/NNP Milburn/NNP said/VBD the/DT apparent/JJ drop/NN in/IN average/JJ incomes/NNS was/VBD because/RB self-employed/JJ people/NNS had/VBD been/VBN affected/VBN by/IN a/DT "world/NN downturn"/NN which/WDT hit/VBD their/PRP$ profits./NN
+Since/IN 1997/CD the/DT reported/VBN average/NN take-home/JJ income/NN had/VBD "risen/NN by/IN 20%/CD in/IN real/JJ terms"/NN if/IN you/PRP took/VBD out/RP the/DT self-employed/JJ Mr/NNP Milburn/NNP told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN programme./NN
+Mr/NNP Brown/NNP also/RB dismissed/VBD the/DT figures/NNS insisting/VBG that/IN the/DT "typical/JJ family"/NN has/VBZ been/VBN much/RB better/JJR off/RP under/IN Labour./NNP

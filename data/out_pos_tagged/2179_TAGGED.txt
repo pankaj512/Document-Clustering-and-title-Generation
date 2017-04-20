@@ -1,0 +1,23 @@
+Apple/NNP makes/VBZ blogs/NNS reveal/VBP sources/NNS
+
+Apple/NNP has/VBZ won/VBN its/PRP$ legal/JJ fight/NN to/TO make/VB three/CD bloggers/NNS reveal/VBP who/WP told/VBD them/PRP about/IN unreleased/VBN products./NN
+
+The/DT bid/NN to/TO unmask/VB the/DT employees/NNS leaking/VBG information/NN was/VBD launched/VBN in/IN December/NNP 2004/CD following/VBG online/NN articles/NNS about/IN Apple's/NNP Asteroid/NNP product./NN
+Now/RB Apple/NNP has/VBZ won/VBN the/DT right/NN to/TO see/VB e-mail/JJ records/NNS from/IN the/DT three/CD bloggers/NNS to/TO root/VB out/RP the/DT culprit./NN
+A/DT lawyer/NN for/IN the/DT three/CD bloggers/NNS said/VBD the/DT ruling/NN set/VBD a/DT dangerous/JJ precedent/NN that/WDT could/MD harm/VB all/DT news/NN reporters./NN
+
+Apple's/NNP lawsuit/NN accused/VBD anonymous/JJ people/NNS of/IN stealing/VBG trade/NN secrets/NNS about/IN the/DT Asteroid/NNP music/NN product/NN and/CC leaking/VBG them/PRP to/TO the/DT PowerPage/NNP Apple/NNP Insider/NN and/CC Think/VB Secret/JJ websites./NN
+All/DT three/CD are/VBP Apple/NNP fan/NN sites/NNS that/WDT obsessively/RB watch/VBP the/DT iconic/JJ firm/NN for/IN information/NN about/IN future/JJ products./NN
+Apple/NNP is/VBZ notoriously/RB secretive/JJ about/IN upcoming/VBG products/NNS which/WDT gives/VBZ any/DT snippets/NNS of/IN information/NN about/IN what/WP it/PRP is/VBZ working/VBG on/IN all/PDT the/DT more/JJR value./NN
+The/DT lawsuit/NN to/TO reveal/VB the/DT names/NNS of/IN the/DT leakers/NNS was/VBD filed/VBN against/IN the/DT Power/NNP Page/NNP and/CC Apple/NNP Insider/NN sites./NN
+
+The/DT separate/JJ legal/JJ fight/NN with/IN Think/NN Secret/JJ has/VBZ yet/RB to/TO be/VB resolved./NN
+In/IN the/DT ruling/NN handed/VBN down/RP this/DT week/NN by/IN Santa/NNP Clara/NNP County/NNP Superior/NNP Court/NNP Judge/NNP James/NNP Kleinberg/NNP Apple/NNP can/MD now/RB get/VB its/PRP$ hands/NNS on/IN e-mail/JJ records/NNS from/IN the/DT bloggers'/NN net/JJ providers./NN
+In/IN making/VBG his/PRP$ ruling/NN Judge/NNP Kleinberg/NNP said/VBD that/IN laws/NNS covering/VBG the/DT divulging/NN of/IN trade/NN secrets/NNS outweighed/VBD considerations/NNS of/IN public/JJ interest./JJ
+California/NNP has/VBZ so-called/JJ "shield"/NN laws/NNS which/WDT protect/VBP journalists/NNS from/IN prosecution/NN if/IN what/WP they/PRP are/VBP writing/VBG about/IN can/MD be/VB shown/VBN to/TO be/VB in/IN the/DT public/JJ interest./JJ
+The/DT Judge/NNP wrote/VBD "...it/NN is/VBZ not/RB surprising/JJ that/IN hundreds/NNS of/IN thousands/NNS of/IN 'hits'/NN on/IN a/DT website/NN about/IN Apple/NNP have/VBP and/CC will/MD happen./VB
+But/CC an/DT interested/JJ public/JJ is/VBZ not/RB the/DT same/JJ as/IN the/DT public/JJ interest"./JJ
+Judge/NNP Kleinberg/NNP said/VBD the/DT question/NN of/IN whether/IN the/DT bloggers/NNS were/VBD journalists/NNS or/CC not/RB did/VBD not/RB apply/VB because/IN laws/NNS governing/VBG the/DT right/NN to/TO keep/VB trade/NN secrets/NNS confidential/JJ covered/VBN journalists/NNS too./NN
+The/DT Electronic/NNP Frontier/NNP Foundation/NNP which/WDT is/VBZ acting/VBG as/IN legal/JJ counsel/NN for/IN Power/NNP Page/NNP and/CC Apple/NNP Insider/NN said/VBD the/DT ruling/NN had/VBD potentially/RB wide/JJ implications./NN
+"Anyone/NN who/WP reports/VBZ on/IN companies/NNS or/CC the/DT trade/NN press/NN should/MD be/VB concerned/VBN about/IN this/DT ruling"/NN said/VBD EFF/NNP lawyer/NN Kurt/NNP Opsahl./NNP
+Mr/NNP Opsahl/NNP said/VBD the/DT EFF/NNP was/VBD planning/VBG to/TO appeal/VB against/IN the/DT ruling/NN because/IN the/DT bloggers/NNS were/VBD journalists/NNS and/CC US/PRP federal/JJ laws/NNS stop/VBP net/JJ firms/NNS handing/VBG over/IN copies/NNS of/IN e-mail/JJ messages/NNS if/IN the/DT owner/NN of/IN that/DT account/NN does/VBZ not/RB give/VB their/PRP$ consent./NN

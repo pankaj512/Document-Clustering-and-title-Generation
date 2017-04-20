@@ -1,0 +1,17 @@
+Disney/NNP settles/VBZ disclosure/NN charges/NNS
+
+Walt/NNP Disney/NNP has/VBZ settled/VBN charges/NNS from/IN US/PRP federal/JJ regulators/NNS that/IN it/PRP failed/VBD to/TO disclose/VB how/WRB family/NN members/NNS of/IN directors/NNS were/VBD employed/VBN by/IN the/DT company./NN
+
+The/DT media/NNS giant/NN was/VBD not/RB fined/VBN by/IN the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP but/CC has/VBZ agreed/VBN to/TO refrain/VB from/IN any/DT future/JJ violations/NNS of/IN securities/NNS law./NN
+Disney/NNP failed/VBD to/TO tell/VB investors/NNS that/IN between/IN 1999/CD and/CC 2001/CD it/PRP employed/VBD three/CD adult/NN children/NNS of/IN three/CD then/RB directors./NN
+The/DT firm/NN has/VBZ neither/DT admitted/VBN nor/CC denied/VBD wrongdoing/NN in/IN the/DT settlement./NN
+
+The/DT three/CD Disney/NNP directors/NNS in/IN question/NN in/IN the/DT central/JJ matter/NN of/IN the/DT SEC's/NNP investigation/NN -/: Reveta/NNP Bowers/NNP Stanley/NNP Gold/NNP and/CC Raymond/NNP Watson/NNP -/: have/VBP all/DT since/IN left/VBN the/DT company/NN with/IN Ms/NNP Bowers/NNP and/CC Mr/NNP Watson/NNP both/DT retiring/VBG and/CC Mr/NNP Gold/NNP quitting/VBG in/IN 2003./CD
+Their/PRP$ children/NNS were/VBD paid/VBN between/IN $60000/CD (£30800)/CD and/CC $150000/CD a/DT year/NN with/IN shareholders/NNS not/RB being/VBG informed./NN
+The/DT SEC/NNP also/RB found/VBD that/IN Disney/NNP did/VBD not/RB disclose/VB that/IN a/DT 50%/CD Disney-owned/JJ subsidiary/NN company/NN -/: Lifetime/NN -/: employed/VBN the/DT wife/NN of/IN current/JJ Disney/NNP director/NN John/NNP Bryson/NNP and/CC that/IN she/PRP earned/VBD more/JJR than/IN $1m/CD a/DT year./NN
+Louise/NNP Bryson/NNP remains/VBZ with/IN Lifetime./NNP
+
+Disney/NNP also/RB failed/VBD to/TO disclose/VB payments/NNS to/TO Air/NNP Shamrock/NNP an/DT airline/NN owned/VBN by/IN Mr/NNP Gold/NNP and/CC fellow/JJ former/JJ Disney/NNP directors/NNS Roy/NNP Disney./NNP
+Finally/RB Disney/NNP also/RB did/VBD not/RB reveal/VB that/IN it/PRP provided/VBD more/JJR than/IN $200000/CD annually/RB for/IN office/NN space/NN secretarial/JJ services/NNS and/CC a/DT leased/VBN car/NN and/CC driver/NN to/TO former/JJ director/NN Thomas/NNP Murphy./NNP
+"Shareholders/NN have/VBP a/DT significant/JJ interest/NN in/IN information/NN regarding/VBG relationships/NNS between/IN the/DT company/NN and/CC its/PRP$ directors"/NN said/VBD SEC/NNP deputy/NN enforcement/NN director/NN Linda/NNP Thomsen./NNP
+"Failure/NN to/TO comply/VB with/IN the/DT SEC's/NNP disclosure/NN rules/NNS in/IN this/DT area/NN impedes/NNS shareholders'/NN ability/NN to/TO evaluate/VB the/DT objectivity/NN and/CC independence/NN of/IN directors."/NN

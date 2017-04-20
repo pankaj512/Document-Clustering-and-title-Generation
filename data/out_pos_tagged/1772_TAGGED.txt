@@ -1,0 +1,12 @@
+Federer/NN breezes/NNS into/IN semi-finals/NNS
+
+Roger/NNP Federer/NNP reached/VBN the/DT last/JJ four/CD of/IN the/DT Qatar/NNP Open/NNP with/IN an/DT easy/JJ 6-1/JJ 6-2/JJ win/NN over/IN seventh/JJ seed/NN Feliciano/NNP Lopez./NNP
+
+The/DT Swiss/JJ world/NN number/NN one/CD reeled/VBD off/RP a/DT series/NN winners/NNS to/TO outclass/JJ the/DT Spaniard/NNP and/CC set/VBN up/RP a/DT semi-final/JJ match/NN against/IN Russian/JJ Nikolay/NNP Davydenko./NNP
+Federer/NNP who/WP lost/VBN in/IN the/DT quarter-final/NN in/IN his/PRP$ last/JJ Qatar/NNP appearance/NN in/IN 2003/CD was/VBD happy/JJ with/IN his/PRP$ form./NN
+"I/NN think/VBP I/PRP played/VBD better/RBR than/IN against/IN Greg/NNP Rusedski/NNP and/CC I/PRP am/VBP happy/JJ I/PRP am/VBP playing/VBG so/RB well"/NN said/VBD the/DT top/JJ seed./NN
+Lopez/NNP showed/VBD glimpses/NNS of/IN resolve/VBP early/RB in/IN the/DT second/JJ set/VBN when/WRB he/PRP held/VBD his/PRP$ first/JJ service/NN game/NN and/CC came/VBD close/RB to/TO breaking/VBG Federer./NNP
+But/CC the/DT Swiss/JJ saved/VBN a/DT break/NN point/NN and/CC promptly/RB broke/VBD serve/VB in/IN the/DT following/JJ game/NN to/TO seize/VB control./NN
+Davydenko/NNP meanwhile/RB upset/VBD French/JJ third/JJ seed/NN Sebastien/NNP Grosjean/NNP 2-6/JJ 6-3/JJ 6-2./JJ
+Fabrice/NNP Santoro/NNP completed/VBD a/DT miserable/JJ day/NN for/IN France/NNP when/WRB he/PRP was/VBD forced/VBN to/TO retire/VB when/WRB 6-2/JJ 3-0/JJ down/RP to/TO Albert/NNP Costa./NNP
+Spaniard/NNP Costa/NNP will/MD next/VB face/NN Croatian/NNP Ivan/NNP Ljubicic/NNP after/IN the/DT sixth/JJ seed/NN beat/VB Rafael/NNP Nadal/NNP 6-2/JJ 6-7/JJ (3/7)/CD 6-3./JJ

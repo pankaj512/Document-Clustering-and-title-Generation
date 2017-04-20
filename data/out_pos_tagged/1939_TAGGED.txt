@@ -1,0 +1,25 @@
+Pompeii/NNP gets/VBZ digital/JJ make-over/JJ
+
+The/DT old-fashioned/JJ audio/JJ tour/NN of/IN historical/JJ places/NNS could/MD soon/RB be/VB replaced/VBN with/IN computer-generated/JJ images/NNS that/WDT bring/VBP the/DT site/NN to/TO life./VB
+
+A/DT European/NNP Union-funded/NNP project/NN is/VBZ looking/VBG at/IN providing/VBG tourists/NNS with/IN computer-augmented/JJ versions/NNS of/IN archaeological/JJ attractions./NN
+It/PRP would/MD allow/VB visitors/NNS a/DT glimpse/NN of/IN life/NN as/IN it/PRP was/VBD originally/RB lived/VBN in/IN places/NNS such/JJ as/IN Pompeii./NNP
+It/PRP could/MD pave/VB the/DT way/NN for/IN a/DT new/JJ form/NN of/IN cultural/JJ tourism./NN
+
+The/DT technology/NN would/MD allow/VB digital/JJ people/NNS and/CC other/JJ computer-generated/JJ elements/NNS to/TO be/VB combined/VBN with/IN the/DT actual/JJ view/NN seen/VBN by/IN tourists/NNS as/IN they/PRP walk/VBP around/IN an/DT historical/JJ site./NN
+
+The/DT Lifeplus/NNP project/NN is/VBZ part/NN of/IN the/DT EU's/NNP Information/NNP Society/NNP Technologies/NNPS initiative/NN aimed/VBN at/IN promoting/VBG user-friendly/JJ technology/NN and/CC enhancing/VBG European/JJ cultural/JJ heritage./NN
+Engineers/NNS and/CC researchers/NNS working/VBG in/IN the/DT Europe-wide/NNP consortium/NN have/VBP come/VBN up/RP with/IN a/DT prototype/NN augmented-reality/JJ system./NN
+It/PRP would/MD require/VB the/DT visitor/NN to/TO wear/VB a/DT head-mounted/JJ display/NN with/IN a/DT miniature/JJ camera/NN and/CC a/DT backpack/NN computer./NN
+The/DT camera/NN captures/NNS the/DT view/NN and/CC feeds/VBZ it/PRP to/TO software/VB on/IN the/DT computer/NN where/WRB the/DT visitor's/NNS viewpoint/NN is/VBZ combined/VBN with/IN animated/VBN virtual/JJ elements./NN
+At/IN Pompeii/NNP for/IN example/NN the/DT visitor/NN would/MD not/RB just/RB see/VB the/DT frescos/NNS taverns/NNS and/CC villas/NNS that/WDT have/VBP been/VBN excavated/VBN but/CC also/RB people/NNS going/VBG about/IN their/PRP$ daily/JJ life./NN
+Augmented/JJ reality/NN has/VBZ been/VBN used/VBN to/TO create/VB special/JJ effects/NNS in/IN films/NNS such/JJ as/IN Troy/NNP and/CC Lord/NNP of/IN the/DT Rings/NNS and/CC in/IN computer/NN gaming./NN
+
+"This/NN technology/NN can/MD now/RB be/VB used/VBN for/IN much/RB more/JJR than/IN just/RB computer/NN games"/NN said/VBD Professor/NNP Nadia/NNP Magnenat-Thalman/NNP of/IN the/DT Swiss/JJ research/NN group/NN MiraLab./NNP
+
+"We/NN are/VBP for/IN the/DT first/JJ time/NN able/JJ to/TO run/VB this/DT combination/NN of/IN software/NN processes/VBZ to/TO create/VB walking/VBG talking/VBG people/NNS with/IN believable/JJ clothing/NN skin/NN and/CC hair/NN in/IN real-time"/JJ she/PRP said./VBP
+Unlike/IN virtual/JJ reality/NN which/WDT delivers/VBZ an/DT entirely/RB computer-generated/JJ scene/NN to/TO the/DT viewer/NN the/DT Lifeplus/NNP project/NN is/VBZ about/IN combining/VBG digital/JJ and/CC real/JJ views./NN
+Crucial/JJ to/TO the/DT technique/NN is/VBZ the/DT software/NN that/WDT interprets/VBZ the/DT visitor's/NNS view/NN and/CC provides/VBZ an/DT accurate/JJ match/NN between/IN the/DT real/JJ and/CC virtual/JJ elements./NN
+The/DT software/NN capable/JJ of/IN doing/VBG this/DT has/VBZ been/VBN developed/VBN by/IN a/DT UK/NNP company/NN 2d3./CD
+Andrew/NNP Stoddart/NNP chief/NN scientist/NN at/IN 2d3/CD said/VBD that/IN the/DT EU/NNP project/NN has/VBZ been/VBN driven/VBN by/IN a/DT new/JJ desire/NN to/TO bring/VB the/DT past/JJ to/TO life./VB
+"The/NN popularity/NN of/IN television/NN documentaries/NNS and/CC dramatisations/NNS using/VBG computer-generated/JJ imagery/NN to/TO recreate/VB scenes/NNS from/IN ancient/JJ history/NN demonstrates/VBZ the/DT widespread/JJ appeal/NN of/IN bringing/VBG ancient/JJ cultures/NNS to/TO life"/VB he/PRP said./VB

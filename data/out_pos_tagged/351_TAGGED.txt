@@ -1,0 +1,14 @@
+Mild/JJ winter/NN drives/NNS US/PRP oil/VBP down/RB 6%/CD
+
+US/PRP oil/VBP prices/NNS have/VBP fallen/VBN by/IN 6%/CD driven/VBN down/RP by/IN forecasts/NNS of/IN a/DT mild/JJ winter/NN in/IN the/DT densely/RB populated/VBN northeast./NN
+
+Light/NNP crude/JJ oil/NN futures/NNS fell/VBD $2.86/CD to/TO $41.32/CD a/DT barrel/NN on/IN the/DT New/NNP York/NNP Mercantile/NNP Exchange/NNP (Nymex)/NN and/CC have/VBP now/RB lost/VBN $4/CD in/IN five/CD days./NN
+Nonetheless/RB US/PRP crude/VBP is/VBZ still/RB 30%/CD more/JJR expensive/JJ than/IN at/IN the/DT beginning/NN of/IN 2004/CD boosted/VBN by/IN growing/VBG demand/NN and/CC bottlenecks/NNS at/IN refineries./NN
+Traders/NNS ignored/VBD the/DT possible/JJ effects/NNS of/IN Asia's/NNP tidal/JJ waves/NNS on/IN global/JJ supplies./NN
+
+Instead/RB the/DT focus/NN is/VBZ now/RB on/IN US/PRP consumption/VBP which/WDT is/VBZ heavily/RB influenced/VBN in/IN the/DT short/JJ term/NN by/IN the/DT weather./NN
+"With/NN the/DT revised/VBN milder/NN temperatures.../NN
+I'm/NNP more/RBR inclined/VBN to/TO think/VB we'll/NN push/NN lower/JJR and/CC test/VB the/DT $40-40.25/JJ range"/NN said/VBD John/NNP Brady/NNP of/IN ABN/NNP AMRO./NNP
+"The/NN market/NN definitely/RB feels/VBZ to/TO be/VB on/IN the/DT defensive."/NNP Statistics/NNPS released/VBD last/JJ week/NN showed/VBD that/IN stockpiles/NNS of/IN oil/NN products/NNS in/IN the/DT US/PRP had/VBD risen/VBN an/DT indication/NN that/IN severe/JJ supply/NN disruptions/NNS may/MD not/RB arise/VB this/DT winter/NN barring/VBG any/DT serious/JJ incident./NN
+Oil/NN prices/NNS have/VBP broken/VBN records/NNS in/IN 2004/CD topping/VBG $50/CD a/DT barrel/NN at/IN one/CD point/NN driven/VBD up/RP by/IN a/DT welter/NN of/IN worries/NNS about/IN unrest/NN in/IN Iraq/NNP and/CC Saudi/NNP Arabia/NNP rising/VBG demand/NN and/CC supply/NN bottlenecks./NN
+London's/NNP International/NNP Petroleum/NNP Exchange/NNP remained/VBD closed/VBN for/IN the/DT Christmas/NNP holiday./NN

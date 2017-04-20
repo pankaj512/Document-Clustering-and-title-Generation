@@ -1,0 +1,35 @@
+BT/NNP offers/VBZ equal/JJ access/NN to/TO rivals/NNS
+
+BT/NNP has/VBZ moved/VBN to/TO pre-empt/VB a/DT possible/JJ break-up/NN of/IN its/PRP$ business/NN by/IN offering/VBG to/TO cut/VB wholesale/JJ broadband/NN prices/NNS and/CC open/JJ its/PRP$ network/NN to/TO rivals./VB
+
+The/DT move/NN comes/VBZ after/IN telecom/NN regulator/NN Ofcom/NNP said/VBD in/IN November/NNP that/IN the/DT firm/NN must/MD offer/VB competitors/NNS "real/JJ equality/NN of/IN access/NN to/TO its/PRP$ phone/NN lines"./NN
+At/IN the/DT time/NN Ofcom/NNP offered/VBD BT/NNP the/DT choice/NN of/IN change/NN or/CC splitting/NN into/IN two./NN
+Ofcom/NNP is/VBZ carrying/VBG out/RP a/DT strategic/JJ review/NN aimed/VBN at/IN promoting/VBG greater/JJR competition/NN in/IN the/DT UK/NNP telecom/NN sector./NN
+BT's/NN competitors/NNS have/VBP frequently/RB accused/VBN it/PRP of/IN misusing/VBG its/PRP$ status/NN as/IN the/DT former/JJ telecoms/NNS monopoly/NN and/CC controller/NN of/IN access/NN to/TO many/JJ customers/NNS to/TO favour/VB its/PRP$ own/JJ retail/JJ arm./NN
+
+This/DT latest/JJS submission/NN was/VBD delivered/VBN to/TO the/DT watchdog/NN ahead/RB of/IN a/DT deadline/NN for/IN the/DT second/JJ phase/NN of/IN its/PRP$ review./NN
+
+"Central/JJ to/TO the/DT proposals/NNS are/VBP plans/NNS by/IN BT/NNP to/TO offer/VB operators/NNS lower/JJR wholesale/JJ prices/NNS faster/JJR broadband/NN services/NNS and/CC transparent/JJ highly-regulated/JJ access/NN to/TO BT's/NNP local/JJ network"/NN the/DT former/JJ monopoly/NN said/VBD in/IN a/DT statement./NN
+"The/NNP United/NNP Kingdom/NNP has/VBZ the/DT opportunity/NN to/TO create/VB the/DT most/RBS exciting/JJ and/CC innovative/JJ telecoms/NNS market/NN in/IN the/DT world"/NN BT/NNP chief/NN executive/NN Ben/NNP Verwaayen/NNP said./NN
+"BT/NN has/VBZ a/DT critical/JJ role/NN to/TO play/VB and/CC today/NN we/PRP are/VBP making/VBG a/DT set/NN of/IN far-reaching/JJ proposals/NNS towards/IN that/DT framework"/NN he/PRP said./VB
+BT/NNP wants/VBZ lighter/JJR regulation/NN in/IN exchange/NN for/IN the/DT changes/NNS as/RB well/RB as/IN the/DT removal/NN of/IN the/DT break-up/NN threat./NN
+
+The/DT group/NN is/VBZ to/TO set/VB up/RP a/DT new/JJ Access/NN Services/NNPS division/NN -/: with/IN a/DT separate/JJ board/NN which/WDT would/MD include/VB independent/JJ members/NNS -/: to/TO ensure/VB equal/JJ access/NN for/IN rivals/NNS to/TO the/DT "local/JJ loop"/NN the/DT copper/NN wires/NNS that/WDT run/NN between/IN telephone/NN exchanges/NNS and/CC households./NN
+The/DT company/NN also/RB unveiled/VBD plans/NNS to/TO cut/VB the/DT wholesale/JJ prices/NNS of/IN its/PRP$ most/RBS popular/JJ broadband/NN product/NN by/IN about/IN 8%/CD from/IN April/NNP in/IN areas/NNS of/IN high/JJ customer/NN demand./NN
+
+It/PRP added/VBD that/IN it/PRP plans/VBZ to/TO invest/VB £10bn/CD in/IN the/DT next/JJ five/CD years/NNS to/TO create/VB a/DT "21st/CD Century/NNP network"./NN
+To/TO meet/VB the/DT growing/VBG demand/NN for/IN greater/JJR bandwidth/NN BT/NNP said/VBD it/PRP would/MD begin/VB trials/NNS in/IN April/NNP with/IN a/DT view/NN to/TO launching/VBG higher-speed/JJ services/NNS nationally/RB from/IN the/DT autumn./NN
+
+Telecom/NNP analysts/NNS Ovum/NNP welcomed/VBD the/DT move/NN saying/VBG BT/NNP had/VBD "given/NN a/DT lot/NN of/IN ground"./NN
+
+"The/NN big/JJ question/NN now/RB is/VBZ whether/IN the/DT industry/NN and/CC particularly/RB Ofcom/NNP feels/VBZ BT's/NNP proposals/NNS go/VBP far/RB enough/JJ ...Now/VB the/DT real/JJ negotiation/NN begins"/NN director/NN of/IN telecoms/NNS research/NN Tony/NNP Lavender/NN said./NN
+Internet/NNP service/NN provider/NN (ISP)/NN Plus.net/NNP also/RB backed/VBD the/DT proposals/NNS saying/VBG "we/NN will/MD be/VB entirely/RB happy/JJ if/IN Ofcom/NNP accepts/VBZ them"./NN
+"BT/NN has/VBZ been/VBN challenged/VBN to/TO play/VB fair/JJ and/CC its/PRP$ plans/NNS will/MD introduce/VB a/DT level/NN playing/VBG field./NN
+The/DT scenario/NN now/RB is/VBZ how/WRB well/RB people/NNS execute/VBP their/PRP$ business/NN plans/NNS as/IN a/DT service/NN provider"/NN chief/NN executive/NN Lee/NNP Strafford/NNP said./NN
+Chris/NNP Panayis/NNP managing/VBG director/NN of/IN ISP/NNP Freedom2surf/CD said/VBD that/IN it/PRP would/MD make/VB the/DT situation/NN clearer/JJR for/IN business./NN
+"I/NN think/VBP it's/NNS the/DT first/JJ productive/JJ thing/NN we've/NN had/VBD from/IN BT"/NNP he/PRP said./VB
+
+AOL/NNP backed/VBD the/DT price/NN cuts/NNS but/CC said/VBD regulation/NN was/VBD still/RB needed/VBN to/TO ensure/VB a/DT level/NN playing/VBG field./NN
+"This/NN is/VBZ a/DT reminder/NN to/TO Ofcom/NNP that/IN as/RB long/RB as/IN BT/NNP can/MD change/VB the/DT dynamics/NNS of/IN the/DT whole/JJ broadband/NN market/NN at/IN will/MD the/DT process/NN of/IN opening/VBG up/RP the/DT UK's/NNP local/JJ telephone/NN network/NN to/TO infrastructure/VB investment/NN and/CC competition/NN remains/VBZ fragile"/VBG a/DT spokesman/NN said./NN
+"Ofcom/NN needs/VBZ to/TO return/VB to/TO regulation/VB of/IN the/DT wholesale/JJ broadband/NN service/NN [IPStream]/NN and/CC provide/VB more/RBR robust/JJ rules/NNS for/IN local/JJ loop/NN unbundling/VBG if/IN consumers/NNS are/VBP to/TO see/VB the/DT benefits/NNS of/IN increased/VBN competition/NN and/CC infrastructure/NN investment."/NN More/JJR than/IN 100/CD telecom/NN firms/NNS consumer/NN groups/NNS and/CC other/JJ interested/JJ parties/NNS are/VBP expected/VBN to/TO make/VB submissions/NNS to/TO the/DT regulator/NN during/IN this/DT consultation/NN phase./NN
+Ofcom/NNP is/VBZ expected/VBN to/TO spend/VB the/DT next/JJ few/JJ weeks/NNS examining/VBG the/DT proposals/NNS before/IN making/VBG an/DT announcement/NN within/IN the/DT next/JJ few/JJ months./NN

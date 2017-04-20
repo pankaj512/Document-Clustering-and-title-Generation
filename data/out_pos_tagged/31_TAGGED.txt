@@ -1,0 +1,21 @@
+Irish/JJ markets/NNS reach/VBP all-time/JJ high/JJ
+
+Irish/JJ shares/NNS have/VBP risen/VBN to/TO a/DT record/NN high/NN with/IN investors/NNS persuaded/VBD to/TO buy/VB into/IN the/DT market/NN by/IN low/JJ inflation/NN and/CC strong/JJ growth/NN forecasts./NN
+
+The/DT ISEQ/NNP index/NN of/IN leading/VBG shares/NNS closed/VBD up/RB 23/CD points/NNS to/TO 6661.89/CD on/IN Thursday/NNP fuelled/VBD by/IN strong/JJ growth/NN in/IN banking/NN and/CC financial/JJ stocks./NN
+A/DT fall/NN in/IN the/DT rate/NN of/IN inflation/NN to/TO 2.3%/CD in/IN January/NNP gave/VBD a/DT fresh/JJ boost/NN to/TO shares/NNS which/WDT have/VBP advanced/VBN 4%/CD this/DT month./NN
+The/DT economy/NN is/VBZ set/VBN for/IN strong/JJ growth/NN in/IN 2005/CD while/IN interest/NN rates/NNS remain/VBP low./NN
+
+Several/JJ of/IN Ireland's/NNP biggest/JJS companies/NNS saw/VBD their/PRP$ market/NN value/NN hit/VBD recent/JJ highs/NNS on/IN Thursday./NNP
+Allied/NNP Irish/JJ Banks/NNS Ireland's/NNP biggest/JJS company/NN by/IN capitalisation/NN touched/VBD a/DT five/CD year/NN peak/NN while/IN Bank/NNP of/IN Ireland/NNP shares/NNS rose/VBD to/TO their/PRP$ highest/JJS level/NN since/IN August/NNP 2002./CD
+
+Telecoms/NNP firm/NN Eircom/NNP which/WDT recently/RB revealed/VBD that/IN it/PRP would/MD re-enter/VB the/DT Irish/JJ mobile/JJ phone/NN market/NN hit/VBD a/DT yearly/JJ high./NN
+Analysts/NNS said/VBD that/IN economic/JJ conditions/NNS were/VBD benign/JJ and/CC Irish/JJ shares/NNS were/VBD still/RB trading/VBG at/IN a/DT discount/NN to/TO other/JJ European/JJ markets./NN
+"Ireland/NN ticks/NNS all/PDT the/DT boxes/NNS as/RB far/RB as/IN international/JJ investors/NNS are/VBP concerned"/NN Roy/NNP Asher/NNP chief/JJ investment/NN officer/NN of/IN Hibernian/NNP Investment/NNP Managers/NNS told/VBD Reuters./NNP
+"Buoyant/JJ economic/JJ conditions/NNS are/VBP set/VBN to/TO continue/VB in/IN Ireland/NNP over/IN the/DT next/JJ few/JJ years/NNS and/CC Irish/JJ equities/NNS continue/VBP to/TO offer/VB quality/NN growth/NN at/IN a/DT reasonable/JJ valuation."/NN
+
+Bernard/NNP McAlinden/NNP head/NN of/IN equity/NN research/NN at/IN NCB/NNP Stockbrokers/NNS said/VBD equities/NNS represented/VBD good/JJ value/NN compared/VBN to/TO other/JJ investments./NN
+"It/NN is/VBZ still/RB looking/VBG good"/NN he/PRP told/VBD Reuters./NNP
+"We/NN have/VBP seen/VBN good/JJ economic/JJ data/NNS on/IN Ireland/NNP which/WDT benefits/NNS the/DT financial/JJ stocks."/NN Ireland's/NNP economic/JJ 'miracle'/NN is/VBZ enjoying/VBG a/DT second/JJ wind/NN with/IN 5%/CD growth/NN forecast/NN for/IN 2005/CD and/CC 2006./CD
+The/DT economy/NN cooled/VBD markedly/RB between/IN 2001/CD and/CC 2003/CD after/IN enjoying/VBG spectacular/JJ growth/NN of/IN more/JJR than/IN 10%/CD in/IN 2000./CD
+However/RB it/PRP has/VBZ bounced/VBN back/RP strongly/RB with/IN growth/NN of/IN just/RB under/IN 5%/CD expected/VBN in/IN 2004./CD

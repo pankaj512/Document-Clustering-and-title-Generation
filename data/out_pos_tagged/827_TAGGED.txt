@@ -1,0 +1,12 @@
+Patti/NNP Smith/NNP to/TO host/VB arts/NNS festival/NN
+
+Rock/NNP star/NN Patti/NNP Smith/NNP has/VBZ been/VBN made/VBN artistic/JJ director/NN of/IN this/DT year's/NNS Meltdown/NN festival/NN to/TO be/VB held/VBN at/IN London's/NNP South/NNP Bank/NNP Centre/NNP in/IN June./NNP
+
+The/DT punk/NN pioneer/NN follows/VBZ Morrissey/NNP David/NNP Bowie/NNP and/CC Nick/NNP Cave/NNP in/IN directing/VBG 15/CD days/NNS of/IN concerts/NNS and/CC events./NN
+Smith/NNP has/VBZ yet/RB to/TO decide/VB the/DT line-up/NN for/IN Meltdown/NN which/WDT begins/VBZ on/IN 11/CD June./NNP
+"I/NN want/VBP to/TO touch/VB on/IN all/DT aspects/NNS of/IN our/PRP$ culture/NN perhaps/RB with/IN readings/NNS from/IN Genet/NNP and/CC I/PRP have/VBP an/DT idea/NN for/IN Jeremy/NNP Irons/NNS to/TO read/VB Proust"/NNP she/PRP said./VBP
+
+The/DT 58-year-old/JJ US/PRP singer/VBP of/IN Because/IN the/DT Night/NNP told/VBD The/DT Observer/NNP newspaper/NN that/IN the/DT festival/NN would/MD be/VB her/PRP$ response/NN to/TO these/DT "material/JJ exploitative/JJ and/CC greedy/JJ times"./NN
+"It/NN is/VBZ important/JJ we/PRP explore/VBP the/DT new/JJ but/CC we/PRP should/MD also/RB salute/VB the/DT best/JJS art/NN there/EX is/VBZ aesthetically/RB and/CC spiritually"/NN she/PRP said./VBP
+Last/JJ year's/NNS Meltdown/NN festival/NN directed/VBN by/IN the/DT ex-Smiths/NN star/NN Morrissey/NNP included/VBD appearances/NNS by/IN singer/NN Jane/NNP Birkin/NNP Nancy/NNP Sinatra/NNP and/CC playwright/NN Alan/NNP Bennett./NNP
+He/PRP also/RB persuaded/VBD punk/NN band/NN The/DT New/NNP York/NNP Dolls/NNS to/TO reform/VB for/IN a/DT reunion/NN show./NN

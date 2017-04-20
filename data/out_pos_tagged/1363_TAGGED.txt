@@ -1,0 +1,16 @@
+IAAF/NNP awaits/VBZ Greek/JJ pair's/NNS response/NN
+
+Kostas/NNP Kenteris/NNP and/CC Katerina/NNP Thanou/NNP are/VBP yet/RB to/TO respond/VB to/TO doping/VBG charges/NNS from/IN the/DT International/NNP Association/NNP of/IN Athletics/NNP Federations/NNP (IAAF)./NN
+
+The/DT Greek/JJ pair/NN were/VBD charged/VBN after/IN missing/VBG a/DT series/NN of/IN routine/JJ drugs/NNS tests/NNS in/IN Tel/NNP Aviv/NNP Chicago/NNP and/CC Athens./NNP
+They/PRP have/VBP until/IN midnight/NN on/IN 16/CD December/NNP and/CC an/DT IAAF/NNP spokesman/NN said/VBD "We're/NN sure/VB their/PRP$ responses/NNS are/VBP on/IN their/PRP$ way."/NN If/IN they/PRP do/VBP not/RB respond/VB or/CC their/PRP$ explanations/NNS are/VBP rejected/VBN they/PRP will/MD be/VB provisionally/RB banned/VBN from/IN competition./NN
+They/PRP will/MD then/RB face/VB a/DT hearing/NN in/IN front/NN of/IN the/DT Greek/JJ Federation/NNP which/WDT will/MD ultimately/RB determine/VB their/PRP$ fate./NN
+Their/PRP$ former/JJ coach/NN Christos/NNP Tzekos/NNP has/VBZ also/RB been/VBN charged/VBN with/IN distributing/VBG banned/VBN substances./NN
+Under/IN IAAF/NNP rules/VBZ the/DT athletes/NNS could/MD receive/VB a/DT maximum/NN one-year/JJ suspension./NN
+Kenteris/NNP and/CC Thanou/NNP already/RB face/VB a/DT criminal/JJ trial/NN after/IN being/VBG charged/VBN with/IN avoiding/VBG a/DT drug/NN test/NN on/IN the/DT eve/NN of/IN the/DT Athens/NNP Olympics/NNPS and/CC then/RB faking/VBG a/DT motorcyle/NN crash./NN
+
+No/DT date/NN for/IN the/DT trial/NN has/VBZ yet/RB been/VBN set/VBN and/CC again/RB Tzekos/NNP is/VBZ also/RB facing/VBG charges./NN
+The/DT IAAF/NNP issued/VBD an/DT official/JJ warning/NN to/TO the/DT trio/NN last/JJ year/NN after/IN they/PRP were/VBD discovered/VBN training/NN in/IN Qatar/NNP rather/RB than/IN in/IN Crete/NNP where/WRB they/PRP had/VBD said/VBN they/PRP would/MD be./VB
+All/DT athletes/NNS must/MD inform/VB their/PRP$ national/JJ federations/NNS where/WRB they/PRP are/VBP at/IN all/DT times/NNS so/IN they/PRP can/MD be/VB available/JJ for/IN out-of-competition/JJ drugs/NNS tests./NN
+But/CC Kenteris/NNP and/CC Thanou/NNP then/RB went/VBD on/RP to/TO skip/VB tests/NNS in/IN Tel/NNP Aviv/NNP and/CC Chicago/NNP when/WRB they/PRP decided/VBD to/TO fly/VB back/RB to/TO Greece/NNP early./NN
+Then/RB just/RB before/IN the/DT Olympics/NNPS the/DT pair/NN dramatically/RB missed/VBD another/DT test/NN in/IN Athens/NNP and/CC withdrew/VBD from/IN the/DT Games./NNP

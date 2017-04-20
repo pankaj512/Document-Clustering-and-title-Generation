@@ -1,0 +1,14 @@
+Budget/NNP Aston/NNP takes/VBZ on/IN Porsche/NNP
+
+British/JJ car/NN maker/NN Aston/NNP Martin/NNP has/VBZ gone/VBN head-to-head/JJ with/IN Porsche's/NNP 911/CD sports/NNS cars/NNS with/IN the/DT launch/NN of/IN its/PRP$ cheapest/JJS model/NN yet./NN
+
+With/IN a/DT price/NN tag/NN under/IN £80000/CD the/DT V8/CD Vantage/NNP is/VBZ tens/NNS of/IN thousands/NNS of/IN pounds/NNS cheaper/JJR than/IN existing/VBG Aston/NNP models./NN
+The/DT Vantage/NNP is/VBZ "the/NN most/RBS important/JJ car/NN in/IN the/DT history/NN of/IN our/PRP$ company"/NN said/VBD Aston's/NNP chief/NN executive/NN Ulrich/NNP Bez./NNP
+Aston/NNP -/: whose/WP$ cars/NNS were/VBD famously/RB used/VBN by/IN James/NNP Bond/NNP -/: will/MD unveil/VB the/DT Vantage/NNP at/IN the/DT Geneva/NNP Motor/NNP Show/NNP on/IN Thursday./NNP
+Mr/NNP Bez/NNP -/: himself/PRP a/DT former/JJ executive/NN at/IN rival/JJ Porsche/NNP -/: said/VBD the/DT new/JJ car/NN was/VBD the/DT company's/NNS "most/VBP affordable/JJ car/NN ever/RB and/CC makes/VBZ the/DT brand/NN accessible"./NN
+This/DT in/IN turn/NN would/MD make/VB Aston/NNP Martin/NNP "globally/RB visible/JJ but/CC still/RB very/RB very/RB exclusive"/NN he/PRP added./VB
+
+First/NNP shown/VBD as/IN a/DT concept/NN car/NN at/IN the/DT 2003/CD North/JJ American/NNP International/NNP Auto/NN Show/NNP in/IN Detroit/NNP the/DT V8/CD Vantage/NNP will/MD be/VB available/JJ in/IN the/DT UK/NNP in/IN late/JJ summer./NN
+Development/NN costs/NNS for/IN the/DT Vantage/NNP have/VBP been/VBN kept/VBN low/JJ by/IN sharing/VBG a/DT platform/NN with/IN Aston's/NNP DB9/CD which/WDT Mr/NNP Bez/NNP described/VBD as/IN "the/NN previous/JJ most/RBS important/JJ car/NN for/IN our/PRP$ company"./NN
+There/EX is/VBZ currently/RB an/DT 18/CD months/NNS waiting/VBG list/NN for/IN the/DT DB9/CD Mr/NNP Bez/NNP said./NN
+The/DT Vantage/NNP will/MD be/VB built/VBN at/IN the/DT new/JJ Aston/NNP factory/NN in/IN Gaydon/NNP near/IN Warwick/NNP and/CC should/MD more/RBR than/IN double/JJ Aston's/NNP total/JJ output/NN from/IN about/IN 2000/CD presently./NN

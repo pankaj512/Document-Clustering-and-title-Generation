@@ -1,0 +1,16 @@
+Horror/NN film/NN heads/VBZ US/PRP box/NN office/NN
+
+A/DT low-budget/JJ horror/NN film/NN produced/VBN by/IN Evil/NNP Dead/NNP director/NN Sam/NNP Raimi/NNP has/VBZ topped/VBN the/DT North/JJ American/JJ box/NN office./NN
+
+Boogeyman/NNP which/WDT focuses/VBZ on/IN a/DT man/NN who/WP returns/VBZ to/TO his/PRP$ childhood/NN home/NN to/TO confront/VB his/PRP$ traumatic/JJ past/NN took/VBD $19.5m/CD (£14.9m)/CD in/IN three/CD days./NN
+Last/JJ week's/NNS chart-topper/VBP the/DT Robert/NNP de/IN Niro/NNP thriller/NN Hide/VBP and/CC Seek/VBP fell/VBN to/TO number/VB four./NN
+Other/JJ new/JJ entries/NNS included/VBD The/DT Wedding/NN Date/NN a/DT comedy/NN starring/VBG Will/MD and/CC Grace's/NNP Debra/NNP Messing/NNP at/IN number/NN two./NN
+
+The/DT road-trip/JJ comedy/NN Are/VBP We/PRP There/EX Yet?/NNP and/CC multiple/JJ Oscar/NNP nominee/NN Million/CD Dollar/NN Baby/NNP completed/VBD the/DT top/JJ five./NN
+Other/JJ Oscar/NNP contenders/NNS including/VBG The/DT Aviator/NNP and/CC Sideways/RB continued/VBD to/TO perform/VB strongly/RB at/IN the/DT box/NN office./NN
+The/DT Aviator/NNP has/VBZ taken/VBN $75m/CD (£40m)/CD so/RB far/RB while/IN Sideways/RB has/VBZ taken/VBN $46.8m/CD (£24.8m)/CD in/IN a/DT more/RBR limited/JJ release./NN
+
+Boogeyman/NNP which/WDT cost/NN just/RB $7m/CD (£3.5m)/CD to/TO make/VB performed/VBN well/RB even/RB though/IN it/PRP was/VBD not/RB screened/VBN to/TO critics/NNS before/IN release/NN -/: normally/RB a/DT sign/NN that/IN a/DT film/NN will/MD get/VB bad/JJ reviews/NNS or/CC perform/VB poorly/RB at/IN the/DT box/NN office./NN
+"I/NN certainly/RB believe/VBP it's/NNS a/DT genre/NN where/WRB people/NNS are/VBP going/VBG to/TO be/VB more/JJR moved/VBN by/IN the/DT marketing/NN materials/NNS for/IN the/DT movie/NN than/IN by/IN what/WP the/DT critics/NNS say"/NN said/VBD Rory/NNP Bruer/NNP head/NN of/IN distribution/NN for/IN Sony/NNP Pictures/NNP which/WDT released/VBD the/DT film/NN in/IN the/DT US./NNP
+Overall/RB the/DT weekend/NN box/NN office/NN was/VBD strong/JJ despite/IN the/DT fact/NN that/IN it/PRP was/VBD American/JJ football's/NNS Super/NNP Bowl/NNP weekend/NN -/: a/DT time/NN when/WRB cinema/NN admissions/NNS generally/RB fall./VBP
+This/DT year/NN the/DT top/JJ 12/CD films/NNS grossed/VBN around/IN $91m/CD (£48.3m)/CD compared/VBN to/TO 2004's/CD Super/NNP Bowl/NNP weekend/NN when/WRB the/DT total/JJ box/NN office/NN was/VBD $73.4m/CD (£38.9m)./CD

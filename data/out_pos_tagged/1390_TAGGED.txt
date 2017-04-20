@@ -1,0 +1,9 @@
+Yelling/VBG takes/VBZ Cardiff/NNP hat-trick/JJ
+
+European/JJ cross-country/JJ champion/NN Hayley/NNP Yelling/VBG completed/VBN a/DT hat-trick/NN of/IN wins/NNS in/IN the/DT Reebok/NNP Cardiff/NNP Cross/NNP Challenge/NNP in/IN Bute/NNP Park/NNP on/IN Sunday/NNP afternoon./NN
+
+The/DT part-time/JJ maths/NNS teacher/NN beat/NN Irish/JJ international/JJ Jolene/NNP Byrne/NNP by/IN 40/CD metres/NNS in/IN the/DT six-kilometre/JJ race./NN
+Another/DT Great/NNP Britain/NNP international/JJ Louise/NNP Damen/NNP finished/VBD third/JJ as/IN part/NN of/IN the/DT contingent/JJ representing/NN England./NNP
+Peter/NNP Riley/NNP who/WP secured/VBD bronze/NN for/IN the/DT GB/NNP men's/NNS team/NN at/IN last/JJ month's/NNS European/JJ Championships/NNS won/VBD the/DT men's/NNS 9km/CD race./NN
+Riley/NNP representing/VBG England/NNP moved/VBD away/RB over/IN the/DT last/JJ two/CD kilometres/NNS to/TO win/VB by/IN 25/CD metres/NNS from/IN Ireland's/NNP Gary/NNP Murray./NNP
+Glynn/NNP Tromans/NNP -/: the/DT reigning/VBG UK/NNP Inter-Countries/NNP and/CC England/NNP Cross-Country/NNP champion/NN -/: came/VBD in/IN third/JJ place/NN as/IN he/PRP continues/VBZ his/PRP$ comeback/NN from/IN a/DT five-month/JJ injury/NN lay-off./JJ

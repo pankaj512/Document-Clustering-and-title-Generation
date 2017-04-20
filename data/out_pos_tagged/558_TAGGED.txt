@@ -1,0 +1,20 @@
+'Landmark/NN movies'/NN of/IN 2004/CD hailed/VBD
+
+US/PRP film/VBP professionals/NNS have/VBP declared/VBN Fahrenheit/NN 9/11/CD and/CC The/DT Passion/NN of/IN the/DT Christ/NNP as/IN two/CD of/IN the/DT most/RBS significant/JJ cultural/JJ milestones/NNS of/IN 2004./CD
+
+The/DT American/NNP Film/NNP Institute/NNP (AFI)/NN hailed/VBD Mel/NNP Gibson's/NNP biblical/JJ epic/NN and/CC Michael/NNP Moore's/NNP political/JJ documentary/NN as/IN inspiring/JJ national/JJ debate./NN
+It/PRP claimed/VBD both/DT film-makers/NNS "tossed/VBD Hollywood/NNP convention/NN out/RP the/DT window"./NN
+The/DT Institute/NNP also/RB cited/VBD the/DT death/NN of/IN actor/NN Marlon/NNP Brando/NNP and/CC the/DT changing/VBG landscape/NN of/IN TV/NN news/NN in/IN the/DT US./NNP
+In/IN referring/VBG to/TO Marlon/NNP Brando's/NNP death/NN on/IN 1/CD July/NNP at/IN the/DT age/NN of/IN 80/CD the/DT 13-strong/JJ AFI/NNP jury/NN concluded/VBD "the/NN art/NN of/IN screen/NN acting/NN has/VBZ two/CD chapters/NNS -/: 'Before/NN Brando'/NNP and/CC 'After/NN Brando'./NNP
+
+It/PRP credited/VBD the/DT screen/NN legend's/NNS "raw/VBP hypnotic/JJ energy"/NN and/CC his/PRP$ ability/NN to/TO create/VB characters/NNS like/IN Stanley/NNP Kowalski/NNP and/CC Terry/NNP Malloy/NNP "that/NN will/MD live/VB forever/RB in/IN the/DT annals/NN of/IN film/NN history"./NN
+The/DT list/NN also/RB acknowledges/VBZ key/JJ influences/NNS and/CC trends/NNS in/IN the/DT world/NN of/IN film/NN and/CC broadcasting./NN
+Among/IN current/JJ trends/NNS it/PRP highlighted/VBD the/DT final/JJ broadcasts/NNS of/IN veteran/NN newscasters/NNS Tom/NNP Brokaw/NNP Barbara/NNP Walters/NNP and/CC the/DT impending/JJ retirement/NN of/IN CBS/NNP news/NN anchor/VB Dan/NNP Rather./NNP
+It/PRP its/PRP$ place/NN the/DT AFI/NNP fears/NNS is/VBZ a/DT news/NN landscape/NN where/WRB "newscasters/NN are/VBP more/JJR personalities/NNS than/IN journalists"/NN and/CC balance/NN and/CC integrity/NN are/VBP increasingly/RB ignored./NN
+
+The/DT AFI/NNP also/RB questioned/VBD "the/NN long-term/JJ viability/NN of/IN evening/NN news/NN broadcasts"/NN in/IN the/DT light/NN of/IN 24-hour/JJ news/NN channels/NNS and/CC the/DT internet./JJ
+The/DT list/NN also/RB draws/VBZ attention/NN to/TO the/DT growing/VBG influence/NN of/IN US/PRP broadcasting/VBP regulator/NN the/DT Federal/NNP Communications/NNPS Commission/NNP (FCC)/NN
+
+The/DT institute/NN concluded/VBD the/DT threat/NN of/IN regulation/NN which/WDT went/VBD into/IN freefall/NN following/VBG Janet/NNP Jackson's/NNP 'wardrobe/NN malfunction'/NN during/IN a/DT live/JJ Super/NNP Bowl/NNP performance/NN in/IN February/NNP "had/NN a/DT profound/JJ effect/NN on/IN television"./NN
+"Unsure/NN of/IN how/WRB the/DT FCC/NNP will/MD rule/VB on/IN an/DT issue/NN the/DT creative/JJ community/NN has/VBZ begun/VBN to/TO self-censor/VB their/PRP$ shows/NNS a/DT disturbing/JJ trend/NN in/IN a/DT country/NN founded/VBN on/IN free/JJ expression"/NN the/DT AFI/NNP jury/NN declared./NN
+To/TO illustrate/VB their/PRP$ point/NN the/DT AFI/NNP cited/VBD ABC/NNP affiliates/NNS refusal/NN to/TO air/VB Steven/NNP Spielberg's/NNP film/NN Saving/VBG Private/NNP Ryan/NNP in/IN an/DT unedited/VBN form/NN over/IN fears/NNS of/IN possible/JJ fines./NN

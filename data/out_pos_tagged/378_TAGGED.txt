@@ -1,0 +1,14 @@
+Ukraine/NNP strikes/NNS Turkmen/NNP gas/NN deal/NN
+
+Ukraine/NNP has/VBZ agreed/VBN to/TO pay/VB 30%/CD more/JJR for/IN natural/JJ gas/NN supplied/VBN by/IN Turkmenistan./NNP
+
+The/DT deal/NN was/VBD sealed/VBN three/CD days/NNS after/IN Turkmenistan/NNP cut/VBD off/RP gas/NN supplies/NNS in/IN a/DT price/NN dispute/NN that/WDT threatened/VBD the/DT Ukrainian/JJ economy./NN
+Supplies/NNS from/IN Turkmenistan/NNP account/VBP for/IN 45%/CD of/IN all/DT natural/JJ gas/NN imported/VBN by/IN Ukraine/NNP which/WDT has/VBZ large/JJ coal/NN deposits/NNS but/CC no/DT gas/NN fields./NN
+Turkmenistan/NNP is/VBZ also/RB trying/VBG to/TO strike/VB a/DT similar/JJ deal/NN with/IN Russia/NNP which/WDT is/VBZ not/RB so/RB dependent/JJ on/IN its/PRP$ gas./NN
+Turkmen/NNP President/NNP Saparmurat/NNP Niyazov/NNP who/WP signed/VBD the/DT contract/NN said/VBD the/DT Turkmen/NNP side/NN agreed/VBD to/TO lower/VB the/DT price/NN demanded/VBN by/IN $2/CD per/IN 1000/CD cubic/JJ metres/NNS bringing/VBG it/PRP down/RP to/TO $58./CD
+But/CC the/DT new/JJ price/NN is/VBZ still/RB $14/CD higher/JJR than/IN the/DT price/NN fixed/VBN in/IN the/DT contract/NN for/IN 2004./CD
+The/DT head/NN of/IN the/DT Ukrainian/JJ state-owned/JJ Naftohaz/NNP company/NN Yury/NNP Boyko/NNP said/VBD he/PRP was/VBD "fully/RB happy"/NN with/IN the/DT deal./NN
+On/IN Friday/NNP Turkmenistan/NNP acted/VBD on/IN a/DT threat/NN and/CC shut/VB off/RP gas/NN supplies/NNS to/TO Ukraine/NNP in/IN attempt/NN to/TO bring/VB the/DT price/NN dispute/NN to/TO a/DT head./NN
+Mr/NNP Niyazov/NNP said/VBD that/IN his/PRP$ government/NN would/MD insist/VB on/IN the/DT same/JJ price/NN for/IN supplies/NNS to/TO Russia./NNP
+Analysts/NNS say/VBP thay/NN may/MD not/RB happen/VB as/IN Russia/NNP the/DT world's/NNS leading/VBG gas/NN producer/NN needs/VBZ the/DT cheap/JJ Turkmen/NNP gas/NN only/RB to/TO relieve/VB is/VBZ state-owned/JJ Gazprom/NNP from/IN costly/JJ investment/NN in/IN the/DT exploration/NN of/IN oil/NN fields/NNS in/IN Siberia./NNP
+Turkmenistan/NNP is/VBZ the/DT second-largest/JJ gas/NN producer/NN in/IN the/DT world./NN

@@ -1,0 +1,22 @@
+Worldcom/NNP boss/NN 'left/NN books/NNS alone'/NN
+
+Former/NNP Worldcom/NNP boss/NN Bernie/NNP Ebbers/NNP who/WP is/VBZ accused/VBN of/IN overseeing/VBG an/DT $11bn/CD (£5.8bn)/CD fraud/NN never/RB made/VBD accounting/NN decisions/NNS a/DT witness/NN has/VBZ told/VBN jurors./NN
+
+David/NNP Myers/NNP made/VBD the/DT comments/NNS under/IN questioning/VBG by/IN defence/NN lawyers/NNS who/WP have/VBP been/VBN arguing/VBG that/IN Mr/NNP Ebbers/NNP was/VBD not/RB responsible/JJ for/IN Worldcom's/NNP problems./NN
+The/DT phone/NN company/NN collapsed/VBD in/IN 2002/CD and/CC prosecutors/NNS claim/VBP that/IN losses/NNS were/VBD hidden/VBN to/TO protect/VB the/DT firm's/NNS shares./NN
+Mr/NNP Myers/NNP has/VBZ already/RB pleaded/VBN guilty/JJ to/TO fraud/VB and/CC is/VBZ assisting/VBG prosecutors./NN
+
+On/IN Monday/NNP defence/NN lawyer/NN Reid/NNP Weingarten/NNP tried/VBD to/TO distance/VB his/PRP$ client/NN from/IN the/DT allegations./NN
+During/IN cross/NN examination/NN he/PRP asked/VBD Mr/NNP Myers/NNP if/IN he/PRP ever/RB knew/VBD Mr/NNP Ebbers/NNP "make/NN an/DT accounting/NN decision?"./NN
+"Not/NN that/IN I/PRP am/VBP aware/JJ of"/NN Mr/NNP Myers/NNP replied./NN
+"Did/NN you/PRP ever/RB know/VBP Mr/NNP Ebbers/NNP to/TO make/VB an/DT accounting/NN entry/NN into/IN Worldcom/NNP books?"/NN Mr/NNP Weingarten/NNP pressed./NN
+"No"/NN replied/VBD the/DT witness./NN
+Mr/NNP Myers/NNP has/VBZ admitted/VBN that/IN he/PRP ordered/VBD false/JJ accounting/NN entries/NNS at/IN the/DT request/NN of/IN former/JJ Worldcom/NNP chief/JJ financial/JJ officer/NN Scott/NNP Sullivan./NNP
+Defence/NN lawyers/NNS have/VBP been/VBN trying/VBG to/TO paint/VB Mr/NNP Sullivan/NNP who/WP has/VBZ admitted/VBN fraud/NN and/CC will/MD testify/VB later/RB in/IN the/DT trial/NN as/IN the/DT mastermind/NN behind/IN Worldcom's/NNP accounting/NN house/NN of/IN cards./NN
+
+Mr/NNP Ebbers'/NNP team/NN meanwhile/RB are/VBP looking/VBG to/TO portray/VB him/PRP as/IN an/DT affable/JJ boss/NN who/WP by/IN his/PRP$ own/JJ admission/NN is/VBZ more/JJR PE/NNP graduate/NN than/IN economist./NN
+Whatever/WDT his/PRP$ abilities/NNS Mr/NNP Ebbers/NNP transformed/VBD Worldcom/NNP from/IN a/DT relative/JJ unknown/NN into/IN a/DT $160bn/CD telecoms/NNS giant/JJ and/CC investor/NN darling/NN of/IN the/DT late/JJ 1990s./CD
+Worldcom's/NN problems/NNS mounted/VBD however/RB as/IN competition/NN increased/VBD and/CC the/DT telecoms/NNS boom/NN petered/VBD out./NN
+When/WRB the/DT firm/NN finally/RB collapsed/VBD shareholders/NNS lost/VBD about/IN $180bn/CD and/CC 20000/CD workers/NNS lost/VBD their/PRP$ jobs./NN
+Mr/NNP Ebbers'/NNP trial/NN is/VBZ expected/VBN to/TO last/VB two/CD months/NNS and/CC if/IN found/VBD guilty/JJ the/DT former/JJ CEO/NNP faces/VBZ a/DT substantial/JJ jail/NN sentence./NN
+He/PRP has/VBZ firmly/RB declared/VBN his/PRP$ innocence./NN

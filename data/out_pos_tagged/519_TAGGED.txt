@@ -1,0 +1,18 @@
+Da/NNP Vinci/NNP Code/NNP is/VBZ 'lousy/NN history'/NN
+
+The/DT plot/NN of/IN an/DT international/JJ bestseller/NN that/IN thousands/NNS of/IN readers/NNS are/VBP likely/JJ to/TO receive/VB as/IN a/DT Christmas/NNP present/JJ is/VBZ 'laughable'/VBG a/DT clergyman/NN has/VBZ said./NN
+
+The/DT Da/NNP Vinci/NNP Code/NNP claims/NNS Jesus/NNP was/VBD not/RB crucified/VBN but/CC married/JJ Mary/NNP Magdalene/NNP and/CC died/VBD a/DT normal/JJ death./NN
+It/PRP claims/VBZ this/DT was/VBD later/RB covered/VBN up/RP by/IN the/DT Church./NNP
+The/DT Bishop/NNP of/IN Durham/NNP the/DT Rt/NNP Rev/NNP Dr/NNP Tom/NNP Wright/NNP described/VBD the/DT novel/NN as/IN a/DT "great/NN thriller"/NN but/CC "lousy/NN history"./NN
+The/DT book/NN has/VBZ sold/VBN more/JJR than/IN seven/CD million/CD copies/NNS worldwide./NN
+Despite/IN enjoying/VBG Dan/NNP Brown's/NNP conspiracy/NN theory/NN the/DT Bishop/NNP said/VBD there/EX was/VBD a/DT lack/NN of/IN evidence/NN to/TO back/VB up/RP its/PRP$ claims./NN
+
+Writing/VBG his/PRP$ Christmas/NNP message/NN in/IN the/DT Northern/NNP Echo/NNP the/DT Bishop/NNP said/VBD "Conspiracy/NN theories/NNS are/VBP always/RB fun/VB -/: fun/NN to/TO invent/VB fun/NN to/TO read/VB fun/NN to/TO fantasise/VB about./NN
+"Dan/NNP Brown/NNP is/VBZ the/DT best/JJS writer/NN I've/NNP come/VB across/RP in/IN the/DT genre/NN but/CC anyone/NN who/WP knows/VBZ anything/NN about/IN 1st/CD century/NN history/NN will/MD see/VB that/IN this/DT underlying/VBG material/NN is/VBZ laughable."/VBG A/DT great/JJ deal/NN of/IN credible/JJ evidence/NN proves/VBZ the/DT Biblical/NNP version/NN of/IN Jesus'/NNP life/NN was/VBD true/JJ according/NN to/TO the/DT Bishop./NNP
+"The/NN evidence/NN for/IN Jesus/NNP and/CC the/DT origins/NNS of/IN Christianity/NNP is/VBZ astonishingly/RB good"/NN he/PRP said./VB
+"We/NN have/VBP literally/RB a/DT hundred/CD times/NNS more/RBR early/JJ manuscripts/NNS for/IN the/DT gospels/NNS and/CC letters/NNS in/IN the/DT New/NNP Testament/NN than/IN we/PRP have/VBP for/IN the/DT main/JJ classical/JJ authors/NNS like/IN Cicero/NNP Virgil/NNP and/CC Tacitus./NNP
+
+"Historical/JJ research/NN shows/VBZ that/IN they/PRP present/VBP a/DT coherent/JJ and/CC thoroughly/RB credible/JJ picture/NN of/IN Jesus/NNP with/IN all/DT sorts/NNS of/IN incidental/JJ details/NNS that/WDT fit/VBP the/DT time/NN when/WRB he/PRP lived/VBD and/CC don't/NN fit/VBP the/DT world/NN of/IN later/RB legend."/NN Brown's/NNP book/NN has/VBZ become/VBN a/DT publishing/NN phenomenon/NN consistently/RB topping/VBG book/NN charts/NNS in/IN the/DT UK/NNP and/CC US./NNP
+The/DT Da/NNP Vinci/NNP Code/NNP has/VBZ been/VBN translated/VBN into/IN 42/CD languages/NNS and/CC has/VBZ spawned/VBN its/PRP$ own/JJ cottage/NN industry/NN of/IN publications/NNS including/VBG guides/NNS on/RP to/TO how/WRB to/TO read/VB the/DT book/NN rebuttals/NNS and/CC counter/VB claims./NN
+The/DT book/NN which/WDT has/VBZ become/VBN an/DT international/JJ best-seller/NN in/IN little/JJ over/IN two/CD years/NNS is/VBZ set/VBN to/TO be/VB made/VBN into/IN a/DT film/NN starring/VBG Tom/NNP Hanks./NNP

@@ -1,0 +1,30 @@
+Ireland/NNP v/NN USA/NNP (Sat)/NN
+
+Saturday/NNP 20/CD November/NNP
+
+Lansdowne/NNP Road/NNP Dublin/NNP
+
+1300/CD GMT/NNP
+
+The/DT Irish/JJ coach/NN knows/VBZ a/DT repeat/NN of/IN the/DT record/NN 83-3/JJ victory/NN over/IN the/DT States/NNPS in/IN 2000/CD is/VBZ not/RB on/IN the/DT agenda/NN and/CC expects/VBZ a/DT real/JJ test/NN at/IN Lansdowne/NNP Road./NNP
+"Their/NN coach/NN Tom/NNP Billups/NNP will/MD have/VB them/PRP very/RB organised"/VBP said/VBD O'Sullivan./NNP
+"They/NN ran/VBD five/CD tries/VBZ past/JJ the/DT French/NN in/IN the/DT summer/NN so/IN we/PRP will/MD not/RB take/VB them/PRP for/IN granted./NN
+We/PRP have/VBP guys/NNS coming/VBG into/IN the/DT team/NN who/WP are/VBP chomping/VBG at/IN the/DT bit."/NN The/DT Irish/JJ line-up/JJ shows/NNS nine/CD changes/NNS from/IN the/DT team/NN which/WDT started/VBD against/IN South/NNP Africa/NNP with/IN winger/NN Tommy/NNP Bowe/NNP and/CC flanker/NN Denis/NNP Leamy/NNP making/VBG their/PRP$ international/JJ debuts./NN
+The/DT other/JJ changes/NNS see/VBP recalls/VBZ for/IN backs/VBZ David/NNP Humphreys/NNP Kevin/NNP Maggs/NNP and/CC Guy/NNP Easterby/NNP with/IN Eric/NNP Miller/NNP Marcus/NNP Horan/NNP Donnacha/NNP O'Callaghan/NNP and/CC Frank/NNP Sheehan/NNP all/DT returning/VBG to/TO the/DT pack./NN
+
+O'Sullivan/NNP said/VBD the/DT players/NNS coming/VBG in/IN had/VBD the/DT opportunity/NN to/TO stake/VB claims/NNS for/IN inclusion/NN against/IN Argentina/NNP on/IN 27/CD November./NNP
+Easterby/NNP gets/VBZ a/DT rare/JJ start/NN at/IN scrum-half/JJ while/IN Humphreys/NNP now/RB effectively/RB Ronan/NNP O'Gara's/NNP deputy/NN at/IN fly-half/JJ wins/VBZ his/PRP$ 65th/JJ cap./NN
+"We/NN have/VBP got/VBN to/TO get/VB the/DT focus/JJ right/JJ on/IN the/DT day"/NN said/VBD Ulster/NNP man/NN Humphreys./NNP
+"The/NN US/PRP may/MD be/VB classed/VBN as/IN weaker/JJR opposition/NN but/CC we/PRP will/MD treat/VB them/PRP with/IN the/DT respect/NN they/PRP deserve."/VBP The/DT States/NNPS lost/VBD 39-31/JJ against/IN France/NNP in/IN their/PRP$ last/JJ international/JJ and/CC are/VBP ranked/VBN 16th/JJ in/IN world/NN rugby./NN
+The/DT Americans/NNPS have/VBP made/VBN three/CD changes/NNS plus/CC one/CD positional/JJ switch/NN from/IN the/DT game/NN in/IN July/NNP against/IN the/DT French./NNP
+Lock/NNP Alec/NNP Parker/NNP blind-side/JJ flanker/NN Brian/NNP Surgener/NNP and/CC right/JJ wing/NN Al/NNP Lakomskis/NNP return/NN and/CC captain/NN Kort/NNP Schubert/NNP of/IN the/DT Cardiff/NNP Blues/NNPS shifts/NNS to/TO number/VB eight./NN
+Schubert/NNP is/VBZ the/DT only/JJ Eagles/NNPS player/NN remaining/VBG from/IN the/DT sides'/NN meeting/NN four/CD years/NNS ago./NN
+
+G/NNP Murphy/NNP S/NNP Horgan/NNP B/NNP O'Driscoll/NNP (capt)/NN K/NNP Maggs/NNP T/NNP Bowe/NNP D/NNP Humphreys/NNP G/NNP Easterby/NNP M/NNP Horan./NNP
+F/NNP Sheahan/NNP J/NNP Hayes/NNP D/NNP O'Callaghan/NNP P/NNP O'Connell/NNP S/NNP Easterby/NNP D/NNP Leamy/NNP E/NN Miller./NNP
+
+S/NNP Byrne/NNP S/NNP Best/JJS L/NNP Cullen/NNP A/NNP Foley/NNP P/NNP Stringer/NNP R/NN O'Gara/NNP G/NNP Dempsey./NNP
+
+Viljoen/NNP Lakomskis/NNP Emerick/NNP Sika/NNP Fee/NN Hercus/NNP Timoteo/NNP MacDonald/NNP Wyatt/NNP Waasdorp/NNP Parker/NNP Klerck/NNP Surgener/NNP Petruzzella/NNP Schubert/NNP (capt)./NN
+
+Hobson/NNP Osentowski/NNP Gouws/NNP Mo'unga/NNP Williams/NNP Sherman/NNP Tuipulotu./NNP

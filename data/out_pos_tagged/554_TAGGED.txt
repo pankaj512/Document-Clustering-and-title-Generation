@@ -1,0 +1,20 @@
+US/PRP actor/VBP Ossie/NNP Davis/NNP found/VBD dead/JJ
+
+US/PRP actor/VBP Ossie/NNP Davis/NNP has/VBZ been/VBN found/VBN dead/JJ at/IN the/DT age/NN of/IN 87./CD
+
+Davis/NNP who/WP was/VBD married/JJ to/TO actress/VB Ruby/NNP Dee/NNP was/VBD found/VBN dead/JJ on/IN Friday/NNP in/IN his/PRP$ hotel/NN room/NN in/IN Miami/NNP Beach/NNP Florida/NNP where/WRB he/PRP was/VBD making/VBG a/DT film./NN
+Davis/NNP whose/WP$ 65-year/JJ career/NN included/VBD credits/NNS as/IN a/DT producer/NN director/NN actor/NN and/CC writer/NN for/IN stage/NN and/CC screen/NN was/VBD also/RB a/DT civil/JJ rights/NNS activist./NN
+Miami/NNP Beach/NNP police/NN spokesman/NN Bobby/NNP Hernandez/NNP said/VBD the/DT cause/NN of/IN death/NN appeared/VBD to/TO be/VB natural./NN
+
+Davis's/NNP body/NN was/VBD discovered/VBN by/IN his/PRP$ grandson/NN and/CC paramedics/NNS at/IN the/DT Shore/NNP Club/NNP hotel/NN in/IN Miami/NNP Beach/NNP where/WRB the/DT actor/NN had/VBD been/VBN shooting/VBG the/DT film/NN Retirement./NNP
+Mr/NNP Hernandez/NNP said/VBD "After/NN gaining/VBG entry/NN they/PRP found/VBD Mr/NNP Davis/NNP had/VBD passed/VBN away./NN
+"The/NN cause/NN of/IN death/NN appears/VBZ to/TO be/VB natural./NN
+According/VBG to/TO his/PRP$ grandson/NN he/PRP was/VBD suffering/VBG from/IN heart/NN disease."/JJ Some/DT of/IN Davis's/NNP best/JJS known/VBN roles/NNS included/VBD The/DT Joe/NNP Louis/NNP Story/NNP and/CC Gone/VBN Are/VBP the/DT Days/NNS -/: a/DT film/NN he/PRP adapted/VBD from/IN his/PRP$ own/JJ play/NN Purlie/NNP Victorious./NNP
+He/PRP also/RB appeared/VBD in/IN 7/CD Spike/NNP Lee/NNP movies/NNS including/VBG School/NNP Daze/NN Do/VBP the/DT Right/JJ Thing/NN and/CC Jungle/NN Fever./NNP
+
+His/PRP$ film/NN debut/NN in/IN 1950/CD was/VBD in/IN the/DT film/NN No/DT Way/NNP Out/IN starring/VBG Sydney/NNP Poitier/NNP and/CC Ruby/NNP Dee./NNP
+Davis/NNP and/CC Dee/NNP were/VBD married/JJ for/IN more/JJR than/IN 56/CD years/NNS and/CC together/RB received/VBD Kennedy/NNP Center/NNP honours/NNS in/IN 2004/CD for/IN their/PRP$ body/NN of/IN work./NN
+The/DT Actors'/NNP Equity/NNP Association/NNP issued/VBD a/DT statement/NN calling/VBG Davis/NNP "an/NN icon/NN in/IN the/DT American/JJ theatre"/NN and/CC he/PRP and/CC Dee/NNP "American/NN treasures"./NN
+Davis/NNP was/VBD also/RB a/DT prominent/JJ figure/NN in/IN the/DT civil/JJ rights/NNS movement/NN and/CC was/VBD a/DT voice/NN for/IN racial/JJ equality./NN
+He/PRP was/VBD a/DT featured/VBN speaker/NN at/IN the/DT funerals/NNS of/IN both/DT Martin/NNP Luther/NNP King/NNP Jnr/NNP and/CC Malcolm/NNP X./NNP
+Besides/IN Dee/NNP Davis/NNP is/VBZ survived/VBN by/IN three/CD children/NNS Nora/NNP Hasna/NNP and/CC Guy/NNP a/DT blues/NNS artist/NN and/CC seven/CD grandchildren./NN

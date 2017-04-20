@@ -1,0 +1,13 @@
+Twitter has found more creative ways to ease its 140-character limit without officially raising it.
+
+Now, the company says that when you reply to someone — or to a group — usernames will no longer count toward those 140 characters. This will be especially helpful with group conversations, where replying to two, three or more users at a time could be especially difficult with the character constraints.
+
+When users reply, the names of the people they are replying to will be on top of the text of the actual tweet, rather than a part of it.
+
+Last year, Twitter said it would stop counting photos, videos, quote tweets, polls and GIF animations toward the character limit. Twitter also said it would stop counting usernames, but the change did not go into effect until now.
+
+Twitter, which has been struggling to attract new users, has been trying to appeal to both proponents and opponents by sticking to the current limit while allowing more freedom to express thoughts, or rants, through images and other media.
+
+Twitter’s character limit was created so that tweets could fit into a single text message, back in the heyday of SMS messaging. But now, most people use Twitter through its mobile app. There isn’t the same technical constraint, just a desire on Twitter’s part to stay true to its roots.
+
+Of course, there are ways to get around the limit , such as sending out multi-part tweets, or taking screenshots of text typed elsewhere.

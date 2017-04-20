@@ -1,0 +1,46 @@
+How/WRB political/JJ squabbles/NNS snowball/NN
+
+It's/NNP become/VBP commonplace/JJ to/TO argue/VB that/IN Blair/NNP and/CC Brown/NNP are/VBP like/IN squabbling/NN school/NN kids/NNS and/CC that/IN they/PRP (and/VBP their/PRP$ supporters)/NN need/VBP to/TO grow/VB up/RB and/CC stop/VB bickering./NN
+
+But/CC this/DT analysis/NN in/IN fact/NN gets/VBZ it/PRP wrong./NN
+It's/NNP not/RB just/RB children/NNS who/WP fight/VBP -/: adults/NNS do/VBP too./NN
+And/CC there/EX are/VBP solid/JJ reasons/NNS why/WRB even/RB a/DT trivial/JJ argument/NN between/IN mature/VBP protagonists/NNS can/MD be/VB hard/JJ to/TO stop/VB once/RB its/PRP$ got/VBN going./NN
+The/DT key/JJ feature/NN of/IN an/DT endless/JJ feud/NN is/VBZ that/IN everyone/NN can/MD agree/VB they'd/NN be/VB better/JJR off/RP if/IN it/PRP ended/VBD -/: but/CC everyone/NN wants/VBZ to/TO have/VB the/DT last/JJ word./NN
+
+Each/DT participant/NN genuinely/RB wants/VBZ the/DT row/NN to/TO stop/VB but/CC thinks/VBZ it/PRP worth/JJ prolonging/NN the/DT argument/NN just/RB a/DT tiny/JJ bit/NN to/TO ensure/VB their/PRP$ view/NN is/VBZ heard./NN
+Their/PRP$ successive/JJ attempts/NNS to/TO end/VB the/DT argument/NN with/IN their/PRP$ last/JJ word/NN ensure/VBP the/DT argument/NN goes/VBZ on/IN and/CC on/IN and/CC on./NN
+(In/NN the/DT case/NN of/IN Mr/NNP Blair/NNP and/CC Mr/NNP Brown/NNP successive/JJ books/NNS are/VBP published/VBN ensuring/VBG the/DT issues/NNS never/RB die.)/VBP Now/RB this/DT isn't/NN because/IN the/DT participants/NNS are/VBP stupid/JJ -/: it's/NNS actually/RB each/DT individual/JJ behaving/NN entirely/RB rationally/RB given/VBN the/DT incentives/NNS facing/VBG them./NN
+Indeed/RB there's/NNS even/RB a/DT piece/NN of/IN economic/JJ theory/NN that/WDT explains/VBZ all/DT this./NN
+Nothing/NN as/RB obscure/JJ as/IN "post-neo-classical/JJ endogenous/JJ growth/NN theory"/NN which/WDT the/DT chancellor/NN himself/PRP once/RB quoted/VBD -/: but/CC a/DT ubiquitous/JJ piece/NN of/IN game/NN theory/NN which/WDT all/DT respectable/JJ policy/NN wonks/NNS are/VBP familiar/JJ with./NN
+
+It's/NNP often/RB referred/VBD to/TO as/IN the/DT "prisoner's/NN dilemma"/NN based/VBN on/IN a/DT parable/JJ much/NN told/VBD in/IN economics/NNS degree/NN courses.../NN
+about/IN a/DT sheriff/NN and/CC two/CD prisoners./NN
+The/DT story/NN goes/VBZ that/IN two/CD prisoners/NNS are/VBP jointly/RB charged/VBN with/IN a/DT heinous/JJ crime/NN and/CC are/VBP locked/VBN up/RP in/IN separate/JJ cells./NN
+But/CC the/DT sheriff/NN desperately/RB needs/VBZ a/DT confession/NN from/IN at/IN least/JJS one/CD of/IN them/PRP to/TO provide/VB enough/JJ evidence/NN to/TO convict/VB them/PRP of/IN the/DT crime./NN
+Without/IN a/DT confession/NN the/DT prisoners/NNS will/MD get/VB a/DT minimal/JJ sentence/NN on/IN some/DT trumped/VBN up/RP charge./NN
+
+Clearly/RB the/DT prisoners'/NN best/JJS strategy/NN is/VBZ to/TO keep/VB their/PRP$ mouths/NNS shut/VBP and/CC take/VB the/DT short/JJ sentence/NN but/CC the/DT clever/JJ sheriff/NN has/VBZ an/DT idea/NN to/TO induce/VB them/PRP to/TO talk./VB
+He/PRP tells/VBZ each/DT prisoner/NN separately/RB that/IN if/IN they/PRP confess/VBZ -/: and/CC they/PRP are/VBP the/DT only/JJ one/CD to/TO confess/JJ -/: they'll/NN be/VB let/VBN off/RP their/PRP$ crime./NN
+And/CC he/PRP tells/VBZ them/PRP that/IN if/IN they/PRP don't/VBP confess/JJ -/: and/CC they/PRP are/VBP the/DT only/JJ one/CD not/RB to/TO confess/JJ -/: they'll/NN get/NN life./NN
+Now/RB if/IN you/PRP are/VBP prisoner/NN confronted/VBN with/IN this/DT choice/NN your/PRP$ best/JJS bet/NN is/VBZ to/TO confess./VB
+If/IN your/PRP$ partner/NN doesn't/NN confess/JJ you'll/NN get/NN off/RP completely./NN
+And/CC if/IN your/PRP$ partner/NN does/VBZ confess/JJ you'd/VBP better/RBR confess/JJ to/TO ensure/VB you/PRP don't/VBP get/NN life./NN
+The/DT result/NN is/VBZ of/IN course/NN both/DT prisoners/NNS confess/JJ so/IN the/DT sheriff/NN does/VBZ not/RB have/VB to/TO let/VB either/CC one/CD off./NN
+Both/DT prisoners'/NN individual/JJ logic/NN was/VBD to/TO behave/VB that/DT way/NN even/RB though/IN both/DT would/MD have/VB been/VBN better/RB if/IN they/PRP had/VBD somehow/RB agreed/VBN to/TO shut/VB up./NN
+Don't/NNS worry/VBP if/IN you/PRP don't/VBP entirely/RB follow/VB it/PRP -/: you/PRP can/MD to/TO look/VB it/PRP up/RP on/IN Google/NNP where/WRB there/EX are/VBP 283000/CD entries/NNS on/IN it./NN
+
+The/DT prisoners'/NN dilemma/NN and/CC all/DT its/PRP$ ramifications/NNS have/VBP truly/RB captured/VBN economists/NNS in/IN the/DT last/JJ couple/NN of/IN decades./NN
+It/PRP is/VBZ a/DT parable/JJ used/VBN to/TO describe/VB any/DT situation/NN where/WRB there/EX is/VBZ an/DT obvious/JJ sensible/JJ choice/NN to/TO be/VB taken/VBN collectively/RB but/CC where/WRB the/DT only/JJ rational/JJ choice/NN individually/RB is/VBZ to/TO behave/VB selfishly./NN
+
+A/DT cold/JJ war/NN arms/NNS race/NN for/IN example/NN -/: a/DT classic/JJ case/NN where/WRB both/DT Russia/NNP and/CC America/NNP would/MD be/VB better/JJR off/RP with/IN just/RB a/DT few/JJ arms/NNS rather/RB than/IN a/DT lot/NN of/IN arms./NN
+But/CC as/RB long/RB as/IN each/DT wants/VBZ just/RB a/DT few/JJ more/JJR arms/NNS than/IN the/DT other/JJ an/DT arms/NNS race/NN ensues/NNS with/IN the/DT results/NNS that/IN the/DT individually/RB logical/JJ decision/NN to/TO buy/VB more/JJR arms/NNS results/NNS in/IN arms/NNS levels/NNS that/WDT are/VBP too/RB high./NN
+What/WP economics/NNS tells/VBZ us/PRP is/VBZ that/IN once/RB you're/NN in/IN a/DT prisoners'/NN dilemma/NN -/: unless/IN you/PRP are/VBP repeating/VBG the/DT experience/NN many/JJ times/NNS over/IN -/: it's/NNS hard/JJ to/TO escape/VB the/DT perverse/JJ logic/NN of/IN it./NN
+It's/VBG no/DT good/JJ just/RB exhorting/VBG people/NNS to/TO stop/VB buying/VBG arms/NNS or/CC to/TO stop/VB arguing/VBG when/WRB all/DT their/PRP$ incentives/NNS encourage/VBP them/PRP to/TO carry/VB on./NN
+Somehow/RB the/DT incentives/NNS have/VBP to/TO change./VB
+
+In/IN the/DT case/NN of/IN the/DT Labour/NNP Party/NNP if/IN you/PRP believe/VBP the/DT rift/NN between/IN Blair/NNP and/CC Brown/NNP camps/NNS is/VBZ as/RB bad/JJ as/IN the/DT reports/NNS suggest/VBP Solomon's/NNP wisdom/NN needs/VBZ to/TO be/VB deployed/VBN to/TO solve/VB the/DT problem./NN
+Every/DT parent/NN knows/VBZ there/EX are/VBP ingenious/JJ solutions/NNS to/TO arguments/NNS solutions/NNS which/WDT affect/VBP the/DT incentives/NNS of/IN the/DT participants./NN
+An/DT example/NN is/VBZ the/DT famous/JJ rule/NN that/DT "one/NN divides/VBZ the/DT other/JJ chooses"/NN as/IN a/DT way/NN of/IN allocating/VBG a/DT piece/NN of/IN cake/NN to/TO be/VB sliced/VBN up/RP between/IN greedy/JJ children./NN
+In/IN the/DT case/NN of/IN an/DT apparently/RB endless/JJ argument/NN if/IN you/PRP want/VBP it/PRP to/TO come/VB to/TO an/DT end/NN you/PRP have/VBP to/TO ensure/VB the/DT person/NN who/WP has/VBZ the/DT last/JJ word/NN is/VBZ one/CD who/WP loses/VBZ rather/RB than/IN the/DT one/CD who/WP wins/VBZ the/DT row./NN
+The/DT cost/NN of/IN prolonging/VBG the/DT row/NN by/IN even/RB one/CD more/JJR briefing/NN or/CC one/CD more/JJR book/NN for/IN that/DT matter/NN has/VBZ to/TO exceed/VB the/DT benefit/NN of/IN having/VBG the/DT last/JJ word/NN and/CC getting/VBG your/PRP$ point/NN in./NN
+If/IN the/DT rest/NN of/IN the/DT party/NN can/MD enforce/VB that/DT they'll/NN have/VBP the/DT protagonists/NNS retreating/VBG pretty/RB quickly./NN

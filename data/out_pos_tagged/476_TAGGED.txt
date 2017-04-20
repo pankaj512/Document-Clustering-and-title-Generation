@@ -1,0 +1,16 @@
+Saudi/NNP NCCI's/NNP shares/NNS soar/VBP
+
+Shares/NNS in/IN Saudi/NNP Arabia's/NNP National/NNP Company/NNP for/IN Cooperative/NNP Insurance/NNP (NCCI)/NN soared/VBD on/IN their/PRP$ first/JJ day/NN of/IN trading/NN in/IN Riyadh./NNP
+
+They/PRP were/VBD trading/NN 84%/CD above/IN the/DT offer/NN price/NN on/IN Monday/NNP changing/VBG hands/NNS at/IN 372/CD riyals/NNS ($99/CD £53)/CD after/IN topping/VBG 400/CD early/RB in/IN the/DT day./NN
+Demand/NN for/IN the/DT insurer's/NNS debut/NN shares/NNS was/VBD strong/JJ -/: 12/CD times/NNS what/WP was/VBD on/IN sale./NN
+The/DT listing/NN was/VBD part/NN of/IN the/DT country's/NNS plans/NNS to/TO open/VB up/RP its/PRP$ insurance/NN market/NN and/CC boost/VB demand/NN in/IN the/DT sector./NN
+Deregulation/NN is/VBZ expected/VBN to/TO boost/VB demand/NN for/IN accident/NN and/CC damage/NN cover./NN
+
+Previously/RB only/RB NCCI/NNP has/VBZ been/VBN legally/RB allowed/VBN to/TO offer/VB insurance/NN products/NNS within/IN Saudi/NNP Arabia./NNP
+However/RB the/DT authorities/NNS have/VBP turned/VBN a/DT blind/JJ eye/NN to/TO the/DT many/JJ other/JJ firms/NNS selling/VBG insurance./NN
+Saudi/NNP Arabia/NNP now/RB wants/VBZ a/DT fully/RB functioning/VBG insurance/NN industry/NN and/CC is/VBZ introducing/VBG legislation/NN that/WDT will/MD clamp/VB down/RP on/IN unauthorised/VBN companies./NN
+Policy-makers/NNS also/RB want/VBP to/TO make/VB having/VBG insurance/NN more/JJR of/IN a/DT requirement/NN but/CC first/JJ have/VBP to/TO take/VB steps/NNS to/TO boost/VB public/JJ confidence/NN in/IN the/DT system/NN analysts/NNS said./NN
+As/IN a/DT result/NN NCCI/NNP is/VBZ being/VBG developed/VBN as/IN the/DT industry's/NNS flagship/NN firm/NN -/: publicly-listed/JJ with/IN audited/VBN accounts./NN
+Saudi/NNP Arabia/NNP sold/VBD 7/CD million/CD NCCI/NNP shares/NNS or/CC about/IN 70%/CD of/IN the/DT company's/NNS total/NN capital/NN last/JJ month./NN
+More/JJR than/IN 800000/CD applicants/NNS got/VBD 9/CD shares/NNS each/DT for/IN 205/CD riyals/NNS apiece./NN

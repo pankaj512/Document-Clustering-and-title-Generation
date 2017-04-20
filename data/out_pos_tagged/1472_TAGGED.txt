@@ -1,0 +1,16 @@
+Mourinho/NNP defiant/JJ on/IN Chelsea/NNP form/NN
+
+Chelsea/NNP boss/NN Jose/NNP Mourinho/NNP has/VBZ insisted/VBN that/IN Sir/NNP Alex/NNP Ferguson/NNP and/CC Arsene/NNP Wenger/NNP would/MD swap/VB places/NNS with/IN him./NN
+
+Mourinho's/NNP side/NN were/VBD knocked/VBN out/IN of/IN the/DT FA/NNP Cup/NNP by/IN Newcastle/NNP last/JJ Sunday/NNP before/IN seeing/VBG Barcelona/NNP secure/VB a/DT 2-1/JJ Champions/NNS League/NNP first-leg/JJ lead/NN in/IN the/DT Nou/NNP Camp./NNP
+But/CC he/PRP denied/VBD his/PRP$ club/NN was/VBD suffering/VBG a/DT dip/NN in/IN form/NN which/WDT league/NN rivals/NNS Arsenal/NN and/CC Manchester/NNP United/NNP could/MD exploit./VB
+"They/NN cannot/NN speak/NN to/TO us/PRP about/IN blips/NNS because/IN they're/NN not/RB in/IN a/DT better/JJR position/NN than/IN us"/NN Mourinho/NNP said./NN
+"Do/NN they/PRP want/VBP to/TO change/VB positions/NNS with/IN us?/NN We/PRP are/VBP top/NN of/IN the/DT league/NN by/IN nine/CD points/NNS and/CC in/IN the/DT Carling/NNP Cup/NNP final./NN
+"The/NN only/RB thing/NN they/PRP can/MD say/VB they/PRP are/VBP in/IN a/DT better/JJR position/NN than/IN us/PRP in/IN is/VBZ the/DT FA/NNP Cup./NNP
+"In/NN the/DT Champions/NNS League/NNP all/DT three/CD teams/NNS can/MD either/RB go/VB through/IN or/CC go/VB out/RP but/CC the/DT one/CD team/NN that/WDT is/VBZ in/IN the/DT best/JJS position/NN is/VBZ still/RB Chelsea."/NNP
+
+Mourinho/NNP said/VBD it/PRP was/VBD important/JJ to/TO keep/VB his/PRP$ team's/NNS results/NNS in/IN perspective./NN
+"Don't/NN try/NN to/TO put/VB pressure/NN on/IN me/PRP because/IN I/PRP am/VBP never/RB under/IN pressure"/NN he/PRP warned./VB
+"We/NN have/VBP lost/VBN one/CD important/JJ game/NN this/DT week/NN -/: at/IN Newcastle/NNP -/: and/CC we're/VB out/IN of/IN the/DT FA/NNP Cup/NNP but/CC I/PRP don't/VBP think/VBP a/DT defeat/NN in/IN a/DT first-leg/JJ tie/NN is/VBZ a/DT real/JJ defeat./NN
+We/PRP are/VBP just/RB 2-1/JJ down/RP at/IN half-time."/JJ Asked/VBN if/IN his/PRP$ Chelsea/NNP honeymoon/NN was/VBD now/RB over/IN Mourinho/NNP replied/VBD "I/NN have/VBP had/VBN 20/CD years/NNS of/IN honeymoons/NNS with/IN my/PRP$ wife./NN
+"The/NN day/NN that/IN this/DT club/NN is/VBZ not/RB happy/JJ with/IN me/PRP is/VBZ the/DT day/NN that/IN I/PRP go."/VBP

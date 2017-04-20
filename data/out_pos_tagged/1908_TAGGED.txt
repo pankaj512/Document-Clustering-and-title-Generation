@@ -1,0 +1,32 @@
+Nintendo/NNP handheld/NN given/VBD Euro/NNP date/NN
+
+Nintendo's/NNP new/JJ handheld/JJ console/NN the/DT DS/NNP will/MD launch/VB in/IN Europe/NNP on/IN 11/CD March/NNP the/DT company/NN has/VBZ announced./NN
+
+The/DT portable/JJ games/NNS machine/NN which/WDT features/NNS touch-screen/JJ control/NN will/MD retail/VB for/IN £99/CD in/IN the/DT UK/NNP (149/CD euros)./NN
+Nintendo/NNP said/VBD 15/CD games/NNS would/MD be/VB available/JJ in/IN the/DT UK/NNP at/IN launch/NN with/IN prices/NNS ranging/VBG from/IN £19/CD to/TO £29./CD
+More/JJR than/IN 2.8/CD million/CD DS/NNP consoles/VBZ have/VBP been/VBN sold/VBN since/IN it/PRP first/RB appeared/VBN in/IN the/DT US/PRP and/CC Japan/NNP at/IN the/DT end/NN of/IN 2004./CD
+Rival/JJ Sony/NNP has/VBZ said/VBN it/PRP will/MD launch/VB its/PRP$ first/JJ handheld/JJ console/NN the/DT PSP/NNP in/IN the/DT US/PRP and/CC Europe/NNP before/IN the/DT end/NN of/IN March./NNP
+The/DT PSP/NNP is/VBZ expected/VBN to/TO compete/VB for/IN a/DT large/JJ part/NN of/IN the/DT same/JJ handheld/JJ market/NN despite/IN Sony's/NNP assertion/NN that/IN the/DT machines/NNS are/VBP aimed/VBN at/IN different/JJ consumers./NN
+
+The/DT 15/CD games/NNS available/JJ on/IN the/DT European/JJ launch/NN date/NN will/MD include/VB Nintendo's/NNP Super/NNP Mario/NNP 64/CD DS/NNP as/RB well/RB as/IN titles/NNS from/IN third-party/JJ developers/NNS such/JJ as/IN Ubisoft's/NNP Rayman/NNP DS./NNP
+
+More/JJR than/IN 120/CD games/NNS are/VBP in/IN development/NN for/IN the/DT new/JJ console/NN Nintendo/NNP has/VBZ said./NN
+The/DT DS/NNP is/VBZ backwards/RB compatible/JJ with/IN the/DT Game/NNP Boy/NNP Advance/NNP allowing/VBG the/DT earlier/JJR machine's/NNS back/RB catalogue/VBP of/IN 700/CD games/NNS to/TO be/VB played./NN
+Additionally/RB a/DT short-range/JJ wireless/VB link/NN for/IN multiplayer/NN gaming/NN is/VBZ built/VBN in/RP to/TO the/DT DS/NNP with/IN a/DT "download/NN play"/NN option/NN which/WDT allows/VBZ a/DT group/NN to/TO play/VB against/IN each/DT other/JJ even/RB if/IN just/RB one/CD person/NN owns/VBZ a/DT copy./NN
+Other/JJ features/NNS include/VBP a/DT short-range/JJ messaging/NN application/NN called/VBN Pictochat/NNP and/CC a/DT built-in/JJ microphone/NN which/WDT is/VBZ used/VBN in/IN Sega's/NNP launch/VB title/NN Project/NNP Rub./NNP
+Nintendo/NNP has/VBZ also/RB announced/VBN a/DT media/NNS adapter/NN which/WDT will/MD allow/VB the/DT console/NN to/TO play/VB music/NN and/CC video/NN on/IN the/DT move./NN
+
+The/DT launch/NN price/NN of/IN £99/CD (149/CD euros)/NN compares/VBZ favourably/RB with/IN the/DT US/PRP price/VBP of/IN $149/CD according/VBG to/TO John/NNP Houlihan/NNP editor/NN of/IN the/DT Computerandvideogames.com/NNP magazine./NN
+"It's/NN a/DT very/RB very/RB competitive/JJ price/NN point./NN
+There/EX are/VBP some/DT innovative/JJ features/NNS and/CC Nintendo/NNP has/VBZ created/VBN quite/RB a/DT buzz"/NN he/PRP says./VB
+"However/NN the/DT line-up/NN of/IN games/NNS could/MD have/VB been/VBN stronger./VBG
+Everyone/NN wanted/VBD to/TO see/VB the/DT eight-player/JJ Mario/NNP Kart/NNP DS/NNP for/IN example."/NN
+
+Mr/NNP Houlihan/NNP believes/VBZ that/IN there/EX is/VBZ likely/JJ to/TO be/VB an/DT audience/NN for/IN both/DT the/DT Nintendo/NNP DS/NNP and/CC Sony's/NNP new/JJ PSP/NNP with/IN the/DT former/JJ aimed/VBN largely/RB at/IN a/DT younger/JJR audience/NN and/CC the/DT latter/JJ expected/VBN to/TO be/VB marketed/VBN as/IN a/DT multimedia/NNS device./NN
+"The/NNP PSP/NNP is/VBZ a/DT sexy/JJ bit/NN of/IN kit/NN but/CC Sony's/NNP attitude/NN to/TO the/DT PSP/NNP has/VBZ been/VBN very/RB understated/VBN in/IN Europe/NNP so/RB far"/NN Mr/NNP Houlihan/NNP said./NN
+The/DT worldwide/NN handheld/JJ software/NN market/NN had/VBD an/DT estimated/JJ worth/NN of/IN $2.6bn/CD at/IN the/DT end/NN of/IN 2004/CD according/VBG to/TO industry/NN analysts/NNS Screen/NN Digest./NNP
+
+In/IN the/DT past/JJ games/NNS consoles/VBZ and/CC handhelds/NNS have/VBP generally/RB launched/VBN much/RB later/RB in/IN Europe/NNP than/IN in/IN other/JJ parts/NNS of/IN the/DT world./NN
+However/RB Nintendo/NNP president/NN Satoru/NNP Iwata/NNP said/VBD the/DT company/NN was/VBD "pleased/VBN to/TO have/VB offered/VBN such/PDT a/DT short/JJ period/NN of/IN time/NN between/IN the/DT US/PRP and/CC European/JJ launch"./NN
+"Europe/NN is/VBZ an/DT extremely/RB important/JJ market/NN for/IN Nintendo"/NNP Mr/NNP Iwata/NNP added./NN
+Nintendo/NNP raised/VBD its/PRP$ sales/NNS targets/NNS for/IN the/DT DS/NNP console/NN last/JJ December/NNP after/IN selling/VBG a/DT million/CD in/IN the/DT US/PRP and/CC Japan/NNP in/IN just/RB a/DT few/JJ weeks./NN

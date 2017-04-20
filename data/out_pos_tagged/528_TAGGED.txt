@@ -1,0 +1,13 @@
+Versace/NNP art/NN portfolio/NN up/RP for/IN sale/NN
+
+The/DT art/NN collection/NN of/IN murdered/VBN fashion/NN designer/NN Gianni/NNP Versace/NNP could/MD fetch/VB up/IN to/TO £9m/CD ($17m)/CD when/WRB it/PRP is/VBZ auctioned/VBN in/IN New/NNP York/NNP and/CC London/NNP later/RB this/DT year./NN
+
+Among/IN the/DT pictures/NNS for/IN sale/NN are/VBP works/VBZ by/IN Roy/NNP Lichtenstein/NNP Andy/NNP Warhol/NNP and/CC Henri/NNP Matisse./NNP
+The/DT collection/NN was/VBD housed/VBN at/IN Versace's/NNP six-storey/JJ New/NNP York/NNP townhouse./NN
+The/DT 51-year-old/JJ designer/NN was/VBD shot/VBN outside/IN his/PRP$ Florida/NNP home/NN in/IN 1997/CD by/IN suspected/VBN serial/NN killer/NN Andrew/NNP Cunanan/NNP who/WP later/RB killed/VBD himself./NN
+The/DT auction/NN at/IN Sotheby's/NNP will/MD feature/VB 45/CD contemporary/JJ impressionist/JJ and/CC 19th/JJ Century/NNP paintings./NN
+One/CD of/IN the/DT highlights/NNS of/IN the/DT sale/NN is/VBZ Roy/NNP Lichtenstein's/NNP Blue/NNP Nude/JJ which/WDT has/VBZ been/VBN given/VBN an/DT estimate/NN of/IN £1.8m/CD ($3.4m)./CD
+
+Tobias/NNP Meyer/NNP Sotheby's/NNP worldwide/NN head/NN of/IN contemporary/JJ art/NN said/VBD "This/NN collection/NN reflects/VBZ Mr/NNP Versace's/NNP wide-ranging/JJ taste/NN and/CC impeccable/JJ eye/NN and/CC many/JJ of/IN the/DT works/NNS were/VBD commissioned/VBN directly/RB from/IN the/DT artists./NN
+"Outstanding/VBG later/RB examples/NNS from/IN champions/NNS of/IN the/DT Pop/NN movement/NN such/JJ as/IN Roy/NNP Lichtenstein/NNP are/VBP juxtaposed/VBN with/IN masterpieces/NNS from/IN the/DT most/RBS visible/JJ artists/NNS of/IN the/DT 1980's/CD including/VBG Jean-Michel/NNP Basquiat/NNP and/CC the/DT collaborative/JJ genius/NN of/IN Basquiat/NNP and/CC Warhol/NNP as/RB well/RB as/IN Francesco/NNP Clemente."/NNP Much/JJ of/IN the/DT collection/NN will/MD be/VB offered/VBN for/IN sale/NN at/IN three/CD auctions/NNS in/IN New/NNP York/NNP in/IN June/NNP with/IN smaller/JJR contemporary/JJ paintings/NNS going/VBG under/IN the/DT hammer/NN in/IN London/NNP on/IN 22/CD and/CC 23/CD June./NNP
+A/DT sale/NN of/IN Versace's/NNP furniture/NN and/CC artworks/NNS sold/VBN in/IN 2001fetched/CD £5.5m/CD ($10.3m)./CD

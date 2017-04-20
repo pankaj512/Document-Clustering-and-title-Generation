@@ -1,0 +1,10 @@
+Dent/NN continues/VBZ Adelaide/NNP progress/NN
+
+American/NNP Taylor/NNP Dent/NN reached/VBD the/DT final/NN of/IN the/DT Australian/JJ hardcourt/NN event/NN in/IN Adelaide/NNP with/IN a/DT crushing/VBG 6-1/JJ 6-1/JJ win/NN over/IN Argentine/JJ Juan/NNP Ignacio/NNP Chela./NNP
+
+Dent/NN will/MD meet/VB Swede/NN Joachim/NNP Johansson/NNP on/IN Sunday/NNP after/IN the/DT second/JJ seed/NN survived/VBD a/DT tense/JJ tie-break/JJ to/TO defeat/VB Belgium's/NNP Olivier/NNP Rochus/NNP 6-1/JJ 7-6/JJ (7/5)./CD
+Johansson/VBG the/DT boyfriend/NN of/IN Lleyton/NNP Hewitt's/NNP sister/NN Jaslyn/NNP received/VBD strong/JJ crowd/NN support/NN on/IN Saturday./NNP
+"It/NN feels/VBZ like/IN home/NN for/IN me/PRP because/IN Jaslyn/NNP lives/NNS here"/NN said/VBD Johansson./NNP
+Rochus/NNP was/VBD leading/VBG 5-4/JJ in/IN the/DT second/JJ set/VBN tiebreak/NN but/CC his/PRP$ concentration/NN was/VBD ruffled/VBN by/IN a/DT disputed/VBN line/NN call/NN and/CC the/DT match/NN slipped/VBD away./NN
+"It/NN was/VBD so/RB close/VB -/: one/CD mistake/NN like/IN this/DT and/CC the/DT match/NN is/VBZ over/IN it's/NNS tough./NN
+For/IN me/PRP it/PRP was/VBD clearly/RB out"/NN Rochus/NNP said./NN

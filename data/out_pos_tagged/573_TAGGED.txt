@@ -1,0 +1,19 @@
+Tautou/NNP film/NN tops/NNS Cesar/NNP prize/NN nods/VBZ
+
+French/JJ film/NN A/DT Very/RB Long/NNP Engagement/NN has/VBZ received/VBN 12/CD nominations/NNS for/IN France's/NNP Cesar/NNP film/NN awards/NNS despite/IN a/DT recent/JJ ruling/NN it/PRP was/VBD "not/NN French/JJ enough"./NN
+
+The/DT World/NNP War/NNP I/PRP romantic/JJ drama/NN starring/VBG Audrey/NNP Tautou/NNP was/VBD recently/RB ruled/VBN "too/NN American"/NNP by/IN a/DT Paris/NNP court/NN as/IN it/PRP was/VBD partially/RB backed/VBN by/IN Warner/NNP Bros./NNP
+But/CC the/DT Cesar/NNP organisers/NNS modified/VBD their/PRP$ rules/NNS to/TO allow/VB the/DT film/NN to/TO compete./VB
+The/DT film/NN directed/VBN by/IN Jean-Pierre/NNP Jeunet/NNP received/VBD best/RBS actress/NN picture/NN and/CC director/NN nominations./NN
+
+Last/JJ November/NNP a/DT court/NN judged/VBD the/DT film/NN was/VBD too/RB American/NNP to/TO compete/VB in/IN French/JJ film/NN festivals./NN
+Two/CD associations/NNS of/IN French/JJ producers/NNS challenged/VBD Jeunet's/NNP right/NN to/TO French/JJ government/NN subsidies/NNS because/IN Warner/NNP Bros/NNP was/VBD a/DT backer./NN
+The/DT ruling/NN meant/VBD the/DT movie/NN -/: which/WDT was/VBD filmed/VBN in/IN France/NNP and/CC used/VBN French/JJ actors/NNS and/CC technicians/NNS -/: was/VBD not/RB eligible/JJ to/TO compete/VB for/IN French/JJ prizes./NN
+But/CC Alain/NNP Terzian/NNP president/NN of/IN Cesar/NNP organisers/NNS the/DT Academie/NNP des/FW Arts/NNS et/CC Techniques/NNS du/NNP Cinema/NNP said/VBD the/DT changes/NNS in/IN eligibility/NN rules/NNS which/WDT allow/VBP films/NNS "of/VBP French/JJ expression"/NN were/VBD made/VBN three/CD months/NNS prior/RB to/TO the/DT court/NN decision./NN
+Other/JJ films/NNS in/IN the/DT best/JJS film/NN category/NN include/VBP Police/NNP drama/NN 36/CD Quai/NNP Des/NNP Orfevres/NNP Arnaud/NNP Desplechin's/NNP Kings/NNPS And/CC Queen/NNP Abdellatif/NNP Kechiche's/NNP L'Esquive/NNP and/CC France's/NNP number/NN one/CD film/NN at/IN the/DT 2004/CD box-office/NN The/DT Chorus./NNP
+
+Best/JJS actors/NNS are/VBP Daniel/NNP Auteuil/NNP for/IN 36/CD Mathieu/NNP Amalric/NNP for/IN Kings/NNPS And/CC Queen/NNP Gerard/NNP Jugnot/NNP for/IN The/DT Chorus/NN Philippe/NNP Torreton/NNP for/IN L'Equipier/NNP and/CC Benoit/NNP Poelvoorde/NNP for/IN Podium./NNP
+Tautou/NNP will/MD compete/VB against/IN Maggie/NNP Cheung/NNP Emmanuelle/NNP Devos/NNP Yolande/NNP Moreau/NNP and/CC Karin/NNP Viard/NNP for/IN best/JJS actress./NN
+Michael/NNP Moore's/NNP Fahrenheit/NN 9/11/CD The/DT Motorcycle/NNP Diaries/NNS Lost/VBD in/IN Translation/NN Eternal/JJ Sunshine/NNP of/IN the/DT Spotless/NNP Mind/NN and/CC 21/CD Grams/NNS are/VBP all/DT vying/NN in/IN the/DT best/JJS foreign/JJ film/NN prize./NN
+The/DT awards/NNS ceremony/NN will/MD be/VB held/VBN on/IN 26/CD February./NNP
+This/DT year/NN Will/MD Smith/NNP star/NN of/IN I/PRP Robot/VBP Independence/NNP Day/NNP and/CC Men/NN In/IN Black/NNP will/MD be/VB given/VBN an/DT honorary/JJ Cesar/NNP along/IN with/IN French/JJ singer/actor/NN Jacques/NNP Dutronc./NNP

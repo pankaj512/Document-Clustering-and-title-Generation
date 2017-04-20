@@ -1,0 +1,16 @@
+Vickery/NNP upbeat/JJ about/IN arm/NN injury/NN
+
+England/NNP prop/VB Phil/NNP Vickery/NNP is/VBZ staying/VBG positive/JJ despite/IN a/DT broken/VBN arm/NN ruling/NN him/PRP out/IN of/IN the/DT RBS/NNP Six/CD Nations./NNP
+
+The/DT 28-year-old/JJ fractured/JJ the/DT radius/JJ in/IN his/PRP$ right/JJ forearm/NN during/IN Gloucester's/NNP 17-16/JJ win/NN over/IN Bath/NN on/IN Saturday./NNP
+He/PRP will/MD undergo/VB an/DT operation/NN on/IN Monday/NNP and/CC is/VBZ expected/VBN to/TO be/VB out/RP for/IN at/IN least/JJS six/CD weeks./NN
+He/PRP said/VBD "This/NN isn't/NN an/DT injury/NN that/WDT will/MD stop/VB me/PRP from/IN working/VBG hard/RB on/IN the/DT fitness/NN elements/NNS and/CC being/VBG around/IN the/DT lads."/NN He/PRP added/VBD "I've/NN got/VBD the/DT operation/NN this/DT afternoon/NN and/CC I/PRP could/MD be/VB back/RB doing/VBG fitness/NN work/NN after/IN a/DT week."/NN "As/NN frustrating/JJ as/IN it/PRP is/VBZ I've/NNP got/VBN to/TO be/VB positive."/NN
+
+After/IN the/DT game/NN Vickery/NNP spoke/VBD with/IN Bath/NN prop/VB David/NNP Barnes/NNP who/WP also/RB broke/VBD his/PRP$ arm/NN recently./NN
+"I/NN had/VBD a/DT chat/NN with/IN David/NNP Barnes/NNP and/CC it/PRP looks/VBZ like/IN a/DT similar/JJ injury/NN to/TO him"/VB he/PRP said./VB
+"He/NN said/VBD he/PRP had/VBD the/DT operation/NN and/CC he/PRP was/VBD back/RB running/VBG after/IN a/DT week./NN
+"There's/NN no/DT doubt/NN that/IN I'm/NNP going/VBG to/TO get/VB involved/VBN and/CC be/VB around/IN this/DT place/NN as/RB soon/RB as/IN I/PRP can/MD after/IN the/DT operation."/NN Gloucester/NNP director/NN of/IN rugby/NN Nigel/NNP Melville/NNP said/VBD "Phil/NN has/VBZ broken/VBN his/PRP$ radius/JJ which/WDT is/VBZ the/DT large/JJ bone/NN in/IN his/PRP$ forearm./NN
+"I/NN don't/NN really/RB know/VB how/WRB it/PRP happened/VBD but/CC Phil/NNP will/MD definitely/RB be/VB out/IN of/IN action/NN for/IN at/IN least/JJS six/CD weeks./NN
+"I/NN feel/VBP very/RB sorry/JJ for/IN him/PRP as/IN he/PRP has/VBZ been/VBN in/IN great/JJ shape./NN
+He/PRP really/RB needed/VBD 80/CD minutes/NNS of/IN rugby/NN this/DT weekend/NN and/CC then/RB this/DT happened./NN
+Mentally/RB it/PRP must/MD be/VB very/RB hard/RB for/IN him."/NN

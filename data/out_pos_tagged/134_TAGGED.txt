@@ -1,0 +1,18 @@
+US/PRP adds/VBZ more/JJR jobs/NNS than/IN expected/VBN
+
+The/DT US/PRP economy/VBP added/VBD 337000/CD jobs/NNS in/IN October/NNP -/: a/DT seven-month/JJ high/JJ and/CC far/RB more/JJR than/IN Wall/NNP Street/NNP expectations./NN
+
+In/IN a/DT welcome/JJ economic/JJ boost/NN for/IN newly/RB re-elected/VBN President/NNP George/NNP W/NNP Bush/NNP the/DT Labor/NNP Department/NNP figures/NNS come/VBP after/IN a/DT slow/JJ summer/NN of/IN weak/JJ jobs/NNS gains./NN
+Jobs/NNP were/VBD created/VBN in/IN every/DT sector/NN of/IN the/DT US/PRP economy/VBP except/IN manufacturing./NN
+While/IN the/DT separate/JJ unemployment/NN rate/NN went/VBD up/IN to/TO 5.5%/CD from/IN 5.4%/CD in/IN September/NNP this/DT was/VBD because/IN more/JJR people/NNS were/VBD now/RB actively/RB seeking/VBG work./NN
+
+The/DT 337000/CD new/JJ jobs/NNS added/VBD to/TO US/PRP payrolls/VBZ in/IN October/NNP was/VBD twice/RB the/DT 169000/CD figure/NN that/IN Wall/NNP Street/NNP economists/NNS had/VBD forecast./NN
+In/IN addition/NN the/DT Labor/NNP Department/NNP revised/VBD up/RP the/DT number/NN of/IN jobs/NNS created/VBN in/IN the/DT two/CD previous/JJ months/NNS -/: to/TO 139000/CD in/IN September/NNP instead/RB of/IN 96000/CD and/CC to/TO 198000/CD in/IN August/NNP instead/RB of/IN 128000./CD
+The/DT better/JJR than/IN expected/VBN jobs/NNS data/NNS had/VBD an/DT immediate/JJ upward/JJ effect/NN on/IN stocks/NNS in/IN New/NNP York/NNP with/IN the/DT main/JJ Dow/NNP Jones/NNP index/NN gaining/VBG 45.4/CD points/NNS to/TO 10360/CD by/IN late/JJ morning/NN trading./NN
+"It/NN looks/VBZ like/IN the/DT job/NN situation/NN is/VBZ improving/VBG and/CC that/IN this/DT will/MD support/VB consumer/NN spending/NN going/VBG into/IN the/DT holidays/NNS and/CC offset/VBD some/DT of/IN the/DT drag/NN caused/VBN by/IN high/JJ oil/NN prices/NNS this/DT year"/NN said/VBD economist/NN Gary/NNP Thayer/NNP of/IN AG/NNP Edwards/NNP &/CC Sons./NNP
+
+Other/JJ analysts/NNS said/VBD the/DT upbeat/JJ jobs/NNS data/NNS made/VBD it/PRP more/RBR likely/JJ that/IN the/DT US/PRP Federal/NNP Reserve/NNP would/MD increase/VB interest/NN rates/NNS by/IN a/DT quarter/NN of/IN a/DT percentage/NN point/NN to/TO 2%/CD when/WRB it/PRP meets/VBZ next/JJ week./NN
+"It/NN should/MD empower/VB the/DT Fed/NNP to/TO clearly/RB do/VB something"/NN said/VBD Robert/NNP MacIntosh/NNP chief/NN economist/NN with/IN Eaton/NNP Vance/NNP Management/NNP in/IN Boston./NNP
+Kathleen/NNP Utgoff/NNP commissioner/NN of/IN the/DT Bureau/NNP of/IN Labor/NNP said/VBD many/JJ of/IN the/DT 71000/CD new/JJ construction/NN jobs/NNS added/VBD in/IN October/NNP were/VBD involved/VBN in/IN rebuilding/NN and/CC clean-up/JJ work/NN in/IN Florida/NNP and/CC neighbouring/VBG Deep/JJ South/NNP states/NNS following/VBG four/CD hurricanes/NNS in/IN August/NNP and/CC September./NNP
+The/DT dollar/NN rose/VBD temporarily/RB on/IN the/DT job/NN creation/NN news/NN before/IN falling/VBG back/RB to/TO a/DT new/JJ record/NN low/JJ against/IN the/DT euro/NN as/IN investors/NNS returned/VBD their/PRP$ attention/NN to/TO other/JJ economic/JJ factors/NNS such/JJ as/IN the/DT US's/NNP record/NN trade/NN deficit./NN
+There/EX is/VBZ also/RB speculation/NN that/IN President/NNP Bush/NNP will/MD deliberately/RB try/VB to/TO keep/VB the/DT dollar/NN low/JJ in/IN order/NN to/TO assist/VB a/DT growth/NN in/IN exports./NN

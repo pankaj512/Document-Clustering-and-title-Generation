@@ -1,0 +1,28 @@
+UK/NNP 'discriminated/VBD against/IN Roma'/NNP
+
+The/DT government's/NNS immigration/NN rules/NNS racially/RB discriminated/JJ against/IN Roma/NNP (Gypsies)/NN seeking/VBG entry/NN into/IN the/DT UK/NNP the/DT Law/NNP Lords/NNPS have/VBP ruled./NN
+
+It/PRP follows/VBZ a/DT Home/NNP Office/NNP move/NN to/TO cut/VB asylum/NN claims/NNS by/IN stopping/VBG people/NNS mostly/RB Roma/NNP from/IN boarding/VBG flights/NNS to/TO Britain/NNP from/IN the/DT Czech/JJ capital/NN Prague./NNP
+Civil/NN rights/NNS group/NN Liberty/NNP said/VBD it/PRP exposed/VBD "racism/NN at/IN the/DT heart/NN of/IN the/DT government's/NNS asylum/NN policy"./NN
+The/DT Home/NNP Office/NNP said/VBD it/PRP had/VBD not/RB meant/VBN to/TO discriminate/JJ against/IN anyone./NN
+It/PRP said/VBD it/PRP would/MD look/VB at/IN the/DT implications/NNS of/IN the/DT ruling/NN but/CC pointed/VBD out/RP the/DT controls/NNS were/VBD no/RB longer/RBR in/IN place/NN because/IN Czechs/NNPS are/VBP now/RB entitled/VBN to/TO free/JJ movement/NN across/IN Europe./NNP
+
+The/DT screening/NN took/VBD place/NN at/IN the/DT airport/NN in/IN July/NNP 2001/CD at/IN a/DT time/NN of/IN concern/NN about/IN the/DT number/NN of/IN asylum/NN seekers/NNS entering/VBG Britain./NNP
+
+Those/DT refused/VBD "pre-clearance"/NN were/VBD effectively/RB prevented/VBN from/IN travelling/VBG to/TO the/DT UK/NNP because/IN no/DT airline/NN would/MD carry/VB them./NN
+Lady/NNP Hale/NNP sitting/VBG with/IN Lords/NNPS Bingham/NNP Steyn/NNP Hope/NNP and/CC Carswell/NNP said/VBD many/JJ Roma/NNP had/VBD good/JJ reason/NN to/TO want/VB to/TO leave/VB the/DT Czech/JJ Republic/NNP because/IN of/IN persecution./NN
+But/CC she/PRP said/VBD they/PRP were/VBD treated/VBN more/RBR sceptically/RB than/IN non-Roma/JJ passengers/NNS by/IN immigration/NN officers/NNS "acting/VBG on/IN racial/JJ grounds"./NN
+Lady/NNP Hale/NNP said/VBD immigration/NN officers/NNS should/MD have/VB treated/VBN all/DT would-be/JJ passengers/NNS in/IN the/DT same/JJ way/NN only/RB using/VBG more/RBR intrusive/JJ questioning/NN if/IN there/EX was/VBD a/DT specific/JJ reason./NN
+
+Liberty/NNP said/VBD statistics/NNS suggested/VBD Roma/NNP Czechs/NNPS were/VBD 400/CD times/NNS more/RBR likely/JJ to/TO be/VB stopped/VBN by/IN British/JJ immigration/NN officials/NNS at/IN Prague/NNP airport/NN than/IN non-Roma/JJ Czechs./NNP
+It/PRP took/VBD up/RP the/DT case/NN of/IN six/CD unnamed/JJ Roma/NNP Czechs/NNPS refused/VBD entry/NN to/TO Britain/NNP and/CC that/IN of/IN the/DT European/NNP Roma/NNP Rights/NNP Centre/NNP which/WDT said/VBD the/DT measures/NNS unfairly/RB penalised/VBN Roma/NNP people./NN
+It/PRP lost/VBD a/DT High/NNP Court/NNP action/NN in/IN October/NNP 2002/CD when/WRB a/DT judge/NN said/VBD the/DT system/NN was/VBD "no/NN more/JJR or/CC less/JJR objectionable"/NN than/IN a/DT visa/NN control/NN system./NN
+He/PRP ruled/VBD there/EX was/VBD no/DT obligation/NN on/IN Britain/NNP not/RB to/TO take/VB steps/NNS to/TO prevent/VB a/DT potential/JJ refugee/NN from/IN approaching/VBG its/PRP$ border/NN to/TO claim/VB asylum./NN
+
+The/DT Court/NNP of/IN Appeal/NN then/RB decided/VBD the/DT practice/NN almost/RB inevitably/RB discriminated/JJ against/IN Roma/NNP but/CC that/IN this/DT was/VBD justified/VBN because/IN they/PRP were/VBD more/RBR likely/JJ to/TO seek/VB asylum./NN
+Immigration/NNP law/NN allows/VBZ officials/NNS to/TO discriminate/JJ against/IN citizens/NNS from/IN named/VBN countries/NNS but/CC it/PRP does/VBZ not/RB allow/VB officers/NNS to/TO go/VB further/RBR than/IN that./NN
+
+Responding/VBG to/TO the/DT ruling/NN a/DT Home/NNP Office/NNP spokesman/NN said/VBD "The/NN scheme/NN was/VBD operated/VBN two/CD years/NNS ago/RB as/IN a/DT short-term/JJ response/NN to/TO the/DT high/JJ levels/NNS of/IN passengers/NNS travelling/VBG from/IN Prague/NNP who/WP are/VBP subsequently/RB found/VBN to/TO be/VB ineligible/JJ for/IN entry/NN to/TO the/DT UK."/NNP
+
+Welcoming/VBG the/DT ruling/NN Maeve/NNP Sherlock/NNP chief/NN executive/NN of/IN the/DT Refugee/NN Council/NNP said/VBD "Human/NN rights/NNS abuses/NNS against/IN the/DT Roma/NNP in/IN Eastern/NNP Europe/NNP are/VBP well/RB documented/VBN and/CC it/PRP is/VBZ hugely/RB troubling/JJ that/IN the/DT government/NN sought/VBD to/TO deny/VB entry/NN to/TO such/VB a/DT vulnerable/JJ group."/NN Amnesty/NN International's/NNP Jan/NNP Shaw/NNP said/VBD "That/NN the/DT government's/NNS own/JJ asylum/NN policy/NN was/VBD being/VBG operated/VBN discriminatorily/JJ is/VBZ bleakly/RB ironic/JJ given/VBN that/DT discrimination/NN often/RB lies/VBZ at/IN the/DT heart/NN of/IN serious/JJ human/JJ rights/NNS abuse/NN not/RB least/JJS in/IN the/DT Czech/JJ Republic."/NNP But/CC the/DT chairman/NN of/IN Migration/NNP Watch/NNP UK/NNP Sir/NNP Andrew/NNP Green/NNP said/VBD the/DT House/NNP of/IN Lords/NNPS decision/NN was/VBD a/DT "step/NN in/IN the/DT wrong/JJ direction"./NN
+"The/NN basic/JJ point/NN is/VBZ that/IN the/DT government/NN has/VBZ a/DT duty/NN to/TO control/VB our/PRP$ borders/NNS and/CC this/DT decision/NN appears/VBZ to/TO extend/VB the/DT race/NN relations/NNS legislation/NN beyond/IN sensible/JJ limits."/NN

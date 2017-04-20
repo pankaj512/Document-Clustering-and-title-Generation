@@ -1,0 +1,50 @@
+Middlesbrough/NNP 2-2/JJ Charlton/NNP
+
+A/DT late/JJ header/NN by/IN teenager/NN Danny/NNP Graham/NNP earned/VBD Middlesbrough/NNP a/DT battling/VBG draw/NN with/IN Charlton/NNP at/IN the/DT Riverside./NNP
+
+Matt/NNP Holland/NNP had/VBD put/VBN the/DT visitors/NNS ahead/RB in/IN the/DT 14th/JJ minute/NN after/IN his/PRP$ shot/NN took/VBD a/DT deflection/NN off/RP Franck/NNP Queudrue./NNP
+But/CC Middlesbrough/NNP peppered/VBD the/DT Charlton/NNP goal/NN after/IN the/DT break/NN and/CC Chris/NNP Riggott/NNP stroked/VBD home/NN the/DT equaliser./NN
+Shaun/NNP Bartlett's/NNP strike/NN put/VBD Charlton/NNP back/RB in/IN front/NN but/CC that/WDT lead/NN lasted/VBN just/RB six/CD minutes/NNS before/IN Graham/NNP rushed/VBD onto/IN Queudrue's/NNP pass/VB to/TO head/VB home./NN
+The/DT match/NN burst/NN to/TO life/NN from/IN the/DT whistle/NN and/CC Charlton/NNP defender/NN Hermann/NNP Hreidarsson/NNP had/VBD sight/NN of/IN an/DT open/JJ goal/NN after/IN just/RB six/CD minutes./NN
+Hreidarsson/NNP received/VBD Danny/NNP Murphy's/NNP free-kick/JJ from/IN the/DT right/NN but/CC he/PRP crashed/VBD his/PRP$ free/JJ header/NN wide/JJ of/IN the/DT far/JJ post./NN
+The/DT Iceland/NNP international/NN looked/VBD such/PDT a/DT danger/NN the/DT Boro/NNP bench/NN could/MD be/VB heard/VBN issuing/VBG frantic/JJ instructions/NNS to/TO mark/VB him./NN
+
+Charlton's/NNP early/JJ pressure/NN paid/VBD off/RP when/WRB Bartlett/NNP received/VBD a/DT long/JJ ball/NN from/IN Talal/NNP El/NNP Karkouri/NNP in/IN the/DT box/NN and/CC laid/VBD it/PRP off/RP to/TO Holland/NNP who/WP buried/VBD his/PRP$ right-footed/JJ strike./NN
+Szilard/NNP Nemeth/NNP recalled/VBD in/IN place/NN of/IN Joseph-Desire/NNP Job/NNP was/VBD twice/RB denied/VBN his/PRP$ chance/NN to/TO get/VB Middlesbrough/NNP back/RB on/IN level/NN terms/NNS by/IN Dean/NNP Kiely./NNP
+The/DT striker/NN played/VBD a/DT great/JJ one-two/NN with/IN Jimmy/NNP Floyd/NNP Hasselbaink/NNP only/RB to/TO see/VB Kiely/NNP get/VB down/RP well/RB to/TO smother/VB his/PRP$ shot/NN before/IN directing/VBG a/DT header/NN straight/RB into/IN the/DT keeper's/NNS arms./NN
+Boro/NNP had/VBD plenty/NN of/IN time/NN on/IN the/DT ball/NN but/CC the/DT Addicks/NNP comfortably/RB mopped/VBD up/RP the/DT pressure/NN -/: with/IN Kiely/NNP tipping/VBG a/DT Hasselbaink/NNP header/NN over/IN the/DT bar/NN -/: to/TO take/VB their/PRP$ lead/NN into/IN half-time./JJ
+
+It/PRP was/VBD all/DT one-way/JJ traffic/NN after/IN the/DT break/NN at/IN the/DT Riverside/NNP as/IN Middlesbrough/NNP poured/VBD forward/RB and/CC Kiely/NNP even/RB saved/VBD Hreidarsson's/NNP blushes/NNS when/WRB he/PRP palmed/VBD the/DT ball/NN away/RB to/TO prevent/VB a/DT Charlton/NNP own/JJ goal./NN
+But/CC the/DT Addicks/NNP keeper/NN could/MD do/VB nothing/NN about/IN Riggott's/NNP equaliser/NN in/IN the/DT 74th/JJ minute./NN
+The/DT Boro/NNP defender/NN looked/VBD suspiciously/RB offside/NN as/IN he/PRP got/VBD on/IN the/DT end/NN of/IN Gareth/NNP Southgate's/NNP misdirected/VBD effort/NN but/CC despite/IN the/DT Charlton/NNP protests/VBZ his/PRP$ goal/NN stood./NN
+The/DT Addicks/NNP did/VBD not/RB let/VB their/PRP$ heads/NNS drop/NN and/CC Bartlett/NNP left/VBD the/DT Boro/NNP defence/NN standing/NN picking/VBG up/RP Hreidarsson's/NNP cross/VB to/TO easily/RB sink/VB his/PRP$ right-footed/JJ strike./NN
+But/CC substitute/NN Graham/NNP was/VBD on/IN hand/NN to/TO grab/VB a/DT share/NN of/IN the/DT points/NNS for/IN the/DT home/NN side./NN
+The/DT 19-year-old/JJ striker/NN nodding/VBG home/NN the/DT equaliser/NN -/: and/CC his/PRP$ first/JJ Premiership/NN goal/NN -/: with/IN five/CD minutes/NNS left/VBN on/IN the/DT clock./NN
+
+"I/NN felt/VBD we/PRP did/VBD enough/RB to/TO win/VB the/DT game/NN even/RB though/IN the/DT first/JJ half/NN was/VBD lacklustre./NN
+"We/NN dominated/VBN after/IN the/DT break/NN the/DT players/NNS showed/VBD a/DT fantastic/JJ response/NN and/CC we/PRP should/MD have/VB gone/VBN on/IN to/TO win./VB
+"But/NN for/IN (Charlton/NN goalkeeper)/NN Dean/NNP Kiely/NNP who/WP made/VBD three/CD tremendous/JJ saves/VBZ we/PRP could/MD have/VB scored/VBN five/CD or/CC six."/NN
+
+"To/NN take/VBP the/DT lead/NN and/CC then/RB to/TO get/VB penned/VBN back/RB it/PRP feels/VBZ a/DT little/JJ bit/NN like/IN a/DT defeat"/NN admitted/VBN Kiely./NNP
+"We/NN were/VBD winning/VBG but/CC Middlesbrough/NNP kept/VBD knocking/VBG on/IN the/DT door./NN
+But/CC we/PRP stood/VBD up/RB and/CC credit/NN to/TO us/PRP we/PRP didn't/VBP capitulate./NN
+"We'll/NN kick/VBP on/IN now./NN
+Our/PRP$ short-term/JJ ambition/NN is/VBZ to/TO progress/VB from/IN the/DT seventh/JJ place/NN finish/NN from/IN last/JJ year."/NN
+
+Nash/NNP Reiziger/NNP (Graham/NN 82)/CD Riggott/NNP Southgate/NNP Queudrue/NNP Parlour/NNP (Job/NN 86)/CD Doriva/NNP Nemeth/NNP (Parnaby/NN 87)/CD Zenden/NNP Downing/NNP Hasselbaink./NNP
+
+Subs/NNP Not/RB Used/VBD Cooper/NNP Knight./NNP
+
+Riggott/NNP 74/CD Graham/NNP 86./CD
+
+Kiely/NNP Hreidarsson/NNP Perry/NNP El/NNP Karkouri/NNP Young/NNP Konchesky/NNP Murphy/NNP (Euell/NN 78)/CD Holland/NNP Kishishev/NNP Thomas/NNP (Johansson/NN 72)/CD Bartlett./NNP
+
+Subs/NNP Not/RB Used/VBD Fish/NN Jeffers/NNP Andersen./NNP
+
+Konchesky/NNP Hreidarsson/NNP Perry./NNP
+
+Holland/NNP 14/CD Bartlett/NNP 80./CD
+
+29603/CD
+
+M/NNP Riley/NNP (W/NN Yorkshire)./NNP

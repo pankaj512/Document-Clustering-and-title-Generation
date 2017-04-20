@@ -1,0 +1,19 @@
+India's/NNP Deccan/NNP gets/VBZ more/JJR planes/NNS
+
+Air/NNP Deccan/NNP has/VBZ signed/VBN a/DT deal/NN to/TO acquire/VB 36/CD planes/NNS from/IN Avions/NNP de/NNP Transport/NNP Regional/NNP (ATR)./NN
+
+The/DT value/NN of/IN the/DT deal/NN has/VBZ not/RB been/VBN revealed/VBN because/IN of/IN a/DT confidentiality/NN clause/NN in/IN the/DT agreement./NN
+But/CC Air/NNP Deccan's/NNP managing/VBG director/NN Gorur/NNP Gopinath/NNP has/VBZ said/VBD the/DT price/NN agreed/VBD was/VBD less/JJR than/IN the/DT catalogue/NN price/NN of/IN $17.6m/CD (£9.49m)/CD per/IN plane./NN
+Recently/RB India's/NNP first/JJ low-cost/JJ airline/NN ordered/VBD 30/CD Airbus/NNP A320/CD planes/NNS for/IN $1.8bn./CD
+
+Under/IN the/DT agreement/NN Air/NNP Deccan/NNP will/MD buy/VB 15/CD new/JJ ATR/NNP 72-500/JJ and/CC lease/VB another/DT 15./CD
+ATR/NNP will/MD also/RB provide/VB six/CD second/JJ hand/NN airplanes./NN
+In/IN a/DT statement/NN ATR/NNP has/VBZ said/VBN deliveries/NNS of/IN the/DT aircraft/NN will/MD begin/VB in/IN 2005/CD and/CC will/MD continue/VB over/IN a/DT five-year/JJ period./NN
+
+Mr/NNP Gopinath/NNP said/VBD the/DT planes/NNS will/MD connect/VB regional/JJ Indian/JJ cities./NN
+"After/NN an/DT evaluation/NN of/IN both/DT ATR/NNP and/CC Bombardier/NNP aircraft/NN we/PRP have/VBP chosen/VBN the/DT ATR/NNP aircraft/NN as/IN we/PRP find/VBP it/PRP most/RBS suitable/JJ for/IN our/PRP$ operations/NNS and/CC for/IN the/DT Indian/JJ market/NN for/IN short/JJ haul/NN routes."/NN Filippo/NNP Bagnato/NNP ATR's/NNP chief/NN executive/NN has/VBZ said/VBD that/IN his/PRP$ firm/NN will/MD also/RB work/VB with/IN Air/NNP Deccan/NNP to/TO create/VB a/DT training/NN centre/NN in/IN Bangalore./NNP
+
+The/DT potential/NN of/IN the/DT Indian/JJ budget/NN market/NN has/VBZ attracted/VBN attention/NN from/IN businesses/NNS at/IN home/NN and/CC abroad./NN
+Air/NNP Deccan/NNP has/VBZ said/VBN it/PRP will/MD base/VB its/PRP$ business/NN model/NN on/IN European/JJ firms/NNS such/JJ as/IN Ireland's/NNP Ryanair./NNP
+Beer/NNP magnate/NN Vijay/NNP Mallya/NNP recently/RB set/VBD up/RP Kingfisher/NNP Airlines/NNPS while/IN UK/NNP entrepreneur/NN Richard/NNP Branson/NNP has/VBZ said/VBN he/PRP is/VBZ keen/JJ to/TO start/VB a/DT local/JJ operation./NN
+India's/NNP government/NN has/VBZ given/VBN its/PRP$ backing/NN to/TO cheaper/JJR and/CC more/RBR accessible/JJ air/NN travel./NN

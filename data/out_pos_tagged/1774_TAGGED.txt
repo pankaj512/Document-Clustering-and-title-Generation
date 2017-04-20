@@ -1,0 +1,17 @@
+Rusedski/NNP angry/JJ over/IN supplements/NNS
+
+Greg/NNP Rusedski/NNP has/VBZ criticised/VBN the/DT governing/VBG body/NN of/IN men's/NNS tennis/NN for/IN not/RB releasing/VBG contamination-free/JJ supplements/NNS in/IN time/NN for/IN the/DT new/JJ season./NN
+
+Rusedski/NNP said/VBD "I/NN tried/VBD to/TO order/VB some/DT but/CC didn't/NN receive/NN any/DT and/CC I/PRP haven't/VBP got/VBD any/DT yet./NN
+"You/NN would/MD think/VB they/PRP would/MD have/VB been/VBN available/JJ in/IN December/NNP as/IN it/PRP can/MD take/VB two/CD months/NNS for/IN the/DT body/NN to/TO respond./VB
+"This/NN event/NN comes/VBZ in/IN the/DT hottest/JJS period/NN of/IN the/DT year/NN so/IN you/PRP would/MD hope/VB the/DT stuff/NN would/MD be/VB available/JJ for/IN it."/NN The/DT British/JJ number/NN two/CD escaped/VBD a/DT possible/JJ ban/NN last/JJ year/NN when/WRB he/PRP persuaded/VBD a/DT tribunal/NN that/IN a/DT positive/JJ doping/NN test/NN was/VBD the/DT result/NN of/IN contaminated/VBN ATP/NNP supplements./NN
+In/IN response/NN the/DT ATP/NNP struck/VBD a/DT deal/NN with/IN pharmaceutical/JJ company/NN GlaxoSmithKline/NNP to/TO provide/VB contamination-free/JJ drinks/NNS and/CC nutritional/JJ bars/NNS for/IN the/DT men's/NNS tour./NN
+
+David/NNP Higdon/NNP Vice/NNP President/NNP of/IN the/DT ATP/NNP admitted/VBD "I/NN agree/VBP with/IN Greg./NNP
+"I/NN would/MD have/VB loved/VBN to/TO have/VB had/VBN these/DT things/NNS available/JJ as/RB soon/RB as/IN possible/JJ but/CC it's/VBZ a/DT lot/NN of/IN work/NN to/TO make/VB sure/JJ they/PRP have/VBP gone/VBN through/IN rigorous/JJ testing./NN
+"The/NN reality/NN is/VBZ though/IN that/IN the/DT first/JJ two/CD weeks/NNS of/IN the/DT tour/NN are/VBP spread/NN far/RB and/CC wide/JJ and/CC part/NN of/IN the/DT distribution/NN agreement/NN we/PRP had/VBD with/IN GSK/NNP has/VBZ an/DT education/NN component./NN
+"We/NN weren't/NN going/VBG to/TO just/RB drop/VB these/DT products/NNS out/IN there/RB without/IN having/VBG a/DT talk/NN with/IN the/DT players/NNS about/IN understanding/NN how/WRB to/TO use/VB them./NN
+
+"The/NN first/JJ chance/NN we/PRP will/MD get/VB to/TO do/VB that/WDT is/VBZ at/IN the/DT players/NNS meeting/NN on/IN the/DT Saturday/NNP before/IN the/DT Australian/JJ Open."/NNP And/CC Rusedski/NNP who/WP takes/VBZ on/IN Roger/NNP Federer/NNP at/IN the/DT Qatar/NNP Open/NNP later/RB on/IN Wednesday/NNP conceded/VBD that/IN the/DT imminent/JJ changes/NNS will/MD be/VB beneficial./NN
+"The/NN good/JJ thing/NN is/VBZ that/IN there/EX is/VBZ now/RB a/DT 100%/CD guarantee/NN so/RB hopefully/RB all/PDT this/DT will/MD never/RB happen/VB again"/NN said/VBD Rusedski./NNP
+"Hopefully/RB after/IN the/DT Australian/JJ Open/NNP we/PRP won't/VBP have/VBP to/TO discuss/VB this/DT any/DT more."/NN

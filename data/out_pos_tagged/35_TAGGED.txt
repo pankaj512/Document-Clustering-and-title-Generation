@@ -1,0 +1,15 @@
+Ad/NN firm/NN WPP's/NNP profits/NNS surge/NN 15%/CD
+
+UK/NNP advertising/NN giant/NN WPP/NNP has/VBZ posted/VBN larger-than-expected/JJ annual/JJ profits/NNS and/CC predicted/VBD that/IN it/PRP will/MD outperform/VB the/DT market/NN in/IN 2005./CD
+
+Pre-tax/JJ profits/NNS rose/VBD 15%/CD from/IN a/DT year/NN ago/RB to/TO reach/VB £546m/CD ($1.04bn)/CD ahead/RB of/IN average/JJ analysts'/NN forecasts/NNS of/IN £532m./CD
+Revenues/NNS were/VBD £4.3bn/CD while/IN the/DT firm's/NNS operating/NN margins/NNS were/VBD 14.1%/CD which/WDT it/PRP said/VBD could/MD reach/VB 14.8%/CD by/IN 2006./CD
+During/IN the/DT year/NN WPP/NNP bought/VBD US/PRP rival/JJ Grey/NNP Global/JJ creating/NN a/DT giant/JJ big/JJ enough/RB to/TO rival/JJ sector/NN leader/NN Omnicom./NNP
+
+Chief/NNP Executive/NNP Martin/NNP Sorrell/NNP on/IN Friday/NNP told/VBD Reuters/NNP news/NN agency/NN that/IN WPP/NNP had/VBD submitted/VBN a/DT proposal/NN for/IN United/NNP Business/NNP Media's/NNP NOP/NNP World/NNP market/NN research/NN unit./NN
+Analysts/NNS say/VBP the/DT unit/NN sell/NN could/MD sell/VB for/IN up/IN to/TO £350m./CD
+WPP/NNP in/IN recent/JJ years/NNS has/VBZ also/RB bought/VBN firms/NNS such/JJ as/IN Ogilvy/NNP &/CC Mather/NNP and/CC Cordiant/NNP Communications./NNP
+It/PRP also/RB includes/VBZ the/DT firms/NNS Young/NNP &/CC Rubicam/NNP and/CC J/NNP Walter/NNP Thompson./NNP
+Events/NNS such/JJ as/IN the/DT Olympics/NNPS helped/VBD boost/VB WPP's/NNP profits/NNS in/IN 2004./CD
+The/DT company/NN said/VBD the/DT US/PRP Congressional/NNP elections/NNS and/CC the/DT FIFA/NNP World/NNP Cup/NNP are/VBP likely/JJ to/TO present/JJ advertising/NN opportunities/NNS in/IN the/DT near/JJ future./NN
+The/DT long-term/JJ outlook/NN looks/VBZ "very/NN favourable"/NN because/IN of/IN media/NNS and/CC technology/NN developments/NNS and/CC the/DT strength/NN of/IN the/DT US/PRP economy/VBP WPP/NNP said./NN

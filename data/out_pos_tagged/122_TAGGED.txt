@@ -1,0 +1,23 @@
+US/PRP bank/VBP in/IN $515m/CD SEC/NNP settlement/NN
+
+Five/CD Bank/NNP of/IN America/NNP subsidiaries/NNS have/VBP agreed/VBN to/TO pay/VB a/DT total/NN of/IN $515m/CD (£277m)/CD to/TO settle/VB an/DT investigation/NN into/IN fraudulent/JJ trading/NN share/NN practices./NN
+
+The/DT US/PRP Securities/NNPS and/CC Exchange/NNP Commission/NNP announced/VBD the/DT settlements/NNS the/DT latest/JJS in/IN an/DT industry-wide/JJ clean-up/NN of/IN US/PRP mutual/JJ funds./NN
+The/DT SEC/NNP also/RB said/VBD it/PRP had/VBD brought/VBN fraud/NN charges/NNS against/IN two/CD ex-senior/NN executives/NNS of/IN Columbia/NNP Distributor./NNP
+Columbia/NNP Distributor/NN was/VBD part/NN of/IN FleetBoston/NNP bought/VBN by/IN BOA/NN last/JJ year./NN
+Three/CD other/JJ ex-Columbia/NN executives/NNS agreed/VBD settlements/NNS with/IN the/DT SEC./NNP
+
+The/DT SEC/NNP has/VBZ set/VBN itself/PRP the/DT task/NN of/IN stamping/VBG out/RP the/DT mutual/JJ funds'/NN use/NN of/IN market-timing/JJ a/DT form/NN of/IN quick-fire/JJ short-term/JJ share/NN trading/NN that/WDT harms/VBZ the/DT interests/NNS of/IN small/JJ investors/NNS with/IN whom/WP mutual/JJ funds/NNS are/VBP particularly/RB popular./NN
+In/IN the/DT last/JJ two/CD years/NNS it/PRP has/VBZ imposed/VBN penalties/NNS totalling/VBG nearly/RB $2bn/CD on/IN 15/CD funds./NN
+The/DT SEC/NNP unveiled/VBD two/CD separate/JJ settlements/NNS one/CD covering/VBG BOA's/NNP direct/JJ subsidiaries/NNS and/CC another/DT for/IN businesses/NNS that/WDT were/VBD part/NN of/IN FleetBoston/NNP at/IN the/DT time./NN
+In/IN both/DT cases/NNS it/PRP said/VBD there/EX had/VBD been/VBN secret/JJ deals/NNS to/TO engage/VB in/IN market/NN timing/NN in/IN mutual/JJ fund/NN shares./NN
+The/DT SEC/NNP agreed/VBD a/DT deal/NN totalling/VBG $375m/CD with/IN Banc/NNP of/IN America/NNP Capital/NNP Management/NNP BACAP/NNP Distributors/NNPS and/CC Banc/NNP of/IN America/NNP Securities./NNP
+It/PRP was/VBD made/VBN up/RP of/IN $250m/CD to/TO pay/VB back/JJ gains/NNS from/IN market/NN timing/NN and/CC $125m/CD in/IN penalties./NN
+It/PRP is/VBZ to/TO be/VB paid/VBN to/TO the/DT damaged/VBN funds/NNS and/CC their/PRP$ shareholders./NN
+Separately/RB the/DT SEC/NNP said/VBD it/PRP had/VBD reached/VBN a/DT $140m/CD deal/NN -/: equally/RB split/VBN between/IN penalties/NNS and/CC compensation/NN -/: in/IN its/PRP$ probe/NN into/IN Columbia/NNP Management/NNP Advisors/NNP (CAM)/NN and/CC Columbia/NNP Funds/NNS Distributor/NN (CFD)/NN and/CC three/CD ex-Columbia/NN executives./NN
+These/DT businesses/NNS became/VBD part/NN of/IN BOA/NN when/WRB it/PRP snapped/VBD up/RP rival/JJ bank/NN FleetBoston/NNP in/IN a/DT $47bn/CD merger/NN last/JJ March./NNP
+
+The/DT SEC/NNP filed/VBD civil/JJ fraud/NN charges/NNS in/IN a/DT Boston/NNP Federal/NNP court/NN against/IN James/NNP Tambone/NNP who/WP it/PRP says/VBZ headed/VBN CFD's/NNP sales/NNS operations/NNS and/CC his/PRP$ alleged/JJ second/JJ in/IN command/NN Robert/NNP Hussey./NNP
+The/DT SEC/NNP is/VBZ pressing/VBG for/IN the/DT highest/JJS tier/NN of/IN financial/JJ penalties/NNS against/IN the/DT pair/NN for/IN "multiple/NN violations"/NN repayment/NN of/IN any/DT personal/JJ gains/NNS and/CC an/DT injunction/NN to/TO prevent/VB future/JJ breaches/NNS a/DT spokeswoman/NN for/IN the/DT SEC's/NNP Boston/NNP office/NN told/VBD the/DT BBC./NNP
+There/EX was/VBD no/DT immediate/JJ comment/NN from/IN the/DT men's'/NN lawyers./NN
+The/DT SEC's/NNP settlement/NN with/IN CAM/NNP and/CC CFD/NNP included/VBD agreements/NNS with/IN three/CD other/JJ ex-managers/NN Peter/NNP Martin/NNP Erik/NNP Gustafson/NNP and/CC Joseph/NNP Palombo/NNP who/WP paid/VBD personal/JJ financial/JJ penalties/NNS of/IN between/IN $50-100000./JJ

@@ -1,0 +1,17 @@
+New/NNP Harry/NNP Potter/NNP tops/NNS book/NN chart/NN
+
+Harry/NNP Potter/NNP and/CC the/DT Half-Blood/NNP Prince/NNP has/VBZ topped/VBN Amazon's/NNP book/NN chart/NN less/JJR than/IN 24/CD hours/NNS after/IN its/PRP$ release/NN date/NN -/: 16/CD July/NNP -/: was/VBD announced./NN
+
+Thousands/NNS of/IN customers/NNS placed/VBD pre-orders/NNS on/IN the/DT amazon.co.uk/NN website/NN for/IN the/DT sixth/JJ book/NN in/IN the/DT series./NN
+Rowling/NNP revealed/VBD she/PRP had/VBD completed/VBN the/DT novel/NN on/IN Tuesday/NNP ahead/RB of/IN the/DT scheduled/VBN announcement/NN on/IN 25/CD December./NNP
+It/PRP will/MD be/VB published/VBN simultaneously/RB in/IN the/DT UK/NNP the/DT US/PRP Canada/NNP Australia/NNP New/NNP Zealand/NNP and/CC South/NNP Africa./NNP
+JK/NNP Rowling's/NNP fifth/JJ book/NN in/IN the/DT wizard/NN series/NN Harry/NNP Potter/NNP and/CC Order/NNP of/IN the/DT Phoenix/NNP was/VBD Amazon's/NNP largest/JJS pre-ordered/JJ item/NN ever/RB with/IN 420000/CD copies/NNS pre-ordered/JJ prior/RB to/TO its/PRP$ release/NN in/IN June/NNP 2003./CD
+Customers/NNS who/WP pre-order/JJ Harry/NNP Potter/NNP and/CC the/DT Half-Blood/NNP Prince/NNP avoid/VB standing/NN in/IN long/JJ queues/NNS at/IN bookshops/NNS on/IN the/DT day/NN of/IN the/DT book's/NNS release/VBP next/IN July./NNP
+"The/NN fact/NN that/IN the/DT book/NN has/VBZ already/RB hit/VBN number/NN one/CD in/IN our/PRP$ Hot/NNP 100/CD books/NNS chart/NN shows/VBZ how/WRB incredibly/RB excited/VBN customers/NNS are/VBP about/IN the/DT sixth/JJ Harry/NNP Potter"/NNP said/VBD Amazon's/NNP Robin/NNP Terrell./NNP
+
+Harry/NNP Potter/NNP and/CC the/DT Half-Blood/NNP Prince/NNP takes/VBZ up/RP the/DT story/NN of/IN Harry/NNP Potter's/NNP sixth/JJ year/NN at/IN Hogwarts/NNP School/NNP of/IN Witchcraft/NN and/CC Wizardry/NNP as/IN Lord/NNP Voldemort/NNP grows/VBZ stronger./NN
+Rowling/NNP has/VBZ already/RB revealed/VBN that/IN the/DT Half-Blood/NNP Prince/NNP is/VBZ neither/DT Harry/NNP nor/CC Voldemort./NNP
+And/CC she/PRP added/VBD that/IN the/DT opening/NN chapter/NN of/IN the/DT book/NN had/VBD been/VBN brewing/NN in/IN her/PRP$ mind/NN for/IN 13/CD years./NN
+Rowling/NNP said/VBD she/PRP had/VBD plenty/NN of/IN time/NN while/IN pregnant/JJ "to/NN tinker/NN with/IN the/DT manuscript/NN to/TO my/PRP$ satisfaction/NN and/CC I/PRP am/VBP as/RB happy/JJ as/IN I/PRP have/VBP ever/RB been/VBN with/IN the/DT end/NN result"./NN
+She/PRP also/RB previously/RB revealed/VBD that/IN a/DT character/NN will/MD be/VB killed/VBN in/IN the/DT sixth/JJ book/NN but/CC she/PRP has/VBZ given/VBN no/DT hints/NNS as/IN to/TO who/WP it/PRP might/MD be./VB
+Following/VBG publication/NN of/IN the/DT sixth/JJ book/NN just/RB one/CD novel/NN remains/VBZ to/TO complete/VB the/DT series./NN

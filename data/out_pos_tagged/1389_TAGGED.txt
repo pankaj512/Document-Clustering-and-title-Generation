@@ -1,0 +1,13 @@
+African/JJ double/NN in/IN Edinburgh/NNP
+
+World/NNP 5000m/CD champion/NN Eliud/NNP Kipchoge/NNP won/VBD the/DT 9.2km/CD race/NN at/IN the/DT View/NNP From/IN Great/NNP Edinburgh/NNP Cross/NNP Country./NNP
+
+The/DT Kenyan/NNP who/WP was/VBD second/JJ when/WRB Newcastle/NNP hosted/VBD the/DT race/NN last/JJ year/NN was/VBD in/IN front/NN from/IN the/DT outset./NN
+Ethiopian/JJ duo/NN Gebre/NNP Gebremariam/NNP and/CC Dejene/NNP Berhanu/NNP made/VBD last-gasp/JJ efforts/NNS to/TO overtake/VB him/PRP but/CC Kipchoge/NNP responded/VBD and/CC a/DT burst/NN of/IN speed/NN clinched/VBD victory./NN
+Gavin/NNP Thompson/NNP was/VBD the/DT first/JJ Briton/NNP in/IN 12th/JJ place/NN while/IN Nick/NNP McCormick/NNP held/VBD of/IN his/PRP$ British/JJ rivals/NNS to/TO win/VB the/DT 4km/CD race./NN
+The/DT Morpeth/NNP Harrier/NNP led/VBD from/IN the/DT end/NN of/IN the/DT first/JJ lap/NN and/CC ended/VBD Mike/NNP Skinner/NNP and/CC Andrew/NNP Baddeley's/NNP hopes/VBZ with/IN a/DT surge/NN in/IN the/DT lasp/NN lap./NN
+"My/NN training/NN has/VBZ gone/VBN so/RB well/RB I/PRP wasn't/VBP really/RB worried/VBD about/IN the/DT opposition/NN asI/NN knew/VBD I/PRP was/VBD in/IN great/JJ shape"/NN said/VBD McCormick/NNP who/WP now/RB hopes/VBZ to/TO earn/VB a/DT 1500m/CD place/NN in/IN the/DT British/JJ team/NN for/IN the/DT World/NNP Championships/NNS in/IN Helsinki./NNP
+In/IN the/DT women's/NNS race/NN Ethiopia's/NNP Tirunesh/NNP Dibaba/NNP won/VBD a/DT battle/NN with/IN world/NN cross/NN country/NN champion/NN Benita/NNP Johnson/NNP to/TO retain/VB her/PRP$ title./NN
+Australian/JJ Johnson/NNP who/WP shocked/VBD her/PRP$ African/JJ rivals/NNS in/IN Brussels/NNP last/JJ March/NNP looked/VBD to/TO be/VB on/IN course/NN for/IN another/DT win/NN in/IN the/DT 6.2km/CD race./NN
+But/CC world/NN 5000m/CD champion/NN Dibaba/NNP make/VB a/DT telling/VBG strike/NN for/IN the/DT finishing/VBG line/NN in/IN the/DT final/JJ 20/CD metres./NN
+Britons/NNP Kathy/NNP Butler/NNP and/CC Hayley/NNP Yelling/VBG were/VBD out/IN of/IN contention/NN early/RB on./NN

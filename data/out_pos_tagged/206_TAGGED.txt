@@ -1,0 +1,21 @@
+Standard/NNP Life/NNP cuts/VBZ policy/NN bonuses/NNS
+
+Standard/NNP Life/NNP Europe's/NNP largest/JJS mutual/JJ life/NN insurer/NN has/VBZ cut/VBN bonuses/NNS for/IN with-profit/JJ policyholders./NN
+
+Annual/JJ bonus/NN rates/NNS on/IN its/PRP$ with-profits/NNS life/NN policies/NNS were/VBD cut/VBN from/IN 2.5%/CD to/TO 2%/CD while/IN bonuses/NNS on/IN pension/NN policies/NNS were/VBD reduced/VBN from/IN 3.25%/CD to/TO 2.5%./CD
+It/PRP is/VBZ the/DT sixth/JJ time/NN in/IN three/CD years/NNS Standard/NNP Life/NNP has/VBZ made/VBN cuts/NNS to/TO bonus/VB rates/NNS despite/IN an/DT 8.7%/CD rise/NN in/IN the/DT value/NN of/IN the/DT with-profits/NNS fund/NN in/IN 2004./CD
+The/DT insurer/NN blamed/VBD the/DT cuts/NNS on/IN poor/JJ share/NN returns/NNS and/CC low/JJ interest/NN rates./NN
+
+With-profits/NN policies/NNS are/VBP designed/VBN to/TO smooth/VB out/RP the/DT peaks/NNS and/CC troughs/NNS of/IN stock/NN market/NN volatility./NN
+Profits/NNS made/VBN in/IN good/JJ years/NNS are/VBP kept/VBN in/IN reserve/NN to/TO pay/VB investors/NNS an/DT annual/JJ bonus/NN even/RB when/WRB the/DT stock/NN market/NN performs/VBZ badly./NN
+Slumping/VBG share/NN prices/NNS throughout/IN 2001/CD and/CC 2002/CD forced/VBN most/JJS firms/NNS to/TO trim/VB bonus/NN rates/NNS on/IN their/PRP$ policies./NN
+Standard/NNP Life/NNP came/VBD in/IN for/IN criticism/NN for/IN sticking/VBG with/IN stock/NN market/NN investments/NNS during/IN 2001/CD and/CC 2002./CD
+The/DT insurer/NN argued/VBD that/IN shares/NNS outperformed/VBD other/JJ investments/NNS over/IN the/DT long/JJ term/NN and/CC that/IN policyholders/NNS would/MD feel/VB the/DT benefit/NN when/WRB the/DT stock/NN market/NN recovered./NN
+Recently/RB Norwich/NNP Union/NNP and/CC Axa/NNP Sun/NNP Life/NNP both/DT cut/VBP their/PRP$ with-profit/JJ bonus/NN rates./NN
+
+John/NNP Gill/NNP managing/VBG director/NN of/IN the/DT insurer's/NNS life/NN and/CC pensions/NNS division/NN said/VBD that/IN a/DT strong/JJ stock/NN market/NN recovery/NN in/IN the/DT past/JJ two/CD years/NNS had/VBD only/RB "partly/RB compensated/VBN for/IN losses/NNS during/IN 2001/CD and/CC 2002"./CD
+In/IN addition/NN low/JJ interest/NN rates/NNS meant/VBN that/IN "long-term/JJ investment/NN returns/NNS are/VBP well/RB below/IN historic/JJ levels"/NN Mr/NNP Gill/NNP added./NN
+However/RB Mr/NNP Gill/NNP maintained/VBD that/IN with-profits/NNS continued/VBD to/TO perform/VB well/RB over/IN the/DT long/RB term./NN
+"Our/NN payouts/NNS continue/VBP to/TO stand/VB up/RP well/RB against/IN other/JJ types/NNS of/IN long-term/JJ investments/NNS over/IN similar/JJ periods"/NN he/PRP said./VB
+Standard/NNP Life/NNP has/VBZ an/DT estimated/VBN 2.4/CD million/CD with-profits/NNS policyholders./NN
+Last/JJ year/NN the/DT company/NN announced/VBD that/IN it/PRP was/VBD looking/VBG to/TO float/VB on/IN the/DT stock/NN market/NN in/IN 2006./CD

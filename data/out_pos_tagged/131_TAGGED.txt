@@ -1,0 +1,28 @@
+Russian/JJ oil/NN merger/NN excludes/VBZ Yukos/NNP
+
+The/DT merger/NN of/IN Russian/JJ gas/NN giant/NN Gazprom/NNP and/CC oil/NN firm/NN Rosneft/NNP is/VBZ to/TO go/VB ahead/RB but/CC will/MD not/RB include/VB Yugansk/NNP which/WDT was/VBD controversially/RB bought/VBN last/JJ year./NN
+
+The/DT merger/NN backed/VBD by/IN Russian/JJ authorities/NNS will/MD allow/VB foreigners/NNS to/TO trade/VB in/IN Gazprom/NNP shares./NN
+Gazprom/NNP chief/NN Alexei/NNP Miller/NNP confirmed/VBD Rosneft-owned/JJ Yugansk/NNP was/VBD not/RB part/NN of/IN the/DT deal/NN and/CC will/MD instead/RB be/VB spun/VBN off./NN
+Under/IN the/DT agreement/NN the/DT state/NN will/MD get/VB a/DT controlling/VBG share/NN of/IN Gazprom/NNP in/IN exchange/NN for/IN Rosneft./NNP
+The/DT state/NN wanted/VBD to/TO control/VB Gazprom/NNP before/IN allowing/VBG foreigners/NNS to/TO trade./VB
+Speaking/VBG on/IN NTV/NNP television/NN which/WDT is/VBZ controlled/VBN by/IN Gazprom/NNP Mr/NNP Miller/NNP added/VBD that/IN Yugansk/NNP which/WDT was/VBD swallowed/VBN up/RP by/IN Rosneft/NNP late/JJ last/JJ year/NN will/MD operate/VB as/IN a/DT separate/JJ state-owned/JJ oil/NN firm/NN headed/VBN by/IN current/JJ Rosneft/NNP chief/NN Sergei/NNP Bogdanchikov./NNP
+According/VBG to/TO reports/NNS from/IN Russian/JJ News/NNP Agency/NNP Interfax/NNP the/DT deal/NN should/MD go/VB through/RP in/IN the/DT next/JJ two/CD to/TO three/CD months./NN
+
+"Obtaining/VBG majority/NN control/NN over/IN Gazprom/NNP is/VBZ the/DT beginning/NN of/IN the/DT liberalisation/NN of/IN the/DT market/NN in/IN Gazprom/NNP shares"/NN Mr/NNP Miller/NNP added./NN
+By/IN opening/VBG up/RP trading/NN in/IN Gazprom/NNP to/TO foreigners/NNS the/DT firm/NN will/MD become/VB a/DT top/JJ emerging/NN market/NN play/NN for/IN traders./NN
+Currently/RB foreigners/NNS can/MD only/RB trade/VB in/IN Gazprom/NNP via/IN a/DT small/JJ issue/NN of/IN London-listed/NNP proxy/NN shares./NN
+"This/NN is/VBZ positive/JJ news/NN for/IN the/DT international/JJ investment/NN community"/NN Global/JJ Asset/NNP Management/NNP investment/NN chief/NN David/NNP Smith/NNP said./NN
+"The/NN majority/NN of/IN investors/NNS are/VBP going/VBG to/TO be/VB happy"/NN he/PRP added./VB
+
+However/RB analysts/NNS were/VBD disappointed/VBN that/IN Yugansk/NNP would/MD not/RB be/VB included/VBN in/IN the/DT deal./NN
+"Yugansk/NN is/VBZ a/DT heavy/JJ cashflow/NN generator/NN and/CC would/MD have/VB been/VBN a/DT much/RB better/JJR asset/NN for/IN Gazprom"/NNP Renaissance/NNP Capital/NN energy/NN analyst/NN Adam/NNP Landes/NNP told/VBD Reuters/NNP news/NN agency./NN
+But/CC he/PRP said/VBD the/DT latest/JJS development/NN was/VBD simply/RB an/DT interim/JJ step/NN to/TO allow/VB foreigners/NNS to/TO trade/VB in/IN Gazprom./NNP
+"Ultimately/RB and/CC industrially/RB Gazprom/NNP needs/VBZ Yugansk"/NNP he/PRP added./VB
+Analysts/NNS said/VBD the/DT deal/NN would/MD give/VB Gazprom/NNP control/NN of/IN 8%/CD of/IN Russia's/NNP total/JJ oil/NN production/NN an/DT improvement/NN on/IN its/PRP$ current/JJ 2.5%/CD but/CC still/RB far/RB less/JJR than/IN the/DT 20%/CD share/NN it/PRP would/MD have/VB gained/VBN had/VBN it/PRP also/RB taken/VBD over/IN Yugansk./NNP
+However/RB the/DT merged/JJ group/NN will/MD still/RB remain/VB outside/IN Russia's/NNP top/JJ five/CD oil/NN producers/NNS -/: led/VBN by/IN Lukoil/NNP with/IN 11%/CD of/IN the/DT market/NN followed/VBD by/IN TNK-BP/NNP which/WDT is/VBZ half/RB owned/VBN by/IN BP/NNP and/CC Surgutneftegaz./NNP
+Instead/RB the/DT merged/VBN Gazprom-Rosneft/NNP group/NN will/MD rank/VB alongside/IN Sibneft/NNP with/IN 7%/CD of/IN the/DT market./NN
+Yugansk/NNP was/VBD sold/VBN to/TO a/DT little-known/JJ shell/NN company/NN in/IN a/DT disputed/VBN auction/NN in/IN December/NNP following/VBG what/WP many/JJ thought/NN was/VBD a/DT politically-motivated/JJ attack/NN on/IN Yukos./NNP
+The/DT shell/NN company/NN was/VBD then/RB snapped/VBN up/RP by/IN Rosneft./NNP
+Yukos/NNP unsuccessfully/RB sought/VBD to/TO halt/VB the/DT auction/NN by/IN applying/VBG for/IN bankruptcy/NN through/IN the/DT US/PRP courts./VBP
+The/DT unit/NN was/VBD auctioned/VBN by/IN Russian/JJ authorities/NNS to/TO help/VB pay/VB off/RP a/DT $27.5bn/CD back-tax/JJ bill./NN

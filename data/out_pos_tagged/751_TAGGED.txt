@@ -1,0 +1,15 @@
+Youssou/NNP N'Dour/NNP wins/VBZ music/NN prize/NN
+
+Senegalese/NNP musician/NN Youssou/NNP N'Dour/NNP has/VBZ been/VBN named/VBN a/DT winner/NN of/IN a/DT BBC/NNP Radio/NNP 3/CD World/NNP Music/NNP Award./NNP
+
+His/PRP$ album/NN Egypt/NNP won/VBD the/DT critics'/NN award/NN for/IN album/NN of/IN the/DT year/NN while/IN the/DT best/JJS newcomer/NN accolade/NN went/VBD to/TO Argentine/JJ Chango/NNP Spasiuk./NNP
+Winners/NNS were/VBD chosen/VBN from/IN ten/NN categories/NNS to/TO reflect/VB different/JJ continents./NN
+A/DT special/JJ Poll/NNP Winners/NNS concert/NN hosted/VBN by/IN Eliza/NNP Carthy/NNP and/CC Benjamin/NNP Zephaniah/NNP will/MD take/VB place/NN at/IN The/DT Sage/NN in/IN Gateshead/NNP on/IN 5/CD March./NNP
+
+The/DT concert/NN will/MD be/VB broadcast/NN on/IN Radio/NNP 3's/CD World/NNP Music/NNP Day/NNP the/DT following/JJ evening/NN and/CC will/MD feature/VB performances/NNS by/IN many/JJ of/IN the/DT award/NN winners./NN
+It/PRP will/MD also/RB include/VB the/DT announcement/NN of/IN the/DT Audience/NN Award/NN chosen/VBN by/IN Radio/NNP 3/CD and/CC BBC/NNP World/NNP Service/NNP listeners/NNS alongside/IN BBC/NNP Four/CD viewers./NN
+
+Winner/NN in/IN the/DT Africa/NNP category/NN was/VBD Malian/NNP desert/NN blues/NNS band/NN Tinariwen/NNP formed/VBD from/IN the/DT nomadic/JJ people/NNS of/IN the/DT southern/JJ Sahara./NNP
+Cuban/JJ pianist/NN Bebo/NNP Valdes/NNP and/CC flamenco/NN singer/NN Diego/NNP El/NNP Cigala/NNP responsible/JJ for/IN critically/RB acclaimed/JJ album/NN Lagrimas/NNP Negrasmusic/NNP won/VBD an/DT award/NN in/IN the/DT "boundary/NN crossing"/NN category./NN
+Each/DT winner/NN will/MD receive/VB a/DT specially/RB commissioned/VBN sculpture/NN entitled/VBN Planet/NN by/IN Anita/NNP Sulimanovic/NNP who/WP won/VBD a/DT competition/NN to/TO design/VB the/DT award./NN
+Highlights/NNS of/IN the/DT Poll/NNP Winners/NNS Concert/NN to/TO be/VB held/VBN at/IN The/DT Sage/NN Gateshead/NNP will/MD be/VB televised/VBN on/IN BBC/NNP Four/CD on/IN 11/CD March./NNP

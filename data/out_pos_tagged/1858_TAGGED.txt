@@ -1,0 +1,30 @@
+UK/NNP gets/VBZ official/JJ virus/NN alert/NN site/NN
+
+A/DT rapid/JJ alerting/NN service/NN that/WDT tells/VBZ home/NN computer/NN users/NNS about/IN serious/JJ internet/JJ security/NN problems/NNS is/VBZ being/VBG launched/VBN by/IN the/DT UK/NNP government./NN
+
+The/DT service/NN IT/PRP Safe/NNP will/MD issue/VB warnings/NNS about/IN damaging/JJ viruses/NNS software/NN vulnerabilities/NNS and/CC weaknesses/NNS on/IN devices/NNS such/JJ as/IN mobile/JJ phones./NN
+Alerts/VBZ tell/VB people/NNS how/WRB the/DT threats/NNS affect/VBP them/PRP and/CC what/WP they/PRP can/MD do/VB to/TO avoid/VB trouble/NN and/CC protect/VB themselves./NN
+The/DT service/NN will/MD be/VB free/JJ and/CC those/DT who/WP sign/VBP up/RP can/MD get/VB e-mail/JJ or/CC text/NN alerts./NN
+The/DT scheme/NN is/VBZ aimed/VBN at/IN home/NN users/NNS and/CC small/JJ businesses./NN
+The/DT government/NN estimates/NNS it/PRP will/MD issue/VB security/NN alerts/VBZ about/IN six/CD to/TO 10/CD times/NNS a/DT year/NN based/VBN on/IN previous/JJ experience/NN of/IN virus/NN outbreaks./NN
+"There/NN is/VBZ a/DT clear/JJ need/NN for/IN easy-to-understand/JJ and/CC simple/JJ independent/JJ advice/NN for/IN non-technically/JJ minded/VBN people/NNS who/WP use/VBP computers/NNS either/CC at/IN home/NN or/CC at/IN work"/NN said/VBD Home/NNP Office/NNP Minister/NNP Hazel/NNP Blears./NNP
+"The/NN purpose/NN of/IN this/DT new/JJ government/NN service/NN is/VBZ to/TO ensure/VB computer/NN users/NNS are/VBP aware/JJ of/IN the/DT risks/NNS involved/VBN and/CC how/WRB to/TO deal/VB with/IN them/PRP easily/RB and/CC effectively/RB without/IN causing/VBG alarm."/NN Those/DT signing/VBG up/RP will/MD only/RB be/VB told/VBN about/IN the/DT most/RBS serious/JJ security/NN threats/NNS that/WDT have/VBP the/DT potential/NN to/TO affect/VB millions/NNS of/IN people./NN
+
+Full-time/JJ staff/NN are/VBP being/VBG employed/VBN to/TO comb/VB through/IN the/DT many/JJ hundreds/NNS of/IN alerts/NNS issued/VBN each/DT year/NN by/IN computer/NN security/NN firms/NNS to/TO spot/VB which/WDT ones/NNS have/VBP the/DT potential/NN to/TO catch/VB out/RP a/DT large/JJ number/NN of/IN people/NNS Between/IN alerts/VBZ the/DT service/NN will/MD occasionally/RB send/VB messages/NNS giving/VBG people/NNS advice/VBP about/IN safe/JJ ways/NNS to/TO use/VB their/PRP$ computers/NNS and/CC phones./NN
+"IT/NNP Safe/NNP will/MD take/VB our/PRP$ technical/JJ expertise/NN and/CC use/NN it/PRP to/TO help/VB home/VB users/NNS understand/VBP the/DT risks/NNS and/CC keep/VB their/PRP$ computer/NN systems/NNS mobile/JJ phones/NNS and/CC a/DT range/NN of/IN related/VBN consumer/NN electronic/JJ items/NNS safe"/NN said/VBD Roger/NNP Cumming/NNP director/NN of/IN the/DT National/NNP Infrastructure/NN Security/NNP Coordination/NN Centre/NNP (NISCC)./NN
+
+The/DT NISCC/NNP which/WDT is/VBZ running/VBG the/DT service/NN also/RB stressed/VBD that/IN those/DT signing/VBG up/RP would/MD still/RB need/VB to/TO use/VB anti-virus/JJ software/NN firewalls/NNS and/CC software/NN updates/NNS to/TO stay/VB secure./NN
+Warnings/NNS about/IN security/NN problems/NNS will/MD tell/VB people/NNS what/WP the/DT problem/NN is/VBZ how/WRB it/PRP affects/VBZ them/PRP and/CC what/WP they/PRP can/MD do/VB to/TO avoid/VB trouble./NN
+Alerts/VBZ will/MD not/RB be/VB issued/VBN unless/IN users/NNS can/MD do/VB something/NN to/TO protect/VB themselves/PRP against/IN the/DT threat./NN
+This/DT might/MD include/VB downloading/VBG an/DT update/NN from/IN an/DT anti-virus/JJ vendor/NN or/CC updating/VBG software/NN to/TO close/VB loopholes/NNS and/CC fix/VB vulnerabilities./NN
+However/RB no/DT software/NN patches/NNS or/CC programs/NNS will/MD actually/RB be/VB dispensed/VBN through/IN the/DT site./NN
+The/DT alerts/VBZ will/MD tell/VB people/NNS how/WRB to/TO go/VB about/IN getting/VBG hold/NN of/IN patches/NNS from/IN security/NN firms./NN
+The/DT NISCC/NNP spokesman/NN said/VBD the/DT site/NN and/CC alerting/VBG service/NN would/MD stay/VB in/IN existence/NN for/IN as/RB long/RB as/IN there/EX were/VBD security/NN bugs/NNS on/IN home/NN computers/NNS and/CC other/JJ gadgets./NN
+
+Government/NN statistics/NNS show/VBP that/IN more/JJR than/IN half/NN of/IN all/DT UK/NNP households/NNS own/VBP a/DT home/NN computer./NN
+It/PRP was/VBD estimated/VBN that/IN almost/RB 13/CD million/CD of/IN these/DT were/VBD able/JJ to/TO access/VB the/DT internet/NN in/IN 2004./CD
+The/DT launch/NN comes/VBZ as/IN the/DT number/NN of/IN viruses/NNS and/CC other/JJ malicious/JJ programs/NNS in/IN existence/NN is/VBZ reaching/VBG unprecedented/JJ numbers./NN
+In/IN September/NNP 2004/CD the/DT number/NN of/IN malicious/JJ programs/NNS circulating/VBG topped/VBD the/DT 100000/CD mark./NN
+Some/DT fear/NN that/IN this/DT figure/NN could/MD hit/VB 150000/CD by/IN September/NNP 2005./CD
+The/DT creation/NN of/IN the/DT national/JJ alert/NN service/NN follows/VBZ similar/JJ efforts/NNS in/IN the/DT Netherlands/NNP and/CC US./NNP
+The/DT National/NNP Alerting/VBG Service/NNP for/IN the/DT Netherlands/NNP (aka/NN De/NNP Waarschuwingsdienst)/NNP and/CC the/DT US/PRP National/NNP Cyber/NNP Alerting/VBG Service/NNP also/RB tell/VBP citizens/NNS of/IN serious/JJ security/NN threats./NN

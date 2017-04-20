@@ -1,0 +1,17 @@
+US/PRP hacker/VBP breaks/NNS into/IN T-Mobile/NNP
+
+A/DT man/NN is/VBZ facing/VBG charges/NNS of/IN hacking/VBG into/IN computers/NNS at/IN the/DT US/PRP arm/VBP of/IN mobile/JJ phone/NN firm/NN T-Mobile./NNP
+
+The/DT Californian/NN man/NN Nicholas/NNP Lee/NNP Jacobsen/NNP was/VBD arrested/VBN in/IN October./NNP
+Mr/NNP Jacobsen/NNP tried/VBD at/IN least/JJS twice/RB to/TO hack/VB T-Mobile's/NNP network/NN and/CC took/VBD names/NNS and/CC social/JJ security/NN numbers/NNS of/IN 400/CD customers/NNS said/VBD a/DT company/NN spokesman./NN
+The/DT arrest/NN came/VBD a/DT year/NN after/IN T-Mobile/NNP uncovered/VBD the/DT unauthorised/VBN access./NN
+The/DT US/PRP Secret/JJ Service/NNP has/VBZ been/VBN investigating/VBG the/DT case./NN
+"T-Mobile/JJ has/VBZ stringent/JJ procedures/NNS in/IN place/NN where/WRB we/PRP monitor/VBP for/IN suspicious/JJ activity/NN so/IN that/IN limited/JJ his/PRP$ activities/NNS and/CC we/PRP were/VBD able/JJ to/TO take/VB corrective/JJ action/NN immediately"/NN Peter/NNP Dobrow/NNP a/DT T-Mobile/NNP spokesperson/NN said./NN
+It/PRP is/VBZ thought/VBN that/IN Mr/NNP Jacobsen's/NNP hacking/VBG campaign/NN took/VBD place/NN over/IN at/IN least/JJS seven/CD months/NNS during/IN which/WDT time/NN he/PRP read/VB e-mails/NNS and/CC personal/JJ computer/NN files/NNS according/VBG to/TO court/NN records./NN
+
+Although/IN Mr/NNP Jacobsen/NNP 21/CD managed/VBN to/TO get/VB hold/VB of/IN some/DT data/NNS it/PRP is/VBZ thought/VBN he/PRP failed/VBD to/TO get/VB customer/NN credit/NN card/NN numbers/NNS which/WDT are/VBP stored/VBN on/IN a/DT separate/JJ computer/NN system/NN said/VBD Mr/NNP Dobrow./NNP
+T-Mobile/NNP confirmed/VBD that/IN the/DT US/PRP Secret/JJ Service/NNP was/VBD also/RB looking/VBG into/IN whether/IN the/DT hacker/NN accessed/VBN photos/NNS that/IN T-Mobile/NNP subscribers/NNS had/VBD taken/VBN with/IN their/PRP$ camera/NN phones./NN
+The/DT Associated/NNP Press/NNP agency/NN reported/VBD that/IN Mr/NNP Jacobsen/NNP also/RB read/VBP personal/JJ files/NNS on/IN the/DT Secret/JJ Service/NNP agent/NN who/WP was/VBD apparently/RB investigating/VBG the/DT case./NN
+A/DT Los/NNP Angeles/NNP grand/JJ jury/NN indicted/VBN Mr/NNP Jacobsen/NNP with/IN intentionally/RB accessing/VBG a/DT computer/NN system/NN without/IN authorisation/NN and/CC with/IN the/DT unauthorised/VBN impairment/NN of/IN a/DT protected/JJ computer/NN between/IN March/NNP and/CC October/NNP 2004./CD
+He/PRP is/VBZ currently/RB on/IN bail./NN
+T-Mobile/NNP is/VBZ a/DT subsidiary/NN company/NN of/IN Deutsche/NNP Telekom/NNP and/CC has/VBZ about/RB 16.3/CD million/CD subscribers/NNS in/IN the/DT US./NNP

@@ -1,0 +1,29 @@
+Johnny/NNP Depp/NNP The/DT acting/JJ outlaw/NN
+
+Johnny/NNP Depp/NNP whose/WP$ latest/JJS role/NN was/VBD Peter/NNP Pan/NNP creator/NN JM/NNP Barrie/NNP in/IN Finding/VBG Neverland/NNP is/VBZ celebrated/JJ as/IN one/CD of/IN Hollywood's/NNP most/JJS maverick/NN talents./NN
+Depp/NNP has/VBZ become/VBN an/DT unlikely/JJ major/JJ star/NN given/VBD his/PRP$ preference/NN for/IN taking/VBG dark/JJ and/CC idiosyncratic/JJ roles/NNS instead/RB of/IN surefire/NN box/NN office/NN hits./NN
+He/PRP has/VBZ had/VBN a/DT long-running/JJ working/JJ relationship/NN with/IN the/DT equally/RB unconventional/JJ director/NN Tim/NNP Burton./NNP
+Depp/NNP was/VBD born/VBN in/IN Kentucky/NNP in/IN 1963/CD and/CC at/IN first/JJ wanted/VBD to/TO be/VB a/DT rock/NN star/NN playing/VBG in/IN a/DT number/NN of/IN bands/NNS and/CC supporting/VBG acts/NNS such/JJ as/IN Iggy/NNP Pop/NN and/CC The/DT B-52s/NN in/IN Florida./NNP
+On/IN a/DT visit/NN to/TO Los/NNP Angeles/NNP his/PRP$ former/JJ wife/NN introduced/VBD him/PRP to/TO actor/VB Nicolas/NNP Cage./NNP
+
+In/IN 1984/CD he/PRP started/VBD his/PRP$ film/NN career/NN playing/VBG a/DT doomed/VBN teenager/NN in/IN horror/NN film/NN Nightmare/NN On/IN Elm/NNP Street./NNP
+Two/CD years/NNS later/RB he/PRP played/VBD a/DT soldier/JJR in/IN Oliver/NNP Stone's/NNP Vietnam/NNP epic/NN Platoon./NNP
+But/CC it/PRP was/VBD TV/NN that/IN first/RB made/VBN Depp/NNP a/DT star./NN
+He/PRP played/VBD undercover/JJ cop/NN Tommy/NNP Hanson/NNP in/IN the/DT US/PRP series/VBP 21/CD Jump/NN Street/NNP for/IN three/CD years/NNS from/IN 1987./CD
+
+In/IN 1990/CD he/PRP began/VBD his/PRP$ partnership/NN with/IN Burton/NNP in/IN the/DT dark/JJ fairy/NN tale/NN Edward/NNP Scissorhands/NNP about/IN a/DT young/JJ man/NN with/IN blades/NNS for/IN hands./NN
+He/PRP won/VBD plaudits/NNS in/IN 1993/CD for/IN the/DT downbeat/JJ film/NN What's/NNP Eating/NNP Gilbert/NNP Grape/NNP where/WRB he/PRP played/VBD a/DT sensitive/JJ youth/NN looking/VBG after/IN an/DT overweight/JJ mother/NN and/CC a/DT retarded/JJ younger/JJR brother/NN played/VBN by/IN Leonardo/NNP DiCaprio./NNP
+Another/DT role/NN under/IN Burton/NNP Ed/NNP Wood/NNP starred/VBD Depp/NNP as/IN the/DT crazed/VBN cult/NN film-maker/NN Wood/NNP in/IN 1994./CD
+He/PRP played/VBD a/DT much/RB more/RBR serious/JJ sensitive/JJ role/NN in/IN his/PRP$ next/JJ major/JJ film/NN Donnie/NNP Brasco/NNP where/WRB he/PRP portrayed/VBD an/DT undercover/JJ cop/NN infiltrating/VBG a/DT mafia/NN ring./NN
+In/IN 1997/CD he/PRP directed/VBD his/PRP$ only/JJ film/NN to/TO date/NN -/: The/DT Brave/NNP the/DT story/NN of/IN an/DT Indian/JJ man/NN offered/VBD money/NN to/TO appear/VB in/IN a/DT snuff/NN film./NN
+
+Two/CD years/NNS later/RB he/PRP played/VBD Hunter/NNP S/NNP Thompson/NNP in/IN Terry/NNP Gilliam's/NNP ambitious/JJ but/CC poorly-received/JJ big/JJ screen/NN adaptation/NN of/IN Fear/NN and/CC Loathing/NNP in/IN Las/NNP Vegas./NNP
+He/PRP worked/VBD again/RB with/IN Tim/NNP Burton/NNP in/IN the/DT 1999/CD horror/NN film/NN Sleepy/JJ Hollow/JJ and/CC appeared/VBD opposite/JJ Dame/NNP Judi/NNP Dench/NNP and/CC Juliette/NNP Binoche/NNP in/IN Chocolat./NNP
+His/PRP$ performance/NN in/IN Pirates/NNS of/IN the/DT Caribbean/NNP which/WDT earned/VBD him/PRP Golden/NNP Globe/NNP and/CC Bafta/NNP nominations/NNS had/VBD many/JJ critics/NNS thinking/VBG he/PRP based/VBD it/PRP upon/IN the/DT mannerisms/NNS of/IN his/PRP$ friend/NN Rolling/NNP Stones/NNS guitarist/NN Keith/NNP Richards./NNP
+His/PRP$ latest/JJS role/NN in/IN Finding/VBG Neverland/NNP explored/VBD JM/NNP Barrie's/NNP relationship/NN with/IN Sylvia/NNP (Kate/NN Winslet)/NNP and/CC her/PRP$ children./NN
+Depp's/NNP charismatic/JJ performance/NN drew/VBD an/DT audience/NN of/IN adults/NNS and/CC children/NNS alike/RB into/IN Barrie's/NNP vivid/JJ imagination/NN and/CC he/PRP was/VBD called/VBN the/DT "fifth/NN child/NN of/IN the/DT group"/NN by/IN the/DT film's/NNS director/NN Marc/NNP Forster./NNP
+
+He/PRP has/VBZ two/CD children/NNS of/IN his/PRP$ own/JJ with/IN French/JJ singer/NN Vanessa/NNP Paradis/NNP having/VBG previously/RB been/VBN in/IN a/DT long-term/JJ relationship/NN with/IN British/JJ model/NN Kate/NNP Moss./NNP
+The/DT theme/NN of/IN children's/NNS literature/NN in/IN Depp's/NNP career/NN -/: and/CC his/PRP$ long/JJ association/NN with/IN Tim/NNP Burton/NNP -/: are/VBP set/VBN to/TO continue/VB in/IN his/PRP$ next/JJ role/NN playing/VBG Willy/NNP Wonka/NNP in/IN a/DT remake/NN of/IN Roald/NNP Dahl's/NNP classic/JJ Charlie/NNP and/CC the/DT Chocolate/NN Factory./NNP
+British/JJ TV/NN comedy/NN fans/NNS might/MD also/RB remember/VB Depp's/NNP guest/NN role/NN in/IN the/DT final/JJ episode/NN of/IN BBC/NNP sketch/NN programme/NN The/DT Fast/RB Show/NNP cited/VBD as/IN his/PRP$ favourite/NN show./NN
+It/PRP was/VBD another/DT surprise/NN move/NN in/IN Depp's/NNP varied/VBD and/CC intriguing/JJ career./NN

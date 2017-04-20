@@ -1,0 +1,12 @@
+Scrum-half/NNP Williams/NNP rejoins/NNS Bath/NN
+
+Bath/NN have/VBP signed/VBN their/PRP$ former/JJ scrum-half/JJ Andy/NNP Williams/NNP on/IN a/DT short-term/JJ deal/NN from/IN the/DT Neath-Swansea/NNP Ospreys./NNP
+
+Wales/NNP international/JJ Williams/NNP whose/WP$ contract/NN with/IN the/DT Welsh/NNP region/NN was/VBD due/JJ to/TO expire/VB in/IN June/NNP has/VBZ agreed/VBN a/DT contract/NN until/IN the/DT end/NN of/IN the/DT season./NN
+With/IN Martyn/NNP Wood's/NNP injury/NN likely/JJ to/TO keep/VB him/PRP out/RP until/IN February/NNP Bath/NN need/VBP experienced/VBN back-up/JJ to/TO Nick/NNP Walshe./NNP
+Said/NNP Williams/NNP "When/NN this/DT opportunity/NN presented/VBD itself/PRP I/PRP did/VBD not/RB really/RB have/VB to/TO think/VB twice/RB about/IN it."/NN Williams/NNP capped/VBN by/IN Wales/NNP against/IN Romania/NNP in/IN 2003/CD should/MD figure/VB in/IN the/DT match/NN squad/NN for/IN Monday's/NNP Zurich/NNP Premiership/NN match/NN at/IN Sale/NNP Sharks./NNP
+He/PRP lost/VBD his/PRP$ Ospreys/NNP starting/VBG place/NN to/TO New/NNP Zealander/NNP Jason/NNP Spice/NN and/CC has/VBZ fallen/VBN further/RBR behind/RB in/IN the/DT pecking/VBG order./NN
+The/DT Welsh/NNP region/NN has/VBZ two/CD outstanding/JJ young/JJ No/DT 9/NN prospects/NNS in/IN Richie/NNP Rees/NNP and/CC Rhodri/NNP Wells./NNP
+Bath/NN director/NN of/IN rugby/NN Jack/NNP Rowell/NNP though/IN believes/VBZ Williams/NNP fits/VBZ the/DT bill/NN perfectly./NN
+"He/NN has/VBZ been/VBN playing/VBG regular/JJ Heineken/NNP Cup/NNP and/CC Celtic/NNP League/NNP rugby/NN and/CC he/PRP has/VBZ a/DT great/JJ affection/NN for/IN Bath"/NNP Rowell/NNP told/VBD Bath's/NNP official/JJ website./NN
+"We/NN are/VBP delighted/JJ to/TO be/VB able/JJ to/TO welcome/VB him/PRP back/RB to/TO the/DT club."/NN

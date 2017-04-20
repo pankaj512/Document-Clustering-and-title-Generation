@@ -1,0 +1,16 @@
+$1m/CD payoff/NN for/IN former/JJ Shell/NNP boss/NN
+
+Shell/NNP is/VBZ to/TO pay/VB $1m/CD (£522000)/CD to/TO the/DT ex-finance/NN chief/NN who/WP stepped/VBD down/RB from/IN her/PRP$ post/NN in/IN April/NNP 2004/CD after/IN the/DT firm/NN over-stated/JJ its/PRP$ reserves./NN
+
+Judy/NNP Boynton/NNP finally/RB left/VBD the/DT firm/NN on/IN 31/CD December/NNP having/VBG spent/VBD the/DT intervening/VBG time/NN as/IN a/DT special/JJ advisor/NN to/TO chief/JJ executive/NN Jeroen/NNP van/NNP der/NN Veer./NNP
+In/IN January/NNP 2004/CD Shell/NNP told/VBD shocked/VBN investors/NNS that/IN its/PRP$ reserves/NNS were/VBD 20%/CD smaller/JJR than/IN previously/RB thought./NN
+Shell/NNP said/VBD the/DT pay-off/NN was/VBD in/IN line/NN with/IN Ms/NNP Boynton's/NNP contract./NN
+She/PRP was/VBD leaving/VBG "by/NN mutual/JJ agreement/NN to/TO pursue/VB other/JJ career/NN opportunities"/NN the/DT firm/NN said/VBD in/IN a/DT statement./NN
+The/DT severance/NN package/NN means/VBZ she/PRP keeps/VBZ long-term/JJ share/NN options/NNS but/CC fails/VBZ to/TO collect/VB on/IN a/DT 2003/CD incentive/NN plan/NN since/IN the/DT firm/NN has/VBZ failed/VBN to/TO meet/VB the/DT targets/NNS included/VBN in/IN it./NN
+
+The/DT revelation/NN that/IN Shell/NNP had/VBD inflated/VBN its/PRP$ reserves/NNS led/VBN to/TO the/DT resignation/NN of/IN its/PRP$ chairman/NN Sir/NNP Phil/NNP Watts/NNP and/CC production/NN chief/NN Walter/NNP van/NNP der/NN Vijver./NNP
+
+An/DT investigation/NN commissioned/VBN by/IN Shell/NNP found/VBD that/IN Ms/NNP Boynton/NNP had/VBD to/TO share/VB responsibility/NN for/IN the/DT company's/NNS behaviour./NN
+Despite/IN receiving/VBG an/DT email/NN from/IN Mr/NNP Van/NNP de/IN Vijver/NNP which/WDT said/VBD the/DT firm/NN had/VBD "fooled"/NN the/DT market/NN about/IN its/PRP$ reserves/NNS the/DT investigation/NN said/VBD she/PRP did/VBD nothing/NN to/TO inquire/VB further./NN
+In/IN all/DT Shell/NNP restated/VBD its/PRP$ reserves/NNS four/CD times/NNS during/IN 2003./CD
+In/IN September/NNP it/PRP paid/VBD £82.7m/CD in/IN fines/NNS to/TO regulators/NNS on/IN both/DT sides/NNS of/IN the/DT Atlantic/NNP for/IN violating/VBG market/NN rules/NNS in/IN its/PRP$ reporting/VBG of/IN its/PRP$ reserves./NN

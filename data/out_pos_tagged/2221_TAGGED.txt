@@ -1,0 +1,23 @@
+BT/NNP program/NN to/TO beat/VB dialler/NN scams/NNS
+
+BT/NNP is/VBZ introducing/VBG two/CD initiatives/NNS to/TO help/VB beat/VB rogue/NN dialler/NN scams/NNS which/WDT can/MD cost/VB dial-up/JJ net/JJ users/NNS thousands./NN
+
+From/IN May/NNP dial-up/JJ net/JJ users/NNS will/MD be/VB able/JJ to/TO download/VB free/JJ software/NN to/TO stop/VB computers/NNS using/VBG numbers/NNS not/RB on/IN a/DT user's/NNS "pre-approved/JJ list"./NN
+Inadvertently/RB downloaded/VBN by/IN surfers/NNS rogue/NN diallers/NNS are/VBP programs/NNS which/WDT hijack/NN modems/NNS and/CC dial/VB up/RP a/DT premium/NN rate/NN number/NN when/WRB users/NNS log/VBP on./NN
+Thousands/NNS of/IN UK/NNP dial-up/JJ users/NNS are/VBP believed/VBN to/TO have/VB been/VBN hit/VBN by/IN the/DT scam./NN
+Some/DT people/NNS have/VBP faced/VBN phone/NN bills/NNS of/IN up/IN to/TO £2000./CD
+BT's/NNP Modem/NNP Protection/NNP program/NN will/MD check/VB numbers/NNS that/WDT are/VBP dialled/VBN by/IN a/DT computer/NN and/CC will/MD block/VB them/PRP if/IN they/PRP have/VBP not/RB been/VBN pre-approved/VBN such/JJ as/IN national/JJ and/CC net/JJ service/NN provider/NN numbers./NN
+Icstis/VBG the/DT UK's/NNP premium/NN rate/NN services/NNS watchdog/NN said/VBD it/PRP had/VBD been/VBN looking/VBG for/IN companies/NNS to/TO take/VB the/DT lead/NN in/IN initiatives./NN
+"The/NN initiatives/NNS are/VBP very/RB welcome"/VB a/DT spokesperson/NN from/IN Icstis/NNP told/VBD the/DT BBC/NNP News/NNP website./NN
+"We/NN are/VBP very/RB pleased/JJ to/TO see/VB they/PRP are/VBP putting/VBG into/RP place/NN new/JJ measures/NNS to/TO protect/VB consumers."/NN
+
+The/DT second/JJ initiative/NN BT/NNP announced/VBD is/VBZ an/DT early/JJ warning/NN system/NN which/WDT will/MD alert/VB BT/NNP customers/NNS if/IN there/EX is/VBZ unusual/JJ activity/NN on/IN their/PRP$ phone/NN bills./NN
+If/IN a/DT bill/NN rises/VBZ substantially/RB above/IN its/PRP$ usual/JJ daily/JJ average/JJ or/CC if/IN a/DT call/NN is/VBZ made/VBN to/TO a/DT suspect/NN number/VBG a/DT text/NN or/CC voice/NN alert/NN will/MD be/VB sent/VBN to/TO the/DT user's/NNS landline/NN phone./NN
+As/IN part/NN of/IN the/DT clamp-down/NN on/IN rogue/NN diallers/NNS companies/NNS must/MD now/RB satisfy/VB stringent/JJ conditions/NNS including/VBG clear/JJ terms/NNS and/CC conditions/NNS information/NN about/IN how/WRB to/TO delete/VB diallers/NNS and/CC responsibility/NN for/IN customer/NN refunds./NN
+Any/DT firm/NN running/VBG a/DT dialler/NN without/IN permission/NN can/MD now/RB be/VB closed/VBN down/RB by/IN Icstis./NNP
+The/DT watchdog/NN brought/VBD in/RP the/DT action/NN last/JJ October/NNP following/VBG a/DT decision/NN to/TO license/VB all/DT companies/NNS which/WDT wanted/VBD to/TO operate/VB legitimate/JJ premium/NN rate/NN dialler/NN services./NN
+
+There/EX are/VBP legitimate/JJ companies/NNS who/WP offer/VBP services/NNS such/JJ as/IN adult/NN content/NN sports/NNS results/NNS and/CC music/NN downloads/NNS by/IN charging/VBG a/DT premium/NN rate/NN rather/RB than/IN by/IN credit/NN card/NN BT/NNP said/VBD it/PRP had/VBD ploughed/VBN an/DT enormous/JJ amount/NN of/IN effort/NN into/IN protecting/VBG people/NNS from/IN the/DT problem./NN
+It/PRP has/VBZ already/RB barred/VBN more/JJR than/IN 1000/CD premium/NN rate/NN numbers/NNS and/CC has/VBZ tried/VBN to/TO raise/VB public/JJ awareness/NN about/IN the/DT scams./NN
+"We/NN now/RB want/VBP to/TO ensure/VB there/EX are/VBP even/RB stronger/JJR safeguards/NNS for/IN our/PRP$ customers/NNS who/WP we/PRP would/MD urge/VB to/TO make/VB use/NN of/IN these/DT new/JJ options/NNS to/TO protect/VB themselves"/NN said/VBD Gavin/NNP Patterson/NNP group/NN managing/VBG director/NN for/IN consumer/NN the/DT arm/NN of/IN BT./NNP
+Both/DT schemes/NNS have/VBP been/VBN undergoing/VBG trials/NNS in/IN Ireland/NNP and/CC will/MD be/VB made/VBN available/JJ to/TO 20/CD million/CD BT/NNP customers/NNS from/IN May./NNP

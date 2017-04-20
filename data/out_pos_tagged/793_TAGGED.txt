@@ -1,0 +1,14 @@
+Prodigy/NN join/VB V/NNP Festival/NNP line-up/JJ
+
+Essex/NNP act/NN Prodigy/NN are/VBP to/TO headline/VB the/DT second/JJ stage/NN at/IN this/DT year's/NNS V/NNP Festival/NNP joining/VBG main/JJ stage/NN headliners/NNS Scissor/NNP Sisters/NNS and/CC Franz/NNP Ferdinand./NNP
+
+The/DT event/NN which/WDT is/VBZ in/IN its/PRP$ 10th/JJ year/NN will/MD be/VB held/VBN at/IN two/CD venues/NNS -/: Hylands/NNP Park/NNP in/IN Essex/NNP and/CC Weston/NNP Park/NNP in/IN Staffordshire/NNP on/IN 20/CD and/CC 21/CD August./NNP
+Meanwhile/RB rock/NN veterans/NNS New/NNP Order/NNP have/VBP joined/VBN the/DT T/NNP in/IN the/DT Park/NNP line-up/JJ alongside/IN Athlete/NN and/CC Green/NNP Day./NNP
+The/DT Manchester/NNP band/NN will/MD play/VB on/IN 9/CD July/NNP at/IN Scotland's/NNP biggest/JJS festival./NN
+It/PRP will/MD be/VB their/PRP$ debut/NN performance/NN at/IN the/DT music/NN event/NN which/WDT is/VBZ held/VBN over/IN the/DT weekend/NN of/IN 9/CD and/CC 10/CD July/NNP in/IN Balado/NNP near/IN Kinross./NNP
+Other/JJ bands/NNS at/IN the/DT sold-out/JJ festival/NN include/VBP Queens/NNP of/IN the/DT Stone/NNP Age/NNP The/DT Killers/NNS Keane/NNP The/DT Streets/NNPS and/CC Foo/NNP Fighters./NNP
+
+A/DT month/NN later/RB at/IN the/DT V/NNP Festival/NNP Prodigy/NN will/MD play/VB at/IN Weston/NNP Park/NNP on/IN Saturday/NNP 20/CD August/NNP and/CC Hylands/NNP Park/NNP on/IN Sunday/NNP 21/CD August/NNP and/CC the/DT Chemical/NNP Brothers/NNPS vice/NN versa./NN
+It/PRP will/MD be/VB the/DT Chemical/NNP Brothers'/NNP only/RB UK/NNP festival/NN performance/NN of/IN the/DT year./NN
+V/NNP festival/NN director/NN Bob/NNP Angus/NNP said/VBD "With/NN the/DT Prodigy/NN and/CC the/DT Chemical/NNP Brothers/NNPS now/RB confirmed/VBD to/TO headline/VB the/DT second/JJ stage/NN we/PRP are/VBP headed/VBN for/IN a/DT really/RB stellar/JJ line-up./JJ
+"We/NN pride/NN ourselves/PRP on/IN putting/VBG on/RP an/DT unbeatable/JJ live/NN music/NN experience/NN and/CC V/NNP Festival/NNP 2005/CD will/MD not/RB disappoint."/VB Tickets/NNS for/IN the/DT V/NNP festival/NN go/VBP on/IN sale/NN on/IN Friday/NNP 11/CD March./NNP

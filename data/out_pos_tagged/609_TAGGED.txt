@@ -1,0 +1,14 @@
+Controversial/JJ film/NN tops/NNS festival/NN
+
+A/DT controversial/JJ film/NN starring/VBG Hollywood/NNP actor/NN Kevin/NNP Bacon/NNP as/IN a/DT convicted/VBN paedophile/NN won/VBD top/JJ honours/NNS at/IN the/DT London/NNP Film/NNP Festival/NNP on/IN Thursday./NNP
+
+The/DT Woodsman/NNP won/VBD the/DT Satyajit/NNP Ray/NNP Award/NN named/VBN after/IN the/DT Indian/JJ director./NN
+The/DT low-budget/JJ film/NN directed/VBN by/IN Nicole/NNP Kassell/NNP is/VBZ about/IN a/DT convicted/VBN child/NN molester/NN trying/VBG to/TO rebuild/VB his/PRP$ life/NN after/IN 12/CD years/NNS in/IN jail./NN
+Judges/NNS said/VBD the/DT film/NN tackled/VBD the/DT contentious/JJ subject/NN with/IN "great/NN insight/NN and/CC sensitivity"./NN
+Previous/JJ films/NNS to/TO take/VB the/DT prize/NN include/VBP the/DT Oscar-winning/NNP Boys/NNPS Don't/NNP Cry/NN which/WDT was/VBD about/IN the/DT true/JJ life/NN story/NN of/IN murdered/VBN transsexual/JJ Brandon/NNP Teena./NNP
+
+British/JJ writer-director/JJ Amma/NNP Asante/NNP won/VBD the/DT UK/NNP Film/NNP Talent/NN Award/NN this/DT year/NN for/IN her/PRP$ debut/NN feature/NN A/DT Way/NNP Of/IN Life./NNP
+Set/VBN in/IN South/NNP Wales/NNP the/DT film/NN is/VBZ about/IN a/DT teenage/JJ single/JJ mother/NN who/WP becomes/VBZ embroiled/VBN in/IN a/DT tense/JJ stand-off/NN with/IN a/DT Turkish/JJ neighbour./NN
+Also/RB on/IN Thursday/NNP night/NN the/DT Fipresci/NNP International/NNP Critics/NNS Awards/NNS went/VBD to/TO Aaltra/NNP a/DT Belgian/JJ film/NN about/IN the/DT handicapped/NNS and/CC the/DT Sutherland/NNP Trophy/NN which/WDT was/VBD won/VBN by/IN Jonathan/NNP Caouette/NNP for/IN his/PRP$ film/NN Tarnation./NNP
+The/DT festival/NN closed/VBD with/IN a/DT screening/NN of/IN the/DT film/NN I/PRP Heart/NNP Huckabees/NNP starring/VBG Jude/NNP Law/NNP and/CC Dustin/NNP Hoffman/NNP and/CC directed/VBN by/IN Three/CD Kings/NNPS film-maker/NN David/NNP O/NNP Russell./NNP
+The/DT festival/NN this/DT year/NN also/RB included/VBD the/DT first/JJ European/JJ screening/NN of/IN the/DT new/JJ Pixar/NNP animation/NN The/DT Incredibles/NNP and/CC the/DT British/JJ film/NN Bullet/NN Boy/NNP starring/VBG So/RB Solid/JJ Crew/NNP rapper/NN Asher/NNP D./NNP

@@ -1,0 +1,31 @@
+'Evil/NN twin'/NN fear/NN for/IN wireless/JJ net/JJ
+
+People/NNS using/VBG wireless/JJ high-speed/JJ net/JJ (wi-fi)/JJ are/VBP being/VBG warned/VBD about/IN fake/JJ hotspots/NNS or/CC access/NN points./NN
+
+The/DT latest/JJS threat/NN nicknamed/VBD evil/JJ twins/NNS pose/VBP as/IN real/JJ hotspots/NNS but/CC are/VBP actually/RB unauthorised/VBN base/NN stations/NNS say/VBP Cranfield/NNP University/NNP experts./NN
+Once/RB logged/VBN onto/IN an/DT Evil/NNP Twin/JJ sensitive/JJ data/NNS can/MD be/VB intercepted./JJ
+Wi-fi/NNP is/VBZ becoming/VBG popular/JJ as/IN more/JJR devices/NNS come/VBP with/IN wireless/JJ capability./NN
+London/NNP leads/VBZ the/DT global/JJ wi-fi/JJ hotspots/NNS league/NN with/IN more/JJR than/IN 1000./CD
+The/DT number/NN of/IN hotspots/NNS is/VBZ expected/VBN to/TO reach/VB 200000/CD by/IN 2008/CD according/VBG to/TO analysts./NN
+"Users/NN need/VBP to/TO be/VB wary/JJ of/IN using/VBG their/PRP$ wi-fi/NN enabled/VBD laptops/NNS or/CC other/JJ portable/JJ devices/NNS in/IN order/NN to/TO conduct/VB financial/JJ transactions/NNS or/CC anything/NN that/WDT is/VBZ of/IN a/DT sensitive/JJ or/CC personal/JJ nature"/NN said/VBD Professor/NNP Brian/NNP Collins/NNP head/NN of/IN information/NN systems/NNS at/IN Cranfield/NNP University./NNP
+
+"Users/NN can/MD also/RB protect/VB themselves/PRP by/IN ensuring/VBG that/IN their/PRP$ wi-fi/JJ device/NN has/VBZ its/PRP$ security/NN measures/NNS activated"/VBP he/PRP added./VB
+BT/NNP Openzone/NNP which/WDT operates/VBZ a/DT vast/JJ proportion/NN of/IN public/JJ hotspots/NNS in/IN the/DT UK/NNP told/VBD the/DT BBC/NNP News/NNP website/NN that/IN it/PRP made/VBD every/DT effort/NN to/TO make/VB its/PRP$ wi-fi/JJ secure./NN
+"Naturally/RB people/NNS may/MD have/VB security/NN concerns"/NN said/VBD Chris/NNP Clark/NNP chief/NN executive/NN for/IN BT's/NNP wireless/JJ broadband./NN
+
+"But/NN wi-fi/JJ networks/NNS are/VBP no/DT more/JJR or/CC less/RBR vulnerable/JJ than/IN any/DT other/JJ means/NNS of/IN accessing/VBG the/DT internet/NN like/IN broadband/NN or/CC dial-up."/JJ He/PRP said/VBD BT/NNP Openzone/NNP as/RB well/RB as/IN others/NNS have/VBP sophisticated/JJ encryption/NN from/IN the/DT start/NN of/IN the/DT login/NN process/NN to/TO the/DT service/NN at/IN a/DT hotspot./NN
+"This/NN means/VBZ that/DT users'/NN personal/JJ information/NN and/CC data/NNS logon/NN usernames/NNS and/CC passwords/NNS are/VBP protected/VBN and/CC secure"/NN said/VBD Mr/NNP Clark./NNP
+
+In/IN the/DT vast/JJ majority/NN of/IN cases/NN base/NN stations/NNS straight/JJ out/IN of/IN the/DT box/NN from/IN the/DT manufacturers/NNS are/VBP automatically/RB set/VBN up/RP with/IN the/DT least/JJS secure/VB mode/NN possible/NN said/VBD Dr/NNP Nobles./NNP
+Cybercriminals/NNP who/WP try/VBP to/TO glean/VB personal/JJ information/NN using/VBG the/DT scam/NN jam/NN connections/NNS to/TO a/DT legitimate/JJ base/NN station/NN by/IN sending/VBG a/DT stronger/JJR signal/NN near/IN to/TO the/DT wireless/JJ client./NN
+Anyone/NN with/IN the/DT right/JJ gear/NN can/MD find/VB a/DT real/JJ hotspot/NN and/CC substitute/NN it/PRP with/IN an/DT evil/JJ twin./NN
+"Cybercriminals/NN don't/NN have/VBP to/TO be/VB that/IN clever/JJ to/TO carry/VB out/RP such/PDT an/DT attack"/NN said/VBD Dr/NNP Phil/NNP Nobles/NNP a/DT wireless/JJ net/JJ and/CC cybercrime/NN expert/NN at/IN Cranfield./NNP
+"Because/NN wireless/JJ networks/NNS are/VBP based/VBN on/IN radio/NN signals/NNS they/PRP can/MD be/VB easily/RB detected/VBN by/IN unauthorised/VBN users/NNS tuning/VBG into/IN the/DT same/JJ frequency."/NN
+
+Although/IN wi-fi/JJ is/VBZ increasing/VBG in/IN popularity/NN as/IN more/JJR people/NNS want/VBP to/TO use/VB high-speed/JJ net/NN on/IN the/DT move/NN there/EX have/VBP been/VBN fears/NNS over/IN how/WRB secure/VB it/PRP is./VBD
+Some/DT companies/NNS have/VBP been/VBN reluctant/JJ to/TO use/VB them/PRP in/IN large/JJ numbers/NNS because/IN of/IN fears/NNS about/IN security./NN
+A/DT wireless/JJ network/NN that/WDT is/VBZ not/RB protected/VBN can/MD provide/VB a/DT backdoor/NN into/IN a/DT company's/NNS computer/NN system./NN
+Public/NNP wi-fi/JJ hotspots/NNS offered/VBN by/IN companies/NNS like/IN BT/NNP Openzone/NNP and/CC The/DT Cloud/NN are/VBP accessible/JJ after/IN users/NNS sign/VBP up/RB and/CC pay/VB for/IN use./NN
+But/CC many/JJ home/NN and/CC company/NN wi-fi/JJ networks/NNS are/VBP left/VBN unprotected/VBN and/CC can/MD be/VB "sniffed/VBN out"/NN and/CC hi-jacked/JJ by/IN anyone/NN with/IN the/DT correct/JJ equipment./NN
+"BT/NN advises/VBZ that/IN customers/NNS should/MD change/VB all/DT default/NN settings/NNS make/VBP sure/JJ that/IN their/PRP$ security/NN settings/NNS on/IN all/DT equipment/NN are/VBP configured/VBN correctly"/NN said/VBD Mr/NNP Clark./NNP
+"We/NN also/RB advocate/VB the/DT use/NN of/IN personal/JJ firewalls/NNS to/TO ensure/VB that/WDT only/RB authorised/VBN users/NNS can/MD have/VB access/NN and/CC that/IN data/NNS cannot/NN be/VB intercepted."/JJ Dr/NNP Nobles/NNP is/VBZ due/JJ to/TO speak/VB about/IN wireless/JJ cybercrime/NN at/IN the/DT Science/NNP Museum's/NNP Dana/NNP Centre/NNP in/IN London/NNP on/IN Thursday./NNP

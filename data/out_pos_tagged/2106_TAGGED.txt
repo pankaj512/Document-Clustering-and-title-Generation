@@ -1,0 +1,34 @@
+Dublin/NNP hi-tech/JJ labs/NNS to/TO shut/VB down/RP
+
+Dublin's/NNP hi-tech/JJ research/NN laboratory/NN Media/NNP Labs/NNPS Europe/NNP is/VBZ to/TO shut/VB down./NN
+
+The/DT research/NN centre/NN which/WDT was/VBD started/VBN by/IN the/DT Irish/JJ government/NN and/CC the/DT Massachusetts/NNP Institute/NNP of/IN Technology/NNP was/VBD a/DT hotbed/VBN for/IN technology/NN concepts./NN
+Since/IN its/PRP$ opening/NN in/IN 2000/CD the/DT centre/NN has/VBZ developed/VBN ideas/NNS such/JJ as/IN implants/NNS for/IN teeth/NNS and/CC also/RB aimed/VBN to/TO be/VB a/DT digital/JJ hub/NN for/IN start-ups/NNS in/IN the/DT area./NN
+The/DT centre/NN was/VBD supposed/VBN to/TO be/VB self-funded/NN but/CC has/VBZ failed/VBN to/TO attract/VB the/DT private/JJ cash/NN injection/NN it/PRP needs./NN
+In/IN a/DT statement/NN Media/NNP Labs/NNPS Europe/NNP said/VBD the/DT decision/NN to/TO close/VB was/VBD taken/VBN because/IN neither/DT the/DT Irish/JJ Government/NNP nor/CC the/DT prestigious/JJ US-based/JJ Massachusetts/NNP Institute/NNP of/IN Technology/NNP (MIT)/NN was/VBD willing/JJ to/TO fund/VB it./NN
+Prime/NNP Minister/NNP Bertie/NNP Ahern/NNP had/VBD wanted/VBN to/TO the/DT centre/NN to/TO become/VB a/DT big/JJ draw/NN for/IN smaller/JJR hi-tech/JJ companies/NNS in/IN an/DT attempt/NN to/TO regenerate/VB the/DT area./NN
+
+About/IN three/CD dozen/NN small/JJ firms/NNS were/VBD attracted/VBN to/TO the/DT area/NN but/CC it/PRP is/VBZ thought/VBN the/DT effects/NNS of/IN the/DT dot.com/NN recession/NN damaged/VBD the/DT Labs'/NNP long-term/JJ survival./NN
+The/DT Labs/NNPS needed/VBN about/IN 10/CD million/CD euros/NNS (US$13/CD million)/NN a/DT year/NN from/IN corporate/JJ sponsors/NNS to/TO survive./VB
+"In/NN the/DT end/NN it/PRP was/VBD too/RB deep/JJ and/CC too/RB long/JJ a/DT recession"/NN said/VBD Simon/NNP Jones/NNP the/DT Labs'/NNP managing/VBG director./NN
+Ian/NNP Pearson/NNP BT's/NNP futurologist/NN told/VBD the/DT BBC/NNP News/NNP website/NN that/IN the/DT closure/NN was/VBD a/DT "real/JJ shame"./NN
+BT/NNP was/VBD just/RB one/CD of/IN the/DT companies/NNS that/WDT had/VBD worked/VBN with/IN the/DT Labs/NNPS looking/VBG at/IN RFID/NNP tag/NN developments/NNS and/CC video/NN conferencing./NN
+"There/NN were/VBD a/DT lot/NN of/IN very/RB talented/VBN creative/JJ people/NNS there/RB and/CC they/PRP came/VBD up/RP with/IN some/DT great/JJ ideas/NNS that/WDT were/VBD helping/VBG to/TO ensure/VB greater/JJR benefits/NNS of/IN technology/NN for/IN society./NN
+"I/NN have/VBP no/DT doubt/NN that/IN the/DT individuals/NNS will/MD be/VB quickly/RB snapped/VBN up/RP by/IN other/JJ research/NN labs/NNS but/CC the/DT synergies/NNS from/IN them/PRP working/VBG as/IN a/DT team/NN will/MD be/VB lost."/NN
+
+Noel/NNP Dempsey/NNP the/DT government's/NNS communications/NNS minister/NN said/VBD Mr/NNP Ahern/NNP had/VBD been/VBN "very/NN committed"/NN to/TO the/DT project./NN
+"He/NN is/VBZ I/PRP know/VBP very/RB disappointed/VBN it/PRP has/VBZ come/VBN to/TO this./VB
+At/IN the/DT time/NN it/PRP seemed/VBD to/TO be/VB the/DT right/JJ thing/NN to/TO do"/VB he/PRP said./VB
+"Unfortunately/RB the/DT model/NN is/VBZ not/RB a/DT sustainable/JJ one/CD in/IN the/DT current/JJ climate."/NN
+
+During/IN its/PRP$ five/CD years/NNS innovative/JJ and/CC some/DT unusual/JJ ideas/NNS for/IN technologies/NNS were/VBD developed./NN
+In/IN recent/JJ months/NNS 14/CD patent/NN applications/NNS had/VBD been/VBN filed/VBN by/IN the/DT Labs./NNP
+Many/JJ concepts/NNS fed/VBN into/IN science/NN engineering/NN and/CC psychology/NN as/RB well/RB as/IN technology/NN but/CC it/PRP is/VBZ thought/VBN too/RB few/JJ of/IN the/DT ideas/NNS were/VBD commercially/RB viable/JJ in/IN the/DT near-term./JJ
+Several/JJ research/NN teams/NNS explored/VBN how/WRB which/WDT humans/NNS could/MD react/VB with/IN technologies/NNS in/IN ways/NNS which/WDT were/VBD entirely/RB different./NN
+The/DT Human/NNP Connectedness/NN group/NN for/IN example/NN developed/VBD the/DT iBand/NN a/DT bracelet/NN which/WDT stored/VBD and/CC exchanged/VBN information/NN about/IN you/PRP and/CC your/PRP$ relationships./NN
+This/DT information/NN could/MD be/VB beamed/VBN to/TO another/DT wearer/NN when/WRB two/CD people/NNS shook/VBD hands./NN
+Other/JJ projects/NNS looked/VBD at/IN using/VBG other/JJ human/JJ senses/NNS like/IN touch/NN to/TO interact/JJ with/IN devoices/NNS which/WDT could/MD be/VB embedded/VBN in/IN the/DT environment/NN or/CC on/IN the/DT body/NN itself./NN
+One/CD project/NN examined/VBD how/WRB brainwaves/NNS could/MD directly/RB control/VB a/DT computer/NN game./NN
+The/DT Labs/NNPS set/VBD up/RP in/IN an/DT old/JJ Guinness/NNP brewery/NN housed/VBN around/IN 100/CD people/NNS made/VBD up/RP of/IN staff/NN researchers/NNS students/NNS collaborators/NNS and/CC part-time/JJ undergraduate/JJ students./NN
+It/PRP is/VBZ thought/VBN more/JJR than/IN 50/CD people/NNS will/MD lose/VB their/PRP$ jobs/NNS when/WRB the/DT Labs/NNPS close/VBP on/IN 1/CD February./NNP
+According/VBG to/TO its/PRP$ latest/JJS accounts/NNS Media/NNP Lab/NN Europe/NNP said/VBD it/PRP spent/VBD 8.16/CD million/CD euros/NNS (about/NN US$10.6/CD million)/NN in/IN 2003/CD and/CC raised/VBD just/RB 2.56/CD million/CD euros/NNS (US$3.3/CD million)./NN

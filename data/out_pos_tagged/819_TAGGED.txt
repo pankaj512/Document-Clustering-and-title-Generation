@@ -1,0 +1,12 @@
+Double/RB win/VB for/IN Sea/NNP Inside/IN
+
+Spanish/JJ movie/NN The/DT Sea/NNP Inside/IN has/VBZ been/VBN named/VBN best/JJS picture/NN and/CC star/NN Javier/NNP Bardem/NNP best/JJS actor/NN at/IN the/DT Bangkok/NNP International/NNP Film/NNP Festival./NNP
+
+Based/VBN on/IN the/DT true/JJ story/NN of/IN a/DT paralysed/JJ man's/NNS battle/NN to/TO end/VB his/PRP$ life/NN The/DT Sea/NNP Inside/IN was/VBD best/RBS foreign/JJ language/NN film/NN at/IN the/DT 2005/CD Golden/NNP Globe/NNP Awards./NNP
+Annette/NNP Bening/NNP and/CC Ana/NNP Geislerova/NNP shared/VBD the/DT best/JJS actress/NN award/NN at/IN the/DT Bangkok/NNP festival./NN
+This/DT year's/VBZ event/NN was/VBD scaled/VBN down/RP following/VBG the/DT Asian/JJ tsunami/NN disaster./JJ
+
+Falling/VBG Down/IN and/CC The/DT Phantom/NN of/IN the/DT Opera/NNP director/NN Joel/NNP Schumacher/NNP won/VBD a/DT lifetime/NN achievement/NN award/NN while/IN Hong/NNP Kong/NNP director/NN Wong/NNP Kar-Wai/NNP was/VBD honoured/VBN for/IN promoting/VBG Asian/JJ cinema./NN
+"It's/NN a/DT great/JJ honour/NN I/PRP want/VBP to/TO share/VB this/DT honour/NN with/IN my/PRP$ Thai/NNP colleagues"/NN Wong/NNP said./NN
+French/JJ writer/NN Christophe/NNP Barratie/NNP and/CC Korean/JJ writer/NN Park/NNP Chan-Chook/NNP shared/VBD the/DT best/JJS screenplay/NN award/NN for/IN Les/NNP Choristes/NNP and/CC Old/NNP Boy/NNP respectively./NN
+Now/RB in/IN its/PRP$ third/JJ year/NN the/DT Bangkok/NNP International/NNP Film/NNP Festival/NNP is/VBZ donating/VBG profits/NNS from/IN ticket/NN sales/NNS to/TO the/DT tsunami/NN relief/NN fund./NN

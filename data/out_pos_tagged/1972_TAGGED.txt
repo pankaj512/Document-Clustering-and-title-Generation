@@ -1,0 +1,20 @@
+ITunes/NNP user/NN sues/NNS Apple/NNP over/IN iPod/NN
+
+A/DT user/NN of/IN Apple's/NNP iTunes/NNS music/NN service/NN is/VBZ suing/VBG the/DT firm/NN saying/VBG it/PRP is/VBZ unfair/JJ he/PRP can/MD only/RB use/VB an/DT iPod/NN to/TO play/VB songs./NN
+
+He/PRP says/VBZ Apple/NNP is/VBZ breaking/VBG anti-competition/JJ laws/NNS in/IN refusing/VBG to/TO let/VB other/JJ music/NN players/NNS work/VBP with/IN the/DT site./NN
+Apple/NNP which/WDT opened/VBD its/PRP$ online/NN store/NN in/IN 2003/CD after/IN launching/VBG the/DT iPod/NN in/IN 2001/CD uses/VBZ technology/NN to/TO ensure/VB each/DT song/NN bought/VBD only/RB plays/VBZ on/IN the/DT iPod./NN
+Californian/NNP Thomas/NNP Slattery/NNP filed/VBD the/DT suit/NN in/IN the/DT US/PRP District/NNP Court/NNP in/IN San/NNP Jose/NNP and/CC is/VBZ seeking/VBG damages./NN
+
+"Apple/NN has/VBZ turned/VBN an/DT open/JJ and/CC interactive/JJ standard/NN into/IN an/DT artifice/NN that/WDT prevents/VBZ consumers/NNS from/IN using/VBG the/DT portable/JJ hard/JJ drive/NN digital/JJ music/NN player/NN of/IN their/PRP$ choice"/NN the/DT lawsuit/NN states./NN
+The/DT key/NN to/TO such/VB a/DT lawsuit/NN would/MD be/VB convincing/JJ a/DT court/NN that/IN a/DT single/JJ brand/NN like/IN iTunes/NNS is/VBZ a/DT market/NN in/IN itself/PRP separate/JJ from/IN the/DT rest/NN of/IN the/DT online/NN music/NN market/NN according/VBG to/TO Ernest/NNP Gellhorn/NNP an/DT anti-trust/JJ law/NN professor/NN at/IN George/NNP Mason/NNP University./NNP
+"As/NN a/DT practical/JJ matter/NN the/DT lower/JJR courts/NNS have/VBP been/VBN highly/RB sceptical/JJ of/IN such/JJ claims"/NN Prof/NNP Gellhorn/NNP said./NN
+Apple/NNP has/VBZ sold/VBN more/JJR than/IN six/CD million/CD iPods/NNS since/IN the/DT gadget/NN was/VBD launched/VBN and/CC has/VBZ an/DT 87%/CD share/NN of/IN the/DT market/NN for/IN portable/JJ digital/JJ music/NN players/NNS market/NN research/NN firm/NN NPD/NNP Group/NNP has/VBZ reported./NN
+
+More/JJR than/IN 200/CD million/CD songs/NNS have/VBP been/VBN sold/VBN by/IN the/DT iTunes/NNS music/NN store/NN since/IN it/PRP was/VBD launched./NN
+"Apple/NN has/VBZ unlawfully/RB bundled/VBN tied/VBN and/or/NN leveraged/JJ its/PRP$ monopoly/NN in/IN the/DT market/NN for/IN the/DT sale/NN of/IN legal/JJ online/NN digital/JJ music/NN recordings/NNS to/TO thwart/VB competition/NN in/IN the/DT separate/JJ market/NN for/IN portable/JJ hard/JJ drive/NN digital/JJ music/NN players/NNS and/CC vice-versa"/JJ the/DT lawsuit/NN said./NN
+Mr/NNP Slattery/NNP called/VBD himself/PRP an/DT iTunes/NNS customer/NN who/WP "was/VBP also/RB forced/VBD to/TO purchase/VB an/DT Apple/NNP iPod"/NN if/IN he/PRP wanted/VBD to/TO take/VB his/PRP$ music/NN with/IN him/PRP to/TO listen/VB to./NN
+A/DT spokesman/NN for/IN Apple/NNP declined/VBD to/TO comment./VB
+Apple's/NNP online/NN music/NN store/NN uses/VBZ a/DT different/JJ format/NN for/IN songs/NNS than/IN Napster/NNP Musicmatch/NNP RealPlayer/NNP and/CC others./NN
+The/DT rivals/NNS use/VBP the/DT MP3/CD format/NN or/CC Microsoft's/NNP WMA/NNP format/NN while/IN Apple/NNP uses/VBZ AAC/NNP which/WDT it/PRP says/VBZ helps/VBZ thwart/VB piracy./NN
+The/DT WMA/NNP format/NN also/RB includes/VBZ so-called/JJ Digital/NNP Rights/NNP Management/NNP which/WDT is/VBZ used/VBN to/TO block/VB piracy./NN

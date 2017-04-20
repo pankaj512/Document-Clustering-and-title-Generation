@@ -1,0 +1,20 @@
+Mourinho/NNP receives/VBZ Robson/NNP warning/NN
+
+Sir/NNP Bobby/NNP Robson/NNP has/VBZ offered/VBN Chelsea/NNP boss/NN Jose/NNP Mourinho/NNP some/DT advice/NN on/IN coping/VBG under/IN pressure./NN
+
+The/DT pair/NN worked/VBD together/RB at/IN Barcelona/NNP and/CC Porto/NNP and/CC Robson/NNP had/VBD a/DT word/NN of/IN warning/NN for/IN his/PRP$ protege./NN
+"It/NN has/VBZ all/DT gone/VBN for/IN him/PRP just/RB lately/RB and/CC that/DT is/VBZ marvellous/JJ but/CC sometimes/RB you/PRP have/VBP to/TO have/VB a/DT bit/NN of/IN humility/NN and/CC learn/VB how/WRB to/TO lose"/VB said/VBD Robson./NNP
+"It/NN is/VBZ when/WRB it/PRP goes/VBZ against/IN you/PRP and/CC you/PRP get/VBP a/DT bit/NN of/IN bad/JJ luck/NN that/IN you/PRP learn/VBP and/CC he'll/NN get/NN it/PRP straight."/NN Robson/NNP was/VBD speaking/VBG after/IN being/VBG formally/RB granted/VBN the/DT freedom/NN of/IN the/DT city/NN of/IN Newcastle./NNP
+"Jose/NN is/VBZ doing/VBG very/RB well/RB at/IN the/DT moment"/NN Robson/NNP added/VBD of/IN the/DT man/NN who/WP worked/VBD for/IN him/PRP for/IN six/CD years./NN
+"He/NN has/VBZ got/VBD one/CD pot/NN -/: possibly/RB two/CD to/TO follow/VB -/: a/DT big/JJ game/NN against/IN Barcelona/NNP to/TO come/VB and/CC I/PRP cannot/VBP see/NN them/PRP losing/VBG their/PRP$ lead/NN in/IN the/DT Premiership./NNP
+"They/NN are/VBP in/IN a/DT good/JJ position/NN and/CC I/PRP would/MD expect/VB them/PRP to/TO go/VB on/IN and/CC win/VB it/PRP which/WDT is/VBZ a/DT wonderful/JJ achievement./NN
+
+"What/NN has/VBZ occurred/VBN over/IN the/DT last/JJ couple/NN of/IN weeks/NNS will/MD stand/VB him/PRP in/IN very/RB good/JJ stead/NN for/IN the/DT future./NN
+If/IN he/PRP is/VBZ intelligent/JJ he/PRP will/MD take/VB it/PRP on/IN board/NN -/: and/CC he/PRP is/VBZ very/RB intelligent./NN
+"He/NN will/MD have/VB learned/VBN more/JJR in/IN the/DT last/JJ fortnight/NN than/IN the/DT last/JJ eight/CD months./NN
+Before/IN that/IN it/PRP was/VBD all/DT about/IN winning."/NN Robson/NNP also/RB admitted/VBD he/PRP would/MD relish/VB the/DT chance/NN to/TO get/VB back/RB into/IN management/NN and/CC test/VB his/PRP$ skills/NNS against/IN Mourinho./NNP
+"I/NN am/VBP not/RB in/IN a/DT hurry/NN to/TO take/VB the/DT wrong/JJ job/NN but/CC I/PRP am/VBP ready/JJ to/TO take/VB the/DT right/JJ job/NN and/CC I/PRP feel/VBP there/EX is/VBZ another/DT job/NN in/IN me"/NN he/PRP added./VB
+"I/NN know/VBP the/DT area/NN I/PRP am/VBP capable/JJ of/IN working/VBG in/IN and/CC of/IN course/NN I/PRP would/MD like/VB a/DT job/NN in/IN the/DT Premiership/NN if/IN one/CD was/VBD available./NN
+"It/NN would/MD not/RB worry/VB me/PRP if/IN I/PRP had/VBD to/TO pit/VB my/PRP$ wits/NNS against/IN Jose./NNP
+"But/NN it/PRP is/VBZ not/RB just/RB a/DT case/NN of/IN him/PRP and/CC me/PRP against/IN one/CD another./NN
+It/PRP would/MD be/VB his/PRP$ team/NN against/IN my/PRP$ team/NN -/: but/CC I/PRP would/MD not/RB be/VB afraid/JJ of/IN that."/NN

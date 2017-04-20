@@ -1,0 +1,31 @@
+Screensaver/NNP tackles/VBZ spam/NN websites/NNS
+
+Net/JJ users/NNS are/VBP getting/VBG the/DT chance/NN to/TO fight/VB back/RB against/IN spam/NN websites/NNS
+
+Internet/NNP portal/JJ Lycos/NNP has/VBZ made/VBN a/DT screensaver/NN that/IN endlessly/RB requests/NNS data/NNS from/IN sites/NNS that/WDT sell/VBP the/DT goods/NNS and/CC services/NNS mentioned/VBN in/IN spam/NN e-mail./JJ
+Lycos/NNP hopes/VBZ it/PRP will/MD make/VB the/DT monthly/JJ bandwidth/NN bills/NNS of/IN spammers/NNS soar/VBP by/IN keeping/VBG their/PRP$ servers/NNS running/VBG flat/JJ out./NN
+The/DT net/JJ firm/NN estimates/VBZ that/IN if/IN enough/JJ people/NNS sign/VBP up/RB and/CC download/VB the/DT tool/NN spammers/NNS could/MD end/VB up/RP paying/VBG to/TO send/VB out/RP terabytes/NNS of/IN data./NN
+
+"We've/NN never/RB really/RB solved/VBN the/DT big/JJ problem/NN of/IN spam/NN which/WDT is/VBZ that/IN its/PRP$ so/RB damn/RB cheap/JJ and/CC easy/JJ to/TO do"/VB said/VBD Malte/NNP Pollmann/NNP spokesman/NN for/IN Lycos/NNP Europe./NNP
+"In/NN the/DT past/JJ we/PRP have/VBP built/VBN up/RP the/DT spam/NN filtering/VBG systems/NNS for/IN our/PRP$ users"/NN he/PRP said/VBD "but/NN now/RB we/PRP are/VBP going/VBG to/TO go/VB one/CD step/NN further."/NN
+
+"We've/NN found/VBD a/DT way/NN to/TO make/VB it/PRP much/RB higher/JJR cost/NN for/IN spammers/NNS by/IN putting/VBG a/DT load/NN on/IN their/PRP$ servers."/NN By/IN getting/VBG thousands/NNS of/IN people/NNS to/TO download/VB and/CC use/VB the/DT screensaver/NN Lycos/NNP hopes/VBZ to/TO get/VB spamming/VBG websites/NNS constantly/RB running/VBG at/IN almost/RB full/JJ capacity./NN
+Mr/NNP Pollmann/NNP said/VBD there/EX was/VBD no/DT intention/NN to/TO stop/VB the/DT spam/NN websites/NNS working/VBG by/IN subjecting/VBG them/PRP with/IN too/RB much/JJ data/NNS to/TO cope/VB with./NN
+He/PRP said/VBD the/DT screensaver/NN had/VBD been/VBN carefully/RB written/VBN to/TO ensure/VB that/IN the/DT amount/NN of/IN traffic/NN it/PRP generated/VBD from/IN each/DT user/NN did/VBD not/RB overload/VB the/DT web./NN
+"Every/NN single/JJ user/NN will/MD contribute/VB three/CD to/TO four/CD megabytes/NNS per/IN day"/NN he/PRP said/VBD "about/NN one/CD MP3/CD file."/NN But/CC he/PRP said/VBD if/IN enough/JJ people/NNS sign/VBP up/RP spamming/VBG websites/NNS could/MD be/VB force/NN to/TO pay/VB for/IN gigabytes/NNS of/IN traffic/NN every/DT single/JJ day./NN
+Lycos/NNP did/VBD not/RB want/VB to/TO use/VB e-mail/JJ to/TO fight/VB back/RB said/VBD Mr/NNP Pollmann./NNP
+"That/NN would/MD be/VB fighting/VBG one/CD bad/JJ thing/NN with/IN another/DT bad/JJ thing"/NN he/PRP said./VB
+
+The/DT sites/NNS being/VBG targeted/VBN are/VBP those/DT mentioned/VBN in/IN spam/NN e-mail/JJ messages/NNS and/CC which/WDT sell/VBP the/DT goods/NNS and/CC services/NNS on/IN offer./NN
+
+Typically/RB these/DT sites/NNS are/VBP different/JJ to/TO those/DT that/WDT used/VBD to/TO send/VB out/RP spam/NN e-mail/JJ and/CC they/PRP typically/RB only/RB get/VB a/DT few/JJ thousand/CD visitors/NNS per/IN day./NN
+The/DT list/NN of/IN sites/NNS that/IN the/DT screensaver/NN will/MD target/VB is/VBZ taken/VBN from/IN real-time/JJ blacklists/NNS generated/VBN by/IN organisations/NNS such/JJ as/IN Spamcop./NNP
+To/TO limit/VB the/DT chance/NN of/IN mistakes/NNS being/VBG made/VBN Lycos/NNP is/VBZ using/VBG people/NNS to/TO ensure/VB that/IN the/DT sites/NNS are/VBP selling/VBG spam/NN goods./NN
+As/IN these/DT sites/NNS rarely/RB use/VBP advertising/NN to/TO offset/VB hosting/VBG costs/NNS the/DT burden/NN of/IN high-bandwidth/JJ bills/NNS could/MD make/VB spam/NN too/RB expensive/JJ said/VBD Mr/NNP Pollmann./NNP
+Sites/NNS will/MD also/RB slow/VB down/RP under/IN the/DT weight/NN of/IN data/NNS requests./NN
+Early/RB results/NNS show/VBP that/DT response/NN times/NNS of/IN some/DT sites/NNS have/VBP deteriorated/VBN by/IN up/IN to/TO 85%./CD
+Users/NNS do/VBP not/RB have/VB to/TO be/VB registered/VBN users/NNS of/IN Lycos/NNP to/TO download/VB and/CC use/VB the/DT screensaver./NN
+While/IN working/VBG the/DT screensaver/NN shows/VBZ the/DT websites/NNS that/WDT are/VBP being/VBG bothered/VBN with/IN requests/NNS for/IN data./NN
+The/DT screensaver/NN is/VBZ due/JJ to/TO be/VB launched/VBN across/IN Europe/NNP on/IN 1/CD December/NNP and/CC before/IN now/RB has/VBZ only/RB been/VBN trialled/VBN in/IN Sweden./NNP
+Despite/IN the/DT soft/JJ launch/NN Mr/NNP Pollmann/NNP said/VBD that/IN the/DT screensaver/NN had/VBD been/VBN downloaded/VBN more/JJR than/IN 20000/CD times/NNS in/IN the/DT last/JJ four/CD days./NN
+"There's/NN a/DT huge/JJ user/NN demand/NN to/TO not/RB only/JJ filter/NN spam/NN day-by-day/JJ but/CC to/TO do/VB something/NN more"/NN he/PRP said/VBD "Before/NN now/RB users/VBZ have/VBP never/RB had/VBN the/DT chance/NN to/TO be/VB a/DT bit/NN more/JJR offensive."/NN

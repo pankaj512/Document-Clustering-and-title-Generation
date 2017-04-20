@@ -1,0 +1,15 @@
+Strachan/NNP turns/VBZ down/RB Pompey/NNP
+
+Former/NNP Southampton/NNP manager/NN Gordon/NNP Strachan/NNP has/VBZ rejected/VBN the/DT chance/NN to/TO become/VB Portsmouth's/NNP new/JJ boss./NN
+
+The/DT Scot/NNP was/VBD Pompey/NNP chairman/NN Milan/NNP Mandaric's/NNP first/JJ choice/NN to/TO replace/VB Harry/NNP Redknapp/NNP who/WP left/VBD Fratton/NNP Park/NNP for/IN rivals/NNS Saints/NNP earlier/RBR in/IN December./NNP
+"I/NN think/VBP it's/NNS a/DT fantastic/JJ job/NN for/IN anybody/NN apart/RB from/IN somebody/NN who/WP has/VBZ just/RB been/VBN the/DT Southampton/NNP manager"/NN Strachan/NNP told/VBD the/DT BBC./NNP
+Club/NNP director/NN Terry/NNP Brady/NNP held/VBD initial/JJ talks/NNS with/IN Strachan/NNP on/IN Saturday./NNP
+The/DT former/JJ Scotland/NNP international/NN added/VBD that/IN joining/VBG Southampton's/NNP local/JJ rivals/NNS would/MD not/RB be/VB a/DT wise/JJ move./NN
+"It's/NN got/VBD everything/NN going/VBG for/IN it/PRP but/CC I've/NNP got/VBD too/RB many/JJ memories/NNS of/IN the/DT other/JJ side/NN and/CC I/PRP don't/VBP want/VBP to/TO sour/VB those/DT memories"/NN he/PRP said./VB
+"Everything's/NN right/NN -/: it's/NNS 10/CD minutes/NNS away/RB there/EX are/VBP good/JJ players/NNS there/RB a/DT good/JJ set-up/JJ a/DT good/JJ atmosphere/NN at/IN the/DT ground./NN
+"There's/NN lots/NNS to/TO do/VB but/CC it's/NNS not/RB right/VBP for/IN somebody/NN who/WP has/VBZ just/RB been/VBN the/DT Southampton/NNP manager."/NN Since/IN Redknapp's/NNP departure/NN executive/NN director/NN Velimir/NNP Zajec/NNP and/CC coach/NN Joe/NNP Jordan/NNP have/VBP overseen/VBN first-team/JJ affairs./NN
+
+The/DT duo/NN had/VBD gone/VBN five/CD matches/VBZ unbeaten/JJ until/IN Sunday's/NNP 1-0/JJ defeat/NN at/IN home/NN to/TO champions/NNS Arsenal/NN but/CC the/DT club/NN are/VBP still/RB in/IN a/DT respectable/JJ 12th/JJ place/NN in/IN the/DT Premiership/NN table./NN
+Strachan/NNP left/VBD St/NNP Mary's/NNP in/IN February/NNP after/IN earlier/RBR announcing/VBG his/PRP$ intention/NN to/TO take/VB a/DT break/NN from/IN the/DT game/NN at/IN the/DT end/NN of/IN the/DT 2003-04/JJ season./NN
+His/PRP$ previous/JJ managerial/JJ experience/NN came/VBD at/IN Coventry/NNP whom/WP he/PRP led/VBD for/IN five/CD years/NNS from/IN 1996/CD to/TO 2001./CD

@@ -1,0 +1,33 @@
+Voters/NNS flock/NN to/TO blog/VB awards/NNS site/NN
+
+Voting/NNP is/VBZ under/IN way/NN for/IN the/DT annual/JJ Bloggies/NNP which/WDT recognise/NN the/DT best/JJS web/NN blogs/NNS -/: online/NN spaces/NNS where/WRB people/NNS publish/VBP their/PRP$ thoughts/NNS -/: of/IN the/DT year./NN
+
+Nominations/NNS were/VBD announced/VBN on/IN Sunday/NNP but/CC traffic/NN to/TO the/DT official/JJ site/NN was/VBD so/RB heavy/JJ that/IN the/DT website/NN was/VBD temporarily/RB closed/VBN because/IN of/IN too/RB many/JJ visitors./NN
+Weblogs/NNS have/VBP been/VBN nominated/VBN in/IN 30/CD categories/NNS from/IN the/DT top/JJ regional/JJ blog/NN to/TO the/DT best-kept-secret/JJ blog./NN
+Blogs/NNP had/VBD a/DT huge/JJ year/NN with/IN a/DT top/JJ US/PRP dictionary/VBP naming/VBG "blog"/NN word/NN of/IN 2004./CD
+Technorati/VBG a/DT blog/NN search/NN engine/NN tracks/VBZ about/IN six/CD million/CD blogs/NNS and/CC says/VBZ that/IN more/JJR than/IN 12000/CD are/VBP added/VBN daily./NN
+A/DT blog/NN is/VBZ created/VBN every/DT 5.8/CD seconds/NNS according/VBG to/TO US/PRP research/VBP think-tank/NN Pew/NNP Internet/NNP and/CC American/NNP Life/NNP but/CC less/JJR than/IN 40%/CD of/IN the/DT total/JJ are/VBP updated/VBN at/IN least/JJS once/RB every/DT two/CD months./NN
+
+Nikolai/NNP Nolan/NNP who/WP has/VBZ run/VBN the/DT Bloggies/NNP for/IN the/DT past/JJ five/CD years/NNS told/VBD the/DT BBC/NNP News/NNP website/NN he/PRP was/VBD not/RB too/RB surprised/VBN by/IN the/DT amount/NN of/IN voters/NNS who/WP crowded/VBD the/DT site./NN
+"The/NN awards/NNS always/RB get/VBP a/DT lot/NN of/IN traffic/NN this/DT was/VBD just/RB my/PRP$ first/JJ year/NN on/IN a/DT server/NN with/IN a/DT bandwidth/NN limit/NN so/IN I/PRP had/VBD to/TO guess/VB how/WRB much/JJ I'd/NNP need"/NN he/PRP said./VB
+There/EX were/VBD many/JJ new/JJ finalists/NNS this/DT year/NN he/PRP added/VBD and/CC a/DT few/JJ that/WDT had/VBD won/VBN Bloggies/NNP before./NN
+Several/JJ entries/NNS reflected/VBD specific/JJ news/NN events./NN
+"There/NN are/VBP four/CD nominations/NNS for/IN the/DT South-East/NNP Asia/NNP Earthquake/NN and/CC Tsunami/NN Blog/NNP which/WDT is/VBZ a/DT pretty/RB timely/JJ one/CD for/IN 2005"/CD said/VBD Mr/NNP Nolan./NNP
+
+The/DT big/JJ Bloggies/NNP battle/NN will/MD be/VB for/IN the/DT ultimate/JJ prize/NN of/IN blog/NN of/IN the/DT year./NN
+The/DT nominated/VBN blogs/NNS are/VBP wide-ranging/JJ covering/JJ what/WP is/VBZ in/IN the/DT news/NN to/TO quirky/JJ sites/NNS of/IN interest./JJ
+Fighting/NN it/PRP out/RP for/IN the/DT coveted/JJ award/NN are/VBP Gawker/NNP This/DT Fish/NN Needs/NNS a/DT Bicycle/NNP Wonkette/NNP Boing/NNP Boing/NNP and/CC Gothamist./NNP
+In/IN a/DT sign/NN that/IN blogs/NNS are/VBP playing/VBG an/DT increasingly/RB key/JJ part/NN in/IN spreading/VBG news/NN and/CC current/JJ affairs/NNS The/DT South-East/NNP Asia/NNP Earthquake/NN and/CC Tsunami/NN Blog/NNP is/VBZ also/RB nominated/VBN in/IN the/DT best/JJS overall/JJ category./NN
+GreenFairyDotcom/NNP Londonist/NNP Hicksdesign/NNP PlasticBag/NNP and/CC London/NNP Underground/JJ Tube/NNP Blog/NNP are/VBP the/DT nominees/NNS in/IN the/DT best/JJS British/JJ or/CC Irish/JJ weblog./NN
+
+Included/VBN in/IN the/DT other/JJ categories/NNS is/VBZ best/JJS "meme"./NN
+This/DT is/VBZ for/IN the/DT top/JJ "replicating/NN idea/NN that/DT spread/NN about/IN weblogs"./NN
+Nominations/NNS include/VBP Flickr/NNP a/DT web/NN photo/NN album/NN which/WDT lets/VBZ people/NNS upload/VBP tag/NN share/NN and/CC publish/VB their/PRP$ images/NNS to/TO blogs./VB
+Podcasting/NNP has/VBZ also/RB made/VBN an/DT appearance/NN in/IN the/DT category./NN
+It/PRP is/VBZ an/DT increasingly/RB popular/JJ idea/NN that/WDT makes/VBZ use/NN of/IN RSS/NNP (really/RB simple/JJ syndication)/NN and/CC audio/JJ technology/NN to/TO let/VB people/NNS easily/RB make/VBP their/PRP$ own/JJ radio/NN shows/VBZ and/CC distribute/VB them/PRP automatically/RB onto/IN portable/JJ devices./NN
+
+Many/JJ are/VBP done/VBN by/IN those/DT who/WP already/RB have/VBP text-based/JJ blogs/NNS so/IN they/PRP are/VBP almost/RB like/IN audio/JJ blogs./NN
+Three/CD new/JJ categories/NNS have/VBP been/VBN added/VBN to/TO the/DT list/NN this/DT year/NN including/VBG best/JJS food/NN best/JJS entertainment/NN and/CC best/JJS writing/NN of/IN a/DT weblog./NN
+One/CD of/IN the/DT categories/NNS that/WDT was/VBD scrapped/VBN though/IN was/VBD best/RBS music/NN blog./NN
+The/DT winners/NNS of/IN the/DT fifth/JJ annual/JJ Bloggies/NNP are/VBP chosen/VBN by/IN the/DT public./NN
+Public/NNP voting/NN closes/VBZ on/IN 3/CD February/NNP and/CC the/DT winners/NNS will/MD be/VB announced/VBN sometime/RB between/IN 13/CD and/CC 15/CD March./NNP

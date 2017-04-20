@@ -1,0 +1,14 @@
+Tigers/NNP wary/JJ of/IN Farrell/NNP 'gamble'/NN
+
+Leicester/NNS say/VBP they/PRP will/MD not/RB be/VB rushed/VBN into/IN making/VBG a/DT bid/NN for/IN Andy/NNP Farrell/NNP should/MD the/DT Great/NNP Britain/NNP rugby/NN league/NN captain/NN decide/VBP to/TO switch/VB codes./NN
+
+"We/NN and/CC anybody/NN else/RB involved/VBN in/IN the/DT process/NN are/VBP still/RB some/DT way/NN away/RB from/IN going/VBG to/TO the/DT next/JJ stage"/NN Tigers/NNP boss/NN John/NNP Wells/NNP told/VBD BBC/NNP Radio/NNP Leicester./NNP
+"At/NN the/DT moment/NN there/EX are/VBP still/RB a/DT lot/NN of/IN unknowns/NNS about/IN Andy/NNP Farrell/NNP not/RB least/JJS his/PRP$ medical/JJ situation./NN
+"Whoever/NN does/VBZ take/VB him/PRP on/IN is/VBZ going/VBG to/TO take/VB a/DT big/JJ big/JJ gamble."/NN Farrell/NNP who/WP has/VBZ had/VBN persistent/JJ knee/NN problems/NNS had/VBD an/DT operation/NN on/IN his/PRP$ knee/NN five/CD weeks/NNS ago/RB and/CC is/VBZ expected/VBN to/TO be/VB out/RP for/IN another/DT three/CD months./NN
+Leicester/NNP and/CC Saracens/NNP are/VBP believed/VBN to/TO head/VB the/DT list/NN of/IN rugby/NN union/NN clubs/NNS interested/JJ in/IN signing/VBG Farrell/NNP if/IN he/PRP decides/VBZ to/TO move/VB to/TO the/DT 15-man/JJ game./NN
+
+If/IN he/PRP does/VBZ move/NN across/IN to/TO union/VB Wells/NNP believes/VBZ he/PRP would/MD better/JJR off/RP playing/VBG in/IN the/DT backs/NNS at/IN least/JJS initially./NN
+"I'm/NN sure/JJ he/PRP could/MD make/VB the/DT step/NN between/IN league/NN and/CC union/NN by/IN being/VBG involved/VBN in/IN the/DT centre"/NN said/VBD Wells./NNP
+"I/NN think/VBP England/NNP would/MD prefer/VB him/PRP to/TO progress/VB to/TO a/DT position/NN in/IN the/DT back/JJ row/NN where/WRB they/PRP can/MD make/VB use/NN of/IN some/DT of/IN his/PRP$ rugby/NN league/NN skills/NNS within/IN the/DT forwards./NN
+"The/NN jury/NN is/VBZ out/RP on/IN whether/IN he/PRP can/MD cross/VB that/DT divide./NN
+"At/NN this/DT club/NN the/DT balance/NN will/MD have/VB to/TO be/VB struck/VBN between/IN the/DT cost/NN of/IN that/DT gamble/NN and/CC the/DT option/NN of/IN bringing/VBG in/IN a/DT ready-made/JJ replacement."/NN

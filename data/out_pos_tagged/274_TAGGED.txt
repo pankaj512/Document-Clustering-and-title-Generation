@@ -1,0 +1,17 @@
+Google/NNP shares/NNS fall/VBP as/IN staff/NN sell/NN
+
+Shares/NNS in/IN Google/NNP have/VBP fallen/VBN 6.7%/CD after/IN employees/NNS and/CC early/JJ investors/NNS in/IN the/DT web/NN search/NN took/VBD advantage/NN of/IN the/DT first/JJ chance/NN to/TO sell/VB their/PRP$ holdings./NN
+
+Restrictions/NNS were/VBD imposed/VBN ahead/RB of/IN its/PRP$ flotation/NN in/IN August/NNP to/TO prevent/VB shares/NNS being/VBG dumped/VBD quickly/RB onto/IN the/DT market./NN
+In/IN one/CD of/IN the/DT most/RBS closely-watched/JJ initial/JJ public/JJ offerings/NNS in/IN stock/NN market/NN history/NN the/DT US-based/JJ company/NN sold/VBD 19.6/CD million/CD shares/NNS at/IN $85/CD each./NN
+Google/NNP shares/NNS have/VBP risen/VBN since/IN but/CC fell/VBD $12.33/CD on/IN Tuesday/NNP to/TO close/VB at/IN $172.55./CD
+The/DT restriction/NN -/: known/VBN as/IN a/DT lockup/NN -/: is/VBZ being/VBG eased/VBN piecemeal/RB in/IN all/PDT some/DT 227/CD million/CD additional/JJ shares/NNS will/MD become/VB free/JJ to/TO trade/VB by/IN February/NNP 2005./CD
+Selling/VBG the/DT shares/NNS could/MD turn/VB many/JJ of/IN Google's/NNP workers/NNS into/IN millionaires./NN
+
+There/EX were/VBD fears/NNS that/IN the/DT potential/JJ increase/NN of/IN shares/NNS in/IN circulation/NN from/IN Tuesday/NNP would/MD ease/VB demand/NN for/IN stock./NN
+However/RB analysts/NNS say/VBP they/PRP expected/VBD most/JJS shareholders/NNS would/MD be/VB holding/VBG back/RB from/IN selling/VBG all/DT their/PRP$ shares/NNS immediately/RB as/IN Google's/NNP good/JJ performance/NN and/CC future/JJ growth/NN potential/JJ means/VBZ demand/NN will/MD hold./VB
+
+In/IN its/PRP$ first/JJ earnings/NNS report/NN since/IN floating/VBG on/IN the/DT stock/NN market/NN Google/NNP said/VBD it/PRP made/VBD a/DT net/JJ profit/NN of/IN $52m/CD in/IN the/DT three/CD months/NNS ending/VBG 30/CD September./NNP
+Sales/NNS surged/VBD to/TO $805.9m/CD in/IN the/DT third/JJ quarter/NN up/IN from/IN $393.9m/CD a/DT year/NN earlier./NN
+Google's/NNP main/JJ service/NN -/: its/PRP$ internet/JJ search/NN -/: is/VBZ free/JJ to/TO users/NNS so/IN the/DT firm/NN makes/VBZ much/JJ of/IN its/PRP$ money/NN from/IN selling/VBG advertising/NN space/NN linked/VBN to/TO the/DT words/NNS for/IN which/WDT its/PRP$ users/NNS search./NN
+It/PRP also/RB sells/VBZ the/DT use/NN of/IN its/PRP$ technology/NN to/TO companies/NNS who/WP need/VBP to/TO make/VB either/CC their/PRP$ websites/NNS or/CC their/PRP$ internal/JJ information/NN systems/NNS searchable./NN

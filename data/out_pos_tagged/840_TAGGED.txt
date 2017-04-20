@@ -1,0 +1,16 @@
+Douglas/NNP set/VBD for/IN Indian/JJ adventure/NN
+
+Actor/NNP Michael/NNP Douglas/NNP is/VBZ to/TO co-produce/VB and/CC star/NN in/IN an/DT adventure/NN film/NN about/IN a/DT diamond/NN robbery/NN set/VBN in/IN India./NNP
+
+The/DT new/JJ picture/NN is/VBZ expected/VBN to/TO be/VB similar/JJ to/TO Douglas's/NNP action/NN films/NNS of/IN the/DT 1980s/CD Romancing/VBG The/DT Stone/NNP and/CC The/DT Jewel/NNP Of/IN The/DT Nile./NNP
+Another/DT Hollywood/NNP star/NN is/VBZ being/VBG lined/VBN up/IN to/TO co-star/JJ while/IN the/DT rest/NN of/IN the/DT cast/NN will/MD be/VB Indian./NNP
+Aishwarya/NNP Rai/NNP star/NN of/IN Bride/NN and/CC Prejudice/NN is/VBZ the/DT "preferred/JJ choice"/NN of/IN the/DT Indian/JJ studio/NN involved/VBN in/IN the/DT film./NN
+
+On/IN a/DT visit/NN to/TO India/NNP the/DT 60-year-old/JJ actor/NN said/VBD he/PRP hoped/VBD to/TO start/VB shooting/VBG Racing/VBG The/DT Monsoon/NN next/JJ year./NN
+Douglas/NNP added/VBD that/IN it/PRP had/VBD been/VBN inspired/VBN by/IN a/DT Wall/NNP Street/NNP Journal/NNP article/NN about/IN India's/NNP 'angadias'/NN who/WP courier/VBP money/NN and/CC diamonds/NNS around/IN India./NNP
+
+The/DT actor's/NNS own/JJ production/NN company/NN Further/RB Films/VBZ is/VBZ working/VBG in/IN partnership/NN with/IN two/CD Indian/JJ film-making/JJ concerns/NNS to/TO bring/VB the/DT picture/NN to/TO the/DT screen./NN
+Shailendra/NNP Singh/NNP the/DT founder/NN of/IN India's/NNP Percept/NNP Films/NNS said/VBD there/EX would/MD be/VB "a/NN lot/NN of/IN India"/NNP in/IN the/DT movie/NN -/: and/CC that/IN an/DT Indian/JJ train/NN would/MD play/VB a/DT big/JJ role./NN
+"The/NN train/NN will/MD be/VB a/DT crucial/JJ part/NN of/IN the/DT film./NN
+The/DT chase/NN and/CC most/JJS of/IN the/DT stunts/NNS will/MD be/VB on/IN the/DT train"/NN said/VBD Mr/NNP Singh./NNP
+Swashbuckling/NNP adventure/NN film/NN Romancing/VBG The/DT Stone/NNP saw/VBD Douglas's/NNP female/JJ co-star/JJ Kathleen/NNP Turner/NNP win/VB a/DT Golden/NNP Globe/NNP award/NN for/IN her/PRP$ performance/NN in/IN 1985./CD

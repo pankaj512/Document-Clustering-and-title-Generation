@@ -1,0 +1,9 @@
+Injury/NNP sidelines/NNS Philippoussis/NNP
+
+Mark/NNP Philippoussis/NNP withdrew/VBD from/IN the/DT Sydney/NNP International/NNP tennis/NN tournament/NN as/IN expected/VBN on/IN Sunday/NNP after/IN suffering/VBG a/DT groin/NN injury/NN during/IN the/DT Hopman/NNP Cup./NNP
+
+His/PRP$ participation/NN in/IN the/DT Australian/JJ Open/NNP which/WDT begins/VBZ on/IN 17/CD January/NNP in/IN Melbourne/NNP also/RB remains/VBZ in/IN doubt./NN
+Defending/VBG women's/NNS champion/NN Justine/NNP Henin-Hardenne/NNP is/VBZ also/RB out/IN of/IN the/DT Sydney/NNP event/NN because/IN of/IN a/DT knee/NN injury./NN
+In/IN the/DT only/JJ main/JJ draw/NN men's/NNS or/CC women's/NNS singles/NNS match/VBP on/IN Sunday/NNP Nathalie/NNP Dechy/NNP beat/VB American/NNP Lisa/NNP Raymond/NNP 7-5/JJ 6-3./JJ
+Number/NN one/CD men's/NNS seed/NN Lleyton/NNP Hewitt/NNP begins/VBZ his/PRP$ quest/NN for/IN a/DT fourth/JJ Sydney/NNP title/NN on/IN Tuesday/NNP when/WRB he/PRP plays/VBZ Karol/NNP Beck./NNP
+Lindsay/NNP Davenport/NNP top/JJ seed/NN in/IN the/DT women's/NNS draw/VBP has/VBZ been/VBN handed/VBN a/DT first-round/JJ bye/NN and/CC plays/VBZ France's/NNP Dechy/NNP in/IN the/DT second/JJ round/NN on/IN Tuesday./NNP

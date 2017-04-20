@@ -1,0 +1,31 @@
+Web/NN photo/NN storage/NN market/NN hots/NNS up/RP
+
+An/DT increasing/VBG number/NN of/IN firms/NNS are/VBP offering/NN web/NN storage/NN for/IN people/NNS with/IN digital/JJ photo/NN collections./NN
+
+Digital/NN cameras/NNS were/VBD the/DT hot/JJ gadget/NN of/IN Christmas/NNP 2004/CD and/CC worldwide/NN sales/NNS of/IN the/DT cameras/NNS totalled/VBD $24bn/CD last/JJ year./NN
+Many/JJ people's/NNS hard/JJ drives/NNS are/VBP bulging/VBG with/IN photos/NNS and/CC services/NNS which/WDT allow/VBP them/PRP to/TO store/VB and/CC share/VBP their/PRP$ pictures/NNS online/NN are/VBP becoming/VBG popular./NN
+Search/NN firms/NNS such/JJ as/IN Google/NNP are/VBP also/RB offering/NN more/RBR complex/JJ tools/NNS for/IN managing/VBG personal/JJ photo/NN libraries./NN
+Photo/NN giants/NNS such/JJ as/IN Kodak/NNP offer/NN website/NN storage/NN which/WDT manages/VBZ photo/NN collections/NNS lets/VBZ users/NNS edit/NN pictures/NNS online/NN and/CC provides/VBZ print-ordering/JJ services./NN
+Some/DT services/NNS such/JJ as/IN Kodak's/NNP Ofoto/NNP and/CC Snapfish/NNP offer/NN unlimited/JJ storage/NN space/NN but/CC they/PRP do/VBP require/VB users/NNS to/TO buy/VB some/DT prints/NNS online./NN
+Other/JJ sites/NNS such/JJ as/IN Pixagogo/NNP charge/NN a/DT monthly/JJ fee./NN
+Marcus/NNP Hawkins/NNP editor/NN of/IN Digital/NNP Camera/NN magazine/NN said/VBD "As/NN file/NN sizes/NNS of/IN pictures/NNS increase/NN storage/NN becomes/VBZ a/DT problem./NN
+"People/NN are/VBP using/VBG their/PRP$ hard/JJ drives/NNS backing/VBP up/RP on/IN CD/NNP and/CC DVD/NNP and/CC now/RB they/PRP are/VBP using/VBG online/NN storage/NN solutions./NN
+
+"They/NN are/VBP a/DT place/NN to/TO store/VB pictures/NNS to/TO share/VB their/PRP$ pictures/NNS with/IN families/NNS and/CC friends/NNS and/CC they/PRP can/MD print/VB out/RP their/PRP$ photos."/NN
+
+While/IN many/JJ of/IN the/DT services/NNS are/VBP aimed/VBN at/IN the/DT amateur/JJ and/CC casual/JJ digital/JJ photographer/NN other/JJ websites/NNS are/VBP geared/VBN up/RP for/IN enthusiasts/NNS who/WP want/VBP to/TO share/VB tips/NNS and/CC information./NN
+Photosig/NNP is/VBZ an/DT online/NN community/NN of/IN photographers/NNS who/WP can/MD critique/VB each/DT other's/NNS work./NN
+On/IN Tuesday/NNP Google/NNP released/VBD free/JJ software/NN for/IN organising/VBG and/CC finding/VBG digital/JJ photos/NNS stored/VBD on/IN a/DT computer's/NNS hard/JJ drive./NN
+The/DT tool/NN called/VBD Picasa/NNP automatically/RB detects/VBZ photos/NNS as/IN they/PRP are/VBP added/VBN to/TO a/DT PC/NN -/: whether/IN sent/VBD via/IN e-mail/JJ or/CC transferred/VBN from/IN a/DT digital/JJ camera./NN
+
+The/DT software/NN includes/VBZ tools/NNS for/IN restoring/VBG colour/NN and/CC removing/VBG red/JJ eye/NN as/RB well/RB as/IN sharpening/VBG images./NN
+Photos/NNS can/MD then/RB be/VB uploaded/VBN to/TO sites/NNS such/JJ as/IN Ofoto./NNP
+Many/JJ people/NNS use/VBP the/DT sites/NNS to/TO edit/VB and/CC improve/VB their/PRP$ favourite/NN photographs/NNS before/IN ordering/VBG prints./NN
+Mr/NNP Hawkins/NNP added/VBD "The/NN growth/NN area/NN is/VBZ that/IN you/PRP can/MD order/VB your/PRP$ prints/NNS online./NN
+Friends/NNS and/CC family/NN can/MD also/RB access/VB pictures/NNS you/PRP want/VBP them/PRP to/TO see/VB and/CC they/PRP can/MD print/VB them/PRP out/RP too./NN
+"Rather/NN than/IN just/RB a/DT place/NN to/TO dump/VB your/PRP$ pictures/NNS it's/NNS about/IN sharing/VBG them."/NN
+
+The/DT vast/JJ majority/NN of/IN pictures/NNS remain/VBP on/IN a/DT PC's/NNP hard/JJ drive/NN which/WDT is/VBZ why/WRB search/NN tools/NNS such/JJ as/IN those/DT offered/VBN by/IN Google/NNP become/VB increasingly/RB important./NN
+But/CC some/DT historians/NNS and/CC archivists/NNS are/VBP concerned/VBN that/IN the/DT need/NN for/IN perfect/JJ pictures/NNS will/MD mean/VB that/IN those/DT poor/JJ quality/NN prints/NNS which/WDT offered/VBD a/DT tantilising/VBG glimpse/NN of/IN the/DT past/NN may/MD disappear/VB forever./NN
+"It's/NN one/CD thing/NN taking/VBG pictures/NNS it's/NNS another/DT finding/NN them"/NN said/VBD Mr/NNP Hawkins./NNP
+"But/NN this/DT is/VBZ the/DT same/JJ problem/NN that/WDT has/VBZ always/RB existed/VBN -/: how/WRB many/JJ of/IN us/PRP have/VBP photos/NNS in/IN wallets/NNS tucked/VBN away/RB somewhere?"/NN

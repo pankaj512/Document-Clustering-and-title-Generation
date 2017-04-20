@@ -1,0 +1,27 @@
+Labour/NNP trio/NN 'had/NN vote-rig/JJ factory'/NN
+
+Three/CD Labour/NNP councillors/NNS in/IN Birmingham/NNP were/VBD caught/VBN operating/VBG a/DT "vote-rigging/JJ factory"/NN an/DT Election/NNP Court/NNP has/VBZ heard./NN
+
+Police/NNP found/VBD the/DT trio/NN handling/VBG unsealed/VBN postal/JJ ballots/NNS in/IN a/DT deserted/VBN warehouse/NN in/IN the/DT city/NN during/IN a/DT late-night/JJ raid/NN in/IN June/NNP 2004/CD the/DT hearing/NN was/VBD told./NN
+The/DT votes/NNS were/VBD later/RB counted/VBN towards/IN that/DT month's/NNS English/NNP local/JJ elections./NN
+The/DT men/NNS elected/VBN to/TO the/DT Aston/NNP ward/VB deny/VB collecting/VBG votes/NNS fraudulently./NN
+The/DT judge/NN presiding/NN has/VBZ indicated/VBN the/DT whole/JJ postal/JJ voting/NN system/NN is/VBZ under/IN scrutiny./NN
+Deputy/NNP High/NNP Court/NNP Judge/NNP Richard/NNP Mawrey/NNP QC/NNP told/VBD the/DT hearing/NN at/IN the/DT Birmingham/NNP and/CC Midlands/NNP Institute/NNP the/DT case/NN could/MD have/VB potentially/RB serious/JJ consequences/NNS for/IN any/DT forthcoming/JJ General/NNP Election./NNP
+
+The/DT special/JJ Election/NNP Court/NNP the/DT first/JJ in/IN living/NN memory/NN to/TO hear/VB allegations/NNS of/IN vote-rigging/NN opened/VBD in/IN Birmingham/NNP last/JJ month./NN
+The/DT case/NN against/IN Muhammad/NNP Afzal/NNP Mohammed/NNP Islam/NNP and/CC Mohammed/NNP Kazi/NNP is/VBZ being/VBG brought/VBN by/IN local/JJ Liberal/NNP Democrat/NNP supporters./NN
+They/PRP claim/VBP the/DT trio/NN benefited/VBD from/IN the/DT widespread/JJ misuse/NN of/IN postal/JJ votes/NNS during/IN the/DT 10/CD June/NNP election./NN
+Ravi/NNP Sukul/NNP counsel/NN for/IN the/DT petitioners/NNS accused/VBD the/DT three/CD men/NNS of/IN being/VBG "deeply/RB involved"/NN in/IN illegal/JJ practices./NN
+Witnesses/NNS saw/VBD them/PRP carrying/VBG several/JJ bags/NNS from/IN their/PRP$ campaign/NN office/NN which/WDT the/DT men/NNS drove/VBD to/TO a/DT warehouse/NN on/IN an/DT industrial/JJ estate/NN off/IN Birch/NNP Road/NNP East/NNP the/DT court/NN was/VBD told./NN
+
+The/DT police/NNS were/VBD alerted/VBN and/CC called/VBN to/TO the/DT premises./NN
+Mr/NNP Sukul/NNP said/VBD "When/NN (the/NN officers)/NN arrived/VBD there/RB in/IN the/DT middle/NN of/IN the/DT night/NN they/PRP saw/VBD a/DT large/JJ room/NN with/IN a/DT 10ft/CD long/JJ table/NN and/CC six/CD Asian/JJ men/NNS present./NN
+"Hundreds/NN of/IN documents/NNS and/CC unsealed/VBN envelopes/NNS were/VBD scattered/VBN all/DT over/IN the/DT table."/NN The/DT police/NN officers/NNS left/VBD the/DT warehouse/NN but/CC were/VBD later/RB ordered/VBN back/RB to/TO seize/VB the/DT documents./NN
+"When/NN the/DT officers/NNS left/VBD all/PDT the/DT envelopes/NNS and/CC papers/NNS were/VBD scattered"/NN Mr/NNP Sukul/NNP said./NN
+
+"(When/NN they/PRP went)/VBP back/RB to/TO make/VB the/DT seizure/NN every/DT one/CD of/IN these/DT 275/CD yellow/JJ ballot/NN papers/NNS were/VBD placed/VBN neatly/RB in/IN envelope/NN A/DT and/CC sealed./NN
+The/DT house/NN was/VBD in/IN order."/NN Interrupting/VBG Mr/NNP Sukul/NNP in/IN his/PRP$ opening/NN Mr/NNP Mawrey/NNP said/VBD "What/NN you/PRP are/VBP saying/VBG is/VBZ these/DT men/NNS were/VBD operating/VBG a/DT vote-forging/JJ factory/NN on/IN an/DT industrial/JJ estate."/NN The/DT court/NN heard/VBD how/WRB documents/NNS were/VBD taken/VBN by/IN police/NN to/TO the/DT elections/NNS office/VBP next/JJ morning/NN where/WRB they/PRP were/VBD mixed/JJ in/IN with/IN other/JJ ballots./NN
+The/DT case/NN against/IN the/DT men/NNS follows/VBZ a/DT hearing/NN into/IN postal/JJ fraud/NN allegations/NNS made/VBN against/IN three/CD other/JJ Birmingham/NNP councillors/NNS in/IN the/DT Bordesley/NNP Green/NNP ward/VBP claims/NNS which/WDT are/VBP denied./NN
+Mr/NNP Mawrey/NNP is/VBZ due/JJ to/TO deliver/VB a/DT judgment/NN in/IN their/PRP$ case/NN once/RB the/DT Aston/NNP petition/NN has/VBZ been/VBN heard./NN
+Mr/NNP Afzal/NNP Mr/NNP Islam/NNP and/CC Mr/NNP Kazi/NNP deny/VB conspiring/VBG to/TO commit/VB election/NN fraud/NN to/TO deceive/VB the/DT returning/VBG officer./NN
+The/DT case/NN continues./NN

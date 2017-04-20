@@ -1,0 +1,26 @@
+UK/NNP broadband/NN gets/VBZ speed/NN injection/NN
+
+Broadband's/NNP rapid/JJ rise/NN continues/VBZ apace/NN as/IN speeds/NNS gear/VBP up/RP a/DT notch./NN
+
+An/DT eight/CD megabit/NN service/NN has/VBZ been/VBN launched/VBN by/IN internet/JJ service/NN provider/NN UK/NNP Online./NNP
+It/PRP is/VBZ 16/CD times/NNS faster/RBR than/IN the/DT average/JJ broadband/NN package/NN on/IN the/DT market/NN and/CC will/MD pave/VB the/DT way/NN for/IN services/NNS such/JJ as/IN video-on-demand/JJ and/CC broadband/NN TV./NNP
+The/DT service/NN is/VBZ possible/JJ due/JJ to/TO a/DT new/JJ regime/NN which/WDT allows/VBZ other/JJ operators/NNS to/TO use/VB BT's/NNP exchanges/NNS and/CC will/MD initially/RB only/RB be/VB available/JJ in/IN towns./NN
+
+It/PRP represents/VBZ a/DT "big/NN leap/NN forward"/NN for/IN broadband/NN said/VBD Chris/NNP Stening/NNP UK/NNP Online/NNP general/JJ manager./NN
+
+The/DT service/NN comes/VBZ with/IN a/DT hefty/JJ £39.99/CD monthly/JJ price/NN tag/NN but/CC will/MD mean/VB users/NNS can/MD download/VB MP3s/CD in/IN seconds/NNS and/CC offers/VBZ TV-quality/NNP video/NN streaming./NN
+The/DT service/NN includes/VBZ WiFi/NNP as/IN standard/JJ meaning/NN users/NNS can/MD connect/VB multiple/JJ PCs/NNS laptops/NNS and/CC game/NN consoles/VBZ from/IN any/DT room/NN in/IN the/DT house./NN
+Not/RB everybody/NN will/MD be/VB able/JJ to/TO take/VB advantage/NN of/IN the/DT service/NN as/IN it/PRP will/MD be/VB restricted/VBN to/TO metropolitan/JJ areas./NN
+The/DT service/NN will/MD initially/RB be/VB available/JJ to/TO users/NNS within/IN 2km/CD radius/JJ of/IN 230/CD telephone/NN exchanges/NNS in/IN areas/NNS such/JJ as/IN London/NNP Birmingham/NNP Glasgow/NNP and/CC Cambridge./NNP
+That/DT represents/VBZ about/IN 4.4/CD million/CD households./NN
+The/DT service/NN is/VBZ possible/JJ due/JJ to/TO a/DT decision/NN to/TO loosen/VB BT's/NNP strangle-hold/JJ on/IN telephone/NN exchanges./NN
+
+The/DT process/NN known/VBD as/IN local/JJ loop/NN unbundling/VBG was/VBD put/VBN in/IN motion/NN by/IN the/DT now/RB defunct/JJ telecoms/NNS watchdog/NN Oftel/NNP but/CC has/VBZ only/RB proved/VBN popular/JJ in/IN recent/JJ months/NNS due/JJ to/TO falling/VBG costs./NN
+UK/NNP Online/NNP is/VBZ looking/VBG at/IN the/DT possibility/NN of/IN bundling/VBG services/NNS such/JJ as/IN cheap/JJ net/JJ telephone/NN calls/NNS video-on-demand/JJ and/CC TV/NN by/IN 2005/CD if/IN the/DT service/NN proves/VBZ popular./NN
+"The/NN service/NN is/VBZ twice/RB as/RB fast/RB as/IN any/DT other/JJ service/NN on/IN offer/NN in/IN the/DT UK/NNP and/CC 16/CD times/NNS faster/RBR than/IN most/JJS broadband/NN services"/NN said/VBD Mr/NNP Stening./NNP
+"It/NN takes/VBZ a/DT big/JJ leap/NN for/IN broadband/NN and/CC we/PRP are/VBP very/RB excited/VBN about/IN it"/NN he/PRP said./VB
+Countries/NNS such/JJ as/IN South/NNP Korea/NNP and/CC France/NNP have/VBP found/VBN the/DT advantage/NN of/IN upping/VBG the/DT speeds/NNS of/IN broadband./NN
+In/IN South/NNP Korea/NNP video-on-demand/JJ over/IN the/DT net/JJ is/VBZ cheaper/JJR than/IN renting/VBG a/DT DVD/NNP and/CC online/NN gaming/NN is/VBZ huge./NN
+Mr/NNP Stening/NNP believes/VBZ the/DT service/NN will/MD appeal/VB to/TO people/NNS in/IN multi-occupancy/JJ buildings/NNS as/RB well/RB as/IN easing/VBG family/NN arguments./NN
+"A/NN typical/JJ family/NN with/IN two/CD adults/NNS and/CC two/CD children/NNS is/VBZ currently/RB sharing/VBG a/DT 512/CD kilobit/NN service./NN
+This/DT will/MD basically/RB give/VB them/PRP 2/CD megabits/NNS each"/VBP he/PRP said./VB

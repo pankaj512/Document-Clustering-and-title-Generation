@@ -1,0 +1,13 @@
+Slater/NN to/TO star/VB in/IN Broadway/NNP play/VB
+
+Actor/NNP Christian/NNP Slater/NNP is/VBZ stepping/VBG into/IN the/DT role/NN of/IN Tom/NNP in/IN the/DT Broadway/NNP revival/NN of/IN The/DT Glass/NNP Menagerie./NNP
+
+Slater/NNP 35/CD is/VBZ replacing/VBG actor/NN Dallas/NNP Roberts/NNP in/IN the/DT Tennessee/NNP Williams/NNP drama/NN which/WDT opens/VBZ next/JJ month./NN
+No/DT reason/NN was/VBD given/VBN for/IN Roberts'/NNP departure./NN
+The/DT role/NN will/MD be/VB played/VBN by/IN understudy/NN Joey/NNP Collins/NNP until/IN Slater/NNP joins/VBZ the/DT show./NN
+Slater/NNP won/VBD rave/VB reviews/NNS for/IN his/PRP$ recent/JJ performance/NN in/IN One/CD Flew/VBD Over/IN the/DT Cuckoo's/NNP Nest/NN in/IN London's/NNP West/NNP End./NNP
+
+He/PRP has/VBZ also/RB starred/VBN in/IN a/DT number/NN of/IN films/NNS including/VBG Heathers/NNP Robin/NNP Hood/NN Prince/NNP of/IN Thieves/NNS and/CC more/RBR recently/RB Churchill/NNP The/DT Hollywood/NNP Years./NNP
+Preview/NN performances/NNS of/IN The/DT Glass/NNP Menagerie/NNP will/MD begin/VB at/IN New/NNP York's/NNP Ethel/NNP Barrymore/NNP Theatre/NNP on/IN Thursday./NNP
+Philip/NNP Rinaldi/NNP a/DT spokesman/NN for/IN the/DT show/NN said/VBD the/DT play's/NNS 15/CD March/NNP opening/NN date/NN remains/VBZ unchanged./NN
+The/DT revival/NN directed/VBN by/IN David/NNP Leveaux/NNP will/MD also/RB star/VB Jessica/NNP Lange/NNP as/IN the/DT domineering/JJ mother/NN Amanda/NNP Wingfield./NNP

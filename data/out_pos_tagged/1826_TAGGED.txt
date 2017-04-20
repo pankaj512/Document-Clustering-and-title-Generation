@@ -1,0 +1,24 @@
+China/NNP net/JJ cafe/NN culture/NN crackdown/NN
+
+Chinese/JJ authorities/NNS closed/VBD 12575/CD net/JJ cafes/NNS in/IN the/DT closing/NN months/NNS of/IN 2004/CD the/DT country's/NNS government/NN said./NN
+
+According/VBG to/TO the/DT official/JJ news/NN agency/NN most/JJS of/IN the/DT net/JJ cafes/NNS were/VBD closed/VBN down/RB because/IN they/PRP were/VBD operating/NN illegally./NN
+Chinese/JJ net/JJ cafes/NNS operate/VBP under/IN a/DT set/NN of/IN strict/JJ guidelines/NNS and/CC many/JJ of/IN those/DT most/RBS recently/RB closed/VBD broke/VBN rules/NNS that/IN limit/NN how/WRB close/VB they/PRP can/MD be/VB to/TO schools./VB
+The/DT move/NN is/VBZ the/DT latest/JJS in/IN a/DT series/NN of/IN steps/NNS the/DT Chinese/JJ government/NN has/VBZ taken/VBN to/TO crack/VB down/RP on/IN what/WP it/PRP considers/VBZ to/TO be/VB immoral/JJ net/JJ use./NN
+
+The/DT official/JJ Xinhua/NNP News/NNP Agency/NNP said/VBD the/DT crackdown/NN was/VBD carried/VBN out/RP to/TO create/VB a/DT "safer/NN environment/NN for/IN young/JJ people/NNS in/IN China"./NNP
+Rules/NNS introduced/VBD in/IN 2002/CD demand/NN that/IN net/JJ cafes/NNS be/VB at/IN least/JJS 200/CD metres/NNS away/RB from/IN middle/NN and/CC elementary/JJ schools./NN
+The/DT hours/NNS that/IN children/NNS can/MD use/VB net/JJ cafes/NNS are/VBP also/RB tightly/RB regulated./NN
+China/NNP has/VBZ long/RB been/VBN worried/VBN that/IN net/JJ cafes/NNS are/VBP an/DT unhealthy/JJ influence/NN on/IN young/JJ people./NN
+The/DT 12575/CD cafes/NNS were/VBD shut/JJ in/IN the/DT three/CD months/NNS from/IN October/NNP to/TO December./NNP
+China/NNP also/RB tries/VBZ to/TO dictate/VB the/DT types/NNS of/IN computer/NN games/NNS people/NNS can/MD play/VB to/TO limit/VB the/DT amount/NN of/IN violence/NN people/NNS are/VBP exposed/VBN to./NN
+
+Net/JJ cafes/NNS are/VBP hugely/RB popular/JJ in/IN China/NNP because/IN the/DT relatively/RB high/JJ cost/NN of/IN computer/NN hardware/NN means/VBZ that/IN few/JJ people/NNS have/VBP PCs/NNS in/IN their/PRP$ homes./NN
+This/DT is/VBZ not/RB the/DT first/JJ time/NN that/IN the/DT Chinese/JJ government/NN has/VBZ moved/VBN against/IN net/JJ cafes/NNS that/WDT are/VBP not/RB operating/VBG within/IN its/PRP$ strict/JJ guidelines./NN
+All/PDT the/DT 100000/CD or/CC so/RB net/JJ cafes/NNS in/IN the/DT country/NN are/VBP required/VBN to/TO use/VB software/NN that/IN controls/NNS what/WP websites/NNS users/NNS can/MD see./VB
+Logs/NNP of/IN sites/NNS people/NNS visit/VBP are/VBP also/RB kept./NN
+Laws/NNS on/IN net/JJ cafe/NN opening/NN hours/NNS and/CC who/WP can/MD use/VB them/PRP were/VBD introduced/VBN in/IN 2002/CD following/VBG a/DT fire/NN at/IN one/CD cafe/NN that/WDT killed/VBD 25/CD people./NN
+During/IN the/DT crackdown/NN following/VBG the/DT blaze/NN authorities/NNS moved/VBD to/TO clean/VB up/RP net/JJ cafes/NNS and/CC demanded/VBD that/IN all/DT of/IN them/PRP get/VBP permits/VBZ to/TO operate./VB
+In/IN August/NNP 2004/CD Chinese/JJ authorities/NNS shut/VBP down/RP 700/CD websites/NNS and/CC arrested/VBN 224/CD people/NNS in/IN a/DT crackdown/NN on/IN net/JJ porn./NN
+At/IN the/DT same/JJ time/NN it/PRP introduced/VBD new/JJ controls/NNS to/TO block/VB overseas/JJ sex/NN sites./NN
+The/DT Reporters/NNS Without/IN Borders/NNS group/NN said/VBD in/IN a/DT report/NN that/IN Chinese/JJ government/NN technologies/NNS for/IN e-mail/JJ interception/JJ and/CC net/JJ censorship/NN are/VBP among/IN the/DT most/RBS highly/RB developed/VBN in/IN the/DT world./NN

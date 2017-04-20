@@ -1,0 +1,21 @@
+GM/NNP in/IN crunch/NN talks/NNS on/IN Fiat/NNP future/JJ
+
+Fiat/NNP will/MD meet/VB car/NN giant/NN General/NNP Motors/NNPS (GM)/NN on/IN Tuesday/NNP in/IN an/DT attempt/NN to/TO reach/VB agreement/NN over/IN the/DT future/NN of/IN the/DT Italian/JJ firm's/NNS loss-making/JJ auto/NN group./NN
+
+Fiat/NN claims/VBZ that/IN GM/NNP is/VBZ legally/RB obliged/VBN to/TO buy/VB the/DT 90%/CD of/IN the/DT car/NN unit/NN it/PRP does/VBZ not/RB already/RB own/VB GM/NNP says/VBZ the/DT contract/NN signed/VBD in/IN 2000/CD is/VBZ no/RB longer/RB valid./NN
+Press/NN reports/NNS have/VBP speculated/VBN that/IN Fiat/NNP may/MD be/VB willing/JJ to/TO accept/VB a/DT cash/NN payment/NN in/IN return/NN for/IN dropping/VBG its/PRP$ claim./NN
+Both/DT companies/NNS want/VBP to/TO cut/VB costs/NNS as/IN the/DT car/NN industry/NN adjusts/VBZ to/TO waning/VBG demand./NN
+
+The/DT meeting/NN between/IN Fiat/NNP boss/NN Sergio/NNP Marchionne/NNP and/CC GM's/NNP Rick/NNP Wagoner/NNP is/VBZ due/JJ to/TO take/VB place/NN at/IN 1330/CD GMT/NNP in/IN Zurich/NNP according/VBG to/TO the/DT Reuters/NNP news/NN agency./NN
+
+Mr/NNP Marchionne/NNP is/VBZ confident/JJ of/IN his/PRP$ firm's/NNS legal/JJ position/NN saying/VBG in/IN an/DT interview/NN with/IN the/DT Financial/NNP Times/NNP that/IN GM's/NNP argument/NN "has/NN no/DT legs"./NN
+The/DT agreement/NN in/IN question/NN dates/NNS back/RB to/TO GM's/NNP decision/NN to/TO buy/VB 20%/CD of/IN Fiat's/NNP auto/NN division/NN in/IN 2000./CD
+At/IN the/DT time/NN it/PRP gave/VBD the/DT Italian/JJ firm/NN the/DT right/NN via/IN a/DT 'put/NN option'/NN to/TO sell/VB the/DT remaining/VBG stake/NN to/TO GM./NNP
+In/IN recent/JJ weeks/NNS Fiat/NNP has/VBZ reiterated/VBN its/PRP$ claims/VBZ that/IN this/DT 'put'/NN is/VBZ still/RB valid/JJ and/CC legally/RB binding./NN
+However/RB GM/NNP argues/VBZ that/IN a/DT Fiat/NNP share/NN sale/NN made/VBD last/JJ year/NN which/WDT cut/VBP GM's/NNP holding/VBG to/TO 10%/CD together/RB with/IN asset/NN sales/NNS made/VBN by/IN Fiat/NNP have/VBP terminated/VBN the/DT agreement./NN
+
+Selling/VBG the/DT Fiat's/NNP car-making/JJ unit/NN may/MD not/RB prove/VB so/RB simple/JJ analysts/NNS say/VBP especially/RB as/IN it/PRP is/VBZ a/DT company/NN that/WDT is/VBZ so/RB closely/RB linked/VBN to/TO Italy's/NNP industrial/JJ heritage./NN
+Political/NNP and/CC public/JJ pressure/NN may/MD well/RB push/VB the/DT two/CD firms/NNS to/TO reach/VB a/DT compromise./NN
+"We/NN are/VBP not/RB expecting/VBG Fiat/NNP to/TO exercise/VB its/PRP$ put/JJ of/IN the/DT auto/NN business/NN against/IN an/DT unwilling/JJ GM/NNP at/IN this/DT point"/NN brokerage/NN Merrill/NNP Lynch/NNP said/VBD in/IN a/DT note/NN to/TO investors/NNS adding/VBG that/IN any/DT legal/JJ battle/NN would/MD be/VB protracted/JJ and/CC damaging/JJ to/TO the/DT business./NN
+"As/NN far/RB as/IN we/PRP are/VBP aware/JJ the/DT Agnelli/NNP family/NN which/WDT indirectly/RB controls/VBZ at/IN least/JJS 30%/CD of/IN Fiat/NNP has/VBZ not/RB given/VBN a/DT firm/NN public/JJ indication/NN that/IN it/PRP wants/VBZ to/TO sell/VB the/DT auto/NN business./NN
+"Fiat/NN may/MD be/VB willing/JJ to/TO cancel/VB the/DT 'put'/NN in/IN exchange/NN for/IN money."/NN

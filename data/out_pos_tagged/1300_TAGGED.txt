@@ -1,0 +1,18 @@
+Tory/NNP candidate/NN quits/VBZ over/IN remark/NN
+
+A/DT Conservative/JJ election/NN challenger/NN is/VBZ quitting/VBG after/IN being/VBG quoted/VBN as/IN wanting/VBG a/DT "period/NN of/IN creative/JJ destruction/NN in/IN the/DT public/JJ services"./NN
+
+Danny/NNP Kruger/NNP who/WP also/RB works/VBZ in/IN the/DT Tory/NNP research/NN unit/NN had/VBD been/VBN due/JJ to/TO take/VB on/RP Tony/NNP Blair/NNP in/IN Sedgefield./NNP
+He/PRP says/VBZ his/PRP$ remark/NN last/JJ week/NN was/VBD misrepresented/VBN but/CC he/PRP will/MD not/RB contest/VB the/DT election/NN for/IN fear/NN of/IN damaging/JJ the/DT Conservative/JJ cause./NN
+Tory/NNP leader/NN Michael/NNP Howard/NNP accepted/VBD his/PRP$ decision/NN "with/NN regret"./NN
+Mr/NNP Kruger/NNP was/VBD quoted/VBN in/IN the/DT Guardian/NNP newspaper/NN saying/VBG "We/NN plan/NN to/TO introduce/VB a/DT period/NN of/IN creative/JJ destruction/NN in/IN the/DT public/JJ services."/NN
+
+In/IN a/DT statement/NN the/DT party/NN said/VBD the/DT comment/NN had/VBD been/VBN taken/VBN out/IN of/IN context./NN
+"He/NN fully/RB supports/VBZ the/DT party's/NNS policies/NNS on/IN and/CC approach/NN to/TO the/DT public/JJ services"/NN said/VBD the/DT statement./NN
+"However/NN in/IN order/NN to/TO avoid/VB any/DT further/JJ misrepresentation/NN of/IN his/PRP$ views/NNS and/CC any/DT damage/NN to/TO the/DT Party/NNP he/PRP has/VBZ decided/VBN not/RB to/TO stand/VB in/IN the/DT Sedgefield/NNP constituency/NN at/IN the/DT next/JJ election."/NN Mr/NNP Kruger/NNP is/VBZ continuing/VBG in/IN his/PRP$ job/NN at/IN the/DT Tory/NNP campaign/NN headquarters./NN
+Labour/NNP election/NN coordinator/NN Alan/NNP Milburn/NNP claimed/VBD Mr/NNP Kruger/NNP had/VBD exposed/VBN the/DT Tory/NNP agenda/NN for/IN £35bn/CD of/IN cuts/NNS to/TO public/JJ services./NN
+Mr/NNP Milburn/NNP said/VBD "He/NN is/VBZ not/RB some/DT unknown/JJ hopeful/JJ fighting/NN an/DT unwinnable/JJ seat./NN
+He/PRP is/VBZ a/DT man/NN who/WP has/VBZ worked/VBN at/IN the/DT heart/NN of/IN Conservative/JJ policy/NN development.../NN
+"His/NN claim/NN that/IN the/DT Tories/NNPS were/VBD planning/NN 'a/NN period/NN of/IN creative/JJ destruction/NN in/IN the/DT public/JJ services'/NN is/VBZ not/RB a/DT rogue/NN claim./NN
+"It/NN is/VBZ the/DT authentic/JJ and/CC shocking/JJ voice/NN of/IN the/DT Conservative/JJ Party./NNP
+It/PRP reveals/VBZ the/DT true/JJ picture/NN of/IN what/WP they/PRP would/MD do."/VB

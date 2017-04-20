@@ -1,0 +1,48 @@
+What's/NNP next/JJ for/IN next-gen/JJ consoles?/NN
+
+The/DT next/JJ generation/NN of/IN video/NN games/NNS consoles/NNS are/VBP in/IN development/NN but/CC what/WP will/MD the/DT new/JJ machines/NNS mean/VBP for/IN games/NNS firms/NNS and/CC consumers?/NN We/PRP may/MD not/RB know/VB when/WRB they/PRP will/MD be/VB released/VBN what/WP they/PRP will/MD be/VB called/VBN or/CC even/RB what/WP they/PRP will/MD be/VB able/JJ to/TO do/VB but/CC one/CD thing/NN is/VBZ certain/JJ -/: they/PRP are/VBP coming./NN
+Sony/NNP Microsoft/NNP and/CC Nintendo/NNP are/VBP all/DT expected/VBN to/TO release/VB new/JJ machines/NNS in/IN the/DT next/JJ 18/CD months./NN
+The/DT details/NNS of/IN PlayStation/NNP 3/CD Xbox/NNP 2/CD (codename/NN Xenon)/NNP and/CC Nintendo's/NNP so-called/NNP Revolution/NNP are/VBP still/RB to/TO be/VB finalised/VBN but/CC developers/NNS are/VBP having/VBG to/TO work/VB on/IN titles/NNS for/IN the/DT new/JJ machines/NNS regardless./NN
+
+"We/NN know/NN maybe/RB what/WP the/DT PS3/CD will/MD do/VB but/CC we/PRP can/MD only/RB guess"/VB said/VBD Rory/NNP Armes/NNP studio/NN general/JJ manager/NN for/IN video/NN game/NN giant/NN Electronic/NNP Arts/NNS in/IN Europe./NNP
+"It's/NN a/DT horrendous/JJ effort/NN in/IN the/DT first/JJ year"/NN he/PRP admitted./VB
+Microsoft/NNP had/VBD delivered/VBN development/NN kits/NNS to/TO EA/NNP said/VBD Mr/NNP Armes/NNP but/CC he/PRP said/VBD the/DT company/NN was/VBD still/RB waiting/VBG on/IN Sony/NNP and/CC Nintendo/NNP to/TO send/VB kits./NN
+Although/IN the/DT details/NNS may/MD not/RB be/VB nailed/VBN down/RP Mr/NNP Armes/NNP said/VBD EA/NNP was/VBD beginning/VBG to/TO get/VB a/DT sense/NN of/IN the/DT capabilities/NNS of/IN the/DT new/JJ machines./NN
+"The/NN rumours/NNS are/VBP that/IN PlayStation/NNP 3/CD will/MD have/VB a/DT little/RB more/JJR under/IN the/DT hood/NN [than/NN Xbox/NNP 2]"/CD he/PRP said./VB
+
+"Microsoft/NN is/VBZ obviously/RB a/DT software/NN company/NN first/RB and/CC foremost/RB while/IN Sony/NNP has/VBZ more/JJR experience/NN in/IN hardware./NN
+I/PRP think/VBP Sony/NNP will/MD be/VB able/JJ to/TO push/VB more/JJR into/IN a/DT box/NN at/IN cost."/NN
+
+What/WP is/VBZ certain/JJ is/VBZ that/IN the/DT new/JJ machines/NNS will/MD provide/VB great/JJ leaps/NNS in/IN processing/NN and/CC graphical/JJ power./NN
+It/PRP is/VBZ also/RB likely/JJ that/IN they/PRP will/MD contain/VB convergence/NN technologies/NNS to/TO make/VB the/DT machines/NNS more/JJR of/IN an/DT entertainment/NN hub./NN
+At/IN the/DT Consumer/NNP Electronics/NNP Show/NNP in/IN Las/NNP Vegas/NNP Microsoft/NNP boss/NN Bill/NNP Gates/NNP said/VBD Xbox/NNP 2/CD would/MD be/VB part/NN of/IN his/PRP$ vision/NN of/IN the/DT digital/JJ lifestyle./NN
+While/IN short/JJ on/IN detail/NN he/PRP painted/VBD a/DT picture/NN of/IN a/DT machine/NN that/WDT would/MD complement/VB a/DT PC/NN and/CC offer/NN "great/NN video/NN gaming/NN but/CC video/NN gaming/NN for/IN a/DT broader/RBR set/NN of/IN people/NNS more/JJR communications/NNS more/JJR media/NNS more/JJR connectivity"./NN
+Sony/NNP is/VBZ thought/VBN to/TO have/VB a/DT similar/JJ vision/NN for/IN PS3/CD while/IN Nintendo/NNP remain/VB focused/VBN on/IN a/DT machine/NN purely/RB for/IN games./NN
+
+Until/IN it/PRP is/VBZ clear/JJ precisely/RB what/WP the/DT new/JJ machines/NNS can/MD do/VB developers/NNS are/VB working/VBG on/IN a/DT first/JJ round/NN of/IN titles/NNS to/TO harness/NN the/DT new/JJ horsepower./NN
+Gary/NNP Dunn/NNP development/NN director/NN at/IN Codemasters/NNP said/VBD the/DT company/NN had/VBD a/DT central/JJ technology/NN group/NN which/WDT was/VBD at/IN the/DT forefront/NN of/IN preparing/VBG for/IN the/DT next/JJ generation/NN of/IN consoles./NN
+"We/NN are/VBP working/VBG on/IN new/JJ libraries/NNS of/IN effects./NN
+A/DT lot/NN of/IN the/DT major/JJ techniques/NNS are/VBP already/RB out/IN there/RB and/CC in/IN use/NN in/IN PC/NN gaming/NN such/JJ as/IN pixel/NN shaders/NNS and/CC normal/JJ mapping."/NN
+
+Mr/NNP Dunn/NNP said/VBD he/PRP expected/VBD the/DT introduction/NN of/IN real-world/JJ physics/NN to/TO be/VB a/DT major/JJ part/NN of/IN the/DT new/JJ consoles./NN
+"We/NN want/VBP to/TO increase/VB that/DT level/NN of/IN immersion/NN and/CC realism/NN in/IN gaming/NN to/TO people/NNS can/MD lose/VB themselves/PRP in/IN a/DT game."/NN In/IN the/DT first/JJ year/NN at/IN least/JJS developers/NNS said/VBD gamers/NNS should/MD not/RB expect/VB games/NNS which/WDT harness/NN the/DT full/JJ potential/NN of/IN the/DT machines./NN
+Graphical/NNP spit/NN and/CC polish/VB and/CC better/JJR physics/NN in/IN line/NN with/IN the/DT capabilities/NNS of/IN current/JJ high-end/JJ graphics/NNS cards/NNS for/IN PCs/NNS should/MD be/VB expected./NN
+Simon/NNP Gardner/NNP president/NN of/IN Climax's/NNP Action/NNP Studio/NN said/VBD "It's/NN definitely/RB an/DT exciting/JJ time./NN
+We/PRP want/VBP to/TO give/VB more/JJR freedom/NN to/TO the/DT player./NN
+We/PRP want/VBP to/TO give/VB players/NNS an/DT emotional/JJ connection/NN to/TO the/DT characters/NNS they/PRP play./VBP
+"The/NN environments/NNS will/MD be/VB much/RB more/RBR believable/JJ and/CC dramatic/JJ growing/NN and/CC changing/VBG as/IN you/PRP play./VBP
+"There/NN will/MD be/VB a/DT breadth/NN of/IN effects/NNS more/RBR involving/VBG worlds/NNS to/TO play/VB in./NN
+
+"It's/NN a/DT bit/NN like/IN being/VBG an/DT artist/NN and/CC being/VBG given/VBN a/DT bigger/JJR canvas/NN and/CC a/DT smaller/JJR brush./NN
+We're/NNP being/VBG given/VBN more/JJR tools./NN
+"For/NN the/DT average/JJ consumer/NN we/PRP can/MD get/VB things/NNS of/IN a/DT more/RBR filmic/JJ quality."/NN Gerhard/NNP Florin/NNP head/NN of/IN EA/NNP in/IN Europe/NNP said/VBD gamers/NNS should/MD expect/VB titles/NNS that/DT blur/VBP the/DT line/NN between/IN films/NNS and/CC video/NN games./NN
+Many/JJ will/MD be/VB sceptical/JJ -/: gamers/NNS were/VBD given/VBN similar/JJ predictions/NNS during/IN the/DT last/JJ transition/NN of/IN console/NN hardware/NN -/: but/CC this/DT time/NN it/PRP would/MD seem/VB to/TO be/VB more/JJR likely./NN
+"PS3/CD will/MD provide/VB graphics/NNS indistinguishable/JJ from/IN movies"/NN said/VBD Mr/NNP Florin./NNP
+He/PRP said/VBD the/DT distribution/NN method/NN for/IN games/NNS would/MD also/RB change/VB radically/RB in/IN the/DT next/JJ round/NN of/IN consoles./NN
+"A/NN gamer/NN could/MD buy/VB a/DT starter/JJ disc/NN for/IN 10/CD euros./NN
+When/WRB he/PRP goes/VBZ home/NN he/PRP goes/VBZ online/NN and/CC he/PRP could/MD buy/VB AI/VB and/CC levels/NNS as/IN you/PRP go./VBP
+
+"It's/NN much/JJ smarter/RBR if/IN you/PRP can/MD get/VB levels/NNS as/IN you/PRP go."/VBP Mr/NNP Armes/NNP warned/VBD that/IN developers/NNS still/RB had/VBD to/TO learn/VB how/WRB to/TO tell/VB stories/NNS effectively/RB in/IN the/DT medium./NN
+"In/NN some/DT ways/NNS we/PRP are/VBP trying/VBG to/TO forget/VB about/IN the/DT hardware/NN go/VBP in/IN the/DT opposite/JJ direction./NN
+We/PRP have/VBP been/VBN very/RB bad/JJ at/IN letting/VBG technology/NN design/NN our/PRP$ creativity./NN
+"What/NN we/PRP have/VBP to/TO do/VB as/IN a/DT company/NN is/VBZ start/VB ignoring/VBG the/DT technology/NN and/CC learning/VBG our/PRP$ craft/NN in/IN telling/VBG stories."/NN Mr/NNP Gardner/NNP agreed/VBD "We/NN can/MD thrown/VB more/JJR polygons/NNS around/IN and/CC have/VBP better/JJR AI/VBP but/CC if/IN it/PRP doesn't/NN make/VBP for/IN a/DT better/JJR game/NN then/RB that's/VBZ not/RB very/RB useful."/NN Developers/NNS will/MD certainly/RB have/VB the/DT tools/NNS with/IN the/DT new/JJ machines/NNS but/CC how/WRB they/PRP employ/VBP them/PRP is/VBZ still/RB to/TO be/VB decided./NN

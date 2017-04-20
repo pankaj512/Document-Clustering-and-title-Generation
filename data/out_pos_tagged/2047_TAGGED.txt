@@ -1,0 +1,29 @@
+Satellite/NNP mapping/NN aids/NNS Darfur/NNP relief/NN
+
+Aid/NN workers/NNS trying/VBG to/TO house/VB feed/NN and/CC clothe/NN millions/NNS of/IN homeless/JJ refugees/NNS in/IN the/DT Sudanese/NNP region/NN of/IN Darfur/NNP are/VBP getting/VBG a/DT helping/VBG hand/NN from/IN advanced/JJ mapping/NN technology./NN
+
+A/DT European/JJ consortium/NN of/IN companies/NNS and/CC university/NN groups/NNS known/VBN as/IN Respond/NN is/VBZ working/VBG to/TO provide/VB accurate/JJ and/CC up/IN to/TO date/VB maps./NN
+The/DT aim/NN is/VBZ to/TO overcome/VB some/DT of/IN the/DT huge/JJ logistical/JJ challenges/NNS in/IN getting/VBG supplies/NNS to/TO where/WRB they/PRP are/VBP needed./NN
+Respond/VB is/VBZ using/VBG satellite/NN imagery/NN to/TO produce/VB accurate/JJ maps/NNS that/WDT can/MD be/VB used/VBN in/IN the/DT field/NN rapidly./NN
+"Respond/NN has/VBZ produced/VBN very/RB detailed/JJ maps/NNS for/IN example/NN for/IN the/DT road/NN networks/NNS for/IN the/DT rivers/NNS and/CC for/IN the/DT villages/NNS to/TO more/RBR large-scale/JJ maps/NNS useful/JJ for/IN very/RB general/JJ planning/NN purposes"/NN said/VBD Einar/NNP Bjorgo/NNP from/IN Unosat/NNP the/DT UN/NNP satellite/NN mapping/NN organisation/NN that/WDT is/VBZ part/NN of/IN the/DT Respond/NN consortium./NN
+
+The/DT group/NN uses/VBZ satellites/NNS from/IN Nasa/NNP the/DT European/NNP Space/NNP Agency/NNP and/CC the/DT Disaster/NN Monitoring/NN Constellation./NNP
+The/DT satellite/NN data/NNS is/VBZ transmitted/VBN to/TO ground/VB stations./NN
+From/IN there/EX the/DT information/NN makes/VBZ its/PRP$ way/NN to/TO Respond/VB organisations/NNS that/DT specialise/NN in/IN interpreting/VBG such/JJ data./NN
+"You/NN have/VBP to/TO convert/VB the/DT data/NNS into/IN images/NNS then/RB the/DT interpreter/NN has/VBZ to/TO convert/VB all/PDT this/DT into/IN crisis/NN damage/NN or/CC situation/NN maps"/NN said/VBD Stefan/NNP Voigt/NNP who/WP works/VBZ in/IN the/DT remote/JJ sensing/NN department/NN of/IN one/CD of/IN those/DT organisations/NNS the/DT German/JJ Aerospace/NNP Centre./NNP
+
+This/DT kind/NN of/IN detailed/JJ analysis/NN usually/RB takes/VBZ a/DT couple/NN of/IN months/NNS but/CC Respond/VB gets/VBZ it/PRP done/VBD in/IN about/IN 12/CD hours./NN
+"Our/NN users/NNS are/VBP usually/RB not/RB so/RB much/JJ familiar/NN with/IN reading/VBG satellite/NN imagery/NN reading/NN satellite/NN maps/NNS so/IN it's/VBZ our/PRP$ task/NN to/TO transfer/VB the/DT data/NNS into/IN information/NN that/IN non-technical/JJ people/NNS can/MD read/VB and/CC understand/VB easily/RB and/CC very/RB very/RB efficiently"/NN said/VBD Mr/NNP Voigt./NNP
+Respond/NN supplies/NNS maps/NNS to/TO aid/VB groups/NNS via/IN the/DT web/NN and/CC on/IN compact/JJ disc./JJ
+But/CC the/DT best/JJS map/NN is/VBZ one/CD you/PRP can/MD hold/VB in/IN your/PRP$ hands/NNS especially/RB in/IN remote/JJ areas/NNS where/WRB internet/JJ connections/NNS and/CC laptops/NNS are/VBP scarce./NN
+"A/NN map/NN is/VBZ a/DT working/NN document"/NN explains/VBZ Herbert/NNP Hansen/NNP of/IN Respond's/NNP Belgian/JJ partner/NN Keyobs./NNP
+"You/NN need/VBP to/TO use/VB it/PRP you/PRP need/VBP to/TO write/VB on/IN it/PRP correct/VB give/VB feedback/NN and/CC so/RB on/IN so/IN you/PRP need/VBP paper/NN to/TO write/VB on./NN
+"We/NN print/NN maps/NNS we/PRP laminate/VBP the/DT maps/NNS we/PRP encapsulate/VBP the/DT maps/NNS if/IN needed/VBN so/IN you/PRP can/MD take/VB a/DT shower/NN with/IN the/DT map/NN it's/NNS completely/RB protected."/VBP
+
+Humanitarian/JJ groups/NNS in/IN Darfur/NNP have/VBP been/VBN making/VBG good/JJ use/NN of/IN Respond's/NNP maps./NN
+They/PRP have/VBP come/VBN in/IN especially/RB handy/JJ during/IN Sudan's/NNP rainy/NN season/NN when/WRB normally/RB dry/JJ riverbeds/NNS or/CC wadis/NNS became/VBD flooded./NN
+"These/NN wadis/NNS had/VBD a/DT very/RB small/JJ amount/NN of/IN flooding/VBG generally/RB in/IN terms/NNS of/IN depth/NN but/CC greatly/RB impeded/VBN the/DT transport/NN capabilities/NNS and/CC capacities/NNS of/IN the/DT humanitarian/JJ groups/NNS on/IN the/DT ground"/NN says/VBZ Stephen/NNP Candillon/NNP of/IN Respond/NN imaging/NN partner/NN Sertit./NNP
+Respond's/NNP rapid/JJ imaging/NN has/VBZ allowed/VBN aid/NN groups/NNS to/TO find/VB ways/NNS around/IN the/DT wadis/NNS allowing/VBG then/RB to/TO mark/VB on/IN their/PRP$ maps/NNS which/WDT roads/NNS were/VBD washed/VBN out/RP at/IN which/WDT times./NN
+Aid/NN groups/NNS say/VBP that/DT combination/NN of/IN satellite/NN technology/NN and/CC on-the-ground/JJ observation/NN helped/VBD keep/VB relief/NN flowing/VBG to/TO those/DT who/WP needed/VBD it./NN
+
+Clark/NNP Boyd/NNP is/VBZ technology/NN correspondent/NN for/IN The/DT World/NNP a/DT BBC/NNP World/NNP Service/NNP and/CC WGBH-Boston/NNP co-production/NN

@@ -1,0 +1,17 @@
+Elton/NNP plays/VBZ Paris/NNP charity/NN concert/NN
+
+Sir/NNP Elton/NNP John/NNP has/VBZ performed/VBN at/IN a/DT special/JJ concert/NN in/IN Paris/NNP to/TO raise/VB money/NN for/IN the/DT victims/NNS of/IN the/DT Asian/JJ tsunami./NN
+
+The/DT British/JJ singer/NN played/VBD to/TO a/DT 2700-strong/JJ audience/NN on/IN Sunday/NNP at/IN the/DT French/JJ capital's/NNS Bastille/NNP opera/NN house./NN
+The/DT concert/NN was/VBD also/RB part/NN of/IN an/DT attempt/NN to/TO bring/VB a/DT broader/JJR range/NN of/IN events/NNS to/TO the/DT famous/JJ venue./NN
+Money/NN raised/VBD will/MD go/VB to/TO the/DT Fondation/NNP pour/VB l'Enfance/NN (Foundation/NN for/IN Childhood)/NNP which/WDT aims/VBZ to/TO rebuild/VB a/DT children's/NNS shelter/NN in/IN Sri/NNP Lanka./NNP
+Sir/NNP Elton/NNP played/VBD hits/NNS from/IN his/PRP$ vast/JJ back/RB catalogue/NN to/TO a/DT sell-out/JJ crowd/NN which/WDT included/VBD former/JJ French/JJ president/NN Valery/NNP Giscard/NNP d'Estaing/VBG and/CC his/PRP$ wife/NN Anne-Aymone./NNP
+The/DT veteran/NN pop/NN star/NN played/VBD piano/NN accompaniment/NN throughout/IN the/DT concert/NN which/WDT lasted/VBD for/IN three/CD hours/NNS without/IN an/DT interval./JJ
+
+He/PRP told/VBD the/DT crowd/NN "Throughout/NN the/DT years/NNS I've/NNP done/VBD a/DT lot/NN of/IN drugs/NNS and/CC alcohol./NN
+It's/NNP true/JJ that/IN I/PRP was/VBD a/DT nightmare/NN impossible./NN
+For/IN the/DT last/JJ 14/CD years/NNS I've/NNP been/VBN normal./NN
+Now/RB my/PRP$ drug/NN is/VBZ called/VBN David"/NNP -/: a/DT reference/NN to/TO David/NNP Furnish/NNP his/PRP$ partner./NN
+The/DT crowd/NN who/WP greeted/VBD each/DT song/NN with/IN a/DT standing/NN ovation/NN also/RB included/VBD French/JJ singer/NN Charles/NNP Aznavour/NNP and/CC British/JJ ambassador/NN Sir/NNP John/NNP Holmes./NNP
+Sir/NNP Elton/NNP has/VBZ also/RB teamed/VBN up/RP with/IN Phil/NNP Collins/NNP to/TO record/VB a/DT version/NN of/IN Eric/NNP Clapton's/NNP 1991/CD hit/VBD Tears/NNS In/IN Heaven/NN to/TO raise/VB money/NN for/IN the/DT relief/NN fund./NN
+A/DT release/NN date/NN has/VBZ yet/RB to/TO be/VB set/VBN for/IN the/DT recording/NN which/WDT was/VBD organised/VBN by/IN Sharon/NNP Osbourne./NNP

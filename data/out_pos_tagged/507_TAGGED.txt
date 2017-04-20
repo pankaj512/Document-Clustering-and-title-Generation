@@ -1,0 +1,25 @@
+UK/NNP economy/NN ends/VBZ year/NN with/IN spurt/NN
+
+The/DT UK/NNP economy/NN grew/VBN by/IN an/DT estimated/VBN 3.1%/CD in/IN 2004/CD after/IN accelerating/VBG in/IN the/DT last/JJ quarter/NN of/IN the/DT year/NN says/VBZ the/DT Office/NNP for/IN National/NNP Statistics/NNPS (ONS)./NN
+
+The/DT figure/NN is/VBZ in/IN line/NN with/IN Treasury/NNP and/CC Bank/NNP of/IN England/NNP forecasts./NN
+The/DT ONS/NNP says/VBZ gross/JJ domestic/JJ product/NN (GDP)/NN rose/VBD by/IN a/DT strong/JJ 0.7%/CD in/IN the/DT three/CD months/NNS to/TO 31/CD December/NNP compared/VBN with/IN 0.5%/CD in/IN the/DT previous/JJ quarter./NN
+The/DT rise/NN came/VBD despite/IN a/DT further/JJ decline/NN in/IN production/NN output/NN and/CC the/DT worst/JJS Christmas/NNP for/IN retailers/NNS in/IN decades./NN
+
+The/DT annual/JJ figure/NN marked/VBD out/RP the/DT best/JJS year/NN since/IN 2000/CD and/CC was/VBD also/RB well/RB ahead/RB of/IN the/DT 2.2%/CD recorded/VBN in/IN 2003./CD
+Growth/NN in/IN the/DT final/JJ three/CD months/NNS of/IN 2004/CD marked/VBD the/DT 50th/JJ consecutive/JJ quarter/NN of/IN expansion./NN
+"On/NN the/DT basis/NN of/IN the/DT latest/JJS information/NN the/DT UK/NNP has/VBZ entered/VBN 2005/CD on/IN course/NN to/TO continue/VB its/PRP$ record/NN period/NN of/IN growth"/NN said/VBD Paul/NNP Boateng/NNP chief/NN secretary/NN to/TO the/DT Treasury/NNP in/IN a/DT statement./NN
+
+The/DT ONS/NNP said/VBD the/DT services/NNS sector/NN which/WDT accounts/VBZ for/IN nearly/RB three-quarters/NNS of/IN the/DT UK/NNP economy/NN grew/VBD 1.0%/CD in/IN the/DT quarter./NN
+The/DT strong/JJ services/NNS figure/NN was/VBD welcomed/VBN by/IN analysts/NNS given/VBD lacklustre/NN retail/JJ sales/NNS in/IN December/NNP and/CC across/IN the/DT Christmas/NNP holiday/NN period./NN
+"The/NN fact/NN that/IN other/JJ services/NNS components/NNS are/VBP doing/VBG so/RB well/RB suggests/VBZ to/TO me/PRP that/IN we/PRP are/VBP back/RB to/TO trend/VB (growth)/NN and/CC I/PRP am/VBP not/RB particularly/RB concerned/VBN about/IN any/DT further/JJ slowdown"/NN said/VBD Ross/NNP Walker/NNP UK/NNP economist/NN at/IN RBS/NNP Financial/NNP Markets./NNP
+
+However/RB output/NN in/IN the/DT production/NN sector/NN contracted/VBD 0.5%/CD the/DT second/JJ quarterly/JJ fall/NN in/IN row/NN and/CC a/DT state/NN of/IN affairs/NNS that/IN some/DT economists/NNS classify/VBP as/IN a/DT recession./NN
+However/RB the/DT ONS/NNP would/MD not/RB comment/VB on/IN the/DT definition/NN of/IN a/DT recession/NN and/CC whether/IN the/DT manufacturing/NN recovery/NN was/VBD over./NN
+But/CC Steve/NNP Radley/NNP chief/NN economist/NN at/IN the/DT manufacturers'/NN organisation/NN EEF/NNP said/VBD "These/NN figures/NNS remain/VBP at/IN odds/NNS with/IN what/WP is/VBZ actually/RB happening/VBG on/IN the/DT ground./NN
+"Whilst/NN companies/NNS may/MD be/VB experiencing/VBG tougher/JJR conditions/NNS this/DT year/NN 'recession'/NN is/VBZ not/RB a/DT word/NN that/IN manufacturers/NNS would/MD currently/RB recognise."/VB The/DT ONS/NNP said/VBD a/DT sharp/JJ fall/NN in/IN mining/VBG and/CC quarrying/VBG which/WDT was/VBD driven/VBN by/IN oil/NN and/CC gas/NN extraction/NN was/VBD primarily/RB responsible/JJ for/IN the/DT overall/JJ contraction/NN in/IN manufacturing/NN production/NN figures./NN
+
+Simon/NNP Rubinsohn/NNP chief/NN economist/NN at/IN Gerrard/NNP said/VBD "This/NN outturn/NN (of/NN 0.7%)/CD was/VBD well/RB ahead/RB of/IN the/DT market/NN expectations/NNS and/CC cast/NN doubt/NN on/IN the/DT scare/NN stories/NNS doing/VBG the/DT rounds/NNS surrounding/VBG the/DT current/JJ state/NN of/IN the/DT UK/NNP economy."/NN And/CC he/PRP said/VBD the/DT GDP/NNP figures/NNS may/MD help/VB to/TO "push/VB interest/NN rate/NN expectations/NNS a/DT little/RB higher/JJR along/IN the/DT curve"./NN
+"The/NN suggestion/NN from/IN the/DT money/NN markets/NNS is/VBZ that/IN the/DT next/JJ move/NN is/VBZ now/RB more/RBR likely/JJ to/TO be/VB in/IN an/DT upward/RB rather/RB than/IN a/DT downward/JJ direction./NN
+This/DT is/VBZ consistent/JJ with/IN our/PRP$ own/JJ thinking"/NN said/VBD Mr/NNP Rubinsohn./NNP
+The/DT Bank/NNP of/IN England's/NNP nine-strong/JJ rate-setting/JJ committee/NN voted/VBD unanimously/RB earlier/RBR this/DT month/NN to/TO keep/VB interest/NN rates/NNS steady/JJ at/IN 4.75%/CD minutes/NNS of/IN the/DT meeting/NN showed/VBD on/IN Wednesday./NNP

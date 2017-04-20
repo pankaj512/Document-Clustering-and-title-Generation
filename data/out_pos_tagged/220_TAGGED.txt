@@ -1,0 +1,18 @@
+Standard/NNP Life/NNP concern/NN at/IN LSE/NNP bid/NN
+
+Standard/NNP Life/NNP is/VBZ the/DT latest/JJS shareholder/NN in/IN Deutsche/NNP Boerse/NNP to/TO express/VB concern/NN at/IN the/DT German/JJ stock/NN market/NN operator's/NNS plans/NNS to/TO buy/VB the/DT London/NNP Stock/NNP Exchange./NNP
+
+It/PRP said/VBD Deutsche/NNP Boerse/NNP had/VBD to/TO show/VB why/WRB its/PRP$ planned/VBN £1.35bn/CD ($2.5bn)/CD offer/NN for/IN the/DT LSE/NNP was/VBD good/JJ for/IN shareholder/NN value./NN
+Reports/NNS say/VBP Standard/NNP Life/NNP which/WDT owns/VBZ a/DT 1%/CD stake/NN in/IN Deutsche/NNP Boerse/NNP may/MD seek/VB a/DT shareholder/NN vote/NN on/IN the/DT issue./NN
+Fellow/NNP shareholders/NNS US-based/JJ hedge/VB fund/NN Atticus/NNP Capital/NNP and/CC UK-based/JJ TCI/NNP Fund/NNP Management/NNP have/VBP also/RB expressed/VBN doubts./NN
+
+Deutsche/NNP Boerse's/NNP supervisory/JJ board/NN has/VBZ approved/VBN the/DT possible/JJ takeover/NN of/IN the/DT LSE/NNP despite/IN the/DT signs/NNS of/IN opposition/NN from/IN investors./NN
+"The/NN onus/NN is/VBZ on/IN Deutsche/NNP Boerse's/NNP management/NN to/TO demonstrate/VB why/WRB the/DT purchase/NN of/IN the/DT LSE/NNP creates/VBZ more/JJR value/NN for/IN shareholders/NNS than/IN other/JJ strategies/NNS such/JJ as/IN a/DT buyback"/NN said/VBD Richard/NNP Moffat/NNP investment/NN director/NN of/IN UK/NNP Equities/NNPS at/IN Standard/NNP Life/NNP Investments./NNP
+Atticus/NNP Capital/NNP holding/VBG 2%/CD of/IN Deutsche/NNP Boerse/NNP wants/VBZ it/PRP to/TO buy/VB back/RB its/PRP$ own/JJ shares/NNS rather/RB than/IN buy/VB the/DT LSE./NNP
+And/CC TCI/NNP which/WDT holds/VBZ about/IN 5%/CD has/VBZ made/VBN a/DT request/NN for/IN an/DT extraordinary/JJ shareholders/NNS meeting/NN to/TO be/VB held/VBN to/TO vote/VB on/IN replacing/VBG the/DT company's/NNS entire/JJ supervisory/JJ board./NN
+It/PRP has/VBZ also/RB demanded/VBN that/IN shareholders/NNS be/VB consulted/VBN about/IN the/DT proposed/JJ acquisition/NN and/CC whether/IN the/DT operator/NN of/IN the/DT Frankfurt/NNP stock/NN exchange/NN should/MD return/VB $500m/CD (£266m)/CD to/TO shareholders/NNS instead./NN
+
+In/IN December/NNP Deutsche/NNP Boerse/NNP which/WDT also/RB owns/VBZ the/DT derivatives/NNS market/NN Eurex/NNP and/CC the/DT clearing/VBG firm/NN Clearstream/NNP put/VBD an/DT informal/JJ offer/NN of/IN 530/CD pence/NN per/IN LSE/NNP share/NN on/IN the/DT table./NN
+However/RB the/DT LSE/NNP said/VBD the/DT cash/NN offer/NN "undervalued"/NN both/DT its/PRP$ own/JJ business/NN and/CC the/DT benefits/NNS of/IN such/PDT a/DT tie-up./JJ
+Since/IN then/RB an/DT improved/VBN offer/NN from/IN Deutsche/NNP Boerse/NNP has/VBZ been/VBN anticipated/VBN as/IN its/PRP$ management/NN has/VBZ continued/VBN talks/NNS with/IN LSE/NNP chief/NN executive/NN Clara/NNP Furse./NNP
+But/CC the/DT London/NNP exchange/NN is/VBZ also/RB holding/VBG talks/NNS with/IN Deutsche/NNP Boerse's/NNP rival/JJ Euronext/NNP which/WDT operates/VBZ the/DT Amsterdam/NNP Brussels/NNP Lisbon/NNP and/CC Paris/NNP exchanges/NNS as/RB well/RB as/IN London-based/JJ international/JJ derivatives/NNS market/NN Liffe./NNP

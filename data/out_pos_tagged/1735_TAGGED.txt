@@ -1,0 +1,11 @@
+Safin/NN slumps/NNS to/TO shock/VB Dubai/NNP loss/NN
+
+Marat/NNP Safin/NNP suffered/VBD a/DT shock/NN loss/NN to/TO unseeded/VB Nicolas/NNP Kiefer/NNP in/IN round/NN one/CD of/IN the/DT Dubai/NNP Tennis/NN Championships./NNP
+
+Playing/VBG his/PRP$ first/JJ match/NN since/IN winning/VBG the/DT Australian/NNP Open/NNP Safin/NNP showed/VBD some/DT good/JJ touches/NNS but/CC was/VBD beaten/VBN 7-6/JJ (7-2)/JJ 6-4/NN by/IN the/DT in-form/JJ Kiefer./NNP
+The/DT German/NN got/VBD on/IN top/NN in/IN the/DT first-set/JJ tie-break/JJ striking/JJ a/DT sweet/JJ forehand/NN to/TO win/VB the/DT first/JJ point/NN against/IN serve./NN
+And/CC he/PRP maintained/VBD the/DT momentum/NN early/RB in/IN the/DT second/JJ set/VBN breaking/VBG the/DT Russian/JJ with/IN the/DT help/NN of/IN an/DT inspired/VBN volley./NN
+Spain's/NNP Feliciano/NNP Lopez/NNP lined/VBD up/RP a/DT second/JJ round/NN clash/NN with/IN Andre/NNP Agassi/NNP by/IN beating/VBG Thailand's/NNP Paradorn/NNP Srichaphan./NNP
+Lopez/NNP who/WP lost/VBD in/IN three/CD sets/NNS to/TO Roger/NNP Federer/NNP in/IN last/JJ year's/NNS final/NN won/VBD 6-2/JJ 3-6/JJ 6-3./JJ
+Former/NNP champion/NN Fabrice/NNP Santoro/NNP of/IN France/NNP was/VBD beaten/VBN 6-3/JJ 6-0/NN by/IN sixth/JJ seeded/VBN Russian/JJ Nikolay/NNP Davydenko./NNP
+There/EX were/VBD also/RB wins/VBZ for/IN two/CD other/JJ Russians/NNPS Igor/NNP Andreev/NNP and/CC seventh/JJ seed/NN Mikhail/NNP Youzhny./NNP

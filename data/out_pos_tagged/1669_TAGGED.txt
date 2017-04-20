@@ -1,0 +1,10 @@
+Dawson/NNP joins/VBZ England/NNP injury/NN list/NN
+
+Scrum-half/NNP Matt/NNP Dawson/NNP is/VBZ an/DT injury/NN doubt/NN for/IN England's/NNP Six/CD Nations/NNPS opener/NN against/IN Wales/NNP next/JJ weekend./NN
+
+The/DT World/NNP Cup/NNP winner/NN missed/VBN Wasps'/NNP 12-9/JJ loss/NN to/TO Bath/NN on/IN Saturday/NNP after/IN injuring/VBG his/PRP$ right/JJ calf./NN
+Wasps/NNP coach/NN Warren/NNP Gatland/NNP said/VBD "He's/NN got/VBD a/DT fitness/NN test/NN in/IN the/DT week/NN but/CC he's/NNS got/VBD a/DT good/JJ chance/NN of/IN playing."/NN Gloucester's/NNP Andy/NNP Hazell/NNP and/CC Leicester/NNP star/NN Lewis/NNP Moody/NNP also/RB received/VBD knocks/VBZ during/IN their/PRP$ respective/JJ league/NN matches/VBZ but/CC should/MD be/VB fit/VBN for/IN Wales/NNP next/JJ week./NN
+If/IN Dawson/NNP is/VBZ not/RB fit/VB to/TO face/VB Wales/NNP Robinson/NNP will/MD have/VB to/TO choose/VB from/IN Gloucester's/NNP Andy/NNP Gomarsall/NNP or/CC Leicester/NNP youngster/NN Harry/NNP Ellis./NNP
+
+Jamie/NNP Noon/NN is/VBZ another/DT player/NN on/IN the/DT sidelines/NNS after/IN he/PRP limped/VBD off/RP in/IN the/DT first/JJ half/NN against/IN Saracens/NNP on/IN Friday/NNP with/IN a/DT dead/JJ leg./NN
+The/DT centre/NN who/WP is/VBZ in/IN line/NN for/IN a/DT first/JJ Six/CD Nations/NNPS start/VBP against/IN Wales/NNP will/MD have/VB to/TO wait/VB 48/CD hours/NNS before/IN knowing/VBG the/DT state/NN of/IN his/PRP$ injury./NN

@@ -1,0 +1,13 @@
+Legendary/JJ Dutch/JJ boss/NN Michels/NNP dies/VBZ
+
+Legendary/JJ Dutch/JJ coach/NN Rinus/NNP Michels/NNP the/DT man/NN credited/VBN with/IN developing/VBG "total/JJ football"/NN has/VBZ died/VBN aged/VBN 77./CD
+
+Referred/VBD to/TO in/IN the/DT Netherlands/NNP as/IN "the/NN General"/NNP Michels/NNP led/VBD the/DT Dutch/NN at/IN the/DT 1974/CD World/NNP Cup/NNP -/: when/WRB they/PRP reached/VBD the/DT final/JJ only/RB to/TO lose/VB 2-1/JJ to/TO Germany./NNP
+However/RB he/PRP guided/VBD his/PRP$ side/NN to/TO the/DT 1988/CD European/NNP Championship/NNP title/NN with/IN a/DT 2-0/JJ win/NN over/IN the/DT Soviet/NNP Union/NNP in/IN the/DT final./NN
+Michels/NNP played/VBD for/IN Ajax/NNP and/CC coached/VBD the/DT side/NN to/TO four/CD national/JJ titles/NNS between/IN 1965-71/JJ and/CC a/DT European/NNP Cup/NNP in/IN 1971./CD
+His/PRP$ 1970s/NNS Dutch/JJ team/NN was/VBD built/VBN around/IN Johan/NNP Cruyff/NNP and/CC Johan/NNP Neeskens/NNP and/CC introduced/VBD the/DT concept/NN of/IN 'total/JJ football'/NN to/TO the/DT world./NN
+The/DT strategy/NN was/VBD to/TO foster/VB team/NN coherence/NN and/CC individual/JJ imagination/NN -/: with/IN all/DT players/NNS possessing/VBG the/DT skills/NNS to/TO play/VB in/IN any/DT part/NN of/IN the/DT pitch./NN
+Cruyff/NNP was/VBD the/DT on-field/JJ organiser/NN of/IN a/DT team/NN whose/WP$ players/NNS rotated/VBD in/IN and/CC out/IN of/IN defence/NN at/IN will/MD and/CC was/VB encouraged/VBN to/TO play/VB creative/JJ attacking/NN football./NN
+Michels/NNP had/VBD recently/RB undergone/VBN heart/NN surgery/NN and/CC Dutch/JJ football/NN federation/NN (KNVB)/NN spokesman/NN Frank/NNP Huizinga/NNP said/VBD "He/NN was/VBD one/CD of/IN the/DT best/JJS coaches/NNS we/PRP had/VBD in/IN history."/NN The/DT no-nonsense/JJ coach/NN also/RB enjoyed/VBD spells/NNS at/IN Barcelona/NNP who/WP he/PRP took/VBD to/TO a/DT Spanish/JJ title/NN in/IN 1974/CD FC/NNP Cologne/NNP and/CC Bayer/NNP Leverkusen./NNP
+Michels/NNP named/VBD coach/NN of/IN the/DT century/NN by/IN world/NN football's/NNS governing/VBG body/NN Fifa/NNP in/IN 1999/CD also/RB won/VBD five/CD caps/NNS for/IN the/DT Netherlands/NNP as/IN a/DT bruising/JJ centre/NN forward./NN
+Dutch/JJ sports/NNS minister/NN Clemence/NNP Ross-van/NNP Dorp/NNP said/VBD "He/NN was/VBD the/DT man/NN who/WP together/RB with/IN Cruyff/NNP made/VBD Dutch/JJ football/NN big."/NN

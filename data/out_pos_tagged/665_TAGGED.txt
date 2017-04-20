@@ -1,0 +1,15 @@
+Disputed/VBN Nirvana/NNP box/NN set/VBN on/IN sale/NN
+
+A/DT box/NN set/VBN featuring/VBG 68/CD unreleased/VBN Nirvana/NNP tracks/VBZ has/VBZ gone/VBN on/IN sale/NN in/IN the/DT US/PRP after/IN years/NNS of/IN legal/JJ wrangles./NN
+
+With/IN the/DT Lights/NNP Out/IN was/VBD intended/VBN to/TO be/VB released/VBN in/IN 2001/CD to/TO mark/VB the/DT 10th/JJ anniversary/NN of/IN the/DT album/NN Nevermind./NNP
+It/PRP was/VBD blocked/VBN by/IN Courtney/NNP Love/NNP the/DT widow/NN of/IN Nirvana/NNP frontman/NN Kurt/NNP Cobain/NNP who/WP did/VBD not/RB want/VB unreleased/VBN song/NN You/PRP Know/NNP You're/NNP Right/RB on/IN the/DT box/NN set./NN
+The/DT dispute/NN between/IN Love/NNP and/CC surviving/VBG band/NN members/NNS Krist/NNP Novoselic/NNP and/CC drummer/NN Dave/NNP Grohl/NNP was/VBD settled/VBN in/IN 2002./CD
+Work/NN began/VBD on/IN the/DT box/NN set/VBN in/IN 1998/CD but/CC legal/JJ battles/NNS put/VBD the/DT project/NN on/IN hold./NN
+The/DT legal/JJ fight/NN centred/VBN on/IN a/DT studio/NN recording/NN of/IN the/DT unreleased/VBN track/NN You/PRP Know/NNP You're/NNP Right/RB regarded/VBN by/IN fans/NNS as/IN one/CD of/IN the/DT unreleased/VBN gems/NNS of/IN Nirvana./NNP
+The/DT set/VBN released/VBD on/IN Tuesday/NNP features/NNS three/CD CDs/NNS and/CC a/DT DVD/NNP of/IN rare/JJ performance/NN and/CC rehearsal/JJ footage./NN
+The/DT DVD/NNP also/RB includes/VBZ the/DT first/JJ performance/NN of/IN Smells/NNS Like/IN Teen/JJ Spirit/NN the/DT track/NN that/WDT launched/VBN Nirvana/NNP on/RP to/TO the/DT international/JJ stage/NN in/IN 1991./CD
+"The/NN band/NN wasn't/NN always/RB pretty/RB or/CC always/RB in/IN tune./NN
+This/DT is/VBZ not/RB Nirvana/NNP unplugged./NN
+It's/NNP Nirvana/NNP unedited"/NN said/VBD Cobain/NNP biographer/NN Charles/NNP Cross./NNP
+The/DT band's/NNS development/NN ended/VBD tragically/RB when/WRB songwriter/NN Kurt/NNP Cobain/NNP committed/VBD suicide/NN in/IN April/NNP 1994./CD

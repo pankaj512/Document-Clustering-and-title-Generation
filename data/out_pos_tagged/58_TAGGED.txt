@@ -1,0 +1,15 @@
+Electrolux/NN to/TO export/VB Europe/NNP jobs/NNS
+
+Electrolux/NNP saw/VBD its/PRP$ shares/NNS rise/VBP 14%/CD on/IN Tuesday/NNP after/IN it/PRP said/VBD it/PRP would/MD be/VB shifting/VBG more/JJR of/IN its/PRP$ manufacturing/NN to/TO low-cost/JJ countries./NN
+
+The/DT Swedish/JJ firm/NN the/DT world's/NNS largest/JJS maker/NN of/IN home/NN appliances/NNS said/VBD it/PRP is/VBZ to/TO relocate/VB about/IN 10/CD of/IN its/PRP$ 27/CD plants/NNS in/IN western/JJ Europe/NNP and/CC North/NNP America./NNP
+It/PRP did/VBD not/RB say/VB which/WDT facilities/NNS would/MD be/VB affected/VBN but/CC intends/VBZ moving/VBG them/PRP to/TO Asia/NNP eastern/JJ Europe/NNP and/CC Mexico./NNP
+The/DT company/NN has/VBZ two/CD manufacturing/NN sites/NNS in/IN County/NNP Durham./NNP
+It/PRP makes/VBZ lawn/NN and/CC garden/NN products/NNS in/IN Newton/NNP Aycliffe/NNP and/CC cookers/NNS and/CC ovens/NNS in/IN Spennymoor./NNP
+The/DT Newton/NNP Aycliffe/NNP plant/NN could/MD also/RB be/VB affected/VBN by/IN Electrolux's/NNP separate/JJ announcement/NN that/IN it/PRP is/VBZ to/TO spin-off/VB its/PRP$ outdoor/JJ products/NNS unit/NN into/IN a/DT new/JJ separate/JJ company./NN
+
+Electrolux's/NNP subsidiary/NN brands/NNS include/VBP AEG/NNP Zanussi/NNP and/CC Frigidaire./NNP
+The/DT company/NN said/VBD it/PRP was/VBD speeding/VBG up/RP its/PRP$ restructuring/NN programme/NN which/WDT aims/VBZ to/TO save/VB between/IN £190m/CD and/CC £265m/CD annually/RB from/IN 2009./CD
+"We/NN see/NN that/IN about/IN half/PDT the/DT plants/NNS in/IN high-cost/JJ countries/NNS -/: that/WDT is/VBZ around/IN 10/CD -/: are/VBP at/IN risk"/NN said/VBD Electrolux/NNP chief/NN executive/NN Hans/NNP Straberg./NNP
+"It/NN looks/VBZ pretty/RB grim"/NN said/VBD Swedish/JJ trades/NNS union/NN official/NN Ulf/NNP Carlsson./NNP
+"What/NN are/VBP we/PRP going/VBG to/TO end/VB up/RP producing/VBG in/IN Sweden?"/NNP

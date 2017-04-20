@@ -1,0 +1,23 @@
+S/NNP Korean/JJ lender/NN faces/VBZ liquidation/NN
+
+Creditors/NNS of/IN South/NNP Korea's/NNP top/JJ credit/NN card/NN firm/NN have/VBP said/VBN they/PRP will/MD put/VB the/DT company/NN into/IN liquidation/NN if/IN its/PRP$ ex-parent/NN firm/NN fails/VBZ to/TO back/VB a/DT bail-out./JJ
+
+LG/NNP Card's/NNP creditors/NNS have/VBP given/VBN LG/NNP group/NN until/IN Wednesday/NNP to/TO sign/VB up/IN to/TO a/DT $1.1bn/CD rescue/NN package./NN
+The/DT firm/NN avoided/VBD bankruptcy/NN thanks/NNS to/TO a/DT $4.5bn/CD bail-out/JJ in/IN January/NNP 2004/CD which/WDT gave/VBD control/NN to/TO the/DT creditors./NN
+LG/NNP Group/NNP has/VBZ said/VBN any/DT package/NN should/MD reflect/VB the/DT firm's/VBZ new/JJ ownership/NN and/CC it/PRP will/MD not/RB accept/VB an/DT unfair/JJ burden./NN
+At/IN least/JJS seven/CD million/CD people/NNS in/IN South/NNP Korea/NNP use/NN LG/NNP Card's/NNP plastic/NN for/IN purchases./NN
+
+LG/NNP Card's/NNP creditors/NNS have/VBP threatened/VBN parent/NN group/NN LG/NNP Group/NNP with/IN penalties/NNS if/IN it/PRP fails/VBZ to/TO respond/VB to/TO their/PRP$ demands./NN
+
+"Creditors/NN would/MD seek/VB strong/JJ financial/JJ sanctions/NNS against/IN LG/NNP Group/NNP if/IN LG/NNP Card/NNP is/VBZ liquidated"/NN said/VBN Yoo/NNP Ji-chang/NNP governor/NN of/IN Korean/JJ Development/NNP Bank/NNP (KDB)/NN -/: one/CD of/IN the/DT card/NN firm's/NNS major/JJ creditors./NN
+LG/NNP Group/NNP has/VBZ said/VBN providing/VBG further/JJ help/NN to/TO the/DT credit/NN card/NN issuer/NN could/MD hurt/VB its/PRP$ corporate/JJ credibility/NN and/CC could/MD spark/VB shareholder/NN lawsuits./NN
+It/PRP says/VBZ it/PRP wants/VBZ "fair/NN and/CC reasonable/JJ guidelines"/NN on/IN splitting/NN the/DT financial/JJ burden/NN with/IN the/DT creditors/NNS who/WP now/RB own/VB 99.3%/CD of/IN LG/NNP Card./NNP
+The/DT creditors/NNS have/VBP asked/VBN the/DT government/NN to/TO mediate/VB to/TO avoid/VB any/DT risk/NN to/TO the/DT stability/NN of/IN financial/JJ markets/NNS KDB/NNP said./NN
+Analysts/NNS believe/VBP a/DT compromise/NN is/VBZ likely./NN
+"LG/NNP Group/NNP knows/VBZ the/DT impact/NN on/IN consumer/NN demand/NN and/CC the/DT national/JJ economy/NN from/IN a/DT liquidation/NN of/IN LG/NNP Card"/NNP said/VBD Kim/NNP Yungmin/NNP an/DT equity/NN strategist/NN at/IN Dongwon/NNP Investment/NNP Trust/NNP Management./NNP
+
+LG/NNP Card/NNP almost/RB collapsed/VBD in/IN 2003/CD due/JJ to/TO an/DT increase/NN in/IN overdue/JJ credit/NN card/NN bills/NNS after/IN the/DT bursting/NN of/IN a/DT credit/NN bubble./NN
+The/DT firm/NN returned/VBD to/TO profit/VB in/IN September/NNP 2004/CD but/CC now/RB needs/VBZ a/DT capital/NN injection/NN to/TO avoid/VB being/VBG delisted/VBN from/IN the/DT Korea/NNP Stock/NNP Exchange./NNP
+The/DT exchange/NN can/MD delist/VB a/DT company/NN if/IN its/PRP$ debt/NN exceeds/VBZ its/PRP$ assets/NNS for/IN two/CD years/NNS running./NN
+LG/NN card's/NNS creditors/NNS fear/VBP that/IN such/PDT a/DT move/NN would/MD triggered/VB massive/JJ debt/NN redemption/NN requests/NNS that/WDT could/MD bankrupt/VB the/DT firm/NN which/WDT owes/VBZ about/IN $12.05bn./CD
+"Eventually/RB LG/NNP Group/NNP will/MD have/VB to/TO participate/VB but/CC they/PRP have/VBP been/VBN stalling/VBG to/TO try/VB to/TO earn/VB better/JJR concessions"/NN said/VBD Mr/NNP Kim./NNP

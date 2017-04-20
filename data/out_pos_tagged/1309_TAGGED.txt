@@ -1,0 +1,11 @@
+Sainsbury's/NNP Labour/NNP election/NN gift/NN
+
+Science/NNP Minister/NNP Lord/NNP Sainsbury/NNP has/VBZ made/VBN a/DT £2m/CD donation/NN to/TO the/DT Labour/NNP Party/NNP for/IN its/PRP$ General/NNP Election/NNP fund./NN
+
+It/PRP is/VBZ the/DT latest/JJS hefty/JJ donation/NN to/TO the/DT party/NN by/IN the/DT billionaire/NN -/: he/PRP has/VBZ contributed/VBN more/JJR than/IN £10m/CD since/IN 1999./CD
+David/NNP Sainsbury/NNP said/VBD he/PRP was/VBD pleased/JJ to/TO give/VB cash/NN to/TO a/DT party/NN that/WDT had/VBD the/DT "vision"/NN to/TO deliver/VB economic/JJ prosperity/NN and/CC better/JJR public/JJ services/NNS for/IN Britain./NNP
+General/NNP Secretary/NNP Matt/NNP Carter/NNP said/VBD it/PRP was/VBD "a/NN fantastic/JJ gift"/NN that/WDT would/MD help/VB Labour/NNP "fight/NN and/CC win/VB the/DT election"./NN
+
+"Through/NN the/DT generosity/NN of/IN David/NNP Sainsbury/NNP and/CC other/JJ Labour/NNP supporters/NNS Labour/NNP will/MD be/VB campaigning/NN hard/JJ to/TO take/VB Britain/NNP forward/RB and/CC to/TO stop/VB the/DT Tories/NNPS taking/VBG us/PRP back"/VBP Mr/NNP Carter/NNP said./NN
+Lord/NNP Sainsbury/NNP added/VBD "I/NN am/VBP pleased/JJ to/TO be/VB able/JJ to/TO make/VB this/DT contribution/NN to/TO the/DT general/JJ election/NN funds/NNS of/IN the/DT Labour/NNP Party/NNP because/IN I/PRP believe/VBP that/IN they/PRP are/VBP the/DT only/JJ party/NN that/WDT has/VBZ the/DT vision/NN to/TO deliver/VB both/DT economic/JJ prosperity/NN and/CC better/JJR public/JJ services/NNS for/IN Britain."/NNP The/DT 64-year-old/JJ latest/JJS donation/NN follows/VBZ a/DT £2.5m/CD gift/NN to/TO the/DT party/NN in/IN 2003./CD
+Lord/NNP Sainsbury/NNP was/VBD created/VBN a/DT life/NN peer/NN in/IN 1997/CD a/DT year/NN before/IN he/PRP was/VBD appointed/VBN as/IN minister/NN for/IN science./NN

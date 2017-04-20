@@ -1,0 +1,19 @@
+D'Arcy/NNP injury/NN adds/VBZ to/TO Ireland/NNP woe/NN
+
+Gordon/NNP D'Arcy/NNP has/VBZ been/VBN ruled/VBN out/IN of/IN the/DT Ireland/NNP team/NN for/IN Saturday's/NNP Six/CD Nations/NNPS clash/NN against/IN Scotland/NNP in/IN Murrayfield./NNP
+
+Like/IN skipper/NN Brian/NNP O'Driscoll/NNP D'Arcy/NNP failed/VBD to/TO recover/VB from/IN a/DT hamstring/VBG injury./NN
+The/DT side/NN will/MD now/RB be/VB led/VBN by/IN Munster/NNP lock/VB Paul/NNP O'Connell./NNP
+Shane/NNP Horgan/NNP switches/VBZ from/IN wing/NN to/TO centre/VB where/WRB he/PRP will/MD be/VB joined/VBN by/IN Ulster's/NNP Kevin/NNP Maggs./NNP
+Girvan/NNP Dempsey/NNP comes/VBZ into/IN the/DT team/NN to/TO take/VB the/DT right/JJ wing/NN spot/NN while/IN Gavin/NNP Duffy/NNP is/VBZ called/VBN up/IN to/TO the/DT replacements./NN
+''We/NN gave/VBD Gordon/NNP a/DT chance/NN but/CC it/PRP didn't/NN work/NN out''/NN said/VBD Ireland/NNP coach/NN Eddie/NNP O'Sullivan./NNP
+''In/NN terms/NNS of/IN the/DT risk/NN element/NN it/PRP was/VBD a/DT sensible/JJ precaution./NN
+He/PRP should/MD be/VB fine/NN for/IN the/DT next/JJ game/NN but/CC we/PRP do/VBP not/RB want/VB to/TO tempt/VB fate.''/NN
+
+Maggs/NNP who/WP will/MD win/VB his/PRP$ 67th/JJ cap/NN was/VBD the/DT obvious/JJ replacement/NN at/IN centre/NN while/IN Shane/NNP Horgan/NNP was/VBD always/RB likely/JJ to/TO be/VB moved/VBN from/IN the/DT wing./NN
+The/DT only/JJ other/JJ change/NN to/TO the/DT Ireland/NNP side/NN from/IN last/JJ weekend's/NNS win/VBP in/IN Rome/NNP sees/VBZ Wasps/NNP flanker/NN Johnny/NNP O'Connor/NNP replacing/VBG Denis/NNP Leamy./NNP
+O'Connor/NNP will/MD be/VB winning/VBG his/PRP$ third/JJ cap/NN after/IN making/VBG his/PRP$ debut/NN in/IN the/DT victory/NN over/IN South/NNP Africa/NNP last/JJ November./NNP
+
+Murphy/NNP Dempsey/NNP Horgan/NNP Maggs/NNP Hickie/NNP O'Gara/NNP Stringer/NNP Corrigan/NNP Byrne/NNP Hayes/NNP O'Kelly/NNP O'Connell/NNP capt/NN S/NNP Easterby/NNP O'Connor/NNP Foley./NNP
+
+Sheahan/NNP Horan/NNP O'Callaghan/NNP Miller/NNP G/NNP Easterby/NNP Humphreys/NNP Duffy./NNP

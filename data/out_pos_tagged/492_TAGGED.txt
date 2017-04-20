@@ -1,0 +1,10 @@
+Parmalat/NNP bank/NN barred/VBN from/IN suing/VBG
+
+Bank/NNP of/IN America/NNP has/VBZ been/VBN banned/VBN from/IN suing/VBG Parmalat/NNP the/DT food/NN group/NN which/WDT went/VBD bust/NN in/IN 2003/CD after/IN an/DT accounting/NN scandal./NN
+
+The/DT bank/NN -/: along/IN with/IN investors/NNS auditors/NNS and/CC the/DT group's/NNS managers/NNS -/: wants/VBZ damages/NNS for/IN being/VBG a/DT victim/NN of/IN fraud/NN at/IN the/DT hands/NNS of/IN the/DT Italian/JJ firm./NN
+But/CC a/DT judge/NN has/VBZ barred/VBN Bank/NNP of/IN America/NNP and/CC two/CD auditors/NNS from/IN the/DT case./NN
+The/DT bank/NN and/CC Italaudit/NNP -/: formerly/RB the/DT Italian/JJ arm/NN of/IN auditor/NN Grant/NNP Thornton/NNP -/: face/NN lawsuits/NNS and/CC possible/JJ prosecution./NN
+A/DT second/JJ auditor/NN Deloitte/NNP &/CC Touche/NNP has/VBZ also/RB been/VBN banned/VBN from/IN the/DT case./NN
+Grant/NNP Thornton/NNP -/: now/RB rid/VB of/IN the/DT Italian/JJ unit/NN at/IN the/DT centre/NN of/IN the/DT case/NN -/: is/VBZ still/RB being/VBG permitted/VBN to/TO sue/VB as/IN are/VBP Consob/NNP Italy's/NNP stock/NN market/NN regulator/NN hundreds/NNS of/IN small/JJ investors/NNS and/CC Parmalat's/NNP new/JJ managers./NN
+Parmalat/NNP collapsed/VBD in/IN December/NNP 2003/CD after/IN it/PRP emerged/VBD that/IN the/DT 4bn/CD euros/NNS ($5.2bn/CD £2.8bn)/CD it/PRP supposedly/RB held/VBD in/IN a/DT Bank/NNP of/IN American/NNP offshore/RB account/NN did/VBD not/RB in/IN fact/NN exist./NN

@@ -1,0 +1,38 @@
+Camera/NN phones/NNS are/VBP 'must-haves'/JJ
+
+Four/CD times/NNS more/JJR mobiles/NNS with/IN cameras/NNS in/IN them/PRP will/MD be/VB sold/VBN in/IN Europe/NNP by/IN the/DT end/NN of/IN 2004/CD than/IN last/JJ year/NN says/VBZ a/DT report/NN from/IN analysts/NNS Gartner./NNP
+
+Globally/RB the/DT number/NN sold/VBN will/MD reach/VB 159/CD million/CD an/DT increase/NN of/IN 104%./CD
+The/DT report/NN predicts/VBZ that/IN nearly/RB 70%/CD of/IN all/DT mobile/JJ phones/NNS sold/VBN will/MD have/VB a/DT built-in/JJ camera/NN by/IN 2008./CD
+Improving/NN imaging/NN technology/NN in/IN mobiles/NNS is/VBZ making/VBG them/PRP an/DT increasingly/RB "must-have"/JJ buy./NN
+In/IN Europe/NNP cameras/NNS on/IN mobiles/NNS can/MD take/VB 1.3/CD megapixel/NN images./NN
+But/CC in/IN Japan/NNP and/CC Asia/NNP Pacific/NNP where/WRB camera/NN phone/NN technology/NN is/VBZ much/RB more/JJR advanced/JJ mobiles/NNS have/VBP already/RB been/VBN released/VBN which/WDT can/MD take/VB 3.2/CD megapixel/NN images./NN
+Japan/NNP still/RB dominates/VBZ mobile/JJ phone/NN technology/NN and/CC the/DT uptake/NN there/EX is/VBZ huge./NN
+By/IN 2008/CD according/VBG to/TO Gartner/NNP 95%/CD of/IN all/DT mobiles/NNS sold/VBN there/EX will/MD have/VB cameras/NNS on/IN them./NN
+
+Camera/NN phones/NNS had/VBD some/DT teething/VBG problems/NNS when/WRB they/PRP were/VBD first/RB launched/VBN as/IN people/NNS struggled/VBD with/IN poor/JJ quality/NN images/NNS and/CC uses/VBZ for/IN them/PRP as/RB well/RB as/IN the/DT complexity/NN and/CC expense/NN of/IN sending/VBG them/PRP via/IN MMS/NNP (Multimedia/NN Messaging/NNP Services)./NNP
+This/DT has/VBZ changed/VBN in/IN the/DT last/JJ 18/CD months./NN
+Handset/NN makers/NNS have/VBP concentrated/VBN on/IN trying/VBG to/TO make/VB phones/NNS easier/JJR to/TO use./VB
+Realising/NNP that/IN people/NNS like/VBP to/TO use/VB their/PRP$ camera/NN phones/NNS in/IN different/JJ ways/NNS they/PRP have/VBP introduced/VBN more/JJR design/NN features/NNS like/IN rotating/VBG screens/NNS and/CC viewfinders/NNS removable/JJ memory/NN cards/NNS and/CC easier/JJR controls/NNS to/TO send/VB picture/NN messages./NN
+
+Mobile/NN companies/NNS have/VBP introduced/VBN more/JJR ways/NNS for/IN people/NNS to/TO share/VB photos/NNS with/IN other/JJ people./NN
+These/DT have/VBP included/VBN giving/VBG people/NNS easier/JJR ways/NNS to/TO publish/VB them/PRP on/IN websites/NNS or/CC mobile/JJ blogs/NNS -/: moblogs./NN
+But/CC the/DT report/NN suggests/VBZ that/IN until/IN image/NN quality/NN increases/NNS more/JJR people/NNS will/MD not/RB be/VB interested/JJ in/IN printing/NN out/RP pictures/NNS at/IN kiosks./NN
+Image/NN sensor/NN technology/NN inside/IN cameras/NNS phones/NNS is/VBZ improving./NN
+The/DT Gartner/NNP report/NN suggests/VBZ that/IN by/IN mid-2005/JJ it/PRP is/VBZ likely/JJ that/IN the/DT image/NN resolution/NN of/IN most/JJS camera/NN phones/NNS will/MD be/VB more/JJR than/IN two/CD megapixels./NN
+Consumer/NNP digital/JJ cameras/NNS images/NNS range/VBP from/IN two/CD to/TO four/CD megapixels/NNS in/IN quality/NN and/CC up/IN to/TO six/CD megapixels/NNS on/IN a/DT high-end/JJ camera./NN
+But/CC a/DT lot/NN of/IN work/NN is/VBZ being/VBG done/VBN to/TO make/VB camera/NN phones/NNS more/JJR like/IN digital/JJ cameras./NN
+Some/DT handsets/NNS already/RB feature/VBP limited/JJ zoom/NN capability/NN and/CC manufacturers/NNS are/VBP looking/VBG into/IN technological/JJ improvements/NNS that/WDT will/MD let/VB people/NNS take/VB more/JJR photos/NNS in/IN poorly-lit/JJ conditions/NNS like/IN nightclubs./NN
+Other/JJ developments/NNS include/VBP wide-angle/JJ modes/NNS basic/JJ editing/NN features/NNS and/CC better/JJR sensors/NNS and/CC processors/NNS for/IN recording/NN film/NN clips./NN
+
+Images/NNS from/IN camera/NN phones/NNS have/VBP even/RB made/VBN it/PRP into/IN the/DT art/NN world./NN
+An/DT exhibition/NN next/JJ month/NN in/IN aid/NN of/IN the/DT charity/NN Mencap/NNP will/MD feature/VB snaps/VBZ taken/VBN from/IN the/DT camera/NN phones/NNS of/IN top/JJ artists./NN
+
+The/DT exhibition/NN Fonetography/NNP will/MD feature/VB images/NNS taken/VBN by/IN photographers/NNS David/NNP Bailey/NNP Rankin/NNP and/CC Nan/NNP Goldin/NNP and/CC artists/NNS Sir/NNP Peter/NNP Blake/NNP Tracey/NNP Emin/NNP and/CC Jack/NNP Vettriano./NNP
+But/CC some/DT uses/VBZ for/IN them/PRP have/VBP worried/JJ many/JJ organisations./NN
+Intel/NNP Samsung/NNP the/DT UK's/NNP Foreign/NNP Office/NNP and/CC Lawrence/NNP Livermore/NNP National/NNP Laboratories/NNPS in/IN the/DT US/PRP have/VBP decided/VBN to/TO ban/VB camera/NN phones/NNS from/IN their/PRP$ buildings/NNS for/IN fear/NN of/IN sensitive/JJ information/NN being/VBG snapped/VBN and/CC leaked./NN
+Many/JJ schools/NNS fitness/NN centres/NNS and/CC local/JJ councils/NNS have/VBP also/RB banned/VBN them/PRP over/IN fears/NNS about/IN privacy/NN and/CC misuse./NN
+Italy's/NNP information/NN commissioner/NN has/VBZ also/RB voiced/VBN concern/NN and/CC has/VBZ issued/VBN guidelines/NNS on/IN where/WRB and/CC how/WRB the/DT phones/NNS can/MD be/VB used./NN
+But/CC camera/NN phone/NN fears/NNS have/VBP not/RB dampened/VBN the/DT manufacturers'/NN profits./NN
+According/VBG to/TO recent/JJ figures/NNS Sony/NNP Ericsson's/NNP profits/NNS tripled/VBN in/IN the/DT third-quarter/NN because/IN of/IN new/JJ camera/NN phones./NN
+Over/IN 60%/CD of/IN mobiles/NNS sold/VBN during/IN the/DT three/CD months/NNS through/IN to/TO September/NNP featured/VBD integrated/VBN cameras/NNS it/PRP said./NN

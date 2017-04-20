@@ -1,0 +1,38 @@
+Irish/JJ finish/NN with/IN home/NN game/NN
+
+Republic/NNP of/IN Ireland/NNP manager/NN Brian/NNP Kerr/NNP has/VBZ been/VBN granted/VBN his/PRP$ wish/NN for/IN a/DT home/NN game/NN as/IN the/DT final/JJ World/NNP Cup/NNP qualifier./NN
+
+Ireland/NNP will/MD close/VB their/PRP$ bid/NN to/TO reach/VB the/DT 2006/CD finals/NNS by/IN playing/VBG Switzerland/NNP in/IN Dublin/NNP on/IN 12/CD October/NNP 2005./CD
+The/DT Republic/NNP met/VBD the/DT Swiss/NN in/IN their/PRP$ final/JJ Euro/NNP 2004/CD qualifier/NN losing/VBG 2-0/JJ away/RB and/CC missing/VBG out/RP on/IN a/DT place/NN in/IN the/DT finals/NNS in/IN Portugal./NNP
+The/DT Group/NNP Four/CD fixtures/NNS were/VBD hammered/VBN out/RP at/IN a/DT meeting/NN in/IN Dublin/NNP on/IN Tuesday./NNP
+The/DT Irish/JJ open/VB their/PRP$ campaign/NN on/IN 4/CD September/NNP at/IN home/NN to/TO Cyprus/NNP and/CC wrap/VB up/RP the/DT 10-match/JJ series/NN on/IN 12/CD October/NNP 2005/CD with/IN the/DT visit/NN of/IN Switzerland./NNP
+Manager/NNP Brian/NNP Kerr/NNP and/CC FAI/NNP officials/NNS met/VBD representatives/NNS from/IN Switzerland/NNP France/NNP Cyprus/NNP Israel/NNP and/CC the/DT Faroe/NNP Islands/NNP to/TO arrange/VB the/DT fixture/NN schedule./NN
+Kerr/NNP had/VBD hoped/VBN to/TO finish/VB with/IN a/DT clash/NN against/IN France/NNP but/CC got/VBD the/DT reigning/VBG European/JJ champions/NNS as/IN their/PRP$ penultimate/NN home/NN match/NN on/IN 7/CD September/NNP 2005./CD
+The/DT manager/NN got/VBD his/PRP$ wish/NN to/TO avoid/VB a/DT repeat/NN of/IN finishing/VBG their/PRP$ bid/NN to/TO qualify/VB with/IN too/RB many/JJ away/RB matches./NN
+
+Republic/NNP of/IN Ireland/NNP v/NN Cyprus/NNP France/NNP v/NN Israel/NNP Switzerland/NNP v/NN Faroe/NNP Islands./NNP
+
+Switzerland/NNP v/NN Republic/NNP of/IN Ireland/NNP Israel/NNP v/NN Cyprus/NNP Faroe/NNP Islands/NNP v/NN France./NNP
+
+France/NNP v/NN Republic/NNP of/IN Ireland/NNP Israel/NNP v/NN Switzerland/NNP Cyprus/NNP v/NN Faroe/NNP Islands./NNP
+
+Republic/NNP of/IN Ireland/NNP v/NN Faroe/NNP Islands/NNP Cyprus/NNP v/NN France./NNP
+
+Cyprus/NNP v/NN Israel./NNP
+
+France/NNP v/NN Switzerland/NNP Israel/NNP v/NN Republic/NNP of/IN Ireland./NNP
+
+Switzerland/NNP v/NN Cyprus/NNP Israel/NNP v/NN France./NNP
+
+Republic/NNP of/IN Ireland/NNP v/NN Israel/NNP Faroe/NNP Islands/NNP v/NN Switzerland./NNP
+
+Faroe/NNP Islands/NNP v/NN Republic/NNP of/IN Ireland./NNP
+August/NNP 17/CD -/: Faroe/NNP Islands/NNP v/NN Cyprus./NNP
+
+France/NNP v/NN Faroe/NNP Islands/NNP Switzerland/NNP v/NN Israel./NNP
+
+Republic/NNP of/IN Ireland/NNP v/NN France/NNP Cyprus/NNP v/NN Switzerland/NNP Faroe/NNP Islands/NNP v/NN Israel./NNP
+
+Switzerland/NNP v/NN France/NNP Israel/NNP v/NN Faroe/NNP Islands/NNP Cyprus/NNP v/NN Republic/NNP of/IN Ireland./NNP
+
+France/NNP v/NN Cyprus/NNP Republic/NNP of/IN Ireland/NNP v/NN Switzerland./NNP

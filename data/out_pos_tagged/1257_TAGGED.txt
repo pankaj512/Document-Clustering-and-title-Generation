@@ -1,0 +1,29 @@
+Budget/NN to/TO set/VB scene/NN for/IN election/NN
+
+Gordon/NNP Brown/NNP will/MD seek/VB to/TO put/VB the/DT economy/NN at/IN the/DT centre/NN of/IN Labour's/NNP bid/NN for/IN a/DT third/JJ term/NN in/IN power/NN when/WRB he/PRP delivers/VBZ his/PRP$ ninth/JJ Budget/NNP at/IN 1230/CD GMT./NNP
+He/PRP is/VBZ expected/VBN to/TO stress/VB the/DT importance/NN of/IN continued/JJ economic/JJ stability/NN with/IN low/JJ unemployment/NN and/CC interest/NN rates./NN
+The/DT chancellor/NN is/VBZ expected/VBN to/TO freeze/VB petrol/NN duty/NN and/CC raise/VB the/DT stamp/NN duty/NN threshold/NN from/IN £60000./CD
+But/CC the/DT Conservatives/NNS and/CC Lib/NNP Dems/NNP insist/VBP voters/NNS face/VBP higher/JJR taxes/NNS and/CC more/RBR means-testing/JJ under/IN Labour./NNP
+
+Treasury/NNP officials/NNS have/VBP said/VBN there/EX will/MD not/RB be/VB a/DT pre-election/JJ giveaway/JJ but/CC Mr/NNP Brown/NNP is/VBZ thought/VBN to/TO have/VB about/IN £2bn/CD to/TO spare./VB
+
+-/: Increase/VB in/IN the/DT stamp/NN duty/NN threshold/NN from/IN £60000/CD
+-/: A/DT freeze/NN on/IN petrol/NN duty/NN
+-/: An/DT extension/NN of/IN tax/NN credit/NN scheme/NN for/IN poorer/JJR families/NNS
+-/: Possible/JJ help/NN for/IN pensioners/NNS The/DT stamp/NN duty/NN threshold/NN rise/NN is/VBZ intended/VBN to/TO help/VB first/RB time/NN buyers/NNS -/: a/DT likely/JJ theme/NN of/IN all/DT three/CD of/IN the/DT main/JJ parties'/NN general/JJ election/NN manifestos./NN
+Ten/CD years/NNS ago/RB buyers/NNS had/VBD a/DT much/RB greater/JJR chance/NN of/IN avoiding/VBG stamp/NN duty/NN with/IN close/NN to/TO half/NN a/DT million/CD properties/NNS in/IN England/NNP and/CC Wales/NNP alone/RB selling/VBG for/IN less/JJR than/IN £60000./CD
+Since/IN then/RB average/JJ UK/NNP property/NN prices/NNS have/VBP more/RBR than/IN doubled/VBD while/IN the/DT starting/VBG threshold/NN for/IN stamp/NN duty/NN has/VBZ not/RB increased./NN
+Tax/NN credits/NNS As/IN a/DT result/NN the/DT number/NN of/IN properties/NNS incurring/VBG stamp/NN duty/NN has/VBZ rocketed/VBN as/IN has/VBZ the/DT government's/NNS tax/NN take./NN
+The/DT Liberal/NNP Democrats/NNPS unveiled/VBD their/PRP$ own/JJ proposals/NNS to/TO raise/VB the/DT stamp/NN duty/NN threshold/NN to/TO £150000/CD in/IN February./NNP
+
+The/DT Tories/NNPS are/VBP also/RB thought/VBN likely/JJ to/TO propose/VB increased/JJ thresholds/NNS with/IN shadow/NN chancellor/NN Oliver/NNP Letwin/NNP branding/VBG stamp/NN duty/NN a/DT "classic/JJ Labour/NNP stealth/NN tax"./NN
+The/DT Tories/NNPS say/VBP whatever/WDT the/DT chancellor/NN gives/VBZ away/RB will/MD be/VB clawed/VBN back/RB in/IN higher/JJR taxes/NNS if/IN Labour/NNP is/VBZ returned/VBN to/TO power./VB
+Shadow/NNP Treasury/NNP chief/NN secretary/NN George/NNP Osborne/NNP said/VBD "Everyone/NN who/WP looks/VBZ at/IN the/DT British/JJ economy/NN at/IN the/DT moment/NN says/VBZ there/EX has/VBZ been/VBN a/DT sharp/JJ deterioration/NN in/IN the/DT public/JJ finances/NNS that/IN there/EX is/VBZ a/DT black/JJ hole"/NN he/PRP said./VB
+"If/NNP Labour/NNP is/VBZ elected/VBN there/EX will/MD be/VB a/DT very/RB substantial/JJ tax/NN increase/NN in/IN the/DT Budget/NNP after/IN the/DT election/NN of/IN the/DT order/NN of/IN around/IN £10bn."/CD
+
+But/CC Mr/NNP Brown's/NNP former/JJ advisor/NN Ed/NNP Balls/NNS now/RB a/DT parliamentary/JJ hopeful/NN said/VBD an/DT examination/NN of/IN Tory/NNP plans/VBZ for/IN the/DT economy/NN showed/VBD there/EX would/MD be/VB a/DT £35bn/CD difference/NN in/IN investment/NN by/IN the/DT end/NN of/IN the/DT next/JJ parliament/NN between/IN the/DT two/CD main/JJ parties./NN
+He/PRP added/VBD "I/NN don't/NN accept/NN there/EX is/VBZ any/DT need/NN for/IN any/DT changes/NNS to/TO the/DT plans/NNS we/PRP have/VBP set/VBN out/RP to/TO meet/VB our/PRP$ spending/NN commitments."/NN
+
+For/IN the/DT Lib/NNP Dems/NNP David/NNP Laws/NNS said/VBD "The/NN chancellor/NN will/MD no/DT doubt/NN tell/VBP us/PRP today/VBP how/WRB wonderfully/RB the/DT economy/NN is/VBZ doing"/NN he/PRP said./VB
+"But/NN a/DT lot/NN of/IN that/WDT is/VBZ built/VBN on/IN an/DT increase/NN in/IN personal/JJ and/CC consumer/NN debt/NN over/IN the/DT last/JJ few/JJ years/NNS -/: that/WDT makes/VBZ the/DT economy/NN quite/RB vulnerable/JJ potentially/RB if/IN interest/NN rates/NNS ever/RB do/VBP have/VB to/TO go/VB up/RB in/IN a/DT significant/JJ way."/NN SNP/NNP leader/NN Alex/NNP Salmond/NNP said/VBD his/PRP$ party/NN would/MD introduce/VB a/DT £2000/CD grant/NN for/IN first/JJ time/NN buyers/NNS reduce/VBP corporation/NN tax/NN and/CC introduce/VB a/DT citizens/NNS pension/VBP free/JJ from/IN means/VBZ testing./NN
+Plaid/NNP Cymru's/NNP economics/NNS spokesman/NN Adam/NNP Price/NNP said/VBD he/PRP wanted/VBD help/VB to/TO get/VB people/NNS on/IN the/DT housing/NN ladder/NN and/CC an/DT increase/NN in/IN the/DT minimum/JJ wage/NN to/TO £5.60/CD an/DT hour./NN

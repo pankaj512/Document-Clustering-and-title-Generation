@@ -1,0 +1,27 @@
+Chelsea/NNP ridiculed/VBD over/IN complaint/NN
+
+Barcelona/NNP assistant/NN coach/NN Henk/NNP Ten/CD Cate/NNP has/VBZ branded/VBN Chelsea's/NNP expected/VBD complaint/NN to/TO Uefa/NNP as/IN "pathetic"./NN
+
+The/DT Blues/NNPS are/VBP poised/VBN to/TO complain/VB about/IN an/DT alleged/VBN half-time/NN incident/NN during/IN Wednesday's/NNP 2-1/JJ loss/NN at/IN the/DT Nou/NNP Camp./NNP
+The/DT source/NN of/IN Chelsea's/NNP anger/NN was/VBD an/DT alleged/VBN talk/NN between/IN Barca/NNP boss/NN Frank/NNP Rijkaard/NNP and/CC referee/NN Anders/NNP Frisk/NNP who/WP later/RB dismissed/VBD Didier/NNP Drogba./NNP
+"To/NN react/VBP the/DT way/NN Chelsea/NNP have/VBP is/VBZ pathetic./NN
+Mourinho/NNP lied/VBD with/IN the/DT line-ups/NNS and/CC now/RB this"/NN Ten/CD Cate/NNP said./NN
+Uefa/NNP has/VBZ said/VBN its/PRP$ own/JJ tunnel/NN representative/NN witnessed/VBD nothing/NN unusual/JJ out/IN of/IN the/DT ordinary/NN during/IN the/DT half-time/NN break./NN
+Spokesman/NNP William/NNP Gaillard/NNP said/VBD "Frisk/NN says/VBZ Rijkaard/NNP greeted/VBD him/PRP and/CC apologised/VBD he/PRP had/VBD not/RB had/VBN the/DT opportunity/NN to/TO say/VB hello/UH before/IN the/DT game./NN
+"We/NN had/VBD two/CD Uefa/NNP officials/NNS there/RB and/CC neither/DT witnessed/VBN it./NN
+The/DT referee's/NNS dressing/VBG room/NN was/VBD locked/VBN and/CC he/PRP and/CC his/PRP$ assistants/NNS were/VBD the/DT only/JJ people/NNS allowed/VBD in."/NN Indeed/RB it/PRP is/VBZ the/DT Londoners/NNP who/WP could/MD be/VB on/IN the/DT receiving/VBG end/NN of/IN any/DT punishment/NN after/IN failing/VBG to/TO turn/VB up/RP for/IN the/DT compulsory/JJ press/NN conference/NN after/IN the/DT defeat./NN
+
+Uefa/NNP delegate/VB Thomas/NNP Giordano/NNP added/VBD "The/NN only/JJ unusual/JJ thing/NN that/WDT happened/VBD as/RB far/RB as/IN we/PRP are/VBP concerned/VBN is/VBZ that/IN Chelsea/NNP failed/VBD to/TO present/VB themselves/PRP in/IN the/DT press/NN conference."/NN The/DT referee/NN is/VBZ not/RB expected/VBN to/TO include/VB any/DT of/IN the/DT alleged/VBN incidents/NNS in/IN his/PRP$ report/NN to/TO Uefa/NNP -/: weakening/VBG Chelsea's/NNP case./NN
+Rijkaard/NNP was/VBD critical/JJ of/IN Mourinho's/NNP decision/NN not/RB to/TO speak/VB to/TO the/DT media/NNS after/IN the/DT match./NN
+"There/NN was/VBD a/DT lot/NN of/IN talking/VBG before/IN the/DT game/NN and/CC now/RB surprisingly/RB there/EX is/VBZ a/DT lot/NN of/IN talking/VBG after/IN the/DT game./NN
+It/PRP is/VBZ not/RB good/JJ behaviour/NN after/IN a/DT match"/NN he/PRP said./VB
+"Maybe/NN they/PRP want/VBP to/TO start/VB something/NN and/CC make/VB it/PRP worse/JJR than/IN than/IN it/PRP is./VBD
+I/PRP really/RB don't/VBP understand/VB it./NN
+I/PRP am/VBP very/RB calm/JJ about/IN it."/NN
+
+Barca/NNP midfielder/NN Deco/NNP formerly/RB managed/VBN by/IN Mourinho/NNP at/IN Porto/NNP agreed/VBD that/IN it/PRP was/VBD not/RB typical/JJ of/IN his/PRP$ fellow/JJ Portuguese/NNP to/TO lodge/VB a/DT protest./NN
+"It's/NN not/RB normal/JJ behaviour/NN on/IN his/PRP$ part./NN
+It/PRP was/VBD not/RB logical/JJ he/PRP did/VBD not/RB give/VB a/DT news/NN conference"/NN he/PRP said./VB
+Rijkaard/NNP added/VBD "Chelsea/NN is/VBZ the/DT team/NN which/WDT has/VBZ conceded/VBN fewest/JJS goals/NNS in/IN the/DT English/JJ league/NN and/CC they/PRP defend/VBP very/RB well/RB so/IN I/PRP am/VBP very/RB pleased/VBN with/IN the/DT win./NN
+"My/NN men/NNS deserved/VBD victory/NN and/CC I/PRP am/VBP pleased/JJ to/TO have/VB won/VBN this/DT match./NN
+I/PRP congratulate/VBP my/PRP$ players."/NN

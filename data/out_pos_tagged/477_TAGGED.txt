@@ -1,0 +1,13 @@
+JP/NNP Morgan/NNP admits/VBZ US/PRP slavery/NN links/NNS
+
+Thousands/NNS of/IN slaves/NNS were/VBD accepted/VBN as/IN collateral/NN for/IN loans/NNS by/IN two/CD banks/NNS that/WDT later/RB became/VBD part/NN of/IN JP/NNP Morgan/NNP Chase./NNP
+
+The/DT admission/NN is/VBZ part/NN of/IN an/DT apology/NN sent/VBN to/TO JP/NNP Morgan/NNP staff/NN after/IN the/DT bank/NN researched/VBD its/PRP$ links/NNS to/TO slavery/NN in/IN order/NN to/TO meet/VB legislation/NN in/IN Chicago./NNP
+Citizens/NNPS Bank/NNP and/CC Canal/NN Bank/NNP are/VBP the/DT two/CD lenders/NNS that/WDT were/VBD identified./NN
+They/PRP are/VBP now/RB closed/VBN but/CC were/VBD linked/VBN to/TO Bank/NNP One/CD which/WDT JP/NNP Morgan/NNP bought/VBD last/JJ year./NN
+About/IN 13000/CD slaves/NNS were/VBD used/VBN as/IN loan/NN collateral/NN between/IN 1831/CD and/CC 1865./CD
+
+Because/IN of/IN defaults/NNS by/IN plantation/NN owners/NNS Citizens/NNPS and/CC Canal/NN ended/VBD up/RP owning/VBG about/IN 1250/CD slaves./NN
+"We/NN all/DT know/NN slavery/NN existed/VBD in/IN our/PRP$ country/NN but/CC it/PRP is/VBZ quite/RB different/JJ to/TO see/VB how/WRB our/PRP$ history/NN and/CC the/DT institution/NN of/IN slavery/NN were/VBD intertwined"/JJ JP/NNP Morgan/NNP chief/NN executive/NN William/NNP Harrison/NNP and/CC chief/NN operating/NN officer/NN James/NNP Dimon/NNP said/VBD in/IN the/DT letter./NN
+"Slavery/NN was/VBD tragically/RB ingrained/VBN in/IN American/JJ society/NN but/CC that/DT is/VBZ no/DT excuse."/NN "We/NN apologise/NN to/TO the/DT African-American/NNP community/NN particularly/RB those/DT who/WP are/VBP descendants/NNS of/IN slaves/NNS and/CC to/TO the/DT rest/NN of/IN the/DT American/JJ public/JJ for/IN the/DT role/NN that/IN Citizens/NNPS Bank/NNP and/CC Canal/NN Bank/NNP played."/NN "The/NN slavery/NN era/NN was/VBD a/DT tragic/JJ time/NN in/IN US/PRP history/VBP and/CC in/IN our/PRP$ company's/NNS history."/NN JP/NNP Morgan/NNP said/VBD that/IN it/PRP was/VBD setting/VBG up/RP a/DT $5m/CD scholarship/NN programme/NN for/IN students/NNS living/VBG in/IN Louisiana/NNP the/DT state/NN where/WRB the/DT events/NNS took/VBD place./NN
+The/DT bank/NN said/VBD that/IN it/PRP is/VBZ a/DT "very/NN different/JJ company/NN than/IN the/DT Citizens/NNPS and/CC Canal/NN Banks/NNS of/IN the/DT 1800s"./CD

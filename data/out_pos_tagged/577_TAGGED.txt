@@ -1,0 +1,16 @@
+Low-budget/JJ film/NN wins/VBZ Cesar/NNP
+
+A/DT film/NN that/WDT follows/VBZ a/DT group/NN of/IN alienated/VBN youth/NN in/IN a/DT Paris/NNP suburb/NN as/IN they/PRP prepare/VBP to/TO perform/VB an/DT 18th/JJ Century/NNP play/VB has/VBZ won/VBN France's/NNP top/JJ cinema/NN award./NN
+
+L'Esquive/NNP earned/VBD a/DT Cesar/NNP prize/NN for/IN its/PRP$ director/NN Tunisian-born/NNP Abdellatif/NNP Kechiche/NNP and/CC its/PRP$ young/JJ star/NN the/DT 18-year-old/JJ actress/NN Sara/NNP Forestier./NNP
+It/PRP saw/VBD off/RP competition/NN from/IN big-budget/JJ French/JJ epic/NN A/DT Very/RB Long/NNP Engagement/NN and/CC the/DT box-office/NN hit/VBD The/DT Chorus./NNP
+US/PRP film/VBP Lost/VBD in/IN Translation/NN won/VBD the/DT award/NN for/IN best/JJS foreign/JJ feature./NN
+The/DT wistful/JJ romantic/JJ comedy/NN directed/VBN by/IN Sofia/NNP Coppola/NNP has/VBZ already/RB won/VBN several/JJ awards/NNS including/VBG an/DT Oscar/NNP for/IN best/JJS screenplay/NN in/IN 2004./CD
+Its/PRP$ late/JJ release/NN in/IN France/NNP made/VBD it/PRP a/DT contender/NN for/IN this/DT year's/NNS Cesars./NNP
+
+The/DT low-budget/JJ L'Esquive/NNP depicts/VBZ the/DT travails/NNS of/IN a/DT group/NN of/IN youth/NN getting/VBG ready/JJ to/TO perform/VB a/DT school/NN play/NN by/IN the/DT 18th-Century/JJ dramatist/NN Marivaux./NNP
+The/DT actors/NNS are/VBP mostly/RB amateurs/NNS and/CC the/DT action/NN is/VBZ set/VBN in/IN the/DT impoverished/VBN suburbs/NNS of/IN Paris/NNP home/NN to/TO thousands/NNS of/IN immigrants/NNS from/IN North/NNP Africa/NNP and/CC their/PRP$ children./NN
+Kechiche/NNP said/VBD he/PRP made/VBD the/DT film/NN because/IN he/PRP "wanted/VBD to/TO show/VB people/NNS we/PRP don't/VBP normally/RB see/VB at/IN the/DT cinema"./NN
+A/DT Very/RB Long/NNP Engagement/NN a/DT World/NNP War/NNP I/PRP drama/VBP featuring/VBG Audrey/NNP Tautou/NNP won/VBD five/CD Cesar/NNP awards./NN
+The/DT Chorus/NN a/DT film/NN about/IN a/DT schoolteacher/NN who/WP introduces/VBZ an/DT unruly/JJ classroom/NN to/TO the/DT pleasures/NNS of/IN classical/JJ singing/NN won/VBD two/CD awards/NNS -/: for/IN best/JJS music/NN and/CC best/JJS sound./NN
+US/PRP actor/VBP Will/MD Smith/NNP who/WP won/VBD an/DT honorary/JJ award/NN at/IN the/DT ceremony/NN thanked/VBD his/PRP$ family/NN and/CC his/PRP$ "hero"/NN Nelson/NNP Mandela/NNP in/IN his/PRP$ speech./NN

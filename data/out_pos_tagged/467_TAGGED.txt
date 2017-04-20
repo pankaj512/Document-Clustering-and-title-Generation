@@ -1,0 +1,15 @@
+European/JJ losses/NNS hit/VBD GM's/NNP profits/NNS
+
+General/NNP Motors/NNPS (GM)/NN saw/VBD its/PRP$ net/JJ profits/NNS fall/VBP 37%/CD in/IN the/DT last/JJ quarter/NN of/IN 2004/CD as/IN it/PRP continued/VBD to/TO be/VB hit/VBN by/IN losses/NNS at/IN its/PRP$ European/JJ operations./NN
+
+The/DT US/PRP giant/NN earned/VBD $630m/CD (£481.5m)/CD in/IN the/DT October-to-December/NNP period/NN down/RP from/IN $1bn/CD in/IN the/DT fourth/JJ quarter/NN of/IN 2003./CD
+GM's/NN revenues/NNS rose/VBD 4.7%/CD to/TO $51.2bn/CD from/IN $48.8bn/CD a/DT year/NN earlier./NN
+The/DT fourth-quarter/JJ losses/NNS at/IN General/NNP Motors/NNPS Europe/NNP totalled/VBD $345m/CD up/RP from/IN $66m/CD during/IN the/DT same/JJ period/NN in/IN 2003./CD
+GM's/NNP main/JJ European/JJ brands/NNS are/VBP Opel/NNP and/CC Vauxhall./NNP
+
+Excluding/VBG special/JJ items/NNS GM's/NNP global/JJ income/NN from/IN continuing/VBG operations/NNS totalled/VBD $569m/CD during/IN the/DT quarter/NN down/RP from/IN $838m/CD a/DT year/NN earlier./NN
+The/DT results/NNS were/VBD in/IN line/NN with/IN Wall/NNP Street/NNP expectations/NNS and/CC shares/NNS in/IN GM/NNP rose/VBD by/IN about/IN 1%/CD in/IN pre-market/JJ trade./NN
+For/IN the/DT whole/NN of/IN 2004/CD GM/NNP earned/VBD $3.7bn/CD down/RB from/IN $3.8bn/CD in/IN 2003/CD while/IN its/PRP$ annual/JJ revenue/NN rose/VBD 4.5%/CD to/TO $193bn./CD
+GM/NNP said/VBD its/PRP$ profits/NNS were/VBD also/RB hit/VBN by/IN higher/JJR healthcare/NN costs/NNS in/IN the/DT US./NNP
+"GM/NN reported/VBD solid/JJ overall/JJ results/NNS in/IN 2004/CD despite/IN challenging/VBG competitive/JJ conditions/NNS in/IN many/JJ markets/NNS around/IN the/DT globe"/NN GM/NNP chairman/NN and/CC chief/JJ executive/NN Rick/NNP Wagoner/NNP said/VBD in/IN a/DT statement./NN
+The/DT company/NN recently/RB announced/VBD that/IN it/PRP expected/VBD profits/NNS in/IN 2005/CD to/TO be/VB lower/JJR than/IN in/IN 2004./CD

@@ -1,0 +1,20 @@
+California/NNP sets/NNS fines/NNS for/IN spyware/NN
+
+The/DT makers/NNS of/IN computer/NN programs/NNS that/WDT secretly/RB spy/NN on/IN what/WP people/NNS do/VBP with/IN their/PRP$ home/NN PCs/NNS could/MD face/VB hefty/JJ fines/NNS in/IN California./NNP
+
+From/IN 1/CD January/NNP a/DT new/JJ law/NN is/VBZ being/VBG introduced/VBN to/TO protect/VB computer/NN users/NNS from/IN software/NN known/VBN as/IN spyware./NN
+The/DT legislation/NN which/WDT was/VBD approved/VBN by/IN Governor/NNP Arnold/NNP Schwarzenegger/NNP is/VBZ designed/VBN to/TO safeguard/VB people/NNS from/IN hackers/NNS and/CC help/VB protect/VB their/PRP$ personal/JJ information./NN
+Spyware/NNP is/VBZ considered/VBN by/IN computer/NN experts/NNS to/TO be/VB one/CD of/IN the/DT biggest/JJS nuisance/JJ and/CC security/NN threats/NNS facing/VBG PC/NN users/NNS in/IN the/DT coming/VBG year./NN
+The/DT software/NN buries/VBZ itself/PRP in/IN computers/NNS and/CC can/MD collect/VB a/DT wide/JJ range/NN of/IN information./NN
+At/IN its/PRP$ worst/JJS it/PRP has/VBZ the/DT ability/NN to/TO hijack/VB personal/JJ data/NNS like/IN passwords/NNS login/NN details/NNS and/CC credit/NN card/NN numbers./NN
+The/DT programs/NNS are/VBP so/RB sophisticated/JJ they/PRP change/VBP frequently/RB and/CC become/VB impossible/JJ to/TO eradicate./VB
+
+One/CD form/NN of/IN spyware/NN called/VBD adware/NN has/VBZ the/DT ability/NN to/TO collect/VB information/NN on/IN a/DT computer/NN user's/NNS web-surfing./JJ
+It/PRP can/MD result/VB in/IN people/NNS being/VBG bombarded/VBD with/IN pop-up/JJ ads/NNS that/WDT are/VBP hard/JJ to/TO close./VB
+In/IN Washington/NNP Congress/NNP has/VBZ been/VBN debating/VBG four/CD anti-spyware/JJ bills/NNS but/CC California/NNP is/VBZ a/DT step/NN ahead./NN
+The/DT state's/NNS Consumer/NNP Protection/NNP Against/IN Spyware/NNP Act/NNP bans/VBZ the/DT installation/NN of/IN software/NN that/WDT takes/VBZ control/NN of/IN another/DT computer./NN
+It/PRP also/RB requires/VBZ companies/NNS and/CC websites/NNS to/TO disclose/VB whether/IN their/PRP$ systems/NNS will/MD install/VB spyware./NN
+Consumers/NNS are/VBP able/JJ to/TO seek/VB up/IN to/TO $1000/CD in/IN damages/NNS if/IN they/PRP think/VBP they/PRP have/VBP fallen/VBN victim/NN to/TO the/DT intrusive/JJ software./NN
+The/DT new/JJ law/NN marks/NNS a/DT continuing/VBG trend/NN in/IN California/NNP towards/IN tougher/JJR privacy/NN rights./NN
+A/DT recent/JJ survey/NN by/IN Earthlink/NNP and/CC Webroot/NNP found/VBD that/IN 90%/CD of/IN PCs/NNS are/VBP infested/JJ with/IN the/DT surreptitious/JJ software/NN and/CC that/IN on/IN average/NN each/DT one/CD is/VBZ harbouring/VBG 28/CD separate/JJ spyware/NN programs./NN
+Currently/RB users/NNS wanting/VBG protection/NN from/IN spyware/NN have/VBP turned/VBN to/TO free/JJ programs/NNS such/JJ as/IN Spybot/NNP and/CC Ad-Aware./NNP

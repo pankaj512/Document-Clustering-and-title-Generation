@@ -1,0 +1,10 @@
+Jones/NN medals/NNS 'must/NN go/VBP if/IN guilty'/NN
+
+World/NNP Anti-Doping/NNP Agency/NNP (WADA)/NN chief/NN Dick/NNP Pound/NNP says/VBZ Marion/NNP Jones/NNP should/MD be/VB stripped/VBN of/IN all/DT her/PRP$ medals/NNS if/IN found/VBD guilty/JJ of/IN taking/VBG banned/VBN substances./NN
+
+Victor/NNP Conte/NNP of/IN Balco/NNP Laboratories/NNPS claims/NNS the/DT American/JJ sprinter/NN regularly/RB used/VBD drugs/NNS to/TO enhance/VB her/PRP$ performance./NN
+"If/NN she/PRP is/VBZ found/VBN guilty/JJ she/PRP should/MD be/VB stripped/VBN of/IN all/DT her/PRP$ medals/NNS and/CC banned/VBN for/IN two/CD years"/NN said/VBD Pound./NNP
+Asked/VBN if/IN there/EX was/VBD a/DT timescale/NN as/IN to/TO what/WP medals/NNS could/MD be/VB taken/VBN Pound/NNP said/VBD "That/NN is/VBZ not/RB an/DT issue/NN at/IN all."/NN However/RB under/IN International/NNP Olympic/NNP Committee/NNP (IOC)/NN rules/NNS athletes/NNS can/MD only/RB be/VB stripped/VBN of/IN their/PRP$ medals/NNS if/IN caught/VBN within/IN three/CD years/NNS of/IN the/DT event./NN
+Jones/NNP who/WP won/VBD five/CD medals/NNS at/IN the/DT 2000/CD Olympics/NNPS denies/VBZ using/VBG drugs/NNS and/CC says/VBZ she/PRP will/MD take/VB legal/JJ action/NN over/IN Conte's/NNP allegations./NN
+Balco/NNP Laboratories/NNPS is/VBZ the/DT firm/NN at/IN the/DT centre/NN of/IN a/DT wide-reaching/JJ investigation/NN into/IN doping/VBG in/IN the/DT US./NNP
+Pound/NNP continued/JJ "If/NN she/PRP has/VBZ indeed/RB taken/VBN drugs/NNS it/PRP is/VBZ going/VBG to/TO be/VB a/DT big/JJ disappointment/NN for/IN a/DT lot/NN of/IN people."/NN

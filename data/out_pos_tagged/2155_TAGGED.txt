@@ -1,0 +1,16 @@
+IBM/NNP puts/VBZ cash/NN behind/IN Linux/NNP push/VB
+
+IBM/NNP is/VBZ spending/NN $100m/CD (£52m)/CD over/IN the/DT next/JJ three/CD years/NNS beefing/VBG up/RP its/PRP$ commitment/NN to/TO Linux/NNP software./NN
+
+The/DT cash/NN injection/NN will/MD be/VB used/VBN to/TO help/VB its/PRP$ customers/NNS use/VBP Linux/NNP on/IN every/DT type/NN of/IN device/NN from/IN handheld/JJ computers/NNS and/CC phones/NNS right/VBP up/IN to/TO powerful/JJ servers./NN
+IBM/NNP said/VBD the/DT money/NN will/MD fund/VB a/DT variety/NN of/IN technical/JJ research/NN and/CC marketing/NN initiatives/NNS to/TO boost/VB Linux/NNP use./NN
+IBM/NNP said/VBD it/PRP had/VBD taken/VBN the/DT step/NN in/IN response/NN to/TO greater/JJR customer/NN demand/NN for/IN the/DT open/JJ source/NN software./NN
+
+In/IN 2004/CD IBM/NNP said/VBD it/PRP had/VBD seen/VBN double/JJ digit/NN growth/NN in/IN the/DT number/NN of/IN customers/NNS using/VBG Linux/NNP to/TO help/VB staff/VB work/NN together/RB more/JJR closely./NN
+The/DT money/NN will/MD be/VB used/VBN to/TO help/VB this/DT push/NN towards/IN greater/JJR collaboration/NN and/CC will/MD add/VB Linux-based/JJ elements/NNS to/TO IBM's/NNP Workplace/NNP software./NN
+Workplace/NNP is/VBZ a/DT suite/NN of/IN programs/NNS and/CC tools/NNS that/WDT allow/VBP workers/NNS to/TO get/VB at/IN core/NN business/NN applications/NNS no/DT matter/NN what/WP device/NN they/PRP use/VBP to/TO connect/VB to/TO corporate/JJ networks./NN
+One/CD of/IN the/DT main/JJ focuses/NNS of/IN the/DT initiative/NN will/MD be/VB to/TO make/VB it/PRP easier/JJR to/TO use/VB Linux-based/JJ desktop/NN computers/NNS and/CC mobile/JJ devices/NNS with/IN Workplace./NNP
+Even/RB before/IN IBM/NNP announced/VBD this/DT latest/JJS spending/NN boost/NN it/PRP was/VBD one/CD of/IN the/DT biggest/JJS advocates/NNS of/IN the/DT open/JJ source/NN way/NN of/IN working./NN
+In/IN 2001/CD it/PRP put/VB $300m/CD into/IN a/DT three-year/JJ Linux/NNP program/NN and/CC has/VBZ produced/VBN Linux/NNP versions/NNS of/IN many/JJ of/IN its/PRP$ programs./NN
+Linux/NNP and/CC the/DT open/JJ source/NN software/NN movement/NN are/VBP based/VBN on/IN the/DT premise/NN that/IN developers/NNS should/MD be/VB free/JJ to/TO tinker/VB with/IN the/DT core/NN components/NNS of/IN software/NN programs./NN
+They/PRP reason/VBP that/IN more/JJR open/JJ scrutiny/NN of/IN software/NN produces/VBZ better/JJR programs/NNS and/CC fuels/NNS innovation./NN

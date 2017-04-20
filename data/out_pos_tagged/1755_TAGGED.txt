@@ -1,0 +1,11 @@
+Hingis/NN to/TO make/VB unexpected/JJ return/NN
+
+Martina/NNP Hingis/NNP makes/VBZ her/PRP$ return/NN to/TO competitve/JJ tennis/NN after/IN two/CD years/NNS out/IN of/IN the/DT game/NN at/IN the/DT Volvo/NNP Women's/NNP Open/NNP in/IN Pattaya/NNP Thailand/NNP on/IN Tuesday./NNP
+
+She/PRP faces/VBZ German/JJ Marlene/NNP Weingartner/NNP in/IN the/DT first/JJ round./NN
+"As/NN a/DT competitor/NN and/CC athlete/NN I/PRP always/RB want/VBP to/TO win./VB
+I/PRP hope/VBP my/PRP$ body/NN will/MD hold/VB up"/NN said/VBD Hingis./NNP
+"You/NN miss/NN being/VBG out/IN there/RB in/IN a/DT Grand/NNP Slam/NNP final/JJ and/CC not/RB competing./NN
+It's/VBG a/DT big/JJ difference/NN between/IN playing/VBG and/CC commenting/VBG for/IN TV./NNP
+I/PRP miss/VBP it/PRP a/DT lot."/NN The/DT former/JJ world/NN number/NN one/CD was/VBD 22/CD when/WRB she/PRP retired/VBD after/IN having/VBG surgery/NN on/IN both/DT ankles/NNS and/CC her/PRP$ last/JJ WTA/NNP event/NN was/VBD in/IN Filderstadt/NNP Germany/NNP in/IN October/NNP 2002/CD when/WRB she/PRP lost/VBD to/TO Elena/NNP Dementieva./NNP
+Only/RB last/JJ year/NN she/PRP insisted/VBD that/IN a/DT comeback/NN was/VBD unlikely/JJ but/CC speaking/VBG in/IN Thaliand/NNP Hingis/NNP admitted/VBD "I/NN said/VBD that/IN because/IN I/PRP didn't/VBP know/NN what/WP would/MD happen/VB with/IN my/PRP$ body."/NN Her/PRP$ appearance/NN will/MD also/RB benefit/VB charities/NNS in/IN the/DT region/NN and/CC the/DT Swiss/JJ star/NN will/MD donate/VB her/PRP$ prize/NN money./NN

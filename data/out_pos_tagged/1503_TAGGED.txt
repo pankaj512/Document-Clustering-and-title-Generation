@@ -1,0 +1,33 @@
+SA/NNP return/NN to/TO Mauritius/NNP
+
+Top/JJ seeds/NNS South/NNP Africa/NNP return/NN to/TO the/DT scene/NN of/IN one/CD of/IN their/PRP$ most/RBS embarrassing/JJ failures/NNS when/WRB they/PRP face/VBP the/DT Seychelles/NNP in/IN the/DT Cosafa/NNP Cup/NNP next/JJ month./NN
+
+Last/JJ year/NN Bafana/NNP Bafana/NNP were/VBD humbled/VBN in/IN the/DT first/JJ by/IN minnows/NNS Mauritius/NNP who/WP beat/VBP them/PRP 2-0/JJ in/IN Curepipe./NNP
+Coach/VB Stuart/NNP Baxter/NNP and/CC his/PRP$ squad/NN will/MD return/VB to/TO Curepipe/NNP face/NN the/DT Seychelles/NNP in/IN their/PRP$ first/JJ game/NN of/IN the/DT new-look/JJ regional/JJ competition./NN
+The/DT format/NN of/IN the/DT event/NN has/VBZ been/VBN changed/VBN this/DT year/NN after/IN the/DT entry/NN of/IN the/DT Seychelles/NNP who/WP have/VBP taken/VBN the/DT number/NN of/IN participants/NNS to/TO 13./CD
+The/DT teams/NNS are/VBP now/RB divided/VBN into/IN three/CD group/NN of/IN four/CD and/CC play/VB knock-out/JJ matches/NNS on/IN successive/JJ days/NNS to/TO determine/VB the/DT group/NN champions./NN
+Mauritius/NNP host/NN the/DT first/JJ group/NN and/CC their/PRP$ opponents/NNS are/VBP Madagascar/NNP the/DT Seychelles/NNP and/CC South/NNP Africa./NNP
+Bafana/NNP Bafana/NNP play/VB the/DT Seychelles/NNP before/IN Mauritius/NNP take/VB on/RP Madagascar/NNP in/IN a/DT double-header/NN on/IN 26/CD February./NNP
+The/DT two/CD winners/NNS return/NN to/TO the/DT New/NNP George/NNP V/NNP stadium/NN the/DT next/JJ day/NN and/CC the/DT victor/NN of/IN the/DT group/NN decider/NN advances/NNS to/TO August's/NNP final/JJ mini-tournament./JJ
+The/DT second/JJ group/NN will/MD be/VB hosted/VBN in/IN Namibia/NNP in/IN April./NNP
+It/PRP comprises/VBZ Zimbabwe/NNP Botswana/NNP Mozambique/NNP and/CC the/DT hosts./NN
+In/IN June/NNP former/JJ champions/NNS Zambia/NNP will/MD host/VB Lesotho/NNP Malawi/NNP and/CC Swaziland/NNP in/IN the/DT third/JJ group/NN in/IN Lusaka./NNP
+The/DT three/CD group/NN winners/NNS will/MD then/RB join/VB title/NN holders/NNS Angola/NNP for/IN the/DT last/JJ of/IN the/DT mini-tournaments/NNS in/IN August/NNP where/WRB the/DT winners/NNS will/MD be/VB crowned./NN
+
+Seychelles/NNP v/NN South/NNP Africa/NNP
+
+Mauritius/NNP v/NN Madagascar/NNP
+
+Winners/NNS meet/VBP in/IN final/JJ match/NN
+
+Mozambique/NNP v/NN Zimbabwe/NNP
+
+Namibia/NNP v/NN Botswana/NNP
+
+Winners/NNS meet/VBP in/IN final/JJ match/NN
+
+Lesotho/NNP v/NN Malawi/NNP
+
+Zambia/NNP v/NN Swaziland/NNP
+
+Winners/NNS meet/VBP in/IN final/JJ match/NN

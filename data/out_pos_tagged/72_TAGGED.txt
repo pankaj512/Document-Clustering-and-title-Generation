@@ -1,0 +1,17 @@
+S/NNP Korean/JJ consumers/NNS spending/VBG again/RB
+
+South/NNP Korea/NNP looks/VBZ set/VBN to/TO sustain/VB its/PRP$ revival/NN thanks/NNS to/TO renewed/VB private/JJ consumption/NN its/PRP$ central/JJ bank/NN says./NN
+
+The/DT country's/NNS economy/NN has/VBZ suffered/VBN from/IN an/DT overhang/NN of/IN personal/JJ debt/NN after/IN its/PRP$ consumers'/NN credit/NN card/NN spending/NN spree./NN
+Card/NNP use/NN fell/VBD sharply/RB last/JJ year/NN but/CC is/VBZ now/RB picking/VBG up/RP again/RB with/IN a/DT rise/NN in/IN spending/NN of/IN 14.8%/CD year-on-year./JJ
+"The/NN economy/NN is/VBZ now/RB heading/VBG upward/RB rather/RB than/IN downward"/NN said/VBD central/JJ bank/NN governor/NN Park/NNP Seung./NNP
+"The/NN worst/JJS seems/VBZ to/TO have/VB passed."/NN Mr/NNP Park's/NNP statement/NN came/VBD as/IN the/DT bank/NN decided/VBD to/TO keep/VB interest/NN rates/NNS at/IN an/DT all-time/JJ low/JJ of/IN 3.25%./CD
+It/PRP had/VBD cut/VBN rates/NNS in/IN November/NNP to/TO help/VB revive/VB the/DT economy/NN but/CC rising/VBG inflation/NN -/: reaching/VBG 0.7%/CD month-on-month/JJ in/IN January/NNP -/: has/VBZ stopped/VBN it/PRP from/IN cutting/VBG further./NN
+Economic/NNP growth/NN in/IN 2004/CD was/VBD about/IN 4.7%/CD with/IN the/DT central/JJ bank/NN predicting/VBG 4%/CD growth/NN this/DT year./NN
+Other/JJ indicators/NNS are/VBP also/RB suggesting/VBG that/IN the/DT country/NN is/VBZ inching/VBG back/RB towards/IN economic/JJ health./NN
+Exports/NNS -/: traditionally/RB the/DT driver/NN for/IN expansion/NN in/IN Asian/JJ economies/NNS -/: grew/VBD slower/JJR in/IN January/NNP than/IN at/IN any/DT time/NN in/IN 17/CD months./NN
+But/CC domestic/JJ demand/NN seems/VBZ to/TO be/VB taking/VBG up/RP the/DT slack./NN
+Consumer/NNP confidence/NN has/VBZ bounced/VBN back/RP from/IN a/DT four-year/JJ low/NN in/IN January/NNP and/CC retail/JJ sales/NNS were/VBD up/RB 2.1%/CD in/IN December./NNP
+Credit/NN card/NN debt/NN is/VBZ falling/VBG with/IN only/RB one/CD in/IN 13/CD of/IN the/DT 48/CD million/CD cards/NNS now/RB in/IN default/NN -/: down/RB from/IN one/CD in/IN eight/CD at/IN the/DT end/NN of/IN 2003./CD
+One/CD of/IN its/PRP$ biggest/JJS card/NN issuers/NNS LG/NNP Card/NNP was/VBD rescued/VBN from/IN collapse/NN in/IN December/NNP having/VBG almost/RB imploded/VBN under/IN the/DT weight/NN of/IN its/PRP$ customers'/NN bad/JJ debts./NN
+The/DT government/NN last/JJ year/NN tightened/VBD the/DT rules/NNS for/IN card/NN lending/NN to/TO keep/VB the/DT card/NN glut/NN under/IN control./NN

@@ -1,0 +1,16 @@
+Jarre/NNP joins/VBZ fairytale/NN celebration/NN
+
+French/JJ musician/NN Jean-Michel/NNP Jarre/NNP is/VBZ to/TO perform/VB at/IN a/DT concert/NN in/IN Copenhagen/NNP to/TO mark/VB the/DT bicentennial/NN of/IN the/DT birth/NN of/IN writer/NN Hans/NNP Christian/NNP Andersen./NNP
+
+Denmark/NNP is/VBZ holding/VBG a/DT three-day/JJ celebration/NN of/IN the/DT life/NN of/IN the/DT fairy-tale/JJ author/NN with/IN a/DT concert/NN at/IN Parken/NNP stadium/NN on/IN 2/CD April./NNP
+Other/JJ stars/NNS are/VBP expected/VBN to/TO join/VB the/DT line-up/NN in/IN the/DT coming/VBG months/NNS and/CC the/DT Danish/JJ royal/NN family/NN will/MD attend./VB
+"Christian/NNP Andersen's/NNP fairy/NN tales/NNS are/VBP timeless/JJ and/CC universal"/NN said/VBD Jarre./NNP
+"For/NN all/DT of/IN us/PRP at/IN any/DT age/NN there/EX is/VBZ always/RB -/: beyond/IN the/DT pure/JJ enjoyment/NN of/IN the/DT tale/NN -/: a/DT message/NN to/TO learn."/VB There/EX are/VBP year-long/JJ celebrations/NNS planned/VBN across/IN the/DT world/NN to/TO celebrate/VB Andersen/NNP and/CC his/PRP$ work/NN which/WDT includes/VBZ The/DT Emperor's/NNP New/NNP Clothes/NNPS and/CC The/DT Little/NNP Mermaid./NNP
+Denmark's/NNP Crown/NNP Prince/NNP Frederik/NNP and/CC Crown/NNP Princess/NNP Mary/NNP visited/VBD New/NNP York/NNP on/IN Monday/NNP to/TO help/VB promote/VB the/DT festivities./NN
+The/DT pair/NN were/VBD at/IN a/DT Manhattan/NNP library/NN to/TO honour/VB US/PRP literary/JJ critic/NN Harold/NNP Bloom/NNP "the/NN international/JJ icon/NN we/PRP thought/VBD we/PRP knew/VBD so/RB well"./NN
+
+"Bloom/NN recognizes/VBZ the/DT darker/JJR aspects/NNS of/IN Andersen's/NNP authorship"/NN Prince/NNP Frederik/NNP said./NN
+Bloom/NNP is/VBZ to/TO be/VB formally/RB presented/VBN with/IN the/DT Hans/NNP Christian/NNP Andersen/NNP Award/NN this/DT spring/NN in/IN Anderson's/NNP hometown/NN of/IN Odense./NNP
+The/DT royal/NN couple/NN also/RB visited/VBD the/DT Hans/NNP Christian/NNP Anderson/NNP School/NNP complex/JJ where/WRB Queen/NNP Mary/NNP read/VB The/DT Ugly/JJ Duckling/NN to/TO the/DT young/JJ audience./NN
+Later/RB at/IN a/DT gala/NN dinner/NN Danish/JJ supermodel/NN Helena/NNP Christensen/NNP was/VBD named/VBN a/DT Hans/NNP Christian/NNP Andersen/NNP ambassador./NN
+Other/JJ ambassadors/NNS include/VBP actors/NNS Harvey/NNP Keitel/NNP and/CC Sir/NNP Roger/NNP Moore/NNP athlete/NN Cathy/NNP Freeman/NNP and/CC Brazilian/JJ soccer/NN legend/NN Pele./NNP

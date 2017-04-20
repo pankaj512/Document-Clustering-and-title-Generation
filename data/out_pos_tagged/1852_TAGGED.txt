@@ -1,0 +1,27 @@
+Piero/NNP gives/VBZ rugby/NN perspective/NN
+
+BBC/NNP Sport/NNP unveils/VBZ its/PRP$ new/JJ analysis/NN tool/NN Piero/NNP at/IN the/DT Wales/NNP v/NN England/NNP rugby/NN union/NN match/NN on/IN Saturday./NNP
+But/CC what/WP does/VBZ it/PRP do/VB and/CC how/WRB does/VBZ it/PRP work?/NN
+
+Picture/VBG the/DT scene/NN -/: Wales/NNP are/VBP camped/VBN on/IN the/DT England/NNP line/NN in/IN the/DT dying/VBG seconds/NNS of/IN the/DT Six/CD Nations'/NNP opening/NN match./NN
+A/DT ball/NN is/VBZ flung/NN out/RP to/TO winger/VB Shane/NNP Williams/NNP who/WP crosses/VBZ to/TO score/VB the/DT winning/VBG try/NN for/IN Wales./NNP
+But/CC the/DT England/NNP players/NNS are/VBP incensed/VBN -/: arguing/VBG that/IN the/DT pass/NN was/VBD forward/RB and/CC the/DT try/NN should/MD not/RB stand./VB
+In/IN the/DT past/JJ sports/NNS fans/NNS would/MD be/VB left/VBN debating/VBG the/DT validity/NN of/IN the/DT try/NN for/IN days/NNS and/CC weeks/NNS to/TO come./VB
+But/CC BBC/NNP Sport's/NNP new/JJ tool/NN Piero/NNP could/MD end/VB discussions/NNS in/IN minutes./NN
+
+Piero/NNP named/VBD after/IN the/DT Italian/JJ painter/NN and/CC pioneer/NN of/IN perspective/NN Piero/NNP della/NN Francesco/NNP creates/VBZ a/DT virtual/JJ stadium/NN in/IN which/WDT virtual/JJ players/NNS can/MD be/VB tracked/VBN from/IN almost/RB any/DT angle./NN
+Viewers/NNS will/MD be/VB able/JJ to/TO see/VB precisely/RB how/WRB the/DT ball/NN was/VBD thrown/VBN and/CC by/IN whom/WP giving/VBG a/DT greater/JJR depth/NN to/TO the/DT growing/VBG wealth/NN of/IN analysis/NN available/JJ during/IN sports/NNS broadcasts./NN
+The/DT technology/NN has/VBZ been/VBN created/VBN by/IN BBC/NNP Research/NNP and/CC Development/NNP for/IN BBC/NNP Broadcast/NNP and/CC BBC/NNP Outside/JJ Broadcasts./NNP
+BBC/NNP Sport/NNP is/VBZ the/DT first/JJ client/NN to/TO start/VB using/VBG the/DT system./NN
+"In/NN order/NN to/TO keep/VB audiences/NNS growing/VBG and/CC growing.../NN
+we/PRP need/VBP to/TO work/VB closely/RB with/IN people/NNS who/WP create/VBP technology/NN and/CC innovation/NN to/TO bring/VB sport/NN to/TO life"/VB said/VBD Andrew/NNP Thompson/NNP the/DT BBC's/NNP head/NN of/IN development/NN new/JJ media/NNS and/CC sports/NNS news./NN
+"We/NN want/VBP to/TO appeal/VB to/TO core/VB fans/NNS -/: to/TO give/VB them/PRP more/JJR analysis/NN more/JJR detail/NN more/RBR definitive/JJ answers/NNS about/IN key/JJ passages/NNS of/IN play."/NN Piero/NNP works/VBZ by/IN taking/VBG telemetric/JJ data/NNS from/IN fixed/VBN camera/NN positions/NNS and/CC sending/VBG that/IN data/NNS inside/IN the/DT video/NN signal/NN to/TO a/DT PC/NN which/WDT can/MD then/RB render/VB the/DT information/NN into/IN 3D/CD graphics./NN
+
+The/DT more/JJR cameras/NNS using/VBG Piero/NNP the/DT better/JJR the/DT detail/NN possible/VB out/RP the/DT other/JJ end/NN when/WRB the/DT data/NNS is/VBZ turned/VBN into/IN 3D/CD models./NN
+"It/NN allows/VBZ us/PRP to/TO tell/VB the/DT story/NN of/IN a/DT passage/NN of/IN play/NN tracking/VBG individual/JJ players/NNS across/IN the/DT field/NN looking/VBG at/IN tactics"/NN said/VBD Andy/NNP Townsend/NNP from/IN BBC/NNP Broadcast./NNP
+
+An/DT operator/NN can/MD manipulate/VB the/DT information/NN and/CC provide/VB almost/RB real-time/JJ replays/NNS of/IN incidents/NNS as/RB well/RB as/IN more/RBR in-depth/JJ analysis./NN
+The/DT "virtual/JJ camera"/NN can/MD focus/VB on/IN virtually/RB any/DT aspect/NN of/IN the/DT pitch/NN giving/VBG viewers/NNS an/DT insight/NN into/IN action/NN that/IN the/DT camera/NN normally/RB cannot/NN see./NN
+Piero/NNP also/RB provides/VBZ a/DT wealth/NN of/IN statistical/JJ detail/NN -/: from/IN the/DT length/NN of/IN kicks/NNS to/TO the/DT length/NN of/IN a/DT run/NN of/IN an/DT individual/JJ player/NN and/CC the/DT height/NN of/IN a/DT lift/NN at/IN any/DT lineout./NN
+Mr/NNP Townsend/NNP said/VBD sports/NNS performance/NN companies/NNS were/VBD already/RB showing/VBG an/DT interest/NN in/IN the/DT technology./NN
+BBC/NNP Broadcast/NNP hopes/VBZ the/DT technology/NN can/MD be/VB sold/VBN to/TO third/JJ parties/NNS interested/JJ in/IN using/VBG it/PRP a/DT number/NN of/IN different/JJ ways/NNS -/: from/IN sport/NN broadcasting/NN to/TO entertainment/VB and/CC game/NN shows./NN

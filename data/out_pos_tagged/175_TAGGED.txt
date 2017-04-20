@@ -1,0 +1,16 @@
+French/JJ consumer/NN spending/NN rising/VBG
+
+French/JJ consumers/NNS increased/VBD their/PRP$ spending/NN by/IN 1.5%/CD in/IN January/NNP a/DT figure/NN which/WDT bodes/VBZ well/RB for/IN the/DT country's/NNS economic/JJ growth/NN figures/NNS revealed./NN
+
+The/DT National/NNP Statistic/NN Institute/NNP (INSEE)/NN added/VBD that/IN consumer/NN spending/NN in/IN January/NNP rose/VBD 3.8%/CD on/IN a/DT year-on-year/JJ basis./NN
+Rising/VBG sales/NNS of/IN household/NN equipment/NN were/VBD behind/IN the/DT increase./NN
+The/DT INSEE/NNP also/RB said/VBD that/IN French/JJ consumer/NN prices/NNS fell/VBD 0.6%/CD in/IN January/NNP but/CC were/VBD up/RB 1.6%/CD on/IN an/DT annual/JJ basis./NN
+
+Despite/IN the/DT general/JJ increase/NN in/IN spending/NN in/IN January/NNP French/JJ households/NNS bought/VBD fewer/JJR cars/NNS in/IN January./NNP
+According/VBG to/TO the/DT INSEE/NNP car/NN sales/NNS fell/VBD 2.8%/CD in/IN January/NNP following/VBG a/DT fall/NN of/IN 0.6%/CD in/IN December./NNP
+But/CC on/IN a/DT year-on-year/JJ basis/NN the/DT sector/NN still/RB saw/VBD a/DT sales/NNS increase/NN of/IN 6.5%./CD
+Consumer/NNP spending/NN fuelled/VBN France's/NNP economic/JJ growth/NN in/IN the/DT last/JJ quarter/NN of/IN 2004/CD and/CC analysts/NNS expect/VBP that/IN it/PRP will/MD continue/VB to/TO support/VB the/DT economy./NN
+"It's/NN a/DT growth/NN that/WDT will/MD remain/VB fragile/JJ and/CC vulnerable/JJ to/TO risks/NNS like/IN a/DT strong/JJ rise/NN in/IN long-term/JJ interest/NN rates/NNS tension/VBP in/IN the/DT oil/NN price"/NN Emmanuel/NNP Ferry/NN from/IN Exane/NNP BNP/NNP Paribas/NNP told/VBD Reuters/NNP news/NN agency./NN
+
+Meanwhile/RB in/IN Italy/NNP consumer/NN confidence/NN rose/VBD to/TO its/PRP$ highest/JJS level/NN since/IN October/NNP 2004./CD
+Economic/NNP research/NN group/NN ISAE/NNP has/VBZ said/VBN that/IN Italian/JJ consumer/NN confidence/NN rose/VBD to/TO 104.4/CD from/IN 103.3/CD despite/IN a/DT slight/JJ deterioration/NN in/IN short-term/JJ sentiment./NN

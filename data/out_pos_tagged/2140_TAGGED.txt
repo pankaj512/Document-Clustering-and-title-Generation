@@ -1,0 +1,33 @@
+More/JJR women/NNS turn/VBP to/TO net/JJ security/NN
+
+Older/JJR people/NNS and/CC women/NNS are/VBP increasingly/RB taking/VBG charge/NN of/IN protecting/VBG home/NN computers/NNS against/IN malicious/JJ net/JJ attacks/NNS according/VBG to/TO a/DT two-year/JJ study./NN
+
+The/DT number/NN of/IN women/NNS buying/VBG programs/NNS to/TO protect/VB PCs/NNS from/IN virus/NN spam/NN and/CC spyware/NN attacks/NNS rose/VBD by/IN 11.2%/CD each/DT year/NN between/IN 2002/CD and/CC 2004./CD
+The/DT study/NN for/IN net/JJ security/NN firm/NN Preventon/NNP shows/VBZ that/IN security/NN messages/NNS are/VBP reaching/VBG a/DT diversity/NN of/IN surfers./NN
+It/PRP is/VBZ thought/VBN that/IN 40%/CD of/IN those/DT buying/VBG home/NN net/JJ security/NN programs/NNS are/VBP retired./NN
+For/IN the/DT last/JJ three/CD years/NNS that/WDT has/VBZ gone/VBN up/RP by/IN an/DT average/NN of/IN 13.2%./CD
+But/CC more/RBR retired/JJ women/NNS (53%)/CD were/VBD buying/VBG security/NN software/NN than/IN retired/VBN men./NN
+The/DT research/NN reflects/VBZ the/DT changing/VBG stereotype/NN and/CC demographics/NNS of/IN web/NN users/NNS as/RB well/RB as/IN growing/VBG awareness/NN of/IN the/DT greater/JJR risks/NNS that/IN high-speed/JJ broadband/NN net/JJ connections/NNS can/MD pose/VB to/TO surfers./VB
+
+The/DT study/NN predicts/VBZ that/IN 40%/CD of/IN all/DT home/NN PC/NN net/JJ security/NN buyers/NNS will/MD be/VB women/NNS in/IN 2005./CD
+They/PRP could/MD even/RB overtake/VB men/NNS as/IN the/DT main/JJ buyers/NNS by/IN 2007/CD if/IN current/JJ rates/NNS persist/VBP according/VBG to/TO the/DT research./NN
+"I/NN think/VBP older/JJR people/NNS have/VBP become/VBN more/JJR vigilant/NN about/IN protecting/VBG their/PRP$ PCs/NNS as/IN we/PRP tend/VBP to/TO be/VB more/RBR cautious/JJ and/CC want/VBP an/DT insurance/NN policy/NN in/IN case/NN something/NN does/VBZ go/VB wrong"/NN said/VBD one/CD over-60/JJ woman/NN who/WP took/VBD part/NN in/IN the/DT research./NN
+
+"You/NN started/VBD off/RP with/IN young/JJ male/JJ stereotype/NN computer/NN users/NNS for/IN last/JJ 10/CD years"/NN Paul/NNP Goosens/NNP head/NN of/IN Preventon/NNP told/VBD the/DT BBC/NNP News/NNP website./NN
+"Now/NN we/PRP are/VBP seeing/VBG real/JJ people/NNS -/: both/DT sexes/NNS and/CC very/RB often/RB it/PRP is/VBZ women/NNS who/WP have/VBP more/JJR access/NN at/IN home."/NN But/CC net/JJ service/NN providers/NNS still/RB need/VBP to/TO take/VB more/JJR responsibility/NN in/IN making/VBG sure/JJ people/NNS are/VBP educated/VBN about/IN net/JJ threats/NNS before/IN they/PRP go/VBP online/NN particuarly/RB if/IN they/PRP are/VBP new/JJ to/TO broadband/VB he/PRP said./VB
+
+Programs/NNP also/RB need/VBP to/TO be/VB tailored/VBN so/IN that/IN they/PRP can/MD be/VB installed/VBN by/IN dial-up/JJ users/NNS with/IN a/DT slower/JJR connection/NN too/RB said/VBD Mr/NNP Goosens./NNP
+Security/NNP software/NN should/MD be/VB easy/JJ to/TO use/VB with/IN simple/JJ interfaces/NNS and/CC instructions/NNS written/VBN in/IN non-technical/JJ language/NN he/PRP added./VB
+The/DT nature/NN of/IN the/DT security/NN threats/NNS are/VBP also/RB becoming/VBG more/JJR than/IN just/RB about/IN e-mail/JJ viruses./NN
+High-profile/JJ complaints/NNS about/IN rogue/NN diallers/NNS and/CC spyware/NN or/CC other/JJ programs/NNS that/WDT surreptitiously/RB install/VBP themselves/PRP on/IN computers/NNS have/VBP also/RB raised/VBN awareness/NN about/IN the/DT need/NN to/TO have/VB a/DT combination/NN of/IN anti-virus/JJ firewall/NN and/CC spyware-removal/JJ programs/NNS too./NN
+Without/IN protection/NN these/DT kinds/NNS of/IN programs/NNS can/MD be/VB picked/VBN up/RP just/RB through/IN surfing/VBG the/DT web/NN normally./NN
+
+More/JJR than/IN 30000/CD PCs/NNS a/DT day/NN globally/RB are/VBP being/VBG recruited/VBN into/IN networks/NNS that/DT spread/NN spam/NN and/CC viruses/VBZ a/DT study/NN from/IN security/NN from/IN Symantec/NNP showed/VBD last/JJ year./NN
+Viruses/NNP written/VBN to/TO make/VB headlines/NNS by/IN infecting/VBG millions/NNS are/VBP also/RB getting/VBG rarer/NN according/VBG to/TO net/JJ security/NN experts./NN
+Programs/NNS are/VBP being/VBG unleashed/VBN to/TO directly/RB profit/VB criminal/JJ gangs/NNS many/JJ based/VBN in/IN Eastern/NNP Europe/NNP over/IN those/DT which/WDT are/VBP designed/VBN to/TO show/VB off/RP technical/JJ skills/NNS or/CC cause/VB nuisance./NN
+The/DT research/NN shows/VBZ that/IN more/JJR people/NNS are/VBP taking/VBG these/DT criminal/JJ net/JJ threats/NNS more/RBR seriously/RB because/IN said/VBD Mr/NNP Goosens/NNP they/PRP are/VBP reported/VBN in/IN the/DT press/NN much/JJ more./NN
+"You/NN are/VBP seeing/VBG older/JJR users/NNS being/VBG educated/VBN by/IN the/DT media/NNS and/CC are/VBP seeing/VBG them/PRP picking/VBG up/RP on/IN this/DT threat./NN
+They/PRP are/VBP asking/VBG the/DT right/JJ questions"/NN he/PRP explained./VB
+"It/NN is/VBZ more/RBR likely/JJ the/DT younger/JJR users/NNS who/WP naively/RB assume/VBP that/IN because/IN they/PRP are/VBP using/VBG a/DT reputable/JJ service/NN provider/NN that/IN they/PRP are/VBP safe/JJ to/TO connect/VB to/TO the/DT net."/NN An/DT unprotected/VBN computer/NN on/IN a/DT broadband/NN connection/NN can/MD be/VB breached/VBN and/CC infected/JJ with/IN viruses/NNS or/CC spyware/NN within/IN minutes./NN
+By/IN the/DT end/NN of/IN the/DT year/NN it/PRP is/VBZ thought/VBN that/IN more/JJR than/IN 30%/CD of/IN UK/NNP homes/NNS will/MD have/VB broadband/NN net/JJ access./NN
+In/IN July/NNP last/JJ year/NN the/DT number/NN of/IN UK/NNP households/NNS accessing/VBG the/DT net/NN via/IN broadband/NN surpassed/VBD those/DT using/VBG dial-up/JJ for/IN the/DT first/JJ time/NN according/VBG to/TO the/DT Office/NNP of/IN National/NNP Statistics./NNP

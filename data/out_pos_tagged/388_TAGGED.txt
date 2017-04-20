@@ -1,0 +1,16 @@
+Venezuela/NNP identifies/VBZ 'idle'/NN farms/NNS
+
+Venezuelan/JJ authorities/NNS have/VBP identified/VBN more/JJR than/IN 500/CD farms/NNS including/VBG 56/CD large/JJ estates/NNS as/RB idle/JJ as/IN it/PRP continues/VBZ with/IN its/PRP$ controversial/JJ land/NN reform/NN policy./NN
+
+Under/IN a/DT 2001/CD land/NN law/NN the/DT government/NN can/MD tax/VB or/CC seize/VB unused/JJ farm/NN sites./NN
+A/DT further/JJ 40000/CD farms/NNS are/VBP yet/RB to/TO be/VB inspected/VBN the/DT state's/NNS National/NNP Land/NNP Institute/NNP has/VBZ told/VBN Associated/NNP Press./NNP
+Vice/NNP president/NN Jose/NNP Vicente/NNP Rangel/NNP has/VBZ said/VBN farmers/NNS and/CC ranchers/NNS with/IN their/PRP$ titles/NNS in/IN order/NN and/CC their/PRP$ lands/NNS productive/JJ have/VBP "nothing/VBG to/TO fear."/VB Critics/NNS of/IN the/DT land/NN reform/NN policy/NN claim/NN president/NN Hugo/NNP Chavez/NNP is/VBZ trying/VBG to/TO enforce/VB a/DT communist-style/JJ economic/JJ programme/NN that/WDT ignores/VBZ property/NN rights/NNS and/CC will/MD damage/VB the/DT country./NN
+Land/NNP owners/NNS claim/VBP the/DT National/NNP Land/NNP Institute/NNP has/VBZ made/VBN mistakes/NNS in/IN classifying/VBG lands/NNS as/IN public/NN or/CC private./NN
+
+But/CC the/DT government/NN -/: Venezuela's/NNP largest/JJS land/NN owner/NN -/: say/VBP they/PRP are/VBP proceeding/VBG cautiously/RB to/TO prevent/VB conflicts./NN
+In/IN a/DT statement/NN Mr/NNP Rangel/NNP said/VBD the/DT land/NN reform/NN is/VBZ not/RB against/IN the/DT constitution/NN which/WDT permits/VBZ private/JJ property/NN while/IN stressing/VBG the/DT efforts/NNS are/VBP to/TO "vindicate/VB social/JJ and/CC economically"/NN years/NNS of/IN inequality/NN in/IN the/DT country./NN
+
+One/CD property/NN in/IN conflict/NN with/IN the/DT government/NN is/VBZ the/DT El/NNP Charcote/NNP cattle/NNS ranch/NN run/NN by/IN Agroflora/NNP a/DT subsidiary/NN of/IN the/DT UK/NNP food/NN group/NN Vestey./NNP
+Agriculture/NNP minister/NN Arnoldo/NNP Marquez/NNP told/VBD Reuters/NNP news/NN agency/NN the/DT site's/NNS documents/NNS "do/NN not/RB guarantee/NN that/IN this/DT is/VBZ a/DT private/JJ land"./NN
+Administrators/NNS of/IN the/DT ranch/NN however/RB have/VBP complained/VBN that/IN pro-Chavez/JJ squatters/NNS have/VBP taken/VBN over/IN 80%/CD of/IN the/DT property/NN in/IN the/DT last/JJ four/CD years/NNS and/CC the/DT UK/NNP government/NN has/VBZ asked/VBN Venezuelan/JJ authorities/NNS to/TO resolve/VB the/DT conflict./NN
+"You/NN should/MD ask/VB the/DT company/NN when/WRB they/PRP are/VBP going/VBG to/TO put/VB their/PRP$ papers/NNS in/IN order/NN and/CC hand/NN over/IN the/DT land/NN that/WDT is/VBZ not/RB theirs"/NN said/VBD Mr/NNP Marquez./NNP

@@ -1,0 +1,17 @@
+February/NNP poll/NN claim/NN 'speculation'/NN
+
+Reports/NNS that/IN Tony/NNP Blair/NNP is/VBZ planning/VBG a/DT snap/NN general/JJ election/NN for/IN February/NNP 2005/CD have/VBP been/VBN described/VBN as/IN "idle/NN speculation"/NN by/IN Downing/NNP Street./NNP
+
+A/DT spokesman/NN said/VBD he/PRP had/VBD "no/NN idea"/NN where/WRB the/DT reports/NNS in/IN the/DT Sunday/NNP Times/NNP and/CC Sunday/NNP Telegraph/NNP had/VBD come/VBN from./NN
+The/DT papers/NNS suggest/VBP ministers/NNS believe/VBP the/DT government/NN could/MD benefit/VB from/IN a/DT "Baghdad/NN bounce"/NN following/VBG successful/JJ Iraq/NNP elections/NNS in/IN January./NNP
+A/DT British/JJ general/JJ election/NN was/VBD last/RB held/VBN in/IN February/NNP in/IN 1974./CD
+In/IN that/DT election/NN Edward/NNP Heath/NNP lost/VBD and/CC failed/VBD to/TO build/VB a/DT coalition/NN with/IN the/DT Liberals./NNP
+Harold/NNP Wilson/NNP took/VBD over/RP and/CC increased/VBD his/PRP$ majority/NN later/RB in/IN the/DT year/NN in/IN a/DT second/JJ election/NN
+
+The/DT latest/JJS speculation/NN suggests/VBZ the/DT prime/JJ minister/NN favours/NNS a/DT February/NNP poll/NN in/IN order/NN to/TO exploit/VB his/PRP$ current/JJ opinion/NN poll/NN lead/NN over/IN Conservative/JJ leader/NN Michael/NNP Howard./NNP
+But/CC that/DT strategy/NN could/MD prompt/VB criticism/NN he/PRP was/VBD seeking/VBG to/TO "cut/VB and/CC run"/NN after/IN less/RBR then/RB four/CD years/NNS of/IN a/DT parliamentary/JJ term./NN
+The/DT papers/NNS report/NN that/IN Alan/NNP Milburn/NNP Labour's/NNP head/NN of/IN elections/NNS strategy/NN has/VBZ played/VBN a/DT key/JJ role/NN in/IN the/DT plan/NN for/IN a/DT February/NNP election/NN which/WDT would/MD include/VB a/DT New/NNP Year/NN advertising/NN blitz./NN
+New/NNP Labour's/NNP campaign/NN both/DT newspapers/NNS said/VBD would/MD be/VB centred/VBN around/IN the/DT slogan/NN "Britain/NN is/VBZ Working"./NNP
+A/DT Labour/NNP Party/NNP spokesman/NN said/VBD the/DT election/NN date/NN was/VBD ultimately/RB a/DT matter/NN for/IN Mr/NNP Blair/NNP but/CC he/PRP was/VBD unaware/JJ of/IN anything/NN to/TO suggest/VB it/PRP would/MD be/VB in/IN February./NNP
+Most/JJS commentators/NNS have/VBP been/VBN expecting/VBG an/DT election/NN on/IN 5/CD May./NNP
+The/DT last/JJ election/NN was/VBD in/IN June/NNP 2001./CD

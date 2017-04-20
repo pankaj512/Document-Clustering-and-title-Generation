@@ -1,0 +1,15 @@
+Bennett/NNP play/VB takes/VBZ theatre/FW prizes/NNS
+
+The/DT History/NNP Boys/NNPS by/IN Alan/NNP Bennett/NNP has/VBZ been/VBN named/VBN best/JJS new/JJ play/NN in/IN the/DT Critics'/NNP Circle/NNP Theatre/NNP Awards./NNP
+
+Set/VBN in/IN a/DT grammar/NN school/NN the/DT play/NN also/RB earned/VBD a/DT best/JJS actor/NN prize/NN for/IN star/NN Richard/NNP Griffiths/NNP as/IN teacher/NN Hector./NNP
+The/DT Producers/NNPS was/VBD named/VBN best/JJS musical/JJ Victoria/NNP Hamilton/NNP was/VBD best/RBS actress/NN for/IN Suddenly/RB Last/JJ Summer/NNPS and/CC Festen's/NNP Rufus/NNP Norris/NNP was/VBD named/VBN best/JJS director./NN
+The/DT History/NNP Boys/NNPS also/RB won/VBD the/DT best/JJS new/JJ comedy/NN title/NN at/IN the/DT Theatregoers'/NNP Choice/NN Awards./NNP
+
+Partly/RB based/VBN upon/IN Alan/NNP Bennett's/NNP experience/NN as/IN a/DT teacher/NN The/DT History/NNP Boys/NNPS has/VBZ been/VBN at/IN London's/NNP National/NNP Theatre/NNP since/IN last/JJ May./NNP
+The/DT Critics'/NNP Circle/NNP named/VBD Rebecca/NNP Lenkiewicz/NNP its/PRP$ most/JJS promising/JJ playwright/NN for/IN The/DT Night/NNP Season/NN and/CC Eddie/NNP Redmayne/NNP most/JJS promising/JJ newcomer/NN for/IN The/DT Goat/NNP or/CC Who/WP is/VBZ Sylvia?/NNP
+
+Paul/NNP Rhys/NNP was/VBD its/PRP$ best/JJS Shakespearean/JJ performer/NN for/IN Measure/NN for/IN Measure/NN at/IN the/DT National/NNP Theatre/NNP and/CC Christopher/NNP Oram/NNP won/VBD the/DT design/NN award/NN for/IN Suddenly/RB Last/JJ Summer./NNP
+Both/DT the/DT Critics'/NNP Circle/NNP and/CC Whatsonstage.com/NNP Theatregoers'/NNP Choice/NN award/NN winners/NNS were/VBD announced/VBN on/IN Tuesday./NNP
+Chosen/NNP by/IN more/JJR than/IN 11000/CD theatre/FW fans/NNS the/DT Theatregoers'/NNP Choice/NN Awards/NNS named/VBD US/PRP actor/VBP Christian/NNP Slater/NNP best/JJS actor/NN for/IN One/CD Flew/VBD Over/IN the/DT Cuckoo's/NNP Nest./NNP
+Diana/NNP Rigg/NNP was/VBD best/RBS actress/NN for/IN Suddenly/RB Last/JJ Summer/NNPS Dame/NNP Judi/NNP Dench/NNP was/VBD best/RBS supporting/VBG actress/NN for/IN the/DT RSC's/NNP All's/NNP Well/RB That/DT Ends/NNS Well/RB and/CC The/DT History/NN Boys'/NNP Samuel/NNP Barnett/NNP was/VBD best/RBS supporting/VBG actor./NN

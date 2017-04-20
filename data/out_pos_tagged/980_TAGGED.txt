@@ -1,0 +1,16 @@
+Job/NN cuts/VBZ 'false/NN economy'/NN -/: TUC/NNP
+
+Plans/NNS to/TO shed/VB 71000/CD civil/JJ service/NN jobs/NNS will/MD prove/VB to/TO be/VB a/DT "false/NN economy"/NN that/WDT could/MD hamper/VB public/JJ sector/NN reforms/NNS according/VBG to/TO a/DT TUC/NNP report./NN
+
+Public/NNP and/CC Commercial/NNP Services/NNPS union/NN members/NNS have/VBP already/RB voted/VBN to/TO strike/VB over/IN cuts/NNS for/IN one/CD day/NN on/IN 5/CD November./NNP
+The/DT TUC/NNP said/VBD cuts/NNS would/MD deliver/VB less/JJR than/IN 6%/CD of/IN the/DT £22bn/CD ministers/NNS hope/VBP to/TO save/VB through/IN efficiency/NN reforms./NN
+General/NNP secretary/NN Brendan/NNP Barber/NNP warned/VBD the/DT "costs/NN could/MD easily/RB outweigh/VB the/DT benefits"./NN
+"The/NN government's/NNS big/JJ boost/NN to/TO public/JJ spending/NN is/VBZ now/RB showing/VBG results"/NN said/VBD Mr/NNP Barber./NNP
+"Public/JJ services/NNS are/VBP improving/VBG but/CC looking/VBG for/IN simple/JJ savings/NNS through/IN job/NN cuts/NNS at/IN this/DT stage/NN could/MD be/VB a/DT false/JJ economy./NN
+
+"They/NN may/MD shoot/VB a/DT Tory/NNP fox/NN but/CC cutting/VBG thousands/NNS of/IN civil/JJ service/NN jobs/NNS will/MD hit/VB the/DT morale/NN and/CC capabilities/NNS of/IN the/DT public/JJ servants/NNS expected/VBN to/TO implement/VB government/NN reforms./NN
+The/DT costs/NNS could/MD easily/RB outweigh/VB the/DT benefits."/NN Next/JJ Friday's/NNP strike/NN action/NN by/IN the/DT PCS/NNP is/VBZ the/DT biggest/JJS in/IN the/DT civil/JJ service/NN since/IN 1993/CD hitting/VBG Jobcentres/NNP benefit/NN agencies/NNS pensions/NNS offices/NNS customs/NNS and/CC driving/VBG tests./NN
+The/DT union/NN says/VBZ it/PRP is/VBZ concerned/VBN about/IN pensions/NNS sick/JJ pay/NN and/CC forced/VBN relocation/NN as/RB well/RB as/IN the/DT cut/NN in/IN jobs./NN
+Last/JJ month/NN it/PRP was/VBD announced/VBN that/IN a/DT total/NN of/IN 37/CD social/JJ security/NN offices/NNS and/CC Jobcentres/NNP across/IN the/DT UK/NNP would/MD close/VB in/IN the/DT first/JJ wave/NN of/IN plans/NNS to/TO shed/VB civil/JJ service/NN jobs./NN
+The/DT number/NN of/IN civil/JJ servants/NNS in/IN Britain/NNP rose/VBD to/TO more/JJR than/IN 520000/CD in/IN April./NNP
+Other/JJ areas/NNS the/DT strike/NN will/MD affect/VB include/VB passports/NNS museums/NNS and/CC galleries/NNS libraries/NNS and/CC health/NN and/CC safety/NN inspections./NN

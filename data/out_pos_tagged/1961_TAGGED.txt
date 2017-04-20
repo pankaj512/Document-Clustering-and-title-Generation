@@ -1,0 +1,49 @@
+When/WRB invention/NN turns/VBZ to/TO innovation/VB
+
+It/PRP is/VBZ unlikely/JJ that/IN future/JJ technological/JJ inventions/NNS are/VBP going/VBG to/TO have/VB the/DT same/JJ kind/NN of/IN transformative/JJ impact/NN that/IN they/PRP did/VBD in/IN the/DT past./NN
+
+When/WRB history/NN takes/VBZ a/DT look/NN back/RB at/IN great/JJ inventions/NNS like/IN the/DT car/NN and/CC transistor/NN they/PRP were/VBD defining/VBG technologies/NNS which/WDT ultimately/RB changed/VBD people's/NNS lives/NNS substantially./NN
+But/CC says/VBZ Nick/NNP Donofrio/NNP senior/JJ vice-president/NN of/IN technology/NN and/CC manufacturing/NN at/IN IBM/NNP it/PRP was/VBD not/RB "the/NN thing"/NN itself/PRP that/WDT actually/RB improved/VBN people's/NNS lives./NN
+It/PRP was/VBD all/PDT the/DT social/JJ and/CC cultural/JJ changes/NNS that/IN the/DT discovery/NN or/CC invention/NN brought/VBN with/IN it./NN
+The/DT car/NN brought/VBD about/RP a/DT crucial/JJ change/NN to/TO how/WRB people/NNS lived/VBD in/IN cities/NNS giving/VBG them/PRP the/DT ability/NN to/TO move/VB out/RP into/IN the/DT suburbs/NNS whilst/NN having/VBG mobility/NN and/CC access./NN
+"When/NN we/PRP talk/VBP about/IN innovation/NN and/CC creating/VBG real/JJ value/NN in/IN the/DT 21st/JJ Century/NNP we/PRP have/VBP to/TO think/VB more/JJR like/IN this/DT but/CC faster"/NN Mr/NNP Donofrio/NNP told/VBD the/DT BBC/NNP News/NNP website/NN after/IN giving/VBG the/DT Royal/NNP Academy/NNP of/IN Engineering/NNP 2004/CD Hinton/NNP Lecture./NNP
+"The/NN invention/NN discovery/NN is/VBZ likely/JJ not/RB to/TO have/VB the/DT same/JJ value/NN as/IN the/DT transistor/NN had/VBD or/CC the/DT automobile/NN had./NN
+"The/NN equivalent/NN of/IN those/DT things/NNS will/MD be/VB invented/VBN or/CC discovered/VBN but/CC by/IN themselves/PRP they/PRP are/VBP just/RB not/RB going/VBG to/TO able/JJ to/TO generate/VB real/JJ business/NN value/NN or/CC wealth/NN as/IN these/DT things/NNS did."/VBP These/DT are/VBP not/RB altogether/RB new/JJ ideas/NNS and/CC academics/NNS have/VBP been/VBN exploring/VBG how/WRB technologies/NNS impact/VBP wider/JJR society/NN for/IN years./NN
+But/CC what/WP it/PRP means/VBZ for/IN technology/NN companies/NNS is/VBZ that/IN a/DT new/JJ idea/NN method/NN or/CC device/NN will/MD have/VB to/TO have/VB a/DT different/JJ kind/NN thinking/VBG behind/IN it/PRP so/RB that/IN people/NNS see/VBP the/DT value/NN that/IN innovative/JJ technology/NN has/VBZ for/IN them./NN
+
+We/PRP are/VBP in/IN a/DT different/JJ phase/NN now/RB when/WRB it/PRP comes/VBZ to/TO technology/VB argues/VBZ Mr/NNP Donofrio/NNP Industry/NNP Week's/NNP 2003/CD Technology/NNP Leader/NNP of/IN the/DT Year./NNP
+The/DT hype/NN and/CC over-promise/JJ is/VBZ over/RB and/CC now/RB technology/NN leaders/NNS have/VBP to/TO demonstrate/VB that/IN things/NNS work/VBP make/VBP sense/NN make/VB a/DT difference/NN and/CC life/NN gets/VBZ better/JJR as/IN a/DT result./NN
+
+"In/NN the/DT dotcom/NN era/NN there/EX was/VBD something/NN that/WDT was/VBD jumping/VBG up/RP in/IN your/PRP$ face/NN every/DT five/CD minutes./NN
+"Somebody/NN had/VBD a/DT new/JJ thing/NN that/WDT would/MD awe/VB you./NN
+You/PRP weren't/VBP quite/RB sure/JJ that/IN it/PRP did/VBD anything/NN you/PRP weren't/VBP quite/RB sure/JJ if/IN you/PRP needed/VBD it/PRP you/PRP weren't/VBP quite/RB sure/JJ if/IN it/PRP had/VBD value/NN for/IN it/PRP but/CC it/PRP was/VBD cool."/NN But/CC change/NN and/CC innovation/NN in/IN technology/NN that/IN people/NNS will/MD see/VB affecting/VBG their/PRP$ daily/JJ lives/NNS he/PRP says/VBZ will/MD come/VB about/RB slowly/RB subtlety/NN and/CC in/IN ways/NNS that/WDT will/MD no/RB longer/RB be/VB "in/NN your/PRP$ face"./NN
+It/PRP will/MD creep/VB in/IN pervasively./NN
+Nanotechnologies/NNP will/MD play/VB a/DT key/JJ part/NN in/IN this/DT kind/NN of/IN pervasive/JJ environment/NN in/IN all/DT sorts/NNS of/IN ways/NNS through/IN new/JJ superconducting/NN materials/NNS to/TO coatings/NNS power/NN and/CC memory/NN storage./NN
+"I/NN am/VBP a/DT very/RB big/JJ believer/NN in/IN the/DT evolution/NN of/IN this/DT industry/NN into/IN a/DT pervasive/JJ environment/NN in/IN an/DT incredible/JJ network/NN infrastructure"/NN says/VBZ Mr/NNP Donofrio./NNP
+Pervasive/JJ computing/NN is/VBZ where/WRB wireless/JJ computing/VBP rules/NNS and/CC where/WRB jewellery/NN clothes/NNS and/CC everyday/JJ objects/NNS become/VBP the/DT interfaces/NNS instead/RB of/IN bulky/JJ wires/NNS screens/NNS and/CC keyboards./NN
+The/DT net/JJ becomes/VBZ a/DT true/JJ network/NN that/WDT is/VBZ taken/VBN for/IN granted/VBN and/CC just/RB there/RB like/IN air./NN
+"People/NN will/MD not/RB have/VB to/TO do/VB anything/NN to/TO stay/VB connected./NN
+People/NNS will/MD know/VB their/PRP$ lives/NNS are/VBP just/RB better"/NN says/VBZ Mr/NNP Donofrio./NNP
+"Trillions/NN of/IN devices/NNS will/MD be/VB connected/VBN to/TO the/DT net/NN in/IN ways/NNS people/NNS will/MD not/RB know."/VB Natural/NNP interfaces/NNS will/MD develop/VB devices/NNS will/MD shape/VB your/PRP$ persona/NN and/CC our/PRP$ technologically/RB underused/VBN voices/NNS could/MD be/VB telling/VBG our/PRP$ jewellery/NN to/TO sort/VB out/RP the/DT finances./NN
+
+Ultimately/RB there/EX will/MD be/VB says/VBZ Mr/NNP Donofrio/NNP no/DT value/NN in/IN being/VBG "computer/NN illiterate"./NN
+To/TO some/DT it/PRP sounds/VBZ like/IN a/DT technological/JJ world/NN gone/VBD mad./NN
+To/TO Mr/NNP Donofrio/NNP it/PRP is/VBZ a/DT vision/NN innovation/NN that/WDT will/MD happen./VB
+Behind/IN this/DT vision/NN should/MD be/VB a/DT rich/JJ robust/JJ network/NN capability/NN and/CC "deep/NN computing"/NN says/VBZ Mr/NNP Donofrio./NNP
+Deep/JJ computing/NN is/VBZ the/DT ability/NN to/TO perform/VB lots/NNS of/IN complex/JJ calculations/NNS on/IN massive/JJ amounts/NNS of/IN data/NNS and/CC integral/JJ to/TO this/DT concept/NN is/VBZ supercomputing./NN
+It/PRP has/VBZ value/NN according/VBG to/TO IBM/NNP because/IN it/PRP helps/VBZ humans/NNS work/VBP out/RP extremely/RB complex/JJ problems/NNS to/TO come/VB up/RP with/IN valuable/JJ solutions/NNS like/IN how/WRB to/TO refine/VB millions/NNS of/IN net/JJ search/NN results/NNS finding/VBG cures/NNS for/IN diseases/NNS or/CC understanding/NN of/IN exactly/RB how/WRB a/DT gene/NN or/CC protein/NN operates./NN
+
+But/CC pervasive/JJ computing/NN presumably/RB means/VBZ having/VBG technologies/NNS that/WDT are/VBP aware/JJ of/IN diversity/NN of/IN contexts/NNS commands/NNS and/CC requirements/NNS of/IN a/DT diverse/JJ world./NN
+As/IN computing/NN and/CC technologies/NNS become/VBP part/NN of/IN the/DT environment/NN part/NN of/IN furniture/NN walls/NNS and/CC clothing/NN physical/JJ space/NN becomes/VBZ a/DT more/RBR important/JJ consideration./NN
+
+This/DT is/VBZ going/VBG to/TO need/VB a/DT much/RB broader/JJR range/NN of/IN skills/NNS and/CC experience./NN
+"I/NN am/VBP confident/JJ that/IN the/DT SET/VBN [science/NN engineering/NN and/CC technology]/NN industry/NN is/VBZ going/VBG to/TO be/VB short/JJ on/IN skills"/NN he/PRP says./VB
+"If/NN I/PRP am/VBP right/JJ about/IN what/WP innovation/NN is/VBZ you/PRP need/VBP to/TO be/VB multidisciplinary/JJ and/CC collaborative./NN
+"Women/NNS tend/VBP to/TO have/VB those/DT traits/NNS a/DT lot/NN better/RBR than/IN men."/NN Eventually/RB women/VBZ could/MD win/VB out/RP in/IN both/DT life/NN and/CC physical/JJ sciences/NNS he/PRP says./VB
+In/IN the/DT UK/NNP a/DT DTI-funded/NNP resource/NN centre/NN for/IN women/NNS has/VBZ set/VBN a/DT target/NN to/TO have/VB 40%/CD representation/NN on/IN SET/VBN industry/NN boards./NN
+IBM/NNP according/VBG to/TO Mr/NNP Donofrio/NNP has/VBZ 30%./CD
+"Our/NN goal/NN is/VBZ for/IN our/PRP$ research/NN team/NN to/TO become/VB the/DT preferred/JJ organisation/NN for/IN women/NNS in/IN science/NN and/CC technology/NN to/TO begin/VB their/PRP$ career."/NN The/DT whole/JJ issue/NN of/IN global/JJ diversity/NN is/VBZ as/RB much/JJ a/DT business/NN matter/NN as/IN it/PRP is/VBZ a/DT moral/JJ and/CC social/JJ concern/NN to/TO Mr/NNP Donofrio./NNP
+"We/NN believe/VBP in/IN the/DT whole/JJ issue/NN of/IN global/JJ diversity"/NN he/PRP says./VB
+"Our/NN customers/NNS are/VBP diverse/JJ our/PRP$ clients/NNS are/VBP diverse./NN
+They/PRP expect/VBP us/PRP to/TO look/VB like/IN them./NN
+"As/NN more/JJR and/CC more/JJR women/NNS or/CC underrepresented/VBN minorities/NNS succeed/VBP into/IN leadership/NN positions/NNS it/PRP becomes/VBZ and/CC imperative/JJ for/IN us/PRP to/TO constantly/RB look/VB like/IN them."/NN

@@ -1,0 +1,13 @@
+Hillbillies/NNP singer/NN Scoggins/NNP dies/VBZ
+
+Country/NNP and/CC Western/JJ musician/NN Jerry/NNP Scoggins/NNP has/VBZ died/VBN in/IN Los/NNP Angeles/NNP at/IN the/DT age/NN of/IN 93/CD his/PRP$ family/NN has/VBZ said./NN
+
+Scoggins/NNP was/VBD best/RBS remembered/VBD for/IN singing/VBG the/DT theme/NN tune/NN to/TO popular/VB US/PRP TV/VBP show/NN The/DT Beverly/NNP Hillbillies./NNP
+The/DT Texan-born/NNP singer/NN approached/VBD the/DT producers/NNS of/IN the/DT programme/NN with/IN theme/NN tune/NN The/DT Ballad/NNP of/IN Jed/NNP Clampett/NNP for/IN the/DT pilot/NN which/WDT was/VBD screened/VBN in/IN 1962./CD
+The/DT show/NN which/WDT told/VBD the/DT story/NN of/IN a/DT poor/JJ man/NN striking/JJ oil/NN and/CC moving/VBG to/TO Beverly/NNP Hills/NNP ran/VBD until/IN 1971./CD
+
+Scoggins'/NNP daugher/NN Jane/NNP Kelly/NNP Misel/NNP said/VBD that/IN her/PRP$ father/NN never/RB tired/JJ of/IN the/DT song/NN and/CC would/MD sing/VB it/PRP at/IN least/JJS once/RB a/DT day./NN
+"He'd/NN sing/VBP it/PRP at/IN birthdays/NNS and/CC anniversaries/NNS and/CC variety/NN shows./NN
+He/PRP never/RB stopped/VBD performing/VBG it"/NN she/PRP said./VBP
+When/WRB a/DT film/NN version/NN of/IN The/DT Beverly/NNP Hillbillies/NNP was/VBD made/VBN in/IN 1993/CD Scoggins/NNP came/VBD out/IN of/IN retirement/NN to/TO perform/VB the/DT theme/NN tune./NN
+Scoggins/NNP sang/VBD the/DT lyrics/NNS while/IN bluegrass/JJ stars/NNS Lester/NNP Flatt/NNP and/CC Earl/NNP Scruggs/NNP played/VBD guitar/NN and/CC banjo./NN

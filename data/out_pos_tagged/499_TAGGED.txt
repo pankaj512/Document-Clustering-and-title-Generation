@@ -1,0 +1,16 @@
+China/NNP Aviation/NNP seeks/VBZ rescue/NN deal/NN
+
+Scandal-hit/NNP jet/NN fuel/NN supplier/NN China/NNP Aviation/NNP Oil/NNP has/VBZ offered/VBN to/TO repay/VB its/PRP$ creditors/NNS $220m/CD (£117m)/CD of/IN the/DT $550m/CD it/PRP lost/VBD on/IN trading/NN in/IN oil/NN futures./NN
+
+The/DT firm/NN said/VBD it/PRP hoped/VBD to/TO pay/VB $100m/CD now/RB and/CC another/DT $120m/CD over/IN eight/CD years./NN
+With/IN assets/NNS of/IN $200m/CD and/CC liabilities/NNS totalling/VBG $648m/CD it/PRP needs/VBZ creditors'/NN backing/NN for/IN the/DT offer/NN to/TO avoid/VB going/VBG into/IN bankruptcy./NN
+The/DT trading/NN scandal/NN is/VBZ the/DT biggest/JJS to/TO hit/VB Singapore/NNP since/IN the/DT $1.2bn/CD collapse/NN of/IN Barings/NNPS Bank/NNP in/IN 1995./CD
+Chen/NNP Jiulin/NNP chief/NN executive/NN of/IN China/NNP Aviation/NNP Oil/NNP (CAO)/NN was/VBD arrested/VBN by/IN at/IN Changi/NNP Airport/NNP by/IN Singapore/NNP police/NNS on/IN 8/CD December./NNP
+He/PRP was/VBD returning/VBG from/IN China/NNP where/WRB he/PRP had/VBD headed/VBN when/WRB CAO/NNP announced/VBD its/PRP$ trading/NN debacle/NN in/IN late-November./JJ
+The/DT firm/NN had/VBD been/VBN betting/VBG heavily/RB on/IN a/DT fall/NN in/IN the/DT price/NN of/IN oil/NN during/IN October/NNP but/CC prices/NNS rose/VBD sharply/RB instead./NN
+
+Among/IN the/DT creditors/NNS whose/WP$ backing/NN CAO/NNP needs/VBZ for/IN its/PRP$ restructuring/NN plan/NN are/VBP banking/NN giants/NNS such/JJ as/IN Barclay's/NNP Capital/NNP and/CC Sumitomo/NNP Mitsui/NNP as/RB well/RB as/IN South/JJ Korean/JJ firm/NN SK/NNP Energy./NNP
+Of/IN the/DT immediate/JJ payment/NN the/DT firm/NN -/: China's/NNP biggest/JJS jet/NN fuel/NN supplier/NN -/: said/VBD it/PRP would/MD be/VB paying/VBG $30m/CD out/IN of/IN its/PRP$ own/JJ resources./NN
+The/DT rest/NN would/MD come/VB from/IN its/PRP$ parent/NN company/NN China/NNP Aviation/NNP Oil/NNP Holding/NNP Company/NNP in/IN Beijing./NNP
+The/DT holding/VBG company/NN owned/VBN by/IN the/DT Chinese/JJ government/NN holds/VBZ most/JJS of/IN CAO's/NNP Singapore-listed/NNP shares./NN
+It/PRP cut/VBP its/PRP$ holding/VBG from/IN 75%/CD to/TO 60%/CD on/IN 20/CD October./NNP

@@ -1,0 +1,25 @@
+US/PRP trade/VBP deficit/NN widens/VBZ sharply/RB
+
+The/DT gap/NN between/IN US/PRP exports/VBZ and/CC imports/NNS has/VBZ widened/VBN to/TO more/JJR than/IN $60bn/CD (£31.7bn)/CD an/DT all-time/JJ record./NN
+
+Figures/NNS from/IN the/DT Commerce/NNP Department/NNP for/IN November/NNP showed/VBD exports/NNS down/RB 2.3%/CD to/TO $95.6bn/CD while/IN imports/NNS grew/VBD 1.3%/CD to/TO $155.8bn/CD on/IN rising/VBG consumer/NN demand./NN
+Part/NN of/IN the/DT expanding/VBG deficit/NN came/VBD from/IN high/JJ prices/NNS for/IN oil/NN imports./NN
+But/CC the/DT numbers/NNS suggested/VBD the/DT sliding/VBG dollar/NN -/: which/WDT makes/VBZ exports/NNS less/RBR expensive/JJ -/: has/VBZ had/VBN little/JJ impact/NN and/CC could/MD indicate/VB slowing/VBG economic/JJ growth./NN
+
+The/DT trade/NN deficit/NN -/: far/RB bigger/JJR than/IN the/DT $54bn/CD widely/RB expected/VBN on/IN Wall/NNP Street/NNP -/: prompted/VBD a/DT rapid/JJ response/NN from/IN the/DT currency/NN markets./NN
+
+By/IN 1650/CD GMT/NNP the/DT dollar/NN was/VBD trading/VBG against/IN the/DT euro/NN at/IN $1.3280/CD almost/RB a/DT cent/NN and/CC a/DT half/NN weaker/JJR than/IN before/IN the/DT announcement./NN
+Against/IN the/DT pound/NN the/DT dollar/NN was/VBD down/RB about/IN 0.7%/CD at/IN $18923./CD
+"The/NN dollar's/NNS fall/VBP has/VBZ been/VBN sudden/JJ violent/JJ and/CC appropriate/JJ given/VBN this/DT number"/NN said/VBD Brian/NNP Taylor/NNP of/IN Wells/NNP Fargo/NNP in/IN Minneapolis./NNP
+"Recent/NN exchange/NN rate/NN movements/NNS certainly/RB haven't/VBP had/VBD any/DT impact/NN yet."/NN Treasury/NNP Secretary/NNP John/NNP Snow/NNP put/VBD a/DT brave/JJ face/NN on/IN the/DT news/NN saying/VBG it/PRP was/VBD a/DT sign/NN of/IN strong/JJ economic/JJ expansion./NN
+"The/NN economy/NN is/VBZ growing/VBG at/IN such/PDT a/DT fast/JJ rate/NN that/IN it/PRP is/VBZ generating/VBG lots/NNS of/IN disposable/JJ income.../NN
+some/DT of/IN which/WDT is/VBZ used/VBN to/TO buy/VB goods/NNS from/IN our/PRP$ trading/NN partners."/NN
+
+Although/IN the/DT White/NNP House/NNP officially/RB still/RB backs/VBZ the/DT US's/NNP traditional/JJ "strong/NN dollar"/NN policy/NN it/PRP has/VBZ tacitly/RB indicated/VBN that/IN it/PRP would/MD be/VB happy/JJ if/IN the/DT slide/NN continued./NN
+The/DT dollar/NN has/VBZ fallen/VBN by/IN 50%/CD against/IN the/DT euro/NN -/: as/RB well/RB as/IN by/IN 30%/CD against/IN the/DT yen/NN -/: in/IN the/DT past/JJ three/CD years./NN
+The/DT main/JJ catalyst/NN most/JJS economists/NNS accept/VBP is/VBZ the/DT large/JJ budget/NN deficit/NN on/IN the/DT one/CD hand/NN and/CC the/DT current/JJ account/NN deficit/NN -/: the/DT difference/NN between/IN the/DT flow/NN of/IN money/NN in/IN and/CC out/IN of/IN the/DT US/PRP -/: on/IN the/DT other./NN
+The/DT trade/NN deficit/NN is/VBZ a/DT large/JJ part/NN of/IN the/DT latter./NN
+In/IN November/NNP the/DT fall/NN in/IN exports/NNS was/VBD largely/RB due/JJ to/TO a/DT decline/NN in/IN sales/NNS of/IN industrial/JJ supplies/NNS and/CC materials/NNS such/JJ as/RB chemicals/NNS as/RB well/RB as/IN of/IN cars/NNS consumer/NN goods/NNS and/CC food./NN
+One/CD small/JJ bright/JJ spot/NN for/IN US/PRP policy-makers/VBZ was/VBD a/DT slight/JJ decline/NN in/IN the/DT deficit/NN with/IN China/NNP often/RB blamed/VBD for/IN job/NN losses/NNS and/CC other/JJ economic/JJ woes./NN
+Although/IN China's/NNP overall/JJ trade/NN surplus/NN is/VBZ expanding/VBG according/VBG to/TO Chinese/JJ government/NN figures/NNS the/DT Commerce/NNP Department/NNP revealed/VBD the/DT US's/NNP deficit/NN with/IN China/NNP was/VBD $19.6bn/CD in/IN November/NNP down/RB from/IN $19.7bn/CD the/DT month/NN before./NN
+But/CC the/DT deficit/NN with/IN Japan/NNP was/VBD at/IN its/PRP$ worst/JJS in/IN more/JJR than/IN four/CD years./NN

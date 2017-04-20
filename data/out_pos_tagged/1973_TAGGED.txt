@@ -1,0 +1,17 @@
+Microsoft/NNP gets/VBZ the/DT blogging/VBG bug/NN
+
+Software/NNP giant/JJ Microsoft/NNP is/VBZ taking/VBG the/DT plunge/NN into/IN the/DT world/NN of/IN blogging./NN
+
+It/PRP is/VBZ launching/VBG a/DT test/NN service/NN to/TO allow/VB people/NNS to/TO publish/VB blogs/NNS or/CC online/NN journals/NNS called/VBN MSN/NNP Spaces./NNP
+Microsoft/NNP is/VBZ trailing/VBG behind/IN competitors/NNS like/IN Google/NNP and/CC AOL/NNP which/WDT already/RB offer/NN services/NNS which/WDT make/VBP it/PRP easy/JJ for/IN people/NNS to/TO set/VB up/RP web/NN journals./NN
+Blogs/NNP short/JJ for/IN web/NN logs/NNS have/VBP become/VBN a/DT popular/JJ way/NN for/IN people/NNS to/TO talk/VB about/IN their/PRP$ lives/NNS and/CC express/VB opinions/NNS online./NN
+
+MSN/NN Spaces/NNS is/VBZ free/JJ to/TO anyone/NN with/IN a/DT Hotmail/NNP or/CC MSN/NNP Messenger/NN account./NN
+People/NNS will/MD be/VB able/JJ to/TO choose/VB a/DT layout/NN for/IN the/DT page/NN upload/NN images/NNS and/CC share/NN photo/NN albums/NNS and/CC music/NN playlists./NN
+The/DT service/NN will/MD be/VB supported/VBN by/IN banner/NN ads./NN
+"This/NN is/VBZ a/DT simple/JJ tool/NN for/IN people/NNS to/TO express/VB themselves"/NN said/VBD MSN's/NNP Blake/NNP Irving./NNP
+This/DT is/VBZ Microsoft's/NNP first/JJ foray/NN into/IN blogging/VBG which/WDT has/VBZ taken/VBN off/RP as/IN a/DT web/NN phenomenon/NN in/IN the/DT past/JJ year./NN
+Competitors/NNS like/IN Google/NNP already/RB offer/NN free/JJ services/NNS through/IN its/PRP$ Blogger/NNP site/NN while/IN AOL/NNP provides/VBZ its/PRP$ members/NNS with/IN journals./NN
+Accurate/JJ figures/NNS for/IN the/DT number/NN of/IN blogs/NNS in/IN existence/NN are/VBP hard/JJ to/TO come/VB by./NN
+According/VBG to/TO blog/NN analysis/NN firm/NN Technorati/NNP the/DT so-called/JJ blogosphere/NN has/VBZ doubled/VBN every/DT five/CD and/CC a/DT half/NN months/NNS for/IN the/DT last/JJ 18/CD months./NN
+It/PRP now/RB estimates/VBZ that/IN the/DT number/NN of/IN blogs/NNS in/IN existence/NN has/VBZ exceeded/VBN 4.8/CD million/CD although/IN some/DT speculate/NN that/IN less/JJR than/IN a/DT quarter/NN are/VBP regularly/RB maintained./NN

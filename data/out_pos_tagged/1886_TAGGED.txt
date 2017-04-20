@@ -1,0 +1,25 @@
+Ask/VB Jeeves/NNP joins/VBZ web/NN log/NN market/NN
+
+Ask/VB Jeeves/NNP has/VBZ bought/VBN the/DT Bloglines/NNP website/NN to/TO improve/VB the/DT way/NN it/PRP handles/VBZ content/NN from/IN web/NN journals/NNS or/CC blogs./NN
+
+The/DT Bloglines/NNP site/NN has/VBZ become/VBN hugely/RB popular/JJ as/IN it/PRP gives/VBZ users/NNS one/CD place/NN in/IN which/WDT to/TO read/VB search/NN and/CC share/NN all/PDT the/DT blogs/NNS they/PRP are/VBP interested/JJ in./NN
+Ask/VB Jeeves/NNP said/VBD it/PRP was/VBD not/RB planning/VBG to/TO change/VB Bloglines/NNP but/CC would/MD use/VB the/DT 300/CD million/CD articles/NNS it/PRP has/VBZ archived/VBN to/TO round/VB out/RP its/PRP$ index/NN of/IN the/DT web./NN
+How/WRB much/JJ Ask/NN Jeeves/NNP paid/VBD for/IN Bloglines/NNP was/VBD not/RB revealed./NN
+
+Bloglines/NNP has/VBZ become/VBN popular/JJ because/IN it/PRP lets/VBZ users/NNS build/VBP a/DT list/NN of/IN the/DT blogs/NNS they/PRP want/VBP to/TO follow/VB without/IN having/VBG to/TO visit/VB each/DT journal/NN site/NN individually./NN
+To/TO do/VB this/DT it/PRP makes/VBZ use/NN of/IN a/DT technology/NN known/VBN as/IN Really/RB Simple/NN Syndication/NN (RSS)/NN that/IN many/JJ blogs/NNS have/VBP adopted/VBN to/TO let/VB other/JJ sites/NNS know/VBP when/WRB new/JJ entries/NNS are/VBP made/VBN on/IN their/PRP$ journals./NN
+The/DT acquisition/NN follows/VBZ similar/JJ moves/NNS by/IN other/JJ search/NN sites./NN
+Google/NNP acquired/VBD Pyra/NNP Labs/NNPS makers/NNS of/IN the/DT Blogger/NNP software/NN in/IN 2003./CD
+In/IN 2004/CD MSN/NNP introduced/VBN its/PRP$ own/JJ blog/NN system/NN and/CC Yahoo/NNP has/VBZ tweaked/VBN its/PRP$ technology/NN to/TO do/VB a/DT better/JJR job/NN of/IN handling/VBG blog/NN entries./NN
+Jim/NNP Lanzone/NNP vice/NN president/NN of/IN search/NN properties/NNS at/IN Ask/NN Jeeves/NNP in/IN the/DT US/PRP said/VBD it/PRP did/VBD not/RB acquire/VB Bloglines/NNP just/RB to/TO get/VB a/DT foothold/NN in/IN the/DT blog/NN publishing/NN world./NN
+He/PRP said/VBD Ask/VB Jeeves/NNP was/VBD much/RB more/RBR interested/JJ in/IN helping/VBG people/NNS find/VB information/NN they/PRP were/VBD looking/VBG for/IN rather/RB than/IN helping/VBG them/PRP write/VBP it./NN
+
+"The/NN universe/NN of/IN readers/NNS is/VBZ vastly/RB larger/JJR than/IN the/DT universe/NN of/IN writers"/NN he/PRP said./VB
+Mr/NNP Lanzone/NNP said/VBD the/DT acquisition/NN would/MD sit/VB well/RB with/IN Ask's/NNP My/PRP$ Jeeves/NNP service/NN which/WDT lets/VBZ people/NNS customise/VBP their/PRP$ own/JJ web/NN experience/NN and/CC build/VB up/RP a/DT personal/JJ collection/NN of/IN useful/JJ links./NN
+"Search/NN engines/NNS are/VBP about/IN discovering/VBG information/NN for/IN the/DT first/JJ time/NN and/CC RSS/NNP is/VBZ the/DT ideal/JJ way/NN to/TO keep/VB track/NN of/IN and/CC monitor/VB those/DT sites"/NN he/PRP said./VB
+It/PRP would/MD also/RB help/VB drive/VB information/NN and/CC entries/NNS from/IN blogs/NNS to/TO the/DT portals/NNS that/WDT Ask/NN Jeeves/NNP operates./NN
+There/EX would/MD be/VB no/DT instant/JJ sweeping/JJ changes/NNS to/TO Bloglines/NNP said/VBD Mr/NNP Lanzone./NNP
+"Our/NN intent/NN is/VBZ to/TO take/VB our/PRP$ time/NN to/TO figure/VB out/RP the/DT right/JJ business/NN model/NN not/RB to/TO try/VB to/TO monetise/VB it/PRP right/RB away"/NN he/PRP said./VB
+Though/NNP Mr/NNP Lanzone/NNP added/VBD that/WDT Ask/NN Jeeves/NNP would/MD be/VB helping/VBG organise/NN the/DT database/NN of/IN 300m/CD blog/NN entries/NNS Bloglines/NNP holds/VBZ with/IN its/PRP$ own/JJ net/JJ indexing/NN technology./NN
+"Being/VBG able/JJ to/TO search/VB the/DT blogosphere/NN as/IN one/CD corpus/JJ of/IN information/NN will/MD be/VB very/RB useful/JJ in/IN its/PRP$ own/JJ right"/NN said/VBD Mr/NNP Lanzone./NNP
+Rumours/NNP about/IN the/DT acquisition/NN were/VBD broken/VBN by/IN the/DT Napsterization/NNP weblog/NN which/WDT said/VBD it/PRP got/VBD the/DT hint/NN from/IN Ask/NN Jeeves/NNP insiders./NN

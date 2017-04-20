@@ -1,0 +1,12 @@
+Kirwan/NNP demands/NNS Italy/NNP consistency/NN
+
+Italy/NNP coach/NN John/NNP Kirwan/NNP has/VBZ challenged/VBN his/PRP$ side/NN to/TO match/VB the/DT performance/NN they/PRP produced/VBD in/IN pushing/VBG Ireland/NNP close/VB when/WRB they/PRP meet/VBP Wales/NNP on/IN Saturday./NNP
+
+Despite/IN losing/VBG 28-17/JJ in/IN Sunday's/NNP Six/CD Nations/NNPS encounter/VBP the/DT Italians/NNPS confirmed/VBD their/PRP$ continuing/NN improvement./NN
+"Our/NN goal/NN is/VBZ to/TO match/VB every/DT side/NN we/PRP face/VBP and/CC against/IN Ireland/NNP we/PRP showed/VBD we/PRP could/MD do/VB that"/NN said/VBD Kirwan./NNP
+"But/NN the/DT most/RBS important/JJ thing/NN is/VBZ that/IN we/PRP build/VBP on/IN that/DT performance/NN when/WRB we/PRP play/VBP Wales/NNP on/IN Saturday."/NNP Italy's/NNP half-backs/NNS had/VBD a/DT mixed/JJ afternoon/NN with/IN recalled/VBD scrum-half/JJ Alessandro/NNP Troncon/NNP impressing/NN but/CC fly-half/JJ Luciano/NNP Orquera/NNP having/VBG an/DT off-day/NN with/IN the/DT boot./NN
+Kirwan/NNP said/VBD "I/NN was/VBD very/RB happy/JJ with/IN Troncon./NNP
+He/PRP had/VBD an/DT incredible/JJ game/NN -/: he/PRP was/VBD very/RB good/JJ in/IN attack/NN and/CC defence./NN
+"Orquera's/NN kicking/VBG was/VBD off/RP but/CC he/PRP showed/VBD great/JJ courage/NN in/IN defence./NN
+"He/NN also/RB followed/VBD the/DT game/NN plan./NN
+We/PRP have/VBP to/TO give/VB him/PRP confidence/NN because/IN he/PRP has/VBZ the/DT capability/NN to/TO do/VB well."/NN

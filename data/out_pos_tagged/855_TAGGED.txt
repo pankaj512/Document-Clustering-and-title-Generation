@@ -1,0 +1,14 @@
+Britney/NN attacks/NNS 'false/NN tabloids'/NN
+
+Pop/NN star/NN Britney/NNP Spears/NNP has/VBZ attacked/VBN "false"/NN and/CC "desperate"/NN US/PRP tabloid/JJ magazines/NNS questioning/VBG their/PRP$ honesty/NN after/IN they/PRP reported/VBD she/PRP was/VBD pregnant./NN
+
+In/IN a/DT letter/NN on/IN her/PRP$ website/NN the/DT singer/NN named/VBD celebrity/NN tabloids/NNS Us/NN Weekly/NNP In/IN Touch/NN and/CC Star/NNP as/IN the/DT worst/JJS offenders./NN
+"Until/NN you/PRP face/VBP what/WP is/VBZ going/VBG on/RP in/IN your/PRP$ life/NN I/PRP guess/VBP you'll/NN remain/VB a/DT false/JJ tabloid"/NN the/DT 23-year-old/JJ wrote./NN
+Stories/NNP about/IN the/DT state/NN of/IN her/PRP$ marriage/NN to/TO Kevin/NNP Federline/NNP and/CC rumours/NNS about/IN a/DT pregnancy/NN have/NN recently/RB appeared./NN
+But/CC the/DT chart-topping/JJ singer's/NNS letter/NN did/VBD not/RB shed/VBN any/DT further/JJ light/NN on/IN those/DT stories./NN
+In/IN February/NNP Spears/NNP clashed/VBD with/IN Us/NNP Weekly/NNP for/IN publishing/NN pictures/NNS of/IN her/PRP$ honeymoon/NN in/IN Fiji/NNP without/IN permission./NN
+The/DT couple/NN who/WP married/JJ in/IN Los/NNP Angeles/NNP last/JJ September/NNP claimed/VBD staff/NN took/VBD photographs/NNS of/IN them/PRP which/WDT were/VBD later/RB sold./NN
+
+They/PRP said/VBD they/PRP allowed/VBD the/DT pictures/NNS to/TO be/VB taken/VBN after/IN they/PRP were/VBD assured/VBN they/PRP would/MD only/RB be/VB used/VBN for/IN a/DT private/JJ scrapbook/NN which/WDT they/PRP later/RB received/VBD as/IN a/DT souvenir./NN
+Us/NNP magazine/NN was/VBD unrepentant/NN about/IN their/PRP$ decision/NN to/TO publish/VB saying/VBG "Britney/NN should/MD start/VB her/PRP$ own/JJ magazine/NN if/IN she'd/NN like/VB to/TO dictate/VB her/PRP$ own/JJ coverage."/NN "Coming/VBG from/IN a/DT celebrity/NN who/WP sold/VBD pictures/NNS of/IN both/DT her/PRP$ wedding/NN and/CC her/PRP$ stepdaughter/NN it's/NNS unlikely/VBP the/DT issue/NN here/RB is/VBZ privacy"/NN they/PRP added./VBP
+Spears/NNP claimed/VBD that/IN other/JJ magazines/NNS were/VBD approached/VBN with/IN the/DT pictures/NNS but/CC chose/VBD to/TO contact/VB her/PRP$ instead./NN

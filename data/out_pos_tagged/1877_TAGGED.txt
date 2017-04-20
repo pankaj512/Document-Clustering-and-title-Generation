@@ -1,0 +1,23 @@
+Microsoft/NN launches/VBZ its/PRP$ own/JJ search/NN
+
+Microsoft/NNP has/VBZ unveiled/VBN the/DT finished/VBN version/NN of/IN its/PRP$ home-grown/JJ search/NN engine./NN
+
+The/DT now/RB formally/RB launched/VBN MSN/NNP search/NN site/NN takes/VBZ the/DT training/NN wheels/NNS off/IN the/DT test/NN version/NN unveiled/VBD in/IN November/NNP 2003./CD
+The/DT revamped/VBN engine/NN indexes/NNS more/JJR pages/NNS than/IN before/IN can/MD give/VB direct/JJ answers/NNS to/TO factual/JJ questions/NNS and/CC features/NNS tools/NNS to/TO help/VB people/NNS create/VB detailed/JJ queries./NN
+Microsoft/NNP faces/VBZ challenges/NNS establishing/VBG itself/PRP as/IN a/DT serious/JJ search/NN site/NN because/IN of/IN the/DT intense/JJ competition/NN for/IN queries./NN
+
+Google/NNP still/RB reigns/VBZ supreme/JJ as/IN the/DT site/NN people/NNS turn/VBP to/TO most/RBS often/RB when/WRB they/PRP go/VBP online/NN to/TO answer/VB a/DT query/NN keep/NN up/RP with/IN news/NN or/CC search/NN for/IN images./NN
+But/CC in/IN the/DT last/JJ year/NN Google/NNP has/VBZ faced/VBN greater/JJR competition/NN than/IN ever/RB for/IN users/NNS as/IN old/JJ rivals/NNS such/JJ as/IN Yahoo/NNP and/CC Microsoft/NNP and/CC new/JJ entrants/NNS such/JJ as/IN Amazon/NNP and/CC Blinkx/NNP try/VBP to/TO grab/VB some/DT of/IN the/DT searching/VBG audience/NN for/IN themselves./NN
+This/DT renewed/VBN interest/NN has/VBZ come/VBN about/IN because/IN of/IN the/DT realisation/NN that/IN many/JJ of/IN the/DT things/NNS people/NNS do/VBP online/NN begin/NN with/IN a/DT search/NN for/IN information/NN -/: be/VB it/PRP for/IN a/DT particular/JJ web/NN page/NN recipe/NN book/NN gadget/NN news/NN story/NN image/NN or/CC anything/NN else./NN
+Microsoft/NNP is/VBZ keen/JJ to/TO make/VB its/PRP$ home-grown/JJ search/NN engine/NN a/DT significant/JJ rival/JJ to/TO Google./NNP
+To/TO generate/VB its/PRP$ corpus/JJ of/IN data/NNS Microsoft/NNP has/VBZ indexed/VBN 5/CD billion/CD webpages/NNS and/CC claims/NNS to/TO update/VB its/PRP$ document/NN index/NN every/DT two/CD days/NNS -/: more/RBR often/RB than/IN rivals./NN
+The/DT Microsoft/NNP search/NN engine/NN can/MD also/RB answer/VB specific/JJ queries/NNS directly/RB rather/RB than/IN send/NN people/NNS to/TO a/DT page/NN that/WDT might/MD contain/VB the/DT answer./NN
+
+For/IN its/PRP$ direct/JJ answer/NN feature/NN Microsoft/NNP is/VBZ calling/VBG on/IN its/PRP$ Encarta/NNP encyclopaedia/NN to/TO provide/VB answers/NNS to/TO questions/NNS about/IN definitions/NNS facts/NNS calculations/NNS conversions/NNS and/CC solutions/NNS to/TO equations./VB
+Tony/NNP Macklin/NNP director/NN of/IN product/NN at/IN Ask/NN Jeeves/NNP pointed/VBD out/RP that/IN its/PRP$ search/NN engine/NN has/VBZ been/VBN answering/NN specific/JJ queries/NNS this/DT way/NN since/IN April/NNP 2003./CD
+"The/NN major/JJ search/NN providers/NNS have/VBP moved/VBN beyond/IN delivering/VBG only/JJ algorithmic/JJ search/NN so/RB in/IN many/JJ ways/NNS Microsoft/NNP is/VBZ following/VBG the/DT market"/NN he/PRP said./VB
+Tools/NNS sitting/VBG alongside/IN the/DT MSN/NNP search/NN engine/NN allow/NN users/NNS to/TO refine/VB results/NNS to/TO specific/JJ websites/NNS countries/NNS regions/NNS or/CC languages./NN
+Microsoft/NNP is/VBZ also/RB using/VBG so-called/JJ "graphic/JJ equalisers"/NN that/WDT let/NN people/NNS adjust/VB the/DT relevance/NN of/IN terms/NNS to/TO get/VB results/NNS that/WDT are/VBP more/RBR up-to-date/JJ or/CC more/JJR popular./NN
+The/DT company/NN said/VBD that/DT user/NN feedback/NN from/IN earlier/JJR test/NN versions/NNS had/VBD been/VBN used/VBN to/TO refine/VB the/DT workings/NNS of/IN the/DT finished/VBN system./NN
+The/DT test/NN or/CC beta/NN version/NN of/IN the/DT MSN/NNP search/NN engine/NN unveiled/VBD in/IN November/NNP had/VBD a/DT few/JJ teething/NN troubles./NN
+On/IN its/PRP$ first/JJ day/NN many/JJ new/JJ users/NNS keen/JJ to/TO try/VB it/PRP were/VBD greeted/VBN with/IN a/DT page/NN that/WDT said/VBD the/DT site/NN had/VBD been/VBN overwhelmed./NN

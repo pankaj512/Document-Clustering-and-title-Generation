@@ -1,0 +1,15 @@
+India/NNP opens/VBZ skies/NNS to/TO competition/NN
+
+India/NNP will/MD allow/VB domestic/JJ commercial/JJ airlines/NNS to/TO fly/VB long/JJ haul/NN international/JJ routes/NNS a/DT move/NN it/PRP hopes/VBZ will/MD stoke/VB competition/NN and/CC drive/NN down/RP prices./NN
+
+However/RB only/RB state/NN controlled/VBN carriers/NNS will/MD be/VB able/JJ to/TO fly/VB the/DT lucrative/JJ Gulf/NNP routes/NNS to/TO countries/NNS such/JJ as/IN Kuwait/NNP and/CC Saudi/NNP Arabia/NNP for/IN at/IN least/JJS three/CD years./NN
+Jet/NNP Airways/NNPS and/CC Air/NNP Sahara/NNP are/VBP the/DT two/CD companies/NNS that/WDT will/MD benefit/VB initially./NN
+India/NNP is/VBZ looking/VBG to/TO develop/VB its/PRP$ airline/NN industry/NN as/IN booming/JJ economic/JJ growth/NN drives/NNS demand/NN for/IN travel./NN
+
+Monica/NNP Chadha/NNP BBC/NNP Delhi/NNP reporter/NN said/VBD air/NN travel/NN in/IN India/NNP had/VBD increased/VBN by/IN almost/RB 20%/CD from/IN the/DT previous/JJ year/NN and/CC was/VBD expected/VBN to/TO rise/VB even/RB further./NN
+Infrastructure/NN development/NN is/VBZ lagging/VBG demand/NN however/RB and/CC will/MD have/VB to/TO improve./VB
+"Most/NN international/JJ airports/NNS in/IN the/DT country/NN are/VBP shabby/JJ and/CC ill-equipped/JJ to/TO handle/VB heavy/JJ air/NN traffic"/NN Ms/NNP Chada/NNP said/VBD adding/VBG that/IN while/IN the/DT Civil/NNP Aviation/NNP minister/NN has/VBZ promised/VBN to/TO modernise/VB and/CC privatise/NN airports/NNS little/JJ progress/NN has/VBZ been/VBN made./NN
+Steps/VBZ have/VBP been/VBN take/NN to/TO move/VB things/NNS forward/RB and/CC the/DT government/NN recently/RB changed/VBD legislation/NN that/IN limited/JJ foreign/JJ investment/NN in/IN domestic/JJ airlines./NN
+It/PRP raised/VBD the/DT maximum/NN stake/NN holding/VBG allowed/VBN to/TO 49%/CD from/IN 40%./CD
+Local/JJ press/NN meanwhile/RB have/VBP reported/VBN that/IN the/DT US/PRP and/CC India/NNP will/MD start/VB negotiations/NNS about/IN adding/VBG more/JJR routes/NNS in/IN January./NNP
+Jet/NNP Airways/NNPS is/VBZ India's/NNP premier/NN private/JJ domestic/JJ carrier/NN Air/NNP Sahara/NNP is/VBZ ranked/VBN third/JJ in/IN the/DT category./NN

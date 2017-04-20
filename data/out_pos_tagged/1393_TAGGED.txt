@@ -1,0 +1,14 @@
+Greek/JJ sprinters/NNS 'won't/NN run/NN again'/NN
+
+The/DT careers/NNS of/IN sprinters/NNS Kostas/NNP Kenteris/NNP and/CC Katerina/NNP Thanou/NNP are/VBP over/IN says/VBZ the/DT boss/NN of/IN the/DT organisation/NN that/WDT cleared/VBD them/PRP of/IN missing/VBG a/DT drugs/NNS test./NN
+
+Greek/JJ Athletics/NNP Federation/NNP boss/NN Vassilli/NNP Sevastis/NNP told/VBD the/DT country's/NNS parliament/NN "I/NN believe/VBP Kenteris/NNP and/CC Thanou/NNP won't/NN race/NN again./NN
+"The/NN damage/NN to/TO their/PRP$ commercial/JJ interests/NNS has/VBZ been/VBN done"/NN he/PRP added./VB
+Athletics/NN bosses/NNS are/VBP considering/VBG its/PRP$ reponse/NN to/TO the/DT ruling/NN while/IN the/DT athletes/NNS face/VBP a/DT trial/NN in/IN a/DT Greek/JJ court./NN
+Greek/JJ prosecutors/NNS have/VBP brought/VBN spearate/NN charges/NNS of/IN missing/VBG the/DT drugs/NNS test/NN and/CC faking/VBG a/DT motorcycle/NN accident./NN
+Speaking/VBG to/TO the/DT Greek/JJ Parliament/NNP on/IN Tuesday/NNP Sevastis/NNP said/VBD that/IN the/DT evidence/NN sent/VBN by/IN the/DT International/NNP Olympic/NNP Committee/NNP and/CC athletics/NNS governing/VBG body/NN the/DT IAAF/NNP was/VBD not/RB strong/JJ enough/RB for/IN the/DT Greek/JJ Association/NNP to/TO find/VB the/DT sprinters/NNS guilty./NN
+
+"We/NN were/VBD given/VBN the/DT task/NN of/IN getting/VBG the/DT snake/NN out/RP if/IN its/PRP$ hole/NN but/CC we/PRP were/VBD not/RB given/VBN any/DT evidence/NN to/TO do/VB it/PRP with"/NN he/PRP said./VB
+"So/NN how/WRB can/MD you/PRP as/IN a/DT Greek/NN with/IN your/PRP$ hand/NN on/IN your/PRP$ heart/NN try/VBP the/DT athletes?"/NN he/PRP added./VB
+The/DT athletes/NNS are/VBP technically/RB free/JJ to/TO compete/VB while/IN the/DT IAAF/NNP reviews/VBZ its/PRP$ response/NN to/TO the/DT decision/NN to/TO clear/JJ Kenteris/NNP and/CC Thanou./NNP
+But/CC Sevastis/NNP said/VBD "It/NN does/VBZ not/RB matter/VB if/IN they/PRP are/VBP found/VBN guilty/JJ at/IN the/DT Court/NNP of/IN Arbitration/NN for/IN Sport/NNP and/CC the/DT current/JJ decision/NN is/VBZ reversed."/NN

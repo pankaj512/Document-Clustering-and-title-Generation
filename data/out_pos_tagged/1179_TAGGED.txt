@@ -1,0 +1,26 @@
+Lib/NNP Dems'/NNP 'bold'/NN election/NN policy/NN
+
+Charles/NNP Kennedy/NNP has/VBZ told/VBN voters/NNS his/PRP$ Liberal/NNP Democrats/NNPS will/MD offer/VB them/PRP an/DT "honest/JJ choice"/NN at/IN the/DT next/JJ general/JJ election./NN
+
+With/IN the/DT other/JJ two/CD big/JJ parties/NNS battling/VBG over/IN which/WDT will/MD impose/VB the/DT lowest/JJS taxes/NNS Mr/NNP Kennedy/NNP is/VBZ going/VBG into/IN the/DT looming/VBG election/NN pledged/VBD to/TO increase/VB taxation./NN
+It/PRP is/VBZ a/DT bold/JJ policy/NN and/CC certainly/RB ensures/VBZ there/EX is/VBZ that/DT choice/NN between/IN the/DT Lib/NNP Dems/NNP and/CC the/DT other/JJ two./NN
+With/IN his/PRP$ party's/NNS previous/JJ pledge/NN to/TO increase/VB taxes/NNS by/IN one/CD penny/NN in/IN the/DT pound/NN to/TO spend/VB on/IN public/JJ services/NNS already/RB adopted/VBN by/IN the/DT government/NN he/PRP has/VBZ switched/VBN tack./NN
+Now/RB he/PRP is/VBZ promising/VBG to/TO levy/VB a/DT "modest"/NN increase/NN of/IN the/DT same/JJ amount/NN on/IN earnings/NNS over/IN £100000/CD a/DT year/NN to/TO allow/VB him/PRP to/TO finance/VB a/DT series/NN of/IN pledges./NN
+They/PRP are/VBP to/TO scrap/VB student/NN fees/NNS finance/VBP free/JJ long/JJ term/NN care/NN for/IN the/DT elderly/JJ and/CC replace/VB the/DT council/NN tax/NN with/IN a/DT local/JJ income/NN tax./NN
+That/DT last/JJ policy/NN will/MD also/RB see/VB about/IN 3%/CD of/IN the/DT most/RBS well/RB off/IN paying/VBG more/JJR while/IN others/NNS pensioners/NNS in/IN particular/JJ will/MD pay/VB less./NN
+
+Labour/NNP and/CC the/DT Tories/NNPS have/VBP attacked/VBN his/PRP$ policies/NNS as/IN both/DT unworkable/JJ and/CC not/RB properly/RB costed./NN
+
+Inevitably/RB they/PRP insist/VBP there/EX is/VBZ no/DT need/NN to/TO raise/VB taxes/NNS to/TO fund/VB improvements/NNS in/IN services./NN
+The/DT Tories/NNPS claim/NN they/PRP can/MD improve/VB services/NNS AND/CC cut/VB taxes/NNS through/IN £35bn/CD efficiency/NN savings/NNS while/IN Labour/NNP has/VBZ offered/VBN £22bn/CD savings/NNS but/CC has/VBZ yet/RB to/TO map/VB out/RP precise/JJ tax/NN proposals/NNS although/IN there/EX is/VBZ little/JJ chance/NN they/PRP will/MD propose/VB increases./NN
+In/IN many/JJ ways/NNS the/DT argument/NN between/IN the/DT Lib/NNP Dems/NNP and/CC the/DT others/NNS over/IN taxation/NN and/CC spending/NN echo/VBP the/DT sort/NN of/IN arguments/NNS that/WDT raged/VBD between/IN Labour/NNP and/CC the/DT Tories/NNPS in/IN the/DT 1980s/CD and/CC early/JJ 1990s./CD
+But/CC unlike/IN the/DT old/JJ Tory-Labour/NNP debate/NN he/PRP believes/VBZ voters/NNS are/VBP ready/JJ to/TO see/VB "modest"/NN tax/NN increases/NNS on/IN the/DT well/RB off/IN in/IN order/NN to/TO fund/VB improvements/NNS in/IN services./NN
+That/DT is/VBZ a/DT view/NN partly/RB endorsed/VBN by/IN recent/JJ polls/NNS suggesting/VBG people/NNS would/MD rather/RB have/VB cash/NN spent/VBN on/IN public/JJ services/NNS than/IN tax/NN cuts./NN
+
+Similarly/RB there/EX is/VBZ a/DT different/JJ tone/NN to/TO the/DT Lib/NNP Dem/NNP approach/NN to/TO asylum/VB and/CC immigration/NN with/IN Mr/NNP Kennedy/NNP stressing/VBG politicians/NNS should/MD not/RB "foment/VB an/DT artificial/JJ debate"/NN about/IN immigration/NN and/CC attacking/VBG Michael/NNP Howard's/NNP proposals/NNS for/IN quotas./NN
+Once/RB again/RB with/IN the/DT two/CD other/JJ big/JJ parties/NNS singing/VBG similar/JJ songs/NNS on/IN immigration/NN Mr/NNP Kennedy/NNP is/VBZ stressing/VBG the/DT different/JJ more/RBR liberal/JJ approach/NN of/IN his/PRP$ party./NN
+Mr/NNP Kennedy/NNP was/VBD also/RB in/IN buoyant/JJ mood/NN over/IN his/PRP$ party's/NNS election/NN chances/NNS declaring/VBG the/DT Tories/NNPS were/VBD not/RB going/VBG to/TO be/VB "significant/NN players"/NN in/IN the/DT poll./NN
+He/PRP repeated/VBD his/PRP$ pledge/NN not/RB to/TO do/VB post-election/JJ deals/NNS with/IN either/DT party/NN after/IN the/DT election./NN
+Mr/NNP Kennedy/NNP went/VBD on/RP to/TO suggest/VB the/DT re-election/NN of/IN a/DT Labour/NNP government/NN with/IN a/DT small/JJ majority/NN would/MD amount/VB to/TO a/DT "massive/JJ vote/NN of/IN no/DT confidence/NN ''/'' in/IN Tony/NNP Blair's/NNP government./NN
+That/DT suggests/VBZ the/DT Lib/NNP Dem/NNP leader/NN believes/VBZ he/PRP may/MD well/RB find/VB himself/PRP in/IN a/DT powerful/JJ even/RB pivotal/JJ position/NN in/IN a/DT vastly/RB different/JJ House/NNP of/IN Commons/NNPS after/IN the/DT next/JJ election./NN
+It/PRP is/VBZ a/DT dream/NN the/DT third/JJ party/NN has/VBZ dreamed/VBN many/JJ times/NNS before./NN

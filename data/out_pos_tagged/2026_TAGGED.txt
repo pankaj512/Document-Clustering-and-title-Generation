@@ -1,0 +1,27 @@
+Remote/JJ control/NN rifle/NN range/NN debuts/NNS
+
+Soon/RB you/PRP could/MD go/VB hunting/NN via/IN the/DT net./NN
+
+A/DT Texas/NNP company/NN is/VBZ considering/VBG letting/VBG web/NN users/NNS use/VBP a/DT remote-controlled/JJ rifle/NN to/TO shoot/VB down/RP deer/NN antelope/NNS and/CC wild/JJ pigs./NN
+For/IN a/DT small/JJ fee/NN users/NNS will/MD take/VB control/NN of/IN a/DT camera/NN and/CC rifle/NN that/IN they/PRP can/MD use/VB to/TO spot/VB and/CC shoot/VB the/DT game/NN animals/NNS as/IN they/PRP roam/VBP around/IN a/DT 133-hectare/JJ Texas/NNP ranch./NN
+The/DT Live-Shot/NNP website/NN behind/IN the/DT scheme/NN already/RB lets/VBZ people/NNS practise/VBP shooting/VBG at/IN targets/NNS via/IN the/DT internet./JJ
+
+John/NNP Underwood/NNP the/DT man/NN behind/IN the/DT Live-Shot/NNP website/NN said/VBD the/DT idea/NN for/IN the/DT remote-control/JJ hunting/NN came/VBD to/TO him/PRP a/DT year/NN ago/RB when/WRB he/PRP was/VBD watching/VBG deer/NN via/IN a/DT webcam/NN on/IN another/DT net/JJ site./NN
+"We/NN were/VBD looking/VBG at/IN a/DT beautiful/JJ white-tail/JJ buck/NN and/CC my/PRP$ friend/NN said/VBD 'If/NN you/PRP just/RB had/VBD a/DT gun/NN for/IN that'./NN
+A/DT little/RB light/JJ bulb/NN went/VBD off/RP in/IN my/PRP$ head"/NN Mr/NNP Underwood/NNP told/VBD the/DT Reuters/NNP news/NN agency./NN
+A/DT year's/NNS work/VBP and/CC $10000/CD has/VBZ resulted/VBN in/IN a/DT remote-controlled/JJ rig/NN on/IN which/WDT sits/VBZ a/DT camera/NN and/CC .22/CD calibre/NN rifle./NN
+Mr/NNP Underwood/NNP is/VBZ planning/VBG to/TO put/VB one/CD of/IN these/DT rigs/NNS in/IN a/DT concealed/VBN location/NN in/IN a/DT small/JJ reserve/NN on/IN his/PRP$ Texas/NNP ranch/NN and/CC let/VB people/NNS shoot/VB at/IN a/DT variety/NN of/IN game/NN animals./NN
+Also/RB needed/VBN is/VBZ a/DT fast/RB net/JJ connection/NN so/RB remote/JJ hunters/NNS can/MD quickly/RB track/VB and/CC aim/NN at/IN passing/VBG game/NN animals/NNS with/IN the/DT camera/NN and/CC rifle/NN rig./NN
+Each/DT remote/JJ hunting/NN session/NN will/MD cost/VB $150/CD with/IN additional/JJ fees/NNS for/IN meat/NN processing/NN and/CC taxidermy/NN work./NN
+Species/NNP that/WDT can/MD be/VB shot/NN will/MD include/VB barbary/NN Corsican/NNP and/CC mouflon/NN sheep/NN blackbuck/NN antelope/NNS and/CC wild/JJ pigs./NN
+Already/RB the/DT Live-Shot/NNP site/NN lets/VBZ people/NNS shoot/VBP 10/CD rounds/NNS at/IN paper/NN and/CC silhouette/NN targets/NNS for/IN $5.95/CD for/IN each/DT 20-minute/JJ shooting/NN session./NN
+For/IN further/JJ fees/NNS users/NNS can/MD get/VB the/DT target/NN they/PRP shot/VBP and/CC a/DT DVD/NNP recording/NN of/IN their/PRP$ session./NN
+Handlers/NNS oversee/VBP each/DT shooting/VBG session/NN and/CC can/MD stop/VB the/DT gun/NN being/VBG fired/VBN if/IN it/PRP is/VBZ being/VBG aimed/VBN off-range/JJ or/CC at/IN something/NN it/PRP should/MD not/RB be./VB
+Mr/NNP Underwood/NNP said/VBD that/IN internet/JJ hunting/NN could/MD be/VB popular/JJ with/IN disabled/JJ hunters/NNS unable/JJ to/TO get/VB out/RP in/IN the/DT woods/NNS or/CC distant/JJ hunters/NNS who/WP cannot/VBP afford/VB a/DT trip/NN to/TO Texas./NNP
+In/IN a/DT statement/NN the/DT RSPCA/NNP said/VBD it/PRP had/VBD "grave/NN concerns"/NN about/IN people/NNS being/VBG allowed/VBN to/TO go/VB online/NN and/CC remotely/RB control/VB a/DT rifle./NN
+"We/NN assume/NN it/PRP would/MD be/VB extremely/RB difficult/JJ to/TO accurately/RB control/VB a/DT gun/NN in/IN this/DT way/NN and/CC therefore/RB it/PRP would/MD be/VB difficult/JJ to/TO ensure/VB a/DT 'clean/NN kill'/NN something/NN the/DT RSPCA/NNP accepts/VBZ is/VBZ the/DT intention/NN of/IN those/DT shooting/VBG for/IN sport"/NN it/PRP said./NN
+"Animals/NN hit/VBD but/CC not/RB killed/VBN would/MD without/IN doubt/NN be/VB caused/VBN to/TO suffer/VB unnecessarily"/NN said/VBD the/DT statement./NN
+Mike/NNP Berger/NNP wildlife/NN director/NN of/IN the/DT Texas/NNP Parks/NNPS and/CC Wildlife/NNP Department/NNP said/VBD current/JJ hunting/NN statutes/NNS did/VBD not/RB cover/VB net/JJ or/CC remote/JJ hunting./NN
+He/PRP said/VBD state/NN laws/NNS on/IN hunting/NN only/RB covered/VBD "regulated/VBN animals"/NN such/JJ as/IN native/JJ deer/NN and/CC bird/NN species./NN
+As/IN such/JJ there/EX was/VBD nothing/NN to/TO stop/VB Mr/NNP Underwood/NNP letting/VBG people/NNS hunt/VBP "unregulated"/NN imported/VBN animals/NNS and/CC wild/JJ pigs./NN
+Mr/NNP Underwood/NNP also/RB lets/VBZ people/NNS come/VBP in/IN person/NN to/TO the/DT ranch/NN to/TO hunt/VB and/CC shoot/VB game/NN animals./NN

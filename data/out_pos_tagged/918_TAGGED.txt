@@ -1,0 +1,25 @@
+Nat/NNP Insurance/NNP to/TO rise/VB say/VBP Tories/NNPS
+
+National/NNP Insurance/NNP will/MD be/VB raised/VBN if/IN Labour/NNP wins/VBZ the/DT next/JJ election/NN Tory/NNP leader/NN Michael/NNP Howard/NNP has/VBZ claimed./NN
+
+Tony/NNP Blair/NNP has/VBZ said/VBN he/PRP does/VBZ not/RB want/VB higher/JJR tax/NN rates/NNS for/IN top/JJ earners/NNS but/CC on/IN Wednesday/NNP said/VBD other/JJ tax/NN promises/VBZ would/MD be/VB left/VBN to/TO Labour's/NNP manifesto./NN
+Prime/NN minister's/NNS questions/NNS also/RB saw/VBD Mr/NNP Blair/NNP predict/VBP that/IN new/JJ plans/NNS would/MD probably/RB cut/VB net/JJ immigration./NN
+He/PRP attacked/VBD Tory/NNP plans/VBZ to/TO process/VB asylum/NN claims/NNS abroad/RB -/: but/CC Mr/NNP Howard/NNP said/VBD Labour/NNP had/VBD proposed/VBN the/DT idea/NN too./NN
+
+The/DT Commons/NNPS questions/NNS session/NN again/RB saw/VBD the/DT leaders/NNS of/IN the/DT two/CD biggest/JJS parties/NNS shape/VBP up/RP for/IN the/DT forthcoming/JJ election/NN campaign./NN
+The/DT Tories/NNPS have/VBP promised/VBN £4bn/CD in/IN tax/NN cuts/NNS but/CC have/VBP yet/RB to/TO say/VB where/WRB they/PRP will/MD fall./VB
+Mr/NNP Howard/NNP pointed/VBD to/TO the/DT Institute/NNP for/IN Fiscal/JJ Studies'/NNP predictions/NNS that/IN Labour/NNP will/MD need/VB to/TO increase/VB taxes/NNS to/TO cover/VB an/DT £11bn/CD gap/NN in/IN its/PRP$ spending/NN plans./NN
+He/PRP accused/VBD ministers/NNS of/IN wasting/VBG money/NN on/IN unsuccessful/JJ attempts/NNS to/TO curb/VB bad/JJ behaviour/NN and/CC truancy/NN in/IN schools/NNS and/CC on/IN slow/JJ asylum/NN processing./NN
+It/PRP was/VBD no/DT good/JJ Mr/NNP Blair/NNP claiming/VBG tax/NN pledges/NNS were/VBD being/VBG left/VBN to/TO the/DT manifesto/NN as/IN he/PRP had/VBD given/VBN one/CD to/TO MPs/NNP on/IN Tuesday/NNP about/IN the/DT top/JJ rate/NN of/IN income/NN tax/NN argued/VBD Mr/NNP Howard./NNP
+Pointing/VBG to/TO national/JJ insurance/NN he/PRP added/VBD "Everyone/NN knows/VBZ tax/NN will/MD go/VB up/RB under/IN Labour/NNP isn't/NN it/PRP now/RB clear/JJ which/WDT tax/NN it/PRP would/MD be?"/VB
+
+Mr/NNP Blair/NNP instead/RB hailed/VBD Labour's/NNP achievement/NN in/IN using/VBG a/DT strong/JJ economy/NN to/TO invest/VB in/IN public/JJ services./NN
+"When/NN we/PRP have/VBP money/NN not/RB only/RB going/VBG into/IN extra/JJ teachers/NNS and/CC nurses/NNS but/CC equipment/NN in/IN schools/NNS and/CC hospitals/NNS that/DT money/NN is/VBZ not/RB wasted"/NN he/PRP said./VB
+On/IN the/DT tax/NN questions/NNS he/PRP added/VBD "We/NN will/MD make/VB commitments/NNS on/IN tax/NN at/IN the/DT time/NN of/IN the/DT manifesto."/NN Home/NNP Secretary/NNP Charles/NNP Clarke/NNP this/DT week/NN published/VBN plans/NNS for/IN a/DT new/JJ points/NNS system/NN for/IN economic/JJ migrants/NNS with/IN only/RB high-skilled/JJ workers/NNS allowed/VBN into/IN the/DT UK/NNP from/IN outside/IN the/DT European/NNP Union./NNP
+
+Mr/NNP Blair/NNP said/VBD abuses/NNS would/MD be/VB weeded/VBN out/RB and/CC chain/NN migration/NN where/WRB families/NNS automatically/RB get/VBP the/DT right/NN to/TO settle/VB with/IN immigrant/JJ workers/NNS would/MD end./VB
+That/DT would/MD probably/RB create/VB a/DT fall/NN in/IN the/DT migrant/NN numbers/NNS he/PRP said./VB
+The/DT prime/JJ minister/NN ridiculed/VBD the/DT Tory/NNP plans/VBZ for/IN asylum/NN quotas/NNS and/CC for/IN processing/NN all/DT asylum/NN claims/NNS overseas./NN
+He/PRP challenged/VBD the/DT Tories/NNPS on/IN which/WDT country/NN would/MD house/VB their/PRP$ processing/NN centres/NNS -/: what/WP he/PRP called/VBD a/DT "fantasy/NN island"./NN
+Mr/NNP Howard/NNP read/VB from/IN a/DT letter/NN about/IN the/DT government's/NNS own/JJ plans/NNS at/IN the/DT European/NNP Council/NNP of/IN Ministers/NNS for/IN processing/NN asylum/NN seekers/NNS outside/IN the/DT EU./NNP
+But/CC Mr/NNP Blair/NNP said/VBD "All/NN the/DT other/JJ countries/NNS could/MD not/RB agree/VB on/IN the/DT way/NN forward/RB nor/CC could/MD the/DT UN."/NNP

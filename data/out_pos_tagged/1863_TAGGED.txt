@@ -1,0 +1,16 @@
+Security/NNP warning/NN over/IN 'FBI/NN virus'/NN
+
+The/DT US/PRP Federal/NNP Bureau/NNP of/IN Investigation/NNP is/VBZ warning/VBG that/IN a/DT computer/NN virus/NN is/VBZ being/VBG spread/NN via/IN e-mails/NNS that/WDT purport/VBP to/TO be/VB from/IN the/DT FBI./NNP
+
+The/DT e-mails/NNS show/VBP that/IN they/PRP have/VBP come/VBN from/IN an/DT fbi.gov/NN address/NN and/CC tell/VB recipients/NNS that/IN they/PRP have/VBP accessed/VBN illegal/JJ websites./NN
+The/DT messages/NNS warn/VBP that/IN their/PRP$ internet/JJ use/NN has/VBZ been/VBN monitored/VBN by/IN the/DT FBI's/NNP Internet/NNP Fraud/NNP Complaint/NN Center./NNP
+An/DT attachment/NN in/IN the/DT e-mail/JJ contains/VBZ the/DT virus/NN the/DT FBI/NNP said./NN
+The/DT message/NN asks/VBZ recipients/NNS to/TO click/VB on/IN the/DT attachment/NN and/CC answer/VB some/DT questions/NNS about/IN their/PRP$ internet/JJ use./NN
+But/CC rather/RB than/IN being/VBG a/DT questionnaire/NN the/DT attachment/NN contains/VBZ a/DT virus/NN that/WDT infects/VBZ the/DT recipient's/NNS computer/NN according/VBG to/TO the/DT agency./NN
+It/PRP is/VBZ not/RB clear/JJ what/WP the/DT virus/NN does/VBZ once/IN it/PRP has/VBZ infected/JJ a/DT computer./NN
+Users/NNS are/VBP warned/VBN never/RB to/TO open/VB attachment/NN from/IN unsolicited/JJ e-mails/NNS or/CC from/IN people/NNS they/PRP do/VBP not/RB know./NN
+
+"Recipients/NN of/IN this/DT or/CC similar/JJ solicitations/NNS should/MD know/VB that/IN the/DT FBI/NNP does/VBZ not/RB engage/VB in/IN the/DT practice/NN of/IN sending/VBG unsolicited/JJ e-mails/NNS to/TO the/DT public/NN in/IN this/DT manner"/NN the/DT FBI/NNP said/VBD in/IN a/DT statement./NN
+The/DT bureau/NN is/VBZ investigating/VBG the/DT phoney/JJ e-mails./JJ
+The/DT agency/NN earlier/RBR this/DT month/NN shut/NN down/RP fbi.gov/NN accounts/NNS used/VBN to/TO communicate/VB with/IN the/DT public/NN because/IN of/IN a/DT security/NN breach./NN
+A/DT spokeswoman/NN said/VBD the/DT two/CD incidents/NNS appear/VBP to/TO be/VB unrelated./NN

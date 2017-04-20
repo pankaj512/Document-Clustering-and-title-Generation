@@ -1,0 +1,15 @@
+Irish/JJ duo/NN could/MD block/VB Man/NN Utd/NNP bid/NN
+
+Irishmen/NNPS JP/NNP McManus/NNP and/CC John/NNP Magnier/NNP who/WP own/JJ a/DT 29%/CD stake/NN in/IN Manchester/NNP United/NNP will/MD reportedly/RB reject/VB any/DT formal/JJ £800m/CD offer/NN for/IN the/DT club./NN
+
+The/DT Sunday/NNP Times/NNP and/CC The/DT Sunday/NNP Telegraph/NNP say/VBP they/PRP will/MD oppose/VB any/DT formal/JJ £800m/CD takeover/NN bid/NN from/IN US/PRP tycoon/VBP Malcom/NNP Glazer./NNP
+Mr/NNP Glazer/NNP got/VBD permission/NN to/TO look/VB at/IN the/DT club's/NNS accounts/NNS last/JJ week./NN
+Irish/JJ billionaires/NNS Mr/NNP McManus/NNP and/CC Mr/NNP Magnier/NNP are/VBP said/VBN to/TO believe/VB that/IN an/DT £800m/CD bid/NN undervalues/NNS club/NN prospects./NN
+
+Mr/NNP Magnier/NNP and/CC Mr/NNP McManus/NNP who/WP hold/VBP their/PRP$ stake/NN through/IN their/PRP$ Cubic/JJ Expression/NN investment/NN vehicle/NN have/VBP the/DT power/NN to/TO block/VB a/DT bid./NN
+Mr/NNP Glazer's/NNP financial/JJ backers/NNS including/VBG JP/NNP Morgan/NNP the/DT US/PRP investment/VBP bank/NN have/VBP said/VBN they/PRP won't/VBP back/RP a/DT bid/NN unless/IN it/PRP receives/VBZ backing/NN from/IN the/DT owners/NNS of/IN at/IN least/JJS 75%/CD of/IN the/DT club's/NNS shares./NN
+However/RB there/EX has/VBZ been/VBN much/JJ speculation/NN that/IN the/DT Irish/JJ duo/NN simply/RB do/VBP not/RB think/VB the/DT price/NN offered/VBN -/: 300p/CD a/DT share/NN -/: is/VBZ high/JJ enough./NN
+Mr/NNP Glazer/NNP has/VBZ been/VBN stalking/VBG the/DT premier/NN league/NN football/NN club/NN since/IN 2003./CD
+
+Mr/NNP Magnier/NNP and/CC Mr/NNP McManus/NNP issued/VBD a/DT statement/NN late/RB on/IN Friday/NNP saying/VBG that/IN they/PRP remained/VBD "long-term/JJ investors"/NN in/IN Man/NN Utd./NNP
+The/DT Sunday/NNP Telegraph/NNP says/VBZ the/DT board/NN of/IN Manchester/NNP United/NNP also/RB considered/VBD a/DT management/NN buyout/NN at/IN just/RB over/IN 300p/CD but/CC did/VBD not/RB go/VB ahead/RB with/IN it./NN

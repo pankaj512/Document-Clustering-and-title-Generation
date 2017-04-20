@@ -1,0 +1,39 @@
+Edgy/JJ Agassi/NNP struggles/VBZ past/JJ Dent/NN
+
+Andre/NNP Agassi/NNP put/VBD in/IN an/DT erratic/JJ display/NN before/IN edging/VBG into/IN the/DT fourth/JJ round/NN of/IN the/DT Australian/JJ Open/NNP with/IN victory/NN over/IN Taylor/NNP Dent./NNP
+
+The/DT 34-year-old/JJ American/NNP seeded/VBD eighth/JJ made/VBN a/DT poor/JJ start/NN dropping/VBG serve/NN early/RB on/IN and/CC later/RB needing/VBG two/CD chances/NNS to/TO serve/VB out/RP the/DT set./NN
+Having/VBG secured/VBN the/DT lead/NN Agassi/NNP still/RB failed/VBD to/TO take/VB control/NN as/IN both/DT players/NNS forced/VBD a/DT succession/NN of/IN breaks./NN
+But/CC Agassi/NNP won/VBD the/DT tie-break/NN before/IN wrapping/VBG up/RP a/DT 7-5/JJ 7-6/JJ (7-3)/JJ 6-1/JJ win./NN
+Fourth/JJ seed/NN
+
+survived/VBD an/DT injury/NN scare/NN as/IN he/PRP battled/VBD past/JJ Mario/NNP Ancic/NNP 6-4/JJ 3-6/JJ 6-3/JJ 6-4./JJ
+The/DT Russian/NN turned/VBD his/PRP$ right/JJ ankle/NN in/IN the/DT third/JJ game/NN of/IN the/DT fourth/JJ set/VBN and/CC called/VBN for/IN treatment/NN immediately./NN
+But/CC he/PRP showed/VBD no/DT sign/NN of/IN the/DT problem/NN when/WRB he/PRP returned/VBD to/TO the/DT court/NN to/TO wrap/VB up/RP victory/NN in/IN two/CD hours/NNS 45/CD minutes./NN
+
+Ancic/NNP Wimbledon/NNP semi-finalist/JJ in/IN 2004/CD looked/VBD set/VBN to/TO push/VB Safin/NNP all/PDT the/DT way/NN when/WRB he/PRP took/VBD the/DT second/JJ set/VBN but/CC Safin/NNP raised/VBD his/PRP$ game/NN to/TO sink/VB the/DT Croatian./NNP
+Safin/NNP said/VBD he/PRP was/VBD trying/VBG to/TO keep/VB his/PRP$ temper/NN under/IN control/NN at/IN this/DT year's/NNS tournament./NN
+The/DT Russian/JJ hit/NN himself/PRP on/IN the/DT head/NN repeatedly/RB in/IN one/CD second-set/JJ outburst/NN but/CC was/VBD otherwise/RB largely/RB calm/JJ in/IN his/PRP$ victory./NN
+"I/NN try/NN to/TO stay/VB calm/JJ because/IN if/IN you/PRP go/VBP crazy/JJ against/IN players/NNS like/IN Ancic/NNP you/PRP might/MD never/RB come/VB back/RB because/IN he's/NNS a/DT tough/JJ opponent"/NN he/PRP said./VB
+"I'm/NN a/DT little/JJ bit/NN calmer/NN than/IN I/PRP was/VBD before/IN because/IN I'd/NNP had/VBD enough."/NN The/DT Russian/NN added/VBD that/IN he/PRP was/VBD not/RB worried/VBN by/IN his/PRP$ ankle/NN injury./NN
+"I/NN have/VBP had/VBN a/DT lot/NN of/IN problems/NNS with/IN that/DT ankle/NN before/IN -/: it/PRP will/MD be/VB OK"/NNP he/PRP said./VB
+
+'s/POS route/NN to/TO the/DT fourth/JJ round/NN was/VBD made/VBN easy/JJ when/WRB opponent/NN Jarkko/NNP Nieminen/NNP was/VBD forced/VBN to/TO retire/VB from/IN their/PRP$ match./NN
+
+The/DT top/JJ seed/NN and/CC defending/VBG champion/NN was/VBD leading/VBG 6-3/JJ 5-2/JJ when/WRB Nieminen/NNP pulled/VBD out/RP with/IN an/DT abdominal/JJ injury./NN
+Federer/NNP had/VBD been/VBN in/IN patchy/NN form/NN until/IN then/RB -/: mixing/VBG 19/CD unforced/VBN errors/NNS with/IN 19/CD winners./NN
+The/DT world/NN number/NN one/PRP will/MD play/VB Cypriot/NNP
+
+next/JJ after/IN the/DT former/JJ world/NN junior/JJ champion/NN beat/VB Tommy/NNP Robredo/NNP 7-6/JJ (7-2)/JJ 6-4/JJ 6-1./JJ
+Federer/NNP admitted/VBD he/PRP was/VBD under/IN extra/JJ pressure/NN after/IN extending/VBG his/PRP$ winning/VBG streak/NN to/TO a/DT career-best/JJ 24./CD
+"They/NN are/VBP so/RB used/JJ to/TO me/PRP winning/VBG but/CC it's/NNS not/RB that/WDT simple"/NN he/PRP said./VB
+"I/NN had/VBD a/DT feeling/NN this/DT could/MD be/VB a/DT tough/JJ match./NN
+I/PRP had/VBD a/DT bad/JJ start/NN but/CC I/PRP bounced/VBD back./NN
+I/PRP always/RB want/VBP to/TO play/VB better/RB than/IN I/PRP am/VBP but/CC I/PRP thought/VBD I/PRP was/VBD pretty/RB OK."/NNP French/JJ Open/NNP champion/NN
+
+is/VBZ out/IN of/IN the/DT tournament/NN after/IN a/DT five-set/JJ defeat/NN by/IN Dominik/NNP Hrbaty./NNP
+Hrbaty/NNP defeated/VBD the/DT 10th/JJ seed/NN 7-6/JJ (7-5)/JJ 6-7/JJ (8-10)/JJ 6-7/JJ (3-7)/JJ 6-1/JJ 6-3/NN in/IN a/DT match/JJ lasting/JJ four/CD hours/NNS and/CC 21/CD minutes./NN
+The/DT pair/NN traded/VBD 16/CD service/NN breaks/NNS during/IN an/DT exhausting/VBG baseline/NN battle/NN with/IN Hrbaty/NNP taking/VBG a/DT decisive/JJ advantage/NN in/IN the/DT eighth/JJ game/NN of/IN the/DT final/JJ set./NN
+Hrbaty/NNP will/MD now/RB play/VB 2002/CD champion/NN
+
+who/WP outlasted/VBD American/NNP Kevin/NNP Kim/NNP 3-6/JJ 6-2/JJ 6-7/JJ 6-2/JJ 6-2./JJ

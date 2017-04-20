@@ -1,0 +1,31 @@
+Bees/NNS handed/VBD potential/JJ Man/NN Utd/NNP tie/VB
+
+Brentford/NNP face/NN a/DT home/NN tie/NN against/IN holders/NNS Manchester/NNP United/NNP in/IN the/DT FA/NNP Cup/NNP sixth/JJ round/NN if/IN they/PRP can/MD come/VB through/IN their/PRP$ replay/NN against/IN Southampton./NNP
+
+The/DT League/NNP One/CD side/NN held/VBD the/DT Saints/NNP at/IN St/NNP Mary's/NNP in/IN their/PRP$ fifth-round/JJ tie/NN and/CC were/VBD rewarded/VBN with/IN a/DT potential/JJ draw/NN against/IN Sir/NNP Alex/NNP Ferguson's/NNP side./NN
+Newcastle/NNP will/MD be/VB at/IN home/NN to/TO either/CC Tottenham/NNP or/CC Nottingham/NNP Forest./NNP
+Bolton/NNP host/NN Arsenal/NN or/CC Sheffield/NNP United/NNP and/CC Leicester/NNP will/MD visit/VB the/DT winners/NNS of/IN the/DT Burnley/NNP and/CC Blackburn/NNP replay./NN
+The/DT ties/NNS will/MD be/VB played/VBN on/IN the/DT weekend/NN of/IN 12-13/JJ March./NNP
+
+was/VBD delighted/JJ to/TO be/VB paired/VBN with/IN United/NNP although/IN he/PRP admitted/VBD they/PRP still/RB have/VBP plenty/NN of/IN work/NN to/TO do/VB to/TO set/VB up/RP a/DT dream/NN tie./NN
+"We've/NN got/VBD our/PRP$ work/NN cut/NN out/RP next/JJ Tuesday/NNP but/CC you/PRP can't/VBP deny/NN it's/NNS exciting"/VBP he/PRP said./VB
+
+"It/NN would/MD be/VB a/DT sell-out./JJ
+It/PRP will/MD probably/RB be/VB on/IN television./NN
+We/PRP have/VBP financial/JJ problems/NNS and/CC the/DT revenue/NN it/PRP could/MD bring/VB in/IN would/MD certainly/RB help/VB our/PRP$ situation./NN
+"We're/NN happy/JJ to/TO be/VB in/IN the/DT draw/NN but/CC we've/NN still/RB got/VBD to/TO beat/VB a/DT Premiership/NN team./NN
+"We've/NN got/VBD to/TO beat/VB Southampton/NNP first/JJ and/CC that's/NNS going/VBG to/TO be/VB a/DT hard/JJ game/NN but/CC if/IN we/PRP do/VBP there/EX will/MD be/VB some/DT celebration."/NN
+
+welcomed/VBD the/DT opportunity/NN to/TO face/VB United./NNP
+"We're/NN not/RB counting/VBG on/IN anything/NN yet"/NN he/PRP said./VB
+"It/NN is/VBZ obviously/RB going/VBG to/TO be/VB a/DT difficult/JJ replay/NN judging/VBG by/IN the/DT way/NN Brentford/NNP came/VBD back/RB at/IN us/PRP on/IN Saturday/NNP and/CC the/DT fact/NN that/IN United/NNP have/VBP come/VBN out/IN of/IN the/DT hat/NN will/MD give/VB them/PRP even/RB more/JJR incentive./NN
+"But/NNP I've/NNP been/VBN drawn/VBN against/IN United/NNP so/RB many/JJ times/NNS in/IN cups/NNS and/CC beaten/VBD them/PRP at/IN both/DT Bournemouth/NNP and/CC West/NNP Ham./NNP
+"There/NN are/VBP no/DT easy/JJ ties/NNS in/IN the/DT FA/NNP Cup/NNP and/CC I'm/NNP sure/JJ nobody/NN is/VBZ counting/VBG on/IN one."/NN
+
+Newcastle/NNP v/NN Tottenham/NNP or/CC Nottingham/NNP Forest/NNP
+
+Southampton/NNP or/CC Brentford/NNP v/NN Manchester/NNP United/NNP
+
+Bolton/NNP v/NN Arsenal/NN or/CC Sheffield/NNP United/NNP
+
+Burnley/NNP or/CC Blackburn/NNP v/NN Leicester/NNP

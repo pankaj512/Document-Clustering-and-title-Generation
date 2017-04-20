@@ -1,0 +1,15 @@
+Adventure/NN tale/NN tops/NNS awards/NNS
+
+Young/NNP book/NN fans/NNS have/VBP voted/VBN Fergus/NNP Crane/NNP a/DT story/NN about/IN a/DT boy/NN who/WP is/VBZ taken/VBN on/IN an/DT adventure/NN by/IN a/DT flying/VBG horse/NN the/DT winner/NN of/IN two/CD Smarties/NNP Book/NNP Prizes./NNP
+
+Paul/NNP Stewart/NNP and/CC Chris/NNP Riddell's/NNP book/NN came/VBD top/NN in/IN the/DT category/NN for/IN six-/JJ to/TO eight-year-olds/NNS and/CC won/VBD the/DT award/NN chosen/VBN by/IN after-school/JJ club/NN members./NN
+Sally/NNP Grindley's/NNP Spilled/VBD Water/NNP about/IN a/DT Chinese/JJ girl/NN sold/VBN as/IN a/DT servant/NN was/VBD top/NN in/IN vote/NN of/IN readers/NNS aged/VBN nine/CD to/TO 11./CD
+Biscuit/NNP Bear/NNP by/IN Mini/NNP Grey/NNP took/VBD the/DT top/JJ award/NN in/IN the/DT under-five/JJ category./NN
+Winners/NNS were/VBD voted/VBN for/IN by/IN about/IN 6000/CD children/NNS from/IN a/DT shortlist/NN picked/VBN by/IN an/DT adult/NN panel./NN
+
+The/DT prize/NN which/WDT is/VBZ celebrating/VBG its/PRP$ 20th/JJ year/NN is/VBZ billed/VBN as/IN "the/NN UK's/NNP biggest/JJS children's/NNS book/NN award"./NN
+Fergus/NNP Crane/NNP includes/VBZ text/NN by/IN Stewart/NNP and/CC illustrations/NNS by/IN Riddell/NNP who/WP also/RB created/VBD The/DT Edge/NNP Chronicles/VBZ together./NN
+As/RB well/RB as/IN the/DT six/CD to/TO eights/NNS prize/VBP it/PRP won/VBD the/DT 4Children/CD Special/JJ Award/NN voted/VBD for/IN by/IN after-school/JJ club/NN members./NN
+Julia/NNP Eccleshare/NNP chair/NN of/IN the/DT adult/NN judging/VBG panel/NN said/VBD children's/NNS literature/NN had/VBD "never/NN looked/VBN stronger"/NN in/IN the/DT prize's/NNS 20/CD years./NN
+"This/NN award/NN counts/VBZ because/IN the/DT final/JJ choice/NN of/IN winners/NNS is/VBZ made/VBN by/IN children/NNS who/WP are/VBP the/DT toughest/JJS critics/NNS of/IN all"/NN she/PRP said./VBP
+"This/NN year's/NNS young/JJ judges/NNS chose/VBD the/DT winners/NNS from/IN an/DT exceptionally/RB strong/JJ and/CC varied/JJ shortlist/NN which/WDT showcases/NNS the/DT very/RB best/JJS in/IN children's/NNS books/NNS today."/VBP Previous/JJ winners/NNS have/VBP included/VBN JK/NNP Rowling/NNP Jacqueline/NNP Wilson/NNP and/CC Dick/NNP King-Smith./NNP

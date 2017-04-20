@@ -1,0 +1,27 @@
+Blair/NNP backs/VBZ 'pre-election/JJ budget'/NN
+
+Tony/NNP Blair/NNP has/VBZ backed/VBN Chancellor/NNP Gordon/NNP Brown's/NNP pre-Budget/JJ report/NN amid/IN opposition/NN claims/VBZ he/PRP was/VBD too/RB bullish/JJ about/IN the/DT state/NN of/IN the/DT UK/NNP economy./NN
+
+In/IN a/DT speech/NN in/IN Edinburgh/NNP the/DT prime/JJ minister/NN said/VBD Thursday's/NNP report/NN reinforced/VBD stability/NN and/CC opportunity./NN
+And/CC that/WDT would/MD be/VB central/JJ to/TO Labour's/NNP next/JJ election/NN campaign/NN planning/NN for/IN which/WDT was/VBD already/RB well/RB advanced./NN
+Mr/NNP Brown/NNP earlier/RBR denied/VBD his/PRP$ economic/JJ forecasts/NNS were/VBD too/RB optimistic/JJ -/: but/CC refused/VBD to/TO rule/VB out/RP future/JJ tax/NN rises./NN
+
+He/PRP told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN programme/NN "No/NN politician/NN should/MD make/VB the/DT mistake/NN that/IN John/NNP Major/NNP and/CC his/PRP$ colleagues/NNS made/VBN in/IN 1992/CD of/IN saying/VBG no/DT matter/NN what/WP the/DT circumstances/NNS are/VBP they/PRP can/MD make/VB all/DT sorts/NNS of/IN guarantees/NNS on/IN every/DT individual/JJ thing./NN
+
+"That/NN is/VBZ not/RB what/WP politicians/NNS should/MD do/VB it/PRP would/MD not/RB be/VB responsible/JJ to/TO do."/VB Mr/NNP Brown/NNP insisted/VBD his/PRP$ spending/NN plans/NNS were/VBD "affordable"/NN and/CC he/PRP could/MD afford/VB to/TO be/VB optimistic/JJ because/IN Britain/NNP was/VBD now/RB a/DT stable/JJ low-inflation/JJ economy/NN and/CC house/NN prices/NNS were/VBD now/RB stabilising./NN
+Mr/NNP Blair/NNP praised/VBD his/PRP$ chancellor/NN for/IN his/PRP$ role/NN in/IN creating/VBG economic/JJ stability/NN which/WDT he/PRP said/VBD was/VBD the/DT "cornerstone"/NN of/IN Labour's/NNP programme./NN
+
+In/IN a/DT speech/NN at/IN Edinburgh's/NNP Napier/NNP University/NNP he/PRP said/VBD Labour/NNP would/MD publish/VB over/IN the/DT next/JJ few/JJ months/NNS "a/VBP rich/JJ agenda/NN for/IN future/JJ policy/NN in/IN any/DT possible/JJ third/JJ term"./NN
+
+"In/NN every/DT area/NN of/IN work/NN there/EX is/VBZ a/DT detailed/JJ plan/NN for/IN the/DT future/JJ much/RB clearer/JJR than/IN those/DT in/IN 1997/CD or/CC 2001./CD
+All/DT of/IN it/PRP fits/VBZ together/RB around/IN common/JJ themes/NNS of/IN opportunity/NN security/NN and/CC stability/NN for/IN all"/NN Mr/NNP Blair/NNP said./NN
+In/IN his/PRP$ pre-Budget/JJ report/NN Mr/NNP Brown/NNP surprised/VBD some/DT City/NNP experts/NNS by/IN forecasting/NN UK/NNP growth/NN at/IN between/IN 3%/CD and/CC 3.5%/CD for/IN next/JJ year./NN
+Many/JJ believe/VBP the/DT figure/NN is/VBZ more/RBR likely/JJ to/TO be/VB under/IN 3%/CD -/: and/CC fear/NN tax/NN rises/NNS or/CC spending/NN cuts/NNS saying/VBG tax/NN receipts/NNS have/VBP been/VBN overestimated./VBG
+Carl/NNP Emmerson/NNP from/IN the/DT Institute/NNP for/IN Fiscal/JJ Studies/NNPS told/VBD BBC/NNP News/NNP "He/NN thinks/VBZ everything/NN will/MD come/VB out/RP in/IN the/DT wash/NN and/CC it/PRP will/MD in/IN fact/NN be/VB OK./NNP
+We're/NNP not/RB so/RB sure."/NN David/NNP Page/NNP of/IN Investec/NNP Securities/NNPS said/VBD "His/NN forecast/NN that/IN he/PRP will/MD meet/VB the/DT golden/JJ rule/NN with/IN a/DT margin/NN of/IN £8bn/CD is/VBZ way/NN too/RB optimistic./NN
+"It's/NN going/VBG to/TO take/VB a/DT significant/JJ turnaround/NN in/IN the/DT economy/NN to/TO meet/VB these/DT targets."/NN
+
+Conservative/JJ Shadow/NNP chancellor/NN Oliver/NNP Letwin/NNP said/VBD "I/NN can't/NN find/VB a/DT single/JJ economic/JJ forecaster/NN from/IN the/DT IMF/NNP to/TO the/DT Institute/NNP of/IN Fiscal/JJ Studies/NNPS who/WP believes/VBZ anything/NN other/JJ than/IN the/DT chancellor/NN has/VBZ got/VBD a/DT black/JJ hole/NN in/IN his/PRP$ finances./NN
+"In/NN order/NN to/TO deal/VB with/IN that/IN he/PRP will/MD have/VB to/TO raise/VB taxes/NNS after/IN the/DT next/JJ general/JJ election."/NN Mr/NNP Letwin/NNP accused/VBD the/DT chancellor/NN of/IN using/VBG "fancy/NN statistics"/NN to/TO hide/VB public/JJ service/NN failures./NN
+Vincent/NNP Cable/NNP for/IN the/DT Liberal/NNP Democrats/NNPS called/VBD on/IN Mr/NNP Brown/NNP to/TO open/VB up/RP the/DT government's/NNS books/NNS to/TO the/DT National/NNP Audit/NNP Office/NNP to/TO see/VB if/IN he/PRP had/VBD met/VBN his/PRP$ "golden/NN rule"./NN
+"It/NN is/VBZ very/RB clear/JJ that/IN there/EX are/VBP some/DT serious/JJ loose/JJ ends/NNS in/IN government/NN public/JJ spending"/NN Mr/NNP Cable/NNP told/VBD MPs./NNP

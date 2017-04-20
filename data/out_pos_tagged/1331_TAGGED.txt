@@ -1,0 +1,20 @@
+Merritt/NNP close/RB to/TO indoor/JJ 400m/CD mark/NN
+
+Teenager/NNP LaShawn/NNP Merritt/NNP ran/VBD the/DT third/JJ fastest/JJS indoor/JJ 400m/CD of/IN all/DT time/NN at/IN the/DT Fayetteville/NNP Invitational/NNP meeting./NN
+
+The/DT world/NN junior/JJ champion/NN clocked/VBD 44.93/CD seconds/NNS to/TO finish/VB well/RB clear/JJ of/IN fellow/JJ American/NNP Bershawn/NNP Jackson/NNP in/IN Arkansas./NNP
+Only/RB Michael/NNP Johnson/NNP has/VBZ gone/VBN quicker/JJR setting/VBG the/DT world/NN record/NN of/IN 44.63secs/CD in/IN 1995/CD and/CC running/VBG 44.66secs/CD in/IN 1996./CD
+Kenyan/NNP Bernard/NNP Lagat/NNP missed/VBD out/RP on/IN the/DT world/NN record/NN by/IN 1.45secs/CD as/IN he/PRP ran/VBD the/DT third/JJ quickest/JJS indoor/JJ mile/NN ever/RB to/TO beat/VB Canada's/NNP Nate/NNP Brannen/NNP by/IN almost/RB 10secs./CD
+The/DT Olympic/NNP silver/NN medallist's/NNS time/NN of/IN three/CD minutes/NNS 49.89secs/CD was/VBD inferior/JJ only/RB to/TO the/DT 1997/CD world/NN record/NN of/IN Moroccan/NNP Hicham/NNP El/NNP Guerrouj/NNP and/CC former/JJ world/NN record/NN holder/NN Eamonn/NNP Coghlan/NNP of/IN Ireland's/NNP 349.78./CD
+Lagat/NNP was/VBD on/IN course/NN to/TO break/VB El/NNP Guerrouj's/NNP record/NN through/IN 1200m/CD but/CC could/MD not/RB maintain/VB the/DT pace/NN over/IN the/DT final/JJ 400m./CD
+Ireland's/NNP
+
+continued/VBD his/PRP$ excellent/JJ form/NN by/IN winning/VBG a/DT tight/JJ 3000m/CD in/IN 740.53./CD
+Cragg/NNP who/WP recently/RB defeated/VBD Olympic/NNP 10000m/CD champion/NN Kenenisa/NNP Bekele/NNP in/IN Boston/NNP held/VBD off/RP Bekele's/NNP Ethiopian/JJ colleague/NN Markos/NNP Geneti/NNP by/IN only/RB 0.19secs/CD to/TO secure/VB his/PRP$ victory./NN
+Mark/NNP Carroll/NNP who/WP will/MD join/VB Cragg/NNP in/IN the/DT European/JJ Indoor/JJ Championships/NNS next/IN month/NN finished/VBD a/DT solid/JJ third/NN in/IN 746.78./CD
+Olympic/NNP 200m/CD gold/NN medallist/NN
+
+of/IN Jamaica/NNP ran/VBD the/DT fastest/JJS women's/NNS 60m/CD in/IN the/DT world/NN this/DT year/NN as/IN she/PRP equalled/VBD her/PRP$ personal/JJ best/JJS of/IN 7.09secs./CD
+World/NNP indoor/JJ 60m/CD hurdles/NNS champion/NN
+
+also/RB won/VBD improving/VBG his/PRP$ season-leading/JJ time/NN to/TO 7.51secs./CD

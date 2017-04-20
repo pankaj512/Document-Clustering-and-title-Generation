@@ -1,0 +1,23 @@
+Norway/NN upholds/NNS 'Napster'/NN ruling/NN
+
+A/DT Norwegian/JJ student/NN who/WP ran/VBD a/DT website/NN which/WDT linked/VBD to/TO downloadable/JJ MP3/CD files/NNS has/VBZ been/VBN ordered/VBN to/TO pay/VB compensation/NN by/IN the/DT country's/NNS Supreme/NNP Court./NNP
+
+Frank/NNP Allan/NNP Bruvik/NNP was/VBD ordered/VBN to/TO pay/VB 100000/CD kroner/NN (£8000)/CD to/TO the/DT music/NN industry/NN in/IN Norway./NNP
+He/PRP was/VBD a/DT student/NN when/WRB he/PRP set/VBD up/RP his/PRP$ napster.no/NN site/NN which/WDT allowed/VBD users/NNS to/TO submit/VB and/CC receive/VB links/NNS to/TO MP3/CD files./NN
+Bruvik/NNP had/VBD earlier/RBR been/VBN cleared/VBN on/IN appeal/NN after/IN a/DT lower/JJR court/NN had/VBD found/VBN for/IN the/DT music/NN industry./NN
+Music/NNP industry/NN bosses/NNS in/IN Norway/NNP said/VBD the/DT ruling/NN would/MD help/VB build/VB confidence/NN in/IN the/DT internet/NN as/IN a/DT distribution/NN medium./NN
+
+Frank/NNP Allan/NNP Bruvik/NNP set/VBD up/RP the/DT napster.no/NN website/NN as/IN part/NN of/IN a/DT school/NN project/NN in/IN 2001/CD while/IN studying/VBG computer/NN engineering/NN in/IN the/DT Norwegian/JJ town/NN of/IN Lillehammer./NNP
+The/DT website/NN was/VBD not/RB associated/VBN with/IN the/DT napster.com/NN site/NN in/IN the/DT USA/NNP which/WDT had/VBD been/VBN operating/VBG since/IN 1999/CD and/CC was/VBD already/RB facing/VBG legal/JJ action./NN
+
+Bruvik's/NNP site/NN was/VBD online/NN between/IN August/NNP and/CC November/NNP 2001/CD and/CC while/IN it/PRP did/VBD not/RB host/VB any/DT music/NN at/IN its/PRP$ peak/NN it/PRP was/VBD providing/VBG links/NNS to/TO more/JJR than/IN 170/CD free/JJ files/NNS on/IN other/JJ servers./NN
+As/RB well/RB as/IN providing/VBG links/NNS the/DT site/NN allowed/VBD those/DT visiting/VBG it/PRP to/TO submit/VB links/NNS that/WDT could/MD later/RB be/VB accessed/VBN by/IN other/JJ visitors./NN
+A/DT legal/JJ complaint/NN for/IN copyright/NN violation/NN was/VBD filed/VBN by/IN groups/NNS including/VBG Norway's/NNP performing/VBG rights/NNS society/NN Tono/NNP and/CC the/DT Norwegian/JJ branches/NNS of/IN Sony/NNP Music/NNP and/CC Universal/NNP Music/NNP who/WP saw/VBD it/PRP as/IN an/DT important/JJ test/NN of/IN principle./NN
+
+A/DT Norwegian/JJ court/NN ruled/VBD in/IN 2003/CD that/IN Bruvik/NNP would/MD have/VB to/TO pay/VB 100000/CD kroner/NN to/TO the/DT music/NN industry/NN but/CC the/DT country's/NNS Court/NNP of/IN Appeal/NN cleared/VBD him/PRP saying/VBG that/IN the/DT copyright/NN violation/NN occurred/VBD when/WRB others/NNS posted/VBD the/DT music./NN
+However/RB the/DT Supreme/NNP Court/NNP stated/VBD that/IN the/DT music/NN was/VBD clearly/RB published/VBN in/IN violation/NN of/IN copyright/NN law/NN It/PRP added/VBD that/IN the/DT case/NN was/VBD decided/VBN based/VBN on/IN the/DT responsibility/NN for/IN abetting/VBG an/DT illegal/JJ act/NN and/CC that/IN Bruvik's/NNP actions/NNS were/VBD premeditated./NN
+Norway's/NNP music/NN industry/NN said/VBD it/PRP was/VBD satisfied/VBN with/IN the/DT ruling/NN because/IN showed/VBD that/DT music/NN piracy/NN would/MD not/RB be/VB accepted./NN
+
+Meanwhile/RB in/IN the/DT USA/NNP a/DT further/JJ 717/CD lawsuits/NNS against/IN people/NNS alleged/VBN to/TO have/VB traded/VBN copyrighted/VBN songs/NNS were/VBD filed/VBN this/DT week/NN by/IN the/DT Recording/NNP Industry/NNP Association/NNP of/IN America./NNP
+The/DT suits/NNS brought/VBD on/IN behalf/NN of/IN the/DT major/JJ record/NN companies/NNS cite/VBP the/DT individuals/NNS for/IN illegally/RB distributing/VBG music/NN via/IN unauthorized/JJ peer-to-peer/JJ services/NNS such/JJ as/IN KaZaa/NNP and/CC eDonkey./NN
+As/IN with/IN preceding/VBG cases/NNS the/DT fresh/JJ action/NN was/VBD made/VBN against/IN so-called/JJ "John/NN Doe"/NNP defendants/NNS who/WP are/VBP identified/VBN only/RB by/IN the/DT codes/NNS given/VBN to/TO their/PRP$ computers'/NN internet/JJ connections./NN

@@ -1,0 +1,21 @@
+Monsanto/NNP fined/VBD $1.5m/CD for/IN bribery/NN
+
+The/DT US/PRP agrochemical/VBP giant/NN Monsanto/NNP has/VBZ agreed/VBN to/TO pay/VB a/DT $1.5m/CD (£799000)/CD fine/NN for/IN bribing/VBG an/DT Indonesian/NNP official./NN
+
+Monsanto/NNP admitted/VBD one/CD of/IN its/PRP$ employees/NNS paid/VBD the/DT senior/JJ official/NN two/CD years/NNS ago/RB in/IN a/DT bid/NN to/TO avoid/VB environmental/JJ impact/NN studies/NNS being/VBG conducted/VBN on/IN its/PRP$ cotton./NN
+In/IN addition/NN to/TO the/DT penalty/NN Monsanto/NNP also/RB agreed/VBD to/TO three/CD years'/NN close/NN monitoring/NN of/IN its/PRP$ business/NN practices/NNS by/IN the/DT American/JJ authorities./NN
+It/PRP said/VBD it/PRP accepted/VBD full/JJ responsibility/NN for/IN what/WP it/PRP called/VBD improper/JJ activities./NN
+
+A/DT former/JJ senior/JJ manager/NN at/IN Monsanto/NNP directed/VBD an/DT Indonesian/NNP consulting/NN firm/NN to/TO give/VB a/DT $50000/CD bribe/NN to/TO a/DT high-level/JJ official/NN in/IN Indonesia's/NNP environment/NN ministry/NN in/IN 2002./CD
+The/DT manager/NN told/VBD the/DT company/NN to/TO disguise/VB an/DT invoice/NN for/IN the/DT bribe/NN as/IN "consulting/VBG fees"./NN
+
+Monsanto/NNP was/VBD facing/VBG stiff/JJ opposition/NN from/IN activists/NNS and/CC farmers/NNS who/WP were/VBD campaigning/NN against/IN its/PRP$ plans/NNS to/TO introduce/VB genetically-modified/JJ cotton/NN in/IN Indonesia./NNP
+Despite/IN the/DT bribe/NN the/DT official/NN did/VBD not/RB authorise/VB the/DT waiving/NN of/IN the/DT environmental/JJ study/NN requirement./NN
+Monsanto/NNP also/RB has/VBZ admitted/VBN to/TO paying/VBG bribes/NNS to/TO a/DT number/NN of/IN other/JJ high-ranking/JJ officials/NNS between/IN 1997/CD and/CC 2002./CD
+
+The/DT chemicals-and-crops/NNS firm/NN said/VBD it/PRP became/VBD aware/JJ of/IN irregularities/NNS at/IN a/DT Jakarta-based/JJ subsidiary/NN in/IN 2001/CD and/CC launched/VBD an/DT internal/JJ investigation/NN before/IN informing/VBG the/DT US/PRP Department/NNP of/IN Justice/NNP and/CC the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP (SEC)./NN
+Monsanto/NNP faced/VBD both/DT criminal/JJ and/CC civil/JJ charges/NNS from/IN the/DT Department/NNP of/IN Justice/NNP and/CC the/DT SEC./NNP
+"Companies/NN cannot/NN bribe/VBP their/PRP$ way/NN into/IN favourable/JJ treatment/NN by/IN foreign/JJ officials"/NN said/VBD Christopher/NNP Wray/NNP assistant/NN US/PRP attorney/VBP general./NN
+Monsanto/NNP has/VBZ agreed/VBN to/TO pay/VB $1m/CD to/TO the/DT Department/NNP of/IN Justice/NNP adopt/VBP internal/JJ compliance/NN measures/NNS and/CC co-operate/JJ with/IN continuing/VBG civil/JJ and/CC criminal/JJ investigations./NN
+It/PRP is/VBZ also/RB paying/VBG $500000/CD to/TO the/DT SEC/NNP to/TO settle/VB the/DT bribe/NN charge/NN and/CC other/JJ related/VBN violations./NN
+Monsanto/NNP said/VBD it/PRP accepted/VBD full/JJ responsibility/NN for/IN its/PRP$ employees'/NN actions/NNS adding/VBG that/IN it/PRP had/VBD taken/VBN "remedial/JJ actions/NNS to/TO address/VB the/DT activities/NNS in/IN Indonesia"/NNP and/CC had/VBD been/VBN "fully/RB co-operative"/JJ throughout/IN the/DT investigative/JJ process./NN

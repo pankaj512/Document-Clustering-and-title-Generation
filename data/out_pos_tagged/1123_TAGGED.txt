@@ -1,0 +1,27 @@
+Clarke/NNP faces/VBZ ID/NNP cards/NNS rebellion/NN
+
+Charles/NNP Clarke/NNP faces/VBZ his/PRP$ first/JJ real/JJ test/NN as/IN home/NN secretary/NN on/IN Monday/NNP with/IN a/DT possible/JJ backbench/JJ rebellion/NN over/IN the/DT controversial/JJ ID/NNP cards/NNS bill./NN
+
+Up/IN to/TO 30/CD Labour/NNP MPs/NNP could/MD oppose/VB the/DT scheme/NN during/IN a/DT Commons/NNPS debate./NN
+Mr/NNP Clarke/NNP who/WP took/VBD on/RP the/DT post/NN on/IN Thursday/NNP after/IN David/NNP Blunkett/NNP quit/VBD has/VBZ rejected/VBN calls/VBZ to/TO "pause"/VB on/IN the/DT bill./NN
+Tory/NNP leader/NN Michael/NNP Howard/NNP also/RB faces/VBZ a/DT possible/JJ rebellion/NN after/IN deciding/VBG to/TO back/VB identity/VB cards./NN
+The/DT Liberal/NNP Democrats/NNPS oppose/VBP the/DT plans./NN
+
+Mr/NNP Clarke/NNP writing/VBG in/IN The/DT Times/NNP accused/VBD some/DT critics/NNS of/IN "liberal/JJ woolly/JJ thinking/NN and/CC spreading/VBG false/JJ fears"/NN by/IN claiming/VBG ID/NNP cards/NNS would/MD erode/VB civil/JJ liberties./NN
+He/PRP writes/VBZ that/IN it/PRP is/VBZ actually/RB a/DT "profoundly/RB civil/JJ libertarian/NN measure/NN because/IN it/PRP promotes/VBZ the/DT most/RBS fundamental/JJ civil/JJ liberty/NN in/IN our/PRP$ society/NN -/: which/WDT is/VBZ the/DT right/NN to/TO live/VB free/JJ from/IN fear/NN crime/NN and/CC fear"./NN
+Mr/NNP Clarke/NNP is/VBZ expected/VBN to/TO try/VB and/CC win/VB over/IN opponents/NNS to/TO the/DT scheme/NN by/IN saying/VBG officials/NNS who/WP secretly/RB accessed/VBD information/NN they/PRP were/VBD not/RB allowed/VBN to/TO see/VB would/MD face/VB up/IN to/TO two/CD years/NNS in/IN jail./NN
+He/PRP is/VBZ also/RB expected/VBN to/TO cut/VB the/DT £85/CD cost/NN of/IN the/DT card/NN and/CC passport/NN for/IN the/DT elderly/JJ and/CC those/DT on/IN lower/JJR incomes./NN
+
+Mr/NNP Howard/NNP last/JJ week/NN said/VBD his/PRP$ front/JJ bench/NN team/NN had/VBD reached/VBN a/DT "collective/JJ view"/NN to/TO back/VB ID/NNP cards/NNS after/IN holding/VBG a/DT "good/NN discussion"/JJ but/CC admitted/VBD it/PRP was/VBD "not/NN an/DT easy/JJ issue"./NN
+He/PRP had/VBD decided/VBN to/TO support/VB the/DT plans/NNS as/IN the/DT police/NNS said/VBD they/PRP would/MD help/VB fight/VB terror/NN crime/NN and/CC illegal/JJ immigration./NN
+But/CC former/JJ shadow/NN attorney/NN general/NN Bill/NNP Cash/NN said/VBD there/EX was/VBD still/RB "very/NN deep"/NN disquiet/JJ about/IN the/DT plan/NN among/IN senior/JJ Tories./NNP
+He/PRP told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN the/DT government/NN was/VBD "intensely/RB authoritarian"/NN and/CC was/VBD creating/VBG "increasingly/RB a/DT Big/JJ Brother/NN society"./NN
+Critics/NNS argue/VBP that/IN introducing/VBG the/DT cards/NNS would/MD be/VB a/DT costly/JJ scheme/NN with/IN no/DT specific/JJ aim./NN
+
+Ministers/NNS say/VBP it/PRP would/MD help/VB the/DT fight/NN against/IN terrorism/NN illegal/JJ immigration/NN and/CC organised/VBN crime./NN
+But/CC opponents/NNS say/VBP that/IN similar/JJ schemes/NNS in/IN other/JJ countries/NNS have/VBP not/RB prevented/VBN attacks/NNS like/IN the/DT Madrid/NNP rail/NN bombing./NN
+On/IN Sunday/NNP Lib/NNP Dem/NNP leader/NN Charles/NNP Kennedy/NNP repeated/VBD his/PRP$ call/NN for/IN a/DT "pause"/NN in/IN considering/VBG the/DT legislation./NN
+
+He/PRP told/VBD BBC's/NNP Breakfast/NN with/IN Frost/NNP programme/NN that/IN Mr/NNP Clarke/NNP had/VBD a/DT "real/JJ opportunity"/NN on/IN Monday/NNP following/VBG the/DT departure/NN of/IN Mr/NNP Blunkett./NNP
+"If/NN you/PRP were/VBD running/VBG a/DT family/NN or/CC a/DT business/NN would/MD you/PRP have/VB the/DT second/JJ reading/NN of/IN the/DT Identity/NN Cards/NNP Bill/NNP tomorrow/NN or/CC would/MD you/PRP pause/VBP to/TO reflect/VB and/CC see/VB what/WP you/PRP might/MD do/VB about/IN it/PRP in/IN the/DT New/NNP Year?/NNP "That/NN is/VBZ the/DT sensible/JJ way/NN to/TO go/VB about/IN it/PRP but/CC I/PRP think/VBP this/DT government/NN has/VBZ got/VBD itself/PRP so/RB much/JJ into/IN tram/NN lines/NNS now/RB that/IN it/PRP is/VBZ not/RB behaving/VBG sensibly/RB at/IN all."/NN The/DT first/JJ cards/NNS would/MD be/VB issued/VBN in/IN 2008/CD and/CC when/WRB he/PRP was/VBD introducing/VBG the/DT bill/NN Mr/NNP Blunkett/NNP suggested/VBD Parliament/NNP could/MD decide/VB in/IN 2011/CD or/CC 2012/CD whether/IN to/TO make/VB it/PRP compulsory/NN for/IN everybody/NN to/TO own/VB the/DT cards/NNS although/IN not/RB to/TO carry/VB them./NN
+The/DT new/JJ bill/NN would/MD also/RB create/VB new/JJ criminal/JJ offences/NNS on/IN the/DT possession/NN of/IN false/JJ identity/NN documents./NN

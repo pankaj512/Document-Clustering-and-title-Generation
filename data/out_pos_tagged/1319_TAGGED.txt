@@ -1,0 +1,10 @@
+Isinbayeva/NN claims/VBZ new/JJ world/NN best/JJS
+
+Pole/NNP vaulter/NN Yelena/NNP Isinbayeva/NNP broke/VBD her/PRP$ own/JJ indoor/JJ world/NN record/NN by/IN clearing/VBG 4.89/CD metres/NNS in/IN Lievin/NNP on/IN Saturday./NNP
+
+It/PRP was/VBD the/DT Russian's/NNP 12th/JJ world/NN record/NN of/IN her/PRP$ career/NN and/CC came/VBD just/RB a/DT few/JJ days/NNS after/IN she/PRP cleared/VBD 4.88m/CD at/IN the/DT Norwich/NNP Union/NNP Grand/NNP Prix/NNP in/IN Birmingham./NNP
+The/DT Olympic/NNP champion/NN went/VBD on/IN to/TO attempt/VB 5.05m/CD at/IN the/DT meeting/NN on/IN France/NNP but/CC failed/VBD to/TO clear/JJ that/DT height./NN
+In/IN the/DT men's/NNS 60m/CD former/JJ Olympic/NNP 100m/CD champion/NN Maurice/NNP Greene/NNP could/MD only/RB finish/VB second/JJ to/TO Leonard/NNP Scott./NNP
+It/PRP was/VBD Greene's/NNP second/JJ consecutive/JJ defeat/NN at/IN the/DT hands/NNS of/IN his/PRP$ fellow/JJ American/NNP who/WP also/RB won/VBD in/IN Birmingham/NNP last/JJ week./NN
+"I/NN ran/VBD my/PRP$ race/NN perfectly"/NN said/VBD Scott/NNP who/WP won/VBD in/IN 6.46secs/CD his/PRP$ best/JJS time/NN indoors./NN
+"I/NN am/VBP happy/JJ even/RB if/IN I/PRP know/VBP that/IN Maurice/NNP is/VBZ a/DT long/JJ way/NN from/IN being/VBG at/IN his/PRP$ peak/NN at/IN the/DT start/NN of/IN the/DT season."/NN

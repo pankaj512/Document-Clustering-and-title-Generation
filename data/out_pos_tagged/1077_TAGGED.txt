@@ -1,0 +1,24 @@
+School/NNP sport/NN 'is/NN back'/NN says/VBZ PM/NNP
+
+Tony/NNP Blair/NNP has/VBZ promised/VBN that/DT "sport/NN is/VBZ back"/NN as/IN a/DT priority/NN for/IN schools./NN
+
+The/DT prime/JJ minister/NN launched/VBD a/DT £500m/CD initiative/NN to/TO allow/VB school/NN sports/NNS clubs/NNS in/IN England/NNP to/TO provide/VB up/IN to/TO three/CD hours/NNS of/IN extra/JJ activity/NN a/DT week/NN by/IN 2010./CD
+"It's/NN an/DT important/JJ part/NN of/IN education/NN and/CC it's/VBZ an/DT important/JJ part/NN of/IN health"/NN Mr/NNP Blair/NNP said./NN
+But/CC the/DT Conservatives/NNS say/VBP government/NN proposals/NNS -/: which/WDT include/VBP two/CD hours'/NN PE/NNP within/IN school/NN for/IN 75%/CD of/IN pupils/NNS by/IN 2006/CD -/: are/VBP unrealistic./NN
+
+The/DT latest/JJS move/NN is/VBZ aimed/VBN at/IN encouraging/VBG more/JJR diversity/NN in/IN sport/NN with/IN activities/NNS such/JJ as/IN yoga/NN and/CC Tai/NNP Chi/NNP being/VBG options./NN
+Launching/VBG the/DT initiative/NN Mr/NNP Blair/NNP completed/VBD an/DT agility/NN course/NN and/CC shot/NN basketball/NN hoops/NNS with/IN students/NNS from/IN the/DT all-girl/JJ Waverley/NNP Sports/NNP College/NNP in/IN Southwark/NNP south/JJ London./NNP
+He/PRP said/VBD "You've/NN got/VBD to/TO bring/VB back/RB school/NN sport./NN
+It's/NNP got/VBD to/TO be/VB done/VBN differently/RB than/IN it/PRP was/VBD 30/CD or/CC 40/CD years/NNS ago./NN
+It's/NNP still/RB very/RB very/RB important."/NN
+
+Earlier/RBR Education/NNP Secretary/NNP Charles/NNP Clarke/NNP told/VBD BBC/NNP News/NNP there/EX were/VBD at/IN least/JJS three/CD areas/NNS which/WDT needed/VBD "a/NN coherent/JJ framework"/NN and/CC "dedicated/VBN funding"./NN
+These/DT were/VBD training/NN for/IN PE/NNP teachers/NNS establishing/VBG more/JJR specialist/NN schools/NNS and/CC the/DT development/NN of/IN partnerships/NNS for/IN activities/NNS such/JJ as/IN inter-school/JJ competitions./NN
+He/PRP added/VBD the/DT government/NN had/VBD originally/RB pledged/VBN "for/NN every/DT pupil/NN to/TO get/VB at/IN least/JJS two/CD hours/NNS of/IN high-quality/JJ physical/JJ education"/NN a/DT week./NN
+The/DT proportion/NN was/VBD currently/RB at/IN 62%/CD and/CC the/DT government/NN was/VBD hoping/VBG this/DT would/MD rise/VB to/TO 85%/CD by/IN 2008/CD and/CC 100%/CD by/IN 2010./CD
+The/DT money/NN for/IN the/DT initiative/NN will/MD come/VB from/IN a/DT new/JJ £500m/CD fund./NN
+
+The/DT £500m/CD move/NN will/MD also/RB increase/VB the/DT number/NN of/IN specialist/NN sport/NN colleges/NNS from/IN 350/CD to/TO 400./CD
+But/CC the/DT Conservatives/NNS warned/VBD of/IN rising/VBG obesity/NN levels/NNS and/CC said/VBD that/IN since/IN only/RB a/DT third/JJ of/IN children/NNS do/VBP two/CD hours/NNS of/IN sport/NN a/DT week/NN currently/RB the/DT government/NN is/VBZ promising/VBG something/NN it/PRP cannot/NN guarantee./NN
+Shadow/NNP spokesman/NN for/IN sport/NN Hugh/NNP Robertson/NNP said/VBD "I/NN suspect/VBP the/DT correct/JJ way/NN to/TO tackle/VB it/PRP is/VBZ to/TO look/VB at/IN the/DT other/JJ end/NN of/IN the/DT spectrum/NN and/CC try/VB to/TO enable/VB the/DT clubs/NNS -/: which/WDT is/VBZ where/WRB the/DT real/JJ passion/NN for/IN sport/NN exists/VBZ -/: to/TO deliver/VB the/DT school/NN sport/NN offer."/NN He/PRP said/VBD more/JJR emphasis/NN should/MD be/VB put/VBN on/IN traditional/JJ sports/NNS saying/VBG that/IN an/DT "anti-competitive/JJ sport/NN agenda"/NN had/VBD been/VBN pursued/VBN in/IN recent/JJ years./NN
+Martin/NNP Ward/NNP of/IN the/DT Secondary/JJ Heads/VBZ Association/NNP said/VBD members/NNS did/VBD not/RB like/IN "ring-fenced/JJ funds"/NN and/CC that/IN it/PRP should/MD be/VB up/IN to/TO the/DT schools/VBZ themselves/PRP to/TO decide/VB how/WRB to/TO spend/VB their/PRP$ money./NN

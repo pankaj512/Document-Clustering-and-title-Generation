@@ -1,0 +1,18 @@
+India's/NNP Deccan/NNP seals/NNS $1.8bn/CD deal/NN
+
+Air/NNP Deccan/NNP has/VBZ ordered/VBN 30/CD Airbus/NNP A320/CD planes/NNS in/IN a/DT $1.8bn/CD (£931m)/CD deal/NN as/IN India's/NNP first/JJ low-cost/JJ airline/NN expands/VBZ in/IN the/DT fast-growing/JJ domestic/JJ market./NN
+
+Air/NNP Deccan/NNP was/VBD set/VBN up/RP last/JJ year/NN and/CC wants/VBZ to/TO lure/VB travellers/NNS away/RB from/IN the/DT railway/NN network/NN and/CC pricier/JJR rivals./NN
+The/DT potential/NN of/IN the/DT Indian/JJ market/NN has/VBZ attracted/VBN attention/NN at/IN home/NN and/CC abroad./NN
+Beer/NNP magnate/NN Vijay/NNP Mallya/NNP recently/RB set/VBD up/RP Kingfisher/NNP Airlines/NNPS while/IN UK/NNP entrepreneur/NN Richard/NNP Branson/NNP has/VBZ said/VBN he/PRP is/VBZ keen/JJ to/TO start/VB a/DT local/JJ operation./NN
+
+The/DT country/NN has/VBZ a/DT population/NN of/IN more/JJR than/IN a/DT billion/CD people/NNS and/CC many/JJ observers/NNS feel/VBP that/IN it/PRP is/VBZ underserved/VBN by/IN airlines./NN
+Recently/RB however/RB the/DT booming/JJ economy/NN has/VBZ boosted/VBN personal/JJ spending/NN power/NN and/CC helped/VBD swell/VB the/DT middle/JJ classes/NNS and/CC the/DT corporate/JJ sector./NN
+India's/NNP government/NN has/VBZ given/VBN its/PRP$ backing/NN to/TO cheaper/JJR and/CC more/RBR accessible/JJ air/NN travel./NN
+"The/NN days/NNS of/IN flying/VBG being/VBG a/DT symbol/NN of/IN only/JJ maharajas/NNS or/CC the/DT rich/JJ are/VBP over"/VBG the/DT minister/NN for/IN civil/JJ aviation/NN Praful/NNP Patel/NNP said/VBD earlier./NN
+Infrastructure/NN is/VBZ being/VBG built/VBN to/TO handle/VB the/DT expected/VBN increase/NN in/IN demand/NN and/CC on/IN Tuesday/NNP Agence/NNP France/NNP Presse/NNP reported/VBD that/IN a/DT group/NN led/VBN by/IN Germany's/NNP Siemens/NNP won/VBD the/DT contract/NN to/TO build/VB a/DT private/JJ airport/NN near/IN Bangalore./NNP
+India's/NN airports/NNS authority/NN and/CC the/DT state/NN government/NN will/MD own/VB 13%/CD each/DT of/IN the/DT finished/VBN transport/NN hub./NN
+For/IN its/PRP$ part/NN Air/NNP Deccan/NNP set/VBD up/RP by/IN army/NN officer/NN and/CC silk/NN farmer/NN Gorur/NNP Gopinath/NNP plans/VBZ to/TO increase/VB its/PRP$ fleet/NN to/TO 60/CD aircraft/NN within/IN five/CD years./NN
+To/TO help/VB finance/VB the/DT expansion/NN the/DT company/NN may/MD sell/VB a/DT 25%/CD stake/NN to/TO an/DT investor/NN for/IN about/IN $50m./CD
+When/WRB it/PRP was/VBD set/VBN up/RP the/DT firm/NN offered/VBN tickets/NNS that/WDT were/VBD 50%/CD cheaper/JJR than/IN other/JJ Indian/JJ airlines./NN
+It/PRP said/VBD it/PRP was/VBD basing/VBG its/PRP$ business/NN model/NN on/IN European/JJ firms/NNS such/JJ as/IN Ireland's/NNP Ryanair./NNP

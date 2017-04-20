@@ -1,0 +1,21 @@
+Baron/NNP Kinnock/NNP makes/VBZ Lords/NNPS debut/NN
+
+Former/NNP Labour/NNP leader/NN Neil/NNP Kinnock/NNP has/VBZ officially/RB been/VBN made/VBN a/DT life/NN peer/NN during/IN a/DT ceremony/NN in/IN the/DT House/NNP of/IN Lords./NNP
+
+He/PRP will/MD be/VB known/VBN Baron/NNP Kinnock/NNP of/IN Bedwellty/NNP -/: after/IN his/PRP$ former/JJ constituency./NN
+Lord/NNP Kinnock/NNP -/: who/WP led/VBD Labour/NNP from/IN 1983/CD until/IN 1992/CD -/: was/VBD until/IN recently/RB one/CD of/IN Britain's/NNP EU/NNP commissioners./NN
+A/DT former/JJ critic/NN of/IN the/DT House/NNP of/IN Lords/NNPS he/PRP has/VBZ said/VBN he/PRP will/MD use/VB the/DT Upper/NNP House/NNP to/TO advocate/VB its/PRP$ reform/NN and/CC to/TO talk/VB on/IN issues/NNS like/IN higher/JJR education./NN
+"I/NN accepted/VBD the/DT kind/NN invitation/NN to/TO enter/VB the/DT House/NNP of/IN Lords/NNPS as/IN a/DT working/NN peer/NN for/IN practical/JJ political/JJ reasons"/NN he/PRP said/VBD when/WRB his/PRP$ peerage/NN was/VBD first/JJ announced./NN
+"It/NN is/VBZ a/DT good/JJ base/NN for/IN campaigning/NN on/IN national/JJ issues/NNS like/IN education/NN sustainable/JJ transport/NN industrial/JJ change/NN and/CC the/DT ageing/VBG society/NN and/CC global/JJ concerns/NNS particularly/RB poverty/VBP and/CC oppression."/NN During/IN his/PRP$ induction/NN into/IN the/DT Upper/NNP House/NNP Lord/NNP Kinnock/NNP was/VBD accompanied/VBN by/IN Lords/NNPS Leader/NNP Baroness/NN Amos/NNP and/CC Baroness/NN Royall/NNP of/IN Blaisdon/NNP a/DT former/JJ aide/NN to/TO the/DT ex-Labour/NN leader./NN
+It/PRP has/VBZ been/VBN a/DT long/JJ journey/NN for/IN the/DT new/JJ Lord/NNP Kinnock/NNP from/IN his/PRP$ earliest/JJS days/NNS as/IN a/DT rebellious/JJ youngster/NN in/IN the/DT south/JJ Wales/NNP valleys./NN
+Born/VBN in/IN 1942/CD in/IN Tredegar/NNP to/TO a/DT miner/NN father/NN and/CC nurse/NN mother/NN he/PRP attended/VBD Lewis/NNP Boys'/NNP School/NNP in/IN nearby/JJ Pengam/NNP known/VBD then/RB as/IN the/DT "Eton/NN of/IN the/DT valleys"./NN
+From/IN there/EX he/PRP went/VBD to/TO Cardiff/NNP University/NNP where/WRB he/PRP met/VBD his/PRP$ future/JJ wife/NN Glenys/NNP now/RB a/DT Labour/NNP MEP./NNP
+
+After/IN a/DT brief/JJ career/NN as/IN a/DT tutor/NN for/IN the/DT Workers'/NNP Educational/NNP Association/NNP he/PRP became/VBD an/DT MP/NNP at/IN the/DT age/NN of/IN just/RB 28/CD for/IN his/PRP$ home/NN seat/NN of/IN Bedwellty/NNP (later/NN Islwyn)./NNP
+He/PRP gained/VBD a/DT reputation/NN as/IN a/DT left-wing/JJ firebrand/NN voting/NN against/IN his/PRP$ own/JJ Labour/NNP government's/NNS spending/NN cuts/NNS proposals/NNS in/IN 1975/CD and/CC later/RB rejecting/VBG a/DT junior/JJ post/NN in/IN James/NNP Callaghan's/NNP administration./NN
+But/CC he/PRP joined/VBD the/DT shadow/NN cabinet/NN in/IN 1980/CD and/CC after/IN Labour's/NNP heavy/JJ defeat/NN in/IN the/DT 1983/CD he/PRP was/VBD elected/VBN leader./NN
+He/PRP took/VBD on/RP the/DT far-left/NN Militant/JJ Tendency/NN and/CC began/VBD the/DT long/JJ process/NN of/IN returning/VBG his/PRP$ party/NN to/TO the/DT centre/NN ground./NN
+He/PRP was/VBD not/RB expected/VBN to/TO win/VB the/DT 1987/CD election/NN when/WRB Margaret/NNP Thatcher/NNP was/VBD still/RB riding/VBG high/JJ but/CC was/VBD bitterly/RB disappointed/VBN to/TO lose/VB the/DT next/JJ one/CD in/IN 1992/CD to/TO John/NNP Major/NNP and/CC stepped/VBD down./NN
+He/PRP remained/VBD an/DT MP/NNP until/IN 1995/CD when/WRB he/PRP resigned/VBD to/TO become/VB European/JJ commission/NN for/IN transport./NN
+Four/CD years/NNS later/RB he/PRP became/VBD vice-president/NN of/IN the/DT European/NNP Commission/NNP with/IN responsibility/NN for/IN internal/JJ reform./NN
+As/IN he/PRP assumes/VBZ the/DT title/NN of/IN Lord/NNP Kinnock/NNP he/PRP has/VBZ also/RB become/VB chairman/NN of/IN the/DT British/NNP Council/NNP which/WDT promotes/VBZ the/DT UK's/NNP reputation/NN for/IN arts/NNS science/NN and/CC education./NN

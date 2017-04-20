@@ -1,0 +1,31 @@
+Police/NNP urge/VB pub/NN closure/NN power/NN
+
+New/JJ powers/NNS are/VBP needed/VBN to/TO close/VB disorderly/JJ pubs/NNS bars/NNS and/CC clubs/NNS for/IN up/IN to/TO a/DT week/NN or/CC even/RB permanently/RB police/NN chiefs/NNS have/VBP told/VBN MPs./NNP
+
+Association/NNP of/IN Chief/NNP Police/NNP Officers/NNS president/NN Chris/NNP Fox/NNP said/VBD the/DT current/JJ 24-hour/JJ closure/NN power/NN did/VBD not/RB have/VB enough/JJ impact/NN on/IN bad/JJ landlords./NN
+Mr/NNP Fox's/NNP comments/NNS follow/VBP the/DT controversy/NN over/IN plans/NNS to/TO allow/VB pubs/NNS to/TO open/VB around/IN the/DT clock./NN
+He/PRP rejected/VBD critics'/NN calls/VBZ for/IN the/DT law/NN change/NN to/TO be/VB delayed./NN
+Instead/RB the/DT new/JJ Licensing/NNP Act/NNP could/MD help/VB reduce/VB drunken/NN disorder/NN -/: but/CC only/RB if/IN it/PRP was/VBD properly/RB planned/VBN he/PRP argued./VB
+
+Acpo/NNP made/VBD its/PRP$ call/NN for/IN stronger/JJR closure/NN powers/NNS in/IN a/DT paper/NN for/IN the/DT Commons/NNPS home/NN affairs/NNS select/VBP committee./NN
+After/IN the/DT meeting/NN Mr/NNP Fox/NNP said/VBD being/VBG able/JJ to/TO close/VB premises/NNS for/IN only/RB 24/CD hours/NNS did/VBD not/RB necessarily/RB make/VB an/DT impact./NN
+"If/NN it's/NNS 12.30/CD on/IN a/DT Saturday/NNP morning/NN and/CC you/PRP close/VBP for/IN 24/CD hours/NNS there's/NNS not/RB a/DT lot/NN of/IN pain/NN for/IN the/DT premises/NNS because/IN they/PRP probably/RB wouldn't/VBP open/JJ on/IN Sunday/NNP anyway./NN
+
+"This/NN is/VBZ about/IN getting/VBG through/IN to/TO the/DT management/NN that/IN they/PRP can't/VBP run/VB a/DT disorderly/JJ house/NN without/IN facing/VBG some/DT immediate/JJ sanctions."/NN Under/IN Acpo's/NNP proposal/NN the/DT closure/NN orders/NNS would/MD be/VB used/VBN only/RB with/IN the/DT agreement/NN of/IN the/DT local/JJ licensing/NN authority./NN
+The/DT new/JJ licensing/NN laws/NNS will/MD give/VB police/NN greater/JJR powers/NNS to/TO close/VB pubs/NNS and/CC clubs/NNS -/: but/CC only/RB for/IN 24-hour/JJ periods./NN
+
+Mr/NNP Fox/NNP said/VBD the/DT drinks/NNS industry/NN was/VBD currently/RB not/RB regulating/VBG itself./NN
+"It's/NN making/VBG money/NN at/IN the/DT cost/NN of/IN human/JJ misery/NN and/CC the/DT public/NN purse/NN and/CC the/DT strategic/JJ planning/NN process/NN has/VBZ been/VBN less/JJR than/IN useless"/NN he/PRP said./VB
+Mr/NNP Fox/NNP said/VBD the/DT new/JJ laws/NNS due/JJ to/TO start/VB being/VBG phased/VBN in/IN next/JJ month/NN could/MD help/VB if/IN food/NN outlets/NNS public/JJ transport/NN and/CC public/JJ toilets/NNS could/MD cope/VB with/IN late-night/JJ drinkers./NN
+"Staggering/VBG it/PRP (closing/VBG hours)/NN will/MD be/VB a/DT solution/NN if/IN the/DT infrastructure/NN is/VBZ there/RB if/IN the/DT premises/NNS are/VBP properly/RB managed/VBN and/CC people/NNS aren't/VBP being/VBG served/VBD rolling/VBG drunk/JJ and/CC underage/NN and/CC then/RB tossed/VBD out/RP into/IN the/DT street"/NN he/PRP said./VB
+"We/NN have/VBP the/DT problem/NN from/IN 11pm/CD to/TO 2am/CD in/IN any/DT event./NN
+We/PRP have/VBP to/TO get/VB a/DT grip/NN on/IN the/DT underlying/VBG causes/NNS of/IN this."/NN
+
+Acpo/NNP wants/VBZ pubs/NNS and/CC clubs/NNS which/WDT cause/VBP extra/JJ work/NN for/IN police/NN and/CC hospitals/NNS to/TO have/VB to/TO pay/VB towards/IN the/DT costs./NN
+Home/NNP Secretary/NNP Charles/NNP Clarke/NNP is/VBZ currently/RB looking/VBG at/IN the/DT idea/NN of/IN a/DT levy/NN on/IN the/DT drinks/NNS industry/NN to/TO pay/VB for/IN the/DT cost/NN of/IN extra/JJ policing./NN
+The/DT licensing/NN changes/NNS have/VBP sparked/VBN concern/NN among/IN some/DT MPs/NNP councils/NNS and/CC some/DT senior/JJ police/NN officers/NNS who/WP fear/VBP they/PRP could/MD exacerbate/VB drinking/NN problems./NN
+Culture/NNP Secretary/NNP Tessa/NNP Jowell/NNP on/IN Tuesday/NNP said/VBD it/PRP was/VBD not/RB her/PRP$ job/NN to/TO bow/VB to/TO the/DT campaign/NN against/IN the/DT changes./NN
+It/PRP was/VBD the/DT status/NN quo/NN not/RB the/DT new/JJ laws/NNS which/WDT were/VBD causing/VBG current/JJ binge/NN drinking/NN problems/NNS she/PRP told/VBD BBC/NNP Two's/NNP Newsnight./NNP
+Leaked/VBN documents/NNS have/VBP suggested/VBN ex-Home/NN Secretary/NNP David/NNP Blunkett/NNP branded/VBD new/JJ opening/NN hours/NNS as/IN a/DT "leap/NN in/IN the/DT dark"./NN
+But/CC Ms/NNP Jowell/NNP insisted/VBD his/PRP$ concerns/NNS had/VBD been/VBN met./NN
+The/DT police's/NNS job/NN against/IN alcohol-related/JJ crime/NN would/MD be/VB made/VBN easier/JJR if/IN all/DT pubs/NNS did/VBD not/RB close/VB at/IN the/DT same/JJ time/NN she/PRP added./VBP

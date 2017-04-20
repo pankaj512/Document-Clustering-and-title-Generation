@@ -1,0 +1,20 @@
+Pandas/NNP benefit/NN from/IN wireless/JJ net/JJ
+
+The/DT world's/NNS dwindling/VBG panda/NN population/NN is/VBZ getting/VBG a/DT helping/VBG hand/NN from/IN a/DT wireless/JJ internet/JJ network./NN
+
+The/DT Wolong/NNP Nature/NNP Reserve/NNP in/IN the/DT Sichuan/NNP Province/NNP of/IN southwest/JJS China/NNP is/VBZ home/NN to/TO 20%/CD of/IN the/DT remaining/VBG 1500/CD giant/JJ pandas/NNS in/IN the/DT world./NN
+A/DT broadband/NN and/CC wireless/JJ network/NN installed/VBN on/IN the/DT reserve/NN has/VBZ allowed/VBN staff/NN to/TO chronicle/VB the/DT pandas'/NN daily/JJ activities./NN
+The/DT data/NNS and/CC images/NNS can/MD be/VB shared/VBN with/IN colleagues/NNS around/IN the/DT world./NN
+The/DT reserve/NN conducts/VBZ vital/JJ research/NN on/IN both/DT panda/NN breeding/VBG and/CC bamboo/NN ecology./NN
+
+Using/VBG the/DT network/NN vets/NNS have/VBP been/VBN able/JJ to/TO observe/VB how/WRB infant/NN pandas/NNS feed/NN and/CC suggest/VBP changes/NNS to/TO improve/VB the/DT tiny/JJ cubs'/NN chances/NNS of/IN survival./NN
+
+"Digital/JJ technology/NN has/VBZ transformed/VBN the/DT way/NN we/PRP communicate/VBP and/CC share/NN information/NN inside/IN Wolong/NNP and/CC with/IN the/DT rest/NN of/IN the/DT world"/NN said/VBD Zhang/NNP Hemin/NNP director/NN of/IN the/DT Wolong/NNP Nature/NNP Reserve./NNP
+"Our/NN researchers/NNS now/RB have/VBP state-of-the-art/JJ digital/JJ technology/NN to/TO help/VB foster/JJ the/DT panda/NN population/NN and/CC manage/VB our/PRP$ precious/JJ surroundings."/NN The/DT network/NN has/VBZ been/VBN developed/VBN by/IN Intel/NNP working/VBG closely/RB with/IN the/DT staff/NN at/IN Wolong./NNP
+It/PRP includes/VBZ a/DT 802.11b/CD wireless/JJ network/NN and/CC a/DT video/NN monitoring/NN system/NN using/VBG five/CD cameras/NNS to/TO observe/VB pandas/NNS around/IN the/DT clock./NN
+
+Before/IN the/DT new/JJ infrastructure/NN arrived/VBD at/IN the/DT panda/NN park/NN staff/NN walked/VBD or/CC drove/VBD to/TO deliver/VB floppy/JJ disks/NNS across/IN the/DT reserve./NN
+Infant/NN panda/NN health/NN was/VBD recorded/VBN on/IN paper/NN notebooks/NNS and/CC research/NN teams/NNS in/IN the/DT field/NN had/VBD little/JJ access/NN to/TO the/DT data./NN
+To/TO foster/JJ cultural/JJ links/NNS across/IN the/DT globe/NN a/DT children's/NNS learning/VBG lab/NN has/VBZ been/VBN incorporated/VBN in/IN the/DT network/NN in/IN collaboration/NN with/IN Globio/NNP (Federation/NN for/IN Global/JJ Biodiversity/NNP Education/NNP for/IN Children)/NNP an/DT international/JJ non-profit/JJ organisation./NN
+It/PRP will/MD enable/VB children/NNS at/IN local/JJ primary/JJ schools/NNS to/TO hook/VB up/RP with/IN their/PRP$ peers/NNS in/IN Portland/NNP Oregon/NNP in/IN the/DT US./NNP
+"Digital/JJ technology/NN brings/VBZ this/DT story/NN to/TO life/NN by/IN enabling/VBG a/DT global/JJ dialogue/NN to/TO help/VB bridge/VB cultures/NNS around/IN the/DT world"/NN said/VBD Globio/NNP founder/NN Gerry/NNP Ellis./NNP

@@ -1,0 +1,9 @@
+Rusedski/NNP forced/VBD out/RP in/IN Marseille/NNP
+
+Greg/NNP Rusedski/NNP was/VBD forced/VBN to/TO withdraw/VB from/IN the/DT Open/NNP 13/CD in/IN Marseille/NNP on/IN Thursday/NNP with/IN a/DT rib/NN injury./NN
+
+The/DT British/JJ number/NN two/CD had/VBD been/VBN scheduled/VBN to/TO play/VB qualifier/NN Sebastien/NNP de/NNP Chaunac/NNP who/WP beat/VBP world/NN number/NN five/CD Guillermo/NNP Coria/NNP 6-4/JJ 7-5/NN in/IN round/NN one./NN
+But/CC Rusedski/NNP was/VBD unable/JJ to/TO take/VB to/TO the/DT court/NN because/IN of/IN a/DT problem/NN with/IN the/DT left-hand/JJ side/NN of/IN his/PRP$ rib-cage./JJ
+American/NNP Taylor/NNP Dent/NN caused/VBD a/DT shock/NN with/IN a/DT 7-6/JJ 6-2/JJ victory/NN over/IN second/JJ seed/NN David/NNP Nalbandian./NNP
+But/CC third/JJ seed/NN Joachim/NNP Johansson/NNP made/VBD it/PRP through/IN after/IN beating/VBG Frenchman/NNP Gilles/NNP Simon/NNP 7-6/JJ 6-3/NN while/IN in/IN the/DT first/JJ match/NN of/IN the/DT day/NN sixth/JJ seed/NN Feliciano/NNP Lopez/NNP defeated/VBD Ivo/NNP Karlovic./NNP
+There/EX were/VBD also/RB wins/VBZ for/IN Slovakia's/NNP Karol/NNP Beck/NNP and/CC Croatian/NNP duo/NN Ivan/NNP Ljubicic/NNP and/CC Mario/NNP Ancic./NNP

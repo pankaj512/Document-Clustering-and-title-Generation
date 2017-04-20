@@ -1,0 +1,22 @@
+Germany/NNP nears/VBZ 1990/CD jobless/JJ level/NN
+
+German/JJ unemployment/NN rose/VBD for/IN the/DT 11th/JJ consecutive/JJ month/NN in/IN December/NNP -/: making/VBG the/DT year's/NNS average/NN jobless/JJ total/JJ the/DT highest/JJS since/IN reunification./NN
+
+The/DT seasonally/RB adjusted/VBN jobless/JJ total/NN rose/VBD a/DT higher/JJR than/IN expected/VBN 17000/CD to/TO 4.483/CD million/CD the/DT Bundesbank/NNP said./NN
+Allowing/VBG for/IN changes/NNS in/IN calculating/VBG statistics/NNS the/DT average/JJ number/NN of/IN people/NNS out/IN of/IN work/NN was/VBD the/DT highest/JJS since/IN 1990/CD -/: or/CC a/DT rate/NN of/IN 10.8%./CD
+Bad/JJ weather/NN and/CC a/DT sluggish/JJ economy/NN were/VBD blamed/VBN for/IN the/DT rise./NN
+The/DT increase/NN "was/NN due/JJ primarily/RB to/TO the/DT onstart/NN of/IN winter"/NN labour/NN office/NN chief/NN Frank-Juergen/NNP Weise/NNP said./NN
+
+Unadjusted/JJ the/DT figures/NNS showed/VBD unemployment/NN rose/VBD 206900/CD to/TO 4.64/CD million/CD -/: with/IN many/JJ sectors/NNS such/JJ as/IN construction/NN laying/VBG off/RP workers/NNS amid/IN bad/JJ weather./NN
+"The/NN three/CD years/NNS of/IN stagnation/NN in/IN the/DT German/JJ economy/NN came/VBD to/TO an/DT end/NN in/IN 2004./CD
+But/CC the/DT upturn/NN is/VBZ still/RB not/RB strong/JJ enough"/NN to/TO boost/VB the/DT labour/NN market/NN Mr/NNP Weise/NNP added./NN
+News/NNP of/IN the/DT rise/NN came/VBD as/IN government/NN welfare/NN reforms/NNS came/VBD into/IN force/NN a/DT move/NN that/WDT is/VBZ expected/VBN to/TO see/VB unemployment/NN swell/NN still/RB further/RBR in/IN coming/VBG months./NN
+Under/IN the/DT Hartz/NNP IV/NNP changes/VBZ the/DT previous/JJ two/CD tier/NN system/NN of/IN benefits/NNS and/CC support/NN for/IN the/DT long/JJ term/NN unemployed/JJ has/VBZ been/VBN replaced/VBN with/IN one/CD flat-rate/JJ payout./NN
+In/IN turn/NN that/WDT means/VBZ more/JJR people/NNS will/MD be/VB classified/VBN as/IN looking/VBG for/IN work/NN driving/VBG official/JJ figures/NNS higher./NN
+
+"Be/NN prepared/VBN for/IN a/DT nasty/JJ figure/NN for/IN January/NNP 2005/CD about/IN five/CD million/CD unemployed/JJ on/IN a/DT non-seasonally/JJ adjusted/VBN basis"/NN warned/VBD HVB/NNP Group/NNP economist/NN Andreas/NNP Rees./NNP
+But/CC he/PRP did/VBD add/VB that/IN the/DT numbers/NNS should/MD "subside"/VB throughout/IN the/DT year/NN to/TO remain/VB near/IN 2004's/CD level/NN of/IN 4.4/CD million/CD jobless./NN
+"I/NN don't/NN expect/VBP a/DT strong/JJ and/CC lasting/JJ turnaround/NN until/IN 2006"/CD German/JJ Economy/NNP minister/NN Wolfgang/NNP Clement/NN said./NN
+By/IN 2010/CD however/RB the/DT Hartz/NNP IV/NNP reforms/NNS should/MD help/VB cut/VB the/DT average/JJ jobless/JJ rate/NN to/TO between/IN 3%/CD and/CC 5%/CD he/PRP added./VB
+Europe's/NNP biggest/JJS economy/NN has/VBZ been/VBN too/RB weak/JJ to/TO create/VB work/NN as/IN it/PRP struggles/VBZ to/TO shake/VB off/RP three/CD years/NNS of/IN economic/JJ stagnation./NN
+In/IN recent/JJ months/NNS companies/NNS such/JJ as/IN Adam/NNP Opel/NNP -/: the/DT German/NNP arm/NN of/IN US/PRP carmaker/VBP General/NNP Motors/NNPS -/: and/CC retailer/NN KarstadtQuelle/NNP have/VBP slashed/VBN jobs./NN

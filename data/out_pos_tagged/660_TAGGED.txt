@@ -1,0 +1,12 @@
+Usher/NNP leads/VBZ Billboard/NNP nominations/NNS
+
+R&B/NNP singer/NN Usher/NNP is/VBZ leading/VBG the/DT race/NN for/IN the/DT Billboard/NNP awards/NNS with/IN nominations/NNS in/IN 13/CD categories/NNS including/VBG best/JJS male./NN
+
+Alicia/NNP Keys/NNP has/VBZ 12/CD nominations/NNS for/IN the/DT awards/NNS which/WDT will/MD be/VB held/VBN on/IN 8/CD December/NNP at/IN the/DT MGM/NNP Grand/NNP in/IN Las/NNP Vegas./NNP
+Other/JJ multiple/JJ nominees/NNS include/VBP Maroon5/CD OutKast/NNP Kanye/NNP West/NNP R/NN Kelly/NNP Gretchen/NNP Wilson/NNP Hoobastank/NNP and/CC Jay-Z./NNP
+Soul/NN singer/NN Stevie/NNP Wonder/VBP will/MD receive/VB Billboard's/NNP Century/NNP Award/NN the/DT magazine's/NNS highest/JJS honour/NN for/IN creative/JJ achievement/NN at/IN the/DT ceremony./NN
+
+The/DT awards/NNS will/MD be/VB hosted/VBN by/IN American/NNP Idol/NNP presenter/NN Ryan/NNP Seacrest/NNP and/CC will/MD feature/VB performances/NNS by/IN Usher/NNP Gwen/NNP Stefani/NNP Nelly/NNP and/CC Green/NNP Day./NNP
+Usher/NNP and/CC Keys/NNP will/MD be/VB battling/VBG it/PRP out/RP for/IN prizes/NNS including/VBG artist/NN of/IN the/DT year/NN Hot/NNP 100/CD songwriter/NN of/IN the/DT year/NN and/CC Billboard/NNP 200/CD album/NN of/IN the/DT year/NN for/IN their/PRP$ respective/JJ albums/NNS Confessions/NNS and/CC The/DT Diary/NNP of/IN Alicia/NNP Keys./NNP
+Maroon5/CD and/CC OutKast/NNP are/VBP also/RB up/IN for/IN artist/NN of/IN the/DT year/NN while/IN OutKast's/NNP Speakerboxxx/The/NNP Love/NNP Below/IN is/VBZ a/DT finalist/NN for/IN Billboard/NNP 200/CD album/NN of/IN the/DT year/NN alongside/IN Josh/NNP Groban's/NNP Closer./NNP
+The/DT awards/NNS honour/VBP the/DT year's/NNS leading/VBG artists/NNS and/CC songs/NNS as/IN determined/VBN by/IN their/PRP$ performance/NN on/IN Billboard's/NNP weekly/JJ charts./NN

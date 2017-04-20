@@ -1,0 +1,11 @@
+UKIP/NNP outspent/NN Labour/NNP on/IN EU/NNP poll/NN
+
+The/DT UK/NNP Independence/NNP Party/NNP outspent/NN both/DT Labour/NNP and/CC the/DT Liberal/NNP Democrats/NNPS in/IN the/DT European/JJ elections/VBZ new/JJ figures/NNS show./NN
+
+UKIP/NNP which/WDT campaigned/VBD on/IN a/DT slogan/NN of/IN "Say/NN no/DT to/TO Europe"/NNP spent/VBD £2.36m/CD on/IN the/DT campaign/NN -/: second/JJ only/RB to/TO the/DT Conservatives'/NNP £3.13m./CD
+The/DT campaign/NN took/VBD UKIP/NNP into/IN third/JJ place/NN with/IN an/DT extra/JJ 10/CD MEPs./NNP
+Labour's/NNP campaign/NN cost/NN £1.7m/CD the/DT Lib/NNP Dems'/NNP £1.19m/CD and/CC the/DT Greens'/NNP £404000/CD according/VBG to/TO figures/NNS revealed/VBN by/IN the/DT Electoral/JJ Commission/NNP on/IN Wednesday./NNP
+Much/JJ of/IN the/DT UKIP/NNP funding/NN came/VBD from/IN Yorkshire/NNP millionaire/NN Sir/NNP Paul/NNP Sykes/NNP who/WP helped/VBD bankroll/VB the/DT party's/NNS billboard/NN campaign./NN
+Critics/NNS have/VBP accused/VBN the/DT party/NN of/IN effectively/RB buying/VBG votes./NN
+But/CC a/DT UKIP/NNP spokesman/NN said/VBD Labour/NNP and/CC the/DT Conservatives/NNS had/VBD spent/VBN £10m/CD between/IN them/PRP on/IN the/DT last/JJ general/JJ election./NN
+"With/NN the/DT advantages/NNS of/IN public/JJ money/NN the/DT others/NNS have/VBP the/DT only/JJ way/NN the/DT smaller/JJR parties/NNS can/MD get/VB their/PRP$ message/NN across/IN is/VBZ by/IN buying/VBG the/DT advertising/NN space"/NN he/PRP added./VB

@@ -1,0 +1,19 @@
+M&S/NN cuts/NNS prices/NNS by/IN average/NN of/IN 24%/CD
+
+Marks/NNP &/CC Spencer/NNP has/VBZ cut/VBN prices/NNS in/IN London/NNP and/CC the/DT regions/NNS by/IN an/DT average/NN of/IN 24%/CD according/VBG to/TO research/NN from/IN a/DT City/NNP investment/NN bank./NN
+
+Dresdner/NNP Kleinwort/NNP Wasserstein/NNP said/VBD "In/NN spite/NN of/IN the/DT snow/NN in/IN the/DT UK/NNP it/PRP still/RB feels/VBZ very/RB early/JJ to/TO be/VB cutting/VBG prices/NNS of/IN spring/NN merchandise."/NN Stuart/NNP Rose/NNP head/NN of/IN M&S/NNP said/VBD last/JJ year/NN its/PRP$ prices/NNS were/VBD too/RB high./NN
+"We/NN are/VBP bringing/VBG in/IN ranges/NNS at/IN new/JJ price/NN points/NNS to/TO compete/VB against/IN mid-market/JJ retailers/NNS like/IN Next"/NNP said/VBD M&S./NNP
+
+Next/JJ is/VBZ one/CD of/IN M&S's/NNP biggest/JJS competitors/NNS and/CC the/DT move/NN may/MD force/VB it/PRP to/TO lower/VB prices./NN
+DrKW/NNP said/VBD the/DT cuts/NNS are/VBP either/CC to/TO clear/JJ stock/NN or/CC could/MD indicate/VB a/DT longer/RB term/NN "step/NN change/NN in/IN pricing/NN in/IN certain/JJ areas"/NN at/IN M&S./NNP
+"Either/NN way/NN this/DT cannot/NN be/VB good/JJ news/NN for/IN M&S'/NNP margin"/NN it/PRP added./NN
+"We/NN have/VBP brought/VBN in/RP quite/RB a/DT lot/NN of/IN new/JJ clothing/NN at/IN new/JJ price/NN points/NNS as/IN part/NN of/IN Stuart/NNP Rose's/NNP strategy/NN of/IN quality/NN style/NN -and/JJ price"/NN said/VBD the/DT M&S/NNP spokesman./NN
+Many/JJ analysts/NNS believe/VBP February/NNP is/VBZ proving/VBG to/TO be/VB a/DT difficult/JJ month/NN for/IN retailers/NNS and/CC British/JJ Retail/JJ Consortium/NNP figures/NNS due/JJ in/IN a/DT few/JJ weeks/NNS are/VBP expected/VBN to/TO reflect/VB the/DT tough/JJ trading/NN environment./NN
+Separately/RB investment/NN bank/NN Goldman/NNP Sachs/NNP produced/VBD reseach/NN showing/VBG that/IN a/DT basket/NN of/IN 35/CD M&S/NNP goods/NNS is/VBZ now/RB 11%/CD above/IN the/DT high-street/JJ average/NN compared/VBN with/IN 43%/CD higher/JJR last/JJ year./NN
+
+It/PRP has/VBZ been/VBN a/DT strange/JJ week/NN for/IN M&S/NNP which/WDT on/IN Tuesday/NNP received/VBD a/DT statement/NN from/IN Philip/NNP Green/NNP the/DT billionaire/NN Bhs/NNP owner/NN confirming/VBG he/PRP was/VBD not/RB rebidding/VBG for/IN the/DT company./NN
+This/DT was/VBD followed/VBN the/DT same/JJ day/NN by/IN Mark/NNP Paulsmeier/NNP a/DT South/JJ African/JJ financier/NN issuing/VBG a/DT press/NN release/NN saying/VBG his/PRP$ Paulsmeier/NNP Group/NNP was/VBD interested/JJ in/IN M&S./NNP
+A/DT sudden/JJ spike/NN in/IN M&S's/NNP share/NN price/NN followed./NN
+However/RB an/DT M&S/NNP spokesman/NN said/VBD on/IN Sunday/NNP it/PRP had/VBD no/DT evidence/NN that/IN Mr/NNP Paulsmeier/NNP had/VBD lined/VBN up/RP sufficient/JJ finance/NN for/IN a/DT bid./NN
+He/PRP also/RB said/VBD the/DT Takeover/NN Panel/NN and/CC the/DT UK's/NNP financial/JJ watchdog/NN the/DT Financial/NNP Services/NNPS Authority/NNP had/VBD been/VBN in/IN touch/NN with/IN M&S/NNP at/IN the/DT beginning/NN of/IN the/DT week/NN to/TO find/VB out/RP what/WP it/PRP knew/VBD about/IN the/DT Paulsmeier/NNP developments./NN

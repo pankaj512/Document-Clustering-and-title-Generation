@@ -1,0 +1,14 @@
+Algeria/NNP hit/VBN by/IN further/JJ gas/NN riots/NNS
+
+Algeria/NNP suffered/VBD a/DT weekend/NN of/IN violent/JJ protests/NNS against/IN government/NN plans/VBZ to/TO raise/VB gas/NN prices/NNS local/JJ press/NN reports./NN
+
+Demonstrators/NNS in/IN a/DT number/NN of/IN regions/NNS blocked/VBD roads/NNS attacked/VBD public/JJ buildings/NNS and/CC overturned/VBD vehicles/NNS newspapers/NNS including/VBG El/NNP Watan/NNP reported./NN
+The/DT price/NN of/IN butane/NN gas/NN a/DT vital/JJ fuel/NN for/IN cooking/NN has/VBZ risen/VBN to/TO 200/CD dinars/NNS ($2.77)/CD per/IN canister/NN from/IN 170/CD dinars./NN
+Even/RB before/IN the/DT hike/NN failing/VBG economic/JJ conditions/NNS had/VBD been/VBN fanning/VBG resentment/NN in/IN some/DT of/IN Algeria's/NNP poorest/JJS regions./NN
+
+Demonstrators/NNS took/VBD to/TO the/DT streets/NNS last/JJ week/NN when/WRB the/DT cost/NN change/NN was/VBD first/RB announced/VBD but/CC police/NNS seemed/VBD to/TO have/VB restored/VBN order./NN
+According/VBG to/TO local/JJ press/NN reports/NNS trouble/NN flared/VBN up/RP again/RB on/IN Saturday/NNP and/CC carried/VBD on/IN into/IN Sunday./NNP
+El/NNP Watan/NNP said/VBD that/IN a/DT number/NN of/IN hot/JJ spots/NNS centred/VBN on/IN the/DT villages/NNS and/CC towns/NNS close/VBP to/TO Bouira/NNP about/IN 100/CD kilometres/NNS (60/CD miles)/NN south/RB of/IN the/DT capital/NN Algiers./NNP
+Among/IN the/DT other/JJ main/JJ areas/NNS affected/VBN were/VBD the/DT western/JJ Tiaret/NNP region/NN and/CC Sidi/NNP Ammar/NNP in/IN the/DT east/NN of/IN the/DT country/NN Agence/NNP France/NNP Presse/NNP (AFP)/NN reported./NN
+Riots/NNS also/RB flared/VBN up/RP in/IN the/DT Maghnia/NNP region/NN close/NN to/TO the/DT border/NN with/IN Morocco/NNP in/IN the/DT west/NN AFP/NNP said./NN
+Butane/NN gas/NN and/CC fuel/NN oil/NN are/VBP used/VBN as/IN the/DT main/JJ source/NN of/IN fuel/NN to/TO heat/VB homes/NNS and/CC cook/VB food/NN in/IN Algeria's/NNP remote/JJ mountain/NN areas./NN

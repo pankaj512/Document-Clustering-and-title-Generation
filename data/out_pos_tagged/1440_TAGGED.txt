@@ -1,0 +1,10 @@
+Kewell/NNP waits/VBZ as/IN injury/NN drags/VBZ on/IN
+
+Liverpool/NNP winger/NN Harry/NNP Kewell/NNP is/VBZ struggling/VBG to/TO recover/VB from/IN his/PRP$ Achilles/NNP tendinitis/NNS problem/NN and/CC may/MD not/RB recover/VB until/IN March/NNP claims/NNS his/PRP$ agent./NN
+
+Kewell/NNP 26/CD had/VBD hoped/VBN to/TO play/VB against/IN Fulham/NNP last/JJ weekend/NN and/CC to/TO be/VB ready/JJ for/IN the/DT Champions/NNS League/NNP tie/VB against/IN Bayer/NNP Leverkusen/NNP on/IN 22/CD February./NNP
+But/CC Bernie/NNP Mandic/NNP said/VBD "He's/NN had/VBD scans/VBZ which/WDT don't/NN show/NN anything/NN substantial./NN
+"But/NN despite/IN his/PRP$ best/JJS efforts/NNS at/IN the/DT moment/NN he/PRP simply/RB can't/VBP shake/NN off/RP the/DT discomfort/NN and/CC get/VB back/RB on/IN the/DT park."/NN
+
+Mandic/NNP continued/VBD in/IN the/DT Sydney/NNP Morning/NN Herald/NNP "Harry's/NN struggling/VBG a/DT bit/NN but/CC the/DT club/NN are/VBP doing/VBG everything/NN they/PRP can/MD to/TO get/VB him/PRP right./VB
+"Harry/NN was/VBD desperate/JJ to/TO be/VB fit/VBN for/IN the/DT Fulham/NNP game/NN as/IN part/NN of/IN his/PRP$ plan/NN to/TO play/VB himself/PRP in/IN for/IN the/DT Leverkusen/NNP match."/NN Kewell/NNP has/VBZ not/RB played/VBN since/IN December/NNP 19/CD and/CC misses/VBZ out/RP on/IN international/JJ duty/NN this/DT week/NN with/IN Australia/NNP facing/VBG South/NNP Africa/NNP in/IN Durban/NNP on/IN Wednesday./NNP

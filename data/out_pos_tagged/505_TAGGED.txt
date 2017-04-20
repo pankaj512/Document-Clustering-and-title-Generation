@@ -1,0 +1,17 @@
+China/NNP now/RB top/JJ trader/NN with/IN Japan/NNP
+
+China/NNP overtook/NN the/DT US/PRP to/TO become/VB Japan's/NNP biggest/JJS trading/NN partner/NN in/IN 2004/CD according/VBG to/TO numbers/NNS released/VBN by/IN Japan's/NNP Finance/NNP Ministry/NNP on/IN Wednesday./NNP
+
+China/NNP accounted/VBD for/IN 20.1%/CD of/IN Japan's/NNP trade/NN in/IN 2004/CD compared/VBN with/IN 18.6%/CD for/IN the/DT US./NNP
+In/IN 2003/CD the/DT US/PRP was/VBD ahead/RB with/IN 20.5%/CD and/CC China/NNP came/VBD second/JJ with/IN 19.2%./CD
+The/DT change/NN highlights/VBZ China's/NNP growing/VBG importance/NN as/IN an/DT economic/JJ powerhouse./NN
+In/IN 2004/CD Japan's/NNP imports/NNS from/IN and/CC exports/NNS to/TO China/NNP (and/NN Hong/NNP Kong)/NNP added/VBD up/IN to/TO 22201bn/CD yen/NNS ($214.6bn£114.5bn)./CD
+This/DT is/VBZ the/DT highest/JJS figure/NN for/IN Japanese/JJ trade/NN with/IN China/NNP since/IN records/NNS began/VBD in/IN 1947./CD
+It/PRP compares/VBZ with/IN 20479.5bn/CD yen/NNS in/IN trade/NN with/IN the/DT US./NNP
+
+Trade/NNP with/IN the/DT US/PRP during/IN 2004/CD was/VBD hurt/VBN by/IN one-off/JJ factors/NNS including/VBG a/DT 13-month/JJ ban/NN on/IN US/PRP beef/VBP imports/NNS following/VBG the/DT discovery/NN of/IN a/DT cow/NN infected/JJ with/IN mad/JJ cow/NN disease/NN (BSE)/NN in/IN the/DT US./NNP
+However/RB economists/NNS predict/VBP China/NNP will/MD become/VB an/DT even/RB more/RBR important/JJ Japanese/JJ trading/NN partner/NN in/IN the/DT coming/VBG years./NN
+On/IN Tuesday/NNP figures/NNS showed/VBD China's/NNP economy/NN grew/VBN by/IN 9.5%/CD in/IN 2004/CD and/CC experts/NNS say/VBP the/DT overall/JJ growth/NN picture/NN remains/VBZ strong./NN
+Analysts/NNS see/VBP two/CD spurs/VBZ to/TO future/JJ growth/NN as/IN being/VBG China's/NNP membership/NN of/IN the/DT World/NNP Trade/NNP Organisation/NNP and/CC lower/JJR trade/NN tariffs./NN
+During/IN 2004/CD Japan's/NNP trade/NN surplus/NN grew/VBD 17.9%/CD to/TO 12.011/CD trillion/CD yen/NNS with/IN more/JJR than/IN half/PDT the/DT surplus/NN 6.962/CD trillion/CD yen/NNS accounted/VBD for/IN by/IN its/PRP$ trade/NN with/IN the/DT US./NNP
+In/IN December/NNP the/DT surplus/NN grew/VBD 1.8%/CD on/IN a/DT year/NN ago/RB to/TO 1.14/CD trillion/CD yen/NNS thanks/NNS to/TO stronger-than-expected/JJ exports./NN

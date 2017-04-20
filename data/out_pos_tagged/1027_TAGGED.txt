@@ -1,0 +1,16 @@
+Peace/NN demo/NN appeal/NN rejected/VBD
+
+Peace/NN protestors/NNS have/VBP lost/VBN a/DT landmark/NN appeal/NN over/IN police/NN actions/NNS in/IN stopping/VBG an/DT anti-war/JJ demonstration/NN days/NNS after/IN the/DT start/NN of/IN the/DT Iraq/NNP war./NN
+
+They/PRP had/VBD appealed/VBN against/IN a/DT High/NNP Court/NNP decision/NN that/IN it/PRP was/VBD not/RB unlawful/JJ for/IN police/NN to/TO forcibly/RB turn/VB protestors/NNS away/RB near/IN RAF/NNP Fairford/NNP Glos/NNP in/IN 2003./CD
+The/DT police/NNS had/VBD also/RB sought/VBD to/TO overturn/VB a/DT breach/NN of/IN human/JJ rights/NNS ruling/NN arising/VBG from/IN the/DT same/JJ case./NN
+Sitting/VBG on/IN Wednesday/NNP three/CD Appeal/NN Court/NNP judges/NNS dismissed/VBD both/DT appeals./NN
+They/PRP were/VBD challenging/VBG decisions/NNS by/IN two/CD judges/NNS in/IN the/DT High/NNP Court/NNP in/IN February/NNP this/DT year./NN
+It/PRP followed/VBD action/NN by/IN police/NN when/WRB three/CD coachloads/NNS of/IN people/NNS were/VBD searched/VBN and/CC detained/VBD on/IN the/DT way/NN to/TO RAF/NNP Fairford/NNP and/CC forced/VBN to/TO return/VB to/TO London/NNP under/IN police/NN escort./NN
+The/DT demonstrators/NNS appealed/VBD against/IN a/DT finding/NN by/IN Lord/NNP Justice/NNP May/NNP and/CC Mr/NNP Justice/NNP Harrison/NNP that/IN it/PRP was/VBD not/RB unlawful/JJ for/IN the/DT police/NN to/TO turn/VB the/DT passengers/NNS away./NN
+
+The/DT police/NNS were/VBD urging/VBG Lord/NNP Chief/NNP Justice/NNP and/CC Lord/NNP Justices/NNS Clarke/NNP and/CC Rix/NNP to/TO overturn/VB the/DT ruling/NN that/IN they/PRP had/VBD breached/VBN the/DT protestors'/NN human/JJ rights/NNS by/IN detaining/VBG them/PRP in/IN the/DT coaches./NN
+Craig/NNP Mackey/NNP assistant/NN chief/NN constable/NN of/IN Gloucestershire/NNP Police/NNP said/VBD "We/NN have/VBP always/RB considered/VBN that/IN our/PRP$ responses/NNS were/VBD proportionate/NN and/CC all/DT our/PRP$ decisions/NNS on/IN the/DT day/NN were/VBD based/VBN on/IN intelligence."/NN He/PRP said/VBD no/DT one/NN on/IN the/DT coaches/NNS accepted/VBD responsibility/NN for/IN items/NNS found/VBD on/IN the/DT coaches/NNS including/VBG body/NN armour/NN a/DT smoke/NN bomb/NN and/CC five/CD shields./NN
+"Given/NN these/DT circumstances/NNS and/CC the/DT fact/NN that/IN RAF/NNP Fairford/NNP and/CC other/JJ military/JJ installations/NNS in/IN the/DT UK/NNP had/VBD been/VBN the/DT scene/NN of/IN increasingly/RB destructive/JJ disorder/NN in/IN the/DT weeks/NNS preceding/VBG this/DT incident/NN the/DT police/NN commander/NN on/IN the/DT ground/NN made/VBD the/DT decision/NN to/TO turn/VB back/RP the/DT coaches./NN
+"From/NN day/NN one/CD we/PRP have/VBP vigorously/RB defended/VBN this/DT decision/NN which/WDT was/VBD made/VBN out/IN of/IN a/DT genuine/JJ concern/NN that/IN if/IN the/DT coaches/NNS were/VBD allowed/VBN to/TO proceed/VB it/PRP would/MD have/VB resulted/VBN in/IN disorder/NN and/CC criminal/JJ damage/NN at/IN RAF/NNP Fairford."/NNP Fairford/NNP Coach/VB Action/NNP representing/VBG more/JJR than/IN 80/CD people/NNS who/WP appealed/VBD against/IN the/DT police/NN actions/NNS say/VBP they/PRP are/VBP prepared/VBN to/TO take/VB their/PRP$ case/NN to/TO the/DT European/NNP Court/NNP of/IN Human/NNP Rights./NNP
+Their/PRP$ action/NN is/VBZ supported/VBN by/IN Amnesty/NNP International/NNP and/CC Liberty./NNP

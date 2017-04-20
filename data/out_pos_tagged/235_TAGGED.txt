@@ -1,0 +1,13 @@
+Pension/NNP hitch/NN for/IN long-living/JJ men/NNS
+
+Male/JJ life/NN expectancy/NN is/VBZ much/RB higher/JJR than/IN originally/RB estimated/VBN leading/VBG pension/NN researchers/NNS have/VBP said./NN
+
+The/DT Pensions/NNS Policy/NNP Institute/NNP (PPI)/NN said/VBD life/NN expectancy/NN for/IN unskilled/VBN and/CC professional/JJ men/NNS has/VBZ been/VBN understated./NN
+Life/NNP expectancy/NN at/IN birth/NN is/VBZ 71/CD years/NNS for/IN a/DT manual/JJ worker/NN and/CC 79/CD years/NNS for/IN a/DT professional/JJ -/: a/DT gap/NN of/IN eight/CD years./NN
+But/CC if/IN measured/VBN at/IN age/NN 65/CD instead/RB the/DT PPI/NNP said/VBD a/DT manual/JJ worker/NN will/MD live/VB to/TO 81/CD years/NNS and/CC a/DT professional/JJ worker/NN to/TO 86/CD years/NNS -/: a/DT gap/NN of/IN just/RB five/CD years./NN
+The/DT PPI's/NNP estimate/NN is/VBZ higher/JJR because/IN it/PRP excludes/VBZ people/NNS who/WP have/VBP died/VBN before/IN they/PRP reach/VBP 65/CD years/NNS of/IN age/NN and/CC also/RB takes/VBZ into/IN account/NN ongoing/JJ improvements/NNS in/IN life/NN expectancy./NN
+
+The/DT government/NN has/VBZ ruled/VBN out/RP raising/VBG the/DT state/NN pension/NN age/NN because/IN it/PRP says/VBZ it/PRP would/MD penalise/VB lower-skilled/JJ workers/NNS who/WP generally/RB have/VBP lower/JJR life/NN expectancies./NN
+Chris/NNP Curry/NNP PPI/NNP research/NN director/NN said/VBD its/PRP$ calculations/NNS suggested/VBD there/EX could/MD be/VB more/JJR pressure/NN on/IN state/NN pension/NN spending/NN than/IN originally/RB envisaged./NN
+"Even/NN people/NNS in/IN social/JJ class/NN V/NNP [unskilled/VBD manual/JJ workers]/NN who/WP are/VBP widely/RB likely/JJ to/TO have/VB the/DT lowest/JJS life/NN expectancy/NN can/MD still/RB expect/VB to/TO live/VB 16/CD years/NNS after/IN state/NN pension/NN age"/NN he/PRP said./VB
+Researchers/NNS have/VBP not/RB updated/VBN life/NN expectancy/NN projections/NNS for/IN women/NNS who/WP on/IN average/NN live/NN longer/RBR than/IN men./NN

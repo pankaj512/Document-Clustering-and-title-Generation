@@ -1,0 +1,49 @@
+Solutions/NNS to/TO net/JJ security/NN fears/NNS
+
+Fake/JJ bank/NN e-mails/NNS or/CC phishing/VBG and/CC stories/NNS about/IN ID/NNP theft/NN are/VBP damaging/JJ the/DT potential/NN of/IN using/VBG the/DT net/NN for/IN online/NN commerce/NN say/VBP e-business/NN experts./NN
+
+Trust/NNP in/IN online/NN security/NN is/VBZ falling/VBG as/IN a/DT result./NN
+Almost/RB 70%/CD of/IN those/DT asked/VBD in/IN a/DT poll/NN said/VBD that/IN net/JJ firms/NNS are/VBP not/RB doing/VBG enough/RB to/TO protect/VB people./NN
+The/DT survey/NN of/IN more/JJR than/IN 1000/CD people/NNS reported/VBD that/IN 43%/CD were/VBD not/RB willing/JJ to/TO hand/VB over/IN personal/JJ information/NN online./NN
+It/PRP is/VBZ worrying/VBG for/IN shopaholics/NNS and/CC firms/NNS who/WP want/VBP to/TO exploit/VB the/DT net./NN
+More/JJR people/NNS are/VBP becoming/VBG aware/JJ of/IN online/NN security/NN issues/NNS but/CC they/PRP have/VBP little/JJ confidence/NN that/IN companies/NNS are/VBP doing/VBG enough/RB to/TO counter/VB the/DT threats/NNS said/VBD security/NN firm/NN RSA/NNP which/WDT carried/VBD out/RP the/DT poll./NN
+An/DT estimated/VBN 12/CD million/CD Britons/NNP now/RB use/VB the/DT net/NN as/IN a/DT way/NN of/IN managing/VBG their/PRP$ financial/JJ affairs./NN
+Security/NN experts/NNS say/VBP that/WDT scare/NN stories/NNS and/CC the/DT vulnerabilities/NNS dogging/VBG e-commerce/JJ and/CC e-banking/JJ are/VBP being/VBG taken/VBN seriously/RB -/: by/IN banks/NNS in/IN particular./NN
+
+"I/NN don't/NN think/VBP the/DT threat/NN is/VBZ overplayed"/NN Barry/NNP Beal/NNP global/JJ security/NN manager/NN for/IN Capgemini/NNP told/VBD the/DT BBC/NNP News/NNP website./NN
+He/PRP added/VBD "The/NN challenge/NN for/IN banks/NNS is/VBZ to/TO provide/VB the/DT customer/NN with/IN something/NN that/WDT improves/VBZ security/NN but/CC balances/VBZ that/IN with/IN usability."/NN Ensuring/VBG extra/JJ security/NN measures/NNS are/VBP in/IN place/NN protects/VBZ them/PRP too/RB as/RB well/RB as/IN the/DT individual/JJ and/CC it/PRP is/VBZ up/IN to/TO both/DT parties/NNS to/TO make/VB sure/JJ they/PRP do/VBP what/WP is/VBZ necessary/JJ to/TO prevent/VB fraud/NN he/PRP said./VB
+"Card/NN issuers/NNS will/MD keep/VB us/PRP informed/VBD of/IN types/NNS of/IN attacks/NNS and/CC what/WP procedure/NN to/TO take/VB to/TO protect/VB ourselves./NN
+If/IN we/PRP do/VBP that/DT they/PRP will/MD indemnify/VB us"/NN he/PRP said./VB
+Many/JJ believe/VBP using/VBG login/NN details/NNS like/IN usernames/NNS and/CC passwords/NNS are/VBP simply/RB not/RB good/JJ enough/RB anymore/RB though./NN
+One/CD of/IN the/DT biggest/JJS challenges/NNS to/TO improving/VBG security/NN online/NN is/VBZ how/WRB to/TO authenticate/VB an/DT individual's/NNS identity./NN
+Several/JJ security/NN companies/NNS have/VBP developed/VBN methods/NNS which/WDT complement/VBP or/CC replace/VB passwords/NNS which/WDT are/VBP easily/RB compromised/VBN and/CC easy/JJ to/TO forget./VB
+Last/JJ year/NN a/DT street/NN survey/NN found/VBD that/IN more/JJR than/IN 70%/CD of/IN people/NNS would/MD reveal/VB their/PRP$ password/NN for/IN a/DT bar/NN of/IN chocolate./NN
+
+On/IN average/JJ people/NNS have/VBP to/TO remember/VB four/CD different/JJ passwords./NN
+Some/DT resort/NN to/TO using/VBG the/DT same/JJ one/CD for/IN all/DT their/PRP$ online/NN accounts./NN
+Those/DT who/WP use/VBP several/JJ passwords/NNS often/RB write/VBP them/PRP down/RP and/CC hide/VB them/PRP in/IN a/DT desk/NN or/CC in/IN a/DT document/NN on/IN their/PRP$ computer./NN
+In/IN a/DT separate/JJ survey/NN by/IN RSA/NNP 80%/CD said/VBD they/PRP were/VBD fed/VBN up/RP with/IN passwords/NNS and/CC would/MD like/VB a/DT better/JJR way/NN to/TO login/VB to/TO work/VB computer/NN systems./NN
+For/IN many/JJ the/DT ideal/NN is/VBZ a/DT single/JJ online/NN identity/NN that/WDT can/MD be/VB validated/VBN once/RB with/IN a/DT series/NN of/IN passwords/NNS and/CC questions/NNS or/CC some/DT biometric/JJ measurement/NN like/IN a/DT fingerprint/NN or/CC iris/NNS scan/VBP with/IN a/DT token/NN like/IN a/DT smartcard./NN
+
+Activcard/NNP is/VBZ just/RB one/CD of/IN the/DT many/JJ companies/NNS like/IN RSA/NNP Security/NNP which/WDT has/VBZ been/VBN trying/VBG to/TO come/VB up/RP with/IN just/RB that./NN
+RSA/NNP has/VBZ a/DT deal/NN with/IN internet/JJ provider/NN AOL/NNP that/WDT lets/VBZ people/NNS pay/VBP monthly/JJ for/IN a/DT one-time/JJ passcode/NN generation/NN service./NN
+Users/NNS get/VBP a/DT physical/JJ token/JJ which/WDT automatically/RB generates/VBZ a/DT code/NN which/WDT stays/VBZ active/JJ for/IN 60/CD seconds./NN
+Many/JJ companies/NNS use/VBP a/DT token-based/JJ method/NN already/RB for/IN employees/NNS to/TO access/VB networks/NNS securely/RB already./VBP
+Activcard's/NNP method/NN is/VBZ more/JJR complex./NN
+It/PRP is/VBZ currently/RB trailing/VBG its/PRP$ one-time/JJ passcode/NN generation/NN technology/NN with/IN UK/NNP banks./NN
+Steve/NNP Ash/NNP from/IN Activcard/NNP told/VBD the/DT BBC/NNP News/NNP website/NN there/EX are/VBP two/CD parts/NNS to/TO the/DT process/NN of/IN identification./NN
+The/DT most/RBS difficult/JJ is/VBZ to/TO ascertain/VB whether/IN an/DT individual/JJ is/VBZ who/WP they/PRP say/VBP they/PRP are/VBP when/WRB they/PRP are/VBP online./NN
+
+"The/NN end/NN solution/NN is/VBZ to/TO provide/VB a/DT method/NN where/WRB you/PRP combine/VBP something/NN the/DT user/NN knows/VBZ with/IN something/NN they/PRP have/VBP and/CC present/JJ those/DT both."/NN The/DT method/NN it/PRP has/VBZ developed/VBN makes/VBZ use/NN of/IN the/DT chip/NN embedded/VBN in/IN bank/NN cards/NNS and/CC a/DT special/JJ card/NN reader/NN which/WDT can/MD generate/VB unique/JJ codes/NNS that/WDT are/VBP active/JJ for/IN a/DT specified/VBN amount/NN of/IN time./NN
+This/DT can/MD be/VB adjusted/VBN at/IN any/DT time/NN and/CC can/MD be/VB active/JJ for/IN as/RB little/JJ as/IN 30/CD seconds/NNS before/IN it/PRP changes./NN
+It/PRP combines/VBZ that/IN with/IN usual/JJ usernames/NNS and/CC passwords/NNS as/RB well/RB as/IN other/JJ security/NN questions./NN
+"You/NN take/VBP the/DT card/NN put/VBD it/PRP in/IN the/DT reader/NN enter/NN your/PRP$ pin/NN number/NN and/CC a/DT code/NN is/VBZ given./NN
+"If/NN you/PRP wanted/VBD then/RB to/TO transfer/VB funds/NNS for/IN instance/NN you/PRP would/MD have/VB to/TO have/VB the/DT code/NN to/TO authorise/VB the/DT transaction."/NN The/DT clever/JJ bit/NN happens/VBZ back/RB at/IN the/DT bank's/NNS secure/VBP servers./NN
+The/DT code/NN is/VBZ validated/VBN by/IN the/DT bank's/NNS systems/NNS matching/VBG the/DT information/NN they/PRP expect/VBP with/IN the/DT customer's/NNS unique/JJ key./NN
+"Each/NN individual/JJ gets/VBZ a/DT key/JJ which/WDT is/VBZ unique/JJ to/TO them./VB
+It/PRP is/VBZ a/DT 2048-bit/JJ long/JJ number/NN that/WDT is/VBZ virtually/RB impossible/JJ to/TO crack"/VB said/VBD Mr/NNP Ash./NNP
+It/PRP means/VBZ that/IN in/IN a/DT typical/JJ security/NN attack/NN explains/VBZ Mr/NNP Ash/NNP even/RB if/IN password/NN information/NN is/VBZ captured/VBN by/IN a/DT scammer/NN using/VBG keystroke/NN software/NN or/CC just/RB through/IN spoof/NN websites/NNS they/PRP need/VBP the/DT passcode./NN
+"By/NN the/DT time/NN they/PRP go/VBP back/RB [to/NN use/NN the/DT information]/NN the/DT code/NN has/VBZ expired/VBN so/IN they/PRP can't/VBP prove/NN who/WP they/PRP are"/VBP according/VBG to/TO Mr/NNP Ash./NNP
+In/IN the/DT next/JJ few/JJ years/NNS Mr/NNP Ash/NNP predicts/VBZ that/IN this/DT kind/NN of/IN method/NN will/MD be/VB commonplace/JJ before/IN we/PRP see/VBP biometric/JJ authentication/NN that/WDT is/VBZ acceptable/JJ for/IN widespread/JJ use./NN
+"PCs/NN will/MD have/VB readers/NNS built/VBN into/IN them/PRP the/DT cost/NN of/IN readers/NNS will/MD be/VB very/RB cheap/JJ and/CC more/JJR people/NNS will/MD have/VB the/DT cards."/NN The/DT gadgets/NNS we/PRP carry/VBP around/IN like/IN personal/JJ digital/JJ assistants/NNS (PDAs)/NN and/CC mobiles/NNS could/MD also/RB have/VB integrated/VBN card/NN reader/NN technology/NN in/IN them./NN
+"The/NNP PDA/NNP or/CC phone/NN method/NN is/VBZ a/DT possible/JJ alternative/NN as/IN people/NNS are/VBP always/RB carrying/VBG phones/NNS around"/VBP he/PRP said./VB

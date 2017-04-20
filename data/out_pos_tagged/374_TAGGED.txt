@@ -1,0 +1,19 @@
+Dollar/NN hovers/NNS around/IN record/NN lows/NNS
+
+The/DT US/PRP dollar/VBP hovered/VBD close/RB to/TO record/VB lows/NNS against/IN the/DT euro/NN on/IN Friday/NNP as/IN concern/NN grows/VBZ about/IN the/DT size/NN of/IN the/DT US/PRP budget/VBP deficit./NN
+
+Analysts/NNS predict/VBP that/IN the/DT dollar/NN will/MD remain/VB weak/JJ in/IN 2005/CD as/IN investors/NNS worry/VBP about/IN the/DT state/NN of/IN the/DT US/PRP economy./VBP
+The/DT Bush/NNP administration's/NNS apparent/JJ unwillingness/NN to/TO intervene/VB to/TO support/VB the/DT dollar/NN has/VBZ caused/VBN further/JJ concern./NN
+However/RB trading/NN has/VBZ been/VBN volatile/JJ over/IN the/DT past/JJ week/NN because/IN of/IN technical/JJ and/CC automated/JJ trading/NN and/CC light/JJ demand./NN
+This/DT has/VBZ amplified/VBN reactions/NNS to/TO news/VB analysts/NNS said/VBD adding/VBG that/IN they/PRP expect/VBP markets/NNS to/TO become/VB less/RBR jumpy/JJ in/IN January./NNP
+
+The/DT dollar/NN was/VBD trading/VBG at/IN $1.3652/CD versus/CC the/DT euro/NN on/IN Friday/NNP morning/NN after/IN hitting/VBG a/DT fresh/JJ record/NN low/JJ of/IN $1.3667/CD on/IN Thursday./NNP
+One/CD dollar/NN bought/VBD 102.55/CD yen./NN
+
+Disappointing/JJ business/NN figures/NNS from/IN Chicago/NNP triggered/VBD the/DT US/PRP currency's/VBZ weakness/NN on/IN Thursday./NNP
+The/DT National/NNP Association/NNP of/IN Purchasing/NNP Management-Chicago/NNP said/VBD its/PRP$ manufacturing/NN index/NN dropped/VBD to/TO 61.2/CD a/DT bigger/JJR fall/NN than/IN expected./NN
+"There/NN are/VBP no/DT dollar/NN buyers/NNS now/RB especially/RB after/IN the/DT Chicago/NNP data/NNS yesterday"/NN said/VBD ABN/NNP Amro's/NNP Paul/NNP Mackel./NNP
+At/IN the/DT same/JJ time/NN German/JJ Chancellor/NNP Gerhard/NNP Schroeder/NNP and/CC Italian/JJ Prime/NNP Minister/NNP Silvio/NNP Berlusconi/NNP voiced/VBD concerns/NNS about/IN the/DT strength/NN of/IN the/DT euro./NN
+Mr/NNP Berlusconi/NNP said/VBD the/DT euro's/NNS strength/NN was/VBD "absolutely/RB worrying"/NN for/IN Italian/JJ exports./NN
+Mr/NNP Schroeder/NNP said/VBD in/IN a/DT newspaper/NN article/NN that/DT stability/NN in/IN foreign/JJ exchange/NN markets/NNS required/VBD a/DT correction/NN of/IN global/JJ economic/JJ imbalances./NN
+Investors/NNS will/MD now/RB look/VB towards/IN February's/NNP meeting/NN of/IN finance/NN ministers/NNS from/IN the/DT G7/CD industrialised/VBN nations/NNS in/IN London/NNP for/IN clues/NNS as/IN to/TO whether/IN central/JJ banks/NNS will/MD combine/VB forces/NNS to/TO stem/VB the/DT dollar's/NNS decline./NN

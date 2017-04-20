@@ -1,0 +1,21 @@
+US/PRP duo/VBP in/IN first/JJ spam/NN conviction/NN
+
+A/DT brother/NN and/CC sister/NN in/IN the/DT US/PRP have/VBP been/VBN convicted/VBN of/IN sending/VBG hundreds/NNS of/IN thousands/NNS of/IN unsolicited/JJ e-mail/JJ messages/NNS to/TO AOL/NNP subscribers./NN
+
+It/PRP is/VBZ the/DT first/JJ criminal/JJ prosecution/NN of/IN internet/JJ spam/NN distributors./JJ
+Jurors/NNP in/IN Virginia/NNP recommended/VBD that/IN the/DT man/NN Jeremy/NNP Jaynes/NNP serve/VB nine/CD years/NNS in/IN prison/NN and/CC that/IN his/PRP$ sister/NN Jessica/NNP DeGroot/NNP be/VB fined/VBN $7500./CD
+They/PRP were/VBD convicted/VBN under/IN a/DT state/NN law/NN that/WDT bars/VBZ the/DT sending/NN of/IN bulk/NN e-mails/NNS using/VBG fake/JJ addresses./NN
+
+They/PRP will/MD be/VB formally/RB sentenced/VBN next/JJ year./NN
+A/DT third/JJ defendant/NN Richard/NNP Rutkowski/NNP was/VBD acquitted./NN
+Prosecutors/NNS said/VBD Jaynes/NNP was/VBD "a/NN snake/NN oil/NN salesman/NN in/IN a/DT new/JJ format"/NN using/VBG the/DT internet/JJ to/TO peddle/VB useless/JJ wares/NNS news/NN agency/NN Associated/NNP Press/NNP reported./NN
+A/DT "Fed-Ex/JJ refund/NN processor"/NN was/VBD supposed/VBN to/TO allow/VB people/NNS to/TO earn/VB $75/CD an/DT hour/NN working/VBG from/IN home./NN
+Another/DT item/NN on/IN sale/NN was/VBD an/DT "internet/NN history/NN eraser"./NN
+His/PRP$ sister/NN helped/VBD him/PRP process/VB credit/NN card/NN payments./NN
+Jaynes/NNP amassed/VBD a/DT fortune/NN of/IN $24m/CD from/IN his/PRP$ sales/NNS prosecutors/NNS said./NN
+"He's/NN been/VBD successful/JJ ripping/NN people/NNS off/IN all/PDT these/DT years"/NN AP/NNP quoted/VBD prosecutor/NN Russell/NNP McGuire/NNP as/IN saying./NN
+Jaynes/NNP was/VBD also/RB found/VBN guilty/JJ of/IN breaking/VBG a/DT state/NN law/NN which/WDT prohibits/VBZ the/DT sending/NN of/IN more/JJR than/IN 100000/CD e-mails/NNS in/IN 30/CD days/NNS Virginia/NNP State/NNP Attorney/NNP General/NNP Jerry/NNP Kilgore/NNP reportedly/RB said./NN
+Prosecutors/NNS had/VBD asked/VBN for/IN 15/CD years/NNS in/IN jail/NN for/IN Jaynes/NNP and/CC a/DT jail/NN term/NN for/IN his/PRP$ sister./NN
+But/CC Jaynes'/NNP lawyer/NN David/NNP Oblon/NNP called/VBD the/DT nine-year/NN recommended/VBD term/NN "outrageous"/NN and/CC said/VBD his/PRP$ client/NN believed/VBD he/PRP was/VBD innocent./NN
+He/PRP pointed/VBD out/RP that/IN all/DT three/CD of/IN the/DT accused/VBN lived/VBD in/IN North/NNP Carolina/NNP and/CC were/VBD unaware/JJ of/IN the/DT Virginia/NNP state/NN law./NN
+Spam/NN messages/NNS are/VBP estimated/VBN to/TO account/VB for/IN at/IN least/JJS 60%/CD of/IN all/DT e-mails/NNS sent./NN

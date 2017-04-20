@@ -1,0 +1,14 @@
+Slowdown/NN hits/NNS US/PRP factory/VBP growth/NN
+
+US/PRP industrial/VBD production/NN increased/VBD for/IN the/DT 21st/JJ month/NN in/IN a/DT row/NN in/IN February/NNP but/CC at/IN a/DT slower/JJR pace/NN than/IN in/IN January/NNP official/JJ figures/NNS show./NN
+
+The/DT Institute/NNP for/IN Supply/NNP Management/NNP (ISM)/NN index/NN fell/VBD to/TO 55.3/CD in/IN February/NNP from/IN an/DT adjusted/VBN 56.4/CD in/IN January./NNP
+Although/IN the/DT index/NN was/VBD lower/JJR than/IN in/IN January/NNP the/DT fact/NN that/IN it/PRP held/VBD above/IN 50/CD shows/VBZ continued/VBN growth/NN in/IN the/DT sector./NN
+"February/NN was/VBD another/DT good/JJ month/NN in/IN the/DT manufacturing/NN sector"/NN said/VBD ISM/NNP survey/NN chairman/NN Norbert/NNP Ore./NNP
+
+"While/NN the/DT overall/JJ rate/NN of/IN growth/NN is/VBZ slowing/VBG the/DT overall/JJ picture/NN is/VBZ improving/VBG as/IN price/NN increases/NNS and/CC shortages/NNS are/VBP becoming/VBG less/JJR of/IN a/DT problem./NN
+Exports/NNS and/CC imports/NNS remain/VBP strong"/NN he/PRP said./VB
+Analysts/NNS had/VBD expected/VBN February's/NNP figure/NN to/TO be/VB stronger/JJR than/IN January's/NNP and/CC come/VB in/IN at/IN 57./CD
+Of/IN the/DT 20/CD manufacturing/NN sectors/NNS surveyed/VBN by/IN ISM/NNP 13/CD reported/VBD growth./NN
+They/PRP included/VBD the/DT textiles/NNS apparel/NN tobacco/NN chemicals/NNS and/CC transportation/NN sectors./NN
+The/DT ISM's/NNP index/NN of/IN national/JJ manufacturing/NN activity/NN is/VBZ compiled/VBN from/IN the/DT responses/NNS of/IN purchasing/VBG executives/NNS at/IN more/JJR than/IN 400/CD industrial/JJ companies./NN

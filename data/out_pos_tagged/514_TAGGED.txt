@@ -1,0 +1,15 @@
+Richard/NNP and/CC Judy/NNP choose/VBP top/JJ books/NNS
+
+The/DT 10/CD authors/NNS shortlisted/VBN for/IN a/DT Richard/NNP and/CC Judy/NNP book/NN award/NN in/IN 2005/CD are/VBP hoping/VBG for/IN a/DT boost/NN in/IN sales/NNS following/VBG the/DT success/NN of/IN this/DT year's/NNS winner./NN
+
+The/DT TV/NN couple's/NNS interest/NN in/IN the/DT book/NN world/NN coined/VBD the/DT term/NN "the/NN Richard/NNP &/CC Judy/NNP effect"/NN and/CC created/VBD the/DT top/JJ two/CD best-selling/JJS paperbacks/NNS of/IN 2004/CD so/RB far./NN
+The/DT finalists/NNS for/IN 2005/CD include/VBP Andrew/NNP Taylor's/NNP The/DT American/NNP Boy/NNP and/CC Robbie/NNP Williams'/NNP autobiography/NN Feel./NNP
+This/DT year's/VBZ winner/NN Alice/NNP Sebold's/NNP The/DT Lovely/JJ Bones/NNS sold/VBN over/IN one/CD million./NN
+Joseph/NNP O'Connor's/NNP Star/NNP of/IN the/DT Sea/NNP came/VBD second/JJ and/CC saw/VBD sales/NNS increase/NN by/IN 350%./CD
+The/DT best/JJS read/VB award/NN on/IN Richard/NNP Madeley/NNP and/CC Judy/NNP Finnigan's/NNP Channel/NNP 4/CD show/NN is/VBZ part/NN of/IN the/DT British/NNP Book/NNP Awards./NNP
+David/NNP Mitchell's/NNP Booker-shortlisted/NNP novel/NN Cloud/NN Atlas/NNP makes/VBZ it/PRP into/IN this/DT year's/NNS top/JJ 10/CD along/IN with/IN several/JJ lesser/RBR known/VBN works./NN
+
+"There's/NN no/DT doubt/NN that/IN this/DT year's/NNS selection/NN of/IN book/NN club/NN entries/NNS is/VBZ the/DT best/JJS yet./NN
+If/IN anything/NN the/DT choice/NN is/VBZ even/RB wider/JJR than/IN last/JJ time"/NN said/VBD Madeley./NNP
+"It/NN was/VBD very/RB hard/JJ to/TO follow/VB last/JJ year's/NNS extremely/RB successful/JJ list/NN but/CC we/PRP think/VBP this/DT year's/NNS books/NNS will/MD do/VB even/RB better"/NN said/VBD Richard/NNP and/CC Judy/NNP executive/NN producer/NN Amanda/NNP Ross./NNP
+"We/NN were/VBD spoiled/VBN for/IN choice/NN and/CC it/PRP was/VBD tough/JJ getting/NN down/RP to/TO only/RB 10/CD from/IN the/DT 301/CD submitted."/NN

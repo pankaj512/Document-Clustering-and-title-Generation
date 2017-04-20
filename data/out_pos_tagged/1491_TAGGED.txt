@@ -1,0 +1,15 @@
+Cole/NNP refuses/VBZ to/TO blame/VB van/NNP Persie/NNP
+
+Ashley/NNP Cole/NNP has/VBZ refused/VBN to/TO blame/VB Robin/NNP van/NNP Persie/NNP for/IN leaving/VBG Arsenal/NN with/IN no/DT fully-fit/JJ strikers/NNS for/IN the/DT FA/NNP Cup/NNP fifth/JJ round/NN replay/NN at/IN Sheffield/NNP United./NNP
+
+Van/NNP Persie/NNP is/VBZ suspended/VBN alongside/IN Dennis/NNP Bergkamp/NNP and/CC Jose/NNP Antonio/NNP Reyes/NNP after/IN being/VBG sent/VBD off/RP at/IN Southampton/NNP when/WRB Arsenal/NN had/VBD a/DT numerical/JJ advantage./NN
+Thierry/NNP Henry/NNP is/VBZ ruled/VBN out/RP with/IN an/DT Achilles/NNP tendon/NN injury/NN but/CC Cole/NNP said/VBD "No-one/JJ is/VBZ putting/VBG the/DT blame/NN on/IN Robin./NNP
+"It's/NN just/RB something/NN that/WDT happens/VBZ on/IN the/DT spur/NN of/IN the/DT moment."/NN Cole/NNP added/VBD "I've/NN done/VBD it/PRP before/IN and/CC I/PRP hope/VBP they/PRP didn't/VBP blame/VBD me/PRP for/IN anything./NN
+"Of/NN course/NN he'll/NN learn./NN
+I've/NNP been/VBN sent/VBN off/RP a/DT couple/NN of/IN times/NNS now/RB and/CC it's/NNS just/RB one/CD of/IN those/DT things/NNS when/WRB you/PRP go/VBP a/DT bit/NN crazy/JJ for/IN one/CD or/CC two/CD seconds./NN
+Freddie/NNP Ljungberg/NNP is/VBZ likely/JJ to/TO be/VB used/VBN in/IN an/DT emergency/NN striking/JJ role/NN and/CC will/MD be/VB partnered/VBN by/IN either/CC Arturo/NNP Lupoli/NNP Quincy/NNP Owusu-Abeyie/NNP or/CC Jeremie/NNP Aliadiere./NNP
+Gunners/NNS boss/NN Arsene/NNP Wenger/NNP said/VBD "Freddie/NN is/VBZ an/DT option/NN but/CC we/PRP need/VBP a/DT second/JJ striker./NN
+"I/NN have/VBP to/TO decide/VB whether/IN it/PRP will/MD be/VB Aliadiere/NNP Quincy/NNP or/CC Lupoli/NNP who/WP will/MD start/VB with/IN him/PRP up/RP front./NN
+Those/DT three/CD will/MD be/VB involved."/NN Arsenal/NN are/VBP also/RB without/IN winger/NN Robert/NNP Pires/NNP who/WP sustained/VBD an/DT ankle/NN injury/NN at/IN St/NNP Mary's./NNP
+Wenger/NNP added/VBD "It/NN doesn't/NN look/NN like/IN anything/NN is/VBZ fractured/JJ but/CC it/PRP is/VBZ a/DT good/JJ ankle/NN sprain./NN
+"It/NN does/VBZ not/RB look/VB like/IN Pires/NNP will/MD be/VB ready/JJ for/IN two/CD to/TO three/CD weeks."/NN

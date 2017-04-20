@@ -1,0 +1,38 @@
+Search/NN wars/NNS hit/VBD desktop/NN PCs/NNS
+
+Another/DT front/NN in/IN the/DT on-going/JJ battle/NN between/IN Microsoft/NNP and/CC Google/NNP is/VBZ about/IN to/TO be/VB opened./NN
+
+By/IN the/DT end/NN of/IN 2004/CD Microsoft/NNP aims/VBZ to/TO launch/VB search/NN software/NN to/TO find/VB any/DT kind/NN of/IN file/NN on/IN a/DT PC/NN hard/JJ drive./NN
+The/DT move/NN is/VBZ in/IN answer/NN to/TO Google's/NNP release/NN of/IN its/PRP$ own/JJ search/NN tool/NN that/IN catalogues/NNS data/NNS on/IN desktop/NN PCs./NNP
+The/DT desktop/NN search/NN market/NN is/VBZ becoming/VBG increasingly/RB crowded/VBN as/IN Google/NNP AOL/NNP Yahoo/NNP and/CC many/JJ smaller/JJR firms/NNS tout/VBP programs/NNS that/WDT help/NN people/NNS find/VB files./NN
+
+Microsoft/NNP made/VBD the/DT announcement/NN about/IN its/PRP$ forthcoming/JJ search/NN software/NN during/IN a/DT call/NN to/TO financial/JJ analysts/NNS to/TO talk/VB about/IN its/PRP$ first/JJ quarter/NN results./NN
+John/NNP Connors/NNP Microsoft's/NNP chief/JJ financial/JJ officer/NN said/VBD a/DT test/NN version/NN of/IN its/PRP$ desktop/NN search/NN software/NN should/MD be/VB available/JJ for/IN download/NN by/IN the/DT end/NN of/IN the/DT year./NN
+
+"We're/NN going/VBG to/TO have/VB a/DT heck/NN of/IN a/DT great/JJ race/NN in/IN search/NN between/IN Google/NNP Microsoft/NNP and/CC Yahoo"/NNP he/PRP said./VB
+"It's/NN going/VBG to/TO be/VB really/RB fun/NN to/TO follow."/VB Microsoft/NNP is/VBZ coming/VBG late/JJ to/TO the/DT desktop/NN search/NN arena/NN and/CC its/PRP$ software/NN will/MD have/VB to/TO compare/VB favourably/RB with/IN programs/NNS from/IN a/DT large/JJ number/NN of/IN rivals/NNS many/JJ of/IN which/WDT have/VBP fiercely/RB dedicated/VBN populations/NNS of/IN users./NN
+The/DT program/NN could/MD be/VB based/VBN on/IN the/DT software/NN Microsoft/NNP owns/VBZ as/IN a/DT result/NN of/IN its/PRP$ purchase/NN of/IN Lookout/NN Software/NNP in/IN early/JJ October./NNP
+On/IN 14/CD October/NNP Google/NNP released/VBD desktop/NN search/NN software/NN that/WDT catalogues/NNS all/PDT the/DT files/NNS on/IN a/DT PC/NN and/CC lets/VBZ users/NNS use/VBP one/CD tool/NN to/TO find/VB e-mail/JJ messages/NNS spreadsheets/NNS text/NN files/NNS and/CC presentations./NN
+The/DT software/NN will/MD also/RB find/VB webpages/NNS and/CC messages/NNS sent/VBD via/IN AOL/NNP Instant/JJ Messenger./NNP
+
+Many/JJ other/JJ firms/NNS have/VBP released/VBN desktop/NN search/NN systems/NNS recently/RB too./VBP
+Companies/NNS such/JJ as/IN Blinkx/NNP Copernic/NNP Enfish/NNP X1/CD Technologies/NNPS and/CC X-Friend/NNP all/DT do/VBP the/DT same/JJ job/NN of/IN cataloguing/VBG the/DT huge/JJ amounts/NNS of/IN information/NN that/IN people/NNS increasingly/RB store/VBP on/IN their/PRP$ desktop/NN or/CC home/NN computer./NN
+
+Apple/NNP has/VBZ also/RB debuted/VBN a/DT similar/JJ search/NN system/NN for/IN its/PRP$ computers/NNS called/VBD Spotlight/NN that/WDT is/VBZ due/JJ to/TO debut/NN with/IN the/DT release/NN of/IN the/DT Tiger/NNP operating/NN system./NN
+Due/JJ to/TO follow/VB are/VBP net/JJ giants/NNS AOL/NNP and/CC Yahoo./NNP
+The/DT latter/JJ recently/RB bought/VBD Stata/NNP Labs/NNPS to/TO get/VB its/PRP$ hands/NNS on/IN search/NN software/NN that/IN people/NNS can/MD use./VB
+Microsoft/NNP is/VBZ also/RB reputedly/RB working/VBG on/IN a/DT novel/NN search/NN system/NN for/IN the/DT next/JJ version/NN of/IN Windows/NNS (codenamed/VBD Longhorn)./NNP
+However/RB this/DT is/VBZ not/RB likely/JJ to/TO appear/VB until/IN 2006./CD
+"The/NN recent/JJ activity/NN in/IN the/DT search/NN industry/NN shows/VBZ that/IN there/EX is/VBZ a/DT need/NN to/TO move/VB beyond/IN simple/JJ keyword-based/JJ web/NN search"/NN said/VBD Kathy/NNP Rittweger/NNP co-founder/NN of/IN Blinkx./NNP
+"Finding/VBG information/NN of/IN our/PRP$ own/JJ computers/NNS is/VBZ becoming/VBG as/RB difficult/JJ as/IN it/PRP is/VBZ to/TO find/VB the/DT relevant/JJ webpage/NN amongst/IN the/DT billions/NNS that/DT exist."/NN
+
+Desktop/NNP search/NN has/VBZ become/VBN important/JJ for/IN several/JJ reasons./NN
+According/VBG to/TO research/NN by/IN message/NN analysts/NNS the/DT Radicati/NNP Group/NNP up/IN to/TO 45%/CD of/IN the/DT information/NN critical/JJ to/TO keeping/VBG many/JJ businesses/NNS running/VBG sits/VBZ in/IN e-mail/JJ messages/NNS and/CC attachments./NN
+JF/NNP Sullivan/NNP spokesman/NN for/IN e-mail/JJ software/NN firm/NN Sendmail/NNP said/VBD many/JJ organisations/NNS were/VBD starting/VBG to/TO realise/VB how/WRB important/JJ messaging/NN was/VBD to/TO their/PRP$ organisation/NN and/CC the/DT way/NN the/DT work./NN
+"The/NN key/JJ thing/NN is/VBZ being/VBG able/JJ to/TO manage/VB all/PDT this/DT information"/NN he/PRP said./VB
+Also/RB search/NN is/VBZ increasingly/RB key/NN to/TO the/DT way/NN that/IN people/NNS get/VBP around/IN the/DT internet./JJ
+Many/JJ people/NNS use/VBP a/DT search/NN engine/NN as/IN the/DT first/JJ page/NN they/PRP go/VBP to/TO when/WRB getting/VBG on/IN the/DT net./NN
+Many/JJ others/NNS use/VBP desktop/NN toolbars/NNS that/WDT let/VBP them/PRP search/VBP for/IN information/NN no/DT matter/NN what/WP other/JJ program/NN they/PRP are/VBP using./NN
+Having/VBG a/DT tool/NN on/IN a/DT desktop/NN can/MD be/VB a/DT lucrative/JJ way/NN to/TO control/VB where/WRB people/NNS go/VBP online./NN
+For/IN companies/NNS such/JJ as/IN Google/NNP which/WDT relies/VBZ on/IN revenue/NN from/IN adverts/NNS this/DT knowledge/NN about/IN what/WP people/NNS are/VBP looking/VBG for/IN is/VBZ worth/JJ huge/JJ amounts/NNS of/IN money./NN
+But/CC this/DT invasiveness/NN has/VBZ already/RB led/VBN some/DT to/TO ask/VB about/IN the/DT privacy/NN implications/NNS of/IN such/JJ tools./NN

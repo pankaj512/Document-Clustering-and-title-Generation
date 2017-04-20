@@ -1,0 +1,12 @@
+Insurance/NN bosses/NNS plead/VBP guilty/JJ
+
+Another/DT three/CD US/PRP insurance/VBP executives/NNS have/VBP pleaded/VBN guilty/JJ to/TO fraud/VB charges/NNS stemming/VBG from/IN an/DT ongoing/JJ investigation/NN into/IN industry/NN malpractice./NN
+
+Two/CD executives/NNS from/IN American/NNP International/NNP Group/NNP (AIG)/NN and/CC one/CD from/IN Marsh/NNP &/CC McLennan/NNP were/VBD the/DT latest./NN
+The/DT investigation/NN by/IN New/NNP York/NNP attorney/NN general/NN Eliot/NNP Spitzer/NNP has/VBZ now/RB obtained/VBN nine/CD guilty/JJ pleas./NN
+The/DT highest/JJS ranking/JJ executive/NN pleading/VBG guilty/JJ on/IN Tuesday/NNP was/VBD former/JJ Marsh/NNP senior/JJ vice/NN president/NN Joshua/NNP Bewlay./NNP
+
+He/PRP admitted/VBD one/CD felony/NN count/NN of/IN scheming/JJ to/TO defraud/VB and/CC faces/VBZ up/IN to/TO four/CD years/NNS in/IN prison./NN
+A/DT Marsh/NNP spokeswoman/NN said/VBD Mr/NNP Bewlay/NNP was/VBD no/RB longer/RBR with/IN the/DT company./NN
+Mr/NNP Spitzer's/NNP investigation/NN of/IN the/DT US/PRP insurance/VBP industry/NN looked/VBD at/IN whether/IN companies/NNS rigged/VBD bids/NNS and/CC fixed/VBN prices./NN
+Last/JJ month/NN Marsh/NNP agreed/VBD to/TO pay/VB $850m/CD (£415m)/CD to/TO settle/VB a/DT lawsuit/NN filed/VBN by/IN Mr/NNP Spitzer/NNP but/CC under/IN the/DT settlement/NN it/PRP "neither/NN admits/VBZ nor/CC denies/VBZ the/DT allegations"./NN

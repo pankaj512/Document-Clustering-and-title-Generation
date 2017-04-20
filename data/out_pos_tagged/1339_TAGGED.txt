@@ -1,0 +1,11 @@
+Collins/NN appeals/NNS against/IN drugs/NNS ban/NN
+
+Sprinter/NNP Michelle/NNP Collins/NNP has/VBZ lodged/VBN an/DT appeal/NN against/IN her/PRP$ eight-year/JJ doping/NN ban/NN with/IN the/DT North/JJ American/NNP Court/NNP of/IN Arbitration/NN for/IN Sport/NNP (CAS)./NN
+
+The/DT 33-year-old/NN received/VBD the/DT ban/NN last/JJ month/NN as/IN a/DT result/NN of/IN her/PRP$ connection/NN to/TO the/DT federal/JJ inquiry/NN into/IN the/DT Balco/NNP doping/VBG scandal./NN
+She/PRP is/VBZ the/DT first/JJ athlete/NN to/TO be/VB banned/VBN without/IN a/DT positive/JJ drugs/NNS test/NN or/CC an/DT admission/NN of/IN drugs/NNS use./NN
+CAS/NNP has/VBZ said/VBN that/IN a/DT ruling/NN is/VBZ normally/RB given/VBN within/IN four/CD months/NNS of/IN an/DT appeal./NN
+Collins/NNP was/VBD suspended/VBN by/IN the/DT US/PRP Anti-Doping/NNP Agency/NNP based/VBN on/IN patterns/NNS observed/VBD in/IN her/PRP$ blood/NN and/CC urine/NN tests/NNS as/RB well/RB as/IN evidence/NN in/IN the/DT Balco/NNP investigation./NN
+As/RB well/RB as/IN being/VBG hit/VBD with/IN the/DT ban/NN Collins/NNP was/VBD stripped/VBN of/IN her/PRP$ 2003/CD world/NN and/CC US/PRP indoor/JJ 200m/CD titles./NN
+The/DT San/NNP Francisco-based/JJ Balco/NNP laboratory/NN is/VBZ at/IN the/DT centre/NN of/IN the/DT scandal/NN which/WDT has/VBZ rocked/VBN the/DT sport./NN
+The/DT company/NN has/VBZ been/VBN accused/VBN of/IN distributing/VBG illegal/JJ performance-enhancing/JJ drugs/NNS to/TO elite/VB athletes./NN

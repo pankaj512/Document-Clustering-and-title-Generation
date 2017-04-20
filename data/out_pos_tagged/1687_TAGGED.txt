@@ -1,0 +1,15 @@
+Hong/NNP Kong/NNP in/IN 2011/CD World/NNP Cup/NNP bid/NN
+
+Hong/NNP Kong/NNP is/VBZ hoping/VBG to/TO join/VB Japan/NNP as/IN co-host/NN of/IN the/DT 2011/CD Rugby/NNP World/NNP Cup./NNP
+
+Japan/NNP has/VBZ applied/VBN to/TO host/VB the/DT tournament/NN on/IN its/PRP$ own/JJ with/IN the/DT aim/NN of/IN taking/VBG it/PRP outside/JJ rugby's/NNS traditional/JJ strongholds/NNS for/IN the/DT first/JJ time./NN
+But/CC Hong/NNP Kong/NNP Rugby/NNP Football/NNP Union/NNP (HKRFU)/NN chairman/NN John/NNP Molloy/NNP has/VBZ called/VBN for/IN the/DT territory/NN to/TO host/VB one/CD of/IN the/DT pools/NNS and/CC a/DT quarter-final./JJ
+The/DT Japanese/JJ Rugby/NNP Football/NNP Union/NNP (JRFU)/NN says/VBZ it/PRP has/VBZ yet/RB to/TO receive/VB a/DT formal/JJ presentation/NN from/IN the/DT HKRFU./NNP
+"At/NN this/DT stage/NN we/PRP are/VBP only/RB considering/VBG hosting/VBG the/DT event/NN by/IN ourselves"/NN said/VBD JRFU/NNP secretary/NN Koji/NNP Tokumasu./NNP
+"We/NN cannot/NN examine/NN any/DT proposal/NN unless/IN we/PRP get/VBP it/PRP in/IN a/DT definitive/JJ form."/NN Japan/NNP faces/VBZ stiff/JJ competition/NN in/IN the/DT form/NN of/IN South/NNP Africa/NNP and/CC New/NNP Zealand/NNP to/TO host/VB the/DT event/NN in/IN seven/CD years'/NN time./NN
+
+"Until/NN now/RB the/DT World/NNP Cup/NNP has/VBZ been/VBN held/VBN in/IN countries/NNS from/IN the/DT Six/CD Nations/NNPS or/CC Tri-Nations"/NNP said/VBD Tokumasu./NNP
+"We/NN think/VBP and/CC the/DT IRB/NNP thinks/VBZ that/IN it/PRP is/VBZ time/NN for/IN rugby/NN to/TO go/VB global./NN
+"Japan/NN is/VBZ ready/JJ to/TO host/VB the/DT tournament/NN and/CC we/PRP are/VBP looking/VBG forward/RB to/TO welcoming/VBG the/DT world/NN of/IN rugby/NN to/TO Japan."/NNP Tokumasu/NNP added/VBD that/IN the/DT 2002/CD football/NN World/NNP Cup/NNP co-hosted/JJ by/IN Japan/NNP and/CC South/NNP Korea/NNP had/VBD been/VBN a/DT huge/JJ success./NN
+"As/NN well/RB as/IN having/VBG the/DT infrastructure/NN in/IN place/NN Japan/NNP also/RB has/VBZ the/DT commercial/JJ clout/NN to/TO host/VB one/CD of/IN sport's/NNS top/JJ competitions"/NN he/PRP said./VB
+Last/JJ year/NN Japan/NNP launched/VBD its/PRP$ first/JJ professional/JJ rugby/NN league/NN and/CC it/PRP has/VBZ the/DT fourth/JJ largest/JJS number/NN of/IN registered/VBN players/NNS (125508)/CD in/IN the/DT world/NN after/IN England/NNP South/NNP Africa/NNP and/CC France./NNP

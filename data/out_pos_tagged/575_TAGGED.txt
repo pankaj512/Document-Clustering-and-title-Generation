@@ -1,0 +1,12 @@
+Animation/NN charms/NNS Japan/NNP box/NN office/NN
+
+Oscar-winning/NNP director/NN Hayao/NNP Miyazaki's/NNP latest/JJS film/NN has/VBZ set/VBN a/DT new/JJ Japanese/JJ box/NN office/NN record/NN with/IN 1.5bn/CD yen/NNS ($14.3m)/CD in/IN two/CD days/NNS according/VBG to/TO reports./NN
+
+Howl's/NNP Moving/VBG Castle/NNP is/VBZ the/DT follow-up/JJ to/TO Miyazaki's/NNP Spirited/JJ Away/RB which/WDT won/VBD best/RBS animation/NN at/IN last/JJ year's/NNS Oscars./NNP
+It/PRP is/VBZ based/VBN on/IN the/DT children's/NNS book/NN by/IN English/JJ writer/NN Diana/NNP Wynne/NNP Jones./NNP
+It/PRP has/VBZ registered/VBN the/DT highest/JJS opening/NN weekend/NN takings/NNS of/IN any/DT Japanese/JJ film/NN in/IN the/DT country/NN according/VBG to/TO trade/NN publication/NN Screen/NN Daily./NNP
+
+The/DT film/NN is/VBZ about/IN an/DT 18-year-old/JJ girl/NN who/WP is/VBZ trapped/VBN in/IN an/DT old/JJ woman's/NNS body/NN after/IN being/VBG put/VBN under/IN a/DT spell/NN by/IN a/DT witch./NN
+Its/PRP$ two-day/JJ takings/NNS represented/VBD 1.1/CD million/CD cinema/NN admissions/NNS Screen/NN Daily/NNP said./NN
+The/DT film's/NNS distributor/NN Toho/NNP expects/VBZ 40/CD million/CD people/NNS to/TO see/VB it/PRP in/IN total/JJ -/: almost/RB one/CD third/JJ of/IN the/DT country's/NNS population/NN -/: it/PRP added./NN
+The/DT film/NN won/VBD the/DT Golden/NNP Osella/NNP for/IN outstanding/JJ technical/JJ contribution/NN at/IN this/DT year's/NNS Venice/NNP Film/NNP Festival./NNP

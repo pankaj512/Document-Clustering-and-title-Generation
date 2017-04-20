@@ -1,0 +1,23 @@
+Clarke/NNP defends/VBZ terror/NN detentions/NNS
+
+The/DT home/NN secretary/NN has/VBZ defended/VBN his/PRP$ decision/NN not/RB to/TO release/VB foreign/JJ terror/NN suspects/VBZ despite/IN a/DT legal/JJ ruling/VBG their/PRP$ detention/NN breached/VBD human/JJ rights/NNS laws./NN
+
+House/NNP of/IN Lords/NNPS law/NN lords/NNS ruled/VBD against/IN the/DT detention/NN measures/NNS last/JJ week./NN
+They/PRP said/VBD it/PRP was/VBD wrong/JJ to/TO have/VB one/CD set/NN of/IN laws/NNS for/IN foreign/JJ suspects/NNS and/CC another/DT for/IN British/JJ suspects./NN
+New/NNP Home/NNP Secretary/NNP Charles/NNP Clarke/NNP said/VBD he/PRP would/MD carefully/RB consider/VB the/DT ruling/NN and/CC would/MD return/VB to/TO Parliament/NNP early/RB in/IN the/DT new/JJ year/NN with/IN proposals./NN
+
+He/PRP insisted/VBD that/IN he/PRP would/MD not/RB be/VB rushed/VBN into/IN judgement/NN but/CC would/MD examine/VB the/DT law/NN lords'/NN findings/NNS in/IN detail./NN
+"My/NN duty/NN is/VBZ to/TO look/VB at/IN first/JJ of/IN all/PDT the/DT security/NN of/IN this/DT country/NN and/CC in/IN so/RB doing/VBG to/TO consider/VB very/RB carefully/RB the/DT precise/JJ legal/JJ measures/NNS that/IN there/EX are."/NN Mr/NNP Clarke's/NNP comments/NNS came/VBD in/IN response/NN to/TO an/DT emergency/NN question/NN from/IN Liberal/NNP Democrat/NNP constitutional/JJ affairs/NNS spokesman/NN David/NNP Heath./NNP
+Mr/NNP Heath/NNP said/VBD the/DT judgement/NN contained/VBD "unprecedented/VBN condemnation/NN and/CC could/MD not/RB have/VB been/VBN more/JJR unequivocal"./NN
+He/PRP said/VBD he/PRP accepted/VBD the/DT difficult/JJ balance/NN between/IN the/DT nation's/NNS security/NN and/CC human/JJ rights/NNS but/CC questioned/VBD why/WRB the/DT home/NN office/NN had/VBD made/VBN "no/NN contingency/NN plans/NNS for/IN the/DT present/JJ circumstances"./NN
+
+"These/NN detainees/NNS should/MD be/VB prosecuted/VBN and/CC tried./NN
+Simply/RB renewing/VBG the/DT present/JJ deeply/RB unsatisfactory/NN legislation/NN is/VBZ not/RB an/DT option."/NN Shadow/NNP home/NN secretary/NN David/NNP Davis/NNP said/VBD it/PRP was/VBD not/RB possible/JJ to/TO overstate/VB the/DT importance/NN of/IN the/DT judgment/NN and/CC urged/VBD the/DT government/NN to/TO move/VB as/RB fast/RB as/IN "competently/RB possible"/NN to/TO sort/VB the/DT problem/NN out/RP in/IN the/DT interests/NNS of/IN natural/JJ justice./NN
+"If/NN you/PRP do/VBP we/PRP will/MD give/VB you/PRP every/DT support."/NN The/DT law/NN lords'/NN ruling/NN came/VBD on/IN Charles/NNP Clarke's/NNP first/JJ day/NN as/IN home/NN secretary/NN last/JJ Thursday/NNP following/VBG David/NNP Blunkett's/NNP resignation./NN
+In/IN a/DT statement/NN on/IN the/DT same/JJ day/NN Mr/NNP Clarke/NNP said/VBD "I/NN will/MD be/VB asking/VBG Parliament/NNP to/TO renew/VB this/DT legislation/NN in/IN the/DT New/NNP Year./NNP
+"In/NN the/DT meantime/NN we/PRP will/MD be/VB studying/VBG the/DT judgment/NN carefully/RB to/TO see/VB whether/IN it/PRP is/VBZ possible/JJ to/TO modify/VB our/PRP$ legislation/NN to/TO address/VB the/DT concerns/NNS raised/VBN by/IN the/DT House/NNP of/IN Lords."/NNP
+
+But/CC the/DT government/NN was/VBD widely/RB criticised/VBN for/IN insisting/VBG the/DT detentions/NNS would/MD continue/VB following/VBG the/DT ruling/NN last/JJ week./NN
+Lord/NNP Bingham/NNP -/: a/DT senior/JJ law/NN lord/NN -/: said/VBD the/DT rules/NNS were/VBD incompatible/JJ with/IN the/DT European/NNP Convention/NNP on/IN Human/NNP Rights/NNP as/IN they/PRP allowed/VBD detentions/NNS "in/VBP a/DT way/NN that/IN discriminates/NNS on/IN the/DT ground/NN of/IN nationality/NN or/CC immigration/NN status"/NN by/IN justifying/VBG detention/NN without/IN trial/NN for/IN foreign/JJ suspects/NNS but/CC not/RB Britons./NNP
+Lord/NNP Nicholls/NNP of/IN Birkenhead/NNP in/IN his/PRP$ ruling/NN said/VBD "Indefinite/NN imprisonment/NN without/IN charge/NN or/CC trial/NN is/VBZ anathema/NN in/IN any/DT country/NN which/WDT observes/VBZ the/DT rule/NN of/IN law."/NN The/DT detainees/NNS took/VBD their/PRP$ case/NN to/TO the/DT House/NNP of/IN Lords/NNPS after/IN the/DT Court/NNP of/IN Appeal/NN backed/VBD the/DT Home/NNP Office's/NNP powers/NNS to/TO hold/VB them/PRP without/IN limit/NN or/CC charge./NN
+The/DT government/NN opted/VBD out/IN of/IN part/NN of/IN the/DT European/NNP Convention/NNP on/IN Human/NNP Rights/NNP concerning/VBG the/DT right/NN to/TO a/DT fair/JJ trial/NN in/IN order/NN to/TO bring/VB in/RP anti-terrorism/JJ legislation/NN in/IN response/NN to/TO the/DT 11/CD September/NNP attacks/NNS in/IN the/DT US./NNP

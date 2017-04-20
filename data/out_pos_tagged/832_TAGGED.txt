@@ -1,0 +1,16 @@
+Pixies/NNP take/VB on/RP Reading/VBG and/CC Leeds/NNP
+
+Pixies/NNP Foo/NNP Fighters/NNS and/CC Iron/NNP Maiden/NN will/MD headline/VB this/DT summer's/NNS Leeds/NNP and/CC Reading/VBG festivals./NN
+
+The/DT trio/NN of/IN rock/NN heavyweights/NNS will/MD top/VB the/DT bill/NN for/IN the/DT three-day/JJ events/NNS at/IN Bramham/NNP Park/NNP near/IN Wetherby/NNP and/CC at/IN Richfield/NNP Avenue/NNP Reading./NNP
+They/PRP are/VBP the/DT Pixies'/NNP and/CC Iron/NNP Maiden's/NNP only/RB UK/NNP festival/NN gigs/NNS while/IN Foo/NNP Fighters/NNS are/VBP also/RB at/IN T/NNP In/IN The/DT Park./NNP
+The/DT Killers/NNS Razorlight/NNP and/CC Queens/NNP of/IN the/DT Stone/NNP Age/NNP are/VBP also/RB playing/VBG the/DT twin/JJ festivals/NNS to/TO be/VB held/VBN on/IN 26-28/JJ August./NNP
+Other/JJ acts/NNS in/IN this/DT year's/NNS line-up/JJ include/VBP The/DT Charlatans/NNS Marilyn/NNP Manson/NNP and/CC Kings/NNPS of/IN Leon./NNP
+Pete/NNP Doherty's/NNP band/NN Babyshamblers/NNP will/MD appear/VB on/IN the/DT NME/Radio/NNP One/CD stage/NN along/IN with/IN Kasabian/NNP Black/NNP Rebel/NN Motorcycle/NNP Club/NNP and/CC Bloc/NNP Party./NNP
+
+Organiser/NNP Mean/VB Fiddler/NNP said/VBD more/JJR acts/NNS were/VBD still/RB to/TO be/VB confirmed/VBN for/IN the/DT summer/NN event./NN
+"We/NN are/VBP all/DT very/RB excited/VBN to/TO be/VB going/VBG back/RB to/TO Reading/VBG and/CC intend/VBP to/TO have/VB a/DT fantastic/JJ time"/NN said/VBD Iron/NNP Maiden's/NNP Bruce/NNP Dickinson./NNP
+"We're/NN sure/JJ fans/NNS will/MD too."/VB It/PRP will/MD the/DT first/JJ time/NN the/DT veteran/NN British/JJ metal/NN band/NN have/VBP played/VBN Reading/VBG in/IN 23/CD years./NN
+At/IN Leeds/NNP Iron/NNP Maiden/NN will/MD headline/VB the/DT first/JJ day/NN of/IN the/DT festival/NN on/IN the/DT Friday/NNP Pixies/NNP will/MD follow/VB on/IN Saturday/NNP and/CC the/DT Foo/NNP Fighters/NNS will/MD close/VB the/DT event/NN on/IN Sunday./NNP
+The/DT Pixies/NNP will/MD headline/VB the/DT first/JJ day/NN of/IN Reading/VBG while/IN Foo/NNP Fighters/NNS will/MD play/VB on/IN Sunday/NNP and/CC Iron/NNP Maiden/NN will/MD close/VB the/DT event./NN
+Weekend/NN tickets/NNS are/VBP now/RB on/IN sale/NN priced/VBN at/IN £125/CD each./NN

@@ -1,0 +1,19 @@
+Asian/JJ banks/NNS halt/NN dollar's/NNS slide/NN
+
+The/DT dollar/NN regained/VBD some/DT lost/VBD ground/NN against/IN most/JJS major/JJ currencies/NNS on/IN Wednesday/NNP after/IN South/NNP Korea/NNP and/CC Japan/NNP denied/VBD they/PRP were/VBD planning/NN a/DT sell-off./JJ
+
+The/DT dollar/NN suffered/VBD its/PRP$ biggest/JJS one-day/JJ fall/NN in/IN four/CD months/NNS on/IN Tuesday/NNP on/IN fears/NNS that/IN Asian/JJ central/JJ banks/NNS were/VBD about/IN to/TO lower/VB their/PRP$ reserves/NNS of/IN dollars./NN
+Japan/NNP is/VBZ the/DT biggest/JJS holder/NN of/IN dollar/NN reserves/NNS in/IN the/DT world/NN with/IN South/NNP Korea/NNP the/DT fourth/JJ largest./NN
+The/DT dollar/NN was/VBD buying/VBG 104.76/CD yen/NNS at/IN 0950/CD GMT/NNP 0.5%/CD stronger/RBR on/IN the/DT day./NN
+It/PRP also/RB edged/VBD higher/JJR against/IN both/DT the/DT euro/NN and/CC the/DT pound/NN with/IN one/CD euro/NN worth/JJ $1.3218/CD and/CC one/CD pound/NN buying/VBG $1.9094./CD
+Concerns/NNS over/IN rising/VBG oil/NN prices/NNS and/CC the/DT outlook/NN for/IN the/DT dollar/NN pushed/VBN down/RB US/PRP stock/VBP markets/NNS on/IN Tuesday/NNP the/DT Dow/NNP Jones/NNP industrial/JJ average/NN closed/VBD down/RB 1.6%/CD while/IN the/DT Nasdaq/NNP lost/VBD 1.3%./CD
+
+The/DT dollar's/NNS latest/JJS slide/NN began/VBD after/IN a/DT South/JJ Korean/JJ parliamentary/JJ report/NN suggested/VBD the/DT country/NN which/WDT has/VBZ about/RB $200bn/CD in/IN foreign/JJ reserves/NNS had/VBD plans/NNS to/TO boost/VB holdings/NNS of/IN currencies/NNS such/JJ as/IN the/DT Australian/JJ and/CC Canadian/JJ dollar./NN
+On/IN Wednesday/NNP however/RB South/NNP Korea/NNP moved/VBD to/TO steady/VB the/DT financial/JJ markets./NN
+It/PRP issued/VBD a/DT statement/NN that/DT "The/NN Bank/NNP of/IN Korea/NNP will/MD not/RB change/VB the/DT portfolio/NN of/IN currencies/NNS in/IN its/PRP$ reserves/NNS due/JJ to/TO short/JJ term/NN market/NN factors"./NN
+Japan/NNP too/RB steadied/VBD nerves./NN
+A/DT senior/JJ Japanese/JJ Finance/NNP Ministry/NNP official/NN told/VBD Reuters/NNP "we/NN have/VBP no/DT plans/NNS to/TO change/VB the/DT composition/NN of/IN currency/NN holdings/NNS in/IN the/DT foreign/JJ reserves/NNS and/CC we/PRP are/VBP not/RB thinking/VBG about/IN expanding/VBG our/PRP$ euro/NN holdings"./NN
+Japan/NNP has/VBZ $850bn/CD in/IN foreign/JJ exchange/NN reserves./NN
+At/IN the/DT start/NN of/IN the/DT year/NN the/DT US/PRP currency/VBP which/WDT had/VBD lost/VBN 7%/CD against/IN the/DT euro/NN in/IN the/DT final/JJ three/CD months/NNS of/IN 2004/CD and/CC had/VBD fallen/VBN to/TO record/VB lows/NNS staged/VBD something/NN of/IN a/DT recovery./NN
+Analysts/NNS however/RB pointed/VBD to/TO the/DT dollar's/NNS inability/NN recently/RB to/TO extend/VB that/DT rally/NN despite/IN positive/JJ economic/JJ and/CC corporate/JJ data/NNS and/CC highlighted/VBD the/DT fact/NN that/IN many/JJ of/IN the/DT US's/NNP economic/JJ problems/NNS had/VBD not/RB disappeared./JJ
+The/DT focus/NN has/VBZ been/VBN on/IN the/DT country's/NNS massive/JJ trade/NN and/CC budget/NN deficits/NNS and/CC analysts/NNS have/VBP predicted/VBN more/JJR dollar/NN weakness/NN to/TO come./VB

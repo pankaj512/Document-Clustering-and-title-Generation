@@ -1,0 +1,13 @@
+Europe/NNP asks/VBZ Asia/NNP for/IN euro/NN help/NN
+
+European/JJ leaders/NNS say/VBP Asian/JJ states/NNS must/MD let/VB their/PRP$ currencies/NNS rise/VBP against/IN the/DT US/PRP dollar/VBP to/TO ease/VB pressure/NN on/IN the/DT euro./NN
+
+The/DT European/JJ single/JJ currency/NN has/VBZ shot/NN up/IN to/TO successive/JJ all-time/JJ highs/NNS against/IN the/DT dollar/NN over/IN the/DT past/JJ few/JJ months./NN
+Tacit/NNP approval/NN from/IN the/DT White/NNP House/NNP for/IN the/DT weaker/JJR greenback/NN which/WDT could/MD help/VB counteract/VB huge/JJ deficits/NNS has/VBZ helped/VBN trigger/VB the/DT move./NN
+But/CC now/RB Europe/NNP says/VBZ the/DT euro/NN has/VBZ had/VBN enough/RB and/CC Asia/NNP must/MD now/RB share/VB some/DT of/IN the/DT burden./NN
+
+China/NNP is/VBZ seen/VBN as/IN the/DT main/JJ culprit/NN with/IN exports/NNS soaring/VBG up/RP 35%/CD in/IN 2004/CD partly/RB on/IN the/DT back/NN of/IN a/DT currency/NN pegged/VBN to/TO the/DT dollar./NN
+"Asia/NN should/MD engage/VB in/IN greater/JJR currency/NN flexibility"/NN said/VBD French/JJ finance/NN minister/NN Herve/NNP Gaymard/NNP after/IN a/DT meeting/NN with/IN his/PRP$ German/JJ counterpart/NN Hans/NNP Eichel./NNP
+Markets/NNS responded/VBD by/IN pushing/VBG the/DT euro/NN lower/JJR in/IN the/DT expectation/NN that/IN the/DT rhetoric/NN -/: and/CC the/DT pressure/NN -/: is/VBZ unlikely/JJ to/TO ease/VB ahead/RB of/IN a/DT meeting/NN of/IN the/DT G7/CD industrialised/VBN countries/NNS next/IN week./NN
+Early/RB on/IN Tuesday/NNP morning/NN the/DT dollar/NN had/VBD edged/VBN higher/JJR to/TO 1.3040/CD euros./NN
+The/DT yen/NN meanwhile/RB had/VBD strengthened/VBN to/TO 102.975/CD against/IN the/DT dollar/NN by/IN 0730/CD GMT./NNP

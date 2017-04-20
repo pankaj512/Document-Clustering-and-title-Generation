@@ -1,0 +1,31 @@
+Tech/NNP helps/VBZ disabled/JJ speed/NN demons/NNS
+
+An/DT organisation/NN has/VBZ been/VBN launched/VBN to/TO encourage/VB disabled/JJ people/NNS to/TO get/VB involved/VBN in/IN all/DT aspects/NNS of/IN motorsport/NN which/WDT is/VBZ now/RB increasingly/RB possible/JJ thanks/NNS to/TO technological/JJ innovations./NN
+
+The/DT Motorsport/NNP Endeavour/NNP Club/NNP left/VBD the/DT starting/VBG grid/NN yesterday/NN at/IN the/DT Autosport/NNP International/NNP 2005/CD show/NN at/IN Birmingham's/NNP NEC/NNP with/IN several/JJ technologies/NNS to/TO adapt/VB vehicles/NNS on/IN display./JJ
+
+Motorcycle/NNP racer/NN Roy/NNP Tansley/NNP from/IN Derby/NNP developed/VBD his/PRP$ electronic/JJ sequential/JJ gear/NN changer/NN following/VBG an/DT accident/NN which/WDT resulted/VBD in/IN part/NN of/IN his/PRP$ left/VBN leg/NN being/VBG amputated./NN
+"I/NN needed/VBN to/TO find/VB a/DT way/NN of/IN changing/VBG gear/NN and/CC generally/RB you/PRP do/VBP that/DT with/IN your/PRP$ left/VBN leg"/NN Mr/NNP Tansley/NNP told/VBD the/DT BBC/NNP News/NNP website./NN
+"In/NN simple/JJ terms/NNS I/PRP needed/VBD to/TO invent/VB a/DT left/VBN foot/NN -/: initially/RB it/PRP was/VBD quite/RB a/DT Heath/NNP Robinson/NNP device."/NN Mr/NNP Tansley/NNP had/VBD to/TO argue/VB his/PRP$ case/NN to/TO be/VB allowed/VBN to/TO continue/VB competing/VBG with/IN motorcycle/NN racing's/NNS governing/VBG body/NN the/DT Autocycle/NNP Union./NNP
+"At/NN that/WDT time/NN they/PRP wouldn't/VBP let/NN any/DT amputee/NN race/NN at/IN all/DT but/CC eventually/RB they/PRP told/VBD me/PRP I/PRP could/MD have/VB a/DT licence/NN as/RB long/RB as/IN I/PRP raced/VBD sidecars."/NN Mr/NNP Tansley's/NNP invention/NN the/DT Pro-Shift/NNP is/VBZ designed/VBN to/TO work/VB with/IN Hewland/NNP gearboxes/NNS which/WDT are/VBP widely/RB used/VBN in/IN motorcycle/NN racing./NN
+In/IN addition/NN to/TO helping/VBG disabled/JJ riders/NNS to/TO compete/VB Mr/NNP Tansley/NNP reckons/VBZ that/IN the/DT Pro-Shift/NNP saves/VBZ at/IN least/JJS 20/CD seconds/NNS per/IN lap/NN when/WRB he/PRP competes/VBZ in/IN the/DT Isle/NNP of/IN Man/NN TT./NNP
+As/IN a/DT result/NN there/EX has/VBZ been/VBN considerable/JJ interest/NN in/IN the/DT product/NN from/IN other/JJ riders/NNS keen/JJ to/TO improve/VB their/PRP$ performance./NN
+"I'm/NN not/RB prejudiced/VBD I'll/NNP sell/VB to/TO able-bodied/JJ people/NNS if/IN I/PRP have/VBP to"/NN he/PRP joked./VB
+
+Another/DT exhibit/NN on/IN the/DT Motorsport/NNP Endeavour/NNP stand/VBP is/VBZ a/DT Subaru/NNP Impreza/NNP rally/NN car/NN adapted/VBN to/TO accommodate/VB a/DT variety/NN of/IN disabilities./JJ
+The/DT vehicle/NN belongs/VBZ to/TO ParaRallying/NNP the/DT world's/NNS only/JJ rally/VBP school/NN for/IN disabled/JJ drivers/NNS which/WDT is/VBZ based/VBN in/IN Lincolnshire./NNP
+
+"We/NN use/NN the/DT latest/JJS technology/NN supplied/VBN by/IN an/DT Italian/JJ company"/NN said/VBD rally/NN driver/NN Dave/NNP Hawkins/NNP who/WP runs/VBZ the/DT company./NN
+"The/NN cars/NNS have/VBP electronic/JJ throttles/NNS electronic/JJ brakes/NNS electronic/JJ clutches/NNS -/: we've/NN yet/RB to/TO turn/VB anybody/NN away."/NN Mr/NNP Hawkins/NNP -/: a/DT paraplegic/JJ himself/PRP -/: says/VBZ his/PRP$ customers/NNS have/VBP included/VBN right/NN or/CC left/VBN arm/NN amputees/NNS quadriplegics/NNS people/NNS who/WP have/VBP had/VBN strokes/NNS and/CC a/DT woman/NN who/WP had/VBD had/VBN all/RB four/CD limbs/NNS amputated./NN
+ParaRallying/NNP uses/VBZ a/DT Vauxhall/NNP Astra/NNP GSI/NNP with/IN an/DT automatic/JJ gearbox/NN and/CC manual/JJ Subaru/NNP Imprezas./NNP
+The/DT car/NN on/IN display/NN is/VBZ fitted/VBN with/IN a/DT 'duck/NN clutch'/NN -/: a/DT switch/NN on/IN the/DT gear/NN stick/VB used/VBN instead/RB of/IN the/DT clutch/NN pedal./NN
+It/PRP also/RB has/VBZ a/DT second/JJ ring/NN behind/IN the/DT steering/VBG wheel/NN to/TO operate/VB the/DT throttle/NN and/CC a/DT hand/NN operated/VBD brake/NN bar./NN
+
+When/WRB Joy/NNP Rainey/NNP started/VBD competing/VBG in/IN motorsport/NN in/IN 1974/CD she/PRP was/VBD continuing/VBG the/DT family/NN tradition/NN -/: her/PRP$ father/NN Murray/NNP is/VBZ a/DT former/JJ Australian/JJ Formula/NN 3/CD champion./NN
+
+And/CC it/PRP was/VBD Rainey/NNP Senior/JJ who/WP modified/VBD a/DT sports/NNS racer/NN to/TO accommodate/VB his/PRP$ daughter's/NNS small/JJ stature/NN so/IN that/IN she/PRP could/MD take/VB part/NN in/IN hill/NN climbs./NN
+She/PRP uses/VBZ an/DT ordinary/JJ road/NN car/NN by/IN putting/VBG extensions/NNS on/IN the/DT pedals/NNS a/DT cushion/NN behind/IN her/PRP$ back/RB and/CC raising/VBG the/DT seat./NN
+"But/NN in/IN a/DT competition/NN car/NN you/PRP have/VBP to/TO have/VB everything/NN right/NN or/CC you'll/NN lose/VBP the/DT balance/NN of/IN the/DT car"/NN she/PRP said./VBP
+"I/NN bring/NN everything/NN back/RB to/TO me/PRP -/: steering/VBG wheel/NN steering/VBG column/NN gear/NN lever/NN and/CC pedals."/NN When/WRB she/PRP recently/RB took/VBD part/NN in/IN the/DT London/NNP to/TO Sydney/NNP Marathon/NNP she/PRP shared/VBD the/DT driving/NN with/IN her/PRP$ partner/NN Trevor/NNP who/WP now/RB does/VBZ the/DT engineering/NN work./NN
+He/PRP designed/VBD a/DT system/NN for/IN their/PRP$ Morris/NNP Minor/NNP so/IN that/IN the/DT adaptations/NNS could/MD be/VB totally/RB removed/VBN in/IN under/IN a/DT minute./NN
+The/DT Motorsport/NNP Endeavour/NNP Club/NNP is/VBZ hoping/VBG that/IN putting/VBG such/JJ technologies/NNS on/IN display/NN will/MD result/VB in/IN more/RBR disabled/JJ people/NNS becoming/VBG involved/VBN in/IN all/DT areas/NNS of/IN the/DT sport/NN and/CC at/IN every/DT level./NN

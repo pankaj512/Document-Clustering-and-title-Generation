@@ -1,0 +1,15 @@
+Da/NNP Vinci/NNP film/NN to/TO star/VB Tom/NNP Hanks/NNP
+
+Actor/NNP Tom/NNP Hanks/NNP and/CC director/NN Ron/NNP Howard/NNP are/VBP reuniting/VBG for/IN The/DT Da/NNP Vinci/NNP Code/NNP an/DT adaptation/NN of/IN the/DT international/JJ best-selling/JJS novel/NN by/IN Dan/NNP Brown./NNP
+
+Distributor/NNP Sony/NNP Pictures/NNP said/VBD production/NN will/MD begin/VB next/JJ year/NN with/IN a/DT planned/VBN release/NN in/IN May/NNP 2006./CD
+Hanks/NNP will/MD play/VB Robert/NNP Langdon/NNP who/WP is/VBZ trying/VBG to/TO solve/VB the/DT murder/NN of/IN a/DT member/NN of/IN an/DT ancient/JJ society/NN that/WDT has/VBZ protected/VBN dark/JJ secrets/NNS for/IN centuries./NN
+It/PRP will/MD be/VB Hanks'/NNP third/JJ collaboration/NN with/IN Howard./NNP
+They/PRP previously/RB worked/VBD together/RB along/IN with/IN Howard's/NNP producing/VBG partner/NN Brian/NNP Grazer/NNP on/IN Splash/NNP and/CC Apollo/NNP 13./CD
+
+Hanks/NNP is/VBZ one/CD of/IN Hollywood's/NNP most/RBS bankable/JJ stars/NNS with/IN his/PRP$ presence/NN in/IN a/DT movie/NN almost/RB guaranteeing/VBG box/NN office/NN success./NN
+Brown's/NNP book/NN has/VBZ become/VBN a/DT publishing/NN phenomenon/NN consistently/RB topping/VBG book/NN charts/NNS in/IN the/DT UK/NNP and/CC US./NNP
+It/PRP has/VBZ sold/VBN more/JJR than/IN eight/CD million/CD copies/NNS worldwide/NN in/IN little/JJ over/IN two/CD years./NN
+It/PRP is/VBZ a/DT classic/JJ whodunit/NN which/WDT centres/NNS on/IN a/DT global/JJ conspiracy/NN surrounding/VBG the/DT Holy/NNP Grail/NNP mythology/NN and/CC places/NNS heavy/JJ emphasis/NN on/IN symbols/NNS and/CC cryptography./NN
+Its/PRP$ protagonist/NN is/VBZ a/DT Harvard/NNP professor/NN likened/VBN to/TO a/DT contemporary/JJ Indiana/NNP Jones/NNP who/WP also/RB appeared/VBD in/IN Brown's/NNP first/JJ book/NNP Angels/NNPS and/CC Demons./NNP
+The/DT tale/NN mixes/VBZ art/NN history/NN with/IN mythology/NN semiotics/NNS with/IN medieval/JJ history./NN

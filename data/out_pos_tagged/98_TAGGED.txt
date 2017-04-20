@@ -1,0 +1,15 @@
+IMF/NNP 'cuts'/NN German/JJ growth/NN estimate/NN
+
+The/DT International/NNP Monetary/NNP Fund/NNP is/VBZ to/TO cut/VB its/PRP$ 2005/CD growth/NN forecast/NN for/IN the/DT German/JJ economy/NN from/IN 1.8%/CD to/TO 0.8%/CD the/DT Financial/NNP Times/NNP Deutschland/NNP reported./NN
+
+The/DT IMF/NNP will/MD also/RB reduce/VB its/PRP$ growth/NN estimate/NN for/IN the/DT 12-member/JJ eurozone/NN economy/NN from/IN 2.2%/CD to/TO 1.6%/CD the/DT newspaper/NN reported./NN
+The/DT German/JJ economy/NN has/VBZ been/VBN faltering/VBG with/IN unemployment/NN levels/NNS rising/VBG to/TO a/DT seventy-year/JJ high/NN of/IN 5.2/CD million./NN
+Its/PRP$ sluggish/JJ performance/NN continues/VBZ to/TO hamper/VB the/DT entire/JJ eurozone./NN
+
+The/DT IMF's/NNP draft/NN World/NNP Economic/NNP Outlook/NN -/: due/JJ to/TO be/VB published/VBN in/IN April/NNP -/: would/MD point/VB to/TO a/DT marked/VBN deterioration/NN in/IN Germany's/NNP economy/NN the/DT FT/NNP report/NN said./NN
+
+In/IN September/NNP the/DT IMF/NNP had/VBD said/VBN that/IN German/JJ growth/NN for/IN the/DT current/JJ year/NN would/MD be/VB 1.8%./CD
+The/DT IMF/NNP has/VBZ also/RB revised/VBN eurozone/NN forecasts/NNS the/DT paper/NN said/VBD taking/VBG into/RP account/NN high/JJ oil/NN prices/NNS the/DT strength/NN of/IN the/DT euro/NN and/CC weak/JJ demand/NN in/IN many/JJ of/IN the/DT world's/NNS leading/VBG economies./NN
+Europe's/NNP economic/JJ difficulties/NNS have/VBP been/VBN highlighted/VBN by/IN the/DT Organisation/NNP for/IN Economic/NNP Co-operation/NNP and/CC Development/NNP which/WDT argued/VBD in/IN a/DT report/NN published/VBN on/IN Tuesday/NNP that/IN the/DT continent/NN could/MD only/RB achieve/VB US/PRP living/VBG standards/NNS by/IN freeing/VBG up/RP its/PRP$ labour/NN markets./NN
+"The/NN eurozone/NN does/VBZ not/RB look/VB like/IN it/PRP has/VBZ a/DT self-sustaining/NN recovery"/NN James/NNP Carrick/NNP an/DT economist/NN with/IN ABN/NNP Amro/NNP told/VBD the/DT newspaper./NN
+"It/NN is/VBZ too/RB dependant/NN on/IN the/DT rest/NN of/IN the/DT world."/NN

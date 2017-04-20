@@ -1,0 +1,25 @@
+Senior/NNP Fannie/NNP Mae/NNP bosses/NNS resign/VBP
+
+The/DT two/CD most/RBS senior/JJ executives/NNS at/IN US/PRP mortgage/VBP giant/NN Fannie/NNP Mae/NNP have/VBP resigned/VBN after/IN accounting/NN irregularities/NNS were/VBD uncovered/VBN at/IN the/DT company./NN
+
+Chief/NNP executive/NN Franklin/NNP Raines/NNP a/DT former/JJ senior/JJ official/NN in/IN the/DT Clinton/NNP administration/NN and/CC chief/JJ financial/JJ officer/NN Tim/NNP Howard/NNP have/VBP left/VBN the/DT firm./NN
+Fannie/NNP Mae/NNP was/VBD criticised/VBN by/IN financial/JJ regulators/NNS and/CC could/MD have/VB to/TO restate/VB its/PRP$ earnings/NNS by/IN up/IN to/TO $9bn/CD (£4.6bn)./CD
+It/PRP is/VBZ America's/NNP second/JJ largest/JJS financial/JJ institution./NN
+
+Recent/JJ investigations/NNS have/VBP exposed/VBN extensive/JJ accounting/NN errors/NNS at/IN Fannie/NNP Mae/NNP which/WDT supplies/NNS funds/NNS to/TO America's/NNP $8/CD trillion/CD mortgage/NN market./NN
+Last/JJ week/NN the/DT firm/NN was/VBD admonished/VBN by/IN the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP which/WDT said/VBD it/PRP had/VBD made/VBN major/JJ errors/NNS in/IN its/PRP$ financial/JJ reporting./NN
+
+The/DT financial/JJ regulator/NN said/VBD Fannie/NNP Mae/NNP would/MD have/VB to/TO raise/VB substantial/JJ new/JJ capital/NN to/TO restore/VB its/PRP$ balance/NN sheet./NN
+Analysts/NNS said/VBD the/DT SEC's/NNP criticism/NN made/VBD it/PRP impossible/JJ for/IN Fannie/NNP Mae's/NNP senior/JJ executives/NNS to/TO remain./VB
+Mr/NNP Raines/NNP head/NN of/IN the/DT Office/NNP of/IN Management/NNP and/CC Budget/NNP under/IN President/NNP Clinton/NNP has/VBZ taken/VBN early/JJ retirement/NN while/IN Mr/NNP Howard/NNP has/VBZ also/RB stepped/VBN down/RP the/DT company/NN said/VBD on/IN Tuesday./NNP
+KPMG/NNP Fannie/NNP Mae's/NNP independent/JJ auditor/NN will/MD also/RB be/VB replaced./NN
+"By/NN my/PRP$ early/JJ retirement/NN I/PRP have/VBP held/VBN myself/PRP accountable"/VBP Mr/NNP Raines/NNP said/VBD in/IN a/DT statement./NN
+
+Fannie/NNP Mae/NNP was/VBD found/VBN to/TO have/VB violated/VBN accounting/NN rules/NNS relating/VBG to/TO derivatives/NNS -/: financial/JJ instruments/NNS used/VBN to/TO hedge/VB against/IN fluctuations/NNS in/IN interest/NN rates/NNS -/: and/CC some/DT pre-paid/JJ loans./NN
+As/IN a/DT result/NN it/PRP could/MD be/VB forced/VBN to/TO restate/VB $9bn/CD in/IN earnings/NNS over/IN the/DT past/JJ four/CD years/NNS effectively/RB wiping/VBG out/RP a/DT third/JJ of/IN the/DT company's/NNS profits/NNS since/IN 2001./CD
+Although/IN not/RB making/VBG loans/NNS directly/RB to/TO buyers/NNS Fannie/NNP Mae/NNP is/VBZ the/DT largest/JJS single/JJ player/NN in/IN the/DT mortgage/NN market/NN underwriting/NN half/NN of/IN all/DT US/PRP house/VBP purchases./NN
+The/DT firm/NN operates/VBZ under/IN charter/NN from/IN the/DT US/PRP Congress./NNP
+It/PRP has/VBZ faced/VBN stinging/JJ criticism/NN from/IN Congressional/NNP leaders/NNS who/WP held/VBD hearings/NNS into/IN its/PRP$ finances/NNS earlier/RBR this/DT year/NN and/CC from/IN government/NN regulator/NN the/DT Office/NNP of/IN Federal/NNP Housing/NNP Enterprise/NNP Oversight/NNP (OFHEO)./NN
+"We/NN are/VBP encouraged/VBN that/IN the/DT board's/NNS announcement/NN signals/NNS a/DT new/JJ culture/NN and/CC a/DT new/JJ direction/NN for/IN Fannie/NNP Mae"/NNP Armando/NNP Falcon/NNP OFHEO/NNP director/NN said./NN
+The/DT problems/NNS afflicting/VBG Fannie/NNP Mae/NNP are/VBP just/RB the/DT latest/JJS to/TO hit/VB the/DT US/PRP mortgage/VBP industry./NN
+Freddie/NNP Mac/NNP the/DT country's/NNS other/JJ largest/JJS mortgage/NN firm/NN was/VBD forced/VBN to/TO restate/VB its/PRP$ earnings/NNS by/IN $4.4bn/CD last/JJ year/NN and/CC pay/VB a/DT $125m/CD fine/NN after/IN an/DT investigation/NN of/IN its/PRP$ books./NN

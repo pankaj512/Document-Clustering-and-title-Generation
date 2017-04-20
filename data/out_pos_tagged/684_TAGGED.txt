@@ -1,0 +1,15 @@
+X/NNP Factor/NN show/NN gets/VBZ second/JJ series/NN
+
+TV/NN talent/NN show/NN The/DT X/NNP Factor/NN is/VBZ to/TO return/VB for/IN a/DT second/JJ series/NN after/IN being/VBG recommissioned/VBN by/IN ITV./NNP
+
+Judges/NNPS Simon/NNP Cowell/NNP Louis/NNP Walsh/NNP and/CC Sharon/NNP Osbourne/NNP are/VBP in/IN discussions/NNS to/TO sign/VB up/RP for/IN the/DT new/JJ series./NN
+The/DT final/NN of/IN the/DT first/JJ series/NN will/MD take/VB place/NN on/IN 11/CD December./NNP
+Last/JJ Saturday's/NNP show/NN was/VBD beaten/VBN in/IN the/DT ratings/NNS by/IN the/DT BBC's/NNP Strictly/RB Come/VBD Dancing./NNP
+"Working/VBG on/IN the/DT X/NNP Factor/NN has/VBZ been/VBN a/DT blast.../NN
+I/PRP predict/VBP series/NN two/CD will/MD be/VB even/RB better"/NN said/VBD Cowell./NNP
+"I/NN think/VBP the/DT production/NN team/NN have/VBP done/VBN an/DT amazing/JJ job"/NN he/PRP added./VB
+
+The/DT Pop/NN Idol-style/JJ show/NN votes/NNS off/IN a/DT group/NN or/CC contestant/VB every/DT week/NN -/: the/DT two/CD that/WDT receive/VBP the/DT lowest/JJS public/JJ vote/NN have/VBP to/TO perform/VB a/DT second/JJ time/NN before/IN the/DT judges/NNS make/VBP a/DT final/JJ decision./NN
+Rowetta/NNP Satchell/NNP Steve/NNP Brookstein/NNP Tabby/NNP Callaghan/NNP and/CC group/NN G4/CD are/VBP the/DT remaining/VBG finalists./NN
+ITV's/NNP controller/NN of/IN entertainment/NN Claudia/NNP Rosencrantz/NNP said/VBD she/PRP had/VBD no/DT hesitation/NN in/IN recommissioning/VBG the/DT show./NN
+"There's/NN much/RB more/JJR to/TO come/VB this/DT series/NN as/IN we/PRP build/VBP towards/IN the/DT final/JJ next/JJ month/NN and/CC it's/NNS great/JJ to/TO have/VB secured/VBN this/DT terrific/JJ format/NN for/IN our/PRP$ viewers/NNS for/IN another/DT series"/NN she/PRP said./VBP

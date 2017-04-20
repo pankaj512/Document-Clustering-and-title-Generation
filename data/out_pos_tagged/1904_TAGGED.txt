@@ -1,0 +1,19 @@
+New/NNP delay/VBP hits/NNS EU/NNP software/NN laws/NNS
+
+A/DT fresh/JJ delay/NN has/VBZ hit/VBN controversial/JJ new/JJ European/NNP Union/NNP rules/NNS which/WDT govern/VBP computer-based/JJ inventions./NN
+
+The/DT draft/NN law/NN was/VBD not/RB adopted/VBN by/IN EU/NNP ministers/NNS as/IN planned/VBN at/IN a/DT Brussels/NNP meeting/NN on/IN Monday/NNP during/IN which/WDT it/PRP was/VBD supposed/VBN to/TO have/VB been/VBN discussed./JJ
+The/DT fresh/JJ delay/NN came/VBD after/IN Polish/JJ officials/NNS had/VBD raised/VBN concerns/NNS about/IN the/DT law/NN for/IN the/DT second/JJ time/NN in/IN two/CD months./NN
+Critics/NNS say/VBP the/DT law/NN would/MD favour/VB large/JJ companies/NNS over/IN small/JJ ones/NNS and/CC could/MD impact/VB open-source/JJ software/NN innovation./NN
+"There/NN was/VBD at/IN one/CD point/NN the/DT intention/NN to/TO put/VB the/DT item/NN on/IN today's/NNS agenda./NN
+But/CC in/IN the/DT end/NN we/PRP could/MD not/RB put/VB it/PRP on"/VBD an/DT EU/NNP spokesman/NN told/VBD the/DT Reuters/NNP agency./NN
+He/PRP added/VBD that/IN no/DT date/NN had/VBD been/VBN chosen/VBN for/IN more/JJR discussion/NN of/IN the/DT law./NN
+
+In/IN December/NNP Poland/NNP requested/VBD more/JJR time/NN to/TO consider/VB the/DT issue/NN because/IN it/PRP was/VBD concerned/VBN that/IN the/DT law/NN could/MD lead/VB to/TO the/DT patenting/NN of/IN pure/JJ computer/NN software./NN
+Its/PRP$ ministers/NNS want/VBP to/TO see/VB the/DT phrasing/NN of/IN the/DT text/NN of/IN the/DT Directive/NN on/IN the/DT Patentability/NNP of/IN Computer-Implemented/JJ Inventions/NNS changed/VBN so/IN that/IN it/PRP excludes/VBZ software/NN patenting./NN
+Poland/NNP is/VBZ a/DT large/JJ EU/NNP member/NN so/RB its/PRP$ backing/NN for/IN the/DT legislation/NN is/VBZ vital./NN
+The/DT EU/NNP says/VBZ the/DT law/NN would/MD bring/VB Europe/NNP more/JJR in/IN line/NN with/IN how/WRB such/JJ laws/NNS work/VBP in/IN the/DT US/PRP but/CC this/DT has/VBZ caused/VBN some/DT angry/JJ debate/NN amongst/IN critics/NNS and/CC supporters./NN
+In/IN the/DT US/PRP the/DT patenting/NN of/IN computer/NN programs/NNS and/CC internet/JJ business/NN methods/NNS is/VBZ permitted./NN
+This/DT means/VBZ that/IN the/DT US-based/JJ Amazon.com/NNP holds/VBZ a/DT patent/NN for/IN its/PRP$ "one-click/JJ shopping"/NN service./NN
+Critics/NNS say/VBP a/DT similar/JJ model/NN in/IN Europe/NNP would/MD hurt/VB small/JJ software/NN developers/NNS which/WDT do/VBP not/RB have/VB the/DT legal/JJ and/CC financial/JJ might/MD of/IN larger/JJR companies./NN
+But/CC supporters/NNS say/VBP current/JJ law/NN does/VBZ not/RB let/VB big/JJ companies/NNS protect/VBP inventions/NNS which/WDT they/PRP have/VBP spent/VBN years/NNS developing./NN

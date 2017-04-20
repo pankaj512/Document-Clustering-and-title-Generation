@@ -1,0 +1,14 @@
+Double/RB injury/NN blow/NN strikes/NNS Wales/NNP
+
+Wales/NNP centre/NN Sonny/NNP Parker/NNP and/CC number/NN eight/CD Ryan/NNP Jones/NNP will/MD miss/VB Saturday's/NNP game/NN with/IN Italy/NNP because/IN of/IN injury./NN
+
+Parker/NNP has/VBZ not/RB recovered/VBN from/IN a/DT trapped/VBN nerve/NN in/IN his/PRP$ neck/NN that/WDT kept/VBD him/PRP out/IN of/IN the/DT win/NN over/IN England/NNP and/CC Tom/NNP Shanklin/NNP is/VBZ expected/VBN to/TO continue/VB at/IN centre./NN
+Jones/NNP damaged/VBD his/PRP$ collar/NN bone/NN after/IN coming/VBG on/IN as/IN a/DT replacement/NN against/IN England/NNP and/CC joins/VBZ flanker/NN Colin/NNP Charvis/NNP (foot/NN injury)/NN on/IN the/DT sidelines./NN
+Meanwhile/RB Mike/NNP Ruddock/NNP may/MD make/VB Gavin/NNP Henson/NNP his/PRP$ first-choice/JJ kicker/NN in/IN Rome./NNP
+The/DT centre/NN was/VBD Wales'/NNP hero/NN in/IN the/DT 11-9/JJ Six/CD Nations/NNPS win/VBP over/IN England/NNP landing/NN a/DT huge/JJ late/JJ penalty/NN from/IN wide/JJ out/RP to/TO clinch/VB the/DT game./NN
+First-choice/NNP kicker/NN Stephen/NNP Jones/NNP handed/VBD over/IN responsibility/NN because/IN of/IN Henson's/NNP greater/JJR kicking/NN range/NN but/CC the/DT fly-half/NN had/VBD already/RB missed/VBN a/DT number/NN of/IN shots/NNS at/IN goal./NN
+"Our/NN first/JJ aim/NN was/VBD to/TO get/VB Gavin/NNP settled/VBD into/IN the/DT team/NN but/CC giving/VBG him/PRP the/DT kicks/NNS is/VBZ something/NN we'll/NN talk/NN about/IN in/IN selection/NN this/DT week"/NN Wales/NNP coach/NN Mike/NNP Ruddock/NNP told/VBD BBC/NNP Sport/NNP Wales./NNP
+Henson/NNP himself/PRP says/VBZ he/PRP is/VBZ relishing/VBG all/PDT the/DT media/NNS hype/NN that/WDT has/VBZ been/VBN heaped/VBN on/IN him/PRP since/IN last/JJ Saturday's/NNP game./NN
+"I/NN thrive/NN on/IN it/PRP and/CC think/VBP it/PRP makes/VBZ me/PRP perform/VBP better"/NN he/PRP said./VB
+"I'm/NN glad/JJ it's/NNS a/DT short/JJ week/NN before/IN the/DT Italy/NNP game./NN
+There/EX was/VBD so/RB much/JJ build-up/NN before/IN England/NNP but/CC we/PRP fly/VBP out/RP to/TO Rome/NNP on/IN Thursday/NNP and/CC we'll/NN be/VB back/RB playing/VBG again."/NN

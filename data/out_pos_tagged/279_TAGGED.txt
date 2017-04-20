@@ -1,0 +1,22 @@
+German/JJ bidder/NN in/IN talks/NNS with/IN LSE/NNP
+
+Deutsche/NNP Boerse/NNP bosses/NNS have/VBP held/VBN "constructive/JJ professional/JJ and/CC friendly"/NN talks/NNS with/IN the/DT London/NNP Stock/NNP Exchange/NNP (LSE)/NN its/PRP$ chief/JJ has/VBZ said./NN
+
+Werner/NNP Seifert/NNP met/VBD LSE/NNP chief/NN executive/NN Clara/NNP Furse/NNP amid/IN rumours/NNS the/DT German/JJ group/NN may/MD raise/VB its/PRP$ bid/NN to/TO £1.5bn/CD ($2.9bn)/CD from/IN its/PRP$ initial/JJ £1.3bn/CD offer./NN
+However/RB rival/JJ suitor/NN Euronext/NNP also/RB upped/VBD the/DT ante/NN in/IN the/DT bid/NN battle./NN
+Ahead/RB of/IN talks/NNS with/IN the/DT LSE/NNP on/IN Friday/NNP the/DT pan-European/JJ bourse/NN said/VBD it/PRP may/MD be/VB prepared/VBN to/TO make/VB its/PRP$ offer/NN in/IN cash./NN
+The/DT Paris-based/JJ exchange/NN owner/NN of/IN Liffe/NNP in/IN London/NNP is/VBZ reported/VBN to/TO be/VB ready/JJ to/TO raise/VB £1.4bn/CD to/TO fund/VB a/DT bid./NN
+
+The/DT news/NN came/VBD as/IN Deutsche/NNP Boerse/NNP held/VBD its/PRP$ third/JJ meeting/NN with/IN the/DT LSE/NNP since/IN its/PRP$ bid/NN approach/NN in/IN December/NNP which/WDT was/VBD turned/VBN down/RB by/IN the/DT London/NNP exchange/NN for/IN undervaluing/VBG the/DT business./NN
+However/RB the/DT LSE/NNP did/VBD agree/VB to/TO leave/VB the/DT door/NN open/JJ for/IN talks/NNS to/TO find/VB out/RP whether/IN a/DT "significantly-improved/JJ proposal"/NN would/MD be/VB in/IN the/DT interests/NNS of/IN LSE's/NNP shareholders/NNS and/CC customers./NN
+In/IN the/DT meantime/NN Euronext/NNP which/WDT combines/VBZ the/DT Paris/NNP Amsterdam/NNP and/CC Lisbon/NNP stock/NN exchanges/NNS also/RB began/VBD talks/NNS with/IN the/DT LSE./NNP
+In/IN a/DT statement/NN on/IN Thursday/NNP Euronext/NNP said/VBD any/DT offer/NN was/VBD likely/JJ to/TO be/VB solely/RB in/IN cash/NN but/CC added/VBD that/DT "There/NN can/MD be/VB no/DT assurances/NNS at/IN this/DT stage/NN that/IN any/DT offer/NN will/MD be/VB made."/NN A/DT deal/NN with/IN either/DT bidder/NN would/MD create/VB the/DT biggest/JJS stock/NN market/NN operator/NN in/IN Europe/NNP and/CC the/DT second/JJ biggest/JJS in/IN the/DT world/NN after/IN the/DT New/NNP York/NNP Stock/NNP Exchange./NNP
+However/RB neither/DT side/NN has/VBZ made/VBN a/DT formal/JJ offer/NN for/IN the/DT LSE/NNP with/IN sources/NNS claiming/VBG such/PDT a/DT step/NN may/MD still/RB be/VB weeks/NNS away./NN
+
+Deutsche/NNP Boerse/NNP could/MD also/RB face/VB mounting/VBG opposition/NN to/TO a/DT bid/NN at/IN home./NN
+Among/IN sweeteners/NNS reported/VBD to/TO have/VB been/VBN discussed/VBN by/IN Mr/NNP Seifert/NNP with/IN Ms/NNP Furse/NNP were/VBD plans/NNS to/TO move/VB the/DT management/NN of/IN its/PRP$ cash/NN and/CC Eurex/NNP derivatives/NNS market/NN to/TO London/NNP as/RB well/RB as/IN two/CD members/NNS of/IN its/PRP$ executive/NN board./NN
+But/CC Hans/NNP Reckers/NNP a/DT board/NN member/NN of/IN Germany's/NNP central/JJ bank/NN the/DT Bundesbank/NNP said/VBD that/DT cash/NN trading/NN should/MD also/RB remain/VB in/IN Frankfurt/NNP something/NN Deutsche/NNP Boerse/NNP could/MD move/VB to/TO the/DT UK./NNP
+"It/NN is/VBZ not/RB just/RB the/DT headquarters/NN of/IN the/DT Boerse/NNP but/CC also/RB important/JJ market/NN segments/NNS that/WDT must/MD stay/VB permanently/RB in/IN Frankfurt./NNP
+This/DT has/VBZ special/JJ importance/NN for/IN the/DT business/NN activities/NNS of/IN the/DT banks/NNS and/CC the/DT consultants"/NN he/PRP said./VB
+Local/JJ government/NN officials/NNS in/IN Frankfurt's/NNP state/NN of/IN Hessen/NNP have/VBP also/RB spoken/VBN out/RP against/IN the/DT move./NN
+"It/NN is/VBZ our/PRP$ wish/NN that/IN the/DT headquarters/NN stay/NN here/RB to/TO maintain/VB Frankfurt's/NNP standing/NN as/IN the/DT number/NN one/CD financial/JJ centre/NN in/IN continental/JJ Europe"/NNP Alois/NNP Rhiel/NNP its/PRP$ minister/NN for/IN economic/JJ affairs/NNS added./NN

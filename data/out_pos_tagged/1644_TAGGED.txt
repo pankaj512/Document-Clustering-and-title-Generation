@@ -1,0 +1,24 @@
+O'Driscoll/Gregan/NNP lead/VB Aid/NNP stars/NNS
+
+Ireland's/NNP Brian/NNP O'Driscoll/NNP will/MD lead/VB the/DT Northern/NNP Hemisphere/NNP team/NN in/IN the/DT IRB/NNP Rugby/NNP Aid/NNP match/VB at/IN Twickenham./NNP
+
+O'Driscoll/NNP heads/VBZ a/DT star-studded/JJ cast/NN for/IN the/DT contest/NN to/TO raise/VB funds/NNS for/IN the/DT tsunami/NN appeal./NN
+The/DT South/NNP will/MD be/VB led/VBN by/IN George/NNP Gregan/NNP one/CD of/IN four/CD Wallabies/NNP alongside/IN five/CD Springboks/NNP and/CC four/CD All/DT Blacks/NNPS including/VBG captain/NN Tana/NNP Umaga./NNP
+South/JJ African/JJ flanker/NN Schalk/NNP Burger/NNP has/VBZ shaken/VBN off/RP a/DT leg/NN injury/NN to/TO take/VB his/PRP$ place/NN in/IN the/DT starting/VBG line-up./JJ
+He/PRP will/MD join/VB fellow/JJ Springboks/NNP John/NNP Smit/NNP Cobus/NNP Visagie/NNP and/CC Victor/NNP Matfield/NNP in/IN the/DT South/NNP pack/NN with/IN Jacque/NNP Fourie/NNP among/IN the/DT centres./NN
+The/DT North/NNP side/NN have/VBP been/VBN hit/VBN by/IN the/DT withdrawals/NNS of/IN Scotland/NNP duo/NN Gordon/NNP Bulloch/NNP and/CC Chris/NNP Cusiter/NNP plus/CC France/NNP captain/NN Fabien/NNP Pelous./NNP
+
+But/CC Leicester's/NNP England/NNP centre/NN Ollie/NNP Smith/NNP has/VBZ been/VBN added/VBN to/TO the/DT squad/NN giving/VBG him/PRP an/DT opportunity/NN to/TO impress/VB Lions/NNP coach/NN Sir/NNP Clive/NNP Woodward/NNP who/WP takes/VBZ charge/NN of/IN the/DT North/NNP side./NN
+"I/NN think/VBP it's/NNS fantastic/JJ for/IN Ollie"/NNP Tigers/NNP coach/NN John/NNP Wells/NNP told/VBD BBC/NNP Radio/NNP Leicester./NNP
+"He/NN was/VBD probably/RB going/VBG to/TO have/VB the/DT weekend/NN off/RP this/DT week/NN and/CC I/PRP hope/VBP Clive/NNP gets/VBZ the/DT chance/NN to/TO see/VB the/DT qualities/NNS that/IN Leicester/NNP and/CC England/NNP have/VBP been/VBN seeing/VBG all/DT year."/NN Woodward/NNP will/MD also/RB assess/VB other/JJ potential/JJ Lions/NNP candidates/NNS such/JJ as/IN Scotland/NNP pair/NN Simon/NNP Taylor/NNP and/CC Chris/NNP Paterson/NNP Wales/NNP scrum-half/JJ Dwayne/NNP Peel/NNP and/CC Ireland/NNP lock/VBP Paul/NNP O'Connell./NNP
+"I'm/NN looking/VBG forward/RB to/TO working/VBG with/IN such/JJ outstanding/JJ players"/NN Woodward/NNP said./NN
+"Both/NN teams/NNS are/VBP fielding/VBG top-quality/JJ sides/NNS and/CC I/PRP really/RB hope/VBP that/IN the/DT rugby/NN public/NN and/CC community/NN get/NN behind/IN this/DT game/NN to/TO raise/VB as/IN much/JJ money/NN as/IN possible/JJ for/IN such/JJ a/DT deserving/JJ cause."/NN Despite/IN the/DT withdrawal/NN of/IN Wales/NNP wing/NN Rhys/NNP Williams/NNP who/WP is/VBZ required/VBN for/IN the/DT Blues'/NNP Celtic/NNP League/NNP match/VB with/IN Munster/NNP three/CD other/JJ members/NNS of/IN their/PRP$ Six/CD Nations/NNPS squad/NN -/: Ceri/NNP Sweeney/NNP John/NNP Yapp/NNP and/CC Jonathan/NNP Thomas/NNP -/: will/MD also/RB play./VB
+"Not/NN only/RB it/PRP is/VBZ for/IN a/DT good/JJ cause/NN but/CC it/PRP gives/VBZ these/DT players/NNS the/DT opportunity/NN to/TO play/VB with/IN and/CC against/IN some/DT of/IN the/DT best/JJS players/NNS in/IN the/DT world"/NN said/VBD WRU/NNP general/JJ manager/NN Steve/NNP Lewis./NNP
+Supporters/NNS can/MD watch/VB the/DT teams/NNS train/NN for/IN free/JJ at/IN Twickenham/NNP on/IN Friday/NNP 4/CD March./NNP
+Woodward/NNP will/MD put/VB his/PRP$ North/NNP team/NN through/IN their/PRP$ paces/NNS at/IN 1030/CD GMT/NNP with/IN the/DT South/NNP side/NN coached/VBN by/IN former/JJ Wallabies/NNP coach/NN Rod/NNP Macqueen/NNP due/JJ at/IN the/DT stadium/NN at/IN 1330./CD
+
+C/NNP Paterson/NNP (Scotland)/NN B/NNP Cohen/NNP (England)/NN B/NNP O'Driscoll/NNP (Ireland/NN capt)/NN D/NNP Traille/NNP (France)/NN O/NNP Smith/NNP (England)/NN C/NNP Sweeney/NNP (Wales)/NN D/NNP Humphreys/NNP (Ireland)/NN D/NNP Peel/NNP (Wales)/NN A/DT Lo/NNP Cicero/NNP (Italy)/NN P/NNP de/NNP Villiers/NNP (France)/NN J/NNP Yapp/NNP (Wales)/NN R/NN Ibanez/NNP (France)/NN P/NNP O'Connell/NNP (Ireland)/NN M/NNP Bortolami/NNP (Italy)/NN J/NNP Thomas/NNP (Wales)/NN S/NNP Taylor/NNP (Scotland)/NN L/NNP Dallaglio/NNP (England)/NN S/NNP Parisse/NNP (Italy)/NN Others/NNS to/TO be/VB added./NN
+
+C/NNP Latham/NNP (Australia)/NN B/NNP Lima/NNP (Samoa)/NN J/NNP Fourie/NNP (SA)/NN T/NNP Umaga/NNP (New/NN Zealand)/NNP S/NNP Bobo/NNP (Fiji)/NN A/DT Mehrtens/NNP (NZ)/NN G/NNP Gregan/NNP (Aus/NN capt)/NN C/NNP Hoeft/NNP (NZ)/NN J/NNP Smit/NNP (SA)/NN C/NNP Visagie/NNP (SA)/NN S/NNP Maling/NNP (NZ)/NN V/NNP Matfield/NNP (SA)/NN S/NNP Burger/NNP (SA)/NN P/NNP Waugh/NNP (Aus)/NN T/NNP Kefu/NNP (Aus)./NN
+
+E/NNP Taukafa/NNP (Tonga)/NN E/NN Guinazu/NNP (Argentina)/NN S/NNP Sititi/NNP (Samoa)/NN O/NNP Palepoi/NNP (Samoa)/NN M/NNP Rauluni/NNP (Fiji)/NN T/NNP Delport/NNP (SA)/NN A/DT N/NNP Other./NNP

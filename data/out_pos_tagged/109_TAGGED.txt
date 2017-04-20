@@ -1,0 +1,12 @@
+Lufthansa/NNP flies/VBZ back/RB to/TO profit/VB
+
+German/JJ airline/NN Lufthansa/NNP has/VBZ returned/VBN to/TO profit/VB in/IN 2004/CD after/IN posting/VBG huge/JJ losses/NNS in/IN 2003./CD
+
+In/IN a/DT preliminary/JJ report/NN the/DT airline/NN announced/VBD net/JJ profits/NNS of/IN 400m/CD euros/NNS ($527.61m/CD £274.73m)/CD compared/VBN with/IN a/DT loss/NN of/IN 984m/CD euros/NNS in/IN 2003./CD
+Operating/NN profits/NNS were/VBD at/IN 380m/CD euros/NNS ten/NN times/NNS more/JJR than/IN in/IN 2003./CD
+Lufthansa/NNP was/VBD hit/VBN in/IN 2003/CD by/IN tough/JJ competition/NN and/CC a/DT dip/NN in/IN demand/NN following/VBG the/DT Iraq/NNP war/NN and/CC the/DT killer/NN SARS/NNP virus./NN
+It/PRP was/VBD also/RB hit/VBN by/IN troubles/NNS at/IN its/PRP$ US/PRP catering/VBP business./NN
+Last/JJ year/NN Lufthansa/NNP showed/VBD signs/NNS of/IN recovery/NN even/RB as/IN some/DT European/JJ and/CC US/PRP airlines/VBZ were/VBD teetering/VBG on/IN the/DT brink/NN of/IN bankruptcy./NN
+The/DT board/NN of/IN Lufthansa/NNP has/VBZ recommended/VBN paying/VBG a/DT 2004/CD dividend/NN of/IN 0.30/CD euros/NNS per/IN share./NN
+In/IN 2003/CD shareholders/NNS did/VBD not/RB get/VB a/DT dividend./NN
+The/DT company/NN said/VBD that/IN it/PRP will/MD give/VB all/PDT the/DT details/NNS of/IN its/PRP$ 2004/CD results/NNS on/IN 23/CD March./NNP

@@ -1,0 +1,19 @@
+Gamer/NNP buys/VBZ $26500/CD virtual/JJ land/NN
+
+A/DT 22-year-old/JJ gamer/NN has/VBZ spent/VBN $26500/CD (£13700)/CD on/IN an/DT island/NN that/WDT exists/VBZ only/RB in/IN a/DT computer/NN role-playing/JJ game/NN (RPG)./NN
+
+The/DT Australian/JJ gamer/NN known/VBN only/RB by/IN his/PRP$ gaming/NN moniker/NN Deathifier/NNP bought/VBD the/DT island/NN in/IN an/DT online/NN auction./NN
+The/DT land/NN exists/VBZ within/IN the/DT game/NN Project/NNP Entropia/NNP an/DT RPG/NNP which/WDT allows/VBZ thousands/NNS of/IN players/NNS to/TO interact/JJ with/IN each/DT other./NN
+Entropia/NNP allows/VBZ gamers/NNS to/TO buy/VB and/CC sell/VB virtual/JJ items/NNS using/VBG real/JJ cash/NN while/IN fans/NNS of/IN other/JJ titles/NNS often/RB use/VBP auction/NN site/NN eBay/NN to/TO sell/VB their/PRP$ virtual/JJ wares./NN
+Earlier/RBR this/DT year/NN economists/NNS calculated/VBN that/IN these/DT massively/RB multi-player/JJ online/NN role-playing/JJ games/NNS (MMORPGs)/NN have/VBP a/DT gross/JJ economic/JJ impact/NN equivalent/JJ to/TO the/DT GDP/NNP of/IN the/DT African/JJ nation/NN of/IN Namibia./NNP
+
+"This/NN is/VBZ a/DT historic/JJ moment/NN in/IN gaming/NN history/NN and/CC this/DT sale/NN only/RB goes/VBZ to/TO prove/VB that/IN massive/JJ multi-player/JJ online/NN gaming/NN has/VBZ reached/VBN a/DT new/JJ plateau"/NN said/VBD Marco/NNP Behrmann/NNP director/NN of/IN community/NN relations/NNS at/IN Mindark/NNP the/DT game's/NNS developer./NN
+
+The/DT virtual/JJ island/NN includes/VBZ a/DT gigantic/JJ abandoned/VBN castle/NN and/CC beautiful/JJ beaches/NNS which/WDT are/VBP described/VBN as/IN ripe/JJ for/IN developing/VBG beachfront/JJ property./NN
+Deathifier/NNP will/MD make/VB money/NN from/IN his/PRP$ investment/NN as/IN he/PRP is/VBZ able/JJ to/TO tax/VB other/JJ gamers/NNS who/WP come/VBP to/TO his/PRP$ virtual/JJ land/NN to/TO hunt/VB or/CC mine/NN for/IN gold./NN
+He/PRP has/VBZ also/RB begun/VBN to/TO sell/VB plots/NNS to/TO people/NNS who/WP wish/VBP to/TO build/VB virtual/JJ homes./NN
+"This/NN type/NN of/IN investment/NN will/MD definitely/RB become/VB a/DT trend/NN in/IN online/NN gaming"/NN said/VBD Deathifier./NNP
+The/DT Entopia/NNP economy/NN lets/VBZ gamers/NNS exchange/VBP real/JJ currency/NN into/IN PED/NNP (Project/NN Entropia/NNP Dollars)/NNP and/CC back/RB again/RB into/IN real/JJ money./NN
+Ten/CD PEDs/NNP are/VBP the/DT equivalent/JJ to/TO one/CD US/PRP dollar/VBP and/CC typical/JJ items/NNS sold/VBN include/VBP iron/NN ingots/NNS ($5)/CD and/CC shogun/NN armour/NN ($1.70)/CD Gamers/NNP can/MD theoretically/RB earn/VB money/NN by/IN accumulating/VBG PEDs/NNP through/IN the/DT acquisition/NN of/IN goods/NNS buildings/NNS and/CC land/NN in/IN the/DT Entropia/NNP universe./NN
+MMORPGs/NNS have/VBP become/VBN enormously/RB popular/JJ in/IN the/DT last/JJ 10/CD years/NNS with/IN hundreds/NNS of/IN thousands/NNS of/IN gamers/NNS living/VBG out/RP alternate/JJ lives/NNS in/IN fantasy/NN worlds./NN
+Almost/RB 200000/CD people/NNS are/VBP registered/VBN players/NNS on/IN Project/NNP Entropia./NNP

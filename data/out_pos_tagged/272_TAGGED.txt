@@ -1,0 +1,22 @@
+Markets/NNS signal/NN Brazilian/JJ recovery/NN
+
+The/DT Brazilian/JJ stock/NN market/NN has/VBZ risen/VBN to/TO a/DT record/NN high/NN as/IN investors/NNS display/NN growing/VBG confidence/NN in/IN the/DT durability/NN of/IN the/DT country's/NNS economic/JJ recovery./NN
+
+The/DT main/JJ Bovespa/NNP index/NN on/IN the/DT Sao/NNP Paolo/NNP Stock/NNP Exchange/NNP closed/VBD at/IN 24997/CD points/NNS on/IN Friday/NNP topping/VBG the/DT previous/JJ record/NN market/NN close/NN reached/VBN the/DT previous/JJ day./NN
+The/DT market's/NNS buoyancy/NN reflects/VBZ optimism/NN about/IN the/DT Brazilian/JJ economy/NN which/WDT could/MD grow/VB by/IN as/RB much/JJ as/IN 4.5%/CD in/IN 2004./CD
+Brazil/NNP is/VBZ recovering/VBG from/IN last/JJ year's/NNS recession/NN -/: its/PRP$ worst/JJS in/IN a/DT decade./NN
+
+Economic/NNP output/NN declined/VBD 0.2%/CD in/IN 2003/CD and/CC President/NNP Luiz/NNP Inacio/NNP Lula/NNP da/NNP Silva/NN -/: elected/VBN as/IN Brazil's/NNP first/JJ working-class/JJ president/NN in/IN 2002/CD -/: was/VBD strongly/RB criticised/VBN for/IN pursuing/VBG a/DT hardline/JJ economic/JJ policy./NN
+
+Investors/NNS have/VBP praised/VBN his/PRP$ handling/NN of/IN the/DT economy/NN as/IN foreign/JJ investment/NN has/VBZ risen/VBN unemployment/NN has/VBZ fallen/VBN and/CC inflation/NN has/VBZ been/VBN brought/VBN under/IN control./NN
+Analysts/NNS believe/VBP the/DT stock/NN market/NN will/MD rise/VB above/IN the/DT 25000/CD mark/NN for/IN the/DT first/JJ time/NN before/IN too/RB long./NN
+"There/NN should/MD be/VB more/JJR space/NN for/IN gains/NNS until/IN the/DT end/NN of/IN the/DT year/NN somewhere/RB up/IN to/TO 27000/CD points"/NN said/VBD Paschoal/NNP Tadeu/NNP Buonomo/NNP head/NN of/IN equities/NNS trading/VBG at/IN brokers/NNS TOV./NNP
+Brazil's/NNP currency/NN the/DT real/JJ also/RB rose/VBD to/TO its/PRP$ highest/JJS level/NN against/IN the/DT dollar/NN in/IN more/JJR than/IN two/CD years/NNS on/IN Friday./NNP
+Although/IN interest/NN rates/NNS still/RB stand/VBP at/IN a/DT punitive/JJ 17.25%/CD inflation/NN has/VBZ fallen/VBN from/IN 9%/CD to/TO 7%/CD while/IN exports/NNS are/VBP booming/JJ particularly/RB of/IN agricultural/JJ products./NN
+"For/NN the/DT first/JJ time/NN in/IN decades/NNS we/PRP have/VBP all/DT three/CD economic/JJ policy/NN pillars/NNS in/IN line/NN during/IN a/DT recovery"/NN Finance/NNP Minister/NNP Antonio/NNP Palocci/NNP told/VBD the/DT Associated/NNP Press/NNP news/NN agency./NN
+"Government/NN accounts/NNS are/VBP in/IN surplus/NN we/PRP have/VBP a/DT current/JJ account/NN surplus/NN and/CC inflation/NN is/VBZ under/IN control."/NN
+
+Investors/NNS were/VBD deeply/RB suspicious/JJ of/IN President/NNP da/NNP Silva/NN a/DT former/JJ trade/NN union/NN leader/NN who/WP campaigned/VBD on/IN a/DT programme/NN of/IN extensive/JJ land/NN redistribution/NN and/CC a/DT large/JJ rise/NN in/IN the/DT minimum/JJ wage./NN
+However/RB Mr/NNP da/NNP Silva/NN has/VBZ stuck/VBN to/TO an/DT orthodox/JJ monetary/JJ policy/NN inherited/VBN from/IN his/PRP$ predecessor/NN even/RB in/IN the/DT face/NN of/IN last/JJ year's/NNS economic/JJ crisis./NN
+This/DT has/VBZ earned/VBN him/PRP the/DT disapproval/NN of/IN rural/JJ farm/NN workers/NNS thousands/NNS of/IN whom/WP who/WP took/VBD to/TO the/DT streets/NNS of/IN Brasilia/NNP on/IN Thursday/NNP to/TO protest/VB against/IN government/NN policies./NN
+President/NNP da/NNP Silva/NN has/VBZ defended/VBN his/PRP$ policies/NNS arguing/VBG that/IN Brazil/NNP cannot/NN afford/NN to/TO continue/VB the/DT cycle/NN of/IN boom/NN and/CC bust/NN which/WDT afflicted/VBD it/PRP in/IN recent/JJ decades./NN

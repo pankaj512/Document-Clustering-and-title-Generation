@@ -1,0 +1,20 @@
+FA/NN probes/NNS crowd/NN trouble/NN
+
+The/DT FA/NNP is/VBZ to/TO take/VB action/NN after/IN trouble/NN marred/VBN Wednesday's/NNP Carling/NNP Cup/NNP tie/VB between/IN Chelsea/NNP and/CC West/NNP Ham./NNP
+
+Police/NNP in/IN riot/NN gear/NN were/VBD confronted/VBN by/IN a/DT section/NN of/IN the/DT West/NNP Ham/NN support/NN after/IN the/DT match/NN which/WDT the/DT Blues/NNPS won/VBD 1-0./JJ
+Mateja/NNP Kezman/NNP the/DT scorer/NN of/IN Chelsea's/NNP goal/NN needed/VBD treatment/NN on/IN a/DT head/NN injury/NN during/IN the/DT match/NN after/IN being/VBG hit/VBD by/IN a/DT missile/NN believed/VBN to/TO be/VB a/DT coin./NN
+A/DT spokeswoman/NN for/IN Chelsea/NNP said/VBD the/DT club/NN would/MD await/VB the/DT referee's/NNS report/NN before/IN deciding/VBG on/IN its/PRP$ course/NN of/IN action./NN
+Kezman/NNP was/VBD forced/VBN off/RP the/DT field/NN to/TO receive/VB treatment/NN on/IN a/DT cut/NN above/IN his/PRP$ eye/NN but/CC was/VBD able/JJ to/TO continue./VB
+
+Chelsea/NNP assistant/NN boss/NN Steve/NNP Clarke/NNP said/VBD "I/NN would/MD rather/RB talk/VB about/IN the/DT football/NN but/CC we/PRP think/VBP it/PRP was/VBD something/NN thrown/VBN from/IN the/DT crowd./NN
+He/PRP did/VBD not/RB require/VB stitches."/NN West/NNP Ham/NN boss/NN Alan/NNP Pardew/NNP said/VBD "It's/NN a/DT shame/NN because/IN I/PRP thought/VBD there/EX was/VBD good/JJ English/JJ banter/NN in/IN the/DT crowd./NN
+"There's/NN big/JJ rivalry/NN between/IN the/DT two/CD clubs/NNS and/CC it/PRP is/VBZ a/DT shame/NN if/IN that's/NNS happened./NN
+From/IN where/WRB I/PRP was/VBD standing/NN I/PRP didn't/VBP see/NN any/DT trouble."/NN Former/NNP Hammers/NNP star/NN Joe/NNP Cole/NNP also/RB had/VBD a/DT plastic/NN bottle/NN thrown/VBN at/IN him/PRP while/IN Frank/NNP Lampard/NNP was/VBD pelted/VBN with/IN coins/NNS as/IN he/PRP was/VBD preparing/VBG to/TO take/VB a/DT penalty./NN
+Lampard's/NNP spot-kick/NN was/VBD saved/VBN to/TO the/DT delight/NN of/IN the/DT Hammers'/NNP fans/NNS who/WP have/VBP still/RB not/RB forgiven/VBN him/PRP for/IN leaving/VBG Upton/NNP Park./NNP
+The/DT FA/NNP will/MD seek/VB reports/NNS from/IN the/DT clubs/NNS and/CC the/DT police/NN and/CC will/MD review/VB video/NN evidence/NN and/CC the/DT referee's/NNS report./NN
+Police/NNP in/IN riot/NN gear/NN battled/VBD with/IN West/NNP Ham/NN fans/NNS in/IN the/DT Matthew/NNP Harding/NNP stand/VBP and/CC at/IN least/JJS one/CD supporter/NN required/VBD treatment./NN
+Fans/NNS are/VBP also/RB thought/VBN to/TO have/VB clashed/VBN outside/IN the/DT ground/NN after/IN the/DT game./NN
+Scotland/NNP Yard/NN said/VBD there/EX had/VBD been/VBN 11/CD arrests/NNS for/IN alleged/JJ public/JJ order/NN drugs/NNS and/CC offensive/JJ weapon/NN offences./NN
+
+The/DT FA/NNP is/VBZ already/RB looking/VBG into/IN the/DT trouble/NN at/IN Tuesday's/NNP heated/JJ Carling/NNP Cup/NNP tie/VB between/IN Millwall/NNP and/CC Liverpool./NNP

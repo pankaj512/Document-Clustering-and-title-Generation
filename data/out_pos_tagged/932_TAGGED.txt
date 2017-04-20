@@ -1,0 +1,25 @@
+Choose/VB hope/NN over/IN fear/NN -/: Kennedy/NNP
+
+Voters/NNS will/MD have/VB a/DT clear/JJ choice/NN between/IN the/DT politics/NNS of/IN fear/NN and/CC the/DT politics/NNS of/IN hope/NN in/IN the/DT next/JJ general/JJ election/NN said/VBD Charles/NNP Kennedy./NNP
+
+In/IN his/PRP$ New/NNP Year/NN message/NN the/DT Liberal/NNP Democrat/NNP leader/NN said/VBD Labour/NNP and/CC the/DT Conservatives/NNS were/VBD united/VBN in/IN relying/VBG on/IN fear/NN and/CC "populist/NN scares"./NN
+He/PRP said/VBD his/PRP$ party/NN was/VBD the/DT one/CD of/IN hope/NN and/CC was/VBD ready/JJ for/IN a/DT 2005/CD poll./NN
+On/IN the/DT Asian/JJ tsunami/NN he/PRP said/VBD it/PRP had/VBD been/VBN "very/NN heartening"/NN to/TO learn/VB of/IN the/DT generosity/NN being/VBG shown/VBN by/IN Britons./NNP
+Mr/NNP Kennedy/NNP said/VBD his/PRP$ thoughts/NNS were/VBD with/IN all/PDT those/DT caught/VBN up/RP in/IN the/DT disaster/NN which/WDT had/VBD dominated/VBN the/DT Christmas/NNP and/CC New/NNP Year/NN period./NN
+At/IN home/NN he/PRP said/VBD many/JJ people/NNS were/VBD turning/VBG to/TO the/DT Liberal/NNP Democrats/NNPS as/IN they/PRP became/VBD disheartened/JJ with/IN the/DT politics/NNS of/IN the/DT other/JJ two/CD main/JJ parties./NN
+
+The/DT general/JJ election/NN would/MD be/VB a/DT three-party/JJ struggle/NN as/IN the/DT Conservative/JJ party/NN "fades/NN away"/NN as/IN a/DT national/JJ force/NN and/CC the/DT Liberal/NNP Democrats/NNPS challenge/VBP Labour/NNP in/IN its/PRP$ heartlands/NNS he/PRP said./VB
+"A/NN clear/JJ division/NN is/VBZ emerging/VBG in/IN British/JJ politics/NNS -/: the/DT politics/NNS of/IN fear/NN versus/CC the/DT politics/NNS of/IN hope./NN
+"Labour/NN is/VBZ counting/VBG on/IN the/DT politics/NNS of/IN fear/NN ratcheting/VBG up/RP talk/NN of/IN threats/NNS crime/NN and/CC insecurity./NN
+While/IN the/DT Conservatives/NNS are/VBP re-working/VB their/PRP$ populist/JJ scares/NNS about/IN asylum/NN and/CC the/DT European/JJ 'menace'"/NN he/PRP said./VB
+He/PRP said/VBD the/DT government/NN was/VBD using/VBG this/DT climate/NN of/IN fear/NN to/TO try/VB to/TO strip/VB away/RB civil/JJ liberties./NN
+
+It/PRP was/VBD already/RB using/VBG detention/NN without/IN trial/NN at/IN Belmarsh/NNP Prison/NNP ignoring/VBG a/DT recent/JJ Law/NNP Lords/NNPS judgement/NN that/IN this/DT contravenes/NNS basic/JJ human/JJ rights/NNS he/PRP said./VB
+He/PRP also/RB criticised/VBD attempts/NNS to/TO bring/VB in/RP trial/NN without/IN jury/NN plans/VBZ to/TO lower/VB the/DT burden/NN of/IN proof/NN in/IN some/DT criminal/JJ trials/NNS curbing/NN of/IN rights/NNS to/TO protest/VB increased/VBD stop/NN and/CC search/NN powers/NNS and/CC ID/NNP card/NN plans./NN
+He/PRP said/VBD while/IN everyone/NN had/VBD the/DT right/NN to/TO be/VB secure/VBN they/PRP also/RB had/VBD the/DT right/NN to/TO be/VB protected/VBN against/IN unfair/JJ discrimination./JJ
+"But/NN at/IN the/DT same/JJ time/NN an/DT overmighty/NN state/NN is/VBZ a/DT dangerous/JJ one"/NN he/PRP said./VB
+His/PRP$ party/NN "instinctively"/NN understood/VBD the/DT "new/NN liberal/JJ Britain"/NNP which/WDT is/VBZ no/RB longer/RB a/DT nation/NN with/IN one/CD family/NN structure/NN and/CC one/CD colour/NN he/PRP said./VB
+"We/NN are/VBP less/RBR deferential/JJ more/RBR inclined/JJ to/TO think/VB for/IN ourselves/PRP more/RBR open/JJ about/IN sexuality/NN and/CC equality./NN
+"Our/NN national/JJ institutions/NNS are/VBP changing/VBG too./NN
+We/PRP are/VBP no/RB longer/RB a/DT nation/NN of/IN one/CD church/NN we/PRP are/VBP a/DT nation/NN of/IN many/JJ faiths./NN
+In/IN our/PRP$ attitudes/NNS and/CC the/DT way/NN we/PRP live/VBP our/PRP$ lives/NNS this/DT is/VBZ in/IN many/JJ ways/NNS a/DT liberal/JJ Britain."/NNP

@@ -1,0 +1,27 @@
+Royal/NNP couple/NN watch/NN nation's/NNS mood/NN
+
+Prince/NNP Charles/NNP and/CC Camilla/NNP Parker/NNP Bowles/NNP are/VBP awaiting/VBG the/DT nation's/NNS reaction/NN after/IN announcing/VBG they/PRP are/VBP to/TO be/VB married/JJ on/IN 8/CD April./NNP
+
+Mrs/NNP Parker/NNP Bowles/NNP will/MD take/VB the/DT title/NN HRH/NNP Duchess/NNP of/IN Cornwall/NNP after/IN a/DT civil/JJ ceremony/NN to/TO be/VB held/VBN at/IN Windsor/NNP Castle./NNP
+A/DT Daily/NNP Telegraph/NNP poll/NN of/IN 1313/CD people/NNS suggests/VBZ two-thirds/NNS of/IN Britons/NNP support/NN the/DT couple's/NNS decision/NN to/TO marry./VB
+But/CC only/RB 40%/CD think/VBP Mrs/NNP Parker/NNP Bowles/NNP should/MD become/VB Princess/NNP Consort/NNP as/IN planned/VBN after/IN Charles/NNP becomes/VBZ king./NN
+Some/DT 47%/CD believe/VBP she/PRP should/MD have/VB no/DT title/NN while/IN 7%/CD think/VBP she/PRP should/MD become/VB queen./NN
+
+The/DT poll/NN also/RB found/VBD that/IN the/DT majority/NN of/IN Britons/NNP would/MD prefer/VB the/DT monarchy/NN to/TO miss/VB a/DT generation/NN with/IN the/DT Queen/NNP handing/VBG the/DT throne/NN to/TO her/PRP$ grandson/NN Prince/NNP William/NNP 22/CD on/IN her/PRP$ death/NN or/CC abdication./NN
+On/IN Thursday/NNP night/NN Prince/NNP Charles/NNP 56/CD and/CC Mrs/NNP Parker/NNP Bowles/NNP 57/CD hosted/VBD a/DT dinner/NN at/IN Windsor/NNP Castle/NNP their/PRP$ first/JJ public/JJ appearance/NN since/IN announcing/VBG their/PRP$ engagement./NN
+Mrs/NNP Parker/NNP Bowles/NNP said/VBD the/DT prince/NN went/VBD down/RB on/IN one/CD knee/NN to/TO propose/VB and/CC added/VBD "I'm/NN just/RB coming/VBG down/IN to/TO earth."/VB She/PRP displayed/VBD her/PRP$ diamond/NN engagement/NN ring/NN -/: a/DT Royal/NNP Family/NNP heirloom/NN -/: to/TO reporters./VB
+Charles/NNP said/VBD he/PRP and/CC his/PRP$ wife-to-be/NN were/VBD "absolutely/RB delighted"./NN
+Their/PRP$ marriage/NN will/MD end/VB years/NNS of/IN speculation/NN on/IN a/DT relationship/NN which/WDT dates/NNS back/RB to/TO 1970./CD
+
+The/DT Queen/NNP and/CC Duke/NNP of/IN Edinburgh/NNP said/VBD the/DT news/NN had/VBD made/VBN them/PRP "very/VBP happy"./NN
+Princes/NNP William/NNP and/CC Harry/NNP said/VBD they/PRP are/VBP "very/NN happy"/NN and/CC wish/VBP the/DT couple/NN "all/NN the/DT luck/NN in/IN the/DT future"./NN
+The/DT wedding/NN will/MD be/VB a/DT civil/JJ ceremony/NN followed/VBD by/IN a/DT service/NN of/IN prayer/NN and/CC dedication/NN in/IN St/NNP George's/NNP Chapel/NNP at/IN which/WDT the/DT Archbishop/NNP of/IN Canterbury/NNP Dr/NNP Rowan/NNP Williams/NNP will/MD preside./VB
+
+The/DT marriage/NN is/VBZ likely/JJ to/TO be/VB a/DT sensitive/JJ issue/NN because/IN Mrs/NNP Parker/NNP Bowles/NNP is/VBZ divorced/VBN and/CC her/PRP$ former/JJ husband/NN is/VBZ still/RB alive./NN
+If/IN he/PRP became/VBD king/NN Charles/NNP would/MD be/VB the/DT supreme/JJ governor/NN of/IN the/DT Church/NNP of/IN England/NNP and/CC some/DT Anglicans/NNP remain/VB opposed/VBN to/TO the/DT remarriage/NN of/IN divorcees./NN
+"His/NN divorce/NN from/IN Diana/NNP and/CC the/DT disappointment/NN the/DT country/NN felt/VBD over/IN how/WRB Diana/NNP had/VBD been/VBN treated.../NN
+opened/VBD up/RP a/DT sense/NN of/IN disillusionment/NN with/IN [Prince/NN Charles]"/NNP said/VBD Ros/NNP Coward/NN who/WP wrote/VBD the/DT authorised/VBN biography/NN of/IN Diana/NNP princess/JJ of/IN Wales./NNP
+The/DT Archbishop/NNP of/IN Canterbury/NNP said/VBD "I/NN am/VBP pleased/JJ that/IN Prince/NNP Charles/NNP and/CC Mrs/NNP Camilla/NNP Parker/NNP Bowles/NNP have/VBP decided/VBN to/TO take/VB this/DT important/JJ step."/NN Tony/NNP Blair/NNP said/VBD he/PRP was/VBD "delighted"/NN for/IN the/DT couple/NN and/CC offered/VBD his/PRP$ congratulations/NNS as/IN did/VBD Conservative/JJ leader/NN Michael/NNP Howard/NNP and/CC Liberal/NNP Democrat/NNP leader/NN Charles/NNP Kennedy./NNP
+Australia's/NNP Prime/NNP Minister/NNP John/NNP Howard/NNP also/RB offered/VBD his/PRP$ congratulations/NNS adding/VBG that/IN their/PRP$ decision/NN to/TO marry/VB was/VBD a/DT "sensible/JJ and/CC a/DT good/JJ thing"./NN
+Mrs/NNP Parker/NNP Bowles/NNP has/VBZ joined/VBN the/DT prince/NN at/IN numerous/JJ engagements/NNS in/IN recent/JJ years/NNS -/: mostly/RB at/IN evening/NN events/NNS for/IN The/DT Prince's/NNP Trust./NNP
+Clarence/NNP House/NNP staff/NN were/VBD at/IN pains/NNS to/TO point/VB out/RP that/IN she/PRP attended/VBD these/DT events/NNS in/IN a/DT private/JJ capacity./NN

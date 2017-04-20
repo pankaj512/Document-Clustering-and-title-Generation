@@ -1,0 +1,26 @@
+Ad/NN sales/NNS boost/VBP Time/NNP Warner/NNP profit/NN
+
+Quarterly/JJ profits/NNS at/IN US/PRP media/VBZ giant/JJ TimeWarner/NNP jumped/VBD 76%/CD to/TO $1.13bn/CD (£600m)/CD for/IN the/DT three/CD months/NNS to/TO December/NNP from/IN $639m/CD year-earlier./JJ
+
+The/DT firm/NN which/WDT is/VBZ now/RB one/CD of/IN the/DT biggest/JJS investors/NNS in/IN Google/NNP benefited/VBD from/IN sales/NNS of/IN high-speed/JJ internet/JJ connections/NNS and/CC higher/JJR advert/NN sales./NN
+TimeWarner/NNP said/VBD fourth/JJ quarter/NN sales/NNS rose/VBD 2%/CD to/TO $11.1bn/CD from/IN $10.9bn./CD
+Its/PRP$ profits/NNS were/VBD buoyed/VBN by/IN one-off/JJ gains/NNS which/WDT offset/VBD a/DT profit/NN dip/NN at/IN Warner/NNP Bros/NNP and/CC less/CC users/NNS for/IN AOL./NNP
+
+Time/NNP Warner/NNP said/VBD on/IN Friday/NNP that/IN it/PRP now/RB owns/VBZ 8%/CD of/IN search-engine/JJ Google./NNP
+But/CC its/PRP$ own/JJ internet/JJ business/NN AOL/NNP had/VBD has/VBZ mixed/JJ fortunes./NN
+It/PRP lost/VBD 464000/CD subscribers/NNS in/IN the/DT fourth/JJ quarter/NN profits/NNS were/VBD lower/JJR than/IN in/IN the/DT preceding/VBG three/CD quarters./NN
+However/RB the/DT company/NN said/VBD AOL's/NNP underlying/VBG profit/NN before/IN exceptional/JJ items/NNS rose/VBD 8%/CD on/IN the/DT back/NN of/IN stronger/JJR internet/JJ advertising/NN revenues./NN
+It/PRP hopes/VBZ to/TO increase/VB subscribers/NNS by/IN offering/VBG the/DT online/NN service/NN free/JJ to/TO TimeWarner/NNP internet/JJ customers/NNS and/CC will/MD try/VB to/TO sign/VB up/RP AOL's/NNP existing/VBG customers/NNS for/IN high-speed/JJ broadband./NN
+TimeWarner/NNP also/RB has/VBZ to/TO restate/VB 2000/CD and/CC 2003/CD results/NNS following/VBG a/DT probe/NN by/IN the/DT US/PRP Securities/NNPS Exchange/NNP Commission/NNP (SEC)/NN which/WDT is/VBZ close/RB to/TO concluding./VB
+
+Time/NNP Warner's/NNP fourth/JJ quarter/NN profits/NNS were/VBD slightly/RB better/JJR than/IN analysts'/NN expectations./NN
+But/CC its/PRP$ film/NN division/NN saw/VBD profits/NNS slump/NN 27%/CD to/TO $284m/CD helped/VBN by/IN box-office/NN flops/NNS Alexander/NNP and/CC Catwoman/NNP a/DT sharp/JJ contrast/NN to/TO year-earlier/JJ when/WRB the/DT third/JJ and/CC final/JJ film/NN in/IN the/DT Lord/NNP of/IN the/DT Rings/NNS trilogy/NN boosted/VBD results./NN
+For/IN the/DT full-year/JJ TimeWarner/NNP posted/VBD a/DT profit/NN of/IN $3.36bn/CD up/RP 27%/CD from/IN its/PRP$ 2003/CD performance/NN while/IN revenues/NNS grew/VBD 6.4%/CD to/TO $42.09bn./CD
+"Our/NN financial/JJ performance/NN was/VBD strong/JJ meeting/NN or/CC exceeding/VBG all/DT of/IN our/PRP$ full-year/JJ objectives/NNS and/CC greatly/RB enhancing/VBG our/PRP$ flexibility"/NN chairman/NN and/CC chief/JJ executive/NN Richard/NNP Parsons/NNP said./NN
+For/IN 2005/CD TimeWarner/NNP is/VBZ projecting/VBG operating/NN earnings/NNS growth/NN of/IN around/IN 5%/CD and/CC also/RB expects/VBZ higher/JJR revenue/NN and/CC wider/JJR profit/NN margins./NN
+
+TimeWarner/NNP is/VBZ to/TO restate/VB its/PRP$ accounts/NNS as/IN part/NN of/IN efforts/NNS to/TO resolve/VB an/DT inquiry/NN into/IN AOL/NNP by/IN US/PRP market/VBP regulators./NN
+It/PRP has/VBZ already/RB offered/VBN to/TO pay/VB $300m/CD to/TO settle/VB charges/NNS in/IN a/DT deal/NN that/WDT is/VBZ under/IN review/NN by/IN the/DT SEC./NNP
+The/DT company/NN said/VBD it/PRP was/VBD unable/JJ to/TO estimate/VB the/DT amount/NN it/PRP needed/VBD to/TO set/VB aside/RB for/IN legal/JJ reserves/NNS which/WDT it/PRP previously/RB set/VBD at/IN $500m./CD
+It/PRP intends/VBZ to/TO adjust/VB the/DT way/NN it/PRP accounts/VBZ for/IN a/DT deal/NN with/IN German/JJ music/NN publisher/NN Bertelsmann's/NNP purchase/NN of/IN a/DT stake/NN in/IN AOL/NNP Europe/NNP which/WDT it/PRP had/VBD reported/VBN as/IN advertising/NN revenue./NN
+It/PRP will/MD now/RB book/VB the/DT sale/NN of/IN its/PRP$ stake/NN in/IN AOL/NNP Europe/NNP as/IN a/DT loss/NN on/IN the/DT value/NN of/IN that/DT stake./NN

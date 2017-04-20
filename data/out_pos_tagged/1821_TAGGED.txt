@@ -1,0 +1,9 @@
+Almagro/NNP continues/VBZ Spanish/JJ surge/NN
+
+Unseeded/NNP Nicolas/NNP Almagro/NNP became/VBD the/DT fifth/JJ Spaniard/NNP to/TO reach/VB the/DT last/JJ eight/CD at/IN the/DT Buenos/NNP Aires/NNP Open/NNP ousting/VBG eighth/JJ seed/NN Mariano/NNP Zabaleta./NNP
+
+He/PRP showed/VBD admirable/JJ resolve/NN to/TO win/VB a/DT rain-affected/JJ match/VBP 6-7/JJ 6-4/JJ 6-4./JJ
+Compatriot/NN and/CC seventh/JJ seed/NN Rafael/NNP Nadal/NNP also/RB reached/VBD the/DT last/JJ eight/CD beating/VBG Italian/JJ Potito/NNP Starace/NNP 6-1/JJ 6-3./JJ
+Nadal/NNP playing/VBG in/IN the/DT outdoor/JJ clay/NN event/NN for/IN the/DT first/JJ time/NN hit/VBD some/DT powerful/JJ forehands/NNS to/TO oust/VB Starace/NNP in/IN a/DT match/NN delayed/VBN over/IN an/DT hour/NN by/IN rain./NN
+"It's/NN always/RB a/DT problem/NN to/TO have/VB to/TO stop/VB for/IN rain/NN but/CC one/CD gets/VBZ used/VBN to/TO it"/VB said/VBD Spanish/JJ teenager/NN Nadal./NNP
+"Luckily/RB I/PRP was/VBD able/JJ to/TO keep/VB my/PRP$ pace/NN going/VBG throughout/IN the/DT match."/NN He/PRP will/MD now/RB play/VB Gaston/NNP Gaudio/NNP who/WP beat/VBP unseeded/VBN Brazilian/JJ Flavio/NNP Saretta/NNP 6-3/JJ 6-2/NN in/IN the/DT day's/NNS late/JJ match./NN

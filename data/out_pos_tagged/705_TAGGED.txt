@@ -1,0 +1,15 @@
+US/PRP TV/VBP special/JJ for/IN tsunami/NN relief/NN
+
+A/DT US/PRP television/VBP network/NN will/MD screen/VB a/DT celebrity/NN TV/NN special/JJ to/TO benefit/VB the/DT tsunami/NN relief/NN effort/NN in/IN South/NNP Asia./NNP
+
+NBC/NNP will/MD encourage/VB viewer/NN donations/NNS during/IN an/DT hour-long/JJ show/NN featuring/VBG musical/JJ performances/NNS on/IN 15/CD January./NNP
+Actress/NNP Sandra/NNP Bullock/NNP has/VBZ donated/VBN $1m/CD (£525000)/CD to/TO The/DT American/NNP Red/NNP Cross/NNP and/CC actor/NN Leonardo/NNP DiCaprio/NNP pledged/VBD a/DT "sizable"/NN aid/NN contribution/NN to/TO Unicef./NNP
+Meanwhile/RB 70/CD Hong/NNP Kong/NNP music/NN and/CC movie/NN stars/NNS re-recorded/JJ We/PRP Are/VBP the/DT World/NNP in/IN Mandarin/NNP and/CC Cantonese/NNP to/TO raise/VB funds./NN
+
+The/DT song/NN will/MD not/RB be/VB released/VBN as/IN a/DT single/JJ but/CC will/MD be/VB played/VBN regularly/RB during/IN a/DT Chinese/JJ telethon/NN on/IN Friday/NNP in/IN aid/NN of/IN victims/NNS of/IN the/DT Boxing/NNP Day/NNP disaster./JJ
+Around/IN 140000/CD people/NNS were/VBD killed/VBN and/CC five/CD million/CD left/VBN homeless/JJ or/CC without/IN food/NN and/CC water/NN after/IN an/DT earthquake/NN below/IN the/DT Indian/NNP Ocean/NNP sent/VBD waves/NNS crashing/VBG into/IN coastal/JJ communities/NNS in/IN 11/CD countries./NN
+
+The/DT United/NNP Nations/NNPS warned/VBD that/IN the/DT number/NN killed/VBN in/IN the/DT disaster/NN could/MD rise/VB sharply/RB with/IN aid/NN yet/RB to/TO reach/VB some/DT remote/JJ areas./NN
+Performers/NNS have/VBP yet/RB to/TO be/VB confirmed/VBN for/IN NBC's/NNP aid/NN relief/NN benefit/NN later/RB this/DT month./NN
+It/PRP follows/VBZ a/DT two-hour/JJ telethon/NN carried/VBN by/IN all/DT four/CD major/JJ US/PRP television/VBP networks/NNS 10/CD days/NNS after/IN the/DT 11/CD September/NNP terror/NN attacks/NNS in/IN 2001./CD
+America/VBG A/NNP Tribute/NN to/TO Heroes/NNS raised/VBD more/JJR than/IN $150m/CD (£79m)/CD to/TO help/VB victims/NNS of/IN the/DT suicide/NN attacks/NNS on/IN the/DT World/NNP Trade/NNP Center/NNP and/CC Pentagon./NNP

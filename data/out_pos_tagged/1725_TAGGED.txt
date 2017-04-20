@@ -1,0 +1,16 @@
+Dominici/NNP backs/VBZ lacklustre/NN France/NNP
+
+Wing/NNP Christophe/NNP Dominici/NNP says/VBZ France/NNP can/MD claim/VB another/DT Six/CD Nations/NNPS Grand/NNP Slam/NNP despite/IN two/CD lacklustre/NN wins/VBZ so/RB far/RB against/IN Scotland/NNP and/CC England./NNP
+
+The/DT champions/NNS only/RB just/RB saw/VBD off/RP the/DT Scots/NNP in/IN Paris/NNP then/RB needed/VBD England/NNP to/TO self-destruct/VB in/IN last/JJ week's/NNS 18-17/JJ win./NN
+"The/NNP English/NNP played/VBD better/RBR than/IN us/PRP but/CC lost/VBD whereas/IN we/PRP are/VBP still/RB in/IN the/DT race/NN for/IN the/DT Grand/NNP Slam"/NNP said/VBD Dominici./NNP
+"We/NN know/NN our/PRP$ display/NN was/VBD not/RB perfect/JJ but/CC we/PRP can/MD still/RB win/VB the/DT Grand/NNP Slam/NNP along/IN with/IN Ireland/NNP and/CC Wales."/NNP France/NNP Ireland/NNP and/CC Wales/NNP all/DT remain/VBP unbeaten/JJ after/IN two/CD rounds/NNS of/IN this/DT year's/NNS RBS/NNP Six/CD Nations/NNPS with/IN the/DT two/CD Celtic/NNP nations/NNS playing/VBG by/IN far/RB the/DT more/RBR impressive/JJ rugby./NN
+
+France/NNP take/VB on/RP Wales/NNP at/IN the/DT Stade/NNP de/IN France/NNP on/IN 26/CD February/NNP and/CC Ireland/NNP in/IN Dublin/NNP on/IN 12/CD March./NNP
+But/CC although/IN France/NNP have/VBP yet/RB to/TO click/NN Dominici/NNP says/VBZ that/IN they/PRP can/MD still/RB win/VB the/DT hard/JJ way/NN as/RB long/RB as/IN scrum-half/JJ Dimitri/NNP Yachvili/NNP continues/VBZ in/IN his/PRP$ goalkicking/VBG form./NN
+"If/NN we/PRP have/VBP an/DT efficient/JJ kicker/NN on/IN whom/WP we/PRP can/MD rely/VB on/IN a/DT solid/JJ defence/NN and/CC a/DT team/NN who/WP play/VBP for/IN their/PRP$ lives/NNS we/PRP can/MD achieve/VB something"/NN Dominici/NNP added./NN
+"I/NN said/VBD at/IN the/DT start/NN of/IN the/DT competition/NN that/IN the/DT winners/NNS would/MD be/VB clearer/JJR from/IN the/DT third/JJ matches/NNS and/CC that's/NNS exactly/RB what/WP is/VBZ going/VBG to/TO happen."/VB France/NNP coach/NN Bernard/NNP Laporte/NNP will/MD announce/VB his/PRP$ starting/VBG line-up/JJ next/JJ Tuesday/NNP for/IN the/DT match/NN against/IN Wales./NNP
+
+Wing/NNP Jimmy/NNP Marlu/NNP is/VBZ definitely/RB out/IN with/IN the/DT knee/NN injury/NN sustained/VBN at/IN Twickenham/NNP which/WDT is/VBZ likely/JJ to/TO sideline/VB him/PRP for/IN the/DT rest/NN of/IN the/DT tournament./NN
+Inspirational/JJ flanker/NN Serge/NNP Betsen/NNP is/VBZ a/DT doubt/NN with/IN a/DT thigh/NN injury/NN but/CC number/NN eight/CD Imanol/NNP Harinordoquy/NNP has/VBZ shaken/VBN off/RP his/PRP$ shoulder/NN injury./NN
+In/IN the/DT backs/NNS centre/NN Yannick/NNP Jauzion/NNP and/CC winger/NN Aurelien/NNP Rougerie/NNP are/VBP all/DT back/RB in/IN contention/NN after/IN injury/NN while/IN Brive/NNP back/RB Julien/NNP Laharrague/NNP has/VBZ received/VBN his/PRP$ first/JJ call-up/NN as/IN a/DT replacement/NN for/IN Pepito/NNP Elhorga./NNP

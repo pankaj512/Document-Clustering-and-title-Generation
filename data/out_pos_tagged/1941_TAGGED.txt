@@ -1,0 +1,20 @@
+Joke/NN e-mail/JJ virus/NN tricks/NNS users/NNS
+
+A/DT virus/NN that/IN disguises/VBZ itself/PRP as/IN a/DT joke/NN is/VBZ spreading/VBG rapidly/RB across/IN the/DT net./NN
+
+Anti-virus/NN firms/NNS are/VBP issuing/VBG high-level/JJ warnings/NNS about/IN the/DT new/JJ version/NN of/IN the/DT Bagle/NNP e-mail/JJ program/NN that/WDT seems/VBZ to/TO be/VB catching/VBG a/DT lot/NN of/IN people/NNS out./VBP
+The/DT Windows/NNS virus/NN grabs/NNS e-mail/JJ addresses/NNS from/IN Microsoft/NNP Outlook/NN and/CC uses/VBZ its/PRP$ own/JJ mail/NN sending/VBG software/NN to/TO spread/VB itself/PRP to/TO new/JJ victims./NN
+When/WRB it/PRP infects/VBZ a/DT machine/NN the/DT Bagle/NNP variant/JJ turns/VBZ off/RP security/NN measures/NNS that/WDT usually/RB protect/VBP PCs./NNP
+
+The/DT new/JJ variant/JJ is/VBZ called/VBN Bagle.AT/NNP Bagle.BB/NNP and/CC Bagle.AU/NNP and/CC the/DT attachment/NN bearing/VBG the/DT virus/NN code/NN is/VBZ labelled/VBN as/IN either/DT "joke"/NN or/CC "price"./NN
+
+The/DT body/NN of/IN the/DT virus/NN usually/RB contains/VBZ nothing/NN but/CC a/DT smiley/NN or/CC emoticon./NN
+The/DT virus/NN can/MD strike/VB computers/NNS running/VBG Windows/NNS 95/CD 98/CD ME/PRP NT/NNP 2000/CD and/CC XP./NNP
+Users/NNS will/MD be/VB infected/JJ if/IN they/PRP open/VBP the/DT attachment/NN that/WDT travels/VBZ with/IN the/DT e-mail./JJ
+As/RB well/RB as/IN plundering/VBG Microsoft/NNP Outlook/NN for/IN e-mail/JJ addresses/NNS to/TO send/VB itself/PRP to/TO Bagle.AT/NNP also/RB tries/VBZ to/TO turn/VB off/RP the/DT firewall/NN and/CC security/NN centre/NN services/NNS on/IN Windows/NNS XP/NNP machines./NN
+BBC/NNP News/NNP Online/NNP has/VBZ received/VBN five/CD warnings/NNS about/IN the/DT virus/NN from/IN security/NN companies./NN
+Finnish/JJ company/NN F-Secure/NNP gave/VBD the/DT virus/NN its/PRP$ second/JJ highest/JJS threat/NN level./NN
+"We've/NN had/VBD several/JJ reports/NNS all/DT over/IN the/DT world"/NN said/VBD Mikko/NNP Hypponen/NNP director/NN of/IN anti-virus/JJ research/NN for/IN F-Secure./NNP
+Security/NNP firm/NN Network/NNP Box/NNP said/VBD that/IN it/PRP stopped/VBD more/JJR than/IN 30000/CD copies/NNS an/DT hour/NN of/IN the/DT virus/NN as/IN the/DT outbreak/NN reached/VBD a/DT peak./NN
+Black/NNP Spider/NNP said/VBD it/PRP had/VBD stopped/VBN more/JJR than/IN 1/CD million/CD copies/NNS of/IN Bagle.AT/NNP since/IN the/DT outbreak/NN began/VBD at/IN 0630/CD BST/NNP (0530/CD GMT)./NNP
+Anti-virus/NN firms/NNS urged/VBD users/NNS to/TO be/VB wary/JJ of/IN unexpected/JJ e-mail/JJ messages/NNS bearing/NN attachments/NNS and/CC to/TO update/VB their/PRP$ software/NN to/TO ensure/VB they/PRP are/VBP protected/VBN against/IN the/DT latest/JJS threats./NN

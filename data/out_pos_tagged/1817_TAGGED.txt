@@ -1,0 +1,11 @@
+Veteran/NNP Martinez/NNP wins/VBZ Thai/NNP title/NN
+
+Conchita/NNP Martinez/NNP won/VBD her/PRP$ first/JJ title/NN in/IN almost/RB five/CD years/NNS with/IN victory/NN over/IN Anna-Lena/NNP Groenefeld/NNP at/IN the/DT Volvo/NNP Women's/NNP Open/NNP in/IN Pattaya/NNP Thailand./NNP
+
+The/DT 32-year-old/JJ Spaniard/NNP came/VBD through/IN 6-3/JJ 3-6/JJ 6-3/NN for/IN her/PRP$ first/JJ title/NN since/IN Berlin/NNP in/IN 2000./CD
+"It/NN feels/VBZ really/RB good"/NN said/VBD Martinez/NNP who/WP is/VBZ playing/VBG her/PRP$ last/JJ season/NN on/IN the/DT Tour./NNP
+"To/NN come/VBN through/IN like/IN that/DT in/IN an/DT important/JJ match/NN feels/VBZ good./NN
+"It's/NN been/VBN nearly/RB five/CD years/NNS and/CC I/PRP didn't/VBP think/VBP I/PRP could/MD do/VB it."/NN Groenefeld/NNP was/VBD the/DT more/RBR powerful/JJ player/NN but/CC could/MD not/RB match/VB her/PRP$ opponent's/NNS relentless/JJ accuracy./NN
+"It/NN was/VBD my/PRP$ first/JJ final/JJ a/DT new/JJ experience"/NN said/VBD the/DT German./NNP
+"I/NN think/VBP she/PRP played/VBD a/DT good/JJ match/NN a/DT tough/JJ match/NN but/CC I/PRP tried/VBD to/TO stay/VB in/IN there./NN
+I/PRP think/VBP the/DT whole/JJ week/NN was/VBD good/JJ for/IN me."/NN

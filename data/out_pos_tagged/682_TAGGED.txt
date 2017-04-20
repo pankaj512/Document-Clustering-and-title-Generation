@@ -1,0 +1,14 @@
+Eurovision/NNP 'greats'/NN to/TO do/VB battle/NN
+
+Stars/NNP of/IN the/DT Eurovision/NNP Song/NN Contest/NN from/IN the/DT show's/NNS 50-year/JJ history/NN are/VBP to/TO compete/VB against/IN each/DT other/JJ to/TO celebrate/VB the/DT contest's/NNS anniversary./NN
+
+Viewers/NNS will/MD choose/VB 14/CD past/JJ songs/NNS to/TO be/VB performed/VBN by/IN the/DT original/JJ artists/NNS or/CC others/NNS in/IN the/DT spirit/NN of/IN the/DT originals./NN
+Past/JJ Eurovision/NNP performers/NNS include/VBP Abba/NNP Celine/NNP Dion/NNP Bucks/NNS Fizz/NNP Nana/NNP Mouskouri/NNP Lulu/NNP and/CC Julio/NNP Iglesias./NNP
+Fans/NNS will/MD then/RB vote/VB as/RB usual/JJ to/TO pick/VB the/DT all-time/JJ best/JJS Eurovision/NNP song/NN during/IN the/DT show/NN in/IN Denmark/NNP in/IN October./NNP
+The/DT first/JJ contest/NN was/VBD organised/VBN by/IN the/DT European/NNP Broadcasting/NNP Union/NNP or/CC EBU/NNP in/IN 1956/CD and/CC has/VBZ become/VBN an/DT annual/JJ event/NN pitting/VBG pop/NN giants/NNS against/IN musical/JJ minnows/NNS -/: with/IN often/RB surprising/JJ results./NN
+
+While/IN some/DT regard/VBP it/PRP as/IN an/DT essential/JJ celebration/NN of/IN continental/JJ talent/NN others/NNS see/VBP it/PRP as/IN an/DT equally/RB unmissable/JJ parade/NN of/IN the/DT reasons/NNS some/DT countries/NNS do/VBP not/RB normally/RB produce/VB international/JJ stars./NN
+The/DT 50th/JJ annual/JJ contest/NN will/MD be/VB held/VBN in/IN Kiev/NNP Ukraine/NNP in/IN May/NNP after/IN Ukrainian/JJ singer/NN Ruslana/NNP won/VBD last/JJ year./NN
+The/DT 50th/JJ anniversary/NN special/JJ will/MD be/VB held/VBN in/IN Denmark/NNP later/RB this/DT year/NN because/IN the/DT Danish/JJ Broadcasting/NNP Corporation/NNP came/VBD up/RP with/IN the/DT idea/NN for/IN the/DT all-time/JJ contest./NN
+A/DT plan/NN to/TO hold/VB it/PRP in/IN London/NNP was/VBD scrapped/VBN because/RB of/IN problems/NNS finding/VBG a/DT suitable/JJ venue./NN
+Ireland/NNP has/VBZ been/VBN the/DT most/RBS successful/JJ country/NN in/IN the/DT show's/NNS history/NN with/IN seven/CD victories/NNS followed/VBN by/IN the/DT UK/NNP France/NNP and/CC Luxembourg/NNP with/IN five/CD each./NN

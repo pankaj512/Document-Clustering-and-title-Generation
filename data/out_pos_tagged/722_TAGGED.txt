@@ -1,0 +1,15 @@
+Little/NNP Britain/NNP two/CD top/JJ comic/JJ list/NN
+
+Little/NNP Britain/NNP stars/NNS Matt/NNP Lucas/NNP and/CC David/NNP Walliams/NNP have/VBP been/VBN named/VBN the/DT most/RBS powerful/JJ people/NNS in/IN TV/NN comedy/NN in/IN a/DT poll/NN by/IN listings/NNS magazine/NN Radio/NNP Times./NNP
+
+The/DT duo/NN kept/VBD Phoenix/NNP Nights/NNPS creator/NN Peter/NNP Kay/NNP at/IN number/NN two/CD and/CC The/DT Office/NNP star/NN Ricky/NNP Gervais/NNP in/IN third/JJ place./NN
+A/DT Radio/NNP Times/NNP panel/NN compiled/VBD the/DT list/NN taking/VBG the/DT comedians'/NN critical/JJ acclaim/NN and/CC financial/JJ success/NN into/IN account./NN
+Newcomers/NNS to/TO the/DT annual/JJ list/NN included/VBD Nighty/NNP Night/NNP star/NN Julia/NNP Davis/NNP at/IN seven/CD and/CC Black/NNP Books'/NNP Tamsin/NNP Greig/NNP at/IN 19./CD
+
+Lucas/NNP and/CC Walliams/NNP won/VBD numerous/JJ awards/NNS for/IN Little/NNP Britain/NNP in/IN 2004/CD including/VBG National/NNP Television/NNP Royal/NNP Television/NNP Society/NNP and/CC British/NNP Comedy/NNP awards./NN
+More/JJR than/IN 1.8/CD million/CD people/NNS watched/VBD the/DT first/JJ episode/NN of/IN the/DT latest/JJS series/NN of/IN Little/NNP Britain/NNP on/IN BBC/NNP Three/CD in/IN October/NNP giving/VBG the/DT digital/JJ channel/NN its/PRP$ highest/JJS rating/NN ever./NN
+
+They/PRP topped/VBD the/DT Radio/NNP Times/NNP list/NN after/IN rising/VBG from/IN 10th/JJ position/NN last/JJ year./NN
+Other/JJ big/JJ risers/NNS over/IN the/DT past/JJ year/NN included/VBD presenting/VBG duo/NN Ant/NNP and/CC Dec/NNP at/IN five/CD up/RP from/IN 13/CD in/IN 2004/CD Stephen/NNP Fry/NN rising/VBG nine/CD places/NNS to/TO 15/CD and/CC BBC/NNP Three/CD controller/NN Stuart/NNP Murphy/NNP who/WP moves/VBZ to/TO number/VB 18/CD from/IN 32/CD last/JJ year./NN
+Last/JJ year's/NNS winner/NN chat/NN show/NN host/NN Graham/NNP Norton/NNP fell/VBD to/TO number/VB 16/CD following/VBG relatively/RB few/JJ television/NN appearances/NNS in/IN 2004./CD
+Production/NN companies/NNS also/RB featured/VBD in/IN the/DT top/JJ 50/CD including/VBG Steve/NNP Coogan's/NNP Baby/NNP Cow/NN which/WDT created/VBD Nighty/NNP Night/NNP among/IN others/NNS Hat/NN Trick/NN -/: behind/IN The/DT Kumars/NNP at/IN Number/NN 42/CD -/: and/CC The/DT Vicar/NNP of/IN Dibley/NNP production/NN company/NN Tiger/NNP Aspect./NNP

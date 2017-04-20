@@ -1,0 +1,21 @@
+Yukos/NNP bankruptcy/NN 'not/NN US/PRP matter'/VBP
+
+Russian/JJ authorities/NNS do/VBP not/RB have/VB to/TO abide/VB by/IN any/DT US/PRP court/VBP decisions/NNS taken/VBN with/IN regard/NN to/TO troubled/JJ oil/NN giant/NN Yukos/NNP a/DT Houston/NNP court/NN has/VBZ been/VBN told./NN
+
+Legal/NNP expert/NN William/NNP Butler/NNP said/VBD there/EX was/VBD no/DT treaty/NN between/IN the/DT US/PRP and/CC Russia/NNP to/TO recognise/VB the/DT other's/NNS legal/JJ rulings./NN
+That/DT meant/VBN Moscow/NNP would/MD not/RB have/VB to/TO adhere/VB to/TO US/PRP rulings/VBZ in/IN the/DT Yukos/NNP case./NN
+Yukos/NNP says/VBZ a/DT US/PRP court/VBP was/VBD entitled/VBN to/TO declare/VB it/PRP bankrupt/JJ before/IN its/PRP$ Yugansk/NNP unit/NN was/VBD sold/VBN since/IN it/PRP has/VBZ a/DT US/PRP subsidiary/VBP and/CC local/JJ bank/NN accounts./NN
+
+Yukos/NNP made/VBD its/PRP$ surprise/NN Chapter/NN 11/CD bankruptcy/NN filing/NN in/IN Houston/NNP in/IN December/NNP in/IN an/DT unsuccessful/JJ attempt/NN to/TO halt/VB the/DT auction/NN of/IN Yugansk/NNP its/PRP$ main/JJ oil/NN producing/VBG unit/NN by/IN Russian/JJ authorities./NN
+Yugansk/NNP was/VBD sold/VBN to/TO help/VB pay/VB off/RP a/DT $27.5bn/CD (£14.5bn)/CD back/RB tax/NN bill./NN
+It/PRP was/VBD bought/VBN for/IN $9.4bn/CD by/IN a/DT previously/RB unknown/JJ group/NN which/WDT was/VBD in/IN turn/NN bought/VBN by/IN state-controlled/JJ oil/NN company/NN Rosneft./NNP
+The/DT US/PRP court's/VBZ jurisdiction/NN has/VBZ been/VBN challenged/VBN by/IN Deutsche/NNP Bank/NNP and/CC Gazpromneft/NNP a/DT former/JJ unit/NN of/IN Russian/JJ gas/NN monopoly/NN Gazprom/NNP which/WDT is/VBZ due/JJ to/TO merge/VB with/IN Rosneft./NNP
+Deutsche/NNP Bank/NNP maintains/VBZ the/DT case/NN has/VBZ no/DT place/NN in/IN a/DT US/PRP court/VBP because/IN Yukos/NNP has/VBZ no/DT assets/NNS in/IN the/DT US/PRP apart/RB from/IN two/CD bank/NN accounts/NNS and/CC a/DT house/NN in/IN Houston/NNP owned/VBN by/IN its/PRP$ chief/JJ finance/NN officer/NN Bruce/NNP Misamore./NNP
+Deutsche/NNP Bank/NNP is/VBZ involved/VBN in/IN the/DT case/NN because/IN it/PRP is/VBZ itself/PRP being/VBG sued/VBN by/IN Yukos./NNP
+It/PRP had/VBD agreed/VBN to/TO loan/VB Gazpromneft/NNP the/DT money/NN to/TO bid/VB for/IN Yugansk./NNP
+US/PRP bankruptcy/VBP judge/NN Letitia/NNP Clark/NNP who/WP issued/VBD an/DT injunction/NN in/IN December/NNP to/TO try/VB and/CC prevent/VB the/DT Yugansk/NNP sale/NN has/VBZ said/VBN she/PRP will/MD rule/VB "pretty/NN promptly/RB however/RB I/PRP do/VBP not/RB anticipate/VB ruling/NN on/IN it/PRP before/IN next/JJ Tuesday"./NNP
+
+Yukos/NNP has/VBZ claimed/VBN it/PRP sought/VBD help/NN in/IN the/DT US/PRP because/IN other/JJ forums/NNS -/: Russian/JJ courts/NNS and/CC the/DT European/NNP Court/NNP of/IN Human/NNP Rights/NNP -/: were/VBD either/CC unfriendly/JJ or/CC offered/VBN less/JJR protection./NN
+It/PRP has/VBZ claimed/VBN that/IN Russia/NNP imposed/VBD the/DT huge/JJ tax/NN bill/NN and/CC forced/VBD the/DT sale/NN of/IN Yugansk/NNP as/IN part/NN of/IN a/DT campaign/NN to/TO destroy/VB Yukos/NNP and/CC its/PRP$ former/JJ owner/NN Mihkail/NNP Khodorkovsky/NNP who/WP is/VBZ facing/VBG a/DT 10-year/JJ prison/NN term/NN in/IN Russia/NNP for/IN fraud/NN and/CC tax/NN evasion./NN
+Yukos'/NNP parent/NN company/NN the/DT Gibraltar-based/JJ Menatep/NNP Group/NNP is/VBZ suing/VBG Russia/NNP in/IN Europe/NNP for/IN $28.3bn/CD in/IN financial/JJ damages./NN
+The/DT company/NN is/VBZ also/RB seeking/VBG $20bn/CD in/IN a/DT separate/JJ US/PRP lawsuit/VBP against/IN Rosneft/NNP and/CC Gazprom/NNP for/IN their/PRP$ role/NN in/IN the/DT sale/NN of/IN Yugansk./NNP

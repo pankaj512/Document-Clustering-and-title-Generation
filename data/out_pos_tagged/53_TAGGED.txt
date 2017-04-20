@@ -1,0 +1,13 @@
+Weak/JJ dollar/NN hits/NNS Reuters/NNP
+
+Revenues/NNS at/IN media/NNS group/NN Reuters/NNP slipped/VBD 11%/CD during/IN 2004/CD mainly/RB due/JJ to/TO the/DT weakness/NN of/IN the/DT dollar/NN the/DT group/NN said./NN
+
+The/DT company/NN said/VBD it/PRP was/VBD optimistic/JJ about/IN growth/NN even/RB as/IN revenues/NNS slipped/VBD 11%/CD from/IN £3.24bn/CD ($6.13bn)/CD in/IN 2003/CD to/TO £2.89bn/CD in/IN 2004./CD
+Reuters/NNP beat/VB profit/NN forecasts/NNS posting/VBG a/DT 52%/CD rise/NN in/IN profits/NNS for/IN the/DT year/NN to/TO £198m/CD from/IN the/DT £130m/CD seen/VBD a/DT year/NN earlier./NN
+Reuters/NNP also/RB beat/VBP its/PRP$ savings/NNS target/NN for/IN 2004/CD delivering/VBG £234m/CD of/IN cuts./NN
+Under/IN its/PRP$ three-year/JJ Fast/RB Forward/RB turnaround/NN plan/NN it/PRP had/VBD aimed/VBN to/TO save/VB £220m/CD during/IN the/DT 12/CD months/NNS to/TO 31/CD December./NNP
+
+Reuters/NNP also/RB managed/VBD to/TO slow/VB a/DT decline/NN in/IN underlying/VBG revenues/NNS to/TO 5.4%/CD from/IN 10.2%/CD in/IN 2003/CD and/CC cut/VB its/PRP$ debt/NN back/RB to/TO £160m/CD from/IN £610m/CD a/DT year/NN earlier./NN
+The/DT news/NN and/CC financial/JJ data/NNS seller/NN said/VBD the/DT year/NN had/VBD begun/VBN well/RB adding/VBG it/PRP expected/VBD "further/NN gradual/JJ improvement"/NN in/IN the/DT second/JJ quarter/NN of/IN the/DT year/NN after/IN good/JJ January/NNP sales./NN
+It/PRP added/VBD it/PRP was/VBD planning/VBG to/TO deliver/VB a/DT further/JJ £105m/CD of/IN savings/NNS over/IN the/DT coming/VBG year/NN -/: but/CC said/VBD it/PRP expects/VBZ to/TO be/VB hit/VBN with/IN an/DT £80m/CD restructuring/NN charge/NN to/TO pay/VB for/IN the/DT cost/NN of/IN moving/VBG from/IN Fleet/NNP Street/NNP to/TO new/JJ headquarters/NN in/IN London/NNP at/IN Canary/NNP Wharf./NNP
+"Improving/VBG customer/NN relationships/NNS more/RBR competitive/JJ products/NNS and/CC continued/VBD strong/JJ cost/NN discipline/NN position/NN us/PRP well/RB for/IN 2005"/CD chief/JJ executive/NN Tom/NNP Glocer/NNP said/VBD adding/VBG the/DT company/NN was/VBD beginning/VBG "to/NN look/NN beyond/IN recovery/NN to/TO growth"./VB

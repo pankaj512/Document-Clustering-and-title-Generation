@@ -1,0 +1,20 @@
+Winemaker/NNP rejects/VBZ Foster's/NNP offer/NN
+
+Australian/JJ winemaker/NN Southcorp/NNP has/VBZ rejected/VBN a/DT takeover/NN offer/NN worth/JJ 3.1bn/CD Australian/JJ dollars/NNS ($2.3bn/CD £1.8bn)/CD from/IN brewing/NN giant/NN Foster's/NNP Group./NNP
+
+Southcorp/NNP whose/WP$ brands/NNS include/VBP Penfolds/NNP Rosemount/NNP and/CC Lindemans/NNP dismissed/VBD the/DT offer/NN as/IN inadequate./NN
+The/DT two/CD companies/NNS held/VBD four/CD days/NNS of/IN talks/NNS after/IN Foster's/NNP bought/VBD an/DT 18.8%/CD stake/NN in/IN Southcorp/NNP on/IN 13/CD January./NNP
+A/DT merger/NN would/MD create/VB a/DT global/JJ player/NN with/IN worldwide/NN annual/JJ sales/NNS of/IN 39m/CD cases/NNS and/CC revenues/NNS of/IN A$2.6bn./CD
+
+Southcorp/NNP said/VBD Foster's/NNP A$4.17-a-share/JJ takeover/NN proposal/NN offered/VBD a/DT "excellent/NN strategic/JJ fit"/NN but/CC undervalued/VBD the/DT company./NN
+"Southcorp's/NN board/NN has/VBZ informed/VBN Foster's/NNP that/IN it/PRP is/VBZ not/RB prepared/JJ to/TO recommend/VB the/DT offer/NN as/IN it/PRP does/VBZ not/RB adequately/RB reflect/VB the/DT strategic/JJ value/NN of/IN the/DT company"/NN said/VBD Southcorp/NNP chairman/NN Brian/NNP Finn./NNP
+
+Southcorp/NNP said/VBD Foster's/NNP takeover/NN offer/NN was/VBD "opportunistic"./NN
+However/RB it/PRP said/VBD that/IN the/DT offer/NN may/MD represent/VB an/DT 'opening/VBG bid'/NN opening/VBG up/RP the/DT possibility/NN of/IN Foster's/NNP returning/VBG with/IN an/DT improved/VBN offer./NN
+
+Foster's/NNP said/VBD a/DT combination/NN of/IN the/DT two/CD companies/NNS would/MD create/VB a/DT global/JJ player/NN with/IN an/DT "unrivalled"/NN collection/NN of/IN premium/NN wine/NN brands./NN
+Despite/IN being/VBG best/JJS known/VBN for/IN brewing/NN Foster's/NNP Lager/NNP Foster's/NNP is/VBZ already/RB one/CD of/IN Australia's/NNP largest/JJS wine/NN producers/NNS owning/VBG the/DT Beringer/NNP and/CC Wolf/NNP Blass/NNP brands/NNS among/IN others./NN
+"The/NN combination/NN of/IN Foster's/NNP and/CC Southcorp/NNP will/MD transform/VB the/DT global/JJ wine/NN industry/NN and/CC significantly/RB enhance/VB Australia's/NNP competitive/JJ position/NN on/IN the/DT global/JJ stage"/NN said/VBD Trevor/NNP O'Hoy/NNP Foster's/NNP chief/NN executive/NN officer./NN
+Foster's/NNP spent/VBD A$584m/CD on/IN buying/VBG an/DT 18.8%/CD stake/NN in/IN Southcorp/NNP from/IN the/DT Oatley/NNP family/NN which/WDT founded/VBD the/DT Rosemount/NNP Estates/NNP business/NN and/CC later/RB merged/VBN it/PRP into/IN Southcorp./NNP
+Shares/NNS in/IN both/DT companies/NNS were/VBD suspended/VBN while/IN the/DT two/CD held/JJ talks/NNS about/IN a/DT deal./NN
+Southcorp's/NNP shares/NNS rose/VBD 12%/CD to/TO A$4.76/CD on/IN news/NN of/IN the/DT offer/NN but/CC Foster's/NNP shares/NNS fell/VBD 3.7%/CD to/TO A$5.44./CD

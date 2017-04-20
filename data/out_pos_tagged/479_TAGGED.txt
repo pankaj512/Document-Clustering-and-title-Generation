@@ -1,0 +1,24 @@
+Ford/NNP gains/NNS from/IN finance/NN not/RB cars/VBZ
+
+Ford/VBG the/DT US/PRP car/VBP company/NN reported/VBD higher/JJR fourth/JJ quarter/NN and/CC full-year/JJ profits/NNS on/IN Thursday/NNP boosted/VBN by/IN a/DT buoyant/JJ period/NN for/IN its/PRP$ car/NN loans/NNS unit./NN
+
+Net/JJ income/NN for/IN 2004/CD was/VBD $3.5bn/CD (£1.87bn)/CD -/: up/RP nearly/RB $3bn/CD from/IN 2003/CD -/: while/IN turnover/NN rose/VBD $7.2bn/CD to/TO $170.8bn./CD
+In/IN the/DT fourth/JJ quarter/NN alone/RB Ford/NNP reported/VBD net/JJ income/NN of/IN $104m/CD compared/VBN with/IN a/DT loss/NN of/IN $793m/CD a/DT year/NN ago./NN
+But/CC its/PRP$ auto/NN unit/NN made/VBD a/DT loss./NN
+Fourth/JJ quarter/NN turnover/NN was/VBD $44.7bn/CD compared/VBN to/TO $45.9bn/CD a/DT year/NN ago./NN
+
+Though/IN car/NN and/CC truck/NN loan/NN profits/NNS saved/VBD the/DT day/NN Ford's/NNP auto/NN unit/NN made/VBD a/DT pre-tax/JJ loss/NN of/IN $470m/CD in/IN the/DT fourth/JJ quarter/NN (compared/VBN to/TO a/DT profit/NN of/IN £13m/CD in/IN the/DT year-ago/JJ period)/NN and/CC its/PRP$ US/PRP sales/VBZ dipped/VBD 3.8%./CD
+
+Yesterday/NNP General/NNP Motor's/NNP results/NNS also/RB showed/VBD its/PRP$ finance/NN unit/NN was/VBD a/DT strong/JJ contributor/NN to/TO profits./VB
+However/RB Ford/NNP is/VBZ working/VBG hard/RB to/TO revitalise/VB its/PRP$ product/NN portfolio/NN unveiling/VBG the/DT Fusion/NN and/CC Zephyr/NNP models/NNS at/IN the/DT International/NNP Motor/NNP Show/NNP in/IN Detroit./NNP
+It/PRP also/RB brought/VBD out/RP a/DT number/NN of/IN new/JJ models/NNS in/IN the/DT second/JJ half/NN of/IN 2004./CD
+"In/NN 2004/CD our/PRP$ company/NN gained/VBD momentum/NN delivering...more/NN new/JJ products/NNS and/CC more/RBR innovative/JJ breakthroughs/NNS such/JJ as/IN the/DT Escape/JJ Hybrid/JJ the/DT industry's/NNS first/RB full-hybrid/JJ sport/NN utility/NN vehicle"/NN said/VBD chairman/NN and/CC chief/JJ executive/NN officer/NN Bill/NNP Ford."/NNP
+
+"We/NN also/RB confronted/VBD operating/NN challenges/NNS with/IN our/PRP$ Jaguar/NNP brand/NN and/CC high/JJ industry/NN marketing/NN costs"/NN he/PRP added./VB
+But/CC Ford/NNP declined/VBD to/TO provide/VB guidance/NN for/IN first/JJ quarter/NN 2005./CD
+It/PRP will/MD do/VB so/RB at/IN a/DT presentation/NN in/IN New/NNP York/NNP on/IN 26/CD January./NNP
+In/IN addition/NN the/DT company/NN said/VBD 2004/CD net/JJ income/NN was/VBD affected/VBN by/IN a/DT fourth-quarter/JJ pre-tax/JJ charge/NN taken/VBN to/TO reduce/VB the/DT value/NN of/IN a/DT receivable/NN owed/VBN to/TO Ford/NNP by/IN Visteon/NNP a/DT former/JJ subsidiary./NN
+Recent/JJ new/JJ models/NNS introduced/VBN by/IN Ford/NNP include/VBP the/DT Ford/NNP Five/CD Hundred/NNP and/CC Mercury/NNP Montego/NNP sedans/VBZ the/DT Ford/NNP Freestyle/JJ crossover/NN the/DT Ford/NNP Mustang/NNP the/DT Land/NNP Rover/NNP LR3/Discovery/CD and/CC Volvo/NNP S40/CD and/CC V50/CD in/IN North/NNP America/NNP and/CC Europe./NNP
+Total/JJ company/NN vehicle/NN unit/NN sales/NNS in/IN 2004/CD were/VBD 6798000/CD an/DT increase/NN of/IN 62000/CD units/NNS from/IN 2003./CD
+Fourth-quarter/JJ vehicle/NN unit/NN sales/NNS totalled/VBD 1751000/CD a/DT decline/NN of/IN 133000/CD units./NN
+For/IN the/DT full/JJ year/NN Ford's/NNP worldwide/NN automotive/JJ division/NN earned/VBD a/DT pre-tax/JJ profit/NN of/IN $850m/CD a/DT $697m/CD improvement/NN from/IN $153m/CD a/DT year/NN ago./NN

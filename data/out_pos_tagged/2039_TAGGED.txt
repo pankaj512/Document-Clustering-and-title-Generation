@@ -1,0 +1,25 @@
+Europe/NNP backs/VBZ digital/JJ TV/NN lifestyle/NN
+
+How/WRB people/NNS receive/VBP their/PRP$ digital/JJ entertainment/NN in/IN the/DT future/NN could/MD change/VB following/VBG the/DT launch/NN of/IN an/DT ambitious/JJ European/JJ project./NN
+
+In/IN Nice/JJ last/JJ week/NN the/DT European/NNP Commission/NNP announced/VBD its/PRP$ Networked/JJ &/CC Electronic/NNP Media/NNP (NEM)/NN initiative./NN
+Its/PRP$ broad/JJ scope/NN stretches/NNS from/IN the/DT way/NN media/NNS is/VBZ created/VBN through/IN each/DT of/IN the/DT stages/NNS of/IN its/PRP$ distribution/NN to/TO its/PRP$ playback./NN
+The/DT Commission/NNP wants/VBZ people/NNS to/TO be/VB able/JJ to/TO locate/VB the/DT content/NN they/PRP desire/VBP and/CC have/VBP it/PRP delivered/VBD seamlessly/RB when/WRB on/IN the/DT move/NN at/IN home/NN or/CC at/IN work/NN no/DT matter/NN who/WP supplies/VBZ the/DT devices/NNS network/NN content/NN or/CC content/NN protection/NN scheme./NN
+More/JJR than/IN 120/CD experts/NNS were/VBD in/IN Nice/JJ to/TO share/VB the/DT vision/NN of/IN interconnected/VBN future/JJ and/CC hear/VB pledges/NNS of/IN support/NN from/IN companies/NNS such/JJ as/IN Nokia/NNP Intel/NNP Philips/NNP Alcatel/NNP France/NNP Telecom/NNP Thomson/NNP and/CC Telefonica./NNP
+It/PRP might/MD initially/RB appear/VB to/TO be/VB surprising/JJ that/IN companies/NNS in/IN direct/JJ competition/NN are/VBP keen/JJ to/TO work/VB together./NN
+But/CC again/RB and/CC again/RB speakers/NNS stated/VBD they/PRP could/MD not/RB see/VB incompatible/JJ stand-alone/JJ solutions/NNS working./NN
+A/DT long-term/JJ strategy/NN for/IN the/DT evolution/NN and/CC convergence/NN of/IN technologies/NNS and/CC services/NNS would/MD be/VB required./NN
+
+The/DT European/NNP Commission/NNP is/VBZ being/VBG pragmatic/JJ in/IN its/PRP$ approach./NN
+They/PRP have/VBP identified/VBN that/IN many/JJ groups/NNS have/VBP defined/VBN the/DT forms/NNS of/IN digital/JJ media/NNS in/IN the/DT areas/NNS that/IN NEM/NNP encompasses./NN
+The/DT NEM/NNP approach/NN is/VBZ to/TO take/VB a/DT serious/JJ look/NN at/IN what/WP is/VBZ available/JJ and/CC what/WP is/VBZ in/IN the/DT pipeline/NN pick/VB out/RP the/DT best/JJS bring/VB them/PRP together/RB and/CC identify/VB where/WRB the/DT gaps/NNS are./NN
+Where/WRB it/PRP finds/VBZ holes/NNS it/PRP will/MD develop/VB standards/NNS to/TO fill/VB them./NN
+What/WP is/VBZ significant/JJ is/VBZ that/IN such/PDT a/DT large/JJ and/CC powerful/JJ organisation/NN has/VBZ stated/VBN its/PRP$ desire/NN for/IN digital/JJ formats/NNS to/TO be/VB open/JJ to/TO all/DT and/CC work/NN on/IN any/DT gadget./NN
+This/DT is/VBZ bound/VBN to/TO please/VB if/IN not/RB surprise/NN many/JJ individuals/NNS and/CC user/NN organisations/NNS who/WP feel/VBP that/IN the/DT wishes/NNS of/IN the/DT holder/NN of/IN rights/NNS to/TO content/VB are/VBP normally/RB considered/VBN over/RB and/CC above/IN those/DT of/IN the/DT consumer./NN
+Many/JJ feel/VBP that/IN the/DT most/RBS difficult/JJ and/CC challenging/VBG area/NN for/IN the/DT Commission/NNP will/MD be/VB to/TO identify/VB a/DT solution/NN for/IN different/JJ Digital/NNP Rights/NNP Management/NNP (DRM)/NN schemes./NN
+Currently/RB DRM/NNP solutions/NNS are/VBP incompatible/JJ locking/VBG certain/JJ types/NNS of/IN purchased/VBN content/NN making/VBG them/PRP unplayable/JJ on/IN all/DT platforms./NN
+With/IN the/DT potential/NN of/IN having/VBG a/DT percentage/NN of/IN every/DT media/NNS transaction/NN that/WDT takes/VBZ place/NN globally/RB the/DT prize/NN for/IN being/VBG the/DT supplier/NN of/IN the/DT world's/NNS dominant/JJ DRM/NNP scheme/NN is/VBZ huge./NN
+Although/IN entertainment/NN is/VBZ an/DT obvious/JJ first/JJ step/NN it/PRP will/MD encompass/VB the/DT remote/JJ provisions/NNS of/IN healthcare/NN energy/NN efficiency/NN and/CC control/NN of/IN the/DT smart/JJ home./NN
+The/DT 10-year/JJ plan/NN brings/VBZ together/RB the/DT work/NN of/IN many/JJ currently/RB running/VBG research/NN projects/NNS that/IN the/DT EC/NNP has/VBZ been/VBN funding/NN for/IN a/DT number/NN of/IN years./NN
+
+Simon/NNP Perry/NNP is/VBZ the/DT editor/NN of/IN the/DT Digital/NNP Lifestyles/NNP website/NN which/WDT covers/VBZ the/DT impact/NN of/IN technology/NN on/IN media/NNS

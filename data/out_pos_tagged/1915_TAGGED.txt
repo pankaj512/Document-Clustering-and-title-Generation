@@ -1,0 +1,22 @@
+Movie/NNP body/NN targets/NNS children's/NNS PCs/NNS
+
+The/DT body/NN that/WDT represents/VBZ the/DT US/PRP movie/VBP industry/NN has/VBZ released/VBN its/PRP$ latest/JJS tool/NN in/IN its/PRP$ campaign/NN to/TO clamp/VB down/RP on/IN movie/NN file-sharing/JJ aimed/VBN at/IN parents./NN
+
+The/DT Movie/NNP Association/NNP for/IN America's/NNP (MPAA)/NN free/JJ Parent/NNP File/VB Scan/VB software/NN lets/VBZ parents/NNS check/VBP their/PRP$ children's/NNS computers/NNS for/IN peer-to-peer/JJ programs./NN
+It/PRP will/MD also/RB list/VB all/DT movie/NN and/CC music/NN files/NNS they/PRP have/VBP on/IN their/PRP$ hard/JJ drive./NN
+Parents/NNS then/RB have/VBP the/DT choice/NN to/TO remove/VB programs/NNS and/CC files./NN
+The/DT MPAA/NNP said/VBD files/NNS found/VBD would/MD not/RB be/VB passed/VBN on/IN to/TO it./VB
+"Our/NN ultimate/JJ goal/NN is/VBZ to/TO help/VB consumers/NNS locate/VB the/DT resources/NNS and/CC information/NN they/PRP need/VBP to/TO make/VB appropriate/JJ decisions/NNS about/IN using/VBG and/CC trading/NN illegal/JJ files"/NN said/VBD Dan/NNP Glickman/NNP MPAA/NNP chief./NN
+"Many/NN parents/NNS are/VBP concerned/VBN about/IN what/WP their/PRP$ children/NNS have/VBP downloaded/VBN and/CC where/WRB they've/NN downloaded/VBD it/PRP from."/NN
+
+But/CC some/DT computer/NN users/NNS who/WP had/VBD tested/VBN the/DT latest/JJS software/NN reported/VBD on/IN some/DT technology/NN sites/NNS that/IN the/DT program/NN had/VBD identified/VBN Windows/NNS default/NN wav/NN files/NNS as/IN copyrighted/VBN material/NN and/CC wanted/VBD to/TO delete/VB them./NN
+Movie/NNP piracy/NN cost/NN the/DT industry/NN £3.7bn/CD ($7bn)/CD in/IN 2003/CD according/VBG to/TO analysts./NN
+The/DT MPAA/NNP said/VBD in/IN a/DT statement/NN that/IN it/PRP would/MD continue/VB to/TO provide/VB easy/JJ access/NN to/TO similar/JJ tools/NNS in/IN the/DT coming/VBG months/NNS to/TO combat/VB "the/NN deleterious/JJ effects/NNS of/IN peer-to-peer/JJ software/NN including/VBG such/JJ common/JJ problems/NNS as/IN viruses/NNS Trojan/NNP horses/NNS and/CC identity/NN theft"./NN
+
+Mr/NNP Glickman/NNP said/VBD that/IN the/DT film/NN industry/NN was/VBD embracing/VBG "digital/JJ age/NN technologies"/NN like/IN Movielink/NNP and/CC CinemaNow/NNP which/WDT are/VBP legal/JJ movie/NN sites./NN
+"But/NN legal/JJ services/NNS such/JJ as/IN these/DT need/VBP a/DT chance/NN to/TO grow/VB and/CC thrive/VB without/IN having/VBG to/TO compete/VB against/IN illegitimate/JJ operations/NNS that/WDT depend/VBP on/IN stolen/VBN property/NN to/TO survive"/VB he/PRP added./VB
+The/DT industry/NN body/NN also/RB said/VBD it/PRP had/VBD launched/VBN a/DT second/JJ round/NN of/IN legal/JJ action/NN against/IN online/NN movie-swappers/NNS across/IN the/DT US/PRP but/CC did/VBD not/RB say/VB how/WRB many/JJ were/VBD being/VBG sued./NN
+Its/PRP$ first/RB set/NN of/IN lawsuits/NNS were/VBD filed/VBN in/IN November/NNP 2004./CD
+It/PRP also/RB started/VBD a/DT campaign/NN against/IN operators/NNS of/IN BitTorrent/NNP eDonkey/NN and/CC DirectConnect/NNP peer-to-peer/JJ networks./NN
+The/DT first/JJ convictions/NNS for/IN peer-to-peer/JJ piracy/NN were/VBD handed/VBN out/RP in/IN the/DT US/PRP in/IN January./NNP
+William/NNP Trowbridge/NNP and/CC Michael/NNP Chicoine/NNP pleaded/VBD guilty/JJ to/TO charges/NNS that/IN they/PRP infringed/VBD copyright/NN by/IN illegally/RB sharing/VBG music/NN movies/NNS and/CC software./NN

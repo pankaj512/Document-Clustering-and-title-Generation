@@ -1,0 +1,15 @@
+Henman/NNP &/CC Murray/NNP claim/NN LTA/NNP awards/NNS
+
+Tim/NNP Henman/NNP was/VBD named/VBN player/NN of/IN the/DT year/NN for/IN 2004/CD by/IN the/DT Lawn/NN Tennis/NNP Association/NNP at/IN Wimbledon/NNP on/IN Monday./NNP
+
+The/DT Briton/NNP was/VBD recognised/VBN for/IN the/DT best/JJS year/NN of/IN his/PRP$ career/NN which/WDT saw/VBD him/PRP reach/VB the/DT semis/NNS at/IN the/DT French/JJ and/CC US/PRP Opens./NNP
+Scotland's/NNP Andrew/NNP Murray/NNP was/VBD named/VBN young/JJ player/NN of/IN the/DT year/NN after/IN winning/VBG the/DT US/PRP Open/NNP juniors/NNS as/RB well/RB as/IN a/DT Futures/NNPS event/NN in/IN Italy./NNP
+And/CC world/NN number/NN one/CD Peter/NNP Norfolk/NNP won/VBD disabled/JJ player/NN of/IN the/DT year/NN after/IN claiming/VBG his/PRP$ third/JJ US/PRP Open/NNP crown./NN
+
+Great/NNP Britain's/NNP under/IN 14/CD boys/NNS won/VBD the/DT team/NN of/IN the/DT year/NN prize/NN for/IN their/PRP$ victory/NN at/IN the/DT World/NNP Junior/NN Tennis/NN event/NN in/IN August./NNP
+Henman/NNP will/MD start/VB his/PRP$ 2005/CD campaign/NN at/IN the/DT Kooyong/NNP event/NN on/IN 12/CD January/NNP in/IN a/DT field/NN that/WDT includes/VBZ Roger/NNP Federer/NNP Andy/NNP Roddick/NNP and/CC Andre/NNP Agassi./NNP
+And/CC the/DT Briton/NNP is/VBZ optimistic/JJ of/IN surpassing/VBG his/PRP$ best/JJS effort/NN of/IN a/DT fourth-round/JJ place/NN at/IN the/DT Australian/JJ Open/NNP which/WDT begins/VBZ the/DT following/JJ week./NN
+"I've/NN often/RB felt/VBD that/IN the/DT conditions/NNS suit/NN my/PRP$ game/NN in/IN Melbourne/NNP so/RB I'd/NNP love/NN to/TO be/VB able/JJ to/TO start/VB next/JJ year/NN by/IN doing/VBG well/RB at/IN the/DT Australian/NNP Open"/NNP Henman/NNP told/VBD his/PRP$ website./NN
+"That's/NN why/WRB I've/NNP changed/VBD my/PRP$ schedule/NN slightly/RB by/IN committing/VBG to/TO play/VB in/IN the/DT Kooyong/NNP Classic./NNP
+"I'll/NN be/VB able/JJ to/TO acclimatise/VB while/IN practising/VBG before/IN the/DT event/NN and/CC then/RB will/MD be/VB guaranteed/VBN matches/VBZ against/IN the/DT best/JJS players/NNS in/IN the/DT world./NN
+"I/NN think/VBP that/WDT will/MD give/VB me/PRP the/DT best/JJS possible/JJ chance/NN of/IN doing/VBG well/RB at/IN the/DT Australian/JJ Open."/NNP

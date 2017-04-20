@@ -1,0 +1,14 @@
+Alfa/NNP Romeos/NNP 'to/NN get/VB GM/NNP engines'/NN
+
+Fiat/NNP is/VBZ to/TO stop/VB making/VBG six-cylinder/JJ petrol/NN engines/NNS for/IN its/PRP$ sporty/JJ Alfa/NNP Romeo/NNP subsidiary/NN unions/NNS at/IN the/DT Italian/JJ carmaker/NN have/VBP said./NN
+
+The/DT unions/NNS claim/VBP Fiat/NNP is/VBZ to/TO close/VB the/DT Fiat/NNP Powertrain/NNP plant/NN at/IN Arese/NNP near/IN Milan/NNP and/CC instead/RB source/NN six-cylinder/JJ engines/NNS from/IN General/NNP Motors./NNP
+Fiat/NNP has/VBZ yet/RB to/TO comment/VB on/IN the/DT matter/NN but/CC the/DT unions/NNS say/VBP the/DT new/JJ engines/NNS will/MD be/VB made/VBN by/IN GM/NNP in/IN Australia./NNP
+The/DT news/NN comes/VBZ a/DT week/NN after/IN GM/NNP pulled/VBD out/IN of/IN an/DT agreement/NN to/TO buy/VB Fiat./NNP
+GM/NNP had/VBD to/TO pay/VB former/JJ partner/NN Fiat/NNP 1.55bn/CD euros/NNS ($2bn/CD £1.1bn)/CD to/TO get/VB out/IN of/IN a/DT deal/NN which/WDT could/MD have/VB forced/VBN it/PRP to/TO buy/VB the/DT Italian/JJ carmaker/NN outright./NN
+Fiat/NNP and/CC GM/NNP also/RB ended/VBD their/PRP$ five-year/JJ alliance/NN and/CC two/CD joint/JJ ventures/NNS in/IN engines/NNS and/CC purchasing/VBG but/CC did/VBD agree/VB to/TO continue/VB buying/VBG each/DT other's/NNS engines./NN
+
+"Powertrain/NN told/VBD us/PRP today/VBP that/IN Alfa/NNP Romeo/NNP engines/NNS will/MD no/RB longer/RB be/VB made/VBN in/IN Arese"/NNP said/VBD union/NN leader/NN Vincenzo/NNP Lilliu/NNP as/IN reported/VBN by/IN the/DT Reuters/NNP news/NN agency./NN
+"The/NN assembly/NN line/NN will/MD be/VB dismantled/VBN and/CC the/DT six-cylinder/JJ Alfa/NNP Romeo/NNP motor/NN will/MD be/VB replaced/VBN with/IN an/DT engine/NN GM/NNP produces/VBZ in/IN Australia."/NNP Reuters/NNP also/RB said/VBD that/IN Mr/NNP Lilliu/NNP and/CC other/JJ union/NN bosses/NNS shouted/VBD insults/NNS at/IN Fiat/NNP chairman/NN Luca/NNP di/FW Montezemolo/NNP following/VBG a/DT meeting/NN on/IN Tuesday/NNP regarding/VBG the/DT future/NN of/IN the/DT Arese/NNP plant./NN
+The/DT unions/NNS said/VBD the/DT end/NN of/IN engine/NN production/NN at/IN the/DT facility/NN would/MD mean/VB the/DT loss/NN of/IN 800/CD jobs./NN
+All/DT Alfa/NNP Romeo/NNP models/NNS can/MD be/VB bought/VBN with/IN a/DT six-cylinder/JJ engine/NN -/: the/DT 147/CD 156/CD 156/CD Sportwagon/NNP 166/CD GTV/NNP GT/NNP and/CC Spider./NNP

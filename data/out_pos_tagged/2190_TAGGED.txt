@@ -1,0 +1,51 @@
+Rolling/VBG out/RP next/JJ generation's/NNS net/JJ
+
+The/DT body/NN that/WDT oversees/VBZ how/WRB the/DT net/JJ works/VBZ grows/VBZ and/CC evolves/NNS says/VBZ it/PRP has/VBZ coped/VBN well/RB with/IN its/PRP$ growth/NN in/IN the/DT last/JJ 10/CD years/NNS but/CC it/PRP is/VBZ just/RB the/DT start./NN
+
+"In/NN a/DT sense/NN we/PRP have/VBP hardly/RB started/VBN in/IN reaching/VBG the/DT whole/JJ population"/NN the/DT new/JJ chair/NN of/IN the/DT Internet/NNP Engineering/NNP Task/NNP Force/NNP (IETF)/NN Brian/NNP Carpenter/NNP says./NN
+The/DT IETF/NNP ensures/VBZ the/DT smooth/JJ running/NN and/CC organisation/NN of/IN the/DT net's/NNS architecture./NN
+With/IN broadband/NN take-up/JJ growing/NN services/NNS like/IN voice/NN and/CC TV/NN will/MD open/VB up/RP interesting/JJ challenges/NNS for/IN the/DT net./NN
+"I/NN think/VBP VoIP/NNP (Voice-over/JJ Internet/NNP Protocol/NNP allowing/VBG phone/NN calls/NNS to/TO be/VB made/VBN over/IN the/DT Net)/NNP is/VBZ very/RB important/JJ -/: it/PRP challenges/VBZ all/PDT the/DT old/JJ cost/NN models/NNS of/IN telecoms"/NN says/VBZ Dr/NNP Carpenter./NNP
+"Second/NN it/PRP challenges/VBZ more/RBR deeply/RB the/DT business/NN model/NN that/IN you/PRP have/VBP to/TO be/VB a/DT service/NN provider/NN with/IN a/DT lot/NN of/IN infrastructure./NN
+With/IN VoIP/NNP you/PRP need/VBP very/RB little/JJ infrastructure."/NN
+
+A/DT distinguished/VBD IBM/NNP engineer/NN Dr/NNP Carpenter/NNP spent/VBD 20/CD years/NNS at/IN Cern/NNP the/DT European/NNP Laboratory/NNP for/IN Particle/NN Physics./NNP
+As/IN the/DT new/JJ chair/NN of/IN the/DT IETF/NNP his/PRP$ next/JJ big/JJ challenge/NN is/VBZ overseeing/VBG IPv6/CD the/DT next/JJ generation/NN standard/NN for/IN information/NN transfer/NN and/CC routing/VBG across/IN the/DT web./NN
+At/IN Cern/NNP Dr/NNP Carpenter/NNP helped/VBD pioneer/NN advanced/VBD net/JJ applications/NNS during/IN the/DT development/NN of/IN the/DT world/NN wide/JJ web/NN so/IN he/PRP is/VBZ well-placed/JJ to/TO take/VB on/RP such/PDT a/DT task./NN
+The/DT net's/NNS growth/NN and/CC evolution/NN depend/VB on/IN standards/NNS and/CC protocols/NNS and/CC ensuring/VBG the/DT architecture/NN works/VBZ and/CC talks/NNS to/TO other/JJ standards/NNS is/VBZ a/DT crucial/JJ job/NN of/IN the/DT IETF./NNP
+The/DT top/JJ priority/NN is/VBZ to/TO ensure/VB that/IN the/DT standards/NNS that/WDT make/VBP the/DT net/JJ work/NN are/VBP open/JJ and/CC free/JJ for/IN anyone/NN to/TO use/VB and/CC work/NN with./NN
+
+The/DT net/JJ is/VBZ built/VBN on/IN a/DT protocol/NN called/VBN TCP/IP/NNP which/WDT means/VBZ transmission/NN control/NN protocol/NN and/CC internet/JJ protocol./NN
+When/WRB computers/NNS communicate/VBP with/IN the/DT net/JJ a/DT unique/JJ IP/NNP address/VB is/VBZ used/VBN to/TO send/VB and/CC receive/VB information./NN
+The/DT IETF/NNP is/VBZ a/DT large/JJ international/JJ community/NN of/IN network/NN designers/NNS operators/NNS vendors/NNS and/CC researchers/NNS working/VBG on/IN the/DT evolution/NN of/IN the/DT net's/NNS architecture/NN and/CC the/DT way/NN this/DT information/NN is/VBZ sent/VBN and/CC received./NN
+They/PRP make/VBP sure/JJ it/PRP all/DT knits/NNS together/RB leaving/VBG no/DT gaps./NN
+"We've/NN seen/VBN some/DT interesting/JJ effects/NNS over/IN last/JJ few/JJ years"/NN explains/VBZ Dr/NNP Carpenter./NNP
+"The/NN net/NN was/VBD growing/VBG at/IN a/DT fantastic/JJ rate/NN at/IN the/DT end/NN of/IN the/DT 90s./CD
+Then/RB there/EX was/VBD a/DT bit/NN of/IN a/DT glitch/NN in/IN 2000./CD
+"We/NN are/VBP now/RB seeing/VBG a/DT very/RB clear/JJ phase/NN of/IN consolidation/NN and/CC renewed/VBN growth."/NN
+
+That/DT renewed/VBN growth/NN is/VBZ also/RB being/VBG buoyed/VBN by/IN emerging/VBG economies/NNS like/IN China/NNP which/WDT are/VBP showing/VBG fast/RB uptake/NN of/IN broadband/NN net/JJ and/CC other/JJ technologies./NN
+The/DT number/NN of/IN broadband/NN subscribers/NNS via/IN DSL/NNP (Digital/JJ Subscriber/NN Line)/NNP doubled/VBD in/IN a/DT year/NN to/TO 13/CD million/CD according/VBG to/TO figures/NNS released/VBN at/IN the/DT end/NN of/IN 2004./CD
+"The/NN challenges/NNS we/PRP face/VBP are/VBP about/IN continuing/VBG to/TO produce/VB standards/NNS to/TO allow/VB for/IN that/DT growth/NN rate"/NN explained/VBD Dr/NNP Carpenter./NNP
+"Given/NN it/PRP [the/NN net]/NN was/VBD designed/VBN for/IN the/DT whole/JJ community/NN it/PRP has/VBZ done/VBN well/RB to/TO reach/VB millions./NN
+If/IN you/PRP want/VBP to/TO reach/VB the/DT whole/JJ population/NN you/PRP have/VBP to/TO make/VB sure/JJ it/PRP can/MD scale/VB up."/NN IPv6/CD the/DT standard/NN that/WDT will/MD replace/VB the/DT existing/VBG IPv4/CD will/MD allow/VB for/IN billions/NNS more/JJR addresses/NNS on/IN the/DT net/JJ and/CC it/PRP is/VBZ gradually/RB being/VBG worked/VBD into/IN network/NN infrastructure/NN across/IN the/DT world./NN
+"The/NN actual/JJ number/NN of/IN addresses/NNS with/IN IPv4/CD is/VBZ limited/VBN to/TO four/CD billion/CD IP/NNP addresses./NN
+"That/NN clearly/RB is/VBZ not/RB enough/RB when/WRB you/PRP have/VBP 10/CD billion/CD people/NNS to/TO serve/VB so/RB there/EX is/VBZ technical/JJ solution/NN the/DT new/JJ version/NN of/IN IP/NNP -/: IPv6./CD
+"It/NN has/VBZ much/RB larger/JJR address/VB space/NN possibilities/NNS with/IN no/DT practical/JJ limits"/NN said/VBD Dr/NNP Carpenter./NNP
+Standards/NNS are/VBP vital/JJ to/TO something/NN as/RB complex/JJ as/IN the/DT net/JJ and/CC making/VBG sure/JJ standards/NNS are/VBP open/JJ and/CC can/MD work/VB with/IN across/IN networks/NNS is/VBZ a/DT big/JJ task./NN
+The/DT difference/NN this/DT next/JJ generation/NN standard/NN IPv6/CD will/MD make/VB to/TO the/DT average/JJ net/JJ user/NN is/VBZ almost/RB invisible./NN
+"Our/NN first/JJ goal/NN is/VBZ that/IN it/PRP [IPv6]/CD should/MD make/VB no/DT difference/NN -/: people/NNS should/MD not/RB notice/VB a/DT difference./NN
+"It/NN is/VBZ like/IN when/WRB the/DT London/NNP telephone/NN numbers/NNS got/VBD longer./NN
+A/DT lot/NN of/IN the/DT process/NN will/MD be/VB invisible./NN
+"People/NN are/VBP usually/RB given/VBN an/DT IP/NNP address/VB without/IN knowing/VBG it."/NN Technically/NNP deployment/NN has/VBZ started/VBN and/CC the/DT standards/NNS for/IN are/VBP just/RB about/IN settled/VBN said/VBD Dr/NNP Carpenter./NNP
+
+The/DT one/CD problem/NN with/IN the/DT net/NN that/WDT may/MD never/RB disappear/VB completely/RB is/VBZ security./NN
+To/TO Dr/NNP Carpenter/NNP the/DT solution/NN comes/VBZ out/IN of/IN technological/JJ and/CC human/JJ behaviour./NN
+People/NNS have/VBP to/TO be/VB educated/VBN about/IN "sensible/JJ behaviour"/NN he/PRP says/VBZ such/JJ as/IN ignoring/VBG e-mails/NNS that/WDT claim/NN you/PRP have/VBP won/VBN something./NN
+
+"I/NN don't/NN think/VBP it/PRP is/VBZ going/VBG to/TO get/VB worse./NN
+People/NNS will/MD remain/VB concerned/VBN about/IN security/NN and/CC they/PRP probably/RB should/MD do/VB -/: just/RB as/IN you/PRP would/MD be/VB concerned/VBN walking/VBG along/RB a/DT dark/JJ street./NN
+"We/NN have/VBP to/TO do/VB work/NN to/TO make/VB sure/JJ there/EX are/VBP better/JJR security/NN internet/JJ standards./NN
+It/PRP is/VBZ a/DT never-ending/JJ battle/NN in/IN a/DT sense."/NN But/CC he/PRP adds/VBZ "Even/NN if/IN security/NN has/VBZ improved/VBN you/PRP still/RB worry/VBP a/DT bit./NN
+Unfortunately/RB it/PRP is/VBZ just/RB part/NN of/IN life./NN
+We/PRP have/VBP a/DT duty/NN to/TO do/VB what/WP we/PRP can."/VBP

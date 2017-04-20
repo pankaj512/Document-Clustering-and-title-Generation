@@ -1,0 +1,10 @@
+Ferguson/NNP hails/VBZ Man/NN Utd's/NNP resolve/VB
+
+Manchester/NNP United's/NNP Alex/NNP Ferguson/NNP has/VBZ praised/VBN his/PRP$ players'/NN gutsy/JJ performance/NN in/IN the/DT 1-0/JJ win/NN at/IN Aston/NNP Villa./NNP
+
+"That/NN was/VBD our/PRP$ hardest/RBS away/RB game/NN of/IN the/DT season/NN and/CC it/PRP was/VBD a/DT fantastic/JJ game/NN of/IN football/NN end-to-end/JJ with/IN lots/NNS of/IN good/JJ passing"/NN said/VBD the/DT Old/NNP Trafford/NNP boss./NN
+"We/NN showed/VBD lots/NNS of/IN character/NN and/CC guts/NNS and/CC we/PRP weren't/VBP going/VBG to/TO lose./VB
+"I/NN look/NN at/IN that/DT fixture/NN and/CC think/VBP we've/NN been/VBN there/RB and/CC won/VBD while/IN Arsenal/NN and/CC Chelsea/NNP have/VBP yet/RB to/TO come/VB and/CC Villa/NNP may/MD have/VB some/DT players/NNS back/RB when/WRB they/PRP do."/VBP Ferguson/NNP also/RB hailed/VBD senior/JJ stars/NNS Ryan/NNP Giggs/NNP and/CC Roy/NNP Keane/NNP who/WP came/VBD off/RP the/DT bench/NN for/IN the/DT injured/VBN John/NNP O'Shea./NNP
+"Roy/NN came/VBD on/IN and/CC brought/VBD a/DT bit/NN of/IN composure/NN to/TO the/DT midfield/NN which/WDT we/PRP needed/VBD and/CC which/WDT no/DT other/JJ player/NN has/VBZ got./NN
+"Giggs/NN was/VBD a/DT tremendous/JJ threat/NN and/CC he/PRP brings/VBZ tremendous/JJ penetration./NN
+"All/NN we/PRP can/MD do/VB is/VBZ maintain/VB our/PRP$ form/NN play/NN as/IN we/PRP are/VBP and/CC we'll/NN get/NN our/PRP$ rewards."/NN

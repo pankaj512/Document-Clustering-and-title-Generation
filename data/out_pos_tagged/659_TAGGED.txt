@@ -1,0 +1,17 @@
+Spector/NNP facing/VBG more/RBR legal/JJ action/NN
+
+Music/NNP producer/NN Phil/NNP Spector/NNP is/VBZ facing/VBG legal/JJ action/NN from/IN the/DT mother/NN of/IN the/DT actress/NN he/PRP has/VBZ been/VBN accused/VBN of/IN killing./NN
+
+Donna/NNP Clarkson/NNP whose/WP$ daughter/NN Lana/NNP was/VBD found/VBN dead/JJ in/IN Mr/NNP Spector's/NNP home/NN in/IN February/NNP 2003/CD is/VBZ seeking/VBG unspecified/JJ damages/NNS in/IN a/DT civil/JJ action./NN
+The/DT legal/JJ action/NN accuses/VBZ Mr/NNP Spector/NNP of/IN murdering/VBG the/DT actress/NN at/IN his/PRP$ LA/NNP home./NN
+Mr/NNP Spector/NNP is/VBZ currently/RB free/JJ on/IN $1m/CD (£535000)/CD bail/NN and/CC is/VBZ awaiting/VBG trial./NN
+The/DT 64-year-old/JJ has/VBZ denied/VBN the/DT killing/VBG saying/VBG her/PRP$ death/NN was/VBD accidental./NN
+
+Ms/NNP Clarkson's/NNP legal/JJ action/NN filed/VBN in/IN Los/NNP Angeles/NNP Superior/NNP Court/NNP also/RB accuses/VBZ Mr/NNP Spector/NNP of/IN negligence/NN and/CC battery/NN alleging/VBG he/PRP "grabbed/VBD hit/VBD fought/VBN with/IN and/CC restrained"/NN Lana/NNP Clarkson/NNP before/IN shooting/VBG her/PRP to/TO death./VB
+Her/PRP$ lawyers/NNS said/VBD in/IN a/DT statement/NN "The/NN Clarkson/NNP family/NN had/VBD hoped/VBN that/IN there/EX would/MD be/VB some/DT resolution/NN with/IN regard/NN to/TO the/DT criminal/JJ proceedings/NNS before/IN moving/VBG forward/RB with/IN the/DT civil/JJ action./NN
+"However/NNP Ms/NNP Clarkson/NNP and/CC her/PRP$ family/NN understand/VBP that/IN the/DT fair/JJ administration/NN of/IN justice/NN takes/VBZ time/NN and/CC in/IN light/NN of/IN the/DT numerous/JJ changes/NNS Mr/NNP Spector/NNP has/VBZ made/VBN in/IN his/PRP$ legal/JJ defence/NN team/NN over/IN the/DT last/JJ two/CD years/NNS Ms/NNP Clarkson/NNP was/VBD forced/VBN to/TO file/VB the/DT action/NN before/IN (the/NN statute/NN of/IN limitations/NNS expired)/NN on/IN 3/CD February/NNP 2005."/CD Mr/NNP Spector/NNP known/VBD for/IN his/PRP$ work/NN with/IN the/DT Beatles/NNP has/VBZ claimed/VBN that/IN Lana/NNP Clarkson/NNP committed/VBD suicide./NN
+His/PRP$ lawyers/NNS led/VBN by/IN Bruce/NNP Cutler/NNP have/VBP vowed/VBN to/TO prove/VB him/PRP innocent/JJ at/IN trial./NN
+
+Mr/NNP Cutler/NNP said/VBD "Phil/NN did/VBD not/RB cause/VB the/DT death/NN of/IN this/DT woman/NN he's/NNS not/RB criminally/RB responsible/JJ and/CC he's/NNS not/RB civilly/RB responsible/JJ either./NN
+"But/NNP I'm/NNP not/RB surprised/VBD they/PRP filed/VBD a/DT suit/NN for/IN money/NN that/WDT seems/VBZ to/TO be/VB de/NNP rigueur/FW nowadays."/NN A/DT Los/NNP Angeles/NNP Superior/NNP Court/NNP judge/NN is/VBZ expected/VBN to/TO set/VB a/DT trial/NN date/NN later/RB this/DT month/NN for/IN Spector/NNP who/WP was/VBD indicted/VBN on/IN murder/NN charges/NNS in/IN September./NNP
+Roderick/NNP Lindblom/NNP one/CD of/IN Ms/NNP Clarkson's/NNP lawyers/NNS said/VBD "Our/NN intent/NN is/VBZ to/TO let/VB the/DT criminal/JJ proceedings/NNS go/VBP forward/RB and/CC not/RB do/VB anything/NN that/WDT would/MD interfere/VB with/IN the/DT prosecution."/NN

@@ -1,0 +1,8 @@
+Kluft/NNP impressed/VBD by/IN Sotherton/NNP form/NN
+
+Olympic/NNP heptathlon/NN champion/NN Carolina/NNP Kluft/NNP was/VBD full/JJ of/IN admiration/NN for/IN Britain's/NNP Kelly/NNP Sotherton/NNP as/IN the/DT pair/NN prepared/VBN to/TO clash/VB in/IN Birmingham./NNP
+
+Both/DT will/MD be/VB in/IN action/NN on/IN Friday/NNP in/IN the/DT 60m/CD hurdles/NNS and/CC long/JJ jump/NN ahead/RB of/IN the/DT European/JJ Indoor/JJ Championships/NNS later/RB this/DT month/NN in/IN Madrid./NNP
+Sotherton/NNP finished/VBD third/JJ behind/IN the/DT Swede/NN in/IN Athens/NNP and/CC Kluft/NNP said/VBD "I/NN knew/VBD about/IN her/PRP$ she's/NNS a/DT great/JJ girl./NN
+"She/NN looked/VBD very/RB good/JJ early/NN in/IN the/DT season/NN and/CC was/VBD competing/VBG really/RB well."/NN Kluft/NNP showed/VBD impressive/JJ early-season/JJ form/NN on/IN Tuesday/NNP in/IN Stockholm's/NNP GE/NNP Galan/NNP meeting/NN winning/VBG the/DT sprint/NN hurdles/NNS the/DT long/JJ jump/NN and/CC the/DT 400m./CD
+Sotherton/NNP has/VBZ also/RB displayed/VBN promise/NN with/IN a/DT new/JJ high/JJ jump/NN personal/JJ best/JJS in/IN Sheffield/NNP at/IN the/DT combined/VBN Norwich/NNP Union/JJ European/JJ trials/NNS and/CC AAA/NNP Championships/NNS and/CC a/DT second/JJ place/NN in/IN the/DT long/JJ jump/NN behind/IN Jade/NNP Johnson./NNP

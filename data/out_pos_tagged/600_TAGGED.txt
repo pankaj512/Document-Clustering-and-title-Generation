@@ -1,0 +1,19 @@
+Berlin/NN cheers/NNS for/IN anti-Nazi/JJ film/NN
+
+A/DT German/JJ movie/NN about/IN an/DT anti-Nazi/JJ resistance/NN heroine/NN has/VBZ drawn/VBN loud/JJ applause/NN at/IN Berlin/NNP Film/NNP Festival./NNP
+
+Sophie/NNP Scholl/NNP -/: The/DT Final/JJ Days/NNS portrays/VBZ the/DT final/JJ days/NNS of/IN the/DT member/NN of/IN the/DT White/NNP Rose/NNP movement./NN
+Scholl/NNP 21/CD was/VBD arrested/VBN and/CC beheaded/VBN with/IN her/PRP$ brother/NN Hans/NNP in/IN 1943/CD for/IN distributing/VBG leaflets/NNS condemning/VBG the/DT "abhorrent/NN tyranny"/NN of/IN Adolf/NNP Hitler./NNP
+Director/NNP Marc/NNP Rothemund/NNP said/VBD "I/NN have/VBP a/DT feeling/NN of/IN responsibility/NN to/TO keep/VB the/DT legacy/NN of/IN the/DT Scholls/NNP going."/NN "We/NN must/MD somehow/RB keep/VB their/PRP$ ideas/NNS alive"/VBP he/PRP added./VB
+
+The/DT film/NN drew/VBD on/IN transcripts/NNS of/IN Gestapo/NNP interrogations/NNS and/CC Scholl's/NNP trial/NN preserved/VBN in/IN the/DT archive/NN of/IN communist/JJ East/NNP Germany's/NNP secret/JJ police./NN
+Their/PRP$ discovery/NN was/VBD the/DT inspiration/NN behind/IN the/DT film/NN for/IN Rothemund/NNP who/WP worked/VBD closely/RB with/IN surviving/VBG relatives/NNS including/VBG one/CD of/IN Scholl's/NNP sisters/NNS to/TO ensure/VB historical/JJ accuracy/NN on/IN the/DT film./NN
+Scholl/NNP and/CC other/JJ members/NNS of/IN the/DT White/NNP Rose/NNP resistance/NN group/NN first/RB started/VBD distributing/VBG anti-Nazi/JJ leaflets/NNS in/IN the/DT summer/NN of/IN 1942./CD
+They/PRP were/VBD arrested/VBN as/IN they/PRP dropped/VBD leaflets/NNS at/IN Munich/NNP University/NNP calling/VBG for/IN a/DT "day/NN of/IN reckoning"/NN with/IN Adolf/NNP Hitler's/NNP regime./NN
+The/DT film/NN focuses/VBZ on/IN the/DT six/CD days/NNS from/IN Scholl's/NNP arrest/NN to/TO the/DT intense/JJ trial/NN which/WDT saw/VBD Scholl/NNP initially/RB deny/VBP the/DT charges/NNS and/CC ended/VBD with/IN a/DT defiant/JJ appearance./NN
+It/PRP is/VBZ one/CD of/IN three/CD German/JJ films/NNS vying/VBG for/IN a/DT top/JJ prize/NN at/IN the/DT Festival./NNP
+
+A/DT South/JJ African/JJ film/NN version/NN of/IN Bizet's/NNP tragic/JJ opera/NN Carmen/NNP shot/NN in/IN Cape/NNP Town/NNP in/IN the/DT Xhosa/NNP language/NN has/VBZ also/RB premiered/VBN at/IN the/DT Berlin/NNP Festival./NNP
+The/DT film/NN is/VBZ entitled/VBN U-Carmen/NNP eKhayelitsha/NN or/CC Carmen/NNP in/IN Khayelitsha/NNP after/IN the/DT township/NN in/IN which/WDT the/DT story/NN is/VBZ set./NN
+It/PRP is/VBZ performed/VBN by/IN a/DT 40-strong/JJ music/NN and/CC theatre/FW troupe/NN in/IN their/PRP$ debut/NN film/NN performance./NN
+The/DT film/NN is/VBZ the/DT first/JJ South/JJ African/JJ feature/NN in/IN 25/CD years/NNS and/CC only/RB the/DT second/JJ to/TO be/VB nominated/VBN for/IN a/DT Golden/NNP Bear/NNP Award./NNP

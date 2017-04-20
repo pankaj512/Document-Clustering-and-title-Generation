@@ -1,0 +1,19 @@
+Voters/NNS 'reject/NN EU/NNP by/IN two/CD to/TO one'/VB
+
+British/JJ voters/NNS would/MD reject/VB the/DT European/JJ constitution/NN by/IN two/CD to/TO one/CD according/VBG to/TO a/DT poll/NN posing/VBG the/DT question/NN the/DT government/NN will/MD put/VB to/TO the/DT country./NN
+
+The/DT Daily/NNP Telegraph/NNP poll/NN suggests/VBZ that/IN 45%/CD of/IN people/NNS would/MD vote/VB against/IN the/DT constitution/NN and/CC 24%/CD in/IN favour./NN
+However/RB the/DT YouGov/NNP poll/NN which/WDT questioned/VBD 1943/CD British/JJ adults/NNS online/NN found/VBD 25%/CD did/VBD not/RB know/VB how/WRB they/PRP would/MD vote/VB if/IN forced/VBN to/TO decide/VB tomorrow./NN
+Only/RB 51%/CD of/IN those/DT polled/VBN had/VBD made/VBN up/RP their/PRP$ minds/NNS about/IN the/DT constitution./NN
+Another/DT 7%/CD said/VBD they/PRP would/MD not/RB vote/VB at/IN all./NN
+The/DT poll/NN is/VBZ believed/VBN to/TO be/VB the/DT first/JJ to/TO pose/VB the/DT question/NN which/WDT the/DT government/NN has/VBZ chosen/VBN for/IN the/DT upcoming/VBG referendum/NN expected/VBN in/IN 2006./CD
+The/DT constitution/NN will/MD be/VB incorporated/VBN into/IN UK/NNP law/NN if/IN there/EX is/VBZ a/DT yes/UH vote./NN
+
+Ballot/NN papers/NNS in/IN the/DT poll/NN will/MD ask/VB "Should/NN the/DT United/NNP Kingdom/NNP approve/VB the/DT treaty/NN establishing/VBG a/DT constitution/NN for/IN the/DT European/NNP Union?"/NNP The/DT government/NN unveiled/VBD the/DT question/NN which/WDT will/MD be/VB asked/VBN earlier/RBR in/IN the/DT week./NN
+
+The/DT treaty/NN was/VBD signed/VBN by/IN all/DT 25/CD current/JJ EU/NNP members/NNS in/IN Rome/NNP last/JJ October/NNP and/CC is/VBZ due/JJ to/TO come/VB into/IN force/NN in/IN November/NNP 2006/CD providing/VBG it/PRP is/VBZ ratified/VBN by/IN all/DT member/NN states/NNS -/: several/JJ of/IN which/WDT will/MD hold/VB a/DT referendum./NN
+Critics/NNS say/VBP the/DT constitution/NN is/VBZ a/DT further/JJ step/NN towards/IN a/DT federal/JJ Europe/NNP but/CC advocates/NNS say/VBP it/PRP ensures/VBZ effective/JJ operation/NN of/IN the/DT enlarged/JJ 25-state/JJ EU./NNP
+"If/NN we/PRP reject/VBP this/DT treaty/NN Britain/NNP will/MD be/VB isolated/VBN and/CC weak/JJ in/IN Europe"/NNP said/VBD Foreign/NNP Secretary/NNP Jack/NNP Straw/NNP after/IN the/DT question/NN was/VBD unveiled./NN
+Mr/NNP Straw/NNP along/IN with/IN the/DT rest/NN of/IN the/DT Cabinet/NNP will/MD back/RP a/DT "yes"/NN vote./NN
+Meanwhile/RB Conservative/JJ shadow/NN foreign/JJ secretary/NN Michael/NNP Ancram/NNP said/VBD the/DT referendum/NN question/NN "seems/NN straightforward"./NN
+But/CC he/PRP accused/VBD the/DT government/NN of/IN trying/VBG to/TO confuse/VB the/DT issue/NN by/IN putting/VBG the/DT EU/NNP referendum/NN question/NN in/IN the/DT same/JJ bill/NN as/IN the/DT ratification/NN of/IN the/DT constitution/NN when/WRB they/PRP should/MD be/VB treated/VBN as/IN "two/NN separate/JJ issues"./NN

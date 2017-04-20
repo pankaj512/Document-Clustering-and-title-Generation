@@ -1,0 +1,23 @@
+Game/NN makers/NNS get/VBP Xbox/NNP 2/CD sneak/NN peek/NN
+
+Microsoft/NNP has/VBZ given/VBN game/NN makers/NNS a/DT glimpse/NN of/IN the/DT new/JJ Xbox/NNP 2/CD console./NN
+
+Some/DT details/NNS of/IN the/DT Xbox's/NNP performance/NN and/CC what/WP gaming/NN will/MD be/VB like/IN with/IN the/DT device/NN were/VBD given/VBN at/IN the/DT annual/JJ Game/NNP Developers/NNS Conference/NNP in/IN the/DT US./NNP
+Xbox/NNP frontman/NN J./NNP
+Allard/NNP said/VBD the/DT console/NN looked/VBD set/VBN to/TO be/VB capable/JJ of/IN one/CD trillion/CD calculations/NNS per/IN second./NN
+Also/RB all/DT titles/NNS for/IN the/DT new/JJ Xbox/NNP will/MD have/VB the/DT same/JJ interface/JJ to/TO make/VB it/PRP easy/JJ to/TO play/VB online/NN and/CC buy/VB extras/NNS for/IN characters/NNS or/CC other/JJ add-ons/NNS for/IN games./NN
+
+Microsoft/NNP is/VBZ saving/VBG the/DT official/NN unveiling/NN of/IN the/DT Xbox/NNP 2/CD codenamed/VBN Xenon/NNP for/IN the/DT E3/CD show/NN in/IN May/NNP and/CC the/DT device/NN could/MD be/VB on/IN shop/NN shelves/NNS by/IN November./NNP
+However/RB during/IN his/PRP$ keynote/NN speech/NN at/IN GDC/NNP Mr/NNP Allard/NNP who/WP heads/VBZ development/NN of/IN game-making/JJ tools/NNS for/IN the/DT console/NN gave/VBD a/DT glimpse/NN into/IN how/WRB some/DT of/IN its/PRP$ core/NN software/NN will/MD work./VB
+He/PRP said/VBD gaming/NN was/VBD entering/VBG a/DT "high-definition"/JJ era/NN that/WDT demanded/VBD detailed/JJ and/CC convincing/JJ graphics/NNS that/WDT could/MD adequately/RB compete/VB with/IN the/DT HDTV/NN people/NNS were/VBD starting/VBG to/TO watch/VB as/RB well/RB as/IN the/DT HD/NNP DVDs/NNP that/WDT will/MD soon/RB start/VB to/TO appear./VB
+
+Industry/NN watchers/NNS took/VBD this/DT to/TO mean/VB that/IN the/DT Xbox/NNP 2/CD will/MD push/VB for/IN HDTV/NN quality/NN graphics/NNS as/RB standard/JJ as/RB well/RB as/IN multi-channel/JJ audio/JJ to/TO give/VB gamers/NNS an/DT authentic/JJ experience./NN
+Mr/NNP Allard/NNP said/VBD Microsoft/NNP had/VBD to/TO work/VB hard/JJ to/TO ensure/VB that/IN it/PRP was/VBD easy/JJ for/IN game/NN makers/NNS to/TO produce/VB titles/NNS for/IN the/DT Xbox/NNP 2/CD and/CC for/IN players/NNS to/TO get/VB playing./NN
+To/TO this/DT end/NN Microsoft/NNP was/VBD building/NN in/RP to/TO Xbox/NNP hardware/NN systems/NNS to/TO support/VB headset/NN chat/NN buddy/NN list/NN controls/NNS and/CC custom/NN soundtracks/NNS so/IN developers/NNS were/VBD free/JJ to/TO concentrate/VB on/IN the/DT games./NN
+The/DT Xbox/NNP would/MD also/RB support/VB well-known/JJ industry/NN specifications/NNS such/JJ as/IN DirectX/NNP to/TO make/VB it/PRP simple/JJ for/IN game/NN studios/NNS to/TO make/VB titles/NNS for/IN the/DT console./NN
+For/IN gamers/NNS this/DT emphasis/NN on/IN ease/NN of/IN use/NN would/MD mean/VB every/DT Xbox/NNP title/NN uses/VBZ the/DT same/JJ interface/JJ to/TO set/VB up/RP online/NN play/NN and/CC get/VB at/IN music/NN stored/VBD on/IN the/DT hardware./NN
+This/DT interface/NN will/MD hold/VB details/NNS of/IN a/DT player's/NNS statistics/NNS and/CC skill/NN level/NN on/IN a/DT "gamer/NN card"/NN as/RB well/RB as/IN give/NN access/NN to/TO a/DT store/NN where/WRB people/NNS can/MD spend/VB small/JJ amounts/NNS of/IN cash/NN to/TO buy/VB extras/NNS for/IN their/PRP$ avatars/NNS or/CC add-ons/NNS such/JJ as/IN new/JJ maps/NNS or/CC vehicles/NNS for/IN games/NNS they/PRP possess./VBP
+This/DT ability/NN to/TO personalise/VB games/NNS and/CC in-game/JJ characters/NNS would/MD be/VB key/JJ in/IN the/DT future/NN said/VBD Mr/NNP Allard./NNP
+Only/RB with/IN such/JJ consistency/NN would/MD the/DT Xbox/NNP be/VBP able/JJ to/TO support/VB the/DT 10-20/JJ million/CD subscribers/NNS that/IN it/PRP was/VBD aiming/VBG for/IN said/VBN Mr/NNP Allard./NNP
+During/IN his/PRP$ speech/NN Mr/NNP Allard/NNP took/VBD several/JJ swipes/NNS at/IN the/DT Playstation/NNP and/CC said/VBD processors/NNS for/IN consoles/VBZ had/VBN to/TO be/VB made/VBN with/IN developers/NNS not/RB just/RB engineers/NNS in/IN mind./NN
+"Our/NN approach/NN is/VBZ Bruce/NNP Lee/NNP not/RB brute/JJ force"/NN he/PRP said./VB

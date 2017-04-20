@@ -1,0 +1,19 @@
+Stars/NNP gear/NN up/RP for/IN Bafta/NNP ceremony/NN
+
+Film/NN stars/NNS from/IN across/IN the/DT globe/NN are/VBP preparing/VBG to/TO walk/VB the/DT red/JJ carpet/NN at/IN this/DT year's/NNS Bafta/NNP award/NN ceremony./NN
+
+The/DT 2005/CD Orange/NNP British/NNP Academy/NNP Film/NNP Awards/NNS are/VBP being/VBG held/VBN at/IN The/DT Odeon/NNP in/IN London's/NNP Leicester/NNP Square./NNP
+A/DT host/NN of/IN Hollywood/NNP stars/NNS including/VBG Cate/NNP Blanchett/NNP Leonardo/NNP DiCaprio/NNP Keanu/NNP Reeves/NNP and/CC Richard/NNP Gere/NNP are/VBP expected/VBN to/TO attend/VB Saturday's/NNP ceremony./NN
+Hosted/VBN by/IN Stephen/NNP Fry/NN the/DT glittering/VBG ceremony/NN will/MD be/VB broadcast/NN on/IN BBC/NNP One/CD at/IN 2010/CD GMT./NNP
+
+Other/JJ actors/NNS expected/VBN to/TO add/VB to/TO the/DT glamour/NN of/IN the/DT biggest/JJS night/NN in/IN UK/NNP film/NN are/VBP Gael/NNP Garcia/NNP Bernal/NNP Imelda/NNP Staunton/NNP Diane/NNP Kruger/NNP Christian/NNP Slater/NNP Anjelica/NNP Huston/NNP Helen/NNP Mirren/NNP and/CC former/JJ James/NNP Bond/NNP star/NN Pierce/NNP Brosnan./NNP
+Hollywood/NNP blockbuster/NN The/DT Aviator/NNP starring/VBG DiCaprio/NNP leads/VBZ the/DT field/NN with/IN 14/CD nominations/NNS including/VBG best/JJS film./NN
+
+It/PRP is/VBZ up/IN against/IN Eternal/JJ Sunshine/NNP of/IN the/DT Spotless/NNP Mind/NN Finding/VBG Neverland/NNP The/DT Motorcycle/NNP Diaries/NNS and/CC British/JJ film/NN Vera/NNP Drake/NNP which/WDT has/VBZ 11/CD nominations./NN
+British/JJ hope/NN Imelda/NNP Staunton/NNP is/VBZ one/CD of/IN the/DT favourites/NNS to/TO land/VB the/DT best/JJS actress/NN award/NN for/IN her/PRP$ gritty/JJ role/NN as/IN a/DT backstreet/NN abortionist/NN in/IN the/DT small-budget/JJ film./NN
+Other/JJ nominees/NNS in/IN the/DT best/JJS actress/NN category/NN include/VBP Charlize/NNP Theron/NNP for/IN Monster/NN Ziyi/NNP Zhang/NNP for/IN House/NNP of/IN Flying/NNP Daggers/NNP and/CC UK/NNP star/NN Kate/NNP Winslet/NNP who/WP has/VBZ two/CD nods/VBZ for/IN her/PRP$ roles/NNS in/IN Eternal/JJ Sunshine/NNP of/IN the/DT Spotless/NNP Mind/NN and/CC Finding/VBG Neverland./NNP
+
+DiCaprio/NNP faces/VBZ competition/NN from/IN Bernal/NNP Jamie/NNP Foxx/NNP Jim/NNP Carrey/NNP and/CC Johnny/NNP Depp/NNP in/IN the/DT best/JJS actor/NN category./NN
+And/CC British/JJ actor/NN Clive/NNP Owen/NNP is/VBZ hoping/VBG to/TO repeat/VB his/PRP$ Golden/NNP Globe/NNP success/NN with/IN a/DT best/JJS supporting/VBG actor/NN award/NN for/IN his/PRP$ role/NN in/IN Closer./NNP
+His/PRP$ co-star/JJ Natalie/NNP Portman/NNP is/VBZ up/RB against/IN Blanchett/NNP Heather/NNP Craney/NNP Julie/NNP Cristie/NNP and/CC Meryl/NNP Streep/NNP in/IN the/DT best/JJS supporting/VBG actress/NN category./NN
+Mike/NNP Leigh/NNP is/VBZ up/RB for/IN the/DT best/JJS director/NN award/NN for/IN Vera/NNP Drake/NNP alongside/IN Martin/NNP Scorsese/NNP for/IN The/DT Aviator/NNP Michael/NNP Mann/NNP for/IN Collateral/NN Michel/NNP Gondry/NNP for/IN Eternal/JJ Sunshine/NNP of/IN the/DT Spotless/NNP Mind/NN and/CC Marc/NNP Forster/NNP for/IN Finding/VBG Neverland./NNP

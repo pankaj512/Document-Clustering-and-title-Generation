@@ -1,0 +1,14 @@
+Crisis/NN 'ahead/NN in/IN social/JJ sciences'/NN
+
+A/DT national/JJ body/NN designed/VBN to/TO tackle/VB skills/NNS shortages/NNS in/IN key/JJ subjects/NNS should/MD be/VB set/VBN up/RP a/DT committee/NN of/IN MPs/NNP has/VBZ said./NN
+
+There/EX was/VBD an/DT "absolute/NN crisis"/NN in/IN the/DT recruitment/NN of/IN statisticians/NNS and/CC other/JJ social/JJ science/NN experts/NNS the/DT Commons/NNPS science/NN and/CC technology/NN committee/NN added./NN
+"Major/NN problems"/NN are/VBP expected/VBN over/IN the/DT next/JJ 10/CD years/NNS as/IN the/DT social/JJ science/NN workforce/NN continues/VBZ to/TO age/VB it/PRP said./NN
+The/DT committee/NN was/VBD reporting/VBG on/IN the/DT work/NN strategy/NN and/CC spending/NN plans/NNS of/IN the/DT Economic/NNP Social/NNP Research/NNP Council./NNP
+
+The/DT council/NN aims/VBZ to/TO promote/VB and/CC support/NN strategic/JJ research/NN for/IN social/JJ science/NN postgraduates/NNS and/CC provide/VB social/JJ scientists/NNS to/TO meet/VB the/DT needs/NNS of/IN the/DT country./NN
+It/PRP also/RB liaises/VBZ with/IN the/DT government/NN and/CC industry/NN over/IN their/PRP$ social/JJ science/NN needs./NN
+In/IN its/PRP$ report/NN on/IN the/DT council's/NNS work/VBP the/DT committee/NN said/VBD "We/NN are/VBP deeply/RB concerned/VBN by/IN the/DT skills/NNS shortages/NNS afflicting/VBG in/IN particular/JJ the/DT qualitative/JJ branches/NNS of/IN social/JJ sciences./NN
+This/DT mirrored/VBD previous/JJ concerns/NNS the/DT committee/NN had/VBD expressed/VBN on/IN shortages/NNS in/IN the/DT fields/NNS of/IN maths/NNS and/CC chemistry/NN it/PRP said./NN
+"It/NN is/VBZ hard/JJ to/TO see/VB how/WRB significant/JJ progress/NN towards/IN rectifying/VBG these/DT shortages/NNS can/MD be/VB made/VBN through/IN the/DT deployment/NN of/IN Economic/NNP and/CC Social/NNP Research/NNP Council's/NNP limited/JJ resources./NN
+"If/NN the/DT government/NN is/VBZ serious/JJ about/IN addressing/VBG skills/NNS shortages/NNS in/IN key/JJ subjects/NNS it/PRP needs/VBZ to/TO find/VB a/DT more/RBR effective/JJ mechanism/NN to/TO achieve/VB this."/NN A/DT national/JJ "strategic/JJ capabilities/NNS fund"/NN to/TO address/VB shortages/NNS in/IN key/JJ areas/NNS should/MD be/VB set/VBN up/RP in/IN response/NN the/DT committee/NN added./NN

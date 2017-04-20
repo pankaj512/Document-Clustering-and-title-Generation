@@ -1,0 +1,24 @@
+Films/NNS on/IN war/NN triumph/NN at/IN Sundance/NNP
+
+A/DT study/NN of/IN the/DT United/NNP States/NNPS at/IN war/NN in/IN the/DT past/JJ 50/CD years/NNS has/VBZ picked/VBN up/RB one/CD of/IN the/DT main/JJ awards/NNS at/IN the/DT 2005/CD Sundance/NNP Film/NNP Festival/NNP in/IN Utah/NNP in/IN the/DT US./NNP
+
+Why/WRB We/PRP Fight/VBP scooped/VBD the/DT grand/JJ jury/NN prize/NN for/IN documentaries/NNS at/IN the/DT world's/NNS leading/VBG independent/JJ film/NN festival./NN
+British/JJ director/NN Sean/NNP McAllister's/NNP The/DT Liberace/NNP of/IN Baghdad/NNP -/: about/IN a/DT pianist/NN in/IN war-torn/JJ Iraq/NNP -/: won/VBD a/DT special/JJ prize/NN in/IN the/DT world/NN documentary/NN category./NN
+Both/DT Why/WRB We/PRP Fight/VBP and/CC The/DT Liberace/NNP of/IN Baghdad/NNP were/VBD made/VBN for/IN the/DT BBC./NNP
+Why/WRB We/PRP Fight/VBP is/VBZ due/JJ to/TO be/VB screened/VBN on/IN BBC/NNP Four/CD in/IN March./NNP
+
+The/DT Sundance/NNP festival/NN was/VBD founded/VBN by/IN actor/NN Robert/NNP Redford/NNP in/IN 1981./CD
+This/DT year's/VBZ festival/NN -/: which/WDT ended/VBD on/IN Sunday/NNP after/IN a/DT 11-day/JJ run/NN -/: has/VBZ been/VBN dominated/VBN by/IN the/DT themes/NNS of/IN war/NN and/CC politics./NN
+In/IN the/DT new/JJ world/NN cinema/NN drama/NN category/NN the/DT Angolan/NNP film/NN The/DT Hero/NN triumphed/VBD to/TO win/VB the/DT grand/JJ jury/NN prize./NN
+The/DT film/NN -/: an/DT Angolan/French/Portuguese/NNP production/NN -/: tells/VBZ the/DT story/NN of/IN a/DT veteran/NN of/IN the/DT country's/NNS civil/JJ war/NN who/WP returns/VBZ home/NN to/TO face/VB a/DT new/JJ battle/NN of/IN survival./NN
+Twelve/CD films/NNS competing/VBG in/IN the/DT new/JJ world/NN cinema/NN documentary/NN category/NN focused/VBN on/IN countries/NNS and/CC people/NNS under/IN siege./NN
+
+Finnish/JJ film/NN The/DT Three/CD Rooms/NNS of/IN Melancholia/NNP looks/VBZ at/IN the/DT war/NN in/IN Chechnya/NNP and/CC Shake/NNP Hands/NNS With/IN The/DT Devil/NNP The/DT Journey/NNP of/IN Romeo/NNP Dallaire/NNP tells/VBZ the/DT story/NN of/IN a/DT UN/NNP mission/NN to/TO Rwanda/NNP during/IN the/DT 1994/CD genocide./NN
+But/CC it/PRP was/VBD Dutch/JJ documentary/NN Shape/NN of/IN the/DT Moon/NNP -/: a/DT study/NN of/IN an/DT extended/JJ family/NN in/IN Indonesia/NNP -/: which/WDT took/VBD the/DT top/JJ prize./NN
+Meanwhile/RB French-Israeli/NNP production/NN Wall/NNP which/WDT looks/VBZ at/IN Israel's/NNP controversial/JJ security/NN wall/NN separating/VBG it/PRP from/IN the/DT Palestinian/JJ territories/NNS picked/VBD up/RP a/DT world/NN cinema/NN special/JJ jury/NN prize/NN for/IN documentaries./NN
+In/IN the/DT main/JJ drama/NN category/NN Forty/CD Shades/NNP of/IN Blue/NNP was/VBD named/VBN winner/NN of/IN the/DT grand/JJ jury/NN prize./NN
+The/DT film/NN tells/VBZ the/DT tale/NN of/IN a/DT forbidden/JJ tug-of-love/JJ between/IN a/DT father/NN his/PRP$ Russian/JJ immigrant/JJ girlfriend/NN and/CC his/PRP$ son./NN
+
+During/IN its/PRP$ 24-year/JJ history/NN the/DT Sundance/NNP Film/NNP Festival/NNP has/VBZ showcased/VBN successes/NNS such/JJ as/IN Reservoir/NN Dogs/NNS The/DT Blair/NNP Witch/NN Project/NNP and/CC The/DT Full/JJ Monty./NNP
+Last/JJ year's/NNS festival/NN provided/VBD a/DT platform/NN for/IN hits/NNS such/JJ as/IN Open/NNP Water/NNP Napoleon/NNP Dynamite/NNP Garden/NNP State/NNP and/CC Super-Size/NNP Me./NNP
+The/DT festival/NN is/VBZ held/VBN in/IN the/DT mountain/NN resort/NN of/IN Park/NNP City/NNP east/JJ of/IN Salt/NNP Lake/NNP City/NNP which/WDT sees/VBZ its/PRP$ population/NN rise/NN from/IN 7500/CD to/TO 45000/CD during/IN the/DT festival./NN

@@ -1,0 +1,16 @@
+Van/NNP Gogh/NNP festival/NN film/NN withdrawn/VBN
+
+Murdered/VBN director/NN Theo/NNP van/NNP Gogh's/NNP controversial/JJ film/NN Submission/NN has/VBZ been/VBN pulled/VBN from/IN the/DT Rotterdam/NNP Film/NNP Festival/NNP because/IN of/IN security/NN fears./NN
+
+It/PRP was/VBD one/CD of/IN three/CD of/IN his/PRP$ works/NNS to/TO be/VB shown/VBN as/IN part/NN of/IN a/DT freedom/NN of/IN expression/NN event/NN in/IN tribute/NN to/TO the/DT late/JJ film-maker's/NNS life./NN
+The/DT film/NN is/VBZ critical/JJ of/IN the/DT treatment/NN of/IN women/NNS under/IN Islam./NNP
+Its/PRP$ TV/NN screening/NN is/VBZ thought/VBN to/TO have/VB led/VBN to/TO his/PRP$ murder./NN
+The/DT 10-day/JJ Dutch/JJ festival/NN begins/VBZ on/IN Wednesday./NNP
+Submission/NN was/VBD made/VBN with/IN liberal/JJ Somali-Dutch/NNP politician/NN Ayaan/NNP Hirsi/NNP Ali/NNP and/CC was/VBD due/JJ to/TO be/VB shown/VBN on/IN 30/CD January./NNP
+Van/NNP Gogh/NNP was/VBD shot/VBN and/CC stabbed/VBN to/TO death/NN in/IN November/NNP 2004/CD several/JJ months/NNS after/IN receiving/VBG death/NN threats/NNS following/VBG Submission's/NNP first/JJ broadcast/NN on/IN Dutch/JJ television./NN
+Two/CD of/IN Van/NNP Gogh's/NNP other/JJ films/NNS will/MD be/VB shown/VBN as/IN planned/VBN including/VBG the/DT theatrical/JJ world/NN premiere/NN of/IN his/PRP$ last/JJ feature/NN 06/05./CD
+
+Festival/NNP director/NN Sandra/NNP den/NN Hamer/NNP said/VBD "The/NN festival/NN reflects/VBZ what/WP happens/VBZ around/IN us/PRP and/CC within/IN cinema/NN itself."/NN The/DT festival/NN opens/VBZ with/IN the/DT French/JJ film/NN The/DT 10th/JJ District/NNP Court/NNP Moments/NNS of/IN Trials/NNS made/VBN by/IN Raymond/NNP Depardon./NNP
+The/DT event/NN sees/VBZ 14/CD films/NNS competing/VBG to/TO win/VB three/CD Top/JJ Tiger/NNP Awards/NNS which/WDT aim/NN to/TO introduce/VB promising/VBG new/JJ talent./NN
+New/JJ sections/NNS added/VBD to/TO this/DT year's/NNS festival/NN include/VBP Cinema/NNP of/IN the/DT Future/JJ and/CC Cinema/NNP of/IN the/DT World/NNP with/IN special/JJ focus/NN on/IN Russian/JJ and/CC south-east/JJ Asian/JJ productions./NN
+There/EX is/VBZ also/RB an/DT Iraqi-German/NNP offering/NN entitled/VBN Underexposure/NNP which/WDT looks/VBZ at/IN life/NN in/IN Iraq/NNP after/IN Saddam/NNP Hussein./NNP

@@ -1,0 +1,9 @@
+Pountney/NNP handed/VBD ban/NN and/CC fine/NN
+
+Northampton/NNP coach/NN Budge/VB Pountney/NNP has/VBZ been/VBN fined/VBN £2000/CD and/CC banned/VBN from/IN match-day/JJ coaching/NN for/IN six/CD weeks/NNS for/IN calling/VBG a/DT referee/NN "a/NN disgrace"./JJ
+
+Pountney/NNP was/VBD found/VBN guilty/JJ of/IN bringing/VBG the/DT game/NN into/IN disrepute/JJ at/IN a/DT Rugby/NNP Football/NNP Union/NNP disciplinary/JJ hearing/NN in/IN London/NNP on/IN Thursday/NNP night./NN
+Pountney/NNP criticised/VBD referee/NN Steve/NNP Lander's/NNP performance/NN in/IN Northampton's/NNP defeat/NN by/IN Saracens/NNP on/IN 5/CD February./NNP
+The/DT last/JJ two/CD weeks/NNS of/IN the/DT six-week/JJ ban/NN are/VBP suspended./NN
+Pountney/NNP pleaded/VBD guilty/JJ to/TO the/DT offence/NN before/IN a/DT panel/NN consisting/VBG of/IN chairman/NN Robert/NNP Horner/NNP Nigel/NNP Gillingham/NNP and/CC Jeff/NNP Probyn./NNP
+The/DT ban/NN means/VBZ former/JJ Scotland/NNP international/JJ Pountney/NNP cannot/NN enter/VBP the/DT playing/VBG enclosure/NN technical/JJ areas/NNS or/CC go/VB near/IN the/DT touchline/NN tunnel/NN or/CC players/NNS and/CC officials'/NN areas/NNS on/IN the/DT day/NN of/IN a/DT game./NN

@@ -1,0 +1,14 @@
+EU/NN ministers/NNS to/TO mull/VB jet/NN fuel/NN tax/NN
+
+European/NNP Union/NNP finance/NN ministers/NNS are/VBP meeting/NN on/IN Thursday/NNP in/IN Brussels/NNP where/WRB they/PRP are/VBP to/TO discuss/VB a/DT controversial/JJ jet/NN fuel/NN tax./NN
+
+A/DT levy/NN on/IN jet/NN fuel/NN has/VBZ been/VBN suggested/VBN as/IN a/DT way/NN to/TO raise/VB funds/NNS to/TO finance/VB aid/NN for/IN the/DT world's/NNS poorest/JJS nations./NN
+Airlines/NNS and/CC aviation/NN bodies/NNS have/VBP reacted/VBN strongly/RB against/IN the/DT plans/NNS saying/VBG they/PRP would/MD hurt/VB companies/NNS at/IN a/DT time/NN when/WRB earnings/NNS are/VBP under/IN pressure./NN
+The/DT EU/NNP said/VBD a/DT tax/NN would/MD only/RB be/VB passed/VBN after/IN full/JJ consultation/NN with/IN airlines./NN
+It/PRP was/VBD keen/JJ to/TO point/VB out/RP earlier/RBR this/DT week/NN that/IN any/DT new/JJ tax/NN on/IN jet/NN fuel/NN should/MD not/RB hurt/VB the/DT "competitiveness/NN of/IN the/DT airlines"./NN
+Ministers/NNS will/MD also/RB be/VB discussing/VBG reforms/NNS to/TO regulations/NNS governing/VBG European/JJ public/JJ spending./NN
+
+Global/JJ leaders/NNS have/VBP focused/VBN attention/NN on/IN poverty/NN reduction/NN and/CC development/NN at/IN recent/JJ meetings/NNS of/IN the/DT G7/CD Group/NNP and/CC World/NNP Economic/NNP Forum./NNP
+The/DT world's/NNS richest/JJS countries/NNS have/VBP said/VBN they/PRP want/VBP to/TO boost/VB the/DT amount/NN of/IN aid/NN they/PRP give/VBP to/TO 0.7%/CD of/IN their/PRP$ annual/JJ gross/JJ national/JJ income/NN by/IN 2015./CD
+Many/JJ EU/NNP ministers/NNS are/VBP thought/VBN to/TO support/VB the/DT plan/NN to/TO tax/NN jet/NN fuel/NN -/: tabled/VBN by/IN France/NNP and/CC Germany/NNP following/VBG the/DT recent/JJ G7/CD meeting./NN
+At/IN present/JJ the/DT fuel/NN used/VBN by/IN airlines/NNS enjoys/VBZ either/RB a/DT very/RB low/JJ tax/NN rate/NN or/CC is/VBZ untaxed/VBN in/IN EU/NNP member/NN states./NN

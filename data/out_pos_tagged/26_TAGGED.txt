@@ -1,0 +1,18 @@
+Safety/NNP alert/VB as/IN GM/NNP recalls/VBZ cars/NNS
+
+The/DT world's/NNS biggest/JJS carmaker/NN General/NNP Motors/NNPS (GM)/NN is/VBZ recalling/VBG nearly/RB 200000/CD vehicles/NNS in/IN the/DT US/PRP on/IN safety/NN grounds/NNS according/VBG to/TO federal/JJ regulators./NN
+
+The/DT National/NNP Highway/NNP Traffic/NNP Safety/NNP Administration/NNP (NHTSA)/NN said/VBD the/DT largest/JJS recall/VB involves/VBZ 155465/CD pickups/NNS vans/NNS and/CC sports/NNS utility/NN vehicles/NNS (SUVs)./NN
+This/DT is/VBZ because/IN of/IN possible/JJ malfunctions/NNS with/IN the/DT braking/VBG systems./NN
+The/DT affected/VBN vehicles/NNS in/IN the/DT product/NN recall/NN are/VBP from/IN the/DT 2004/CD and/CC 2005/CD model/NN years/NNS GM/NNP said./NN
+Those/DT vehicles/NNS with/IN potential/JJ faults/NNS are/VBP the/DT Chevrolet/NNP Avalanche/NN Express/NNP Kodiak/NNP Silverade/NNP and/CC Suburban/JJ the/DT GMC/NNP Savana/NNP Sierra/NNP and/CC Yukon./NNP
+
+The/DT NHTSA/NNP said/VBD a/DT pressure/NN accumulator/NN in/IN the/DT braking/VBG system/NN could/MD crack/VB during/IN normal/JJ driving/NN and/CC fragments/VBZ could/MD injure/VB people/NNS if/IN the/DT hood/NN was/VBD open./NN
+This/DT could/MD allow/VB hydraulic/JJ fluid/JJ to/TO leak/VB which/WDT could/MD make/VB it/PRP harder/JJR to/TO brake/VB or/CC steer/VB and/CC could/MD cause/VB a/DT crash/NN it/PRP warned./NN
+GM/NNP is/VBZ also/RB recalling/VBG 19924/CD Cadillac/NNP XLR/NNP coupes/NNS SRX/NNP SUVs/NNP and/CC Pontiac/NNP Grand/NNP Prix/NNP sedans/NNS from/IN the/DT 2004/CD model/NN year./NN
+This/DT is/VBZ because/IN the/DT accelerator/NN pedal/JJ may/MD not/RB work/VB properly/RB in/IN extremely/RB cold/JJ temperatures/NNS requiring/VBG more/JJR braking./NN
+In/IN addition/NN the/DT car/NN giant/NN is/VBZ calling/VBG back/RB 17815/CD Buick/NNP Raniers/NNP Chevrolet/NNP Trailblazers/NNP GMC/NNP Envoys/NNP and/CC Isuzu/NNP Ascenders/NNP from/IN the/DT 2005/CD model/NN years/NNS because/IN the/DT windshield/NN is/VBZ not/RB properly/RB fitted/VBN and/CC could/MD fall/VB out/RP in/IN a/DT crash./NN
+However/RB GM/NNP stressed/VBD that/IN it/PRP did/VBD not/RB know/VB of/IN any/DT injuries/NNS related/VBN to/TO the/DT problems./NN
+News/NNP of/IN the/DT recall/NN follows/VBZ an/DT announcement/NN last/JJ month/NN that/IN GM/NNP expects/VBZ earnings/NNS this/DT year/NN be/VB lower/JJR than/IN in/IN 2004./CD
+The/DT world's/NNS biggest/JJS car/NN maker/NN is/VBZ grappling/VBG with/IN losses/NNS in/IN its/PRP$ European/JJ business/NN weak/JJ US/PRP sales/VBZ and/CC now/RB a/DT product/NN recall./NN
+In/IN January/NNP GM/NNP said/VBD higher/JJR healthcare/NN costs/NNS in/IN North/NNP America/NNP and/CC lower/JJR profits/NNS at/IN its/PRP$ financial/JJ services/NNS subsidiary/NN would/MD hurt/VB its/PRP$ performance/NN in/IN 2005./CD

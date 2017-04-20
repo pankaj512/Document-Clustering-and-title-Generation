@@ -1,0 +1,28 @@
+Lasers/NNS help/VBP bridge/VB network/NN gaps/NNS
+
+An/DT Indian/JJ telecommunications/NNS firm/NN has/VBZ turned/VBN to/TO lasers/NNS to/TO help/VB it/PRP overcome/VB the/DT problems/NNS of/IN setting/VBG up/RP voice/NN and/CC data/NNS networks/NNS in/IN the/DT country./NN
+
+Tata/NNP Teleservices/NNP is/VBZ using/VBG the/DT lasers/NNS to/TO make/VB the/DT link/NN between/IN customers'/NN offices/NNS and/CC its/PRP$ own/JJ core/NN network./NN
+The/DT laser/NN bridges/NNS work/VBP across/IN distances/NNS up/IN to/TO 4km/CD and/CC can/MD be/VB set/VBN up/RP much/JJ faster/RBR than/IN cable/NN connections./NN
+In/IN 12/CD months/NNS the/DT lasers/NNS have/VBP helped/VBN the/DT firm/NN set/VBD up/RP networks/NNS in/IN more/JJR than/IN 700/CD locations./NN
+
+"In/NN this/DT particular/JJ geography/NN getting/VBG permission/NN to/TO dig/VB the/DT ground/NN and/CC lay/VBD the/DT pipes/NNS is/VBZ a/DT bit/NN of/IN a/DT task"/NN said/VBD Mr/NNP R./NNP
+Sridharan/NNP vice/NN president/NN of/IN networks/NNS at/IN Tata./NNP
+"Heavy/NN traffic/NN and/CC the/DT layout/NN under/IN the/DT ground/NN mean/NN that/DT digging/NN is/VBZ uniquely/RB difficult"/NN he/PRP said./VB
+In/IN some/DT locations/NNS he/PRP said/VBD permission/NN to/TO dig/VB up/RP roads/NNS and/CC lay/VBD cables/NNS was/VBD impossible/JJ to/TO get./VB
+He/PRP said/VBD it/PRP was/VBD far/RB easier/JJR to/TO secure/VB permission/NN for/IN putting/VBG networking/NN hardware/NN on/IN roofs./NN
+This/DT has/VBZ led/VBN Chennai-based/JJ Tata/NNP to/TO turn/VB to/TO equipment/VB that/WDT uses/VBZ lasers/NNS to/TO make/VB the/DT final/JJ mile/NN leap/NN between/IN Tata's/NNP core/NN network/NN and/CC the/DT premises/NNS of/IN customers./NN
+The/DT Lightpointe/NNP laser/NN bridges/NNS work/VBP over/IN distances/NNS of/IN up/IN to/TO 4km/CD and/CC are/VBP being/VBG used/VBN to/TO route/VB both/DT voice/NN and/CC data/NNS from/IN businesses/NNS on/RP to/TO the/DT backbone/NN of/IN the/DT network./NN
+The/DT hardware/NN works/VBZ in/IN pairs/NNS and/CC beam/NN data/NNS through/IN the/DT air/NN in/IN the/DT form/NN of/IN laser/NN pulses./NN
+
+The/DT laser/NN bridges/NNS can/MD route/VB data/NNS at/IN speeds/NNS up/IN to/TO 1.25gbps/CD (2000/CD times/NNS faster/RBR than/IN a/DT 512kbps/CD broadband/NN connection)/NN but/CC Tata/NNP is/VBZ running/VBG its/PRP$ hardware/NN at/IN more/RBR modest/JJ speeds/NNS of/IN 1-2mbps./JJ
+The/DT lasers/NNS are/VBP also/RB ideal/JJ for/IN India/NNP because/IN of/IN its/PRP$ climate./NN
+"It's/NN particularly/RB suitable/JJ as/IN the/DT rain/NN rate/NN is/VBZ a/DT little/RB low/JJ and/CC it's/NNS hardly/RB ever/RB foggy"/NN he/PRP said./VB
+In/IN places/NNS where/WRB rain/NN is/VBZ heavy/JJ and/CC fog/VB is/VBZ common/JJ laser/NN links/NNS can/MD struggle/VB to/TO maintain/VB good/JJ connection/NN speeds./NN
+The/DT laser/NN links/NNS also/RB take/VBP far/RB less/JJR time/NN to/TO set/VB up/RB and/CC get/VB working/VBG said/VBD Mr/NNP Sridharan./NNP
+"Once/NN we/PRP get/VBP the/DT other/JJ permissions/NNS normal/JJ time/NN period/NN for/IN set/VBN up/RP is/VBZ a/DT few/JJ hours"/NN he/PRP said./VB
+By/IN contrast/NN he/PRP said/VBD digging/NN up/RP roads/NNS and/CC laying/VBG cables/NNS can/MD take/VB weeks/NNS or/CC months./NN
+This/DT speed/NN of/IN set/VBN up/RP has/VBZ helped/VBN Tata/NNP with/IN its/PRP$ aggressive/JJ expansion/NN plans./NN
+Just/RB over/IN 12/CD months/NNS ago/RB the/DT firm/NN had/VBD customers/NNS in/IN only/RB about/IN 70/CD towns/NNS and/CC cities./NN
+But/CC by/IN the/DT end/NN of/IN March/NNP the/DT firm/NN hopes/VBZ to/TO reach/VB more/JJR than/IN 1000./CD
+"Speed/VBN is/VBZ very/RB important/JJ because/IN of/IN the/DT pace/NN of/IN competition"/NN said/VBD Mr/NNP Sridharan./NNP

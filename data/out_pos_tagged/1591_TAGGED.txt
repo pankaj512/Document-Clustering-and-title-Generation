@@ -1,0 +1,38 @@
+Robben/NNP and/CC Cole/NNP earn/VBP Chelsea/NNP win/VB
+
+Cheslea/NNP salvaged/VBD a/DT win/NN against/IN a/DT battling/VBG Portsmouth/NNP side/NN just/RB as/IN it/PRP looked/VBD like/IN the/DT Premiership/NN leaders/NNS would/MD have/VB to/TO settle/VB for/IN a/DT point./NN
+
+Arjen/NNP Robben/NNP curled/VBD in/IN a/DT late/JJ deflected/VBN left-footed/JJ shot/NN from/IN the/DT right/JJ side/NN of/IN Pompey's/NNP box/NN to/TO break/VB the/DT home/NN side's/NNS brave/VBP resistance./NN
+Chelsea/NNP had/VBD been/VBN continually/RB frustrated/VBN but/CC Joe/NNP Cole/NNP added/VBD a/DT second/NN with/IN a/DT 20-yard/JJ shot/NN in/IN injury-time./JJ
+Nigel/NNP Quashie/NNP had/VBD Pompey's/NNP best/JJS chance/NN when/WRB his/PRP$ effort/NN was/VBD tipped/VBN over./NN
+The/DT Fratton/NNP Park/NNP crowd/NN were/VBD in/IN good/JJ voice/NN as/IN usual/JJ and/CC even/RB though/IN Portsmouth/NNP more/RBR than/IN held/VBN their/PRP$ own/JJ Chelsea/NNP still/RB managed/VBD to/TO carve/VB out/RP two/CD early/JJ chances./NN
+Striker/NNP Didier/NNP Drogba/NNP snapped/VBD in/IN an/DT angled/VBN shot/NN to/TO force/VB home/NN keeper/NN Shaka/NNP Hislop/NNP into/IN a/DT smart/JJ save/NN while/IN an/DT unmarked/JJ Frank/NNP Lampard/NNP had/VBD a/DT strike/NN blocked/VBN by/IN Arjan/NNP De/NNP Zeeuw./NNP
+But/CC Pompey/NNP chased/VBD harried/VBN and/CC unsettled/JJ a/DT Chelsea/NNP side/NN as/IN the/DT south-coast/JJ side/NN started/VBD to/TO gain/VB the/DT upper/JJ hand/NN and/CC almost/RB took/VBD the/DT lead/NN through/IN Quashie./NNP
+
+The/DT midfielder/NN struck/VBD a/DT swerving/VBG long/JJ range/NN shot/NN which/WDT keeper/NN Petr/NNP Cech/NNP tipped/VBD over/IN at/IN full/JJ stretch./NN
+Pompey/NNP stretched/VBD Arsenal/NN to/TO the/DT limit/NN recently/RB and/CC were/VBD providing/VBG a/DT similarly/RB tough/JJ obstacle/NN to/TO overcome/VB for/IN a/DT Chelsea/NNP team/NN struggling/VBG to/TO exert/VB any/DT pressure./NN
+Velimir/NNP Zajec's/NNP players/NNS stood/VBD firm/NN as/IN the/DT visitors/NNS came/VBD out/RP in/IN lively/JJ fashion/NN after/IN the/DT break/NN but/CC just/RB as/IN they/PRP took/VBD a/DT stranglehold/NN of/IN the/DT match/NN the/DT visitors/NNS launched/VBD a/DT counter-attack./JJ
+Drogba/NNP spun/VBD to/TO get/VB a/DT sight/NN of/IN goal/NN and/CC struck/VBD a/DT fierce/JJ shot/NN which/WDT rocked/VBD keeper/NN Hislop/NNP back/RB as/IN he/PRP blocked/VBD before/IN Arjan/NNP de/NNP Zeeuw/NNP cleared/VBD the/DT danger./NN
+
+The/DT home/NN side/NN were/VBD also/RB left/VBN breathing/VBG a/DT sigh/NN of/IN relief/NN when/WRB a/DT Glen/NNP Johnson/NNP header/NN fell/VBD to/TO Gudjohnsen/NNP who/WP had/VBD his/PRP$ back/RB to/TO goal/VB in/IN a/DT crowded/VBN Pompey/NNP goalmouth./NN
+The/DT Icelandic/NNP forward/RB tried/VBD to/TO acrobatically/RB direct/JJ the/DT ball/NN into/IN goal/NN but/CC put/VB his/PRP$ effort/NN over./NN
+But/CC just/RB like/IN against/IN Arsenal/NN Portsmouth/NNP let/VB in/IN a/DT late/JJ goal/NN when/WRB Robben's/NNP shot/NN took/VBD a/DT deflection/NN off/RP Matthew/NNP Taylor/NNP on/IN its/PRP$ way/NN past/IN a/DT wrong-footed/JJ Hislop./NNP
+And/CC Cole/NNP put/VBP a/DT bit/NN of/IN gloss/NN on/IN a/DT hard-fought/JJ win/NN when/WRB he/PRP put/VB a/DT low/JJ shot/NN into/IN the/DT bottom/NN of/IN the/DT Pompey/NNP net./NN
+
+Hislop/NNP Griffin/NNP Primus/NNP De/NNP Zeeuw/NNP Taylor/NNP Stone/NNP (Cisse/NN 76)/CD Quashie/NNP (Berkovic/JJ 83)/CD Faye/NNP O'Neil/NNP Kamara/NNP (Fuller/NN 65)/CD Yakubu./NNP
+
+Subs/NNP Not/RB Used/VBD Berger/NNP Ashdown./NNP
+
+Kamara./NNP
+
+Cech/NNP Paulo/NNP Ferreira/NNP Gallas/NNP Terry/NNP Johnson/NNP Duff/NNP Makelele/NNP Smertin/NNP (Cole/NN 73)/CD Lampard/NNP Robben/NNP (Geremi/NN 81)/CD Drogba/NNP (Gudjohnsen/NN 58)./CD
+
+Subs/NNP Not/RB Used/VBD Cudicini/NNP Bridge./NNP
+
+Paulo/NNP Ferreira/NNP Robben/NNP Lampard./NNP
+
+Robben/NNP 79/CD Cole/NNP 90./CD
+
+20210/CD
+
+A/DT Wiley/NNP (Staffordshire)./NN

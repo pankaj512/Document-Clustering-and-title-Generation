@@ -1,0 +1,21 @@
+Hewitt/NNP survives/VBZ Nalbandian/NNP epic/NN
+
+Home/NN favourite/NN Lleyton/NNP Hewitt/NNP came/VBD through/IN a/DT dramatic/JJ five-set/JJ battle/NN with/IN Argentine/JJ David/NNP Nalbandian/NNP to/TO reach/VB the/DT Australian/JJ Open/NNP semi-finals./JJ
+
+Hewitt/NNP looked/VBD to/TO be/VB cruising/VBG to/TO victory/NN after/IN racing/VBG into/IN a/DT two-set/JJ lead./NN
+But/CC Nalbandian/NNP broke/VBD his/PRP$ serve/NN three/CD times/NNS in/IN both/DT of/IN the/DT next/JJ two/CD sets/NNS to/TO set/VB up/RP a/DT nailbiting/VBG decider./NN
+Hewitt/NNP eventually/RB grabbed/VBD the/DT vital/JJ break/NN in/IN the/DT 17th/JJ game/NN and/CC served/VBD out/RP to/TO win/VB 6-3/JJ 6-2/JJ 1-6/JJ 3-6/JJ 10-8/JJ and/CC set/VBN up/RP a/DT meeting/NN with/IN Andy/NNP Roddick./NNP
+The/DT winner/NN of/IN that/DT match/NN will/MD face/VB either/CC Roger/NNP Federer/NNP or/CC Marat/NNP Safin/NNP in/IN the/DT final./NN
+Ninth/NNP seed/NN Nalbandian/NNP had/VBD never/RB come/VB back/RB from/IN two/CD sets/NNS down/RB to/TO win/VB a/DT match/NN and/CC there/EX was/VBD no/DT indication/NN he/PRP would/MD do/VB so/RB as/IN Hewitt/NNP dominated/VBD the/DT first/JJ two/CD sets./NN
+
+The/DT Argentine/NN had/VBD stoked/VBN up/RP the/DT temperature/NN ahead/RB of/IN the/DT match/NN by/IN saying/VBG Hewitt's/NNP exuberant/NN on-court/JJ celebrations/NNS were/VBD "not/NN very/RB good/JJ for/IN the/DT sport"./NN
+And/CC he/PRP had/VBD words/NNS with/IN Hewitt/NNP during/IN one/CD change/NN of/IN ends/NNS in/IN the/DT second/JJ set/VBN when/WRB the/DT Australian/NN appeared/VBD to/TO brush/VB shoulders/NNS with/IN him/PRP as/IN they/PRP went/VBD to/TO their/PRP$ chairs./NN
+The/DT balance/NN of/IN power/NN changed/VBD completely/RB in/IN the/DT third/JJ set/VBN as/IN Hewitt/NNP allowed/VBD his/PRP$ level/NN to/TO dip/VB and/CC he/PRP double-faulted/JJ twice/RB as/IN Nalbandian/NNP broke/VBD on/IN the/DT way/NN to/TO taking/VBG the/DT fourth/JJ set./NN
+But/CC the/DT tiring/VBG third/JJ seed/NN showed/VBD incredible/JJ reserves/NNS of/IN strength/NN to/TO force/VB the/DT break/NN despite/IN being/VBG outplayed/VBN for/IN much/JJ of/IN the/DT final/JJ set/VBN and/CC three/CD times/NNS coming/VBG within/IN two/CD points/NNS of/IN defeat./NN
+He/PRP then/RB produced/VBD a/DT love/NN service/NN game/NN to/TO finish/VB off/RP the/DT match/NN in/IN four/CD hours/NNS and/CC five/CD minutes./NN
+"I/NN just/RB kept/VBD hanging/VBG in/IN there./NN
+It/PRP was/VBD always/RB tough/JJ serving/VBG second/JJ in/IN the/DT fifth/JJ set"/NN said/VBD Hewitt/NNP who/WP had/VBD never/RB reached/VBN the/DT last/JJ four/CD at/IN his/PRP$ home/NN Grand/NNP Slam./NNP
+"I/NN told/VBD myself/PRP to/TO give/VB everything/NN and/CC in/IN the/DT end/NN it/PRP paid/VBD off/RP once/RB again./NN
+"It's/NN a/DT long/JJ way/NN from/IN holding/VBG that/DT trophy/NN up/RP there/RB but/CC I'm/NNP hanging/VBG in/IN there./NN
+"Only/RB four/CD guys/NNS left/VBN that/WDT can/MD win/VB and/CC we're/VB the/DT top/JJ four/CD in/IN the/DT world./NN
+It's/NNP set/VBD up/RP for/IN a/DT pretty/RB good/JJ showdown/NN in/IN the/DT semis/NNS and/CC finals."/NN

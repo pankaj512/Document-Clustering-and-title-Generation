@@ -1,0 +1,15 @@
+Durex/NNP maker/NN SSL/NNP awaits/VBZ firm/JJ bid/NN
+
+UK/NNP condom/NN maker/NN SSL/NNP International/NNP has/VBZ refused/VBN to/TO comment/VB on/IN reports/NNS it/PRP may/MD be/VB subject/JJ to/TO a/DT takeover/NN early/RB in/IN 2005./CD
+
+A/DT Financial/NNP Times/NNP report/NN said/VBD business/NN intelligence/NN firm/NN GPW/NNP was/VBD understood/VBN to/TO be/VB starting/VBG due/JJ diligence/NN work/NN on/IN SSL/NNP International/NNP for/IN a/DT corporate/JJ client./NN
+An/DT spokesman/NN for/IN SSL/NNP which/WDT makes/VBZ the/DT famous/JJ Durex/NNP brand/NN of/IN condom/NN would/MD not/RB to/TO comment/VB on/IN "market/NN speculation"./NN
+However/RB the/DT news/NN sent/VBD shares/NNS in/IN SSL/NNP which/WDT also/RB makes/VBZ Scholl/NNP footwear/NN up/RP more/JJR than/IN 6%/CD or/CC 16.75/CD pence/NN to/TO 293.5p./CD
+
+The/DT FT/NNP said/VBD most/JJS the/DT high-profile/JJ firm/NN that/WDT might/MD woo/VB SSL/NNP was/VBD Anglo-Dutch/NNP household/NN products/NNS group/NN Reckitt/NNP Benckiser./NNP
+Eighteen/CD months/NNS ago/RB Reckitt/NNP Benckiser/NNP was/VBD at/IN the/DT centre/NN of/IN a/DT rumoured/JJ takeover/NN bid/NN for/IN SSL/NNP -/: but/CC that/DT came/VBD to/TO nothing./VB
+Other/JJ firms/NNS that/WDT have/VBP been/VBN seen/VBN as/IN would-be/JJ suitors/NNS include/VBP Kimberly-Clark/NNP Johnson/NNP &/CC Johnson/NNP and/CC private/JJ equity/NN investors./NN
+Analysts/NNS have/VBP seen/VBN SSL/NNP as/IN a/DT takeover/NN target/NN for/IN years./NN
+It/PRP sold/VBD off/RP its/PRP$ surgical/JJ gloves/NNS and/CC antiseptics/NNS businesses/NNS for/IN £173m/CD to/TO a/DT management/NN team/NN in/IN May./NNP
+SSL/NNP was/VBD formed/VBN by/IN a/DT three-way/JJ merger/NN between/IN Seton/NNP Healthcare/NNP footwear/NN specialists/NNS Scholl/NNP and/CC condom-maker/JJ London/NNP International/NNP Group./NNP
+Its/PRP$ other/JJ brands/NNS include/VBP Syndol/NNP analgesic/JJ Meltus/NNP cough/NN medicine/NN Sauber/NNP compression/NN hosiery/NN and/CC deodorant/NN products/NNS and/CC Mister/NN Baby./NNP

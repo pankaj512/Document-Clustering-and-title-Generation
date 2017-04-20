@@ -1,0 +1,14 @@
+Smith/NNP aims/VBZ to/TO bring/VB back/RB respect/NN
+
+Scotland/NNP manager/NN Walter/NNP Smith/NNP says/VBZ he/PRP wants/VBZ to/TO restore/VB the/DT national/JJ team's/NNS respectability/NN in/IN world/NN football./NN
+
+Smith/NNP has/VBZ joined/VBN his/PRP$ first/JJ squad/NN for/IN a/DT three-day/JJ get-together/NN near/IN Manchester/NNP in/IN preference/NN to/TO playing/VBG a/DT friendly./NN
+While/IN qualification/NN for/IN the/DT 2006/CD World/NNP Cup/NNP appears/VBZ to/TO be/VB beyond/IN Scotland/NNP Smith/NNP is/VBZ anxious/JJ that/IN the/DT remainder/NN of/IN the/DT campaign/NN should/MD be/VB positive./NN
+"I/NN think/VBP we/PRP have/VBP got/VBN to/TO try/VB to/TO get/VB a/DT bit/NN of/IN respectability/NN back/RB in/IN whatever/WDT way/NN we/PRP can"/VBP he/PRP said./VB
+"We/NN will/MD have/VB to/TO approach/VB each/DT game/NN differently./NN
+Obviously/RB we/PRP will/MD have/VB to/TO approach/VB the/DT Italian/JJ game/NN away/RB from/IN home/NN in/IN a/DT different/JJ manner/NN to/TO Moldova/NNP at/IN home./NN
+"We/NN have/VBP to/TO meet/VB the/DT challenge/NN of/IN each/DT match."/NN Smith/NNP meeting/NN a/DT number/NN of/IN his/PRP$ squad/NN for/IN the/DT first/JJ time/NN brought/VBD them/PRP together/RB on/IN Monday/NNP to/TO outline/VB his/PRP$ ideas/NNS for/IN improving/VBG the/DT nation's/NNS fortunes./NN
+
+He/PRP said/VBD "I/NN pointed/VBD out/RP how/WRB I/PRP see/VBP the/DT international/JJ team/NN going/VBG forward/RB and/CC that/DT was/VBD the/DT main/JJ topic./NN
+"This/NN is/VBZ a/DT relaxed/VBN gathering/VBG and/CC I/PRP don't/VBP think/VBP there/EX is/VBZ a/DT lot/NN of/IN doom/NN and/CC gloom/NN about/IN the/DT squad/NN that/IN a/DT lot/NN of/IN people/NNS think/VBP exists."/VBG A/DT 25-man/JJ squad/NN will/MD spend/VB the/DT next/JJ three/CD days/NNS based/VBN at/IN the/DT Mottram/NNP Hall/NNP hotel/NN in/IN Cheshire/NNP and/CC will/MD train/VB at/IN Manchester/NNP United's/NNP nearby/JJ Carrington/NNP complex./NN
+Smith/NNP will/MD be/VB absent/JJ for/IN the/DT final/JJ sessions/NNS however/RB as/IN he/PRP is/VBZ due/JJ to/TO fly/VB out/RP to/TO Sardinia/NNP on/IN Wednesday/NNP to/TO watch/VB Italy's/NNP friendly/JJ with/IN Russia./NNP

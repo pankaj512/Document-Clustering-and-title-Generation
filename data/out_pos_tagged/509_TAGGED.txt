@@ -1,0 +1,22 @@
+Euro/NN firms/NNS miss/VBP out/RP on/IN optimism/NN
+
+More/JJR than/IN 90%/CD of/IN large/JJ companies/NNS around/IN the/DT world/NN are/VBP highly/RB optimistic/JJ about/IN their/PRP$ economic/JJ prospects/NNS a/DT survey/NN of/IN 1300/CD bosses/NNS suggests./NN
+
+Their/PRP$ biggest/JJS worries/NNS are/VBP not/RB terror/NN threats/NNS but/CC over-regulation/JJ low-cost/JJ competition/NN and/CC the/DT wild/JJ ups/NNS and/CC downs/NNS of/IN oil/NN prices./NN
+There/EX is/VBZ one/CD exception/NN Firms/NNS in/IN Western/NNP Europe/NNP -/: but/CC not/RB the/DT UK/NNP -/: are/VBP lacking/VBG confidence/NN after/IN years/NNS of/IN slow/JJ growth./NN
+When/WRB business/NN advisers/NNS PricewaterhouseCoopers/NNP (PwC)/NN conducted/VBD the/DT same/JJ survey/NN two/CD years/NNS ago/RB nearly/RB 30%/CD of/IN bosses/NNS were/VBD gloomy/JJ about/IN their/PRP$ prospects./NN
+
+Global/JJ business/NN leaders/NNS say/VBP that/IN they/PRP are/VBP facing/VBG a/DT two-pronged/JJ regulatory/JJ assault./NN
+After/IN a/DT string/NN of/IN corporate/JJ scandals/NNS in/IN the/DT United/NNP States/NNPS -/: from/IN Enron/NNP to/TO WorldCom/NNP -/: the/DT Sarbanes-Oxley/NNP act/NN forces/NNS companies/NNS to/TO be/VB much/RB more/RBR transparent/JJ but/CC doing/VBG all/PDT the/DT paperwork/NN costs/NNS a/DT lot/NN of/IN time/NN and/CC money./NN
+Across/IN Europe/NNP meanwhile/RB all/DT stock/NN exchange-listed/JJ companies/NNS are/VBP currently/RB in/IN the/DT process/NN of/IN moving/VBG to/TO new/JJ and/CC complex/JJ accounting/NN standards/NNS called/VBN IFRS./NNP
+Hacking/NNP through/IN the/DT red/JJ tape/NN can/MD hardly/RB be/VB avoided/VBN but/CC many/JJ chief/JJ executives/NNS around/IN the/DT world/NN appear/VBP to/TO have/VB decided/VBN on/IN how/WRB to/TO deal/VB with/IN low-cost/JJ competitors./NN
+
+Already/RB about/IN 28%/CD of/IN the/DT bosses/NNS polled/VBN for/IN the/DT survey/NN say/VBP that/IN they/PRP have/VBP moved/VBN parts/NNS of/IN their/PRP$ business/NN into/IN low-wage/JJ countries/NNS and/CC another/DT 11%/CD plan/NN to/TO do/VB so/RB in/IN the/DT future./NN
+Possibly/RB as/IN a/DT result/NN the/DT worry/NN about/IN low-cost/JJ competition/NN has/VBZ slightly/RB fallen/VBN from/IN last/JJ year/NN with/IN just/RB 54%/CD of/IN companies/NNS calling/VBG it/PRP a/DT "significant/NN threat"/NN or/CC "one/NN of/IN the/DT biggest/JJS threats"./NN
+But/CC PwC's/NNP global/JJ chief/JJ executive/NN Samuel/NNP DiPiazza/NNP said/VBD a/DT growing/VBG number/NN of/IN companies/NNS were/VBD also/RB concerned/VBN that/IN moves/NNS to/TO outsource/VB work/NN to/TO cheaper/JJR countries/NNS could/MD both/DT hurt/VBN their/PRP$ reputation/NN in/IN their/PRP$ home/NN markets/NNS and/CC harm/VB the/DT quality/NN of/IN service/NN they/PRP provide/VBP to/TO their/PRP$ customers./NN
+
+According/VBG to/TO Frank/NNP Brown/NNP global/JJ advisory/JJ leader/NN at/IN PwC/NNP the/DT trend/NN of/IN large/JJ companies/NNS to/TO have/VB global/JJ operations/NNS has/VBZ one/CD clear/JJ upside/RB "One/NN risk/NN in/IN one/CD region/NN -/: for/IN example/NN the/DT Middle/NNP East/NNP -/: won't/NN kill/NN your/PRP$ business/NN anymore."/NN Surprisingly/RB the/DT survey/NN suggests/VBZ that/IN the/DT rapid/JJ decline/NN of/IN the/DT US/PRP dollar/VBP is/VBZ not/RB seen/VBN as/IN a/DT huge/JJ threat/NN anymore/RB unlike/IN even/RB a/DT year/NN ago/RB when/WRB it/PRP was/VBD cited/VBN as/IN the/DT third-largest/JJ problem./NN
+Mr/NNP DiPiazza/NNP said/VBD the/DT interviews/NNS with/IN chief/JJ executives/NNS suggested/VBD that/IN companies/NNS had/VBD "adjusted"/NN to/TO the/DT new/JJ reality/NN of/IN a/DT euro/NN that/WDT buys/VBZ $1.30/CD and/CC more/JJR while/IN others/NNS had/VBD successfully/RB hedged/VBN their/PRP$ positions/NNS and/CC locked/VBN in/IN more/RBR favourable/JJ exchange/NN rates./NN
+
+
+-/: For/IN the/DT survey/NN PricewaterhouseCoopers/NNP interviewed/VBD 1324/CD chief/JJ executives/NNS throughout/IN the/DT world/NN during/IN the/DT last/JJ three/CD months/NNS of/IN 2004./CD

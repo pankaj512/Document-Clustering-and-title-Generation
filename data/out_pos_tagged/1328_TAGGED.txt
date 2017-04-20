@@ -1,0 +1,8 @@
+UK/NNP Athletics/NNP agrees/VBZ new/JJ kit/NN deal/NN
+
+UK/NNP Athletics/NNP has/VBZ agreed/VBN a/DT new/JJ deal/NN with/IN adidas/NNS to/TO supply/VB Great/NNP Britain/NNP squads/NNS of/IN all/DT ages/NNS with/IN their/PRP$ kit/NN for/IN the/DT next/JJ four/CD years./NN
+
+The/DT German-based/JJ firm/NN kitted/VBD out/RP Team/NNP GB/NNP at/IN the/DT 2004/CD Olympics/NNPS and/CC has/VBZ deals/NNS with/IN 20/CD other/JJ national/JJ Olympic/NNP bodies./NN
+UK/NNP Athletics/NNP chief/NN David/NNP Moorcroft/NNP said/VBD "The/NN Athens/NNP experience/NN can/MD now/RB be/VB extended/VBN to/TO more/RBR major/JJ championships./NN
+"In/NN the/DT year/NN ahead/RB these/DT include/VBP the/DT European/JJ indoor/JJ and/CC World/NNP outdoor/JJ championships./NN
+We/PRP are/VBP delighted."/NN Moorcroft/NNP added/VBD "It/NN is/VBZ hugely/RB beneficial/JJ to/TO the/DT sport/NN that/IN the/DT adidas/NNS commitment/NN will/MD also/RB provide/VB for/IN officials/NNS and/CC other/JJ personnel/NNS at/IN our/PRP$ world-class/JJ series/NN of/IN live/JJ televised/VBN events."/NN This/DT week/NN UK/NNP Athletics/NNP also/RB agreed/VBD a/DT four-year/JJ deal/NN with/IN energy/NN drink/NN company/NN Red/NNP Bull/NNP who/WP will/MD be/VB supplying/VBG the/DT product/NN to/TO athletics/NNS at/IN major/JJ domestic/JJ meetings/NNS and/CC in/IN high/JJ performance/NN centres./NN

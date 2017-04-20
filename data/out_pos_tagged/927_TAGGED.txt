@@ -1,0 +1,28 @@
+Blunkett/NNP sorry/JJ over/IN murder/NN plan/NN
+
+David/NNP Blunkett/NNP has/VBZ apologised/VBN to/TO MPs/NNP after/IN the/DT Home/NNP Office/NNP announced/VBD "prematurely"/NN via/IN press/NN release/NN a/DT review/NN of/IN murder/NN laws./NN
+
+The/DT home/NN secretary/NN confirmed/VBD the/DT review/NN was/VBD to/TO get/VB under/IN way/NN in/IN the/DT wake/NN of/IN a/DT Law/NNP Commission/NNP report/NN which/WDT branded/VBD the/DT current/JJ murder/NN law/NN as/IN "a/NN mess"./NN
+He/PRP said/VBD the/DT review/NN would/MD look/VB at/IN partial/JJ defences/NNS to/TO murder/VB including/VBG provocation/NN and/CC at/IN mandatory/JJ sentences./NN
+The/DT Home/NNP Office/NNP has/VBZ already/RB said/VBN the/DT review/NN will/MD begin/VB next/JJ year./NN
+
+On/IN Wednesday/NNP a/DT Home/NNP Office/NNP spokeswoman/NN said/VBD the/DT terms/NNS of/IN reference/NN for/IN the/DT review/NN had/VBD not/RB been/VBN established/VBN but/CC it/PRP was/VBD likely/JJ to/TO include/VB only/RB England/NNP and/CC Wales./NNP
+News/NNP of/IN the/DT review/NN was/VBD released/VBN because/IN it/PRP was/VBD thought/VBN Mr/NNP Blunkett/NNP would/MD make/VB the/DT official/JJ announcement/NN in/IN a/DT Commons/NNPS debate/NN on/IN Wednesday./NNP
+But/CC the/DT announcement/NN never/RB came/VBD with/IN the/DT home/NN secretary/NN saying/VBG the/DT debate/NN had/VBD never/RB reached/VBN that/DT stage./NN
+Amid/IN opposition/NN anger/NN Mr/NNP Blunkett/NNP had/VBD to/TO answer/VB an/DT emergency/NN question/NN in/IN Parliament/NNP on/IN Thursday./NNP
+He/PRP said/VBD he/PRP had/VBD taken/VBN steps/NNS to/TO ensure/VB the/DT incident/NN was/VBD not/RB repeated./NN
+Shadow/NNP home/NN secretary/NN David/NNP Davis/NNP welcomed/VBD his/PRP$ "gracious/JJ apology"/NN and/CC the/DT review/NN itself./NN
+But/CC he/PRP argued/VBD the/DT minister/NN should/MD have/VB volunteered/VBN a/DT formal/JJ statement/NN instead/RB of/IN having/VBG to/TO be/VB "dragged"/NN to/TO face/VB MPs./NNP
+
+In/IN its/PRP$ report/NN the/DT Law/NNP Commission/NNP said/VBD it/PRP had/VBD found/VBN wide/JJ support/NN among/IN criminal/JJ justice/NN professionals/NNS for/IN an/DT end/NN to/TO the/DT mandatory/JJ life/NN sentence/NN for/IN murder./NN
+The/DT panel/NN suggested/VBD different/JJ kinds/NNS of/IN murders/NNS could/MD be/VB "graded"/NN to/TO recognise/VB the/DT seriousness/NN of/IN the/DT offence./NN
+
+But/CC the/DT Home/NNP Office/NNP said/VBD mandatory/JJ life/NN sentences/NNS would/MD not/RB be/VB abolished/VBN and/CC argued/VBD courts/NNS already/RB had/VBD flexibility./NN
+The/DT commission/NN an/DT independent/JJ body/NN including/VBG two/CD judges/NNS a/DT senior/JJ barrister/NN and/CC sentencing/NN experts/NNS had/VBD been/VBN asked/VBN to/TO consider/VB reforms/NNS to/TO the/DT defence/NN of/IN provocation/NN in/IN murder/NN cases./NN
+But/CC it/PRP said/VBD its/PRP$ proposals/NNS were/VBD unlikely/JJ to/TO work/VB without/IN a/DT far/RB wider/JJR review/NN of/IN the/DT law./NN
+Results/NNS of/IN a/DT consultation/NN exercise/NN showed/VBD 64/CD respondents/NNS out/IN of/IN 146/CD -/: among/IN them/PRP 21/CD judges/NNS -/: believed/VBN a/DT mandatory/JJ life/NN sentence/NN for/IN every/DT murder/NN was/VBD "indefensible/JJ and/CC should/MD cease"./VB
+
+A/DT key/JJ question/NN was/VBD whether/IN one/CD category/NN should/MD continue/VB to/TO cover/VB all/DT types/NNS of/IN murder/NN from/IN mercy/NN killings/NNS to/TO serial/VB or/CC contract/NN killings./NN
+The/DT commission/NN found/VBD support/NN for/IN the/DT idea/NN of/IN grading/VBG murders/NNS so/IN that/IN the/DT sentence/NN reflected/VBD the/DT seriousness/NN of/IN the/DT offence./NN
+But/CC speaking/VBG after/IN the/DT report/NN was/VBD published/VBN Home/NNP Office/NNP minister/NN Baroness/NN Scotland/NNP said/VBD "Murder/NN is/VBZ the/DT most/RBS serious/JJ of/IN crimes/NNS and/CC we/PRP have/VBP no/DT intention/NN of/IN abolishing/VBG the/DT mandatory/JJ life/NN sentence./NN
+"Where/NN an/DT offender/NN is/VBZ convicted/VBN of/IN murder/NN the/DT court/NN must/MD pass/VB a/DT life/NN sentence."/NN The/DT commission/NN also/RB recommended/VBD tightening/VBG the/DT law/NN so/IN that/IN the/DT provocation/NN defence/NN cannot/NN be/VB used/VBN in/IN cases/NNS where/WRB someone/NN has/VBZ killed/VBN for/IN revenge/NN such/JJ as/IN a/DT jealous/JJ husband/NN who/WP murders/VBZ an/DT unfaithful/JJ wife./NN

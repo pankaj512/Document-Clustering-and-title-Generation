@@ -1,0 +1,20 @@
+Sun/NNP offers/VBZ processing/NN by/IN the/DT hour/NN
+
+Sun/NNP Microsystems/NNPS has/VBZ launched/VBN a/DT pay-as-you-go/JJ service/NN which/WDT will/MD allow/VB customers/NNS requiring/VBG huge/JJ computing/NN power/NN to/TO rent/VB it/PRP by/IN the/DT hour./NN
+
+Sun/NNP Grid/NNP costs/NNS users/NNS $1/CD (53p)/CD for/IN an/DT hour's/NNS worth/NN of/IN processing/NN and/CC storage/NN power/NN on/IN systems/NNS maintained/VBN by/IN Sun./NNP
+So-called/JJ grid/NN computing/NN is/VBZ the/DT latest/JJS buzz/NN phrase/NN in/IN a/DT company/NN which/WDT believes/VBZ that/DT computing/NN capacity/NN is/VBZ as/RB important/JJ a/DT commodity/NN as/IN hardware/NN and/CC software./NN
+Sun/NNP likened/VBD grid/NN computing/NN to/TO the/DT development/NN of/IN electricity./NN
+
+The/DT system/NN could/MD mature/VB in/IN the/DT same/JJ way/NN utilities/NNS such/JJ as/IN electricity/NN and/CC water/NN have/VBP developed/VBN said/VBN Sun's/NNP chief/NN operating/NN officer/NN Jonathan/NNP Schwartz./NNP
+"Why/NN build/NN your/PRP$ own/JJ grid/NN when/WRB you/PRP can/MD use/VB ours/PRP for/IN a/DT buck/NN an/DT hour?"/NN he/PRP asked/VBD in/IN a/DT webcast/NN launching/VBG Sun's/NNP quarterly/JJ Network/NNP Computing/NNP event/NN in/IN California./NNP
+The/DT company/NN will/MD have/VB to/TO persuade/VB data/NNS centre/NN managers/NNS to/TO adopt/VB a/DT new/JJ model/NN but/CC it/PRP said/VBD it/PRP already/RB had/VBD interest/NN from/IN customers/NNS in/IN the/DT oil/NN gas/NN and/CC financial/JJ services/NNS industries./NN
+
+Some/DT of/IN them/PRP want/VBP to/TO book/VB computing/NN capacity/NN of/IN more/JJR than/IN 5000/CD processors/NNS each/DT Sun/NNP said./NN
+Mr/NNP Schwartz/NNP ran/VBD a/DT demonstration/NN of/IN the/DT service/NN showing/VBG how/WRB data/NNS could/MD be/VB processed/VBN in/IN a/DT protein/NN folding/JJ experiment./NN
+Hundreds/NNS of/IN servers/NNS were/VBD used/VBN simultaneously/RB working/VBG on/IN the/DT problem/NN for/IN a/DT few/JJ seconds/NNS each./NN
+
+Although/IN it/PRP only/RB took/VBD a/DT few/JJ seconds/NNS the/DT experiment/NN cost/NN $12/CD (£6.30)/CD because/IN it/PRP had/VBD used/VBN up/RP 12/CD hours'/NN worth/NN of/IN computing/NN power./NN
+The/DT Sun/NNP Grid/NNP relies/VBZ on/IN Solaris/NNP the/DT operating/VBG system/NN owned/VBN by/IN Sun./NNP
+Initially/RB it/PRP will/MD house/VB the/DT grid/NN in/IN existing/VBG premises/NNS and/CC will/MD use/VB idle/JJ servers/NNS to/TO test/VB software/NN before/IN shipping/VBG it/PRP to/TO customers./VB
+It/PRP has/VBZ not/RB said/VBN how/WRB much/JJ the/DT system/NN will/MD cost/VB to/TO develop/VB but/CC it/PRP already/RB has/VBZ a/DT rival/NN in/IN IBM/NNP which/WDT argues/VBZ that/IN its/PRP$ capacity/NN on-demand/JJ service/NN is/VBZ cheaper/JJR than/IN that/DT offered/VBD by/IN Sun./NNP

@@ -1,0 +1,29 @@
+New/JJ drink/NN limit/NN 'would/NN cut/NN toll'/NN
+
+More/JJR lives/NNS than/IN previously/RB thought/VBD could/MD be/VB saved/VBN by/IN cutting/VBG drink-drive/JJ limits/NNS by/IN a/DT third/JJ a/DT report/NN says./NN
+
+University/NNP College/NNP London/NNP research/NN claims/NNS cutting/VBG the/DT limit/NN from/IN 80mg/CD of/IN alcohol/NN per/IN 100ml/CD of/IN blood/NN to/TO 50mg/CD would/MD save/VB 65/CD lives/NNS a/DT year./NN
+The/DT findings/NNS are/VBP being/VBG published/VBN by/IN the/DT Parliamentary/JJ Advisory/NNP Council/NNP for/IN Transport/NNP Safety/NNP as/IN MPs/NNP are/VBP due/JJ to/TO vote/NN on/IN the/DT government's/NNS Road/NNP Safety/NNP Bill./NNP
+The/DT bill/NN includes/VBZ changes/NNS to/TO speeding/VBG fines/NNS but/CC not/RB to/TO the/DT drink-drive/JJ limit./NN
+The/DT research/NN carried/VBD out/RP by/IN transport/NN expert/NN professor/NN Richard/NNP Allsop/NNP says/VBZ cutting/VBG the/DT limit/NN would/MD also/RB lead/VB to/TO 230/CD fewer/JJR serious/JJ injuries/NNS on/IN the/DT UK's/NNP roads/NNS compared/VBN with/IN 2003./CD
+He/PRP estimates/VBZ that/IN this/DT would/MD save/VB the/DT country/NN £119m/CD a/DT year./NN
+
+A/DT previous/JJ estimate/NN contained/VBN in/IN a/DT 1998/CD Department/NNP of/IN Transport/NNP Document/NNP suggested/VBD such/PDT a/DT move/NN could/MD save/VB 50/CD lives/NNS a/DT year./NN
+The/DT findings/NNS are/VBP based/VBN on/IN the/DT assumption/NN that/IN drivers/NNS who/WP currently/RB keep/VBP below/IN the/DT legal/JJ limit/NN would/MD continue/VB to/TO do/VB so/RB were/VBN it/PRP to/TO be/VB lowered/VBN and/CC that/IN those/DT who/WP tend/VBP to/TO exceed/VB the/DT limit/NN slightly/RB would/MD also/RB lower/JJR their/PRP$ drinking./NN
+Professor/NNP Allsop/NNP said/VBD "Reducing/VBG the/DT limit/NN from/IN 80mg/CD to/TO 50mg/CD can/MD be/VB expected/VBN to/TO save/VB around/IN 65/CD lives/NNS a/DT year/NN or/CC around/IN half/NN of/IN those/DT who/WP die/VBP in/IN accidents/NNS where/WRB the/DT driver's/NNS BAC/NNP [blood/NN alcohol/NN content]/NN is/VBZ within/IN 30mg/CD of/IN the/DT current/JJ limit./NN
+"Only/RB about/IN one/CD in/IN 50/CD of/IN those/DT driving/VBG during/IN weekend/NN evenings/NNS and/CC nights/NNS will/MD need/VB to/TO moderate/VB their/PRP$ drinking/NN to/TO achieve/VB this/DT and/CC fewer/RBR still/RB at/IN other/JJ times."/NN
+
+Ministers/NNS do/VBP not/RB support/VB a/DT lower/JJR limit/NN saying/VBG it/PRP is/VBZ not/RB clear/JJ it/PRP would/MD have/VB a/DT major/JJ impact/NN on/IN drink/NN drive/NN casualties./NN
+They/PRP believe/VBP educating/VBG drivers/NNS is/VBZ more/JJR important./NN
+The/DT AA/NNP Motoring/NNP Trust/NNP said/VBD it/PRP was/VBD not/RB sure/JJ what/WP affect/VBP dropping/VBG the/DT limit/NN would/MD have/VB on/IN drivers'/NN attitudes/NNS to/TO drink-driving./JJ
+Road/NNP safety/NN head/NN Andrew/NNP Howard/NNP said/VBD "It/NN remains/VBZ to/TO be/VB seen/VBN whether/IN the/DT social/JJ disapproval/NN of/IN the/DT drinking/NN driver/NN will/MD stay/VB at/IN the/DT current/JJ rate/NN if/IN the/DT alcohol/NN limit/NN is/VBZ cut./NN
+
+"Parliamentarians/NN need/VBP to/TO consider/VB this/DT carefully./NN
+Britons/NNP police/NN themselves/PRP by/IN consensus/NN much/RB more/RBR effectively/RB than/IN they/PRP do/VBP by/IN weight/NN of/IN enforcement/NN alone."/NN Liberal/NNP Democrat/NNP transport/NN spokesman/NN John/NNP Thurso/NNP said/VBD drink-driving/NN remained/VBD a/DT "major/NN killer"/NN with/IN figures/NNS showing/VBG a/DT worrying/VBG rise/NN in/IN the/DT number/NN of/IN accidents/NNS involving/VBG drivers/NNS who/WP had/VBD been/VBN drinking./NN
+He/PRP said/VBD there/EX had/VBD been/VBN a/DT 29%/CD drop/NN in/IN the/DT number/NN of/IN drivers/NNS being/VBG breathalysed/VBN since/IN 1997/CD which/WDT he/PRP said/VBD the/DT government/NN needed/VBD to/TO address/VB if/IN it/PRP wanted/VBD to/TO reduce/VB the/DT danger/NN caused/VBN by/IN drink-driving./JJ
+The/DT Road/NNP Safety/NNP Bill/NNP which/WDT gets/VBZ its/PRP$ second/JJ reading/NN on/IN Tuesday/NNP would/MD allow/VB the/DT results/NNS of/IN roadside/NN breath/NN tests/NNS to/TO be/VB used/VBN in/IN court/NN -/: currently/RB a/DT blood/NN test/NN is/VBZ needed./NN
+It/PRP also/RB includes/VBZ plans/NNS for/IN a/DT staggered/JJ speeding/NN fines/NNS and/CC points/NNS system/NN penalising/VBG drivers/NNS who/WP exceed/VBP limits/NNS by/IN a/DT wide/JJ margin/NN more/JJR than/IN those/DT who/WP are/VBP caught/VBN going/VBG just/RB over./NN
+These/DT have/VBP been/VBN criticised/VBN by/IN road/NN safety/NN campaigners/NNS including/VBG Labour/NNP backbencher/NN Gwyneth/NNP Dunwoody/NNP who/WP says/VBZ it/PRP will/MD reduce/VB the/DT incentive/NN for/IN drivers/NNS to/TO stay/VB within/IN the/DT limits/NNS in/IN residential/JJ areas/NNS leading/VBG to/TO more/JJR road/NN casualties./NN
+In/IN an/DT article/NN for/IN the/DT Times/NNP newspaper/NN Ms/NNP Dunwoody/NNP who/WP chairs/VBZ the/DT Transport/NNP Select/NNP Committee/NNP says/VBZ "Slight/NN increases/NNS to/TO low/JJ car/NN speeds/NNS increase/NN hugely/RB the/DT risks/NNS to/TO pedestrians/NNS and/CC cyclists./NN
+"It/NN is/VBZ quite/RB simple/JJ if/IN you/PRP hit/VBD someone/NN at/IN 30mph/CD they/PRP have/VBP a/DT 50/CD per/IN cent/NN chance/NN of/IN survival./NN
+If/IN you/PRP are/VBP going/VBG at/IN 40mph/CD nine/CD times/NNS out/IN of/IN ten/NN they/PRP will/MD die."/VB

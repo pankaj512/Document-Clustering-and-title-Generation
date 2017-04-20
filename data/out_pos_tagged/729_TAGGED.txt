@@ -1,0 +1,15 @@
+US/PRP TV/VBP host/NN Clark/NNP suffers/VBZ stroke/NN
+
+Veteran/NN US/PRP television/VBP host/NN Dick/NNP Clark/NNP is/VBZ in/IN hospital/NN in/IN Los/NNP Angeles/NNP after/IN suffering/VBG a/DT mild/JJ stroke./NN
+
+The/DT 75-year-old/CD presented/VBD long-running/JJ show/NN American/NNP Bandstand/NNP from/IN 1956-87/JJ and/CC has/VBZ since/IN hosted/VBN game/NN shows/VBZ and/CC produced/VBN award/NN ceremonies./NN
+Clark/NNP is/VBZ scheduled/VBN to/TO welcome/VB in/IN the/DT New/NNP Year/NN on/IN the/DT ABC/NNP network/NN a/DT job/NN he/PRP has/VBZ done/VBN for/IN 33/CD years./NN
+The/DT presenter/NN said/VBD that/IN he/PRP is/VBZ "hopeful"/NN of/IN getting/VBG better/JJR in/IN time/NN to/TO lead/VB the/DT festivities/NNS in/IN New/NNP York's/NNP Times/NNP Square./NNP
+Clark's/NNP publicist/NN Paul/NNP Shefrin/NNP said/VBD the/DT television/NN host/NN was/VBD "recovering"/NN and/CC there/EX was/VBD no/DT cause/NN for/IN alarm./NN
+Clark/NNP who/WP produces/VBZ the/DT Golden/NNP Globe/NNP and/CC American/NNP Music/NNP Awards/NNS disclosed/VBD last/JJ year/NN that/IN he/PRP was/VBD suffering/VBG from/IN diabetes./NN
+
+His/PRP$ popular/JJ music/NN show/NN American/NNP Bandstand/NNP was/VBD first/JJ broadcast/NN in/IN 1952/CD and/CC attracted/VBD an/DT audience/NN of/IN 20/CD million/CD people/NNS after/IN it/PRP was/VBD picked/VBN up/RP by/IN ABC/NNP in/IN 1957./CD
+The/DT long-running/JJ weekly/JJ series/NN which/WDT featured/VBD guests/NNS including/VBG Elvis/NNP Presley/NNP Buddy/NNP Holly/NNP and/CC Aretha/NNP Frankin/NNP came/VBD to/TO an/DT end/NN in/IN 1989./CD
+Clark/NNP was/VBD inducted/VBN into/IN the/DT Rock/NNP and/CC Roll/NNP Hall/NNP of/IN Fame/NNP in/IN 1993/CD for/IN his/PRP$ contribution/NN to/TO the/DT music/NN industry./NN
+He/PRP has/VBZ also/RB been/VBN responsible/JJ for/IN television/NN series/NN such/JJ as/IN TV/NN Bloopers/NNP Celebrity/NNP Boxing/NNP and/CC drama/NN American/NNP Dreams./NNP
+Clark/NNP is/VBZ also/RB expected/VBN to/TO act/VB as/IN executive/JJ producer/NN for/IN the/DT upcoming/VBG Golden/NNP Globe/NNP Awards/NNS ceremony/NN which/WDT is/VBZ taking/VBG place/NN on/IN 16/CD January./NNP

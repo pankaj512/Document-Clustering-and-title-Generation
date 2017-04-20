@@ -1,0 +1,15 @@
+Wipro/NNP beats/VBZ forecasts/NNS once/RB again/RB
+
+Wipro/NNP India's/NNP third-biggest/JJ software/NN firm/NN has/VBZ reported/VBN a/DT 60%/CD rise/NN in/IN profit/NN topping/VBG market/NN expectations./NN
+
+Net/JJ income/NN in/IN the/DT last/JJ quarter/NN was/VBD 4.3bn/CD rupees/NNS ($98m/CD £52m)/CD against/IN 2.7bn/CD a/DT year/NN earlier./NN
+Profit/NN had/VBD been/VBN forecast/NN to/TO be/VB 4.1bn/CD rupees./NN
+Wipro/NNP offers/VBZ services/NNS such/JJ as/IN call/NN centres/NNS to/TO foreign/JJ clients/NNS and/CC has/VBZ worked/VBN for/IN more/JJR than/IN half/NN of/IN the/DT companies/NNS on/IN the/DT Fortune/NNP 500/CD list./NN
+Wipro/NNP said/VBD demand/NN was/VBD strong/JJ allowing/NN it/PRP to/TO increase/VB the/DT prices/NNS it/PRP charged./NN
+
+"On/NN the/DT face/NN of/IN it/PRP the/DT results/NNS don't/NN look/NN very/RB exciting"/NN said/VBD Apurva/NNP Shah/NNP an/DT analyst/NN at/IN ASK-Raymond/NNP James./NNP
+"But/NN the/DT guidance/NN is/VBZ positive/JJ and/CC pricing/NN going/VBG up/RP is/VBZ good/JJ news."/NN Third-quarter/JJ sales/NNS rose/VBD 34%/CD to/TO 20.9bn/CD rupees./NN
+One/CD problem/NN identified/VBN by/IN Wipro/NNP was/VBD the/DT high/JJ turnover/NN of/IN its/PRP$ staff./NN
+It/PRP said/VBD that/IN 90%/CD of/IN employees/NNS at/IN its/PRP$ business/NN process/NN outsourcing/VBG operations/NNS had/VBD had/VBN to/TO be/VB replaced./NN
+"We/NN have/VBP to/TO get/VB that/IN under/IN control"/NN said/VBD vice-chairman/JJ Vivek/NNP Paul./NNP
+Wipro/NNP is/VBZ majority/NN owned/VBN by/IN India's/NNP richest/JJS man/NN Azim/NNP Premji./NNP

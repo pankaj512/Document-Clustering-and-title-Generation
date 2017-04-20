@@ -1,0 +1,25 @@
+Warning/NN over/IN Windows/NNS Word/NN files/NNS
+
+Writing/VBG a/DT Microsoft/NNP Word/NN document/NN can/MD be/VB a/DT dangerous/JJ business/NN according/VBG to/TO document/NN security/NN firm/NN Workshare./NNP
+
+Up/IN to/TO 75%/CD of/IN all/DT business/NN documents/NNS contained/VBD sensitive/JJ information/NN most/JJS firms/NNS would/MD not/RB want/VB exposed/VBN a/DT survey/NN by/IN the/DT firm/JJ revealed./NN
+To/TO make/VB matters/NNS worse/RBR 90%/CD of/IN those/DT companies/NNS questioned/VBD had/VBN no/DT idea/NN that/IN confidential/JJ information/NN was/VBD leaking./NN
+The/DT report/NN warns/VBZ firms/NNS to/TO do/VB a/DT better/JJR job/NN of/IN policing/VBG documents/NNS as/IN corporate/JJ compliance/NN becomes/VBZ more/JJR binding./NN
+
+Sensitive/JJ information/NN inadvertently/RB leaked/VBN in/IN documents/NNS includes/VBZ confidential/JJ contractual/JJ terms/NNS competitive/JJ information/NN that/IN rivals/NNS would/MD be/VB keen/JJ to/TO see/VB and/CC special/JJ deals/NNS for/IN key/JJ customers/NNS said/VBD Andrew/NNP Pearson/JJ European/JJ boss/NN of/IN Workshare/NNP which/WDT commissioned/VBD the/DT research./NN
+"The/NN efficiencies/NNS the/DT internet/JJ has/VBZ brought/VBN in/RP such/JJ as/IN instant/JJ access/NN to/TO information/NN have/VBP also/RB created/VBN security/NN and/CC control/NN issues/NNS too"/VBP he/PRP said./VB
+The/DT problem/NN is/VBZ particularly/RB acute/JJ with/IN documents/NNS prepared/VBD using/VBG Microsoft/NNP Word/NN because/IN of/IN the/DT way/NN it/PRP maintains/VBZ hidden/VBN records/NNS about/IN editing/NN changes./NN
+As/IN documents/NNS get/VBP passed/VBN around/IN worked/VBD on/IN and/CC amended/VBN by/IN different/JJ staff/NN members/NNS the/DT sensitive/JJ information/NN finds/VBZ its/PRP$ way/NN into/IN documents./NN
+Poor/NNP control/NN over/IN the/DT editing/NN and/CC amending/VBG process/NN can/MD mean/VB that/DT information/NN that/WDT should/MD be/VB expunged/VBN survives/VBZ final/JJ edits./NN
+Microsoft/NNP however/RB does/VBZ provide/VB an/DT add-on/JJ tool/NN for/IN Windows/NNS PCs/NNS that/WDT fixes/VBZ the/DT problem./NN
+"The/NN Remove/NN Hidden/VBN Data/NNP add-in/NN is/VBZ a/DT tool/NN that/IN you/PRP can/MD use/VB to/TO remove/VB personal/JJ or/CC hidden/JJ data/NNS that/WDT might/MD not/RB be/VB immediately/RB apparent/JJ when/WRB you/PRP view/VBP the/DT document/NN in/IN your/PRP$ Microsoft/NNP Office/NNP application"/NN says/VBZ the/DT instructions/NNS on/IN Microsoft's/NNP website./NN
+Microsoft/NNP recommends/VBZ that/IN the/DT tool/NN is/VBZ used/VBN before/IN people/NNS publish/VBP any/DT Word/NN document./NN
+A/DT tool/NN for/IN Apple/NNP machines/NNS running/VBG Word/NN is/VBZ not/RB available./NN
+Workshare/NNP surveyed/VBD firms/NNS around/IN the/DT world/NN and/CC found/VBD that/IN on/IN average/NN 31%/CD of/IN documents/NNS contained/VBD legally/RB sensitive/JJ information/NN but/CC in/IN many/JJ firms/NNS up/IN to/TO three-quarters/NNS fell/VBD in/RP to/TO the/DT high/JJ risk/NN category./NN
+Often/RB said/VBD Mr/NNP Pearson/NNP this/DT sensitive/JJ information/NN was/VBD invisible/JJ because/IN it/PRP got/VBD deleted/VBN and/CC changed/VBN as/IN different/JJ drafts/NNS were/VBD prepared./NN
+
+However/RB the/DT way/NN that/IN Windows/NNS works/VBZ means/VBZ that/IN earlier/JJR versions/NNS can/MD be/VB recalled/VBN and/CC reconstructed/JJ by/IN those/DT keen/JJ to/TO see/VB how/WRB a/DT document/NN has/VBZ evolved./NN
+Few/JJ firms/NNS have/VBP any/DT knowledge/NN of/IN the/DT existence/NN of/IN this/DT so-called/JJ metadata/NN about/IN the/DT changes/NNS that/IN a/DT document/NN has/VBZ gone/VBN through/IN or/CC that/IN it/PRP can/MD be/VB reconstructed./NN
+The/DT discovery/NN of/IN this/DT hidden/JJ information/NN could/MD prove/VB embarrassing/JJ for/IN companies/NNS if/IN for/IN instance/NN those/DT tendering/VBG for/IN contracts/NNS found/VBD out/RP about/IN the/DT changes/NNS to/TO terms/NNS of/IN a/DT deal/NN being/VBG negotiated./NN
+The/DT research/NN revealed/VBD that/IN a/DT document's/NNS metadata/NN could/MD be/VB substantial/JJ as/IN on/IN average/NN only/RB 40%/CD of/IN contributors'/NN changes/NNS to/TO a/DT document/NN make/VBP it/PRP to/TO the/DT final/JJ draft./NN
+Problems/NNS with/IN documents/NNS could/MD mean/VB trouble/NN for/IN firms/NNS as/IN regulatory/JJ bodies/NNS step/VBP up/RP scrutiny/NN and/CC compliance/NN laws/NNS start/VBP to/TO bite/VB said/VBD Mr/NNP Pearson./NNP

@@ -1,0 +1,49 @@
+The/DT pirates/NNS with/IN no/DT profit/NN motive/NN
+
+Two/CD men/NNS who/WP were/VBD part/NN of/IN a/DT huge/JJ network/NN of/IN internet/JJ software/NN pirates/NNS known/VBN as/IN Drink/NN Or/CC Die/VB have/VBP been/VBN convicted/VBN at/IN the/DT Old/NNP Bailey./NNP
+BBC/NNP News/NNP investigates/VBZ how/WRB the/DT network/NN worked/VBD and/CC what/WP motivated/VBD those/DT involved./NN
+
+They/PRP called/VBD themselves/PRP Drink/VBP Or/CC Die/VB (DOD)./NN
+They/PRP were/VBD a/DT network/NN of/IN computer/NN buffs/NNS who/WP derived/VBD pleasure/NN from/IN cracking/VBG codes/NNS protecting/VBG copyrighted/VBN software/NN such/JJ as/IN Windows/NNS 95./CD
+They/PRP would/MD then/RB share/VB it/PRP with/IN each/DT other./NN
+There/EX is/VBZ no/DT suggestion/NN any/DT of/IN them/PRP profited/VBD financially./NN
+But/CC the/DT authorities/NNS in/IN both/DT Britain/NNP and/CC the/DT United/NNP States/NNPS considered/VBD it/PRP software/NN piracy/NN and/CC took/VBD a/DT dim/NN view/NN of/IN networks/NNS such/JJ as/IN DOD/NNP one/CD of/IN a/DT number/NN of/IN so-called/JJ warez/NN organisations/NNS operating/VBG on/IN the/DT internet./JJ
+In/IN October/NNP 2000/CD the/DT US/PRP Customs/NNP Service/NNP began/VBD an/DT investigation/NN into/IN DOD/NNP and/CC other/JJ networks/NNS such/JJ as/IN Razor/NN 1911/CD Risciso/NNP Myth/NNP and/CC Popz./NNP
+
+Fourteen/CD months/NNS later/RB US/PRP Customs/NNP co-ordinated/VBD a/DT series/NN of/IN raids/NNS across/IN the/DT globe/NN as/IN part/NN of/IN Operation/NN Buccaneer./NNP
+Seventy/CD search/NN warrants/NNS were/VBD executed/VBN in/IN the/DT US/PRP Britain/NNP Australia/NNP Norway/NNP Sweden/NNP and/CC Finland./NNP
+At/IN least/JJS 60/CD people/NNS were/VBD arrested/VBN worldwide/NN -/: 45/CD of/IN them/PRP in/IN the/DT US./NNP
+Among/IN the/DT leaders/NNS of/IN the/DT network/NN were/VBD Americans/NNPS John/NNP Sankus/NNP -/: known/VBN by/IN his/PRP$ internet/JJ nickname/NN Eriflleh/NNP (Hellfire/NN spelt/NN backwards)/NN -/: Richard/NNP Berry/NNP Kent/NNP Kartadinata/NNP and/CC Christopher/NNP Tresco/NNP who/WP used/VBD a/DT server/NN based/VBN at/IN the/DT prestigious/JJ Massachusetts/NNP Institute/NNP of/IN Technology/NNP (MIT)./NN
+
+The/DT longest/JJS jail/NN sentence/NN -/: 46/CD months/NNS -/: was/VBD handed/VBN down/RP to/TO Sankus/NNP a/DT 28-year-old/NN from/IN Philadelphia./NNP
+US/PRP Attorney/NNP Paul/NNP McNulty/NNP said/VBD at/IN the/DT time/NN "John/NN Sankus/NNP and/CC his/PRP$ techno-gang/JJ operated/VBN in/IN the/DT faceless/JJ world/NN of/IN the/DT internet/JJ and/CC thought/VBD they/PRP would/MD never/RB be/VB caught./NN
+"They/NN were/VBD wrong./NN
+These/DT sentences/NNS and/CC those/DT to/TO follow/VB should/MD send/VB a/DT message/NN to/TO others/NNS entertaining/JJ similar/JJ beliefs/NNS of/IN invincibility."/NN But/CC one/CD man/NN still/RB in/IN legal/JJ limbo/NN is/VBZ British-born/JJ Australian/NNP Hew/NNP Raymond/NNP Griffiths/NNP who/WP is/VBZ still/RB fighting/VBG against/IN extradition/NN to/TO the/DT US./NNP
+
+US/PRP Customs/NNP claimed/VBD Mr/NNP Griffiths/NNP was/VBD one/CD of/IN DOD's/NNP leaders/NNS but/CC his/PRP$ lawyer/NN Antony/NNP Townsden/NNP told/VBD the/DT BBC/NNP News/NNP website/NN it/PRP was/VBD a/DT laughable/JJ suggestion/NN and/CC added/VBD "He/NN was/VBD living/VBG on/IN welfare/NN and/CC had/VBD such/PDT an/DT old/JJ computer/NN that/IN he/PRP couldn't/VB even/RB download/NN software./NN
+"The/NN allegation/NN that/IN he/PRP was/VBD the/DT group's/NNS co-leader/JJ is/VBZ illusory./NN
+He/PRP had/VBD the/DT least/JJS technical/JJ skills/NNS of/IN anyone/NN he/PRP couldn't/VB crack/NN any/DT codes/NNS and/CC he/PRP has/VBZ only/RB been/VBN called/VBN a/DT leader/NN because/IN he/PRP was/VBD a/DT loudmouth/NN who/WP wrote/VBD a/DT lot/NN on/IN their/PRP$ messageboard."/NN Mr/NNP Townsden/NNP said/VBD if/IN he/PRP had/VBD committed/VBN any/DT crimes/NNS he/PRP should/MD be/VB prosecuted/VBN in/IN Australia/NNP not/RB the/DT US./NNP
+He/PRP claimed/VBD the/DT Australian/JJ government's/NNS decision/NN to/TO accept/VB the/DT extradition/NN request/NN was/VBD typical/JJ of/IN their/PRP$ current/JJ "acquiescent"/NN attitude/NN to/TO the/DT US./NNP
+
+Mr/NNP Griffiths/NNP is/VBZ expecting/VBG to/TO hear/VB this/DT week/NN the/DT outcome/NN of/IN his/PRP$ appeal/NN against/IN the/DT decision/NN to/TO extradite/VB him./NN
+Those/DT involved/VBN would/MD give/VB themselves/PRP internet/JJ aliases/NNS which/WDT would/MD act/VB in/IN the/DT same/JJ way/NN as/IN tags/NNS used/VBN by/IN graffiti/NN artists./NN
+They/PRP could/MD then/RB brag/VB about/IN their/PRP$ code-cracking/JJ abilities/NNS without/IN giving/VBG away/RP their/PRP$ real/JJ identities./NN
+Alex/NNP Bell/NNP whose/WP$ trial/NN at/IN the/DT Old/NNP Bailey/NNP ended/VBD on/IN Friday/NNP was/VBD known/VBN as/IN Mr/NNP 2940/CD -/: after/IN a/DT computer/NN device/NN -/: while/IN his/PRP$ co-defendant/NN Steven/NNP Dowd's/NNP nickname/NN curiously/RB was/VBD Tim./NNP
+
+A/DT spokesman/NN for/IN US/PRP Immigration/NNP Customs/NNP and/CC Enforcement/NNP Dean/NNP Boyd/NNP said/VBD DOD/NNP did/VBD not/RB appear/VB to/TO be/VB motivated/VBN by/IN money./NN
+Their/PRP$ motivation/NN was/VBD the/DT kudos/NNS which/WDT surrounded/VBD being/VBG able/JJ to/TO crack/VB sophisticated/JJ software./NN
+He/PRP told/VBD the/DT BBC/NNP News/NNP website/NN "Primarily/RB they/PRP were/VBD just/RB interested/JJ in/IN how/WRB fast/RB they/PRP could/MD crack/VB the/DT code./NN
+It/PRP was/VBD all/DT about/IN underground/JJ notoriety."/NN But/CC Mr/NNP Boyd/NNP pointed/VBD out/RP that/IN once/RB the/DT software/NN had/VBD been/VBN distributed/VBN on/IN the/DT internet/JJ it/PRP fell/VBD into/IN the/DT hands/NNS of/IN organised/VBN criminals/NNS who/WP were/VBD able/JJ to/TO mass/VB produce/NN pirated/VBN software/NN at/IN zero/CD cost./NN
+
+"It/NN cost/NN US/PRP industries/VBZ a/DT lot/NN of/IN money/NN billions/NNS of/IN dollars"/NN he/PRP said./VB
+Mr/NNP Boyd/NNP said/VBD "It/NN was/VBD truly/RB global/JJ in/IN scope./NN
+We/PRP raided/VBD a/DT number/NN of/IN universities/NNS including/VBG Duke/NNP (in/NN North/NNP Carolina)/NNP and/CC MIT/NNP and/CC found/VBD that/IN several/JJ of/IN the/DT people/NNS involved/VBN were/VBD employed/VBN by/IN major/JJ computer/NN corporations./NN
+"They/NN would/MD go/VB home/NN from/IN work/NN in/IN the/DT evenings/NNS and/CC get/VB involved/VBN in/IN this/DT warez/NN culture."/NN Warez/NNP groups/NNS which/WDT began/VBD to/TO surface/VB in/IN the/DT early/JJ 1990s/NNS operate/NN according/VBG to/TO a/DT strict/JJ code/NN of/IN honour./NN
+
+For/IN example/NN if/IN one/CD group/NN cracked/VBD the/DT software/NN first/RB its/PRP$ rivals/NNS would/MD respect/VB that/DT achievement/NN and/CC not/RB seek/VB to/TO claim/VB it/PRP themselves./NN
+Mr/NNP Boyd/NNP said/VBD the/DT destruction/NN of/IN DOD/NNP was/VBD a/DT great/JJ coup/NN but/CC he/PRP added/VBD "I'm/NN not/RB going/VBG to/TO sit/VB here/RB and/CC say/VB we/PRP have/VBP sorted/VBN the/DT problem./NN
+There/EX are/VBP still/RB hackers/NNS and/CC people/NNS who/WP do/VBP this/DT for/IN fun./NN
+"Internet/NN piracy/NN of/IN computer/NN software/NN remains/VBZ a/DT gigantic/JJ problem."/NN A/DT spokesman/NN for/IN the/DT Business/NNP Software/NNP Alliance/NNP said/VBD "DOD/NN members/NNS claim/VBP they/PRP did/VBD not/RB profit/VB at/IN all./NN
+But/CC they/PRP did/VBD profit/NN by/IN getting/VBG access/NN to/TO very/RB expensive/JJ servers."/NN He/PRP said/VBD DOD/NNP and/CC other/JJ warez/NN groups/NNS were/VBD fostering/VBG a/DT "culture/NN of/IN piracy"/NN on/IN the/DT internet./JJ
+He/PRP said/VBD 29%/CD of/IN computer/NN software/NN in/IN Britain/NNP was/VBD believed/VBN to/TO have/VB been/VBN pirated/VBN and/CC this/DT cost/NN £1bn/CD in/IN revenue/NN for/IN software/NN companies/NNS their/PRP$ suppliers/NNS and/CC distributors./JJ
+"It/NN may/MD seem/VB like/IN a/DT victimless/JJ crime/NN but/CC it/PRP touches/VBZ more/JJR people/NNS than/IN you/PRP might/MD care/VB to/TO believe."/VB

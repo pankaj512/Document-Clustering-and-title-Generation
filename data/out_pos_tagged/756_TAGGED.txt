@@ -1,0 +1,13 @@
+Singer/NNP Sizzla/NNP jailed/VBD for/IN swearing/NN
+
+Reggae/NNP star/NN Sizzla/NNP whose/WP$ UK/NNP tour/NN was/VBD cancelled/VBN after/IN protests/NNS at/IN his/PRP$ "anti-gay"/JJ lyrics/NNS has/VBZ been/VBN jailed/VBN in/IN Jamaica/NNP for/IN swearing/NN on/IN stage./NN
+
+The/DT singer/NN must/MD serve/VB 15/CD days/NNS in/IN prison/NN after/IN he/PRP consistently/RB swore/VBD during/IN a/DT concert/NN in/IN St/NNP Thomas/NNP Jamaica/NNP in/IN January/NNP despite/IN warnings/NNS by/IN police./NN
+He/PRP was/VBD charged/VBN under/IN a/DT law/NN which/WDT prohibits/VBZ indecent/NN dress/NN or/CC expression./NN
+Sizzla's/NNP five-date/JJ UK/NNP tour/NN was/VBD cancelled/VBN last/JJ November/NNP after/IN protests/NNS by/IN gay/JJ rights/NNS campaigners./NN
+
+Sizzla/NNP whose/WP$ real/JJ name/NN is/VBZ Miguel/NNP Collins/NNP has/VBZ released/VBN 25/CD albums/NNS since/IN 1995/CD and/CC is/VBZ credited/VBN with/IN taking/VBG dancehall/NN music/NN back/RB to/TO its/PRP$ reggae/NN origins./NN
+Many/JJ Jamaican/JJ entertainers/NNS have/VBP appeared/VBN before/IN the/DT courts/NNS for/IN use/NN of/IN profanity/NN in/IN recent/JJ years/NNS but/CC they/PRP usually/RB receive/VBP a/DT verbal/JJ warning/NN a/DT suspended/VBN sentence/NN or/CC community/NN service./NN
+Sizzla's/NNP UK/NNP tour/NN was/VBD cancelled/VBN after/IN Scotland/NNP Yard's/NNP Racial/JJ and/CC Violent/JJ Crime/NN taskforce/NN announced/VBD it/PRP was/VBD examining/VBG lyrics/NNS by/IN eight/CD reggae/NN artists./NN
+It/PRP would/MD not/RB confirm/VB that/IN Sizzla/NNP was/VBD among/IN them./NN
+One/CD of/IN his/PRP$ most/RBS controversial/JJ songs/NNS Pump/VBP Up/IN contains/VBZ the/DT Jamaican/JJ patois/NNS lyrics/NNS "fire/NN fi/NN di/FW man/NN dem/NN weh/NN go/VBP ride/NN man/NN behind"/NN translated/VBN by/IN gay/JJ rights/NNS group/NN OutRage/NN as/IN "burn/NN the/DT men/NNS who/WP have/VBP sex/NN with/IN men"./NN

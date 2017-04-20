@@ -1,0 +1,26 @@
+Fast/RB lifts/NNS rise/VBP into/IN record/NN books/NNS
+
+Two/CD high-speed/JJ lifts/NNS at/IN the/DT world's/NNS tallest/JJS building/NN have/VBP been/VBN officially/RB recognised/VBN as/IN the/DT planet's/NNS fastest./NN
+
+The/DT lifts/NNS take/VBP only/RB 30/CD seconds/NNS to/TO whisk/VB passengers/NNS to/TO the/DT top/NN of/IN the/DT 508m/CD tall/JJ TFC/NNP 101/CD Tower/NNP in/IN Taipei/NNP Taiwan./NNP
+The/DT Guinness/NNP Book/NNP of/IN Records/NNPS has/VBZ declared/VBN the/DT 17m/CD per/IN second/JJ speed/NN of/IN the/DT two/CD lifts/NNS the/DT swiftest/NN on/IN Earth./NNP
+The/DT lifts/NNS also/RB have/VBP a/DT pressure/NN control/NN system/NN to/TO stop/VB passengers'/NN ears/NNS popping/VBG as/IN they/PRP ascend/VBP and/CC descend/NN at/IN high/JJ speed./NN
+
+In/IN total/JJ the/DT TFC/NNP Tower/NNP has/VBZ 61/CD lifts/NNS 34/CD of/IN them/PRP double-deckers/NNS and/CC 50/CD escalators/NNS to/TO shuttle/VB people/NNS around/IN its/PRP$ 106/CD floors./NN
+The/DT TFC/NNP 101/CD Tower/NNP is/VBZ due/JJ to/TO be/VB officially/RB opened/VBN on/IN 31/CD December./NNP
+
+The/DT super-fast/JJ lifts/NNS can/MD speed/VB up/IN to/TO 24/CD passengers/NNS to/TO the/DT tip/NN of/IN the/DT tower/NN in/IN about/IN 30/CD seconds/NNS while/IN ascending/VBG their/PRP$ 382m/CD track./NN
+The/DT 17m/s/CD top/JJ speed/NN of/IN the/DT lifts/NNS translates/NNS to/TO about/IN 38mph/CD (61km/h)./CD
+Curiously/RB the/DT lifts/NNS take/VBP longer/RB to/TO descend/VB and/CC spend/VB almost/RB a/DT whole/JJ minute/NN returning/VBG to/TO ground/VB level/NN from/IN the/DT top/NN of/IN the/DT TFC/NNP Tower./NNP
+The/DT key/JJ new/JJ technologies/NNS applied/VBN in/IN the/DT world's/NNS fastest/JJS elevators/NNS include/VBP
+
+
+-/: A/DT pressure/NN control/NN system/NN which/WDT adjusts/VBZ the/DT atmospheric/JJ pressure/NN inside/IN a/DT car/NN by/IN using/VBG suction/NN and/CC discharge/VB blowers/NNS preventing/VBG "ear/NN popping"/NN
+-/: An/DT active/JJ control/NN system/NN which/WDT tries/VBZ to/TO balance/VB the/DT lift/NN more/RBR finely/RB and/CC remove/VB the/DT sources/NNS of/IN vibrations/NNS
+-/: Streamlined/JJ cars/NNS to/TO reduce/VB the/DT whistling/VBG noise/NN produced/VBN by/IN running/VBG the/DT lifts/NNS at/IN a/DT high/JJ speed/NN inside/IN a/DT narrow/JJ shaft/NN
+
+
+"The/NN certification/NN of/IN our/PRP$ elevators/NNS as/IN world/NN record-holders/NNS by/IN the/DT authoritative/JJ Guinness/NNP World/NNP Records/NNPS is/VBZ a/DT great/JJ honour/NN for/IN us"/NN said/VBD Masayuki/NNP Shimono/NNP president/NN of/IN manufacturer/NN Toshiba/NNP Elevator/NN and/CC Building/NNP Systems/NNPS which/WDT installed/VBD the/DT lifts./NN
+The/DT first/JJ record/NN for/IN the/DT world's/NNS fastest/JJS passenger/NN elevators/NNS was/VBD published/VBN in/IN the/DT first/JJ edition/NN of/IN the/DT Guinness/NNP Book/NNP of/IN Records/NNPS in/IN 1955./CD
+"As/NN such/JJ it/PRP is/VBZ an/DT interesting/JJ indicator/NN of/IN how/WRB technology/NN has/VBZ advanced/VBN in/IN the/DT 50/CD years/NNS since/IN that/DT first/JJ edition/NN when/WRB the/DT record/NN was/VBD 426m/CD per/IN minute/NN or/CC 25.6/CD km/h/NN less/JJR than/IN half/PDT the/DT speed/NN of/IN the/DT new/JJ record"/NN said/VBD Hein/NNP Le/NNP Roux/NNP specialist/NN researcher/NN at/IN the/DT Guinness/NNP World/NNP Records./NNP
+Taipei's/NNP TFC/NNP 101/CD Tower/NNP is/VBZ more/JJR than/IN 50m/CD taller/JJR than/IN the/DT Petronas/NNP Towers/NNP in/IN Kuala/NNP Lumpur/NNP Malaysia/NNP -/: formerly/RB the/DT world's/NNS tallest/JJS skyscraper./NN

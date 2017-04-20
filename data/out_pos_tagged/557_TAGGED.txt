@@ -1,0 +1,14 @@
+Berlin/NNP applauds/VBZ Hotel/NNP Rwanda/NNP
+
+Political/NNP thriller/NN Hotel/NNP Rwanda/NNP was/VBD given/VBN a/DT rousing/VBG reception/NN by/IN spectators/NNS at/IN the/DT Berlin/NNP Film/NNP Festival/NNP on/IN Saturday./NNP
+
+The/DT movie's/NNS star/NN Don/NNP Cheadle/NNP also/RB received/VBD a/DT standing/NN ovation/NN when/WRB he/PRP stepped/VBD onto/IN the/DT stage/NN after/IN the/DT show./NN
+The/DT film/NN is/VBZ the/DT true/JJ story/NN of/IN the/DT hotel/NN manager/NN who/WP saved/VBD 1200/CD Tutsis/NNP from/IN death/NN during/IN the/DT Rwandan/NNP genocide./NN
+The/DT film/NN showing/VBG out/IN of/IN competition/NN in/IN Berlin/NNP is/VBZ nominated/VBN for/IN three/CD Oscars/NNP including/VBG best/JJS actor/NN for/IN Cheadle./NNP
+Sophie/NNP Okonedo/NNP who/WP plays/VBZ Cheadle's/NNP wife/NN Tatiana/NNP is/VBZ nominated/VBN for/IN best/JJS supporting/VBG actress./NN
+The/DT film/NN is/VBZ also/RB in/IN the/DT running/NN for/IN best/JJS original/JJ screenplay./NN
+Cheadle/NNP was/VBD joined/VBN on/IN stage/NN at/IN Berlin/NNP by/IN Paul/NNP Rusesabagina/NNP the/DT hotel/NN manager/NN he/PRP plays/VBZ in/IN the/DT film/NN Mr/NNP Rusesabagina's/NNP wife/NN and/CC his/PRP$ extended/JJ family/NN who/WP fled/VBD Rwanda/NNP and/CC now/RB live/VB in/IN Belgium./NNP
+Mr/NNP Rusesabagina/NNP used/VBD his/PRP$ influence/NN as/IN a/DT prominent/JJ Hutu/NNP businessman/NN to/TO shelter/VB potential/JJ victims/NNS of/IN the/DT Rwandan/NNP genocide/NN contacting/VBG dignitaries/NNS including/VBG Bill/NNP Clinton/NNP the/DT King/NNP of/IN Belgium/NNP as/RB well/RB as/IN the/DT French/JJ foreign/JJ ministry./NN
+Hotel/NNP Rwanda/NNP is/VBZ one/CD of/IN two/CD films/NNS addressing/VBG the/DT genocide/NN at/IN the/DT 55th/JJ Berlin/NNP Film/NNP Festival/NNP which/WDT runs/VBZ until/IN 20/CD February./NNP
+Sometimes/RB in/IN April/NNP is/VBZ a/DT feature/NN by/IN Raoul/NNP Peck/NNP competing/VBG for/IN the/DT festival's/NNS coveted/JJ Golden/NNP and/CC Silver/NN Bear/NNP awards./NN
+The/DT film/NN was/VBD made/VBN exclusively/RB in/IN Rwanda/NNP whereas/IN Hotel/NNP Rwanda/NNP was/VBD shot/VBN mostly/RB in/IN South/NNP Africa/NNP with/IN some/DT scenes/NNS made/VBN in/IN Kigali./NNP

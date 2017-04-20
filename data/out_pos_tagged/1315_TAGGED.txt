@@ -1,0 +1,10 @@
+O'Sullivan/NNP could/MD run/VB in/IN Worlds/NNS
+
+Sonia/NNP O'Sullivan/NNP has/VBZ indicated/VBN that/IN she/PRP would/MD like/VB to/TO participate/VB in/IN next/JJ month's/NNS World/NNP Cross/NNP Country/NNP Championships/NNS in/IN St/NNP Etienne./NNP
+
+Athletics/NNP Ireland/NNP have/VBP hinted/VBN that/IN the/DT 35-year-old/JJ Cobh/NNP runner/NN may/MD be/VB included/VBN in/IN the/DT official/NN line-up/JJ for/IN the/DT event/NN in/IN France/NNP on/IN 19-20/JJ March./NNP
+Provincial/JJ teams/NNS were/VBD selected/VBN after/IN last/JJ Saturday's/NNP Nationals/NNS in/IN Santry/NNP and/CC will/MD be/VB officially/RB announced/VBN this/DT week./NN
+O'Sullivan/NNP is/VBZ at/IN present/JJ preparing/NN for/IN the/DT London/NNP marathon/NN on/IN 17/CD April./NNP
+The/DT participation/NN of/IN O'Sullivan/NNP currentily/RB training/NN at/IN her/PRP$ base/NN in/IN Australia/NNP would/MD boost/VB the/DT Ireland/NNP team/NN who/WP won/VBD the/DT bronze/NN three/CD years/NNS agio./NN
+The/DT first/JJ three/CD at/IN Santry/NNP last/JJ Saturday/NNP Jolene/NNP Byrne/NNP Maria/NNP McCambridge/NNP and/CC Fionnualla/NNP Britton/NNP are/VBP automatic/JJ selections/NNS and/CC will/MD most/RBS likely/JJ form/NN part/NN of/IN the/DT long-course/JJ team./NN
+O'Sullivan/NNP will/MD also/RB take/VB part/NN in/IN the/DT Bupa/NNP Great/NNP Ireland/NNP Run/NNP on/IN 9/CD April/NNP in/IN Dublin./NNP

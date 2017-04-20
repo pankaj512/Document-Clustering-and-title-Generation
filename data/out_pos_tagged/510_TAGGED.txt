@@ -1,0 +1,10 @@
+Lacroix/NNP label/NN bought/VBN by/IN US/PRP firm/VBP
+
+Luxury/NN goods/NNS group/NN LVMH/NNP has/VBZ sold/VBN its/PRP$ loss-making/JJ Christian/NNP Lacroix/NNP clothing/NN label/NN to/TO a/DT US/PRP investment/VBP group./NN
+
+The/DT Paris-based/JJ firm/NN has/VBZ been/VBN shedding/VBG non-core/JJ businesses/NNS and/CC focusing/VBG on/IN its/PRP$ most/RBS profitable/JJ brands/NNS including/VBG Moet/NNP &/CC Chandon/NNP champagne/NN and/CC Louis/NNP Vuitton./NNP
+LVMH/NNP said/VBD the/DT French/JJ designer's/NNS haute/NN couture/NN and/CC ready-to-wear/JJ labels/NNS had/VBD been/VBN purchased/VBN by/IN the/DT Falic/NNP Group/NNP for/IN an/DT unspecified/JJ sum./NN
+The/DT Falic/NNP Group/NNP bought/VBD two/CD cosmetics/NNS labels/NNS from/IN LVMH/NNP in/IN 2003./CD
+The/DT sale/NN of/IN the/DT Lacroix/NNP label/NN comes/VBZ as/IN many/JJ fashion/NN houses/NNS are/VBP struggling/VBG to/TO make/VB money/NN from/IN their/PRP$ expensive/JJ haute/NN couture/NN ranges./NN
+The/DT Florida-based/JJ Falic/NNP group/NN which/WDT also/RB runs/VBZ a/DT chain/NN of/IN 90/CD duty/NN free/JJ stores/NNS in/IN the/DT US/PRP said/VBD it/PRP planned/VBD to/TO expand/VB the/DT brand/NN by/IN opening/NN new/JJ stores./NN
+Mr/NNP Lacroix/NNP said/VBD he/PRP planned/VBD to/TO stay/VB at/IN the/DT label/NN he/PRP founded/VBD in/IN 1987/CD although/IN exact/JJ details/NNS are/VBP still/RB to/TO be/VB confirmed./NN

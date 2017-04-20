@@ -1,0 +1,20 @@
+Steel/NNP firm/JJ 'to/NN cut'/NN 45000/CD jobs/NNS
+
+Mittal/NNP Steel/NNP one/CD of/IN the/DT world's/NNS largest/JJS steel/NN producers/NNS could/MD cut/VB up/IN to/TO 45000/CD jobs/NNS over/IN the/DT next/JJ five/CD years/NNS its/PRP$ chief/JJ executive/NN has/VBZ said./NN
+
+The/DT Netherlands-based/JJ company/NN is/VBZ due/JJ to/TO complete/VB its/PRP$ $4.5bn/CD acquisition/NN of/IN US/PRP firm/VBP ISG/NNP next/JJ month/NN making/VBG it/PRP one/CD of/IN the/DT largest/JJS global/JJ firms/NNS of/IN its/PRP$ kind./NN
+However/RB Lakshmi/NNP Mittal/NNP has/VBZ told/VBN investors/NNS the/DT combined/VBN company/NN will/MD have/VB to/TO shed/VBN thousands/NNS of/IN jobs./NN
+The/DT Indian-born/NNP magnate/NN did/VBD not/RB say/VB where/WRB the/DT job/NN losses/NNS would/MD fall./VB
+
+Mr/NNP Mittal/NNP told/VBD US/PRP investors/VBZ that/WDT once/RB the/DT acquisition/NN of/IN International/NNP Steel/NNP Group/NNP was/VBD completed/VBN the/DT company/NN would/MD aim/VB to/TO reduce/VB its/PRP$ workforce/NN by/IN between/IN 7000/CD and/CC 8000/CD annually./NN
+This/DT could/MD see/VB its/PRP$ workforce/NN trimmed/VBD from/IN 155000/CD to/TO 110000/CD staff/NN by/IN 2010./CD
+"We/NN are/VBP investing/VBG in/IN modernisation/NN so/RB employees/VBZ will/MD go/VB down"/NN Mr/NNP Mittal/NNP told/VBD the/DT conference/NN in/IN Chicago./NNP
+
+Mittal/NNP Steel/NNP was/VBD formed/VBN last/JJ year/NN when/WRB Mr/NNP Mittal's/NNP LNM/NNP Holdings/NNP merged/VBD with/IN Dutch/JJ firm/NN Ispat./NNP
+A/DT combination/NN of/IN Mittal/NNP Steel/NNP and/CC ISG/NNP would/MD have/VB annual/JJ sales/NNS of/IN $32bn/CD (£16.7bn/CD 24.1bn/CD euros)/NN and/CC a/DT production/NN capacity/NN of/IN 70/CD million/CD tonnes./NN
+
+A/DT Mittal/NNP Steel/NNP spokeman/NN said/VBD that/IN no/DT decisions/NNS on/IN job/NN cuts/NNS have/VBP been/VBN made/VBN yet./NN
+"We/NN are/VBP trying/VBG to/TO create/VB a/DT sustainable/JJ steel/NN industry/NN and/CC if/IN we/PRP want/VBP to/TO do/VB that/DT we/PRP have/VBP to/TO invest/VB in/IN new/JJ technology"/NN a/DT spokesman/NN said./NN
+Mittal/NNP Steel/NNP has/VBZ operations/NNS in/IN 14/CD countries./NN
+Many/JJ of/IN its/PRP$ businesses/NNS -/: particularly/RB those/DT in/IN eastern/JJ Europe/NNP -/: were/VBD previously/RB state/NN owned/VBN and/CC have/VBP huge/JJ workforces./NN
+It/PRP employs/VBZ 50000/CD staff/NN in/IN Kazakhstan/NNP alone/RB and/CC has/VBZ large/JJ operations/NNS in/IN Romania/NNP the/DT Czech/JJ Republic/NNP South/NNP Africa/NNP and/CC the/DT United/NNP States./NNP

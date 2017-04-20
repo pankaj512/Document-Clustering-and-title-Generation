@@ -1,0 +1,17 @@
+Potter/NNP director/NN signs/NNS Warner/NNP deal/NN
+
+Harry/NNP Potter/NNP director/NN Alfonso/NNP Cuaron/NNP has/VBZ signed/VBN a/DT three-year/JJ deal/NN with/IN Hollywood/NNP studio/NN Warner/NNP Brothers/NNPS according/VBG to/TO Variety/NNP trade/NN magazine./NN
+
+The/DT Mexican/JJ film-maker/NN who/WP directed/VBD Harry/NNP Potter/NNP and/CC the/DT Prisoner/NN of/IN Azkaban/NNP will/MD produce/VB mainstream/NN movies/NNS and/CC smaller/JJR Spanish-language/JJ films./NN
+"We/NN had/VBD a/DT wonderful/JJ experience/NN with/IN Alfonso/NNP on/IN Harry/NNP Potter"/NNP Warner/NNP producer/NN Jeff/NNP Robinov/NNP told/VBD Variety./NNP
+Cuaron's/NNP other/JJ films/NNS include/VBP Mexican/JJ movie/NN Y/NNP Tu/NNP Mama/NNP Tambien./NNP
+
+The/DT 2001/CD rites-of-passage/JJ drama/NN about/IN two/CD teenage/JJ boys/NNS who/WP embark/VBP on/IN a/DT relationship/NN with/IN an/DT older/JJR woman/NN brought/VBN Cuaron/NNP international/JJ attention/NN -/: and/CC box/NN office/NN glory./NN
+
+It/PRP also/RB won/VBD him/PRP and/CC his/PRP$ brother/NN Carlos/NNP with/IN whom/WP he/PRP co-wrote/JJ the/DT screenplay/NN an/DT Oscar/NNP nomination/NN for/IN best/JJS original/JJ screenplay./NN
+Warner/NNP will/MD distribute/VB Cuaron's/NNP films/NNS in/IN several/JJ languages/NNS outside/IN the/DT US./NNP
+"This/NN deal/NN will/MD give/VB us/PRP the/DT opportunity/NN to/TO collaborate/VB with/IN Alfonso/NNP on/IN movies/NNS that/WDT make/VBP the/DT most/JJS of/IN his/PRP$ artistry/NN and/CC vision/NN and/CC continue/VB to/TO offer/VB him/PRP the/DT mainstream/NN worldwide/NN audiences/NNS that/IN our/PRP$ studio/NN provides/VBZ so/RB successfully"/NN said/VBD Mr/NNP Robinov./NNP
+
+His/PRP$ first/JJ film/NN for/IN Warner/NNP Brothers/NNPS was/VBD 1995's/CD family/NN fantasy/NN movie/NN A/DT Little/NNP Princess./NNP
+Based/VBN on/IN the/DT novel/NN by/IN Frances/NNP Hodgson/NNP Burnett/NNP A/NNP Little/NNP Princess/NNP tells/VBZ the/DT story/NN of/IN a/DT young/JJ girl/NN who/WP is/VBZ sent/VBN to/TO live/VB in/IN a/DT New/NNP York/NNP boarding/VBG school/NN when/WRB her/PRP$ widowed/VBN father/NN enlists/NNS for/IN war./NN
+After/IN the/DT erotic/JJ nature/NN of/IN Y/NNP Tu/NNP Mama/NNP Tambien/NNP Cuaron/NNP was/VBD a/DT surprise/NN choice/NN to/TO direct/VB the/DT third/JJ Harry/NNP Potter/NNP film/NN but/CC his/PRP$ dark/JJ interpretation/NN was/VBD received/VBN well/RB by/IN the/DT public/NN and/CC critics/NNS alike./NN

@@ -1,0 +1,40 @@
+Set/VBN your/PRP$ television/NN to/TO wow/VB
+
+Television/NNP started/VBD off/RP as/IN a/DT magical/JJ blurry/JJ image./NN
+Then/RB came/VBD the/DT sharpness/NN the/DT colour/NN and/CC the/DT widescreen/NN format./NN
+Now/RB the/DT TV/NN set/VBN is/VBZ taking/VBG another/DT leap/NN forward/RB into/IN a/DT crystal/NN clear/JJ future/NN although/IN those/DT in/IN Europe/NNP will/MD have/VB to/TO be/VB patient./NN
+
+After/IN years/NNS of/IN buzz/NN about/IN high-definition/JJ TV/NN (HDTV)/NN it/PRP is/VBZ finally/RB taking/VBG off/RP in/IN a/DT handful/NN of/IN countries/NNS around/IN the/DT world/NN mainly/RB the/DT US/PRP and/CC Japan./NNP
+If/IN you/PRP believe/VBP the/DT hype/NN then/RB HDTV/NN will/MD so/RB wow/VB you/PRP that/IN you/PRP will/MD never/RB want/VB to/TO go/VB back/RB to/TO your/PRP$ old/JJ telly./NN
+"HDTV/NN is/VBZ just/RB the/DT latest/JJS must-have/JJ technology/NN in/IN viewers'/NN homes"/NN says/VBZ Jo/NNP Flaherty/NNP a/DT senior/JJ broadcaster/NN with/IN the/DT CBS/NNP network/NN in/IN the/DT US./NNP
+All/DT television/NN images/NNS are/VBP made/VBN up/RP of/IN pixels/NNS going/VBG across/IN the/DT screen/NN and/CC scan/VB lines/NNS going/VBG down./NN
+British/JJ TV/NN pictures/NNS are/VBP made/VBN up/RP of/IN 625/CD lines/NNS and/CC about/IN 700/CD pixels./NN
+By/IN contrast/NN HDTV/NN offers/VBZ up/IN to/TO 1080/CD active/JJ lines/NNS with/IN each/DT line/NN made/VBD up/RP of/IN 1920/CD pixels./NN
+The/DT result/NN is/VBZ a/DT picture/NN which/WDT can/MD be/VB up/IN to/TO six/CD times/NNS as/RB sharp/JJ as/IN standard/JJ TV./NNP
+But/CC to/TO get/VB the/DT full/JJ impact/NN programmes/NNS need/VBP to/TO be/VB broadcast/VBN in/IN this/DT format/NN and/CC you/PRP need/VBP a/DT HDTV/NN set/VBN to/TO receive/VB them./NN
+Most/JJS new/JJ computer/NN displays/NNS are/VBP already/RB capable/JJ of/IN handling/VBG high-resolution/JJ pictures./NN
+Viewers/NNS in/IN Japan/NNP the/DT US/PRP Australia/NNP Canada/NNP and/CC South/NNP Korea/NNP are/VBP already/RB embracing/VBG the/DT new/JJ TV/NN technology/NN with/IN a/DT selection/NN of/IN primetime/NN programmes/NNS being/VBG broadcast/NN in/IN the/DT new/JJ format/NN which/WDT includes/VBZ 5.1/CD digital/JJ surround/VBP sound./NN
+
+But/CC TV/NN viewers/NNS in/IN Europe/NNP will/MD have/VB to/TO wait/VB to/TO enjoy/VB the/DT eye-blasting/JJ high-definition/JJ images./NN
+
+Many/JJ high-end/JJ European/JJ TV/NN programmes/NNS such/JJ as/IN the/DT recent/JJ Athens/NNP Olympics/NNPS are/VBP already/RB being/VBG produced/VBN in/IN high-definition./JJ
+But/CC they/PRP still/RB reach/VBP your/PRP$ screen/NN in/IN the/DT old/JJ 625/CD lines./NN
+The/DT prospects/NNS for/IN getting/VBG sharper/JJR images/NNS soon/RB do/VBP not/RB seem/VB very/RB encouraging./NN
+According/VBG to/TO consultants/NNS Strategy/NN Analytics/NNP only/RB 12%/CD of/IN homes/NNS in/IN Europe/NNP will/MD have/VB TVs/NNS capable/JJ of/IN showing/VBG programmes/NNS in/IN high-definition/JJ by/IN 2008./CD
+But/CC the/DT HDTV/NN hype/NN spilling/NN out/IN of/IN the/DT US/PRP and/CC Japan/NNP has/VBZ spurred/VBN European/JJ broadcasters/NNS and/CC consumer/NN electronic/JJ companies/NNS to/TO push/VB for/IN change./NN
+Big/JJ sports/NNS and/CC entertainment/NN events/NNS are/VBP set/VBN to/TO help/VB trigger/VB the/DT general/JJ public's/NNS attention./NN
+The/DT 2006/CD World/NNP Cup/NNP in/IN Germany/NNP will/MD be/VB broadcast/NN in/IN high-definition./JJ
+
+In/IN the/DT UK/NNP satellite/NN broadcaster/NN BSkyB/NNP is/VBZ planning/NN HDTV/NN services/NNS in/IN 2006./CD
+There/EX is/VBZ already/RB a/DT HDTV/NN service/NN in/IN Europe/NNP called/VBD Euro1080./CD
+Other/JJ European/JJ broadcasters/NNS especially/RB in/IN France/NNP and/CC Germany/NNP also/RB aiming/VBG to/TO launch/VB similar/JJ services./NN
+
+In/IN Britain/NNP digital/JJ satellite/NN and/CC cable/NN are/VBP largely/RB seen/VBN as/IN the/DT natural/JJ home/NN for/IN HDTV/NN at/IN least/JJS while/IN a/DT decision/NN is/VBZ taken/VBN regarding/VBG terrestrial/JJ broadcast/NN options./NN
+The/DT communications/NNS watchdog/NN Ofcom/NNP could/MD hand/VB over/IN some/DT terrestrial/JJ frequencies/NNS freed/VBD up/RP when/WRB the/DT UK/NNP switches/VBZ off/RP its/PRP$ analogue/NN TV/NN signal./NN
+For/IN now/RB broadcasters/VBZ like/IN the/DT BBC/NNP are/VBP working/VBG on/IN their/PRP$ own/JJ HDTV/NN plans/NNS although/IN with/IN no/DT launch/NN date/NN in/IN sight./NN
+"The/NNP BBC/NNP will/MD start/VB broadcasting/NN in/IN HDTV/NN when/WRB the/DT time/NN is/VBZ right/JJ and/CC it/PRP would/MD not/RB be/VB just/RB a/DT showcase/NN but/CC a/DT whole/JJ set/NN of/IN programming"/NN says/VBZ Andy/NNP Quested/NNP from/IN the/DT BBC's/NNP high-definition/JJ support/NN group./NN
+"We/NN have/VBP made/VBN the/DT commitment/NN to/TO produce/VB all/DT our/PRP$ output/NN in/IN high-definition/JJ by/IN 2010/CD which/WDT would/MD put/VB us/PRP on/IN the/DT leading/VBG edge."/NN One/CD of/IN the/DT options/NNS under/IN consideration/NN is/VBZ to/TO offer/VB high-definition/JJ pictures/NNS on/IN the/DT web./NN
+The/DT BBC/NNP has/VBZ already/RB dipped/VBN its/PRP$ toe/NN into/IN this/DT including/VBG some/DT HDTV/NN content/NN in/IN recent/JJ trials/NNS of/IN its/PRP$ interactive/JJ media/NNS player/NN -/: a/DT video/NN player/NN for/IN PCs./NNP
+It/PRP is/VBZ planning/VBG to/TO offer/VB special/JJ releases/NNS of/IN selected/VBN flagship/NN programmes/NNS online/NN in/IN the/DT near/JJ future./NN
+According/VBG to/TO Mr/NNP Quested/NNP this/DT could/MD help/VB put/VB Europe/NNP back/RB into/IN the/DT running/NN in/IN the/DT race/NN to/TO switch/VB to/TO HDTV./NNP
+This/DT is/VBZ backed/VBN by/IN recent/JJ research/NN which/WDT suggests/VBZ that/IN the/DT number/NN of/IN Europeans/NNPS with/IN broadband/NN has/VBZ exploded/VBN over/IN the/DT past/JJ 12/CD months/NNS with/IN the/DT web/NN eating/VBG into/IN TV/NN viewing/VBG habits./NN

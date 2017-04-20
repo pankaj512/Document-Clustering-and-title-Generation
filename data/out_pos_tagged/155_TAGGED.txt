@@ -1,0 +1,18 @@
+Macy's/NNP owner/NN buys/VBZ rival/JJ for/IN $11bn/CD
+
+US/PRP retail/VBD giant/JJ Federated/NNP Department/NNP Stores/NNPS is/VBZ to/TO buy/VB rival/JJ May/NNP Department/NNP Stores/NNPS for/IN $11bn/CD (£5.7bn)./CD
+
+The/DT deal/NN will/MD bring/VB together/RB famous/JJ stores/NNS like/IN Macy's/NNP Bloomingdale's/NNP and/CC Marshall/NNP Field's/NNP creating/VBG the/DT largest/JJS department/NN store/NN chain/NN in/IN the/DT US./NNP
+The/DT combined/VBN firm/NN will/MD operate/VB about/RB 1000/CD stores/NNS across/IN the/DT US/PRP with/IN combined/VBN annual/JJ sales/NNS of/IN $30bn./CD
+The/DT two/CD companies/NNS facing/VBG competition/NN from/IN the/DT likes/NNS of/IN Wal-Mart/NNP tried/VBD to/TO merge/VB two/CD years/NNS ago/RB but/CC talks/NNS failed./NN
+Sources/NNS familiar/JJ with/IN the/DT deal/NN said/VBD that/IN negotiations/NNS between/IN the/DT two/CD companies/NNS sped/VBD up/RP after/IN May's/NNP chairman/NN and/CC chief/JJ executive/NN Gene/NNP Kahn/NNP resigned/VBD in/IN January./NNP
+As/IN part/NN of/IN the/DT deal/NN Federated/NNP -/: owner/NN of/IN Macy's/NNP and/CC Bloomingdale's/NNP -/: will/MD assume/VB $6bn/CD of/IN May's/NNP debt/NN bringing/VBG the/DT deal's/NNS total/NN value/NN to/TO $17bn./CD
+Directors/NNS at/IN both/DT companies/NNS have/VBP approved/VBN the/DT deal/NN and/CC it/PRP is/VBZ expected/VBN to/TO conclude/VB by/IN the/DT third/JJ quarter/NN of/IN this/DT year./NN
+
+May/NNP has/VBZ struggled/VBN to/TO compete/VB against/IN larger/JJR department/NN store/NN groups/NNS such/JJ as/IN Federated/NNP and/CC other/JJ retailers/NNS such/JJ as/IN Wal-Mart./NNP
+Federated/NNP expects/VBZ the/DT merger/NN to/TO boost/VB earnings/NNS from/IN 2007/CD but/CC the/DT deal/NN will/MD cost/VB it/PRP $1bn/CD in/IN one-off/JJ charges./NN
+
+"We/NN have/VBP taken/VBN the/DT first/JJ step/NN toward/IN combining/VBG two/CD of/IN the/DT best/JJS department/NN store/NN companies/NNS in/IN America/NNP creating/VBG a/DT new/JJ retail/JJ company/NN with/IN truly/RB national/JJ scope/NN and/CC presence"/NN said/VBD Terry/NNP Lundgren/NNP Federated's/NNP chairman./NN
+Some/DT analysts/NNS see/VBP the/DT merger/NN as/IN a/DT rescue/NN deal/NN for/IN May./NNP
+"Without/NN this/DT deal/NN May/NNP would/MD have/VB been/VBN to/TO put/VB it/PRP bluntly/RB washed/VBD up"/NN said/VBD Kurt/NNP Barnard/NNP president/NN of/IN Barnard's/NNP Retail/JJ Consulting/NNP Group./NNP
+Federated/NNP has/VBZ annual/JJ sales/NNS of/IN $15.6bn/CD while/IN May's/NNP yearly/JJ sales/NNS are/VBP $14.4bn./CD

@@ -1,0 +1,18 @@
+Telewest/NN to/TO challenge/VB Sky/NNP Plus/NNP
+
+Cable/NNP firm/NN Telewest/NNP is/VBZ to/TO offer/VB a/DT personal/JJ video/NN recorder/NN (PVR)/NN in/IN a/DT set/VBN -top/JJ box/NN to/TO challenge/VB Sky/NNP Plus./NNP
+
+Sky/NNP Plus/NNP is/VBZ the/DT market/NN leader/NN in/IN the/DT field/NN of/IN digital/JJ video/NN recorders/NNS in/IN the/DT UK/NNP with/IN 474000/CD subscribers./NN
+PVRs/NNP record/NN TV/NN programmes/NNS to/TO a/DT hard/JJ drive/NN letting/VBG viewers/NNS pause/NN and/CC rewind/NN live/NN television/NN and/CC effectively/RB "time/NN shift"/NN the/DT viewing/VBG experience./NN
+A/DT number/NN of/IN PVRs/NNP incorporating/VBG Freeview/NNP digital/JJ terrestrial/JJ TV/NN are/VBP also/RB on/IN the/DT market/NN but/CC their/PRP$ success/NN is/VBZ limited./NN
+Telewest's/NNP PVR/NNP will/MD offer/VB a/DT 160GB/CD hard/JJ drive/NN which/WDT has/VBZ storage/NN for/IN up/IN to/TO 80/CD hours/NNS of/IN programmes./NN
+The/DT box/NN has/VBZ three/CD tuners/NNS which/WDT means/VBZ viewers/NNS can/MD record/VB two/CD channels/NNS simultaneously/RB while/IN watching/VBG a/DT third/JJ channel./NN
+
+Sky/NNP Plus/NNP boxes/NNS come/VBP in/IN two/CD versions/NNS -/: a/DT 20GB/CD version/NN for/IN £99/CD and/CC a/DT 160GB/CD version/NN for/IN £399./CD
+Sky/NNP also/RB charges/VBZ a/DT £10/CD subscription/NN fee/NN to/TO the/DT service/NN unless/IN viewers/NNS have/VBP a/DT subscription/NN to/TO one/CD of/IN its/PRP$ premium/NN packages./NN
+Telewest/NNP has/VBZ yet/RB to/TO reveal/VB pricing/NN for/IN the/DT new/JJ box/NN or/CC if/IN it/PRP will/MD be/VB charging/VBG a/DT subscription/NN fee/NN for/IN the/DT service./NN
+
+Eric/NNP Tveter/NNP president/NN and/CC chief/NN operating/NN officer/NN at/IN Telewest/NNP Broadband/NNP said/VBD "We/NN will/MD make/VB our/PRP$ PVR/NNP set-top/JJ box/NN available/JJ later/RB this/DT year/NN putting/VBG a/DT stop/NN to/TO missed/VBN soaps/NNS interrupted/VBD films/NNS and/CC arguments/NNS over/IN which/WDT programmes/NNS to/TO record."/VB PVRs/NNP and/CC recordable/JJ DVD/NNP players/NNS are/VBP set/VBN to/TO replace/VB video/NN recorders/NNS as/IN the/DT standard/JJ method/NN of/IN recording/NN and/CC saving/VBG favourite/NN TV/NN programmes./NN
+Last/JJ year/NN high/JJ street/NN retailer/NN Dixons/NNP said/VBD it/PRP was/VBD going/VBG to/TO stop/VB selling/VBG VHS/NNP machines/NNS in/IN favour/NN of/IN PVRs/NNP and/CC recordable/JJ DVD/NNP machines./NN
+Sky/NNP has/VBZ said/VBN it/PRP aims/VBZ to/TO have/VB 25%/CD of/IN its/PRP$ subscribers/NNS using/VBG Sky/NNP Plus/NNP by/IN 2010/CD -/: it/PRP is/VBZ predicting/VBG 10/CD million/CD total/JJ subscribers/NNS by/IN that/DT date./NN
+It/PRP currently/RB has/VBZ 7.4/CD million/CD subscribers/NNS while/IN Telewest/NNP provides/VBZ digital/JJ cable/NN to/TO 1.7/CD million/CD customers./NN

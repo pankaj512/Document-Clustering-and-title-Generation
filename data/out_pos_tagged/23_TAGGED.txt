@@ -1,0 +1,15 @@
+Mixed/JJ signals/NNS from/IN French/JJ economy/NN
+
+The/DT French/JJ economy/NN picked/VBD up/RP speed/NN at/IN the/DT end/NN of/IN 2004/CD official/JJ figures/NNS show/VBP -/: but/CC still/RB looks/VBZ set/VBN to/TO have/VB fallen/VBN short/JJ of/IN the/DT government's/NNS hopes./NN
+
+According/VBG to/TO state/NN statistics/NNS body/NN INSEE/NNP growth/NN for/IN the/DT three/CD months/NNS to/TO December/NNP was/VBD a/DT seasonally-adjusted/JJ 0.7-0.8%/JJ ahead/RB of/IN the/DT 0.6%/CD forecast./NN
+If/IN confirmed/VBN that/WDT would/MD be/VB the/DT best/JJS quarterly/JJ showing/NN since/IN early/JJ 2002./CD
+It/PRP leaves/VBZ GDP/NNP up/RP 2.3%/CD for/IN the/DT full/JJ year/NN but/CC short/JJ of/IN the/DT 2.5%/CD which/WDT the/DT French/JJ government/NN had/VBD predicted./NN
+
+Despite/IN the/DT apparent/JJ shortfall/NN in/IN annual/JJ economic/JJ growth/NN the/DT good/JJ quarterly/JJ figures/NNS -/: a/DT so-called/JJ "flash/NN estimate"/NN -/: mark/NN a/DT continuing/VBG trend/NN of/IN improving/VBG indicators/NNS for/IN the/DT health/NN of/IN the/DT French/JJ economy./NN
+The/DT government/NN is/VBZ reiterating/VBG a/DT 2.5%/CD target/NN for/IN 2005/CD while/IN the/DT European/NNP Central/NNP Bank/NNP is/VBZ making/VBG positive/JJ noises/NNS for/IN the/DT 12-nation/JJ eurozone/NN as/IN a/DT whole./NN
+Also/RB on/IN Friday/NNP France's/NNP industrial/JJ output/NN for/IN December/NNP was/VBD released/VBN showing/VBG 0.7%/CD growth./NN
+"The/NN numbers/NNS are/VBP good"/NN said/VBD David/NNP Naude/NNP economist/NN at/IN Deutsche/NNP Bank./NNP
+"They/NN send/VB a/DT positive/JJ signal/NN of/IN a/DT rebound/NN in/IN output.../NN
+and/CC open/JJ the/DT way/NN for/IN a/DT continuation/NN in/IN that/DT trend/NN into/IN the/DT New/NNP Year."/NNP Service/NNP sector/NN activity/NN improved/VBN in/IN January/NNP hitting/VBG a/DT seven-month/JJ high./NN
+But/CC unemployment/NN remains/VBZ high/JJ at/IN about/IN 10%./CD

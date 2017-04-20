@@ -1,0 +1,20 @@
+Mrs/NNP Howard/NNP gets/VBZ key/JJ election/NN role/NN
+
+Michael/NNP Howard's/NNP ex-model/NN wife/NN Sandra/NNP is/VBZ to/TO play/VB a/DT leading/VBG role/NN in/IN the/DT Conservative/JJ election/NN campaign./NN
+
+Mrs/NNP Howard/NNP will/MD make/VB solo/NN visits/NNS to/TO target/VB seats/NNS as/RB well/RB as/IN accompanying/VBG her/PRP$ husband/NN on/IN his/PRP$ helicopter/NN campaign/NN trail/NN criss-crossing/JJ the/DT country./NN
+Mr/NNP Howard/NNP will/MD host/VB a/DT news/NN conference/NN at/IN the/DT party's/NNS London/NNP HQ/NNP every/DT morning/NN Tory/NNP co-chairman/NN Liam/NNP Fox/NNP said./NN
+"We/NN want/VBP Michael/NNP to/TO be/VB as/RB accessible/JJ as/IN possible"/NN Mr/NNP Fox/NNP said/VBD adding/VBG that/IN the/DT party/NN was/VBD not/RB afraid/JJ of/IN scrutiny./NN
+
+The/DT Tory/NNP leader/NN wanted/VBD to/TO meet/VB as/IN many/JJ ordinary/JJ members/NNS of/IN the/DT public/JJ Mr/NNP Fox/NNP said./NN
+Tony/NNP Blair/NNP has/VBZ also/RB said/VBN he/PRP is/VBZ intending/VBG to/TO get/VB out/RB and/CC talk/VB to/TO as/IN many/JJ people/NNS as/IN possible/JJ during/IN the/DT election/NN campaign./NN
+But/CC Labour/NNP campaign/NN chiefs/NNS say/VBP there/EX are/VBP no/DT plans/NNS for/IN Mr/NNP Blair/NNP to/TO hold/VB a/DT daily/JJ news/NN conference./NN
+
+Mr/NNP Fox/NNP responded/VBD by/IN accusing/VBG the/DT prime/JJ minister/NN of/IN "hiding/VBG away/RB from/IN the/DT scrutiny/NN of/IN London's/NNP media"./NN
+The/DT Liberal/NNP Democrats/NNPS also/RB say/VBP they/PRP are/VBP planning/VBG to/TO hold/VB daily/JJ news/NN conferences/NNS with/IN Charles/NNP Kennedy./NNP
+On/IN Mrs/NNP Howard's/NNP role/NN Mr/NNP Fox/NNP said/VBD "Sandra/NN has/VBZ already/RB been/VBN campaigning/NN with/IN Michael/NNP on/IN a/DT number/NN of/IN visits/NNS and/CC has/VBZ been/VBN undertaking/VBG short/JJ visits/NNS herself./NN
+"That/NN pattern/NN will/MD continue./VB
+It's/NNP worked/VBD very/RB well/RB up/IN until/IN now."/NN Mrs/NNP Howard/NNP made/VBD her/PRP$ debut/NN speech/NN at/IN the/DT Conservative/JJ Party/NNP Conference/NNP in/IN Bournemouth/NNP last/JJ October./NNP
+She/PRP used/VBD her/PRP$ speech/NN on/IN the/DT fringe/NN to/TO highlight/VB the/DT work/NN of/IN a/DT drugs/NNS charity/NN Addaction/NNP which/WDT she/PRP supports./VBP
+Mrs/NNP Howard/NNP has/VBZ also/RB appeared/VBN along/IN side/NN her/PRP$ husband/NN on/IN TV/NN chat/NN shows./NN
+During/IN an/DT interview/NN on/IN ITV1's/CD This/DT Morning/NN she/PRP said/VBD she/PRP often/RB criticised/VBD her/PRP$ husband/NN for/IN not/RB showing/VBG the/DT side/NN of/IN him/PRP that/IN she/PRP knows./VBP

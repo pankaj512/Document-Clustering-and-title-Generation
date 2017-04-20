@@ -1,0 +1,10 @@
+Burren/NNP awarded/VBD Egyptian/JJ contracts/NNS
+
+British/JJ energy/NN firm/NN Burren/NNP Energy/NNP has/VBZ been/VBN awarded/VBN two/CD potentially/RB lucrative/JJ oil/NN exploration/NN contracts/NNS in/IN Egypt./NNP
+
+The/DT company/NN successfully/RB bid/NN for/IN the/DT two/CD contracts/NNS granted/VBN by/IN government/NN owned/VBD oil/NN firms/NNS covering/VBG onshore/NN and/CC offshore/RB areas/NNS in/IN the/DT Gulf/NNP of/IN Suez./NNP
+Burren/NNP Energy/NNP already/RB has/VBZ a/DT presence/NN in/IN Egypt/NNP having/VBG been/VBN awarded/VBN an/DT exploration/NN contract/NN last/JJ year./NN
+The/DT firm/NN which/WDT floated/VBD in/IN 2003/CD recently/RB announced/VBD a/DT deal/NN to/TO buy/VB 26%/CD of/IN Indian/JJ firm/NN Hindustan/NNP Oil/NNP Exploration./NNP
+The/DT £13.8m/CD deal/NN gives/VBZ Burren/NNP Energy/NNP access/NN to/TO the/DT Indian/JJ oil/NN and/CC gas/NN industry./NN
+This/DT latest/JJS contract/NN expands/VBZ Burren/NNP Energy's/NNP global/JJ exploration/NN and/CC production/NN portfolio/NN -/: it/PRP also/RB holds/VBZ contracts/NNS in/IN Turkmenistan/NNP and/CC the/DT Republic/NNP of/IN Congo./NNP
+"These/NN assets/NNS significantly/RB increase/VBP our/PRP$ exploration/NN portfolio/NN in/IN Egypt/NNP and/CC we/PRP continue/VBP to/TO investigate/VB further/JJ opportunities/NNS in/IN this/DT region"/NN said/VBD chief/JJ executive/NN Finian/NNP O'Sullivan./NNP

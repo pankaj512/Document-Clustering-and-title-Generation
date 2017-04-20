@@ -1,0 +1,23 @@
+EU/NNP China/NNP arms/NNS ban/NN 'to/NN be/VB lifted'/NN
+
+The/DT EU/NNP embargo/NN on/IN arms/NNS exports/NNS to/TO China/NNP is/VBZ likely/JJ to/TO be/VB lifted/VBN in/IN the/DT next/JJ six/CD months/NNS despite/IN US/PRP objections/VBZ UK/NNP Foreign/NNP Secretary/NNP Jack/NNP Straw/NNP has/VBZ said./NN
+
+The/DT 15-year-old/JJ ban/NN was/VBD imposed/VBN in/IN the/DT aftermath/NN of/IN China's/NNP crackdown/NN on/IN protesters/NNS in/IN Tiananmen/NNP Square./NNP
+Mr/NNP Straw/NNP told/VBD a/DT Commons/NNPS select/VBP committee/NN human/JJ rights/NNS concerns/NNS over/IN China/NNP remained./NN
+But/CC he/PRP said/VBD it/PRP was/VBD wrong/JJ to/TO put/VB China/NNP under/IN the/DT same/JJ embargo/NN as/IN countries/NNS such/JJ as/IN Zimbabwe/NNP and/CC Burma./NNP
+
+In/IN December/NNP the/DT EU/NNP pledged/VBD to/TO work/VB towards/IN lifting/VBG the/DT ban/NN but/CC said/VBD it/PRP was/VBD not/RB ready/JJ to/TO do/VB so/RB yet./NN
+The/DT EU's/NNP move/NN was/VBD welcomed/VBN at/IN the/DT time/NN by/IN Beijing/NNP which/WDT described/VBD the/DT embargo/NN as/IN a/DT "product/NN of/IN the/DT Cold/NNP War"./NNP
+German/JJ Chancellor/NNP Gerhard/NNP Schroeder/NNP and/CC French/JJ President/NNP Jacques/NNP Chirac/NNP have/VBP repeatedly/RB called/VBN for/IN the/DT embargo/NN to/TO be/VB lifted./NN
+Britain/NNP has/VBZ been/VBN more/RBR cautious/JJ on/IN the/DT issue/NN but/CC on/IN Wednesday/NNP Mr/NNP Straw/NNP said/VBD he/PRP also/RB wanted/VBD it/PRP to/TO end./VB
+"I/NN have/VBP long/RB understood/VBN China's/NNP argument/NN that/IN to/TO lump/VB them/PRP in/IN with/IN say/VBP Burma/NNP and/CC Zimbabwe/NNP is/VBZ not/RB appropriate/JJ and/CC I/PRP don't/VBP think/VBP it/PRP is"/VBD he/PRP told/VBD the/DT joint/JJ committee/NN on/IN Strategic/NNP Export/NNP Controls./NNP
+He/PRP said/VBD "it/NN is/VBZ more/RBR likely/JJ than/IN not"/NN that/IN the/DT ban/NN would/MD be/VB lifted/VBN before/IN Britain/NNP takes/VBZ over/IN the/DT presidency/NN of/IN the/DT EU/NNP from/IN Luxembourg/NNP in/IN July./NNP
+But/CC he/PRP said/VBD an/DT EU/NNP code/NN of/IN conduct/NN would/MD prevent/VB an/DT increase/NN in/IN the/DT number/NN of/IN arms/NNS being/VBG exported/VBN to/TO the/DT country./NN
+"If/NN it/PRP is/VBZ lifted/VBN we/PRP will/MD end/VB up/RP with/IN as/RB effective/JJ arms/NNS controls/NNS in/IN relation/NN to/TO China/NNP as/IN we/PRP have/VBP now."/NN
+
+Mr/NNP Straw/NNP said/VBD the/DT US/PRP government/VBP was/VBD suspicious/JJ of/IN "the/NN motives/NNS of/IN some/DT other/JJ countries/NNS within/IN the/DT EU"/NNP in/IN wanting/VBG the/DT ban/NN lifted./NN
+But/CC he/PRP said/VBD many/JJ of/IN Washington's/NNP objections/NNS were/VBD based/VBN on/IN a/DT "lack/NN of/IN information/NN and/CC understanding"/NN of/IN how/WRB export/NN control/NN guidelines/NNS worked/VBD in/IN EU/NNP countries./NN
+And/CC "intense/NN discussions"/NN were/VBD taking/VBG place/NN with/IN US/PRP officials/VBZ to/TO convince/VB them/PRP it/PRP was/VBD the/DT right/JJ thing/NN to/TO do./VB
+Washington/NNP is/VBZ thought/VBN to/TO fear/VB it/PRP would/MD lead/VB to/TO a/DT buying/VBG spree/NN for/IN arms/NNS that/WDT could/MD be/VB used/VBN by/IN China/NNP to/TO threaten/VB its/PRP$ diplomatic/JJ rival/JJ Taiwan./NNP
+US/PRP officials/VBZ say/VBP they/PRP are/VBP not/RB satisfied/VBN the/DT mechanisms/NNS in/IN the/DT EU/NNP code/NN of/IN conduct/NN are/VBP robust/JJ enough/RB to/TO prevent/VB abuses./NN
+US/PRP Undersecretary/NNP of/IN State/NNP John/NNP Bolton/NNP is/VBZ meeting/NN British/JJ officials/NNS this/DT week/NN to/TO press/VB the/DT case/NN for/IN keeping/VBG the/DT embargo./NN

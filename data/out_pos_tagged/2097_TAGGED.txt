@@ -1,0 +1,23 @@
+US/PRP state/VBP acts/NNS to/TO stop/VB 'spammers'/NN
+
+US/PRP state/VBP Texas/NNP has/VBZ filed/VBN a/DT lawsuit/NN against/IN two/CD men/NNS believed/VBN to/TO be/VB among/IN the/DT world's/NNS top/JJ five/CD spammers./NN
+
+It/PRP is/VBZ seeking/VBG millions/NNS of/IN dollars/NNS in/IN damages/NNS in/IN a/DT civil/JJ lawsuit/NN filed/VBN earlier/RBR this/DT week./NN
+The/DT Texas/NNP attorney/NN general/NN said/VBD it/PRP started/VBD the/DT legal/JJ action/NN as/IN messages/NNS sent/VBN by/IN the/DT alleged/VBN spammers/NNS broke/VBD three/CD laws/NNS governing/VBG e-mail/JJ marketing./NN
+The/DT company/NN named/VBD in/IN the/DT lawsuit/NN denied/VBD any/DT wrongdoing/NN and/CC said/VBD it/PRP complied/VBD with/IN all/DT relevant/JJ laws./NN
+
+The/DT Texas/NNP lawsuit/NN was/VBD filed/VBN against/IN Ryan/NNP Samuel/NNP Pitylak/NNP a/DT University/NNP ofTexas/NNS student/NN and/CC Mark/NNP Stephen/NNP Trotter/NNP of/IN California./NNP
+Both/DT are/VBP thought/VBN to/TO be/VB the/DT top/JJ executives/NNS in/IN three/CD companies/NNS -/: PayPerAction/NNP LLC./NNP
+Leadplex/NNP LLC./NNP
+and/CC Leadplex/NNP Inc/NNP -/: that/WDT are/VBP suspected/VBN of/IN sending/VBG out/RP many/JJ millions/NNS of/IN unwanted/JJ e-mail/JJ messages./NN
+"Illegal/JJ spam/NN must/MD be/VB stopped"/NN said/VBN Greg/NNP Abbott/NNP Texas/NNP attorney/NN general/NN announcing/NN the/DT legal/JJ action./NN
+"Spam/NN is/VBZ one/CD of/IN the/DT most/JJS aggravating/NN and/CC pervasive/JJ problems/NNS facing/VBG consumers/NNS today."/VBP The/DT attorney/NN general/NN alleges/NNS that/IN messages/NNS sent/VBN by/IN Mr/NNP Pitylak/NNP and/CC Mr/NNP Trotter's/NNP companies/NNS broke/VBD the/DT 2003/CD Controlling/VBG the/DT Assault/NN of/IN Non-Solicited/NNP Pornography/NNP and/CC Marketing/NNP Act/NNP (Can-Spam)/JJ as/RB well/RB as/IN the/DT Texas/NNP Electronic/NNP Mail/NNP and/CC Solicitation/NNP Act/NNP and/CC Texas/NNP Deceptive/JJ Trade/NNP Practices/NNPS Act./NNP
+All/DT three/CD acts/NNS confer/VBP cash/NN penalties/NNS for/IN each/DT violation/NN of/IN their/PRP$ terms./NN
+If/IN the/DT men/NNS are/VBP found/VBN guilty/JJ and/CC all/DT penalties/NNS are/VBP applied/VBN the/DT two/CD men/NNS could/MD face/VB a/DT damages/NNS bill/NN running/VBG into/IN millions./NN
+Mr/NNP Abbott/NNP said/VBD the/DT messages/NNS sent/VBN by/IN the/DT pair/NN broke/VBD laws/NNS by/IN using/VBG misleading/JJ subject/JJ lines/NNS not/RB identifying/VBG themselves/PRP as/IN adverts/NNS and/CC offering/VBG services/NNS for/IN which/WDT they/PRP had/VBD no/DT licence/NN to/TO do/VB so/RB in/IN Texas./NNP
+Lawyers/NNS for/IN the/DT alleged/VBN spammers/NNS said/VBD the/DT lawsuit/NN was/VBD groundless/JJ and/CC the/DT two/CD men/NNS would/MD defend/VB themselves/PRP strongly/RB against/IN the/DT accusations./NN
+"Leadplex/NN and/CC PayPerAction/NNP are/VBP legitimate/JJ internet/JJ marketing/NN companies/NNS that/WDT are/VBP in/IN complete/JJ compliance/NN with/IN the/DT federal/JJ Can-Spam/NNP Act"/NNP said/VBD Lin/NNP Hughes/NNP speaking/VBG on/IN behalf/NN of/IN Mr/NNP Pitylak/NNP and/CC Mr/NNP Trotter./NNP
+In/IN a/DT similar/JJ move/NN the/DT US/PRP Federal/NNP Trade/NNP Commission/NNP (FTC)/NN has/VBZ won/VBN a/DT court/NN order/NN that/WDT stops/VBZ an/DT international/JJ group/NN of/IN spammers/NNS sending/VBG sexually/RB explicit/JJ e-mail./JJ
+The/DT FTC/NNP took/VBD the/DT action/NN because/IN the/DT messages/NNS being/VBG sent/VBD violated/VBN several/JJ parts/NNS of/IN the/DT CAN-Spam/NNP Act./NNP
+In/IN particular/JJ the/DT pornographic/JJ messages/NNS did/VBD not/RB identify/VB themselves/PRP as/IN being/VBG sexually/RB explicit/JJ had/VBD deceptive/JJ subject/JJ headings/NNS did/VBD not/RB have/VB working/VBG opt-out/JJ mechanisms/NNS failed/VBD to/TO mention/VB they/PRP were/VBD adverts/NNS and/CC did/VBD not/RB give/VB the/DT sender's/NNS real/JJ world/NN address./NN
+The/DT court/NN order/NN stops/VBZ the/DT spammers/NNS sending/VBG e-mail/JJ and/CC freezes/VBZ assets/NNS prior/RB to/TO a/DT hearing/NN on/IN a/DT permanent/JJ injunction./NN

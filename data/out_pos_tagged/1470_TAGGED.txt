@@ -1,0 +1,21 @@
+Wenger/NNP dejected/VBD as/IN Arsenal/NN slump/NN
+
+Arsenal/NN manager/NN Arsene/NNP Wenger/NNP claimed/VBD their/PRP$ display/NN in/IN the/DT 3-1/JJ defeat/NN against/IN Bayern/NNP Munich/NNP was/VBD "our/NN worst/JJS peformance/NN in/IN the/DT Champions/NNS League"./NNP
+
+Kolo/NNP Toure's/NNP late/JJ goal/NN gives/VBZ the/DT Gunners/NNS hope/VBP for/IN the/DT second/JJ leg/NN but/CC Wenger/NNP said/VBD "The/NN only/RB positive/JJ is/VBZ that/IN we/PRP are/VBP still/RB in/IN the/DT tie./NN
+"The/NN players/NNS are/VBP really/RB down/RB in/IN the/DT dressing-room./JJ
+I/PRP feel/VBP we/PRP really/RB turned/VBD in/RP a/DT bad/JJ performance./NN
+"At/NN 3-0/JJ we/PRP faced/VBD a/DT real/JJ struggle/NN but/CC 3-1/JJ at/IN least/JJS gives/VBZ us/PRP a/DT chance."/NN
+
+Goalscorer/NNP Toure/NNP was/VBD also/RB at/IN fault/NN for/IN two/CD goals/NNS and/CC Wenger/NNP said/VBD "We/NN need/VBP to/TO help/VB Toure/NNP rebuild/VB his/PRP$ confidence/NN as/IN he/PRP is/VBZ low/JJ at/IN the/DT moment."/NN Wenger/NNP also/RB tried/VBD to/TO stay/VB upbeat/JJ himself/PRP adding/VBG "But/NN there/EX is/VBZ enough/JJ time/NN for/IN crying./NN
+I/PRP could/MD cry/VB -/: maybe/RB it/PRP would/MD be/VB easier/JJR -/: but/CC life/NN goes/VBZ on./NN
+"In/NN this/DT job/NN you/PRP have/VBP good/JJ and/CC bad/JJ nights./NN
+This/DT was/VBD a/DT bad/JJ night/NN -/: but/CC I/PRP still/RB have/VBP confidence/NN in/IN the/DT quality/NN of/IN my/PRP$ players/NNS as/RB well/RB as/IN their/PRP$ spirit/NN and/CC desire."/NN But/CC Wenger's/NNP Bayern/NNP counterpart/NN Felix/NNP Magath/NNP was/VBD in/IN no/DT mood/NN to/TO celebrate/VB either./NN
+He/PRP said/VBD "I/NN am/VBP far/RB from/IN happy/JJ despite/IN the/DT win./NN
+My/PRP$ players/NNS failed/VBD to/TO try/VB and/CC score/VB a/DT fourth/NN to/TO kill/VB the/DT tie/NN and/CC then/RB conceded/VBD the/DT late/JJ goal./NN
+
+"Arsenal/JJ are/VBP fully/RB capable/JJ of/IN scoring/VBG several/JJ goals/NNS against/IN us/PRP on/IN their/PRP$ own/JJ turf."/NN Arsenal/NN keeper/NN Jens/NNP Lehmann/NNP whose/WP$ personal/JJ rivalry/NN with/IN Bayern/NNP goalkeeper/NN Oliver/NNP Kahn/NNP was/VBD not/RB helped/VBN by/IN the/DT result/NN said/VBD "Do/NN I/PRP blame/VBP myself/PRP for/IN the/DT third/JJ goal?/NN As/IN a/DT goalkeeper/NN I/PRP always/RB blame/VBP myself./NN
+"I/NN just/RB know/VB the/DT goals/NNS were/VBD very/RB easy/JJ against/IN us./NN
+In/IN my/PRP$ time/NN here/RB we/PRP have/VBP never/RB conceded/VBN three/CD easy/JJ goals/NNS like/IN that/DT -/: but/CC sometimes/RB it/PRP happens./NN
+"It/NN would/MD have/VB been/VBN impossible/JJ to/TO go/VB through/IN at/IN 3-0/JJ -/: but/CC with/IN the/DT goal/NN we/PRP have/VBP chances./NN
+Everything/NN is/VBZ now/RB possible."/NN

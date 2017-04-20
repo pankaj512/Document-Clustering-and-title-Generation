@@ -1,0 +1,15 @@
+Parties/NNS warned/VBD over/IN 'grey/NN vote'/NN
+
+Political/NN parties/NNS cannot/NN afford/NN to/TO take/VB older/JJR UK/NNP voters/NNS for/IN granted/VBN in/IN the/DT coming/VBG election/NN says/VBZ Age/NNP Concern./NNP
+
+A/DT survey/NN for/IN the/DT charity/NN suggests/VBZ 69%/CD of/IN over-55s/JJ say/VBP they/PRP always/RB vote/VBP in/IN a/DT general/JJ election/NN compared/VBN with/IN just/RB 17%/CD of/IN 18/CD to/TO 24/CD year/NN olds./NN
+Charity/NN boss/NN Gordon/NNP Lishman/NNP said/VBD if/IN a/DT "decisive/JJ blow"/NN was/VBD struck/VBN at/IN the/DT election/NN it/PRP would/MD be/VB by/IN older/JJR voters/NNS who/WP could/MD be/VB relied/VBN on/RP to/TO turn/VB out./NN
+A/DT total/NN of/IN 3028/CD adults/NNS aged/VBN 18/CD or/CC over/IN were/VBD interviewed/VBN for/IN the/DT study./NN
+Mr/NNP Lishman/NNP urged/VBD the/DT next/JJ government/NN to/TO boost/VB state/NN pension./NN
+
+He/PRP also/RB called/VBD for/IN measures/NNS to/TO combat/VB ageism/NN and/CC build/VB effective/JJ public/JJ services/NNS to/TO "support/VB us/PRP all/DT in/IN an/DT ageing/VBG society"./NN
+"Older/NN people/NNS want/VBP to/TO see/VB manifesto/NN commitments/NNS that/WDT will/MD make/VB a/DT difference/NN to/TO their/PRP$ lives"/NN Mr/NNP Lishman/NNP said./NN
+"Political/JJ parties/NNS must/MD wake/VB up/IN to/TO the/DT fact/NN that/IN unless/IN they/PRP address/VBP the/DT demands/NNS and/CC concerns/NNS of/IN older/JJR people/NNS they/PRP will/MD not/RB keep/VB or/CC attract/VB their/PRP$ vote."/NN In/IN the/DT survey/NN carried/VBD out/RP by/IN ICM/NNP Research/NNP 14%/CD of/IN people/NNS aged/VBN between/IN 18/CD and/CC 34/CD said/VBD they/PRP never/RB voted/VBD in/IN general/JJ elections./NN
+Among/IN the/DT over-65s/JJ 70%/CD said/VBD they/PRP would/MD be/VB certain/JJ to/TO vote/VB in/IN an/DT immediate/JJ election/NN compared/VBN with/IN 39%/CD of/IN people/NNS under/IN 55./CD
+Age/NNP Concern/NN says/VBZ the/DT over-55s/JJ are/VBP "united/VBN around"/NN key/JJ areas/NNS of/IN policy/NN they/PRP want/VBP the/DT government/NN to/TO focus/VB on./NN
+For/IN 57%/CD pensions/NNS and/CC the/DT NHS/NNP were/VBD key/JJ issues/NNS while/IN the/DT economy/NN was/VBD important/JJ for/IN a/DT third/JJ and/CC tax/NN was/VBD a/DT crucial/JJ area/NN for/IN 25%./CD

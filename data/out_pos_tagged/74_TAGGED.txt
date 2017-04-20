@@ -1,0 +1,16 @@
+Turkey-Iran/NNP mobile/JJ deal/NN 'at/NN risk'/NN
+
+Turkey's/NNP investment/NN in/IN Iran's/NNP mobile/JJ industry/NN looks/VBZ set/VBN to/TO be/VB scrapped/VBN after/IN its/PRP$ biggest/JJS mobile/JJ firm/NN saw/VBD its/PRP$ investment/NN there/EX slashed/VBN by/IN MPs./NNP
+
+Iran's/NNP parliament/NN voted/VBN by/IN a/DT large/JJ majority/NN to/TO cut/VB Turkcell's/NNP stake/NN in/IN a/DT new/JJ mobile/JJ network/NN from/IN 70%/CD to/TO 49%./CD
+The/DT move/NN which/WDT was/VBD justified/VBN on/IN national/JJ security/NN grounds/NNS follows/VBZ an/DT earlier/JJR vote/NN by/IN MPs/NNP to/TO give/VB themselves/PRP a/DT veto/NN over/IN foreign/JJ investments./NN
+Turkcell/NNP said/VBD the/DT decision/NN "increases/NN the/DT risks"/NN attached/VBN to/TO the/DT project./NN
+Although/IN the/DT company's/NNS statement/NN said/VBD it/PRP would/MD continue/VB to/TO monitor/VB developments/NNS observers/NNS said/VBD they/PRP thought/VBD Turkcell/NNP was/VBD set/VBN to/TO pull/VB out/IN of/IN the/DT $3bn/CD deal./NN
+"The/NN possibility/NN of/IN carrying/VBG out/RP this/DT project/NN is/VBZ next/JJ to/TO zero"/VB said/VBD Atinc/NNP Ozkan/NNP analyst/NN at/IN Finans/NNP Investment/NNP in/IN Istanbul./NNP
+If/IN Turkcell/NNP does/VBZ back/RB out/IN MTN/NNP -/: the/DT South/JJ African/JJ firm/NN which/WDT lost/VBD out/RP in/IN the/DT original/JJ tender/NN -/: may/MD well/RB be/VB back/RB in/IN the/DT running./NN
+The/DT company/NN has/VBZ said/VBN it/PRP is/VBZ prepared/VBN to/TO accept/VB a/DT minority/NN stake/NN if/IN Iran/NNP will/MD award/VB it/PRP the/DT mobile/JJ deal./NN
+
+Turkcell's/NNP mobile/JJ deal/NN is/VBZ the/DT second/JJ Turkish/JJ investment/NN in/IN Iran/NNP to/TO run/VB into/IN trouble./NN
+Turkish-Austrian/NNP consortium/NN TAV/NNP was/VBD chosen/VBN to/TO build/VB and/CC run/VB Tehran's/NNP new/JJ Imam/NNP Khomeini/NNP International/NNP Airport/NNP -/: but/CC the/DT army/NN closed/VBD it/PRP just/RB hours/VBZ after/IN it/PRP opened/VBD in/IN May/NNP 2004./CD
+In/IN both/DT cases/NNS the/DT justification/NN has/VBZ been/VBN national/JJ security/NN amid/IN allegations/NNS that/IN the/DT Turkish/JJ firms/NNS are/VBP too/RB close/RB to/TO Israel./NNP
+The/DT hardline/NN posture/NN taken/VBN by/IN parliament/NN which/WDT is/VBZ dominated/VBN by/IN religious/JJ conservatives/NNS could/MD yet/RB impact/VB other/JJ inward/NN investments./NN

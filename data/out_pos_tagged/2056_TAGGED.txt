@@ -1,0 +1,43 @@
+BBC/NNP web/NN search/NN aids/NNS odd/JJ queries/NNS
+
+The/DT BBC's/NNP online/NN search/NN engine/NN was/VBD used/VBN a/DT record/NN amount/NN in/IN 2004/CD helping/VBG with/IN enquires/NNS both/DT simple/JJ and/CC strange./NN
+
+More/JJR than/IN 277/CD million/CD enquiries/NNS were/VBD made/VBN asking/VBG for/IN informaton/NN of/IN a/DT wide/JJ range/NN of/IN subjects./NN
+The/DT most/RBS requested/VBD search/NN terms/NNS of/IN 2004/CD included/VBD games/NNS EastEnders/NNP CBBC/NNP John/NNP Peel/NNP Harry/NNP Potter/NNP and/CC Olympics./NNP
+But/CC there/EX were/VBD many/JJ strange/JJ enquiries/NNS including/VBG what/WP is/VBZ a/DT dog?/NN how/WRB do/VBP you/PRP say/VB basketball?/NN and/CC what/WP is/VBZ the/DT biggest/JJS collection/NN of/IN naval/JJ fluff?/NN The/DT search/NN engine/NN works/VBZ by/IN matching/VBG key/JJ words/NNS typed/VBN in/RP to/TO different/JJ web/NN pages/NNS but/CC many/JJ people/NNS still/RB type/VBP in/IN natural/JJ language/NN questions./NN
+Here/RB are/VBP some/DT of/IN the/DT strangest/JJ queries/NNS of/IN 2004/CD -/: spelling/VBG and/CC grammar/NN errors/NNS left/VBN untouched/VBN -/: and/CC their/PRP$ possible/JJ solutions/NNS
+
+
+-/: How/WRB to/TO fold/VB a/DT serviette/NN like/IN an/DT elf's/NNS boot?/NN
+
+
+
+-/: How/WRB do/VBP I/PRP structure/VBP a/DT French/JJ letter?/NN
+
+
+
+-/: What/WP is/VBZ better/JJR one/CD long/JJ vacation/NN each/DT year/NN or/CC several/JJ short/JJ vacations/NNS throughout/IN the/DT year?/NN
+
+
+
+-/: What/WP is/VBZ so/RB special/JJ about/IN the/DT Swiss?/NNP
+
+
+
+-/: What/WP are/VBP the/DT contemporary/JJ issue/NN in/IN nurses?/NN
+
+
+
+-/: What/WP is/VBZ the/DT number/NN 4/CD in/IN this/DT number/NN 40052308090?/CD
+
+
+
+-/: What/WP is/VBZ up?/NN
+
+
+
+-/: What/WP is/VBZ the/DT name/NN of/IN James/NNP Martin's/NNP dog?/NN
+
+
+Search/NN engines/NNS are/VBP key/NN to/TO the/DT way/NN people/NNS use/VBP the/DT internet./JJ
+Companies/NNS such/JJ as/IN Google/NNP have/VBP become/VBN of/IN paramount/JJ importance/NN as/IN they/PRP dictate/VBP how/WRB people/NNS travel/VBP through/IN websites/NNS while/IN online./NN

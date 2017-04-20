@@ -1,0 +1,10 @@
+Tory/NNP expert/NN denies/VBZ defeatism/NN
+
+The/DT Conservatives'/NNP campaign/NN director/NN has/VBZ denied/VBN a/DT report/NN claiming/VBG he/PRP warned/VBD Michael/NNP Howard/NNP the/DT party/NN could/MD not/RB win/VB the/DT next/JJ general/JJ election./NN
+
+The/DT Times/NNP on/IN Monday/NNP said/VBD Australian/NNP Lynton/NNP Crosby/NNP told/VBD the/DT party/NN leader/NN to/TO focus/VB on/IN trying/VBG to/TO increase/VB the/DT Tories'/NNP Commons/NNPS presence/NN by/IN 25/CD to/TO 30/CD seats./NN
+But/CC Mr/NNP Crosby/NNP said/VBD in/IN a/DT statement/NN "I/NN have/VBP never/RB had/VBN any/DT such/JJ conversation.../NN
+and/CC I/PRP do/VBP not/RB hold/VB that/DT view."/NN Mr/NNP Howard/NNP later/RB added/VBD there/EX was/VBD not/RB "one/NN iota"/NN of/IN truth/NN in/IN the/DT report./NN
+The/DT strategist/NN helped/VBD Australia's/NNP PM/NNP John/NNP Howard/NNP win/VB four/CD elections./NN
+Mr/NNP Howard/NNP appointed/VBD Mr/NNP Crosby/NNP as/IN his/PRP$ elections/NNS chief/JJ last/JJ October./NNP
+Mr/NNP Crosby's/NNP statement/NN said/VBD "The/NN Conservative/JJ Party/NNP has/VBZ been/VBN making/VBG an/DT impact/NN on/IN the/DT issues/NNS of/IN lower/JJR tax/NN and/CC controlled/VBN immigration/NN over/IN the/DT past/JJ week."/NN It/PRP added/VBD "The/NN Labour/NNP Party/NNP will/MD be/VB wanting/VBG to/TO do/VB all/DT they/PRP can/MD to/TO distract/VB attention/NN away/RB from/IN the/DT issues/NNS that/WDT really/RB matter/NN to/TO people."/VB

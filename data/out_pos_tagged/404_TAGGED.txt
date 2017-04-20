@@ -1,0 +1,15 @@
+Continental/NNP 'may/NN run/NN out/IN of/IN cash'/NN
+
+Shares/NNS in/IN Continental/NNP Airlines/NNPS have/VBP tumbled/VBN after/IN the/DT firm/NN warned/VBD it/PRP could/MD run/VB out/IN of/IN cash./NN
+
+In/IN a/DT filing/NN to/TO US/PRP regulators/VBZ the/DT airline/NN warned/VBD of/IN "inadequate/NN liquidity"/NN if/IN it/PRP fails/VBZ to/TO reduce/VB wage/NN costs/NNS by/IN $500m/CD by/IN the/DT end/NN of/IN February./NNP
+Continental/NNP also/RB said/VBD that/IN if/IN it/PRP did/VBD not/RB make/VB any/DT cuts/NNS it/PRP expects/VBZ to/TO lose/VB "hundreds/NN of/IN millions/NNS of/IN dollars"/NN in/IN 2005/CD in/IN current/JJ market/NN conditions./NN
+Failure/NN to/TO make/VB cutbacks/NNS may/MD also/RB push/VB it/PRP to/TO reduce/VB its/PRP$ fleet/NN the/DT group/NN said./NN
+Shares/NNS in/IN the/DT fifth/JJ biggest/JJS US/PRP carrier/VBP had/VBD fallen/VBN 6.87%/CD on/IN the/DT news/NN to/TO $10.44/CD by/IN 1830/CD GMT./NNP
+"Without/NN the/DT reduction/NN in/IN wage/NN and/CC benefit/NN costs/NNS and/CC a/DT reasonable/JJ prospect/NN of/IN future/JJ profitability/NN we/PRP believe/VBP that/IN our/PRP$ ability/NN to/TO raise/VB additional/JJ money/NN through/IN financings/NNS would/MD be/VB uncertain"/NN Continental/NNP said/VBD in/IN its/PRP$ filing/NN to/TO the/DT US/PRP Securities/NNPS and/CC Exchange/NNP Commission/NNP (SEC)./NN
+
+Airlines/NNS have/VBP faced/VBN tough/JJ conditions/NNS in/IN recent/JJ years/NNS amid/IN terrorism/NN fears/NNS since/IN the/DT 11/CD September/NNP World/NNP Trade/NNP Centre/NNP attack/NN in/IN 2001./CD
+But/CC despite/IN passengers/NNS returning/VBG to/TO the/DT skies/NNS record-high/JJ fuel/NN costs/NNS and/CC fare/NN wars/NNS prompted/VBN by/IN competition/NN from/IN low/JJ cost/NN carriers/NNS have/VBP taken/VBN their/PRP$ toll./NN
+Houston-based/JJ Continental/NNP now/RB has/VBZ debt/NN and/CC pension/NN payments/NNS of/IN nearly/RB $984m/CD which/WDT it/PRP must/MD pay/VB off/RP this/DT year./NN
+The/DT company/NN has/VBZ been/VBN working/VBG to/TO streamline/VB its/PRP$ operations/NNS -/: and/CC has/VBZ managed/VBN to/TO save/VB $1.1bn/CD in/IN costs/NNS without/IN cutting/VBG jobs./NN
+Two/CD weeks'/NN ago/RB the/DT group/NN also/RB announced/VBD it/PRP would/MD be/VB able/JJ to/TO shave/VB a/DT further/JJ $48m/CD a/DT year/NN from/IN its/PRP$ costs/NNS with/IN changes/NNS to/TO wage/NN and/CC benefits/NNS for/IN most/JJS of/IN its/PRP$ US-based/JJ management/NN and/CC clerical/JJ staff./NN

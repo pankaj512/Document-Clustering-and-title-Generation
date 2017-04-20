@@ -1,0 +1,15 @@
+Israel/NNP looks/VBZ to/TO US/PRP for/IN bank/NN chief/NN
+
+Israel/NNP has/VBZ asked/VBN a/DT US/PRP banker/VBP and/CC former/JJ International/NNP Monetary/NNP Fund/NNP director/NN to/TO run/VB its/PRP$ central/JJ bank./NN
+
+Stanley/NNP Fischer/NNP vice/NN chairman/NN of/IN banking/NN giant/NN Citigroup/NNP has/VBZ agreed/VBN to/TO take/VB the/DT Bank/NNP of/IN Israel/NNP job/NN subject/JJ to/TO approval/NN from/IN parliament/NN and/CC cabinet./NN
+His/PRP$ nomination/NN by/IN Prime/NNP Minister/NNP Ariel/NNP Sharon/NNP came/VBD as/IN a/DT surprise/NN and/CC led/VBN to/TO gains/NNS on/IN the/DT Tel/NNP Aviv/NNP stock/NN market./NN
+Mr/NNP Fischer/NNP who/WP speaks/VBZ fluent/JJ Hebrew/NNP will/MD have/VB to/TO become/VBN an/DT Israeli/JJ citizen/NN to/TO take/VB the/DT job./NN
+The/DT US/PRP says/VBZ he/PRP will/MD not/RB have/VB to/TO give/VB up/RP US/PRP citizenship/VBP to/TO do/VB so./NN
+
+Previous/JJ incumbent/JJ David/NNP Klein/NNP who/WP often/RB argued/VBD with/IN the/DT Finance/NNP Ministry/NNP steps/NNS down/RP on/IN 16/CD January./NNP
+Mr/NNP Fischer/NNP will/MD face/VB a/DT delicate/JJ balancing/NN act/NN -/: both/DT in/IN political/JJ and/CC economic/JJ terms/NNS -/: between/IN Mr/NNP Sharon/NNP and/CC finance/NN minister/NN Binyamin/NNP Netanyahu/NNP who/WP also/RB backed/VBD his/PRP$ nomination./NN
+But/CC his/PRP$ appointment/NN has/VBZ also/RB raised/VBN hopes/NNS that/IN it/PRP could/MD bring/VB in/IN fresh/JJ investment/NN -/: and/CC perhaps/RB even/RB an/DT improvement/NN in/IN the/DT country's/NNS credit/NN rating/NN Mr/NNP Fischer/NNP first/RB went/VBD to/TO Israel/NNP for/IN six/CD months/NNS in/IN 1973/CD and/CC almost/RB emigrated/VBD there/RB before/IN deciding/VBG finally/RB to/TO return/VB to/TO the/DT US./NNP
+While/IN teaching/NN at/IN the/DT Massachussetts/NNP Institute/NNP of/IN Technology/NNP he/PRP spent/VBD a/DT month/NN seconded/VBN to/TO the/DT Bank/NNP of/IN Israel/NNP in/IN 1979/CD beginning/VBG a/DT long-time/JJ involvement/NN in/IN studying/VBG Israel's/NNP economy./NN
+In/IN 1983/CD Mr/NNP Fischer/NNP became/VBD adviser/NN on/IN Israel's/NNP economy/NN to/TO then-US/JJ secretary/NN of/IN state/NN George/NNP Shultz./NNP
+At/IN the/DT World/NNP Bank/NNP in/IN 1985/CD he/PRP participated/VBD in/IN drawing/VBG up/RP an/DT economic/JJ stabilisation/NN package/NN for/IN Israel./NNP

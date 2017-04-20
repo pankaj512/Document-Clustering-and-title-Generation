@@ -1,0 +1,14 @@
+Disappointed/VBN Scott/NNP in/IN solid/JJ start/NN
+
+Allan/NNP Scott/NNP is/VBZ confident/JJ of/IN winning/VBG a/DT medal/NN at/IN next/JJ week's/NNS European/JJ Indoor/JJ Championships/NNS after/IN a/DT solid/JJ debut/NN on/IN the/DT international/JJ circuit./NN
+
+The/DT 22-year-old/JJ Scot/NNP finished/VBD fourth/JJ in/IN the/DT 60m/CD hurdles/NNS at/IN the/DT Jose/NNP M/NNP Cagigal/NNP Memorial/NNP meeting/NN in/IN Madrid./NNP
+"It/NN was/VBD definitely/RB a/DT learning/VBG curve/NN and/CC I/PRP certainly/RB haven't/VBP ruled/VBD out/RP challenging/VBG for/IN a/DT medal/NN next/JJ week"/NN said/VBD the/DT East/NNP Kilbride/NNP athlete./NN
+The/DT race/NN was/VBD won/VBN by/IN Felipe/NNP Vivancos/NNP who/WP equalled/VBD the/DT Spanish/JJ record./NN
+
+Sweden's/NNP Robert/NNP Kronberg/NNP was/VBD second/JJ with/IN Haiti's/NNP Dudley/NNP Dorival/NNP in/IN third./NN
+Scott/NNP was/VBD slightly/RB disappointed/VBN with/IN his/PRP$ run/NN in/IN the/DT final./NN
+He/PRP won/VBD his/PRP$ heat/NN in/IN 7.64secs/CD but/CC ran/VBD 0.04secs/CD slower/JJR in/IN his/PRP$ first/JJ IAAF/NNP Indoor/JJ Grand/NNP Prix/NNP circuit/NN final./NN
+"I/NN should/MD have/VB done/VBN better/JJR than/IN that"/NN he/PRP said./VB
+"I/NN felt/VBD I/PRP could/MD have/VB won/VBN it./NN
+I/PRP got/VBD a/DT poor/JJ start/NN -/: but/CC I/PRP still/RB felt/VBD I/PRP should/MD have/VB ran/VBN faster."/NN Vivancos/NNP slashed/VBD his/PRP$ personal/JJ best/JJS to/TO equal/VB the/DT Spanish/JJ record/NN with/IN a/DT time/NN of/IN 7.60secs/CD while/IN Kronberg/NNP and/CC Dorival/NNP clocked/VBD 7.62secs/CD and/CC 7.63secs/CD respectively./NN

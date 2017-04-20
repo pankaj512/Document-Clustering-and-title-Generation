@@ -1,0 +1,27 @@
+Cabs/NNS collect/VBP mountain/NN of/IN mobiles/NNS
+
+Gadgets/NNS are/VBP cheaper/JJR smaller/JJR and/CC more/RBR common/JJ than/IN ever./NN
+But/CC that/WDT just/RB means/VBZ we/PRP are/VBP more/RBR likely/JJ to/TO lose/VB them./NN
+
+In/IN London/NNP alone/RB over/IN the/DT past/JJ six/CD months/NNS more/JJR than/IN 63000/CD mobile/JJ phones/NNS have/VBP been/VBN left/VBN in/IN the/DT back/NN of/IN black/JJ cabs/NNS according/VBG to/TO a/DT survey./NN
+That/DT works/VBZ out/RP at/IN about/IN three/CD phones/NNS per/IN cab./NN
+Over/IN the/DT same/JJ period/NN almost/RB 5000/CD laptops/NNS and/CC 5800/CD PDAs/NNP such/JJ as/IN Palms/NNPS and/CC Pocket/NN PCs/NNS were/VBD left/VBN in/IN licensed/VBD cabs./NN
+Even/RB the/DT great/JJ and/CC good/JJ are/VBP not/RB immune/JJ to/TO losing/VBG their/PRP$ beloved/JJ gadgets./NN
+Jemima/NNP Khan/NNP reportedly/RB left/VBD her/PRP$ iPod/NN phone/NN and/CC purse/NN in/IN a/DT cab/NN and/CC asked/VBD for/IN them/PRP to/TO be/VB returned/VBN to/TO her/PRP$ friend/NN who/WP turned/VBD out/RP to/TO be/VB Hugh/NNP Grant./NNP
+As/IN the/DT popularity/NN of/IN portable/JJ gadgets/NNS has/VBZ grown/VBN and/CC we/PRP trust/VBP more/JJR of/IN our/PRP$ lives/NNS to/TO them/PRP we/PRP seem/VBP to/TO be/VB forgetting/VBG them/PRP in/IN ever/RB larger/JJR numbers./NN
+The/DT numbers/NNS of/IN lost/JJ laptops/NNS has/VBZ leapt/VBN by/IN 71%/CD in/IN the/DT last/JJ three/CD years./NN
+
+This/DT has/VBZ left/VBN Londoners/NNP or/CC those/DT travelling/VBG by/IN cab/NN in/IN the/DT capital/NN as/IN the/DT world's/NNS best/JJS at/IN losing/VBG laptops/NNS according/VBG to/TO the/DT research/NN by/IN the/DT Licensed/VBN Taxi/NN Drivers/NNS Association/NNP and/CC Pointsec/NNP a/DT mobile-data/JJ backup/JJ firm./NN
+More/JJR than/IN twice/RB as/IN many/JJ laptops/NNS were/VBD left/VBN in/IN the/DT back/NN of/IN black/JJ cabs/NNS in/IN London/NNP as/IN in/IN any/DT of/IN the/DT nine/CD other/JJ cities/NNS (Helsinki/NN Oslo/NNP Munich/NNP Paris/NNP Stockholm/NNP Copenhagen/NNP Chicago/NNP and/CC Sydney)/NNP where/WRB the/DT research/NN into/IN lost/VBD and/CC found/VBD gadgets/NNS was/VBD carried/VBN out./NN
+By/IN contrast/NN Danes/NNP were/VBD most/RBS adept/JJ at/IN losing/VBG mobile/JJ phones/NNS being/VBG seven/CD times/NNS more/RBR likely/JJ to/TO leave/VB it/PRP behind/RB in/IN a/DT cab/NN than/IN travellers/NNS in/IN Germans/NNPS Norwegians/NNPS and/CC Swedes./NNP
+Top/JJ of/IN the/DT range/NN phones/NNS can/MD carry/VB enormous/JJ amounts/NNS of/IN data/NNS -/: enough/RB to/TO hold/VB hundreds/NNS of/IN pictures/NNS or/CC thousands/NNS of/IN contact/NN details./NN
+Given/VBN that/IN few/JJ people/NNS back/RB up/IN the/DT data/NNS on/IN their/PRP$ PC/NN it/PRP is/VBZ a/DT fair/JJ bet/NN that/IN even/RB fewer/JJR do/VBP so/RB with/IN the/DT phone/NN they/PRP carry/VBP around./NN
+You/PRP could/MD be/VB losing/VBG a/DT fair/JJ chunk/NN of/IN your/PRP$ life/NN in/IN the/DT back/NN of/IN that/DT cab/NN not/RB least/JJS because/IN many/JJ people/NNS collect/VBP numbers/NNS on/IN their/PRP$ phone/NN that/IN they/PRP do/VBP not/RB have/VB anywhere/RB else./NN
+
+Equally/RB phones/NNS let/VBP you/PRP navigate/VB through/IN contacts/NNS by/IN name/NN so/RB many/JJ people/NNS have/VBP completely/RB forgotten/VBN their/PRP$ friends'/NN numbers/NNS and/CC could/MD not/RB reconstruct/VB them/PRP if/IN they/PRP had/VBD to./NN
+This/DT growing/VBG habit/NN of/IN losing/VBG gadgets/NNS explains/VBZ the/DT rise/NN of/IN firms/NNS such/JJ as/IN Retrofone/NNP which/WDT lets/VBZ people/NNS buy/VBP a/DT cheap/JJ old-fashioned/JJ phone/NN to/TO replace/VB the/DT tiny/JJ shiny/JJ expensive/JJ one/CD they/PRP have/VBP just/RB lost./NN
+Briton's/NNP growing/VBG love/NN of/IN phones/NNS has/VBZ also/RB led/VBN to/TO the/DT creation/NN of/IN the/DT Mobile/NNP Equipment/NNP National/NNP Database/NN that/WDT lets/VBZ you/PRP register/VBP the/DT unique/JJ ID/NNP number/NN of/IN your/PRP$ phone/NN so/IN it/PRP can/MD be/VB returned/VBN to/TO you/PRP in/IN the/DT event/NN of/IN it/PRP being/VBG lost/VBD or/CC stolen./NN
+According/VBG to/TO statistics/NNS 50%/CD of/IN all/DT muggings/NNS and/CC snatch/VB theft/NN offences/NNS involve/VBP mobiles./NN
+Millions/NNS of/IN gadgets/NNS are/VBP now/RB logged/VBN in/IN the/DT database/NN and/CC organisations/NNS such/JJ as/IN Transport/NNP For/IN London/NNP regularly/RB consult/VBP it/PRP when/WRB trying/VBG to/TO re-unite/JJ folk/NN with/IN their/PRP$ phones/NNS and/CC other/JJ gadgets./NN
+For/IN the/DT drivers/NNS finding/VBG a/DT mobile/NN in/IN the/DT back/NN of/IN their/PRP$ cab/NN is/VBZ one/CD of/IN the/DT more/RBR pleasant/JJ things/NNS many/JJ have/VBP found./NN
+The/DT survey/NN of/IN what/WP else/RB has/VBZ been/VBN left/VBN behind/IN included/VBD a/DT harp/NN a/DT dog/NN a/DT hamster/NN and/CC a/DT baby./NN

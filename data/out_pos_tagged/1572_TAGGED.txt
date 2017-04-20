@@ -1,0 +1,13 @@
+Benitez/NN deflects/NNS blame/VBP from/IN Dudek/NNP
+
+Liverpool/NNP manager/NN Rafael/NNP Benitez/NNP has/VBZ refused/VBN to/TO point/VB the/DT finger/NN of/IN blame/NN at/IN goalkeeper/NN Jerzy/NNP Dudek/NNP after/IN Portsmouth/NNP claimed/VBD a/DT draw/NN at/IN Anfield./NNP
+
+Dudek/NNP fumbled/VBD a/DT cross/NN before/IN Lomana/NNP LuaLua/NNP headed/VBD home/NN an/DT injury-time/JJ equaliser/NN levelling/VBG after/IN Steven/NNP Gerrard/NNP put/VBD Liverpool/NNP ahead./NN
+Benitez/NNP said/VBD "It/NN was/VBD difficult/JJ for/IN Jerzy./NNP
+It/PRP was/VBD an/DT unlucky/JJ moment./NN
+"He/NN was/VBD expecting/VBG a/DT cross/NN from/IN Matthew/NNP Taylor/NNP and/CC it/PRP ended/VBD up/RP like/IN a/DT shot/NN so/IN I/PRP don't/VBP blame/VBD him/PRP for/IN what/WP happened."/NN Benitez/NNP admitted/VBD it/PRP was/VBD a/DT costly/JJ loss/NN of/IN two/CD points/NNS by/IN Liverpool/NNP who/WP followed/VBD up/RP their/PRP$ derby/NN defeat/NN against/IN Everton/NNP with/IN a/DT disappointing/JJ draw./NN
+He/PRP said/VBD "We/NN had/VBD many/JJ opportunities/NNS but/CC didn't/NN score/NN and/CC in/IN the/DT end/NN a/DT 1-0/JJ lead/NN was/VBD not/RB enough./NN
+"If/NN you/PRP don't/VBP have/VBP any/DT chances/NNS you/PRP have/VBP to/TO think/VB of/IN other/JJ things/NNS but/CC when/WRB you/PRP are/VBP creating/VBG so/RB many/JJ chances/NNS as/IN we/PRP are/VBP there/EX is/VBZ nothing/NN you/PRP can/MD say/VB to/TO the/DT players./NN
+It/PRP was/VBD a/DT pity./NN
+"We/NN lost/VBD two/CD points/NNS but/CC we/PRP have/VBP one/CD more/JJR point/NN in/IN the/DT table./NN
+Now/RB we/PRP have/VBP another/DT difficult/JJ game/NN against/IN Newcastle/NNP and/CC we/PRP have/VBP to/TO recover/VB quickly/RB from/IN that."/NN

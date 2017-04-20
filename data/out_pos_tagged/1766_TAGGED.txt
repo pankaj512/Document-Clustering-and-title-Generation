@@ -1,0 +1,10 @@
+Johansson/NNP takes/VBZ Adelaide/NNP victory/NN
+
+Second/JJ seed/NN Joachim/NNP Johansson/NNP won/VBD his/PRP$ second/JJ career/NN title/NN with/IN a/DT 7-5/JJ 6-3/JJ win/NN over/IN Taylor/NNP Dent/NN at/IN the/DT Australian/JJ hardcourt/NN championships/NNS in/IN Adelaide./NNP
+
+The/DT Swede/NN was/VBD made/VBN to/TO graft/VB American/JJ Dent/NN surviving/VBG three/CD break/NN points/NNS in/IN the/DT fifth/JJ game/NN of/IN the/DT match./NN
+But/CC Johansson/NNP got/VBD the/DT breakthrough/NN with/IN a/DT sublime/JJ backhand/NN return/NN winner/NN and/CC won/VBD the/DT second/JJ set/VBN with/IN more/JJR ease./NN
+His/PRP$ first/JJ tournament/NN win/NN was/VBD at/IN Memphis/NNP in/IN 2004/CD helping/VBG him/PRP leap/NN from/IN 113th/JJ in/IN the/DT world/NN rankings/NNS to/TO number/VB 11./CD
+Afterwards/RB Dent/NN said/VBD he/PRP rated/VBD US/PRP Open/NNP semi-finalist/JJ Johansson/NNP as/IN a/DT top/JJ contender/NN at/IN the/DT Australian/JJ Open/NNP which/WDT starts/VBZ on/IN 17/CD January./NNP
+"I/NN believe/VBP men's/NNS tennis/NN is/VBZ all/DT about/IN holding/VBG serve/NN and/CC if/IN he's/NNS playing/NN like/IN that/DT on/IN his/PRP$ own/JJ serve/NN I/PRP don't/VBP see/NN how/WRB guys/NNS are/VBP going/VBG to/TO break/VB him"/NN said/VBD Dent./NNP
+Johansson/NNP was/VBD more/RBR restrained/JJ in/IN his/PRP$ assessment/NN "I/NN have/VBP to/TO improve/VB my/PRP$ serve/NN if/IN I'm/NNP going/NN to/TO go/VB all/PDT the/DT way/NN in/IN Melbourne."/NNP

@@ -1,0 +1,25 @@
+Bristol/NNP City/NNP 2-1/JJ Milton/NNP Keynes/NNP
+
+Leroy/NNP Lita/NNP took/VBD his/PRP$ goal/NN tally/NN to/TO 13/CD for/IN the/DT season/NN as/IN his/PRP$ double/NN earned/VBD City/NNP an/DT LDV/NNP Vans/NNS Trophy/NN win./NN
+
+The/DT striker/NN finished/VBD off/RP Scott/NNP Murray/NNP cross/VB from/IN close/NN range/NN just/RB seconds/VBZ before/IN half-time./JJ
+Lita/NNP then/RB made/VBD it/PRP 2-0/JJ on/IN 52/CD minutes/NNS but/CC Dons'/NNP substitute/NN Serge/NNP Makofo/NNP then/RB netted/VBD a/DT great/JJ volley/NN to/TO make/VB it/PRP 2-1./JJ
+The/DT visitors/NNS almost/RB took/VBD the/DT tie/NN to/TO extra/JJ time/NN with/IN a/DT late/JJ 30-yard/JJ bullet/NN from/IN Richard/NNP Johnson/NNP which/WDT was/VBD well/RB held/VBN by/IN Steve/NNP Phillips./NNP
+
+Phillips/NNP Amankwaah/NNP Coles/NNP Hill/NNP Fortune/NNP Murray/NNP (Anyinsah/NN 59)/CD Doherty/NNP (Harley/NN 45)/CD Dinning/NNP Bell/NNP Lita/NNP (Cotterill/NN 72)/CD Gillespie./NNP
+Subs/NNP Not/RB Used/VBD Orr/NNP Brown./NNP
+
+Hill./NNP
+
+Lita/NNP 45/CD 52./CD
+
+Bevan/NNP Oyedele/NNP Ntimban-Zeh/NNP Crooks/NNS Puncheon/NNP Kamara/NNP (Makofo/NN 64)/CD Chorley/NNP Herve/NNP (McKoy/NN 45)/CD Tapp/NNP (Johnson/NN 45)/CD Mackie/NNP Pacquette./NNP
+Subs/NNP Not/RB Used/VBD Martin/NNP Palmer./NNP
+
+Pacquette/NNP Chorley/NNP Johnson/NNP McKoy./NNP
+
+Makofo/NNP 66./CD
+
+3367/CD
+
+J/NNP Ross/NNP (Essex)./NN

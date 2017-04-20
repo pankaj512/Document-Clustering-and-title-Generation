@@ -1,0 +1,29 @@
+US/PRP to/TO probe/VB airline/NN travel/NN chaos/NN
+
+The/DT US/PRP government/VBP is/VBZ to/TO investigate/VB two/CD airlines-/JJ US/PRP Airways/NNPS and/CC Delta/NNP Air/NNP Lines'/NNP Comair/NNP subsidiary/NN -/: after/IN travel/NN chaos/NN over/IN the/DT Christmas/NNP weekend./NN
+
+Staff/NNP calling/VBG in/IN sick/JJ at/IN US/PRP Airways/NNPS and/CC computer/NN failures/NNS at/IN Comair/NNP left/VBD 30000/CD passengers/NNS stranded/VBN and/CC 10000/CD pieces/NNS of/IN baggage/NN undelivered./NN
+US/PRP Airways/NNPS is/VBZ in/IN Chapter/NN 11/CD bankruptcy/NN protection/NN for/IN the/DT second/JJ time/NN in/IN two/CD years/NNS and/CC battling/VBG to/TO cut/VB costs./NN
+It/PRP is/VBZ currently/RB trying/VBG to/TO negotiate/VB pay/VB cuts/NNS with/IN flight/NN and/CC baggage/NN staff./NN
+
+Transportation/NNP Secretary/NNP Norman/NNP Mineta/NNP said/VBD he/PRP was/VBD "deeply/RB concerned"/NN at/IN the/DT disruption/NN to/TO passengers/NNS and/CC ordered/VBD a/DT thorough/JJ investigation./NN
+Comair's/NNP computer/NN breakdown/NN plunged/VBD its/PRP$ flight-crew/JJ scheduling/NN system/NN into/IN disarray./JJ
+Altogether/RB some/DT 1100/CD flights/NNS were/VBD cancelled/VBN over/IN the/DT holiday/NN long/RB weekend./NN
+Mr/NNP Mineta/NNP said/VBD it/PRP was/VBD important/JJ to/TO understand/VB "what/NN happened/VBD why/WRB it/PRP happened/VBD and/CC whether/IN the/DT carriers/NNS properly/RB planned/VBN for/IN the/DT holiday/NN travel/NN period/NN and/CC responded/VBD appropriately/RB to/TO consumer/VB needs/VBZ in/IN the/DT aftermath"./NN
+
+Adding/VBG to/TO the/DT atmosphere/NN of/IN chaos/NN were/VBD mountains/NNS of/IN luggage/NN left/VBN to/TO pile/VB up/RP when/WRB a/DT third/NN of/IN US/PRP Airways'/NNP baggage/NN handling/VBG staff/NN called/VBN in/RP sick./NN
+There/EX was/VBD also/RB a/DT shortage/NN of/IN US/PRP Airways/NNPS flight/NN attendants/NNS with/IN nearly/RB a/DT fifth/JJ saying/NN they/PRP were/VBD too/RB sick/JJ to/TO work/VB leading/VBG to/TO many/JJ flight/NN cancellations./NN
+However/RB union/NN officials/NNS denied/VBD there/EX had/VBD been/VBN a/DT deliberate/NN "sickout"./NN
+They/PRP said/VBD that/IN many/JJ people/NNS have/VBP flu/NN at/IN this/DT time/NN of/IN year/NN and/CC that/IN the/DT airline/NN is/VBZ chronically/RB understaffed./NN
+
+US/PRP Airways/NNPS ended/VBD up/RP cancelling/VBG over/IN 100/CD flights/NNS on/IN Christmas/NNP Day/NNP stranding/VBG passengers/NNS in/IN as/RB many/JJ as/IN 119/CD airports./NN
+Ground/NN crews/NNS at/IN US/PRP Airways/NNPS the/DT seventh-largest/JJ US/PRP airline/VBP which/WDT is/VBZ now/RB in/IN Chapter/NN 11/CD bankruptcy/NN protection/NN face/NN a/DT court-imposed/JJ pay/NN cut/NN next/JJ month./NN
+The/DT airline/NN needs/VBZ to/TO negotiate/VB other/JJ paycuts/NNS if/IN it/PRP is/VBZ to/TO find/VB a/DT route/NN out/IN of/IN bankruptcy./NN
+It/PRP is/VBZ looking/VBG for/IN paycuts/NNS totalling/VBG $800m./CD
+
+"US/NNP Airways/NNPS has/VBZ a/DT full-scale/JJ employee/NN mutiny/NN on/IN its/PRP$ hands"/NN commented/VBD Michael/NNP Boyd/NNP an/DT industry/NN consultant./NN
+Disruptions/NNS to/TO flight/VB schedules/NNS could/MD discourage/VB customers/NNS from/IN flying/VBG with/IN US/PRP Airways/NNPS reducing/VBG revenues./NN
+US/PRP Airways/NNPS had/VBD to/TO cancel/VB approximately/RB 65/CD flights/NNS on/IN Thursday/NNP 180/CD on/IN Friday/NNP 140/CD on/IN Saturday/NNP 43/CD on/IN Sunday/NNP and/CC 15/CD on/IN Monday/NNP said/VBD industry/NN officials./NN
+The/DT airline/NN said/VBD it/PRP was/VBD "embarrassed/VBN by/IN the/DT situation"/NN and/CC "deeply/RB regrets/VBZ any/DT inconvenience/NN caused/VBN to/TO customers"/VB The/DT probe/NN will/MD focus/VB on/IN the/DT industry's/NNS compliance/NN with/IN a/DT 1999/CD agreement/NN aimed/VBN at/IN improving/VBG the/DT quality/NN of/IN passenger/NN service/NN that/WDT has/VBZ so/RB far/RB allowed/VBN airlines/NNS to/TO avoid/VB congressionally-mandated/JJ standards./NN
+Analysts/NNS said/VBD the/DT Christmas/NNP chaos/NN cast/NN doubt/NN on/IN US/PRP Airway's/NNP ability/NN to/TO emerge/VB from/IN bankruptcy/NN -/: and/CC was/VBD likely/JJ to/TO worsen/VB the/DT finances/NNS of/IN troubled/JJ Delta/NNP parent/NN of/IN Comair./NNP
+Comair/NNP "deeply/RB regrets/VBZ the/DT inconvenience/NN to/TO all/DT of/IN our/PRP$ customers/NNS caused/VBN by/IN the/DT severe/JJ winter/NN storm/NN in/IN the/DT Ohio/NNP River/NNP Valley/NNP during/IN the/DT busy/JJ holiday/NN season/NN exacerbated/VBN by/IN problems/NNS with/IN the/DT airline's/NNS crew/NN scheduling/NN system/NN causing/VBG additional/JJ flight/NN delays/NNS and/CC cancellations"/VB the/DT Delta/NNP subsidiary/NN said/VBD in/IN a/DT statement./NN

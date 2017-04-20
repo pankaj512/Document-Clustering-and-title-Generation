@@ -1,0 +1,22 @@
+Blog/NNP reading/NN explodes/NNS in/IN America/NNP
+
+Americans/NNPS are/VBP becoming/VBG avid/JJ blog/NN readers/NNS with/IN 32/CD million/CD getting/VBG hooked/JJ in/IN 2004/CD according/VBG to/TO new/JJ research./NN
+
+The/DT survey/NN conducted/VBN by/IN the/DT Pew/NNP Internet/NNP and/CC American/NNP Life/NNP Project/NNP showed/VBD that/DT blog/NN readership/NN has/VBZ shot/NN up/RP by/IN 58%/CD in/IN the/DT last/JJ year./NN
+Some/DT of/IN this/DT growth/NN is/VBZ attributable/JJ to/TO political/JJ blogs/NNS written/VBN and/CC read/VB during/IN the/DT US/PRP presidential/JJ campaign./NN
+Despite/IN the/DT explosive/JJ growth/NN more/JJR than/IN 60%/CD of/IN online/NNP Americans/NNPS have/VBP still/RB never/RB heard/VBN of/IN blogs/NNS the/DT survey/NN found./NN
+Blogs/NNP or/CC web/NN logs/NNS are/VBP online/NN spaces/NNS in/IN which/WDT people/NNS can/MD publish/VB their/PRP$ thoughts/NNS opinions/NNS or/CC spread/NN news/NN events/NNS in/IN their/PRP$ own/JJ words./NN
+Companies/NNS such/JJ as/IN Google/NNP and/CC Microsoft/NNP provide/VBP users/NNS with/IN the/DT tools/NNS to/TO publish/VB their/PRP$ own/JJ blogs./NN
+
+The/DT rise/NN of/IN blogs/NNS has/VBZ spawned/VBN a/DT new/JJ desire/NN for/IN immediate/JJ news/NN and/CC information/NN with/IN six/CD million/CD Americans/NNPS now/RB using/VBG RSS/NNP aggregators./NN
+RSS/NN aggregators/NNS are/VBP downloaded/VBN to/TO PCs/NNS and/CC are/VBP programmed/VBN to/TO subscribe/VB to/TO feeds/VBZ from/IN blogs/NNS news/NN sites/NNS and/CC other/JJ websites./NN
+The/DT aggregators/NNS automatically/RB compile/VBP the/DT latest/JJS information/NN published/VBD online/NN from/IN the/DT blogs/NNS or/CC news/NN sites./NN
+Reading/VBG blogs/NNS remains/VBZ far/RB more/RBR popular/JJ than/IN writing/VBG them/PRP the/DT survey/NN found./NN
+Only/RB 7%/CD of/IN the/DT 120/CD million/CD US/PRP adults/VBZ who/WP use/VBP the/DT internet/NN had/VBD created/VBN a/DT blog/NN or/CC web-based/JJ diary./NN
+Getting/VBG involved/VBN is/VBZ becoming/VBG more/RBR popular/JJ though/IN with/IN 12%/CD saying/VBG they/PRP had/VBD posted/VBN material/NN or/CC comments/NNS on/IN other/JJ people's/NNS blogs./NN
+
+Just/RB under/IN one/CD in/IN 10/CD of/IN the/DT US's/NNP internet/JJ users/NNS read/VBP political/JJ blogs/NNS such/JJ as/IN the/DT Daily/NNP Kos/NNP or/CC Instapundit/NNP during/IN the/DT US/PRP presidential/JJ campaign./NN
+Kerry/NN voters/NNS were/VBD slightly/RB more/RBR likely/JJ to/TO read/VB them/PRP than/IN Bush/NNP voters./NN
+Blog/NN creators/NNS were/VBD likely/JJ to/TO be/VB young/JJ well-educated/JJ net-savvy/JJ males/NNS with/IN good/JJ incomes/NNS and/CC college/NN educations/NNS the/DT survey/NN found./NN
+This/DT was/VBD also/RB true/JJ of/IN the/DT average/JJ blog/NN reader/NN although/IN the/DT survey/NN found/VBD there/EX was/VBD a/DT greater/JJR than/IN average/JJ growth/NN in/IN blog/NN readership/NN among/IN women/NNS and/CC those/DT in/IN minorities./NN
+The/DT survey/NN was/VBD conducted/VBN during/IN November/NNP and/CC involved/VBN telephone/NN surveys/NNS of/IN 1324/CD internet/JJ users./NN

@@ -1,0 +1,15 @@
+US/PRP 'to/VBP raise/NN TV/NN indecency/NN fines'/NN
+
+US/PRP politicians/VBZ are/VBP proposing/VBG a/DT tough/JJ new/JJ law/NN aimed/VBN at/IN cracking/VBG down/RP on/IN indecency/NN and/CC bad/JJ language/NN on/IN US/PRP TV./NNP
+
+Fines/NNS of/IN up/IN to/TO $500000/CD (£266582)/CD could/MD be/VB imposed/VBN each/DT time/NN broadcasters/NNS transmit/VBP nudity/NN or/CC profanities./NN
+The/DT proposal/NN unveiled/VBD in/IN the/DT House/NNP of/IN Representatives/NNPS also/RB seeks/VBZ to/TO revoke/VB a/DT broadcaster's/NNS licence/NN after/IN three/CD violations/NNS have/VBP been/VBN committed./VBG
+The/DT exposure/NN of/IN Janet/NNP Jackson's/NNP breast/NN at/IN last/JJ year's/NNS Superbowl/NNP landed/VBD CBS/NNP with/IN a/DT $550000/CD (£293264)/CD fine./NN
+Entertainers/NNS could/MD also/RB be/VB liable/JJ for/IN fines/NNS under/IN the/DT proposed/VBN legisation/NN from/IN both/DT US/PRP politcians/VBZ and/CC officials/NNS from/IN the/DT Federal/NNP Communications/NNPS Commission/NNP (FCC)./NN
+A/DT Republican/JJ senator/NN from/IN Kansas/NNP Sam/NNP Brownbeck/NNP is/VBZ set/VBN to/TO call/VB for/IN a/DT maximum/NN $3/CD million/CD (£1.6/CD million)/NN fine/NN for/IN repeated/VBN violations./NN
+
+The/DT current/JJ maximum/NN fine/NN stands/VBZ at/IN $32500/CD (£17320)/CD -/: 20/CD of/IN the/DT stations/NNS in/IN the/DT CBS/NNP network/NN were/VBD each/DT penalised/VBD these/DT lesser/JJR amounts/NNS for/IN the/DT Jackson/NNP incident./NN
+Republican/JJ politician/NN Fred/NNP Upton/NNP who/WP chairs/VBZ the/DT committee/NN responsible/JJ for/IN broadcasting/NN said/VBD current/JJ fines/NNS are/VBP "more/NN of/IN a/DT cost/NN of/IN doing/VBG business/NN rather/RB than/IN a/DT deterrent"./NN
+Last/JJ year's/NNS Janet/NNP Jackson/NNP 'wardrobe/NN malfunction'/NN encouraged/VBD the/DT FCC/NNP to/TO impose/VB tougher/JJR rules/NNS but/CC the/DT US/PRP Congress/NNP adjourned/VBD last/JJ year/NN without/IN agreeing/VBG on/IN a/DT new/JJ level/NN of/IN fines./NN
+New/JJ figures/NNS have/VBP to/TO be/VB decided/VBN before/IN new/JJ legislation/NN can/MD be/VB put/VBN before/IN President/NNP Bush./NNP
+Certain/JJ broadcasters/NNS like/IN Fox/NNP claim/NN the/DT material/NN they/PRP carry/VBP does/VBZ not/RB violate/VB indecency/NN laws/NNS and/CC is/VBZ protected/VBN under/IN the/DT right/NN to/TO free/JJ speech./NN

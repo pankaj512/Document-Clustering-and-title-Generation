@@ -1,0 +1,22 @@
+Little/NNP Britain/NNP vies/NNS for/IN TV/NN trophy/NN
+
+BBC/NNP hits/NNS Little/NNP Britain/NNP and/CC Strictly/RB Come/VBN Dancing/NN are/VBP among/IN numerous/JJ British/JJ shows/NNS nominated/VBN for/IN the/DT prestigious/JJ Golden/NNP Rose/NNP television/NN awards./NN
+
+Homegrown/NNP reality/NN programmes/NNS dominated/VBN that/DT category/NN including/VBG Channel/NNP 4's/CD Supernanny/NNP and/CC ITV1's/CD Hell's/NNP Kitchen./NNP
+EastEnders/NNP and/CC Coronation/NNP Street/NNP were/VBD overlooked/VBN in/IN the/DT soap/NN category/NN but/CC Doctors/NNS and/CC Family/NNP Affairs/NNP gained/VBD nods./NN
+The/DT festival/NN which/WDT honours/NNS the/DT best/JJS TV/NN from/IN around/IN the/DT globe/NN will/MD take/VB place/NN in/IN Lucerne/NNP Switzerland/NNP from/IN 3-8/JJ May./NNP
+
+Little/NNP Britain/NNP which/WDT is/VBZ now/RB in/IN its/PRP$ second/JJ series/NN faces/VBZ competition/NN from/IN BBC/NNP Two's/NNP The/DT Catherine/NNP Tate/NNP Show/NNP and/CC Sacha/NNP Baron/NNP Cohen's/NNP creations/NNS Borat/NNP and/CC Bruno./NNP
+In/IN the/DT separate/JJ sitcom/NN category/NN dark/JJ comedy/NN Nighty/NNP Night/NNP -/: which/WDT began/VBD life/VBG on/IN BBC/NNP Three/CD -/: will/MD do/VB battle/NN with/IN mainstream/NN BBC/NNP One/CD show/NN My/PRP$ Family./NNP
+
+BBC/NNP One's/NNP Strictly/RB Come/VBD Dancing/NN which/WDT saw/VBD celebrities/NNS compete/VBP against/IN each/DT other/JJ to/TO become/VB champions/NNS of/IN the/DT dancefloor/NN is/VBZ among/IN five/CD British/JJ nominations/NNS in/IN the/DT varirty/NN category./NN
+Lenny/NNP Henry/NNP who/WP won/VBD a/DT Golden/NNP Rose/NNP for/IN his/PRP In/IN Pieces/NNP series/NN in/IN 2001/CD picks/VBZ up/RP another/DT nomination/NN for/IN his/PRP$ recent/JJ BBC/NNP show./NN
+British/JJ television/NN music/NN shows/VBZ have/VBP picked/VBN up/RB six/CD nominations/NNS with/IN BBC/NNP Three's/NNP Flashmob/NNP -/: The/DT Opera/NNP up/RP against/IN the/DT UK/NNP Music/NNP Hall/NNP of/IN Fame/NNP series/NN which/WDT was/VBD screened/VBN on/IN Channel/NNP 4./CD
+British/JJ television/NN has/VBZ performed/VBN very/RB well/RB in/IN the/DT arts/NNS and/CC specials/NNS category/NN gaining/VBG a/DT total/NN of/IN 11/CD nominations./NN
+The/DT BBC/NNP leads/VBZ the/DT way/NN with/IN its/PRP$ programmes/NNS on/IN The/DT Sound/NNP of/IN Music/NNP Agatha/NNP Christie/NNP and/CC Rolf/NNP On/IN Art/NNP -/: The/DT Big/JJ Event/NN -/: which/WDT saw/VBD Harris/NNP lead/VB an/DT effort/NN to/TO produce/VB a/DT life-size/JJ painting/NN in/IN London's/NNP Trafalgar/NNP Square./NNP
+
+British/JJ shows/NNS -/: which/WDT picked/VBD up/RP a/DT total/NN of/IN 48/CD nominations/NNS -/: will/MD have/VB to/TO overcome/VB competition/NN from/IN a/DT host/NN of/IN other/JJ countries/NNS including/VBG the/DT US/PRP Canada/NNP Japan/NNP and/CC across/IN Europe./NNP
+UK/NNP nominee/NN TV/NN Diaries/NNS which/WDT is/VBZ shown/VBN around/IN the/DT world/NN is/VBZ owned/VBN by/IN a/DT British/JJ company/NN but/CC has/VBZ yet/RB to/TO be/VB screened/VBN in/IN this/DT country./NN
+Previous/JJ UK/NNP winners/NNS have/VBP included/VBN Ant/NNP &/CC Dec's/NNP Saturday/NNP Night/NNP Takeaway/NNP Pop/NN Idol/NNP Channel/NNP 4/CD show/NN Faking/VBG It/PRP and/CC comedy/NN duo/NN French/JJ and/CC Saunders/NNP who/WP became/VBD the/DT first/JJ winners/NNS to/TO receive/VB and/CC honorary/JJ Golden/NNP Rose./NNP
+Individual/JJ performers/NNS will/MD also/RB be/VB rewarded/VBN with/IN prizes/NNS for/IN best/JJS comics/NNS best/JJS sitcom/NN actor/NN and/CC actress/NN and/CC best/JJS gameshow/NN host./NN
+Last/JJ year/NN actor/NN Shane/NNP Richie/NNP won/VBD an/DT award/NN for/IN his/PRP$ portrayal/NN of/IN Alfie/NNP Moon/NNP in/IN EastEnders./NNP

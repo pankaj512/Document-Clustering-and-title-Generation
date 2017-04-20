@@ -1,0 +1,11 @@
+Hacker/NN threat/NN to/TO Apple's/NNP iTunes/NNS
+
+Users/NNS of/IN Apple's/NNP music/NN jukebox/NN iTunes/NNS need/VBP to/TO update/VB the/DT software/NN to/TO avoid/VB a/DT potential/JJ security/NN threat./NN
+
+Hackers/NNP can/MD build/VB malicious/JJ playlist/NN files/NNS which/WDT could/MD crash/VB the/DT program/NN and/CC let/VB them/PRP seize/VB control/NN of/IN the/DT computer/NN by/IN inserting/VBG Trojan/NNP code./NN
+A/DT new/JJ version/NN of/IN iTunes/NNS is/VBZ now/RB available/JJ from/IN the/DT Apple/NNP website/NN which/WDT solves/VBZ the/DT problem./NN
+Security/NNP firm/JJ iDefence/NN which/WDT notified/VBD users/NNS of/IN the/DT problem/NN recommended/VBD that/IN users/NNS upgrade/VBP to/TO iTunes/NNS version/NN 4.7.1./CD
+The/DT problem/NN affects/VBZ all/DT users/NNS of/IN iTunes/NNS -/: Windows/NNS and/CC Mac/NNP OS/NNP -/: running/VBG versions/NNS 4.7/CD and/CC earlier./NN
+Users/NNS can/MD automatically/RB upgrade/VB iTunes/NNS by/IN opening/VBG the/DT "look/NN for/IN updates"/NN window/NN in/IN the/DT program./NN
+The/DT security/NN firm/NN says/VBZ users/NNS should/MD avoid/VB clicking/VBG on/IN or/CC accessing/VBG playlist/NN files/NNS -/: which/WDT have/VBP the/DT file/NN extension/NN of/IN .pls/NN or/CC .m3u/CD -/: which/WDT have/VBP come/VBN from/IN unknown/JJ sources./NN
+Itunes/NNP is/VBZ the/DT world's/NNS most/RBS popular/JJ online/NN music/NN store/NN with/IN more/JJR than/IN 200/CD million/CD songs/NNS downloaded/VBN since/IN it/PRP launched/VBD in/IN 2003./CD

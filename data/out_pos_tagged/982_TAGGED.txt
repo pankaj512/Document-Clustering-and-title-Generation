@@ -1,0 +1,26 @@
+Howard/NNP backs/VBZ stem/VB cell/NN research/NN
+
+Michael/NNP Howard/NNP has/VBZ backed/VBN stem/NN cell/NN research/NN saying/VBG it/PRP is/VBZ important/JJ people/NNS are/VBP not/RB frightened/VBN of/IN the/DT future./NN
+
+The/DT controversial/JJ issue/NN was/VBD a/DT feature/NN of/IN the/DT recent/JJ US/PRP presidential/JJ election/NN where/WRB George/NNP Bush/NNP opposed/VBD extending/VBG it./NN
+But/CC the/DT Tory/NNP leader/NN argued/VBD there/EX was/VBD a/DT moral/JJ case/NN for/IN embracing/VBG science/NN which/WDT could/MD help/VB victims/NNS of/IN Alzheimer's/NNP Parkinson's/NNP and/CC Motor/NNP Neurone/NNP disease./JJ
+"I/NN believe/VBP we/PRP have/VBP a/DT duty/NN to/TO offer/VB hope/VBP to/TO the/DT millions/NNS of/IN people/NNS who/WP suffer/VBP devastating/JJ illnesses"/NN he/PRP said./VB
+The/DT use/NN of/IN embryonic/JJ stem/NN cells/NNS in/IN the/DT UK/NNP is/VBZ already/RB allowed./NN
+Stem/NN cells/NNS are/VBP master/NN cells/NNS that/WDT have/VBP the/DT ability/NN to/TO develop/VB into/IN any/DT of/IN the/DT body's/NNS tissue/NN types./NN
+Scientists/NNS hope/VBP that/IN by/IN growing/VBG such/JJ cells/NNS in/IN the/DT laboratory/NN they/PRP can/MD programme/VB them/PRP to/TO form/VB specific/JJ tissue/NN such/JJ as/IN kidney/NN heart/NN or/CC even/RB brain/NN tissue./NN
+
+Mr/NNP Howard/NNP acknowledged/VBD there/EX were/VBD genuine/JJ concerns/NNS about/IN stem/NN cell/NN research./NN
+But/CC he/PRP argued/VBD "We/NN mustn't/NN be/VB frightened/VBN of/IN change/NN or/CC nostalgic/JJ about/IN the/DT past/JJ -/: we/PRP must/MD be/VB optimistic/JJ about/IN the/DT future./NN
+"Politicians/NN must/MD create/VB the/DT right/JJ framework/NN so/IN that/IN the/DT great/JJ potential/NN of/IN science/NN can/MD be/VB harnessed/VBN for/IN the/DT benefit/NN of/IN mankind./NN
+"With/NN the/DT life/NN expectancy/NN of/IN the/DT average/JJ Briton/NNP now/RB around/IN the/DT mid-70s/JJ society/NN has/VBZ a/DT responsibility/NN to/TO enhance/VB the/DT quality/NN of/IN people's/NNS lives/NNS as/IN they/PRP grow/VBP older./NN
+"I/NN know/VBP many/JJ people/NNS are/VBP concerned/VBN about/IN stem-cell/JJ research./NN
+They/PRP are/VBP fearful/JJ of/IN meddling/VBG with/IN what/WP they/PRP see/VBP as/IN the/DT stuff/NN of/IN souls./NN
+"I/NN respect/NN those/DT concerns./NN
+But/CC I/PRP also/RB believe/VBP we/PRP have/VBP a/DT duty/NN to/TO offer/VB hope/VBP to/TO the/DT millions/NNS of/IN people/NNS who/WP suffer/VBP devastating/JJ illnesses/NNS like/IN Parkinson's/NNP Multiple/JJ Sclerosis/NN Motor/NNP Neurone/NNP Disease/NNP Alzheimer's/NNP and/CC -/: as/IN we/PRP saw/VBD in/IN the/DT papers/NNS today/NN -/: now/RB possibly/RB heart/NN problems."/NN
+
+Mr/NNP Howard/NNP acknowledged/VBD there/EX were/VBD "no/NN easy/JJ answers"/NN over/IN such/PDT an/DT issue/NN but/CC it/PRP was/VBD necessary/JJ to/TO "have/VB the/DT courage/NN to/TO do/VB what/WP we/PRP know/VBP to/TO be/VB morally/RB right"./NN
+He/PRP added/VBD "Of/NN course/NN stem/NN cells/NNS are/VBP still/RB a/DT recent/JJ discovery./JJ
+More/JJR research/NN needs/VBZ to/TO be/VB done./NN
+But/CC we/PRP must/MD look/VB at/IN their/PRP$ potential/NN in/IN a/DT responsible/JJ and/CC grown-up/JJ way./NN
+The/DT hopes/NNS of/IN millions/NNS of/IN people/NNS rest/VBP on/IN what/WP could/MD be/VB achieved."/NN Former/NNP Superman/NNP actor/NN the/DT late/JJ Christopher/NNP Reeve/NNP was/VBD an/DT advocate/NN for/IN the/DT research/NN after/IN he/PRP was/VBD paralysed/VBN in/IN a/DT horse/NN riding/VBG accident./NN
+Mr/NNP Howard/NNP made/VBD his/PRP$ remarks/NNS during/IN a/DT speech/NN in/IN Westminster/NNP to/TO the/DT Conservative/JJ National/NNP Women's/NNP Committee/NNP on/IN ambitions/NNS and/CC values./NN

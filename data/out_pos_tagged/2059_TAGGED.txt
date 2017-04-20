@@ -1,0 +1,38 @@
+Internet/NNP boom/NN for/IN gift/NN shopping/NN
+
+Cyberspace/NNP is/VBZ becoming/VBG a/DT very/RB popular/JJ destination/NN for/IN Christmas/NNP shoppers./NN
+
+Forecasts/NNS predict/VBP that/IN British/JJ people/NNS will/MD spend/VB £4bn/CD buying/VBG gifts/NNS online/NN during/IN the/DT festive/JJ season/NN an/DT increase/NN of/IN 64%/CD on/IN 2003./CD
+Surveys/NNS also/RB show/VBP that/IN the/DT average/JJ amount/NN that/IN people/NNS are/VBP spending/NN is/VBZ rising/VBG as/IN is/VBZ the/DT range/NN of/IN goods/NNS that/IN they/PRP are/VBP happy/JJ to/TO buy/VB online./NN
+Savvy/JJ shoppers/NNS are/VBP also/RB using/VBG the/DT net/NN to/TO find/VB the/DT hot/JJ presents/NNS that/WDT are/VBP all/DT but/CC sold/VBN out/RP in/IN High/NNP Street/NNP stores./NN
+
+Almost/RB half/NN of/IN the/DT UK/NNP population/NN now/RB shop/NN online/NN according/VBG to/TO figures/NNS collected/VBN by/IN the/DT Interactive/JJ Media/NNP in/IN Retail/JJ Group/NNP which/WDT represents/VBZ web/NN retailers./NN
+About/IN 85%/CD of/IN this/DT group/NN 18m/CD people/NNS expect/VBP to/TO do/VB a/DT lot/NN of/IN their/PRP$ Christmas/NNP gift/NN buying/VBG online/NN this/DT year/NN reports/NNS the/DT industry/NN group./NN
+On/IN average/JJ each/DT shopper/NN will/MD spend/VB £220/CD and/CC Britons/NNP lead/VBP Europe/NNP in/IN their/PRP$ affection/NN for/IN online/NN shopping./NN
+
+Almost/RB a/DT third/JJ of/IN all/PDT the/DT money/NN spent/VBD online/NN this/DT Christmas/NNP will/MD come/VB out/IN of/IN British/JJ wallets/NNS and/CC purses/NNS compared/VBN to/TO 29%/CD from/IN German/JJ shoppers/NNS and/CC only/RB 4%/CD from/IN Italian/JJ gift/NN buyers./NN
+James/NNP Roper/NNP director/NN of/IN the/DT IMRG/NNP said/VBD shoppers/NNS were/VBD now/RB much/RB happier/JJR to/TO buy/VB so-called/JJ big/JJ ticket/NN items/NNS such/JJ as/IN LCD/NNP television/NN sets/NNS and/CC digital/JJ cameras./NN
+Mr/NNP Roper/NNP added/VBD that/IN many/JJ retailers/NNS were/VBD working/VBG hard/RB to/TO reassure/VB consumers/NNS that/DT online/NN shopping/NN was/VBD safe/JJ and/CC that/IN goods/NNS ordered/VBD as/IN presents/VBZ would/MD arrive/VB in/IN time/NN for/IN Christmas./NNP
+He/PRP advised/VBD consumers/NNS to/TO give/VB shops/NNS a/DT little/RB more/JJR time/NN than/IN usual/JJ to/TO fulfil/VB orders/NNS given/VBN that/DT online/NN buying/NN is/VBZ proving/VBG so/RB popular./NN
+A/DT survey/NN by/IN Hostway/NNP suggests/VBZ that/IN many/JJ men/NNS prefer/VBP to/TO shop/VB online/NN to/TO avoid/VB the/DT embarrassment/NN of/IN buying/VBG some/DT types/NNS of/IN presents/NNS such/JJ as/IN lingerie/NN for/IN wives/NNS and/CC girlfriends./NN
+Much/JJ of/IN this/DT online/NN shopping/NN is/VBZ likely/JJ to/TO be/VB done/VBN during/IN work/NN time/NN according/VBG to/TO research/NN carried/VBD out/RP by/IN security/NN firm/NN Saint/NNP Bernard/NNP Software./NNP
+The/DT research/NN reveals/VBZ that/IN up/IN to/TO two/CD working/VBG days/NNS will/MD be/VB lost/VBN by/IN staff/NN who/WP do/VBP their/PRP$ shopping/NN via/IN their/PRP$ work/NN computer./NN
+Worst/JJS offenders/NNS will/MD be/VB those/DT in/IN the/DT 18-35/JJ age/NN bracket/NN suggests/VBZ the/DT research/NN who/WP will/MD spend/VB up/IN to/TO five/CD hours/NNS per/IN week/NN in/IN December/NNP browsing/VBG and/CC buying/NN at/IN online/NN shops./NN
+
+Iggy/NNP Fanlo/NNP chief/JJ revenue/NN officer/NN at/IN Shopping.com/NNP said/VBD that/IN the/DT growing/VBG numbers/NNS of/IN people/NNS using/VBG broadband/NN was/VBD driving/VBG interest/NN in/IN online/NN shopping./NN
+"When/NN you/PRP consider/VBP narrowband/NN and/CC broadband/VB the/DT conversion/NN to/TO sale/VB is/VBZ two/CD times/NNS higher"/VBP he/PRP said./VB
+Higher/JJR speeds/NNS meant/VBN that/DT everything/NN happened/VBD much/JJ faster/RBR he/PRP said/VBD which/WDT let/VBP people/NNS spend/VB time/NN browsing/VBG and/CC finding/VBG out/RP about/IN products/NNS before/IN they/PRP buy./VBP
+
+The/DT behaviour/NN of/IN online/NN shoppers/NNS was/VBD also/RB changing/VBG he/PRP said./VB
+"The/NN single/JJ biggest/JJS reason/NN people/NNS went/VBD online/NN before/IN this/DT year/NN was/VBD price"/NN he/PRP said./VB
+"The/NN number/NN one/CD reason/NN now/RB is/VBZ convenience."/NN "Very/NN few/JJ consumers/NNS click/NN on/IN the/DT lowest/JJS price"/NN he/PRP said./VB
+"They/NN are/VBP looking/VBG for/IN good/JJ prices/NNS and/CC merchant/NN reliability."/NN Consumer/NNP comments/NNS and/CC reviews/NNS were/VBD also/RB proving/VBG popular/JJ with/IN shoppers/NNS keen/JJ to/TO find/VB out/RP who/WP had/VBD the/DT most/RBS reliable/JJ customer/NN service./NN
+Data/NNP collected/VBD by/IN eBay/NN suggests/VBZ that/IN some/DT smart/JJ shoppers/NNS are/VBP getting/VBG round/NN the/DT shortages/NNS of/IN hot/JJ presents/NNS by/IN buying/VBG them/PRP direct/JJ through/IN the/DT auction/NN site./NN
+According/VBG to/TO eBay/NN UK/NNP there/EX are/VBP now/RB more/JJR than/IN 150/CD Robosapiens/NNP remote/JJ control/NN robots/NNS for/IN sale/NN via/IN the/DT site./NN
+The/DT Robosapiens/NNP toy/NN is/VBZ almost/RB impossible/JJ to/TO find/VB in/IN online/NN and/CC offline/NN stores./NN
+Similarly/RB many/JJ shoppers/NNS are/VBP turning/VBG to/TO eBay/VB to/TO help/VB them/PRP get/VB hold/VB of/IN the/DT hard-to-find/JJ slimline/NN PlayStation/NNP 2/CD which/WDT many/JJ retailers/NNS are/VBP only/RB selling/VBG as/IN part/NN of/IN an/DT expensive/JJ bundle./NN
+The/DT high/JJ demand/NN for/IN the/DT PlayStation/NNP 2/CD has/VBZ meant/VBN that/IN prices/NNS for/IN it/PRP are/VBP being/VBG driven/VBN up./NN
+In/IN shops/NNS the/DT PS2/CD is/VBZ supposed/VBN to/TO sell/VB for/IN £104.99./CD
+In/IN some/DT eBay/NN UK/NNP auctions/VBZ the/DT price/NN has/VBZ risen/VBN to/TO more/RBR than/IN double/JJ this/DT figure./NN
+Many/JJ people/NNS are/VBP also/RB using/VBG eBay/NN to/TO get/VB hold/VB of/IN gadgets/NNS not/RB even/RB released/VBN in/IN this/DT country./NN
+The/DT portable/JJ version/NN of/IN the/DT PlayStation/NNP has/VBZ only/RB just/RB gone/VBN on/IN sale/NN in/IN Japan/NNP yet/RB some/DT enterprising/JJ eBay/NN users/NNS are/VBP selling/VBG the/DT device/NN to/TO UK/NNP gadget/NN fans./NN

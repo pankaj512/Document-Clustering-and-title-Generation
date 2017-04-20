@@ -1,0 +1,47 @@
+Broadband/NNP set/VBD to/TO revolutionise/VB TV/NN
+
+BT/NNP is/VBZ starting/VBG its/PRP$ push/NN into/IN television/NN with/IN plans/NNS to/TO offer/VB TV/NN over/IN broadband./NN
+
+As/IN a/DT telecoms/NNS company/NN BT/NNP is/VBZ moving/VBG to/TO a/DT content/NN distribution/NN strategy/NN Andrew/NNP Burke/NNP chief/NN of/IN BT's/NNP new/JJ Entertainment/NNP unit/NN told/VBD the/DT IPTV/NNP World/NNP Forum./NNP
+"We/NN want/VBP to/TO be/VB an/DT entertainment/NN facilitator"/NN he/PRP said/VBD on/IN the/DT opening/NN day/NN of/IN the/DT London/NNP conference./NN
+The/DT BBC/NNP is/VBZ also/RB trialling/VBG a/DT service/NN to/TO play/VB programmes/NNS over/IN the/DT net/JJ and/CC has/VBZ not/RB ruled/VBN out/RP offering/NN it/PRP to/TO non-licence/JJ fee/NN payers/NNS overseas./NN
+The/DT corporation's/NNS Interactive/JJ Media/NNP Player/NNP (iMP)/NN is/VBZ its/PRP$ first/JJ foray/NN into/IN broadband/NN TV/NN -/: known/VBN as/IN IPTV/NNP (Internet/NN Protocol/NNP TV)./NNP
+
+"We/NN see/VBP several/JJ opportunities/NNS for/IN delivering/VBG the/DT type/NN of/IN content/NN that/IN normally/RB broadcasters/NNS find/VBP it/PRP difficult/JJ to/TO get/VB to/TO viewers"/VB said/VBD BT's/NNP Andrew/NNP Burke./NNP
+
+With/IN more/JJR people/NNS on/IN broadband/NN and/CC connection/NN speeds/NNS increasing/VBG telcos/NNS around/IN the/DT world/NN are/VBP looking/VBG for/IN new/JJ ways/NNS to/TO make/VB money/NN from/IN it./NN
+Increased/VBN competition/NN between/IN net/JJ service/NN providers/NNS encouraged/VBN by/IN Ofcom/NNP has/VBZ eroded/VBN BT's/NNP position/NN in/IN the/DT market./NN
+It/PRP is/VBZ looking/VBG for/IN a/DT good/JJ return/NN on/IN its/PRP$ investment/NN in/IN the/DT technology/NN which/WDT has/VBZ made/VBN broadband/NN over/IN ADSL/NNP a/DT reality./NN
+It/PRP also/RB sees/VBZ delivering/VBG TV/NN over/IN broadband/NN as/IN a/DT way/NN of/IN getting/VBG high-definition/JJ (HD)/NN content/JJ to/TO people/NNS sooner/RBR than/IN they/PRP will/MD be/VB able/JJ to/TO get/VB it/PRP through/IN conventional/JJ regular/JJ broadcasts./NN
+The/DT BBC's/NNP iMP/NN has/VBZ just/RB finished/VBN successful/JJ technical/JJ trials/NNS and/CC is/VBZ set/VBN for/IN much/RB larger/JJR consumer/NN trials/NNS later/RB in/IN 2005./CD
+Before/IN it/PRP officially/RB launches/VBZ the/DT BBC/NNP must/MD show/VB the/DT government/NN how/WRB it/PRP offers/VBZ value/NN for/IN money./NN
+Delivering/VBG programmes/NNS over/IN broadband/NN offers/VBZ clear/JJ public/JJ value/NN says/VBZ the/DT BBC/NNP because/IN it/PRP gives/VBZ people/NNS more/JJR control/NN and/CC more/JJR choice./NN
+
+IPTV/NNP is/VBZ a/DT similar/JJ idea/NN to/TO VoIP/NNP services/NNS like/IN Skype./NNP
+Both/DT use/NN broadband/NN net/JJ connections/NNS to/TO carry/VB information/NN like/IN video/NN and/CC voice/NN in/IN packets/NNS of/IN data/NNS instead/RB of/IN conventional/JJ means./NN
+Since/IN it/PRP uses/VBZ internet/JJ technology/NN IPTV/NNP could/MD mean/VB more/JJR choice/NN of/IN programmes/NNS more/JJR more/RBR interactivity/JJ tailored/VBN programming/NN and/CC more/RBR localised/JJ content/NN outside/IN of/IN conventional/JJ satellite/NN digital/JJ cable/NN and/CC terrestrial/JJ broadcasts./NN
+
+It/PRP is/VBZ all/DT part/NN of/IN the/DT larger/JJR changing/NN TV/NN technology/NN landscape/NN and/CC like/IN personal/JJ digital/JJ video/NN recorders/NNS (PVRs)/NN gives/VBZ people/NNS much/RB more/JJR control/NN over/IN TV./NNP
+Broadcasters/NNS see/VBP IPTV/NNP and/CC PVRs/NNP as/RB both/DT as/IN a/DT threat/NN and/CC an/DT opportunity./NN
+The/DT BBC/NNP recognises/NNS that/DT TV/NN over/IN broadband/NN is/VBZ a/DT reality/NN and/CC aims/VBZ to/TO innovate/VB with/IN it/PRP said/VBD Rahul/NNP Chakkara/NNP controller/NN of/IN BBCi's/NNP 24/7/CD interactive/JJ TV/NN services./NN
+The/DT iMP/NN is/VBZ based/VBN on/IN peer-to-peer/JJ technology/NN and/CC lets/VBZ people/NNS download/VBP programmes/NNS the/DT BBC/NNP owns/VBZ the/DT rights/NNS to/TO for/IN up/IN to/TO seven/CD days/NNS after/IN broadcast./NN
+"IPTV/NN enables/VBZ us/PRP to/TO take/VB back/RB that/DT programme/NN to/TO our/PRP$ audience/NN at/IN different/JJ times"/NN said/VBD Mr/NNP Chakkara./NNP
+
+"So/NN we/PRP can/MD tell/VB our/PRP$ audience/NN that/IN that/DT programme/NN they/PRP paid/VBD for/IN [via/NN the/DT licence/NN fee]/NN they/PRP can/MD access/VB it/PRP any/DT time/NN they/PRP want."/VBP It/PRP helps/VBZ said/VBN Mr/NNP Burke/NNP that/IN people/NNS are/VBP more/JJR au/NN fait/NN with/IN terms/NNS like/IN "digital"/NN "interactive"/NN now/RB that/IN digital/JJ TV/NN reaches/VBZ more/JJR than/IN 56%/CD of/IN UK/NNP homes./NN
+According/VBG to/TO Benoit/NNP Joly/NNP from/IN broadband/NN telecoms/NNS firm/NN Thales/NNP 30%/CD of/IN Europe/NNP cannot/NN get/NN satellite/NN TV/NN or/CC digital/JJ TV./NNP
+They/PRP could/MD get/VB IPTV/NNP though./NN
+Analysts/NNS say/VBP that/IN IPTV/NNP will/MD account/VB for/IN 10%/CD of/IN the/DT digital/JJ TV/NN market/NN in/IN Europe/NNP alone/RB by/IN the/DT end/NN of/IN the/DT decade./NN
+What/WP needs/VBZ to/TO happen/VB now/RB agree/VBP analysts/NNS is/VBZ for/IN connection/NN speeds/NNS to/TO be/VB bumped/VBN up/RP to/TO handle/VB the/DT service/NN 20Mbps/CD connections/NNS would/MD be/VB ideal./NN
+BT/NNP does/VBZ not/RB see/VB itself/PRP as/IN a/DT broadcaster/NN of/IN IPTV/NNP services/NNS rather/RB as/IN an/DT "enabler"/NN said/VBD Mr/NNP Burke./NNP
+Its/PRP$ strategy/NN is/VBZ a/DT "hybrid"/NN approach/NN he/PRP explained/VBD where/WRB over-the-air/JJ conventional/JJ broadcasts/NNS are/VBP supplemented/VBN with/IN content/NN over/IN broadband./NN
+
+Initially/RB appealing/VBG to/TO niche/VB markets/NNS like/IN sports/NNS fans/NNS it/PRP will/MD widen/VB out./NN
+But/CC IPTV/NNP could/MD be/VB used/VBN for/IN home-monitoring/JJ "pet/NN cams"/NN localised/VBD news/NN services/NNS and/CC local/JJ authority/NN TV/NN too/RB says/VBZ BT./NNP
+It/PRP even/RB suggests/VBZ that/IN it/PRP could/MD target/VB those/DT households/NNS in/IN the/DT UK/NNP that/WDT do/VBP not/RB own/VB a/DT computer/NN 40%/CD of/IN the/DT country./NN
+
+Broadband/NN to/TO them/PRP would/MD not/RB be/VB about/IN data/NNS and/CC the/DT net/JJ -/: that/WDT could/MD come/VB later/RB for/IN them/PRP -/: but/CC about/IN cheap/JJ phone/NN calls/NNS and/CC more/JJR choice/NN of/IN TV/NN programmes./NN
+Home/NN Choice/NN already/RB offers/VBZ 10000/CD hours/NNS of/IN shows/NNS and/CC channels/NNS delivered/VBN over/IN broadband/NN to/TO homes/NNS in/IN London./NNP
+With/IN a/DT broadband/NN net/JJ subscription/NN you/PRP can/MD also/RB get/VB your/PRP$ TV/NN and/CC phone/NN service./NN
+Through/IN content/NN deals/NNS and/CC partnerships/NNS it/PRP offers/VBZ satellite/NN as/RB well/RB as/IN terrestrial/JJ channels/NNS and/CC bespoke/NN channels/NNS based/VBN on/IN what/WP viewers/NNS pick/VBP and/CC choose/VB from/IN its/PRP$ catalogues./NN
+It/PRP aims/VBZ to/TO expand/VB nationally/RB but/CC is/VBZ seeing/VBG a/DT lot/NN of/IN success/NN with/IN what/WP it/PRP offers/VBZ its/PRP$ 15000/CD subscribers/NNS now/RB and/CC aims/VBZ to/TO double/JJ uptake/NN as/RB well/RB as/IN reach/NN by/IN the/DT summer./NN
+Although/IN still/RB at/IN a/DT very/RB early/JJ stage/NN IPTV/NNP is/VBZ another/DT application/NN for/IN broadband/NN that/WDT underlines/VBZ its/PRP$ growing/VBG prominence/NN as/IN a/DT backbone/NN network/NN -/: another/DT utility/NN like/IN electricity./NN

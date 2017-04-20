@@ -1,0 +1,42 @@
+Learning/NN to/TO love/VB broadband/NN
+
+We/PRP are/VBP reaching/VBG the/DT point/NN where/WRB broadband/NN is/VBZ a/DT central/JJ part/NN of/IN daily/JJ life/NN at/IN least/JJS for/IN some/DT argues/VBZ technology/NN analyst/NN Bill/NNP Thompson./NNP
+
+One/CD of/IN the/DT nice/JJ things/NNS about/IN being/VBG a/DT writer/NN is/VBZ that/IN I/PRP rarely/RB have/VBP to/TO go/VB to/TO an/DT office/NN to/TO work./VB
+I/PRP can/MD sit/VB in/IN a/DT caf&#233/CD or/CC a/DT library/NN with/IN or/CC without/IN a/DT wi-fi/JJ connection/NN and/CC research/NN and/CC write/VB articles./NN
+If/IN I/PRP am/VBP passing/VBG through/IN Kings/NNPS Cross/NNP station/NN on/IN my/PRP$ way/NN to/TO a/DT meeting/NN then/RB I/PRP can/MD log/VB on/IN from/IN the/DT platform./NN
+And/CC I/PRP can/MD spend/VB the/DT day/NN working/VBG with/IN my/PRP$ girlfriend/NN Anne/NNP a/DT children's/NNS writer/NN at/IN her/PRP$ house/NN in/IN Cambridge/NNP sharing/VBG her/PRP$ wireless/JJ network./NN
+But/CC just/RB over/IN a/DT week/NN ago/RB I/PRP arrived/VBD at/IN her/PRP$ house/NN to/TO find/VB that/IN there/EX was/VBD no/DT network/NN connection./NN
+
+We/PRP checked/VBD the/DT cable/NN modem/NN and/CC noticed/VBD that/IN it/PRP had/VBD no/DT power/NN and/CC when/WRB she/PRP changed/VBD the/DT power/NN lead/NN it/PRP sparked/VBD at/IN her/PRP in/IN a/DT way/NN which/WDT made/VBD it/PRP abundantly/RB clear/JJ that/IN it/PRP was/VBD never/RB going/VBG to/TO talk/VB to/TO the/DT internet/JJ again./NN
+She/PRP called/VBD her/PRP$ service/NN provider/NN and/CC they/PRP told/VBD her/PRP$ it/PRP would/MD be/VB five/CD days/NNS before/IN an/DT engineer/NN would/MD show/VB up/RP with/IN a/DT new/JJ cable/NN modem./NN
+This/DT did/VBD not/RB seem/VB too/RB bad/JJ but/CC in/IN fact/NN she/PRP really/RB suffered/VBD until/IN her/PRP$ connection/NN was/VBD restored/VBN on/IN Wednesday./NNP
+With/IN no/DT modem/NN installed/VBN in/IN her/PRP$ computer/NN she/PRP had/VBD to/TO borrow/VB internet/JJ access/NN from/IN friends/NNS or/CC use/VB the/DT dial-up/JJ connection/NN on/IN her/PRP$ daughter's/NNS laptop/NN so/IN she/PRP had/VBD to/TO choose/VB between/IN copying/NN her/PRP$ files/NNS onto/IN her/PRP$ USB/NNP memory/NN card/NN or/CC accepting/VBG a/DT slower/JJR and/CC flakier/NN net/JJ connection./NN
+As/IN a/DT result/NN she/PRP did/VBD not/RB submit/VB the/DT pictures/NNS she/PRP wanted/VBD to/TO use/VB for/IN a/DT book/NN on/IN earthquakes/NNS because/IN they/PRP were/VBD too/RB big/JJ to/TO send/VB over/IN dial-up./JJ
+
+She/PRP could/MD not/RB research/VB other/JJ material/NN because/IN she/PRP is/VBZ used/VBN to/TO having/VBG easy/JJ access/NN to/TO a/DT fast/JJ link/NN that/WDT lets/VBZ her/PRP$ search/NN quickly/RB and/CC effectively./NN
+But/CC the/DT impact/NN spread/NN into/IN her/PRP$ personal/JJ life/NN too./NN
+She/PRP did/VBD not/RB take/VB her/PRP$ children/NNS to/TO the/DT cinema/NN during/IN half-term/JJ because/IN she/PRP could/MD not/RB find/VB out/RP which/WDT films/NNS were/VBD showing/VBG at/IN the/DT local/JJ cinemas./NN
+She/PRP planned/VBD a/DT trip/NN to/TO Norfolk/NNP but/CC did/VBD not/RB check/VB the/DT weather/NN because/IN the/DT only/JJ place/NN she/PRP knows/VBZ to/TO look/VB for/IN weather/NN information/NN is/VBZ the/DT BBC/NNP website./NN
+And/CC she/PRP did/VBD not/RB know/VB where/WRB to/TO go/VB fossil-hunting/JJ on/IN the/DT trip/NN because/IN she/PRP could/MD not/RB type/VB "fossils/NN Norfolk"/NNP into/IN Google./NNP
+Of/IN course/NN she/PRP readily/RB admits/VBZ she/PRP could/MD have/VB answered/VBN these/DT questions/NNS if/IN she/PRP had/VBD looked/VBN in/IN the/DT local/JJ paper/NN listened/VBD to/TO the/DT radio/NN or/CC found/VBD a/DT book/NN on/IN fossils./NN
+But/CC she/PRP did/VBD not/RB because/IN having/VBG fast/RB always/RB on/IN and/CC easy/JJ access/NN to/TO the/DT net/JJ has/VBZ become/VBN part/NN of/IN the/DT routine/NN of/IN her/PRP$ daily/JJ life/NN and/CC when/WRB it/PRP was/VBD taken/VBN away/RB it/PRP was/VBD too/RB much/JJ effort/NN to/TO go/VB back/RB to/TO the/DT old/JJ ways/NNS of/IN doing/VBG things./NN
+She/PRP may/MD be/VB unusual/JJ but/CC I/PRP do/VBP not/RB think/VB Anne/NNP is/VBZ alone./NN
+
+According/VBG to/TO Ofcom/NNP there/EX were/VBD almost/RB four/CD million/CD broadband/NN users/NNS in/IN the/DT UK/NNP in/IN April/NNP 2004/CD and/CC numbers/NNS are/VBP climbing/VBG fast./NN
+There/EX will/MD certainly/RB be/VB five/CD million/CD by/IN the/DT end/NN of/IN the/DT year./NN
+Dial-up/NN users/NNS are/VBP switching/VBG to/TO broadband./VB
+My/PRP$ dad/NN finally/RB made/VBD the/DT change/NN earlier/RBR this/DT month/NN and/CC new/JJ net/JJ users/NNS are/VBP selecting/VBG broadband/NN from/IN the/DT start./NN
+More/JJR and/CC more/JJR of/IN these/DT broadband/NN users/NNS are/VBP beginning/VBG to/TO mould/VB their/PRP$ daily/JJ lives/NNS around/IN the/DT availability/NN of/IN broadband/NN internet/JJ connections/NNS and/CC they/PRP too/RB will/MD find/VB it/PRP difficult/JJ to/TO cope/VB if/IN they/PRP cannot/VBP get/VBD online/NN for/IN any/DT reason./NN
+
+It/PRP is/VBZ part/NN of/IN the/DT process/NN of/IN adaptation/NN and/CC it/PRP is/VBZ a/DT vital/JJ step/NN in/IN the/DT growth/NN of/IN broadband/NN in/IN the/DT UK/NNP and/CC elsewhere./NN
+People/NNS who/WP have/VBP integrated/VBN net/JJ access/NN into/IN their/PRP$ daily/JJ lives/NNS tell/VBP their/PRP$ friends/NNS about/IN it/PRP and/CC show/VB off/RP the/DT cool/JJ stuff/NN they/PRP can/MD do./VB
+They/PRP encourage/VBP other/JJ people/NNS to/TO get/VB broadband/NN so/IN that/IN they/PRP can/MD share/VB digital/JJ photos/NNS and/CC do/VB all/DT of/IN the/DT other/JJ things/NNS that/WDT need/VBP fast/RB and/CC reliable/JJ connectivity./NN
+Of/IN course/NN broadband/NN in/IN the/DT UK/NNP is/VBZ laughably/RB slow/JJ compared/VBN to/TO other/JJ parts/NNS of/IN the/DT world./NN
+In/IN South/NNP Korea/NNP Japan/NNP and/CC Hong/NNP Kong/NNP normal/JJ connection/NN speeds/NNS are/VBP measured/VBN in/IN megabits/NNS or/CC millions/NNS of/IN bits/NNS a/DT second/JJ rather/RB than/IN the/DT thousands/NNS that/IN we/PRP are/VBP supposed/VBN to/TO be/VB happy/JJ with./NN
+But/CC speed/NN is/VBZ only/RB a/DT small/JJ part/NN of/IN the/DT attraction/NN of/IN broadband/NN and/CC when/WRB it/PRP comes/VBZ to/TO checking/NN websites/NNS for/IN film/NN times/NNS looking/VBG at/IN weather/NN forecasts/NNS or/CC all/DT of/IN the/DT other/JJ small/JJ things/NNS that/WDT make/VBP a/DT real/JJ difference/NN to/TO the/DT routines/NNS and/CC habits/NNS of/IN our/PRP$ daily/JJ lives/NNS even/RB UK/NNP speeds/NNS are/VBP sufficient./NN
+It/PRP may/MD not/RB be/VB the/DT brave/JJ new/JJ world/NN of/IN streaming/VBG full-screen/JJ video/NN and/CC superfast/NN file/NN downloads/NNS but/CC it/PRP will/MD do/VB for/IN now./NN
+And/CC it/PRP is/VBZ certainly/RB better/JJR than/IN slow/JJ access/NN or/CC no/DT access./NN
+Just/RB ask/VB Anne./NNP
+
+Bill/NNP Thompson/NNP is/VBZ a/DT regular/JJ commentator/NN on/IN the/DT BBC/NNP World/NNP Service/NNP programme/NN Go/VB Digital./NNP

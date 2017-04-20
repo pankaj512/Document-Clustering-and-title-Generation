@@ -1,0 +1,35 @@
+Escaped/VBD prisoner/NN report/NN ordered/VBD
+
+First/NNP Minister/NNP Jack/NNP McConnell/NNP has/VBZ ordered/VBN a/DT report/NN on/IN the/DT decision/NN to/TO allow/VB a/DT paranoid/JJ schizophrenic/JJ knife/NN attacker/NN to/TO go/VB on/IN a/DT visit/NN unguarded./NN
+
+Michael/NNP Ferguson/NNP 36/CD escaped/VBD after/IN being/VBG allowed/VBN out/IN of/IN the/DT high-security/JJ Carstairs/NNP unit./NN
+The/DT SNP's/NNP Nicola/NNP Sturgeon/NNP has/VBZ demanded/VBN to/TO know/VB who/WP was/VBD responsible/JJ for/IN signing/VBG off/RP the/DT leave./NN
+The/DT Scottish/NNP Executive/NNP said/VBD ministers/NNS would/MD be/VB notified/VBN but/CC it/PRP would/MD "not/VB be/VB common/JJ practice"/NN to/TO sign/VB approval./NN
+An/DT executive/JJ spokesman/NN said/VBD the/DT health/NN department/NN and/CC the/DT state/NN hospital/NN itself/PRP would/MD work/VB together/RB on/IN preparing/VBG the/DT report./NN
+Ministerial/JJ responsibility/NN for/IN Carstairs/NNP rests/VBZ with/IN Rhona/NNP Brankin/NNP the/DT deputy/NN health/NN minister./NN
+Ms/NNP Brankin/NNP said/VBD "The/NN first/JJ minister/NN has/VBZ called/VBN for/IN a/DT review/NN of/IN what/WP has/VBZ happened/VBN we/PRP need/VBP to/TO talk/VB to/TO the/DT state/NN hospital/NN and/CC we/PRP need/VBP to/TO reflect/VB on/IN this."/NN Ms/NNP Sturgeon/NNP has/VBZ written/VBN to/TO Mr/NNP McConnell/NNP asking/VBG for/IN clarification/NN on/IN the/DT move/NN to/TO allow/VB the/DT prisoner/NN out./NN
+She/PRP said/VBD questions/NNS must/MD be/VB answered/VBN about/IN his/PRP$ escape/NN if/IN the/DT public/NN is/VBZ to/TO be/VB reassured/VBN about/IN safety./NN
+Police/NNS are/VBP still/RB searching/VBG for/IN Ferguson/NNP who/WP failed/VBD to/TO return/VB after/IN a/DT trip/NN to/TO East/NNP Kilbride/NNP on/IN Monday./NNP
+
+The/DT Scottish/NNP National/NNP Party's/NNP parliamentary/JJ leader/NN argued/VBD that/IN under/IN the/DT law/NN authorisation/NN of/IN Ferguson's/NNP leave/VB of/IN absence/NN would/MD have/VB come/VBN directly/RB from/IN ministers./NN
+She/PRP said/VBD "The/NN Scottish/NNP Executive/NNP seemed/VBD to/TO indicate/VB yesterday/NN that/IN the/DT escape/NN of/IN Mr/NNP Ferguson/NNP was/VBD a/DT matter/NN for/IN Carstairs./NNP
+"However/NN my/PRP$ understanding/NN is/VBZ that/IN under/IN the/DT mental/JJ health/NN legislation/NN the/DT decision/NN to/TO grant/VB this/DT patient/NN -/: and/CC any/DT restricted/VBN patient/NN -/: leave/VB of/IN absence/NN would/MD have/VB required/VBN direct/JJ and/CC specific/JJ authorisation/NN by/IN Scottish/JJ ministers."/NN She/PRP added/VBD "I/NN have/VBP written/VBN to/TO the/DT first/JJ minister/NN today/NN asking/VBG for/IN confirmation/NN of/IN that/DT fact./NN
+I/PRP have/VBP also/RB asked/VBN him/PRP to/TO confirm/VB which/WDT minister/NN would/MD routinely/RB take/VB decisions/NNS of/IN this/DT nature/NN and/CC what/WP information/NN they/PRP are/VBP based/VBN on./NN
+"This/NN is/VBZ not/RB an/DT attempt/NN to/TO apportion/VB blame/NN but/CC to/TO ensure/VB a/DT better/JJR understanding/NN of/IN the/DT decision/NN making/VBG process/NN in/IN such/JJ important/JJ and/CC sensitive/JJ cases."/NN
+
+Police/NNP said/VBD Ferguson/NNP posed/VBD a/DT danger/NN to/TO the/DT public./NN
+BBC/NNP Scotland/NNP political/JJ correspondent/NN Glenn/NNP Campbell/NNP said/VBD the/DT first/JJ minister/NN had/VBD ordered/VBN an/DT urgent/NN report/NN into/IN the/DT situation./NN
+He/PRP said/VBD "We/NN understand/VBP from/IN the/DT executive/NN that/IN in/IN this/DT case/NN no/DT individual/JJ minister/NN signed/VBD off/RP the/DT approval/NN for/IN Michael/NNP Ferguson/NNP to/TO be/VB released/VBN unescorted/VBN from/IN Carstairs./NNP
+"The/NN executive/NN concedes/VBZ that/IN it/PRP is/VBZ up/IN to/TO Scottish/NNP ministers/NNS they/PRP have/VBP a/DT legal/JJ responsibility/NN for/IN approving/VBG this/DT sort/NN of/IN leave/NN but/CC they/PRP say/VBP routinely/RB it/PRP is/VBZ specialised/VBN officials/NNS that/WDT make/VBP that/DT decision/NN and/CC simply/RB inform/VB ministers/NNS that/IN they/PRP have/VBP taken/VBN it./NN
+"But/NN at/IN that/DT stage/NN presumably/RB ministers/VBZ can/MD ask/VB hard/JJ questions/NNS and/CC can/MD ask/VB for/IN reassurances/NNS that/IN the/DT patient/NN is/VBZ not/RB a/DT serious/JJ danger/NN to/TO the/DT public/NN or/CC that/IN any/DT risk/NN has/VBZ been/VBN minimised."/NN Scottish/NNP Conservative/JJ leader/NN David/NNP McLetchie/NNP said/VBD earlier/RBR it/PRP was/VBD "almost/NN beyond/IN belief/NN that/IN this/DT has/VBZ been/VBN allowed/VBN to/TO happen"./VB
+
+The/DT executive/JJ spokeswoman/NN said/VBD the/DT recommendation/NN for/IN leave/NN was/VBD agreed/VBN by/IN a/DT psychiatric/JJ advisor/NN "in/NN conjunction/NN with/IN officials/NNS on/IN behalf/NN of/IN ministers"./NN
+She/PRP said/VBD "Ministers/NN were/VBD told/VBN of/IN that/DT notified/VBD of/IN it/PRP but/CC it/PRP would/MD not/RB be/VB common/JJ practice/NN for/IN them/PRP to/TO sign/VB it/PRP off./NN
+"They/NN do/VBP have/VB statutory/JJ responsibility/NN but/CC the/DT common/JJ practice/NN has/VBZ been/VBN that/IN people/NNS who/WP work/VBP with/IN the/DT patient/NN and/CC have/VBP the/DT best/JJS knowledge/NN about/IN risk/NN would/MD make/VB that/DT decision."/NN Ferguson/NNP who/WP slashed/VBD a/DT man/NN in/IN a/DT doctors'/NN surgery/NN in/IN Coatbridge/NNP in/IN 1994/CD had/VBD been/VBN out/RB to/TO see/VB his/PRP$ fianc&#233e/CD Annabella/NNP Holmes/NNP 47/CD whom/WP he/PRP met/VBD when/WRB she/PRP was/VBD a/DT patient/NN at/IN the/DT high/JJ security/NN complex/NN in/IN South/NNP Lanarkshire./NNP
+He/PRP is/VBZ described/VBN as/IN being/VBG 5ft/CD 9ins/CD tall/JJ slim/NN with/IN blond/JJ hair/NN blue/JJ eyes/NNS and/CC a/DT fair/JJ complexion./NN
+Ferguson/NNP was/VBD wearing/VBG a/DT black/JJ jacket/NN grey/NN jeans/NNS black/JJ jumper/NN and/CC black/JJ shoes/NNS when/WRB he/PRP was/VBD last/JJ seen./NN
+He/PRP has/VBZ multiple/JJ fading/JJ tattoos/NNS on/IN his/PRP$ left/VBN hand/NN and/CC a/DT very/RB faded/VBN tear/NN tattoo/NN under/IN his/PRP$ left/VBN eye./NN
+Ms/NNP Holmes/NNP is/VBZ not/RB missing/VBG but/CC there/EX have/VBP been/VBN no/DT sightings/NNS of/IN Ferguson/NNP since/IN Monday./NNP
+Strathclyde/NNP Police/NNP asked/VBD anyone/NN who/WP spots/VBZ Ferguson/NNP to/TO contact/VB Sergeant/NN Keith/NNP McDonald/NNP on/IN
+
+./.

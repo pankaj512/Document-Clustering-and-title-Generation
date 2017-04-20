@@ -1,0 +1,26 @@
+Fiat/NNP chief/NN takes/VBZ steering/VBG wheel/NN
+
+The/DT chief/JJ executive/NN of/IN the/DT Fiat/NNP conglomerate/NN has/VBZ taken/VBN day-to-day/JJ control/NN of/IN its/PRP$ struggling/VBG car/NN business/NN in/IN an/DT effort/NN to/TO turn/VB it/PRP around./NN
+
+Sergio/NNP Marchionne/NNP has/VBZ replaced/VBN Herbert/NNP Demel/NNP as/IN chief/JJ executive/NN of/IN Fiat/NNP Auto/NN with/IN Mr/NNP Demel/NNP leaving/VBG the/DT company./NN
+Mr/NNP Marchionne/NNP becomes/VBZ the/DT fourth/JJ head/NN of/IN the/DT business/NN -/: which/WDT is/VBZ expected/VBN to/TO make/VB a/DT 800m/CD euro/NN ($1bn)/CD loss/NN in/IN 2004/CD -/: in/IN as/RB many/JJ years./NN
+Fiat/NNP underperformed/VBD the/DT market/NN in/IN Europe/NNP last/JJ year/NN seeing/VBG flat/JJ sales./NN
+
+The/DT car/NN business/NN has/VBZ made/VBN an/DT operating/NN loss/NN in/IN five/CD of/IN the/DT last/JJ six/CD years/NNS and/CC was/VBD forced/VBN to/TO push/VB back/RB its/PRP$ break-even/JJ target/NN from/IN 2005/CD to/TO 2006./CD
+The/DT management/NN changes/NNS are/VBP part/NN of/IN a/DT wider/JJR shake-up/NN of/IN the/DT business/NN following/VBG Fiat's/NNP resolution/NN of/IN its/PRP$ dispute/NN with/IN General/NNP Motors./NNP
+As/IN part/NN of/IN a/DT major/JJ restructuring/NN Fiat/NNP is/VBZ to/TO integrate/VB the/DT Maserati/NNP car/NN company/NN -/: currently/RB owned/VBN by/IN Ferrari/NNP -/: within/IN its/PRP$ own/JJ operations./NN
+Ferrari/NNP in/IN which/WDT Fiat/NNP owns/VBZ a/DT majority/NN stake/NN could/MD be/VB separately/RB floated/VBN on/IN the/DT stock/NN market/NN in/IN either/CC 2006/CD or/CC 2007./CD
+
+Mr/NNP Marchionne/NNP who/WP only/RB joined/VBD the/DT company/NN last/JJ year/NN said/VBD Fiat/NNP Auto/NN was/VBD now/RB the/DT "principal/JJ focus"/NN of/IN his/PRP$ attention./NN
+"I/NN have/VBP made/VBN the/DT decision/NN to/TO take/VB on/RP the/DT post/NN of/IN chief/JJ executive/NN of/IN the/DT auto/NN unit/NN to/TO speed/VB up/RP the/DT company's/NNS recovery"/VBP he/PRP said./VB
+"A/NN profound/JJ cultural/JJ transformation/NN is/VBZ underway/NN following/VBG a/DT management/NN reorganisation/NN that/WDT has/VBZ delivered/VBN a/DT more/JJR agile/JJ and/CC efficient/JJ structure"/NN he/PRP added./VB
+
+Although/IN Mr/NNP Marchionne/NNP does/VBZ not/RB have/VB a/DT background/NN in/IN the/DT car/NN industry/NN he/PRP has/VBZ been/VBN playing/VBG an/DT increasing/VBG role/NN in/IN the/DT group's/NNS activities./NN
+Last/JJ year/NN he/PRP said/VBD that/IN a/DT series/NN of/IN new/JJ models/NNS launched/VBN as/IN part/NN of/IN the/DT group's/NNS recovery/NN plan/NN had/VBD not/RB boosted/VBN revenues/NNS as/RB much/JJ as/IN hoped./NN
+The/DT car/NN business/NN best/JJS known/VBN for/IN its/PRP$ Alfa/NNP Romeo/NNP marque/NN is/VBZ expected/VBN to/TO make/VB a/DT loss/NN of/IN about/IN 800m/CD euros/NNS in/IN 2004./CD
+Sales/NNS are/VBP expected/VBN to/TO fall/VB in/IN 2005/CD Fiat/NNP said/VBD this/DT week/NN as/IN it/PRP exits/VBZ unprofitable/JJ areas/NNS such/JJ as/IN the/DT rental/JJ car/NN market./NN
+Mr/NNP Demel/NNP a/DT car/NN industry/NN veteran/NN took/VBD the/DT helm/NN in/IN November/NNP 2003/CD after/IN being/VBG recruited/VBN by/IN former/JJ Fiat/NNP chief/NN executive/NN Giuseppe/NNP Morchio./NNP
+Mr/NNP Morchio/NNP made/VBD a/DT bid/NN last/JJ year/NN to/TO become/VB chairman/NN after/IN the/DT death/NN of/IN president/NN Umberto/NNP Agnelli./NNP
+However/RB this/DT was/VBD rejected/VBN by/IN the/DT founding/NN Agnelli/NNP family/NN and/CC Mr/NNP Morchio/NNP subsequently/RB resigned./NN
+Earlier/RBR this/DT week/NN Fiat/NNP reached/VBD an/DT agreement/NN with/IN GM/NNP to/TO dissolve/VB an/DT alliance/NN which/WDT could/MD have/VB obliged/VBN GM/NNP to/TO buy/VB the/DT Italian/JJ firm/JJ outright./NN
+GM/NNP will/MD pay/VB Fiat/NNP $2bn/CD as/IN part/NN of/IN the/DT settlement./NN

@@ -1,0 +1,16 @@
+Anti-spam/NN laws/NNS bite/VBP spammer/NN hard/JJ
+
+The/DT net's/NNS self-declared/JJ spam/NN king/NN is/VBZ seeking/VBG bankruptcy/NN protection./NN
+
+Scott/NNP Richter/NNP the/DT man/NN behind/IN OptInRealBig.com/NNP and/CC billions/NNS of/IN junk/NN mail/NN messages/NNS said/VBD lawsuits/NNS had/VBD forced/VBN the/DT company/NN into/IN Chapter/NN 11./CD
+OptInRealBig/NNP was/VBD fighting/VBG several/JJ legal/JJ battles/NNS most/RBS notably/RB against/IN Microsoft/NNP which/WDT is/VBZ pushing/VBG for/IN millions/NNS of/IN dollars/NNS in/IN damages./NN
+The/DT company/NN said/VBD filing/VBG for/IN Chapter/NN 11/CD would/MD help/VB it/PRP try/VB to/TO resolve/VB its/PRP$ legal/JJ problems/NNS but/CC still/RB keep/VB trading./NN
+
+Listed/VBN as/IN the/DT third/JJ biggest/JJS spammer/NN in/IN the/DT world/NN by/IN junk/NN mail/NN watchdog/NN Spamhaus/NNP OptInRealBig/NNP was/VBD sued/VBN in/IN December/NNP 2003/CD for/IN sending/VBG mail/NN messages/NNS that/WDT violated/VBD anti-spam/JJ laws./NN
+The/DT lawsuit/NN was/VBD brought/VBN by/IN Microsoft/NNP and/CC New/NNP York/NNP attorney/NN general/NN Eliot/NNP Spitzer/NNP who/WP alleged/VBD that/IN Mr/NNP Richter/NNP and/CC his/PRP$ accomplices/NNS sent/VBD billions/NNS of/IN spam/NN messages/NNS through/IN 514/CD compromised/VBN net/JJ addresses/NNS in/IN 35/CD countries./NN
+According/VBG to/TO Microsoft/NNP the/DT messages/NNS were/VBD sent/VBN via/IN net/JJ addresses/NNS owned/VBN by/IN the/DT Kuwait/NNP Ministries/NNS of/IN Communication/NNP and/CC Finance/NNP several/JJ Korean/JJ schools/NNS the/DT Seoul/NNP Municipal/NNP Boramae/NNP Hospital/NNP and/CC the/DT Virginia/NNP Community/NNP College/NNP System./NNP
+Mr/NNP Richter/NNP settled/VBD the/DT attorney/NN general/NN case/NN in/IN July/NNP 2004/CD but/CC the/DT legal/JJ fight/NN with/IN Microsoft/NNP is/VBZ continuing./NN
+Microsoft/NNP is/VBZ seeking/VBG millions/NNS in/IN dollars/NNS in/IN damages/NNS from/IN OptInRealBig/NNP under/IN anti-spam/JJ laws/NNS that/WDT impose/NN penalties/NNS for/IN every/DT violation./NN
+In/IN a/DT statement/NN announcing/VBG the/DT desire/NN to/TO seek/VB bankruptcy/NN protection/NN the/DT company/NN said/VBD it/PRP "could/NN not/RB continue/VB to/TO contend/VB with/IN legal/JJ maneuvers/NNS (sic)/NN by/IN a/DT number/NN of/IN companies/NNS across/IN the/DT country/NN including/VBG Microsoft/NNP and/CC still/RB run/VB a/DT viable/JJ business."/NN In/IN its/PRP$ Chapter/NN 11/CD filing/NN OptInRealBig/NNP claimed/VBD it/PRP had/VBD assets/NNS of/IN less/JJR than/IN $10m/CD (£5.29m)/CD but/CC debts/NNS of/IN more/JJR than/IN $50m/CD which/WDT included/VBD the/DT $46m/CD that/IN Microsoft/NNP is/VBZ seeking/VBG via/IN its/PRP$ lawsuit./NN
+"The/NN litigation/NN has/VBZ been/VBN a/DT relentless/JJ distraction/NN with/IN which/WDT to/TO contend"/VB said/VBD Steven/NNP Richter/NNP legal/JJ counsel/NN for/IN OptInRealBig./NNP
+"But/NN make/VBP no/DT mistake/NN we/PRP do/VBP expect/VB to/TO prevail."/VB For/IN its/PRP$ part/NN OptInRealBig/NNP describes/VBZ itself/PRP as/IN a/DT premier/NN internet/JJ marketing/NN company/NN and/CC said/VBD the/DT move/NN to/TO seek/VB Chapter/NN 11/CD was/VBD necessary/JJ to/TO let/VB it/PRP keep/VB trading/VBG while/IN sorting/VBG out/RP its/PRP$ legal/JJ battles./NN

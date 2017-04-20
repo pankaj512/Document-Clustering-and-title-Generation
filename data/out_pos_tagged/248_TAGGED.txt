@@ -1,0 +1,20 @@
+Survey/NN confirms/VBZ property/NN slowdown/NN
+
+Government/NN figures/NNS have/VBP confirmed/VBN a/DT widely/RB reported/VBD slowdown/NN of/IN the/DT UK's/NNP housing/NN market/NN in/IN late/JJ 2004./CD
+
+House/NN prices/NNS were/VBD 11.8%/CD higher/RBR on/IN the/DT year/NN in/IN the/DT last/JJ quarter/NN of/IN 2004/CD down/RB from/IN 16.3%/CD in/IN the/DT July-to-September/NNP quarter/NN the/DT Land/NNP Registry/NNP said./NN
+The/DT average/JJ house/NN price/NN in/IN England/NNP and/CC Wales/NNP was/VBD £182920/CD down/RB from/IN £187971/CD in/IN July-September./NNP
+The/DT volume/NN of/IN sales/NNS between/IN October/NNP and/CC December/NNP dropped/VBD by/IN nearly/RB a/DT quarter/NN from/IN the/DT same/JJ period/NN in/IN 2003./CD
+The/DT government/NN figures/NNS are/VBP the/DT first/JJ official/JJ confirmation/NN of/IN falls/NNS in/IN the/DT market/NN at/IN the/DT end/NN of/IN 2004./CD
+Land/NNP Registry/NNP figures/NNS are/VBP less/JJR up/IN to/TO date/VB than/IN those/DT of/IN banks/NNS and/CC building/NN societies/NNS since/IN they/PRP record/VBP completions/NNS not/RB mortgage/VBP approvals./NN
+However/RB the/DT figures/NNS are/VBP viewed/VBN as/IN the/DT most/RBS accurate/JJ measure/NN of/IN house/NN prices/NNS as/IN they/PRP include/VBP all/DT property/NN transactions/NNS including/VBG cash/NN sales./NN
+
+The/DT cost/NN of/IN buying/VBG a/DT home/NN fell/VBD in/IN seven/CD out/IN of/IN 10/CD regions/NNS between/IN the/DT third/JJ and/CC fourth/JJ quarters/NNS of/IN 2004./CD
+
+The/DT biggest/JJS annual/JJ gains/NNS were/VBD made/VBN in/IN Wales/NNP where/WRB house/NN prices/NNS were/VBD up/RB by/IN 23%/CD in/IN the/DT fourth/JJ quarter./NN
+House/NN prices/NNS rose/VBD the/DT slowest/JJS in/IN Greater/NNP London/NNP being/VBG up/RP by/IN 6%./CD
+In/IN the/DT capital/NN the/DT volume/NN of/IN sales/NNS fell/VBD by/IN 23%/CD from/IN 36185/CD in/IN 2003/CD to/TO 28041/CD for/IN the/DT same/JJ period/NN in/IN 2004./CD
+There/EX was/VBD also/RB a/DT decline/NN in/IN the/DT number/NN of/IN million-pound/JJ properties/NNS sold/VBN in/IN the/DT capital/NN with/IN 436/CD properties/NNS over/IN £1m/CD sold/VBN compared/VBN to/TO 469/CD for/IN the/DT same/JJ period/NN in/IN 2003./CD
+Although/IN the/DT figures/NNS point/NN to/TO a/DT slowdown/NN in/IN the/DT market/NN the/DT most/RBS recent/JJ surveys/NNS from/IN Nationwide/NNP and/CC Halifax/NNP have/VBP indicated/VBN the/DT market/NN may/MD be/VB undergoing/VBG a/DT revival./NN
+After/IN registering/NN falls/VBZ at/IN the/DT back/JJ end/NN of/IN 2004/CD Halifax/NNP said/VBD house/NN prices/NNS rose/VBD by/IN 0.8%/CD in/IN January/NNP and/CC Nationwide/NNP reported/VBD a/DT rise/NN of/IN 0.4%/CD in/IN the/DT first/JJ month/NN of/IN the/DT year./NN
+Members/NNS of/IN the/DT Bank/NNP of/IN England's/NNP rate-setting/JJ committee/NN will/MD make/VB their/PRP$ latest/JJS decision/NN on/IN interest/NN rates/NNS on/IN Thursday./NNP

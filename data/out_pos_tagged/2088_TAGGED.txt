@@ -1,0 +1,39 @@
+Broadband/NNP soars/NNS in/IN 2004/CD
+
+If/IN broadband/NN were/VBD a/DT jumbo/JJ jet/NN then/RB 2003/CD would/MD have/VB seen/VBN it/PRP taxiing/VBG down/RP the/DT runway/NN firing/NN up/RP its/PRP$ engines/NNS and/CC preparing/VBG for/IN take-off./JJ
+But/CC this/DT year/NN has/VBZ seen/VBN it/PRP soar./NN
+
+In/IN the/DT spring/NN it/PRP literally/RB took/VBD to/TO the/DT skies/NNS as/IN Lufthansa/NNP and/CC British/NNP Airways/NNPS trialled/VBD it/PRP on/IN flights./NN
+This/DT perhaps/RB said/VBD more/JJR about/IN how/WRB indispensable/JJ people/NNS were/VBD beginning/VBG to/TO perceive/VB the/DT technology/NN rather/RB than/IN how/WRB useful/JJ sky-high/JJ broadband/NN would/MD actually/RB be./VB
+It/PRP was/VBD flying/VBG high/JJ and/CC by/IN the/DT autumn/NN five/CD million/CD Britons/NNP had/VBD signed/VBN up/RP for/IN high-speed/JJ net/JJ access/NN at/IN home./NN
+
+Such/JJ enthusiasm/NN is/VBZ unlikely/JJ to/TO dampen/VB any/DT time/NN soon/RB and/CC experts/NNS predict/VBP that/IN by/IN the/DT end/NN of/IN next/JJ year/NN the/DT numbers/NNS will/MD have/VB risen/VBN to/TO more/JJR than/IN eight/CD million/CD or/CC more/JJR than/IN 30%/CD of/IN homes./NN
+The/DT two/CD key/JJ factors/NNS in/IN whetting/VBG people's/NNS appetite/NN were/VBD falling/VBG prices/NNS and/CC a/DT huge/JJ marketing/NN push./NN
+When/WRB operators/NNS such/JJ as/IN BT/NNP and/CC Telewest/NNP offered/VBD standard/JJ 512K/CD broadband/NN for/IN less/JJR than/IN £20/CD at/IN the/DT beginning/NN of/IN the/DT year/NN it/PRP was/VBD as/IN if/IN an/DT invisible/JJ barrier/NN had/VBD been/VBN breached/VBN -/: broadband/NN had/VBD truly/RB gone/VBN mass/NN market./NN
+A/DT feeding/VBG frenzy/NN followed/VBD as/IN firms/NNS vied/VBN for/IN eyeballs/NNS in/IN a/DT price/NN war/NN reminiscent/JJ of/IN that/DT following/VBG the/DT mass/NN market/NN take-up/JJ of/IN dial-up./JJ
+Broadband/NNP for/IN less/JJR than/IN £10/CD was/VBD even/RB touted/VBN by/IN some/DT firms/NNS although/IN such/PDT a/DT low/JJ price/NN raised/VBD eyebrows/NNS among/IN more/RBR established/JJ companies/NNS questioning/VBG how/WRB they/PRP are/VBP able/JJ to/TO sustain/VB such/JJ business/NN models./NN
+
+For/IN those/DT who/WP became/VBD broadbanders/NNS in/IN 2004/CD there/EX was/VBD no/DT turning/VBG back/RB and/CC the/DT days/NNS of/IN waiting/VBG for/IN the/DT modem/NN to/TO kick/VB in/IN began/VBD to/TO seem/VB as/IN outdated/VBN an/DT idea/NN as/IN a/DT jungle/NN without/IN celebrities./NN
+The/DT rest/NN of/IN the/DT world/NN was/VBD also/RB falling/VBG in/IN love/NN with/IN the/DT benefits/NNS of/IN fast/RB internet/JJ access/NN to/TO the/DT tune/NN of/IN 100/CD million/CD connections/NNS worldwide/NN by/IN April/NNP prompting/VBG research/NN firm/NN Point/NNP Topic/NN to/TO declare/VB it/PRP one/CD of/IN the/DT fastest/JJS growing/VBG technologies/NNS ever./NN
+By/IN September/NNP the/DT number/NN of/IN broadband/NN connections/NNS in/IN the/DT UK/NNP finally/RB overtook/NN dial-up/JJ and/CC in/IN December/NNP BT/NNP announced/VBD that/IN it/PRP was/VBD making/VBG a/DT new/JJ broadband/NN connection/NN every/DT 10/CD seconds./NN
+
+Broadband/NNP was/VBD being/VBG mentioned/VBN on/IN the/DT 10/CD O'clock/RB News/NNP and/CC in/IN the/DT tabloids/NNS the/DT Sun/NNP even/RB carried/VBD a/DT cartoon/NN joke/NN about/IN it./NN
+But/CC two/CD of/IN the/DT most/RBS significant/JJ pieces/NNS of/IN news/NN for/IN broadband/NN were/VBD items/NNS that/WDT did/VBD not/RB make/VB the/DT headlines./NN
+In/IN May/NNP BT/NNP quietly/RB announced/VBD that/IN it/PRP was/VBD shaving/VBG 70%/CD off/IN the/DT cost/NN of/IN allowing/VBG other/JJ operators/NNS access/NN to/TO its/PRP$ telephone/NN exchanges/NNS so-called/JJ local/JJ loop/NN unbundling./NN
+The/DT vital/JJ local/JJ loop/NN is/VBZ the/DT crucial/JJ link/NN between/IN telephone/NN exchanges/NNS and/CC homes./NN
+At/IN the/DT moment/NN BT/NNP has/VBZ a/DT stranglehold/NN on/IN more/JJR than/IN 80%/CD of/IN these/DT lines/NNS making/VBG it/PRP the/DT key/JJ voice/NN in/IN deciding/VBG what/WP ADSL/NNP products/NNS get/VBP into/IN homes./NN
+With/IN cheaper/JJR local/JJ loop/NN unbundling/VBG rivals/NNS to/TO BT/NNP can/MD offer/VB faster/JJR services/NNS that/WDT will/MD leave/VB the/DT broadband/NN of/IN today/NN looking/VBG positively/RB tortoise-like./JJ
+It/PRP will/MD mean/VB the/DT UK/NNP will/MD finally/RB catch/VB up/RP with/IN countries/NNS such/JJ as/IN France/NNP and/CC the/DT Netherlands/NNP where/WRB homes/NNS are/VBP routinely/RB enjoying/VBG speeds/NNS of/IN up/IN to/TO 15Mb/CD (megabits/NN per/IN second)./NN
+And/CC the/DT major/JJ price/NN fall/NN means/VBZ that/IN rather/RB than/IN just/RB talk/VBP about/IN it/PRP companies/VBZ are/VBP actually/RB starting/VBG to/TO get/VB their/PRP$ own/JJ equipment/NN into/IN BT's/NNP exchanges./NN
+It/PRP may/MD not/RB seem/VB that/IN exciting/JJ but/CC it/PRP is/VBZ a/DT remarkable/JJ transition/NN given/VBN that/IN just/RB a/DT few/JJ years/NNS ago/RB the/DT arguments/NNS over/IN local/JJ loop/NN unbundling/VBG bore/VBD more/JJR than/IN a/DT passing/VBG resemblance/NN to/TO the/DT Northern/NNP Ireland/NNP peace/NN talks/NNS -/: fraught/JJ bitter/JJ and/CC with/IN no/DT end/NN in/IN sight./NN
+
+Another/DT big/JJ piece/NN of/IN news/NN for/IN broadband/NN users/NNS in/IN 2004/CD was/VBD the/DT extension/NN of/IN BT's/NNP reach/VB meaning/VBG more/JJR than/IN 95%/CD of/IN the/DT population/NN could/MD get/VB broadband/NN regardless/RB of/IN how/WRB far/RB away/RB from/IN the/DT exchange/NN they/PRP lived./VBP
+
+There/EX was/VBD a/DT slight/JJ caveat/NN for/IN those/DT wanting/VBG to/TO upgrade/VB to/TO 1Mbps/CD broadband/NN they/PRP still/RB have/VBP to/TO live/VB within/IN six/CD kilometres/NNS of/IN a/DT broadband-enabled/JJ exchange./NN
+For/IN thousands/NNS frustrated/VBN by/IN their/PRP$ inability/NN to/TO get/VB the/DT technology/NN the/DT news/NN meant/VBD they/PRP could/MD finally/RB join/VB in./NN
+Broadband/NNP is/VBZ not/RB just/RB about/IN fast/RB access/NN over/IN the/DT telephone/NN and/CC cable/NN operators/NNS NTL/NNP and/CC Telewest/NNP also/RB had/VBD a/DT bumper/NN year./NN
+The/DT biggest/JJS news/NN for/IN them/PRP was/VBD increased/VBN speeds/NNS introducing/VBG 2Mb/CD and/CC 3Mb/CD services/NNS for/IN users/NNS and/CC offering/VBG a/DT free/JJ upgrade/NN to/TO those/DT on/IN 512K./CD
+The/DT cable/NN operators/NNS are/VBP limited/JJ in/IN their/PRP$ reach/NN and/CC it/PRP is/VBZ perhaps/RB testament/NN to/TO how/WRB big/JJ a/DT deal/NN local/JJ loop/NN unbundling/VBG could/MD become/VB that/IN even/RB they/PRP are/VBP considering/VBG extending/VBG their/PRP$ range/NN via/IN this/DT route./NN
+Broadband/NNP can/MD seem/VB confusing/JJ for/IN consumers/NNS with/IN the/DT huge/JJ amount/NN of/IN operators/NNS offering/NN so/RB many/JJ different/JJ products/NNS some/DT with/IN capped/VBD bandwidth/NN and/CC different/JJ length/NN contracts/NNS and/CC set-up/JJ fees./NN
+It/PRP is/VBZ unlikely/JJ to/TO get/VB any/DT less/RBR easy/JJ to/TO understand/VB in/IN 2005/CD but/CC remains/VBZ a/DT plane/NN worth/JJ catching./NN
+As/IN it/PRP gets/VBZ faster/RBR and/CC offers/VBZ extras/NNS such/JJ as/IN cheap/JJ telephone/NN calls/NNS online/VBG the/DT only/JJ real/JJ thing/NN to/TO remember/VB for/IN the/DT coming/VBG year/NN is/VBZ to/TO enjoy/VB the/DT ride./NN

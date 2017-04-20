@@ -1,0 +1,17 @@
+Slow/JJ start/NN to/TO speedy/JJ net/JJ services/NNS
+
+Faster/JJR broadband/NN in/IN the/DT UK/NNP is/VBZ becoming/VBG a/DT reality/NN as/IN more/RBR internet/JJ providers/NNS offer/VBP super-fast/JJ services./NN
+
+Some/DT lucky/JJ Britons/NNP can/MD already/RB take/VB advantage/NN of/IN UK/NNP Online's/NNP 8/CD megabits/NNS per/IN second/JJ service/NN which/WDT was/VBD launched/VBN in/IN November/NNP 2004./CD
+BT/NNP Retail/JJ has/VBZ announced/VBN that/IN it/PRP will/MD trial/VB the/DT same/JJ speed/NN service/NN with/IN a/DT national/JJ rollout/NN by/IN year/NN end./NN
+Other/JJ service/NN providers/NNS are/VBP expected/VBN to/TO follow/VB suit/NN and/CC a/DT glut/NN of/IN new/JJ voice/NN and/CC video/NN services/NNS will/MD follow./VB
+
+"If/NN the/DT bandwidth/NN is/VBZ there/EX then/RB ISPs/NNP will/MD buy/VB it"/NN said/VBD Jill/NNP Finger/NN a/DT research/NN director/NN at/IN analyst/NN firm/NN IDC./NNP
+Others/NNS will/MD be/VB watching/VBG BT/NNP Retail's/NNP trials/NNS which/WDT is/VBZ initially/RB for/IN employees/NNS and/CC later/RB in/IN the/DT summer/NN for/IN customers/NNS with/IN interest./JJ
+For/IN BT/NNP Retail/JJ she/PRP said/VBD the/DT super-fast/JJ service/NN could/MD be/VB a/DT way/NN of/IN differentiating/VBG it/PRP from/IN other/JJ players./NN
+"It/NN has/VBZ been/VBN losing/VBG market/NN share/NN and/CC this/DT could/MD be/VB one/CD way/NN of/IN gaining/VBG some/DT of/IN that/DT back"/NN said/VBD Ms/NNP Finger./NNP
+Wanadoo/NNP is/VBZ set/VBN to/TO trial/NN an/DT 8Mbps/CD service/NN in/IN the/DT summer/NN and/CC also/RB plans/NNS to/TO roll/VB out/RP unbundled/VBN services/NNS -/: which/WDT means/VBZ it/PRP takes/VBZ over/IN the/DT network/NN from/IN BT/NNP -/: which/WDT will/MD provide/VB speeds/NNS of/IN up/IN to/TO 15Mbps./CD
+There/EX is/VBZ no/DT timetable/NN for/IN this/DT at/IN the/DT moment./NN
+Cable/NN firms/NNS ntl/NN and/CC Telewest/NNP are/VBP also/RB bound/VBN to/TO increase/VB bandwidth/NN at/IN some/DT time/NN in/IN the/DT future/JJ and/CC according/VBG to/TO an/DT ntl/NN spokesman/NN are/VBP in/IN a/DT better/JJR position/NN than/IN BT/NNP in/IN the/DT long/RB term./NN
+"BT's/NN network/NN is/VBZ limited/JJ compared/VBN to/TO that/DT of/IN cable./NN
+With/IN all/PDT the/DT other/JJ services/NNS coming/VBG on/IN stream/NN such/JJ as/IN video/NN on/IN demand/NN the/DT question/NN is/VBZ will/MD 8Mbps/CD be/NN enough?"/NN he/PRP asked./VB

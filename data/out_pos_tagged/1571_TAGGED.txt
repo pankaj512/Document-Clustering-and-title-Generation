@@ -1,0 +1,18 @@
+Spain/NNP coach/NN faces/VBZ racism/NN inquiry/NN
+
+Spain's/NNP Football/NN Federation/NNP has/VBZ initiated/VBN disciplinary/JJ action/NN against/IN national/JJ coach/NN Luis/NNP Aragones/NNP over/IN racist/JJ comments/NNS about/IN Thierry/NNP Henry./NNP
+
+If/IN found/VBN guilty/JJ Aragones/NNP could/MD lose/VB his/PRP$ job/NN or/CC face/VB a/DT fine/NN of/IN about/IN £22000./CD
+The/DT federation/NN had/VBD initially/RB declined/VBN to/TO take/VB action/NN against/IN Aragones/NNP after/IN comments/NNS he/PRP made/VBD during/IN a/DT national/JJ team/NN training/NN session/NN in/IN October./NNP
+But/CC its/PRP$ president/NN Angel/NNP Maria/NNP Villar/NNP changed/VBD his/PRP$ mind/NN after/IN a/DT request/NN by/IN Spain's/NNP anti-violence/JJ commission./NN
+Aragones/NNP insisted/VBD the/DT comments/NNS made/VBN to/TO Henry's/NNP Arsenal/NN club-mate/JJ Jose/NNP Antonio/NNP Reyes/NNP were/VBD meant/VBN to/TO motivate/VB the/DT player/NN and/CC were/VBD not/RB intended/VBN to/TO be/VB offensive./NN
+
+"I/NN never/RB intended/VBD to/TO offend/VB anyone/NN and/CC for/IN that/DT reason/NN I/PRP have/VBP a/DT very/RB easy/JJ conscience"/NN he/PRP said/VBD at/IN the/DT time./NN
+"I'm/NN obliged/VBN to/TO motivate/VB my/PRP$ players/NNS to/TO get/VB the/DT best/JJS results./NN
+"As/NN part/NN of/IN that/DT job/NN I/PRP use/VBP colloquial/JJ language/NN with/IN which/WDT we/PRP can/MD all/DT understand/VB each/DT other/JJ within/IN the/DT framework/NN of/IN the/DT football/NN world./NN
+''/'' England's/NNP players/NNS made/VBD a/DT point/NN of/IN wearing/VBG anti-racism/JJ t-shirts/NNS when/WRB training/NN before/IN their/PRP$ friendly/NN against/IN Spain/NNP in/IN Madrid/NNP last/JJ month./NN
+
+But/CC the/DT storm/NN increased/VBD following/VBG racist/JJ chanting/NN by/IN Spanish/JJ fans/NNS at/IN England's/NNP black/JJ players/NNS during/IN the/DT game/NN which/WDT Spain/NNP won/VBD 1-0./JJ
+Spain's/NNP minister/NN of/IN sport/NN Jaime/NNP Lissavetzky/NNP was/VBD quick/JJ to/TO give/VB his/PRP$ backing/NN to/TO the/DT Federation's/NNP decision./NN
+"Everyone/NN who/WP has/VBZ a/DT public/JJ function/NN has/VBZ to/TO consider/VB their/PRP$ declarations/NNS and/CC make/VB sure/JJ they/PRP do/VBP not/RB give/VB a/DT negative/JJ image"/NN he/PRP said./VB
+"We/NN are/VBP going/VBG to/TO have/VB zero/CD tolerance/NN in/IN questions/NNS of/IN racism."/NN

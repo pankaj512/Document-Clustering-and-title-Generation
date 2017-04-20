@@ -1,0 +1,22 @@
+MCI/NNP shares/NNS climb/NN on/IN takeover/NN bid/NN
+
+Shares/NNS in/IN US/PRP phone/VBP company/NN MCI/NNP have/VBP risen/VBN on/IN speculation/NN that/IN it/PRP is/VBZ in/IN takeover/NN talks./NN
+
+The/DT Wall/NNP Street/NNP Journal/NNP reported/VBD on/IN Thursday/NNP that/IN Qwest/NNP has/VBZ bid/NN $6.3bn/CD (£3.4bn)/CD for/IN MCI./NNP
+Other/JJ firms/NNS have/VBP also/RB expressed/VBN an/DT interest/NN in/IN MCI/NNP the/DT second-largest/JJ US/PRP long-distance/JJ phone/NN firm/NN and/CC may/MD now/RB table/VB rival/JJ bids/NNS analysts/NNS said./NN
+Shares/NNS in/IN MCI/NNP which/WDT changed/VBD its/PRP$ name/NN from/IN Worldcom/NNP when/WRB it/PRP emerged/VBD from/IN bankruptcy/NN were/VBD up/RB 2.4%/CD at/IN $20.15./CD
+Press/NN reports/NNS suggest/VBP that/IN Qwest/NNP and/CC MCI/NNP may/MD reach/VB an/DT agreement/NN as/RB early/RB as/IN next/JJ week/NN although/IN rival/JJ bids/NNS may/MD muddy/VB the/DT waters./NN
+The/DT largest/JJS US/PRP telephone/VBP company/NN Verizon/NNP has/VBZ previously/RB held/VBN preliminary/JJ merger/NN discussions/NNS with/IN MCI/NNP Reuters/NNP quoted/VBD sources/NNS as/IN saying./NN
+
+Consolidation/NN in/IN the/DT US/PRP telecommunications/VBZ industry/NN has/VBZ picked/VBN up/RP in/IN the/DT past/JJ few/JJ months/NNS as/IN companies/NNS look/VBP to/TO cut/VB costs/NNS and/CC boost/VB client/NN bases./NN
+A/DT merger/NN between/IN MCI/NNP and/CC Qwest/NNP would/MD be/VB the/DT fifth/JJ billion-dollar/JJ telecoms/NNS deal/NN since/IN October./NNP
+Last/JJ week/NN SBC/NNP Communications/NNPS agreed/VBD to/TO buy/VB its/PRP$ former/JJ parent/NN and/CC phone/NN trailblazer/NN AT&T/NNP for/IN about/RB $16bn./CD
+Competition/NN has/VBZ intensified/VBN and/CC fixed-line/JJ phone/NN providers/NNS such/JJ as/IN MCI/NNP and/CC AT&T/NNP have/VBP seen/VBN themselves/PRP overtaken/VBP by/IN rivals./NN
+Buying/VBG MCI/NNP would/MD give/VB Qwest/NNP a/DT local/JJ phone/NN service/NN provider/NN access/NN to/TO MCI's/NNP global/JJ network/NN and/CC business-based/JJ subscribers./NN
+MCI/NNP also/RB offers/VBZ internet/JJ services./NN
+
+MCI/NNP was/VBD renamed/VBN after/IN it/PRP emerged/VBD from/IN Chapter/NN 11/CD bankruptcy/NN protection/NN in/IN April/NNP last/JJ year./NN
+It/PRP hit/VBD the/DT headlines/NNS as/IN Worldcom/NNP in/IN 2002/CD after/IN admitting/VBG it/PRP illegally/RB booked/VBD expenses/NNS and/CC inflated/VBN profits./NN
+The/DT scandal/NN was/VBD a/DT key/JJ factor/NN in/IN a/DT global/JJ slide/NN in/IN share/NN prices/NNS and/CC the/DT reverberations/NNS are/VBP still/RB being/VBG felt/VBD today./NN
+Shareholders/NNS lost/VBD about/IN $180bn/CD when/WRB the/DT company/NN collapsed/VBD while/IN 20000/CD workers/NNS lost/VBD their/PRP$ jobs./NN
+Former/NNP Worldcom/NNP boss/NN Bernie/NNP Ebbers/NNP is/VBZ currently/RB on/IN trial/NN accused/VBN of/IN overseeing/VBG an/DT $11bn/CD fraud./NN

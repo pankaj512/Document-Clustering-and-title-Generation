@@ -1,0 +1,19 @@
+Apple/NNP attacked/VBD over/IN sources/NNS row/NN
+
+Civil/NN liberties/NNS group/VBP the/DT Electronic/NNP Frontier/NNP Foundation/NNP (EFF)/NN has/VBZ joined/VBN a/DT legal/JJ fight/NN between/IN three/CD US/PRP online/VBP journalists/NNS and/CC Apple./NNP
+
+Apple/NNP wants/VBZ the/DT reporters/NNS to/TO reveal/VB 20/CD sources/NNS used/VBN for/IN stories/NNS which/WDT leaked/VBD information/NN about/IN forthcoming/JJ products/NNS including/VBG the/DT Mac/NNP Mini./NNP
+The/DT EFF/NNP representing/VBG the/DT reporters/NNS has/VBZ asked/VBN California's/NNP Superior/NNP court/NN to/TO stop/VB Apple/NNP pursuing/VBG the/DT sources./NN
+It/PRP argues/VBZ that/IN the/DT journalists/NNS are/VBP protected/VBN by/IN the/DT American/JJ constitution./NN
+The/DT EFF/NNP says/VBZ the/DT case/NN threatens/VBZ the/DT basic/JJ freedoms/NNS of/IN the/DT press./NN
+
+Apple/NNP is/VBZ particularly/RB keen/JJ to/TO find/VB the/DT source/NN for/IN information/NN about/IN an/DT unreleased/VBN product/NN code-named/NNP Asteroid/NNP and/CC has/VBZ asked/VBN the/DT journalists'/NN e-mail/JJ providers/NNS to/TO hand/VB over/IN communications/NNS relevant/JJ to/TO that./VB
+"Rather/NN than/IN confronting/VBG the/DT issue/NN of/IN reporter's/NNS privilege/VBP head-on/JJ Apple/NNP is/VBZ going/VBG to/TO the/DT journalist's/NNS ISPs/NNP for/IN his/PRP$ e-mails"/NN said/VBD EFF/NNP lawyer/NN Kurt/NNP Opsahl./NNP
+"This/NN undermines/NNS a/DT fundamental/JJ First/NNP Amendment/NNP right/NN that/WDT protects/VBZ all/DT reporters./NN
+"If/NN the/DT court/NN lets/VBZ Apple/NNP get/VB away/RB with/IN this/DT and/CC exposes/VBZ the/DT confidences/NNS gained/VBN by/IN these/DT reporters/NNS potential/JJ confidential/JJ sources/NNS will/MD be/VB deterred/VBN from/IN providing/VBG information/NN to/TO the/DT media/NNS and/CC the/DT public/NN will/MD lose/VB a/DT vital/JJ outlet/NN for/IN independent/JJ news/NN analysis/NN and/CC commentary"/NN he/PRP said./VB
+The/DT case/NN began/VBD in/IN December/NNP 2004/CD when/WRB Apple/NNP asked/VBD a/DT local/JJ Californian/NN court/NN to/TO get/VB the/DT journalists/NNS to/TO reveal/VB their/PRP$ sources/NNS for/IN articles/NNS published/VBN on/IN websites/NNS AppleInsider.com/NNP and/CC PowerPage.org./NNP
+
+Apple/NNP also/RB sent/VBD requested/VBN information/NN from/IN the/DT Nfox.com/NNP the/DT internet/JJ service/NN provider/NN of/IN PowerPage's/NNP publisher/NN Jason/NNP O-Grady./NNP
+As/RB well/RB as/IN looking/VBG at/IN how/WRB far/RB corporations/NNS can/MD go/VB in/IN preventing/VBG information/NN from/IN being/VBG published/VBN the/DT case/NN will/MD also/RB examine/VB whether/IN online/NN journalists/NNS have/VBP the/DT same/JJ privileges/NNS and/CC protections/NNS as/IN those/DT writing/VBG for/IN newspapers/NNS and/CC magazines./NN
+The/DT EFF/NNP has/VBZ gained/VBN some/DT powerful/JJ allies/NNS in/IN its/PRP$ legal/JJ battle/NN with/IN Apple/NNP including/VBG Professor/NNP Tom/NNP Goldstein/NNP former/JJ dean/NN of/IN the/DT Journalism/NNP School/NNP at/IN the/DT University/NNP of/IN California/NNP and/CC Dan/NNP Gillmor/NNP a/DT well-known/JJ Silicon/NNP Valley/NNP journalist./NN
+Apple/NNP was/VBD not/RB immediately/RB available/JJ for/IN comment./NN

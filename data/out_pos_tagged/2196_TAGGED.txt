@@ -1,0 +1,21 @@
+Text/NN message/NN record/NN smashed/VBD again/RB
+
+UK/NNP mobile/JJ owners/NNS continue/VBP to/TO break/VB records/NNS with/IN their/PRP$ text/NN messaging/VBG with/IN latest/JJS figures/NNS showing/VBG that/IN 26/CD billion/CD texts/NNS were/VBD sent/VBN in/IN total/JJ in/IN 2004./CD
+
+The/DT figures/NNS collected/VBN by/IN the/DT Mobile/NNP Data/NNP Association/NNP (MDA)/NN showed/VBD that/IN 2.4/CD billion/CD were/VBD fired/VBN off/RP in/IN December/NNP alone/RB the/DT highest/JJS monthly/JJ total/JJ ever./NN
+That/DT was/VBD 26%/CD more/JJR than/IN in/IN December/NNP 2003./CD
+The/DT records/NNS even/RB surpassed/VBN the/DT MDA's/NNP own/JJ predictions/NNS it/PRP said./NN
+Every/DT day/NN 78/CD million/CD messages/NNS are/VBP sent/VBN and/CC there/EX are/VBP no/DT signs/NNS of/IN a/DT slow/JJ down./NN
+Before/IN December's/NNP bumper/NN text/NN record/NN the/DT previous/JJ highest/JJS monthly/JJ total/NN was/VBD in/IN October/NNP 2004/CD when/WRB 2.3/CD billion/CD were/VBD sent./NN
+Text/NN messaging/NN is/VBZ set/VBN to/TO smash/VB more/JJR records/NNS in/IN 2005/CD too/RB said/VBD the/DT MDA/NNP with/IN forecasts/NNS suggesting/VBG a/DT total/NN of/IN 30/CD billion/CD for/IN the/DT year./NN
+
+Even/RB though/IN mobiles/NNS are/VBP becoming/VBG increasingly/RB sophisticated/JJ with/IN much/RB more/JJR multimedia/NNS applications/NNS texting/VBG is/VBZ still/RB one/CD of/IN the/DT most/RBS useful/JJ functions/NNS of/IN mobiles./NN
+People/NNS are/VBP using/VBG SMS/NNP to/TO do/VB much/RB more/JJR too./NN
+Booking/VBG cinema/NN tickets/NNS text/NN voting/NN and/CC news/NN or/CC sports/NNS text/NN alerts/NNS are/VBP growing/VBG popular./NN
+Mobile/NN owners/NNS have/VBP also/RB given/VBD the/DT chance/NN to/TO donate/VB to/TO the/DT Disasters/NNS Emergency/NNP Committee's/NNP (DEC)/NN Asian/JJ Tsunami/NN fund/NN by/IN texting/VBG "Donate"/NN to/TO a/DT simple/JJ short/JJ code/NN number./NN
+Looking/VBG further/JJ ahead/RB in/IN the/DT year/NN the/DT MDA's/NNP chairman/NN Mike/NNP Short/JJ has/VBZ predicted/VBN that/IN more/JJR people/NNS will/MD go/VB online/NN through/IN their/PRP$ mobiles/NNS estimating/VBG 15/CD billion/CD WAP/NNP page/NN impressions./NN
+Handsets/NNPS with/IN GPRS/NNP capability/NN -/: an/DT "always/NN on"/NN net/JJ connection/NN -/: will/MD rise/VB to/TO 75%/CD while/IN 3G/CD mobile/JJ ownership/NN growing/VBG to/TO five/CD million/CD by/IN the/DT end/NN of/IN 2005./CD
+These/DT third/JJ generation/NN mobiles/NNS offer/VBP a/DT high-speed/JJ connection/NN which/WDT means/VBZ more/JJR data/NNS like/IN video/NN can/MD be/VB received/VBN on/IN the/DT phone./NN
+Globally/RB mobile/JJ phone/NN sales/NNS passed/VBD 167/CD million/CD in/IN the/DT third/JJ quarter/NN of/IN 2004/CD according/VBG to/TO a/DT recent/JJ report/NN from/IN analysts/NNS Gartner./NNP
+That/DT was/VBD 26%/CD more/JJR than/IN the/DT previous/JJ year./NN
+It/PRP is/VBZ predicted/VBN that/IN there/EX would/MD be/VB two/CD billion/CD handsets/NNS in/IN use/NN worldwide/NN by/IN the/DT end/NN of/IN 2005./CD

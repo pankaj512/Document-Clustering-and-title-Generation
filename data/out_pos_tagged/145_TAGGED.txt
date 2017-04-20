@@ -1,0 +1,15 @@
+Winn-Dixie/NN files/NNS for/IN bankruptcy/NN
+
+US/PRP supermarket/VBP group/NN Winn-Dixie/NNP has/VBZ filed/VBD for/IN bankruptcy/NN protection/NN after/IN succumbing/VBG to/TO stiff/JJ competition/NN in/IN a/DT market/NN dominated/VBN by/IN Wal-Mart./NNP
+
+Winn-Dixie/NNP once/RB among/IN the/DT most/RBS profitable/JJ of/IN US/PRP grocers/VBZ said/VBD Chapter/NN 11/CD protection/NN would/MD enable/VB it/PRP to/TO successfully/RB restructure./VB
+It/PRP said/VBD its/PRP$ 920/CD stores/NNS would/MD remain/VB open/JJ but/CC analysts/NNS said/VBD it/PRP would/MD most/RBS likely/JJ off-load/JJ a/DT number/NN of/IN sites./NN
+The/DT Jacksonville/NNP Florida-based/JJ firm/NN has/VBZ total/JJ debts/NNS of/IN $1.87bn/CD (£980m)./CD
+In/IN its/PRP$ bankruptcy/NN petition/NN it/PRP listed/VBD its/PRP$ biggest/JJS creditor/NN as/IN US/PRP foods/VBZ giant/JJ Kraft/NNP Foods/NNP which/WDT it/PRP owes/VBZ $15.1m./CD
+
+Analysts/NNS say/VBP Winn-Dixie/NNP had/VBD not/RB kept/VBN up/RP with/IN consumers'/NN demands/NNS and/CC had/VBD also/RB been/VBN burdened/VBN by/IN a/DT number/NN of/IN stores/NNS in/IN need/NN of/IN upgrading./NN
+A/DT 10-month/JJ restructuring/NN plan/NN was/VBD deemed/VBN a/DT failure/NN and/CC following/VBG a/DT larger-than-expected/JJ quarterly/JJ loss/NN earlier/RBR this/DT month/NN Winn-Dixie's/NNP slide/NN into/IN bankruptcy/NN was/VBD widely/RB expected./NN
+The/DT company's/VBZ new/JJ chief/JJ executive/NN Peter/NNP Lynch/NNP said/VBD Winn-Dixie/NNP would/MD use/VB the/DT Chapter/NN 11/CD breathing/VBG space/NN to/TO take/VB the/DT necessary/JJ action/NN to/TO turn/VB itself/PRP around./VBP
+"This/NN includes/VBZ achieving/VBG significant/JJ cost/NN reductions/NNS improving/VBG the/DT merchandising/NN and/CC customer/NN service/NN in/IN all/DT locations/NNS and/CC generating/VBG a/DT sense/NN of/IN excitement/NN in/IN the/DT stores"/NN he/PRP said./VB
+Yet/RB Evan/NNP Mann/NNP a/DT senior/JJ bond/NN analyst/NN at/IN Gimme/NNP Credit/NNP said/VBD Mr/NNP Lynch's/NNP job/NN would/MD not/RB be/VB easy/JJ as/IN the/DT bankruptcy/NN would/MD inevitably/RB put/VB off/RP some/DT customers./NN
+"The/NN real/JJ big/JJ issue/NN is/VBZ what's/NNS going/VBG to/TO happen/VB over/IN the/DT next/JJ one/CD or/CC two/CD quarters/NNS now/RB that/IN they/PRP are/VBP in/IN bankruptcy/NN and/CC all/DT their/PRP$ customers/NNS see/VBP this/DT in/IN their/PRP$ local/JJ newspapers"/NN he/PRP said./VB

@@ -1,0 +1,18 @@
+Parmalat/NN sues/NNS 45/CD banks/NNS over/IN crash/NN
+
+Parmalat/NNP has/VBZ sued/VBN 45/CD banks/NNS as/IN it/PRP tries/VBZ to/TO reclaim/VB money/NN paid/VBN to/TO banks/NNS before/IN the/DT scandal-hit/JJ Italian/JJ dairy/NN company/NN went/VBD bust/NN last/JJ year./NN
+
+The/DT firm/NN collapsed/VBD with/IN debts/NNS of/IN about/IN 14bn/CD euros/NNS ($19bn/CD £10bn)/CD and/CC new/JJ boss/NN Enrico/NNP Bondi/NNP has/VBZ already/RB taken/VBN legal/JJ action/NN against/IN a/DT number/NN of/IN lenders./NN
+He/PRP claims/VBZ the/DT banks/NNS were/VBD aware/JJ of/IN the/DT problems/NNS but/CC continued/VBD to/TO work/VB with/IN the/DT company/NN so/IN they/PRP could/MD earn/VB commissions./NN
+Parmalat/NNP has/VBZ not/RB identified/VBN which/WDT banks/NNS it/PRP has/VBZ gone/VBN after/IN this/DT time./NN
+Under/IN Italian/JJ law/NN administrators/NNS can/MD seek/VB to/TO get/VB back/RB money/NN paid/VBN to/TO financial/JJ institutions/NNS prior/RB to/TO insolvency/NN if/IN there/EX is/VBZ a/DT suspicion/NN that/IN the/DT institutions/NNS knew/VBD that/IN the/DT company/NN was/VBD in/IN financial/JJ trouble./NN
+The/DT firm/NN also/RB said/VBD it/PRP is/VBZ preparing/VBG further/JJ law/NN suits./NN
+
+According/VBG to/TO the/DT Reuters/NNP news/NN agency/NN 35/CD of/IN the/DT companies/NNS sued/VBD on/IN Thursday/NNP are/VBP Italian/JJ while/IN the/DT remaining/VBG 10/CD are/VBP international./JJ
+The/DT unidentified/JJ Parmalat/NNP source/NN also/RB told/VBD Reuters/NNP that/IN the/DT company/NN was/VBD planning/VBG to/TO take/VB action/NN against/IN a/DT total/NN of/IN 80/CD financial/JJ institutions./NN
+Among/IN those/DT already/RB targeted/VBN are/VBP Bank/NNP of/IN America/NNP UBS/NNP Credit/NNP Suisse/NNP First/NNP Boston/NNP Deutsche/NNP Bank/NNP and/CC Citigroup./NNP
+It/PRP has/VBZ also/RB gone/VBN after/IN auditors/NNS Grant/NNP Thornton./NNP
+They/PRP have/VBP all/DT denied/VBN any/DT wrongdoing./NN
+Parmalat/NNP was/VBD declared/VBN insolvent/JJ in/IN December/NNP 2003/CD after/IN it/PRP emerged/VBD that/IN 4bn/CD euros/NNS thought/VBN to/TO be/VB held/VBN in/IN an/DT offshore/JJ account/NN did/VBD not/RB in/IN fact/NN exist./NN
+In/IN the/DT investigation/NN that/WDT followed/VBD it/PRP became/VBD apparent/JJ that/IN the/DT company/NN among/IN other/JJ things/NNS had/VBD been/VBN billing/NN clients/NNS twice/RB in/IN order/NN to/TO boost/VB sales/NNS and/CC bolster/VB the/DT balance/NN sheet./NN
+That/DT enabled/VBD Parmalat/NNP to/TO borrow/VB heavily/RB and/CC expand/VB overseas/JJ allowing/NN it/PRP to/TO become/VB a/DT darling/NN of/IN the/DT Italian/JJ stock/NN exchange./NN

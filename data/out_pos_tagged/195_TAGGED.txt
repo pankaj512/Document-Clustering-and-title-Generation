@@ -1,0 +1,27 @@
+UK/NNP 'risks/NN breaking/VBG golden/JJ rule'/NN
+
+The/DT UK/NNP government/NN will/MD have/VB to/TO raise/VB taxes/NNS or/CC rein/VB in/RP spending/NN if/IN it/PRP wants/VBZ to/TO avoid/VB breaking/VBG its/PRP$ "golden/NN rule"/NN a/DT report/NN suggests./NN
+
+The/DT rule/NN states/NNS that/IN the/DT government/NN can/MD borrow/VB cash/NN only/RB to/TO invest/VB and/CC not/RB to/TO finance/VB its/PRP$ spending/NN projects./NN
+The/DT National/NNP Institute/NNP of/IN Economic/NNP and/CC Social/NNP Research/NNP (NIESR)/NN claims/VBZ that/IN taxes/NNS need/VBP to/TO rise/VB by/IN about/IN £10bn/CD if/IN state/NN finances/NNS are/VBP to/TO be/VB put/VBN in/IN order./NN
+The/DT Treasury/NNP said/VBD its/PRP$ plans/NNS were/VBD on/IN track/NN and/CC funded/VBN until/IN 2008./CD
+According/VBG to/TO NIESR/NNP if/IN the/DT government's/NNS current/JJ economic/JJ cycle/NN runs/VBZ until/IN March/NNP 2006/CD then/RB it/PRP is/VBZ "unlikely"/NN the/DT golden/JJ rule/NN will/MD be/VB met./NN
+Should/MD the/DT cycle/NN end/NN a/DT year/NN earlier/RBR then/RB the/DT chances/NNS improve/VBP to/TO "50/50"./CD
+Either/CC way/NN fiscal/JJ tightening/NN is/VBZ needed/VBN NIESR/NNP said./NN
+
+The/DT report/NN is/VBZ the/DT latest/JJS to/TO call/VB into/IN question/NN the/DT viability/NN of/IN government/NN spending/NN projections./NN
+Earlier/RBR this/DT month/NN accountancy/NN firm/NN Ernst/NNP &/CC Young/NNP said/VBD that/IN Chancellor/NNP of/IN the/DT Exchequer/NNP Gordon/NNP Brown's/NNP forecasts/NNS for/IN tax/NN revenues/NNS were/VBD too/RB optimistic./NN
+
+It/PRP claimed/VBD revenues/NNS were/VBD likely/JJ to/TO be/VB £6bn/CD below/IN estimates/NNS by/IN the/DT end/NN of/IN the/DT tax/NN year/NN despite/IN the/DT economy/NN growing/VBG in/IN line/NN with/IN forecasts./NN
+A/DT Treasury/NNP spokesperson/NN dismissed/VBD the/DT latest/JJS claims/NNS saying/VBG it/PRP was/VBD "on/NN track/NN to/TO meeting/NN spending/NN rules/NNS and/CC the/DT golden/JJ rule/NN in/IN the/DT current/JJ cycle/NN and/CC beyond"./NN
+"Spending/VBG plans/NNS have/VBP been/VBN set/VBN out/RP until/IN 2008/CD and/CC they/PRP are/VBP fully/RB affordable."/NN Other/JJ than/IN its/PRP$ warning/NN on/IN possible/JJ tax/NN hikes/NNS the/DT NIESR/NNP report/NN was/VBD optimistic/JJ about/IN the/DT state/NN of/IN the/DT UK/NNP and/CC global/JJ economy./NN
+
+It/PRP said/VBD the/DT recent/JJ record-busting/JJ surge/NN in/IN oil/NN prices/NNS would/MD have/VB a/DT limited/VBN effect/NN on/IN worldwide/NN expansion/NN saying/VBG that/IN if/IN anything/NN the/DT "world/NN economy/NN will/MD continue/VB to/TO grow/VB strongly"./NN
+Global/JJ gross/JJ domestic/JJ product/NN (GDP)/NN is/VBZ tipped/VBN to/TO be/VB 4.1%/CD this/DT year/NN dipping/VBG to/TO 4%/CD in/IN 2005/CD before/IN picking/VBG up/RP again/RB to/TO 4.2%/CD in/IN 2006./CD
+The/DT US/PRP will/MD continue/VB to/TO drive/VB expansion/NN until/IN 2006/CD albeit/IN at/IN a/DT slightly/RB slower/JJR rate/NN as/IN will/MD be/VB the/DT case/NN in/IN Japan./NNP
+Hinting/VBG at/IN better/JJR times/NNS for/IN UK/NNP exporters/NNS NIESR/NNP said/VBD the/DT euro/NN zone/NN "is/NN expected/VBN to/TO pick/VB up/RP speed"./NN
+
+Growth/NN in/IN Britain/NNP also/RB is/VBZ set/VBN to/TO accelerate/VB it/PRP forecast./NN
+"Despite/NN weak/JJ growth/NN in/IN the/DT third/JJ quarter/NN the/DT forces/NNS sustaining/VBG the/DT upswing/NN remain/VBP intact/JJ and/CC the/DT economy/NN will/MD expand/VB robustly/RB in/IN 2005/CD and/CC 2006"/CD NIESR/NNP said/VBD adding/VBG that/DT "the/NN economy/NN will/MD become/VB better/JJR balanced/JJ over/IN the/DT next/JJ two/CD years/NNS as/IN exports/NNS stage/VBP a/DT recovery"./NN
+GDP/NNP is/VBZ expected/VBN at/IN 3.2%/CD in/IN 2004/CD and/CC 2.8%/CD in/IN both/DT 2005/CD and/CC 2006./CD
+The/DT main/JJ cloud/NN on/IN the/DT horizon/NN NIESR/NNP said/VBD was/VBD the/DT UK's/NNP much/JJ analysed/VBD and/CC fretted/VBD over/IN property/NN market./NN

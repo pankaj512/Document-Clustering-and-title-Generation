@@ -1,0 +1,13 @@
+DaimlerChrysler's/NNP 2004/CD sales/NNS rise/VBP
+
+US-German/NNP carmaker/NN DaimlerChrysler/NNP has/VBZ sold/VBN 2.1%/CD more/JJR cars/NNS in/IN 2004/CD than/IN in/IN the/DT previous/JJ year/NN as/IN solid/JJ Chrysler/NNP sales/NNS offset/VBD a/DT weak/JJ showing/NN for/IN Mercedes./NNP
+
+Sales/NNS totalled/VBD 3.9/CD million/CD units/NNS worldwide/NN during/IN 2004/CD the/DT company/NN said/VBD at/IN the/DT Detroit/NNP Motor/NNP Show./NNP
+A/DT switch/NN to/TO new/JJ models/NNS hit/VBD luxury/NN marque/NN Mercedes-Benz/NNP with/IN sales/NNS down/RB 3.1%/CD at/IN 1.06/CD million./NN
+Chrysler/NNP avoided/VBD the/DT fate/NN of/IN US/PRP rivals/VBZ Ford/NNP and/CC General/NNP Motors/NNPS both/DT of/IN whom/WP lost/VBD ground/NN to/TO Japanese/JJ firms./NN
+Its/PRP$ sales/NNS rose/VBD 3.5%/CD to/TO 2.7/CD million/CD units./NN
+
+Similarly/RB on/IN the/DT up/RP was/VBD the/DT Smart/NNP brand/NN of/IN compact/JJ cars/NNS with/IN the/DT division's/NNS sales/NNS jumping/VBG by/IN 21.1%/CD during/IN 2004/CD to/TO 136000./CD
+The/DT future/NN of/IN the/DT brand/NN -/: which/WDT is/VBZ controlled/VBN by/IN the/DT Mercedes/NNP group/NN within/IN DaimlerChrysler/NNP -/: remains/VBZ in/IN question/NN however./NN
+Smart/NNP has/VBZ consistently/RB lost/VBN money/NN since/IN it/PRP started/VBD trading/VBG in/IN 1998/CD and/CC new/JJ model/NN launches/NNS are/VBP now/RB "on/NN hold"/NN said/VBD Mercedes/NNP chief/NN executive/NN Eckhard/NNP Cordes./NNP
+In/IN Europe/NNP the/DT Smart/NNP will/MD now/RB go/VB on/IN sale/NN through/IN regular/JJ Mercedes/NNP dealerships/NNS as/RB well/RB as/IN its/PRP$ own/JJ dealer/NN network/NN Mr/NNP Cordes/NNP said./NN

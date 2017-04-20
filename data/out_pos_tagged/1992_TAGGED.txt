@@ -1,0 +1,37 @@
+A/DT decade/NN of/IN good/JJ website/NN design/NN
+
+The/DT web/NN looks/VBZ very/RB different/JJ today/NN than/IN it/PRP did/VBD 10/CD years/NNS ago./NN
+
+Back/RB in/IN 1994/CD Yahoo/NNP had/VBD only/RB just/RB launched/VBN most/JJS websites/NNS were/VBD text-based/JJ and/CC Amazon/NNP Google/NNP and/CC eBay/NN had/VBD yet/RB to/TO appear./VB
+But/CC says/VBZ usability/NN guru/NN Dr/NNP Jakob/NNP Nielsen/NNP some/DT things/NNS have/VBP stayed/VBN constant/JJ in/IN that/DT decade/NN namely/RB the/DT principles/NNS of/IN what/WP makes/VBZ a/DT site/NN easy/JJ to/TO use./VB
+Dr/NNP Nielsen/NNP has/VBZ looked/VBN back/RB at/IN a/DT decade/NN of/IN work/NN on/IN usability/NN and/CC considered/VBN whether/IN the/DT 34/CD core/NN guidelines/NNS drawn/VBD up/RP back/RB then/RB are/VBP relevant/JJ to/TO the/DT web/NN of/IN today./NN
+"Roughly/RB 80%/CD of/IN the/DT things/NNS we/PRP found/VBD 10/CD years/NNS ago/RB are/VBP still/RB an/DT issue/NN today"/NN he/PRP said./VB
+"Some/NN have/VBP gone/VBN away/RP because/IN users/NNS have/VBP changed/VBN and/CC 10%/CD have/VBP changed/VBN because/IN technology/NN has/VBZ changed."/NN
+
+Some/DT design/NN crimes/NNS such/JJ as/IN splash/NN screens/NNS that/WDT get/NN between/IN a/DT user/NN and/CC the/DT site/NN they/PRP are/VBP trying/VBG to/TO visit/VB and/CC web/NN designers/NNS indulging/VBG their/PRP$ artistic/JJ urges/NNS have/VBP almost/RB disappeared/VBN said/VBN Dr/NNP Nielsen./NNP
+
+"But/NN there's/NNS great/JJ stability/NN on/IN usability/NN concerns"/NN he/PRP told/VBD the/DT BBC/NNP News/NNP website./NN
+Dr/NNP Nielsen/NNP said/VBD the/DT basic/JJ principles/NNS of/IN usability/NN centring/VBG around/IN ease/NN of/IN use/NN and/CC clear/JJ thinking/NN about/IN a/DT site's/NNS total/JJ design/NN were/VBD as/RB important/JJ as/IN ever./NN
+"It's/NN necessary/JJ to/TO be/VB aware/JJ of/IN these/DT things/NNS as/IN issues/NNS because/IN they/PRP remain/VBP as/IN such"/NN he/PRP said./VB
+They/PRP are/VBP still/RB important/JJ because/IN the/DT net/JJ has/VBZ not/RB changed/VBN as/RB much/RB as/IN people/NNS thought/VBD it/PRP would./NN
+"A/NN lot/NN of/IN people/NNS thought/VBD that/DT design/NN and/CC usability/NN was/VBD only/RB a/DT temporary/JJ problem/NN because/IN broadband/NN was/VBD taking/VBG off"/NN he/PRP said./VB
+"But/NN there/EX are/VBP a/DT very/RB small/JJ number/NN of/IN cases/NNS where/WRB usability/NN issues/NNS go/VBP away/RB because/IN you/PRP have/VBP broadband."/NN
+
+Dr/NNP Nielsen/NNP said/VBD the/DT success/NN of/IN sites/NNS such/JJ as/IN Google/NNP Amazon/NNP eBay/NN and/CC Yahoo/NNP showed/VBD that/WDT close/NN attention/NN to/TO design/VB and/CC user/NN needs/VBZ was/VBD important./NN
+"Those/NN four/CD sites/NNS are/VBP extremely/RB profitable/JJ and/CC extremely/RB successful"/NN said/VBD Dr/NNP Nielsen/NNP adding/VBG that/IN they/PRP have/VBP largely/RB defined/VBN commercial/JJ success/NN on/IN the/DT net./NN
+
+"All/NN are/VBP based/VBN on/IN user/NN empowerment/NN and/CC make/VB it/PRP easy/JJ for/IN people/NNS to/TO do/VB things/NNS on/IN the/DT internet"/JJ he/PRP said./VB
+"They/NN are/VBP making/VBG simple/JJ but/CC powerful/JJ tools/NNS available/JJ to/TO the/DT user./NN
+"None/NN of/IN them/PRP have/VBP a/DT fancy/JJ or/CC glamorous/JJ look"/NN he/PRP added/VBD declaring/VBG himself/PRP surprised/VBN that/IN these/DT sites/NNS have/VBP not/RB been/VBN more/RBR widely/RB copied./NN
+In/IN the/DT future/JJ Dr/NNP Nielsen/NNP believes/VBZ that/DT search/NN engines/NNS will/MD play/VB an/DT even/RB bigger/JJR part/NN in/IN helping/VBG people/NNS get/VB to/TO grips/NNS with/IN the/DT huge/JJ amount/NN of/IN information/NN online./NN
+"They/NN are/VBP becoming/VBG like/IN the/DT operating/VBG system/NN to/TO the/DT internet"/JJ he/PRP said./VB
+But/CC he/PRP said/VBD the/DT fact/NN that/IN they/PRP are/VBP useful/JJ now/RB does/VBZ not/RB meant/VBN that/IN they/PRP could/MD not/RB do/VB better./NN
+Currently/RB he/PRP said/VBD search/NN sites/NNS did/VBD not/RB do/VB a/DT very/RB good/JJ job/NN of/IN describing/VBG the/DT information/NN that/IN they/PRP return/VBP in/IN response/NN to/TO queries./VB
+Often/RB people/NNS had/VBD to/TO look/VB at/IN a/DT website/NN just/RB to/TO judge/VB whether/IN it/PRP was/VBD useful/JJ or/CC not./NN
+Tools/NNS that/WDT watch/VBP the/DT behaviour/NN of/IN people/NNS on/IN websites/NNS to/TO see/VB what/WP they/PRP actually/RB find/VBP useful/JJ could/MD also/RB help/VB refine/VB results./NN
+Research/NNP by/IN Dr/NNP Nielsen/NNP shows/VBZ that/IN people/NNS are/VBP getting/VBG more/RBR sophisticated/JJ in/IN their/PRP$ use/NN of/IN search/NN engines./NN
+The/DT latest/JJS statistics/NNS on/IN how/WRB many/JJ words/NNS people/NNS use/VBP on/IN search/NN engines/NNS shows/VBZ that/IN on/IN average/NN they/PRP use/VBP 2.2/CD terms./NN
+In/IN 1994/CD only/RB 1.3/CD words/NNS were/VBD used./NN
+"I/NN think/VBP it's/NNS amazing/JJ that/IN we/PRP have/VBP seen/VBN a/DT doubling/NN in/IN a/DT 10-year/JJ period/NN of/IN those/DT search/NN terms"/NN said/VBD Dr/NNP Nielsen./NNP
+
+You/PRP can/MD hear/VB more/JJR from/IN Jakob/NNP Nielsen/NNP and/CC web/NN design/NN on/IN the/DT BBC/NNP World/NNP Service/NNP programme/NN Go/VB Digital/NNP

@@ -1,0 +1,7 @@
+Ivanovic/NNP seals/NNS Canberra/NNP victory/NN
+
+Serbia's/NNP Ana/NNP Ivanovic/NNP captured/VBD her/PRP$ first/JJ WTA/NNP title/NN with/IN a/DT straight-sets/NNS victory/NN over/IN Hungarian/JJ Melinda/NNP Czink/NNP in/IN the/DT final/NN of/IN the/DT Canberra/NNP Classic./NNP
+
+The/DT 17-year-old/NN took/VBD 83/CD minutes/NNS to/TO take/VB the/DT match/JJ 7-5/JJ 6-1./JJ
+Ivanovic/NNP beat/VB Czink/NNP in/IN the/DT last/JJ round/NN of/IN qualifying/VBG but/CC the/DT Hungarian/JJ made/VBN the/DT main/JJ draw/NN as/IN a/DT lucky/JJ loser/NN after/IN Katarina/NNP Srebotnik/NNP withdrew/VBD injured./NN
+Ivanovic/NNP said/VBD "I/NN was/VBD really/RB nervous/JJ in/IN the/DT beginning/VBG but/CC I/PRP pulled/VBD through/IN and/CC didn't/NN do/VBP too/RB much/JJ wrong."/NN A/DT junior/JJ Wimbledon/NNP finalist/NN last/JJ year/NN she/PRP added/VBD "It's/NN my/PRP$ first/JJ WTA/NNP title/NN and/CC to/TO win/VB it/PRP has/VBZ really/RB given/VBN me/PRP more/JJR energy/NN to/TO practice/VB and/CC improve."/NN Ivanovic/NNP will/MD play/VB 32nd/CD seed/NN Iveta/NNP Benesova/NNP of/IN the/DT Czech/JJ Republic/NNP in/IN the/DT first/JJ round.said/NN of/IN the/DT Australian/JJ Open/NNP in/IN Melbourne./NNP

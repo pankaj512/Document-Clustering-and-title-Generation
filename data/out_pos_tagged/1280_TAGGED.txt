@@ -1,0 +1,34 @@
+Terror/NN suspects/VBZ face/NN house/NN arrest/NN
+
+UK/NN citizens/NNS suspected/VBN of/IN involvement/NN in/IN terrorism/NN could/MD face/VB house/NN arrest/NN as/IN part/NN of/IN a/DT series/NN of/IN new/JJ measures/NNS outlined/VBN by/IN the/DT home/NN secretary./NN
+
+It/PRP comes/VBZ after/IN law/NN lords/NNS ruled/VBD that/IN the/DT detention/NN of/IN 12/CD foreign/JJ terror/NN suspects/VBZ without/IN trial/NN breached/VBD human/JJ rights./NN
+Charles/NNP Clarke's/NNP planned/VBD "control/NN orders"/NN mean/NN anyone/NN suspected/VBN of/IN being/VBG involved/VBN in/IN terrorism/NN could/MD be/VB subject/JJ to/TO house/VB arrest/NN curfews/NNS or/CC tagging./NN
+The/DT Law/NN Society/NNP dubbed/VBD Mr/NNP Clarke's/NNP new/JJ proposals/NNS an/DT "abuse/NN of/IN power"./NN
+Deals/NNS are/VBP already/RB being/VBG sought/VBN to/TO deport/VB some/DT of/IN the/DT foreign/JJ detainees/NNS who/WP are/VBP mainly/RB held/VBN in/IN Belmarsh/NNP Prison/NNP in/IN London/NNP under/IN the/DT current/JJ laws/NNS introduced/VBN after/IN the/DT US/PRP terror/VBP attacks/NNS on/IN 11/CD September/NNP 2001./CD
+Mr/NNP Clarke/NNP said/VBD efforts/NNS would/MD continue/VB to/TO deport/VB them/PRP to/TO their/PRP$ countries/NNS of/IN origin/NN Algeria/NNP Tunisia/NNP Egypt/NNP and/CC Jordan/NNP without/IN them/PRP facing/VBG torture/NN or/CC death./NN
+
+Under/IN the/DT proposed/VBN changes/NNS -/: prompted/VBN by/IN the/DT House/NNP of/IN Lords/NNPS ruling/NN -/: the/DT home/NN secretary/NN could/MD order/VB British/JJ citizens/NNS or/CC foreign/JJ suspects/VBZ who/WP could/MD not/RB be/VB deported/VBN to/TO face/VB house/NN arrest/NN or/CC other/JJ measures/NNS such/JJ as/IN restrictions/NNS on/IN their/PRP$ movements/NNS or/CC limits/NNS on/IN their/PRP$ use/NN of/IN telephones/NNS and/CC the/DT internet./JJ
+
+British/JJ citizens/NNS are/VBP being/VBG included/VBN in/IN the/DT changes/NNS after/IN the/DT law/NN lords/NNS said/VBD the/DT current/JJ powers/NNS were/VBD discriminatory/JJ because/IN they/PRP could/MD only/RB be/VB used/VBN on/IN foreign/JJ suspects./NN
+Mr/NNP Clarke/NNP also/RB said/VBD intelligence/NN reports/NNS showed/VBD some/DT British/JJ nationals/NNS were/VBD now/RB playing/VBG a/DT more/RBR significant/JJ role/NN in/IN terror/NN threats./NN
+Human/NN rights/NNS lawyer/NN Clive/NNP Stafford-Smith/NNP said/VBD the/DT plans/NNS were/VBD a/DT "further/NN abuse/NN of/IN human/JJ rights/NNS in/IN Britain"./NNP
+
+Mr/NNP Clarke/NNP said/VBD prosecutions/NNS were/VBD the/DT government's/NNS first/RB preference/NN and/CC promised/VBD the/DT powers/NNS would/MD only/RB be/VB used/VBN in/IN "serious"/NN cases/NNS with/IN independent/JJ scrutiny/NN from/IN judges./NN
+
+He/PRP told/VBD MPs/NNP "There/NN remains/VBZ a/DT public/JJ emergency/NN threatening/VBG the/DT life/NN of/IN the/DT nation."/NN He/PRP accepted/VBD the/DT law/NN lords'/NN ruling/NN but/CC argued/VBD detention/NN powers/NNS had/VBD helped/VBN prevent/VB attacks/NNS and/CC deter/VB terrorists./NN
+The/DT current/JJ detainees/NNS would/MD not/RB be/VB freed/VBN until/IN the/DT new/JJ powers/NNS were/VBD in/IN place/NN as/IN they/PRP were/VBD still/RB considered/VBN a/DT national/JJ security/NN threat/NN he/PRP told/VBD MPs./NNP
+
+There/EX have/VBP been/VBN calls/VBZ for/IN the/DT rules/NNS for/IN wire-tap/JJ and/CC intercept/JJ evidence/NN to/TO be/VB allowed/VBN to/TO be/VB used/VBN in/IN courts/NNS but/CC Mr/NNP Clarke/NNP refused/VBD to/TO back/VB that/DT change./NN
+
+He/PRP said/VBD intercept/JJ evidence/NN was/VBD only/RB a/DT small/JJ part/NN of/IN the/DT case/NN against/IN the/DT men/NNS and/CC some/DT of/IN it/PRP could/MD not/RB be/VB used/VBN because/IN it/PRP could/MD put/VB sources'/NN lives/NNS at/IN risk./NN
+Most/JJS of/IN the/DT terror/NN suspects/NNS are/VBP being/VBG held/VBN indefinitely/RB at/IN Belmarsh/NNP prison/NN in/IN London./NNP
+Conservative/JJ shadow/NN home/NN secretary/NN David/NNP Davis/NNP was/VBD worried/VBN about/IN extending/VBG special/JJ powers/NNS to/TO cover/VB British/JJ citizens./NN
+He/PRP warned/VBD "Throughout/NN history/NN internment/NN has/VBZ generally/RB backfired/VBN because/RB of/IN the/DT resentment/NN it/PRP creates./NN
+"So/NN unless/IN the/DT process/NN is/VBZ clearly/RB just/RB the/DT home/NN secretary/NN could/MD find/VB himself/PRP confining/VBG one/CD known/VBN terrorist/JJ only/RB to/TO recruit/VB 10/CD unknown/JJ terrorists."/NN He/PRP suggested/VBD changing/VBG the/DT law/NN to/TO let/VB security-cleared/JJ judges/NNS view/NN evidence/NN gathered/VBN by/IN phone-tapping/JJ could/MD allow/VB more/JJR terror/NN cases/NNS to/TO come/VB to/TO court./VB
+
+Liberal/NNP Democrat/NNP spokesman/NN Mark/NNP Oaten/NNP also/RB backed/VBD use/NN of/IN wire-tap/JJ evidence./NN
+He/PRP said/VBD the/DT standard/NN of/IN proof/NN for/IN the/DT new/JJ powers/NNS would/MD have/VB to/TO be/VB "very/NN high/JJ indeed"/NN and/CC he/PRP asked/VBD whether/IN ministers/NNS had/VBD looked/VBN at/IN measures/NNS which/WDT fitted/VBD with/IN human/JJ rights/NNS laws./NN
+Shami/NNP Chakrabarti/NNP from/IN human/JJ rights/NNS group/NN Liberty/NNP joined/VBD calls/VBZ for/IN intercept/JJ evidence/NN to/TO be/VB allowed/VBN in/IN trials./NN
+She/PRP said/VBD "Adherence/NN to/TO the/DT rule/NN of/IN law/NN should/MD not/RB be/VB a/DT game/NN of/IN cat/NN and/CC mouse./NN
+The/DT government/NN should/MD not/RB swap/VB one/CD human/JJ rights/NNS 'opt/NN out'/NN for/IN another."/NN

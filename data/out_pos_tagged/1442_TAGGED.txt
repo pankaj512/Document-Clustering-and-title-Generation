@@ -1,0 +1,12 @@
+Injury/NN doubts/NNS beset/VBD Wales/NNP squad/NN
+
+Wales/NNS have/VBP a/DT clutch/NN of/IN injury/NN worries/NNS before/IN Wednesday's/NNP international/JJ friendly/NN against/IN Hungary/NNP in/IN Cardiff./NNP
+
+West/NNP Ham's/NNP Gavin/NNP Williams/NNP (ankle)/NN looks/VBZ certain/JJ to/TO be/VB out/RP so/RB uncapped/JJ Wrexham/NNP defender/NN Stephen/NNP Roberts/NNP is/VBZ drafted/VBN in./NN
+Defenders/NNS Danny/NNP Gabbidon/NNP and/CC Gareth/NNP Roberts/NNP plus/CC Ryan/NNP Giggs/NNP have/VBP hamstring/VBG concerns/NNS while/IN there/EX are/VBP also/RB doubts/NNS over/IN Robbie/NNP Savage/NNP (groin)./NN
+However/RB Manchester/NNP United/NNP winger/NN Giggs/NNP is/VBZ expected/VBN to/TO recover/VB in/IN time/NN to/TO earn/VB his/PRP$ 50th/JJ cap/NN at/IN the/DT Millennium/NNP Stadium./NNP
+There/EX were/VBD also/RB doubts/NNS over/IN Gabbidon's/NNP fellow/JJ Cardiff/NNP defender/NN Rhys/NNP Weston/NNP but/CC the/DT full-back/JJ appears/VBZ to/TO have/VB shrugged/VBN off/RP the/DT knock/NN he/PRP picked/VBD up/RP in/IN the/DT Bluebirds'/NNP 1-0/JJ loss/NN to/TO West/NNP Ham/NN on/IN Sunday./NNP
+The/DT news/NN leaves/VBZ Wales/NNP boss/NN John/NNP Toshack/NNP short/JJ in/IN defence/NN for/IN his/PRP$ first/JJ game/NN in/IN charge/NN with/IN Aston/NNP Villa's/NNP Mark/NNP Delaney/NNP injured/VBD and/CC James/NNP Collins/NNP with/IN the/DT Under-21s./JJ
+That/DT could/MD clear/VB the/DT way/NN for/IN new/JJ faces/VBZ Danny/NNP Collins/NNP and/CC Dave/NNP Partridge/NNP to/TO make/VB their/PRP$ Wales/NNP debuts./NN
+
+Coyne/NNP (Burnley)/NN Jones/NNP (Wolves)/NN Roberts/NNP (Wrexham)/NN Collins/NNP (Sunderland)/NN Edwards/NNP (Wolves)/NN Gabbidon/NNP (Cardiff)/NN Page/NNP (Cardiff)/NN Partridge/NNP (Motherwell)/NN Ricketts/NNP (Swansea)/NN Roberts/NNP (Tranmere)/NN Weston/NNP (Cardiff)/NN Davies/NNP (Tottenham)/NN Fletcher/NNP (West/JJ Ham)/NNP Giggs/NNP (Man/NN Utd)/NNP Koumas/NNP (West/JJ Brom)/NNP Robinson/NNP (Sunderland)/NN Savage/NNP (Blackburn)/NN Williams/NNP (West/JJ Ham)/NNP Bellamy/NNP (Newcastle)/NN Earnshaw/NNP (West/JJ Brom)/NNP Hartson/NNP (Celtic)./NN

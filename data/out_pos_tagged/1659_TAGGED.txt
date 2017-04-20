@@ -1,0 +1,16 @@
+England/NNP 'to/NN launch/NN ref/NN protest'/NN
+
+England/NNP will/MD protest/VB to/TO the/DT International/NNP Rugby/NNP Board/NNP (IRB)/NN about/IN the/DT referee's/NNS performance/NN in/IN the/DT defeat/NN by/IN Ireland/NNP reports/VBZ the/DT Daily/NNP Mail./NNP
+
+England/NNP coach/NN Andy/NNP Robinson/NNP has/VBZ called/VBN on/IN ex-international/NN referees/NNS Colin/NNP High/NNP and/CC Steve/NNP Lander/NNP to/TO analyse/VB several/JJ of/IN Jonathan/NNP Kaplan's/NNP decisions./NN
+"I/NN want/VBP to/TO go/VB through/IN the/DT tape/NN with/IN Colin/NNP and/CC Steve"/NNP Robinson/NNP told/VBD the/DT Daily/NNP Mail./NNP
+"I/NN want/VBP to/TO speak/VB to/TO the/DT IRB/NNP about/IN it./NN
+I/PRP think/VBP only/RB one/CD side/NN was/VBD refereed."/NN High/NNP the/DT Rugby/NNP Football/NNP Union's/NNP referees'/NN manager/NN claimed/VBD Kaplan/NNP made/VBD three/CD major/JJ errors/NNS which/WDT changed/VBD the/DT outcome/NN of/IN Sunday's/NNP match./NN
+England/NNP were/VBD beaten/VBN 19-13/JJ by/IN the/DT Irish/NN in/IN Dublin/NNP their/PRP$ third/JJ straight/JJ defeat/NN in/IN the/DT 2005/CD Six/CD Nations./NNP
+"The/NNP International/NNP Rugby/NNP Board/NNP will/MD be/VB disappointed"/JJ High/NNP told/VBD the/DT Daily/NNP Mail./NNP
+"Jonathan/NNP Kaplan/NNP is/VBZ in/IN the/DT top/JJ 20/CD in/IN the/DT world/NN but/CC that/DT wasn't/NN an/DT international/JJ performance./NN
+"It/NN would/MD not/RB have/VB been/VBN acceptable/JJ in/IN the/DT Zurich/NNP Premiership./NNP
+"If/NN one/CD of/IN my/PRP$ referees/NNS had/VBD done/VBN that/IN I/PRP would/MD have/VB had/VBN my/PRP$ backside/NN kicked/VBD for/IN making/VBG the/DT appointment./NN
+"If/NN any/DT English/JJ referee/NN refereed/VBN like/IN that/DT in/IN a/DT European/JJ match/NN there/EX would/MD be/VB an/DT inquest./NN
+No/DT question/NN about/IN that./NN
+"If/NN someone/NN had/VBD performed/VBN like/IN that/IN he/PRP would/MD have/VB been/VBN pulled/VBN from/IN the/DT next/JJ game."/NN

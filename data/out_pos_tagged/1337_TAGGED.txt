@@ -1,0 +1,9 @@
+Chepkemei/NNP joins/VBZ Edinburgh/NNP line-up/JJ
+
+Susan/NNP Chepkemei/NNP has/VBZ decided/VBN she/PRP is/VBZ fit/VB enough/RB to/TO run/VB in/IN next/JJ month's/NNS Great/NNP Edinburgh/NNP International/NNP Cross/NNP Country./NNP
+
+The/DT Kenyan/NNP was/VBD initially/RB unsure/JJ if/IN she/PRP would/MD have/VB recovered/VBN from/IN her/PRP$ gruelling/VBG tussle/NN with/IN Paula/NNP Radcliffe/NNP in/IN the/DT New/NNP York/NNP Marathon/NNP in/IN time/NN to/TO compete./VB
+But/CC she/PRP has/VBZ declared/VBN herself/PRP up/IN to/TO the/DT task/NN and/CC joins/VBZ a/DT field/NN headed/VBN by/IN World/NNP cross/VB country/NN champion/NN Benita/NNP Johnson./NNP
+Race/NN director/NN Matthew/NNP Turnbull/NNP said/VBD "Susan/NN will/MD add/VB even/RB more/JJR strength/NN in/IN depth/NN to/TO the/DT world-class/JJ line/NN up."/NN Chepkemei/NNP who/WP won/VBD the/DT six/CD kilometre/NN event/NN three/CD years/NNS ago/RB when/WRB it/PRP was/VBD staged/VBN in/IN Newcastle/NNP endured/VBD an/DT epic/NN battle/NN with/IN Radcliffe/NNP in/IN the/DT Big/NNP Apple/NNP until/IN the/DT Briton/NNP outsprinted/VBD her/PRP in/IN the/DT final/JJ 400m./CD
+Tirunesh/NNP Dibaba/NNP of/IN Ethiopia/NNP will/MD defend/VB the/DT title/NN she/PRP won/VBD last/JJ year/NN in/IN Tyneside/NNP -/: before/IN the/DT race/NN was/VBD moved/VBN north/RB of/IN the/DT border./NN
+Recently-crowned/JJ European/JJ cross/NN country/NN champion/NN Briton/NNP Hayley/NNP Yelling/VBG also/RB competes/VBZ in/IN Edinburgh/NNP on/IN 15/CD January/NNP as/IN does/VBZ in-form/JJ Scot/NNP Kathy/NNP Butler./NNP

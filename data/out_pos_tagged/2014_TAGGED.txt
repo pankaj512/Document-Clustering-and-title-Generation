@@ -1,0 +1,20 @@
+First/NNP look/VB at/IN PlayStation/NNP 3/CD chip/NN
+
+Some/DT details/NNS of/IN the/DT chip/NN inside/IN Sony's/NNP PlayStation/NNP 3/CD have/VBP been/VBN revealed./VBG
+
+Sony/NNP IBM/NNP and/CC Toshiba/NNP have/VBP released/VBN limited/JJ data/NNS about/IN the/DT so-called/JJ Cell/NN chip/NN that/WDT will/MD be/VB able/JJ to/TO carry/VB out/RP trillions/NNS of/IN calculations/NNS per/IN second./NN
+The/DT chip/NN will/MD be/VB made/VBN of/IN several/JJ different/JJ processing/NN cores/NNS that/WDT work/NN on/IN tasks/NNS together./NN
+The/DT PlayStation/NNP 3/CD is/VBZ expected/VBN in/IN 2006/CD but/CC developers/NNS are/VBP expecting/VBG to/TO get/VB prototypes/NNS early/RB next/JJ year/NN to/TO tune/VB games/NNS that/WDT will/MD appear/VB on/IN it/PRP at/IN launch./NN
+
+The/DT three/CD firms/NNS have/VBP been/VBN working/VBG on/IN the/DT chip/NN since/IN 2001/CD but/CC before/IN now/RB few/JJ details/NNS have/VBP been/VBN released/VBN about/IN how/WRB it/PRP might/MD function./VB
+In/IN a/DT joint/JJ statement/NN the/DT three/CD firms/NNS gave/VBD hints/NNS about/IN how/WRB the/DT chip/NN will/MD work/VB but/CC fuller/JJR details/NNS will/MD be/VB released/VBN in/IN February/NNP next/JJ year/NN at/IN the/DT International/NNP Solid/JJ State/NNP Circuits/NNS Conference/NNP in/IN San/NNP Francisco./NNP
+
+The/DT three/CD firms/NNS claim/VBP that/IN the/DT Cell/NN chip/NN will/MD be/VB up/IN to/TO 10/CD times/NNS more/RBR powerful/JJ than/IN existing/VBG processors./NN
+When/WRB put/VB inside/IN powerful/JJ computer/NN servers/NNS the/DT Cell/NN consortium/NN expects/VBZ it/PRP to/TO be/VB capable/JJ of/IN handling/VBG 16/CD trillion/CD floating/NN point/NN operations/NNS or/CC calculations/VBZ every/DT second./NN
+The/DT chip/NN has/VBZ also/RB been/VBN refined/VBN to/TO be/VB able/JJ to/TO handle/VB the/DT detailed/JJ graphics/NNS common/JJ in/IN games/NNS and/CC the/DT data/NNS demands/NNS of/IN films/NNS and/CC broadband/NN media./NN
+IBM/NNP said/VBD it/PRP would/MD start/VB producing/VBG the/DT chip/NN in/IN early/JJ 2005/CD at/IN manufacturing/NN plants/NNS in/IN the/DT US./NNP
+The/DT first/JJ machines/NNS off/IN the/DT line/NN using/VBG the/DT Cell/NN processor/NN will/MD be/VB computer/NN workstations/NNS and/CC servers./NN
+A/DT working/VBG version/NN of/IN the/DT PS3/CD is/VBZ due/JJ to/TO be/VB shown/VBN off/RP in/IN May/NNP 2005/CD but/CC a/DT full/JJ launch/NN of/IN the/DT next/JJ generation/NN console/NN is/VBZ not/RB expected/VBN to/TO start/VB until/IN 2006./CD
+As/RB well/RB as/IN being/VBG inside/IN the/DT PlayStation/NNP 3/CD the/DT chip/NN will/MD also/RB be/VB used/VBN inside/IN high-definition/JJ TVs/NNS and/CC powerful/JJ computers./NN
+"In/NN the/DT future/JJ all/DT forms/NNS of/IN digital/JJ content/NN will/MD be/VB converged/VBN and/CC fused/VBN onto/IN the/DT broadband/NN network"/NN said/VBD Ken/NNP Kutaragi/NNP Chief/NNP Operating/NN Officer/NNP of/IN Sony./NNP
+"Current/NN PC/NN architecture/NN is/VBZ nearing/VBG its/PRP$ limits."/NN

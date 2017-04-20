@@ -1,0 +1,15 @@
+Profile/NNP David/NNP Miliband/NNP
+
+David/NNP Miliband's/NNP rapid/JJ rise/NN through/IN the/DT ranks/NNS of/IN government/NN continues/VBZ with/IN his/PRP$ promotion/NN to/TO Cabinet/NNP Office/NNP minister./NN
+
+Elected/VBN in/IN a/DT safe/JJ Labour/NNP seat/NN in/IN 2001/CD his/PRP$ previous/JJ job/NN was/VBD school/NN standards/NNS minister/NN -/: a/DT role/NN he/PRP won/VBD in/IN May/NNP 2002./CD
+Prior/RB to/TO the/DT last/JJ election/NN he/PRP was/VBD a/DT key/JJ figure/NN in/IN New/NNP Labour/NNP as/IN the/DT head/NN of/IN the/DT Downing/NNP Street/NNP policy/NN unit/NN where/WRB he/PRP was/VBD a/DT key/JJ member/NN of/IN the/DT manifesto/NN writing/VBG team./NN
+Seen/VBN as/IN one/CD of/IN the/DT more/RBR intellectual/JJ figures/NNS in/IN the/DT government/NN he/PRP was/VBD also/RB working/VBG for/IN Tony/NNP Blair/NNP in/IN his/PRP$ policy/NN unit/NN when/WRB he/PRP was/VBD leader/NN of/IN the/DT opposition./NN
+
+A/DT brief/JJ glance/NN at/IN Mr/NNP Miliband's/NNP family/NN background/NN reveals/VBZ an/DT impressive/JJ socialist/JJ pedigree/NN in/IN the/DT form/NN of/IN his/PRP$ father/NN Ralph/NNP who/WP died/VBD in/IN 1994./CD
+He/PRP was/VBD an/DT eminent/JJ and/CC influential/JJ leftwing/NN academic./NN
+And/CC while/IN David/NNP Miliband/NNP is/VBZ seen/VBN as/IN a/DT key/JJ Blair/NNP lieutenant/NN his/PRP$ brother/NN Ed/NNP is/VBZ a/DT special/JJ advisor/NN to/TO Chancellor/NNP Gordon/NNP Brown./NNP
+Prior/RB to/TO working/VBG for/IN Mr/NNP Blair/NNP David/NNP Miliband/NNP spent/VBD time/NN at/IN the/DT left-leaning/JJ Institute/NNP for/IN Public/NNP Policy/NNP Research./NNP
+He/PRP then/RB became/VBD secretary/NN of/IN the/DT Commission/NNP on/IN Social/NNP Justice./NNP
+The/DT 39-year-old/NN was/VBD educated/VBN at/IN Haverstock/NNP Comprehensive/NNP before/IN going/VBG on/RP to/TO Oxford/NNP to/TO study/VB politics/NNS philosophy/NN and/CC economics./NN
+He/PRP also/RB took/VBD an/DT MSc/NNP in/IN political/JJ science/NN from/IN the/DT Massachusetts/NNP Institute/NNP of/IN Technology./NNP

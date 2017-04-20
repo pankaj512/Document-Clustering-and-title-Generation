@@ -1,0 +1,13 @@
+Buyers/NNS snap/VBP up/RP Jet/NNP Airways'/NNP shares/NNS
+
+Investors/NNS have/VBP snapped/VBN up/RP shares/NNS in/IN Jet/NNP Airways/NNPS India's/NNP biggest/JJS airline/NN following/VBG the/DT launch/NN of/IN its/PRP$ much/JJ anticipated/VBN initial/JJ public/JJ offer/NN (IPO)./NN
+
+The/DT IPO/NNP for/IN 17.3/CD million/CD shares/NNS was/VBD fully/RB sold/VBN within/IN 10/CD minutes/NNS of/IN opening/NN on/IN Friday./NNP
+Analysts/NNS expect/VBP Jet/NNP to/TO raise/VB at/IN least/JJS 16.4bn/CD rupees/NNS ($375m/CD £198m)/CD from/IN the/DT offering./NN
+Interest/NN in/IN Jet's/NNP IPO/NNP has/VBZ been/VBN fuelled/VBN by/IN hopes/NNS for/IN robust/JJ growth/NN in/IN India's/NNP air/NN travel/NN market./NN
+
+The/DT share/NN offer/NN representing/VBG about/IN 20%/CD of/IN Jet's/NNP equity/NN was/VBD oversubscribed/JJ news/NN agency/NN Reuters/NNP reported./NN
+Jet/NNP which/WDT was/VBD founded/VBN by/IN London-based/JJ travel/NN agent/NN Naresh/NNP Goyal/NNP plans/VBZ to/TO use/VB the/DT cash/NN to/TO buy/VB new/JJ planes/NNS and/CC cut/VB its/PRP$ debt./NN
+The/DT company/NN has/VBZ grown/VBN rapidly/RB since/IN it/PRP launched/VBD operations/NNS in/IN 1993/CD overtaking/VBG state-owned/JJ flag/NN carrier/NN Indian/NNP Airlines./NNP
+However/RB it/PRP faces/VBZ stiff/JJ competition/NN from/IN rivals/NNS and/CC low-cost/JJ carriers./NN
+Jet's/NNP IPO/NNP is/VBZ the/DT first/JJ in/IN a/DT series/NN of/IN expected/VBN share/NN offers/NNS from/IN Indian/JJ companies/NNS this/DT year/NN as/IN they/PRP move/VBP to/TO raise/VB funds/NNS to/TO help/VB them/PRP do/VBP business/NN in/IN a/DT rapidly-growing/JJ economy./NN

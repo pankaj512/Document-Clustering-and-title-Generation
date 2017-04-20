@@ -1,0 +1,16 @@
+Go-ahead/NN for/IN Balkan/NNP oil/NN pipeline/NN
+
+Albania/NNP Bulgaria/NNP and/CC Macedonia/NNP has/VBZ given/VBN the/DT go/NN ahead/RB for/IN the/DT construction/NN of/IN a/DT $1.2bn/CD oil/NN pipeline/NN that/WDT will/MD pass/VB through/IN the/DT Balkan/NNP peninsula./NN
+
+The/DT project/NN aims/VBZ to/TO allow/VB alternative/JJ ports/NNS for/IN the/DT shipping/NN of/IN Russian/JJ and/CC Caspian/NNP oil/NN that/WDT normally/RB goes/VBZ through/IN Turkish/JJ ports./NN
+It/PRP aims/VBZ to/TO transport/VB 750000/CD daily/JJ barrels/NNS of/IN oil./NN
+The/DT pipeline/NN will/MD be/VB built/VBN by/IN the/DT US-registered/JJ Albanian/NNP Macedonian/NNP Bulgarian/JJ Oil/NNP Corporation/NNP (AMBO)./NN
+The/DT 912km/CD pipeline/NN will/MD run/VB from/IN the/DT Bulgarian/JJ port/NN of/IN Burgas/NNP over/IN the/DT Black/NNP Sea/NNP to/TO the/DT Albanian/NNP city/NN of/IN Vlore/NNP on/IN the/DT Adriatic/NNP coast/NN crossing/VBG Macedonia./NNP
+
+The/DT project/NN was/VBD conceived/VBN in/IN 1994/CD but/CC it/PRP was/VBD delayed/VBN because/RB of/IN the/DT lack/NN of/IN political/JJ support./NN
+By/IN signing/VBG the/DT agreement/NN on/IN Tuesday/NNP the/DT prime/JJ ministers/NNS of/IN Bulgaria/NNP Albania/NNP and/CC Macedonia/NNP have/VBP overcome/VBN the/DT problem./NN
+"This/NN is/VBZ one/CD of/IN the/DT most/RBS important/JJ infrastructure/NN projects/NNS for/IN regional/JJ EU/NNP and/CC Euro-Atlantic/NNP integration/NN for/IN the/DT western/JJ Balkans"/NNP said/VBD Albanian/NNP Prime/NNP Minister/NNP Fatos/NNP Nano./NNP
+According/VBG to/TO Pat/NNP Ferguson/NNP President/NNP of/IN AMBO/NNP work/NN on/IN the/DT pipeline/NN will/MD begin/VB in/IN 2005/CD and/CC it/PRP is/VBZ expected/VBN to/TO be/VB ready/JJ in/IN three/CD or/CC four/CD years./NN
+He/PRP added/VBD that/IN the/DT company/NN had/VBD already/RB raised/VBN about/IN $900m/CD from/IN the/DT Overseas/NNP Private/NNP Investment/NNP Corporation/NNP (OPIC)/NN -/: a/DT US/PRP development/VBP agency/NN -/: the/DT Eximbank/NNP and/CC Credit/NNP Suisse/NNP First/NNP Boston/NNP among/IN others./NN
+The/DT project/NN has/VBZ also/RB the/DT support/NN of/IN the/DT European/NNP Union./NNP
+Analysts/NNS have/VBP said/VBN that/IN oil/NN companies/NNS like/IN ChevronTexaco/NNP Exxon/NNP Mobil/NNP and/CC British/NNP Petroleum/NNP would/MD be/VB happy/JJ to/TO find/VB alternative/JJ routes/NNS to/TO the/DT Bosphorus/NNP and/CC Dardanelles/NNP Straits./NNP

@@ -1,0 +1,17 @@
+Ferguson/NNP puts/VBZ faith/NN in/IN youngsters/NNS
+
+Manchester/NNP United/NNP manager/NN Sir/NNP Alex/NNP Ferguson/NNP said/VBD he/PRP has/VBZ no/DT regrets/NNS after/IN his/PRP$ second-string/JJ side/NN lost/VBD 3-0/JJ away/RB at/IN Fenerbahce/NNP in/IN the/DT Champions/NNS League./NNP
+
+Ferguson/NNP said/VBD "The/NN good/JJ thing/NN about/IN being/VBG manager/NN is/VBZ that/IN you/PRP are/VBP in/IN control/NN of/IN which/WDT team/NN to/TO pick./VB
+"I/NN care/NN about/IN United/NNP that's/NNS important/JJ so/RB while/IN I/PRP am/VBP disappointed/VBN at/IN the/DT result/NN I/PRP am/VBP not/RB at/IN the/DT team/NN I/PRP selected./VBP
+"This/NN game/NN was/VBD important/JJ for/IN the/DT young/JJ lads./NN
+They/PRP will/MD remember/VB it/PRP and/CC next/JJ time/NN they/PRP come/VBP they/PRP will/MD be/VB better."/NN Ferguson/NNP admitted/VBD his/PRP$ side/NN were/VBD well-beaten/JJ by/IN the/DT Turks/NNPS a/DT result/NN which/WDT meant/VBD they/PRP finished/VBD second/JJ in/IN Group/NNP D/NNP behind/IN Lyon./NNP
+He/PRP added/VBD "They'll/NN know/NN not/RB to/TO play/VB like/IN that/DT again./NN
+We/PRP showed/VBD a/DT lack/NN of/IN strength./NN
+But/CC I/PRP have/VBP no/DT complaints/NNS about/IN the/DT scoreline./NN
+"In/NN the/DT second/JJ half/NN we/PRP had/VBD some/DT good/JJ moments/NNS in/IN attack./NN
+And/CC in/IN that/DT situation/NN you/PRP have/VBP to/TO take/VB one/CD chance./NN
+"But/NN we/PRP didn't/VBP do/VBP that/DT so/IN the/DT game/NN just/RB petered/VBD out/RP for/IN us./NN
+"I/NN didn't/NN think/VBP it/PRP made/VBD much/JJ difference/NN whether/IN we/PRP won/VBD the/DT group/NN or/CC finished/VBD second/JJ and/CC I/PRP still/RB don't./VBP
+"We/NN could/MD get/VB Inter/NNP AC/NNP Milan/NNP and/CC Juventus/NNP but/CC Bayern/NNP Barcelona/NNP and/CC Real/JJ Madrid/NNP were/VBD among/IN the/DT runners-up./JJ
+All/DT we/PRP can/MD do/VB is/VBZ let/VB fate/NN decide/VBP how/WRB it/PRP works/VBZ out."/NN

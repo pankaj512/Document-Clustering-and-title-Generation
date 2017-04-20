@@ -1,0 +1,20 @@
+Digital/NNP guru/NN floats/VBZ sub-$100/CD PC/NN
+
+Nicholas/NNP Negroponte/NNP chairman/NN and/CC founder/NN of/IN MIT's/NNP Media/NNP Labs/NNPS says/VBZ he/PRP is/VBZ developing/VBG a/DT laptop/NN PC/NN that/WDT will/MD go/VB on/IN sale/NN for/IN less/JJR than/IN $100/CD (£53)./CD
+
+He/PRP told/VBD the/DT BBC/NNP World/NNP Service/NNP programme/NN Go/VB Digital/NNP he/PRP hoped/VBD it/PRP would/MD become/VB an/DT education/NN tool/NN in/IN developing/VBG countries./NN
+He/PRP said/VBD one/CD laptop/NN per/IN child/NN could/MD be/VB ''/'' very/RB important/JJ to/TO the/DT development/NN of/IN not/RB just/RB that/DT child/NN but/CC now/RB the/DT whole/JJ family/NN village/NN and/CC neighbourhood"./NN
+He/PRP said/VBD the/DT child/NN could/MD use/VB the/DT laptop/NN like/IN a/DT text/NN book./NN
+He/PRP described/VBD the/DT device/NN as/IN a/DT stripped/VBN down/RP laptop/NN which/WDT would/MD run/VB a/DT Linux-based/JJ operating/NN system/NN "We/NN have/VBP to/TO get/VB the/DT display/NN down/RP to/TO below/IN $20/CD to/TO do/VB this/DT we/PRP need/VBP to/TO rear/JJ project/NN the/DT image/NN rather/RB than/IN using/VBG an/DT ordinary/JJ flat/JJ panel./NN
+
+"The/NN second/JJ trick/NN is/VBZ to/TO get/VB rid/VB of/IN the/DT fat/NN if/IN you/PRP can/MD skinny/VB it/PRP down/RP you/PRP can/MD gain/VB speed/NN and/CC the/DT ability/NN to/TO use/VB smaller/JJR processors/NNS and/CC slower/JJR memory."/NN The/DT device/NN will/MD probably/RB be/VB exported/VBN as/IN a/DT kit/NN of/IN parts/NNS to/TO be/VB assembled/VBN locally/RB to/TO keep/VB costs/NNS down./NN
+Mr/NNP Negroponte/NNP said/VBD this/DT was/VBD a/DT not/RB for/IN profit/NN venture/NN though/IN he/PRP recognised/VBD that/IN the/DT manufacturers/NNS of/IN the/DT components/NNS would/MD be/VB making/VBG money./NN
+In/IN 1995/CD Mr/NNP Negroponte/NNP published/VBD the/DT bestselling/VBG Being/VBG Digital/NNP now/RB widely/RB seen/VBN as/IN predicting/VBG the/DT digital/JJ age./NN
+The/DT concept/NN is/VBZ based/VBN on/IN experiments/NNS in/IN the/DT US/PRP state/VBP of/IN Maine/NNP where/WRB children/NNS were/VBD given/VBN laptop/NN computers/NNS to/TO take/VB home/NN and/CC do/VBP their/PRP$ work/NN on./NN
+
+While/IN the/DT idea/NN was/VBD popular/JJ amongst/IN the/DT children/NNS it/PRP initially/RB received/VBD some/DT resistance/NN from/IN the/DT teachers/NNS and/CC there/EX were/VBD problems/NNS with/IN laptops/NNS getting/VBG broken./NN
+However/RB Mr/NNP Negroponte/NNP has/VBZ adapted/VBN the/DT idea/NN to/TO his/PRP$ own/JJ work/NN in/IN Cambodia/NNP where/WRB he/PRP set/VBD up/RP two/CD schools/NNS together/RB with/IN his/PRP$ wife/NN and/CC gave/VBD the/DT children/NNS laptops./NN
+"We/NN put/VBD in/IN 25/CD laptops/NNS three/CD years/NNS ago/RB only/RB one/CD has/VBZ been/VBN broken/VBN the/DT kids/NNS cherish/VBP these/DT things/NNS it's/NNS also/RB a/DT TV/NN a/DT telephone/NN and/CC a/DT games/NNS machine/NN not/RB just/RB a/DT textbook."/NN Mr/NNP Negroponte/NNP wants/VBZ the/DT laptops/NNS to/TO become/VB more/RBR common/JJ than/IN mobile/JJ phones/NNS but/CC conceded/VBD this/DT was/VBD ambitious./NN
+"Nokia/NN make/VBP 200/CD million/CD cell/NN phones/NNS a/DT year/NN so/RB for/IN us/PRP to/TO claim/VB we're/NN going/VBG to/TO make/VB 200/CD million/CD laptops/NNS is/VBZ a/DT big/JJ number/NN but/CC we're/NN not/RB talking/VBG about/IN doing/VBG it/PRP in/IN three/CD or/CC five/CD years/NNS we're/NN talking/VBG about/IN months."/NN He/PRP plans/VBZ to/TO be/VB distributing/VBG them/PRP by/IN the/DT end/NN of/IN 2006/CD and/CC is/VBZ already/RB in/IN discussion/NN with/IN the/DT Chinese/JJ education/NN ministry/NN who/WP are/VBP expected/VBN to/TO make/VB a/DT large/JJ order./NN
+"In/NNP China/NNP they/PRP spend/VBP $17/CD per/IN child/NN per/IN year/NN on/IN textbooks./NN
+That's/NNP for/IN five/CD or/CC six/CD years/NNS so/RB if/IN we/PRP can/MD distribute/VB and/CC sell/VB laptops/NNS in/IN quantities/NNS of/IN one/CD million/CD or/CC more/JJR to/TO ministries/NNS of/IN education/NN that's/NNS cheaper/JJR and/CC the/DT marketing/NN overheads/NNS go/VBP away."/NN

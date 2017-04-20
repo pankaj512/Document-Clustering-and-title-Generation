@@ -1,0 +1,18 @@
+Egypt/NNP and/CC Israel/NNP seal/NN trade/NN deal/NN
+
+In/IN a/DT sign/NN of/IN a/DT thaw/NN in/IN relations/NNS between/IN Egypt/NNP and/CC Israel/NNP the/DT two/CD countries/NNS have/VBP signed/VBN a/DT trade/NN protocol/NN with/IN the/DT US/PRP allowing/VBG Egyptian/JJ goods/NNS made/VBN in/IN partnership/NN with/IN Israeli/JJ firms/NNS free/JJ access/NN to/TO American/JJ markets./NN
+
+The/DT protocol/NN signed/VBD in/IN Cairo/NNP will/MD establish/VB what/WP are/VBP called/VBN "qualified/VBN industrial/JJ zones"/NN in/IN Egypt./NNP
+Products/NNS from/IN these/DT zones/NNS will/MD enjoy/VB duty/NN free/JJ access/NN to/TO the/DT US/PRP provided/VBD that/IN 35%/CD of/IN their/PRP$ components/NNS are/VBP the/DT product/NN of/IN Israeli-Egyptian/NNP cooperation./NN
+The/DT US/PRP describes/VBZ this/DT as/IN the/DT most/RBS important/JJ economic/JJ agreement/NN between/IN Egypt/NNP and/CC Israel/NNP in/IN two/CD decades./NN
+
+The/DT protocol/NN establishing/VBG the/DT zones/NNS has/VBZ been/VBN stalled/VBN for/IN years./NN
+There/EX has/VBZ been/VBN deep/JJ sensitivity/NN in/IN Egypt/NNP about/IN any/DT form/NN of/IN co-operation/JJ with/IN Israel/NNP as/RB long/RB as/IN its/PRP$ peace/NN process/NN with/IN the/DT Palestinians/NNPS remains/VBZ blocked./NN
+But/CC in/IN recent/JJ weeks/NNS an/DT unusual/JJ warmth/NN has/VBZ crept/VBN into/IN relations/NNS between/IN the/DT two/CD countries./NN
+Both/DT exchanged/VBN prisoners/NNS earlier/RBR this/DT month/NN with/IN Egypt/NNP handing/VBG back/RP an/DT Israeli/JJ who/WP has/VBZ served/VBN eight/CD years/NNS in/IN prison/NN after/IN being/VBG convicted/VBN for/IN spying./NN
+
+Egyptian/JJ President/NNP Hosni/NNP Mubarak/NNP has/VBZ described/VBN Israeli/NNP Prime/NNP Minister/NNP Ariel/NNP Sharon/NNP as/IN the/DT best/JJS chance/NN for/IN the/DT Palestinians/NNPS to/TO achieve/VB peace./NN
+The/DT government/NN in/IN Cairo/NNP now/RB believes/VBZ Mr/NNP Sharon/NNP is/VBZ moving/VBG towards/IN the/DT centre/NN and/CC away/RB from/IN the/DT positions/NNS of/IN right/JJ wing/NN groups./NN
+It/PRP also/RB believes/VBZ the/DT US/PRP pressed/VBD by/IN Europe/NNP is/VBZ now/RB more/RBR willing/JJ to/TO engage/VB seriously/RB in/IN the/DT search/NN for/IN a/DT settlement./NN
+But/CC there/EX are/VBP also/RB pressing/VBG economic/JJ reasons/NNS for/IN Egypt's/NNP decision/NN to/TO enter/VB into/IN the/DT trade/NN agreement./NN
+It/PRP will/MD give/VB a/DT huge/JJ boost/NN to/TO Egyptian/JJ textile/NN exports/NNS which/WDT are/VBP about/IN to/TO suffer/VB a/DT drop/NN after/IN new/JJ regulations/NNS come/VBP into/IN force/NN in/IN the/DT US/PRP at/IN the/DT beginning/NN of/IN the/DT year./NN

@@ -1,0 +1,40 @@
+Clyde/NNP 0-5/JJ Celtic/NNP
+
+Celtic/NNP brushed/VBD aside/RB Clyde/NNP to/TO secure/VB their/PRP$ place/NN in/IN the/DT Scottish/NNP Cup/NNP semi-final/JJ but/CC only/RB after/IN a/DT nervy/JJ and/CC testing/NN first/JJ half./NN
+
+The/DT home/NN side's/NNS Craig/NNP Bryson/NNP had/VBD a/DT goal/NN chopped/VBD off/RP before/IN Stan/NNP Varga/NNP headed/VBD Celtic/NNP into/IN the/DT lead./NN
+Alan/NNP Thompson/NNP scored/VBD from/IN the/DT penalty/NN spot/NN at/IN the/DT start/NN of/IN the/DT second/JJ half/NN after/IN Shaun/NNP Maloney/NNP had/VBD been/VBN fouled./NN
+Stilian/NNP Petrov/NNP slid/VBD in/IN a/DT third/JJ Varga/NNP tapped/VBD in/IN his/PRP$ second/JJ and/CC Craig/NNP Bellamy/NNP completed/VBD the/DT rout/NN with/IN a/DT fine/JJ drive./NN
+Bryn/NNP Halliwell/NNP was/VBD the/DT busier/JJR keeper/NN early/RB on/IN saving/VBG from/IN Bellamy/NNP Chris/NNP Sutton/NNP and/CC Juninho./NNP
+Clyde/NNP had/VBD the/DT ball/NN in/IN the/DT net/NN after/IN half-an-hour/NN through/IN a/DT tremendous/JJ strike/NN from/IN Bryson/NNP but/CC the/DT referee/NN had/VBD already/RB blown/VBN for/IN a/DT foul/JJ by/IN Petrov./NNP
+From/IN the/DT resulting/VBG free/JJ kick/VBP Darren/NNP Sheridan/NNP curled/VBD the/DT ball/NN round/NN the/DT Celtic/NNP wall/NN only/RB for/IN the/DT post/NN to/TO deny/VB him./NN
+Back/RB at/IN the/DT other/JJ end/NN Halliwell/NNP did/VBD well/RB to/TO come/VB off/RP his/PRP$ line/NN and/CC block/VB Bellamy's/NNP effort/NN to/TO lift/VB the/DT ball/NN over/IN him./NN
+The/DT keeper/NN misjudged/VBD a/DT corner/NN that/IN Stephane/NNP Henchoz/NNP headed/VBD wide/JJ but/CC a/DT similar/JJ scenario/NN five/CD minutes/NNS before/IN the/DT break/NN led/VBN to/TO the/DT opening/NN goal./NN
+The/DT ball/NN was/VBD delivered/VBN from/IN the/DT left/NN and/CC Halliwell/NNP was/VBD left/VBN floundering/VBG as/IN Varga/NNP glanced/VBD the/DT ball/NN into/IN the/DT net./NN
+
+Maloney/NNP replaced/VBD the/DT injured/VBN Sutton/NNP at/IN half/JJ time/NN and/CC he/PRP marked/VBD his/PRP$ first/JJ competitive/JJ appearance/NN after/IN a/DT year/NN out/RP injured/VBN by/IN helping/VBG his/PRP$ side/NN take/VB a/DT two-goal/JJ lead/NN just/RB after/IN the/DT break./NN
+The/DT young/JJ striker/NN fired/VBD a/DT free/JJ kick/NN straight/RB into/IN the/DT Clyde/NNP wall/NN but/CC as/IN he/PRP collected/VBD the/DT rebound/NN he/PRP was/VBD tripped/VBN by/IN Bryson/NNP and/CC Thompson/NNP converted/VBD the/DT penalty./NN
+Sheridan/NNP and/CC Bellamy/NNP were/VBD involved/VBN in/IN something/NN of/IN a/DT flare-up/NN that/WDT led/VBD to/TO both/DT being/VBG booked/VBN after/IN the/DT intervention/NN of/IN the/DT assistant/JJ referee./NN
+Juninho/NNP brought/VBD out/RP another/DT good/JJ save/NN from/IN Halliwell/NNP and/CC then/RB Petrov/NNP saw/VBD a/DT tremendous/JJ effort/NN come/VBN off/RP the/DT top/NN of/IN the/DT bar./NN
+But/CC Petrov/NNP and/CC Juninho/NNP combined/VBD brilliantly/RB to/TO allow/VB the/DT Bulgarian/JJ to/TO make/VB it/PRP 3-0/JJ on/IN the/DT hour/NN mark/NN -/: a/DT quick/JJ one-two/JJ giving/NN him/PRP the/DT time/NN and/CC space/NN to/TO steer/VB the/DT ball/NN past/IN Halliwell/NNP from/IN 12/CD yards./NN
+Varga/NNP got/VBD his/PRP$ second/JJ goal/NN of/IN the/DT game/NN as/IN Celtic/NNP drove/VBD home/VBP their/PRP$ advantage/NN -/: Thompson/NNP whipped/VBD in/IN a/DT corner/NN from/IN the/DT right/NN and/CC the/DT unmarked/JJ defender/NN simply/RB tapped/VBD the/DT ball/NN over/IN the/DT line/NN from/IN a/DT couple/NN of/IN yards/NNS out./NN
+Celtic/NNP were/VBD utterly/RB dominant/JJ by/IN this/DT stage/NN and/CC Bellamy/NNP opened/VBD his/PRP$ scoring/NN account/VBP for/IN the/DT club/NN after/IN a/DT fine/JJ move/NN involving/VBG Aiden/NNP McGeady/NNP Jackie/NNP McNamara/NNP and/CC Maloney/NNP culminated/VBD in/IN the/DT Welshman/NNP hammering/VBG the/DT ball/NN into/IN the/DT net./NN
+Halliwell/NNP kept/VBD the/DT deficit/NN at/IN five/CD by/IN pushing/VBG a/DT McGeady/NNP shot/NN wide/JJ as/IN the/DT game/NN petered/VBD out./NN
+
+Halliwell/NNP Mensing/NNP Bollan/NNP Balmer/NNP Potter/NNP Sheridan/NNP (Burns/NN 61)/CD Arbuckle/NNP (Gilhaney/NN 61)/CD Gibson/NNP Bryson/NNP (Jones/NN 78)/CD Malone/NNP Harty./NNP
+
+Morrison/NNP Wilson./NNP
+
+Mensing/NNP Sheridan./NNP
+
+Douglas/NNP Henchoz/NNP McNamara/NNP Balde/NNP Varga/NNP Juninho/NNP Paulista/NNP Thompson/NNP Lennon/NNP (Lambert/NN 70)/CD Sutton/NNP (Maloney/NN 45)/CD Petrov/NNP (McGeady/NN 70)/CD Bellamy./NNP
+
+Marshall/NNP Laursen./NNP
+
+Thompson/NNP Bellamy./NNP
+
+Varga/NNP 40/CD Thompson/NNP 48/CD pen/NN Petrov/NNP 60/CD Varga/NNP 68/CD Bellamy/NNP 72./CD
+
+8200/CD
+
+C/NNP Thomson/NNP

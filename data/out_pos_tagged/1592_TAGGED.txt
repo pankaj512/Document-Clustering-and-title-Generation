@@ -1,0 +1,11 @@
+Newcastle/NNP line/NN up/RP Babayaro/NNP
+
+Newcastle/NNP manager/NN Graeme/NNP Souness/NN is/VBZ closing/NN in/RP on/IN signing/VBG Chelsea/NNP defender/NN Celestine/NNP Babayaro/NNP when/WRB the/DT transfer/NN window/NN reopens./NN
+
+Souness/NN is/VBZ bidding/NN to/TO bolster/VB his/PRP$ defence/NN and/CC according/VBG to/TO reports/NNS contract/NN negotiations/NNS are/VBP at/IN an/DT advanced/JJ stage/NN with/IN the/DT player./NN
+Babayaro/NNP has/VBZ been/VBN in/IN the/DT Premiership/NN since/IN 1997/CD when/WRB he/PRP moved/VBD to/TO Chelsea/NNP for/IN £2.25m/CD from/IN Anderlecht./NNP
+But/CC the/DT 26-year-old/JJ has/VBZ been/VBN surplus/NN to/TO requirements/NNS this/DT season./NN
+Souness/NN would/MD not/RB be/VB drawn/VBN on/IN specifics/NNS over/IN individual/JJ players./NN
+
+But/CC he/PRP said/VBD "All/NN I/PRP can/MD tell/VB you/PRP is/VBZ that/IN the/DT chairman/NN has/VBZ worked/VBN really/RB hard/RB in/IN the/DT last/JJ couple/NN of/IN months/NNS to/TO try/VB to/TO do/VB deals./NN
+"We/NN have/VBP said/VBN from/IN day/NN one/CD we/PRP want/VBP to/TO strengthen/VB and/CC that/DT is/VBZ what/WP we/PRP are/VBP hoping/VBG to/TO do/VB in/IN the/DT coming/VBG weeks."/NN

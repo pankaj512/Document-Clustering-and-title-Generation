@@ -1,0 +1,16 @@
+Pernod/NNP takeover/NN talk/NN lifts/NNS Domecq/NNP
+
+Shares/NNS in/IN UK/NNP drinks/NNS and/CC food/NN firm/NN Allied/NNP Domecq/NNP have/VBP risen/VBN on/IN speculation/NN that/IN it/PRP could/MD be/VB the/DT target/NN of/IN a/DT takeover/NN by/IN France's/NNP Pernod/NNP Ricard./NNP
+
+Reports/NNS in/IN the/DT Wall/NNP Street/NNP Journal/NNP and/CC the/DT Financial/NNP Times/NNP suggested/VBD that/IN the/DT French/JJ spirits/NNS firm/NN is/VBZ considering/VBG a/DT bid/NN but/CC has/VBZ yet/RB to/TO contact/VB its/PRP$ target./NN
+Allied/NNP Domecq/NNP shares/NNS in/IN London/NNP rose/VBD 4%/CD by/IN 1200/CD GMT/NNP while/IN Pernod/NNP shares/NNS in/IN Paris/NNP slipped/VBD 1.2%./CD
+Pernod/NNP said/VBD it/PRP was/VBD seeking/VBG acquisitions/NNS but/CC refused/VBD to/TO comment/VB on/IN specifics./NN
+
+Pernod's/NNP last/JJ major/JJ purchase/NN was/VBD a/DT third/NN of/IN US/PRP giant/JJ Seagram/NNP in/IN 2000/CD the/DT move/NN which/WDT propelled/VBD it/PRP into/IN the/DT global/JJ top/JJ three/CD of/IN drinks/NNS firms./NN
+The/DT other/JJ two-thirds/NNS of/IN Seagram/NNP was/VBD bought/VBN by/IN market/NN leader/NN Diageo./NNP
+In/IN terms/NNS of/IN market/NN value/NN Pernod/NNP -/: at/IN 7.5bn/CD euros/NNS ($9.7bn)/CD -/: is/VBZ about/IN 9%/CD smaller/JJR than/IN Allied/NNP Domecq/NNP which/WDT has/VBZ a/DT capitalisation/NN of/IN £5.7bn/CD ($10.7bn/CD 8.2bn/CD euros)./NN
+Last/JJ year/NN Pernod/NNP tried/VBD to/TO buy/VB Glenmorangie/NNP one/CD of/IN Scotland's/NNP premier/NN whisky/JJ firms/NNS but/CC lost/VBD out/RP to/TO luxury/VB goods/NNS firm/NN LVMH./NNP
+Pernod/NNP is/VBZ home/NN to/TO brands/NNS including/VBG Chivas/NNP Regal/NNP Scotch/NNP whisky/JJ Havana/NNP Club/NNP rum/NN and/CC Jacob's/NNP Creek/NNP wine./NN
+Allied/NNP Domecq's/NNP big/JJ names/NNS include/VBP Malibu/NNP rum/NN Courvoisier/NNP brandy/NN Stolichnaya/NNP vodka/NN and/CC Ballantine's/NNP whisky/JJ -/: as/RB well/RB as/IN snack/NN food/NN chains/NNS such/JJ as/IN Dunkin'/NNP Donuts/NNP and/CC Baskin-Robbins/NNP ice/NN cream./NN
+The/DT WSJ/NNP said/VBD that/IN the/DT two/CD were/VBD ripe/JJ for/IN consolidation/NN having/VBG each/DT dealt/VBD with/IN problematic/JJ parts/NNS of/IN their/PRP$ portfolio./NN
+Pernod/NNP has/VBZ reduced/VBN the/DT debt/NN it/PRP took/VBD on/RP to/TO fund/VB the/DT Seagram/NNP purchase/NN to/TO just/RB 1.8bn/CD euros/NNS while/IN Allied/NNP has/VBZ improved/VBN the/DT performance/NN of/IN its/PRP$ fast-food/NN chains./NN

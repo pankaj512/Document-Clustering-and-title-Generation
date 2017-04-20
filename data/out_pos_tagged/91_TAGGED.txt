@@ -1,0 +1,21 @@
+Russia/NNP gets/VBZ investment/NN blessing/NN
+
+Soaring/VBG oil/NN sales/NNS and/CC a/DT budget/NN surplus/NN mean/NN Russian/JJ debt/NN is/VBZ no/RB longer/RB a/DT risky/JJ investment/NN one/CD of/IN the/DT world's/NNS leading/VBG credit/NN rating/NN agencies/NNS says./NN
+
+Standard/NNP &/CC Poor's/NNP has/VBZ classed/VBN Russian/JJ bonds/NNS as/IN "investment/NN grade"/NN up/RP from/IN their/PRP$ former/JJ "speculative"/NN rating./NN
+Russia's/NNP reputation/NN among/IN investors/NNS has/VBZ been/VBN hurt/VBN in/IN recent/JJ months/NNS by/IN the/DT heavy/JJ tax/NN bills/NNS and/CC asset/NN seizures/NNS imposed/VBN on/IN companies/NNS such/JJ as/IN oil/NN giant/NN Yukos./NNP
+S&P/NNP said/VBD the/DT solidity/NN of/IN government/NN finances/NNS outweighed/VBD the/DT risk./NN
+Russia/NNP is/VBZ now/RB a/DT net/JJ creditor/NN rather/RB than/IN a/DT debtor./NN
+Gold/NNP and/CC foreign/JJ currency/NN reserves/NNS of/IN $119bn/CD beat/NN its/PRP$ foreign/JJ public/JJ debt/NN of/IN some/DT $113bn./CD
+
+The/DT other/JJ two/CD major/JJ ratings/NNS agencies/NNS -/: Fitch/NNP and/CC Moody's/NNP have/VBP long/RB since/IN upped/VBD their/PRP$ rating/NN of/IN Russia's/NNP sovereign/JJ debt./NN
+S&P/NNP had/VBD held/VBN back/RB through/IN fear/NN that/IN the/DT government/NN was/VBD dragging/VBG its/PRP$ feet/NNS on/IN economic/JJ and/CC legal/JJ reforms./NN
+Now/RB though/IN it/PRP has/VBZ finally/RB followed/VBN suit./NN
+But/CC the/DT agency/NN made/VBD it/PRP clear/JJ that/IN the/DT improved/VBN rating/NN did/VBD not/RB mean/VB that/IN the/DT risks/NNS were/VBD a/DT thing/NN of/IN the/DT past./NN
+Instead/RB with/IN Russian/JJ government/NN coffers/NNS brimming/VBG with/IN tax/NN revenues/NNS from/IN energy/NN sales/NNS S&P/NNP said/VBD the/DT government's/NNS own/JJ debt/NN is/VBZ looking/VBG a/DT good/JJ bet./NN
+"These/NN improvements/NNS are/VBP so/RB significant/JJ that/IN they/PRP now/RB outweight/VBP the/DT serious/JJ and/CC growing/VBG political/JJ risk/NN that/WDT continues/VBZ to/TO be/VB a/DT key/JJ ratings/NNS constraint/NN on/IN Russia"/NNP wrote/VBD S&P/NNP credit/NN analyst/NN Helena/NNP Hessel./NNP
+
+The/DT Yukos/NNP saga/NN is/VBZ the/DT most/RBS high-profile/JJ of/IN the/DT political/JJ risks/NNS to/TO which/WDT Ms/NNP Hessel/NNP alludes./NN
+The/DT company's/NNS founder/NN and/CC ex-chief/JJ executive/NN Mikhail/NNP Khodorkovsky/NNP is/VBZ in/IN jail/NN on/IN trial/NN for/IN tax/NN evasion/NN and/CC fraud./NN
+Many/JJ believe/VBP the/DT real/JJ motive/NN for/IN his/PRP$ prosecution/NN is/VBZ that/IN he/PRP threatened/VBD to/TO use/VB his/PRP$ wealth/NN to/TO set/VB up/RP a/DT political/JJ alternative/NN to/TO President/NNP Vladimir/NNP Putin./NNP
+His/PRP$ company/NN meanwhile/RB is/VBZ widely/RB believed/VBN to/TO have/VB fallen/VBN victim/NN to/TO the/DT Kremlin's/NNP wish/VBP to/TO get/VB Russian/JJ energy/NN resources/NNS as/RB far/RB as/IN possible/JJ back/RB under/IN state/NN control./NN

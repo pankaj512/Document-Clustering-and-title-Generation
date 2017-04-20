@@ -1,0 +1,19 @@
+Ukraine/NNP steel/NN sell-off/NN 'illegal'/NN
+
+The/DT controversial/JJ sell-off/NN of/IN a/DT Ukrainian/JJ steel/NN mill/NN to/TO a/DT relative/NN of/IN the/DT former/JJ president/NN was/VBD illegal/JJ a/DT court/NN has/VBZ ruled./NN
+
+The/DT mill/NN Krivorizhstal/NNP was/VBD sold/VBN in/IN June/NNP 2004/CD for/IN $800m/CD (£424m)/CD -/: well/RB below/IN other/JJ offers./NN
+President/NNP Viktor/NNP Yushchenko/NNP elected/VBD in/IN December/NNP is/VBZ planning/VBG to/TO revisit/VB many/JJ of/IN Ukraine's/NNP recent/JJ privatisations./NN
+Krivorizhstal/NNP is/VBZ one/CD of/IN dozens/NNS of/IN firms/NNS which/WDT he/PRP says/VBZ were/VBD sold/VBN cheaply/RB to/TO friends/NNS of/IN the/DT previous/JJ administration./NN
+
+On/IN Wednesday/NNP Prime/NNP Minister/NNP Yulia/NNP Tymoshenko/NNP said/VBD as/RB many/JJ as/IN 3000/CD firms/NNS could/MD be/VB included/VBN on/IN the/DT list/NN of/IN firms/NNS whose/WP$ sale/NN was/VBD being/VBG reviewed./NN
+
+Mr/NNP Yushchenko/NNP had/VBD previously/RB said/VBN the/DT list/NN would/MD be/VB limited/VBN to/TO 30-40/JJ enterprises./NN
+More/JJR than/IN 90000/CD businesses/NNS in/IN all/DT from/IN massive/JJ corporations/NNS to/TO tiny/JJ shopfronts/NNS have/VBP been/VBN sold/VBN off/RP since/IN 1992/CD as/IN the/DT command/NN economy/NN built/VBD up/RP when/WRB Ukraine/NNP was/VBD part/NN of/IN the/DT Soviet/NNP Union/NNP was/VBD dismantled./JJ
+Analysts/NNS have/VBP suggested/VBN that/IN the/DT government/NN needs/VBZ to/TO avoid/VB the/DT impression/NN of/IN an/DT open-ended/JJ list/NN so/RB as/IN to/TO preserve/VB investor/NN confidence./NN
+
+Thursday's/NNP ruling/NN by/IN a/DT district/NN court/NN in/IN Perchesk/NNP overturned/VBD a/DT previous/JJ decision/NN in/IN a/DT lower/JJR court/NN permitting/VBG the/DT sale./NN
+The/DT consortium/NN which/WDT won/VBD the/DT auction/NN for/IN the/DT mill/NN was/VBD created/VBN by/IN Viktor/NNP Pinchuk/NNP son-in-law/NN of/IN former-President/JJ Leonid/NNP Kuchma/NNP and/CC Rinat/NNP Akhmetov/NNP the/DT country's/NNS richest/JJS man./NN
+The/DT next/JJ step/NN is/VBZ for/IN the/DT supreme/JJ court/NN to/TO annul/VB the/DT sale/NN altogether/RB opening/VBG the/DT way/NN for/IN Krivorizhstal/NNP to/TO be/VB resold./NN
+Mr/NNP Yushchenko/NNP has/VBZ suggested/VBN a/DT fair/JJ valuation/NN could/MD be/VB as/RB much/JJ as/IN $3bn./CD
+One/CD of/IN the/DT foreign/JJ bidders/NNS who/WP lost/VBD out/RP steel/NN giant/NN LNM/NNP told/VBD BBC/NNP News/NNP that/IN it/PRP would/MD be/VB interested/JJ in/IN any/DT renewed/VBN sale./NN

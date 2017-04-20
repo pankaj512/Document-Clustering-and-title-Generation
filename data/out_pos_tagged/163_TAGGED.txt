@@ -1,0 +1,23 @@
+US/PRP data/VBZ sparks/VBZ inflation/NN worries/NNS
+
+Wholesale/JJ prices/NNS in/IN the/DT US/PRP rose/VBD at/IN the/DT fastest/JJS rate/NN in/IN more/JJR than/IN six/CD years/NNS in/IN January/NNP according/VBG to/TO government/NN data./NN
+
+New/JJ figures/NNS show/VBP the/DT Labor/NNP Department/NNP producer/NN price/NN index/NN (PPI)/NN rose/VBD by/IN 0.3%/CD -/: in/IN line/NN with/IN forecasts./NN
+But/CC core/NN producer/NN prices/NNS which/WDT exclude/VBP food/NN and/CC energy/NN costs/NNS surged/VBN by/IN 0.8%/CD the/DT biggest/JJS rise/NN since/IN December/NNP 1998/CD increasing/VBG inflationary/JJ concerns./NN
+In/IN contrast/NN the/DT University/NNP of/IN Michigan/NNP barometer/NN of/IN US/PRP retail/JJ consumer/NN confidence/NN showed/VBD a/DT slight/JJ dip./NN
+The/DT university's/NNS index/NN of/IN consumer/NN spending/NN fell/VBD to/TO 94.2/CD in/IN early/JJ February/NNP from/IN 95.5/CD in/IN January/NNP which/WDT could/MD indicate/VB a/DT fall/NN in/IN retail/JJ spending/NN by/IN the/DT US/PRP public./VBP
+The/DT mixed/JJ set/VBD of/IN data/NNS on/IN Friday/NNP led/VBD to/TO volatile/JJ early/JJ Wall/NNP Street/NNP trade/NN as/IN the/DT Dow/NNP Jones/NNP Standard/NNP and/CC Poor's/NNP 500/CD and/CC Nasdaq/NNP swung/VBD between/IN positive/JJ and/CC negative/JJ territory./NN
+
+The/DT economic/JJ figures/NNS come/VBP on/IN the/DT back/NN of/IN increased/VBN fears/NNS that/IN the/DT Federal/NNP Reserve/NNP chairman/NN may/MD be/VB about/IN to/TO raise/VB interest/NN rates/NNS in/IN order/NN to/TO stifle/VB any/DT inflationary/JJ pressures./NN
+The/DT Fed/NNP has/VBZ been/VBN raising/VBG interest/NN rates/NNS at/IN a/DT gradual/JJ pace/NN since/IN June/NNP 2004/CD in/IN an/DT attempt/NN to/TO make/VB sure/JJ inflation/NN does/VBZ not/RB get/VB out/IN of/IN control./NN
+
+Mr/NNP Greenspan/NNP told/VBD Congress/NNP this/DT week/NN that/IN the/DT central/JJ bank/NN was/VBD on/IN guard/NN against/IN the/DT possibility/NN that/IN a/DT rebounding/VBG economy/NN could/MD trigger/VB stronger/JJR inflation/NN pressures./NN
+"The/NNP PPI/NNP would/MD argue/VB for/IN Greenspan/NNP to/TO continue/VB to/TO raise/VB rates/NNS at/IN a/DT measured/VBN pace"/NN said/VBD Joe/NNP Quinlan/NNP chief/NN market/NN stategist/NN at/IN Bank/NNP of/IN America/NNP Capital/NNP Management./NNP
+"But/NN this/DT Michigan/NNP survey/NN tells/VBZ you/PRP that/IN the/DT consumer/NN might/MD be/VB downshifting/VBG a/DT little/JJ bit/NN in/IN terms/NNS of/IN their/PRP$ confidence/NN and/CC their/PRP$ spending/NN this/DT could/MD be/VB an/DT indication/NN of/IN that."/NN
+
+Consumer/NNP spending/NN accounts/VBZ for/IN 66%/CD of/IN US/PRP economic/JJ activity/NN and/CC is/VBZ viewed/VBN as/IN a/DT gauge/NN of/IN the/DT health/NN of/IN the/DT economy/NN which/WDT is/VBZ why/WRB the/DT Michigan/NNP data/NNS is/VBZ closely/RB observed./NN
+However/RB on/IN Friday/NNP it/PRP was/VBD overshadowed/VBN by/IN the/DT core/NN PPI/NNP core/NN figure/NN which/WDT surged/VBD 2.7%/CD during/IN the/DT past/JJ 12/CD months/NNS the/DT biggest/JJS year-on-year/JJ gain/NN in/IN nine/CD years./NN
+"The/NN concern/NN is/VBZ that/IN traders/NNS might/MD interpret/VB this/DT big/JJ jump/NN in/IN the/DT core/NN PPI/NNP as/IN an/DT impetus/NN for/IN the/DT Fed/NNP to/TO be/VB more/RBR aggressive/JJ than/IN a/DT measured/VBN move/NN in/IN moving/VBG rates"/NN said/VBD Paul/NNP Cherney/NNP chief/NN market/NN analyst/NN at/IN Standard/NNP &/CC Poor's./NNP
+But/CC Ian/NNP Shepherdson/NNP chief/NN US/PRP economist/VBP at/IN High/NNP Frequency/NN Economics/NNP said/VBD the/DT PPI/NNP report/NN was/VBD "much/NN less/JJR alarming"/NN than/IN at/IN first/JJ glance./NN
+One-time/JJ increases/NNS in/IN alcohol/NN and/CC tobacco/NN prices/NNS which/WDT "are/NN no/DT indication/NN of/IN broad/JJ PPI/NNP pressure"/NN were/VBD responsible/JJ for/IN the/DT increase/NN he/PRP said./VB
+Prices/NNS for/IN autos/NNS and/CC trucks/NNS also/RB jumped/VBD in/IN January/NNP but/CC Shepherdson/NNP said/VBD "it/NN is/VBZ a/DT good/JJ bet/NN these/DT increases/VBZ won't/NN stick"./NN

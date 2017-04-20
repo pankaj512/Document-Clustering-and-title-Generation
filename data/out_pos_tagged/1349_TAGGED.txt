@@ -1,0 +1,14 @@
+Jones/NNP doping/VBG probe/NN begins/VBZ
+
+An/DT investigation/NN into/IN doping/VBG claims/NNS against/IN Marion/NNP Jones/NNP has/VBZ been/VBN opened/VBN by/IN the/DT International/NNP Olympic/NNP Committee./NNP
+
+IOC/NNP president/NN Jacques/NNP Rogge/NNP has/VBZ set/VBN up/RP a/DT disciplinary/JJ body/NN to/TO look/VB into/IN claims/NNS by/IN Victor/NNP Conte/NNP of/IN Balco/NNP Laboratories./NNP
+Jones/NNP who/WP says/VBZ she/PRP is/VBZ innocent/JJ could/MD lose/VB all/DT her/PRP$ Olympic/NNP medals/NNS after/IN Conte/NNP said/VBD he/PRP gave/VBD her/PRP$ performance-enhancing/JJ drugs/NNS before/IN the/DT Sydney/NNP Olympics./NNP
+But/CC Rogge/NNP said/VBD it/PRP was/VBD too/RB early/JJ to/TO speculate/VB about/IN that/DT hoping/VBG only/JJ that/DT "the/NN truth/NN will/MD emerge"./VB
+
+Any/DT decision/NN on/IN the/DT medals/NNS would/MD be/VB taken/VBN by/IN the/DT IOC's/NNP executive/NN board/NN and/CC could/MD hinge/VB on/IN interpretation/NN of/IN a/DT rule/NN stating/VBG that/IN Olympic/NNP decisions/NNS can/MD only/RB be/VB challenged/VBN within/IN three/CD years/NNS of/IN the/DT Games/NNPS closing./NN
+The/DT Sydney/NNP Olympics/NNPS ended/VBD more/JJR than/IN four/CD years/NNS ago/RB but/CC World/NNP Anti-Doping/NNP Agency/NNP chief/NN Dick/NNP Pound/NNP said/VBD the/DT rule/NN may/MD not/RB apply/VB because/IN the/DT allegations/NNS are/VBP only/RB coming/VBG out/RP now./NN
+"We/NN will/MD find/VB a/DT way/NN to/TO deal/VB with/IN that"/NN Pound/NNP said./NN
+In/IN a/DT statement/NN released/VBN through/IN her/PRP$ attorney/NN Rich/NNP Nichols/NNP Jones/NNP repeated/VBD her/PRP$ innocence/NN and/CC vowed/VBD she/PRP would/MD be/VB cleared./NN
+"Victor/NNP Conte's/NNP allegations/NNS are/VBP not/RB true/JJ and/CC the/DT truth/NN will/MD be/VB revealed/VBN for/IN the/DT world/NN to/TO see/VB as/IN the/DT legal/JJ process/NN moves/NNS forward"/VBP she/PRP said./VBP
+"Conte/NN is/VBZ someone/NN who/WP is/VBZ under/IN federal/JJ indictment/NN and/CC has/VBZ a/DT record/NN of/IN issuing/VBG contradictory/JJ inconsistent/JJ statements."/NN

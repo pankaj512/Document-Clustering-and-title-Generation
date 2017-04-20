@@ -1,0 +1,13 @@
+Comic/JJ Morris/NNP returns/NNS with/IN sitcom/NN
+
+Comedian/NNP Chris/NNP Morris/NNP who/WP created/VBD controversial/JJ TV/NN show/NN Brass/NN Eye/NNP is/VBZ to/TO return/VB to/TO screens/NNS with/IN a/DT new/JJ sitcom/NN about/IN a/DT spoof/NN London/NNP media/NNS worker./NN
+
+Morris/NNP will/MD direct/VB and/CC co-write/JJ Nathan/NNP Barley/NN -/: a/DT character/NN from/IN cult/NN website/NN TV/NN Go/VB Home/NNP -/: for/IN Channel/NNP 4./CD
+It/PRP is/VBZ a/DT send-up/NN of/IN the/DT stereotypical/JJ "cool"/NN metropolitan/JJ media/NNS scene/NN with/IN Nicholas/NNP Burns/NNP in/IN the/DT title/NN role./NN
+A/DT Brass/NN Eye/NNP satire/NN of/IN the/DT media/NNS handling/NN of/IN paedophilia/NN sparked/VBD 2500/CD complaints/NNS in/IN 2001./CD
+
+Nathan/NNP Barley/NN will/MD be/VB "a/NN character-driven/JJ comedy"/NN according/VBG to/TO Charlie/NNP Brooker/NNP who/WP created/VBD TV/NN Go/VB Home/NNP in/IN 1999/CD and/CC has/VBZ co-written/JJ the/DT series./NN
+Barley/NN is/VBZ described/VBN as/IN a/DT "webmaster/NN guerrilla/NN film-maker/NN screenwriter/NN DJ/NNP and/CC in/IN his/PRP$ own/JJ words/NNS a/DT 'self-facilitating/JJ media/NNS node"./NN
+The/DT story/NN will/MD also/RB feature/VB Dan/NNP Ashcroft/NNP a/DT style/NN magazine/NN columnist/NN and/CC his/PRP$ sister/NN Claire/NNP a/DT film-maker/NN who/WP hates/VBZ the/DT "cool"/NN scene./NN
+As/RB well/RB as/IN Brass/NN Eye/NNP Morris/NNP was/VBD behind/IN another/DT news/NN show/NN satire/NN The/DT Day/NNP Today/NN and/CC dark/JJ sketch/NN comedy/NN Jam./NNP
+The/DT new/JJ show/NN is/VBZ expected/VBN to/TO begin/VB in/IN February./NNP

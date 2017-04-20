@@ -1,0 +1,21 @@
+Spam/NN e-mails/NNS tempt/VBP net/JJ shoppers/NNS
+
+Computer/NN users/NNS across/IN the/DT world/NN continue/VBP to/TO ignore/VB security/NN warnings/NNS about/IN spam/NN e-mails/NNS and/CC are/VBP being/VBG lured/VBN into/IN buying/VBG goods/NNS a/DT report/NN suggests./NN
+
+More/JJR than/IN a/DT quarter/NN have/NN bought/VBN software/NN through/IN spam/NN e-mails/NNS and/CC 24%/CD have/VBP bought/VBN clothes/NNS or/CC jewellery./NN
+As/RB well/RB as/IN profiting/VBG from/IN selling/VBG goods/NNS or/CC services/NNS and/CC driving/VBG advertising/NN traffic/NN organised/VBD crime/NN rings/NNS can/MD use/VB spam/NN to/TO glean/VB personal/JJ information./NN
+The/DT Business/NNP Software/NNP Alliance/NNP (BSA)/NN warned/VBD that/IN people/NNS should/MD "stay/VB alert"./NN
+"Many/NN online/NN consumers/NNS don't/NN consider/VBP the/DT true/JJ motives/NNS of/IN spammers"/NN said/VBD Mike/NNP Newton/NNP a/DT spokesperson/NN for/IN the/DT BSA/NNP which/WDT commissioned/VBD the/DT survey./NN
+
+"By/NN selling/VBG software/NN that/WDT appears/VBZ to/TO be/VB legitimate/JJ in/IN genuine/JJ looking/NN packaging/NN or/CC through/IN sophisticated/JJ websites/NNS spammers/NNS are/VBP hiding/VBG spyware/NN without/IN consumers'/NN knowledge./NN
+"Once/NN the/DT software/NN is/VBZ installed/VBN on/IN PCs/NNS and/CC networks/NNS information/NN that/WDT is/VBZ given/VBN over/IN the/DT internet/NN can/MD be/VB obtained/VBN and/CC abused."/NN
+
+The/DT results/NNS also/RB showed/VBD that/IN the/DT proportion/NN of/IN people/NNS reading/VBP -/: or/CC admitting/VBG to/TO reading/NN -/: and/CC taking/VBG advantage/NN of/IN adult/NN entertainment/NN spam/NN e-mails/NNS is/VBZ low/JJ at/IN one/CD in/IN 10./CD
+The/DT research/NN which/WDT covered/VBD 6000/CD people/NNS in/IN six/CD countries/NNS and/CC their/PRP$ attitudes/NNS towards/IN junk/NN e-mails/NNS revealed/VBD that/IN Brazilians/NNS were/VBD the/DT most/RBS likely/JJ to/TO read/VB spam./NN
+A/DT third/NN of/IN them/PRP read/VBP unsolicited/JJ junk/NN e-mail/JJ and/CC 66%/CD buy/NN goods/NNS or/CC services/NNS after/IN receiving/VBG spam./NN
+
+The/DT French/NNP were/VBD the/DT second/JJ most/RBS likely/JJ to/TO buy/VB something/NN (48%)/CD with/IN 44%/CD of/IN Britons/NNP taking/VBG advantage/NN of/IN products/NNS and/CC services./NN
+This/DT was/VBD despite/IN 38%/CD of/IN people/NNS in/IN all/DT countries/NNS being/VBG worried/VBN about/IN their/PRP$ net/JJ security/NN because/IN of/IN the/DT amount/NN of/IN spam/NN they/PRP get./VBP
+More/JJR than/IN a/DT third/NN of/IN respondents/NNS said/VBD they/PRP were/VBD concerned/VBN that/DT spam/NN e-mails/NNS contained/VBD viruses/NNS or/CC programs/NNS that/WDT attempted/VBD to/TO collect/VB personal/JJ information./NN
+"Both/NN industry/NN and/CC the/DT media/NNS have/VBP helped/VBN to/TO raise/VB awareness/NN of/IN the/DT issues/NNS that/WDT surround/VBP illegitimate/JJ e-mail/JJ helping/NN to/TO reduce/VB the/DT potential/JJ financial/JJ damage/NN and/CC nuisance/JJ from/IN phishing/VBG attacks/NNS and/CC spoof/NN websites"/NN said/VBD William/NNP Plante/NNP director/NN of/IN corporate/JJ security/NN and/CC fraud/NN protection/NN at/IN security/NN firm/NN Symantec./NNP
+"At/NN the/DT same/JJ time/NN consumers/NNS need/VBP to/TO continue/VB exercising/VBG caution/NN and/CC protect/VB themselves/PRP from/IN harm/NN with/IN a/DT mixture/NN of/IN spam/NN filters/NNS spyware/NN detection/NN software/NN and/CC sound/NN judgement."/NN

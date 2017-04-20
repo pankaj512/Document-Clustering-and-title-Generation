@@ -1,0 +1,14 @@
+Sales/NNS 'fail/NN to/TO boost/VB High/NNP Street'/NNP
+
+The/DT January/NNP sales/NNS have/VBP failed/VBN to/TO help/VB the/DT UK/NNP High/NNP Street/NNP recover/VB from/IN a/DT poor/JJ Christmas/NNP season/NN a/DT survey/NN has/VBZ found./NN
+
+Stores/NNS received/VBD a/DT boost/NN from/IN bargain/NN hunters/NNS but/CC trading/NN then/RB reverted/VBD to/TO December/NNP levels/VBZ the/DT British/JJ Retail/JJ Consortium/NNP and/CC accountants/NNS KPMG/NNP said./NN
+Sales/NNS in/IN what/WP is/VBZ traditionally/RB a/DT strong/JJ month/NN rose/VBD by/IN 0.5%/CD on/IN a/DT like-for-like/JJ basis/NN compared/VBN with/IN a/DT year/NN earlier./NN
+Consumers/NNS remain/VBP cautious/JJ over/IN buying/VBG big-ticket/JJ items/NNS like/IN furniture/NN said/VBD BRC/NNP director/NN general/JJ Kevin/NNP Hawkins./NNP
+Higher/JJR interest/NN rates/NNS and/CC uncertainty/NN over/IN the/DT housing/NN market/NN continue/VBP to/TO take/VB their/PRP$ toll/NN on/IN the/DT retail/JJ sector/NN the/DT BRC/NNP said./NN
+But/CC clothing/NN and/CC footwear/NN sales/NNS were/VBD said/VBN to/TO be/VB generally/RB better/JJR than/IN December/NNP while/IN department/NN stores/NNS also/RB had/VBD a/DT good/JJ month./NN
+
+In/IN the/DT three-months/NNS to/TO January/NNP like-for-like/JJ sales/NNS showed/VBD a/DT growth/NN rate/NN of/IN -0.1%/JJ the/DT same/JJ as/IN in/IN the/DT three/CD months/NNS to/TO December/NNP the/DT BRC/NNP said./NN
+"Following/VBG a/DT relatively/RB strong/JJ New/NNP Year's/NNP bank/NN holiday/NN trading/NN then/RB took/VBD a/DT downward/JJ turn"/NN said/VBD Mr/NNP Hawkins./NNP
+"Even/NN extending/VBG some/DT promotions/NNS and/CC discounts/NNS and/CC the/DT pay-day/JJ boost/NN later/RB in/IN the/DT month/NN could/MD not/RB tempt/VB customers."/NN The/DT previous/JJ BRC/NNP survey/NN found/VBD Christmas/NNP 2004/CD was/VBD the/DT worst/JJS for/IN 10/CD years/NNS for/IN retailers./NN
+And/CC according/VBG to/TO Office/NNP for/IN National/NNP Statistics/NNPS data/NNS sales/NNS in/IN December/NNP failed/VBD to/TO meet/VB expectations/NNS and/CC by/IN some/DT counts/VBZ were/VBD the/DT worst/JJS since/IN 1981./CD

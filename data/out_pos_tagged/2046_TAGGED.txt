@@ -1,0 +1,39 @@
+Media/NN gadgets/NNS get/VBP moving/VBG
+
+Pocket-sized/JJ devices/NNS that/WDT let/NN people/NNS carry/VB around/IN video/NN and/CC images/NNS are/VBP set/VBN to/TO have/VB a/DT big/JJ year/NN in/IN 2005/CD according/VBG to/TO industry/NN experts./NN
+
+Last/JJ year/NN saw/VBD the/DT emergence/NN of/IN portable/JJ media/NNS players/NNS such/JJ as/IN the/DT Windows-based/JJ Creative/JJ Zen/NNP portable/JJ media/NNS player/VBP the/DT Samsung/NNP Yepp/NNP the/DT iRiver/NN PMC-100/JJ and/CC the/DT Archos/NNP AV400/CD series/NN among/IN others./NN
+But/CC this/DT year/NN they/PRP are/VBP set/VBN to/TO get/VB smarter/RBR and/CC more/RBR connected/JJ to/TO allow/VB people/NNS to/TO find/VB more/JJR video/NN to/TO watch/VB on/IN them./NN
+Archos/NNP launched/VBD its/PRP$ latest/JJS range/NN of/IN its/PRP$ Linux-based/JJ portable/JJ media/NNS devices/NNS at/IN the/DT Consumer/NNP Electronics/NNP Show/NNP in/IN Las/NNP Vegas/NNP on/IN Friday./NNP
+Dubbed/VBN the/DT Pocket/NN Media/NNP Assistant/NNP PMA430/CD it/PRP crucially/RB has/VBZ wi-fi/JJ capability/NN built-in/JJ for/IN the/DT first/JJ time./NN
+"Consumers/NN are/VBP showing/VBG a/DT great/JJ thirst/NN for/IN devices/NNS that/DT store/NN all/DT their/PRP$ media/NNS in/IN one/CD place/NN for/IN anywhere/RB access"/NN said/VBD Henri/NNP Crohas/NNP chief/NN of/IN Archos./NNP
+"And/NN now/RB those/DT consumers/NNS can/MD stay/VB connected/VBN and/CC productive/JJ at/IN the/DT same/JJ time."/NN Archos/NNP said/VBD the/DT focus/NN for/IN the/DT device/NN is/VBZ to/TO be/VB the/DT second/JJ gadget/NN in/IN people's/NNS pockets/NNS after/IN the/DT mobile./NN
+
+Unlike/IN Windows-based/JJ players/NNS the/DT Archos/NNP AV400/CD series/NN devices/NNS have/VBP always/RB been/VBN able/JJ to/TO record/VB from/IN any/DT video/NN source/NN such/JJ as/RB TVs/NNS as/RB well/RB as/IN playback./NN
+The/DT content/NN put/VBD onto/IN the/DT devices/NNS is/VBZ copy/NN protected/VBN so/RB cannot/NN then/RB be/VB swapped/VBN to/TO another/DT device./NN
+
+Recording/NNP is/VBZ perhaps/RB a/DT crucial/JJ functionality/NN for/IN those/DT who/WP have/VBP not/RB seen/VBN the/DT point/NN of/IN portable/JJ video/NN if/IN there/EX is/VBZ not/RB a/DT lot/NN of/IN video/NN to/TO watch/VB on/IN it./NN
+And/CC wi-fi/JJ connectivity/NN opens/VBZ up/RP the/DT possibility/NN of/IN content/NN delivery/NN via/IN a/DT high-speed/JJ wireless/JJ link./NN
+Archos/NNP also/RB announced/VBD that/IN it/PRP would/MD open/VB up/RP the/DT software/NN development/NN kit/NN to/TO Linux/NNP developers/NNS so/IN that/IN more/JJR applications/NNS could/MD be/VB created/VBN for/IN the/DT device./NN
+Microsoft/NNP also/RB made/VBD some/DT announcements/NNS in/IN the/DT portable/JJ media/NNS arena/NN at/IN CES/NNP primarily/RB for/IN US/PRP consumers/VBZ though./NN
+It/PRP has/VBZ agreed/VBN a/DT content/NN deal/NN with/IN personal/JJ video/NN recorder/NN company/NN TiVo/NNP which/WDT Bill/NNP Gates/NNP also/RB showcased/VBD in/IN his/PRP$ keynote/NN speech/NN at/IN CES./NNP
+The/DT TiVo/NNP To/TO Go/VB service/NN means/VBZ that/IN US/PRP consumers/VBZ will/MD be/VB able/JJ to/TO take/VB any/DT programmes/NNS they/PRP record/VBP on/IN their/PRP$ TiVos/NNP and/CC transfer/VB it/PRP for/IN free/JJ to/TO watch/VB on/IN any/DT of/IN the/DT Windows-based/JJ portable/JJ media/NNS players/NNS or/CC smartphones./NN
+It/PRP also/RB said/VBD it/PRP had/VBD launched/VBN a/DT service/NN with/IN MTV/NNP to/TO let/VB people/NNS watch/VB Comedy/NNP Central/NNP VH1/CD and/CC Country/NNP Music/NNP TV/NN on/IN its/PRP$ devices./NN
+And/CC a/DT service/NN is/VBZ launching/VBG with/IN MSN/NNP to/TO provide/VB people/NNS with/IN shortened/VBN versions/NNS of/IN news/NN entertainment/NN and/CC other/JJ video/NN on/IN a/DT subscription/NN basis/NN for/IN download/NN via/IN the/DT PC/NN onto/IN the/DT portable/JJ devices./NN
+But/CC the/DT ability/NN to/TO record/VB directly/RB from/IN TV/NN VCR/NNP and/CC digital/JJ cable/NN and/CC satellite/NN boxes/NNS which/WDT Windows-based/JJ devices/NNS do/VBP not/RB offer/NN certainly/RB gives/VBZ people/NNS more/JJR content/JJ to/TO watch/VB on/IN the/DT go/NN too./NN
+
+The/DT increased/VBN capability/NN of/IN these/DT devices/NNS and/CC the/DT content/NN deals/NNS that/WDT are/VBP being/VBG done/VBN may/MD go/VB some/DT way/NN to/TO persuading/VBG people/NNS to/TO use/VB them./NN
+Recent/JJ research/NN by/IN Jupiter/NNP suggested/VBD that/IN people/NNS would/MD prefer/VB a/DT device/NN that/WDT was/VBD dedicated/VBN to/TO music./VB
+Only/RB 13%/CD of/IN Europeans/NNPS wanted/VBD to/TO watch/VB video/NN while/IN on/IN the/DT move./NN
+More/JJR seemed/VBD interested/JJ in/IN spending/VBG their/PRP$ cash/NN on/IN music-only/JJ devices./NN
+
+"This/NN year/NN we/PRP are/VBP ready/JJ for/IN an/DT explosion/NN of/IN portable/JJ media"/NN Microsoft's/NNP Mike/NNP Coleman/NNP told/VBD the/DT BBC/NNP News/NNP website./NN
+"We/NN are/VBP very/RB bullish/JJ about/IN it./NN
+The/DT fact/NN that/IN I/PRP can/MD put/VB photos/NNS on/IN here/RB too/RB and/CC share/VB them/PRP is/VBZ super-cool/JJ to/TO the/DT consumer"/NN he/PRP added./VB
+The/DT fact/NN that/IN Europeans/NNPS are/VBP far/RB larger/JJR public/JJ transport/NN users/NNS than/IN Americans/NNPS is/VBZ one/CD reason/NN why/WRB portable/JJ media/NNS will/MD take/VB off/RP in/IN the/DT coming/VBG year/NN too./NN
+There/EX is/VBZ a/DT burgeoning/VBG market/NN there/RB for/IN commuters/NNS to/TO watch/VB news/NN and/CC other/JJ programmes/NNS on/IN their/PRP$ way/NN to/TO work./VB
+Although/IN Microsoft's/NNP content/NN distribution/NN deals/NNS are/VBP for/IN the/DT US/PRP market/VBP at/IN the/DT moment/NN talks/NNS were/VBD "always/NN on-going"/JJ with/IN European/JJ content/NN suppliers/NNS to/TO offer/VB similar/JJ services./NN
+Various/JJ rights/NNS management/NN issues/NNS have/VBP to/TO be/VB ironed/VBN out/RP first/JJ however./NN
+But/CC that/DT does/VBZ not/RB prevent/VB people/NNS from/IN finding/VBG ways/NNS to/TO create/VB their/PRP$ own/JJ content/JJ to/TO share/VB online/NN and/CC swap/NN on/IN portable/JJ devices/NNS particularly/RB via/IN those/DT which/WDT are/VBP wi-fi/JJ enabled./NN
+The/DT possibility/NN is/VBZ open/JJ for/IN non-professional/JJ makers/NNS of/IN video/NN and/CC audio/JJ to/TO take/VB advantage/NN of/IN the/DT growing/VBG portable/JJ media/NNS market/NN to/TO distribute/VB their/PRP$ work./NN
+CES/NNP which/WDT runs/VBZ from/IN 6/CD to/TO 9/CD January/NNP showcases/NNS more/JJR than/IN 50000/CD new/JJ gadgets/NNS that/WDT will/MD be/VB hitting/VBG the/DT shelves/NNS in/IN 2005./CD

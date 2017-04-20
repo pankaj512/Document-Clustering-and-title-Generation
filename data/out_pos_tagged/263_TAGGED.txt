@@ -1,0 +1,22 @@
+Split-caps/NNP pay/VB £194m/CD compensation/NN
+
+Investors/NNS who/WP lost/VBD money/NN following/VBG the/DT split-capital/JJ investment/NN trust/NN scandal/NN are/VBP to/TO receive/VB £194m/CD compensation/NN the/DT UK's/NNP financial/JJ watchdog/NN has/VBZ announced./NN
+
+Eighteen/CD investment/NN firms/NNS involved/VBN in/IN the/DT sale/NN of/IN the/DT investments/NNS agreed/VBD the/DT compensation/NN package/NN with/IN the/DT Financial/NNP Services/NNPS Authority/NNP (FSA)./NN
+Splits/VBZ were/VBD marketed/VBN as/IN a/DT low-risk/JJ way/NN to/TO benefit/VB from/IN rising/VBG share/NN prices./NN
+But/CC when/WRB the/DT stock/NN market/NN collapsed/VBD in/IN 2000/CD the/DT products/NNS left/VBD thousands/NNS of/IN investors/NNS out/IN of/IN pocket./NN
+An/DT estimated/VBN 50000/CD people/NNS took/VBD out/RP split-capital/JJ funds/NNS some/DT investing/VBG their/PRP$ life/NN savings/NNS in/IN the/DT schemes./NN
+The/DT paying/NN of/IN compensation/NN will/MD be/VB overseen/VBN by/IN an/DT independent/JJ company/NN the/DT FSA/NNP said./NN
+
+Further/RB details/NNS of/IN how/WRB investors/NNS will/MD be/VB able/JJ to/TO claim/VB their/PRP$ share/NN of/IN the/DT compensation/NN package/NN will/MD be/VB announced/VBN in/IN the/DT new/JJ year./NN
+"This/NN should/MD save/VB investors/NNS from/IN having/VBG to/TO take/VB their/PRP$ case/NN to/TO the/DT Financial/NNP Ombudsman/NNP Service/NNP something/NN no/DT doubt/NN that/WDT will/MD be/VB very/RB welcome"/NN Rob/NNP McIvor/NNP FSA/NNP spokesman/NN told/VBD BBC/NNP News./NNP
+Agreeing/VBG to/TO pay/VB compensation/NN did/VBD not/RB mean/VB that/IN the/DT eighteen/NN firms/NNS involved/VBN were/VBD admitting/VBG any/DT guilt/NN the/DT FSA/NNP added./NN
+Any/DT investor/NN accepting/VBG the/DT compensation/NN will/MD have/VB to/TO waive/VB the/DT right/NN to/TO take/VB their/PRP$ case/NN to/TO the/DT Financial/NNP Ombudsman/NN Service./NNP
+
+The/DT FSA/NNP has/VBZ been/VBN investigating/VBG whether/IN investors/NNS were/VBD misled/VBN about/IN the/DT risks/NNS posed/VBN by/IN split-capital/JJ investment/NN trusts./NN
+The/DT FSA's/NNP 60/CD strong/JJ investigation/NN team/NN looked/VBD into/IN whether/IN fund/NN managers/NNS colluded/VBN in/IN a/DT so-called/JJ "magic/JJ circle"/NN in/IN the/DT hope/NN of/IN propping/VBG up/RP one/CD another's/NNS share/NN prices./NN
+
+Firms/NNS involved/VBN were/VBD presented/VBN with/IN 780/CD files/NNS of/IN evidence/NN detailing/VBG 27000/CD taped/VBN conversations/NNS and/CC over/IN 70/CD interviews./JJ
+In/IN May/NNP the/DT FSA/NNP was/VBD widely/RB reported/VBN as/IN having/VBG asked/VBD firms/NNS to/TO pay/VB up/IN to/TO £350m/CD in/IN compensation./NN
+Mr/NNP McIvor/NNP told/VBD the/DT BBC/NNP that/IN the/DT final/JJ settlement/NN figure/NN was/VBD smaller/JJR because/IN two/CD unnamed/JJ firms/NNS had/VBD pulled/VBN out/IN of/IN the/DT compensation/NN negotiations./NN
+Investors/NNS in/IN these/DT two/CD firms/NNS may/MD now/RB have/VB to/TO take/VB any/DT compensation/NN claim/NN to/TO the/DT Financial/NNP Ombudsman/NNP Service/NNP or/CC the/DT courts./NN

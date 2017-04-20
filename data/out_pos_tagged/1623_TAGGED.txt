@@ -1,0 +1,21 @@
+Wales/NNP make/VB two/CD changes/NNS for/IN France/NNP
+
+Wales/NNP coach/NN Mike/NNP Ruddock/NNP has/VBZ made/VBN two/CD changes/NNS from/IN the/DT team/NN that/WDT beat/NN Italy/NNP 38-8/JJ for/IN Saturday's/NNP trip/NN to/TO France./NNP
+
+Kevin/NNP Morgan/NNP takes/VBZ over/IN from/IN his/PRP$ injured/VBN Newport-Gwent/NNP Dragons/NNP colleague/NN Hal/NNP Luscombe/NNP on/IN the/DT right/JJ wing./NN
+And/CC in/IN the/DT pack/NN Neath-Swansea/NNP Ospreys/NNP forward/RB Ryan/NNP Jones/NNP is/VBZ preferred/JJ at/IN blindside/NN flanker/NN to/TO Jonathan/NNP Thomas./NNP
+Thomas/VBG a/DT try-scorer/NN in/IN Rome/NNP drops/NNS down/RB to/TO the/DT bench/NN instead/RB of/IN Ian/NNP Gough/NNP while/IN Cardiff/NNP back/RB Rhys/NNP Williams/NNP steps/NNS up/RP in/IN place/NN of/IN Morgan./NNP
+Luscombe/NNP is/VBZ sidelined/VBN by/IN a/DT hamstring/VBG problem/NN sustained/VBN during/IN the/DT Six/CD Nations/NNPS game/NN against/IN Italy/NNP last/JJ weekend./NN
+
+However/RB the/DT experienced/VBN and/CC in-form/JJ Morgan/NNP was/VBD already/RB pushing/VBG hard/RB for/IN a/DT start/NN at/IN Stade/NNP de/NNP France./NNP
+"Due/NN to/TO his/PRP$ impressive/JJ performances/NNS from/IN the/DT bench/NN Kevin/NNP was/VBD very/RB much/RB in/IN the/DT selection/NN mix/NN anyway/RB and/CC the/DT unfortunate/JJ injury/NN to/TO Hal/NNP gives/VBZ him/PRP the/DT chance/NN to/TO start"/VB said/VBD Ruddock./NNP
+"Now/NN that/IN Ryan/NNP Jones/NNP has/VBZ recovered/VBN from/IN injury/NN we/PRP have/VBP increased/VBN the/DT options/NNS in/IN the/DT back/JJ row./NN
+"Jonathan/NNP Thomas/NNP is/VBZ unlucky/JJ to/TO lose/VB his/PRP$ spot/NN after/IN performing/VBG well/RB against/IN Italy/NNP and/CC scoring/VBG a/DT try/NN but/CC such/JJ is/VBZ the/DT competition/NN for/IN places/NNS that/IN every/DT position/NN is/VBZ debated/VBN in/IN detail./NN
+"For/NN this/DT particular/JJ game/NN we/PRP felt/VBD we/PRP might/MD not/RB always/RB be/VB afforded/VBN the/DT open/JJ spaces/NNS out/RP wide/JJ we/PRP were/VBD able/JJ to/TO exploit/VB against/IN Italy/NNP so/IN an/DT extra/JJ big/JJ ball-carrier/NN in/IN the/DT back-row/JJ is/VBZ thought/VBN to/TO be/VB necessary/JJ on/IN this/DT occasion./NN
+"Obviously/RB it's/VBZ a/DT 22-man/JJ game/NN these/DT days/NNS and/CC there/EX is/VBZ every/DT chance/NN that/IN Jonathan/NNP will/MD be/VB making/VBG an/DT impact/NN from/IN the/DT bench."/NN Wales/NNP have/VBP beaten/VBN France/NNP on/IN two/CD of/IN their/PRP$ last/JJ three/CD visits/NNS to/TO Paris/NNP and/CC another/DT victory/NN this/DT time/NN around/IN would/MD keep/VB them/PRP firmly/RB on/IN course/NN for/IN a/DT first/JJ Five/CD or/CC Six/CD Nations/NNPS title/NN triumph/NN since/IN 1994./CD
+"Graham/NNP Henry/NNP (former/NN Wales/NNP coach)/NN said/VBD a/DT couple/NN of/IN years/NNS ago/IN that/IN we/PRP should/MD 'be/VB bold'/NN when/WRB going/VBG to/TO France/NNP and/CC he/PRP was/VBD proved/VBN right"/NN said/VBD Ruddock./NNP
+"That/NN is/VBZ a/DT great/JJ way/NN to/TO approach/VB the/DT game/NN and/CC something/NN we/PRP will/MD further/RBR endorse/VB with/IN the/DT players/NNS this/DT week."/NN
+
+G/NNP Thomas/NNP (Toulouse/NN capt)/NN K/NNP Morgan/NNP (Newport-Gwent)/JJ T/NNP Shanklin/NNP (Cardiff)/NN G/NNP Henson/NNP (Neath-Swansea)/JJ S/NNP Williams/NNP (Neath-Swansea)/JJ S/NNP Jones/NNP (Clermont/NN Auvergne)/NNP D/NNP Peel/NNP (Llanelli)/NN G/NNP Jenkins/NNP (Cardiff)/NN M/NNP Davies/NNP (Gloucester)/NN A/DT Jones/NNP (Neath-Swansea)/JJ B/NNP Cockbain/NNP (Neath-Swansea)/JJ R/NN Sidoli/NNP (Cardiff)/NN R/NN Jones/NNP (Neath-Swansea)/JJ M/NNP Williams/NNP (Cardiff)/NN M/NNP Owen/NNP (Newport-Gwent)./JJ
+
+Replacements/NNS R/NN McBryde/NNP (Llanelli)/NN J/NNP Yapp/NNP (Cardiff)/NN J/NNP Thomas/NNP (Neath-Swansea)/JJ R/NN Sowden-Taylor/NNP (Cardiff)/NN G/NNP Cooper/NNP (Newport-Gwent)/JJ C/NNP Sweeney/NNP Newport-Gwent)/NNP R/NN Williams/NNP (Cardiff)./NN

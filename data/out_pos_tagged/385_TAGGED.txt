@@ -1,0 +1,12 @@
+Tate/NNP &/CC Lyle/NNP boss/NN bags/NNS top/JJ award/NN
+
+Tate/NNP &/CC Lyle's/NNP chief/NN executive/NN has/VBZ been/VBN named/VBN European/JJ Businessman/NN of/IN the/DT Year/NN by/IN a/DT leading/VBG business/NN magazine./NN
+
+Iain/NNP Ferguson/NNP was/VBD awarded/VBN the/DT title/NN by/IN US/PRP publication/VBP Forbes/NNP for/IN returning/VBG one/CD of/IN the/DT UK's/NNP "venerable"/NN manufacturers/NNS to/TO the/DT country's/NNS top/JJ 100/CD companies./NN
+The/DT sugar/NN group/NN had/VBD been/VBN absent/JJ from/IN the/DT FTSE/NNP 100/CD for/IN seven/CD years/NNS until/IN Mr/NNP Ferguson/NNP helped/VBD it/PRP return/NN to/TO growth./VB
+Tate's/NNP shares/NNS have/VBP leapt/VBN 55%/CD this/DT year/NN boosted/VBN by/IN firming/VBG sugar/NN prices/NNS and/CC sales/NNS of/IN its/PRP$ artificial/JJ sweeteners./NN
+
+"After/NN years/NNS of/IN a/DT sagging/VBG stock/NN price/NN and/CC a/DT seven-year/JJ hiatus/JJ from/IN the/DT FTSE/NNP 100/CD one/CD of/IN Britain's/NNP venerable/JJ manufacturers/NNS has/VBZ returned/VBN to/TO the/DT vaunted/JJ index"/NN Forbes/NNP said./NN
+Mr/NNP Ferguson/NNP took/VBD the/DT helm/NN at/IN the/DT company/NN in/IN 2003/CD after/IN spending/NN most/JJS of/IN his/PRP$ career/NN at/IN consumer/NN goods/NNS giant/JJ Unilever./NNP
+Tate/NNP &/CC Lyle/NNP which/WDT was/VBD an/DT original/JJ member/NN of/IN the/DT historic/JJ FT-30/JJ index/NN in/IN 1935/CD operates/VBZ more/JJR than/IN 41/CD factories/NNS and/CC 20/CD more/JJR additional/JJ production/NN facilities/NNS in/IN 28/CD countries./NN
+Previous/JJ winners/NNS of/IN the/DT Forbes/NNP award/NN include/VBP Royal/NNP Bank/NNP of/IN Scotland/NNP chief/NN executive/NN Fred/NNP Goodwin/NNP and/CC former/JJ Vodafone/NNP boss/NN Chris/NNP Gent./NNP

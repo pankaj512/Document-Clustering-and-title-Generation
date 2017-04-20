@@ -1,0 +1,14 @@
+Fannie/NNP Mae/NNP 'should/NN restate/NN books'/NN
+
+US/PRP mortgage/VBP company/NN Fannie/NNP Mae/NNP should/MD restate/VB its/PRP$ earnings/NNS a/DT move/NN that/WDT is/VBZ likely/JJ to/TO put/VB a/DT billion-dollar/JJ dent/NN in/IN its/PRP$ accounts/NNS watchdogs/NNS have/VBP said./NN
+
+The/DT Securities/NNPS &/CC Exchange/NNP Commission/NNP accused/VBD Fannie/NNP Mae/NNP of/IN using/VBG techniques/NNS that/WDT "did/NN not/RB comply/VB in/IN material/NN respects"/NN with/IN accounting/NN standards./NN
+Fannie/NNP Mae/NNP last/JJ month/NN warned/VBD that/IN some/DT records/NNS were/VBD incorrect./NN
+The/DT other/JJ main/NN US/PRP mortgage/VBP firm/NN Freddie/NNP Mac/NNP restated/VBD earnings/NNS by/IN $5bn/CD (£2.6bn)/CD last/JJ year/NN after/IN a/DT probe/NN of/IN its/PRP$ books./NN
+The/DT SEC's/NNP comments/NNS are/VBP likely/JJ to/TO increase/VB pressure/NN on/IN Congress/NNP to/TO strengthen/VB supervision/NN of/IN Fannie/NNP Mae/NNP and/CC Freddie/NNP Mac./NNP
+
+The/DT two/CD firms/NNS are/VBP key/JJ parts/NNS of/IN the/DT US/PRP financial/JJ system/NN and/CC effectively/RB underwrite/VB the/DT mortgage/NN market/NN financing/NN nearly/RB half/NN of/IN all/DT American/JJ house/NN purchases/NNS and/CC dealing/VBG actively/RB in/IN bonds/NNS and/CC other/JJ financial/JJ instruments./NN
+The/DT investigation/NN of/IN Freddie/NNP Mac/NNP in/IN June/NNP 2003/CD sparked/VBN concerns/NNS about/IN the/DT wider/JJR health/NN of/IN the/DT industry/NN and/CC raised/VBD questionsmarks/NNS over/IN the/DT role/NN of/IN the/DT Office/NNP of/IN Federal/NNP Housing/NNP Enterprise/NNP Oversight/NNP (OFHEO)/NN the/DT industry's/NNS main/JJ regulator./NN
+Having/VBG been/VBN pricked/VBN into/IN action/NN the/DT OFHEO/NNP turned/VBD its/PRP$ attention/NN to/TO Fannie/NNP May/NNP and/CC in/IN September/NNP this/DT year/NN said/VBD that/IN the/DT firm/NN had/VBD tweaked/VBN its/PRP$ books/NNS to/TO spread/VB earnings/NNS more/RBR smoothly/RB across/IN quarters/NNS and/CC play/VB down/RP the/DT amount/NN of/IN risk/NN it/PRP had/VBD taken/VBN on./NN
+The/DT SEC/NNP found/VBD similar/JJ problems./NN
+The/DT watchdog's/NNS chief/JJ accountant/NN Donald/NNP Nicolaisen/NNP said/VBD that/DT "Fannie/NN Mae's/NNP methodology/NN of/IN assessing/VBG measuring/VBG and/CC documenting/VBG hedge/NN ineffectiveness/NN was/VBD inadequate/JJ and/CC was/VBD not/RB supported"/NN by/IN generally/RB accepted/VBD accounting/NN principles./NN

@@ -1,0 +1,14 @@
+Schools/NN to/TO take/VB part/NN in/IN mock/JJ poll/NN
+
+Record/NNP numbers/NNS of/IN schools/NNS across/IN the/DT UK/NNP are/VBP to/TO take/VB part/NN in/IN a/DT mock/JJ general/JJ election/NN backed/VBN by/IN the/DT government./NN
+
+Some/DT 600/CD schools/NNS have/VBP already/RB signed/VBN up/RP for/IN the/DT Y/NNP Vote/NN Mock/JJ Elections/NNS 2005/CD run/NN by/IN the/DT Hansard/NNP Society/NNP and/CC aimed/VBD at/IN boosting/VBG interest/NN in/IN politics./NN
+Pupils/NNS in/IN the/DT schools/NNS taking/VBG part/NN will/MD learn/VB the/DT skills/NNS of/IN speech/NN writers/NNS canvassers/NNS and/CC political/JJ candidates./NN
+Schools/NNP Minister/NNP Stephen/NNP Twigg/NNP said/VBD engaging/VBG young/JJ people's/NNS interest/NN was/VBD "essential"/NN to/TO the/DT future/NN of/IN democracy./NN
+
+He/PRP added/VBD said/VBN "Young/NN people/NNS who/WP are/VBP engaged/VBN and/CC motivated/VBN by/IN the/DT political/JJ process/NN are/VBP essential/JJ to/TO the/DT future/JJ health/NN of/IN our/PRP$ democracy./NN
+"The/NN mock/JJ elections/NNS initiative/NN provides/VBZ an/DT opportunity/NN for/IN pupils/NNS to/TO develop/VB their/PRP$ own/JJ understanding/NN of/IN how/WRB the/DT democratic/JJ process/NN works/VBZ and/CC why/WRB it/PRP matters./NN
+"By/NN experiencing/VBG the/DT election/NN process/NN first/JJ hand/NN -/: from/IN running/VBG a/DT campaign/NN to/TO the/DT declaration/NN of/IN the/DT final/JJ result/NN -/: we/PRP hope/VBP that/IN young/JJ people/NNS will/MD develop/VB the/DT enthusiasm/NN to/TO take/VB part/NN in/IN the/DT future."/NN The/DT Hansard/NNP Society/NNP the/DT Electoral/JJ Commission/NNP and/CC the/DT Department/NNP for/IN Education/NNP and/CC Skills/NNS are/VBP running/VBG the/DT programme./NN
+Pupils/NNS will/MD stand/VB as/IN party/NN candidates/NNS speech/NN writers/NNS and/CC canvassers./NN
+Michael/NNP Raftery/NNP project/NN manager/NN at/IN the/DT Hansard/NNP Society/NNP said/VBD "The/NN Y/NNP Vote/NN Mock/JJ Elections/NNS for/IN schools/NNS mirror/VBP the/DT excitement/NN and/CC buzz/NN of/IN a/DT real/JJ election/NN raising/VBG awareness/NN of/IN citizenship/NN and/CC the/DT benefits/NNS of/IN active/JJ democracy."/NN The/DT mock/JJ votes/NNS will/MD take/VB place/NN around/IN 5/CD May/NNP widely/RB expected/VBD to/TO be/VB the/DT date/NN of/IN the/DT general/JJ election./NN
+Information/NNP packs/VBZ including/VBG ballot/NN papers/NNS and/CC manifesto/NN guides/NNS with/IN elections/NNS happening/VBG in/IN early/JJ May/NNP were/VBD sent/VBN out/RP to/TO the/DT 3000/CD schools/NNS invited/VBN to/TO take/VB part./NN

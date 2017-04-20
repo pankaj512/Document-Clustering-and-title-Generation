@@ -1,0 +1,21 @@
+Japanese/JJ banking/NN battle/NN at/IN an/DT end/NN
+
+Japan's/NNP Sumitomo/NNP Mitsui/NNP Financial/NNP has/VBZ withdrawn/VBN its/PRP$ takeover/NN offer/NN for/IN rival/JJ bank/NN UFJ/NNP Holdings/NNP enabling/VBG the/DT latter/JJ to/TO merge/VB with/IN Mitsubishi/NNP Tokyo./NNP
+
+Sumitomo/NN bosses/NNS told/VBD counterparts/NNS at/IN UFJ/NNP of/IN its/PRP$ decision/NN on/IN Friday/NNP clearing/VBG the/DT way/NN for/IN it/PRP to/TO conclude/VB a/DT 3/CD trillion/CD yen/NNS ($29bn)/CD deal/NN with/IN Mitsubishi./NNP
+The/DT deal/NN would/MD create/VB the/DT world's/NNS biggest/JJS bank/NN with/IN assets/NNS of/IN about/IN 189/CD trillion/CD yen/NNS ($1.8/CD trillion)./NN
+Sumitomo's/NNP exit/NN ends/VBZ the/DT most/RBS high/JJ profile/NN fight/NN in/IN Japanese/JJ bank/NN history./NN
+
+UFJ/NNP Holdings/NNP Japan's/NNP fourth-largest/JJ bank/NN has/VBZ been/VBN at/IN the/DT centre/NN of/IN a/DT fierce/JJ bid/NN battle/NN over/IN the/DT last/JJ year./NN
+Sumitomo/NNP Japan's/NNP third-largest/JJ bank/NN tabled/VBD a/DT higher/JJR offer/NN for/IN UFJ/NNP than/IN its/PRP$ rival/JJ valuing/NN the/DT company/NN at/IN $35bn./CD
+
+However/RB UFJ's/NNP management/NN was/VBD known/VBN to/TO prefer/VB the/DT offer/NN from/IN Mitsubishi/NNP Tokyo/NNP Financial/NNP Group/NNP (MTFG)/NN Japan's/NNP second-largest/JJ bank./NN
+Concerns/NNS were/VBD also/RB raised/VBN about/IN Sumitomo's/NNP ability/NN to/TO absorb/VB UFJ/NNP and/CC the/DT former/JJ has/VBZ now/RB admitted/VBN defeat./NN
+"We/NN believe/VBP the/DT market/NN and/CC most/JJS investors/NNS accept/VBP a/DT UFJ-MTFG/NNP merger"/NN Sumitomo/NNP said/VBD in/IN a/DT statement./NN
+"Given/NN the/DT ongoing/JJ integration/NN of/IN UFJ/NNP and/CC MTFG/NNP operations/NNS persisting/VBG with/IN our/PRP$ proposal/NN may/MD not/RB be/VB in/IN the/DT best/JJS interests/NNS of/IN our/PRP$ shareholders/NNS or/CC UFJ's."/NNP
+
+Mitsubishi's/NNP takeover/NN of/IN UFJ/NNP -/: which/WDT will/MD be/VB Japan's/NNP largest-ever/JJ takeover/NN deal/NN -/: will/MD still/RB have/VB to/TO be/VB approved/VBN by/IN shareholders/NNS of/IN the/DT two/CD firms./NN
+However/RB this/DT is/VBZ expected/VBN to/TO be/VB a/DT formality./NN
+Sumitomo/NNP may/MD now/RB turn/VB its/PRP$ attention/NN to/TO deepening/VBG its/PRP$ ties/NNS with/IN Daiwa/NNP Securities/NNPS another/DT Japanese/JJ financial/JJ firm./NN
+The/DT two/CD are/VBP set/VBN to/TO merge/VB their/PRP$ venture/NN capital/NN operations/NNS and/CC there/EX has/VBZ been/VBN speculation/NN that/IN this/DT could/MD lead/VB to/TO a/DT full-blown/JJ merger./NN
+Japanese/JJ banks/NNS are/VBP increasingly/RB seeking/VBG alliances/NNS to/TO boost/VB profits./NN

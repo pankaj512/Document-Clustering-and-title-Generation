@@ -1,0 +1,17 @@
+Electronics/NN firms/NNS eye/NN plasma/NN deal/NN
+
+Consumer/NN electronics/NNS giants/NNS Hitachi/NNP and/CC Matshushita/NNP Electric/NNP are/VBP joining/VBG forces/NNS to/TO share/VB and/CC develop/VB technology/NN for/IN flat/JJ screen/NN televisions./NN
+
+The/DT tie-up/NN comes/VBZ as/IN the/DT world's/NNS top/JJ producers/NNS are/VBP having/VBG to/TO contend/VB with/IN falling/VBG prices/NNS and/CC intense/JJ competition./NN
+The/DT two/CD Japanese/JJ companies/NNS will/MD collaborate/VB in/IN research/NNP &/CC development/NN production/NN marketing/NN and/CC licensing./NN
+They/PRP said/VBD the/DT agreement/NN would/MD enable/VB the/DT two/CD companies/NNS to/TO expand/VB the/DT plasma/NN display/NN TV/NN market/NN globally./NN
+
+Plasma/NN display/NN panels/NNS are/VBP used/VBN for/IN large/JJ thin/JJ TVs/NNS which/WDT are/VBP replacing/VBG old-style/JJ televisions./NN
+The/DT display/NN market/NN for/IN high-definition/JJ televisions/NNS is/VBZ split/VBN between/IN models/NNS using/VBG plasma/NN display/NN panels/NNS and/CC others/NNS -/: manufactured/VBN by/IN the/DT likes/NNS of/IN Sony/NNP and/CC Samsung/NNP -/: using/VBG liquid-crystal/JJ displays/NNS (LCDs)./NN
+The/DT deal/NN will/MD enable/VB Hitachi/NNP and/CC Matsushita/NNP which/WDT makes/VBZ Panasonic/NNP brand/NN products/NNS to/TO develop/VB new/JJ technology/NN and/CC improve/VB their/PRP$ competitiveness./NN
+Hitachi/NNP recently/RB announced/VBD a/DT deal/NN to/TO buy/VB plasma/NN display/NN technology/NN from/IN rival/JJ Fujitsu/NNP in/IN an/DT effort/NN to/TO strengthen/VB its/PRP$ presence/NN in/IN the/DT market./NN
+
+Separately/RB Fujitsu/NNP announced/VBD on/IN Monday/NNP that/IN it/PRP is/VBZ quitting/VBG the/DT LCD/NNP panel/NN market/NN by/IN transferring/VBG its/PRP$ operations/NNS in/IN the/DT area/NN to/TO Japanese/JJ manufacturer/NN Sharp./NNP
+Sharp/NNP will/MD inherit/VB staff/NN manufacturing/NN facilities/NNS and/CC intellectual/JJ property/NN from/IN Fujitsu./NNP
+The/DT plasma/NN panel/NN market/NN has/VBZ seen/VBN rapid/JJ consolidation/NN in/IN recent/JJ months/NNS as/IN the/DT price/NN of/IN consumer/NN electronic/JJ goods/NNS and/CC components/NNS has/VBZ fallen./NN
+Samsung/NNP Electronics/NNP and/CC Sony/NNP are/VBP among/IN other/JJ companies/NNS working/VBG together/RB to/TO reduce/VB costs/NNS and/CC speed/VB up/RP new/JJ product/NN development./NN

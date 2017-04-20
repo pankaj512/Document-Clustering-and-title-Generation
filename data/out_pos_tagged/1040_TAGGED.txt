@@ -1,0 +1,17 @@
+MP/NNP attacked/VBD by/IN muggers/NNS in/IN Kenya/NNP
+
+An/DT MP/NNP has/VBZ had/VBN more/JJR than/IN £600/CD and/CC his/PRP$ passport/NN stolen/VBN after/IN being/VBG mugged/VBN by/IN six/CD men/NNS in/IN a/DT park/NN in/IN Kenya./NNP
+
+Quentin/NNP Davies/NNP the/DT MP/NNP for/IN Grantham/NNP and/CC Stamford/NNP was/VBD attacked/VBN in/IN a/DT notoriously/RB dangerous/JJ park/NN in/IN the/DT capital/NN Nairobi./NNP
+He/PRP was/VBD not/RB hurt/VBN in/IN the/DT mugging/NN on/IN Saturday/NNP evening./NN
+Several/JJ people/NNS are/VBP being/VBG questioned/VBD over/IN the/DT attack./NN
+He/PRP was/VBD in/IN Kenya/NNP before/IN travelling/VBG to/TO Sudan/NNP with/IN the/DT Parliamentary/JJ committee./NN
+Local/JJ police/NNS were/VBD said/VBN to/TO be/VB "surprised"/NN he/PRP was/VBD in/IN the/DT area./NN
+Mr/NNP Davies/NNP 60/CD said/VBD the/DT mugging/VBG occurred/VBD 100/CD yards/NNS from/IN the/DT Nairobi/NNP Serena/NNP Hotel/NNP and/CC equally/RB close/RB to/TO the/DT Anglican/NNP Cathedral/NNP in/IN the/DT centre/NN of/IN the/DT city/NN at/IN dusk./NN
+
+He/PRP said/VBD in/IN a/DT statement/NN "It/NN was/VBD a/DT frightening/JJ experience./NN
+"Six/NN men/NNS managed/VBD to/TO steal/VB up/RP on/IN me/PRP and/CC grab/VB me/PRP from/IN behind./NN
+"I/NN knew/VBD I/PRP had/VBD to/TO stay/VB very/RB calm/JJ and/CC passive/JJ -/: you/PRP cannot/VBP fight/NN six/CD men"./NN
+He/PRP had/VBD to/TO spend/VB an/DT extra/JJ 24/CD hours/NNS in/IN Nairobi/NNP before/IN rejoining/VBG the/DT rest/NN of/IN the/DT House/NNP of/IN Commons/NNPS International/NNP Development/NNP Committee/NNP in/IN Dafur/NNP after/IN the/DT mugging./NN
+"Naturally/RB I/PRP was/VBD afraid/JJ they/PRP would/MD use/VB a/DT knife/NN or/CC gun/NN though/IN they/PRP never/RB produced/VBD any/DT weapon"/NN he/PRP said./VB
+"Two/NN of/IN them/PRP held/VBN me/PRP from/IN behind/IN and/CC two/CD others/NNS held/VBD my/PRP$ legs/NNS and/CC another/DT one/CD expertly/RB rifled/VBN all/DT my/PRP$ pockets."/NN

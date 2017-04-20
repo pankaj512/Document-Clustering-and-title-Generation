@@ -1,0 +1,33 @@
+Obituary/NNP Dame/NNP Alicia/NNP Markova/NNP
+
+Dame/NNP Alicia/NNP Markova/NNP who/WP has/VBZ died/VBN in/IN Bath/NN aged/VBD 94/CD was/VBD the/DT UK's/NNP first/JJ prima/NN ballerina/NN of/IN the/DT modern/JJ age/NN and/CC in/IN her/PRP$ heyday/NN the/DT greatest/JJS in/IN the/DT western/JJ world./NN
+
+She/PRP was/VBD born/VBN Lilian/NNP Alicia/NNP Marks/NNP in/IN London/NNP in/IN 1910./CD
+Her/PRP$ parents/NNS were/VBD comfortably/RB off/IN -/: her/PRP$ father/NN a/DT mining/NN engineer/NN drove/VBD a/DT Rolls/NNP Royce./NNP
+When/WRB she/PRP was/VBD eight/CD her/PRP$ mother/NN took/VBD a/DT decision/NN which/WDT changed/VBD her/PRP$ life./NN
+Fearing/VBG that/IN she/PRP had/VBD flat/JJ feet/NNS and/CC weak/JJ legs/NNS she/PRP arranged/VBD for/IN her/PRP to/TO have/VB ballet/NN lessons./NN
+Very/RB quickly/RB it/PRP became/VBD apparent/JJ that/IN she/PRP was/VBD something/NN special./NN
+She/PRP was/VBD spotted/VBN by/IN the/DT Russian/JJ artistic/JJ impresario/NN Sergei/NNP Diaghilev/NNP who/WP wanted/VBD her/PRP to/TO dance/VB for/IN his/PRP$ company/NN Ballets/NNPS Russes./NNP
+She/PRP became/VBD ill/JJ with/IN diphtheria/NN but/CC kept/VBD in/IN touch/NN and/CC eventually/RB with/IN a/DT governess/NN in/IN tow/RB joined/VBD Diaghilev/NNP in/IN Monte/NNP Carlo/NNP when/WRB she/PRP was/VBD 14./CD
+
+From/IN here/RB she/PRP toured/VBD Europe/NNP playing/VBG in/IN all/PDT the/DT top/JJ venues./NN
+It/PRP was/VBD Diaghilev/NNP who/WP changed/VBD her/PRP$ name/NN without/IN even/RB consulting/NN her./NN
+Her/PRP$ life/NN was/VBD one/CD of/IN great/JJ excitement./NN
+People/NNS such/JJ as/IN Matisse/NNP and/CC Stravinsky/NNP became/VBD like/IN uncles/NNS to/TO her/PRP the/DT latter/JJ put/NN in/IN charge/NN of/IN her/PRP$ musical/JJ education./NN
+Soon/RB after/IN Diaghilev's/NNP death/NN in/IN 1929/CD Alicia/NNP Markova/NNP returned/VBD to/TO England/NNP and/CC became/VBD Britain's/NNP first/JJ international/JJ ballerina./NN
+She/PRP helped/VBD launch/VB the/DT Ballet/NNP Club/NNP at/IN the/DT Mercury/NNP Theatre/NNP (later/NN the/DT Ballet/NNP Rambert)/NNP the/DT Vic/NNP Wells/NNP Ballet/NNP and/CC then/RB with/IN Anton/NNP Dolin/NNP the/DT Markova-Dolin/NNP Ballet/NNP of/IN 1935-37./JJ
+She/PRP also/RB began/VBD working/VBG with/IN young/JJ choreographers/NNS such/JJ as/IN Anthony/NNP Tudor/NNP and/CC Frederick/NNP Ashton/NNP who/WP became/VBD huge/JJ influences/NNS on/IN the/DT direction/NN of/IN ballet/NN in/IN the/DT west./NN
+
+Her/PRP$ version/NN of/IN Giselle/NNP all/DT lightness/NN and/CC grace/NN is/VBZ still/RB considered/VBN to/TO be/VB among/IN the/DT finest/JJS ever./NN
+She/PRP was/VBD also/RB outstanding/JJ in/IN The/DT Dying/VBG Swan./NNP
+She/PRP was/VBD one/CD of/IN the/DT first/JJ British/JJ ballerinas/NNS to/TO take/VB a/DT major/JJ part/NN in/IN Les/NNP Sylphides./NNP
+She/PRP above/IN all/DT helped/VBD popularise/NN ballet/NN both/DT in/IN Britain/NNP and/CC in/IN America./NNP
+
+Alicia/NNP Markova/NNP spent/VBD World/NNP War/NNP II/NNP in/IN the/DT United/NNP States/NNPS where/WRB in/IN a/DT re-formed/JJ Ballets/NNPS Russes/NNP she/PRP played/VBD to/TO huge/JJ audiences./NN
+She/PRP even/RB appeared/VBD in/IN Hollywood/NNP movies./NN
+In/IN 1950/CD back/RB in/IN England/NNP she/PRP and/CC Anton/NNP Dolin/NNP jointly/RB established/VBD the/DT Festival/NNP Ballet./NNP
+She/PRP retired/VBD in/IN 1963/CD an/DT "instant/NN decision"/NN she/PRP said/VBD "largely/RB because/IN of/IN a/DT leg/NN injury"./NN
+Created/VBN a/DT Dame/NNP she/PRP made/VBD a/DT new/JJ career/NN for/IN herself/PRP as/IN a/DT teacher./NN
+She/PRP also/RB travelled/VBD the/DT world/NN directing/VBG ballet/NN companies/NNS and/CC putting/VBG on/RP shows./NN
+She/PRP became/VBD director/NN of/IN ballet/NN for/IN the/DT Metropolitan/NNP Opera/NNP Ballet/NNP in/IN New/NNP York/NNP and/CC for/IN some/DT years/NNS was/VBD full-time/JJ Professor/NNP of/IN Ballet/NNP and/CC Performing/VBG Arts/NNS in/IN the/DT University/NNP of/IN Cincinnati./NNP
+A/DT critic/NN once/RB said/VBD of/IN Dame/NNP Alicia/NNP Markova's/NNP dancing/NN "She/NN gave/VBD the/DT illusion/NN of/IN moving/VBG as/IN if/IN she/PRP had/VBD no/DT weight/NN to/TO get/VB off/IN the/DT ground."/NN

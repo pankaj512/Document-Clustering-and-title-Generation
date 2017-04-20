@@ -1,0 +1,12 @@
+UK/NN homes/NNS hit/VBD £3.3/CD trillion/CD total/JJ
+
+The/DT value/NN of/IN the/DT UK's/NNP housing/NN stock/NN reached/VBD the/DT £3.3/CD trillion/CD mark/NN in/IN 2004/CD -/: triple/JJ the/DT value/NN 10/CD years/NNS earlier/RBR a/DT report/NN indicates./NN
+
+Research/NNP from/IN Halifax/NNP the/DT country's/NNS biggest/JJS mortgage/NN lender/NN suggests/VBZ the/DT value/NN of/IN private/JJ housing/NN stock/NN is/VBZ continuing/VBG to/TO rise/VB steadily./NN
+All/DT regions/NNS saw/VBD at/IN least/JJS a/DT doubling/NN in/IN their/PRP$ assets/NNS during/IN the/DT past/JJ decade./NN
+But/CC Northern/NNP Ireland/NNP led/VBD the/DT way/NN with/IN a/DT 262%/CD rise/NN while/IN Scotland/NNP saw/VBD the/DT smallest/JJS increase/NN of/IN just/RB 112%./CD
+
+The/DT core/NN retail/JJ price/NN index/NN rose/VBD by/IN just/RB 28%/CD in/IN the/DT same/JJ period/NN underlining/VBG how/WRB effective/JJ an/DT investment/NN in/IN housing/NN has/VBZ been/VBN for/IN most/JJS people/NNS during/IN the/DT past/JJ decade./NN
+More/JJR than/IN a/DT third/JJ of/IN the/DT UK's/NNP private/JJ housing/NN assets/NNS -/: representing/VBG more/JJR than/IN a/DT trillion/CD pounds/NNS in/IN value/NN -/: are/VBP concentrated/VBN in/IN London/NNP and/CC the/DT South/NNP East/NNP the/DT Halifax's/NNP figures/NNS indicate./NN
+Tim/NNP Crawford/NNP Group/NNP Economist/NNP at/IN Halifax/NNP said/VBD "The/NN value/NN of/IN the/DT private/JJ housing/NN stock/NN continues/VBZ to/TO grow/VB and/CC the/DT family/NN home/NN remains/VBZ by/IN a/DT large/JJ margin/NN the/DT most/RBS valuable/JJ asset/NN of/IN the/DT majority/NN of/IN households/NNS in/IN the/DT UK."/NNP Halifax's/NNP own/JJ monthly/JJ figures/NNS on/IN house/NN sales/NNS -/: issued/VBN on/IN Thursday/NNP -/: suggest/VBP the/DT average/JJ price/NN of/IN a/DT British/JJ property/NN now/RB stands/VBZ at/IN £163748/CD after/IN a/DT 0.8%/CD rise/NN in/IN January./NNP
+Housing/NN experts/NNS are/VBP split/VBN on/IN prospects/NNS for/IN the/DT market/NN with/IN some/DT saying/VBG price/NN growth/NN will/MD slow/VB but/CC not/RB fall/NN while/IN others/NNS predict/VBP a/DT sharp/JJ drop/NN in/IN values./NN

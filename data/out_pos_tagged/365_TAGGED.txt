@@ -1,0 +1,14 @@
+Nasdaq/NNP planning/NN $100m-share/CD sale/NN
+
+The/DT owner/NN of/IN the/DT technology-dominated/JJ Nasdaq/NNP stock/NN index/NN plans/VBZ to/TO sell/VB shares/NNS to/TO the/DT public/NN and/CC list/NN itself/PRP on/IN the/DT market/NN it/PRP operates./NN
+
+According/VBG to/TO a/DT registration/NN document/NN filed/VBN with/IN the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP Nasdaq/NNP Stock/NNP Market/NNP plans/VBZ to/TO raise/VB $100m/CD (£52m)/CD from/IN the/DT sale./NN
+Some/DT observers/NNS see/VBP this/DT as/IN another/DT step/NN closer/JJR to/TO a/DT full/JJ public/JJ listing./NN
+However/RB Nasdaq/NNP an/DT icon/NN of/IN the/DT 1990s/CD technology/NN boom/NN recently/RB poured/VBD cold/JJ water/NN on/IN those/DT suggestions./NN
+
+The/DT company/NN first/RB sold/VBN shares/NNS in/IN private/JJ placements/NNS during/IN 2000/CD and/CC 2001./CD
+It/PRP technically/RB went/VBD public/JJ in/IN 2002/CD when/WRB the/DT stock/NN started/VBD trading/VBG on/IN the/DT OTC/NNP Bulletin/NNP Board/NNP which/WDT lists/NNS equities/NNS that/WDT trade/NN only/RB occasionally./NN
+Nasdaq/NNP will/MD not/RB make/VB money/NN from/IN the/DT sale/NN only/JJ investors/VBZ who/WP bought/VBD shares/NNS in/IN the/DT private/JJ placings/NNS the/DT filing/NN documents/NNS said./NN
+The/DT Nasdaq/NNP is/VBZ made/VBN up/RP shares/NNS in/IN technology/NN firms/NNS and/CC other/JJ companies/NNS with/IN high/JJ growth/NN potential./NN
+It/PRP was/VBD the/DT most/RBS potent/JJ symbol/NN of/IN the/DT 1990s/CD internet/JJ and/CC telecoms/NNS boom/VBP nose-diving/JJ after/IN the/DT bubble/NN burst./NN
+A/DT recovery/NN in/IN the/DT fortunes/NNS of/IN tech/NN giants/NNS such/JJ as/IN Intel/NNP and/CC dot.com/NN survivors/NNS such/JJ as/IN Amazon/NNP has/VBZ helped/VBN revive/VB its/PRP$ fortunes./NN

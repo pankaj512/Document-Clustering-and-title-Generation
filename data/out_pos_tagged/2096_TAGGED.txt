@@ -1,0 +1,19 @@
+Windows/NNS worm/NN travels/VBZ with/IN Tetris/NNP
+
+Users/NNS are/VBP being/VBG warned/VBD about/IN a/DT Windows/NNS virus/NN that/WDT poses/VBZ as/IN the/DT hugely/RB popular/JJ Tetris/NNP game./NN
+
+The/DT Cellery/NNP worm/NN installs/NNS a/DT playable/JJ version/NN of/IN the/DT classic/JJ falling/NN blocks/NNS game/NN on/IN PCs/NNS that/IN it/PRP has/VBZ infected./NN
+While/IN users/NNS play/VBP the/DT game/NN the/DT worm/NN spends/VBZ its/PRP$ time/NN using/VBG the/DT machine/NN to/TO search/VB for/IN new/JJ victims/NNS to/TO infect/VB on/IN nearby/JJ networks./NN
+The/DT risk/NN of/IN infection/NN by/IN Cellery/NNP is/VBZ thought/VBN to/TO be/VB very/RB low/JJ as/IN few/JJ copies/NNS of/IN the/DT worm/NN have/VBP been/VBN found/VBN in/IN the/DT wild./NN
+
+The/DT Cellery/NNP worm/NN does/VBZ not/RB spread/VB via/IN e-mail/JJ like/IN many/JJ other/JJ viruses./NN
+Instead/RB it/PRP browses/VBZ computer/NN networks/NNS for/IN PCs/NNS that/WDT have/VBP not/RB shut/VB off/RP all/PDT the/DT insecure/NN ways/NNS they/PRP connect/VBP to/TO other/JJ machines./NN
+When/WRB it/PRP infects/VBZ a/DT machine/NN Cellery/NNP installs/VBZ a/DT version/NN of/IN Tetris/NNP that/IN users/NNS can/MD play./VB
+As/IN the/DT game/NN starts/VBZ up/RP the/DT worm/NN also/RB starts/VBZ a/DT music/NN file/NN to/TO accompany/VB it./NN
+At/IN the/DT same/JJ time/NN the/DT virus/NN starts/VBZ scouring/VBG networks/NNS for/IN other/JJ vulnerable/JJ machines./NN
+The/DT virus/NN does/VBZ no/DT damage/NN to/TO machines/NNS but/CC heavily/RB infected/JJ networks/NNS could/MD slow/VB down/RP as/IN scanning/VBG traffic/NN builds./NN
+Productivity/NNP may/MD suffer/VB too/RB if/IN users/NNS spend/VBP time/NN playing/VBG Tetris./NNP
+PCs/NNS running/VBG Windows/NNS 95/CD 98/CD ME/PRP NT/NNP 2000/CD and/CC XP/NNP could/MD be/VB vulnerable/JJ to/TO the/DT worm./NN
+"If/NN your/PRP$ company/NN has/VBZ a/DT culture/NN of/IN allowing/VBG games/NNS to/TO be/VB played/VBN in/IN the/DT office/NN your/PRP$ staff/NN may/MD believe/VB this/DT is/VBZ simply/RB a/DT new/JJ game/NN that/WDT has/VBZ been/VBN installed/VBN -/: rather/RB than/IN something/NN that/WDT should/MD cause/VB concern"/NN said/VBD Graham/NNP Cluley/NNP spokesman/NN for/IN anti-virus/JJ firm/NN Sophos./NNP
+So/RB far/RB the/DT number/NN of/IN people/NNS infected/JJ by/IN Cellery/NNP is/VBZ thought/VBN to/TO be/VB very/RB small/JJ and/CC the/DT risks/NNS of/IN further/JJ infection/NN is/VBZ very/RB low./NN
+Sophos/NNP urged/VBD users/NNS and/CC companies/NNS to/TO update/VB their/PRP$ anti-virus/JJ software/NN to/TO keep/VB themselves/PRP protected./VBP

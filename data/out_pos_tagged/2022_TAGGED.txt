@@ -1,0 +1,43 @@
+Musical/JJ future/NN for/IN phones/NNS
+
+Analyst/NNP Bill/NNP Thompson/NNP has/VBZ seen/VBN the/DT future/JJ and/CC it/PRP is/VBZ in/IN his/PRP$ son's/NNS hands./NN
+
+I/PRP bought/VBD my/PRP$ son/NN Max/NNP a/DT 3G/CD phone/NN partly/RB because/IN they/PRP are/VBP so/RB cheap/JJ and/CC he/PRP needed/VBD a/DT phone/NN and/CC partly/RB because/IN I/PRP am/VBP supposed/VBN to/TO know/VB about/IN the/DT latest/JJS technology/NN and/CC thought/VBD I/PRP should/MD see/VB how/WRB they/PRP work/VBP in/IN real/JJ life./NN
+After/IN using/VBG it/PRP for/IN a/DT while/NN I/PRP am/VBP not/RB at/IN all/DT tempted/VBN to/TO get/VB rid/VB of/IN my/PRP$ SonyEricsson/NNP P800/CD smart/JJ phone./NN
+That/DT has/VBZ a/DT relatively/RB large/JJ screen/NN even/RB if/IN it/PRP does/VBZ only/RB have/VB slower/JJR GPRS/NNP access/NN to/TO the/DT network./NN
+I/PRP can/MD read/VB my/PRP$ e-mail/JJ surf/NN the/DT web/NN using/VBG a/DT proper/JJ browser/NN and/CC write/VB stuff/NN using/VBG the/DT stylus/JJ on/IN its/PRP$ touch/NN screen./NN
+Last/JJ week/NN someone/NN e-mailed/JJ me/PRP a/DT document/NN that/WDT had/VBD been/VBN compressed/VBN into/IN a/DT ZIP/NN file/NN and/CC I/PRP was/VBD pleasantly/RB surprised/VBN to/TO discover/VB that/IN my/PRP$ phone/NN even/RB knew/VBD how/WRB to/TO decompress/VB it/PRP for/IN me./NN
+By/IN contrast/NN the/DT confusing/JJ menus/NN complicated/VBD keyboard/NN and/CC truly/RB irritating/VBG user/NN interface/JJ of/IN Max's/NNP 3G/CD phone/NN simply/RB get/VB in/IN the/DT way/NN and/CC I/PRP did/VBD not/RB see/VB much/JJ value/NN in/IN the/DT paid-for/JJ services/NNS especially/RB the/DT limited/JJ web/NN access./NN
+The/DT videos/NNS of/IN entertainment/NN news/NN horoscopes/NNS and/CC the/DT latest/JJS celebrity/NN gossip/NN did/VBD not/RB appeal/VB and/CC I/PRP did/VBD not/RB see/VB how/WRB the/DT small/JJ screen/NN could/MD be/VB useful/JJ for/IN any/DT sort/NN of/IN image/NN never/RB mind/NN micro-TV./JJ
+
+But/CC then/RB Max/NNP started/VBD playing/VBG and/CC I/PRP realised/VBD I/PRP was/VBD missing/VBG the/DT point/NN entirely./NN
+
+It/PRP is/VBZ certainly/RB not/RB a/DT great/JJ overall/JJ experience/NN but/CC that/DT is/VBZ largely/RB due/JJ to/TO the/DT poor/JJ menu/NN system/NN and/CC the/DT phone/NN layout/NN the/DT video/NN content/NN itself/PRP is/VBZ compelling./NN
+The/DT quality/NN was/VBD at/IN least/JJS as/RB good/JJ as/IN the/DT video/NN streaming/VBG from/IN the/DT BBC/NNP website/NN and/CC the/DT image/NN is/VBZ about/IN the/DT same/JJ size./NN
+Max/NNP was/VBD completely/RB captivated/VBN and/CC I/PRP was/VBD intrigued/VBN to/TO discover/VB that/IN I/PRP had/VBD nearly/RB missed/VBN the/DT next/JJ stage/NN of/IN the/DT network/NN revolution./NN
+It/PRP is/VBZ easy/JJ to/TO be/VB dismissive/JJ of/IN small/JJ screens/NNS and/CC indeed/RB anyone/NN of/IN my/PRP$ generation/NN with/IN failing/VBG eyesight/NN and/CC the/DT view/NN that/DT 'there's/NN never/RB anything/NN worth/JJ watching/NN on/IN TV'/NNP is/VBZ hardly/RB going/VBG to/TO embrace/VB these/DT phones./NN
+But/CC just/RB as/IN the/DT World/NNP Wide/JJ Web/NN was/VBD the/DT "killer/NN application"/NN that/WDT drove/VBD internet/JJ adoption/NN music/NN videos/NNS are/VBP going/VBG to/TO drive/VB 3G/CD adoption./NN
+With/IN Vodafone/NNP now/RB pushing/VBG its/PRP$ own/JJ 3G/CD service/NN and/CC 3/CD already/RB established/VBN in/IN the/DT UK/NNP video/NN on/IN the/DT phone/NN is/VBZ clearly/RB going/VBG to/TO become/VB a/DT must-have/NN for/IN kids/NNS sitting/VBG on/IN the/DT school/NN bus/NN adults/NNS waiting/VBG outside/JJ clubs/NNS and/CC anyone/NN who/WP has/VBZ time/NN to/TO kill/VB and/CC a/DT group/NN of/IN friends/NNS to/TO impress./VB
+
+This/DT will/MD please/VB the/DT network/NN operators/NNS who/WP are/VBP looking/VBG for/IN some/DT revenue/NN from/IN their/PRP$ expensively/RB acquired/VBN 3G/CD licences./NN
+But/CC it/PRP goes/VBZ deeper/JJR than/IN that/DT playing/VBG music/NN videos/NNS on/IN a/DT phone/NN marks/VBZ the/DT beginning/NN of/IN a/DT move/NN away/RB from/IN the/DT 'download/NN and/CC play'/NN model/NN we/PRP have/VBP all/DT accepted/VBN for/IN our/PRP$ iPods/NNS and/CC MP3/CD players./NN
+After/IN all/DT why/WRB should/MD I/PRP want/VB to/TO carry/VB 60GB/CD of/IN music/NN and/CC pictures/NNS around/IN with/IN me/PRP in/IN my/PRP$ pocket/NN when/WRB I/PRP can/MD simply/RB listen/VB to/TO anything/NN I/PRP want/VBP whenever/WRB I/PRP want/VBP streamed/VBN to/TO my/PRP$ phone?/NN Oh/UH -/: and/CC of/IN course/NN you/PRP can/MD always/RB use/VB the/DT phone/NN to/TO make/VB voice/NN calls/VBZ and/CC send/VB texts/NNS something/NN which/WDT ensures/VBZ that/IN it/PRP is/VBZ always/RB in/IN someone's/NNS pocket/NN or/CC handbag/NN available/JJ for/IN other/JJ uses/VBZ too./NN
+I/PRP have/VBP never/RB really/RB approved/VBN of/IN using/VBG the/DT Internet/NNP Protocol/NNP (IP)/NN to/TO do/VB either/CC audio/JJ or/CC video/NN streaming/VBG and/CC I/PRP think/VBP that/IN technically/RB it/PRP is/VBZ a/DT disaster/NN to/TO make/VB phone/NN calls/NNS over/IN the/DT net/JJ using/NN "voice/NN over/IN IP"./NNP
+
+But/CC I/PRP have/VBP to/TO acknowledge/VB that/IN the/DT net/NN at/IN least/JJS here/RB in/IN the/DT developed/VBN Western/JJ countries/NNS is/VBZ fast/RB and/CC reliable/JJ enough/RB to/TO do/VB both./NN
+
+I/PRP stream/VBP radio/NN to/TO my/PRP$ computer/NN while/IN I/PRP work/VBP and/CC enjoy/VB hearing/VBG the/DT bizarre/JJ stations/NNS from/IN around/IN the/DT world/NN that/IN I/PRP can/MD find/VB online/NN but/CC nowhere/RB else./NN
+I/PRP am/VBP even/RB playing/VBG with/IN internet/JJ telephony/NN despite/IN my/PRP$ reservations/NNS and/CC I/PRP appear/VBP on/IN Go/NN Digital/NNP on/IN the/DT World/NNP Service/NNP streamed/VBD over/IN the/DT web/NN each/DT week./NN
+But/CC 3G/CD networks/NNS have/VBP been/VBN designed/VBN to/TO do/VB this/DT sort/NN of/IN streaming/VBG both/DT for/IN voice/NN and/CC video/NN which/WDT gives/VBZ them/PRP an/DT edge/NN over/IN net-based/JJ IP/NNP services./NN
+The/DT 3G/CD services/NNS aren't/NN quite/RB there/EX yet/RB and/CC there/EX is/VBZ a/DT lot/NN to/TO be/VB sorted/VBN out/RP when/WRB it/PRP comes/VBZ to/TO web/VB access/NN and/CC data/NNS charges./NN
+Vodafone/NNP will/MD let/VB you/PRP access/VBP its/PRP$ services/NNS on/IN Vodafone/NNP Live/JJ as/IN part/NN of/IN your/PRP$ subscription/NN cost/NN but/CC it/PRP makes/VBZ you/PRP pay/VBP by/IN the/DT megabyte/NN to/TO download/VB from/IN other/JJ sites/NNS -/: this/DT one/CD for/IN example./NN
+This/DT will/MD not/RB matter/VB to/TO business/NN users/NNS but/CC will/MD distort/VB the/DT consumer/NN market/NN and/CC keep/VB people/NNS within/IN the/DT phone/NN company's/NNS collection/NN of/IN partner/NN sites/NNS something/NN that/WDT should/MD perhaps/RB be/VB worrying/VBG telecoms/NNS regulator/NN Ofcom./NNP
+But/CC we/PRP should/MD not/RB see/VB these/DT new/JJ phones/NNS simply/RB as/IN cut-down/JJ network/NN terminals./NN
+If/IN I/PRP want/VBP fast/RB access/NN to/TO my/PRP$ e-mail/JJ I/PRP can/MD get/VB a/DT 3G/CD card/NN for/IN my/PRP$ laptop/NN or/CC hook/VB up/IN to/TO a/DT wireless/JJ network./NN
+The/DT phone/NN is/VBZ a/DT lot/NN more/JJR and/CC it/PRP is/VBZ as/RB a/DT combination/NN of/IN mini-TV/JJ personal/JJ communications/NNS device/NN and/CC music/video/NN player/NN that/IN it/PRP really/RB works./VBP
+There/EX is/VBZ certainly/RB room/NN in/IN the/DT technology/NN ecosystem/NN for/IN many/JJ different/JJ sorts/NNS of/IN devices/NNS accessing/VBG a/DT wide/JJ range/NN of/IN services/NNS over/IN different/JJ networks./NN
+3G/CD phones/NNS and/CC iPods/NNS can/MD co-exist/VB at/IN least/JJS for/IN a/DT while/NN but/CC if/IN I/PRP had/VBD to/TO bet/VB on/IN the/DT long/JJ term/NN I/PRP would/MD go/VB for/IN content/NN on/IN demand/NN over/IN carrying/VBG gigabytes/NNS in/IN my/PRP$ pocket./NN
+Or/CC perhaps/RB some/DT enterprising/JJ manufacturer/NN will/MD offer/VB me/PRP both./VBP
+An/DT MP3G/CD player/NN anyone?/NN
+
+Bill/NNP Thompson/NNP is/VBZ a/DT regular/JJ commentator/NN on/IN the/DT BBC/NNP World/NNP Service/NNP programme/NN Go/VB Digital./NNP

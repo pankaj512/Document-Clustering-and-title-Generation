@@ -1,0 +1,17 @@
+Bank/NNP voted/VBD 8-1/JJ for/IN no/DT rate/NN change/NN
+
+The/DT decision/NN to/TO keep/VB interest/NN rates/NNS on/IN hold/NN at/IN 4.75%/CD earlier/RBR this/DT month/NN was/VBD passed/VBN 8-1/JJ by/IN the/DT Bank/NNP of/IN England's/NNP rate-setting/JJ body/NN minutes/NNS have/VBP shown./NN
+
+One/CD member/NN of/IN the/DT Bank's/NNP Monetary/NNP Policy/NNP Committee/NNP (MPC)/NN -/: Paul/NNP Tucker/NNP -/: voted/VBD to/TO raise/VB rates/NNS to/TO 5%./CD
+The/DT news/NN surprised/VBD some/DT analysts/NNS who/WP had/VBD expected/VBN the/DT latest/JJS minutes/NNS to/TO show/VB another/DT unanimous/JJ decision./NN
+Worries/NNS over/IN growth/NN rates/NNS and/CC consumer/NN spending/NN were/VBD behind/IN the/DT decision/NN to/TO freeze/VB rates/NNS the/DT minutes/NNS showed./NN
+The/DT Bank's/NNP latest/JJS inflation/NN report/NN released/VBD last/JJ week/NN had/VBD noted/VBN that/IN the/DT main/JJ reason/NN inflation/NN might/MD fall/VB was/VB weaker/JJR consumer/NN spending./NN
+
+However/RB MPC/NNP member/NN Paul/NNP Tucker/NNP voted/VBD for/IN a/DT quarter/NN point/NN rise/NN in/IN interest/NN rates/NNS to/TO 5%./CD
+He/PRP argued/VBD that/IN economic/JJ growth/NN was/VBD picking/VBG up/RB and/CC that/IN the/DT equity/NN credit/NN and/CC housing/NN markets/NNS had/VBD been/VBN stronger/JJR than/IN expected./NN
+
+The/DT Bank's/NNP minutes/NNS said/VBD that/IN risks/NNS to/TO the/DT inflation/NN forecast/NN were/VBD "sufficiently/RB to/TO the/DT downside"/NN to/TO keep/VB rates/NNS on/IN hold/NN at/IN its/PRP$ latest/JJS meeting./NN
+However/RB the/DT minutes/NNS added/VBD "Some/NN members/NNS noted/VBD that/IN an/DT increase/NN might/MD be/VB warranted/VBN in/IN due/JJ course/NN if/IN the/DT economy/NN evolved/VBN in/IN line/NN with/IN the/DT central/JJ projection"./NN
+Ross/NNP Walker/NNP UK/NNP economist/NN at/IN Royal/NNP Bank/NNP of/IN Scotland/NNP said/VBD he/PRP was/VBD surprised/VBN that/IN a/DT dissenting/JJ vote/NN had/VBD been/VBN made/VBN so/RB soon./NN
+He/PRP said/VBD the/DT minutes/NNS appeared/VBD to/TO be/VB "trying/VBG to/TO get/VB the/DT market/NN to/TO focus/VB on/IN the/DT possibility/NN of/IN a/DT rise/NN in/IN rates"./NN
+"If/NN the/DT economy/NN pans/NNS out/RP as/IN they/PRP expect/VBP then/RB they/PRP are/VBP probably/RB going/VBG to/TO have/VB to/TO hike/VB rates."/NN However/RB he/PRP added/VBD any/DT rate/NN increase/NN is/VBZ not/RB likely/JJ to/TO happen/VB until/IN later/RB this/DT year/NN with/IN MPC/NNP members/NNS likely/JJ to/TO look/VB for/IN a/DT more/RBR sustainable/JJ pick/NN up/RP in/IN consumer/NN spending/NN before/IN acting./NN

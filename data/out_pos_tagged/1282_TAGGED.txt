@@ -1,0 +1,23 @@
+Straw/NNP backs/VBZ ending/VBG China/NNP embargo/NN
+
+UK/NNP Foreign/NNP Secretary/NNP Jack/NNP Straw/NNP has/VBZ defended/VBN plans/NNS to/TO end/VB the/DT European/NNP Union's/NNP arms/NNS embargo/NN on/IN China/NNP despite/IN opposition/NN from/IN the/DT US/PRP and/CC Japan./NNP
+
+Mr/NNP Straw/NNP visiting/VBG Beijing/NNP noted/VBD arms/NNS embargoes/NNS applied/VBN to/TO China/NNP Burma/NNP and/CC Zimbabwe/NNP but/CC not/RB to/TO North/NNP Korea/NNP which/WDT he/PRP said/VBD had/VBD a/DT terrible/JJ rights/NNS record./NN
+The/DT EU/NNP imposed/VBD its/PRP$ arms/NNS ban/NN on/IN China/NNP in/IN 1989/CD after/IN troops/NNS opened/VBD fire/NN on/IN protestors/NNS in/IN Tiananmen/NNP Square./NNP
+Mr/NNP Straw/NNP also/RB signed/VBD a/DT deal/NN on/IN China-UK/NNP tourism./NN
+It/PRP is/VBZ expected/VBN this/DT would/MD increase/VB the/DT number/NN of/IN Chinese/JJ tourists/NNS by/IN 40000/CD per/IN year/NN providing/VBG $120m/CD in/IN revenue./NN
+China/NNP has/VBZ in/IN the/DT past/NN said/VBD it/PRP sees/VBZ the/DT weapons/NNS ban/NN as/RB politically/RB driven/VBN and/CC does/VBZ not/RB want/VB it/PRP lifted/VBD in/IN order/NN to/TO buy/VB more/JJR weapons./NN
+Mr/NNP Straw/NNP speaking/VBG at/IN a/DT joint/JJ news/NN conference/NN with/IN Chinese/NNP Foreign/NNP Minister/NNP Li/NNP Zhaoxing/NNP stressed/VBD this/DT point./NN
+"The/NN result/NN of/IN any/DT decision/NN [to/NN lift/VBP the/DT arms/NNS embargo]/NN should/MD not/RB be/VB an/DT increase/NN in/IN arms/NNS exports/NNS from/IN European/NNP Union/NNP member/NN states/NNS to/TO China/NNP either/CC in/IN quantitative/JJ or/CC qualitative/JJ terms"/NN Mr/NNP Straw/NNP said./NN
+Earlier/RBR this/DT week/NN he/PRP said/VBD he/PRP expected/VBD the/DT embargo/NN to/TO be/VB lifted/VBN within/IN six/CD months./NN
+
+But/CC Mr/NNP Straw/NNP faces/VBZ tough/JJ opposition/NN to/TO the/DT move./NN
+Tory/NNP foreign/JJ affairs/NNS spokesman/NN Michael/NNP Ancram/NNP said/VBD lifting/VBG the/DT arms/NNS embargo/NN would/MD be/VB "irresponsible"/NN and/CC would/MD damage/VB Britain's/NNP relations/NNS with/IN the/DT US./NNP
+He/PRP said/VBD Mr/NNP Straw/NNP was/VBD "naive/JJ beyond/IN belief"/NN if/IN he/PRP accepted/VBD China's/NNP claim/NN it/PRP does/VBZ not/RB want/VB the/DT ban/NN lifted/VBN in/IN order/NN to/TO buy/VB weapons./NN
+The/DT French/JJ want/VBP the/DT embargo/NN lifted/VBN because/IN they/PRP want/VBP to/TO sell/VB arms/NNS to/TO China/NNP the/DT Chinese/JJ want/VBP it/PRP lifted/VBD because/IN they/PRP want/VBP to/TO buy/VB arms/NNS and/CC battlefield/NN technology/NN from/IN Europe."/NNP When/WRB he/PRP was/VBD in/IN Tokyo/NNP earlier/RBR this/DT week/NN Japanese/JJ Foreign/NNP Minister/NNP Nobutaka/NNP Machimura/NNP told/VBD the/DT British/JJ minister/NN that/IN his/PRP$ plan/NN to/TO remove/VB the/DT embargo/NN was/VBD ''/'' a/DT worrying/VBG issue/NN that/WDT concerns/VBZ the/DT security/NN and/CC environment/NN of/IN not/RB only/RB Japan/NNP but/CC also/RB East/NNP Asia/NNP overall"./NN
+Washington/NNP argues/VBZ that/IN if/IN the/DT embargo/NN is/VBZ lifted/VBN it/PRP could/MD lead/VB to/TO a/DT buying/VBG spree/NN for/IN arms/NNS that/IN China/NNP could/MD use/VB to/TO threaten/VB its/PRP$ diplomatic/JJ rival/JJ Taiwan./NNP
+Beijing/NNP says/VBZ Taiwan/NNP is/VBZ part/NN of/IN Chinese/JJ territory/NN and/CC wants/VBZ to/TO unite/VB it/PRP with/IN the/DT mainland/JJ by/IN force/NN if/IN necessary./NN
+The/DT US/PRP is/VBZ bound/VBN by/IN law/NN to/TO help/VB Taiwan/NNP defend/VB itself./NN
+Washington/NNP has/VBZ also/RB voiced/VBN concern/NN that/IN the/DT human/JJ rights/NNS conditions/NNS in/IN China/NNP have/VBP not/RB improved/VBN enough/RB to/TO merit/VB an/DT end/NN to/TO the/DT embargo./NN
+It/PRP is/VBZ an/DT issue/NN raised/VBN by/IN human/JJ rights/NNS groups/NNS too./NN
+Brad/NNP Adams/NNP from/IN the/DT UK's/NNP Human/NNP Rights/NNP Watch/NNP said/VBD "This/NN is/VBZ a/DT huge/JJ political/JJ signal/NN from/IN Europe/NNP that/IN they/PRP are/VBP willing/JJ to/TO forget/VB about/IN Tiananmen/NNP Square."/NNP But/CC Mr/NNP Straw/NNP insisted/VBD the/DT EU's/NNP code/NN of/IN conduct/NN on/IN arms/NNS exports/NNS meant/VBD tough/JJ criteria/NNS on/IN human/JJ rights/NNS still/RB had/VBD to/TO be/VB met/VBN if/IN the/DT embargo/NN was/VBD lifted./NN

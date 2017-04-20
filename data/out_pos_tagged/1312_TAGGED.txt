@@ -1,0 +1,16 @@
+Top/JJ Tories/NNPS on/IN Lib/NNP Dem/NNP 'hit/NN list'/NN
+
+The/DT Liberal/NNP Democrats/NNPS are/VBP aiming/VBG to/TO unseat/VB a/DT string/NN of/IN top/JJ Tories/NNPS -/: including/VBG leader/NN Michael/NNP Howard/NNP -/: at/IN the/DT next/JJ general/JJ election./NN
+
+Mr/NNP Howard's/NNP seat/NN is/VBZ at/IN the/DT top/NN of/IN the/DT Liberal/NNP Democrats'/NNP list./NN
+Others/NNS targeted/VBN include/VBP Oliver/NNP Letwin/NNP David/NNP Davis/NNP and/CC Theresa/NNP May/NNP Lib/NNP Dem's/NNP elections/NNS chief/JJ Lord/NNP Rennard/NNP said./NN
+He/PRP said/VBD it/PRP was/VBD "nothing/VBG personal"/NN but/CC that/DT "very/NN many/JJ of/IN the/DT prominent/JJ Conservatives"/NNP had/VBD slender/NN leads/VBZ in/IN seats/NNS where/WRB the/DT Lib/NNP Dems/NNP were/VBD second./NN
+
+In/IN 2001/CD Michael/NNP Howard/NNP won/VBD the/DT Folkestone/NNP &/CC Hythe/NNP seat/NN with/IN 20645/CD votes/NNS compared/VBN to/TO 14738/CD for/IN the/DT Liberal/NNP Democrat/NNP candidate/NN Peter/NNP Carroll/NNP giving/VBG the/DT Tory/NNP leader/NN a/DT majority/NN of/IN 5907./CD
+Asked/VBN if/IN this/DT amounted/VBD to/TO the/DT party's/NNS much/JJ vaunted/JJ "decapitation/NN strategy"/NN Lord/NNP Rennard/NNP said/VBD it/PRP was/VBD not/RB a/DT term/NN he/PRP had/VBD ever/RB used./NN
+But/CC he/PRP urged/VBD Labour/NNP supporters/NNS to/TO vote/VB tactically/RB to/TO remove/VB prominent/JJ Conservatives./NNP
+"I/NN just/RB don't/NN think/VBP Labour/NNP voters/NNS in/IN these/DT sort/NN of/IN seats/NNS could/MD resist/VB the/DT temptation/NN to/TO use/VB their/PRP$ votes/NNS effectively/RB to/TO remove/VB a/DT Conservative."/NNP He/PRP denied/VBD this/DT strategy/NN was/VBD opportunism/NN insisting/VBG the/DT Lib/NNP Dem's/NNP policies/NNS on/IN issues/NNS such/JJ as/IN tuition/NN fees/NNS the/DT council/NN tax/NN and/CC free/JJ care/NN for/IN the/DT elderly/NN appealed/VBD "to/NN all/DT sides/NNS of/IN the/DT political/JJ spectrum"./NN
+"We/NN are/VBP in/IN favour/NN of/IN tactical/JJ voting/NN as/RB long/RB as/IN the/DT tactic/NN is/VBZ to/TO vote/VB Liberal/NNP Democrat"/NNP he/PRP added./VB
+A/DT Conservative/JJ spokesperson/NN said/VBD "The/NN Liberal/NNP Democrats/NNPS can/MD talk/VB all/DT they/PRP like/IN about/IN strategy./NN
+The/DT problem/NN the/DT Liberal/NNP Democrats/NNPS face/VBP is/VBZ that/IN a/DT large/JJ number/NN of/IN Lib/NNP Dem/NNP voters/NNS do/VBP not/RB agree/VB with/IN their/PRP$ policies./NN
+"We/NN will/MD be/VB pointing/VBG out/RP how/WRB they/PRP are/VBP soft/JJ on/IN crime/NN how/WRB they/PRP support/VBP higher/JJR taxes/VBZ their/PRP$ opposition/NN to/TO controlled/VB immigration/NN and/CC support/NN for/IN giving/VBG Europe/NNP more/JJR control/NN over/IN our/PRP$ lives"./NN

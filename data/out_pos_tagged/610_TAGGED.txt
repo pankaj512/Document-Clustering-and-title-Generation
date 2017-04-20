@@ -1,0 +1,18 @@
+Fockers/NNP retain/VB film/NN chart/NN crown/NN
+
+Comedy/NNP Meet/VB The/DT Fockers/NNP has/VBZ held/VBN on/RP to/TO the/DT number/NN one/CD spot/NN at/IN the/DT North/JJ American/JJ box/NN office/NN for/IN a/DT second/JJ week./NN
+
+It/PRP took/VBD $42.8m/CD (£23.7m)/CD at/IN the/DT weekend/NN making/VBG its/PRP$ overall/JJ takings/NNS more/JJR than/IN $163m/CD (£90m)/CD in/IN 12/CD days/NNS according/VBG to/TO studio/NN estimates./NN
+It/PRP took/VBD $19.1m/CD (£9.9m)/CD on/IN Christmas/NNP Day/NNP alone/RB the/DT highest/JJS takings/NNS on/IN that/DT day/NN in/IN box/NN office/NN history./NN
+The/DT sequel/NN to/TO the/DT Ben/NNP Stiller/NNP comedy/NN Meet/NN The/DT Parents/NNS stars/NNS Robert/NNP De/NNP Niro/NNP Dustin/NNP Hoffman/NNP and/CC Barbra/NNP Streisand./NNP
+The/DT success/NN of/IN Meet/VBP the/DT Fockers/NNP could/MD help/VB produce/VB record/NN box/NN office/NN revenue/NN for/IN 2004/CD said/VBD Paul/NNP Dergarabedian/NNP president/NN of/IN the/DT industry's/NNS tracker/NN Exhibitor/NNP Relations./NNP
+"We've/NN had/VBD a/DT much/RB stronger/JJR than/IN anticipated/VBN final/JJ week/NN of/IN the/DT year/NN that/WDT helped/VBD the/DT industry/NN end/NN on/IN a/DT high/JJ note"/NN said/VBD Mr/NNP Dergarabedian./NNP
+
+Meet/VB the/DT Fockers/NNP also/RB broke/VBD the/DT box/NN office/NN records/NNS for/IN the/DT most/JJS money/NN taken/VBN on/IN New/NNP Year's/NNP Eve/NNP when/WRB it/PRP made/VBD $12.2m/CD (£6.2m)/CD and/CC New/NNP Year's/NNP Day/NNP when/WRB it/PRP took/VBD $18m/CD (£9.4m)./CD
+The/DT previous/JJ New/NNP Year's/NNP Eve/NNP record/NN was/VBD set/VBN in/IN 2000/CD by/IN Cast/VBN Away/RB with/IN $8.5m/CD (£4.5m)./CD
+The/DT Lord/NNP of/IN the/DT Rings/NNS The/DT Return/NN of/IN the/DT King/NNP had/VBD held/VBN the/DT New/NNP Year's/NNP Day/NNP title/NN with/IN $12.8m/CD (£6.7m)./CD
+However/RB Christmas/NNP takings/NNS were/VBD down/RB 26.5%/CD on/IN 2003's/CD figures/NNS -/: which/WDT was/VBD blamed/VBN on/IN Christmas/NNP falling/VBG over/IN a/DT weekend/NN this/DT year./NN
+This/DT weekend's/VBZ top/JJ 12/CD films/NNS took/VBD an/DT estimated/JJ $125.4m/CD (£65.8m)/CD a/DT 4.3%/CD increase/NN on/IN the/DT same/JJ weekend/NN last/JJ year./NN
+But/CC there/EX were/VBD no/DT major/JJ releases/NNS last/JJ week/NN to/TO provide/VB competition/NN to/TO Meet/VB the/DT Fockers/NNP or/CC Lemony/NNP Snicket's/NNP A/NNP Series/NNP of/IN Unfortunate/JJ Events/NNS which/WDT finished/VBD in/IN second/JJ place/NN with/IN $14.7m/CD (£7.7m)./CD
+The/DT Aviator/NNP starring/VBG Leonardo/NNP DiCaprio/NNP as/IN Howard/NNP Hughes/NNP ended/VBD up/RP in/IN third/JJ position/NN after/IN taking/VBG $11.2m/CD (£5.9m)./CD
+Comedy/NNP Fat/NNP Albert/NNP -/: co-written/JJ by/IN Bill/NNP Cosby/NNP -/: moved/VBD down/RP the/DT chart/NN to/TO fourth/JJ place/NN after/IN taking/VBG $10.7m/CD (£5.6m)./CD

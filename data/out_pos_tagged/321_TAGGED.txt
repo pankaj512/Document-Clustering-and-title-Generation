@@ -1,0 +1,12 @@
+Diageo/NN to/TO buy/VB US/PRP wine/VBP firm/NN
+
+Diageo/VBG the/DT world's/NNS biggest/JJS spirits/NNS company/NN has/VBZ agreed/VBN to/TO buy/VB Californian/NN wine/NN company/NN Chalone/NNP for/IN $260m/CD (£134m)/CD in/IN an/DT all-cash/JJ deal./NN
+
+Although/IN Diageo's/NNP best-known/JJS brands/NNS include/VBP Smirnoff/NNP vodka/NN and/CC Guinness/NNP stout/NN it/PRP already/RB has/VBZ a/DT US/PRP winemaking/VBG arm/NN -/: Diageo/NNP Chateau/NNP &/CC Estate/NNP Wines./NNP
+Diageo/NNP said/VBD it/PRP expects/VBZ to/TO get/VB US/PRP regulatory/JJ approval/NN for/IN the/DT deal/NN during/IN the/DT first/JJ quarter/NN of/IN 2005./CD
+It/PRP said/VBD Chalone/NNP would/MD be/VB integrated/VBN into/IN its/PRP$ existing/VBG US/PRP wine/VBP business./NN
+
+"The/NN US/PRP wine/VBP market/NN represents/VBZ a/DT growth/NN opportunity/NN for/IN Diageo/NNP with/IN favourable/JJ demographic/JJ and/CC consumption/NN trends"/NN said/VBD Diageo/NNP North/NNP America/NNP president/NN Ivan/NNP Menezes./NNP
+In/IN July/NNP Diageo/NNP which/WDT is/VBZ listed/VBN on/IN the/DT London/NNP Stock/NNP Exchange/NNP reported/VBD an/DT annual/JJ turnover/NN of/IN £8.89bn/CD down/RB from/IN £9.28bn/CD a/DT year/NN earlier./NN
+It/PRP blamed/VBD a/DT weaker/JJR dollar/NN for/IN its/PRP$ lower/JJR turnover./NN
+In/IN the/DT year/NN ending/VBG 31/CD December/NNP 2003/CD Chalone/NNP reported/VBD revenues/NNS of/IN $69.4m./CD

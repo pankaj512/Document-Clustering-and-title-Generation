@@ -1,0 +1,21 @@
+Tough/JJ schedule/NN delays/NNS Elliot/NNP show/NN
+
+Preview/NN performances/NNS of/IN the/DT £3m/CD musical/JJ Billy/NNP Elliot/NNP have/VBP been/VBN delayed/VBN to/TO give/VB the/DT child/NN actors/NNS a/DT less/CC arduous/JJ rehearsal/JJ schedule./NN
+
+Director/NNP Stephen/NNP Daldry/NNP made/VBD the/DT decision/NN to/TO re-schedule/VB the/DT previews/NNS to/TO protect/VB the/DT young/JJ stars./NN
+Three/CD boys/NNS will/MD rotate/VB the/DT demanding/VBG role/NN of/IN ballet/NN dancer/NN Billy/NNP which/WDT requires/VBZ them/PRP to/TO sing/VB dance/NN and/CC act./NN
+The/DT show's/NNS opening/NN night/NN on/IN 12/CD May/NNP at/IN the/DT Victoria/NNP Palace/NNP Theatre/NNP in/IN London/NNP remains/VBZ unaffected/JJ by/IN the/DT changes./NN
+Preview/NN performances/NNS will/MD now/RB be/VB held/VBN on/IN 14/CD 20/CD and/CC 27/CD April./NNP
+"This/NN is/VBZ one/CD of/IN the/DT most/RBS ambitious/JJ projects/NNS I/PRP have/VBP been/VBN involved/VBN with"/NN said/VBD Daldry./NNP
+"The/NN decision/NN has/VBZ been/VBN made/VBN to/TO push/VB back/RB our/PRP$ preview/NN performances/NNS in/IN order/NN to/TO give/VB our/PRP$ company/NN with/IN a/DT cast/NN including/VBG 45/CD children/NNS a/DT little/RB extra/JJ time/NN so/IN they/PRP are/VBP as/RB fully/RB prepared/VBN as/IN possible."/NN
+
+He/PRP added/VBD "The/NN young/JJ Billy/NNP Elliots/NNP in/IN particular/JJ making/VBG their/PRP$ professional/JJ stage/NN debuts/NNS in/IN the/DT West/NNP End/NN will/MD benefit/VB from/IN a/DT little/RB extra/JJ time/NN to/TO familiarise/VB themselves/PRP with/IN all/DT aspects/NNS of/IN the/DT production."/NN
+
+The/DT three/CD boys/NNS playing/VBG Billy/NNP are/VBP James/NNP Lomas/NNP 15/CD George/NNP Maguire/NNP 14/CD and/CC Liam/NNP Mower/NNP 12./CD
+The/DT other/JJ major/JJ child/NN parts/NNS will/MD also/RB be/VB rotated/VBN between/IN young/JJ actors./NN
+Such/JJ are/VBP the/DT demands/NNS of/IN the/DT show/VBP that/IN producers/NNS set/VBD up/RP a/DT stage/NN school/NN in/IN Newcastle/NNP to/TO train/VB potential/JJ stars/NNS for/IN the/DT show./NN
+Child/NN labour/NN laws/NNS also/RB mean/VBP the/DT young/JJ actors/NNS can/MD only/RB work/VB for/IN a/DT limited/JJ period/NN each/DT week./NN
+Adult/NN actors/NNS in/IN the/DT show/NN include/VBP Tim/NNP Healy/NNP as/IN Billy's/NNP father/NN and/CC Haydn/NNP Gwnne/NNP as/IN his/PRP$ dance/NN teacher/NN Mrs/NNP Wilkinson./NNP
+Sir/NNP Elton/NNP John/NNP has/VBZ composed/VBN the/DT music./NN
+Daldry/NNP directed/VBD the/DT successful/JJ film/NN version/NN of/IN Billy/NNP Elliot/NNP adapted/VBD from/IN Lee/NNP Hall's/NNP script./NN
+Both/DT were/VBD nominated/VBN for/IN Oscars/NNP alongside/IN Julie/NNP Walters/NNP who/WP played/VBD Billy's/NNP teacher./NN

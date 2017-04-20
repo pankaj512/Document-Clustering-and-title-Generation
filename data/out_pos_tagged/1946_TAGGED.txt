@@ -1,0 +1,36 @@
+Concerns/NNS over/IN Windows/NNS ATMs/NNP
+
+Cash/NN machine/NN networks/NNS could/MD soon/RB be/VB more/RBR susceptible/JJ to/TO computer/NN viruses/NNS a/DT security/NN firm/NN has/VBZ warned./NN
+
+The/DT warning/NN is/VBZ being/VBG issued/VBN because/IN many/JJ banks/NNS are/VBP starting/VBG to/TO use/VB the/DT Windows/NNS operating/NN system/NN in/IN machines./NN
+Already/RB there/EX have/VBP been/VBN four/CD incidents/NNS in/IN which/WDT Windows/NNS viruses/NNS have/VBP disrupted/VBN networks/NNS of/IN cash/NN machines/NNS running/VBG the/DT Microsoft/NNP operating/NN system./NN
+But/CC banking/NN experts/NNS say/VBP the/DT danger/NN is/VBZ being/VBG overplayed/VBN and/CC that/IN the/DT risks/NNS of/IN infection/NN and/CC disruption/NN are/VBP small./NN
+
+For/IN many/JJ years/NNS the/DT venerable/JJ IBM/NNP operating/NN system/NN known/VBN as/IN OS/2/CD has/VBZ been/VBN the/DT staple/NN software/NN used/VBN to/TO power/VB many/JJ of/IN the/DT 1.4m/CD cash/NN machines/NNS in/IN operation/NN around/IN the/DT world./NN
+But/CC IBM/NNP will/MD end/VB support/NN for/IN OS/2/CD in/IN 2006/CD which/WDT is/VBZ forcing/VBG banks/NNS to/TO look/VB for/IN alternatives./NN
+There/EX are/VBP also/RB other/JJ pressures/NNS making/VBG banks/NNS turn/VBP to/TO Windows/NNS said/VBD Dominic/NNP Hirsch/NNP managing/VBG director/NN of/IN financial/JJ analysis/NN firm/NN Retail/JJ Banking/NNP Research./NNP
+
+He/PRP said/VBD many/JJ cash/NN machines/NNS will/MD also/RB have/VB to/TO be/VB upgraded/VBN to/TO make/VB full/JJ use/NN of/IN the/DT new/JJ Europay/NNP Mastercard/NNP and/CC Visa/NNP credit/NN cards/NNS that/WDT use/VBP computer/NN chips/NNS instead/RB of/IN magnetic/JJ stripes/NNS to/TO store/VB data./NN
+US/PRP laws/VBZ that/DT demand/NN disabled/JJ people/NNS get/VBP equal/JJ access/NN to/TO information/NN will/MD also/RB force/VB banks/NNS to/TO make/VB their/PRP$ cash/NN machines/NNS more/JJR versatile/NN and/CC able/JJ to/TO present/JJ information/NN in/IN different/JJ ways./NN
+Todd/NNP Thiemann/NNP spokesman/NN for/IN anti-virus/JJ firm/NN Trend/NNP Micro/NNP said/VBD the/DT move/NN to/TO Windows/NNS in/IN cash/NN machines/NNS was/VBD not/RB without/IN risks./NN
+Mr/NNP Thiemann/NNP said/VBD research/NN by/IN the/DT TowerGroup/NNP showed/VBD that/IN 70%/CD of/IN new/JJ cash/NN machines/NNS being/VBG installed/VBN were/VBD Windows/NNS based./NN
+
+Already/RB he/PRP said/VBD there/EX have/VBP been/VBN four/CD incidents/NNS in/IN which/WDT cash/NN machines/NNS have/VBP been/VBN unavailable/JJ for/IN hours/NNS due/JJ to/TO viruses/NNS affecting/VBG the/DT network/NN of/IN the/DT bank/NN that/WDT owns/VBZ them./NN
+
+In/IN January/NNP 2003/CD the/DT Slammer/NNP worm/NN knocked/VBD out/RB 13000/CD cash/NN machines/NNS of/IN the/DT Bank/NNP of/IN America/NNP and/CC many/JJ of/IN those/DT operated/VBN by/IN the/DT Canadian/NNP Imperial/NNP Bank/NNP of/IN Commerce./NNP
+In/IN August/NNP of/IN the/DT same/JJ year/NN cash/NN machines/NNS of/IN two/CD un-named/JJ banks/NNS were/VBD put/VBN out/IN of/IN action/NN for/IN hours/NNS following/VBG an/DT infection/NN by/IN the/DT Welchia/NNP worm./NN
+Incidents/NNS like/IN this/DT happen/NN said/VBD Mr/NNP Thiemann/NNP because/IN when/WRB banks/NNS start/VBP using/VBG Windows/NNS cash/NN machines/NNS they/PRP also/RB change/VBP the/DT networking/NN technology/NN used/VBN to/TO link/VB the/DT devices/NNS to/TO their/PRP$ back/JJ office/NN computers./NN
+This/DT often/RB means/VBZ that/IN all/PDT the/DT cash/NN machines/NNS and/CC computers/NNS in/IN a/DT bank/NN share/NN the/DT same/JJ data/NN network./NN
+"This/NN could/MD mean/VB that/DT cash/NN machines/NNS get/VBP caught/VBN up/RP in/IN the/DT viruses/NNS that/WDT are/VBP going/VBG around/RB because/IN they/PRP have/VBP a/DT common/JJ transmission/NN system"/NN he/PRP said./VB
+"Banks/NN need/VBP to/TO consider/VB protection/NN as/IN part/NN of/IN the/DT investment/NN to/TO maintain/VB the/DT security/NN of/IN that/DT network"/NN Mr/NNP Thiemann/NNP told/VBD BBC/NNP News/NNP Online./NNP
+
+But/CC Mr/NNP Hirsch/NNP from/IN Retail/JJ Banking/NNP Research/NNP said/VBD the/DT number/NN of/IN cash/NN machines/NNS actually/RB at/IN risk/NN was/VBD low/JJ because/IN so/RB few/RB were/VBD upgraded/VBN every/DT year./NN
+
+Currently/RB he/PRP said/VBD a/DT cash/NN machine/NN has/VBZ a/DT lifetime/NN of/IN up/IN to/TO 10/CD years/NNS which/WDT means/VBZ that/IN only/RB about/IN 10%/CD of/IN all/DT ATMs/NNP get/VB swapped/VBN for/IN a/DT newer/JJR model/NN every/DT year./NN
+"Windows/NN cash/NN machines/NNS have/VBP been/VBN around/IN for/IN several/JJ years"/NN he/PRP said./VB
+"Most/NN banks/NNS simply/RB upgrade/VBP as/IN part/NN of/IN their/PRP$ usual/JJ replacement/NN cycle."/NN "In/NN theory/NN there/EX is/VBZ a/DT bigger/JJR threat/NN with/IN Windows/NNS than/IN OS/2"/CD he/PRP said/VBD "but/NN I/PRP do/VBP not/RB think/VB that/IN the/DT banks/NNS are/VBP hugely/RB concerned/VBN at/IN the/DT moment."/NN "It's/NN pretty/RB unusual/JJ to/TO hear/VB about/IN virus/NN problems/NNS with/IN ATMs"/NNP he/PRP said./VB
+The/DT many/JJ different/JJ security/NN systems/NNS built-in/JJ to/TO cash/VB machines/NNS meant/VBN there/EX was/VBD no/DT chance/NN that/IN a/DT virus/NN could/MD cause/VB them/PRP to/TO start/VB spitting/VBG out/RP cash/NN spontaneously/RB he/PRP said./VB
+Banks/NNS were/VBD more/RBR likely/JJ to/TO be/VB worried/VBN about/IN internal/JJ networks/NNS being/VBG overwhelmed/VBN by/IN worms/NNS and/CC viruses/NNS and/CC customers/NNS not/RB being/VBG able/JJ to/TO get/VB cash/NN out/RP at/IN all/DT he/PRP added./VB
+A/DT spokesman/NN for/IN the/DT Association/NNP of/IN Payment/NN and/CC Clearing/NNP Services/NNPS (Apacs)/NN which/WDT represents/VBZ the/DT UK's/NNP payments/NNS industry/NN said/VBD the/DT risk/NN from/IN viruses/NNS was/VBD minimal./NN
+"There's/NN no/DT concern/NN that/IN there's/NNS going/VBG to/TO be/VB any/DT type/NN of/IN virus/NN hitting/VBG the/DT UK/NNP networks"/NN he/PRP said./VB
+Risks/NNS of/IN infection/NN were/VBD small/JJ because/IN the/DT data/NNS networks/NNS that/WDT connect/VBP UK/NNP cash/NN machines/NNS together/RB and/CC the/DT operators/NNS of/IN the/DT ATMs/NNP themselves/PRP were/VBD a/DT much/RB smaller/JJR and/CC tightly-knit/JJ community/NN than/IN in/IN the/DT US/PRP where/WRB viruses/NNS have/VBP struck./NN

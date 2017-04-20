@@ -1,0 +1,19 @@
+Boothroyd/NNP calls/VBZ for/IN Lords/NNPS speaker/NN
+
+Betty/NNP Boothroyd/NNP has/VBZ said/VBD the/DT House/NNP of/IN Lords/NNPS needs/VBZ its/PRP$ own/JJ Speaker/NNP and/CC that/DT peers/VBZ should/MD lead/VB the/DT way/NN on/IN reforming/VBG the/DT upper/JJ chamber./NN
+
+Baroness/NNP Boothroyd/NNP who/WP was/VBD the/DT first/JJ woman/NN to/TO be/VB Commons/NNPS Speaker/NNP said/VBD she/PRP believed/VBD Tony/NNP Blair/NNP initiated/VBD reforms/NNS without/IN a/DT clear/JJ outcome/NN in/IN mind./NN
+"Now/NN we/PRP have/VBP to/TO take/VB care/NN of/IN it/PRP ourselves/PRP and/CC make/VB the/DT best/JJS of/IN it"/NN she/PRP told/VBD the/DT BBC's/NNP Breakfast/NN with/IN Frost./NNP
+In/IN 1999/CD Labour/NNP removed/VBN all/DT but/CC 92/CD of/IN the/DT Lords'/NNP 750/CD hereditary/JJ peers./NN
+That/DT was/VBD billed/VBN as/IN the/DT first/JJ stage/NN of/IN reform/NN of/IN the/DT institution./NN
+The/DT lord/NN chancellor/NN hinted/VBD further/JJ reforms/NNS could/MD be/VB unveiled/VBN in/IN the/DT next/JJ Labour/NNP manifesto./NN
+
+"I/NN think/VBP we/PRP need/VBP to/TO look/VB very/RB carefully/RB at/IN the/DT relationship/NN between/IN the/DT Lords/NNPS and/CC the/DT Commons"/NNP Lord/NNP Falconer/NNP told/VBD BBC1's/CD Breakfast/NN With/IN Frost./NNP
+"How/NN it/PRP interacts/VBZ with/IN the/DT Commons/NNPS is/VBZ a/DT very/RB very/RB important/JJ issue./NN
+"We/NN need/VBP to/TO address/VB the/DT issue/NN in/IN the/DT manifesto/NN but/CC you/PRP will/MD have/VB to/TO wait/VB for/IN when/WRB the/DT manifesto/NN comes."/NN The/DT lord/NN chancellor/NN currently/RB has/VBZ the/DT role/NN of/IN House/NNP of/IN Lords/NNPS speaker./NN
+He/PRP is/VBZ also/RB head/NN of/IN the/DT judiciary/NN and/CC a/DT member/NN of/IN the/DT Cabinet/NNP as/IN constitutional/JJ affairs/NNS secretary./NN
+
+Lady/NNP Boothroyd/NNP said/VBD she/PRP believed/VBD it/PRP was/VBD unacceptable/JJ for/IN the/DT lord/NN chancellor/NN to/TO have/VB the/DT role/NN of/IN Speaker./NNP
+"I/NN would/MD really/RB like/VB to/TO see/VB a/DT Speaker/NNP of/IN the/DT House/NNP of/IN Lords"/NNP she/PRP said./VBP
+"I/NN don't/NN go/VBP for/IN the/DT idea/NN of/IN somebody/NN -/: a/DT lord/NN chancellor/NN -/: who/WP is/VBZ head/NN of/IN the/DT judiciary/NN a/DT senior/JJ Cabinet/NNP minister/NN and/CC Speaker/NNP of/IN the/DT Lords./NNP
+"I/NN want/VBP somebody/NN there/EX who/WP is/VBZ going/VBG to/TO look/VB after/IN that/DT House/NNP and/CC do/VB a/DT job/NN there./NN

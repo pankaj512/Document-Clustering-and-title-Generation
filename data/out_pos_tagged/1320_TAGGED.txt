@@ -1,0 +1,9 @@
+O'Sullivan/NNP commits/VBZ to/TO Dublin/NNP race/NN
+
+Sonia/NNP O'Sullivan/NNP will/MD seek/VB to/TO regain/VB her/PRP$ title/NN at/IN the/DT Bupa/NNP Great/NNP Ireland/NNP Run/NNP on/IN 9/CD April/NNP in/IN Dublin./NNP
+
+The/DT 35-year-old/NN was/VBD beaten/VBN into/IN fourth/JJ at/IN last/JJ year's/NNS event/NN having/VBG won/VBD it/PRP a/DT year/NN earlier./NN
+"I/NN understand/VB she's/NNS had/VBD a/DT solid/JJ winter's/NNS training/NN down/RP in/IN Australia/NNP after/IN recovering/VBG from/IN a/DT minor/JJ injury"/NN said/VBD race/NN director/NN Matthew/NNP Turnbull./NNP
+Mark/NNP Carroll/NNP Irish/JJ record/NN holder/NN at/IN 3km/CD 5km/CD and/CC 10km/CD will/MD make/VB his/PRP$ debut/NN in/IN the/DT mass/NN participation/NN 10km/CD race./NN
+Carroll/NNP has/VBZ stepped/VBN up/RP his/PRP$ form/NN in/IN recent/JJ weeks/NNS and/CC in/IN late/JJ January/NNP scored/VBD an/DT impressive/JJ 3000m/CD victory/NN over/IN leading/VBG American/NNP Alan/NNP Webb/NNP in/IN Boston./NNP
+Carroll/NNP will/MD be/VB facing/VBG stiff/JJ competition/NN from/IN Australian/NNP Craig/NNP Mottram/NNP winner/NN in/IN Dublin/NNP for/IN the/DT last/JJ two/CD years./NN

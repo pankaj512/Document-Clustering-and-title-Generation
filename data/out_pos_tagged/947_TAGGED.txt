@@ -1,0 +1,21 @@
+MPs/NNP criticise/NN child/NN access/NN system/NN
+
+Divorced/VBN parents/NNS seeking/VBG access/NN to/TO their/PRP$ children/NNS are/VBP often/RB disadvantaged/JJ by/IN the/DT legal/JJ system/NN MPs/NNP have/VBP said./NN
+
+The/DT Constitutional/NNP Affairs/NNP Select/NNP Committee/NNP said/VBD parents/NNS with/IN custody/NN could/MD exploit/VB delays/NNS in/IN the/DT system/NN to/TO stop/VB former/JJ partners/NNS gaining/VBG access./NN
+Courts/NNS should/MD be/VB used/VBN as/IN a/DT last/JJ resort/NN but/CC where/WRB they/PRP are/VBP their/PRP$ orders/NNS should/MD be/VB enforced/VBN more/RBR rigorously/RB MPs/NNP said./NN
+But/CC they/PRP rejected/VBD the/DT claim/NN made/VBN by/IN some/DT campaign/NN groups/NNS that/IN there/EX should/MD be/VB a/DT legal/JJ presumption/NN of/IN equal/JJ access./NN
+
+Currently/RB the/DT presumption/NN is/VBZ that/IN the/DT interests/NNS of/IN the/DT child/NN are/VBP paramount./NN
+"An/NN arbitrary/JJ 'template'/NN imposed/VBN on/IN all/DT families/NNS whatever/WDT the/DT needs/NNS of/IN the/DT child/NN would/MD relegate/VB the/DT welfare/NN of/IN individual/JJ children/NNS to/TO a/DT secondary/JJ position"/NN the/DT MPs/NNP said./NN
+
+They/PRP said/VBD the/DT law/NN should/MD be/VB changed/VBN to/TO require/VB family/NN courts/NNS specifically/RB to/TO take/VB account/NN of/IN the/DT importance/NN of/IN sustaining/VBG the/DT relationship/NN between/IN the/DT child/NN and/CC the/DT non-resident/JJ parent/NN in/IN contested/VBN cases./NN
+This/DT would/MD "reassert/VB the/DT rights/NNS of/IN non-resident/JJ parents/NNS to/TO contact/VB with/IN their/PRP$ children/NNS as/RB well/RB as/IN the/DT rights/NNS of/IN children/NNS to/TO contact/VB with/IN both/DT their/PRP$ parents/NNS while/IN maintaining/VBG sufficient/JJ flexibility/NN to/TO cope/VB with/IN issues/NNS of/IN safety"/NN they/PRP said./VBP
+Delays/NNS in/IN court/NN hearings/NNS and/CC the/DT inability/NN to/TO effectively/RB enforce/VB court/NN orders/NNS allowed/VBD "a/NN new/JJ 'status/NN quo'/NN arrangement/NN for/IN the/DT children/NNS to/TO become/VB established/VBN by/IN default"/NN they/PRP said./VBP
+
+"Although/NN the/DT courts/NNS rigorously/RB avoid/VBP conscious/JJ bias/NN there/EX are/VBP considerable/JJ grounds/NNS for/IN accepting/VBG that/IN non-resident/JJ parents/NNS are/VBP frequently/RB disadvantaged/JJ by/IN the/DT system/NN as/IN it/PRP is/VBZ administered/VBN at/IN present./NN
+"Given/NN the/DT strong/JJ animosity/NN between/IN the/DT parties/NNS which/WDT is/VBZ common/JJ in/IN contested/VBN family/NN cases/NNS we/PRP find/VBP it/PRP hard/JJ to/TO believe/VB that/IN tactical/JJ delay/NN is/VBZ not/RB sometimes/RB used/VBN to/TO the/DT advantage/NN of/IN resident/NN parents."/NN Committee/NNP chairman/NN Alan/NNP Beith/NNP said/VBD the/DT five-month/JJ inquiry/NN had/VBD been/VBN a/DT "complex/NN and/CC emotive"/NN one./NN
+"At/NN the/DT moment/NN far/RB too/RB many/JJ contact/NN and/CC residency/NN cases/NNS are/VBP being/VBG dealt/VBD with/IN by/IN the/DT courts/NNS when/WRB they/PRP could/MD be/VB better/RBR resolved/JJ through/IN professional/JJ mediation/NN and/CC negotiation"/NN he/PRP said./VB
+"This/NN situation/NN has/VBZ to/TO change./VB
+The/DT court/NN system/NN should/MD only/RB be/VB used/VBN as/IN a/DT last/JJ resort/NN where/WRB mediation/NN and/CC negotiation/NN have/VBP completely/RB broken/VBN down/RP or/CC where/WRB issues/NNS of/IN abuse/NN or/CC domestic/JJ violence/NN need/VBP to/TO be/VB dealt/VBN with./NN
+"This/NN will/MD help/VB to/TO reduce/VB delays/NNS and/CC improve/VB the/DT lives/NNS of/IN many/JJ children/NNS across/IN the/DT country."/NN

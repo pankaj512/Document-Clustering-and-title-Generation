@@ -1,0 +1,43 @@
+Dundee/NNP Utd/NNP 4-1/CD Aberdeen/NNP
+
+Dundee/NNP United/NNP eased/VBD into/IN the/DT semi-final/NN of/IN the/DT Scottish/NNP Cup/NNP with/IN an/DT emphatic/JJ win/NN over/IN Aberdeen./NNP
+
+Alan/NNP Archibald/NNP prodded/VBD United/NNP ahead/RB in/IN 19/CD minutes/NNS and/CC James/NNP Grady/NNP made/VBD it/PRP two/CD from/IN close/NN range/NN 10/CD minutes/NNS later./NN
+Richie/NNP Byrne's/NNP header/NN gave/VBD Aberdeen/NNP a/DT way/NN back/RB into/IN the/DT game/NN but/CC Stevie/NNP Crawford/NNP restored/VBD United's/NNP lead/VB from/IN 18/CD yards/NNS before/IN half/JJ time./NN
+The/DT scoring/VBG was/VBD completed/VBN by/IN Grady/NNP just/RB after/IN the/DT break/NN -/: a/DT superb/NN shot/NN on/IN the/DT turn/NN making/VBG it/PRP 4-1./JJ
+Tony/NNP Bullock/NNP in/IN the/DT United/NNP goal/NN was/VBD called/VBN into/IN action/NN for/IN the/DT first/JJ time/NN with/IN just/RB over/IN a/DT quarter-of-an-hour/NN on/IN the/DT clock./NN
+Noel/NNP Whelan/NNP laid/VBD the/DT ball/NN off/RP to/TO Jamie/NNP Winter/NNP on/IN the/DT edge/NN of/IN the/DT box/NN but/CC his/PRP$ first-time/JJ effort/NN was/VBD gathered/VBN by/IN the/DT United/NNP keeper./NN
+Moments/NNS later/RB though/IN the/DT home/NN side/NN took/VBD the/DT lead./NN
+Barry/NNP Robson/NNP whipped/VBD in/IN a/DT free/JJ kick/NN from/IN the/DT right/NN which/WDT Stevie/NNP Crawford/NNP caught/VBD on/IN the/DT volley./NN
+Russell/NNP Anderson/NNP failed/VBD to/TO deal/VB with/IN it/PRP and/CC Whelan's/NNP clearance/NN off/RP the/DT line/NN landed/VBD kindly/RB at/IN the/DT feet/NNS of/IN Archibald/NNP who/WP poked/VBD the/DT ball/NN into/IN the/DT net./NN
+United/NNP doubled/VBD their/PRP$ lead/NN after/IN 29/CD minutes/NNS when/WRB Grady/NNP tapped/VBD the/DT ball/NN into/IN an/DT empty/JJ net/NN after/IN Robson/NNP had/VBD headed/VBN Mark/NNP Wilson's/NNP cross/VB off/RP the/DT angle/NN of/IN post/NN and/CC bar./NN
+But/CC only/RB three/CD minutes/NNS later/RB Aberdeen/NNP clawed/VBD their/PRP$ way/NN back/RB into/IN the/DT match./NN
+A/DT free/JJ kick/VBP from/IN the/DT left/NN by/IN Winter/NNP was/VBD met/VBN powerfully/RB by/IN the/DT head/NN of/IN Byrne/NNP at/IN the/DT back/JJ post/NN leaving/VBG Bullock/NNP helpless./NN
+
+United/NNP restored/VBD their/PRP$ two-goal/JJ lead/NN four/CD minutes/NNS before/IN the/DT end/NN of/IN a/DT highly/RB entertaining/JJ first/JJ half./NN
+Jason/NNP Scotland/NNP played/VBD a/DT perfectly-weighted/JJ pass/NN into/IN the/DT path/NN of/IN the/DT onrushing/VBG Crawford/NNP and/CC he/PRP coolly/RB beat/VBP Ryan/NNP Esson/NNP from/IN 18/CD yards./NN
+United/NNP ended/VBD the/DT game/NN as/IN a/DT contest/NN just/RB two/CD minutes/NNS after/IN the/DT interval./JJ
+Grady/NNP received/VBD a/DT pass/NN from/IN Crawford/NNP with/IN his/PRP$ back/RB to/TO goal/VB on/IN the/DT edge/NN of/IN the/DT box/NN and/CC after/IN taking/VBG one/CD touch/NN he/PRP spun/VBD to/TO volley/VB the/DT ball/NN past/IN the/DT despairing/VBG dive/NN of/IN Esson./NNP
+The/DT home/NN side/NN were/VBD in/IN complete/JJ control/NN and/CC it/PRP required/VBD a/DT good/JJ stop/NN from/IN Esson/NNP to/TO keep/VB out/RP Robson's/NNP drive/NN after/IN 62/CD minutes./NN
+The/DT keeper/NN denied/VBD the/DT same/JJ player/NN again/RB 10/CD minutes/NNS later/RB beating/VBG away/RP his/PRP$ fierce/JJ shot/NN from/IN the/DT left/NN of/IN the/DT penalty/NN area./NN
+Robson/NNP saw/VBD another/DT long-range/JJ effort/NN tipped/VBD round/NN the/DT post/NN before/IN a/DT cute/JJ lob/NN was/VBD headed/VBN off/RP the/DT line./NN
+
+Bullock/NNP Duff/NNP Wilson/NNP Ritchie/NNP Archibald/NNP Scotland/NNP (Samuel/NN 63)/CD Brebner/NNP Kerr/NNP (Cameron/NN 87)/CD Robson/NNP Crawford/NNP Grady./NNP
+
+Colgan/NNP Dodds/NNP Kenneth./NNP
+
+Brebner./NNP
+
+Archibald/NNP 19/CD Grady/NNP 29/CD Crawford/NNP 41/CD Grady/NNP 47./CD
+
+Esson/NNP Hart/NNP Anderson/NNP Diamond/NNP Byrne/NNP (Morrison/NN 75)/CD McNaughton/NNP Heikkinen/NNP (Foster/NN 27)/CD Winter/NNP Clark/NNP (Stewart/NN 51)/CD Mackie/NNP Whelan./NNP
+
+Blanchard/NNP McGuire./NNP
+
+Anderson/NNP Diamond./NNP
+
+Byrne/NNP 33./CD
+
+8661/CD
+
+K/NNP Clark/NNP

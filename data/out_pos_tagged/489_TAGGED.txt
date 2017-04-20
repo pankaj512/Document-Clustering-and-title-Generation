@@ -1,0 +1,17 @@
+Criminal/NNP probe/NN on/IN Citigroup/NNP deals/NNS
+
+Traders/NNS at/IN US/PRP banking/VBP giant/NN Citigroup/NNP are/VBP facing/VBG a/DT criminal/JJ investigation/NN in/IN Germany/NNP over/IN a/DT controversial/JJ bond/NN deal./NN
+
+The/DT deal/NN saw/VBD the/DT sale/NN of/IN 11bn/CD euros/NNS ($14.4bn/CD £7.6bn)/CD of/IN government/NN bonds/NNS in/IN a/DT few/JJ minutes/NNS on/IN 2/CD August/NNP with/IN 4bn/CD euros-worth/JJ then/RB bought/VBD back/RB later./NN
+The/DT move/NN was/VBD widely/RB criticised/VBN at/IN the/DT time/NN and/CC now/RB the/DT German/JJ regulator/NN has/VBZ said/VBN it/PRP has/VBZ found/VBN evidence/NN of/IN possible/JJ market/NN manipulation./NN
+Citigroup/NNP said/VBD it/PRP would/MD continue/VB to/TO co-operate/JJ fully/RB with/IN the/DT authorities./NN
+"We/NN are/VBP disappointed/VBN that/IN the/DT BaFin/NNP has/VBZ referred/VBN to/TO the/DT prosecutor/NN the/DT question/NN of/IN whether/IN action/NN should/MD be/VB brought/VBN against/IN individuals/NNS involved"/NN Citigroup/NNP said./NN
+If/IN the/DT traders/NNS are/VBP found/VBN guilty/JJ they/PRP could/MD face/VB a/DT five-year/JJ jail/NN term/NN or/CC a/DT fine/NN Reuters/NNP reported/VBD BaFin/NNP as/IN saying./NN
+However/RB under/IN German/JJ criminal/JJ law/NN prosecutors/NNS cannot/NN pursue/VB Citigroup/NNP itself./NN
+
+Germany's/NNP financial/JJ watchdog/NN BaFin/NNP told/VBD BBC/NNP News/NNP it/PRP had/VBD now/RB transferred/VBN the/DT investigation/NN to/TO the/DT public/JJ prosecutor./NN
+"I/NN can/MD confirm/VB that/IN BaFin/NNP has/VBZ passed/VBN through/IN the/DT case/NN to/TO the/DT public/JJ prosecutor"/NN a/DT BaFin/NNP spokeswoman/NN said./NN
+"It/NN is/VBZ now/RB a/DT criminal/JJ investigation."/NN "We/NN found/VBD clues/NNS of/IN possible/JJ market/NN manipulation"/NN the/DT spokeswoman/NN said/VBD which/WDT included/VBD signs/NNS of/IN linked/VBN bond/NN trading/NN ahead/RB of/IN the/DT main/JJ trades/NNS on/IN 2/CD August./NNP
+"Germany's/NN Securities/NNPS Trading/NNP Act/NNP says/VBZ that/IN if/IN BaFin/NNP finds/VBZ such/JJ clues/NNS it/PRP has/VBZ to/TO put/VB the/DT case/NN in/IN the/DT hands/NNS of/IN the/DT prosecutor."/NN Regulatory/NNP investigations/NNS are/VBP still/RB going/VBG on/RP in/IN France/NNP the/DT UK/NNP and/CC elsewhere./NN
+Some/DT Citigroup/NNP operations/NNS elsewhere/RB in/IN the/DT world/NN came/VBD under/IN regulatory/JJ criticism/NN in/IN 2004./CD
+Its/PRP$ private/JJ banking/NN operation/NN in/IN Japan/NNP was/VBD closed/VBN down/RB by/IN regulators/NNS in/IN Tokyo/NNP after/IN an/DT "aggressive/JJ sales/NNS culture"/NN led/VBD the/DT bank/NN to/TO flout/VB anti-money/JJ laundering/NN rules./NN

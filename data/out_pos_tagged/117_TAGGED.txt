@@ -1,0 +1,29 @@
+Car/NNP giant/JJ hit/VBN by/IN Mercedes/NNP slump/NN
+
+A/DT slump/NN in/IN profitability/NN at/IN luxury/NN car/NN maker/NN Mercedes/NNP has/VBZ prompted/VBN a/DT big/JJ drop/NN in/IN profits/NNS at/IN parent/NN DaimlerChrysler./NNP
+
+The/DT German-US/NNP carmaker/NN saw/VBD fourth/JJ quarter/NN operating/NN profits/NNS fall/VBP to/TO 785m/CD euros/NNS ($1bn)/CD from/IN 2.4bn/CD euros/NNS in/IN 2003./CD
+Mercedes-Benz's/NN woes/NNS -/: its/PRP$ profits/NNS slid/VBD to/TO just/RB 20m/CD euros/NNS -/: obscured/VBD a/DT strong/JJ performance/NN from/IN the/DT Chrysler/NNP group/NN whose/WP$ returns/NNS met/VBD market/NN expectations./NN
+Mercedes/NNP faces/VBZ fierce/JJ competition/NN in/IN the/DT luxury/NN car/NN sector/NN from/IN BMW/NNP and/CC but/CC hopes/VBZ to/TO revive/VB its/PRP$ fortunes/NNS by/IN 2006./CD
+
+Mercedes'/NN profits/NNS over/IN the/DT period/NN compared/VBN unfavourably/RB with/IN 2003's/CD 784m/CD euro/NN figure/NN and/CC were/VBD well/RB below/IN analyst/NN expectations/NNS of/IN 374m/CD euros./NN
+For/IN the/DT year/NN as/IN a/DT whole/NN its/PRP$ operating/NN profits/NNS fell/VBD 46%/CD to/TO 1.6bn/CD euros./NN
+Sales/NNS of/IN Mercedes'/NNP brands/NNS fell/VBD 2%/CD as/IN demand/NN cooled/VBN while/IN revenues/NNS were/VBD affected/VBN by/IN the/DT weakness/NN of/IN the/DT US/PRP dollar./VBP
+
+The/DT carmaker/NN blamed/VBD the/DT fall/NN in/IN profits/NNS on/IN high/JJ launch/NN costs/NNS for/IN new/JJ models/NNS and/CC losses/NNS from/IN its/PRP$ Mercedes/NNP Smart/NNP mini-car/NN range./NN
+Mercedes/NNP is/VBZ hoping/VBG to/TO increase/VB productivity/NN by/IN 3bn/CD euros/NNS having/VBG negotiated/VBN 500m/CD euros/NNS in/IN annual/JJ savings/NNS with/IN German/JJ workers/NNS last/JJ year./NN
+The/DT firm/NN said/VBD it/PRP was/VBD determined/VBN to/TO retain/VB Mercedes'/NNP position/NN as/IN the/DT world's/NNS most/RBS successful/JJ luxury/NN brand./NN
+However/RB DaimlerChrysler's/NNP shares/NNS fell/VBD 1.5%/CD on/IN the/DT news./NN
+"While/NN all/PDT these/DT divisions/NNS are/VBP doing/VBG well/RB the/DT big/JJ worries/NNS continue/VBP to/TO surround/VB Mercedes-Benz"/NNP Michael/NNP Rabb/NNP an/DT analyst/NN with/IN Bank/NNP Sal/NNP Oppenheim/NNP told/VBD Reuters./NNP
+
+In/IN contrast/NN Chrysler/NNP enjoyed/VBD a/DT 5%/CD annual/JJ increase/NN in/IN unit/NN sales/NNS while/IN revenues/NNS -/: calculated/VBN in/IN US/PRP dollars/VBZ -/: rose/VBD 10%./CD
+The/DT US/PRP division/VBP -/: whose/WP$ marques/NNS include/VBP Dodge/NNP and/CC Jeep/NNP -/: transformed/VBN a/DT full/JJ year/NN operating/NN loss/NN of/IN 506m/CD euros/NNS in/IN 2003/CD into/IN a/DT 1.4bn/CD euros/NNS profit/VBP last/JJ year./NN
+
+Overall/RB DaimlerChrysler/NNP saw/VBD worldwide/NN vehicle/NN sales/NNS rise/VBP 8%/CD to/TO 4.7/CD million/CD in/IN 2004/CD while/IN total/JJ revenues/NNS added/VBD 4%/CD to/TO 142bn/CD euros./NN
+Chrysler's/NNP strong/JJ performance/NN helped/VBD the/DT world's/NNS fifth/JJ largest/JJS carmaker/NN boost/NN net/JJ income/NN by/IN 400m/CD euros/NNS to/TO 2.5bn/CD euros./NN
+
+"The/NN year/NN 2004/CD shows/VBZ that/IN our/PRP$ strategy/NN works/VBZ well/RB -/: even/RB in/IN such/PDT a/DT challenging/VBG competitive/JJ environment"/NN said/VBD Jurgen/NNP Schrempp/NNP DaimlerChrysler's/NNP chairman./NN
+DaimlerChrysler/NNP took/VBD a/DT 475m/CD euro/NN hit/VBD in/IN costs/NNS stemming/VBG from/IN a/DT defects/NNS scandal/NN at/IN its/PRP$ joint/JJ venture/NN Japanese/JJ subsidiary/NN Fuso./NNP
+DaimlerChrysler/NNP last/JJ week/NN agreed/VBD a/DT compensation/NN package/NN with/IN partner/NN Mitsubishi/NNP Motors/NNPS which/WDT will/MD see/VB it/PRP buy/VB out/RP its/PRP$ stake/NN in/IN Fuso./NNP
+Looking/VBG forward/RB DaimerChrysler's/NNP profits/NNS are/VBP expected/VBN to/TO be/VB slightly/RB higher/JJR in/IN 2005./CD
+However/RB it/PRP is/VBZ expecting/VBG "significant/NN improvements"/NN in/IN profitability/NN in/IN 2006/CD as/IN a/DT result/NN of/IN a/DT major/JJ investment/NN in/IN the/DT Mercedes/NNP product/NN range./NN

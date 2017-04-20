@@ -1,0 +1,40 @@
+Chelsea/NNP denied/VBN by/IN James/NNP heroics/NNS
+
+A/DT brave/JJ defensive/JJ display/NN led/VBN by/IN keeper/NN David/NNP James/NNP helped/VBD Manchester/NNP City/NNP hold/VB the/DT leaders/NNS Chelsea./NNP
+
+After/IN a/DT quiet/JJ opening/NN James/NNP denied/VBD Damien/NNP Duff/NNP Jiri/NNP Jarosik/NNP and/CC Mateja/NNP Kezman/NNP while/IN Paul/NNP Bosvelt/NNP cleared/VBD William/NNP Gallas'/NNP header/NN off/RP the/DT line./NN
+Robbie/NNP Fowler/NNP should/MD have/VB scored/VBN for/IN the/DT visitors/NNS but/CC sent/VBD his/PRP$ header/NN wide./NN
+Chelsea/NNP had/VBD most/JJS of/IN the/DT possession/NN in/IN the/DT second/JJ half/NN but/CC James/NNP kept/VBD out/RP Frank/NNP Lampard's/NNP free-kick/JJ and/CC superbly/RB tipped/VBD the/DT same/JJ player's/NNS volley/NN wide./NN
+City/NNP went/VBD into/IN the/DT game/NN with/IN the/DT proud/JJ record/NN of/IN being/VBG the/DT only/JJ domestic/JJ team/NN to/TO beat/VB Chelsea/NNP this/DT season./NN
+And/CC there/EX was/VBD little/JJ to/TO alarm/VB them/PRP in/IN the/DT first/JJ 30/CD minutes/NNS as/IN Chelsea/NNP -/: deprived/VBN of/IN Arjen/NNP Robben/NNP and/CC Didier/NNP Drogba/NNP through/IN injury/NN -/: struggled/VBD to/TO pose/VB much/JJ of/IN a/DT threat./NN
+Indeed/RB it/PRP was/VBD the/DT visitors/NNS who/WP looked/VBD likelier/NN to/TO enliven/VB a/DT drab/JJ opening/NN played/VBD at/IN a/DT lethargic/JJ pace./NN
+Shaun/NNP Wright-Phillips/NNP -/: watched/VBN by/IN England/NNP boss/NN Sven-Goran/NNP Eriksson/NNP -/: showed/VBD his/PRP$ customary/JJ trickery/NN to/TO burst/VB into/IN the/DT right/NN of/IN the/DT area/NN and/CC deliver/VB a/DT dangerous/JJ ball/NN which/WDT was/VBD blocked/VBN by/IN John/NNP Terry./NNP
+But/CC Chelsea/NNP suddenly/RB stepped/VBD up/RP a/DT gear/NN and/CC created/VBD a/DT flurry/NN of/IN chances./NN
+First/NNP Duff/NNP got/VBD round/NN Ben/NNP Thatcher/NNP and/CC blasted/VBD in/IN a/DT shot/NN that/IN James/NNP parried/VBD to/TO Kezman/NNP who/WP turned/VBD the/DT ball/NN wide./NN
+
+Soon/RB afterwards/RB Jarosik/NNP found/VBD space/NN in/IN the/DT area/NN to/TO powerfully/RB head/VB Lampard's/NNP corner/NN goalwards/NNS but/CC James/NNP tipped/VBD the/DT ball/NN over./NN
+Chelsea/NNP were/VBD now/RB looking/VBG more/JJR like/IN Premiership/NN leaders/NNS and/CC James/NNP kept/VBD out/RP Kezman's/NNP fierce/JJ drive/NN before/IN Bosvelt/NNP and/CC James/NNP combined/VBD to/TO clear/JJ Gallas'/NNP header/NN from/IN Duff's/NNP corner./NN
+City/NNP broke/VBD swiftly/RB up/IN the/DT field/NN and/CC the/DT last/JJ chance/NN of/IN a/DT frenetic/JJ spell/NN should/MD have/VB resulted/VBN in/IN Fowler/NNP celebrating/VBG his/PRP$ 150th/JJ Premiership/NN goal./NN
+Wright-Phillips/NNP raced/VBD down/RP the/DT left/NN and/CC crossed/VBN to/TO Fowler/NNP but/CC City's/NNP lone/JJ man/NN up/IN front/NN left/VBD free/JJ by/IN Terry's/NNP slip/NN contrived/JJ to/TO head/VB wide/JJ when/WRB it/PRP seemed/VBD a/DT breakthrough/NN was/VBD certain./NN
+The/DT second/JJ half/NN started/VBD as/RB quietly/RB as/IN the/DT first/JJ although/IN James/NNP was/VBD forced/VBN to/TO divert/VB a/DT cross/NN from/IN the/DT lively/JJ Duff/NNP away/RB from/IN Eidur/NNP Gudjohnsen's/NNP path./NN
+There/EX was/VBD a/DT nasty/JJ moment/NN for/IN Petr/NNP Cech/NNP looking/VBG for/IN a/DT ninth/JJ straight/JJ clean/JJ sheet/NN in/IN the/DT league/NN when/WRB a/DT series/NN of/IN ricochets/NNS saw/VBD Fowler/NNP chase/NN a/DT loose/JJ ball/NN in/IN the/DT area/NN and/CC collide/NN accidently/RB with/IN the/DT Czech/JJ Republic/NNP stopper./NN
+Another/DT quiet/JJ spell/NN followed/VBN which/WDT Duff/NNP interrupted/VBD with/IN a/DT surging/VBG run/NN that/WDT was/VBD halted/VBN illegally/RB on/IN the/DT edge/NN of/IN the/DT penalty/NN area/NN by/IN Bosvelt./NNP
+Lampard/NNP stepped/VBD up/IN to/TO blast/VB a/DT shot/NN through/IN the/DT wall/NN and/CC James/NNP somehow/RB blocked/VBD it/PRP with/IN his/PRP$ legs./NN
+Another/DT timely/JJ challenge/NN this/DT time/NN from/IN Richard/NNP Dunne/NNP in/IN time/NN added/VBD on/IN prevented/VBN Gudjohnsen/NNP from/IN getting/VBG in/IN a/DT shot./NN
+There/EX was/VBD still/RB time/NN for/IN James/NNP to/TO produce/VB a/DT sensational/JJ save/NN to/TO tip/VB Lampard's/NNP volley/NN round/NN the/DT post./NN
+
+Cech/NNP Paulo/NNP Ferreira/NNP Gallas/NNP Terry/NNP Bridge/NNP Jarosik/NNP (Tiago/NN 56)/CD Lampard/NNP Makelele/NNP Duff/NNP Gudjohnsen/NNP Kezman/NNP (Cole/NN 63)./CD
+
+Subs/NNP Not/RB Used/VBD Johnson/NNP Smertin/NNP Cudicini./NNP
+
+Makelele/NNP Gudjohnsen./NNP
+
+James/NNP Mills/NNP Distin/NNP Dunne/NNP Thatcher/NNP Shaun/NNP Wright-Phillips/NNP Bosvelt/NNP Barton/NNP Sibierski/NNP (McManaman/NN 85)/CD Musampa/NNP Fowler./NNP
+
+Subs/NNP Not/RB Used/VBD Macken/NNP Weaver/NNP Onuoha/NNP Jordan./NNP
+
+Bosvelt./NNP
+
+42093/CD
+
+H/NNP Webb/NNP (S/NN Yorkshire)./NNP

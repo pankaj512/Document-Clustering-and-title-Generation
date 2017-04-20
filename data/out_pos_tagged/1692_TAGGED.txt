@@ -1,0 +1,26 @@
+Ireland/NNP call/VB up/RP uncapped/VBN Campbell/NNP
+
+Ulster/NNP scrum-half/JJ Kieran/NNP Campbell/NNP is/VBZ one/CD of/IN five/CD uncapped/VBN players/NNS included/VBN in/IN Ireland's/NNP RBS/NNP Six/CD Nations/NNPS squad./NN
+
+Campbell/NNP is/VBZ joined/VBN by/IN Ulster/NNP colleagues/NNS Roger/NNP Wilson/NNP and/CC Ronan/NNP McCormack/NNP along/IN with/IN Connacht's/NNP Bernard/NNP Jackman/NNP and/CC Munster's/NNP Shaun/NNP Payne./NNP
+Gordon/NNP D'Arcy/NNP is/VBZ back/RB after/IN injury/NN while/IN Munster/NNP flanker/NN Alan/NNP Quinlan/NNP also/RB returns/VBZ to/TO international/JJ consideration./NN
+"The/NN squad/NN is/VBZ selected/VBN purely/RB on/IN form./NN
+A/DT lot/NN of/IN players/NNS put/VBP their/PRP$ hands/NNS up"/NN coach/NN Eddie/NNP O'Sullivan/NNP told/VBD BBC/NNP Sport./NNP
+"Kieran/NNP Campbell/NNP was/VBD just/RB one/CD of/IN those/DT players./NN
+He/PRP has/VBZ been/VBN playing/VBG very/RB well/RB in/IN the/DT Heineken/NNP Cup/NNP and/CC deserves/VBZ his/PRP$ call-up./JJ
+"There/NN is/VBZ big/JJ competition/NN in/IN some/DT departments/NNS and/CC not/RB so/RB much/JJ in/IN others./NN
+There/EX were/VBD one/CD or/CC two/CD players/NNS who/WP were/VBD unfortunate/JJ just/RB to/TO miss/VB out."/NN Back-row/NNP forwards/RB David/NNP Wallace/NNP and/CC Victor/NNP Costello/NNP are/VBP omitted/VBN with/IN O'Sullivan/NNP having/VBG Quinlan/NNP Wilson/NNP Simon/NNP Easterby/NNP Anthony/NNP Foley/NNP Denis/NNP Leamy/NNP and/CC Johnny/NNP O'Connor/NNP vying/VBG for/IN the/DT three/CD positions./NN
+
+With/IN David/NNP Humphreys/NNP Kevin/NNP Maggs/NNP Simon/NNP Best/JJS and/CC Tommy/NNP Bowe/NNP again/RB included/VBD it/PRP is/VBZ Ulster's/NNP biggest/JJS representation/NN in/IN a/DT training/NN panel/NN for/IN quite/RB some/DT time./NN
+Munster/NNP and/CC Leinster/NNP have/VBP 12/CD and/CC 11/CD players/NNS in/IN the/DT squad/NN respectively/RB while/IN Jackman/NNP is/VBZ the/DT sole/JJ Connacht/NNP representative./NN
+Four/CD British-based/JJ players/NNS are/VBP also/RB included./NN
+Ulster/NNP forward/RB Ronan/NNP McCormack/NNP said/VBD he/PRP was/VBD "totally/RB shocked"/NN to/TO be/VB included./NN
+"I'm/NN really/RB looking/VBG forward/RB to/TO it"/VB said/VBD McCormack./NNP
+"I/NN played/VBD with/IN guys/NNS like/IN Brian/NNP O'Driscoll/NNP and/CC Denis/NNP Hickie/NNP back/RB in/IN my/PRP$ school/NN days/NNS in/IN Leinster/NNP so/IN I/PRP do/VBP know/VB a/DT few/JJ of/IN them/PRP although/IN not/RB that/DT well./NN
+"It/NN will/MD be/VB great/JJ to/TO work/VB with/IN them."/NN
+
+S/NNP Best/JJS (Ulster)/NN S/NNP Byrne/NNP (Leinster)/NN R/NN Corrigan/NNP (Leinster)/NN L/NNP Cullen/NNP (Leinster)/NN S/NNP Easterby/NNP (Llanelli)/NN A/DT Foley/NNP (Munster)/NN J/NNP Hayes/NNP (Munster)/NN M/NNP Horan/NNP (Munster)/NN B/NNP Jackman/NNP (Connacht)/NN D/NNP Leamy/NNP (Munster)/NN E/NN Miller/NNP (Leinster)/NN R/NN McCormack/NNP (Ulster)/NN D/NNP O'Callaghan/NNP (Munster)/NN P/NNP O'Connell/NNP (Munster)/NN J/NNP O'Connor/NNP (Wasps)/NN M/NNP O'Kelly/NNP (Leinster)/NN F/NN Sheahan/NNP (Munster)/NN R/NN Wilson/NNP (Ulster)/NN A/DT Quinlan/NNP (Munster)./NN
+
+T/NNP Bowe/NNP (Ulster)/NN K/NNP Campbell/NNP (Ulster)/NN G/NNP D'Arcy/NNP (Ulster)/NN G/NNP Dempsey/NNP (Leinster)/NN G/NNP Duffy/NNP (Harlequins)/NN G/NNP Easterby/NNP (Leinster)/NN D/NNP Hickie/NNP (Leinster)/NN A/DT Horgan/NNP (Munster)/NN S/NNP Horgan/NNP (Leinster)/NN D/NNP Humphreys/NNP (Ulster)/NN K/NNP Maggs/NNP (Ulster)/NN G/NNP Murphy/NNP (Leicester)/NN B/NNP O'Driscoll/NNP (Leinster)/NN R/NN O'Gara/NNP (Munster)/NN S/NNP Payne/NNP (Munster)/NN P/NNP Stringer/NNP (Munster)./NN
+
+K/NNP Gleeson/NNP (Leinster)/NN T/NNP Howe/NNP (Ulster)/NN J/NNP Kelly/NNP (Munster)/NN N/NNP McMillan/NNP (Ulster)./NN

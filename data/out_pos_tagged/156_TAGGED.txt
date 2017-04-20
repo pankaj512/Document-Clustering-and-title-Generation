@@ -1,0 +1,17 @@
+Industrial/NNP revival/NN hope/NN for/IN Japan/NNP
+
+Japanese/JJ industry/NN is/VBZ growing/VBG faster/RBR than/IN expected/VBN boosting/VBG hopes/NNS that/IN the/DT country's/NNS retreat/NN back/RB into/IN recession/NN is/VBZ over./NN
+
+Industrial/NNP output/NN rose/VBD 2.1%/CD -/: adjusted/VBN for/IN the/DT time/NN of/IN year/NN -/: in/IN January/NNP from/IN a/DT month/NN earlier./NN
+At/IN the/DT same/JJ time/NN retail/JJ sales/NNS picked/VBD up/RP faster/RBR than/IN at/IN any/DT time/NN since/IN 1997./CD
+The/DT news/NN sent/VBD Tokyo/NNP shares/NNS to/TO an/DT eight-month/JJ high/NN as/IN investors/NNS hoped/VBN for/IN a/DT recovery/NN from/IN the/DT three/CD quarters/NNS of/IN contraction/NN seen/VBN from/IN April/NNP 2004/CD on./NN
+The/DT Nikkei/NNP 225/CD index/NN ended/VBD the/DT day/NN up/RB 0.7%/CD at/IN 11740.60/CD points/NNS with/IN the/DT yen/NN strengthening/VBG 0.7%/CD against/IN the/DT dollar/NN to/TO 104.53/CD yen./NN
+Weaker/JJR exports/NNS normally/RB the/DT engine/NN for/IN Japan's/NNP economy/NN in/IN the/DT face/NN of/IN weak/JJ domestic/JJ demand/NN had/VBD helped/VBN trigger/NN a/DT 0.1%/CD contraction/NN in/IN the/DT final/JJ three/CD months/NNS of/IN last/JJ year/NN after/IN two/CD previous/JJ quarters/NNS of/IN shrinking/VBG GDP./NNP
+Only/RB an/DT exceptionally/RB strong/JJ performance/NN in/IN the/DT early/JJ months/NNS of/IN 2004/CD kept/VBD the/DT year/NN as/IN a/DT whole/NN from/IN showing/VBG a/DT decline./NN
+The/DT output/NN figures/NNS brought/VBD a/DT cautiously/RB optimistic/JJ response/NN from/IN economic/JJ officials./NN
+"Overall/NN I/PRP see/VBP a/DT low/JJ risk/NN of/IN the/DT economy/NN falling/VBG into/IN serious/JJ recession"/NN said/VBD Bank/NNP of/IN Japan/NNP chief/NN Toshihiko/NNP Fukui/NNP despite/IN warning/VBG that/IN other/JJ indicators/NNS -/: such/JJ as/IN the/DT growth/NN numbers/NNS -/: had/VBD been/VBN worrying./NN
+
+Within/IN the/DT overall/JJ industrial/JJ output/NN figure/NN there/EX were/VBD signs/NNS of/IN a/DT pullback/NN from/IN the/DT export/NN slowdown./NN
+Among/IN the/DT best-performing/JJS sectors/NNS were/VBD key/JJ overseas/JJ sales/NNS areas/NNS such/JJ as/IN cars/NNS chemicals/NNS and/CC electronic/JJ goods./NN
+With/IN US/PRP growth/VBP doing/VBG better/JJR than/IN expected/VBN the/DT picture/NN for/IN exports/NNS in/IN early/JJ 2005/CD could/MD also/RB be/VB one/CD of/IN sustained/VBN demand./NN
+Electronics/NNP were/VBD also/RB one/CD of/IN the/DT keys/NNS to/TO the/DT improved/VBN domestic/JJ market/NN with/IN products/NNS such/JJ as/IN flat-screen/JJ TVs/NNS in/IN high/JJ demand/NN during/IN January./NNP

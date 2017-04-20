@@ -1,0 +1,16 @@
+How/WRB to/TO smash/VB a/DT home/NN computer/NN
+
+An/DT executive/NN who/WP froze/VBD his/PRP$ broken/VBN hard/JJ disk/NN thinking/VBG it/PRP would/MD be/VB fixed/VBN has/VBZ topped/VBN a/DT list/NN of/IN the/DT weirdest/JJ computer/NN mishaps./NN
+
+Although/IN computer/NN malfunctions/NNS remain/VBP the/DT most/RBS common/JJ cause/NN of/IN file/NN loss/NN data/NNS recovery/NN experts/NNS say/VBP human/JJ behaviour/NN still/RB is/VBZ to/TO blame/VB in/IN many/JJ cases./NN
+They/PRP say/VBP that/IN no/DT matter/NN how/WRB effective/JJ technology/NN is/VBZ at/IN rescuing/VBG files/NNS users/NNS should/MD take/VB more/JJR time/NN to/TO back-up/JJ and/CC protect/VB important/JJ files./NN
+The/DT list/NN of/IN the/DT top/JJ 10/CD global/JJ data/NNS disasters/NNS was/VBD compiled/VBN by/IN recovery/NN company/NN Ontrack./NNP
+
+Careless/JJ -/: and/CC preventable/JJ -/: mistakes/NNS that/DT result/NN in/IN data/NNS loss/NN range/VBP from/IN reckless/JJ file/NN maintenance/NN practices/NNS to/TO episodes/NNS of/IN pure/JJ rage/NN towards/IN a/DT computer./NN
+This/DT last/JJ category/NN includes/VBZ the/DT case/NN of/IN a/DT man/NN who/WP became/VBD so/RB mad/JJ with/IN his/PRP$ malfunctioning/VBG laptop/NN that/IN he/PRP threw/VBD it/PRP in/IN the/DT lavatory/NN and/CC flushed/VBD a/DT couple/NN of/IN times./NN
+"Data/NN can/MD disappear/VB as/IN a/DT result/NN of/IN natural/JJ disaster/NN system/NN fault/NN or/CC computer/NN virus/NN but/CC human/JJ error/NN including/VBG 'computer/NN rage'/NN seems/VBZ to/TO be/VB a/DT growing/VBG problem"/NN said/VBD Adrian/NNP Palmer/NNP managing/VBG director/NN of/IN Ontrack/NNP Data/NNP Recovery./NNP
+
+"Nevertheless/NN victims/NNS soon/RB calm/JJ down/RP when/WRB they/PRP realise/VBP the/DT damage/NN they've/NN done/VBN and/CC come/VB to/TO us/PRP with/IN pleas/NNS for/IN help/NN to/TO retrieve/VB their/PRP$ valuable/JJ information."/NN A/DT far/RB more/RBR common/JJ situation/NN is/VBZ when/WRB a/DT computer/NN virus/NN strikes/NNS and/CC leads/VBZ to/TO precious/JJ files/NNS being/VBG corrupted/VBN or/CC deleted/VBN entirely./NN
+Mr/NNP Palmer/NNP recalled/VBD the/DT case/NN of/IN a/DT couple/NN who/WP had/VBD hundreds/NNS of/IN pictures/NNS of/IN their/PRP$ baby's/NNS first/RB three/CD months/NNS on/IN their/PRP$ computer/NN but/CC managed/VBN to/TO reformat/VB the/DT hard/JJ drive/NN and/CC erase/VB all/PDT the/DT precious/JJ memories./NN
+"Data/NN can/MD be/VB recovered/VBN from/IN computers/NNS servers/NNS and/CC even/RB memory/NN cards/NNS used/VBN in/IN digital/JJ devices/NNS in/IN most/JJS cases"/NN said/VBD Mr/NNP Palmer./NNP
+"However/NN individuals/NNS and/CC companies/NNS can/MD avoid/VB the/DT hassle/NN and/CC stress/VB this/DT can/MD cause/VB by/IN backing/VBG up/RP data/NNS on/IN a/DT regular/JJ basis."/NN

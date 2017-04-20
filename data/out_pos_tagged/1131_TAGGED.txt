@@ -1,0 +1,11 @@
+Lib/NNP Dems'/NNP new/JJ election/NN PR/NNP chief/NN
+
+The/DT Lib/NNP Dems/NNP have/VBP appointed/VBN a/DT senior/JJ figure/NN from/IN BT/NNP to/TO be/VB the/DT party's/VBZ new/JJ communications/NNS chief/NN for/IN their/PRP$ next/JJ general/JJ election/NN effort./NN
+
+Sandy/NNP Walkington/NNP will/MD now/RB work/VB with/IN senior/JJ figures/NNS such/JJ as/IN Matthew/NNP Taylor/NNP on/IN completing/VBG the/DT party/NN manifesto./NN
+Party/NNP chief/NN executive/NN Lord/NNP Rennard/NNP said/VBD the/DT appointment/NN was/VBD a/DT "significant/NN strengthening/NN of/IN the/DT Lib/NNP Dem/NNP team"./NN
+Mr/NNP Walkington/NNP said/VBD he/PRP wanted/VBD the/DT party/NN to/TO be/VB ready/JJ for/IN any/DT "mischief"/NN rivals/NNS or/CC the/DT media/NNS tried/VBD to/TO throw/VB at/RP it./NN
+
+"My/NN role/NN will/MD be/VB to/TO ensure/VB this/DT new/JJ public/JJ profile/NN is/VBZ effectively/RB communicated/VBN at/IN all/DT levels"/NN he/PRP said./VB
+"I/NN also/RB know/VB the/DT party/NN will/MD be/VB put/VBN under/IN scrutiny/NN in/IN the/DT media/NNS and/CC from/IN the/DT other/JJ parties/NNS as/RB never/RB before/IN -/: and/CC we/PRP will/MD need/VB to/TO show/VB ourselves/PRP ready/JJ and/CC prepared/VBN to/TO counter/VB the/DT mischief/NN and/CC misrepresentation/NN that/IN all/DT too/RB often/RB comes/VBZ from/IN the/DT party's/NNS opponents./NN
+"The/NN party/NN is/VBZ already/RB demonstrating/VBG on/IN every/DT issue/NN that/IN it/PRP is/VBZ the/DT effective/JJ opposition."/NN Mr/NNP Walkington's/NNP new/JJ job/NN title/NN is/VBZ director/NN of/IN general/JJ election/NN communications./NN

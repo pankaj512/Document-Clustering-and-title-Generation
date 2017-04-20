@@ -1,0 +1,20 @@
+Fast/RB moving/VBG phone/NN viruses/NNS appear/VBP
+
+Security/NN firms/NNS are/VBP warning/NN about/IN several/JJ mobile/JJ phone/NN viruses/NNS that/WDT can/MD spread/VB much/JJ faster/RBR than/IN similar/JJ bugs./NN
+
+The/DT new/JJ strains/NNS of/IN the/DT Cabir/NNP mobile/JJ phone/NN virus/NN use/NN short-range/JJ radio/NN technology/NN to/TO leap/VB to/TO any/DT vulnerable/JJ phone/NN as/RB soon/RB as/IN it/PRP is/VBZ in/IN range./NN
+The/DT Cabir/NNP virus/NN only/RB affects/VBZ high-end/JJ handsets/NNS running/VBG the/DT Symbian/NNP Series/NNP 60/CD phone/NN operating/NN system./NN
+Despite/IN the/DT warnings/NNS there/RB are/VBP so/RB far/RB no/DT reports/NNS of/IN any/DT phones/NNS being/VBG infected/JJ by/IN the/DT new/JJ variants/NNS of/IN Cabir./NNP
+
+The/DT original/JJ Cabir/NNP worm/NN came/VBD to/TO light/JJ in/IN mid-June/NNP 2004/CD when/WRB it/PRP was/VBD sent/VBN to/TO anti-virus/JJ firms/NNS as/IN a/DT proof-of-concept/JJ program./NN
+A/DT mistake/NN in/IN the/DT way/NN the/DT original/JJ Cabir/NNP was/VBD written/VBN meant/VBN that/IN even/RB if/IN it/PRP escaped/VBD from/IN the/DT laboratory/NN the/DT bug/NN would/MD only/RB have/VB been/VBN able/JJ to/TO infect/VB one/CD phone/NN at/IN a/DT time./NN
+
+However/RB the/DT new/JJ Cabir/NNP strains/NNS have/VBP this/DT mistake/NN corrected/VBN and/CC will/MD spread/VB via/IN short/JJ range/NN Bluetooth/NNP technology/NN to/TO any/DT vulnerable/JJ phone/NN in/IN range./NN
+Bluetooth/NNP has/VBZ an/DT effective/JJ range/NN of/IN a/DT few/JJ tens/NNS of/IN metres./NN
+The/DT risk/NN of/IN being/VBG infected/JJ by/IN Cabir/NNP is/VBZ low/JJ because/IN users/NNS must/MD give/VB the/DT malicious/JJ program/NN permission/NN to/TO download/VB on/RP to/TO their/PRP$ handset/NN and/CC then/RB must/MD manually/RB install/VB it./NN
+Users/NNS can/MD protect/VB themselves/PRP by/IN altering/VBG a/DT setting/NN on/IN Symbian/NNP phones/NNS that/WDT conceals/VBZ the/DT handset/NN from/IN other/JJ Bluetooth/NNP using/VBG devices./NN
+Finnish/JJ security/NN firm/NN F-Secure/NNP issued/VBD a/DT warning/NN about/IN the/DT new/JJ strains/NNS of/IN Cabir/NNP but/CC said/VBD that/IN the/DT viruses/NNS do/VBP not/RB do/VB any/DT damage/NN to/TO a/DT phone./NN
+All/DT they/PRP do/VBP is/VBZ block/VB normal/JJ Bluetooth/NNP activity/NN and/CC drain/VB the/DT phone's/NNS battery./NN
+Anti-virus/NNP firm/NN Sophos/NNP said/VBD the/DT source/NN code/NN for/IN Cabir/NNP had/VBD been/VBN posted/VBN on/IN the/DT net/JJ by/IN a/DT Brazilian/JJ programmer/NN which/WDT might/MD lead/VB to/TO even/RB more/JJR variants/NNS of/IN the/DT program/NN being/VBG created./NN
+So/RB far/RB seven/CD versions/NNS of/IN Cabir/NNP are/VBP know/VBN to/TO exist/VB one/CD of/IN which/WDT was/VBD inside/IN the/DT malicious/JJ Skulls/NNP program/NN that/WDT was/VBD found/VBN in/IN late/JJ November./NNP
+Symbian's/NNP Series/NNP 60/CD software/NN is/VBZ licenced/VBN by/IN Nokia/NNP LG/NNP Electronics/NNP Lenovo/NNP Panasonic/NNP Samsung/NNP Sendo/NNP and/CC Siemens./NNP

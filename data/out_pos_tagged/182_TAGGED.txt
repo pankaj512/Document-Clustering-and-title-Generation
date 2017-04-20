@@ -1,0 +1,15 @@
+Weak/JJ data/NNS buffets/NNS French/JJ economy/NN
+
+A/DT batch/NN of/IN downbeat/JJ government/NN data/NNS has/VBZ cast/NN doubt/NN over/IN the/DT French/JJ economy's/NNS future/JJ prospects./NN
+
+Official/JJ figures/NNS showed/VBD on/IN Friday/NNP that/WDT unemployment/NN was/VBD unchanged/JJ at/IN 9.9%/CD last/JJ month/NN while/IN consumer/NN confidence/NN fell/VBD unexpectedly/RB in/IN October./NNP
+At/IN the/DT same/JJ time/NN finance/NN minister/NN Nicolas/NNP Sarkozy/NNP warned/VBD that/IN high/JJ oil/NN prices/NNS posed/VBD a/DT threat/NN to/TO French/JJ growth./NN
+"[Oil/NN prices]/NN will/MD weigh/VB on/IN consumer/NN spending/NN in/IN the/DT short/JJ term/NN and/CC potentially/RB on/IN confidence"/NN he/PRP said./VB
+World/NNP oil/NN prices/NNS have/VBP risen/VBN by/IN more/JJR than/IN 60%/CD since/IN the/DT start/NN of/IN the/DT year/NN as/IN production/NN struggles/VBZ to/TO keep/VB pace/NN with/IN soaring/VBG demand./NN
+
+Analysts/NNS said/VBD French/JJ companies/NNS keen/JJ to/TO protect/VB their/PRP$ profit/NN margins/NNS at/IN a/DT time/NN of/IN rising/VBG energy/NN costs/NNS were/VBD reluctant/JJ to/TO take/VB on/RP extra/JJ staff./NN
+"[The/NN unemployment/NN figures]/NN show/NN the/DT main/JJ problem/NN of/IN the/DT French/JJ economy/NN we/PRP have/VBP growth/NN but/CC without/IN an/DT improvement/NN in/IN employment"/NN said/VBD Marc/NNP Touati/NNP an/DT economist/NN at/IN Natexis/NNP Banques/NNP Populaires./NNP
+"Politicians/NN must/MD have/VB the/DT will/NN and/CC guts/NNS to/TO solve/VB structural/JJ unemployment/NN with/IN thorough/JJ reforms/NNS otherwise/RB in/IN five/CD or/CC ten/NN years/NNS it/PRP will/MD be/VB too/RB late."/NN Obligatory/JJ employer/NN contributions/NNS to/TO worker/VB welfare/NN programmes/NNS mean/VBP that/IN it/PRP costs/VBZ more/JJR to/TO hire/VB staff/NN in/IN France/NNP than/IN in/IN many/JJ other/JJ European/JJ economies./NN
+Many/JJ economists/NNS have/VBP urged/VBN the/DT government/NN to/TO stimulate/VB employment/NN by/IN reducing/VBG non-wage/JJ payroll/NN costs/NNS and/CC by/IN scrapping/VBG restrictions/NNS on/IN working/VBG hours./NN
+The/DT French/JJ statistics/NNS agency/NN INSEE/NNP expects/VBZ the/DT economy/NN to/TO grow/VB by/IN about/IN 2.4%/CD this/DT year/NN buoyed/VBN by/IN strong/JJ consumer/NN spending/NN and/CC business/NN investment./NN
+That/DT is/VBZ above/IN the/DT projected/VBN eurozone/NN average/NN of/IN just/RB above/IN 2%./CD

@@ -1,0 +1,13 @@
+Boogeyman/NNP takes/VBZ box/NN office/NN lead/NN
+
+The/DT low-budget/JJ horror/NN film/NN Boogeyman/NNP has/VBZ knocked/VBN Robert/NNP de/NNP Niro/NNP thriller/NN Hide/VBP and/CC Seek/VBP from/IN the/DT top/JJ spot/NN at/IN the/DT UK/NNP box/NN office./NN
+
+The/DT film/NN in/IN which/WDT a/DT young/JJ man/NN is/VBZ forced/VBN to/TO revisit/VB a/DT traumatic/JJ childhood/NN experience/NN took/VBD £788439/CD in/IN its/PRP$ first/JJ three/CD days/NNS on/IN release./NN
+Hide/VB And/CC Seek/VBP which/WDT was/VBD knocked/VBN off/RP the/DT top/NN of/IN the/DT US/PRP box/VBP office/NN by/IN Boogeyman/NNP last/JJ month/NN fell/VBD one/CD place./NN
+Oscar/NNP nominee/NN Hotel/NNP Rwanda/NNP was/VBD also/RB a/DT new/JJ entry/NN in/IN the/DT chart/NN at/IN number/NN five./NN
+The/DT film/NN which/WDT scored/VBD Oscar/NNP nominations/NNS for/IN Don/NNP Cheadle/NNP and/CC British/JJ actress/NN Sophie/NNP Okonedo/NNP made/VBD £507/CD 596/CD in/IN its/PRP$ first/JJ week/NN of/IN nationwide/JJ release./NN
+
+Comedy/NNP sequel/NN Meet/NN The/DT Fockers/NNP and/CC Shall/MD We/PRP Dance?/NNP starring/VBG Jennifer/NNP Lopez/NNP and/CC Richard/NNP Gere/NNP completed/VBD the/DT top/JJ five./NN
+Clint/NNP Eastwood's/NNP Million/CD Dollar/NN Baby/NNP re-entered/VBD the/DT charts/NNS at/IN number/NN eight/CD following/VBG its/PRP$ recent/JJ success/NN at/IN the/DT Oscars./NNP
+The/DT boxing/VBG drama/NN which/WDT won/VBD four/CD awards/NNS including/VBG best/JJS film/NN and/CC best/JJS director/NN has/VBZ made/VBN £4.4m/CD to/TO date./VB
+Two/CD other/JJ new/JJ entries/NNS a/DT remake/NN of/IN the/DT 1965/CD film/NN Flight/NNP of/IN the/DT Phoenix/NNP and/CC the/DT teen/JJ comedy/NN Harold/NNP and/CC Kumar/NNP Get/VBP The/DT Munchies/NNP debuted/VBD outside/IN the/DT top/JJ 10./CD

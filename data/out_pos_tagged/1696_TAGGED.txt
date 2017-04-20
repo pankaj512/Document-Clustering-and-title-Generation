@@ -1,0 +1,32 @@
+Dawson/NNP wins/VBZ England/NNP squad/NN recall/NN
+
+Wasps/NNP scrum-half/JJ Matt/NNP Dawson/NNP has/VBZ been/VBN recalled/VBN to/TO England's/NNP training/NN squad/NN ahead/RB of/IN the/DT RBS/NNP Six/CD Nations/NNPS and/CC been/VBN reinstated/VBN in/IN the/DT Elite/NN Player/NNP Squad./NNP
+
+Coach/VB Andy/NNP Robinson/NNP dropped/VBD Dawson/NNP for/IN the/DT autumn/NN Tests/NNS after/IN he/PRP missed/VBD training/NN to/TO film/VB 'A/NN Question/NN of/IN Sport.'/NNP "I/NN always/RB said/VBD I/PRP would/MD consider/VB bringing/VBG Matt/NNP back/RB if/IN I/PRP felt/VBD he/PRP was/VBD playing/VBG well"/NN Robinson/NNP said./NN
+"He/NN merits/VBZ his/PRP$ return/NN on/IN current/JJ form."/NN Newcastle's/NNP 18-year-old/JJ centre/NN Mathew/NNP Tait/NNP is/VBZ also/RB in/IN the/DT training/NN squad./NN
+"It's/NN obviously/RB an/DT honour/NN to/TO be/VB asked/VBN to/TO train/VB with/IN England"/NNP said/VBD Tait/NNP who/WP has/VBZ burst/NN into/IN contention/NN recently./NN
+"I/NN look/NN forward/RB to/TO going/VBG down/RP and/CC doing/VBG the/DT sessions/NNS but/CC the/DT most/RBS important/JJ thing/NN at/IN the/DT moment/NN is/VBZ Sunday's/NNP game/NN against/IN Newport/NNP so/RB I'm/NNP not/RB looking/VBG any/DT further/JJ than/IN that."/NN Robinson/NNP has/VBZ invited/VBN 42/CD players/NNS to/TO attend/VB a/DT three-day/JJ session/NN in/IN Leeds/NNP next/JJ week/NN in/IN which/WDT his/PRP$ squad/NN will/MD train/VB in/IN part/NN with/IN the/DT Leeds/NNP Rhinos/NNP rugby/NN league/NN squad./NN
+
+With/IN Mike/NNP Tindall/NNP ruled/VBD out/IN of/IN the/DT opening/NN two/CD matches/VBZ and/CC Will/MD Greenwood/NNP sidelined/VBD for/IN the/DT entire/JJ Six/CD Nations/NNPS Tait/NNP is/VBZ one/CD of/IN six/CD or/CC seven/CD contenders/NNS for/IN the/DT two/CD centre/NN berths./NN
+Stuart/NNP Abbott/NNP Jamie/NNP Noon/NN Ollie/NNP Smith/NNP Olly/NNP Barkley/NNP and/CC Henry/NNP Paul/NNP -/: who/WP retains/VBZ his/PRP$ place/NN despite/IN his/PRP$ early/JJ substitution/NN against/IN Australia/NNP -/: are/VBP also/RB in/IN the/DT mix./NN
+Ben/NNP Cohen/NNP could/MD also/RB be/VB considered/VBN after/IN switching/VBG from/IN the/DT wing/NN for/IN his/PRP$ club/NN Northampton/NNP recently./NN
+Prop/VB Phil/NNP Vickery/NNP and/CC lock/VB Simon/NNP Shaw/NNP both/DT return/NN to/TO the/DT squad/NN after/IN missing/VBG the/DT autumn/NN Tests/NNS through/IN injury/NN while/IN Wasps/NNP wing/NN Tom/NNP Voyce/NNP is/VBZ recalled./NN
+The/DT group/NN also/RB includes/VBZ Bath/NN flanker/NN Andy/NNP Beattie/NNP and/CC Leicester/NNP hooker/NN George/NNP Chuter./NNP
+"Beattie/NN has/VBZ matured/VBN greatly/RB as/IN a/DT player/NN these/DT past/JJ two/CD seasons"/NN Robinson/NNP said./NN
+Jonny/NNP Wilkinson/NNP Tindall/NNP and/CC Martin/NNP Corry/NNP have/VBP all/DT been/VBN included/VBN despite/IN their/PRP$ unavailability/NN for/IN the/DT opening/NN two/CD matches/VBZ against/IN Wales/NNP and/CC France./NNP
+
+The/DT revised/VBN 56-man/JJ elite/NN squad/NN includes/VBZ Wasps/NNP hooker/NN Phil/NNP Greening/NN who/WP replaces/VBZ the/DT retired/VBN Mark/NNP Regan/NNP and/CC Sale/NNP wing/NN Mark/NNP Cueto./NNP
+Cueto/NNP was/VBD selected/VBN for/IN the/DT November/NNP internationals/NNS despite/IN not/RB being/VBG part/NN of/IN the/DT group/NN but/CC scored/VBD four/CD tries/VBZ in/IN three/CD England/NNP appearances./NN
+Leicester/NNP scrum-half/JJ Harry/NNP Ellis/NNP has/VBZ also/RB been/VBN promoted/VBN from/IN the/DT senior/JJ national/JJ academy/NN and/CC will/MD contest/VB the/DT number/NN nine/CD jersey/NN with/IN Dawson/NNP and/CC Gloucester's/NNP Andy/NNP Gomarsall./NNP
+The/DT players/NNS in/IN Robinson's/NNP elite/NN squad/NN can/MD only/RB play/VB 32/CD matches/VBZ for/IN club/NN and/CC country./NN
+They/PRP can/MD be/VB called/VBN up/RP for/IN a/DT total/NN of/IN 16/CD training/NN days/NNS in/IN addition/NN to/TO the/DT recognised/VBN international/JJ weeks/NNS for/IN each/DT of/IN the/DT years/NNS leading/VBG up/IN to/TO the/DT next/JJ World/NNP Cup./NNP
+
+Balshaw/NNP Cohen/NNP Cueto/NNP Lewsey/NNP Robinson/NNP Simpson-Daniel/NNP Voyce/NNP Abbott/NNP Noon/NN Paul/NNP Smith/NNP Tait/NNP Tindall/NNP Barkley/NNP Hodgson/NNP King/NNP Wilkinson/NNP Dawson/NNP Ellis/NNP Gomarsall./NNP
+
+Chuter/NNP Thompson/NNP Titterrell/NNP Rowntree/NNP Sheridan/NNP Stevens/NNP Vickery/NNP White/NNP Borthwick/NNP Brown/NNP L/NNP Deacon/NNP Grewcock/NNP Kay/NNP Shaw/NNP Beattie/NNP Corry/NNP Forrester/NNP Hazell/NNP Jones/NNP Moody/NNP Vyvyan/NNP J/NNP Worsley./NNP
+
+Abbott/NNP Balshaw/NNP Borthwick/NNP A/NNP Brown/NNP Chuter/NNP Cohen/NNP Corry/NNP Cueto/NNP Dawson/NNP Ellis/NNP Flatman/NNP Gomarsall/NNP Greening/NN Greenwood/NNP Grewcock/NNP Hazell/NNP Hill/NNP Hodgson/NNP Kay/NNP King/NNP Lewsey/NNP Moody/NNP Noon/NN Paul/NNP Robinson/NNP Rowntree/NNP Shaw/NNP Simpson-Daniel/NNP Thompson/NNP Tindall/NNP Titterrell/NNP Vickery/NNP Vyvyan/NNP White/NNP Wilkinson/NNP J/NNP Worsley/NNP M/NNP Worsley./NNP
+
+Barkley/NNP Beattie/NNP Christophers/NNP L/NNP Deacon/NNP Forrester/NNP C/NNP Jones/NNP Palmer/NNP Rees/NNP Sheridan/NNP Skinner/NNP Smith/NNP Stevens/NNP Tait/NNP Voyce./NNP
+
+Dowson/NNP Haughton/NNP Monye/NNP Roques/NNP P/NNP Sanderson./NNP

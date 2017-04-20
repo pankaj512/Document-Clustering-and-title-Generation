@@ -1,0 +1,12 @@
+Jack/NNP Cunningham/NNP to/TO stand/VB down/RB
+
+Veteran/NNP Labour/NNP MP/NNP and/CC former/JJ Cabinet/NNP minister/NN Jack/NNP Cunningham/NNP has/VBZ said/VBN he/PRP will/MD stand/VB down/RB at/IN the/DT next/JJ election./NN
+
+One/CD of/IN the/DT few/JJ Blair-era/NNP ministers/NNS to/TO serve/VB under/IN Jim/NNP Callaghan/NNP he/PRP was/VBD given/VBN the/DT agriculture/NN portfolio/NN when/WRB Labour/NNP regained/VBD power/NN in/IN 1997./CD
+Mr/NNP Cunningham/NNP went/VBD on/RP to/TO become/VB Tony/NNP Blair's/NNP "cabinet/NN enforcer"./NN
+He/PRP has/VBZ represented/VBN the/DT constituency/NN now/RB known/VBD as/IN Copeland/NNP since/IN 1970./CD
+Mr/NNP Blair/NNP said/VBD he/PRP was/VBD a/DT "huge/NN figure"/NN in/IN Labour/NNP and/CC a/DT "valued/VBN personal/JJ friend"./NN
+
+During/IN Labour's/NNP long/JJ period/NN in/IN opposition/NN Mr/NNP Cunningham/NNP held/VBD a/DT number/NN of/IN shadow/NN roles/NNS including/VBG foreign/JJ affairs/NNS the/DT environment/NN and/CC as/IN trade/NN spokesman./NN
+As/IN agriculture/NN minister/NN he/PRP caused/VBD controversy/NN when/WRB he/PRP decided/VBD to/TO ban/VB beef/NN on/IN the/DT bone/NN in/IN the/DT wake/NN of/IN fears/NNS over/IN BSE./NNP
+He/PRP quit/VBD the/DT government/NN in/IN 1999/CD and/CC in/IN recent/JJ years/NNS has/VBZ served/VBN as/IN the/DT chairman/NN of/IN the/DT all-party/JJ committee/NN on/IN Lords/NNPS reform/NN and/CC has/VBZ been/VBN a/DT loyal/JJ supporter/NN of/IN the/DT government/NN from/IN the/DT backbenches./NN

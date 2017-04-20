@@ -1,0 +1,12 @@
+Tsunami/NN debt/NN deal/NN to/TO be/VB announced/VBN
+
+Chancellor/NNP Gordon/NNP Brown/NNP has/VBZ said/VBN he/PRP hopes/VBZ to/TO announce/VB a/DT deal/NN to/TO suspend/VB debt/NN interest/NN repayments/NNS by/IN tsunami-hit/JJ nations/NNS later/RB on/IN Friday./NNP
+
+The/DT agreement/NN by/IN the/DT G8/CD group/NN of/IN wealthy/JJ nations/NNS would/MD save/VB affected/JJ countries/NNS £3bn/CD pounds/NNS a/DT year/NN he/PRP said./VB
+The/DT deal/NN is/VBZ thought/VBN to/TO have/VB been/VBN hammered/VBN out/RP on/IN Thursday/NNP night/NN after/IN Japan/NNP one/CD of/IN the/DT biggest/JJS creditor/NN nations/NNS finally/RB signed/VBD up/IN to/TO it./VB
+Mr/NNP Brown/NNP first/RB proposed/VBD the/DT idea/NN earlier/RBR this/DT week./NN
+
+G8/CD ministers/NNS are/VBP also/RB believed/VBN to/TO have/VB agreed/VBN to/TO instruct/VB the/DT World/NNP Bank/NNP and/CC the/DT International/NNP Monetary/NNP Fund/NNP to/TO complete/VB a/DT country/NN by/IN country/NN analysis/NN of/IN the/DT reconstruction/NN problems/NNS faced/VBN by/IN all/DT states/NNS hit/VBN by/IN the/DT disaster./JJ
+Mr/NNP Brown/NNP has/VBZ been/VBN locked/VBN in/IN talks/NNS with/IN finance/NN ministers/NNS of/IN the/DT G8/CD which/WDT Britain/NNP now/RB chairs./NN
+Germany/NNP also/RB proposed/VBD a/DT freeze/NN and/CC Canada/NNP has/VBZ begun/VBN its/PRP$ own/JJ moratorium./NN
+The/DT expected/VBN deal/NN comes/VBZ as/IN Foreign/NNP Secretary/NNP Jack/NNP Straw/NNP said/VBD the/DT number/NN of/IN Britons/NNP dead/JJ or/CC missing/VBG in/IN the/DT disaster/NN have/VBP reached/VBN 440./CD

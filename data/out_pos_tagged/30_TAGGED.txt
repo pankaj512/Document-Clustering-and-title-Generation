@@ -1,0 +1,20 @@
+Soaring/VBG oil/NN 'hits/NN world/NN economy'/NN
+
+The/DT soaring/VBG cost/NN of/IN oil/NN has/VBZ hit/VBN global/JJ economic/JJ growth/NN although/IN world's/NNS major/JJ economies/NNS should/MD weather/VB the/DT storm/NN of/IN price/NN rises/NNS according/VBG to/TO the/DT OECD./NNP
+
+In/IN its/PRP$ latest/JJS bi-annual/JJ report/NN the/DT OECD/NNP cut/VBD its/PRP$ growth/NN predictions/NNS for/IN the/DT world's/NNS main/JJ industrialised/VBN regions./NN
+US/PRP growth/VBP would/MD reach/VB 4.4%/CD in/IN 2004/CD but/CC fall/NN to/TO 3.3%/CD next/JJ year/NN from/IN a/DT previous/JJ estimate/NN of/IN 3.7%/CD the/DT OECD/NNP said./NN
+However/RB the/DT Paris-based/JJ economics/NNS think/VBP tank/NN said/VBD it/PRP believed/VBD the/DT global/JJ economy/NN could/MD still/RB regain/VB momentum./NN
+
+Forecasts/NNS for/IN Japanese/JJ growth/NN were/VBD also/RB scaled/VBN back/RP to/TO 4.0%/CD from/IN 4.4%/CD this/DT year/NN and/CC 2.1%/CD from/IN 2.8%/CD in/IN 2005./CD
+But/CC the/DT outlook/NN was/VBD worst/JJS for/IN the/DT 12-member/JJ eurozone/NN bloc/NN with/IN already/RB sluggish/JJ growth/NN forecasts/NNS slipping/VBG to/TO 1.8%/CD from/IN 2.0%/CD this/DT year/NN and/CC 1.9%/CD from/IN 2.4%/CD in/IN 2005/CD the/DT OECD/NNP said./NN
+Overall/RB the/DT report/NN forecast/NN total/JJ growth/NN of/IN 3.6%/CD in/IN 2004/CD for/IN the/DT 30/CD member/NN countries/NNS of/IN the/DT OECD/NNP slipping/VBG to/TO 2.9%/CD next/JJ year/NN before/IN recovering/VBG to/TO 3.1%/CD in/IN 2006./CD
+"There/NN are/VBP nonetheless/RB good/JJ reasons/NNS to/TO believe/VB that/IN despite/IN recent/JJ oil/NN price/NN turbulence/NN the/DT world/NN economy/NN will/MD regain/VB momentum/NN in/IN a/DT not-too-distant/JJ future"/NN said/VBD Jean-Philippe/NNP Cotis/NNP the/DT OECD's/NNP chief/NN economist./NN
+The/DT price/NN of/IN crude/NN is/VBZ about/IN 50%/CD higher/JJR than/IN it/PRP was/VBD at/IN the/DT start/NN of/IN 2004/CD but/CC down/RB on/IN the/DT record/NN high/NN of/IN $55.67/CD set/VBN in/IN late/JJ October./NNP
+
+A/DT dip/NN in/IN oil/NN prices/NNS and/CC improving/VBG jobs/NNS prospects/NNS would/MD improve/VB consumer/NN confidence/NN and/CC spending/VBG the/DT OECD/NNP said./NN
+"The/NN oil/NN shock/NN is/VBZ not/RB enormous/JJ by/IN historical/JJ standards/NNS -/: we/PRP have/VBP seen/VBN worse/JJR in/IN the/DT seventies./NN
+If/IN the/DT oil/NN price/NN does/VBZ not/RB rise/VB any/DT further/JJ then/RB we/PRP think/VBP the/DT shock/NN can/MD be/VB absorbed/VBN within/IN the/DT next/JJ few/JJ quarters"/NN Vincent/NNP Koen/NNP a/DT senior/JJ economist/NN with/IN the/DT OECD/NNP told/VBD the/DT BBC's/NNP World/NNP Business/NNP Report./NNP
+"The/NN recovery/NN that/WDT was/VBD underway/NN and/CC has/VBZ been/VBN interrupted/VBN a/DT bit/NN by/IN the/DT oil/NN shock/NN this/DT year/NN would/MD then/RB regain/VB momentum/NN in/IN the/DT course/NN of/IN 2005."/CD China's/NNP booming/JJ economy/NN and/CC a/DT "spectacular/JJ comeback"/NN in/IN Japan/NNP -/: albeit/IN one/CD that/WDT has/VBZ faltered/VBN in/IN recent/JJ months/NNS -/: would/MD help/VB world/VB economic/JJ recovery/NN the/DT OECD/NNP said./NN
+"Supported/VBN by/IN strong/JJ balance/NN sheets/NNS and/CC high/JJ profits/NNS the/DT recovery/NN of/IN business/NN investment/NN should/MD continue/VB in/IN North/NNP America/NNP and/CC start/VB in/IN earnest/NN in/IN Europe"/NNP it/PRP added./NN
+However/RB the/DT report/NN warned/VBD "It/NN remains/VBZ to/TO be/VB seen/VBN whether/IN continental/JJ Europe/NNP will/MD play/VB a/DT strong/JJ supportive/JJ role/NN through/IN a/DT marked/VBN upswing/NN of/IN final/JJ domestic/JJ demand."/NN The/DT OECD/NNP highlighted/VBD current/JJ depressed/JJ household/NN expenditure/NN in/IN Germany/NNP and/CC the/DT eurozone's/NNS over-reliance/JJ on/IN export-led/JJ growth./NN

@@ -1,0 +1,14 @@
+Bekele/NN sets/NNS sights/NNS on/IN world/NN mark/NN
+
+Olympic/NNP 10000m/CD champion/NN Kenenisa/NNP Bekele/NNP is/VBZ determined/VBN to/TO add/VB the/DT world/NN indoor/JJ two/CD mile/NN record/NN at/IN February's/NNP Norwich/NNP Union/NNP Grand/NNP Prix/NNP in/IN Birmingham./NNP
+
+The/DT 22-year-old/NN will/MD again/RB be/VB chasing/VBG a/DT record/NN held/VBN by/IN his/PRP$ compatriot/NN and/CC mentor/NN Haile/NNP Gebrselassie/NNP who/WP set/VBD the/DT mark/NN at/IN the/DT same/JJ meeting/NN in/IN 2003./CD
+"I/NN am/VBP still/RB as/RB hungry/JJ to/TO do/VB as/RB much/RB as/IN I/PRP can/MD in/IN this/DT sport"/NN said/VBD Bekele./NNP
+"And/NN aiming/VBG for/IN the/DT two/CD mile/NN world/NN record/NN in/IN Birmingham/NNP is/VBZ the/DT next/NN of/IN those/DT targets."/NN Gebrselassie's/NNP current/JJ record/NN stands/VBZ at/IN eight/CD minutes/NNS 04.69/CD seconds./NN
+And/CC Bekele/NNP is/VBZ no/DT stranger/NN to/TO overhauling/VBG world/NN marks/NNS at/IN the/DT National/NNP Indoor/JJ Arena./NNP
+The/DT Ethiopian/NN broke/VBD the/DT world/NN indoor/JJ 5000m/CD record/NN on/IN his/PRP$ debut/NN at/IN the/DT meeting/NN last/JJ year./NN
+Compatriots/NNS Mulugeta/NNP Wondimu/NNP Abiyote/NNP Abate/NNP and/CC Markos/NNP Geneti/NNP the/DT world/NN indoor/JJ bronze/NN medallist/NN over/IN 3000m/CD will/MD race/VB against/IN Bekele/NNP on/IN 18/CD February./NNP
+The/DT meet/NN has/VBZ already/RB attracted/VBN a/DT crop/NN of/IN Olympic/NNP talent./NN
+Britain's/NNP 800m/CD and/CC 1500m/CD champion/NN Kelly/NNP Holmes/NNP is/VBZ taking/VBG part/NN in/IN the/DT 1000m./CD
+Swedish/JJ heptathlon/NN gold/NN medallist/NN Carolina/NNP Kluft/NNP will/MD contest/VB the/DT 60m/CD hurdles./NN
+While/IN men's/NNS 4x100m/CD relay/NN gold/NN medallists/NNS Jason/NNP Gardener/NN and/CC Mark/NNP Lewis-Francis/NNP will/MD go/VB head-to-head/JJ in/IN the/DT 60m./CD

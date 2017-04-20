@@ -1,0 +1,10 @@
+Serena/NNP becomes/VBZ world/NN number/NN two/CD
+
+Serena/NNP Williams/NNP has/VBZ moved/VBN up/RB five/CD places/NNS to/TO second/JJ in/IN the/DT world/NN rankings/NNS after/IN her/PRP$ Australian/JJ Open/NNP win./NN
+
+Williams/NNP won/VBD her/PRP$ first/JJ Grand/NNP Slam/NNP title/NN since/IN 2003/CD with/IN victory/NN over/IN Lindsay/NNP Davenport/NNP the/DT world/NN number/NN one./NN
+Men's/NNP champion/NN Marat/NNP Safin/NNP remains/VBZ fourth/JJ in/IN the/DT ATP/NNP rankings/NNS while/IN beaten/VBN finalist/NN Lleyton/NNP Hewitt/NNP replaces/VBZ Andy/NNP Roddick/NNP as/IN world/NN number/NN two./NN
+Roger/NNP Federer/NNP retains/VBZ top/JJ spot/NN but/CC Safin/NNP has/VBZ overtaken/NN Hewitt/NNP to/TO become/VB the/DT new/JJ leader/NN of/IN the/DT Champions/NNS Race./NNP
+Alicia/NNP Molik/NNP who/WP lost/VBD a/DT three-set/JJ thriller/NN against/IN Davenport/NNP in/IN the/DT quarter-finals/NNS is/VBZ in/IN the/DT women's/NNS top/JJ 10/CD for/IN the/DT first/JJ time/NN in/IN her/PRP$ career./NN
+Her/PRP$ rise/NN means/VBZ Australia/NNP have/VBP a/DT player/NN in/IN the/DT top/JJ 10/CD of/IN the/DT men's/NNS and/CC women's/NNS rankings/NNS for/IN the/DT first/JJ time/NN in/IN 21/CD years./NN
+And/CC Britain's/NNP Elena/NNP Baltacha/NNP who/WP qualified/VBD and/CC then/RB reached/VBN the/DT third/JJ round/NN has/VBZ risen/VBN to/TO 120/CD in/IN the/DT world/NN -/: a/DT leap/NN of/IN 65/CD places/NNS and/CC her/PRP$ highest/JJS ranking/JJ yet./NN

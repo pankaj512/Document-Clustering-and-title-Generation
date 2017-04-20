@@ -1,0 +1,35 @@
+Firefox/NNP browser/NN takes/VBZ on/IN Microsoft/NNP
+
+Microsoft's/NNP Internet/NNP Explorer/NNP has/VBZ a/DT serious/JJ rival/NN in/IN the/DT long-awaited/JJ Firefox/NNP 1.0/CD web/NN browser/NN which/WDT has/VBZ just/RB been/VBN released./NN
+
+Few/JJ people/NNS get/VBP excited/VBN when/WRB some/DT new/JJ software/NN is/VBZ released/VBN especially/RB when/WRB the/DT program/NN is/VBZ not/RB a/DT game/NN or/CC a/DT music/NN or/CC movie/NN player./NN
+But/CC the/DT release/NN of/IN the/DT first/JJ full/JJ version/NN of/IN Firefox/NNP has/VBZ managed/VBN to/TO drum/VB up/RP a/DT respectable/JJ amount/NN of/IN pre-launch/JJ fervour./NN
+Fans/NNS of/IN the/DT software/NN have/VBP banded/VBN together/RB to/TO raise/VB cash/NN to/TO pay/VB for/IN an/DT advert/NN in/IN the/DT New/NNP York/NNP Times/NNP announcing/VBG that/DT version/NN 1.0/CD of/IN the/DT browser/NN is/VBZ available./NN
+The/DT release/NN of/IN Firefox/NNP 1.0/CD on/IN 9/CD November/NNP might/MD even/RB cause/VB a/DT few/JJ heads/VBZ to/TO turn/VB at/IN Microsoft/NNP because/IN the/DT program/NN is/VBZ steadily/RB winning/VBG people/NNS away/RB from/IN the/DT software/NN giant's/NNS Internet/NNP Explorer/NNP browser./NN
+
+Firefox/NNP has/VBZ been/VBN created/VBN by/IN the/DT Mozilla/NNP Foundation/NNP which/WDT was/VBD started/VBN by/IN former/JJ browser/NN maker/NN Netscape/NNP back/RB in/IN 1998./CD
+Much/JJ of/IN the/DT development/NN work/NN done/VBN since/IN then/RB has/VBZ gone/VBN into/IN Firefox/NNP which/WDT made/VBD its/PRP$ first/JJ appearance/NN under/IN this/DT name/NN in/IN February./NNP
+Earlier/JJR incarnations/NNS but/CC which/WDT had/VBD the/DT same/JJ core/NN technology/NN were/VBD called/VBN Phoenix/NNP and/CC Firebird./NNP
+Since/IN then/RB the/DT software/NN has/VBZ been/VBN gaining/VBG praise/NN and/CC converts/VBZ not/RB least/JJS because/IN of/IN the/DT large/JJ number/NN of/IN security/NN problems/NNS that/WDT have/VBP come/VBN to/TO light/JJ in/IN Microsoft's/NNP Internet/NNP Explorer./NNP
+Rivals/NNS to/TO IE/NNP got/VBD a/DT boost/NN in/IN late/JJ June/NNP when/WRB two/CD US/PRP computer/VBP security/NN organisations/NNS warned/VBD people/NNS to/TO avoid/VB the/DT Microsoft/NNP program/NN to/TO avoid/VB falling/VBG victim/NN to/TO a/DT serious/JJ vulnerability./NN
+
+Internet/NNP monitoring/NN firm/NN WebSideStory/NNP has/VBZ charted/VBN the/DT growing/VBG population/NN of/IN people/NNS using/VBG the/DT Firefox/NNP browser/NN and/CC says/VBZ it/PRP is/VBZ responsible/JJ for/IN slowly/RB eroding/VBG the/DT stranglehold/NN of/IN IE./NNP
+Before/IN July/NNP this/DT year/NN according/VBG to/TO WebSideStory/NNP Internet/NNP Explorer/NNP was/VBD used/VBN by/IN about/IN 95%/CD of/IN web/NN surfers./NN
+That/DT figure/NN had/VBD remained/VBN static/JJ for/IN years./NN
+In/IN July/NNP the/DT IE/NNP using/VBG population/NN dropped/VBD to/TO 94.7%/CD and/CC by/IN the/DT end/NN of/IN October/NNP stood/VBD at/IN 92.9%./CD
+The/DT Mozilla/NNP Foundation/NNP claims/VBZ that/IN Firefox/NNP has/VBZ been/VBN downloaded/VBN almost/RB eight/CD million/CD times/NNS and/CC has/VBZ publicly/RB said/VBN it/PRP would/MD be/VB happy/JJ to/TO garner/VB 10%/CD of/IN the/DT Windows-/NNP using/VBG net-browsing/JJ population./NN
+Firefox/NNP is/VBZ proving/VBG popular/JJ because/IN at/IN the/DT moment/NN it/PRP has/VBZ far/RB fewer/JJR security/NN holes/NNS than/IN Internet/NNP Explorer/NNP and/CC has/VBZ some/DT innovations/NNS lacking/VBG in/IN Microsoft's/NNP program./NN
+For/IN instance/NN Firefox/NNP allows/VBZ the/DT pages/NNS of/IN different/JJ websites/NNS to/TO be/VB arranged/VBN as/IN tabs/NNS so/IN users/NNS can/MD switch/VB easily/RB between/IN them./NN
+It/PRP blocks/VBZ pop-ups/NNS has/VBZ a/DT neat/JJ way/NN of/IN finding/VBG text/NN on/IN a/DT page/NN and/CC lets/VBZ you/PRP search/NN through/IN the/DT pages/NNS you/PRP have/VBP browsed./NN
+
+One/CD of/IN the/DT most/RBS powerful/JJ features/NNS of/IN Firefox/NNP is/VBZ the/DT many/JJ hundreds/NNS of/IN extras/NNS or/CC extensions/NNS produced/VBN for/IN it./NN
+The/DT Mozilla/NNP Foundation/NNP is/VBZ an/DT open/JJ source/NN organisation/NN which/WDT means/VBZ that/IN the/DT creators/NNS of/IN the/DT browser/NN are/VBP happy/JJ for/IN others/NNS to/TO play/VB around/IN with/IN the/DT core/NN code/NN for/IN the/DT program./NN
+This/DT has/VBZ resulted/VBN in/IN many/JJ different/JJ add-ons/NNS or/CC extensions/NNS for/IN the/DT browser/NN which/WDT now/RB include/VBP everything/NN from/IN a/DT version/NN of/IN the/DT familiar/JJ Google/NNP toolbar/NN to/TO a/DT Homeland/NN Security/NNP monitor/VB that/DT keep/NN users/NNS aware/JJ of/IN current/JJ threat/NN levels./NN
+Firefox/NNP which/WDT used/VBD to/TO be/VB called/VBN Firebird/NNP and/CC before/IN that/DT Phoenix/NNP also/RB has/VBZ a/DT growing/VBG number/NN of/IN vocal/JJ net-based/JJ fans./NN
+A/DT campaign/NN co-ordinated/JJ by/IN the/DT Spread/NN Firefox/NNP website/NN attempted/VBN to/TO raise/VB the/DT $50000/CD needed/VBN for/IN a/DT full/JJ page/NN advert/NN in/IN the/DT New/NNP York/NNP Times./NNP
+The/DT campaign/NN set/VBD itself/PRP a/DT target/NN of/IN recruiting/VBG 2500/CD volunteers./NN
+Ten/CD days/NNS in/RP to/TO the/DT campaign/NN 10000/CD people/NNS had/VBD signed/VBN up/RB and/CC now/RB about/IN $250000/CD has/VBZ been/VBN raised./NN
+The/DT ad/NN is/VBZ due/JJ to/TO run/VB sometime/RB in/IN a/DT three-week/JJ period/NN in/IN late/JJ November/early/NNP December./NNP
+The/DT surplus/NN cash/NN will/MD be/VB used/VBN to/TO help/VB keep/VB the/DT Mozilla/NNP Foundation/NNP running./NN
+Microsoft/NNP is/VBZ facing/VBG a/DT growing/VBG challenge/NN to/TO IE's/NNP hold/VB on/IN the/DT web/NN using/VBG population./NN
+from/IN alternative/JJ browsers/NNS such/JJ as/IN Opera/NNP Safari/NNP Amaya/NNP and/CC even/RB Netscape./NNP

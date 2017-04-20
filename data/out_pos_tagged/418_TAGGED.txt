@@ -1,0 +1,11 @@
+US/PRP firm/VBP 'bids/NN for/IN Lacroix/NNP label'/NN
+
+A/DT US/PRP firm/VBP has/VBZ said/VBN it/PRP is/VBZ in/IN final/JJ negotiations/NNS with/IN luxury/NN goods/NNS group/NN LVMH/NNP to/TO buy/VB the/DT loss-making/JJ Christian/NNP Lacroix/NNP haute-couture/JJ house./NN
+
+Paris-based/JJ LVMH/NNP has/VBZ been/VBN selling/VBG non-core/JJ businesses/NNS and/CC focusing/VBG on/IN its/PRP$ most/RBS profitable/JJ labels/NNS including/VBG Moet/NNP &/CC Chandon/NNP champagne/NN and/CC Louis/NNP Vuitton./NNP
+Privately-held/NNP Falic/NNP Group/NNP bought/VBD two/CD cosmetics/NNS brands/NNS Hard/JJ Candy/NN and/CC Urban/NNP Decay/NN from/IN LVMH/NNP in/IN early/JJ 2003./CD
+The/DT Florida/NNP company/NN also/RB own/VB a/DT chain/NN of/IN 90/CD duty/NN free/JJ stores/NNS in/IN the/DT US./NNP
+LVMH/NNP refused/VBD to/TO comment/VB on/IN the/DT reports./NN
+But/CC one/CD of/IN the/DT three/CD brothers/NNS behind/IN the/DT Falic/NNP Group/NNP said/VBD the/DT firm/NN had/VBD also/RB held/VBN talks/NNS with/IN the/DT designer/NN Christian/NNP Lacroix/NNP and/CC wished/VBN to/TO retain/VB him./NN
+"We/NN are/VBP buying/VBG his/PRP$ name"/NN Simon/NNP Falic/NNP told/VBD the/DT Reuters/NNP news/NN agency./NN
+"We/NN have/VBP plans/NNS to/TO increase/VB the/DT exposure/NN of/IN the/DT brand/NN and/CC increase/VB the/DT volume/NN of/IN business."/NN

@@ -1,0 +1,15 @@
+Microsoft/NNP takes/VBZ on/IN desktop/NN search/NN
+
+Microsoft/NNP has/VBZ entered/VBN the/DT desktop/NN search/NN fray/NN releasing/VBG a/DT test/NN version/NN of/IN its/PRP$ tool/NN to/TO find/VB documents/NNS e-mails/NNS and/CC other/JJ files/NNS on/IN a/DT PC/NN hard/JJ drive./NN
+
+The/DT beta/NN program/NN only/RB works/VBZ on/IN PCs/NNS running/VBG Windows/NNS XP/NNP or/CC Windows/NNS 2000./CD
+The/DT desktop/NN search/NN market/NN is/VBZ becoming/VBG increasingly/RB crowded/VBN with/IN firms/NNS touting/VBG programs/NNS that/WDT help/NN people/NNS find/VB files./NN
+Search/NN giant/NN Google/NNP launched/VBD its/PRP$ desktop/NN search/NN tool/NN in/IN October/NNP while/IN Yahoo/NNP is/VBZ planning/VBG to/TO release/VB similar/JJ software/NN in/IN January./NNP
+
+"Our/NN ambition/NN for/IN search/NN is/VBZ to/TO provide/VB the/DT ultimate/JJ information/NN tool/NN that/WDT can/MD find/VB anything/NN you're/NN looking/VBG for"/NN said/VBD Yusuf/NNP Mehdi/NNP corporate/JJ vice/NN president/NN at/IN Microsoft's/NNP MSN/NNP internet/JJ division./NN
+Microsoft's/NNP program/NN can/MD be/VB used/VBN as/IN a/DT toolbar/NN on/IN the/DT Windows/NNS desktop/VBP the/DT Internet/NNP Explorer/NNP browser/NN and/CC within/IN the/DT Outlook/NN e-mail/JJ program./NN
+The/DT software/NN giant/NN is/VBZ coming/VBG late/JJ to/TO the/DT desktop/NN search/NN arena/NN competing/VBG with/IN a/DT large/JJ number/NN of/IN rivals./NN
+Google/NNP has/VBZ already/RB released/VBN a/DT desktop/NN tool./NN
+Yahoo/NNP is/VBZ planning/VBG to/TO get/VB into/IN the/DT game/NN in/IN January/NNP and/CC AOL/NNP is/VBZ expected/VBN to/TO offer/VB desktop/NN searching/VBG early/JJ next/JJ year./NN
+Small/JJ firms/NNS such/JJ as/IN Blinkx/NNP Copernic/NNP Enfish/NNP X1/CD Technologies/NNPS and/CC X-Friend/NNP offer/NN tools/NNS that/DT catalogue/VBP the/DT huge/JJ amounts/NNS of/IN information/NN that/IN people/NNS increasingly/RB store/VBP on/IN their/PRP$ desktop/NN or/CC home/NN computer./NN
+Apple/NNP will/MD release/VB a/DT similar/JJ search/NN system/NN for/IN its/PRP$ computers/NNS called/VBD Spotlight/NN that/WDT is/VBZ due/JJ to/TO be/VB released/VBN with/IN the/DT Tiger/NNP operating/NN system./NN

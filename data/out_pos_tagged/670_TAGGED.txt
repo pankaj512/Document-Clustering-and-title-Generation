@@ -1,0 +1,13 @@
+iTunes/NNS now/RB selling/VBG Band/NNP Aid/NNP song/NN
+
+Ipod/NN owners/NNS can/MD now/RB download/VB the/DT Band/NNP Aid/NNP single/JJ from/IN iTunes/NNS after/IN Apple/NNP reached/VBD agreement/NN with/IN the/DT charity./NN
+
+Apple/NNP had/VBD been/VBN unwilling/JJ to/TO raise/VB the/DT cost/NN of/IN the/DT single/NN in/IN line/NN with/IN other/JJ download/NN services/NNS said/VBD Band/NNP Aid./NNP
+But/CC the/DT single/JJ is/VBZ now/RB on/IN sale/NN for/IN 79p/CD -/: the/DT usual/JJ cost/NN of/IN a/DT song/NN from/IN iTunes/NNS -/: with/IN Apple/NNP donating/VBG a/DT further/JJ 70p/CD to/TO the/DT charity/NN for/IN each/DT song/NN downloaded./NN
+A/DT copy/NN of/IN the/DT original/JJ 1984/CD song/NN is/VBZ also/RB available/JJ for/IN download/NN at/IN 79p/CD -/: with/IN all/DT proceeds/NNS going/VBG to/TO the/DT charity./NN
+
+More/JJR than/IN 72000/CD copies/NNS of/IN the/DT new/JJ Band/NNP Aid/NNP single/NN were/VBD sold/VBN on/IN its/PRP$ first/JJ day/NN of/IN release/NN on/IN Monday/NNP according/VBG to/TO sales/NNS figures./NN
+The/DT track/NN has/VBZ become/VBN the/DT fastest-selling/JJ single/NN of/IN the/DT year/NN so/RB far/RB shifting/VBG more/JJR copies/NNS than/IN the/DT rest/NN of/IN the/DT top/JJ 30/CD combined/VBN HMV/NNP claimed./NN
+Dido/NNP Robbie/NNP Williams/NNP and/CC Chris/NNP Martin/NNP are/VBP among/IN those/DT featured/VBD on/IN the/DT new/JJ version/NN of/IN Do/VBP They/PRP Know/NNP It's/NNP Christmas?/NNP which/WDT is/VBZ raising/VBG money/NN to/TO fight/VB hunger/NN in/IN Africa./NNP
+If/IN the/DT track/NN sold/VBD 500000/CD copies/NNS more/JJR than/IN £1m/CD would/MD be/VB raised/VBN for/IN charity./NN
+The/DT CD/NNP is/VBZ being/VBG sold/VBN for/IN £3.99/CD with/IN HMV/NNP Virgin/NNP and/CC Woolworths/NNP all/DT donating/VBG their/PRP$ profits./NN

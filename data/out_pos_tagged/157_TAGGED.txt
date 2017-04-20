@@ -1,0 +1,16 @@
+Khodorkovsky/NNP ally/NN denies/VBZ charges/NNS
+
+A/DT close/JJ associate/JJ of/IN former/JJ Yukos/NNP boss/NN Mikhail/NNP Khodorkovsky/NNP has/VBZ told/VBN a/DT court/NN that/DT fraud/NN charges/NNS levelled/VBN against/IN him/PRP are/VBP "false"./NN
+
+Platon/NNP Lebedev/NNP has/VBZ been/VBN on/IN trial/NN alongside/IN Mr/NNP Khodorkovsky/NNP since/IN June/NNP in/IN a/DT case/NN centring/VBG around/IN the/DT privatisation/NN of/IN a/DT fertiliser/NN firm./NN
+The/DT pair/NN claim/NN they/PRP are/VBP being/VBG punished/VBN by/IN the/DT authorities/NNS for/IN the/DT political/JJ ambitions/NNS of/IN Mr/NNP Khodorkovsky./NNP
+Mr/NNP Lebedev/NNP said/VBD there/EX were/VBD "absurd/NN contradictions"/NN in/IN the/DT case./NN
+Opening/NN his/PRP$ defence/NN he/PRP said/VBD he/PRP could/MD not/RB see/VB the/DT legal/JJ basis/NN of/IN the/DT charges/NNS he/PRP faced/VBD which/WDT also/RB include/VBP allegations/NNS of/IN tax/NN evasion./NN
+"To/NN my/PRP$ embarrassment/NN I/PRP could/MD not/RB understand/VB the/DT file/NN of/IN complaints/NNS against/IN me"/NN he/PRP told/VBD a/DT Moscow/NNP court./NN
+Mr/NNP Lebedev/NNP headed/VBD the/DT Menatep/NNP group/NN the/DT parent/NN company/NN of/IN Yukos./NNP
+
+Mr/NNP Lebedev/NNP and/CC Mr/NNP Khodorkovsky/NNP who/WP each/DT face/NN a/DT possible/JJ 10/CD year/NN jail/NN sentence/NN if/IN convicted/VBN will/MD be/VB questioned/VBN by/IN a/DT judge/NN over/IN the/DT next/JJ few/JJ days./NN
+Mr/NNP Khodorkovsky/NNP began/VBD his/PRP$ testimony/NN last/JJ week/NN telling/VBG the/DT court/NN that/IN he/PRP objected/VBD to/TO the/DT way/NN that/IN the/DT "running/NN of/IN a/DT normal/JJ business/NN has/VBZ been/VBN presented/VBN as/IN a/DT work/NN of/IN criminal/JJ fiction"./NN
+The/DT charges/NNS are/VBP seen/VBN by/IN supporters/NNS as/IN politically/RB motivated/VBN and/CC part/NN of/IN a/DT drive/NN by/IN Russian/JJ President/NNP Vladimir/NNP Putin/NNP to/TO rein/VB in/RP the/DT country's/NNS super-rich/JJ business/NN leaders/NNS the/DT so-called/JJ oligarchs./NN
+Yukos/NNP has/VBZ been/VBN presented/VBN with/IN a/DT $27.5bn/CD (£13bn)/CD tax/NN demand/NN by/IN the/DT Russian/JJ authorities/NNS and/CC its/PRP$ key/JJ Yugansk/NNP division/NN was/VBD auctioned/VBN off/RP to/TO part/VB settle/VBP the/DT bill./NN
+The/DT company's/NNS effort/NN to/TO gain/VB bankruptcy/NN protection/NN in/IN the/DT US/PRP -/: in/IN a/DT bid/NN to/TO win/VB damages/NNS for/IN the/DT sale/NN -/: were/VBD dismissed/VBN by/IN a/DT court/NN in/IN Texas./NNP

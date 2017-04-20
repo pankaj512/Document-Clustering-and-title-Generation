@@ -1,0 +1,23 @@
+New/NNP Year's/NNP texting/VBG breaks/NNS record/NN
+
+A/DT mobile/JJ phone/NN was/VBD as/RB essential/JJ to/TO the/DT recent/JJ New/NNP Year's/NNP festivities/NNS as/IN a/DT party/NN mood/NN and/CC Auld/NNP Lang/NNP Syne/NNP if/IN the/DT number/NN of/IN text/NN messages/NNS sent/VBD is/VBZ anything/NN to/TO go/VB by./NN
+
+Between/IN midnight/NN on/IN 31/CD December/NNP and/CC midnight/NN on/IN 1/CD January/NNP 133m/CD text/NN messages/NNS were/VBD sent/VBN in/IN the/DT UK./NNP
+It/PRP is/VBZ the/DT highest/JJS ever/RB daily/JJ total/JJ recorded/VBN by/IN the/DT Mobile/NNP Data/NNP Association/NNP (MDA)./NN
+It/PRP represents/VBZ an/DT increase/NN of/IN 20%/CD on/IN last/JJ year's/NNS figures./NN
+
+Wishing/VBG a/DT Happy/JJ New/NNP Year/NN to/TO friends/NNS and/CC family/NN via/IN text/NN message/NN has/VBZ become/VBN a/DT staple/NN ingredient/NN of/IN the/DT year's/NNS largest/JJS party./NN
+While/IN texting/NN has/VBZ not/RB quite/RB overtaken/VB the/DT old-fashioned/JJ phone/NN call/NN it/PRP is/VBZ heading/VBG that/DT way/NN said/VBD Mike/NNP Short/JJ chairman/NN of/IN the/DT MDA./NNP
+"In/NN the/DT case/NN of/IN a/DT New/NNP Years/NNS Eve/NNP party/NN texting/NN is/VBZ useful/JJ if/IN you/PRP are/VBP unable/JJ to/TO speak/VB or/CC hear/VB because/IN of/IN a/DT noisy/NN background"/NN he/PRP said./VB
+There/EX were/VBD also/RB lots/NNS of/IN messages/NNS sent/VBD internationally/RB where/WRB different/JJ time/NN zones/NNS made/VBD traditional/JJ calls/VBZ unfeasible/JJ he/PRP said./VB
+The/DT British/JJ love/NN affair/NN with/IN texting/NN shows/VBZ no/DT signs/NNS of/IN abating/VBG and/CC the/DT annual/JJ total/NN for/IN 2004/CD is/VBZ set/VBN to/TO exceed/VB 25bn/CD according/VBG to/TO MDA./NNP
+The/DT MDA/NNP predicts/VBZ that/IN 2005/CD could/MD see/VB more/JJR than/IN 30bn/CD text/NN messages/NNS sent/VBD in/IN the/DT UK./NNP
+"We/NN thought/VBD texting/VBG might/MD slow/VB down/RP as/IN MMS/NNP took/VBD off/RP but/CC we/PRP have/VBP seen/VBN no/DT sign/NN of/IN that"/NN said/VBD Mr/NNP Short./NNP
+More/JJR and/CC more/JJR firms/NNS are/VBP seeing/VBG the/DT value/NN in/IN mobile/JJ marketing./NN
+Restaurants/NNS are/VBP using/VBG text/NN messages/NNS to/TO tell/VB customers/NNS about/IN special/JJ offers/NNS and/CC promotions./NN
+
+Anyone/NN in/IN need/NN of/IN a/DT bit/NN of/IN January/NNP cheer/VB now/RB the/DT party/NN season/NN is/VBZ over/IN can/MD use/VB a/DT service/NN set/VBD up/RP by/IN Jongleurs/NNP comedy/NN club/NN which/WDT will/MD text/VB them/PRP a/DT joke/NN a/DT day./NN
+For/IN those/DT still/RB wanting/VBG to/TO drink/VB and/CC be/VB merry/NN as/IN the/DT long/JJ days/NNS of/IN winter/NN draw/NN in/IN the/DT Good/JJ Pub/NN Guide/NNP offers/VBZ a/DT service/NN giving/VBG the/DT location/NN and/CC address/VB of/IN their/PRP$ nearest/JJS recommended/VBD pub./NN
+Users/NNS need/VBP to/TO text/VB the/DT word/NN GOODPUB/NNP to/TO 85130./CD
+If/IN they/PRP want/VBP to/TO turn/VB the/DT evening/NN into/IN a/DT pub/NN crawl/NN they/PRP simply/RB text/VBP the/DT word/NN NEXT./NNP
+And/CC for/IN those/DT still/JJ standing/NN at/IN the/DT end/NN of/IN the/DT night/NN a/DT taxi/NN service/NN in/IN London/NNP is/VBZ available/JJ via/IN text/NN which/WDT will/MD locate/VB the/DT nearest/JJS available/JJ black/JJ cab./NN

@@ -1,0 +1,81 @@
+Yeading/NNP face/NN Newcastle/NNP in/IN FA/NNP Cup/NNP
+
+Premiership/NN side/NN Newcastle/NNP United/NNP face/NN a/DT trip/NN to/TO Ryman/NNP Premier/NNP League/NNP leaders/NNS Yeading/NNP in/IN the/DT FA/NNP Cup/NNP third/JJ round./NN
+
+The/DT game/NN -/: arguably/RB the/DT highlight/NN of/IN the/DT draw/NN -/: is/VBZ a/DT potential/JJ money-spinner/NN for/IN non-League/JJ Yeading/NNP who/WP beat/VBP Slough/NNP in/IN the/DT second/JJ round./NN
+Conference/NNP side/NN Exeter/NNP City/NNP who/WP knocked/VBD out/RP Doncaster/NNP on/IN Saturday/NNP will/MD travel/VB to/TO Old/NNP Trafford/NNP to/TO meet/VB holders/NNS Manchester/NNP United/NNP in/IN January./NNP
+Arsenal/NN were/VBD drawn/VBN at/IN home/NN to/TO Stoke/NNP and/CC Chelsea/NNP will/MD play/VB host/NN to/TO Scunthorpe./NNP
+The/DT only/JJ other/JJ non-League/JJ side/NN in/IN the/DT draw/NN are/VBP Hinckley/NNP United/NNP who/WP held/VBD Brentford/NNP to/TO a/DT goalless/JJ draw/VBP on/IN Sunday./NNP
+They/PRP will/MD meet/VB League/NNP One/CD leaders/NNS Luton/NNP if/IN they/PRP win/VBP their/PRP$ replay/NN against/IN Martin/NNP Allen's/NNP team/NN at/IN Griffin/NNP Park./NNP
+
+A/DT number/NN of/IN Premiership/NN teams/NNS face/VBP difficult/JJ away/RB games/NNS against/IN Championship/NNP sides/NNS on/IN the/DT weekend/NN of/IN 8/9/CD January./NNP
+Third-placed/NNP Everton/NNP visit/NN Plymouth/NNP Liverpool/NNP travel/NN to/TO Burnley/NNP Crystal/NNP Palace/NNP go/VB to/TO Sunderland/NNP Fulham/NNP face/NN Carling/NNP Cup/NNP semi-finalists/NNS Watford/NNP Bolton/NNP meet/VB Ipswich/NNP while/IN Aston/NNP Villa/NNP were/VBD drawn/VBN against/IN Sheffield/NNP United./NNP
+Premiership/NN strugglers/NNS Norwich/NNP Blackburn/NNP West/NNP Brom/NNP are/VBP away/RB at/IN West/NNP Ham/NN Cardiff/NNP and/CC Preston/NNP North/NNP End/NN respectively./NN
+Southampton/NNP visit/NN Northampton/NNP having/VBG already/RB beaten/VBN the/DT League/NNP Two/CD side/NN in/IN the/DT Carling/NNP Cup/NNP earlier/RBR this/DT season./NN
+Middlesbrough/NNP were/VBD drawn/VBN away/RB against/IN either/CC Swindon/NNP or/CC Notts/NNP County/NNP while/IN Spurs/VBZ entertain/VB Brighton/NNP at/IN White/NNP Hart/NNP Lane./NNP
+
+Arsenal/NN v/NN Stoke/NNP
+
+Swindon/Notts/NNP Co/NNP v/NN Middlesbrough/NNP
+
+Man/NNP Utd/NNP v/NN Exeter/NNP
+
+Plymouth/NNP v/NN Everton/NNP
+
+Leicester/NNP v/NN Blackpool/NNP
+
+Derby/NNP v/NN Wigan/NNP
+
+Sunderland/NNP v/NN Crystal/NNP Palace/NNP
+
+Wolves/NNS v/NN Millwall/NNP
+
+Yeading/NNP v/NN Newcastle/NNP
+
+Hull/NNP v/NN Colchester/NNP
+
+Tottenham/NNP v/NN Brighton/NNP
+
+Reading/VBG v/NN Stockport/Swansea/NNP
+
+Birmingham/NNP v/NN Leeds/NNP
+
+Hartlepool/NNP v/NN Boston/NNP
+
+Milton/NNP Keynes/NNP Dons/VBZ v/NN Peterborough/NNP
+
+Oldham/NNP v/NN Man/NN City/NNP
+
+Chelsea/NNP v/NN Scunthorpe/NNP
+
+Cardiff/NNP v/NN Blackburn/NNP
+
+Charlton/NNP v/NN Rochdale/NNP
+
+West/NNP Ham/NN v/NN Norwich/NNP
+
+Sheff/NNP Utd/NNP v/NN Aston/NNP Villa/NNP
+
+Preston/NNP v/NN West/NNP Brom/NNP
+
+Rotherham/NNP v/NN Yeovil/NNP
+
+Burnley/NNP v/NN Liverpool/NNP
+
+Bournemouth/NNP v/NN Chester/NNP
+
+Coventry/NNP v/NN Crewe/NNP
+
+Watford/NNP v/NN Fulham/NNP
+
+Ipswich/NNP v/NN Bolton/NNP
+
+Portsmouth/NNP v/NN Gillingham/NNP
+
+Northampton/NNP v/NN Southampton/NNP
+
+QPR/NNP v/NN Nottm/NNP Forest/NNP
+
+Luton/NNP v/NN Hinckley/Brentford/NNP
+
+Matches/VBZ to/TO be/VB played/VBN on/IN weekend/NN of/IN 8/9/CD January./NNP

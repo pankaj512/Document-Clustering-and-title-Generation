@@ -1,0 +1,33 @@
+US/PRP blogger/VBP fired/VBN by/IN her/PRP$ airline/NN
+
+A/DT US/PRP airline/VBP attendant/NN suspended/VBN over/IN "inappropriate/NN images"/NN on/IN her/PRP$ blog/NN -/: web/NN diary/NN -/: says/VBZ she/PRP has/VBZ been/VBN fired./NN
+
+Ellen/NNP Simonetti/NNP known/VBD as/IN Queen/NNP of/IN the/DT Sky/NNP wrote/VBD an/DT anonymous/JJ semi-fictional/JJ account/NN of/IN her/PRP$ life/NN in/IN the/DT sky./NN
+She/PRP was/VBD suspended/VBN by/IN Delta/NNP in/IN September./NNP
+In/IN a/DT statement/NN she/PRP said/VBD she/PRP was/VBD initiating/VBG legal/JJ action/NN against/IN the/DT airline/NN for/IN "wrongful/JJ termination"./NN
+A/DT Delta/NNP spokesperson/NN confirmed/VBD on/IN Wednesday/NNP that/IN Ms/NNP Simonetti/NNP was/VBD no/RB longer/RB an/DT employee./NN
+Delta/NNP has/VBZ repeatedly/RB declined/VBN to/TO elaborate/VB on/IN what/WP it/PRP calls/VBZ "internal/JJ employee/NN matters"./NN
+A/DT spokesperson/NN reiterated/VBD this/DT position/NN on/IN Wednesday/NNP confirming/VBG only/RB that/IN Ms/NNP Simonetti/NNP was/VBD no/RB longer/RBR with/IN the/DT company./NN
+The/DT spokesperson/NN also/RB confirmed/VBD that/IN there/EX were/VBD "very/NN clear/JJ rules"/NN attached/VBN to/TO the/DT unauthorised/VBN use/NN of/IN Delta/NNP branding/VBG including/VBG uniforms./NN
+Ms/NNP Simonetti/NNP announced/VBD on/IN her/PRP$ blog/NN she/PRP had/VBD been/VBN fired/VBN on/IN 1/CD November./NNP
+
+She/PRP said/VBD in/IN an/DT official/JJ statement/NN "As/NN a/DT result/NN of/IN my/PRP$ suspension/NN and/CC subsequent/JJ termination/NN without/IN cause/NN by/IN Delta/NNP Airlines/NNPS I/PRP am/VBP moving/VBG forward/RB with/IN filing/VBG a/DT discrimination/NN complaint/NN with/IN the/DT Federal/NNP Government/NNP EEOC/NNP [US/NN Equal/NNP Employment/NNP Opportunity/NNP Commission]."/NNP She/PRP added/VBD she/PRP had/VBD also/RB hired/VBN a/DT Texas-based/JJ law/NN firm/NN to/TO initiate/VB legal/JJ action/NN for/IN "wrongful/JJ termination/NN defamation/NN of/IN character/NN and/CC lost/VBD future/JJ wages."/NN Ms/NNP Simonetti/NNP told/VBD the/DT BBC/NNP News/NNP website/NN she/PRP had/VBD received/VBN no/DT warning/NN or/CC further/JJ explanation/NN when/WRB she/PRP was/VBD suspended/VBN on/IN 25/CD September./NNP
+Queen/NNP of/IN the/DT Sky/NNP has/VBZ received/VBN a/DT lot/NN of/IN support/NN and/CC advice/NN from/IN the/DT global/JJ blogging/NN community/NN since/IN news/NN of/IN her/PRP$ suspension/NN was/VBD brought/VBN to/TO light/NN on/IN the/DT BBC/NNP News/NNP website/NN and/CC others./NN
+
+Her/PRP$ story/NN has/VBZ highlighted/VBN concerns/NNS amongst/IN the/DT growing/VBG blogging/VBG community/NN about/IN conflicts/NNS of/IN interest/NN employment/NN law/NN and/CC free/JJ speech/NN on/IN personal/JJ websites./NN
+The/DT blog/NN which/WDT she/PRP started/VBD in/IN January/NNP as/IN a/DT way/NN of/IN getting/VBG over/IN her/PRP$ mother's/NNS death/NN contains/VBZ a/DT mix/NN of/IN fictional/JJ and/CC non-fictional/JJ accounts./NN
+Queen/NNP of/IN the/DT Sky/NNP developed/VBD over/IN the/DT months/NNS as/IN a/DT character/NN in/IN her/PRP$ own/JJ right/NN according/VBG to/TO Ms/NNP Simonetti./NNP
+In/IN the/DT postings/NNS she/PRP made/VBD up/RP fictional/JJ names/NNS for/IN cities/NNS and/CC other/JJ companies/NNS she/PRP mentioned/VBD to/TO protect/VB anonymity./NN
+But/CC some/DT postings/NNS contained/VBD images/NNS of/IN herself/PRP in/IN uniform./NN
+Of/IN the/DT 10/CD or/CC so/RB images/NNS only/RB one/CD showed/VBD Ms/NNP Simonetti's/NNP flight/NN "wings"./NN
+She/PRP removed/VBD them/PRP as/RB soon/RB as/IN she/PRP was/VBD informed/VBN of/IN her/PRP$ suspension./NN
+"I/NN never/RB meant/VBD it/PRP as/IN something/NN to/TO harm/VB my/PRP$ company/NN and/CC don't/NN understand/VB how/WRB they/PRP think/VBP it/PRP did/VBD harm/NN them"/NN Ms/NNP Simonetti/NNP said./NN
+A/DT legal/JJ expert/NN in/IN the/DT US/PRP speculated/VBD that/IN Delta/NNP might/MD be/VB concerned/VBN that/IN the/DT fictional/JJ content/NN on/IN the/DT blog/NN may/MD be/VB linked/VBN back/RB to/TO the/DT airline/NN after/IN the/DT images/NNS were/VBD posted./NN
+
+Delta/NNP has/VBZ been/VBN hit/VBN recently/RB by/IN pressures/NNS of/IN rising/VBG fuel/NN costs/NNS and/CC fierce/JJ competition./NN
+It/PRP has/VBZ said/VBN it/PRP needs/VBZ to/TO cut/VB between/IN 6000/CD and/CC 7000/CD jobs/NNS and/CC reduce/VB costs/NNS by/IN $5bn/CD (£2.7bn)/CD a/DT year./NN
+Analysts/NNS had/VBD warned/VBN recently/RB that/IN the/DT airline/NN might/MD have/VB to/TO seek/VB Chapter/NN 11/CD bankruptcy/NN prevention./NN
+Last/JJ week/NN it/PRP struck/VBD a/DT $1bn/CD cost-cutting/JJ deal/NN with/IN its/PRP$ pilots/NNS which/WDT could/MD save/VB it/PRP from/IN bankruptcy./NN
+The/DT deal/NN would/MD see/VB pilots/NNS accept/VBP a/DT 32%/CD pay/NN cut/NN in/IN return/NN for/IN the/DT right/NN to/TO buy/VB 30/CD million/CD Delta/NNP shares/NNS unions/NNS said./NN
+And/CC on/IN Monday/NNP it/PRP negotiated/VBD a/DT deal/NN to/TO defer/VB about/IN $135m/CD in/IN debt/NN which/WDT was/VBD due/JJ next/JJ year/NN until/IN 2007./CD
+The/DT airline/NN also/RB said/VBD it/PRP had/VBD agreed/VBN the/DT terms/NNS of/IN a/DT $600m/CD loan/NN from/IN American/NNP Express./NNP

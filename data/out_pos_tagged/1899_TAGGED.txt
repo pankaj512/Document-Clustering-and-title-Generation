@@ -1,0 +1,19 @@
+US/PRP peer-to-peer/VBD pirates/NNS convicted/VBN
+
+The/DT first/JJ convictions/NNS for/IN piracy/NN over/IN peer-to-peer/JJ networks/NNS have/VBP been/VBN handed/VBN down/RP in/IN the/DT US./NNP
+
+New/NNP Yorker/NNP William/NNP Trowbridge/NNP and/CC Texan/NNP Michael/NNP Chicoine/NNP have/VBP pleaded/VBN guilty/JJ to/TO charges/NNS that/IN they/PRP infringed/VBD copyright/NN by/IN illegally/RB sharing/VBG music/NN movies/NNS and/CC software./NN
+The/DT two/CD men/NNS faced/VBD charges/NNS following/VBG raids/NNS in/IN August/NNP on/IN suspected/VBN pirates/NNS by/IN the/DT FBI./NNP
+The/DT pair/NN face/NN jail/NN terms/NNS of/IN up/IN to/TO five/CD years/NNS and/CC a/DT $250000/CD (£130000)/CD fine./NN
+
+In/IN a/DT statement/NN the/DT US/PRP Department/NNP of/IN Justice/NNP said/VBD the/DT two/CD men/NNS operated/VBD the/DT central/JJ hubs/NNS in/IN a/DT piracy/NN community/NN organised/VBN across/IN the/DT Direct/NNP Connect/VBP peer-to-peer/JJ network./NN
+The/DT piracy/NN group/NN called/VBD itself/PRP the/DT Underground/JJ Network/NNP and/CC membership/NN of/IN it/PRP demanded/VBD that/IN users/NNS share/NN between/IN one/CD and/CC 100/CD gigabytes/NNS of/IN files./NN
+Direct/NNS Connect/VBP allows/VBZ users/NNS to/TO set/VB themselves/PRP up/RP as/RB central/JJ servers/NNS that/DT act/NN as/IN co-ordinating/JJ spots/NNS for/IN sharers./NN
+Users/NNS would/MD swap/VB files/NNS such/JJ as/IN films/NNS and/CC music/NN by/IN exchanging/VBG data/NNS over/IN the/DT network./NN
+During/IN its/PRP$ investigation/NN FBI/NNP agents/NNS reportedly/RB downloaded/VBN 84/CD movies/NNS 40/CD software/NN programs/NNS 13/CD games/NNS and/CC 178/CD "sound/NN recordings"/NN from/IN the/DT five/CD hubs/NNS that/WDT made/VBD up/RP the/DT larger/JJR piracy/NN group./NN
+The/DT raids/NNS were/VBD organised/VBN under/IN the/DT umbrella/NN of/IN Operation/NN Digital/NNP Gridlock/NN which/WDT was/VBD aimed/VBN at/IN fighting/VBG "criminal/JJ copyright/NN theft/NN on/IN peer-to-peer/JJ networks"./NN
+In/IN total/JJ six/CD raids/NNS were/VBD carried/VBN out/RP in/IN August./NNP
+Five/CD were/VBD on/IN the/DT homes/NNS of/IN suspected/VBN copyright/NN thieves/NNS and/CC one/CD on/IN a/DT net/JJ service/NN firm./NN
+The/DT Department/NNP of/IN Justice/NNP said/VBD that/IN both/DT men/NNS pleaded/VBD guilty/JJ to/TO one/CD count/NN of/IN conspiracy/NN to/TO commit/VB felony/NN copyright/NN infringement./NN
+They/PRP also/RB pleaded/VBD guilty/JJ to/TO acting/VBG for/IN commercial/JJ advantage./NN
+The/DT two/CD men/NNS are/VBP due/JJ to/TO be/VB sentenced/VBN on/IN 29/CD April./NNP

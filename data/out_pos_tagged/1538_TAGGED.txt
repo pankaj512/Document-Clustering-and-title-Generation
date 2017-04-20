@@ -1,0 +1,23 @@
+Hereford/NNP 1-1/JJ Doncaster/NNP
+
+Hereford/NNP win/VBP 3-1/JJ on/IN penalties./NN
+
+Rovers/NNP took/VBD the/DT lead/NN on/IN 59/CD minutes/NNS as/IN Michael/NNP McIndoe's/NNP corner/NN found/VBD Adriano/NNP Rigoglioso/NNP whose/WP$ stunning/JJ volley/NN soared/VBD into/IN the/DT top/JJ right/NN of/IN the/DT net./NN
+Danny/NNP Williams/NNP equalised/VBD for/IN the/DT hosts/NNS after/IN 72/CD minutes/NNS with/IN a/DT crisp/JJ finish/NN from/IN just/RB insist/VBP the/DT penalty/NN box./NN
+McIndoe/NNP saw/VBD an/DT extra-time/JJ penalty/NN saved/VBN giving/VBG Mills/NNP the/DT chance/NN to/TO net/VB the/DT winning/VBG penalty./NN
+
+Mawson/NNP Travis/NNP Mkandawire/NNP James/NNP Robinson/NNP Daniel/NNP Williams/NNP Stanley/NNP Hyde/NNP (Pitman/NN 105)/CD Purdie/NNP (Mills/NN 83)/CD Brown/NNP Stansfield/NNP (Green/NN 102)./CD
+Subs/NNP Not/RB Used/VBD Smith/NNP Scott./NNP
+
+James./NNP
+
+Daniel/NNP Williams/NNP 72./CD
+
+Ingham/NNP Mulligan/NNP Fenton/NNP Morley/NNP Priet/NNP (Ryan/NN 79)/CD McIndoe/NNP Ravenhill/NNP (Price/NN 90)/CD Rigoglioso/NNP Tierney/NNP (Jackson/NN 79)/CD Beardsley/NNP Coppinger./NNP
+Subs/NNP Not/RB Used/VBD Warrington/NNP Maloney./NNP
+
+Rigoglioso/NNP 59./CD
+
+1375/CD
+
+T/NNP Parkes/NNP (W/NN Midlands)./NNP

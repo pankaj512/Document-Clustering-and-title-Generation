@@ -1,0 +1,19 @@
+Dollar/NN gains/NNS on/IN Greenspan/NNP speech/NN
+
+The/DT dollar/NN has/VBZ hit/VBN its/PRP$ highest/JJS level/NN against/IN the/DT euro/NN in/IN almost/RB three/CD months/NNS after/IN the/DT Federal/NNP Reserve/NNP head/NN said/VBD the/DT US/PRP trade/VBP deficit/NN is/VBZ set/VBN to/TO stabilise./VB
+
+And/CC Alan/NNP Greenspan/NNP highlighted/VBD the/DT US/PRP government's/VBZ willingness/NN to/TO curb/VB spending/NN and/CC rising/VBG household/NN savings/NNS as/IN factors/NNS which/WDT may/MD help/VB to/TO reduce/VB it./NN
+In/IN late/JJ trading/NN in/IN New/NNP York/NNP the/DT dollar/NN reached/VBD $1.2871/CD against/IN the/DT euro/NN from/IN $1.2974/CD on/IN Thursday./NNP
+Market/NN concerns/NNS about/IN the/DT deficit/NN has/VBZ hit/VBN the/DT greenback/NN in/IN recent/JJ months./NN
+On/IN Friday/NNP Federal/NNP Reserve/NNP chairman/NN Mr/NNP Greenspan's/NNP speech/NN in/IN London/NNP ahead/RB of/IN the/DT meeting/NN of/IN G7/CD finance/NN ministers/NNS sent/VBD the/DT dollar/NN higher/JJR after/IN it/PRP had/VBD earlier/RBR tumbled/VBN on/IN the/DT back/NN of/IN worse-than-expected/JJ US/PRP jobs/VBZ data./NN
+"I/NN think/VBP the/DT chairman's/NNS taking/VBG a/DT much/RB more/RBR sanguine/JJ view/NN on/IN the/DT current/JJ account/NN deficit/NN than/IN he's/NNS taken/VBN for/IN some/DT time"/NN said/VBD Robert/NNP Sinche/NNP head/NN of/IN currency/NN strategy/NN at/IN Bank/NNP of/IN America/NNP in/IN New/NNP York./NNP
+"He's/NN taking/VBG a/DT longer-term/JJ view/NN laying/VBG out/RP a/DT set/NN of/IN conditions/NNS under/IN which/WDT the/DT current/JJ account/NN deficit/NN can/MD improve/VB this/DT year/NN and/CC next."/NN
+
+Worries/NNS about/IN the/DT deficit/NN concerns/NNS about/IN China/NNP do/VBP however/RB remain./NN
+China's/NNP currency/NN remains/VBZ pegged/JJ to/TO the/DT dollar/NN and/CC the/DT US/PRP currency's/VBZ sharp/JJ falls/NNS in/IN recent/JJ months/NNS have/VBP therefore/RB made/VBN Chinese/JJ export/NN prices/NNS highly/RB competitive./VBP
+But/CC calls/VBZ for/IN a/DT shift/NN in/IN Beijing's/NNP policy/NN have/VBP fallen/VBN on/IN deaf/JJ ears/NNS despite/IN recent/JJ comments/NNS in/IN a/DT major/JJ Chinese/JJ newspaper/NN that/IN the/DT "time/NN is/VBZ ripe"/NN for/IN a/DT loosening/NN of/IN the/DT peg./NN
+The/DT G7/CD meeting/NN is/VBZ thought/VBN unlikely/JJ to/TO produce/VB any/DT meaningful/JJ movement/NN in/IN Chinese/JJ policy./NN
+In/IN the/DT meantime/NN the/DT US/PRP Federal/NNP Reserve's/NNP decision/NN on/IN 2/CD February/NNP to/TO boost/VB interest/NN rates/NNS by/IN a/DT quarter/NN of/IN a/DT point/NN -/: the/DT sixth/JJ such/JJ move/NN in/IN as/RB many/JJ months/NNS -/: has/VBZ opened/VBN up/RP a/DT differential/NN with/IN European/JJ rates./NN
+The/DT half-point/JJ window/NN some/DT believe/VBP could/MD be/VB enough/RB to/TO keep/VB US/PRP assets/NNS looking/VBG more/RBR attractive/JJ and/CC could/MD help/VB prop/VB up/RP the/DT dollar./NN
+The/DT recent/JJ falls/NNS have/VBP partly/RB been/VBN the/DT result/NN of/IN big/JJ budget/NN deficits/NNS as/RB well/RB as/IN the/DT US's/NNP yawning/VBG current/JJ account/NN gap/NN both/DT of/IN which/WDT need/VBP to/TO be/VB funded/VBN by/IN the/DT buying/NN of/IN US/PRP bonds/VBZ and/CC assets/NNS by/IN foreign/JJ firms/NNS and/CC governments./NN
+The/DT White/NNP House/NNP will/MD announce/VB its/PRP$ budget/NN on/IN Monday/NNP and/CC many/JJ commentators/NNS believe/VBP the/DT deficit/NN will/MD remain/VB at/IN close/NN to/TO half/NN a/DT trillion/CD dollars./NN

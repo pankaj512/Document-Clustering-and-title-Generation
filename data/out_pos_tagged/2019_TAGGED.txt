@@ -1,0 +1,30 @@
+Ban/NN hits/NNS Half-Life/NN 2/CD pirates/NNS hard/JJ
+
+About/IN 20000/CD people/NNS have/VBP been/VBN banned/VBN from/IN playing/VBG the/DT Half-Life/NN 2/CD game./NN
+
+Game/NNP maker/NN Valve/NN shut/NN down/RP the/DT online/NN accounts/NNS of/IN the/DT players/NNS because/IN it/PRP had/VBD evidence/NN that/IN their/PRP$ copy/NN of/IN the/DT game/NN had/VBD been/VBN obtained/VBN illegally./NN
+Copies/NNS of/IN Half-Life/NN 2/CD had/VBD been/VBN circulating/VBG on/IN file-sharing/JJ systems/NNS soon/RB after/IN it/PRP was/VBD officially/RB released./NN
+Experts/NNS said/VBD the/DT success/NN of/IN the/DT Half-Life/NN 2/CD anti-piracy/JJ system/NN might/MD tempt/VB other/JJ game/NN makers/NNS into/IN creating/VBG their/PRP$ own/JJ version./NN
+
+Half-Life/NN 2/CD was/VBD officially/RB released/VBN on/IN 16/CD November/NNP but/CC before/IN gamers/NNS could/MD get/VB to/TO grips/NNS with/IN the/DT long-awaited/JJ title/NN they/PRP were/VBD forced/VBN to/TO authenticate/VB their/PRP$ copy/NN of/IN the/DT game/NN online./NN
+Authentication/NNP involved/VBD setting/VBG up/RP an/DT account/NN with/IN Valve's/NNP gaming/NN community/NN system/NN called/VBN Steam/NN and/CC letting/VBG that/WDT check/NN which/WDT copy/NN of/IN the/DT game/NN was/VBD being/VBG run./NN
+
+In/IN a/DT statement/NN detailing/VBG the/DT banning/NN of/IN the/DT accounts/NNS Valve/NN said/VBD this/DT system/NN helped/VBD identify/VB who/WP had/VBD got/VBN hold/VB of/IN pirated/VBN copies./NN
+"The/NN method/NN used/VBN was/VBD extremely/RB easy/JJ for/IN Valve/NN to/TO trace/VB and/CC confirm/VB and/CC so/RB there/EX is/VBZ no/DT question/NN that/IN the/DT accounts/NNS disabled/NN were/VBD used/VBN to/TO try/VB and/CC illegally/RB obtain/VB Half-Life/NN 2"/CD read/VBP the/DT statement./NN
+Valve/NN spokesman/NN Doug/NNP Lombardi/NNP said/VBD that/IN the/DT company/NN had/VBD not/RB yet/RB released/VBN sales/NNS figures/NNS for/IN the/DT game/NN and/CC would/MD not/RB say/VB what/WP proportion/NN of/IN all/DT Steam/NN players/NNS the/DT 20000/CD represented./NN
+One/CD effect/NN of/IN Steam's/NNP popularity/NN has/VBZ been/VBN to/TO limit/VB the/DT copies/NNS of/IN the/DT game/NN sold/VBN in/IN shops/NNS and/CC artificially/RB depress/VB the/DT game's/NNS ranking/JJ in/IN the/DT top/JJ ten./NN
+Even/RB so/IN the/DT title/NN debuted/VBN at/IN No/DT 3/NN in/IN the/DT UK/NNP charts./NN
+Valve/NN also/RB said/VBD that/IN a/DT small/JJ number/NN of/IN accounts/NNS were/VBD closed/VBN because/IN people/NNS were/VBD using/VBG stolen/VBN credit/NN cards/NNS to/TO buy/VB copies/NNS of/IN the/DT game/NN or/CC were/VBD using/VBG stolen/VBN Steam/NN accounts./NN
+Some/DT of/IN those/DT who/WP have/VBP been/VBN banned/VBN by/IN the/DT move/NN protested/VBD their/PRP$ innocence/NN in/IN the/DT online/NN forums/NNS on/IN the/DT main/JJ Steam/NN site/NN and/CC said/VBD they/PRP were/VBD being/VBG punished/VBN for/IN what/WP other/JJ people/NNS did/VBD with/IN their/PRP$ account./NN
+
+Some/DT contributors/NNS to/TO the/DT forums/NNS wondered/VBD if/IN the/DT action/NN might/MD force/VB more/JJR piracy/NN as/IN people/NNS tried/VBD to/TO get/VB hold/VB of/IN successive/JJ copies/NNS of/IN the/DT game/NN to/TO keep/VB ahead/RB of/IN Valve's/NNP anti-piracy/JJ actions./NN
+
+In/IN its/PRP$ statement/NN Valve/NN also/RB said/VBD that/IN rumours/NNS that/IN it/PRP distributed/VBD fake/JJ Half-Life/NN 2/CD keys/NNS copies/NNS of/IN the/DT game/NN or/CC instructions/NNS on/IN how/WRB to/TO hack/VB the/DT game/NN just/RB to/TO catch/VB pirates/NNS and/CC cheats/NNS were/VBD false./NN
+The/DT company/NN said/VBD "The/NN hack/NN came/VBD from/IN the/DT 'community'/NN as/IN do/VBP they/PRP all."/VBP It/PRP added/VBD that/IN most/JJS of/IN those/DT banned/VBN simply/RB tried/VBD to/TO use/VB copies/NNS of/IN Half-Life/NN 2/CD circulating/VBG on/IN file-swapping/JJ systems/NNS such/JJ as/IN Bit/NN Torrent/NN rather/RB than/IN use/NN hacks/NNS to/TO get/VB around/IN the/DT need/NN for/IN CD/NNP keys./NN
+Rob/NNP Fahey/NNP editor/NN of/IN online/NN news/NN site/NN gamesindustry.biz/NN said/VBD the/DT mass/NN banning/VBG showed/VBD off/RP the/DT power/NN of/IN the/DT Steam/NN system./NN
+Before/IN now/RB he/PRP said/VBD it/PRP has/VBZ been/VBN hard/RB for/IN game/NN makers/NNS to/TO do/VB anything/NN about/IN piracy/NN once/RB the/DT game/NN was/VBD being/VBG played./NN
+"But/NN with/IN this/DT Valve/NN is/VBZ taking/VBG really/RB effective/JJ steps/NNS against/IN people/NNS using/VBG illegitimate/JJ copies/NNS of/IN Half-Life/NN 2"/CD he/PRP said./VB
+If/IN Steam/NN proves/VBZ effective/JJ at/IN cutting/VBG the/DT piracy/NN of/IN games/NNS to/TO a/DT minimum/JJ said/VBD Mr/NNP Fahey/NNP other/JJ game/NN makers/NNS may/MD be/VB tempted/VBN to/TO set/VB up/RP copycat/NN systems./NN
+"It's/NN not/RB hard/JJ to/TO see/VB a/DT point/NN in/IN the/DT near/JJ future/JJ when/WRB every/DT publisher/NN wants/VBZ you/PRP to/TO run/VB an/DT application/NN on/IN your/PRP$ system/NN purely/RB to/TO allow/VB you/PRP to/TO play/VB their/PRP$ games"/NN he/PRP said./VB
+This/DT could/MD mean/VB that/IN computers/NNS get/VBP cluttered/VBN with/IN poorly/RB written/VBN Steam-type/JJ systems/NNS that/WDT are/VBP used/VBN to/TO batter/VB people/NNS with/IN adverts./NN
+Unless/IN game/NN firms/NNS were/VBD careful/JJ he/PRP said/VBD they/PRP could/MD face/VB a/DT backlash/NN from/IN consumers/NNS who/WP soon/RB get/VBP tired/JJ of/IN maintaining/VBG different/JJ accounts/VBZ for/IN every/DT game/NN they/PRP play./VBP

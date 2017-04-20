@@ -1,0 +1,13 @@
+Actress/NNP Roberts/NNP takes/VBZ spider/NN role/NN
+
+Actress/NNP Julia/NNP Roberts/NNP will/MD play/VB the/DT part/NN of/IN a/DT spider/NN in/IN a/DT new/JJ film/NN version/NN of/IN children's/NNS classic/JJ Charlotte's/NNP Web./NNP
+
+She/PRP will/MD voice/VB Charlotte/NNP who/WP teams/VBZ up/RP with/IN a/DT girl/NN to/TO save/VB their/PRP$ friend/NN Wilbur/NNP the/DT pig/NN in/IN the/DT story/NN by/IN EB/NNP White./NNP
+The/DT film/NN -/: a/DT mix/NN of/IN live/JJ action/NN and/CC animation/NN -/: will/MD be/VB Roberts'/NNP first/JJ project/NN since/IN the/DT birth/NN of/IN her/PRP$ twins/NNS Hazel/NNP and/CC Phinnaeus/NNP two/CD months/NNS ago./NN
+Oprah/NNP Winfrey/NNP will/MD voice/VB a/DT goose/NN John/NNP Cleese/NNP will/MD voice/VB a/DT sheep/NN and/CC Steve/NNP Buscemi/NNP a/DT rat/NN in/IN the/DT 2006/CD film./NN
+
+Ten-year-old/NNP Dakota/NNP Fanning/NNP will/MD play/VB Fern/NNP the/DT girl/NN at/IN the/DT centre/NN of/IN the/DT story/NN in/IN the/DT film/NN to/TO be/VB directed/VBN by/IN 13/CD Going/VBG on/IN 30/CD film-maker/NN Gary/NNP Winick./NNP
+Filming/VBG is/VBZ due/JJ to/TO begin/VB in/IN Melbourne/NNP Australia/NNP later/RB this/DT month./NN
+Charlotte's/NNP Web/NN has/VBZ sold/VBN 45/CD million/CD copies/NNS since/IN it/PRP was/VBD published/VBN in/IN 1952./CD
+An/DT animated/VBN version/NN was/VBD made/VBN in/IN 1973/CD but/CC this/DT will/MD be/VB the/DT first/JJ live/NN action/NN film./NN
+The/DT actor/NN who/WP will/MD voice/VB Wilbur/NNP the/DT pig/NN has/VBZ yet/RB to/TO be/VB revealed./NN

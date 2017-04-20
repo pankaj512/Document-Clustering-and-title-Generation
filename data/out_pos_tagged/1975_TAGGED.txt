@@ -1,0 +1,37 @@
+'Blog'/NN picked/VBD as/IN word/NN of/IN the/DT year/NN
+
+The/DT term/NN "blog"/NN has/VBZ been/VBN chosen/VBN as/IN the/DT top/JJ word/NN of/IN 2004/CD by/IN a/DT US/PRP dictionary/VBP publisher./NN
+
+Merriam-Webster/NNP said/VBD "blog"/NN headed/VBD the/DT list/NN of/IN most/RBS looked-up/JJ terms/NNS on/IN its/PRP$ site/NN during/IN the/DT last/JJ twelve/CD months./NN
+During/IN 2004/CD blogs/NNS or/CC web/NN logs/NNS have/VBP become/VBN hugely/RB popular/JJ and/CC some/DT have/VBP started/VBN to/TO influence/VB mainstream/NN media./NN
+Other/JJ words/NNS on/IN the/DT Merriam-Webster/NNP list/NN were/VBD associated/VBN with/IN major/JJ news/NN events/NNS such/JJ as/IN the/DT US/PRP presidential/JJ election/NN or/CC natural/JJ disasters/NNS that/WDT hit/VBD the/DT US./NNP
+
+Merriam-Webster/NNP defines/VBZ a/DT blog/NN as/IN "a/NN Web/NN site/NN that/WDT contains/VBZ an/DT online/NN personal/JJ journal/NN with/IN reflections/NNS comments/NNS and/CC often/RB hyperlinks"./NN
+Its/PRP$ list/NN of/IN most/RBS looked-up/JJ words/NNS is/VBZ drawn/VBN up/RP every/DT year/NN and/CC it/PRP discounts/VBZ terms/NNS such/JJ as/IN swear/NN words/NNS that/IN everyone/NN likes/VBZ to/TO look/VB up/RB or/CC those/DT that/DT always/RB cause/VBP problems/NNS such/JJ as/IN "affect"/NN and/CC "effect"./NN
+
+Merriam-Webster/NNP said/VBD "blog"/NN was/VBD the/DT word/NN that/IN people/NNS have/VBP asked/VBN to/TO be/VB defined/VBN or/CC explained/VBD most/RBS often/RB over/IN the/DT last/JJ 12/CD months./NN
+The/DT word/NN will/MD now/RB appear/VB in/IN the/DT 2005/CD version/NN of/IN Merriam-Webster's/NNP printed/VBD dictionary./NN
+However/RB the/DT word/NN is/VBZ already/RB included/VBN in/IN some/DT printed/VBN versions/NNS of/IN the/DT Oxford/NNP English/NNP Dictionary./NNP
+A/DT spokesman/NN for/IN the/DT Oxford/NNP University/NNP Press/NNP said/VBD that/IN the/DT word/NN was/VBD now/RB being/VBG put/VBN into/IN other/JJ dictionaries/NNS for/IN children/NNS and/CC learners/NNS reflecting/VBG its/PRP$ mainstream/NN use./NN
+"I/NN think/VBP it/PRP was/VBD the/DT word/NN of/IN last/JJ year/NN rather/RB than/IN this/DT year"/NN he/PRP said./VB
+"Now/NN we're/NN getting/VBG words/NNS that/IN derive/JJ from/IN it/PRP such/JJ as/IN 'blogosphere'/NN and/CC so/RB on"/NN he/PRP said./VB
+"But"/NN he/PRP added/VBD "it's/NN a/DT pretty/RB recent/JJ thing/NN and/CC in/IN the/DT way/NN that/IN this/DT happens/VBZ these/DT days/NNS it's/NNS got/VBD established/VBN very/RB quickly."/NN
+
+Blogs/NNP come/VB in/IN many/JJ different/JJ forms./NN
+Many/JJ act/NN as/IN news/NN sites/NNS for/IN particular/JJ groups/NNS or/CC subjects/VBZ some/DT are/VBP written/VBN from/IN a/DT particular/JJ political/JJ slant/NN and/CC others/NNS are/VBP simply/RB lists/NNS of/IN interesting/JJ sites./NN
+Other/JJ terms/NNS in/IN the/DT top/JJ 10/CD were/VBD related/VBN to/TO natural/JJ disasters/NNS that/WDT have/VBP struck/VBN the/DT US/PRP such/JJ as/IN "hurricane"/NN or/CC were/VBD to/TO do/VB with/IN the/DT US/PRP election./VBP
+Words/NNS such/JJ as/IN "incumbent"/NN "electoral"/NN and/CC "partisan"/NN reflected/VBD the/DT scale/NN of/IN interest/NN in/IN the/DT vote./NN
+Blogs/NNP also/RB proved/VBD very/RB useful/JJ to/TO both/DT sides/NNS in/IN the/DT US/PRP election/VBP battle/NN because/IN many/JJ pundits/NNS who/WP maintain/VBP their/PRP$ own/JJ journals/NNS were/VBD able/JJ to/TO air/VB opinions/NNS that/WDT would/MD never/RB appear/VB in/IN more/JJR mainstream/NN media./NN
+Speculation/NN that/IN President/NNP Bush/NNP was/VBD getting/VBG help/NN during/IN debates/NNS via/IN a/DT listening/VBG device/NN was/VBD first/RB aired/VBD on/IN web/NN logs./NN
+Online/NN journals/NNS also/RB raised/VBD doubts/NNS about/IN documents/NNS used/VBN by/IN US/PRP television/VBP news/NN organisation/NN CBS/NNP in/IN a/DT story/NN about/IN President/NNP Bush's/NNP war/NN record./NN
+The/DT immediacy/NN of/IN many/JJ blogs/NNS also/RB helped/VBD some/DT wield/NN influence/NN over/IN topics/NNS that/WDT made/VBD it/PRP in/RP to/TO national/JJ press./NN
+
+This/DT is/VBZ despite/IN the/DT fact/NN that/IN the/DT number/NN of/IN people/NNS reading/VBP even/RB the/DT most/RBS influential/JJ blogs/NNS is/VBZ tiny./NN
+Statistics/NNS by/IN web/NN influence/NN ranking/JJ firm/NN HitWise/NNP reveal/VB that/IN the/DT most/RBS popular/JJ political/JJ blog/NN racks/NNS up/RP only/RB 0.0051%/CD of/IN all/DT net/JJ visits/NNS per/IN day./NN
+One/CD of/IN the/DT reasons/NNS that/IN blogs/NNS and/CC regularly/RB updated/VBN online/NN journals/NNS have/VBP become/VBN popular/JJ is/VBZ because/IN the/DT software/NN used/VBN to/TO put/VB them/PRP together/RB make/VBP it/PRP very/RB easy/JJ for/IN people/NNS to/TO air/VB their/PRP$ views/NNS online./NN
+According/VBG to/TO blog/NN analysis/NN firm/NN Technorati/NNP the/DT number/NN of/IN blogs/NNS in/IN existence/NN the/DT blogosphere/NN has/VBZ doubled/VBN every/DT five/CD and/CC a/DT half/NN months/NNS for/IN the/DT last/JJ 18/CD months./NN
+Technorati/NNP now/RB estimates/VBZ that/IN the/DT number/NN of/IN blogs/NNS in/IN existence/NN has/VBZ exceeded/VBN 4.8/CD million./NN
+Some/DT speculate/VBP that/IN less/JJR than/IN a/DT quarter/NN of/IN this/DT number/NN are/VBP regularly/RB maintained./NN
+According/VBG to/TO US/PRP research/VBP firm/NN Pew/NNP Internet/NNP &/CC American/NNP Life/NNP a/DT blog/NN is/VBZ created/VBN every/DT 5.8/CD seconds./NN
+Another/DT trend/NN this/DT year/NN has/VBZ been/VBN the/DT increasing/VBG numbers/NNS of/IN weblogs/NNS that/DT detail/VBP the/DT daily/JJ lives/NNS of/IN many/JJ ordinary/JJ workers/NNS in/IN jobs/NNS that/IN few/JJ people/NNS know/VBP much/JJ about./NN
+In/IN many/JJ repressive/JJ regimes/NNS and/CC developing/VBG nations/NNS blogs/NNS have/VBP been/VBN embraced/VBN by/IN millions/NNS of/IN people/NNS keen/JJ to/TO give/VB their/PRP$ plight/NN a/DT voice./NN

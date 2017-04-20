@@ -1,0 +1,35 @@
+Attack/NN prompts/VBZ Bush/NNP site/NN block/NN
+
+The/DT official/JJ re-election/NN site/NN of/IN President/NNP George/NNP W/NNP Bush/NNP is/VBZ blocking/VBG visits/NNS from/IN overseas/JJ users/NNS for/IN "security/NN reasons"./NN
+
+The/DT blocking/VBG began/VBD early/RB on/IN Monday/NNP so/IN those/DT outside/IN the/DT US/PRP and/CC trying/VBG to/TO view/VB the/DT site/NN got/VBD a/DT message/NN saying/VBG they/PRP are/VBP not/RB authorised/VBN to/TO view/VB it./NN
+But/CC keen/JJ net/JJ users/NNS have/VBP shown/VBN that/IN the/DT policy/NN is/VBZ not/RB being/VBG very/RB effective./NN
+Many/JJ have/VBP found/VBN that/IN the/DT site/NN can/MD still/RB be/VB viewed/VBN by/IN overseas/JJ browsers/NNS via/IN several/JJ alternative/NN net/JJ addresses./NN
+
+The/DT policy/NN of/IN trying/VBG to/TO stop/VB overseas/JJ visitors/NNS viewing/VBG the/DT site/NN is/VBZ thought/VBN to/TO have/VB been/VBN adopted/VBN in/IN response/NN to/TO an/DT attack/NN on/IN the/DT georgewbush.com/NN website./NN
+Scott/NNP Stanzel/NNP a/DT spokesman/NN for/IN the/DT Bush-Cheney/NNP campaign/NN said/VBD "The/NN measure/NN was/VBD taken/VBN for/IN security/NN reasons."/NN He/PRP declined/VBD to/TO elaborate/VB any/DT further/JJ on/IN the/DT blocking/VBG policy./NN
+The/DT barring/NN of/IN non-US/JJ visitors/NNS has/VBZ led/VBN to/TO the/DT campaign/NN being/VBG inundated/VBN with/IN calls/VBZ and/CC forced/VBD it/PRP to/TO make/VB a/DT statement/NN about/IN why/WRB the/DT blocking/VBG was/VBD taking/VBG place./NN
+In/IN early/JJ October/NNP a/DT so-called/JJ "denial/NN of/IN service"/NN attack/NN was/VBD mounted/VBN on/IN the/DT site/NN that/WDT bombarded/VBD it/PRP with/IN data/NNS from/IN thousands/NNS of/IN PCs./NNP
+The/DT attack/NN made/VBD the/DT site/NN unusable/JJ for/IN about/IN five/CD hours./NN
+
+About/IN the/DT same/JJ time/NN the/DT web/NN team/NN of/IN the/DT Bush-Cheney/NNP campaign/NN started/VBD using/VBG the/DT services/NNS of/IN a/DT company/NN called/VBN Akamai/NNP that/WDT helps/VBZ websites/NNS deal/NN with/IN the/DT ebbs/NNS and/CC flows/NNS of/IN visitor/NN traffic./NN
+Akamai/NNP uses/VBZ a/DT web-based/JJ tool/NN called/VBN EdgeScape/NNP that/WDT lets/VBZ its/PRP$ customers/NNS work/VBP out/RP where/WRB visitors/NNS are/VBP based./NN
+Typically/RB this/DT tool/NN is/VBZ used/VBN to/TO ensure/VB that/IN webpages/NNS video/NN and/CC images/NNS load/NN quickly/RB but/CC it/PRP can/MD also/RB be/VB used/VBN to/TO block/VB traffic./NN
+Geographic/JJ blocking/NN works/VBZ because/IN the/DT numerical/JJ addresses/NNS that/IN the/DT net/JJ uses/VBZ to/TO organise/VB itself/PRP are/VBP handed/VBN out/RP on/IN a/DT regional/JJ basis./NN
+Readers/NNS of/IN the/DT Boingboing/NNP weblog/NN have/VBP found/VBN that/IN viewers/NNS can/MD still/RB get/VB at/IN the/DT site/NN by/IN using/VBG alternative/JJ forms/NNS of/IN the/DT George/NNP W/NNP Bush/NNP domain/NN name./NN
+Ironically/RB one/CD of/IN the/DT working/VBG alternatives/NNS is/VBZ for/IN a/DT supposedly/RB more/JJR secure/NN version/NN of/IN the/DT site./NN
+There/EX are/VBP now/RB at/IN least/JJS three/CD working/VBG alternative/JJ domains/NNS for/IN the/DT Bush-Cheney/NNP campaign/NN that/WDT let/NN web/NN users/NNS outside/IN the/DT US/PRP visit/VBP the/DT site./NN
+The/DT site/NN can/MD also/RB be/VB seen/VBN using/VBG anonymous/JJ proxy/NN services/NNS that/WDT are/VBP based/VBN in/IN the/DT US./NNP
+Some/DT web/NN users/NNS in/IN Canada/NNP also/RB report/NN that/IN they/PRP can/MD browse/VB the/DT site./NN
+
+The/DT international/JJ exclusion/NN zone/NN around/IN georgewbush.com/NN was/VBD spotted/VBN by/IN net/JJ monitoring/NN firm/NN Netcraft/NNP which/WDT keeps/VBZ an/DT eye/NN on/IN traffic/NN patterns/NNS across/IN many/JJ different/JJ sites./NN
+
+Netcraft/NNP said/VBD that/IN since/IN the/DT early/JJ hours/NNS of/IN 25/CD October/NNP attempts/NNS to/TO view/VB the/DT site/NN through/IN its/PRP$ monitoring/NN stations/NNS in/IN London/NNP Amsterdam/NNP and/CC Sydney/NNP have/VBP failed./NN
+By/IN contrast/NN Netcraft's/NNP four/CD monitoring/NN stations/NNS in/IN the/DT US/PRP managed/VBD to/TO view/VB the/DT site/NN with/IN no/DT problems./NN
+Data/NNP gathered/VBD by/IN Netcraft/NNP on/IN the/DT pattern/NN of/IN traffic/NN to/TO the/DT site/NN shows/VBZ that/IN the/DT blocking/VBG is/VBZ not/RB the/DT result/NN of/IN another/DT denial/NN of/IN service/NN attack./NN
+Mike/NNP Prettejohn/NNP Netcraft/NNP president/NN speculated/VBD that/IN the/DT blocking/VBG decision/NN might/MD have/VB been/VBN taken/VBN to/TO cut/VB costs/NNS and/CC traffic/NN in/IN the/DT run-up/NN to/TO the/DT election/NN on/IN 2/CD November./NNP
+He/PRP said/VBD the/DT site/NN may/MD see/VB no/DT reason/NN to/TO distribute/VB content/JJ to/TO people/NNS who/WP will/MD not/RB be/VB voting/NN next/JJ week./NN
+Managing/VBG traffic/NN could/MD also/RB be/VB a/DT good/JJ way/NN to/TO ensure/VB that/IN the/DT site/NN stays/VBZ working/VBG in/IN the/DT closing/NN days/NNS of/IN the/DT election/NN campaign./NN
+However/RB simply/RB blocking/VBG non-US/JJ visitors/NNS also/RB means/VBZ that/IN Americans/NNPS overseas/JJ are/VBP barred/VBN too./NN
+Most/JJS American/JJ soldiers/NNS stationed/VBD overseas/JJ will/MD be/VB able/JJ to/TO see/VB the/DT site/NN as/IN they/PRP use/VBP the/DT US/PRP military's/VBZ own/JJ portion/NN of/IN the/DT net./NN
+Akamai/NNP declined/VBD to/TO comment/VB saying/VBG it/PRP could/MD not/RB talk/VB about/IN customer/NN websites./NN

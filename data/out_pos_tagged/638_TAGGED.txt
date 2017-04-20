@@ -1,0 +1,12 @@
+Top/JJ gig/NN award/NN for/IN Scissor/NNP Sisters/NNS
+
+New/NNP York/NNP band/NN Scissor/NNP Sisters/NNS have/VBP won/VBN a/DT gig/NN of/IN the/DT year/NN award/NN for/IN their/PRP$ performance/NN at/IN this/DT year's/NNS V/NNP Festival./NNP
+
+The/DT award/NN was/VBD voted/VBN for/IN by/IN listeners/NNS of/IN Virgin/NNP Radio/NNP which/WDT compiled/VBD a/DT top/JJ 10/CD which/WDT was/VBD mostly/RB dominated/VBN by/IN newcomers/NNS on/IN the/DT music/NN scene/NN this/DT year./NN
+The/DT quirky/JJ disco-rock/JJ band/NN beat/NN The/DT Red/NNP Hot/NNP Chili/NNP Peppers/NNP who/WP came/VBD second/JJ for/IN their/PRP$ Hyde/NNP Park/NNP performance/NN in/IN June./NNP
+Virgin/NNP Radio/NNP DJ/NNP Pete/NNP Mitchell/NNP said/VBD "This/NN year/NN has/VBZ seen/VBN an/DT amazing/JJ array/NN of/IN talent/NN come/VBN into/IN the/DT mainstream."/NN He/PRP added/VBD "The/NN Scissor/NNP Sisters/NNS are/VBP one/CD of/IN the/DT most/RBS original/JJ eccentric/JJ bands/NNS to/TO come/VB through/IN and/CC it's/VBZ no/DT surprise/NN the/DT British/JJ public/JJ are/VBP lapping/VBG up/RP their/PRP$ performances."/NN Newcomers/NNS Keane/NNP came/VBD in/IN third/JJ place/NN for/IN their/PRP$ August/NNP gig/NN at/IN the/DT V/NNP Festival/NNP followed/VBD by/IN Maroon/NNP 5/CD and/CC Snow/NNP Patrol./NNP
+
+Music/NN veterans/VBZ The/DT Who/WP and/CC David/NNP Bowie/NNP both/DT earned/VBD places/NNS on/IN the/DT list/NN at/IN number/NN eight/CD and/CC 10/CD respectively./NN
+At/IN number/NN seven/CD was/VBD Oxfam's/NNP Make/VB Fair/NNP Trade/NNP gig/NN at/IN London's/NNP Hammersmith/NNP Apollo/NNP in/IN October/NNP which/WDT featured/VBD performances/NNS by/IN REM/NNP Razorlight/NNP and/CC Coldplay's/NNP Chris/NNP Martin./NNP
+Glasgow's/NNP Franz/NNP Ferdinand/NNP earned/VBD a/DT place/NN at/IN number/NN nine/CD for/IN their/PRP$ home-town/JJ performance/NN in/IN April./NNP
+The/DT annual/JJ survey/NN was/VBD voted/VBN for/IN by/IN nearly/RB 4000/CD listeners./NN

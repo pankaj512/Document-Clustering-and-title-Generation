@@ -1,0 +1,18 @@
+Robben/NNP sidelined/VBD with/IN broken/VBN foot/NN
+
+Chelsea/NNP winger/NN Arjen/NNP Robben/NNP has/VBZ broken/VBN two/CD metatarsal/JJ bones/NNS in/IN his/PRP$ foot/NN and/CC will/MD be/VB out/RP for/IN at/IN least/JJS six/CD weeks./NN
+
+Robben/NNP had/VBD an/DT MRI/NNP scan/VB on/IN the/DT injury/NN sustained/VBN during/IN the/DT Premiership/NN win/NN at/IN Blackburn/NNP on/IN Monday./NNP
+"Six/NN weeks/NNS is/VBZ the/DT average/JJ time/NN to/TO heal/VB this/DT injury/NN and/CC then/RB I/PRP need/VBP a/DT few/JJ more/JJR weeks/NNS to/TO be/VB completely/RB fit/VB again"/NN he/PRP told/VBD Dutch/JJ newspaper/NN Algemeen/NNP Dagblad./NNP
+"I/NN had/VBD a/DT feeling/NN it/PRP was/VBD serious/JJ but/CC because/IN of/IN the/DT swelling/VBG it/PRP was/VBD impossible/JJ to/TO make/VB a/DT final/JJ diagnosis."/NN The/DT 21-year-old/JJ missed/VBD the/DT first/JJ three/CD months/NNS of/IN the/DT season/NN with/IN a/DT similar/JJ injury/NN after/IN a/DT challenge/NN with/IN Roma's/NNP Olivier/NNP Dacourt./NNP
+And/CC he/PRP added/VBD "It/NN felt/VBD different/JJ then/RB last/JJ summer/NN when/WRB I/PRP had/VBD the/DT same/JJ injury/NN on/IN my/PRP$ other/JJ foot./NN
+"Then/NN I/PRP could/MD walk/VB already/RB after/IN three/CD days/NNS but/CC I/PRP stayed/VBD sidelined/VBN for/IN a/DT long/RB period./NN
+I/PRP hope/VBP that/IN it/PRP will/MD now/RB take/VB me/PRP six/CD to/TO eight/CD weeks."/NN Chelsea/NNP physio/NN Mike/NNP Banks/NNPS was/VBD hopeful/JJ that/IN Robben/NNP could/MD return/VB at/IN some/DT point/NN in/IN March./NNP
+"The/NN fractures/NNS are/VBP tiny/JJ and/CC he/PRP could/MD be/VB playing/VBG next/JJ month"/NN Banks/NNS told/VBD the/DT club's/NNS website./NN
+"One/NN is/VBZ a/DT chip/NN on/IN the/DT side/NN of/IN his/PRP$ foot/NN the/DT other/NN is/VBZ a/DT small/JJ break/NN on/IN the/DT third/JJ metatarsal./NN
+"But/NN this/DT is/VBZ not/RB the/DT traditional/JJ metatarsal/NN that/WDT has/VBZ become/VBN so/RB famous/JJ since/IN the/DT last/JJ World/NNP Cup/NNP and/CC which/WDT has/VBZ kept/VBN Scott/NNP Parker/NNP out/RP for/IN two/CD months."/NN
+
+David/NNP Beckham/NNP suffered/VBD a/DT broken/VBN metatarsal/JJ in/IN the/DT build/NN up/IN to/TO the/DT 2002/CD World/NNP Cup/NNP in/IN Korea/NNP and/CC Japan./NNP
+Robben/NNP who/WP has/VBZ been/VBN a/DT key/JJ part/NN of/IN the/DT Blues'/NNP push/VB for/IN four/CD trophies/NNS claims/VBZ he/PRP knew/VBD instantly/RB something/NN was/VBD wrong/JJ when/WRB he/PRP was/VBD felled/VBN by/IN Blackburn/NNP midfielder/NN Aaron/NNP Mokoena./NNP
+"I/NN felt/VBD my/PRP$ leg/NN go"/NN he/PRP said./VB
+"I/NN felt/VBD it/PRP straight/JJ away/RB after/IN Mokoena/NNP hit/VBD me/PRP with/IN a/DT wild/JJ kick/NN on/IN my/PRP$ left/VBN foot."/NN

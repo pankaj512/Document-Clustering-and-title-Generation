@@ -1,0 +1,39 @@
+UK/NNP rebate/NN 'unjustified'/NN -/: Chirac/NNP
+
+French/JJ president/NN Jacques/NNP Chirac/NNP has/VBZ called/VBN the/DT UK's/NNP £3bn/CD rebate/NN from/IN the/DT European/NNP Union/NNP "unjustified"./NN
+
+Speaking/VBG after/IN a/DT summit/NN meeting/NN he/PRP said/VBD unless/IN it/PRP was/VBD put/VBN up/RP for/IN discussion/NN the/DT EU/NNP would/MD never/RB be/VB able/JJ to/TO reach/VB agreement/NN on/IN its/PRP$ medium/NN term/NN finances./NN
+Earlier/RBR Foreign/NNP Secretary/NNP Jack/NNP Straw/NNP said/VBD the/DT UK/NNP was/VBD prepared/VBN to/TO veto/VB any/DT bid/NN to/TO reduce/VB the/DT rebate/NN secured/VBN by/IN Margaret/NNP Thatcher/NNP in/IN 1984./CD
+He/PRP said/VBD it/PRP remained/VBD justified/VBN because/IN less/JJR EU/NNP farm/NN money/NN came/VBD to/TO the/DT UK./NNP
+
+Mr/NNP Chirac/NNP told/VBD reporters/NNS in/IN Brussels/NNP "One/NN can/MD only/RB have/VB a/DT reasonable/JJ budgetary/JJ balance/NN if/IN we/PRP put/VBP back/RB on/IN the/DT table/NN the/DT British/JJ cheque./NN
+It/PRP can/MD no/RB longer/RB be/VB justified./NN
+It/PRP was/VBD from/IN the/DT past."/NN But/CC a/DT UK/NNP Government/NNP official/NN responded/VBD "Even/NN with/IN the/DT rebate/NN the/DT UK/NNP pays/VBZ two/CD and/CC a/DT half/NN times/NNS more/JJR than/IN France/NNP contributes/VBZ to/TO the/DT EU/NNP budget./NN
+Without/IN it/PRP we/PRP would/MD pay/VB 14/CD times/NNS as/RB much/JJ as/IN France./NNP
+"There/NN can/MD be/VB no/DT deal/NN on/IN future/JJ financing/NN which/WDT does/VBZ not/RB protect/VB the/DT rebate."/NN
+
+The/DT 25-member/JJ EU/NNP is/VBZ gearing/VBG up/RP for/IN tough/JJ negotiations/NNS on/IN its/PRP$ budget/NN plans/NNS for/IN the/DT period/NN 2007-2013/JJ with/IN the/DT bloc's/NNS Luxembourg/NNP presidency/NN hoping/VBG to/TO strike/VB a/DT deal/NN at/IN a/DT June/NNP summit./NN
+Earlier/RBR Conservative/JJ Graham/NNP Brady/NNP said/VBD the/DT rebate/NN was/VBD a/DT "crucial/JJ test"/NN of/IN how/WRB firmly/RB ministers/NNS were/VBD prepared/VBN to/TO stand/VB up/RP for/IN Britain./NNP
+EU/NNP Commission/NNP president/NN Jose/NNP Manuel/NNP Barroso/NNP has/VBZ indicated/VBN he/PRP wants/VBZ the/DT rebate/NN to/TO come/VB to/TO an/DT end./NN
+Mr/NNP Straw/NNP said/VBD that/IN as/RB well/RB as/IN the/DT veto/NN over/IN the/DT rebate/NN the/DT UK/NNP wanted/VBD to/TO keep/VB a/DT tight/JJ rein/NN on/RP national/JJ contributions./NN
+
+The/DT UK/NNP France/NNP Germany/NNP Austria/NNP the/DT Netherlands/NNP and/CC Sweden/NNP want/VBP the/DT EU/NNP budget/NN to/TO be/VB capped/VBN at/IN 1%/CD of/IN member/NN states'/NN combined/VBD national/JJ incomes/NNS -/: the/DT European/NNP Commission/NNP has/VBZ urged/VBN an/DT increase/NN to/TO 1.26%./CD
+Mr/NNP Straw/NNP has/VBZ said/VBD the/DT EU/NNP commission's/NNS proposal/NN would/MD mean/VB a/DT 35%/CD hike/NN in/IN the/DT budget./NN
+Shadow/NNP Europe/NNP minister/NN Mr/NNP Brady/NNP said/VBD "I/NN believe/VBP it/PRP is/VBZ essential/JJ that/IN Britain/NNP keeps/VBZ the/DT rebate/NN and/CC I/PRP think/VBP it's/NNS a/DT crucial/JJ test/NN of/IN how/WRB firmly/RB the/DT British/JJ government/NN is/VBZ prepared/VBN to/TO stand/VB up/RP for/IN Britain/NNP internationally/RB in/IN Europe./NNP
+
+"The/NNP UK/NNP is/VBZ already/RB one/CD of/IN the/DT biggest/JJS net/JJ contributors/NNS to/TO the/DT EU/NNP ."/NN The/DT foreign/JJ secretary/NN meanwhile/RB said/VBD the/DT "justice"/NN of/IN the/DT rebate/NN remained./NN
+"We/NN have/VBP one/CD of/IN the/DT lowest/JJS net/JJ receipts/NNS of/IN any/DT EU/NNP country/NN because/IN of/IN the/DT relatively/RB small/JJ size/NN of/IN our/PRP$ agriculture/NN sector/NN and/CC its/PRP$ efficiency./NN
+"That/NN continues/VBZ to/TO be/VB the/DT case."/NN
+
+UK/NNP Independence/NNP Party/NNP leader/NN Roger/NNP Knapman/NNP said/VBD the/DT rebate/NN was/VBD "set/NN in/IN stone"/NN and/CC there/EX was/VBD no/DT reason/NN to/TO negotiate/VB about/IN it./NN
+"It/NN is/VBZ extraordinary/JJ to/TO do/VB it/PRP at/IN this/DT time/NN just/RB as/IN we/PRP are/VBP becoming/VBG the/DT biggest/JJS contributor/NN to/TO the/DT EU./NNP
+If/IN we/PRP lose/VBP our/PRP$ rebate/NN as/IN well/RB the/DT British/JJ taxpayer/NN is/VBZ going/VBG to/TO be/VB bled/VBN at/IN such/PDT a/DT rate/NN that/IN I/PRP think/VBP everyone/NN will/MD go/VB off/RP the/DT European/JJ project."/NN EU/NNP leaders/NNS are/VBP holding/VBG talks/NNS in/IN Brussels/NNP on/IN how/WRB to/TO re-energise/VB the/DT sluggish/JJ European/JJ economy./NN
+UK/NNP Prime/NNP Minister/NNP Tony/NNP Blair/NNP is/VBZ meeting/VBG his/PRP$ EU/NNP counterparts/NNS to/TO finalise/VB a/DT package/NN of/IN measures/NNS aimed/VBN at/IN stimulating/VBG growth/NN and/CC boosting/VBG employment/NN ahead/RB of/IN a/DT series/NN of/IN referendums/NNS on/IN the/DT European/NNP Constitution./NNP
+The/DT plans/NNS could/MD introduce/VB a/DT free/JJ market/NN into/IN everything/NN from/IN computer/NN services/NNS to/TO construction./VB
+Critics/NNS -/: including/VBG Germany/NNP and/CC France/NNP -/: believe/VBP liberalisation/NN could/MD result/VB in/IN companies/NNS shifting/VBG staff/NN to/TO cheaper/JJR bases/NNS in/IN Eastern/NNP Europe/NNP undercutting/VBG large/JJ EU/NNP economies/NNS and/CC undermining/VBG social/JJ protections./NN
+There/EX are/VBP also/RB concerns/NNS about/IN the/DT number/NN of/IN workers/NNS from/IN eastern/JJ European/JJ countries/NNS who/WP will/MD head/VB west/NN exacerbating/VBG the/DT already/RB high/JJ unemployment/NN levels/NNS in/IN Germany./NNP
+
+Mr/NNP Straw/NNP insisted/VBD there/EX was/VBD nothing/NN to/TO fear/VB from/IN the/DT services/NNS directorate./NN
+"European/NN countries/NNS overall/JJ have/VBP benefited/VBN hugely/RB from/IN the/DT free/JJ market/NN in/IN goods"/NN he/PRP said./VB
+"What/NN we/PRP are/VBP now/RB talking/VBG about/IN is/VBZ developing/VBG that/DT market/NN into/IN an/DT internal/JJ market/NN in/IN services."/NN Britain's/NNP low/JJ unemployment/NN meant/VBN there/EX was/VBD less/JJR "neurosis"/NN about/IN people/NNS coming/VBG from/IN eastern/JJ European/JJ countries./NN
+"In/NN countries/NNS like/IN Germany/NNP and/CC France/NNP where/WRB frankly/RB because/IN of/IN a/DT tighter/JJR social/JJ market/NN they/PRP have/VBP much/RB higher/JJR levels/NNS of/IN unemployment/NN there/EX is/VBZ increasing/VBG anxiety/NN about/IN other/JJ people/NNS coming/VBG in"/NN he/PRP said./VB

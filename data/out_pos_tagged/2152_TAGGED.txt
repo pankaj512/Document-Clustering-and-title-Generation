@@ -1,0 +1,22 @@
+Britons/NNP fed/VBD up/RP with/IN net/JJ service/NN
+
+A/DT survey/NN conducted/VBN by/IN PC/NN Pro/FW Magazine/NNP has/VBZ revealed/VBN that/IN many/JJ Britons/NNP are/VBP unhappy/JJ with/IN their/PRP$ internet/JJ service./NN
+
+They/PRP are/VBP fed/VBN up/RP with/IN slow/JJ speeds/NNS high/JJ prices/NNS and/CC the/DT level/NN of/IN customer/NN service/NN they/PRP receive./VBP
+17%/CD of/IN readers/NNS have/VBP switched/VBN suppliers/NNS and/CC a/DT further/JJ 16%/CD are/VBP considering/VBG changing/VBG in/IN the/DT near/JJ future./NN
+It/PRP is/VBZ particularly/RB bad/JJ news/NN for/IN BT/NNP the/DT UK's/NNP biggest/JJS internet/JJ supplier/NN with/IN almost/RB three/CD times/NNS as/IN many/JJ people/NNS trying/VBG to/TO leave/VB as/IN joining./NN
+
+A/DT third/JJ of/IN the/DT 2000/CD broadband/NN users/NNS interviewed/VBD were/VBD fed/VBN up/RP with/IN their/PRP$ current/JJ providers/NNS but/CC this/DT could/MD be/VB just/RB the/DT tip/NN of/IN the/DT iceberg/NN thinks/VBZ Tim/NNP Danton/NNP editor/NN of/IN PC/NN Pro/FW Magazine./NNP
+"We/NN expect/VBP these/DT figures/NNS to/TO leap/VB in/IN 2005./CD
+Every/DT month/NN the/DT prices/NNS drop/NN and/CC more/JJR and/CC more/JJR people/NNS are/VBP trying/VBG to/TO switch"/VB he/PRP said./VB
+The/DT survey/NN found/VBD that/IN BT/NNP and/CC Tiscali/NNP have/VBP been/VBN actively/RB dissuading/JJ customers/NNS from/IN leaving/VBG by/IN offering/VBG them/PRP a/DT lower/JJR price/NN when/WRB they/PRP phone/VBP up/RP to/TO cancel/VB their/PRP$ subscription./NN
+Some/DT readers/NNS were/VBD offered/VBN a/DT price/NN drop/NN just/RB 25p/CD more/JJR expensive/JJ than/IN that/DT offered/VBD by/IN an/DT alternative/JJ operator/NN making/VBG it/PRP hardly/RB worth/JJ while/IN swapping./NN
+
+Other/JJ found/VBD themselves/PRP tied/VBD into/IN 12-month/JJ contracts./NN
+Broadband/NNP has/VBZ become/VBN hugely/RB competitive/JJ and/CC providers/NNS are/VBP desperate/JJ to/TO hold/VB on/IN to/TO customers./VB
+12%/CD of/IN those/DT surveyed/VBN found/VBD themselves/PRP unable/JJ to/TO swap/VB at/IN all./NN
+"We/NN discovered/VBD a/DT huge/JJ variety/NN of/IN problems/NNS but/CC one/CD of/IN the/DT biggest/JJS issues/NNS is/VBZ the/DT current/JJ supplier/NN withholding/NN the/DT information/NN that/IN people/NNS need/VBP to/TO give/VB to/TO their/PRP$ new/JJ supplier"/NN said/VBD Tim/NNP Danton/NNP editor/NN of/IN PC/NN Pro./NNP
+"This/NN breaks/NNS the/DT code/NN of/IN practice/NN but/CC because/IN that/DT code/NN is/VBZ voluntary/JJ there's/NNS nothing/VBP we/PRP or/CC Ofcom/NNP can/MD do/VB to/TO help"/VB he/PRP said./VB
+There/EX is/VBZ a/DT vast/JJ choice/NN of/IN internet/JJ service/NN providers/NNS in/IN the/DT UK/NNP now/RB and/CC an/DT often/RB bewildering/VBG array/NN of/IN broadband/NN packages./NN
+With/IN prices/NNS set/VBN to/TO drop/VB even/RB further/RBR in/IN coming/VBG months/NNS Mr/NNP Danton/NNP advises/VBZ everyone/NN to/TO shop/VB around/IN carefully./NN
+"If/NN you/PRP just/RB stick/VBP with/IN your/PRP$ current/JJ connection/NN then/RB there's/VBZ every/DT chance/NN you're/NN being/VBG ripped/VBN off"/NN he/PRP warned./VB

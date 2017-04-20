@@ -1,0 +1,11 @@
+VW/NNP considers/VBZ opening/NN Indian/JJ plant/NN
+
+Volkswagen/NNP is/VBZ considering/VBG building/VBG a/DT car/NN factory/NN in/IN India/NNP but/CC said/VBD it/PRP had/VBD yet/RB to/TO make/VB a/DT final/JJ decision./NN
+
+The/DT German/JJ giant/NN said/VBD it/PRP was/VBD studying/VBG the/DT possibility/NN of/IN opening/VBG an/DT assembly/NN plant/NN in/IN the/DT country/NN but/CC that/IN it/PRP remained/VBD only/RB a/DT "potential"/NN idea./NN
+Its/PRP$ comments/NNS came/VBD after/IN the/DT industry/NN minister/NN of/IN India's/NNP Andhra/NNP Pradesh/NNP state/NN said/VBD a/DT team/NN of/IN VW/NNP officials/NNS were/VBD due/JJ to/TO visit/NN to/TO discuss/VB the/DT plans./NN
+B./NNP
+Satyanarayana/NNP said/VBD he/PRP expected/VBD VW/NNP to/TO co-sign/VB a/DT memorandum/NN of/IN agreement./NN
+Several/JJ foreign/JJ carmakers/NNS including/VBG Hyundai/NNP Toyota/NNP Suzuki/NNP and/CC Ford/NNP already/RB have/VBP Indian/JJ production/NN facilities/NNS to/TO meet/VB demand/NN for/IN automobiles/NNS in/IN Asia's/NNP fourth-largest/JJ economy./NN
+VW's/NNP proposed/VBD plant/NN would/MD be/VB set/VBN up/RP in/IN the/DT port/NN city/NN of/IN Visakhapatnam/NNP on/IN India's/NNP eastern/JJ coast./NN
+An/DT Andhra/NNP Pradesh/NNP official/NN added/VBD that/IN VW/NNP had/VBD already/RB approved/VBN a/DT factory/NN site/NN measuring/VBG 250/CD acres./NN

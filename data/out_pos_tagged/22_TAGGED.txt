@@ -1,0 +1,19 @@
+Sluggish/JJ economy/NN hits/NNS German/JJ jobs/NNS
+
+The/DT number/NN of/IN people/NNS out/IN of/IN work/NN in/IN Europe's/NNP largest/JJS economy/NN has/VBZ risen/VBN for/IN the/DT tenth/NN straight/JJ month/NN as/IN growth/NN remains/VBZ stubbornly/RB slow./NN
+
+German/JJ unemployment/NN rose/VBD 7000/CD in/IN November/NNP to/TO 4.464/CD million/CD people/NNS or/CC 10.8%/CD of/IN the/DT workforce./NN
+The/DT seasonally/RB adjusted/VBN rise/NN showed/VBD a/DT smaller/JJR rise/NN than/IN expected/VBN as/IN government/NN measures/NNS to/TO encourage/VB job/NN creation/NN began/VBD to/TO take/VB effect./NN
+But/CC officials/NNS said/VBD stagnant/JJ growth/NN was/VBD still/RB stifling/VBG the/DT job/NN market./NN
+"There/NN are/VBP clear/JJ signs/NNS of/IN a/DT revival/NN in/IN domestic/JJ demand"/NN said/VBD Frank-Juergen/NNP Weise/NNP head/NN of/IN the/DT Federal/NNP Labour/NNP Agency/NNP in/IN a/DT statement./NN
+"But/NN growth/NN of/IN 0.1%.../CD
+in/IN the/DT third/JJ quarter/NN is/VBZ still/RB insufficient/JJ to/TO deliver/VB positive/JJ momentum/NN to/TO the/DT labour/NN market."/NN High/JJ oil/NN prices/NNS and/CC the/DT soaring/VBG euro/NN -/: which/WDT damages/NNS the/DT competitiveness/NN of/IN exporters/NNS -/: were/VBD also/RB having/VBG a/DT negative/JJ effect/NN he/PRP said./VB
+The/DT brunt/NN of/IN the/DT unemployment/NN is/VBZ still/RB being/VBG felt/VBD in/IN the/DT eastern/JJ part/NN of/IN Germany/NNP where/WRB the/DT rate/NN is/VBZ 18.8%./CD
+
+With/IN unemployment/NN stuck/VBN above/IN 4/CD million/CD for/IN years/NNS the/DT government/NN of/IN Chancellor/NNP Gerhard/NNP Schroeder/NNP has/VBZ put/VBN job/NN creation/NN at/IN the/DT top/NN of/IN the/DT agenda./NN
+A/DT controversial/JJ package/NN of/IN measures/NNS to/TO shake/VB up/RP incentives/NNS to/TO get/VB back/RB to/TO work/VB paid/VBN for/IN by/IN cutting/VBG some/DT cherished/VBN benefits/NNS has/VBZ sparked/VBN anger/NN among/IN some/DT German/JJ workers./NN
+Strikes/NNS in/IN a/DT number/NN of/IN industries/NNS notably/RB among/IN the/DT country's/NNS iconic/JJ carmakers/NNS have/VBP demonstrated/VBN the/DT displeasure/JJ -/: as/RB well/RB as/IN fears/NNS about/IN further/JJ job/NN losses/NNS as/IN outsourcing/NN takes/VBZ hold./NN
+Among/IN the/DT new/JJ initiatives/NNS are/VBP the/DT so-called/JJ "one-euro/JJ jobs"/NN which/WDT top/JJ up/RP unemployment/NN benefit./NN
+The/DT scheme's/NNS formal/JJ launch/NN is/VBZ January/NNP but/CC hirings/NNS for/IN these/DT positions/NNS are/VBP already/RB taking/VBG place/NN and/CC affecting/VBG the/DT unemployment/NN statistics/NNS economists/NNS said./NN
+"The/NN deterioration/NN of/IN the/DT labour/NN market/NN does/VBZ not/RB come/VBN as/IN a/DT surprise"/NN said/VBD Isabelle/NNP Kronawitter/NNP at/IN Hypovereinsbank./NNP
+"Job/NN creation/NN measures/NNS probably/RB prevented/VBN a/DT stronger/JJR increase/NN in/IN the/DT seasonally/RB adjusted/VBN numbers."/NN

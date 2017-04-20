@@ -1,0 +1,15 @@
+Day-Lewis/NNP set/VBD for/IN Berlin/NNP honour/NN
+
+Actor/NNP Daniel/NNP Day-Lewis/NNP is/VBZ to/TO be/VB presented/VBN with/IN an/DT award/NN for/IN his/PRP$ career/NN in/IN film/NN at/IN the/DT Berlin/NNP Film/NNP Festival./NNP
+
+The/DT 47-year-old/JJ whose/WP$ credits/NNS include/VBP his/PRP$ Oscar-winning/NNP performance/NN in/IN My/PRP$ Left/VBN Foot/NNP will/MD be/VB presented/VBN with/IN the/DT Berlinale/NNP Camera/NN award/NN on/IN 15/CD February./NNP
+The/DT honour/NN awarded/VBD since/IN 1986/CD honours/NNS figures/NNS in/IN cinema/NN that/IN the/DT festival/NN feels/VBZ "particularly/RB indebted/JJ to"./NN
+Man/NN to/TO Man/VB a/DT historical/JJ epic/NN starring/VBG Kristin/NNP Scott/NNP Thomas/NNP opens/VBZ the/DT German/JJ festival/NN on/IN 10/CD February./NNP
+A/DT candid/JJ documentary/NN about/IN the/DT life/NN and/CC career/NN of/IN singer/NN George/NNP Michael/NNP A/NNP Different/JJ Story/NNP will/MD also/RB be/VB screened/VBN at/IN the/DT 10-day/JJ event./NN
+'/'
+
+Day-Lewis/NNP has/VBZ competed/VBN four/CD times/NNS at/IN the/DT Berlin/NNP Film/NNP Festival/NNP with/IN films/NNS In/IN The/DT Name/NN Of/IN The/DT Father/NNP (1994)/CD The/DT Crucible/NN (1997)/CD The/DT Boxer/NNP (1998)/CD and/CC Martin/NNP Scorsese's/NNP Gangs/NNS Of/IN New/NNP York/NNP (2003)./CD
+The/DT festival/NN praises/VBZ him/PRP for/IN his/PRP$ "sensational/JJ start"/NN with/IN roles/NNS in/IN My/PRP$ Beautiful/JJ Launderette/NNP and/CC costume/NN classic/JJ A/DT Room/NN With/IN A/DT View/NNP and/CC a/DT "great/JJ number/NN of/IN celebrated/JJ roles"/NN in/IN subsequent/JJ productions./NN
+Japan's/NNP oldest/JJS film/NN studio/NN will/MD also/RB be/VB honoured/VBN along/IN with/IN Day-Lewis./NNP
+Shochiku/NNP film/NN studios/NNS which/WDT was/VBD founded/VBN 110/CD years/NNS ago/RB will/MD become/VB the/DT first/JJ cinematic/JJ institution/NN to/TO receive/VB the/DT Berlinale/NNP Camera/NN award./NN
+Famous/NNP Japanese/JJ directors/NNS including/VBG Akira/NNP Hurosawa/NNP have/VBP had/VBN films/NNS produced/VBN at/IN the/DT studio./NN

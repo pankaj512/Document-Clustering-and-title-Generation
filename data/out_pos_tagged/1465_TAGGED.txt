@@ -1,0 +1,23 @@
+Ferguson/NNP fears/NNS Milan/NNP cutting/VBG edge/NN
+
+Manchester/NNP United/NNP manager/NN Sir/NNP Alex/NNP Ferguson/NNP said/VBD his/PRP$ side's/NNS task/NN against/IN AC/NNP Milan/NNP would/MD not/RB be/VB made/VBN any/DT easier/JJR by/IN the/DT absence/NN of/IN Andriy/NNP Shevchenko./NNP
+
+Milan's/NNP talismanic/JJ European/JJ footballer/NN of/IN the/DT year/NN misses/VBZ Wednesday's/NNP Champions/NNS League/NNP first-leg/JJ tie/NN after/IN fracturing/VBG his/PRP$ cheekbone./NN
+"It's/NN a/DT loss/NN (to/NN Milan)/NNP but/CC it/PRP could/MD be/VB worse/JJR if/IN they/PRP didn't/VBP have/VBP such/JJ quality/NN to/TO bring/VB in"/NN Ferguson/NNP said./NN
+"How/NN much/JJ they/PRP miss/VBP him/PRP I/PRP think/VBP they'll/NN know/NN tomorrow/NN night."/NN Ferguson/NNP said/VBD Milan's/NNP front/JJ line/NN would/MD still/RB represent/VB a/DT formidable/JJ challenge/NN for/IN his/PRP$ defenders./NN
+"They/NN can/MD play/VB Rui/NNP Costa/NNP and/CC play/VB Kaka/NNP forward./NN
+They/PRP can/MD bring/VB Serginho/NNP in/IN and/CC they/PRP can/MD play/VB (Jon/NN Dahl)/NNP Tomasson"/NNP he/PRP said./VB
+Ferguson's/NNP own/JJ goalscoring/NN talisman/NN Ruud/NNP van/NNP Nistelrooy/NNP is/VBZ fit/VB again/RB but/CC the/DT Scot/NNP admitted/VBD he/PRP was/VBD unsure/JJ whether/IN to/TO start/VB the/DT Dutchman/NNP who/WP has/VBZ not/RB played/VBN for/IN three/CD months./NN
+
+"Ruud/NN is/VBZ the/DT best/JJS striker/NN in/IN Europe./NNP
+What/WP I/PRP have/VBP to/TO judge/VB is/VBZ whether/IN he/PRP will/MD struggle/VB with/IN the/DT early/JJ pace/NN after/IN being/VBG out/RP for/IN so/RB long"/NN he/PRP said./VB
+"His/NN ability/NN puts/VBZ him/PRP in/IN with/IN a/DT big/JJ shout/NN but/CC it/PRP is/VBZ a/DT major/JJ decision."/NN Ferguson/NNP though/IN is/VBZ confident/JJ his/PRP$ young/JJ players/NNS particularly/RB Wayne/NNP Rooney/NNP and/CC Cristiano/NNP Ronaldo/NNP are/VBP up/IN to/TO the/DT task./NN
+"We/NN have/VBP an/DT opportunity/NN to/TO win/VB this/DT cup/NN this/DT year/NN no/DT question/NN about/IN that"/NN he/PRP declared./VB
+"With/NN the/DT maturity/NN we/PRP see/VBP every/DT week/NN in/IN Ronaldo/NNP and/CC Rooney/NNP the/DT return/NN of/IN Van/NNP Nistelrooy/NNP and/CC the/DT form/NN of/IN Roy/NNP Keane/NNP Paul/NNP Scholes/NNP and/CC Ryan/NNP Giggs/NNP we/PRP must/MD have/VB a/DT fantastic/JJ chance."/NN It/PRP is/VBZ a/DT view/NN shared/VBN by/IN Rooney/NNP who/WP believes/VBZ "if/NN we/PRP can/MD get/VB past/JJ Milan/NNP we/PRP have/VBP a/DT great/JJ chance"./NN
+"As/NN soon/RB as/IN I/PRP knew/VBD we/PRP were/VBD playing/VBG Milan/NNP I/PRP got/VBD excited./NN
+Looking/VBG at/IN the/DT draw/NN it/PRP is/VBZ anyone's/NNS trophy/NN but/CC we/PRP have/VBP every/DT chance./NN
+"Hopefully/RB we/PRP can/MD get/VB to/TO that/DT final/JJ in/IN Turkey/NNP and/CC bring/VB the/DT cup/NN back/RB to/TO Manchester."/NNP Milan/NNP coach/NN Carlo/NNP Ancelotti/NNP said/VBD his/PRP$ team/NN were/VBD looking/VBG forward/RB to/TO returning/VBG to/TO the/DT venue/NN where/WRB they/PRP lifted/VBD Europe's/NNP most/RBS prestigious/JJ club/NN title/NN two/CD seasons/NNS ago./NN
+Milan/NNP beat/VB Juventus/NNP in/IN a/DT penalty/NN shootout/NN after/IN a/DT 0-0/JJ tie/NN at/IN Old/NNP Trafford/NNP and/CC Ancelotti/NNP said/VBD "We/NN are/VBP all/RB very/RB happy/JJ to/TO return/VB (to/NN Old/NNP Trafford)/NNP to/TO play/VB in/IN the/DT Champions/NNS League/NNP and/CC this/DT will/MD give/VB us/PRP great/JJ motivation."/NN Ancelotti/NNP said/VBD he/PRP was/VBD aware/JJ of/IN the/DT threat/NN United/NNP posed/VBD to/TO his/PRP$ hopes/NNS of/IN Champions/NNS League/NNP glory./NN
+"It's/NN fundamental/JJ that/IN we/PRP don't/VBP allow/NN them/PRP to/TO take/VB control/NN of/IN the/DT game./NN
+Our/PRP$ intention/NN is/VBZ not/RB to/TO adapt/VB to/TO their/PRP$ play/NN but/CC to/TO play/VB our/PRP$ game"/NN he/PRP said./VB
+"They/NN have/VBP great/JJ quality/NN in/IN attack/NN they/PRP use/VBP the/DT wings/NNS a/DT lot/NN and/CC we/PRP will/MD have/VB to/TO make/VB sure/JJ we/PRP stop/VBP them."/NN

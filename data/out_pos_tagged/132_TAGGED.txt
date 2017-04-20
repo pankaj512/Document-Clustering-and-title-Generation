@@ -1,0 +1,14 @@
+Brazil/NNP buy/VB boosts/VBZ Belgium's/NNP Inbev/NNP
+
+Belgian/JJ brewing/NN giant/NN Inbev/NNP has/VBZ seen/VBN its/PRP$ profits/NNS soar/VBP thanks/NNS to/TO its/PRP$ acquisition/NN of/IN Brazil's/NNP biggest/JJS beer/NN firm/NN Ambev/NNP last/JJ year./NN
+
+Inbev/NNP which/WDT makes/VBZ Stella/NNP Artois/NNP said/VBD pre-tax/JJ profits/NNS for/IN 2004/CD rose/VBD 56%/CD to/TO 1.16bn/CD euros/NNS ($1.5bn/CD £800m)/CD and/CC said/VBD it/PRP expected/VBD solid/JJ growth/NN in/IN 2005./CD
+The/DT performance/NN comes/VBZ on/IN sales/NNS up/RP 21%/CD at/IN 8.6bn/CD euros./NN
+The/DT firm/NN formerly/RB Interbrew/NNP became/VBD the/DT world's/NNS biggest/JJS brewer/NN by/IN volume/NN when/WRB it/PRP bought/VBD Ambev/NNP in/IN August/NNP 2004./CD
+The/DT acquisition/NN meant/VBD its/PRP$ sales/NNS by/IN volume/NN grew/VBD 57%/CD in/IN 2004/CD with/IN four/CD months/NNS of/IN Ambev/NNP sales/NNS accounting/VBG for/IN almost/RB all/DT of/IN the/DT increase./NN
+US/PRP beermaker/VBP Anheuser-Busch/NNP sells/VBZ less/JJR beer/NN by/IN volume/NN than/IN Inbev/NNP but/CC is/VBZ bigger/JJR in/IN terms/NNS of/IN the/DT value/NN of/IN its/PRP$ sales./NN
+Continuing/NNP demand/NN for/IN Inbev's/NNP products/NNS in/IN the/DT South/NNP American/JJ markets/NNS where/WRB its/PRP$ Brazilian/JJ arm/NN is/VBZ most/RBS popular/JJ means/VBZ it/PRP expects/VBZ to/TO keep/VB boosting/VBG its/PRP$ turnover./NN
+"It's/NN the/DT Brazil/NNP business/NN that's/NNS doing/VBG it"/NN said/VBD ING/NNP analyst/NN Gerard/NNP Rijk/NNP of/IN Inbev's/NNP strong/JJ performance./NN
+Ambev/NNP boosted/VBD its/PRP$ share/NN of/IN Brazil's/NNP beer/NN market/NN from/IN 62%/CD at/IN the/DT end/NN of/IN 2003/CD to/TO more/JJR than/IN 68%/CD by/IN December/NNP 2004/CD Inbev/NNP reported./NN
+In/IN contrast/NN Inbev's/JJ European/JJ business/NN saw/VBD volume/NN sales/NNS fall/VBP 2.5%/CD although/IN Central/NNP and/CC Eastern/JJ European/JJ sales/NNS rose/VBD 12%./CD
+Overall/RB net/JJ profits/NNS were/VBD up/RB 42%/CD to/TO 719m/CD euros./NN

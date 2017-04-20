@@ -1,0 +1,25 @@
+US/PRP prepares/VBZ for/IN hybrid/JJ onslaught/NN
+
+Sales/NNS of/IN hybrid/JJ cars/NNS in/IN the/DT US/PRP are/VBP set/VBN to/TO double/JJ in/IN 2005/CD research/NN suggests./NN
+
+Research/NNP group/NN JD/NNP Power/NNP estimates/NNS sales/NNS will/MD hit/VB 200000/CD in/IN 2005/CD despite/IN higher/JJR prices/NNS and/CC customer/NN scepticism./NN
+Carmakers/NNS are/VBP starting/VBG to/TO build/VB hybrid/JJ sports/NNS utility/NN vehicles/NNS (SUVs)/VBP the/DT four-wheel-drive/JJ vehicles/NNS which/WDT now/RB dominate/VBP the/DT US/PRP car/VBP market./NN
+Hybrids/NNS cut/VBN both/DT petrol/NN consumption/NN and/CC emissions/NNS by/IN combining/VBG a/DT petrol/NN engine/NN with/IN an/DT electric/JJ motor/NN constantly/RB kept/VBD charged/VBN by/IN extra/JJ engine/NN power./NN
+Several/JJ jurisdictions/NNS notably/RB the/DT state/NN of/IN California/NNP mandate/NN low/JJ emissions/NNS for/IN new/JJ cars./NN
+Equally/RB the/DT rise/NN in/IN oil/NN prices/NNS over/IN the/DT past/JJ year/NN has/VBZ sparked/VBN hopes/NNS that/IN consumers/NNS may/MD be/VB tempted/VBN by/IN potential/JJ savings/NNS of/IN a/DT few/JJ hundred/CD dollars/NNS a/DT year/NN on/IN fuel./NN
+
+At/IN the/DT Detroit/NNP Motor/NNP Show/NNP a/DT range/NN of/IN manufacturers/NNS are/VBP prominently/RB displaying/VBG their/PRP$ hybrid/JJ credentials./NN
+Toyota/NNP has/VBZ led/VBN the/DT market/NN to/TO date/NN with/IN the/DT Prius/NNP popularised/VBD by/IN a/DT number/NN of/IN celebrities/NNS keen/JJ to/TO burnish/VB their/PRP$ "green"/NN credentials./NN
+In/IN April/NNP it/PRP will/MD launch/VB a/DT hybrid/JJ version/NN of/IN its/PRP$ Highlander/NNP SUV/NNP with/IN an/DT SUV/NNP from/IN its/PRP$ luxury/NN Lexus/NNP marque/NN due/JJ later/RB in/IN the/DT year./NN
+
+Honda/NNP has/VBZ three/CD hybrids/NNS on/IN the/DT market/NN and/CC between/IN them/PRP the/DT two/CD Japanese/JJ carmakers/NNS sold/VBD more/JJR than/IN 80000/CD units/NNS last/JJ year./NN
+Ford/NNP which/WDT has/VBZ sold/VBN 4000/CD of/IN its/PRP$ first/JJ hybrid/NN since/IN its/PRP$ launch/NN in/IN August/NNP is/VBZ bringing/VBG a/DT hybrid/JJ SUV/NNP -/: the/DT Mariner/NNP -/: to/TO market/VB a/DT year/NN ahead/RB of/IN schedule/NN with/IN plans/NNS for/IN three/CD more/JJR models/NNS by/IN 2008./CD
+GM/NNP has/VBZ a/DT hybrid/JJ pickup/NN on/IN the/DT market/NN and/CC is/VBZ showing/VBG two/CD concept/NN SUVs/NNP in/IN Detroit./NNP
+Even/RB sports/NNS car/NN maker/NN Porsche/NNP may/MD join/VB the/DT race/NN although/IN it/PRP insists/VBZ it/PRP is/VBZ still/RB considering/VBG whether/IN to/TO hybridise/VB its/PRP$ Cayenne/NNP SUV./NNP
+
+Others/NNS remain/VBP more/JJR sceptical./NN
+Nissan/NNP has/VBZ bought/VBN Toyota's/NNP hybrid/JJ technology/NN but/CC plans/VBZ to/TO bring/VB out/RP its/PRP$ first/JJ model/NN only/RB in/IN 2006./CD
+"We/NN want/VBP to/TO make/VB sure/JJ we/PRP are/VBP not/RB concentrating/VBG on/IN one/CD technology"/NN Nissan/NNP chief/NN executive/NN Carlos/NNP Ghosn/NNP said./NN
+"We/NN will/MD not/RB be/VB surprised/VBN by/IN any/DT acceleration/NN or/CC deceleration/NN in/IN the/DT hybrid/JJ market."/NN Volkswagen/NNP meanwhile/RB says/VBZ it/PRP will/MD focus/VB on/IN clean-burning/JJ diesel/NN engines/NNS instead./NN
+And/CC some/DT watchers/NNS point/VBP out/RP that/IN the/DT price/NN tag/NN on/IN a/DT hybrid/JJ -/: upwards/NNS of/IN $3000/CD above/IN that/DT of/IN an/DT equivalent/NN normal-engined/JJ car/NN and/CC suspicion/NN of/IN the/DT technology/NN -/: may/MD still/RB cool/VB its/PRP$ attraction./NN
+"The/NN average/JJ consumers/NNS aren't/VBP willing/JJ to/TO pay/VB that/DT premium/NN for/IN a/DT car/NN they/PRP won't/VBP drive/NN more/JJR than/IN six/CD years"/NN said/VBD Anthony/NNP Pratt/NNP from/IN JD/NNP Power./NNP

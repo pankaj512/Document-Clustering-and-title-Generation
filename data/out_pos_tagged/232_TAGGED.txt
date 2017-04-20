@@ -1,0 +1,18 @@
+Lloyd's/NNP of/IN London/NNP head/NN chides/VBZ FSA/NNP
+
+The/DT head/NN of/IN Lloyd's/NNP of/IN London/NNP the/DT insurance/NN market/NN has/VBZ criticised/VBN Britain's/NNP financial/JJ watchdog/NN the/DT Financial/NNP Services/NNPS Authority/NNP (FSA)./NN
+
+In/IN a/DT speech/NN on/IN Monday/NNP Mr/NNP Prettejohn/NNP urged/VBD the/DT FSA/NNP to/TO force/VB brokers/NNS to/TO disclose/VB the/DT size/NN of/IN their/PRP$ commissions./NN
+"The/NNP FSA/NNP should/MD change/VB and/CC change/NN now"/NN said/VBD Mr/NNP Prettejohn/NNP who/WP wants/VBZ it/PRP to/TO move/VB from/IN "disclosure/NN on/IN request"/NN to/TO mandatory/JJ disclosure./JJ
+The/DT call/NN came/VBD in/IN a/DT speech/NN on/IN improving/VBG the/DT London/NNP insurance/NN market./NN
+
+"The/NNP FSA/NNP should/MD not/RB bide/VB their/PRP$ time/NN and/CC 'wait/NN and/CC see'./NN
+They/PRP should/MD seize/VB the/DT moment"/NN Mr/NNP Prettejohn/NNP Lloyd's/NNP chief/NN executive/NN said./NN
+The/DT FSA/NNP took/VBD over/RP regulation/NN of/IN the/DT general/JJ insurance/NN sector/NN in/IN January/NNP but/CC it/PRP sidestepped/VBD calls/VBZ to/TO require/VB brokers/NNS to/TO disclose/VB the/DT commissions/NNS they/PRP earn/VBP from/IN insurers/NNS to/TO their/PRP$ clients./NN
+Last/JJ week/NN the/DT City/NNP watchdog/NN gave/VBD brokers/NNS and/CC insurers/NNS guidance/NN on/IN managing/VBG conflicts/NNS of/IN interest./JJ
+Brokers/NNS must/MD give/VB information/NN on/IN their/PRP$ commissions/NNS if/IN and/CC only/RB if/IN their/PRP$ customers/NNS request/VBP it/PRP the/DT FSA/NNP said./NN
+
+In/IN the/DT US/PRP lack/VBP of/IN transparency/NN about/IN brokers'/NN commissions/NNS has/VBZ led/VBN to/TO problems./NN
+The/DT world's/NNS biggest/JJS insurance/NN broker/NN Marsh/NNP &/CC McLennan/NNP said/VBD last/JJ week/NN it/PRP would/MD pay/VB $850m/CD to/TO settle/VB charges/NNS raised/VBN by/IN New/NNP York/NNP Attorney/NNP General/NNP Eliot/NNP Spitzer/NNP in/IN October/NNP that/IN it/PRP sought/VBD to/TO rig/VB bids/NNS in/IN conjunction/NN with/IN insurers./NN
+The/DT probe/NN centred/VBD around/IN so-called/JJ contingent/JJ commissions/NNS whereby/WRB brokers/NNS were/VBD rewarded/VBN according/VBG to/TO how/WRB much/JJ business/NN they/PRP brought/VBD to/TO an/DT insurer/NN an/DT arrangement/NN that/WDT did/VBD not/RB always/RB benefit/VB brokers'/NN customers./NN
+All/DT of/IN the/DT insurance/NN business/NN written/VBN in/IN the/DT Lloyd's/NNP market/NN is/VBZ placed/VBN via/IN brokers./NN

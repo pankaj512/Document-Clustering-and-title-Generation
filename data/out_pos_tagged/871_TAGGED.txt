@@ -1,0 +1,15 @@
+Super/NNP Size/NN Me/PRP wins/VBZ writers'/NN award/NN
+
+Super/NNP Size/NN Me/PRP director/VBP Morgan/NNP Spurlock/NNP has/VBZ won/VBN the/DT Writers/NNPS Guild/NNP of/IN America's/NNP award/NN for/IN documentary/NN feature/NN writing./NN
+
+The/DT Oscar-nominated/NNP film/NN followed/VBD Spurlock/NNP as/IN he/PRP ate/VBD only/RB McDonald's/NNP fast/RB food/NN for/IN an/DT entire/JJ month./NN
+Spurlock/NNP was/VBD given/VBN the/DT award/NN at/IN a/DT special/JJ ceremony/NN at/IN the/DT Roosevelt/NNP Hotel/NNP in/IN Hollywood/NNP on/IN Tuesday./NNP
+Organisers/NNP said/VBD the/DT rising/VBG popularity/NN of/IN documentary/NN films/NNS led/VBD them/PRP to/TO honour/VB a/DT writer/NN for/IN a/DT documentary/NN screenplay/NN for/IN the/DT first/JJ time./NN
+
+Producer/NNP Brian/NNP Grazer/NNP presented/VBD the/DT award/NN to/TO Spurlock/NNP and/CC the/DT film's/NNS backers/NNS Roadside/NNP Attractions/NNS Samuel/NNP Goldwyn/NNP Films/NNS and/CC Showtime/NNP Independent/NNP Films./NNP
+Spurlock/NNP set/VBD out/RP to/TO discover/VB the/DT effect/NN of/IN living/NN on/IN nothing/NN but/CC McDonald's/NNP for/IN a/DT month/NN upgrading/VBG to/TO supersize/VB portions/NNS when/WRB offered./NN
+The/DT film/NN followed/VBD his/PRP$ 25lb/CD weight/NN gain/NN and/CC the/DT health/NN effects/NNS on/IN his/PRP$ body/NN including/VBG his/PRP$ liver/NN and/CC cholesterol/NN levels./NN
+McDonald's/NNP announced/VBD it/PRP was/VBD to/TO scrap/VB its/PRP$ "supersized"/NN meals/NNS last/JJ year/NN but/CC denied/VBD the/DT move/NN was/VBD as/IN a/DT result/NN of/IN the/DT negative/JJ publicity/NN created/VBN by/IN Spurlock's/NNP film./NN
+Spurlock/NNP was/VBD given/VBN his/PRP$ award/NN on/IN the/DT same/JJ day/NN the/DT European/NNP Court/NNP of/IN Human/NNP Rights/NNP ruled/VBD that/IN two/CD UK/NNP activists/NNS should/MD have/VB been/VBN given/VBN legal/JJ aid/NN in/IN their/PRP$ long/JJ fight/NN against/IN a/DT McDonald's/NNP libel/NN action./NN
+Helen/NNP Steel/NNP and/CC David/NNP Morris/NNP from/IN north/RB London/NNP dubbed/VBD the/DT "McLibel/NN Two"/NNP were/VBD found/VBN guilty/JJ in/IN a/DT 1990s/CD trial/NN of/IN libelling/VBG the/DT company/NN in/IN a/DT leaflet/NN they/PRP had/VBD been/VBN handing/VBG out/RP At/IN the/DT end/NN of/IN the/DT case/NN the/DT High/NNP Court/NNP in/IN London/NNP ruled/VBD McDonald's/NNP had/VBD been/VBN libelled/VBN and/CC awarded/VBD the/DT company/NN £60000/CD in/IN damages/NNS later/RB reduced/VBN to/TO £40000/CD on/IN appeal./NN
+But/CC he/PRP found/VBD the/DT leaflet/NN was/VBD true/JJ in/IN some/DT aspects./NN

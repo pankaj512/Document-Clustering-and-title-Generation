@@ -1,0 +1,21 @@
+Fiat/NNP mulls/NNS Ferrari/NNP market/NN listing/NN
+
+Ferrari/NNP could/MD be/VB listed/VBN on/IN the/DT stock/NN market/NN as/IN part/NN of/IN an/DT overhaul/NN of/IN Fiat's/NNP carmaking/VBG operations/NNS the/DT Financial/NNP Times/NNP has/VBZ reported./NN
+
+It/PRP said/VBD Fiat/NNP was/VBD set/VBN to/TO restructure/VB its/PRP$ business/NN after/IN reaching/VBG a/DT $2bn/CD (1.53bn/CD euros/NNS £1.05bn)/CD settlement/NN with/IN GM/NNP about/IN Fiat's/NNP ownership./NN
+Steps/VBZ being/VBG considered/VBN include/VBP listing/NN Ferrari/NNP and/CC bringing/VBG Maserati/NNP and/CC Alfa/NNP Romeo/NNP closer/RBR together/RB it/PRP said./NN
+Despite/IN strong/JJ sales/NNS of/IN Alfa/NNP Romeo/NNP Fiat's/NNP car/NN business/NN is/VBZ making/VBG a/DT loss./NN
+
+Under/IN the/DT proposals/NNS -/: which/WDT the/DT paper/NN said/VBD could/MD be/VB announced/VBN within/IN days/NNS -/: the/DT iconic/JJ sportscar/NN maker/NN could/MD be/VB listed/VBN separately/RB on/IN the/DT market./NN
+Fiat/NNP owns/VBZ a/DT 56%/CD stake/NN in/IN Ferrari/NNP -best/JJ known/VBD for/IN its/PRP$ dominant/JJ Formula/NN One/CD motor/NN racing/VBG team/NN -/: having/VBG first/RB bought/VBD into/IN the/DT business/NN in/IN 1969./CD
+It/PRP considered/VBD floating/VBG Ferrari/NNP in/IN 2002/CD but/CC opted/VBD to/TO sell/VB a/DT minority/NN stake/NN to/TO Italian/JJ bank/NN Mediobanca/NNP for/IN 775m/CD euros/NNS ($1bn)./CD
+That/DT sale/NN valued/VBN Ferrari/NNP -/: which/WDT owns/VBZ the/DT Maserati/NNP brand/NN -/: at/IN 2.3bn/CD euros./NN
+The/DT price/NN tag/NN would/MD change/VB if/IN Maserati/NNP was/VBD stripped/VBN out./NN
+The/DT Financial/NNP Times/NNP said/VBD Fiat/NNP may/MD transfer/VB Maserati/NNP within/IN its/PRP$ wholly-/NN owned/VBN Alfa/NNP Romeo/NNP division/NN in/IN an/DT effort/NN to/TO exploit/VB commercial/JJ synergies./NN
+Such/JJ a/DT move/NN would/MD help/VB Alfa/NNP Romeo/NNP and/CC Maserati/NNP to/TO share/VB marketing/NN distribution/NN and/CC research/NNP &/CC development/NN costs./NN
+Maserati/NNP and/CC Ferrari/NNP sell/VBP about/IN 10000/CD cars/NNS between/IN them/PRP and/CC both/DT companies/NNS broke/VBD even/RB in/IN 2003./CD
+
+Fiat/NNP Italy's/NNP largest/JJS private/JJ sector/NN employer/NN did/VBD not/RB comment/VB on/IN the/DT reported/VBN changes./NN
+Fiat/NNP recently/RB negotiated/VBD an/DT end/NN to/TO its/PRP$ alliance/NN with/IN General/NNP Motors./NNP
+The/DT US/PRP firm/VBP agreed/VBD to/TO pay/VB $2bn/CD to/TO exit/VB an/DT agreement/NN under/IN which/WDT it/PRP could/MD have/VB been/VBN liable/JJ to/TO buy/VB Fiat/NNP outright./NN
+Analysts/NNS said/VBD the/DT reported/VBN restructuring/NN was/VBD evidence/NN of/IN the/DT greater/JJR flexibility/NN which/WDT Fiat/NNP now/RB had/VBD to/TO develop/VB the/DT business./NN

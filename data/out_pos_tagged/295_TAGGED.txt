@@ -1,0 +1,20 @@
+Business/NN confidence/NN dips/NNS in/IN Japan/NNP
+
+Business/NN confidence/NN among/IN Japanese/JJ manufacturers/NNS has/VBZ weakened/VBN for/IN the/DT first/JJ time/NN since/IN March/NNP 2003/CD the/DT quarterly/JJ Tankan/NNP survey/NN has/VBZ found./NN
+
+Slower/JJR economic/JJ growth/NN rising/VBG oil/NN prices/NNS a/DT stronger/JJR yen/NNS and/CC weaker/JJR exports/NNS were/VBD blamed/VBN for/IN the/DT fall./NN
+December's/NNP confidence/NN level/NN was/VBD below/IN that/DT seen/VBN in/IN September/NNP the/DT Bank/NNP of/IN Japan/NNP said./NN
+However/RB September's/NNP reading/NN was/VBD the/DT strongest/JJS for/IN 13/CD years./NN
+"The/NN economy/NN is/VBZ at/IN a/DT pause/NN but/CC unlikely/JJ to/TO fall"/VB the/DT economy/NN minister/NN said./NN
+"It/NN will/MD feel/VB a/DT bit/NN slower/JJR (next/NN year)/NN than/IN this/DT year/NN and/CC growth/NN may/MD be/VB a/DT bit/NN more/RBR gentle/JJ but/CC the/DT situation/NN is/VBZ that/IN the/DT recovery/NN will/MD continue"/VB said/VB economy/NN minister/NN Heizo/NNP Takenaka./NNP
+In/IN the/DT Bank/NNP of/IN Japan's/NNP December/NNP survey/NN the/DT balance/NN of/IN big/JJ manufacturers/NNS saying/VBG business/NN conditions/NNS are/VBP better/JJR minus/CC those/DT saying/VBG they/PRP are/VBP worse/JJR was/VBD 22/CD down/RB from/IN 26/CD in/IN September./NNP
+
+Japan's/NNP economy/NN grew/VBD by/IN just/RB 0.1%/CD in/IN the/DT three/CD months/NNS to/TO September/NNP according/VBG revised/VBN data/NNS issued/VBD this/DT month./NN
+With/IN the/DT recovery/NN slowing/VBG the/DT world's/NNS second/JJ biggest/JJS economy/NN is/VBZ now/RB expected/VBN grow/NN by/IN 0.2%/CD in/IN 2004./CD
+The/DT Tankan/NNP index/NN is/VBZ based/VBN on/IN a/DT survey/NN of/IN 10227/CD firms./NN
+Big/JJ manufacturers/NNS were/VBD even/RB more/RBR pessimistic/JJ about/IN the/DT first/JJ quarter/NN of/IN 2005/CD their/PRP$ views/NNS suggest/VBP the/DT March/NNP reading/NN could/MD go/VB as/RB low/JJ as/IN 15/CD -/: still/RB in/IN positive/JJ territory/NN but/CC weaker./NN
+The/DT dollar's/NNS decline/NN has/VBZ strengthened/VBN the/DT yen/NN making/VBG Japanese/JJ exports/NNS more/RBR expensive/JJ in/IN the/DT US./NNP
+China's/NN attempts/NNS to/TO cool/JJ down/RP its/PRP$ fast-growing/JJ economy/NN have/VBP also/RB hit/VBN Japanese/JJ industry's/NNS sales/NNS abroad./NN
+Confidence/NN among/IN non-manufacturers/NNS was/VBD unchanged/JJ in/IN the/DT final/JJ quarter/NN of/IN 2004/CD but/CC it/PRP is/VBZ forecast/NN to/TO drop/VB one/CD point/NN in/IN the/DT March/NNP survey./NN
+Nonetheless/RB Japanese/JJ firms/NNS have/VBP been/VBN stepping/VBG up/RP capital/NN investment/NN and/CC the/DT survey/NN found/VBD the/DT pace/NN is/VBZ quickening./NN
+Companies/NNS reported/VBD they/PRP expect/VBP to/TO invest/VB 7.7%/CD more/JJR in/IN the/DT year/NN to/TO March/NNP 2005/CD than/IN the/DT previous/JJ year/NN -/: up/RP from/IN expectations/NNS of/IN 6.1%/CD increase/NN in/IN the/DT September/NNP Tankan./NNP

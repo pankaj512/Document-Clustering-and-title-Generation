@@ -1,0 +1,18 @@
+US/PRP industrial/VBD output/NN growth/NN eases/VBZ
+
+US/PRP industrial/VBD production/NN continued/VBD to/TO rise/VB in/IN November/NNP albeit/IN at/IN a/DT slower/JJR pace/NN than/IN the/DT previous/JJ month./NN
+
+The/DT US/PRP Federal/NNP Reserve/NNP said/VBD output/NN from/IN factories/NNS mines/NNS and/CC utilities/NNS rose/VBD 0.3%/CD -/: in/IN line/NN with/IN forecasts/NNS -/: from/IN a/DT revised/VBN 0.6%/CD increase/NN in/IN October./NNP
+Analysts/NNS added/VBD that/IN if/IN the/DT carmaking/NN sector/NN -/: which/WDT saw/VBD production/NN fall/NN 0.5%/CD -/: had/VBD been/VBN excluded/VBN the/DT data/NNS would/MD have/VB been/VBN more/JJR impressive./NN
+The/DT latest/JJS increase/NN means/VBZ industrial/JJ output/NN has/VBZ grown/VBN 4.2%/CD in/IN the/DT past/JJ year./NN
+Many/JJ analysts/NNS were/VBD upbeat/JJ about/IN the/DT prospects/NNS for/IN the/DT US/PRP economy/VBP with/IN the/DT increase/NN in/IN production/NN coming/VBG on/IN the/DT heels/NNS of/IN news/NN of/IN a/DT recovery/NN in/IN retail/JJ sales./NN
+"This/NN is/VBZ very/RB consistent/JJ with/IN an/DT economy/NN growing/VBG at/IN 3.5/CD to/TO 4.0%./CD
+It/PRP is/VBZ congruent/NN with/IN job/NN growth/NN and/CC consumer/NN optimism"/NN Comerica/NNP chief/NN economist/NN David/NNP Littman/NNP said/VBD of/IN the/DT figures./NN
+
+The/DT US/PRP economy/VBP grew/VBD at/IN a/DT respectable/JJ annual/JJ rate/NN of/IN 3.7%/CD in/IN the/DT three/CD months/NNS between/IN July/NNP and/CC September/NNP while/IN jobs/NNS growth/NN averaged/VBD 178000/CD during/IN the/DT same/JJ period./NN
+While/IN the/DT employment/NN figures/NNS are/VBP not/RB spectacular/JJ experts/NNS believe/VBP they/PRP are/VBP enough/RB to/TO whittle/VB away/RB at/IN America's/NNP 5.4%/CD jobless/JJ rate./NN
+A/DT breakdown/NN of/IN the/DT latest/JJS production/NN figures/NNS shows/VBZ mining/NN output/NN drove/VBD the/DT increase/NN surging/VBG 2.1%/CD while/IN factory/NN output/NN rose/VBD 0.3%./CD
+But/CC utility/NN output/NN dropped/VBD 1.4%./CD
+Meanwhile/RB the/DT amount/NN of/IN factory/NN capacity/NN in/IN use/NN during/IN the/DT month/NN rose/VBD to/TO 77.6%/CD -/: its/PRP$ highest/JJS level/NN since/IN May/NNP 2001./CD
+"Many/NN investors/NNS think/VBP that/DT product/NN market/NN inflation/NN won't/NN be/VB a/DT problem/NN until/IN the/DT utilisation/NN rates/NNS are/VBP at/IN 80%/CD or/CC higher"/NN Cary/NNP Leahy/NNP senior/JJ US/PRP economist/VBP at/IN Deutsche/NNP Bank/NNP Securities/NNPS said./NN
+"So/NN there/EX is/VBZ still/RB a/DT lot/NN of/IN inflation-fighting/JJ slack/NN in/IN the/DT manufacturing/NN sector"/NN "Overall/NN I'd/NNP say/VBP manufacturing/NN at/IN least/JJS away/RB from/IN autos/NNS continues/VBZ to/TO improve/VB and/CC I/PRP would/MD bet/VB that/IN it/PRP improves/VBZ at/IN a/DT faster/JJR rate/NN in/IN coming/VBG months/NNS given/VBN how/WRB lean/JJ inventories/NNS are"/NN Citigroup/NNP senior/JJ economist/NN Steven/NNP Wieting/NNP added./NN

@@ -1,0 +1,18 @@
+Henman/NNP overcomes/VBZ rival/JJ Rusedski/NNP
+
+Tim/NNP Henman/NNP saved/VBD a/DT match/NN point/NN before/IN fighting/VBG back/RB to/TO defeat/VB British/JJ rival/JJ Greg/NNP Rusedski/NNP 4-6/JJ 7-6/JJ (8-6)/JJ 6-4/NN at/IN the/DT Dubai/NNP Tennis/NN Championships/NNS on/IN Tuesday./NNP
+
+World/NNP number/NN 46/CD Rusedski/NNP broke/VBD in/IN the/DT ninth/JJ game/NN to/TO take/VB a/DT tight/JJ opening/NN set./NN
+Rusedski/NNP had/VBD match/VBN point/NN at/IN 6-5/JJ in/IN the/DT second/JJ set/VBN tie-break/JJ after/IN Henman/NNP double-faulted/JJ but/CC missed/VBD his/PRP$ chance/NN and/CC Henman/NNP rallied/VBD to/TO clinch/VB the/DT set./NN
+The/DT British/JJ number/NN one/CD then/RB showed/VBD his/PRP$ superior/JJ strength/NN to/TO take/VB the/DT decider/NN and/CC earn/VB his/PRP$ sixth/JJ win/NN over/IN Rusedski./NNP
+Serve/VB was/VBD held/VBN by/IN both/DT players/NNS with/IN few/JJ alarms/NNS until/IN the/DT seventh/JJ game/NN of/IN the/DT final/JJ set/VBN when/WRB Rusedski's/NNP wild/JJ volley/NN gave/VBD Henman/NNP a/DT vital/JJ break./NN
+A/DT furious/JJ Rusedski/NNP slammed/VBD his/PRP$ racket/NN onto/IN the/DT ground/NN in/IN disgust/NN and/CC was/VBD warned/VBN by/IN the/DT umpire./NN
+
+Henman/NNP seeded/VBD three/CD then/RB held/VBN his/PRP$ serve/NN comfortably/RB thanks/NNS to/TO four/CD serve-and-volley/JJ winners/NNS to/TO take/VB a/DT clear/JJ 5-3/JJ lead./NN
+Rusedski/NNP won/VBD his/PRP$ service/NN game/NN but/CC Henman/NNP took/VBD the/DT first/JJ of/IN his/PRP$ three/CD match/NN points/NNS with/IN a/DT service/NN winner/NN to/TO secure/VB his/PRP$ place/NN in/IN the/DT second/JJ round/NN at/IN Dubai/NNP for/IN the/DT first/JJ time/NN in/IN three/CD years./NN
+It/PRP was/VBD the/DT first/JJ match/NN between/IN the/DT pair/NN for/IN three/CD years/NNS -/: Henman/NNP last/NN lost/VBD to/TO Rusedski/NNP six/CD years/NNS ago/RB -/: and/CC lasted/VBD two/CD hours/NNS and/CC 40/CD minutes./NN
+The/DT pair/NN are/VBP now/RB likely/JJ to/TO only/RB face/VB each/DT other/JJ on/IN court/NN as/IN rivals/NNS -/: rather/RB than/IN as/IN team-mates/NNS -/: after/IN Henman/NNP decided/VBD to/TO retire/VB from/IN Davis/NNP Cup/NNP tennis/NN leaving/VBG Rusedski/NNP to/TO lead/VB the/DT team/NN out/RP against/IN Israel/NNP on/IN 4-6/JJ March./NNP
+Henman/NNP who/WP now/RB faces/VBZ Russian/JJ Igor/NNP Andreev/NNP in/IN the/DT last/JJ 16/CD admitted/VBN afterwards/RB it/PRP was/VBD difficult/JJ coming/VBG up/RP against/IN his/PRP$ compatriot/NN on/IN a/DT fast/JJ surface./NN
+"You/NN just/RB take/VB it/PRP point/NN by/IN point/NN when/WRB you're/NN fighting/VBG to/TO stay/VB in/IN the/DT match"/NN he/PRP said./VB
+"I/NN had/VBD to/TO keep/VB playing/VBG aggressively/RB and/CC competing/VBG to/TO get/VB a/DT chance./NN
+"I/NN now/RB have/VBP to/TO recover/VB in/IN time/NN for/IN the/DT next/JJ match/NN because/IN the/DT body/NN doesn't/NN recover/NN as/RB quick/JJ as/IN it/PRP used/VBD to/TO especially/RB after/IN two/CD hours/NNS and/CC 40/CD minutes."/NN

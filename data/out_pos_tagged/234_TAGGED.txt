@@ -1,0 +1,12 @@
+Vodafone/NN appoints/VBZ new/JJ Japan/NNP boss/NN
+
+Vodafone/NNP has/VBZ drafted/VBN in/IN its/PRP$ UK/NNP chief/NN executive/NN William/NNP Morrow/NNP to/TO take/VB charge/NN of/IN its/PRP$ troubled/JJ Japanese/JJ operation./NN
+
+Mr/NNP Morrow/NNP will/MD succeed/VB Shiro/NNP Tsuda/NNP as/IN president/NN of/IN Vodafone/NNP KK/NNP Japan's/NNP number/NN three/CD mobile/JJ operator/NN in/IN April./NNP
+Mr/NNP Tsuda/NNP who/WP will/MD become/VB chairman/NN was/VBD appointed/VBN president/NN only/RB two/CD months/NNS ago/RB but/CC the/DT business/NN has/VBZ struggled/VBN since/IN then/RB losing/VBG customers/NNS in/IN January./NNP
+Vodafone/NNP had/VBD pinned/VBN its/PRP$ hopes/NNS on/IN the/DT launch/NN of/IN its/PRP$ 3G/CD phones/NNS in/IN November/NNP but/CC demand/NN for/IN them/PRP has/VBZ been/VBN slow./NN
+
+While/IN it/PRP has/VBZ more/JJR than/IN 15/CD million/CD customers/NNS in/IN Japan/NNP Vodafone/NNP has/VBZ found/VBN it/PRP difficult/JJ to/TO satisfy/VB Japan's/NNP technologically/RB demanding/VBG mobile/JJ users./NN
+It/PRP suffered/VBD a/DT net/JJ loss/NN of/IN more/JJR than/IN 58000/CD customers/NNS in/IN January/NNP its/PRP$ second/JJ monthly/JJ reverse/NN in/IN the/DT last/JJ year./NN
+"Vodafone/NN is/VBZ going/VBG to/TO need/VB to/TO put/VB a/DT lot/NN of/IN money/NN into/IN Japan/NNP if/IN it/PRP wants/VBZ to/TO rebuild/VB the/DT business"/NN Tetsuro/NNP Tsusaka/NNP a/DT telecoms/NNS analyst/NN with/IN Deutsche/NNP Bank/NNP told/VBD Reuters./NNP
+"I/NN do/VBP not/RB know/VB if/IN it/PRP will/MD be/VB worth/JJ it/PRP for/IN them/PRP to/TO spend/VB that/DT kind/NN of/IN money/NN just/RB for/IN Japan."/NNP

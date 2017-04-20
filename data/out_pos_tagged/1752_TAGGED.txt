@@ -1,0 +1,16 @@
+Venus/NNP stunned/VBN by/IN Farina/NNP Elia/NNP
+
+Venus/NNP Williams/NNP suffered/VBD a/DT first-round/JJ defeat/NN for/IN the/DT first/JJ time/NN in/IN four/CD years/NNS at/IN the/DT Dubai/NNP Championships./NNP
+
+Sylvia/NNP Farina/NNP Elia/NNP who/WP had/VBD lost/VBN all/RB nine/CD of/IN her/PRP$ previous/JJ meetings/NNS with/IN the/DT American/JJ fifth/JJ seed/NN won/VBD 7-5/JJ 7-6/JJ (8-6)./JJ
+Former/NNP Wimbledon/NNP champion/NN Conchita/NNP Martinez/NNP and/CC India's/NNP Sania/NNP Mirza/NNP the/DT oldest/JJS and/CC youngest/JJS players/NNS in/IN the/DT draw/NN also/RB reached/VBD the/DT second/JJ round./NN
+Martinez/NNP 32/CD beat/NN Shinobu/NNP Asagoe/NNP 6-4/JJ 6-4/JJ and/CC 18-year-old/JJ Mirza/NNP beat/VB Jelena/NNP Kostanic/NNP 6-7/JJ (7-2)/JJ 6-4/JJ 6-1./JJ
+Mirza/VBG the/DT first/JJ Indian/JJ woman/NN to/TO win/VB a/DT WTA/NNP Tour/NN title/NN this/DT month/NN on/IN home/NN ground/NN at/IN Hyderabad/NNP will/MD now/RB face/VB US/PRP Open/NNP champion/NN Svetlana/NNP Kuznetsova./NNP
+
+But/CC she/PRP is/VBZ remaining/VBG confident./NN
+"She/NN (Kuznetsova)/NN is/VBZ a/DT great/JJ player"/NN she/PRP said./VBP
+"But/NN everyone/NN is/VBZ beatable/JJ and/CC I/PRP am/VBP looking/VBG forward/RB to/TO a/DT great/JJ match."/NN Williams/NNP though/IN blamed/VBN her/PRP$ defeat/NN by/IN Farina/NNP Elia/NNP on/IN injuries./NN
+"Blisters/NN were/VBD a/DT factor/NN but/CC mostly/RB my/PRP$ stomach/NN wasn't/NN that/WDT great"/NN she/PRP said./VBP
+"I/NN did/VBD it/PRP in/IN the/DT last/JJ tournament/NN in/IN the/DT semi-finals/NNS and/CC I/PRP was/VBD serving/VBG at/IN 40%/CD in/IN the/DT final./NN
+"The/NN first/JJ time/NN I/PRP served/VBD again/RB was/VBN Sunday/NNP and/CC there/EX wasn't/NN a/DT lot/NN I/PRP could/MD do/VB out/RP there./NN
+When/WRB your/PRP$ serve/NN isn't/NN good/JJ it/PRP throws/VBZ the/DT rest/NN of/IN your/PRP$ game/NN off/RP too."/NN She/PRP will/MD wait/VB to/TO see/VB how/WRB she/PRP recovers/VBZ before/IN deciding/VBG whether/IN to/TO take/VB part/NN in/IN the/DT Nasdaq-100/JJ Open/NNP in/IN Miami/NNP starting/VBG on/IN 21/CD March./NNP

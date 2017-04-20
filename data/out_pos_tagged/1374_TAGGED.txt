@@ -1,0 +1,54 @@
+Johnson/NN edges/NNS out/RP rival/JJ Sotherton/NNP
+
+Jade/NNP Johnson/NNP edged/VBD out/IN rival/JJ Kelly/NNP Sotherton/NNP with/IN her/PRP$ last/JJ effort/NN to/TO claim/VB the/DT AAAs/NNP long/JJ jump/NN title/NN at/IN the/DT Norwich/NNP Union/JJ European/JJ Indoor/JJ trials./NN
+
+Olympic/NNP heptathlon/NN bronze/NN medallist/NN Sotherton/NNP led/VBD the/DT event/NN with/IN her/PRP$ first/JJ leap/NN of/IN 6.43m/CD -/: a/DT personal/JJ best./NN
+But/CC Johnson/NNP who/WP has/VBZ not/RB competed/VBN indoors/NNS for/IN five/CD years/NNS leapt/VBD to/TO a/DT life-time/JJ best/JJS of/IN 6.50m/CD in/IN her/PRP$ last/JJ jump/NN after/IN four/CD fouls./NN
+Both/DT Johnson/NNP and/CC Sotherton/NNP passed/VBD the/DT European/JJ Championships/NNS qualifying/VBG mark./NN
+Although/IN Sotherton's/NNP main/JJ aim/NN in/IN Madrid/NNP next/JJ month/NN will/MD be/VB the/DT pentathlon/NN where/WRB she/PRP will/MD take/VB on/RP Olympic/NNP heptathlon/NN champion/NN Carolina/NNP Kluft./NNP
+Ireland's/NNP
+
+delivered/VBN a/DT shock/NN in/IN the/DT men's/NNS 200m/CD as/IN he/PRP stormed/VBD to/TO his/PRP$ first/JJ major/JJ title/NN in/IN 21.01/CD seconds./NN
+British/JJ favourite/NN Chris/NNP Lambert/NNP had/VBD to/TO settle/VB for/IN second/JJ place/NN while/IN defending/VBG champion/NN Ireland's/NNP Paul/NNP Brizzel/NNP took/VBD third./NN
+There/EX was/VBD some/DT consolation/NN for/IN Lambert/NNP as/IN he/PRP set/VBD a/DT personal/JJ best/JJS of/IN 20.94/CD in/IN the/DT first/JJ round/NN -/: good/JJ enough/RB to/TO qualify/VB for/IN Europe./NNP
+
+Two-time/NNP AAAs/NNP champion/NN Allyn/NNP Condon/NNP and/CC Ian/NNP Mackie/NNP had/VBD no/DT such/JJ luck/NN as/IN they/PRP were/VBD disqualified/VBN in/IN the/DT heats./NN
+There/EX was/VBD plenty/NN of/IN hot/JJ action/NN in/IN the/DT men's/NNS 60m/CD hurdles/NNS where/WRB Scotland's/NNP
+
+was/VBD vying/VBG for/IN top/JJ spot/NN with/IN Olympian/NNP Andy/NNP Turner./NNP
+Scott/NNP 22/CD smashed/VBD his/PRP$ personal/JJ best/JJS on/IN the/DT way/NN to/TO the/DT final/JJ where/WRB he/PRP broke/VBD it/PRP again/RB to/TO win/VB the/DT AAAs/NNP title/NN in/IN 7.58/CD seconds./NN
+Turner/NNP finished/VBD second/JJ in/IN 7.82/CD after/IN previously/RB setting/VBG a/DT personal/JJ best/JJS on/IN the/DT 7.83/CD in/IN the/DT semi-finals/NNS while/IN Damien/NNP Greaves/NNP did/VBD not/RB finish/VB the/DT final./NN
+The/DT trio/NN of/IN athletes/NNS have/VBP reached/VBN the/DT European/JJ qualifying/NN mark/NN this/DT season/NN though/IN one/CD of/IN them/PRP is/VBZ set/VBN to/TO miss/VB out/RP on/IN a/DT call-up/NN to/TO the/DT British/JJ squad./NN
+
+comfortably/RB defended/VBD her/PRP$ 3000m/CD title/NN clocking/VBG eight/CD minutes/NNS 49.87/CD seconds/NNS to/TO easily/RB surpass/VB the/DT European/JJ qualifying/NN mark./NN
+The/DT European/JJ cross/NN country/NN bronze/NN medallist/NN is/VBZ ranked/VBN number/NN one/CD in/IN Europe/NNP this/DT season/NN and/CC will/MD go/VB to/TO Madrid/NNP with/IN high/JJ hopes./NN
+Helen/NNP Clitheroe/NNP was/VBD agonisingly/RB close/RB to/TO the/DT 905.00/CD qualifying/VBG mark/NN as/IN she/PRP claimed/VBD the/DT runners-up/NNS spot/NN in/IN a/DT personal/JJ best/JJS of/IN 905.73./CD
+In/IN the/DT men's/NNS 800m/CD heats/VBZ
+
+qualified/VBN fastest/JJS in/IN the/DT 800m/CD heats/VBZ to/TO lay/VB down/RP a/DT challenge/NN to/TO in-form/JJ
+
+./.
+The/DT Welsh/NNP runner/NN attacked/VBD the/DT last/JJ 200m/CD to/TO come/VB through/IN ahead/RB of/IN James/NNP Thie/NNP in/IN one/CD minute/NN 49.87/CD seconds./NN
+McIlroy/NNP who/WP is/VBZ third/JJ in/IN the/DT European/JJ rankings/NNS eased/VBD across/IN the/DT finish/NN in/IN 150.87/CD to/TO set/VB up/RP a/DT showdown/NN in/IN Sunday's/NNP final/JJ in/IN Sheffield./NNP
+Both/DT Watkins/NNP and/CC McIlroy/NNP have/VBP already/RB achieved/VBN the/DT European/JJ qualifying/NN mark./NN
+Scotland's/NNP Susan/NNP Deacon/NNP stole/VBD
+
+'s/POS thunder/NN in/IN the/DT final/NN of/IN the/DT women's/NNS 200m./CD
+Fraser/NNP became/VBD the/DT fastest/JJS British/JJ woman/NN over/IN the/DT distance/NN this/DT season/NN when/WRB she/PRP qualified/VBD for/IN the/DT final/NN in/IN 23.68/CD seconds/NNS -/: though/IN that/DT time/NN is/VBZ outside/IN the/DT European/JJ standard./NN
+But/CC Deacon/NNP claimed/VBD her/PRP$ first/JJ AAAs/NNP title/NN over/IN the/DT distance/NN edging/VBG Fraser/NNP into/IN second/JJ in/IN 23.67./CD
+In/IN the/DT women's/NNS shot/NN put/VBD veteran/NN
+
+claimed/VBD her/PRP$ fourth/JJ AAAs/NNP title/NN with/IN a/DT throw/NN of/RP 15.27m./CD
+But/CC that/DT mark/NN was/VBD not/RB good/JJ enough/RB for/IN the/DT 39-year-old/JJ to/TO book/VB her/PRP$ place/NN at/IN next/JJ month's/NNS European/JJ Indoor/JJ Championships/NNS in/IN Madrid./NNP
+Sotherton/NNP finished/VBD fifth/JJ after/IN producing/VBG two/CD throws/VBZ of/IN 13.77m./CD
+In/IN the/DT absence/NN of/IN injured/VBN British/JJ number/NN one/CD Carl/NNP Myerscough/NNP
+
+claimed/VBD the/DT men's/NNS shot/NN put/VBD title/NN with/IN a/DT throw/NN of/RP 17.64m/CD which/WDT was/VBD below/IN the/DT qualifying/VBG mark./NN
+
+Sale's/NNP Robert/NNP Mitchell/NNP climbed/VBD to/TO a/DT season's/NNS best/JJS of/IN 2.20m/CD -/: just/RB 3cm/CD short/JJ of/IN the/DT European/JJ standard/JJ -/: to/TO claim/VB the/DT British/JJ indoor/JJ high/JJ jump/NN title./NN
+
+could/MD only/RB clear/VB 2.16m/CD to/TO finish/VB in/IN fourth/JJ but/CC the/DT 27-year-old's/JJ disappointment/NN will/MD be/VB tempered/VBN as/IN he/PRP had/VBD already/RB achieved/VBN the/DT qualifying/VBG mark/NN at/IN a/DT meeting/NN in/IN Slovenia/NNP on/IN Tuesday./NNP
+There/EX was/VBD bad/JJ luck/NN for/IN British/JJ number/NN one/CD
+
+in/IN the/DT pole/NN vault/NN as/IN he/PRP failed/VBD to/TO clear/VB the/DT bar/NN after/IN deciding/VBG to/TO come/VB in/IN at/IN 5.45m./CD
+The/DT AAAs/NNP indoor/JJ title/NN went/VBD instead/RB to/TO Ashley/NNP Swain/NNP who/WP climbed/VBD to/TO a/DT season's/NNS best/JJS of/IN 5.25m/CD And/CC Ireland's/NNP Taniesha/NNP Scanlon/NNP set/VBD a/DT new/JJ national/JJ record/NN of/IN 13.28m/CD in/IN the/DT women's/NNS triple/JJ jump./NN

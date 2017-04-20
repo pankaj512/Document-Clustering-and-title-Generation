@@ -1,0 +1,21 @@
+Parker/NNP misses/VBZ England/NNP clash/NN
+
+Tom/NNP Shanklin/NNP will/MD start/VB in/IN the/DT centre/NN for/IN Wales/NNP against/IN England/NNP in/IN Cardiff/NNP on/IN Saturday/NNP after/IN Sonny/NNP Parker/NNP failed/VBD to/TO recover/VB from/IN a/DT trapped/VBN neck/NN nerve./NN
+
+Shanklin/NNP was/VBD first-choice/JJ wing/NN in/IN the/DT autumn/NN Tests/NNS but/CC prefers/VBZ centre/NN and/CC will/MD face/VB England/NNP debutant/NN Mathew/NNP Tait./NNP
+Dragons/NNP three-quarter/JJ Hal/NNP Luscombe/NNP takes/VBZ Shanklin's/NNP wing/NN berth./NN
+Up/IN front/NN Mefin/NNP Davies/NNP plays/VBZ at/IN hooker/NN open-side/JJ Martyn/NNP Williams/NNP is/VBZ fit/VB to/TO start/VB and/CC lock/VB Rob/NNP Sidoli/NNP replaces/VBZ veteran/NN Gareth/NNP Llewellyn./NNP
+Davies/NNP wins/VBZ the/DT vote/NN ahead/RB of/IN Robin/NNP McBryde/NNP who/WP sits/VBZ on/IN the/DT bench/NN having/VBG recently/RB returned/VBN to/TO action/VB for/IN the/DT Scarlets/NNPS following/VBG a/DT neck/NN injury./NN
+
+Sidoli/NNP is/VBZ back/RB for/IN the/DT first/JJ time/NN since/IN last/JJ season's/NNS Six/CD Nations/NNPS the/DT Blues/NNPS second/JJ row/NN back/RB to/TO form/VB after/IN a/DT niggling/VBG groin/NN problem./NN
+Williams/NNP Sidoli's/NNP team-mate/JJ at/IN Cardiff/NNP is/VBZ set/VBN to/TO win/VB his/PRP$ 50th/JJ cap/NN replacing/VBG the/DT injured/VBN Colin/NNP Charvis/NNP after/IN making/VBG a/DT quicker-than-expected/JJ recovery/NN from/IN a/DT neck/NN disc/NN problem./NN
+"Initially/RB when/WRB I/PRP had/VBD the/DT diagnosis/NN it/PRP was/VBD a/DT case/NN of/IN trying/VBG to/TO get/VB fit/VB for/IN the/DT Italy/NNP game/NN next/JJ week/NN but/CC fortunately/RB my/PRP$ recovery/NN has/VBZ been/VBN a/DT lot/NN quicker/JJR than/IN we/PRP all/DT hoped"/NN Williams/NNP told/VBD BBC/NNP Sport/NNP Wales./NNP
+"I/NN haven't/NN started/VBD a/DT game/NN since/IN 1/CD January/NNP and/CC would/MD have/VB preferred/JJ to/TO have/VB a/DT couple/NN of/IN games/NNS in/IN the/DT lead-up/JJ to/TO this/DT but/CC the/DT good/JJ thing/NN with/IN the/DT injury/NN is/VBZ that/IN I/PRP have/VBP kept/VBN up/RP my/PRP$ fitness/NN levels./NN
+"I/NN feel/VBP quite/RB fresh/JJ and/CC I/PRP just/RB can't/VBP wait/NN to/TO play/VB again."/NN Williams/NNP says/VBZ he/PRP expects/VBZ a/DT torrid/JJ time/NN from/IN an/DT England/NNP loose-forward/JJ trio/NN of/IN Lewis/NNP Moody/NNP Joe/NNP Worsley/NNP and/CC Andy/NNP Hazell./NNP
+"They/NN are/VBP three/CD top-class/JJ players/NNS especially/RB Worsley/NNP and/CC Moody./NNP
+They/PRP have/VBP been/VBN there/RB and/CC done/VBN it"/NN Williams/NNP added./NN
+"They/NN were/VBD back-ups/NNS behind/IN Richard/NNP Hill/NNP Neil/NNP Back/RB and/CC Lawrence/NNP Dallaglio/NNP but/CC now/RB they/PRP have/VBP come/VBN forward/RB and/CC proved/VBD what/WP good/JJ players/NNS they/PRP are/VBP -/: there/EX are/VBP no/DT weaknesses/NNS there."/NN Luscombe/NNP gets/VBZ the/DT nod/NN on/IN the/DT wing/NN ahead/RB of/IN Dragons/NNP team-mate/JJ Kevin/NNP Morgan/NNP who/WP wins/VBZ a/DT place/NN on/IN the/DT bench/NN alongside/IN uncapped/VBN Blues/NNPS prop/VBP John/NNP Yapp./NNP
+
+G/NNP Thomas/NNP (Toulouse/NN (capt)/NN H/NNP Luscombe/NNP (Dragons)/NN T/NNP Shanklin/NNP (Blues)/NN G/NNP Henson/NNP (Ospreys)/NN S/NNP Williams/NNP (Ospreys)/NN S/NNP Jones/NNP (Clermont/NN Auvergne)/NNP D/NNP Peel/NNP (Scarlets)/NN G/NNP Jenkins/NNP (Blues)/NN M/NNP Davies/NNP (Gloucester)/NN A/DT Jones/NNP (Ospreys)/NN B/NNP Cockbain/NNP (Ospreys)/NN R/NN Sidoli/NNP (Blues)/NN D/NNP Jones/NNP (Scarlets)/NN M/NNP Williams/NNP (Blues)/NN M/NNP Owen/NNP (Dragons)./NN
+
+R/NNP McBryde/NNP (Scarlets)/NN J/NNP Yapp/NNP (Blues)/NN J/NNP Thomas/NNP (Ospreys)/NN R/NN Jones/NNP (Ospreys)/NN G/NNP Cooper/NNP (Dragons)/NN C/NNP Sweeney/NNP (Dragons)/NN K/NNP Morgan/NNP (Dragons)./NN

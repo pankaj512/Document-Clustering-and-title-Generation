@@ -1,0 +1,28 @@
+Kuznetsova/NNP 'failed/VBD a/DT drugs/NNS test'/NN
+
+US/PRP Open/NNP champion/NN Svetlana/NNP Kuznetsova/NNP has/VBZ tested/VBN positive/JJ for/IN a/DT banned/VBN drug/NN according/VBG to/TO Belgian/JJ authorities./NN
+
+Belgian/JJ sports/NNS minister/NN Claude/NNP Eerdekens/NNP said/VBD that/IN the/DT Russian/JJ world/NN number/NN five/CD tested/VBN positive/JJ for/IN the/DT stimulant/NN ephedrine/NN on/IN 19/CD December./NNP
+Kuznetsova/NNP was/VBD playing/VBG in/IN an/DT exhibition/NN event/NN in/IN Charleroi/NNP at/IN the/DT time./NN
+Eerdekens/NNP said/VBD "There/NN is/VBZ a/DT problem./NN
+Ephedrine/NNP was/VBD discovered./JJ
+She/PRP remains/VBZ innocent/JJ until/IN proved/VBD guilty./NN
+She/PRP can/MD ask/VB for/IN it/PRP to/TO be/VB tested/VBN again."/NN The/DT situation/NN remains/VBZ unclear/JJ as/IN the/DT tournament/NN was/VBD not/RB commissioned/VBN by/IN the/DT World/NNP Anti-Doping/NNP Agency/NNP (Wada)/NN the/DT International/NNP Tennis/NN Federation/NNP (ITF)/NN or/CC the/DT Women's/NNP Tennis/NN Accosiation/NNP (WTA)./NN
+The/DT test/NN was/VBD carried/VBN out/RP by/IN regional/JJ Belgian/JJ authorities/NNS and/CC Kuznetsova/NNP has/VBZ not/RB yet/RB been/VBN able/JJ to/TO have/VB a/DT B/NNP sample/NN tested./NN
+
+Speaking/VBG at/IN the/DT Australian/JJ Open/NNP on/IN Monday/NNP before/IN Eerdekens/NNP identified/VBD her/PRP$ Kuznetsova/NNP said/VBD "I'm/NN not/RB worried./NN
+I'm/NNP not/RB using/VBG anything/NN to/TO push/VB myself./NN
+"I/NN have/VBP not/RB been/VBN notified/VBN of/IN any/DT positive/JJ test/NN and/CC I/PRP think/VBP it/PRP is/VBZ unfair/JJ that/IN it's/NNS come/VBP out/RP the/DT way/NN it/PRP did."/NN Eerdekens/NNP said/VBD that/DT confirmation/NN of/IN the/DT findings/NNS was/VBD sent/VBN last/JJ Friday/NNP to/TO the/DT player's/NNS address/VBP in/IN Spain/NNP as/RB well/RB as/IN to/TO the/DT Belgian/JJ prosecutors'/NN office/NN and/CC the/DT Belgian/JJ and/CC Russian/JJ tennis/NN federations./NN
+He/PRP conceded/VBD Kuznetsova/NNP might/MD have/VB taken/VBN a/DT medicine/NN which/WDT contained/VBD the/DT banned/VBN substance./NN
+"We/NN have/VBP simply/RB stated/VBN a/DT fact"/NN he/PRP said./VB
+"It/NN is/VBZ for/IN the/DT federation/NN concerned/VBN to/TO impose/VB the/DT disciplinary/JJ measures/NNS after/IN a/DT procedure/NN that/WDT respects/VBZ the/DT defence./NN
+
+"Either/NN the/DT ephedrine/NN was/VBD taken/VBN to/TO improve/VB her/PRP$ performance/NN or/CC it/PRP is/VBZ because/IN she/PRP took/VBD some/DT medicine/NN legitimately/RB to/TO cure/VB an/DT infection."/NN However/RB Kuznetsova's/NNP naming/VBG was/VBD condemned/VBN by/IN Russian/JJ tennis/NN chief/NN Shamil/NNP Tarpishchev./NNP
+"First/NN of/IN all/PDT this/DT Belgian/JJ sports/NNS minister/NN has/VBZ broken/VBN every/DT ethical/JJ rule/NN in/IN the/DT book/NN by/IN naming/VBG a/DT player/NN without/IN any/DT proof/NN of/IN wrongdoing/NN without/IN any/DT basic/JJ evidence"/NN Tarpishchev/NNP said./NN
+"We/NN all/DT know/NN the/DT basic/JJ principle/NN in/IN doping/VBG cases./NN
+If/IN there/EX is/VBZ a/DT positive/JJ sample/NN then/RB they/PRP should/MD notify/VB the/DT International/NNP Tennis/NN Federation/NNP (ITF)/NN as/RB well/RB as/IN the/DT national/JJ federation/NN within/IN three/CD days"/NN he/PRP said./VB
+"This/NN is/VBZ not/RB the/DT case/NN here./NN
+As/IN of/IN today/NN we/PRP have/VBP not/RB received/VBN any/DT statement/NN from/IN the/DT doping/VBG officials/NNS nor/CC did/VBD the/DT ITF./NNP
+"Today/NN I/PRP called/VBD the/DT ITF/NNP headquarters/NN and/CC they/PRP told/VBD me/PRP they/PRP know/VBP nothing/NN about/IN it./NN
+"If/NNP WADA/NNP (the/NN World/NNP Anti-Doping/NNP Agency)/NNP was/VBD behind/IN the/DT testing/NN then/RB we/PRP would/MD also/RB have/VB known/VBN something/NN by/IN now./NN
+"Otherwise/NN all/PDT these/DT looks/VBZ to/TO me/PRP as/IN pure/JJ fiction/NN and/CC fabrication/NN of/IN the/DT facts."/NN

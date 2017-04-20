@@ -1,0 +1,17 @@
+Fit-again/NNP Betsen/NNP in/IN France/NNP squad/NN
+
+France/NNS have/VBP brought/VBN flanker/NN Serge/NNP Betsen/NNP back/RB into/IN their/PRP$ squad/NN to/TO face/VB England/NNP at/IN Twickenham/NNP on/IN Sunday./NNP
+
+But/CC the/DT player/NN who/WP missed/VBD the/DT victory/NN over/IN Scotland/NNP through/IN injury/NN must/MD attend/VB a/DT disciplinary/JJ hearing/NN on/IN Wednesday/NNP after/IN being/VBG cited/VBD by/IN Wasps./NNP
+"Serge/NN has/VBZ a/DT good/JJ case/NN so/IN we/PRP are/VBP confident/JJ he/PRP will/MD play"/VB said/VB France/NNP coach/NN Bernard/NNP Laporte./NNP
+The/DT inexperienced/JJ Nicolas/NNP Mas/NNP Jimmy/NNP Marlu/NNP and/CC Jean-Philippe/NNP Grandclaude/NNP are/VBP also/RB included/VBN in/IN a/DT 22-man/JJ squad./NN
+The/DT trio/NN have/VBP been/VBN called/VBN up/RP after/IN Pieter/NNP de/NNP Villiers/NNP Ludovic/NNP Valbon/NNP and/CC Aurelien/NNP Rougerie/NNP all/DT picked/VBD up/RP injuries/NNS in/IN France's/NNP 16-9/JJ win/NN on/IN Saturday./NNP
+
+Laporte/NNP said/VBD he/PRP was/VBD confident/JJ that/IN Betsen/NNP would/MD be/VB cleared/VBN by/IN the/DT panel/NN investigating/VBG his/PRP$ alleged/VBN trip/NN that/WDT broke/VBD Wasps/NNP centre/NN Stuart/NNP Abbott's/NNP leg./NN
+"If/NN he/PRP was/VBD to/TO be/VB suspended/VBN we/PRP would/MD call/VB up/RP Imanol/NNP Harinordoquy/NNP or/CC Thomas/NNP Lievremont"/NNP said/VBD Laporte/NNP who/WP has/VBZ dropped/VBN Patrick/NNP Tabacco./NNP
+"We/NN missed/VBN Serge/NNP badly/RB against/IN Scotland./NNP
+He/PRP has/VBZ now/RB recovered/VBN from/IN his/PRP$ thigh/NN injury/NN and/CC played/VBD on/IN Saturday/NNP with/IN Biarritz."/NNP France's/NNP regular/JJ back-row/JJ combination/NN of/IN Betsen/NNP Harinordoquy/NNP and/CC Olivier/NNP Magne/NNP were/VBD all/DT missing/NN from/IN France's/NNP side/NN at/IN the/DT weekend/NN because/IN of/IN injury./NN
+Laporte/NNP is/VBZ expected/VBN to/TO announce/VB France's/NNP starting/VBG line-up/JJ on/IN Wednesday./NNP
+
+Forwards/RB Nicolas/NNP Mas/NNP Sylvain/NNP Marconnet/NNP Olivier/NNP Milloud/NNP William/NNP Servat/NNP Sebastien/NNP Bruno/NNP Fabien/NNP Pelous/NNP Jerome/NNP Thion/NNP Gregory/NNP Lamboley/NNP Serge/NNP Betsen/NNP Julien/NNP Bonnaire/NNP Sebastien/NNP Chabal/NNP Yannick/NNP Nyanga./NNP
+Backs/VBZ Dimitri/NNP Yachvili/NNP Pierre/NNP Mignoni/NNP Frederic/NNP Michalak/NNP Yann/NNP Delaigue/NNP Damien/NNP Traille/NNP Brian/NNP Liebenberg/NNP Jean-Philippe/NNP Grandclaude/NNP Christophe/NNP Dominici/NNP Jimmy/NNP Marlu/NNP Pepito/NNP Elhorga./NNP

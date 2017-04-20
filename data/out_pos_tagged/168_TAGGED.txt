@@ -1,0 +1,14 @@
+Small/JJ firms/NNS 'hit/NN by/IN rising/VBG costs'/NN
+
+Rising/VBG fuel/NN and/CC materials/NNS costs/NNS are/VBP hitting/VBG confidence/NN among/IN the/DT UK's/NNP small/JJ manufacturers/NNS despite/IN a/DT rise/NN in/IN output/NN business/NN lobby/NN group/NN the/DT CBI/NNP says./NN
+
+A/DT CBI/NNP quarterly/JJ survey/NN found/VBD output/NN had/VBD risen/VBN by/IN the/DT fastest/JJS rate/NN in/IN seven/CD years/NNS but/CC many/JJ firms/NNS were/VBD seeing/VBG the/DT benefits/NNS offset/VBN by/IN increasing/VBG expenses./NN
+The/DT CBI/NNP also/RB found/VBD spending/NN on/IN innovation/NN training/NN and/CC retraining/VBG is/VBZ forecast/NN to/TO go/VB up/RB over/IN the/DT next/JJ year./NN
+However/RB firms/NNS continue/VBP to/TO scale/VB back/RB investment/NN in/IN buildings/NNS and/CC machinery./NN
+
+The/DT CBI/NNP said/VBD companies/NNS are/VBP looking/VBG to/TO the/DT government/NN to/TO lessen/VB the/DT regulatory/JJ load/NN and/CC are/VBP hoping/VBG interest/NN rates/NNS will/MD be/VB kept/VBN on/IN hold./NN
+"Smaller/NN manufacturers/NNS are/VBP facing/VBG an/DT uphill/JJ struggle"/NN said/VBD Hugh/NNP Morgan/NNP Williams/NNP chair/NN of/IN the/DT CBI's/NNP SME/NNP Council./NNP
+"The/NN manufacturing/NN sector/NN needs/VBZ a/DT period/NN of/IN long-term/JJ stability/NN in/IN the/DT economy."/NN The/DT CBI/NNP found/VBD some/DT firms/NNS managed/VBD to/TO increase/VB prices/NNS for/IN the/DT first/JJ time/NN in/IN nine/CD years/NNS -/: but/CC many/JJ said/VBD increases/NNS failed/VBD to/TO keep/VB up/RP the/DT rise/NN in/IN costs./NN
+Of/IN the/DT companies/NNS surveyed/VBD 30%/CD saw/VBD orders/NNS rise/VBP and/CC 27%/CD saw/VBD them/PRP fall./VBP
+The/DT positive/JJ balance/NN of/IN plus/CC 3/CD compared/VBN with/IN minus/CC 10/CD in/IN the/DT previous/JJ survey./NN
+When/WRB firms/NNS were/VBD questioned/VBN on/IN output/NN volume/NN the/DT survey/NN returned/VBD a/DT balance/NN of/IN plus/CC 8/CD -/: the/DT highest/JJS rate/NN of/IN increase/NN for/IN seven/CD years/NNS -/: and/CC rose/VBD to/TO plus/CC 11/CD when/WRB looking/VBG ahead/RB to/TO the/DT next/JJ three/CD months./NN

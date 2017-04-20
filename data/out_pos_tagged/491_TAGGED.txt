@@ -1,0 +1,20 @@
+Indonesia/NNP 'declines/NN debt/NN freeze'/NN
+
+Indonesia/VBG no/RB longer/RB needs/VBZ the/DT debt/NN freeze/NN offered/VBN by/IN the/DT Paris/NNP Club/NNP group/NN of/IN creditors/NNS Economics/NNP Minister/NNP Aburizal/NNP Bakrie/NNP has/VBZ reportedly/RB said./NN
+
+Indonesia/NNP which/WDT originally/RB accepted/VBD the/DT debt/NN moratorium/NN offer/NN owes/VBZ the/DT Paris/NNP Club/NNP about/IN $48bn/CD (£25.5bn)./CD
+Mr/NNP Bakrie/NNP told/VBD the/DT Bisnis/NNP Indonesia/NNP newspaper/NN that/IN a/DT $1.7bn/CD donors'/NN aid/NN package/NN meant/VBN that/IN the/DT debt/NN moratorium/NN was/VBD unnecessary./NN
+This/DT aid/NN comes/VBZ on/IN top/NN of/IN a/DT previously-pledged/JJ $3.4bn/CD package./NN
+Most/JJS of/IN this/DT 'normal/JJ aid'/NN would/MD be/VB used/VBN to/TO finance/VB the/DT country's/NNS budget/NN deficit./NN
+The/DT Indonesian/NNP Economics/NNP Minister/NNP explained/VBD that/IN the/DT money/NN -/: $1.2bn/CD in/IN grants/NNS and/CC $500m/CD in/IN soft/JJ loans/NNS -/: was/VBD for/IN the/DT rebuilding/NN of/IN Aceh/NNP province/NN which/WDT was/VBD badly/RB hit/VBN by/IN the/DT tsunami/NN of/IN 26/CD December./NNP
+Nevertheless/RB one/CD of/IN Mr/NNP Bakrie's/NNP deputies/NNS Mahendra/NNP Siregar/NNP told/VBD AFP/NNP news/NN agency/NN that/IN Indonesia/NNP was/VBD still/RB considering/VBG the/DT offer/NN by/IN the/DT Paris/NNP Club/NNP of/IN rich/JJ creditor/NN nations/NNS to/TO temporarily/RB suspend/VB its/PRP$ debt/NN payments./NN
+"What/NN is/VBZ true/JJ is/VBZ that/IN we/PRP are/VBP still/RB discussing.../JJ
+the/DT Paris/NNP Club/NNP decision/NN to/TO find/VB out/RP more/JJR details/NNS such/JJ as/IN how/WRB much/JJ of/IN our/PRP$ debt/NN will/MD be/VB subject/JJ to/TO a/DT moratorium./NN
+That's/NNP how/WRB far/RB we/PRP are/VBP at/IN this/DT stage"/NN said/VBD Mr/NNP Siregar./NNP
+
+The/DT 19/CD member/NN countries/NNS of/IN the/DT Paris/NNP Club/NNP are/VBP owed/VBN about/IN $5bn/CD this/DT year/NN in/IN debt/NN repayments/NNS by/IN nations/NNS affected/VBN by/IN the/DT Indian/NNP Ocean/NNP tsunami./NN
+Indonesia/NNP Sri/NNP Lanka/NNP and/CC the/DT Seychelles/NNP accepted/VBD the/DT Paris/NNP Club/NNP offer/NN which/WDT was/VBD criticised/VBN by/IN some/DT aid/NN groups/NNS as/IN being/VBG too/RB little./NN
+Thailand/NNP and/CC India/NNP have/VBP however/RB declined/VBN the/DT offer/NN with/IN Thailand/NNP prefering/VBG to/TO keep/VB up/RP with/IN its/PRP$ payments/NNS while/IN India/NNP said/VBD it/PRP would/MD prefer/VB to/TO rely/VB on/IN its/PRP$ own/JJ resources/NNS rather/RB than/IN on/IN international/JJ aid./NN
+Putting/VBG off/RP payments/NNS may/MD lower/VB a/DT country's/NNS rating/NN among/IN financial/JJ organisations/NNS making/VBG it/PRP more/RBR expensive/JJ and/CC more/RBR difficult/JJ for/IN them/PRP to/TO borrow/VB money/NN in/IN the/DT future/JJ analysts/NNS said./NN
+Separately/RB the/DT Indonesian/NNP government/NN has/VBZ said/VBN it/PRP will/MD announce/VB monthly/JJ how/WRB much/JJ it/PRP has/VBZ received/VBN in/IN foreign/JJ donations/NNS and/CC how/WRB it/PRP has/VBZ spent/VBN the/DT money./NN
+Welfare/NNP Minister/NNP Alwi/NNP Shihab/NNP told/VBD AP/NNP news/NN agency/NN that/IN this/DT announcement/NN should/MD allay/VB suspicion/NN of/IN official/JJ corruption/NN in/IN relief/NN operations./NN

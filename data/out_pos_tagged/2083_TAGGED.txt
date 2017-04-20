@@ -1,0 +1,21 @@
+Apple/NN sues/NNS 'Tiger'/NN file/NN sharers/NNS
+
+Apple/NNP has/VBZ taken/VBN more/RBR legal/JJ action/NN to/TO stop/VB online/NN leaks/NNS of/IN its/PRP$ new/JJ products./NN
+
+The/DT computer/NN giant/NN has/VBZ sued/VBN three/CD men/NNS for/IN releasing/VBG preview/NN versions/NNS of/IN its/PRP$ latest/JJS Mac/NNP OSX/NNP software/NN onto/IN file-sharing/JJ sites/NNS prior/RB to/TO its/PRP$ release./NN
+It/PRP said/VBD two/CD versions/NNS of/IN the/DT operating/VBG system/NN codenamed/VBN Tiger/NNP were/VBD put/VBN onto/IN the/DT net/NN in/IN October/NNP and/CC December./NNP
+It/PRP is/VBZ the/DT second/JJ time/NN in/IN two/CD weeks/NNS Apple/NNP has/VBZ taken/VBN legal/JJ action/NN to/TO protect/VB its/PRP$ future/JJ products./NN
+Tiger/NNP is/VBZ due/JJ to/TO be/VB shipped/VBN in/IN early/JJ 2005./CD
+Last/JJ week/NN it/PRP filed/VBD a/DT lawsuit/NN against/IN "unnamed/VBN individuals"/NN who/WP leaked/VBD details/NNS about/IN new/JJ products/NNS onto/IN the/DT web./NN
+
+The/DT latest/JJS action/NN was/VBD against/IN members/NNS of/IN the/DT Apple/NNP Developer/NNP Connection/NN a/DT group/NN of/IN programmers/NNS which/WDT gets/VBZ to/TO see/VB test/NN versions/NNS of/IN upcoming/VBG software/NN so/IN they/PRP can/MD develop/VB or/CC change/VBP their/PRP$ own/JJ programs/NNS to/TO work/VB with/IN them./NN
+"Members/NN of/IN Apple/NNP Developer/NNP Connection/NN receive/NN advance/NN copies/NNS of/IN Apple/NNP software/NN under/IN strict/JJ confidentiality/NN agreements/NNS which/WDT we/PRP take/VBP very/RB seriously/RB to/TO protect/VB our/PRP$ intellectual/JJ property"/NN Apple/NNP said/VBD in/IN a/DT statement./NN
+
+It/PRP added/VBD that/IN its/PRP$ future/JJ financial/JJ results/NNS were/VBD very/RB much/RB dependent/NN on/IN developing/VBG and/CC improving/VBG its/PRP$ operating/NN systems/NNS and/CC other/JJ software./NN
+It/PRP is/VBZ thought/VBN the/DT men/NNS used/VBD sites/NNS which/WDT employ/VBP BitTorrent/NNP technology./NN
+With/IN BitTorrent/NNP technology/NN sites/NNS do/VBP not/RB host/NN actual/JJ files/NNS being/VBG shared/VBN instead/RB they/PRP host/VBP a/DT link/NN that/IN points/NNS people/NNS to/TO others/NNS that/WDT have/VBP the/DT particular/JJ file./NN
+Last/JJ week/NN the/DT Motion/NNP Picture/NNP Association/NNP of/IN America/NNP launched/VBD a/DT legal/JJ campaign/NN targeting/VBG websites/NNS that/WDT operate/NN using/VBG the/DT BitTorrent/NNP system/NN in/IN an/DT effort/NN to/TO clamp/VB down/RP on/IN movie/NN piracy./NN
+Apple/NNP is/VBZ no/DT stranger/NN to/TO taking/VBG legal/JJ action/NN against/IN those/DT who/WP leak/VBP product/NN information./NN
+In/IN December/NNP 2002/CD it/PRP sued/VBD a/DT former/JJ contractor/NN who/WP allegedly/RB put/VBP drawings/NNS images/NNS and/CC engineering/NN details/NNS of/IN its/PRP$ PowerMac/NNP G4/CD computer/NN online./NN
+The/DT latest/JJS action/NN was/VBD filed/VBN on/IN Monday/NNP in/IN the/DT US/PRP District/NNP Court/NNP in/IN California./NNP
+It/PRP comes/VBZ just/RB weeks/NNS before/IN the/DT MacWorld/NNP conference/NN in/IN San/NNP Francisco/NNP used/VBD to/TO showcase/VB new/JJ products./NN

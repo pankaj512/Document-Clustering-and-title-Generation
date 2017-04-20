@@ -1,0 +1,17 @@
+Ethiopia's/NNP crop/NN production/NN up/RP 24%/CD
+
+Ethiopia/NNP produced/VBD 14.27/CD million/CD tonnes/NNS of/IN crops/NNS in/IN 2004/CD 24%/CD higher/JJR than/IN in/IN 2003/CD and/CC 21%/CD more/JJR than/IN the/DT average/NN of/IN the/DT past/JJ five/CD years/NNS a/DT report/NN says./NN
+
+In/IN 2003/CD crop/NN production/NN totalled/VBD 11.49/CD million/CD tonnes/NNS the/DT joint/JJ report/NN from/IN the/DT Food/NNP and/CC Agriculture/NNP Organisation/NNP and/CC the/DT World/NNP Food/NNP Programme/NNP said./NN
+Good/JJ rains/NNS increased/VBD use/NN of/IN fertilizers/NNS and/CC improved/VBN seeds/NNS contributed/VBD to/TO the/DT rise/NN in/IN production./NN
+Nevertheless/RB 2.2/CD million/CD Ethiopians/NNPS will/MD still/RB need/VB emergency/NN assistance./NN
+
+The/DT report/NN calculated/VBD emergency/NN food/NN requirements/NNS for/IN 2005/CD to/TO be/VB 387500/CD tonnes./NN
+On/IN top/NN of/IN that/DT 89000/CD tonnes/NNS of/IN fortified/VBN blended/JJ food/NN and/CC vegetable/NN oil/NN for/IN "targeted/VBN supplementary/NN food/NN distributions/NNS for/IN a/DT survival/NN programme/NN for/IN children/NNS under/IN five/CD and/CC pregnant/JJ and/CC lactating/VBG women"/NN will/MD be/VB needed./NN
+
+In/IN eastern/JJ and/CC southern/JJ Ethiopia/NNP a/DT prolonged/VBN drought/NN has/VBZ killed/VBN crops/NNS and/CC drained/VBN wells./NN
+Last/JJ year/NN a/DT total/NN of/IN 965000/CD tonnes/NNS of/IN food/NN assistance/NN was/VBD needed/VBN to/TO help/VB seven/CD million/CD Ethiopians./NNP
+The/DT Food/NNP and/CC Agriculture/NNP Organisation/NNP (FAO)/NN recommend/VBP that/IN the/DT food/NN assistance/NN is/VBZ bought/VBN locally./NN
+"Local/JJ purchase/NN of/IN cereals/NNS for/IN food/NN assistance/NN programmes/NNS is/VBZ recommended/VBN as/RB far/RB as/IN possible/JJ so/RB as/IN to/TO assist/VB domestic/JJ markets/NNS and/CC farmers"/NN said/VBD Henri/NNP Josserand/NNP chief/NN of/IN FAO's/NNP Global/JJ Information/NNP and/CC Early/RB Warning/NN System./NNP
+Agriculture/NNP is/VBZ the/DT main/JJ economic/JJ activity/NN in/IN Ethiopia/NNP representing/VBG 45%/CD of/IN gross/JJ domestic/JJ product./NN
+About/IN 80%/CD of/IN Ethiopians/NNPS depend/VB directly/RB or/CC indirectly/RB on/IN agriculture./NN

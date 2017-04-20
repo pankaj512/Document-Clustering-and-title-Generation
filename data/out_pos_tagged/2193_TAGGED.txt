@@ -1,0 +1,25 @@
+Microsoft/NN plans/VBZ 'safer/NN ID'/NNP system/NN
+
+Microsoft/NNP is/VBZ planning/VBG to/TO make/VB Windows/NNS and/CC Internet/NNP Explorer/NNP more/JJR secure/NN by/IN including/VBG software/NN to/TO give/VB people/NNS more/JJR control/NN over/IN personal/JJ information./NN
+
+"Info/NN cards"/NN will/MD help/VB people/NNS manage/VB personal/JJ details/NNS on/IN their/PRP$ PCs/NNS to/TO make/VB online/NN services/NNS safer/JJR said/VBD Microsoft./NNP
+Microsoft's/NNP two/CD previous/JJ programs/NNS Passport/NN and/CC Hailstorm/NNP aimed/VBD to/TO protect/VB users/NNS but/CC were/VBD criticised./NN
+ID/NNP fraud/NN is/VBZ one/CD of/IN the/DT UK's/NNP fastest-growing/JJ crimes/NNS with/IN criminals/NNS netting/VBG an/DT estimated/VBN £1.3bn/CD last/JJ year./NN
+A/DT quarter/NN of/IN UK/NNP adults/NNS has/VBZ either/RB had/VBN their/PRP$ ID/NNP stolen/VBN via/IN hi-tech/JJ or/CC other/JJ means/NNS or/CC knows/VBZ someone/NN who/WP has/VBZ a/DT recent/JJ report/NN by/IN Which?/NNP magazine/NN found./NN
+
+Microsoft/NNP is/VBZ developing/VBG a/DT new/JJ version/NN of/IN Internet/NNP Explorer/NNP browser/NN and/CC its/PRP$ operating/NN system/NN Windows/NNS which/WDT has/VBZ been/VBN code-named/NNP Longhorn./NNP
+Michael/NNP Stephenson/NNP director/NN in/IN Microsoft's/NNP Windows/NNS Server/NNP division/NN would/MD not/RB confirm/VB however/RB whether/IN the/DT new/JJ info/NN cards/NNS ID/NNP system/NN will/MD be/VB built/VBN into/IN the/DT current/JJ Windows/NNS XP/NNP version/NN or/CC Longhorn./NNP
+
+"We're/NN trying/VBG to/TO make/VB the/DT end-user/NN experience/NN as/RB simple/JJ as/IN possible"/NN Mr/NNP Stephenson/NNP said./NN
+The/DT system/NN would/MD differ/VB from/IN its/PRP$ previous/JJ attempts/NNS to/TO make/VB online/NN transactions/NNS more/JJR secure/NN said/VBD Microsoft./NNP
+While/IN Passport/NN and/CC Hailstorm/NNP stored/VBD user/NN information/NN centrally/RB on/IN the/DT net/JJ the/DT latest/JJS system/NN will/MD store/VB data/NNS on/IN a/DT user's/NNS PC./NNP
+"It's/NN going/VBG to/TO put/VB control/NN of/IN digital/JJ IDs/NNP into/IN the/DT hands/NNS of/IN an/DT end-user/NN the/DT end-user/NN will/MD be/VB in/IN full/JJ control"/NN said/VBD Mr/NNP Stephenson./NNP
+
+Hailstorm/NNP was/VBD criticised/VBN by/IN privacy/NN campaigners/NNS for/IN putting/VBG too/RB much/JJ sensitive/JJ information/NN into/IN the/DT hands/NNS of/IN a/DT single/JJ company./NN
+Passport/NN provides/VBZ a/DT single/JJ log-in/NN for/IN more/JJR than/IN one/CD website/NN and/CC stores/NNS basic/JJ personal/JJ information./NN
+But/CC its/PRP$ popularity/NN suffered/VBD after/IN security/NN scares./NN
+Up/IN to/TO 200/CD million/CD Passport/NN accounts/NNS were/VBD left/VBN vulnerable/JJ to/TO online/VB theft/NN and/CC malicious/JJ hackers/NNS after/IN a/DT flaw/NN in/IN the/DT system/NN was/VBD exploited/VBN in/IN 2003./CD
+Online/NNP auction/NN site/NN eBay/NN stopped/VBD supporting/VBG it/PRP in/IN January/NNP 2005./CD
+Although/IN the/DT flaw/NN was/VBD fixed/VBN Microsoft/NNP has/VBZ come/VBN under/IN regular/JJ criticism/NN for/IN the/DT number/NN of/IN security/NN loopholes/NNS in/IN Internet/NNP Explorer./NNP
+Last/JJ year/NN it/PRP released/VBD a/DT major/JJ security/NN update/NN for/IN Windows/NNS Service/NNP Pack/NN 2/CD to/TO combat/VB some/DT of/IN the/DT security/NN concerns./NN
+Longhorn/NNP is/VBZ due/JJ to/TO be/VB released/VBN commercially/RB in/IN late/JJ 2006/CD but/CC an/DT updated/VBN version/NN of/IN Internet/NNP Explorer/NNP is/VBZ due/JJ for/IN release/NN later/RB this/DT year./NN

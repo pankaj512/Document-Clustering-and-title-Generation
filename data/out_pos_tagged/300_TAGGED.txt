@@ -1,0 +1,12 @@
+J&J/NNP agrees/VBZ $25bn/CD Guidant/NNP deal/NN
+
+Pharmaceutical/NNP giant/JJ Johnson/NNP &/CC Johnson/NNP has/VBZ agreed/VBN to/TO buy/VB medical/JJ technology/NN firm/NN Guidant/NNP for/IN $25.4bn/CD (£13bn)./CD
+
+Guidant/NNP is/VBZ a/DT key/JJ producer/NN of/IN equipment/NN that/IN combats/NNS heart/NN problems/NNS such/JJ as/IN implant/NN defibrillators/NNS and/CC pacemakers./NN
+Analysts/NNS said/VBD that/IN the/DT deal/NN is/VBZ aimed/VBN at/IN offsetting/VBG Johnson/NNP &/CC Johnson's/NNP reliance/NN on/IN a/DT slowing/VBG drug/NN business./NN
+They/PRP also/RB pointed/VBD out/RP that/IN more/JJR mergers/NNS are/VBP likely/JJ because/IN the/DT drug/NN and/CC healthcare/NN industries/NNS are/VBP fragmented/JJ and/CC are/VBP under/IN pressure/NN to/TO cut/VB costs./NN
+A/DT number/NN of/IN Johnson/NNP &/CC Johnson's/NNP products/NNS are/VBP facing/VBG patent/NN expirations/NNS while/IN the/DT company/NN is/VBZ also/RB battling/VBG fierce/JJ competition/NN from/IN generic/JJ products./NN
+Meanwhile/RB demand/NN for/IN defibrillators/NNS which/WDT give/VBP the/DT heart/NN a/DT small/JJ electric/JJ shock/NN when/WRB an/DT irregular/JJ heartbeat/NN or/CC rhythm/NN is/VBZ detected/VBN is/VBZ expected/VBN to/TO increase/VB analysts/NNS said./NN
+The/DT move/NN by/IN Johnson/NNP &/CC Johnson/NNP has/VBZ been/VBN widely/RB expected/VBN and/CC the/DT firm/NN will/MD pay/VB $76/CD for/IN each/DT Guidant/NNP share/NN 6%/CD more/JJR than/IN Wednesday's/NNP closing/NN price./NN
+Analysts/NNS say/VBP that/IN US/PRP antitrust/JJ regulators/NNS could/MD force/VB the/DT firms/NNS to/TO shed/VB some/DT overlapping/VBG stent/NN operations./NN
+Stents/NNS are/VBP tubes/NNS that/WDT are/VBP used/VBN to/TO keep/VB an/DT artery/NN open/JJ after/IN it/PRP has/VBZ been/VBN unblocked./NN

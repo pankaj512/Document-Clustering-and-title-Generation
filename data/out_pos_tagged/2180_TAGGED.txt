@@ -1,0 +1,30 @@
+Hitachi/NNP unveils/VBZ 'fastest/JJ robot'/NN
+
+Japanese/JJ electronics/NNS firm/NN Hitachi/NNP has/VBZ unveiled/VBN its/PRP$ first/JJ humanoid/NN robot/NN called/VBN Emiew/NNP to/TO challenge/VB Honda's/NNP Asimo/NNP and/CC Sony's/NNP Qrio/NNP robots./NN
+
+Hitachi/NNP said/VBD the/DT 1.3m/CD (4.2ft)/CD Emiew/NNP was/VBD the/DT world's/NNS quickest-moving/JJ robot/NN yet./NN
+Two/CD wheel-based/JJ Emiews/NNP Pal/NNP and/CC Chum/NNP introduced/VBD themselves/PRP to/TO reporters/NNS at/IN a/DT press/NN conference/NN in/IN Japan./NNP
+The/DT robots/NNS will/MD be/VB guests/NNS at/IN the/DT World/NNP Expo/NNP later/RB this/DT month./NN
+Sony/NNP and/CC Honda/NNP have/VBP both/DT built/VBN sophisticated/JJ robots/NNS to/TO show/VB off/RP developments/NNS in/IN electronics./NN
+Explaining/VBG why/WRB Hitachi's/NNP Emiew/NNP used/VBD wheels/NNS instead/RB of/IN feet/NNS Toshihiko/NNP Horiuchi/NNP from/IN Hitachi's/NNP Mechanical/JJ Engineering/NNP Research/NNP Laboratory/NNP said/VBD "We/NN aimed/VBN to/TO create/VB a/DT robot/NN that/WDT could/MD live/VB and/CC co-exist/JJ with/IN people."/NN "We/NN want/VBP to/TO make/VB the/DT robots/NNS useful/JJ for/IN people/NNS .../:
+If/IN the/DT robots/NNS moved/VBD slower/RBR than/IN people/NNS users/NNS would/MD be/VB frustrated."/NN Emiew/NNP -/: Excellent/JJ Mobility/NNP and/CC Interactive/JJ Existence/NN as/IN Workmate/NNP -/: can/MD move/VB at/IN 3.7m/h./CD
+Its/PRP$ "wheel/NN feet"/NN resemble/VBP the/DT bottom/NN half/NN of/IN a/DT Segway/NNP scooter./NN
+With/IN sensors/NNS on/IN the/DT head/NN waist/NN and/CC near/IN the/DT wheels/NNS Pal/NNP and/CC Chum/NNP demonstrated/VBD how/WRB they/PRP could/MD react/VB to/TO commands./VB
+"I/NN want/VBP to/TO be/VB able/JJ to/TO walk/VB about/IN in/IN places/NNS like/IN Shinjuku/NNP and/CC Shibuya/NNP [shopping/VBG districts]/JJ in/IN the/DT future/NN without/IN bumping/VBG into/IN people/NNS and/CC cars"/NN Pal/NNP told/VBD reporters./NN
+Hitachi/NNP said/VBD Pal/NNP and/CC Chum/NNP which/WDT have/VBP a/DT vocabulary/NN of/IN about/IN 100/CD words/NNS could/MD be/VB "trained"/NN for/IN practical/JJ office/NN and/CC factory/NN use/NN in/IN as/RB little/JJ as/IN five/CD to/TO six/CD years./NN
+
+Robotics/NN researchers/NNS have/VBP long/RB been/VBN challenged/VBN by/IN developing/VBG robots/NNS that/WDT walk/VBP in/IN the/DT gait/NN of/IN a/DT human./NN
+At/IN the/DT recent/JJ AAAS/NNP (American/NNP Association/NNP for/IN the/DT Advancement/NNP of/IN Science)/NNP annual/JJ meeting/NN in/IN Washington/NNP DC/NNP researchers/NNS showed/VBD off/RP bipedal/JJ designs./NN
+The/DT three/CD designs/NNS each/DT built/VBN by/IN a/DT different/JJ research/NN group/NN use/NN the/DT same/JJ principle/NN to/TO achieve/VB a/DT human-like/JJ gait./NN
+
+Sony/NNP and/CC Honda/NNP have/VBP both/DT used/VBN humanoid/NN robots/NNS which/WDT are/VBP not/RB commercially/RB available/JJ as/IN a/DT way/NN of/IN showing/VBG off/RP computing/NN power/NN and/CC engineering/NN expertise./NN
+Honda's/NNP Asimo/NNP was/VBD "born"/NN five/CD years/NNS ago./NN
+Since/IN then/RB Honda/NNP and/CC Sony's/NNP Qrio/NNP have/VBP tried/VBN to/TO trump/VB each/DT other/JJ with/IN what/WP the/DT robots/NNS can/MD do/VB at/IN various/JJ technology/NN events./NN
+Asimo/NNP has/VBZ visited/VBN the/DT UK/NNP Germany/NNP the/DT Czech/JJ Republic/NNP France/NNP and/CC Ireland/NNP as/IN part/NN of/IN a/DT world/NN tour./NN
+Sony's/NNP Qrio/NNP has/VBZ been/VBN singing/VBG jogging/NN and/CC dancing/NN in/IN formation/NN around/IN the/DT world/NN too/RB and/CC was/VBD until/IN last/JJ year/NN the/DT fastest/JJS robot/NN on/IN two/CD legs./NN
+But/CC its/PRP$ record/NN was/VBD beaten/VBN by/IN Asimo./NNP
+It/PRP is/VBZ capable/JJ of/IN 3km/h/CD which/WDT its/PRP$ makers/NNS claim/VBP is/VBZ almost/RB four/CD times/NNS as/RB fast/RB as/IN Qrio./NNP
+Last/JJ year/NN car/NN maker/NN Toyota/NNP also/RB stepped/VBD into/IN the/DT ring/NN and/CC unveiled/VBD its/PRP$ trumpet-playing/JJ humanoid/NN robot./NN
+By/IN 2007/CD it/PRP is/VBZ predicted/VBN that/IN there/EX will/MD be/VB almost/RB 2.5/CD million/CD "entertainment/NN and/CC leisure"/NN robots/NNS in/IN homes/NNS compared/VBN to/TO about/IN 137000/CD currently/RB according/VBG to/TO the/DT United/NNP Nations/NNPS (UN)./NN
+By/IN the/DT end/NN of/IN that/DT year/NN 4.1/CD million/CD robots/NNS will/MD be/VB doing/VBG jobs/NNS in/IN homes/NNS said/VBD the/DT report/NN by/IN the/DT UN/NNP Economic/NNP Commission/NNP for/IN Europe/NNP and/CC the/DT International/NNP Federation/NNP of/IN Robotics./NNP
+Hitachi/NNP is/VBZ one/CD of/IN the/DT companies/NNS with/IN home/NN cleaning/VBG robot/NN machines/NNS on/IN the/DT market./NN

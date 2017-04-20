@@ -1,0 +1,27 @@
+US/PRP regulator/VBP to/TO rule/VB on/IN pain/NN drug/NN
+
+US/PRP food/VBP and/CC drug/NN regulators/NNS will/MD decide/VB on/IN Friday/NNP whether/IN to/TO recommend/VB the/DT sale/NN of/IN painkillers/NNS that/WDT have/VBP been/VBN linked/VBN to/TO a/DT high/JJ risk/NN of/IN heart/NN attack/NN and/CC stroke./NN
+
+The/DT Food/NNP and/CC Drug/NNP Administration/NNP (FDA)/NN advisory/JJ panel/NN will/MD give/VB its/PRP$ verdict/NN after/IN hearing/NN evidence/NN for/IN three/CD days./NN
+The/DT painkillers/NNS -/: called/VBN COX-2/JJ inhibitors/NNS -/: are/VBP sold/VBN under/IN brand/NN names/NNS such/JJ as/IN Celebrex/NNP and/CC Vioxx./NNP
+Vioxx/NNP was/VBD withdrawn/VBN from/IN shops/NNS last/JJ year/NN but/CC Merck/NNP said/VBD it/PRP would/MD consider/VB selling/VBG it/PRP if/IN it/PRP gets/VBZ FDA/NNP approval./NN
+The/DT FDA/NNP has/VBZ been/VBN asked/VBN to/TO decide/VB if/IN the/DT benefits/NNS to/TO patients/NNS justify/VB the/DT increased/VBN risks./NN
+
+Putting/VBG Vioxx/NNP back/RB on/IN the/DT shelves/NNS is/VBZ likely/JJ to/TO boost/VB profits/NNS at/IN Merck/NNP and/CC make/VB easier/JJR any/DT legal/JJ battles/NNS with/IN people/NNS who/WP claim/VBP to/TO have/VB been/VBN injured/VBN by/IN the/DT drug/NN analysts/NNS said./NN
+
+Merck/NNP voluntarily/RB stopped/VBD sales/NNS of/IN Vioxx/NNP on/IN 30/CD September/NNP a/DT move/NN which/WDT caused/VBD the/DT firm's/NNS fourth-quarter/JJ earnings/NNS to/TO slide/VB to/TO $1.1bn/CD (£581m)/CD from/IN $1.4bn/CD a/DT year/NN earlier./NN
+Merck's/NNP shares/NNS tumbled/VBD more/JJR than/IN 10%/CD on/IN the/DT news/NN and/CC the/DT company/NN has/VBZ had/VBD to/TO set/VB aside/RB millions/NNS of/IN dollars/NNS to/TO cover/VB the/DT cost/NN of/IN Vioxx-related/NNP litigation./NN
+Alarm/NN bells/NNS were/VBD rung/VBN by/IN a/DT research/NN note/NN called/VBN Approve/NN which/WDT showed/VBD that/IN the/DT risk/NN of/IN heart/NN attack/NN and/CC stroke/NN doubled/VBD in/IN patients/NNS who/WP had/VBD been/VBN taking/VBG the/DT drug/NN for/IN at/IN least/JJS 18/CD months./NN
+The/DT Cox-2/JJ inhibitors/NNS were/VBD developed/VBN by/IN drug/NN companies/NNS including/VBG Merck/NNP and/CC Pfizer/NNP because/IN they/PRP cause/VBP users/NNS fewer/JJR stomach/VB problems/NNS than/IN other/JJ painkillers./NN
+
+Pfizer/NNP is/VBZ still/RB selling/VBG its/PRP$ Celebrex/NNP and/CC Bextra/NNP products/NNS though/IN investigations/NNS have/VBP suggested/VBN that/IN they/PRP may/MD also/RB be/VB harmful/JJ to/TO the/DT heart./NN
+Merck's/NNP announcement/NN of/IN a/DT possible/JJ reintroduction/NN of/IN Vioxx/NNP caught/VBD analysts/NNS by/IN surprise./NN
+Merck's/NNP head/NN of/IN research/NN Peter/NNP Kim/NNP said/VBD that/IN it/PRP withdrew/VBD Vioxx/NNP "based/VBD on/IN the/DT information/NN that/WDT was/VBD available/JJ to/TO us/PRP at/IN the/DT time/NN knowing/VBG there/EX were/VBD alternative/NN therapies"./NN
+He/PRP went/VBD on/RP to/TO say/VB that/IN things/NNS have/VBP since/IN changed/VBN in/IN the/DT light/NN of/IN new/JJ reports./NN
+"Given/NN this/DT new/JJ information/NN its/PRP$ is/VBZ not/RB clear/JJ that/IN the/DT cardiovascular/JJ risk/NN observed/VBD in/IN Approve/NN makes/VBZ Vioxx/NNP unique/JJ in/IN the/DT class/NN of/IN similar/JJ drugs/NNS marketed/VBN in/IN the/DT US"/NNP Mr/NNP Kim/NNP explained./NN
+
+On/IN Thursday/NNP David/NNP Graham/NNP from/IN the/DT FDA's/NNP Office/NNP of/IN Drug/NNP Safety/NNP told/VBD the/DT advisory/JJ panel/NN that/DT "there/NN really/RB doesn't/NN appear/VBP to/TO be/VB a/DT need/NN for/IN Cox-2"/JJ inhibitors./NN
+According/VBG to/TO calculations/NNS presented/VBN to/TO the/DT US/PRP Senate/NNP by/IN Dr/NNP Graham/NNP in/IN November/NNP Vioxx/NNP may/MD be/VB linked/VBN to/TO as/RB many/JJ as/IN to/TO 56000/CD American/JJ deaths./NN
+Facing/VBG stem/NN criticism/NN for/IN its/PRP$ handling/NN of/IN the/DT Vioxx/NNP case/NN the/DT FDA/NNP said/VBD on/IN Tuesday/NNP that/IN it/PRP will/MD create/VB an/DT independent/JJ body/NN to/TO oversee/VB the/DT safety/NN of/IN drugs/NNS already/RB in/IN the/DT market/NN place./NN
+European/JJ regulators/NNS meanwhile/RB ruled/VBD on/IN Thursday/NNP that/IN patients/NNS who/WP have/VBP had/VBN heart/NN disease/NN or/CC a/DT stroke/NN should/MD not/RB take/VB Cox-2/JJ inhibitors./NN
+The/DT European/NNP Medicines/NNP Agency/NNP also/RB said/VBD doctors/NNS should/MD be/VB "cautious"/NN about/IN giving/VBG the/DT drugs/NNS to/TO patients/NNS who/WP have/VBP risk/NN factors/NNS for/IN heart/NN disease./JJ

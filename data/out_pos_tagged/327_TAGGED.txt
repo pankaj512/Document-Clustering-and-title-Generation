@@ -1,0 +1,21 @@
+Cannabis/NNP hopes/VBZ for/IN drug/NN firm/NN
+
+A/DT prescription/NN cannabis/NNS drug/NN made/VBN by/IN UK/NNP biotech/JJ firm/NN GW/NNP Pharmaceuticals/NNP is/VBZ set/VBN to/TO be/VB approved/VBN in/IN Canada./NNP
+
+The/DT drug/NN is/VBZ used/VBN to/TO treat/VB the/DT central/JJ nervous/JJ system/NN and/CC alleviate/VB the/DT symptoms/NNS of/IN multiple/JJ sclerosis/NN (MS)./NN
+A/DT few/JJ weeks/NNS ago/RB shares/NNS in/IN GW/NNP Pharma/NNP lost/VBD a/DT third/NN of/IN their/PRP$ value/NN after/IN UK/NNP regulators/NNS said/VBD they/PRP wanted/VBD more/JJR evidence/NN about/IN the/DT drug's/NNS benefits./NN
+But/CC now/RB Canadian/JJ authorities/NNS have/VBP said/VBN the/DT Sativex/NNP drug/NN will/MD be/VB considered/VBN for/IN approval./NN
+
+Approximately/RB 50000/CD people/NNS in/IN Canada/NNP have/VBP been/VBN diagnosed/VBN with/IN MS/NNP and/CC 85000/CD people/NNS are/VBP suffering/VBG from/IN the/DT condition/NN in/IN the/DT UK./NNP
+Many/JJ patients/NNS already/RB smoke/VBP cannabis/NNS to/TO relieve/VB their/PRP$ symptoms./NN
+
+Now/RB GW/NNP Pharma's/NNP Sativex/NNP mouth/NN spray/NN could/MD be/VB legally/RB available/JJ to/TO MS/NNP sufferers/NNS in/IN Canada/NNP within/IN the/DT next/JJ few/JJ months./NN
+This/DT will/MD be/VB the/DT first/JJ time/NN a/DT cannabis-based/JJ drug/NN has/VBZ been/VBN approved/VBN anywhere/RB in/IN the/DT world/NN representing/VBG a/DT landmark/NN for/IN GW/NNP Pharma/NNP and/CC for/IN patients/NNS with/IN MS./NNP
+Final/JJ approval/NN in/IN Canada/NNP should/MD now/RB be/VB little/RB more/JJR than/IN a/DT formality/NN analysts/NNS said/VBD and/CC the/DT company/NN expects/VBZ full/JJ approval/NN for/IN Sativex/NNP early/RB in/IN 2005./CD
+"We/NN are/VBP delighted/JJ to/TO receive/VB this/DT qualifying/VBG notice/NN from/IN Health/NNP Canada/NNP and/CC look/VB forward/RB to/TO receiving/VBG regulatory/JJ approval/NN for/IN Sativex/NNP in/IN Canada/NNP in/IN the/DT early/JJ part/NN of/IN 2005"/CD said/VBD GW/NNP Pharma/NNP executive/NN chairman/NN Dr/NNP Geoffrey/NNP Guy./NNP
+
+The/DT UK/NNP government/NN granted/VBD GW/NNP Pharma/NNP a/DT licence/NN to/TO grow/VB the/DT cannabis/NNS plant/NN for/IN medical/JJ research/NN purposes./NN
+Satifex/NNP consists/VBZ of/IN a/DT cannabis/NNS extract/VBP containing/VBG tetrahydrocannabinol/NN and/CC cannabidiol/VB a/DT cocktail/NN that/WDT has/VBZ also/RB proved/VBN effective/JJ in/IN treating/VBG patients/NNS with/IN arthritis./NN
+Thousands/NNS of/IN plants/NNS are/VBP grown/VBN at/IN a/DT secret/JJ location/NN somewhere/RB in/IN the/DT English/JJ countryside./NN
+Despite/IN hopes/NNS of/IN regulatory/JJ approval/NN last/JJ year/NN a/DT series/NN of/IN delays/NNS has/VBZ put/VBN back/RB Sativex's/NNP launch/VB in/IN the/DT UK./NNP
+The/DT latest/JJS news/NN sent/VBD shares/NNS in/IN GW/NNP Pharma/NNP up/RP 8.5p/CD or/CC 8.1%/CD to/TO 113.5p./CD

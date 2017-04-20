@@ -1,0 +1,27 @@
+US/PRP top/NN of/IN supercomputing/VBG charts/NNS
+
+The/DT US/PRP has/VBZ pushed/VBN Japan/NNP off/RP the/DT top/NN of/IN the/DT supercomputing/VBG chart/NN with/IN IBM's/NNP prototype/NN Blue/NNP Gene/L/NNP machine./NN
+
+It/PRP is/VBZ being/VBG assembled/VBN for/IN the/DT Lawrence/NNP Livermore/NNP National/NNP Laboratory/NNP under/IN the/DT US/PRP Department/NNP of/IN Energy./NNP
+IBM/NNP test/NN results/NNS show/VBP that/IN Blue/NNP Gene/L/NNP has/VBZ managed/VBN speeds/NNS of/IN 70.72/CD teraflops./NN
+The/DT previous/JJ top/JJ machine/NN Japan's/NNP NEC/NNP Earth/NNP Simulator/NNP clocked/VBD up/RP 35.86./CD
+The/DT Top/JJ 500/CD list/NN was/VBD announced/VBN on/IN Monday/NNP and/CC officially/RB charts/VBZ the/DT fastest/JJS computers/NNS in/IN the/DT world./NN
+
+It/PRP is/VBZ announced/VBN every/DT six/CD months/NNS and/CC is/VBZ worked/VBN out/RP using/VBG an/DT officially/RB recognised/VBN mathematical/JJ speed/NN test/NN called/VBN Linpack/NNP which/WDT measures/NNS calculations/NNS per/IN second./NN
+
+Once/RB completed/VBN in/IN 2005/CD Blue/NNP Gene/L/NNP will/MD be/VB more/RBR powerful/JJ than/IN its/PRP$ current/JJ prototype./NN
+"Next/NN year/NN with/IN the/DT final/JJ Blue/NNP Gene/NNP four/CD times/NNS what/WP it/PRP is/VBZ this/DT year/NN it/PRP is/VBZ going/VBG to/TO be/VB a/DT real/JJ step/NN up/RB and/CC will/MD be/VB hard/JJ to/TO beat"/VB said/VBD Erich/NNP Strohmaier/NNP one/CD of/IN the/DT co-founders/NNS of/IN the/DT Top500/CD list./NN
+It/PRP will/MD help/VB scientists/NNS work/VBP out/RP the/DT safety/NN security/NN and/CC reliability/NN requirements/NNS for/IN the/DT US's/NNP nuclear/JJ weapons/NNS stockpile/VBP without/IN the/DT need/NN for/IN underground/JJ nuclear/JJ testing./NN
+It/PRP will/MD also/RB cut/VB down/RP on/IN the/DT amount/NN of/IN heat/NN generated/VBN by/IN the/DT massive/JJ power/NN a/DT big/JJ problem/NN for/IN supercomputers./NN
+
+In/IN second/JJ place/NN was/VBD Silicon/NNP Graphics'/NNP Columbia/NNP supercomputer/NN based/VBN at/IN the/DT US/PRP space/VBP agency's/NNS (Nasa)/NN Ames/NNP Research/NNP Center/NNP in/IN California./NNP
+The/DT Linux-based/JJ machine/NN was/VBD reported/VBN to/TO have/VB reached/VBN a/DT top/JJ speed/NN of/IN 42.7/CD trillion/CD calculations/NNS per/IN second/JJ (teraflops)/NN in/IN October./NNP
+It/PRP will/MD be/VB used/VBN to/TO model/VB flight/NN missions/NNS climate/NN research/NN and/CC aerospace/NN engineering./NN
+The/DT defeated/VBN Japanese/JJ contender/NN the/DT Earth/NNP Simulator/NNP which/WDT was/VBD listed/VBN in/IN third/JJ place/NN losing/VBG the/DT top/JJ spot/NN it/PRP had/VBD held/VBN since/IN June/NNP 2002./CD
+It/PRP is/VBZ dedicated/VBN to/TO climate/VB modelling/VBG and/CC simulating/VBG seismic/JJ activity./NN
+
+Since/IN the/DT first/JJ supercomputer/NN the/DT Cray-1/NN was/VBD installed/VBN at/IN Los/NNP Alamos/NNP National/NNP Laboratory/NNP US/PRP in/IN 1976/CD computational/JJ speed/NN has/VBZ leaped/VBN 500000/CD times./NN
+The/DT Cray-1/NN was/VBD capable/JJ of/IN 80/CD megaflops/NNS (80/CD million/CD operations/NNS a/DT second)./NN
+The/DT Blue/NNP Gene/L/NNP machine/NN that/WDT will/MD be/VB completed/VBN next/JJ year/NN will/MD be/VB five/CD million/CD times/NNS faster./NN
+Started/VBN in/IN 1993/CD the/DT Top/JJ 500/CD list/NN is/VBZ decided/VBN by/IN a/DT group/NN of/IN computer/NN science/NN academics/NNS from/IN around/IN the/DT world./NN
+It/PRP is/VBZ presented/VBN at/IN the/DT International/NNP Supercomputer/NN Conference/NNP in/IN Pittsburgh./NNP

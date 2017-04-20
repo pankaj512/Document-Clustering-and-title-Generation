@@ -1,0 +1,11 @@
+Bargain/NN calls/VBZ widen/VB Softbank/NNP loss/NN
+
+Japanese/JJ communications/NNS firm/NN Softbank/NNP has/VBZ widened/VBN losses/NNS after/IN heavy/JJ spending/NN on/IN a/DT new/JJ cut-rate/JJ phone/NN service./NN
+
+The/DT service/NN launched/VBD in/IN December/NNP and/CC dubbed/VBN "Otoku"/NN or/CC "bargain"/NN has/VBZ had/VBN almost/RB 900000/CD orders/NNS Softbank/NNP said./NN
+The/DT firm/NN a/DT market/NN leader/NN in/IN high-speed/JJ internet/NN had/VBD an/DT operating/NN loss/NN for/IN the/DT three/CD months/NNS to/TO December/NNP of/IN 7.5bn/CD yen/NNS ($71.5m/CD £38.4m)./CD
+But/CC without/IN the/DT Otoku/NNP marketing/NN spend/VB it/PRP would/MD have/VB made/VBN a/DT profit/NN -/: and/CC expects/VBZ to/TO move/VB into/IN the/DT black/NN in/IN 2006./CD
+The/DT firm/NN did/VBD not/RB give/VB a/DT figure/NN for/IN the/DT extent/NN of/IN profits/NNS it/PRP expected/VBD to/TO make/VB next/JJ year./NN
+It/PRP was/VBD born/VBN in/IN the/DT 1990s/CD tech/NN boom/NN investing/VBG widely/RB and/CC becoming/VBG a/DT fast-rising/JJ star/NN till/IN the/DT end/NN of/IN the/DT tech/NN bubble/NN hit/VBD it/PRP hard./NN
+Its/PRP$ recent/JJ return/NN to/TO a/DT high/JJ profile/NN came/VBD with/IN the/DT purchase/NN of/IN Japan/NNP Telecom/NNP the/DT country's/NNS third-biggest/JJ fixed-line/JJ telecoms/NNS firm./NN
+The/DT acquisition/NN spurred/VBD its/PRP$ broadband/NN internet/JJ division/NN to/TO pole/VB position/NN in/IN the/DT Japanese/JJ market/NN with/IN more/JJR than/IN 5.1/CD million/CD subscribers/NNS at/IN the/DT end/NN of/IN December./NNP

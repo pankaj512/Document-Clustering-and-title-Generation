@@ -1,0 +1,44 @@
+Disaster/NN claims/NNS 'less/NN than/IN $10bn'/CD
+
+Insurers/NNS have/VBP sought/VBN to/TO calm/JJ fears/NNS that/IN they/PRP face/VBP huge/JJ losses/NNS after/IN an/DT earthquake/NN and/CC giant/JJ waves/NNS killed/VBN at/IN least/JJS 38000/CD people/NNS in/IN southern/JJ Asia./NNP
+
+Munich/NNP Re/NNP and/CC Swiss/NNP Re/NNP the/DT world's/NNS two/CD biggest/JJS reinsurers/NNS have/VBP said/VBN exposure/NN will/MD be/VB less/JJR than/IN for/IN other/JJ disasters./JJ
+Rebuilding/VBG costs/NNS are/VBP likely/JJ to/TO be/VB cheaper/JJR than/IN in/IN developed/VBN countries/NNS and/CC many/JJ of/IN those/DT affected/VBN will/MD not/RB have/VB insurance/NN analysts/NNS said./NN
+Swiss/NNP Re/NNP has/VBZ said/VBN total/JJ claims/NNS are/VBP likely/JJ to/TO be/VB less/JJR than/IN $10bn/CD (£5.17bn)./CD
+Swiss/NNP Re/NNP believes/VBZ that/IN the/DT cost/NN would/MD be/VB substantial/JJ but/CC that/IN it/PRP is/VBZ unlikely/JJ to/TO be/VB in/IN double-digit/JJ billions/NNS the/DT Financial/NNP Times/NNP reported./NN
+Munich/NNP Re/NNP the/DT world's/NNS largest/JJS reinsurance/NN company/NN said/VBD that/IN its/PRP$ exposure/NN is/VBZ less/JJR than/IN 100m/CD euros/NNS (£70m/CD $136m)./CD
+
+At/IN least/JJS 10/CD countries/NNS have/VBP been/VBN affected/VBN with/IN Sri/NNP Lanka/NNP Indonesia/NNP India/NNP and/CC Thailand/NNP among/IN the/DT worst/JJS hit./NN
+The/DT region's/NNS resorts/NNS and/CC Western/JJ tourists/NNS are/VBP expected/VBN to/TO be/VB among/IN the/DT main/JJ claimants./NN
+
+Lloyds/NNP of/IN London/NNP told/VBD the/DT Financial/NNP Times/NNP it/PRP expected/VBD its/PRP$ exposure/NN to/TO be/VB limited/VBN to/TO "holiday/VB resorts/NNS personal/JJ accident/NN travel/NN insurance/NN and/CC marine/JJ risks"./NN
+A/DT spokeswoman/NN for/IN Hanover/NNP Re/NNP Europe's/NNP fifth-largest/JJ reinsurance/NN firm/NN estimated/VBD tsunami-related/JJ damage/NN claims/NNS would/MD be/VB in/IN the/DT low/JJ double-digit/JJ millions/NNS of/IN euros./NN
+The/DT company/NN has/VBZ paid/VBN out/RP about/IN 300/CD million/CD euros/NNS (£281m/CD $400m)/CD to/TO cover/VB damage/NN caused/VBN recently/RB by/IN four/CD major/JJ hurricanes/NNS in/IN the/DT US./NNP
+
+But/CC insurers/NNS have/VBP not/RB had/VBN long/JJ to/TO assess/VB the/DT economic/JJ impact/NN of/IN the/DT damage/NN and/CC reports/NNS of/IN more/JJR casualties/NNS and/CC destruction/NN are/VBP still/RB coming/VBG through./NN
+
+"So/NN many/JJ things/NNS are/VBP unclear/JJ it/PRP is/VBZ just/RB too/RB early/JJ to/TO tell"/VB said/VBD Serge/NNP Troeber/NNP deputy/NN head/NN of/IN Swiss/NNP Re's/NNP natural/JJ disasters/NNS department./NN
+"You/NN need/VBP very/RB complicated/VBN processes/VBZ to/TO estimate/VB damages./NN
+Unlike/IN the/DT hurricanes/NNS you/PRP can't/VBP just/RB run/VB a/DT model."/NN He/PRP anticipated/VBD that/IN his/PRP$ own/JJ company's/NNS total/JJ claims/NNS would/MD be/VB less/RBR then/RB those/DT from/IN the/DT hurricanes/NNS which/WDT the/DT company/NN put/VBD at/IN $640m./CD
+Allianz/VBG a/DT leading/VBG German/JJ insurer/NN said/VBD it/PRP did/VBD not/RB know/VB yet/RB what/WP its/PRP$ exposure/NN would/MD be./VB
+However/RB it/PRP said/VBD the/DT tidal/JJ waves/NNS were/VBD unlikely/JJ to/TO have/VB a/DT "significant"/NN impact/NN on/IN its/PRP$ business./NN
+Zurich/NNP Financial/NNP said/VBD they/PRP could/MD not/RB yet/RB assess/VB the/DT cost/NN of/IN the/DT disaster./JJ
+
+The/DT impact/NN on/IN US/PRP insurance/VBP companies/NNS is/VBZ not/RB expected/VBN to/TO be/VB heavy/JJ analysts/NNS said./NN
+
+Most/JJS US/PRP insurers/VBZ have/VBP relatively/RB little/JJ exposure/NN to/TO Asia/NNP and/CC those/DT that/WDT do/VBP pass/VB on/IN a/DT lot/NN of/IN the/DT risk/NN to/TO reinsurance/VB companies/NNS or/CC special/JJ catastrophe/NN funds./NN
+Insured/VBN damage/NN could/MD be/VB a/DT fraction/NN of/IN the/DT "billions/NN of/IN dollars/NNS worth/NN of/IN destruction/NN in/IN Sri/NNP Lanka/NNP India/NNP Thailand/NNP Indonesia/NNP the/DT Maldive/NNP Islands/NNP and/CC Malaysia"/NNP said/VBD Prudential/NNP Equity/NNP Group/NNP insurance/NN analyst/NN Jay/NNP Gelb./NNP
+"US/NN insurers/NNS are/VBP likely/JJ to/TO have/VB only/RB minimal/JJ to/TO no/DT exposure./NN
+It's/NNP more/RBR likely/JJ the/DT Bermuda-based/JJ reinsurance/NN [companies]/NN might/MD have/VB some/DT exposure"/NN said/VBD Paul/NNP Newsome/NNP an/DT insurance/NN analyst/NN at/IN AG/NNP Edwards/NNP &/CC Co./NNP
+
+Many/JJ of/IN the/DT affected/VBN countries/NNS such/JJ as/IN Indonesia/NNP Sri/NNP Lanka/NNP or/CC the/DT Maldives/NNP do/VBP not/RB usually/RB buy/VBP insurance/NN for/IN these/DT kinds/NNS of/IN disasters/NNS said/VBD a/DT US-based/JJ insurance/NN expert./NN
+Early/RB estimates/NNS from/IN the/DT World/NNP Bank/NNP put/VBD the/DT amount/NN of/IN aid/NN needed/VBN for/IN the/DT worst/JJS affected/JJ countries/NNS including/VBG Sri/NNP Lanka/NNP India/NNP Indonesia/NNP and/CC Thailand/NNP at/IN about/RB $5bn/CD (£2.6bn)/CD similar/JJ to/TO the/DT cash/NN offered/VBD to/TO Central/NNP America/NNP after/IN Hurricane/NNP Mitch./NNP
+
+Mitch/NNP killed/VBD about/IN 10000/CD people/NNS and/CC caused/VBN damage/NN of/IN about/IN $10bn/CD in/IN 1998./CD
+But/CC the/DT cost/NN of/IN the/DT tsunamis/NNS on/IN the/DT individuals/NNS involved/VBN is/VBZ incalculable./NN
+"We/NN cannot/NN fathom/NN the/DT cost/NN of/IN these/DT poor/JJ societies/NNS and/CC the/DT nameless/JJ fishermen/NNS and/CC fishing/NN villages/NNS .../:
+that/WDT have/VBP just/RB been/VBN wiped/VBN out./NN
+Hundreds/NNS of/IN thousands/NNS of/IN livelihoods/NNS have/VBP gone"/NN said/VBN Jan/NNP Egeland/NNP head/NN of/IN the/DT UN/NNP Office/NNP for/IN the/DT Coordination/NN of/IN Humanitarian/JJ Affairs./NNP
+Tourists/NNS cutting/VBG short/VB their/PRP$ holidays/NNS in/IN affected/VBN areas/NNS may/MD suffer/VB a/DT financial/JJ impact/NN too./NN
+The/DT Association/NNP of/IN British/JJ insurers/NNS warned/VBD that/DT travel/NN insurance/NN does/VBZ not/RB normally/RB cover/VB cutting/VBG short/JJ a/DT holiday./NN
+It/PRP said/VBD loss/NN of/IN possessions/NNS will/MD usually/RB be/VBP covered/VBN but/CC the/DT Association/NNP stressed/VBD the/DT importance/NN of/IN checking/NN the/DT wording/NN of/IN travel/NN policies./NN

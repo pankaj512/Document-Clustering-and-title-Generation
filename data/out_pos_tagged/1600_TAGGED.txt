@@ -1,0 +1,21 @@
+Laporte/NN tinkers/NNS with/IN team/NN
+
+France/NNP coach/NN Bernard/NNP Laporte/NNP has/VBZ made/VBN four/CD changes/NNS to/TO the/DT starting/VBG line-up/JJ that/WDT beat/NN England/NNP for/IN Saturday's/NNP Six/CD Nations/NNPS clash/NN with/IN Wales./NNP
+
+He/PRP opted/VBD for/IN Yannick/NNP Nyanga/NNP in/IN the/DT back/JJ row/NN instead/RB of/IN Grand/NNP Slam/NNP winner/NN Imanol/NNP Harinordoquy/NNP who/WP is/VBZ back/RB in/IN the/DT squad./NN
+Other/JJ changes/NNS see/VBP Julien/NNP Laharrague/NNP win/VB his/PRP$ first/JJ cap/NN at/IN full-back/JJ Aurelien/NNP Rougerie/NNP return/NN after/IN injury/NN on/IN the/DT wing/NN and/CC Yannick/NNP Jauzion/NNP in/IN at/IN centre./NN
+But/CC Laporte/NNP has/VBZ resisted/VBN fan/NN pressure/NN to/TO start/VB Frederic/NNP Michalak/NNP at/IN fly-half./JJ
+The/DT dependable/JJ Yann/NNP Delaigue/NNP keeps/VBZ the/DT number/NN 10/CD jersey/NN despite/IN clamours/NNS for/IN the/DT flair/NN of/IN Michalak./NNP
+The/DT 26-year-old/JJ Laharrague/NNP gets/VBZ his/PRP$ chance/NN despite/IN playing/VBG on/IN the/DT wing/NN for/IN his/PRP$ club/NN Brive./NNP
+
+"We/NN are/VBP launching/VBG him/PRP into/IN the/DT great/JJ international/JJ level"/NN said/VBD team/NN manager/NN Jo/NNP Maso./NNP
+"He/NN is/VBZ young/JJ and/CC this/DT is/VBZ a/DT great/JJ opportunity/NN for/IN us/PRP and/CC above/IN all/DT for/IN him./NN
+"There/NN are/VBP 25/CD matches/VBZ left/VBN before/IN the/DT World/NNP Cup/NNP so/IN we/PRP must/MD see/VB as/IN many/JJ players/NNS as/IN possible./NN
+The/DT competition/NN is/VBZ very/RB high/JJ and/CC open."/NN Jauzion/NNP France's/NNP player/NN of/IN the/DT year/NN in/IN 2004/CD would/MD probably/RB have/VB played/VBN in/IN the/DT first/JJ two/CD matches/VBZ instead/RB of/IN the/DT South/NNP African-born/NNP Liebeneberg/NNP had/VBD he/PRP been/VBN fit./NN
+The/DT Stade/NNP Toulousain/NNP star/NN wins/VBZ his/PRP$ 23rd/CD cap/NN and/CC is/VBZ reunited/VBN with/IN Damien/NNP Traille/NNP with/IN whom/WP he/PRP forged/VBD an/DT effective/JJ midfield/NN in/IN 2004./CD
+"The/NN return/NN of/IN Jauzion/NNP is/VBZ going/VBG to/TO be/VB a/DT plus/CC for/IN us"/NN said/VBD Laporte./NNP
+"We/NN are/VBP going/VBG to/TO test/VB him/PRP at/IN an/DT international/JJ level."/NN
+
+Julien/NNP Laharrague/NNP (Brive)/NN Aurelien/NNP Rougerie/NNP (Clermont)/NN Yannick/NNP Jauzion/NNP (Stade/NN Toulousain)/NNP Damien/NNP Traille/NNP (Biarritz)/NN Christophe/NNP Dominici/NNP (Stade/NN Francais)/NNP Yann/NNP Delaigue/NNP (Castres)/NN Dimitri/NNP Yachvili/NNP (Biarritz)/NN Julien/NNP Bonnaire/NNP (Bourgoin)/NN Yannick/NNP Nyanga/NNP (Beziers)/NN Serge/NNP Betsen/NNP (Biarritz)/NN Jerome/NNP Thion/NNP (Biarritz)/NN Fabien/NNP Pelous/NNP (Stade/NN Toulousain/NNP capt)/NN Nicolas/NNP Mas/NNP (Perpignan)/NN Sebastien/NNP Bruno/NNP (Sale)/NN Sylvain/NNP Marconnet/NNP (Stade/NN Francais)/NNP
+
+Replacements/NNS William/NNP Servat/NNP (Stade/NN Toulousain)/NNP Olivier/NNP Milloud/NNP (Bourgoin)/NN Gregory/NNP Lamboley/NNP (Stade/NN Toulousain)/NNP Imanol/NNP Harinordoquy/NNP (Biarritz)/NN Pierre/NNP Mignoni/NNP (Clermont)/NN Frederic/NNP Michalak/NNP (Stade/NN Toulousain)/NNP Jean-Philippe/NNP Grandclaude/NNP (Perpignan)/NN

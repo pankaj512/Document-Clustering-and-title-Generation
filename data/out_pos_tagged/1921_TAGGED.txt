@@ -1,0 +1,25 @@
+Web/NN helps/VBZ collect/VB aid/NN donations/NNS
+
+The/DT web/NN is/VBZ helping/VBG aid/NN agencies/NNS gather/VBP resources/NNS to/TO help/VB cope/VB with/IN the/DT aftermath/NN of/IN the/DT tsunami/NN disaster./JJ
+
+Many/JJ people/NNS are/VBP making/VBG donations/NNS via/IN websites/NNS or/CC going/VBG online/NN to/TO see/VB how/WRB they/PRP can/MD get/VB involved/VBN with/IN aid/NN efforts./NN
+High-profile/JJ web/NN portals/NNS such/JJ as/IN Google/NNP Yahoo/NNP Ebay/NNP and/CC Amazon/NNP are/VBP gathering/VBG links/NNS that/WDT lead/NN people/NNS to/TO aid/VB and/CC relief/NN organisations./NN
+So/RB many/JJ were/VBD visiting/VBG some/DT aid-related/JJ sites/NNS that/IN some/DT webpages/NNS were/VBD struggling/VBG to/TO cope/VB with/IN the/DT traffic./NN
+An/DT umbrella/NN organisation/NN called/VBD the/DT Disasters/NNS Emergency/NNP Committee/NNP (DEC)/NN has/VBZ been/VBN set/VBN up/RP by/IN a/DT coalition/NN of/IN 12/CD charities/NNS and/CC has/VBZ been/VBN taking/VBG many/JJ donations/NNS via/IN its/PRP$ specially/RB created/VBN website./NN
+It/PRP urged/VBD people/NNS to/TO go/VB online/NN where/WRB possible/JJ to/TO help/VB because/IN donations/NNS could/MD be/VB processed/VBN more/RBR quickly/RB than/IN cash/NN donated/VBN in/IN other/JJ ways/NNS meaning/VBG aid/NN could/MD be/VB delivered/VBN as/RB quickly/RB as/IN possible./NN
+The/DT site/NN has/VBZ so/RB far/RB received/VBD almost/RB £8/CD million/CD with/IN more/JJR than/IN 11000/CD donations/NNS being/VBG made/VBN online/NN every/DT hour./NN
+
+Telco/NNP BT/NNP stepped/VBD in/RP to/TO take/VB over/RP the/DT secure/JJ payments/NNS on/IN the/DT DEC/NNP site/NN and/CC provided/VBN extra/JJ logistical/JJ support/NN for/IN phone/NN and/CC online/NN appeals/NNS after/IN it/PRP was/VBD initially/RB crippled/VBN with/IN online/NN donations./NN
+It/PRP has/VBZ also/RB provided/VBN space/NN in/IN London's/NNP BT/NNP tower/NN for/IN one/CD of/IN the/DT call/NN centres/NNS dealing/VBG with/IN donations./NN
+
+Some/DT of/IN the/DT web's/NNS biggest/JJS firms/NNS are/VBP also/RB helping/VBG to/TO channel/VB help/NN by/IN modifying/VBG their/PRP$ homepages/NNS to/TO include/VB links/NNS to/TO aid/VB agencies/NNS and/CC organisations/NNS collecting/VBG resources./NN
+On/IN its/PRP$ famously/JJ sparse/NN homepage/NN Google/NNP has/VBZ placed/VBN a/DT link/NN that/WDT leads/VBZ users/NNS to/TO a/DT list/NN of/IN sites/NNS where/WRB donations/NNS can/MD be/VB made./NN
+Among/IN the/DT 17/CD organisations/NNS listed/VBN are/VBP Oxfam/NNP Medecins/NNP sans/NNS Frontieres/NNP (Doctors/NN Without/IN Borders)/NNP and/CC Network/NNP for/IN Good./NNP
+Many/JJ of/IN the/DT sites/NNS that/IN Google/NNP lists/NNS are/VBP also/RB taking/VBG online/NN donations./NN
+Online/NNP retailer/NN Amazon/NNP has/VBZ put/VBN a/DT large/JJ message/NN on/IN its/PRP$ start/NN page/NN that/WDT lets/VBZ people/NNS donate/VBP money/NN directly/RB to/TO the/DT American/NNP Red/NNP Cross/NNP that/WDT will/MD be/VB used/VBN with/IN relief/NN efforts./NN
+Auction/NN site/NN eBay/NN is/VBZ giving/VBG a/DT list/NN of/IN sites/NNS that/IN people/NNS can/MD either/RB donate/VB directly/RB to/TO divert/VB a/DT portion/NN of/IN their/PRP$ profits/NNS from/IN anything/NN they/PRP sell/VBP on/IN eBay/NN to/TO the/DT listed/VBN organisations/NNS or/CC simply/RB buy/VB items/NNS that/IN direct/JJ cash/NN to/TO those/DT in/IN the/DT list./NN
+Yahoo/NNP is/VBZ proving/VBG links/NNS direct/JJ to/TO charities/NNS for/IN those/DT that/WDT want/VBP to/TO donate./VB
+The/DT Auction/NN Drop/NN website/NN is/VBZ asking/VBG people/NNS to/TO donate/VB old/JJ digital/JJ cameras/NNS computers/NNS and/CC other/JJ gadgets/NNS they/PRP no/RB longer/RB want/VBP that/WDT can/MD be/VB auction/NN to/TO raise/VB cash/NN for/IN the/DT aid/NN effort./NN
+Sadly/RB the/DT outpouring/NN of/IN goodwill/NN has/VBZ also/RB encouraged/VBN some/DT conmen/NNS to/TO try/VB to/TO cash/VB in./NN
+Anti-fraud/JJ organisations/NNS are/VBP warning/NN about/IN e-mails/NNS that/WDT are/VBP starting/VBG to/TO circulate/VB which/WDT try/VBP to/TO convince/VB people/NNS to/TO send/VB money/NN directly/RB to/TO them/PRP rather/RB than/IN make/NN donations/NNS via/IN aid/NN agencies./NN
+Those/DT wanting/VBG to/TO give/VB cash/NN were/VBD urged/VBN to/TO use/VB legitimate/JJ websites/NNS of/IN charities/NNS and/CC aid/NN agencies./NN

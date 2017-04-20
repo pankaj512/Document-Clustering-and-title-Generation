@@ -1,0 +1,26 @@
+Dozens/NNS held/VBN over/IN ID/NNP fraud/NN site/NN
+
+Twenty-eight/NN people/NNS including/VBG a/DT Briton/NNP have/NN been/VBN arrested/VBN after/IN a/DT global/JJ operation/NN against/IN a/DT website/NN allegedly/RB involved/VBN in/IN identity/NN fraud./NN
+
+Those/DT arrested/VBN are/VBP accused/VBN of/IN operating/VBG Shadowcrew.com/NNP which/WDT investigators/NNS claim/VBP was/VBD a/DT global/JJ clearing/NN house/NN for/IN criminals/NNS involved/VBN in/IN credit/NN card/NN fraud./NN
+A/DT 19-year-old/JJ man/NN from/IN Camberley/NNP Surrey/NNP was/VBD arrested/VBN by/IN the/DT National/NNP Hi-Tech/JJ Crime/NN Unit/NNP but/CC has/VBZ been/VBN bailed./NN
+Operation/NNP Firewall/NNP led/VBD by/IN the/DT US/PRP Secret/JJ Service/NNP involved/VBD seven/CD nations./NN
+The/DT British/JJ teenager/NN was/VBD arrested/VBN on/IN Wednesday/NNP but/CC details/NNS only/RB emerged/VBD on/IN Friday./NNP
+He/PRP has/VBZ now/RB been/VBN bailed/VBN to/TO return/VB to/TO a/DT Surrey/NNP police/NN station/NN in/IN December./NNP
+All/DT 28/CD people/NNS detained/VBD globally/RB are/VBP suspected/VBN of/IN being/VBG involved/VBN in/IN an/DT internet-based/JJ network/NN which/WDT stole/VBD people's/NNS identities/NNS and/CC used/VBN computers/NNS and/CC websites/NNS to/TO defraud/VB credit/NN card/NN companies./NN
+The/DT authorities/NNS in/IN the/DT US/PRP who/WP have/VBP indicted/VBN 19/CD people/NNS in/IN Newark/NNP New/NNP Jersey/NNP estimate/NN the/DT fraud/NN caused/VBN losses/NNS of/IN more/JJR than/IN $4m./CD
+Assistant/NNP US/PRP Attorney/NNP Scott/NNP Christie/NNP said/VBD several/JJ people/NNS had/VBD been/VBN arrested/VBN in/IN Argentina/NNP Bulgaria/NNP Canada/NNP Estonia/NNP Poland/NNP and/CC Sweden./NNP
+Mr/NNP Christie/NNP said/VBD one/CD of/IN the/DT ringleaders/NNS was/VBD believed/VBN to/TO be/VB a/DT Russian/JJ Anatoly/NNP Tyukanov./NNP
+
+Investigators/NNS from/IN 30/CD law/NN enforcement/NN agencies/NNS worldwide/NN spent/VBD 15/CD months/NNS looking/VBG into/IN the/DT activities/NNS of/IN three/CD websites/NNS -/: Shadowcrew/NNP Carderplanet/NNP and/CC Darkprofits./NNP
+The/DT US/PRP Secret/JJ Service/NNP was/VBD first/RB tipped/VBD off/RP in/IN July/NNP 2003./CD
+An/DT NHTCU/NNP spokeswoman/NN said/VBD the/DT American/JJ investigators/NNS went/VBD undercover/JJ on/IN the/DT Shadowcrew/NNP website/NN and/CC discovered/VBD some/DT of/IN the/DT site's/NNS 4000/CD members/NNS were/VBD using/VBG it/PRP for/IN organised/VBN crime/NN purposes./NN
+
+She/PRP said/VBD criminals/NNS were/VBD using/VBG the/DT websites/NNS to/TO traffic/VB counterfeit/NN credit/NN cards/NNS and/CC false/JJ identification/NN information/NN and/CC documents/NNS such/JJ as/IN credit/NN cards/NNS driver's/NNS licences/NNS passports/NNS and/CC birth/NN certificates./NN
+The/DT websites/NNS shared/VBD tips/NNS on/IN how/WRB to/TO commit/VB fraud/NN and/CC provided/VBD a/DT forum/NN by/IN which/WDT people/NNS could/MD buy/VB the/DT information/NN and/CC tools/NNS they/PRP needed/VBD to/TO commit/VB such/JJ crime/NN she/PRP said./VBP
+The/DT Shadowcrew/NNP site/NN which/WDT has/VBZ now/RB been/VBN taken/VBN over/RP by/IN the/DT US/PRP Secret/JJ Service/NNP listed/VBD several/JJ discussion/NN groups/NNS in/IN English/NNP and/CC Russian/JJ including/NN one/CD on/IN hacking/VBG spam/NN and/CC online/NN anonymity/NN tools./NN
+The/DT head/NN of/IN the/DT NHTCU/NNP Acting/NN Detective/NN Chief/NNP Superintendent/NN Mick/NNP Deats/NNP said/VBD "This/NN investigation/NN has/VBZ resulted/VBN in/IN the/DT significant/JJ disruption/NN of/IN organised/VBN criminals/NNS using/VBG the/DT internet/NN for/IN profit./NN
+
+"We/NN believe/VBP that/IN the/DT suspects/NNS have/VBP trafficked/VBN at/IN least/JJS 1.7/CD million/CD stolen/VBN credit/NN card/NN numbers/NNS leading/VBG to/TO losses/NNS by/IN financial/JJ institutions/NNS running/VBG into/IN the/DT millions."/NN Chief/NNP Supt/NNP Deats/NNP went/VBD on/RP to/TO warn/VB "The/NN internet/JJ offers/VBZ huge/JJ legitimate/JJ benefits/NNS for/IN modern/JJ society/NN however/RB with/IN it/PRP brings/VBZ powerful/JJ opportunities/NNS for/IN those/DT seeking/VBG to/TO abuse/VB those/DT benefits/NNS for/IN criminal/JJ gain./NN
+"Your/NN identity/NN is/VBZ one/CD of/IN the/DT most/RBS precious/JJ commodities./NN
+Criminals/NNS who/WP try/VBP to/TO steal/VB the/DT personal/JJ and/CC financial/JJ information/NN of/IN ordinary/JJ citizens/NNS as/RB well/RB as/IN the/DT confidential/JJ and/CC proprietary/JJ information/NN of/IN companies/NNS engaged/VBN in/IN e-commerce/JJ will/MD be/VB targeted/VBN by/IN law/NN enforcement."/NN

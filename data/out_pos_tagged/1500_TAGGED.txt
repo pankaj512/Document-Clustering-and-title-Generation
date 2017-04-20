@@ -1,0 +1,14 @@
+Celtic/NNP make/VBP late/JJ bid/NN for/IN Bellamy/NNP
+
+Newcastle/NNP striker/NN Craig/NNP Bellamy/NNP is/VBZ discussing/VBG a/DT possible/JJ short-term/JJ loan/NN move/NN to/TO Celtic/NNP BBC/NNP Sport/NNP understands./NN
+
+The/DT Welsh/NNP striker/NN has/VBZ rejected/VBN a/DT move/NN to/TO Birmingham/NNP after/IN falling/VBG out/RP with/IN Magpies/NNP manager/NN Graeme/NNP Souness./NNP
+The/DT Toon/NNP boss/NN vowed/VBD Bellamy/NNP would/MD not/RB play/VB again/RB after/IN a/DT bitter/JJ row/NN over/IN his/PRP$ exclusion/NN for/IN the/DT game/NN against/IN Arsenal./NNP
+Celtic/NNS are/VBP in/IN no/DT position/NN to/TO match/VB Birmingham's/NNP £6m/CD offer/NN but/CC a/DT stay/NN until/IN the/DT end/NN of/IN the/DT season/NN could/MD suit/VB Bellamy/NNP while/IN he/PRP considers/VBZ his/PRP$ future./NN
+According/VBG to/TO Bellamy's/NNP agent/NN the/DT player/NN dismissed/VBD a/DT permanent/JJ move/NN to/TO Birmingham./NNP
+And/CC it/PRP is/VBZ unlikely/JJ that/IN Newcastle/NNP would/MD allow/VB the/DT player/NN to/TO go/VB on/IN loan/NN to/TO another/DT Premiership/NN club./NN
+
+Bellamy/NNP was/VBD fined/VBN two/CD weeks'/NN wages/NNS after/IN a/DT live/JJ TV/NN interview/NN in/IN which/WDT he/PRP accused/VBD Souness/NN of/IN lying/VBG following/VBG a/DT very/RB public/JJ dispute/NN about/IN what/WP position/NN Bellamy/NNP should/MD play/VB in/IN the/DT side./NN
+Souness/NN said/VBD "He/NN can't/NN play/NN for/IN me/PRP ever/RB again./VBP
+He/PRP has/VBZ been/VBN a/DT disruptive/JJ influence/NN from/IN the/DT minute/NN I/PRP walked/VBD into/IN this/DT football/NN club./NN
+"He/NN can't/NN go/VBP on/IN television/NN and/CC accuse/VBP me/PRP of/IN telling/VBG lies."/NN Chairman/NNP Freddy/NNP Shepherd/NNP described/VBD Bellamy's/NNP behaviour/NN as/RB "totally/RB unacceptable/JJ and/CC totally/RB unprofessional"./NN

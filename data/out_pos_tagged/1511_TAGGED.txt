@@ -1,0 +1,12 @@
+Edu/NNP describes/VBZ tunnel/NN fracas/NN
+
+Arsenal's/NNP Edu/NNP has/VBZ lifted/VBN the/DT lid/NN on/IN the/DT scenes/NNS that/WDT followed/VBD Manchester/NNP United's/NNP win/VB over/IN the/DT Gunners./NNP
+
+The/DT Brazilian/NN confirmed/VBD tempers/NNS had/VBD flared/VBN but/CC could/MD shed/VB no/DT light/NN on/IN reports/NNS that/DT food/NN was/VBD thrown/VBN at/IN United/NNP boss/NN Sir/NNP Alex/NNP Ferguson./NNP
+"I/NN saw/VBD people/NNS being/VBG pulled/VBD apart/RB people/NNS pushing/VBG pointing/VBG and/CC shouting"/NN he/PRP told/VBD Uefa's/NNP official/JJ website./NN
+"The/NNP United/NNP players/NNS were/VBD trying/VBG to/TO wind/VB us/PRP up/RP about/IN the/DT result/NN but/CC I/PRP didn't/VBP see/NN any/DT soup/NN being/VBG thrown/VBN at/IN anyone."/NN However/RB Edu/NNP tried/VBD to/TO play/VB down/RP the/DT incidents/NNS adding/VBG "There/NN was/VBD nothing/NN that/IN I/PRP haven't/VBP seen/VBN in/IN Brazilian/JJ derbies./NN
+"Derby/NN matches/VBZ in/IN Brazil/NNP are/VBP worse./NN
+I/PRP like/VB to/TO play/VB in/IN games/NNS like/IN this/DT with/IN this/DT intense/JJ rivalry."/NN But/CC Edu/NNP was/VBD highly/RB critical/JJ of/IN the/DT ferocity/NN of/IN some/DT of/IN United's/NNP challenges/NNS during/IN the/DT game/NN particularly/RB on/IN Jose/NNP Antonio/NNP Reyes./NNP
+"I/NN think/VBP we/PRP were/VBD a/DT lot/NN fairer/JJR in/IN the/DT tackles/NNS than/IN United"/NNP he/PRP said./VB
+"Reyes/NN was/VBD being/VBG kicked/VBD all/DT over/IN the/DT park/NN -/: they/PRP were/VBD beating/VBG up/RP the/DT boy/NN and/CC Gary/NNP Neville/NNP was/VBD tackling/VBG in/IN such/PDT a/DT way/NN that/IN he/PRP should/MD have/VB been/VBN sent/VBN off."/NN Following/VBG the/DT game/NN the/DT Football/NNP Association/NNP said/VBD it/PRP would/MD look/VB into/IN events/NNS in/IN the/DT tunnel./NN
+It/PRP also/RB charged/VBD Ruud/NNP van/NNP Nistelrooy/NNP with/IN serious/JJ foul/JJ play/NN while/IN Arsenal/NN boss/NN Arsene/NNP Wenger/NNP has/VBZ been/VBN asked/VBN to/TO explain/VB comments/NNS he/PRP made/VBD about/IN the/DT referee./NN

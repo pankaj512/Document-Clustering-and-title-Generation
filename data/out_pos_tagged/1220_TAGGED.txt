@@ -1,0 +1,28 @@
+Iraq/NNP advice/NN claim/NN sparks/VBZ new/JJ row/NN
+
+The/DT Tories/NNPS say/VBP ministers/NNS must/MD respond/VB in/IN Parliament/NNP to/TO claims/VBZ that/IN the/DT legal/JJ advice/NN used/VBN to/TO justify/VB the/DT Iraq/NNP war/NN was/VBD drawn/VBN up/RP at/IN Number/NN 10./CD
+
+Downing/NNP Street/NNP has/VBZ denied/VBN the/DT claims/NNS made/VBN in/IN a/DT new/JJ book/NN about/IN the/DT Attorney/NNP General/NNP Lord/NNP Goldsmith's/NNP advice./NN
+Lord/NNP Goldsmith/NNP also/RB denied/VBD them/PRP saying/VBG he/PRP was/VBD not/RB "leaned/VBN on"/NN in/IN any/DT way./NN
+But/CC the/DT Conservatives/NNS and/CC Liberal/NNP Democrats/NNPS say/VBP they/PRP want/VBP the/DT publication/NN of/IN the/DT full/JJ legal/JJ advice/NN given/VBN by/IN the/DT Attorney/NNP General./NNP
+
+The/DT government/NN has/VBZ consistently/RB refused/VBN to/TO publish/VB Lord/NNP Goldsmith's/NNP advice/NN on/IN the/DT legality/NN of/IN the/DT war/NN -/: saying/VBG such/JJ papers/NNS have/VBP always/RB been/VBN kept/VBN confidential./NN
+
+But/CC a/DT short/JJ statement/NN about/IN Lord/NNP Goldsmith's/NNP position/NN was/VBD presented/VBN in/IN a/DT written/VBN parliamentary/JJ answer/NN on/IN 17/CD March/NNP 2003/CD -/: just/RB before/IN a/DT crucial/JJ Commons/NNPS vote/NN on/IN the/DT military/JJ action./NN
+It/PRP said/VBD it/PRP was/VBD "plain"/NN Iraq/NNP continued/VBD to/TO be/VB in/IN material/NN breach/NN of/IN UN/NNP resolution/NN 1441./CD
+In/IN his/PRP$ new/JJ book/NN Lawless/NNP World/NNP Philippe/NNP Sands/NNP a/DT QC/NNP and/CC international/JJ law/NN professor/NN suggests/VBZ the/DT parliamentary/JJ answer/NN was/VBD written/VBN in/IN Downing/NNP Street./NNP
+According/VBG to/TO Mr/NNP Sands/NNP Lord/NNP Goldsmith/NNP had/VBD warned/VBN Tony/NNP Blair/NNP in/IN a/DT document/NN on/IN 7/CD March/NNP 2003/CD that/IN the/DT use/NN of/IN force/NN against/IN Iraq/NNP could/MD be/VB illegal/JJ and/CC that/IN it/PRP would/MD have/VB been/VBN safer/JJR to/TO seek/VB a/DT second/JJ UN/NNP resolution/NN sanctioning/VBG military/JJ action./NN
+
+Mr/NNP Sands/NNP told/VBD Newsnight/NNP the/DT government/NN had/VBD prepared/VBN a/DT legal/JJ team/NN to/TO be/VB able/JJ to/TO defend/VB its/PRP$ case/NN in/IN case/NN legal/JJ action/NN was/VBD taken/VBN against/IN the/DT UK/NNP over/IN the/DT war./NN
+On/IN 10/CD March/NNP military/JJ chiefs/NNS reportedly/RB asked/VBD for/IN an/DT unequivocal/JJ statement/NN about/IN the/DT legality/NN of/IN the/DT war/NN to/TO make/VB sure/JJ troops/NNS could/MD be/VB defended/VBN in/IN a/DT court/NN of/IN law./NN
+The/DT book/NN being/VBG serialised/VBN in/IN the/DT Guardian/NNP newspaper/NN says/VBZ on/IN 13/CD March/NNP Lord/NNP Goldsmith/NNP met/VBD then/RB Home/NNP Office/NNP Minister/NNP Lord/NNP Falconer/NNP and/CC Downing/NNP Street/NNP adviser/NN Baroness/NN Morgan./NNP
+"After/NN that/IN Downing/NNP Street/NNP proceeded/VBD to/TO set/VB out/RP his/PRP$ [Lord/NN Goldsmith's]/NNP view/NN in/IN a/DT parliamentary/JJ answer/NN which/WDT was/VBD then/RB published/VBN on/IN 17/CD March"/NNP said/VBD Mr/NNP Sands./NNP
+
+Tory/NNP leader/NN Michael/NNP Howard/NNP reiterated/VBD calls/VBZ for/IN the/DT publication/NN of/IN the/DT full/JJ legal/JJ advice/NN given/VBN by/IN the/DT Attorney/NNP General/NNP warning/NN "This/NN issue/NN will/MD not/RB go/VB away."/NN "These/NN revelations/NNS throw/VBP an/DT intensive/JJ spotlight/NN on/RP to/TO the/DT cavalier/JJ way/NN in/IN which/WDT this/DT government/NN operates/VBZ -/: even/RB on/IN an/DT issue/NN as/RB important/JJ as/IN peace/NN and/CC war./NN
+"The/NN government/NN needs/VBZ to/TO act/VB to/TO restore/VB public/JJ confidence/NN and/CC trust."/NN Liberal/NNP Democrat/NNP foreign/JJ affairs/NNS spokesman/NN Menzies/NNP Campbell/NNP repeated/VBD his/PRP$ party's/NNS calls/VBZ for/IN Lord/NNP Goldsmith's/NNP first/JJ piece/NN of/IN legal/JJ advice/NN to/TO be/VB made/VBN public./NN
+"The/NN public/JJ interest/NN which/WDT the/DT government/NN claims/VBZ justifies/VBZ non-publication/JJ of/IN the/DT whole/NN of/IN the/DT advice/NN can/MD only/RB be/VB served/VBN now/RB by/IN the/DT fullest/JJS disclosure."/JJ
+
+In/IN a/DT statement/NN to/TO Newsnight/NNP Lord/NNP Goldsmith/NNP said/VBD "In/NN my/PRP$ parliamentary/JJ answer/NN on/IN March/NNP 17/CD 2003/CD I/PRP explained/VBD my/PRP$ genuinely/RB held/VBN independent/JJ view/NN that/IN military/JJ action/NN was/VBD lawful/JJ under/IN the/DT existing/VBG Security/NNP Council/NNP resolutions./NN
+"It/NN was/VBD certainly/RB not/RB a/DT view/NN that/IN I/PRP expressed/VBN as/IN a/DT result/NN of/IN being/VBG leaned/VBN on/RP in/IN any/DT way/NN nor/CC as/IN I/PRP have/VBP already/RB made/VBN clear/NN was/VBD it/PRP written/VBN by/IN or/CC at/IN Number/NN 10."/CD The/DT prime/JJ minister's/NNS official/JJ spokesman/NN also/RB rejected/VBD the/DT claims/NNS saying/VBG "The/NN attorney/NN general/NN made/VBN it/PRP clear/JJ the/DT words/NNS and/CC the/DT judgement/NN were/VBD his."/NN But/CC ex-foreign/NN secretary/NN Robin/NNP Cook/NNP says/VBZ all/PDT the/DT advice/NN should/MD now/RB be/VB published./NN
+He/PRP said/VBD the/DT claims/NNS suggested/VBD Parliament/NNP had/VBD only/RB received/VBN a/DT pr&#233cis/CD of/IN Lord/NNP Goldsmith's/NNP second/JJ opinion/NN -/: and/CC that/IN it/PRP was/VBD actually/RB drafted/VBN in/IN No/DT 10./NN
+This/DT would/MD be/VB wrong/JJ even/RB if/IN Lord/NNP Goldsmith/NNP had/VBD signed/VBN the/DT statement/NN Mr/NNP Cook/NNP said/VBD because/IN the/DT attorney/NN general's/NNS advice/NN should/MD be/VB an/DT "independent/NN legal/JJ opinion"/NN not/RB subject/JJ to/TO "political/JJ negotiation/NN of/IN this/DT kind"./NN

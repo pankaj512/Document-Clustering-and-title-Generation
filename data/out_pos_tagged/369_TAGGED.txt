@@ -1,0 +1,15 @@
+Beer/NNP giant/JJ swallows/NNS Russian/JJ firm/NN
+
+Brewing/NNP giant/JJ Inbev/NNP has/VBZ agreed/VBN to/TO buy/VB Alfa-Eco's/NNP stake/NN in/IN Sun/NNP Interbrew/NNP Russia's/NNP second-largest/JJ brewer/NN for/IN up/IN to/TO 259.7m/CD euros/NNS ($353.3m/CD £183.75m)./CD
+
+Alfa-Eco/VBG the/DT venture/NN capital/NN arm/NN of/IN Russian/JJ conglomerate/NN Alfa/NNP Group/NNP has/VBZ a/DT one-fifth/JJ stake/NN in/IN Sun/NNP Interbrew./NNP
+The/DT deal/NN gives/VBZ Inbev/NNP the/DT world's/NNS biggest/JJS beermaker/NN near-total/JJ control/NN over/IN the/DT Russian/JJ brewer./NN
+Inbev/NNP bought/VBD out/RP another/DT partner/NN in/IN August/NNP 2004./CD
+Inbev/NN brands/NNS include/VBP Bass/NNP Stella/NNP Artois/NNP Hoegaarden/NNP and/CC Staropramen./NNP
+It/PRP employs/VBZ 77000/CD people/NNS running/VBG operations/NNS in/IN over/IN 30/CD countries/NNS across/IN the/DT Americas/NNPS Europe/NNP and/CC Asia/NNP Pacific./NNP
+
+The/DT Leuven-based/JJ brewery/NN said/VBD it/PRP would/MD own/VB 97.3%/CD of/IN the/DT voting/NN shares/NNS and/CC 98.8%/CD of/IN the/DT non-voting/JJ shares/NNS of/IN Sun/NNP Interbrew./NNP
+The/DT deal/NN is/VBZ expected/VBN to/TO be/VB completed/VBN in/IN the/DT first/JJ quarter/NN of/IN 2005./CD
+Inbev/NNP was/VBD formed/VBN in/IN August/NNP 2004/CD when/WRB Belgium's/NNP Interbrew/NNP bought/VBD Brazilian/JJ brewer/NN Ambev./NNP
+Sun/NNP Interbrew/NNP which/WDT employs/VBZ 8000/CD staff/NN owns/VBZ breweries/NNS in/IN eight/CD Russian/JJ cities/NNS -/: Klin/NNP Ivanovo/NNP Saransk/NNP Kursk/NNP Volzhsky/NNP Omsk/NNP Perm/NNP and/CC Novocheboksarsk./NNP
+There/EX are/VBP also/RB three/CD breweries/NNS in/IN Ukraine/NNP in/IN the/DT cities/NNS of/IN Chernigov/NNP Nikolaev/NNP and/CC Kharkov./NNP

@@ -1,0 +1,29 @@
+German/JJ music/NN in/IN a/DT 'zombie'/NN state/NN
+
+The/DT German/JJ music/NN business/NN -/: the/DT third/JJ largest/JJS in/IN the/DT world/NN -/: is/VBZ "in/VBG the/DT state/NN of/IN a/DT zombie"/NN because/IN it/PRP has/VBZ failed/VBN to/TO respond/VB to/TO the/DT challenge/NN posed/VBN by/IN downloading/VBG and/CC piracy/VB a/DT leading/VBG industry/NN figure/NN has/VBZ said./NN
+
+Tim/NNP Renner/NNP the/DT head/NN of/IN Universal/NNP Music/NNP Germany/NNP until/IN last/JJ year/NN told/VBD BBC/NNP World/NNP Service's/NNP The/DT Music/NNP Biz/NNP programme/NN that/IN the/DT country's/NNS music/NN industry/NN was/VBD now/RB struggling/VBG to/TO survive./VB
+Renner/NNP warned/VBD that/IN unless/IN the/DT industry/NN accepted/VBD "new/NN realties"/NN -/: such/JJ as/IN downloading/VBG -/: its/PRP$ decline/NN could/MD become/VB irreversible./NN
+"The/NN problem/NN the/DT music/NN industry/NN has/VBZ got/VBD is/VBZ that/IN they/PRP aren't/VBP willing/JJ to/TO accept/VB that/IN the/DT classic/JJ way/NN of/IN doing/VBG business/NN is/VBZ over/RB and/CC out"/NN he/PRP stated./VB
+"So/NN the/DT music/NN industry/NN in/IN its/PRP$ current/JJ form/NN over/IN here/RB is/VBZ pretty/RB much/RB in/IN the/DT state/NN of/IN a/DT zombie."/NN
+
+The/DT music/NN market/NN in/IN Germany/NNP peaked/VBD in/IN 1997/CD with/IN sales/NNS of/IN 2.6bn/CD euros/NNS (£1.8bn)./CD
+Since/IN 2000/CD sales/NNS have/VBP plummeted/VBN to/TO just/RB 1.6bn/CD euros/NNS (£1.1bn)/CD in/IN 2003./CD
+In/IN the/DT space/NN of/IN one/CD year/NN -/: between/IN 2002/CD and/CC 2003/CD -/: CD/NNP album/NN sales/NNS fell/VBD by/IN 13.8%./CD
+But/CC a/DT study/NN by/IN the/DT Society/NNP for/IN Consumer/NNP Research/NNP found/VBD that/IN at/IN the/DT same/JJ time/NN more/JJR than/IN twice/RB as/IN many/JJ recordable/JJ CDs/NNS had/VBD music/NN recorded/VBN on/IN them/PRP than/IN CD/NNP albums/NNS were/VBD sold./NN
+Mr/NNP Renner/NNP pointed/VBD out/RP that/IN because/IN profit/NN comes/VBZ mainly/RB from/IN the/DT longevity/NN of/IN a/DT good-selling/JJ record/NN this/DT was/VBD particularly/RB damaging./NN
+
+"You/NN need/VBP time"/NN he/PRP added./VB
+However/RB Peter/NNP Zombic/NNP the/DT managing/VBG director/NN of/IN the/DT International/NNP Federation/NNP of/IN Phonographic/NNP Industry/NNP in/IN Germany/NNP said/VBD he/PRP did/VBD not/RB feel/VB the/DT situation/NN was/VBD as/RB "dramatic"/NN as/IN Mr/NNP Renner/NNP believed./NN
+"It's/NN quite/RB true/JJ that/IN we/PRP have/VBP severe/JJ problems/NNS in/IN Germany/NNP -/: but/CC that's/NNS true/JJ in/IN other/JJ parts/NNS of/IN the/DT world/NN and/CC in/IN most/RBS developed/VBN markets/NNS too"/VBP he/PRP argued./VB
+"We/NN have/VBP a/DT severe/JJ problem/NN with/IN piracy/NN especially/RB internet/JJ piracy/NN and/CC we/PRP also/RB have/VBP a/DT severe/JJ problem/NN of/IN private/JJ copying./NN
+"I/NN don't/NN agree/VBP that/IN the/DT music/NN industry/NN lost/VBD control/NN over/IN the/DT music/NN market/NN -/: in/IN fact/NN especially/RB in/IN regard/NN to/TO Germany/NNP talent/NN the/DT market/NN is/VBZ quite/RB successful."/NN He/PRP did/VBD however/RB admit/VB that/IN copyright/NN owners/NNS have/VBP "partly/RB lost/VBN control/NN of/IN their/PRP$ copyright"/NN due/JJ to/TO piracy/NN and/CC copying./NN
+
+But/CC he/PRP refuted/VBD suggestions/NNS that/IN the/DT industry/NN had/VBD been/VBN too/RB slow/JJ to/TO respond/VB to/TO digital/JJ downloading./NN
+"We/NN were/VBD the/DT first/JJ to/TO implement/VB a/DT download/NN service/NN -/: back/RB in/IN 1997"/CD he/PRP argued./VB
+"At/NN that/WDT time/NN it/PRP was/VBD not/RB successful/JJ because/IN of/IN the/DT advent/NN of/IN piracy/NN -/: it/PRP was/VBD the/DT Napster/NNP time/NN when/WRB P2P/CD services/NNS became/VBD popular./NN
+"It/NN still/RB is/VBZ quite/RB difficult/JJ for/IN the/DT music/NN industry/NN to/TO compete/VB with/IN a/DT price/NN that/WDT is/VBZ zero/CD as/RB far/RB as/IN the/DT illegal/JJ product/NN is/VBZ concerned."/NN Mr/NNP Zombic/NNP also/RB called/VBD for/IN a/DT change/NN to/TO the/DT perception/NN in/IN Germany/NNP that/IN private/JJ copying/NN of/IN music/NN is/VBZ not/RB a/DT problem./NN
+German/JJ law/NN does/VBZ allow/VB people/NNS to/TO make/VB copies/NNS of/IN CDs/NNS for/IN their/PRP$ family/NN and/CC close/VB friends/NNS without/IN fear/NN of/IN breaking/VBG copyright./NN
+Mr/NNP Zombic/NNP said/VBD that/IN this/DT legal/JJ framework/NN was/VBD a/DT "huge/NN problem"./NN
+"There/NN is/VBZ a/DT widespread/JJ attitude/NN that/IN private/JJ copying/NN is/VBZ a/DT hobby/NN it's/NNS nice/JJ it's/NNS fun"/VBP he/PRP added./VB
+"We/NN try/NN to/TO make/VB clear/JJ it's/NNS not/RB nice/JJ and/CC it's/NNS not/RB fun/VBP -/: it's/NNS endangering/VBG the/DT creativity/NN in/IN our/PRP$ country."/NN

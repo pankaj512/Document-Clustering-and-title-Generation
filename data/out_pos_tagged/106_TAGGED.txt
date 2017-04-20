@@ -1,0 +1,17 @@
+Golden/NNP rule/NN 'intact'/NN says/VBZ ex-aide/NN
+
+Chancellor/NNP Gordon/NNP Brown/NNP will/MD meet/VB his/PRP$ golden/JJ economic/JJ rule/NN "with/NN a/DT margin/NN to/TO spare"/VB according/VBG to/TO his/PRP$ former/JJ chief/JJ economic/JJ adviser./NN
+
+Formerly/RB one/CD of/IN Mr/NNP Brown's/NNP closest/JJS Treasury/NNP aides/NNS Ed/NNP Balls/NNS hinted/VBD at/IN a/DT Budget/NNP giveaway/JJ on/IN 16/CD March./NNP
+He/PRP said/VBD he/PRP hoped/VBD more/JJR would/MD be/VB done/VBN to/TO build/VB on/IN current/JJ tax/NN credit/NN rules./NN
+Any/DT rate/NN rise/NN ahead/RB of/IN an/DT expected/VBN May/NNP election/NN would/MD not/RB affect/VB the/DT Labour/NNP Party's/NNP chances/NNS of/IN winning/VBG he/PRP added./VB
+Last/JJ July/NNP Mr/NNP Balls/NNS won/VBD the/DT right/NN to/TO step/VB down/RP from/IN his/PRP$ Treasury/NNP position/NN and/CC run/VB for/IN parliament/NN defending/VBG the/DT Labour/NNP stronghold/NN of/IN Normanton/NNP in/IN West/NNP Yorkshire./NNP
+
+Mr/NN Balls/NNS rejected/VBD the/DT allegation/NN that/IN Mr/NNP Brown/NNP had/VBD been/VBN sidelined/VBN in/IN the/DT election/NN campaign/NN saying/VBG he/PRP was/VBD playing/VBG a/DT "different"/NN role/NN to/TO the/DT one/CD he/PRP played/VBD in/IN the/DT last/JJ two/CD elections./NN
+He/PRP rejected/VBD speculation/NN that/IN Mr/NNP Brown/NNP was/VBD considering/VBG becoming/VBG Foreign/NNP Secretary/NNP saying/VBG his/PRP$ recent/JJ travels/VBZ had/VBN been/VBN linked/VBN to/TO efforts/NNS to/TO boost/VB international/JJ development./NN
+Gordon/NNP Brown's/NNP decision/NN to/TO announce/VB the/DT date/NN of/IN the/DT Budget/NNP while/IN on/IN a/DT trip/NN to/TO China/NNP was/VBD a/DT "sensible/JJ thing/NN to/TO do"/VB since/IN he/PRP was/VBD talking/VBG about/IN skills/NNS and/CC investment/NN at/IN the/DT time/NN Mr/NNP Balls/NNS told/VBD the/DT BBC./NNP
+Commenting/VBG on/IN speculation/NN of/IN an/DT interest/NN rate/NN rise/NN he/PRP said/VBD it/PRP was/VBD not/RB within/IN the/DT remit/NN of/IN the/DT Bank/NNP of/IN England's/NNP Monetary/NNP Policy/NNP Committee/NNP (MPC)/NN to/TO factor/VB a/DT potential/JJ election/NN into/IN its/PRP$ rate/NN decisions./NN
+Expectations/NNS of/IN a/DT rate/NN rise/NN have/VBP gathered/VBN pace/NN after/IN figures/NNS showed/VBD that/IN house/NN prices/NNS are/VBP still/RB rising./NN
+Consumer/NNP borrowing/NN rose/VBD at/IN a/DT near-record/JJ pace/NN in/IN January./NNP
+"I/NN don't/NN believe/VBP it/PRP would/MD be/VB a/DT big/JJ election/NN issue/NN in/IN Britain/NNP or/CC a/DT problem/NN for/IN Labour"/NNP Mr/NNP Balls/NNS said./NN
+Prime/NNP Minister/NNP Tony/NNP Blair/NNP has/VBZ yet/RB to/TO name/VB the/DT date/NN of/IN the/DT election/NN but/CC most/JJS pundits/NNS are/VBP betting/VBG on/IN 5/CD May/NNP as/IN the/DT likely/JJ day./NN

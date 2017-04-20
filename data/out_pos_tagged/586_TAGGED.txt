@@ -1,0 +1,14 @@
+Fockers/NNP fuel/NN festive/JJ film/NN chart/NN
+
+Comedy/NNP Meet/VB The/DT Fockers/NNP topped/VBD the/DT festive/JJ box/NN office/NN in/IN North/NNP America/NNP setting/VBG a/DT new/JJ record/NN for/IN Christmas/NNP Day./NNP
+
+The/DT sequel/NN took/VBD $44.7m/CD (£23.2m)/CD between/IN 24/CD and/CC 26/CD December/NNP according/VBG to/TO studio/NN estimates./NN
+It/PRP took/VBD $19.1m/CD (£9.9m)/CD on/IN Christmas/NNP Day/NNP alone/RB the/DT highest/JJS takings/NNS on/IN that/DT day/NN in/IN box/NN office/NN history./NN
+Meet/VB The/DT Fockers/NNP is/VBZ the/DT sequel/NN to/TO Ben/NNP Stiller/NNP comedy/NN Meet/NN The/DT Parents/NNS also/RB starring/VBG Robert/NNP De/NNP Niro/NNP Blythe/NNP Danner/NNP Dustin/NNP Hoffman/NNP and/CC Barbra/NNP Streisand./NNP
+Despite/IN the/DT success/NN of/IN Meet/VBP The/DT Fockers/NNP takings/NNS were/VBD down/RB 26.5%/CD on/IN 2003's/CD figures/NNS -/: which/WDT was/VBD blamed/VBN on/IN Christmas/NNP falling/VBG over/IN a/DT weekend/NN this/DT year./NN
+
+"When/NNP Christmas/NNP falls/VBZ on/IN a/DT weekend/NN it's/NNS bad/JJ for/IN business"/NN said/VBD Paul/NNP Dergarabedian/NNP president/NN of/IN Exhibitor/NNP Relations/NNPS which/WDT compiles/VBZ box/NN office/NN statistics./NN
+The/DT weekend's/NNS top/JJ 12/CD films/NNS took/VBD an/DT estimated/JJ $121.9m/CD (£63.3m)/CD compared/VBN with/IN $165.8m/CD (£86.1m)/CD last/JJ year/NN when/WRB the/DT third/JJ Lord/NNP of/IN the/DT Rings/NNS film/NN dominated/VBD the/DT box/NN office./NN
+Meet/VB The/DT Fockers/NNP knocked/VBD last/JJ week's/NNS top/JJ film/NN Lemony/NNP Snicket's/NNP A/NNP Series/NNP of/IN Unfortunate/JJ Events/NNS down/RB to/TO third/JJ place/NN with/IN $12.5m/CD (£6.5m)./CD
+Comedy/NNP Fat/NNP Albert/NNP -/: co-written/JJ by/IN Bill/NNP Cosby/NNP -/: entered/VBD the/DT chart/NN in/IN second/JJ place/NN after/IN opening/NN on/IN Christmas/NNP Day/NNP taking/VBG $12.7m/CD (£6.6m)./CD
+The/DT Aviator/NNP starring/VBG Leonardo/NNP DiCaprio/NNP as/IN Howard/NNP Hughes/NNP took/VBD $9.4m/CD after/IN expanding/VBG from/IN 40/CD to/TO 1796/CD cinemas/NNS on/IN Christmas/NNP Day./NNP

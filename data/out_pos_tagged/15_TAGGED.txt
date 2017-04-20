@@ -1,0 +1,36 @@
+Air/NN passengers/NNS win/VBP new/JJ EU/NNP rights/NNS
+
+Air/NN passengers/NNS who/WP are/VBP unable/JJ to/TO board/VB their/PRP$ flights/NNS because/IN of/IN overbooking/VBG cancellations/NNS or/CC flight/NN delays/NNS can/MD now/RB demand/VB greater/JJR compensation./NN
+
+New/NNP EU/NNP rules/NNS set/VBD compensation/NN at/IN between/IN 250/CD euros/NNS (£173)/CD and/CC 600/CD euros/NNS depending/VBG on/IN the/DT length/NN of/IN the/DT flight./NN
+The/DT new/JJ rules/NNS will/MD apply/VB to/TO all/DT scheduled/VBN and/CC charter/NN flights/NNS including/VBG budget/NN airlines./NN
+Airlines/NNS have/VBP attacked/VBN the/DT legislation/NN saying/VBG they/PRP could/MD be/VB forced/VBN to/TO push/VB prices/NNS higher/JJR to/TO cover/VB the/DT extra/JJ cost./NN
+The/DT European/NNP Commission/NNP is/VBZ facing/VBG two/CD legal/JJ challenges/NNS -/: one/CD from/IN the/DT European/NNP Low-fare/NNP Airlines/NNPS Association/NNP (ELAA)/NN and/CC the/DT other/JJ from/IN the/DT International/NNP Air/NNP Transport/NNP Association/NNP (IATA)/NN which/WDT has/VBZ attacked/VBN the/DT package/NN as/IN a/DT "bad/NN piece/NN of/IN legislation"./NN
+Previously/RB passengers/NNS could/MD claim/VB between/IN 150/CD euros/NNS and/CC 300/CD euros/NNS if/IN they/PRP had/VBD been/VBN stopped/VBN from/IN boarding./NN
+
+However/RB only/RB scheduled/VBN flight/NN operators/NNS were/VBD obliged/VBN to/TO offer/VB compensation/NN in/IN cases/NNS of/IN overbooking/VBG and/CC they/PRP did/VBD not/RB have/VB to/TO offer/VB compensation/NN for/IN flight/NN cancellations./NN
+
+The/DT EU/NNP decided/VBD to/TO increase/VB passenger/NN compensation/NN in/IN a/DT bid/NN to/TO deter/VB airlines/NNS from/IN deliberately/RB overbooking/VBG flights./NN
+Overbooking/NNP can/MD often/RB lead/VB to/TO 'bumping'/NN -/: when/WRB a/DT passenger/NN is/VBZ moved/VBN to/TO a/DT later/JJ flight./NN
+When/WRB this/DT happens/VBZ against/IN a/DT passenger's/NNS will/MD airlines/NNS will/MD now/RB have/VB to/TO offer/VB compensation./NN
+In/IN addition/NN if/IN a/DT flight/NN is/VBZ cancelled/VBN or/CC delayed/VBN for/IN more/JJR than/IN two/CD hours/NNS through/IN the/DT fault/NN of/IN the/DT airline/NN all/DT passengers/NNS must/MD be/VB paid/VBN compensation./NN
+
+However/RB airlines/NNS do/VBP not/RB have/VB to/TO offer/VB compensation/NN if/IN flights/NNS are/VBP cancelled/VBN or/CC delayed/VBN due/JJ to/TO "extraordinary/NN circumstances"./NN
+Airlines/NNS fear/NN that/DT "extraordinary/JJ circumstances"/NN may/MD not/RB include/VB bad/JJ weather/NN security/NN alerts/VBZ or/CC strikes/NNS -/: events/NNS which/WDT are/VBP outside/IN of/IN their/PRP$ control./NN
+All/DT EU-based/JJ airlines/NNS and/CC operators/NNS of/IN flights/NNS which/WDT take/VBP off/RP from/IN the/DT EU/NNP will/MD have/VB to/TO adhere/VB to/TO the/DT new/JJ compensation/NN regime/NN which/WDT came/VBD into/IN force/NN on/IN Thursday./NNP
+Low-cost/JJ airlines/NNS have/VBP criticised/VBN the/DT new/JJ compensation/NN levels/NNS arguing/VBG that/IN the/DT pay-out/NN could/MD be/VB worth/JJ more/JJR than/IN the/DT ticket./NN
+"It's/NN a/DT preposterous/JJ piece/NN of/IN legislation/NN we/PRP among/IN all/DT airlines/NNS are/VBP fighting/VBG this"/NN Ryanair/NNP deputy/NN chief/NN executive/NN Michael/NNP Cawley/NNP told/VBD Radio/NNP 4's/CD Today/NN programme./NN
+
+The/DT European/JJ Regions/NNS Airline/NNP Association/NNP (ERAA)/NN claims/VBZ that/IN neither/DT airlines/NNS nor/CC consumers/NNS were/VBD consulted/VBN over/IN the/DT changes./NN
+Andy/NNP Clarke/NNP ERAA/NNP director/NN of/IN air/NN transport/NN said/VBD that/IN the/DT EC/NNP advice/NN misleads/NNS customers/NNS as/IN it/PRP leads/VBZ them/PRP to/TO believe/VB that/IN airlines/NNS could/MD be/VB liable/JJ for/IN payouts/NNS if/IN flights/NNS are/VBP delayed/VBN because/RB of/IN bad/JJ weather./NN
+
+EC/NNP spokeswoman/NN Marja/NNP Quillinan-Meiland/NNP conceded/VBD there/EX were/VBD "grey/NN areas"/NN but/CC said/VBD "these/NN are/VBP not/RB as/RB big/JJ as/IN the/DT airlines/NNS are/VBP making/VBG out"./NN
+In/IN cases/NNS of/IN dispute/NN national/JJ enforcement/NN bodies/NNS would/MD decide/VB whether/IN the/DT passenger/NN had/VBD a/DT case/NN she/PRP said./VBP
+New/JJ technology/NN means/VBZ it/PRP is/VBZ easier/JJR for/IN airlines/NNS to/TO take/VB off/RP and/CC land/NN in/IN bad/JJ weather/NN she/PRP added./VBP
+The/DT ERAA's/NNP Mr/NNP Clarke/NNP also/RB warned/VBD that/IN while/IN airlines/NNS would/MD comply/VB with/IN the/DT new/JJ rules/NNS the/DT extra/JJ costs/NNS would/MD be/VB passed/VBN onto/IN passengers./NN
+"We/NN reckon/VBP it's/NNS going/VBG to/TO cost/VB European/JJ air/NN passengers/NNS -/: not/RB the/DT airlines/NNS the/DT airlines/NNS have/VBP no/DT money/NN it/PRP has/VBZ to/TO be/VB paid/VBN by/IN passengers/NNS -/: 1.5bn/CD euros/NNS that's/NNS over/IN £1bn/CD a/DT year/NN loaded/VBN onto/IN European/JJ passengers"/NN Mr/NNP Clarke/NNP said./NN
+"That's/NN basically/RB a/DT transfer/NN of/IN money/NN from/IN passengers/NNS whose/WP$ journeys/NNS are/VBP not/RB disrupted/VBN to/TO passengers/NNS whose/WP$ journeys/NNS are/VBP disrupted."/JJ
+
+On/IN Wednesday/NNP Jacques/NNP Barrot/NNP vice/NN president/NN of/IN the/DT European/NNP Commission/NNP and/CC also/RB Commissioner/NNP for/IN Transport/NNP said/VBD that/IN the/DT changes/NNS were/VBD necessary./NN
+"The/NN boom/NN in/IN air/NN travel/NN needs/VBZ to/TO be/VB accompanied/VBN by/IN proper/JJ protection/NN of/IN passengers'/NN right."/NN "This/NN is/VBZ a/DT concrete/JJ example/NN of/IN how/WRB the/DT Union/NNP benefits/NNS people's/NNS daily/JJ lives"/NN he/PRP added./VB
+The/DT EC/NNP has/VBZ launched/VBN an/DT information/NN campaign/NN in/IN airports/NNS and/CC travel/NN agencies/NNS to/TO inform/VB airline/NN passengers/NNS of/IN their/PRP$ new/JJ rights./NN

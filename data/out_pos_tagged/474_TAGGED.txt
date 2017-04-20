@@ -1,0 +1,14 @@
+Virgin/NNP Blue/NNP shares/NNS plummet/VBP 20%/CD
+
+Shares/NNS in/IN Australian/JJ budget/NN airline/NN Virgin/NNP Blue/NNP plunged/VBD 20%/CD after/IN it/PRP warned/VBD of/IN a/DT steep/JJ fall/NN in/IN full/JJ year/NN profits./NN
+
+Virgin/NNP Blue/NNP said/VBD profits/NNS after/IN tax/NN for/IN the/DT year/NN to/TO March/NNP would/MD be/VB between/IN 10%/CD to/TO 15%/CD lower/JJR than/IN the/DT previous/JJ year./NN
+"Sluggish/NN demand/NN reported/VBD previously/RB for/IN November/NNP and/CC now/RB December/NNP 2004/CD continues"/NN said/VBD Virgin/NNP Blue/NNP chief/NN executive/NN Brett/NNP Godfrey./NNP
+Virgin/NNP Blue/NNP which/WDT is/VBZ 25%/CD owned/VBN by/IN Richard/NNP Branson/NNP has/VBZ been/VBN struggling/VBG to/TO fend/VB off/RP pressure/NN from/IN rival/JJ Jetstar./NNP
+It/PRP cut/VBP its/PRP$ full/JJ year/NN passenger/NN number/NN forecast/NN by/IN "approximately/RB 2.5%"./CD
+Virgin/NNP Blue/NNP reported/VBD a/DT 22%/CD fall/NN in/IN first/JJ quarter/NN profits/NNS in/IN August/NNP 2004/CD due/JJ to/TO tough/JJ competition./NN
+In/IN November/NNP first/JJ half/NN profits/NNS were/VBD down/RB due/JJ to/TO slack/NN demand/NN and/CC rising/VBG fuel/NN costs./NN
+Virgin/NNP Blue/NNP was/VBD launched/VBN four/CD years/NNS ago/RB and/CC now/RB has/VBZ roughly/RB one/CD third/JJ of/IN Australia's/NNP domestic/JJ airline/NN market./NN
+But/CC the/DT national/JJ carrier/NN Qantas/NNP has/VBZ fought/VBN back/RB with/IN its/PRP$ own/JJ budget/NN airline/NN Jetstar/NNP which/WDT took/VBD to/TO the/DT skies/NNS in/IN May/NNP 2004./CD
+Sydney-listed/NNP Virgin/NNP Blue's/NNP shares/NNS recovered/VBD slightly/RB to/TO close/VB 12%/CD down/RB on/IN Wednesday./NNP
+Shares/NNS in/IN its/PRP$ major/JJ shareholder/NN Patrick/NNP Corporation/NNP -/: which/WDT owns/VBZ 46%/CD of/IN Virgin/NNP Blue/NNP -/: had/VBD dropped/VBN 31%/CD by/IN the/DT close./NN

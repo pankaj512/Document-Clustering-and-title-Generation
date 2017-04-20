@@ -1,0 +1,24 @@
+Global/JJ digital/JJ divide/VBP 'narrowing'/NN
+
+The/DT "digital/JJ divide"/NN between/IN rich/JJ and/CC poor/JJ nations/NNS is/VBZ narrowing/NN fast/RB according/VBG to/TO a/DT World/NNP Bank/NNP report./NN
+
+The/DT World/NNP Bank/NNP questioned/VBD a/DT United/NNP Nation's/NNP campaign/NN to/TO increase/VB usage/NN and/CC access/NN to/TO technology/NN in/IN poorer/JJR nations./NN
+"People/NN in/IN the/DT developing/VBG world/NN are/VBP getting/VBG more/JJR access/NN at/IN an/DT incredible/JJ rate/NN -/: far/RB faster/JJR than.../NN
+in/IN the/DT past"/NN said/VBD the/DT report./NN
+But/CC a/DT spokesman/NN for/IN the/DT UN's/NNP World/NNP Summit/NN on/IN the/DT Information/NNP Society/NNP said/VBD the/DT digital/JJ divide/VBP remained/VBN very/RB real./NN
+"The/NN digital/JJ divide/VBP is/VBZ rapidly/RB closing"/VB the/DT World/NNP Bank/NNP report/NN said./NN
+
+Half/NN the/DT world's/NNS population/NN now/RB has/VBZ access/NN to/TO a/DT fixed-line/JJ telephone/NN the/DT report/NN said/VBD and/CC 77%/CD to/TO a/DT mobile/JJ network./NN
+
+The/DT report's/NNS figures/NNS surpass/VBP a/DT WSIS/NNP campaign/NN goal/NN that/WDT calls/VBZ for/IN 50%/CD access/NN to/TO telephones/NNS by/IN 2015./CD
+The/DT UN/NNP hopes/VBZ that/IN widening/VBG access/NN to/TO technology/NN such/JJ as/IN mobile/JJ phones/NNS and/CC the/DT net/NN will/MD help/VB eradicate/VB poverty./NN
+"Developing/VBG countries/NNS are/VBP catching/VBG up/RP with/IN the/DT rich/JJ world/NN in/IN terms/NNS of/IN access/NN [to/NN mobile/JJ networks]"/NN the/DT report/NN said./NN
+"Africa/NN is/VBZ part/NN of/IN a/DT worldwide/NN trend/NN of/IN rapid/JJ rollout.../NN
+this/DT applies/VBZ to/TO countries/NNS rich/JJ and/CC poor/JJ reformed/VBN or/CC not/RB African/JJ Asian/JJ European/JJ and/CC Latin/NNP American."/NNP
+
+A/DT spokesman/NN for/IN the/DT World/NNP Summit/NN for/IN the/DT Information/NNP Society/NNP (WSIS)/NN which/WDT is/VBZ meeting/VBG this/DT week/NN in/IN Geneva/NNP told/VBD the/DT BBC/NNP News/NNP website/NN "The/NN digital/JJ divide/VBP is/VBZ very/RB much/RB real/JJ and/CC needs/VBZ to/TO be/VB addressed./NN
+"Some/NN financing/NN has/VBZ to/TO be/VB found/VBN to/TO help/VB narrow/JJ the/DT divide."/NN On/IN Tuesday/NNP a/DT meeting/NN of/IN the/DT WSIS/NNP in/IN Geneva/NNP agreed/VBD to/TO the/DT creation/NN of/IN a/DT Digital/NNP Solitary/JJ Fund./NNP
+"The/NN fund/NN is/VBZ voluntary/JJ and/CC will/MD help/VB finance/VB local/JJ community-based/JJ projects"/NN said/VBD the/DT WSIS/NNP spokesman./NN
+Under/IN the/DT proposals/NNS agreed/VBD voluntary/JJ contribution/NN of/IN 1%/CD on/IN contracts/NNS obtained/VBN by/IN private/JJ technology/NN service/NN providers/NNS could/MD be/VB made/VBN to/TO the/DT Digital/NNP Solidarity/NNP Fund./NNP
+The/DT exact/JJ financing/NN mechanism/NN of/IN the/DT fund/NN is/VBZ to/TO be/VB ironed/VBN out/RP in/IN the/DT coming/VBG days/NNS said/VBD the/DT WSIS./NNP
+Sixty/CD percent/NN of/IN resources/NNS collected/VBN by/IN the/DT fund/NN will/MD be/VB made/VBN available/JJ for/IN projects/NNS in/IN least/JJS developed/VBN countries/NNS 30%/CD for/IN projects/NNS in/IN developing/VBG countries/NNS and/CC 10%/CD for/IN projects/NNS in/IN developed/VBN countries./NN

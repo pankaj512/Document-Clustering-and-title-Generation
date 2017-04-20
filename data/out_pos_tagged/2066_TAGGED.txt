@@ -1,0 +1,15 @@
+PC/NN ownership/NN to/TO 'double/JJ by/IN 2010'/CD
+
+The/DT number/NN of/IN personal/JJ computers/NNS worldwide/NN is/VBZ expected/VBN to/TO double/VB by/IN 2010/CD to/TO 1.3/CD billion/CD machines/NNS according/VBG to/TO a/DT report/NN by/IN analysts/NNS Forrester/NNP Research./NNP
+
+The/DT growth/NN will/MD be/VB driven/VBN by/IN emerging/VBG markets/NNS such/JJ as/IN China/NNP Russia/NNP and/CC India/NNP the/DT report/NN predicted./NN
+More/JJR than/IN a/DT third/JJ of/IN all/DT new/JJ PCs/NNS will/MD be/VB in/IN these/DT markets/NNS with/IN China/NNP adding/VBG 178/CD million/CD new/JJ PCs/NNS by/IN 2010/CD it/PRP said./NN
+Low-priced/JJ computers/NNS made/VBN by/IN local/JJ companies/NNS are/VBP expected/VBN to/TO dominate/VB in/IN such/JJ territories/NNS Forrester/NNP said./NN
+The/DT report/NN comes/VBZ less/JJR than/IN a/DT week/NN after/IN IBM/NNP a/DT pioneer/NN of/IN the/DT PC/NN business/NN sold/VBD its/PRP$ PC/NN hardware/NN division/NN to/TO China's/NNP number/NN one/CD computer/NN maker/NN Lenovo./NNP
+
+The/DT $1.75bn/CD (£900m)/CD deal/NN will/MD make/VB the/DT combined/VBN operation/NN the/DT third/JJ biggest/JJS PC/NN vendor/NN in/IN the/DT world./NN
+"Today's/NN products/NNS from/IN Western/JJ PC/NN vendors/NNS won't/NN dominate/NN in/IN those/DT markets/NNS in/IN the/DT long/JJ term"/NN Simon/NNP Yates/NNP a/DT senior/JJ analyst/NN for/IN Forrester/NNP said./NN
+"Instead/NN local/JJ PC/NN makers/NNS like/IN Lenovo/NNP Group/NNP in/IN China/NNP and/CC Aquarius/NNP in/IN Russia/NNP that/WDT can/MD better/JJR tailor/NN the/DT PC/NN form/NN factor/NN price/NN point/NN and/CC applications/NNS to/TO their/PRP$ local/JJ markets/NNS will/MD ultimately/RB win/VB the/DT market/NN share/NN battle"/NN he/PRP said./VB
+There/EX are/VBP currently/RB 575/CD million/CD PCs/NNS in/IN use/NN globally./NN
+The/DT United/NNP States/NNPS Europe/NNP and/CC Asia-Pacific/NNP are/VBP expected/VBN to/TO add/VB 150/CD million/CD new/JJ PCs/NNS by/IN 2010/CD according/VBG to/TO the/DT study./NN
+The/DT report/NN forecast/NN that/IN there/EX will/MD be/VB 80/CD million/CD new/JJ PC/NN users/NNS in/IN India/NNP by/IN 2010/CD and/CC 40/CD million/CD new/JJ users/NNS in/IN Indonesia./NNP

@@ -1,0 +1,12 @@
+Snicket/NN tops/NNS US/PRP box/VBP office/NN chart/NN
+
+The/DT film/NN adaptation/NN of/IN Lemony/NNP Snicket/NNP novels/NNS has/VBZ topped/VBN the/DT North/NNP America/NNP box/NN office/NN chart/NN displacing/JJ Ocean's/NNP 12./CD
+
+A/DT Series/NNP of/IN Unfortunate/JJ Events/NNS starring/VBG Jim/NNP Carrey/NNP took/VBD $30.2m/CD (£15.5m)/CD in/IN its/PRP$ debut/NN weekend./NN
+Ocean's/NNP 12/CD fell/VBD to/TO number/VB two/CD while/IN new/JJ entry/NN Spanglish/NNP entered/VBD the/DT chart/NN at/IN number/NN three/CD taking/VBG $9m/CD (£4.6m)./CD
+A/DT Series/NNP of/IN Unfortunate/JJ Events/NNS also/RB stars/NNS Scottish/JJ comedian/NN Billy/NNP Connelly/NNP while/IN Carrey/NNP takes/VBZ on/IN a/DT number/NN of/IN different/JJ roles/NNS in/IN the/DT surreal/JJ film./NN
+The/DT only/JJ other/JJ new/JJ entry/NN in/IN the/DT top/JJ 10/CD was/VBD re-make/JJ Flight/NNP of/IN the/DT Phoenix/NNP at/IN number/NN eight/CD starring/VBG Dennis/NNP Quaid./NNP
+Carrey/NNP entertained/VBD crowds/NNS at/IN the/DT UK/NNP premiere/NN of/IN Lemony/NNP Snicket/NNP in/IN London/NNP on/IN Friday./NNP
+The/DT actor/NN grabbed/VBD co-star/JJ Meryl/NNP Streep/NNP and/CC whisked/VBD her/PRP around/IN Leicester/NNP Square./NNP
+Based/VBN on/IN the/DT cult/NN children's/NNS books/NNS by/IN author/NN Daniel/NNP Handler/NNP the/DT film/NN follows/VBZ three/CD children/NNS who/WP are/VBP orphaned/VBN when/WRB their/PRP$ parents/NNS die/VBP in/IN a/DT fire./NN
+They/PRP are/VBP taken/VBN in/IN by/IN their/PRP$ wicked/JJ uncle/NN Count/NN Olaf/NNP played/VBN by/IN Carrey/NNP who/WP schemes/VBZ to/TO get/VB his/PRP$ hands/NNS on/IN their/PRP$ fortune./NN

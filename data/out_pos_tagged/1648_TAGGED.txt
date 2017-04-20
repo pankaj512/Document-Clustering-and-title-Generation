@@ -1,0 +1,15 @@
+Bortolami/NNP predicts/VBZ dour/NN contest/NN
+
+Italy/NNP skipper/VB Marco/NNP Bortolami/NNP believes/VBZ Saturday's/NNP Six/CD Nations/NNPS contest/NN against/IN Scotland/NNP will/MD be/VB a/DT scrappy/JJ encounter./NN
+
+With/IN both/DT sides/NNS looking/VBG for/IN their/PRP$ first/JJ win/NN of/IN the/DT championship/NN the/DT third-round/JJ game/NN at/IN Murrayfield/NNP has/VBZ been/VBN billed/VBN as/IN a/DT wooden-spoon/JJ decider./NN
+And/CC Bortolami/NNP feels/VBZ the/DT Edinburgh/NNP contest/NN could/MD end/VB up/RP being/VBG a/DT bruising/VBG battle/NN of/IN the/DT packs./NN
+"It/NN will/MD not/RB be/VB a/DT pretty/JJ game/NN because/IN both/DT teams/NNS are/VBP desperate/JJ to/TO gain/VB their/PRP$ first/JJ win"/NN said/VBD the/DT lock/NN forward./NN
+Italy/NNS have/VBP only/RB recorded/VBN three/CD wins/VBZ since/IN they/PRP joined/VBD the/DT Six/CD Nations/NNPS in/IN 2000/CD but/CC two/CD of/IN those/DT have/VBP come/VBN against/IN Scotland./NNP
+This/DT year/NN Italy/NNP opened/VBD up/RP with/IN a/DT stubborn/JJ display/NN against/IN Ireland/NNP but/CC ended/VBD up/RP losing/VBG 28-17./JJ
+
+However/RB they/PRP were/VBD thoroughly/RB outplayed/VBN by/IN an/DT impressive/JJ Welsh/NNP side/NN in/IN Rome/NNP last/JJ time/NN out./NN
+Now/RB the/DT Italians/NNPS travel/NN to/TO Edinburgh/NNP hoping/VBG to/TO claim/VB their/PRP$ first/JJ away/RB win/VB in/IN the/DT Six/CD Nations./NNP
+"Scotland/NN played/VBD extremely/RB well/RB against/IN France/NNP in/IN Paris/NNP but/CC not/RB so/RB well/RB when/WRB Ireland/NNP came/VBD to/TO Edinburgh"/NNP said/VBD Bortolami./NNP
+"We/NN are/VBP still/RB very/RB disappointed/VBN with/IN our/PRP$ last/JJ game/NN against/IN Wales/NNP in/IN Rome/NNP and/CC we/PRP are/VBP thoroughly/RB determined/VBN to/TO right/VB the/DT wrongs./NN
+"As/NN a/DT nation/NN our/PRP$ quest/NN is/VBZ to/TO be/VB respected/VBN as/IN a/DT team/NN worthy/JJ of/IN a/DT place/NN in/IN this/DT tournament/NN and/CC we/PRP can/MD only/RB do/VB this/DT by/IN winning/VBG games."/NN

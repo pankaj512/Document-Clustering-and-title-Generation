@@ -1,0 +1,21 @@
+BBC/NNP 'should/NN allow/NN more/JJR scrutiny'/NN
+
+MPs/NNS have/VBP urged/VBN the/DT BBC/NNP to/TO give/VB watchdogs/NNS more/JJR freedom/NN to/TO scrutinise/VB how/WRB £2bn/CD in/IN licence/NN fee/NN money/NN is/VBZ spent./NN
+
+The/DT Public/NNP Accounts/NNPS Committee/NNP called/VBD for/IN the/DT National/NNP Audit/NNP Office/NNP to/TO be/VB given/VBN a/DT "free/NN hand"/NN to/TO investigate/VB how/WRB the/DT BBC/NNP offers/VBZ value/NN for/IN money./NN
+Although/IN six/CD areas/NNS are/VBP to/TO be/VB opened/VBN up/IN to/TO scrutiny/NN the/DT audit/NN office/NN should/MD have/VB more/JJR power/NN to/TO choose/VB what/WP it/PRP investigated/VBD the/DT MPs/NNP said./NN
+The/DT call/NN was/VBD made/VBN in/IN a/DT report/NN into/IN the/DT BBC's/NNP Freeview/NNP digital/JJ service./NN
+"Our/NN aim/NN is/VBZ not/RB to/TO rewrite/VB the/DT storyline/NN of/IN EastEnders/NNP but/CC simply/RB to/TO ensure/VB that/IN the/DT BBC/NNP is/VBZ as/RB accountable/JJ to/TO parliament/VB as/IN any/DT other/JJ organisation/NN spending/NN public/JJ money"/NN said/VBD the/DT committee/NN chairman/NN MP/NNP Edward/NNP Leigh./NNP
+"The/NNP BBC's/NNP spending/NN is/VBZ not/RB subject/JJ to/TO the/DT full/JJ independent/JJ scrutiny/NN and/CC accountability/NN to/TO parliament./VB
+"Parliament/NN requires/VBZ television/NN owners/NNS to/TO pay/VB a/DT licence/NN fee/NN and/CC expects/VBZ the/DT comptroller/NN and/CC auditor/NN general/JJ on/IN behalf/NN of/IN parliament/NN to/TO be/VB able/JJ to/TO scrutinise/VB how/WRB that/DT money/NN over/IN £2/CD billion/CD a/DT year/NN is/VBZ used."/NN
+
+A/DT BBC/NNP spokeswoman/NN said/VBD "We/NN share/NN the/DT committee's/NNS interest/NN in/IN ensuring/VBG the/DT public/JJ money/NN we/PRP receive/VBP is/VBZ spent/VBN well./NN
+Though/IN in/IN its/PRP$ infancy/NN we/PRP think/VBP the/DT arrangements/NNS with/IN the/DT NAO/NNP are/VBP working/VBG well/RB and/CC should/MD be/VB given/VBN time/NN to/TO mature."/VB The/DT report/NN said/VBD the/DT Freeview/NNP digital/JJ service/NN has/VBZ had/VBD an/DT "impressive"/NN take/NN up/RP since/IN its/PRP$ launch/NN but/CC the/DT BBC/NNP must/MD still/RB dispel/VB confusion/NN about/IN the/DT service./NN
+The/DT committee/NN found/VBD the/DT BBC/NNP had/VBD succeeded/VBN in/IN ensuring/VBG subscription-free/JJ access/NN to/TO digital/JJ channels/NNS following/VBG the/DT collapse/NN of/IN ITV/NNP Digital/NNP in/IN 2002./CD
+But/CC the/DT fact/NN that/IN one/CD in/IN four/CD homes/NNS could/MD not/RB access/VB Freeview/NNP remained/VBD a/DT problem./NN
+
+The/DT report/NN said/VBD that/IN while/IN gaps/NNS in/IN the/DT coverage/NN were/VBD largely/RB due/JJ to/TO landscape/NN issues/NNS there/RB was/VBD need/NN for/IN detailed/JJ explanations/NNS on/IN the/DT Freeview/NNP website/NN and/CC on/IN promotional/JJ literature/NN as/IN to/TO why/WRB it/PRP was/VBD not/RB available/JJ in/IN specific/JJ areas./NN
+The/DT government/NN has/VBZ proposed/VBN switch/NN off/RP of/IN the/DT analogue/NN television/NN signal/NN with/IN 2012/CD the/DT most/RBS recently/RB proposed/VBN date./NN
+The/DT BBC/NNP launched/VBD Freeview/NNP in/IN 2002/CD as/IN an/DT alternative/NN to/TO satellite/VB subscription/NN services/NNS such/JJ as/IN Sky/NNP to/TO allow/VB its/PRP$ digital/JJ channels/NNS such/JJ as/IN BBC/NNP Three/CD and/CC News/NNP 24/CD to/TO be/VB seen./NN
+There/EX have/VBP been/VBN an/DT estimated/VBN five/CD million/CD Freeview/NNP set-top/JJ boxes/NNS sold/VBN since/IN the/DT launch/NN and/CC prices/NNS have/VBP fallen/VBN considerably./NN
+The/DT corporation/NN plans/VBZ to/TO spend/VB up/IN to/TO £138m/CD on/IN Freeview/NNP before/IN 2014/CD to/TO ensure/VB people/NNS can/MD receive/VB the/DT service/NN throughout/IN the/DT UK/NNP and/CC are/VBP aware/JJ of/IN it./NN

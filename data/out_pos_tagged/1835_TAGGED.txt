@@ -1,0 +1,35 @@
+UK/NNP net/JJ users/NNS leading/VBG TV/NN downloads/NNS
+
+British/JJ TV/NN viewers/NNS lead/VBP the/DT trend/NN of/IN illegally/RB downloading/VBG US/PRP shows/VBZ from/IN the/DT net/JJ according/NN to/TO research./NN
+
+New/JJ episodes/NNS of/IN 24/CD Desperate/JJ Housewives/NNS and/CC Six/CD Feet/NNS Under/IN appear/NN on/IN the/DT web/NN hours/NNS after/IN they/PRP are/VBP shown/VBN in/IN the/DT US/PRP said/VBD a/DT report./NN
+Web/NN tracking/VBG company/NN Envisional/NNP said/VBD 18%/CD of/IN downloaders/NNS were/VBD from/IN within/IN the/DT UK/NNP and/CC that/IN downloads/NNS of/IN TV/NN programmes/NNS had/VBD increased/VBN by/IN 150%/CD in/IN the/DT last/JJ year./NN
+About/IN 70%/CD were/VBD using/VBG file-sharing/JJ program/NN BitTorrent/NNP the/DT firm/JJ said./NN
+"It's/NN now/RB as/RB easy/JJ to/TO download/VB a/DT pirate/NN TV/NN show/NN as/IN it/PRP is/VBZ to/TO programme/VB a/DT VCR"/NNP said/VBD Ben/NNP Coppin/NNP from/IN Envisional./NNP
+A/DT typical/JJ episode/NN of/IN 24/CD was/VBD downloaded/VBN by/IN about/IN 100000/CD people/NNS globally/RB said/VBD the/DT report/NN and/CC an/DT estimated/VBN 20000/CD of/IN those/DT were/VBD from/IN within/IN the/DT UK./NNP
+
+Fans/NNS of/IN many/JJ popular/NN US/PRP TV/VBP programmes/NNS like/IN 24/CD usually/RB have/VBP to/TO wait/VB weeks/NNS or/CC months/NNS until/IN the/DT latest/JJS series/NN is/VBZ shown/VBN in/IN the/DT UK./NNP
+But/CC in/IN some/DT cases/NNS said/VBD the/DT report/NN people/NNS were/VBD able/JJ to/TO watch/VB the/DT new/JJ episodes/NNS in/IN Britain/NNP before/IN US/PRP audiences/VBZ on/IN the/DT west/NN coast/NN of/IN the/DT country./NN
+"Missing/VBG a/DT television/NN show/NN presents/VBZ little/JJ problem/NN to/TO anyone/NN with/IN a/DT basic/JJ knowledge/NN of/IN the/DT internet"/NN explained/VBD Mr/NNP Coppin./NNP
+
+"Two/NN clicks/NNS and/CC your/PRP$ favourite/NN programme/NN is/VBZ downloading./NN
+In/IN effect/NN the/DT internet/JJ is/VBZ now/RB a/DT global/JJ video/NN recorder."/NN Exact/JJ figures/NNS are/VBP difficult/JJ to/TO pin/VB down/RP but/CC it/PRP is/VBZ thought/VBN that/IN about/IN 80000/CD to/TO 100000/CD people/NNS in/IN the/DT UK/NNP download/NN TV/NN programmes./NN
+Some/DT may/MD just/RB want/VB the/DT odd/JJ episode/NN others/NNS are/VBP downloading/VBG regularly./NN
+Many/JJ broadcast/NN analysts/NNS agree/VBP that/IN the/DT net/JJ is/VBZ radically/RB altering/VBG the/DT way/NN people/NNS get/VBP content/NN like/IN TV/NN programmes./NN
+This/DT presents/VBZ a/DT challenge/NN to/TO broadcasters/NNS who/WP are/VBP concerned/VBN that/DT channel/NN schedules/NNS may/MD become/VB less/RBR important/JJ to/TO people./VB
+It/PRP is/VBZ also/RB of/IN concern/NN to/TO them/PRP because/IN advertisements/NNS are/VBP usually/RB cut/VBP out/IN of/IN the/DT downloaded/VBN programmes./NN
+The/DT industry/NN has/VBZ coined/VBN the/DT term/NN "time-shifting"/JJ to/TO describe/VB this/DT trend/NN of/IN being/VBG able/JJ to/TO watch/VB what/WP you/PRP want/VBP when/WRB you/PRP want./VBP
+The/DT increased/VBN popularity/NN of/IN personal/JJ digital/JJ video/NN recorders/NNS TiVo-type/JJ boxes/NNS which/WDT automatically/RB record/NN programmes/NNS like/IN Sky+/NNP have/VBP also/RB contributed/VBN to/TO the/DT trend./NN
+There/EX are/VBP also/RB numerous/JJ programs/NNS available/JJ on/IN the/DT net/JJ which/WDT automatically/RB search/NN and/CC store/NN TV/NN programmes/NNS for/IN viewers/NNS effectively/RB creating/VBG a/DT personal/JJ video/NN recorder/NN on/IN a/DT computer./NN
+
+Within/IN half/PDT an/DT hour/NN recorded/VBN episodes/NNS can/MD be/VB uploaded/VBN -/: or/CC posted/VBD -/: onto/IN file-sharing/JJ networks/NNS or/CC other/JJ download/NN sites./NN
+Because/IN they/PRP tend/VBP to/TO be/VB shorter/RBR then/RB full-length/JJ films/NNS they/PRP can/MD be/VB processed/VBN -/: digitised/VBN -/: quickly./NN
+More/JJR people/NNS with/IN high-speed/JJ broadband/NN connections/NNS in/IN the/DT UK/NNP also/RB means/VBZ that/IN episodes/NNS can/MD be/VB downloaded/VBN quickly./NN
+
+According/VBG to/TO Jupiter/NNP Research/NNP 40%/CD of/IN homes/NNS with/IN broadband/NN say/VBP it/PRP helps/VBZ them/PRP pick/VBP and/CC choose/VB the/DT programmes/NNS they/PRP want/VBP to/TO see/VB or/CC that/IN friends/NNS have/VBP recommended./NN
+The/DT Envisional/NNP reports/NNS said/VBD that/IN the/DT TV/NN industry/NN should/MD consider/VB offering/VBG a/DT legal/JJ way/NN to/TO download/VB shows./NN
+The/DT BBC/NNP ran/VBD a/DT trial/NN of/IN what/WP it/PRP calls/VBZ the/DT Interactive/JJ Media/NNP Player/NNP (iMP)/NN last/JJ year/NN which/WDT was/VBD based/VBN on/IN a/DT peer-to-peer/JJ distribution/NN model./NN
+It/PRP let/VBP people/NNS download/VBP programmes/NNS it/PRP held/VBD the/DT rights/NNS to/TO up/IN to/TO eight/CD days/NNS after/IN they/PRP had/VBD already/RB aired./NN
+It/PRP is/VBZ looking/VBG to/TO do/VB a/DT more/RBR expansive/JJ trial/NN later/RB this/DT year./NN
+The/DT BBC/NNP already/RB allows/VBZ radio/NN fans/NNS to/TO hear/VB programmes/NNS they/PRP missed/VBD online/NN up/IN to/TO a/DT week/NN after/IN broadcast./NN
+About/IN six/CD million/CD people/NNS in/IN the/DT UK/NNP now/RB have/VBP a/DT fast/RB always-on/JJ net/JJ connection/NN via/IN cable/NN or/CC phone/NN lines./NN

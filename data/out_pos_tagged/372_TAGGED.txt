@@ -1,0 +1,10 @@
+Madagascar/NNP completes/VBZ currency/NN switch/NN
+
+Madagascar/NNP has/VBZ completed/VBN the/DT replacement/NN of/IN its/PRP$ Malagasy/NNP franc/NN with/IN a/DT new/JJ currency/NN the/DT ariary./NN
+
+From/IN Monday/NNP all/DT prices/NNS and/CC contracts/NNS will/MD have/VB to/TO be/VB quoted/VBN in/IN the/DT ariary/NN which/WDT was/VBD trading/VBG at/IN 1893/CD to/TO the/DT US/PRP dollar./VBP
+The/DT Malagasy/NNP franc/NN which/WDT lost/VBD almost/RB half/NN its/PRP$ value/NN in/IN 2004/CD is/VBZ no/RB longer/RB legal/JJ tender/NN but/CC will/MD remain/VB exchangeable/JJ at/IN banks/NNS until/IN 2009./CD
+The/DT phasing/VBG out/IN of/IN the/DT franc/NN begun/VBN in/IN July/NNP 2003/CD was/VBD intended/VBN to/TO distance/VB the/DT country/NN from/IN its/PRP$ past/NN under/IN French/JJ colonial/NN rule/NN and/CC address/VB the/DT problem/NN of/IN the/DT large/JJ amount/NN of/IN counterfeit/NN francs/NNS in/IN circulation./NN
+"It's/NN above/IN all/PDT a/DT question/NN of/IN sovereignty"/NN Reuters/NNP quoted/VBD a/DT central/JJ bank/NN official/NN as/IN saying./NN
+"It/NN is/VBZ symbolic/JJ of/IN our/PRP$ independence/NN from/IN the/DT old/JJ colonial/NN ways./NN
+Since/IN we/PRP left/VBD the/DT French/JJ monetary/JJ zone/NN in/IN 1973/CD we/PRP should/MD have/VB our/PRP$ own/JJ currency/NN with/IN its/PRP$ own/JJ name."/NN The/DT ariary/NN was/VBD the/DT name/NN of/IN a/DT pre-colonial/JJ currency/NN in/IN the/DT Indian/NNP Ocean/NNP island/NN state./NN

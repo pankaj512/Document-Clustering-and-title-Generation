@@ -1,0 +1,16 @@
+Economy/NNP 'strong'/NN in/IN election/NN year/NN
+
+UK/NN businesses/NNS are/VBP set/VBN to/TO prosper/VB during/IN the/DT next/JJ few/JJ months/NNS -/: but/CC this/DT could/MD trigger/VB more/JJR interest/NN rate/NN rises/NNS according/VBG to/TO a/DT report./NN
+
+Optimism/NN is/VBZ at/IN its/PRP$ highest/JJS since/IN 1997/CD and/CC business/NN will/MD reap/VB the/DT benefits/NNS of/IN a/DT continuing/VBG rise/NN in/IN public/JJ spending/NN say/VBP researchers/NNS at/IN BDO/NNP Stoy/NNP Hayward./NNP
+The/DT Bank/NNP of/IN England/NNP is/VBZ expected/VBN to/TO keep/VB rates/NNS on/IN hold/VBP this/DT week/NN -/: but/CC they/PRP could/MD go/VB up/RB later/RB in/IN the/DT year./NN
+Rates/NNS are/VBP likely/JJ to/TO rise/VB after/IN the/DT anticipated/VBN general/JJ election/NN in/IN May./NNP
+The/DT BDO/NNP optimism/NN index/NN -/: a/DT leading/VBG indicator/NN of/IN GDP/NNP growth/NN two/CD quarters/NNS ahead/RB edged/VBD up/IN in/IN January/NNP to/TO 102.5/CD from/IN 102.2/CD in/IN October./NNP
+The/DT rise/NN is/VBZ due/JJ in/IN part/NN to/TO an/DT increase/NN in/IN public/JJ spending/NN and/CC increased/VBN merger/NN and/CC acquisition/NN activity./NN
+
+The/DT only/JJ thing/NN blighting/VBG business/NN optimism/NN this/DT year/NN will/MD be/VB uncertainties/NNS associated/VBN with/IN the/DT general/JJ election/NN BDO/NNP said./NN
+Its/PRP$ BDO's/NNP output/NN index/NN -/: which/WDT predicts/VBZ GDP/NNP movements/VBZ a/DT quarter/NN in/IN advance/NN -/: remained/VBD at/IN 100.8/CD for/IN January/NNP implying/VBG GDP/NNP growth/NN at/IN 2.9%/CD in/IN the/DT second/JJ quarter/NN of/IN 2005./CD
+However/RB the/DT output/NN index/NN is/VBZ being/VBG held/VBN back/RB by/IN recent/JJ interest/NN rate/NN rises/NNS sterling's/NNS strength/NN against/IN the/DT dollar/NN and/CC high/JJ oil/NN prices/NNS the/DT group/NN noted./NN
+Its/PRP$ inflation/NN index/NN which/WDT has/VBZ risen/VBN continuously/RB over/IN the/DT last/JJ 8/CD months/NNS climbed/VBD to/TO 110.0/CD in/IN January/NNP from/IN 108.0/CD in/IN October/NNP last/JJ year./NN
+"The/NNP UK/NNP is/VBZ looking/VBG strong/JJ going/VBG into/IN the/DT general/JJ election/NN but/CC businesses/NNS need/VBP to/TO prepare/VB themselves/PRP for/IN a/DT jolt/NN ahead/RB as/IN the/DT Bank/NNP of/IN England/NNP reacts/NNS to/TO growth/NN and/CC inflationary/JJ pressures"/NN said/VBD Peter/NNP Hemington/NNP partner/NN at/IN BDO/NNP Stoy/NNP Hayward./NNP
+"Growth/NN will/MD probably/RB slow/VB by/IN the/DT end/NN of/IN 2005/CD and/CC it/PRP is/VBZ likely/JJ that/IN we/PRP will/MD see/VB higher/JJR interest/NN rates/NNS or/CC a/DT sharp/JJ drop/NN in/IN demand/NN for/IN products/NNS and/CC services."/NN

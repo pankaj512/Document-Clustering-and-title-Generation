@@ -1,0 +1,25 @@
+Thousands/NNS join/VBP strike/NN in/IN Wales/NNP
+
+Thousands/NNS of/IN civil/JJ servants/NNS were/VBD on/IN strike/NN across/IN Wales/NNP on/IN Friday/NNP in/IN protest/NN at/IN planned/VBN job/NN cuts./NN
+
+A/DT range/NN of/IN services/NNS in/IN Wales/NNP were/VBD affected/VBN as/IN civil/JJ servants/NNS in/IN Wales/NNP joined/VBD the/DT UK-wide/NNP strike./NN
+The/DT strike/NN called/VBD by/IN the/DT Public/NNP and/CC Commercial/NNP Services/NNPS Union/NNP was/VBD the/DT biggest/JJS by/IN civil/JJ servants/NNS in/IN a/DT decade./NN
+The/DT action/NN follows/VBZ Chancellor/NNP Gordon/NNP Brown's/NNP announcement/NN in/IN July/NNP that/IN 104000/CD jobs/NNS would/MD be/VB cut/VBN with/IN around/IN 6000/CD of/IN those/DT expected/VBN in/IN Wales./NNP
+The/DT worst-affected/JJ area/NN in/IN Wales/NNP will/MD be/VB the/DT Department/NNP of/IN Work/NN and/CC Pensions/NNS where/WRB 2000/CD jobs/NNS are/VBP threatened./NN
+Across/IN Wales/NNP pickets/NNS were/VBD held/VBN by/IN striking/JJ civil/JJ servants/NNS with/IN protests/NNS in/IN towns/NNS and/CC cities/NNS including/VBG Cardiff/NNP Bangor/NNP Aberystwyth/NNP and/CC Wrexham./NNP
+Gordon/NNP Brown/NNP issued/VBD a/DT defiant/JJ statement/NN about/IN the/DT strike/NN saying/VBG the/DT action/NN would/MD not/RB affect/VB the/DT government's/NNS "determination"/NN to/TO make/VB savings/NNS in/IN order/NN to/TO increase/VB investment/NN in/IN healthcare/NN education/NN transport/NN and/CC the/DT fight/NN against/IN crime./NN
+"Our/NN decisions/NNS mean/VBP more/JJR police/NN more/JJR teachers/NNS more/JJR doctors/NNS and/CC more/JJR nurses"/NN he/PRP said./VB
+"We/NN will/MD provide/VB help/VB with/IN information/NN relocation/NN and/CC retraining/VBG to/TO help/VB staff/VB move/NN into/IN frontline/NN work/NN within/IN the/DT public/JJ sector/NN but/CC we/PRP will/MD not/RB be/VB diverted/VBN from/IN these/DT necessary/JJ changes/NNS so/IN that/IN we/PRP can/MD make/VB this/DT essential/JJ investment."/NN The/DT UK-wide/NNP action/NN hit/VBD Jobcentres/NNP benefit/NN agencies/NNS pensions/NNS offices/NNS and/CC driving/VBG test/NN centres./NN
+The/DT strike/NN also/RB affected/VBD the/DT Welsh/NNP assembly/NN building/NN in/IN Cardiff/NNP Bay/NNP where/WRB only/JJ pass-holders/NNS were/VBD allowed/VBN in./NN
+
+Pickets/NNPS were/VBD in/IN place/NN across/IN Wales/NNP with/IN protests/NNS around/IN the/DT country./NN
+PCS/NNP Union/NNP spokesman/NN Jeff/NNP Evans/NNP said/VBD "In/NN Wales/NNP the/DT civil/JJ service/NN is/VBZ major/JJ employer/NN there/EX are/VBP more/RBR civil/JJ servants/NNS employed/VBN in/IN Wales/NNP proportionately/RB than/IN in/IN any/DT other/JJ part/NN of/IN the/DT country./NN
+"Our/NN protest/NN is/VBZ about/IN defending/VBG jobs/NNS and/CC also/RB local/JJ services/NNS across/IN the/DT country./NN
+"Parts/NN of/IN Objective/NN One/CD areas/NNS and/CC Welsh-speaking/NNP areas/NNS will/MD be/VB particularly/RB affected/VBN by/IN these/DT cuts."/NN The/DT chancellor/NN has/VBZ said/VBN that/IN the/DT cuts/NNS will/MD allow/VB funding/NN for/IN more/JJR teachers/NNS and/CC police./NN
+Piers/NNP Freelove/NNP is/VBZ senior/JJ benefit/NN officer/NN on/IN the/DT picket/NN line/NN at/IN Companies/NNS House/NNP in/IN Cardiff./NNP
+He/PRP said/VBD "The/NN majority/NN of/IN people/NNS have/VBP decided/VBN not/RB to/TO come/VB in/IN because/IN of/IN the/DT threat/NN to/TO their/PRP$ jobs./NN
+"I/NN joined/VBD the/DT civil/JJ service/NN to/TO provide/VB services/NNS as/RB well/RB as/IN get/VBP a/DT decent/JJ pension/NN as/IN we/PRP thought/VBD and/CC pay/VB and/CC it's/VBZ those/DT services/NNS that/WDT are/VBP being/VBG threatened/VBN as/RB well/RB as/IN our/PRP$ jobs./NN
+"People/NN like/IN pensioners/NNS need/VBP a/DT face-to-face/JJ service/NN not/RB an/DT impersonal/JJ service/NN on/IN the/DT phone/NN which/WDT is/VBZ what/WP they/PRP want/VBP to/TO impose."/VB PCSU/NNP deputy/NN general/JJ secretary/NN Hugh/NNP Lanning/NNP who/WP was/VBD on/IN the/DT same/JJ picket/NN line/NN said/VBD "We're/NN asking/VBG for/IN them/PRP to/TO negotiate/VB not/RB just/RB to/TO make/VB announcements./NN
+"There's/NN a/DT sensible/JJ way/NN to/TO do/VB things/NNS and/CC at/IN the/DT moment/NN they're/NN not/RB even/RB talking/VBG about/IN how/WRB to/TO go/VB about/IN it/PRP sensibly."/NN "The/NN ballot/NN was/VBD for/IN one/CD day's/NNS action./NN
+No/DT further/JJ action/NN is/VBZ anticipated/VBN without/IN a/DT further/JJ ballot/NN of/IN staff."/NN The/DT Welsh/NNP Assembly/NNP Government/NNP said/VBD "This/NN is/VBZ a/DT strike/NN about/IN national/JJ civil/JJ service/NN issues./NN
+It/PRP is/VBZ not/RB about/IN specific/JJ issues/NNS local/JJ to/TO Wales/NNP or/CC the/DT assembly./NN

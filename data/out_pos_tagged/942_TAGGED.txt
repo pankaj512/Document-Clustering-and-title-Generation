@@ -1,0 +1,24 @@
+Blair/NNP and/CC Blunkett/NNP Sheffield/NNP trip/NN
+
+Tony/NNP Blair/NNP is/VBZ to/TO join/VB Home/NNP Secretary/NNP David/NNP Blunkett/NNP in/IN a/DT visit/NN to/TO Sheffield/NNP on/IN Thursday./NNP
+
+Mr/NNP Blunkett's/NNP conduct/VB is/VBZ being/VBG looked/VBN at/IN to/TO establish/VB whether/IN he/PRP abused/VBD his/PRP$ position/NN in/IN relation/NN to/TO his/PRP$ ex-lover./NN
+The/DT Parliamentary/JJ standards/NNS watchdog/NN is/VBZ looking/VBG at/IN his/PRP$ decision/NN to/TO give/VB Kimberly/NNP Quinn/NNP free/JJ rail/NN tickets./NN
+He/PRP is/VBZ also/RB being/VBG investigated/VBD over/IN the/DT visa/NN application/NN of/IN Mrs/NNP Quinn's/NNP ex-nanny./NN
+The/DT visit/NN to/TO Sheffield/NNP will/MD be/VB seen/VBN as/IN a/DT show/NN of/IN unity/NN by/IN Mr/NNP Blair./NNP
+
+On/IN Wednesday/NNP during/IN Prime/NNP Minister's/NNP Questions/NNS Tory/NNP leader/NN Michael/NNP Howard/NNP went/VBD on/IN the/DT offensive/NN over/IN comments/NNS Mr/NNP Blunkett/NNP is/VBZ alleged/VBN to/TO have/VB made/VBN in/IN a/DT new/JJ biography./NN
+He/PRP is/VBZ understood/VBN to/TO have/VB made/VBN a/DT series/NN of/IN criticisms/NNS about/IN his/PRP$ Cabinet/NNP colleagues/NNS from/IN the/DT prime/JJ minister/NN down./NN
+Mr/NNP Howard/NNP said/VBD Mr/NNP Blunkett/NNP had/VBD complained/VBN he/PRP had/VBD inherited/VBN a/DT "giant/JJ mess"/NN when/WRB he/PRP took/VBD over/RP at/IN the/DT Home/NNP Office/NNP from/IN Jack/NNP Straw/NNP now/RB foreign/JJ secretary./NN
+The/DT Tory/NNP leader/NN went/VBD on/IN "He/NN doesn't/NN stop/NN there/EX he/PRP thinks/VBZ the/DT culture/NN secretary's/NNS weak/JJ he/PRP thinks/VBZ the/DT trade/NN secretary/NN doesn't/NN think/VBP strategically/RB and/CC he/PRP thinks/VBZ the/DT education/NN secretary/NN hasn't/NN developed/VBN as/IN expected./NN
+"He/NN says/VBZ the/DT prime/JJ minister/NN doesn't/NN like/IN being/VBG told/VBD the/DT truth/NN and/CC the/DT chancellor/NN -/: no/DT doubt/NN the/DT prime/JJ minister/NN will/MD agree/VB with/IN this/DT -/: is/VBZ a/DT bully."/NN Mr/NNP Blair/NNP retorted/VBD voters/NNS remembered/VBD the/DT record/NN of/IN a/DT government/NN and/CC no/DT comments/NNS by/IN politicians./NN
+
+The/DT home/NN secretary/NN has/VBZ already/RB admitted/VBN he/PRP was/VBD wrong/JJ to/TO give/VB the/DT two/CD first/JJ class/NN tickets/NNS given/VBN to/TO him/PRP as/IN an/DT MP/NNP to/TO Mrs/NNP Quinn/NNP and/CC has/VBZ since/IN paid/VBN the/DT £180/CD back./NN
+He/PRP has/VBZ apologised/VBN for/IN "a/NN genuine/JJ mistake"/NN and/CC says/VBZ he/PRP will/MD write/VB to/TO the/DT watchdog/NN to/TO answer/VB further/JJ questions./NN
+The/DT rail/NN tickets/NNS are/VBP meant/VBN to/TO help/VB MPs'/NNP spouses/NNS get/VBP between/IN Westminster/NNP and/CC their/PRP$ constituencies./NN
+After/IN his/PRP$ inquiry/NN Parliamentary/JJ watchdog/NN Sir/NNP Philip/NNP Mawer/NNP will/MD report/VB to/TO the/DT Commons/NNPS Standards/NNP and/CC Privileges/NNS Committee/NNP the/DT group/NN of/IN MPs/NNP who/WP will/MD recommend/VB to/TO the/DT full/JJ House/NNP of/IN Commons/NNPS what/WP action/NN -/: if/IN any/DT -/: should/MD be/VB taken/VBN against/IN Mr/NNP Blunkett./NNP
+
+The/DT separate/JJ inquiry/NN by/IN ex-senior/NN civil/JJ servant/NN Sir/NNP Alan/NNP Budd/NNP is/VBZ investigating/VBG whether/IN the/DT home/NN secretary/NN helped/VBD fast-track/JJ a/DT bid/NN by/IN Mrs/NNP Quinn's/NNP nanny/NN Leoncia/NNP Casalme/NNP to/TO stay/VB in/IN the/DT UK./NNP
+Last/JJ week/NN Mr/NNP Blunkett/NNP won/VBD the/DT first/JJ round/NN of/IN a/DT High/NNP Court/NNP battle/NN with/IN Mrs/NNP Quinn/NNP for/IN access/NN to/TO her/PRP$ son./NN
+Mr/NNP Blunkett/NNP declined/VBD to/TO comment/VB about/IN his/PRP$ own/JJ position/NN saying/VBG the/DT inquiry/NN was/VBD under/IN way/NN and/CC the/DT High/NNP Court/NNP had/VBD stressed/VBN his/PRP$ right/NN to/TO privacy/NN did/VBD not/RB affect/VB his/PRP$ job/NN in/IN improving/VBG security/NN and/CC stability./NN
+Downing/NNP Street/NNP has/VBZ stressed/VBN Mr/NNP Blair's/NNP support/NN for/IN the/DT home/NN secretary./NN

@@ -1,0 +1,41 @@
+Ink/NN helps/VBZ drive/NN democracy/NN in/IN Asia/NNP
+
+The/DT Kyrgyz/NNP Republic/NNP a/DT small/JJ mountainous/JJ state/NN of/IN the/DT former/JJ Soviet/JJ republic/NN is/VBZ using/VBG invisible/JJ ink/NN and/CC ultraviolet/NN readers/NNS in/IN the/DT country's/NNS elections/NNS as/IN part/NN of/IN a/DT drive/NN to/TO prevent/VB multiple/JJ voting./NN
+
+This/DT new/JJ technology/NN is/VBZ causing/VBG both/DT worries/NNS and/CC guarded/VBN optimism/NN among/IN different/JJ sectors/NNS of/IN the/DT population./NN
+In/IN an/DT effort/NN to/TO live/VB up/RP to/TO its/PRP$ reputation/NN in/IN the/DT 1990s/CD as/IN "an/NN island/NN of/IN democracy"/NN the/DT Kyrgyz/NNP President/NNP Askar/NNP Akaev/NNP pushed/VBD through/IN the/DT law/NN requiring/VBG the/DT use/NN of/IN ink/NN during/IN the/DT upcoming/VBG Parliamentary/JJ and/CC Presidential/JJ elections./NN
+The/DT US/PRP government/VBP agreed/VBD to/TO fund/VB all/DT expenses/NNS associated/VBN with/IN this/DT decision./NN
+
+The/DT Kyrgyz/NNP Republic/NNP is/VBZ seen/VBN by/IN many/JJ experts/NNS as/IN backsliding/VBG from/IN the/DT high/JJ point/NN it/PRP reached/VBD in/IN the/DT mid-1990s/NNS with/IN a/DT hastily/RB pushed/VBN through/IN referendum/NN in/IN 2003/CD reducing/VBG the/DT legislative/JJ branch/NN to/TO one/CD chamber/NN with/IN 75/CD deputies./NN
+The/DT use/NN of/IN ink/NN is/VBZ only/RB one/CD part/NN of/IN a/DT general/JJ effort/NN to/TO show/VB commitment/NN towards/IN more/RBR open/JJ elections/NNS -/: the/DT German/JJ Embassy/NNP the/DT Soros/NNP Foundation/NNP and/CC the/DT Kyrgyz/NNP government/NN have/VBP all/DT contributed/VBD to/TO purchase/VB transparent/JJ ballot/NN boxes./NN
+
+The/DT actual/JJ technology/NN behind/IN the/DT ink/NN is/VBZ not/RB that/DT complicated./NN
+The/DT ink/NN is/VBZ sprayed/VBN on/IN a/DT person's/NNS left/VBD thumb./NN
+It/PRP dries/VBZ and/CC is/VBZ not/RB visible/JJ under/IN normal/JJ light./NN
+
+However/RB the/DT presence/NN of/IN ultraviolet/NN light/JJ (of/NN the/DT kind/NN used/VBN to/TO verify/VB money)/NN causes/VBZ the/DT ink/NN to/TO glow/VB with/IN a/DT neon/NN yellow/JJ light./NN
+At/IN the/DT entrance/NN to/TO each/DT polling/NN station/NN one/CD election/NN official/NN will/MD scan/VB voter's/NNS fingers/NNS with/IN UV/NNP lamp/NN before/IN allowing/VBG them/PRP to/TO enter/VB and/CC every/DT voter/NN will/MD have/VB his/her/NN left/VBD thumb/NN sprayed/VBN with/IN ink/NN before/IN receiving/VBG the/DT ballot./NN
+If/IN the/DT ink/NN shows/VBZ under/IN the/DT UV/NNP light/VBD the/DT voter/NN will/MD not/RB be/VB allowed/VBN to/TO enter/VB the/DT polling/NN station./NN
+Likewise/RB any/DT voter/NN who/WP refuses/VBZ to/TO be/VB inked/VBN will/MD not/RB receive/VB the/DT ballot./NN
+These/DT elections/NNS are/VBP assuming/VBG even/RB greater/JJR significance/NN because/IN of/IN two/CD large/JJ factors/NNS -/: the/DT upcoming/VBG parliamentary/JJ elections/NNS are/VBP a/DT prelude/NN to/TO a/DT potentially/RB regime/NN changing/VBG presidential/JJ election/NN in/IN the/DT Autumn/NN as/RB well/RB as/IN the/DT echo/NN of/IN recent/JJ elections/NNS in/IN other/JJ former/JJ Soviet/JJ Republics/NNS notably/RB Ukraine/NNP and/CC Georgia./NNP
+The/DT use/NN of/IN ink/NN has/VBZ been/VBN controversial/JJ -/: especially/RB among/IN groups/NNS perceived/VBN to/TO be/VB pro-government./JJ
+
+Widely/RB circulated/VBN articles/NNS compared/VBD the/DT use/NN of/IN ink/NN to/TO the/DT rural/JJ practice/NN of/IN marking/VBG sheep/NN -/: a/DT still/RB common/JJ metaphor/NN in/IN this/DT primarily/RB agricultural/JJ society./NN
+
+The/DT author/NN of/IN one/CD such/JJ article/NN began/VBD a/DT petition/NN drive/NN against/IN the/DT use/NN of/IN the/DT ink./NN
+The/DT greatest/JJS part/NN of/IN the/DT opposition/NN to/TO ink/VB has/VBZ often/RB been/VBN sheer/JJ ignorance./NN
+Local/JJ newspapers/NNS have/VBP carried/VBN stories/NNS that/IN the/DT ink/NN is/VBZ harmful/JJ radioactive/JJ or/CC even/RB that/IN the/DT ultraviolet/NN readers/NNS may/MD cause/VB health/NN problems./NN
+Others/NNS such/JJ as/IN the/DT aggressively/JJ middle/NN of/IN the/DT road/NN Coalition/NNP of/IN Non-governmental/NNP Organizations/NNP have/VBP lauded/VBN the/DT move/NN as/IN an/DT important/JJ step/NN forward./NN
+This/DT type/NN of/IN ink/NN has/VBZ been/VBN used/VBN in/IN many/JJ elections/NNS in/IN the/DT world/NN in/IN countries/NNS as/RB varied/VBN as/IN Serbia/NNP South/NNP Africa/NNP Indonesia/NNP and/CC Turkey./NNP
+The/DT other/JJ common/JJ type/NN of/IN ink/NN in/IN elections/NNS is/VBZ indelible/JJ visible/JJ ink/NN -/: but/CC as/IN the/DT elections/NNS in/IN Afghanistan/NNP showed/VBD improper/JJ use/NN of/IN this/DT type/NN of/IN ink/NN can/MD cause/VB additional/JJ problems./NN
+The/DT use/NN of/IN "invisible"/NN ink/NN is/VBZ not/RB without/IN its/PRP$ own/JJ problems./NN
+In/IN most/JJS elections/NNS numerous/JJ rumors/NNS have/VBP spread/NN about/IN it./NN
+
+In/IN Serbia/NNP for/IN example/NN both/DT Christian/NNP and/CC Islamic/NNP leaders/NNS assured/VBD their/PRP$ populations/NNS that/IN its/PRP$ use/NN was/VBD not/RB contrary/JJ to/TO religion./VB
+Other/JJ rumours/NNS are/VBP associated/VBN with/IN how/WRB to/TO remove/VB the/DT ink/NN -/: various/JJ soft/JJ drinks/NNS solvents/NNS and/CC cleaning/VBG products/NNS are/VBP put/VBN forward./NN
+However/RB in/IN reality/NN the/DT ink/NN is/VBZ very/RB effective/JJ at/IN getting/VBG under/IN the/DT cuticle/NN of/IN the/DT thumb/NN and/CC difficult/JJ to/TO wash/VB off./NN
+The/DT ink/NN stays/VBZ on/IN the/DT finger/NN for/IN at/IN least/JJS 72/CD hours/NNS and/CC for/IN up/IN to/TO a/DT week./NN
+The/DT use/NN of/IN ink/NN and/CC readers/NNS by/IN itself/PRP is/VBZ not/RB a/DT panacea/NN for/IN election/NN ills./NN
+The/DT passage/NN of/IN the/DT inking/NN law/NN is/VBZ nevertheless/RB a/DT clear/JJ step/NN forward/RB towards/IN free/JJ and/CC fair/JJ elections."/NN The/DT country's/NNS widely/RB watched/VBN parliamentary/JJ elections/NNS are/VBP scheduled/VBN for/IN 27/CD February./NNP
+
+David/NNP Mikosz/NNP works/VBZ for/IN the/DT IFES/NNP an/DT international/JJ non-profit/JJ organisation/NN that/WDT supports/VBZ the/DT building/NN of/IN democratic/JJ societies./NN

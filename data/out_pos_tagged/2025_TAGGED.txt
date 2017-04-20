@@ -1,0 +1,28 @@
+How/WRB to/TO make/VB a/DT gigapixel/NN picture/NN
+
+The/DT largest/JJS digital/JJ panoramic/JJ photo/NN in/IN the/DT world/NN has/VBZ been/VBN created/VBN by/IN researchers/NNS in/IN the/DT Netherlands./NNP
+
+The/DT finished/VBN image/NN is/VBZ 2.5/CD billion/CD pixels/NNS in/IN size/NN -/: making/VBG it/PRP about/IN 500/CD times/NNS the/DT resolution/NN of/IN images/NNS produced/VBN by/IN good/JJ consumer/NN digital/JJ cameras./NN
+The/DT huge/JJ image/NN of/IN Delft/NNP was/VBD created/VBN by/IN stitching/VBG together/RB 600/CD single/JJ snaps/NNS of/IN the/DT Dutch/JJ city/NN taken/VBN at/IN a/DT fixed/VBN spot./NN
+If/IN printed/VBN out/RP in/IN standard/JJ 300/CD dots/NNS per/IN inch/NN resolution/NN the/DT picture/NN would/MD be/VB 2.5m/CD high/JJ and/CC 6m/CD long./NN
+
+The/DT researchers/NNS have/VBP put/VBN the/DT image/NN on/IN a/DT website/NN which/WDT lets/VBZ viewers/NNS explore/VBP the/DT wealth/NN of/IN detail/NN that/IN it/PRP captures./NN
+Tools/NNS on/IN the/DT page/NN let/NN viewers/NNS zoom/NN in/RP on/IN the/DT city/NN and/CC its/PRP$ surroundings/NNS in/IN great/JJ detail./NN
+The/DT website/NN is/VBZ already/RB proving/VBG popular/JJ and/CC currently/RB has/VBZ more/JJR than/IN 200000/CD visitors/NNS every/DT day./NN
+
+The/DT image/NN was/VBD created/VBN by/IN imaging/NN experts/NNS from/IN the/DT Dutch/JJ research/NN and/CC technology/NN laboratory/NN TNO/NNP which/WDT created/VBD the/DT 2.5/CD gigapixel/NN photo/NN as/IN a/DT summer/NN time/NN challenge./NN
+
+The/DT goal/NN of/IN the/DT project/NN was/VBD to/TO be/VB one/CD of/IN the/DT first/JJ groups/NNS to/TO make/VB gigapixel/NN images./NN
+The/DT first/JJ image/NN of/IN such/PDT a/DT size/NN was/VBD manually/RB constructed/VBN by/IN US/PRP photographer/VBP Max/NNP Lyons/NNP in/IN November/NNP 2003./CD
+That/DT image/NN portrayed/VBN Bryce/NNP Canyon/NNP National/NNP Park/NNP in/IN Utah/NNP and/CC was/VBD made/VBN up/RP of/IN 196/CD separate/JJ photographs./NN
+The/DT panorama/NN of/IN Delft/NNP is/VBZ a/DT little/RB staid/JJ in/IN contrast/NN to/TO the/DT dramatic/JJ rockscape/NN captured/VBN in/IN Mr/NNP Lyons'/NNP image./NN
+"He/NN did/VBD it/PRP all/DT by/IN hand/NN which/WDT was/VBD an/DT enormous/JJ effort/NN and/CC we/PRP got/VBD the/DT idea/NN that/IN if/IN you/PRP use/VBP automatic/JJ techniques/NNS it/PRP would/MD be/VB feasible/JJ to/TO build/VB a/DT larger/JJR image"/NN said/VBD Jurgen/NNP den/NN Hartog/NNP one/CD of/IN the/DT TNO/NNP researchers/NNS behind/IN the/DT project./NN
+"We/NN were/VBD not/RB competing/VBG with/IN Mr/NNP Lyons/NNP but/CC it/PRP started/VBD as/IN a/DT lunchtime/NN bet."/NN
+
+The/DT Dutch/JJ team/NN used/VBN already/RB available/JJ technologies/NNS although/IN it/PRP had/VBD to/TO upgrade/VB them/PRP to/TO be/VB able/JJ to/TO handle/VB the/DT high-resolution/JJ image./NN
+
+"We/NN had/VBD to/TO rewrite/VB almost/RB all/PDT the/DT tools"/NN Me/PRP den/VBP Hartog/NNP told/VBD the/DT BBC/NNP News/NNP website./NN
+"All/NN standard/NN Windows/NNS viewers/NNS available/JJ would/MD not/RB be/VB able/JJ to/TO load/VB such/PDT a/DT large/JJ image/NN so/IN we/PRP had/VBD to/TO develop/VB one/CD ourselves."/NN The/DT 600/CD component/NN pictures/NNS were/VBD taken/VBN on/IN July/NNP 2004/CD by/IN a/DT computer-controlled/JJ camera/NN with/IN a/DT 400/CD mm/NN lens./NN
+Each/DT image/NN was/VBD made/VBN to/TO slightly/RB overlap/VB so/IN they/PRP could/MD be/VB accurately/RB arranged/VBN into/IN a/DT composite./NN
+The/DT stitching/VBG process/NN was/VBD also/RB done/VBN automatically/RB using/VBG five/CD powerful/JJ PCs/NNS over/IN three/CD days./NN
+Following/VBG the/DT success/NN of/IN this/DT project/NN and/CC with/IN promises/VBZ of/IN help/NN from/IN others/NNS the/DT TNO/NNP team/NN is/VBZ considering/VBG creating/VBG a/DT full/JJ 360-degree/JJ panoramic/JJ view/NN of/IN another/DT Dutch/JJ city/NN with/IN even/RB higher/JJR resolution./NN

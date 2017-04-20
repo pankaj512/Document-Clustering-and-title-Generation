@@ -1,0 +1,22 @@
+Halo/NN 2/CD sells/VBZ five/CD million/CD copies/NNS
+
+Microsoft/NNP is/VBZ celebrating/VBG bumper/NN sales/NNS of/IN its/PRP$ Xbox/NNP sci-fi/JJ shooter/NN Halo/NN 2./CD
+
+The/DT game/NN has/VBZ sold/VBN more/RBR than/IN five/CD million/CD copies/NNS worldwide/NN since/IN it/PRP went/VBD on/IN sale/NN in/IN mid-November/NNP the/DT company/NN said./NN
+Halo/NN 2/CD has/VBZ proved/VBN popular/JJ online/NN with/IN gamers/NNS notching/VBG up/RP a/DT record/NN 28/CD million/CD hours/NNS playing/VBG the/DT game/NN on/IN Xbox/NNP Live./NNP
+According/VBG to/TO Microsoft/NNP nine/CD out/IN of/IN 10/CD Xbox/NNP Live/JJ members/NNS have/VBP played/VBN the/DT game/NN for/IN an/DT average/NN of/IN 91/CD minutes/NNS per/IN session./NN
+
+The/DT sequel/NN to/TO the/DT best-selling/JJS Need/VBP for/IN Speed/NN Underground/JJ has/VBZ inched/VBN ahead/RB of/IN the/DT competition/NN to/TO take/VB the/DT top/JJ slot/NN in/IN the/DT official/JJ UK/NNP games/NNS charts./NN
+The/DT racing/VBG game/NN moved/VBD up/RB one/CD spot/NN to/TO first/JJ place/NN nudging/VBG GTA/NNP San/NNP Andreas/NNP down/RB to/TO second/JJ place./NN
+Halo/NN 2/CD dropped/VBD one/CD place/NN to/TO five/CD while/IN Half-Life/NN 2/CD fell/VBD to/TO number/VB nine./NN
+Last/JJ week's/VBZ new/JJ releases/NNS GoldenEye/NNP Rogue/NNP Agent/NNP and/CC Killzone/NNP both/DT failed/VBD to/TO make/VB it/PRP into/IN the/DT top/JJ 10/CD debuting/VBG at/IN number/NN 11/CD and/CC 12/CD respectively./NN
+
+Record/NNP numbers/NNS of/IN Warcraft/NNP fans/NNS are/VBP settling/VBG in/IN the/DT games/NNS online/NN world./NN
+On/IN the/DT opening/NN day/NN of/IN the/DT World/NNP of/IN Warcraft/NNP massive/JJ multi-player/JJ online/NN game/NN more/JJR than/IN 200000/CD players/NNS signed/VBD up/IN to/TO play./VB
+On/IN the/DT evening/NN of/IN the/DT first/JJ day/NN more/JJR than/IN 100000/CD players/NNS were/VBD in/IN the/DT world/NN forcing/VBG Blizzard/NNP to/TO add/VB another/DT 34/CD servers/NNS to/TO cope/VB with/IN the/DT influx./NN
+The/DT online/NN game/NN turns/VBZ the/DT stand/NN alone/RB Warcraft/NNP games/NNS into/IN a/DT persistent/JJ world/NN that/IN players/NNS can/MD inhabit/VB not/RB just/RB visit/NN
+
+Europe's/NN gamers/NNS could/MD be/VB waiting/VBG until/IN January/NNP to/TO hear/VB when/WRB they/PRP can/MD get/VB their/PRP$ mitts/NNS on/IN Nintendo's/NNP handheld/JJ device/NN Nintendo/NNP DS/NNP says/VBZ gamesindustry.biz./NN
+David/NNP Yarnton/NNP Nintendo/NNP UK/NNP general/JJ manager/NN told/VBD a/DT press/NN conference/NN to/TO look/VB out/RP for/IN details/NNS in/IN the/DT New/NNP Year./NNP
+Its/PRP$ US/PRP launch/VBP was/VBD on/IN Sunday/NNP and/CC it/PRP goes/VBZ on/IN sale/NN in/IN Japan/NNP on/IN 2/CD December./NNP
+Nintendo/NNP has/VBZ a/DT 95%/CD share/NN of/IN the/DT handheld/JJ gaming/NN market/NN and/CC said/VBD it/PRP expected/VBD to/TO sell/VB around/IN five/CD million/CD of/IN the/DT DS/NNP by/IN March/NNP 2005./CD

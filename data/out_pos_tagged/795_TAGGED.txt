@@ -1,0 +1,15 @@
+Rapper/NNP 50/CD Cent/NN scores/NNS chart/VBP first/RB
+
+Rapper/NNP 50/CD Cent/NN has/VBZ become/VBN the/DT first/JJ solo/NN artist/NN to/TO have/VB three/CD singles/NNS in/IN the/DT US/PRP top/JJ five/CD in/IN the/DT same/JJ week./NN
+
+His/PRP$ track/NN Candy/NN Shop/NNP remained/VBD at/IN the/DT top/NN of/IN the/DT charts/NNS while/IN Disco/NN Inferno/NN crept/VBD up/RP from/IN six/CD to/TO five./VB
+50/CD Cent/NN also/RB appears/VBZ on/IN rap/NN protege/NN The/DT Game's/NNP song/NN How/WRB We/PRP do/VBP number/NN four/CD in/IN the/DT US/PRP but/CC now/RB outside/IN the/DT UK/NNP top/JJ ten./NN
+The/DT pair/NN had/VBD a/DT recent/JJ dispute/NN which/WDT saw/VBD The/DT Game/NNP thrown/VBD out/IN of/IN 50/CD Cent's/NNP rap/NN collective/JJ G-Unit/NNP accusing/VBG him/PRP of/IN disloyalty/NN in/IN an/DT ongoing/JJ feud./NN
+
+50/CD Cent/NN who/WP burst/VBP onto/IN the/DT music/NN scene/NN in/IN 2003/CD has/VBZ had/VBN less/JJR success/NN in/IN the/DT UK/NNP charts/NNS with/IN three/CD singles/NNS making/VBG the/DT top/JJ ten./NN
+His/PRP$ debut/NN album/NN Get/VB Rich/NNP And/CC Die/VB Tryin'/NNP narrowly/RB missed/VBD out/RP on/IN becoming/VBG a/DT UK/NNP chart/NN topper./NN
+
+But/CC in/IN the/DT US/PRP he/PRP headed/VBD the/DT 2003/CD end/NN of/IN year/NN charts/NNS for/IN the/DT album/NN and/CC R&B/NNP and/CC hip/NN hop/NN artists./NN
+Newcomer/NN The/DT Game's/NNP debut/NN reached/VBD the/DT top/NN of/IN the/DT charts/NNS five/CD weeks/NNS ago/RB while/IN 50/CD Cent's/NNP second/JJ collection/NN The/DT Masscre/NNP was/VBD released/VBN in/IN the/DT US/PRP at/IN the/DT end/NN of/IN last/JJ week./NN
+Last/JJ May/NNP R&B/NNP star/NN Usher/NNP scored/VBD a/DT chart/NN first/RB with/IN three/CD concurrent/JJ singles/NNS in/IN the/DT US/PRP Top/JJ 10/CD a/DT feat/NN which/WDT was/VBD previously/RB matched/VBN only/RB by/IN The/DT Bee/NNP Gees/NNP and/CC The/DT Beatles./NNP
+The/DT hit/VBN songs/NNS were/VBD taken/VBN from/IN the/DT 24-year-old's/JJ Confessions/NNS album/NN which/WDT topped/VBD the/DT American/JJ chart/NN for/IN eight/CD weeks./NN

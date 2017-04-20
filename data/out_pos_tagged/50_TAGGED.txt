@@ -1,0 +1,21 @@
+Bad/JJ weather/NN hits/NNS Nestle/NNP sales/NNS
+
+A/DT combination/NN of/IN bad/JJ weather/NN rising/VBG raw/JJ material/NN costs/NNS and/CC the/DT sluggish/JJ European/JJ economy/NN has/VBZ hit/VBN sales/NNS at/IN Swiss/JJ food/NN and/CC drink/NN giant/NN Nestle./NNP
+
+Revenue/NN dipped/VBD 1.4%/CD to/TO 86.7bn/CD Swiss/JJ francs/NNS ($74.6bn/CD £39.1bn)/CD in/IN 2004/CD as/IN sales/NNS of/IN ice/NN cream/NN and/CC mineral/NN water/NN were/VBD dampened/VBN by/IN the/DT wet/JJ summer./NN
+However/RB Nestle's/NNP profits/NNS margins/NNS were/VBD helped/VBN by/IN a/DT strong/JJ performance/NN in/IN the/DT Americas/NNPS and/CC China./NNP
+Nestle/NNP is/VBZ to/TO raise/VB its/PRP$ dividend/NN by/IN 11%/CD after/IN paying/VBG back/RP some/DT of/IN its/PRP$ debt./NN
+
+Nestle/NNP said/VBD that/IN the/DT strength/NN of/IN the/DT Swiss/JJ franc/NN against/IN the/DT US/PRP dollar/VBP the/DT disposal/NN of/IN businesses/NNS and/CC challenging/VBG trading/NN conditions/NNS in/IN Europe/NNP all/DT dented/VBN sales./NN
+A/DT poor/JJ summer/NN across/IN the/DT continent/NN -/: in/IN contrast/NN to/TO the/DT prolonged/VBN heat/NN wave/NN in/IN 2003/CD -/: "severely/RB affected"/NN demand/NN for/IN ice/NN cream./NN
+Sales/NNS of/IN bottled/JJ water/NN also/RB fell/VBD although/IN chocolate/NN coffee/NN frozen/JJ goods/NNS and/CC petcare/NN products/NNS performed/VBD better./NN
+
+Elsewhere/RB Nestle/NNP said/VBD it/PRP had/VBD enjoyed/VBN an/DT "exceptional"/NN year/NN in/IN North/NNP America/NNP outperforming/VBG the/DT market/NN in/IN terms/NNS of/IN sales/NNS growth./NN
+Nestle/NNP added/VBD that/IN it/PRP had/VBD performed/VBN strongly/RB in/IN Africa/NNP and/CC Asia/NNP despite/IN the/DT impact/NN of/IN high/JJ oil/NN prices/NNS and/CC political/JJ instability./NN
+Nestle's/NNP total/JJ earnings/NNS before/IN interest/NN remained/VBD broadly/RB flat/JJ over/IN the/DT past/JJ year/NN despite/IN the/DT company/NN managing/VBG to/TO boost/VB profit/NN margins./NN
+As/RB well/RB as/IN increasing/VBG its/PRP$ dividend/NN Nestle/NNP plans/VBZ to/TO buy/VB back/RP shares/NNS worth/JJ 1bn/CD Swiss/JJ francs/NNS ($861m/CD £451m)./CD
+Looking/VBG forward/RB Nestle/NNP forecasts/NNS organic/JJ earnings/NNS growth/NN of/IN about/IN 5%/CD in/IN 2005/CD although/IN it/PRP warned/VBD that/IN trading/NN would/MD remain/VB just/RB as/IN competitive./NN
+
+Uncertainty/NN remains/VBZ over/IN the/DT future/NN of/IN Perrier/NNP the/DT iconic/JJ French/JJ mineral/NN water/NN owned/VBN by/IN Nestle./NNP
+Perrier/NNP has/VBZ been/VBN locked/VBN in/IN a/DT long-standing/JJ dispute/NN with/IN unions/NNS about/IN productivity/NN levels/NNS at/IN the/DT business/NN which/WDT has/VBZ lead/VBN Nestle/NNP to/TO consider/VB selling/VBG the/DT firm./NN
+"The/NN option/NN of/IN selling/NN is/VBZ Perrier/NNP is/VBZ still/RB on/IN the/DT table"/NN chief/NN executive/NN Peter/NNP Brabeck-Letmathe/NNP confirmed/VBD on/IN Thursday./NNP

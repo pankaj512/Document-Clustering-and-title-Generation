@@ -1,0 +1,22 @@
+Firms/NNS pump/VBP billions/NNS into/IN pensions/NNS
+
+Employers/NNS have/VBP spent/VBN billions/NNS of/IN pounds/NNS propping/VBG up/RP their/PRP$ final/JJ salary/NN pensions/NNS over/IN the/DT past/JJ year/NN research/NN suggests./NN
+
+A/DT survey/NN of/IN 280/CD schemes/NNS by/IN Incomes/NNS Data/NNP Services'/NNP (IDS)/NN said/VBD employer/NN contributions/NNS had/VBD increased/VBN from/IN £5.5bn/CD to/TO £8.2bn/CD a/DT year/NN a/DT rise/NN of/IN 49.7%./CD
+Companies/NNS facing/VBG the/DT biggest/JJS deficits/NNS had/VBD raised/VBN their/PRP$ pension/NN contributions/NNS by/IN 100%/CD or/CC more/JJR IDS/NNP said./NN
+Many/JJ firms/NNS are/VBP struggling/VBG to/TO keep/VB this/DT type/NN of/IN scheme/NN open/JJ because/IN of/IN rising/VBG costs/NNS and/CC increased/VBN liabilities./NN
+A/DT final/JJ salary/NN scheme/NN also/RB known/VBD as/IN a/DT defined/VBN benefit/NN scheme/NN promises/VBZ to/TO pay/VB a/DT pension/NN related/VBN to/TO the/DT salary/NN the/DT scheme/NN member/NN is/VBZ earning/VBG when/WRB they/PRP retire./VBP
+
+The/DT rising/VBG cost/NN of/IN maintaining/VBG such/JJ schemes/NNS has/VBZ led/VBN many/JJ employers/NNS to/TO replace/VB final/JJ salary/NN schemes/NNS with/IN money/NN purchase/NN or/CC defined/VBN contribution/NN schemes./NN
+These/DT are/VBP less/RBR risky/JJ for/IN employers./NN
+Under/IN money/NN purchase/NN schemes/NNS employees/NNS pay/VBP into/IN a/DT pension/NN fund/NN which/WDT is/VBZ used/VBN to/TO buy/VB an/DT annuity/NN -/: a/DT policy/NN which/WDT pays/VBZ out/RP an/DT income/NN until/IN death/NN -/: on/IN retirement./NN
+
+IDS/NNP said/VBD there/EX were/VBD some/DT schemes/NNS in/IN good/JJ health./NN
+
+But/CC in/IN many/JJ cases/NNS firms/NNS had/VBD been/VBN forced/VBN to/TO top/VB up/RP funds/NNS to/TO tackle/VB "yawning/VBG deficits"./NN
+The/DT level/NN of/IN contributions/NNS paid/VBN by/IN employers/NNS has/VBZ increased/VBN gradually/RB since/IN the/DT late/JJ 1990s./CD
+In/IN 1998/99/CD for/IN example/NN contributions/NNS rose/VBD by/IN 4.7%/CD and/CC in/IN 2002/03/CD by/IN 8.6%./CD
+In/IN contrast/NN between/IN 1996/CD and/CC 1998/CD some/DT employers/NNS cut/NN their/PRP$ contribution/NN levels./NN
+Helen/NNP Sudell/NNP editor/NN of/IN the/DT IDS/NNP Pensions/NNS Service/NNP said/VBD the/DT rise/NN in/IN contributions/NNS was/VBD "staggering"/NN and/CC the/DT highest/JJS ever/RB recorded/VBN by/IN IDS./NNP
+"We/NN have/VBP warned/VBN before/IN that/IN the/DT widespread/JJ closure/NN of/IN final/JJ salary/NN schemes/NNS to/TO new/JJ entrants/NNS is/VBZ just/RB the/DT beginning/NN of/IN a/DT much/RB bigger/JJR movement/NN away/RB from/IN paternalistic/JJ provision"/NN said/VBD Ms/NNP Sudell./NNP
+"With/NN figures/NNS like/IN this/DT there/EX can/MD be/VB little/JJ doubt/NN that/IN many/JJ employers/NNS will/MD have/VB to/TO reduce/VB future/JJ benefits/NNS at/IN some/DT point/NN for/IN those/DT staff/NN still/RB in/IN these/DT schemes."/NN

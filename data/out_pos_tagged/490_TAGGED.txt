@@ -1,0 +1,18 @@
+Brazil/NNP jobless/JJ rate/NN hits/VBZ new/JJ low/JJ
+
+Brazil's/NNP unemployment/NN rate/NN fell/VBD to/TO its/PRP$ lowest/JJS level/NN in/IN three/CD years/NNS in/IN December/NNP according/VBG to/TO the/DT government./NN
+
+The/DT Brazilian/JJ Institute/NNP for/IN Geography/NN and/CC Statistics/NNPS (IBGE)/NN said/VBD it/PRP fell/VBD to/TO 9.6%/CD in/IN December/NNP from/IN 10.6%/CD in/IN November/NNP and/CC 10.9%/CD in/IN December/NNP 2003./CD
+IBGE/NNP also/RB said/VBD that/IN average/JJ monthly/JJ salaries/NNS grew/VBD 1.9%/CD in/IN December/NNP 2004/CD from/IN December/NNP 2003./CD
+However/RB average/JJ monthly/JJ wages/NNS fell/VBD 1.8%/CD in/IN December/NNP to/TO 895.4/CD reais/NNS ($332/CD £179.3)/CD from/IN November./NNP
+Tuesday's/NN figures/NNS represent/VBP the/DT first/JJ time/NN that/IN the/DT unemployment/NN rate/NN has/VBZ fallen/VBN to/TO a/DT single/JJ digit/NN since/IN new/JJ measurement/NN rules/NNS were/VBD introduced/VBN in/IN 2001./CD
+The/DT unemployment/NN rate/NN has/VBZ been/VBN falling/VBG gradually/RB since/IN April/NNP 2004/CD when/WRB it/PRP reached/VBD a/DT peak/NN of/IN 13.1%./CD
+The/DT jobless/JJ rate/NN average/NN for/IN the/DT whole/NN of/IN 2004/CD was/VBD 11.5%/CD down/RB from/IN 12.3%/CD in/IN 2003/CD the/DT IBGE/NNP said./NN
+
+This/DT improvement/NN can/MD be/VB attributed/VBN to/TO the/DT country's/NNS strong/JJ economic/JJ growth/NN with/IN the/DT economy/NN registering/VBG growth/NN of/IN 5.2%/CD in/IN 2004/CD the/DT government/NN said./NN
+The/DT economy/NN is/VBZ expected/VBN to/TO grow/VB by/IN about/IN 4%/CD this/DT year./NN
+President/NNP Luiz/NNP Inacio/NNP Lula/NNP da/NNP Silva/NN promised/VBN to/TO reduce/VB unemployment/NN when/WRB he/PRP was/VBD elected/VBN two/CD years/NNS ago./NN
+Nevertheless/RB some/DT analysts/NNS say/VBP that/DT unemployment/NN could/MD increase/VB in/IN the/DT next/JJ months./NN
+"The/NN data/NNS is/VBZ favourable/JJ but/CC a/DT lot/NN of/IN jobs/NNS are/VBP temporary/JJ for/IN the/DT (Christmas)/NN holiday/NN season/NN so/IN we/PRP may/MD see/VB slightly/RB higher/JJR joblessness/NN in/IN January/NNP and/CC February"/NNP Julio/NNP Hegedus/NNP chief/NN economist/NN with/IN Lopes/NNP Filho/NNP &/CC Associates/NNP consultancy/NN in/IN Rio/NNP de/NNP Janeir/NNP told/VBD Reuters/NNP news/NN agency./NN
+Despite/IN his/PRP$ leftist/JJ background/NN President/NNP Lula/NNP has/VBZ pursued/VBN a/DT surprisingly/RB conservative/JJ economic/JJ policy/NN arguing/VBG that/IN in/IN order/NN to/TO meet/VB its/PRP$ social/JJ promises/VBZ the/DT government/NN needs/VBZ to/TO first/JJ reach/VB a/DT sustained/VBN economic/JJ growth./NN
+The/DT unemployment/NN rate/NN is/VBZ measured/VBN in/IN the/DT six/CD main/JJ metropolitan/JJ areas/NNS of/IN Brazil/NNP (Sao/NN Paolo/NNP Rio/NNP de/IN Janeiro/NNP Belo/NNP Horizonte/NNP Recife/NNP Salvador/NNP and/CC Porto/NNP Alegre)/NNP where/WRB most/JJS of/IN the/DT population/NN is/VBZ concentrated./NN

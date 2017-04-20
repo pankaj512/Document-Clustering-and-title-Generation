@@ -1,0 +1,13 @@
+Muslim/NNP group/NN attacks/NNS TV/NN drama/NN 24/CD
+
+A/DT British/NNP Muslim/NNP group/NN has/VBZ criticised/VBN the/DT new/JJ series/NN of/IN US/PRP drama/VBP 24/CD which/WDT is/VBZ about/IN to/TO be/VB aired/VBN on/IN Sky/NNP One/CD claiming/VBG it/PRP portrays/VBZ Islam/NNP unfairly./NN
+
+The/DT Muslim/NNP Council/NNP of/IN Britain/NNP has/VBZ complained/VBN to/TO broadcasting/NN watchdog/NN Ofcom./NNP
+It/PRP says/VBZ the/DT programme/NN breaches/NNS editorial/NN guidelines./NN
+The/DT group's/NNS members/NNS met/VBD with/IN Sky/NNP executives/NNS on/IN Tuesday/NNP after/IN viewing/VBG previews/NNS of/IN the/DT first/JJ five/CD episodes./NN
+The/DT drama/NN now/RB in/IN its/PRP$ fourth/JJ series/NN begins/VBZ on/IN Sunday/NNP evening./NN
+The/DT new/JJ series/NN portrays/VBZ a/DT Muslim/NNP family/NN as/IN a/DT sleeper/NN terrorist/JJ cell./NN
+The/DT Muslim/NNP Council/NNP of/IN Britain/NNP said/VBD in/IN a/DT statement/NN "We/NN are/VBP greatly/RB concerned/VBN by/IN the/DT unremittingly/RB hostile/JJ and/CC unbalanced/JJ portrayal/NN of/IN Muslims/NNPS in/IN this/DT series/NN of/IN 24/CD based/VBN upon/IN a/DT preview/NN of/IN the/DT first/JJ five/CD episodes/NNS that/IN we/PRP have/VBP seen."/NN "There/NN is/VBZ not/RB a/DT single/JJ positive/JJ Muslim/NNP character/NN in/IN the/DT storyline/NN to/TO date./VB
+At/IN a/DT time/NN when/WRB negative/JJ stereotypes/NNS of/IN Muslims/NNPS are/VBP on/IN the/DT increase/NN we/PRP feel/VBP that/IN Sky/NNP -/: as/IN a/DT major/JJ UK/NNP broadcaster/NN -/: has/VBZ a/DT responsibility/NN to/TO challenge/VB these/DT insidious/JJ views/NNS not/RB help/VBP to/TO reinforce/VB them."/NN But/CC Sky/NNP denied/VBD the/DT programme/NN breached/VBD broadcasting/NN guidelines./NN
+A/DT spokesperson/NN said/VBD "During/VBG a/DT useful/JJ meeting/NN yesterday/NN Sky/NNP listened/VBD to/TO the/DT concerns/NNS raised/VBN by/IN representatives/NNS of/IN the/DT council./NN
+Sky/NNP does/VBZ not/RB believe/VB that/IN the/DT episodes/NNS that/IN it/PRP has/VBZ reviewed/VBN to/TO date/VB breach/NN Ofcom's/NNP programme/NN code."/NN Fox/NNP TV/NN which/WDT shows/VBZ the/DT series/NN in/IN the/DT US/PRP is/VBZ broadcasting/NN public/JJ service/NN announcements/NNS showing/VBG Muslims/NNPS in/IN a/DT positive/JJ light/NN after/IN complaints/NNS about/IN the/DT series./NN

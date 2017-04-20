@@ -1,0 +1,17 @@
+Singer/NNP Ferguson/NNP 'facing/VBG eviction'/NN
+
+Three/CD Degrees/NNS star/NN Sheila/NNP Ferguson/NNP is/VBZ the/DT favourite/NN to/TO be/VB evicted/VBN from/IN ITV's/NNP I'm/NNP A/NNP Celebrity.../NNP
+Get/VB Me/PRP Out/IN Of/IN Here/RB on/IN Monday./NNP
+
+Bookmakers/NNP Ladbrokes/NNP says/VBZ the/DT singer/NN has/VBZ even/RB odds/NNS of/IN being/VBG the/DT first/JJ contestant/NN to/TO be/VB voted/VBN off/RP the/DT show./NN
+"It's/NN going/VBG to/TO be/VB close/VBN but/CC Sheila/NNP is/VBZ favourite/NN as/IN she/PRP has/VBZ shown/VBN herself/PRP to/TO be/VB a/DT bit/NN of/IN a/DT troublemaker"/NN said/VBD Ladbrokes'/NNP Warren/NNP Lush./NNP
+Comic/JJ Joe/NNP Pasquale/NNP remains/VBZ odds/NNS on/IN favourite/NN to/TO win/VB the/DT reality/NN show./NN
+Mr/NNP Lush/NN added/VBD that/IN Nancy/NNP Sorrell's/NNP chances/NNS of/IN an/DT early/JJ departure/NN had/VBD increased/VBN since/IN the/DT surprise/NN arrival/NN of/IN husband/NN Vic/NNP Reeves/NNP in/IN the/DT jungle/NN camp/NN last/JJ Wednesday./NNP
+Notwithstanding/IN comedian/NN Reeves/NNP remains/VBZ 3/1/CD favourite/NN to/TO win/VB the/DT show/NN after/IN Pasquale./NNP
+
+Huggy/NNP Bear/NNP actor/NN Antonio/NNP Fargas/NNP also/RB remains/VBZ a/DT contender/NN for/IN eviction/NN having/VBG "done/NN nothing/NN to/TO live/VB up/IN to/TO the/DT pre-show/JJ hype"./NN
+"There/NN has/VBZ been/VBN a/DT big/JJ gamble/NN on/IN Natalie/NNP [Appleton]/NN to/TO go.../VB
+but/CC bookies/NNS fancy/VBP the/DT millions/NNS at/IN home/NN will/MD keep/VB piling/VBG on/IN the/DT misery/NN by/IN putting/VBG her/PRP through/IN more/JJR bushtucker/NN trials"/NN added/VBD Mr/NNP Lush./NNP
+The/DT former/JJ All/DT Saint/NNP star/NN has/VBZ performed/VBN dismally/JJ in/IN bushtucker/NN trials/NNS which/WDT have/VBP seen/VBN her/PRP$ plunged/VBD into/IN glass/NN tanks/NNS containing/VBG putrid/NN waste/NN and/CC challenged/VBN to/TO eat/VB fish/NN eyes./NN
+On/IN Friday/NNP Ladbrokes/NNP suspended/VBD betting/VBG after/IN singer/NN Brian/NNP Harvey/NNP quit/VBD the/DT show/NN folllowing/VBG a/DT blazing/VBG row/NN with/IN Janet/NNP Street-Porter./NNP
+Harvey/NNP who/WP entered/VBD the/DT camp/NN a/DT day/NN later/RB than/IN other/JJ contestants/NNS after/IN learning/VBG that/IN his/PRP$ grandmother/NN had/VBD died/VBN reached/VBN the/DT end/NN of/IN his/PRP$ tether/NN following/VBG days/NNS of/IN meagre/NN rations/NNS and/CC rows./NN

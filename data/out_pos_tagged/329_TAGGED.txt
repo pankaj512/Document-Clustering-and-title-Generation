@@ -1,0 +1,18 @@
+House/NN prices/NNS drop/NN as/IN sales/NNS slow/JJ
+
+House/NN prices/NNS fell/VBD further/RBR in/IN November/NNP and/CC property/NN sale/NN times/NNS lengthened/VBN as/IN rate/NN rises/NNS took/VBD their/PRP$ toll/NN the/DT Royal/NNP Institute/NNP of/IN Chartered/JJ Surveyors/NNP found./NN
+
+A/DT total/NN of/IN 48%/CD of/IN chartered/VBN surveyor/NN estate/NN agents/NNS reported/VBD lower/JJR prices/NNS in/IN the/DT three/CD months/NNS to/TO November/NNP -/: the/DT highest/JJS level/NN in/IN 12/CD years./NN
+Meanwhile/RB the/DT number/NN of/IN sales/NNS dropped/VBD 32%/CD to/TO an/DT average/NN of/IN 22/CD per/IN surveyor./NN
+The/DT amount/NN of/IN unsold/JJ properties/NNS on/IN their/PRP$ books/NNS rose/VBD for/IN the/DT sixth/JJ month/NN in/IN a/DT row/NN to/TO an/DT average/NN of/IN 67/CD properties./NN
+"The/NN slowdown/NN occurring/VBG in/IN the/DT market/NN has/VBZ given/VBN buyers/NNS more/JJR power/NN to/TO negotiate/VB but/CC this/DT time/NN of/IN year/NN is/VBZ traditionally/RB a/DT quiet/JJ one"/NN RICS/NNP housing/NN spokesman/NN Ian/NNP Perry/NNP said./NN
+"The/NN decision/NN by/IN the/DT Bank/NNP of/IN England/NNP not/RB to/TO increase/VB interest/NN rates/NNS further/RB and/CC the/DT healthy/JJ economy/NN is/VBZ allowing/VBG confidence/NN to/TO consolidate."/VB
+
+The/DT figures/NNS support/VBP recent/JJ data/NNS from/IN the/DT government/NN and/CC other/JJ bodies/NNS which/WDT all/DT point/NN to/TO a/DT slowdown/NN in/IN the/DT housing/NN market./NN
+On/IN Monday/NNP the/DT Council/NNP of/IN Mortgage/NNP Lenders/NNP British/NNP Bankers/NNPS Association/NNP and/CC Building/NNP Societies/NNS Association/NNP all/DT said/VBD mortgage/NN lending/NN was/VBD slowing./NN
+The/DT figures/NNS were/VBD published/VBN as/IN another/DT survey/NN by/IN property/NN website/NN Rightmove/NNP said/VBD the/DT average/JJ asking/NN price/NN of/IN a/DT home/NN fell/VBD by/IN more/JJR than/IN £600/CD from/IN £190329/CD in/IN November/NNP to/TO £189733/CD in/IN December./NNP
+Around/IN the/DT UK/NNP the/DT Midlands/NNP and/CC South/NNP saw/VBD the/DT biggest/JJS price/NN falls/VBZ while/IN London/NNP prices/NNS fell/VBD but/CC at/IN less/JJR than/IN the/DT national/JJ rate./NN
+In/IN Scotland/NNP where/WRB prices/NNS have/VBP remained/VBN on/IN an/DT upward/JJ path/NN increases/NNS were/VBD more/JJR "moderate"/NN RICS/NNP added./NN
+But/CC the/DT news/NN failed/VBD to/TO dent/VB confidence/NN that/IN sales/NNS will/MD recover/VB in/IN future/NN with/IN surveyors/NNS at/IN their/PRP$ most/RBS optimistic/JJ in/IN a/DT year/NN -/: as/IN new/JJ purchase/NN inquiries/NNS stabilised/VBN despite/IN holding/VBG at/IN lower/JJR levels./NN
+"Sales/NN usually/RB pick/VBP up/RP in/IN the/DT New/NNP Year/NN and/CC I/PRP am/VBP confident/JJ this/DT year/NN will/MD be/VB no/DT exception"/NN Mr/NNP Perry/NNP added./NN
+Looking/VBG ahead/RB the/DT group/NN is/VBZ anticipating/VBG a/DT quiet/JJ start/NN to/TO 2005/CD with/IN the/DT market/NN picking/VBG up/RP in/IN the/DT second/JJ half/NN -/: prompting/VBG a/DT 3%/CD rise/NN in/IN prices/NNS over/IN the/DT coming/VBG 12/CD months./NN

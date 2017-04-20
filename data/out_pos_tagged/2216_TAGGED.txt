@@ -1,0 +1,18 @@
+Broadband/NNP fuels/NNS online/NN expression/NN
+
+Fast/RB web/NN access/NN is/VBZ encouraging/VBG more/JJR people/NNS to/TO express/VB themselves/PRP online/VBP research/NN suggests./NN
+
+A/DT quarter/NN of/IN broadband/NN users/NNS in/IN Britain/NNP regularly/RB upload/NN content/NN and/CC have/VBP personal/JJ sites/NNS according/VBG to/TO a/DT report/NN by/IN UK/NNP think-tank/NN Demos./NNP
+It/PRP said/VBD that/IN having/VBG an/DT always-on/JJ fast/RB connection/NN is/VBZ changing/VBG the/DT way/NN people/NNS use/VBP the/DT internet./JJ
+More/JJR than/IN five/CD million/CD households/NNS in/IN the/DT UK/NNP have/VBP broadband/NN and/CC that/DT number/NN is/VBZ growing/VBG fast./NN
+
+The/DT Demos/NNP report/NN looked/VBD at/IN the/DT impact/NN of/IN broadband/NN on/IN people's/NNS net/JJ habits./NN
+It/PRP found/VBD that/IN more/JJR than/IN half/NN of/IN those/DT with/IN broadband/NN logged/VBN on/RP to/TO the/DT web/NN before/IN breakfast./NN
+One/CD in/IN five/CD even/RB admitted/VBN to/TO getting/VBG up/RP in/IN the/DT middle/NN of/IN the/DT night/NN to/TO browse/VB the/DT web./NN
+
+More/RBR significantly/RB argues/VBZ the/DT report/NN broadband/NN is/VBZ encouraging/VBG people/NNS to/TO take/VB a/DT more/RBR active/JJ role/NN online./NN
+It/PRP found/VBD that/IN one/CD in/IN five/CD post/NN something/NN on/IN the/DT net/JJ everyday/JJ ranging/NN from/IN comments/NNS or/CC opinions/NNS on/IN sites/NNS to/TO uploading/VBG photographs./NN
+"Broadband/NN is/VBZ putting/VBG the/DT 'me'/NN in/IN media/NNS as/IN it/PRP shifts/VBZ power/NN from/IN institutions/NNS and/CC into/IN the/DT hands/NNS of/IN the/DT individual"/NN said/VBD John/NNP Craig/NNP co-author/NN of/IN the/DT Demos/NNP report./NN
+"From/NN self-diagnosis/NN to/TO online/VB education/NN broadband/NN creates/VBZ social/JJ innovation/NN that/WDT moves/VBZ the/DT debate/NN beyond/IN simple/JJ questions/NNS of/IN access/NN and/CC speed."/VB The/DT Demos/NNP report/NN entitled/VBN Broadband/NNP Britain/NNP The/DT End/NN Of/IN Asymmetry?/NNP was/VBD commissioned/VBN by/IN net/JJ provider/NN AOL./NNP
+"Broadband/NN is/VBZ moving/VBG the/DT perception/NN of/IN the/DT internet/NN as/IN a/DT piece/NN of/IN technology/NN to/TO an/DT integral/JJ part/NN of/IN home/NN life/NN in/IN the/DT UK"/NNP said/VBD Karen/NNP Thomson/NNP Chief/NNP Executive/NNP of/IN AOL/NNP UK/NNP "with/NN many/JJ people/NNS spending/VBP time/NN on/IN their/PRP$ computers/NNS as/RB automatically/RB as/IN they/PRP might/MD switch/VB on/IN the/DT television/NN or/CC radio."/NN According/VBG to/TO analysts/NNS Nielsen//NetRatings/NNP more/JJR than/IN 50%/CD of/IN the/DT 22.8/CD million/CD UK/NNP net/JJ users/NNS regularly/RB accessing/VBG the/DT web/NN from/IN home/NN each/DT month/NN are/VBP logging/VBG on/IN at/IN high/JJ speed/NN They/PRP spend/VBP twice/RB as/IN long/JJ online/NN than/IN people/NNS on/IN dial-up/JJ connections/NNS viewing/VBG an/DT average/NN of/IN 1444/CD pages/NNS per/IN month./NN
+The/DT popularity/NN of/IN fast/RB net/JJ access/NN is/VBZ growing/VBG partly/RB fuelled/VBN by/IN fierce/JJ competition/NN over/IN prices/NNS and/CC services./NN

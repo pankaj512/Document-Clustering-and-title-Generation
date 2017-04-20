@@ -1,0 +1,15 @@
+Mutant/JJ book/NN wins/VBZ Guardian/NNP prize/NN
+
+A/DT book/NN about/IN the/DT evolution/NN of/IN mutants/NNS and/CC the/DT science/NN of/IN abnormality/NN has/VBZ won/VBN the/DT Guardian/NNP First/NNP Book/NNP Award/NN 2004./CD
+
+Armand/NNP Marie/NNP Leroi/NNP a/DT lecturer/NN at/IN London's/NNP Imperial/NNP College/NNP scooped/VBD the/DT £10000/CD prize/NN for/IN Mutants/NNP On/IN the/DT form/NN varieties/NNS and/CC errors/NNS of/IN the/DT human/JJ body./NN
+"It/NN is/VBZ profoundly/RB cultured/VBN and/CC beautifully/RB written/VBN in/IN the/DT very/RB best/JJS tradition/NN of/IN popular/JJ science/NN writing/VBG today"/NN said/VBD judge/NN Claire/NNP Armistead./NNP
+The/DT award/NN recognises/NNS and/CC rewards/VBZ new/JJ writing/NN across/IN fiction/NN and/CC non-fiction./JJ
+A/DT panel/NN of/IN literary/JJ experts/NNS including/VBG novelists/NNS Hari/NNP Kunzru/NNP and/CC Ali/NNP Smith/NNP director/NN Sir/NNP Richard/NNP Eyre/NNP and/CC comedian/NN Alexei/NNP Sayle/NNP chose/VBD the/DT winner/NN from/IN a/DT five-strong/JJ shortlist./NN
+
+The/DT shortlist/NN included/VBD Susanna/NNP Clarke's/NNP Jonathan/NNP Strange/JJ and/CC Mr/NNP Norrell/NNP a/DT novel/NN about/IN the/DT magic/JJ arts/NNS at/IN the/DT turn/NN of/IN the/DT 19th/JJ Century/NNP and/CC The/DT Places/NNPS In/IN Between/IN Rory/NNP Stewart's/NNP account/NN of/IN his/PRP$ trek/NN on/IN foot/NN across/IN Afghanistan./NNP
+"What/NN we/PRP found/VBD so/RB impressive/JJ about/IN Armand/NNP Marie/NNP Leroi's/NNP book/NN was/VBD the/DT scope/NN of/IN its/PRP$ reference/NN its/PRP$ elegance/NN and/CC its/PRP$ inquisitiveness"/NN said/VBD Ms/NNP Armistead/NNP chair/NN of/IN the/DT judges/NNS and/CC the/DT Guardian/NNP literary/JJ editor./NN
+"While/NN the/DT subject/JJ matter/NN of/IN Mutants/NNP unsettled/VBD some/DT involved/VBN in/IN the/DT judging/VBG process/NN the/DT overwhelming/JJ majority/NN found/VBD it/PRP fascinating"/NN she/PRP added./VBP
+Her/PRP$ words/NNS were/VBD echoed/VBN by/IN Iris/NNP director/NN Sir/NNP Richard/NNP Eyre/NNP who/WP called/VBD Marie/NNP Leroi's/NNP work/NN "extraordinarily/RB thought/VBD provoking"./NN
+The/DT award/NN for/IN first/JJ time/NN authors/NNS is/VBZ open/JJ to/TO books/NNS from/IN genres/NNS including/VBG fiction/NN poetry/NN biography/NN memoir/NN history/NN politics/NNS science/NN and/CC current/JJ affairs./NN
+Previous/JJ winners/NNS include/VBP White/NNP Teeth/NNS by/IN Zadie/NNP Smith/NNP in/IN 2000/CD which/WDT went/VBD on/RP to/TO become/VB a/DT bestseller./NN

@@ -1,0 +1,18 @@
+Reboot/NNP ordered/VBD for/IN EU/NNP patent/NN law/NN
+
+A/DT European/NNP Parliament/NNP committee/NN has/VBZ ordered/VBN a/DT rewrite/NN of/IN the/DT proposals/NNS for/IN controversial/JJ new/JJ European/NNP Union/NNP rules/NNS which/WDT govern/VBP computer-based/JJ inventions./NN
+
+The/DT Legal/NNP Affairs/NNP Committee/NNP (JURI)/NN said/VBD the/DT Commission/NNP should/MD re-submit/VB the/DT Computer/NNP Implemented/VBD Inventions/NNS Directive/NN after/IN MEPs/NNP failed/VBD to/TO back/VB it./VB
+It/PRP has/VBZ had/VBN vocal/JJ critics/NNS who/WP say/VBP it/PRP could/MD favour/VB large/JJ over/IN small/JJ firms/NNS and/CC impact/NN open-source/JJ software/NN innovation./NN
+Supporters/NNS say/VBP it/PRP would/MD let/VB firms/NNS protect/VB their/PRP$ inventions./NN
+The/DT directive/NN is/VBZ intended/VBN to/TO offer/VB patent/NN protection/NN to/TO inventions/NNS that/WDT use/VBP software/NN to/TO achieve/VB their/PRP$ effect/NN in/IN other/JJ words/NNS "computer/NN implemented/VBD invention"./NN
+The/DT draft/NN law/NN suffered/VBD setbacks/NNS when/WRB Poland/NNP one/CD of/IN the/DT largest/JJS EU/NNP member/NN states/NNS rejected/VBD its/PRP$ adoption/NN twice/RB in/IN two/CD months./NN
+Intense/JJ lobbying/NN on/IN the/DT issue/NN has/VBZ started/VBN to/TO gain/VB momentum/NN in/IN some/DT national/JJ parliaments/NNS putting/VBG them/PRP under/IN immense/JJ pressure./NN
+Only/RB two/CD MEPs/NNP backed/VBN the/DT draft/NN law/NN at/IN the/DT JURI/NNP meeting/NN with/IN one/CD voting/NN to/TO abstain./VB
+
+Opponents/NNS of/IN the/DT draft/NN directive/NN welcomed/VBD the/DT decision/NN and/CC said/VBD a/DT new/JJ first/JJ reading/NN of/IN the/DT proposals/NNS would/MD give/VB the/DT EU/NNP a/DT chance/NN to/TO have/VB fuller/JJR debates/NNS about/IN its/PRP$ implications/NNS in/IN all/DT member/NN states./NN
+In/IN the/DT US/PRP the/DT patenting/NN of/IN computer/NN programs/NNS and/CC internet/JJ business/NN methods/NNS is/VBZ permitted./NN
+This/DT means/VBZ that/IN the/DT US-based/JJ Amazon.com/NNP holds/VBZ a/DT patent/NN for/IN its/PRP$ "one-click/JJ shopping"/NN service/NN for/IN example./NN
+Critics/NNS are/VBP concerned/VBN that/IN the/DT directive/NN could/MD lead/VB to/TO a/DT similar/JJ model/NN happening/VBG in/IN Europe./NNP
+This/DT they/PRP fear/VBP could/MD hurt/VB small/JJ software/NN developers/NNS because/IN they/PRP do/VBP not/RB have/VB the/DT legal/JJ and/CC financial/JJ might/MD of/IN larger/JJR companies/NNS if/IN they/PRP had/VBD to/TO fight/VB patent/NN legal/JJ action/NN in/IN court./NN
+Supporters/NNS say/VBP current/JJ laws/NNS are/VBP inefficient/JJ and/CC it/PRP would/MD serve/VB to/TO even/RB up/IN a/DT playing/NN field/NN without/IN bringing/VBG EU/NNP laws/NNS in/IN line/NN with/IN the/DT US./NNP

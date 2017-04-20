@@ -1,0 +1,15 @@
+US/PRP woman/VBP sues/NNS over/IN cartridges/NNS
+
+A/DT US/PRP woman/VBP is/VBZ suing/VBG Hewlett/NNP Packard/NNP (HP)/NN saying/VBG its/PRP$ printer/NN ink/NN cartridges/NNS are/VBP secretly/RB programmed/VBN to/TO expire/VB on/IN a/DT certain/JJ date./NN
+
+The/DT unnamed/JJ woman/NN from/IN Georgia/NNP says/VBZ that/IN a/DT chip/NN inside/IN the/DT cartridge/NN tells/VBZ the/DT printer/NN that/IN it/PRP needs/VBZ re-filling/JJ even/RB when/WRB it/PRP does/VBZ not./NN
+The/DT lawsuit/NN seeks/VBZ to/TO represent/VB anyone/NN in/IN the/DT US/PRP who/WP has/VBZ purchased/VBN an/DT HP/NNP inkjet/NN printer/NN since/IN February/NNP 2001./CD
+HP/VBG the/DT world's/NNS biggest/JJS printer/NN firm/NN declined/VBD to/TO comment/VB on/IN the/DT lawsuit./NN
+HP/NNP ink/NN cartridges/NNS use/VBP a/DT chip/NN technology/NN to/TO sense/VB when/WRB they/PRP are/VBP low/JJ on/IN ink/NN and/CC advise/VB the/DT user/NN to/TO make/VB a/DT change./NN
+
+But/CC the/DT suit/NN claims/VBZ the/DT chips/NNS also/RB shut/VBP down/RP the/DT cartridges/NNS at/IN a/DT predetermined/VBN date/NN regardless/RB of/IN whether/IN they/PRP are/VBP empty./NN
+"The/NN smart/JJ chip/NN is/VBZ dually/RB engineered/VBN to/TO prematurely/RB register/VB ink/NN depletion/NN and/CC to/TO render/VB a/DT cartridge/NN unusable/JJ through/IN the/DT use/NN of/IN a/DT built-in/JJ expiration/NN date/NN that/WDT is/VBZ not/RB revealed/VBN to/TO the/DT consumer"/NN the/DT suit/NN said./NN
+The/DT lawsuit/NN is/VBZ asking/VBG for/IN restitution/NN damages/NNS and/CC other/JJ compensation./NN
+The/DT cost/NN of/IN printer/NN cartridges/NNS has/VBZ been/VBN a/DT contentious/JJ issue/NN in/IN Europe/NNP for/IN the/DT last/JJ 18/CD months./NN
+The/DT price/NN of/IN inkjet/NN printers/NNS has/VBZ come/VBN down/RP to/TO as/RB little/JJ as/IN £34/CD but/CC it/PRP could/MD cost/VB up/IN to/TO £1700/CD in/IN running/VBG costs/NNS over/IN an/DT 18-month/JJ period/NN due/JJ to/TO cartridge/NN a/DT study/NN by/IN Computeractive/NNP Magazine/NNP revealed/VBD last/JJ year./NN
+The/DT inkjet/NN printer/NN market/NN has/VBZ been/VBN the/DT subject/NN of/IN an/DT investigation/NN by/IN the/DT UK's/NNP Office/NNP of/IN Fair/NNP Trading/NN (OFT)/NN which/WDT concluded/VBD in/IN a/DT 2002/CD report/NN that/IN retailers/NNS and/CC manufacturers/NNS needed/VBN to/TO make/VB pricing/NN more/RBR transparent/JJ for/IN consumers./NN

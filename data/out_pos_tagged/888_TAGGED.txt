@@ -1,0 +1,22 @@
+Halloween/NNP writer/NN Debra/NNP Hill/NNP dies/VBZ
+
+Screenwriter/NNP and/CC producer/NN Debra/NNP Hill/NNP best/JJS known/VBN for/IN her/PRP$ work/NN on/IN the/DT 70s/CD horror/NN classic/JJ Halloween/NNP has/VBZ died/VBN in/IN Los/NNP Angeles/NNP aged/VBD 54./CD
+
+Hill/NNP who/WP had/VBD been/VBN suffering/VBG from/IN cancer/NN co-wrote/JJ the/DT 1978/CD film/NN which/WDT starred/VBD Jamie/NNP Lee/NNP Curtis/NNP as/IN a/DT babysitter/NN terrorised/VBN by/IN a/DT psychopath./NN
+Directed/NNP by/IN John/NNP Carpenter/NNP it/PRP made/VBD over/IN $60m/CD (£31.3m)/CD worldwide/NN -/: a/DT record/NN for/IN independent/JJ film/NN at/IN that/DT time./NN
+Hill/NNP also/RB worked/VBD with/IN Carpenter/NNP on/IN Escape/NN From/IN New/NNP York/NNP and/CC The/DT Fog./NNP
+Born/VBN in/IN New/NNP Jersey/NNP Hill/NNP began/VBD her/PRP$ career/NN as/IN a/DT production/NN assistant/NN and/CC worked/VBD her/PRP$ way/NN through/IN the/DT ranks/NNS becoming/VBG an/DT assistant/JJ director/NN and/CC second-unit/JJ director/NN before/IN she/PRP began/VBD collaborating/VBG with/IN Carpenter./NNP
+
+She/PRP was/VBD regarded/VBN by/IN many/JJ as/IN a/DT pioneering/JJ woman/NN in/IN film/NN taking/VBG on/RP jobs/NNS in/IN the/DT 70s/CD that/WDT were/VBD more/RBR commonly/RB taken/VBN by/IN men./NN
+"Back/NN when/WRB I/PRP started/VBD in/IN 1974/CD there/EX were/VBD very/RB few/JJ women/NNS in/IN the/DT industry"/NN she/PRP said/VBD in/IN 2003./CD
+"I/NN was/VBD assumed/VBN to/TO be/VB the/DT make-up/JJ and/CC hair/NN person/NN or/CC the/DT script/NN person./NN
+I/PRP was/VBD never/RB assumed/VBN to/TO be/VB the/DT writer/NN or/CC producer."/NN "I/NN took/VBD a/DT look/NN around/IN and/CC realised/VBN there/EX weren't/NN that/IN many/JJ women/NNS so/IN I/PRP had/VBD to/TO carve/VB a/DT niche/NN for/IN myself."/NN Carpenter/NNP said/VBD that/IN working/VBG with/IN Hill/NNP was/VBD "one/NN of/IN the/DT greatest/JJS experiences/NNS of/IN my/PRP$ life"./NN
+"The/NN ground/NN that/IN she/PRP trailblazed/VBD in/IN the/DT beginning/VBG can/MD now/RB be/VB followed/VBN by/IN anyone./NN
+She/PRP was/VBD incredibly/RB capable/JJ and/CC talented"/NN he/PRP said./VB
+Carpenter/NNP and/CC Hill/NNP collaborated/VBD on/IN a/DT number/NN of/IN Halloween/NNP sequels/NNS including/VBG Halloween/NNP II/NNP Halloween/NNP Resurrection/NN and/CC Halloween/NNP The/DT Curse/NN of/IN Michael/NNP Myers./NNP
+
+Later/RB in/IN her/PRP$ career/NN Hill/NNP formed/VBD a/DT production/NN company/NN with/IN her/PRP$ friend/NN Lynda/NNP Obst/NNP making/VBG a/DT string/NN of/IN hit/JJ films/NNS including/VBG Oscar/NNP nominee/NN The/DT Fisher/NNP King/NNP and/CC teen/JJ comedy/NN Adventures/NNP In/IN Babysitting./NNP
+Other/JJ films/NNS included/VBD the/DT Stephen/NNP King/NNP adaptation/NN The/DT Dead/NNP Zone/NNP in/IN 1983/CD and/CC 1985's/CD Clue/NNP a/DT comedy/NN based/VBN on/IN the/DT board/NN game/NN Cluedo./NNP
+In/IN the/DT 90s/CD she/PRP pursued/VBD work/NN in/IN TV/NN although/IN she/PRP was/VBD reunited/VBN with/IN Carpenter/NNP in/IN 1996/CD for/IN Escape/NN From/IN LA/NNP the/DT sequel/NN to/TO Escape/VB From/IN New/NNP York./NNP
+At/IN the/DT time/NN of/IN her/PRP$ death/NN she/PRP was/VBD working/VBG on/IN a/DT film/NN about/IN the/DT last/JJ two/CD men/NNS pulled/VBD from/IN the/DT rubble/NN of/IN the/DT Twin/JJ Towers/NNP following/VBG the/DT 11/CD September/NNP terror/NN attacks/NNS in/IN 2001./CD
+She/PRP was/VBD also/RB co-producing/JJ the/DT remake/NN of/IN The/DT Fog/NN which/WDT is/VBZ due/JJ for/IN release/NN early/RB next/JJ year./NN

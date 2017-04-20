@@ -1,0 +1,8 @@
+Boro/NNP suffer/VB Morrison/NNP injury/NN blow/NN
+
+Middlesbrough/NNP midfielder/NN James/NNP Morrison/NNP has/VBZ been/VBN ruled/VBN out/RP for/IN up/IN to/TO eight/CD weeks/NNS after/IN an/DT operation/NN on/IN Tuesday./NNP
+
+The/DT 18-year-old/JJ who/WP has/VBZ played/VBN in/IN 13/CD of/IN the/DT club's/NNS last/JJ 14/CD games/NNS had/VBD surgery/NN to/TO repair/VB a/DT double/JJ hernia./NN
+A/DT club/NN spokesman/NN confirmed/VBD "It/NN is/VBZ a/DT bilateral/JJ sportsman's/NNS hernia/NN which/WDT was/VBD operated/VBN on/IN yesterday."/NN Morrison/NNP was/VBD sent/VBN for/IN scans/VBZ after/IN being/VBG substituted/VBN at/IN half-time/NN during/IN Boro's/NNP 2-1/JJ UEFA/NNP Cup/NNP win/VB over/IN Graz/NNP AK/NNP in/IN which/WDT he/PRP scored/VBD the/DT equaliser./NN
+His/PRP$ injury/NN is/VBZ the/DT latest/JJS blow/NN for/IN the/DT Teessiders/NNP who/WP have/VBP been/VBN without/IN Gaizka/NNP Mendieta/NNP George/NNP Boateng/NNP and/CC Mark/NNP Viduka/NNP for/IN extended/JJ periods./NN
+Meanwhile/RB the/DT kick-off/JJ time/NN for/IN Boro's/NNP Uefa/NNP Cup/NNP match/VB at/IN Sporting/NNP Lisbon/NNP on/IN 17/CD March/NNP has/VBZ been/VBN brought/VBN forward/RB from/IN 2115/CD GMT/NNP to/TO 1945/CD GMT./NNP

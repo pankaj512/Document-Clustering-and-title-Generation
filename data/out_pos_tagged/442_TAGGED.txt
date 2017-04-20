@@ -1,0 +1,19 @@
+Lesotho/NNP textile/NN workers/NNS lose/VBP jobs/NNS
+
+Six/CD foreign-owned/JJ textile/NN factories/NNS have/VBP closed/VBN in/IN Lesotho/NNP leaving/VBG 6650/CD garment/NN workers/NNS jobless/JJ union/NN officers/NNS told/VBD the/DT AP/NNP news/NN agency./NN
+
+Factory/NNP Workers/NNP Union/NNP secretary/NN general/JJ Billy/NNP Macaefa/NNP blamed/VBD the/DT closures/NNS on/IN the/DT end/NN of/IN worldwide/NN textile/NN quotas./NN
+The/DT quotas/NNS for/IN developing/VBG nations/NNS ended/VBD on/IN 1/CD January/NNP gave/VBD them/PRP a/DT set/VBN share/NN of/IN the/DT rich/JJ countries'/NN markets./NN
+They/PRP also/RB limited/JJ the/DT amount/NN countries/NNS like/IN China/NNP could/MD export/VB to/TO the/DT big/JJ markets/NNS of/IN the/DT United/NNP States/NNPS and/CC EU./NNP
+
+"We/NN understand/VBP that/IN some/DT (owners).../NN
+were/VBD complaining/VBG that/IN the/DT South/JJ African/JJ rand/NNS was/VBD strong/JJ against/IN the/DT US/PRP dollar/VBP and/CC they/PRP were/VBD losing/VBG when/WRB exporting/VBG textiles/NNS and/CC clothing/NN to/TO the/DT United/NNP States"/NNP Mr/NNP Macaefa/NNP said/VBD at/IN a/DT news/NN briefing/NN in/IN the/DT capital/NN Maseru./NNP
+Lesotho's/NNP currency/NN the/DT maloti/NN is/VBZ fixed/VBN to/TO the/DT rand./NN
+"But/NN we/PRP suspect/VBP that/IN they/PRP left/VBD the/DT country/NN unceremoniously/RB because/IN of/IN the/DT end/NN of/IN quotas/NNS introduced/VBN by/IN the/DT World/NNP Trade/NNP Organization."/NNP He/PRP said/VBD the/DT six/CD factories/NNS were/VBD Leisure/NN Garments/NNS Modern/NNP Garments/NNS Precious/JJ Six/CD Garments/NNS TW/NNP Garments/NNS Lesotho/NNP Hats/NNS and/CC Vogue/NN Landmark./NNP
+The/DT owners/NNS -/: two/CD from/IN Taiwan/NNP two/CD from/IN China/NNP one/CD from/IN Mauritius/NNP and/CC one/CD from/IN Malaysia/NNP -/: left/VBN over/IN the/DT December/NNP holiday/NN period/NN without/IN informing/VBG or/CC paying/VBG their/PRP$ employees/NNS he/PRP said./VB
+
+Union/NN leaders/NNS and/CC trade/NN campaigners/NNS have/VBP been/VBN warning/VBG that/IN developing/VBG nations/NNS such/JJ as/IN Lesotho/NNP Sri/NNP Lanka/NNP and/CC Bangaldesh/NNP could/MD lose/VB thousands/NNS of/IN jobs/NNS once/IN the/DT quotas/NNS were/VBD lifted./NN
+In/IN the/DT mountainous/JJ country/NN surrounded/VBN by/IN South/NNP Africa/NNP it/PRP is/VBZ feared/VBN as/RB many/JJ as/IN 50000/CD textile/NN workers/NNS could/MD lose/VB their/PRP$ jobs/NNS and/CC Mr/NNP Mafeca/NNP said/VBD he/PRP expected/VBD more/JJR companies/NNS to/TO leave./VB
+The/DT assistance/NN of/IN a/DT US/PRP law/VBP had/VBD given/VBN Lesotho's/NNP textiles/NNS duty-free/JJ access/NN to/TO North/JJ American/JJ markets./NN
+The/DT African/JJ Growth/NN and/CC Opportunity/NNP Act/NNP (AGOA)/NN gave/VBD sub-Saharan/JJ countries/NNS preferential/JJ access/NN to/TO the/DT US/PRP market/VBP for/IN apparel/NN and/CC textile/NN products/NNS as/RB well/RB as/IN a/DT wide/JJ range/NN of/IN other/JJ goods./NN
+A/DT Lesotho/NNP government/NN news/NN briefing/NN is/VBZ expected/VBN on/IN Wednesday./NNP

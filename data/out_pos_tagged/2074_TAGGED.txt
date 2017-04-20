@@ -1,0 +1,22 @@
+Microsoft/NN sets/NNS sights/NNS on/IN spyware/NN
+
+Windows/NNS users/NNS could/MD soon/RB be/VB paying/VBG Microsoft/NNP to/TO keep/VB PCs/NNS free/JJ of/IN spyware./NN
+
+Following/VBG the/DT takeover/NN of/IN anti-spyware/JJ firm/NN Giant/NNP Microsoft/NNP said/VBD it/PRP would/MD soon/RB release/VB a/DT toolkit/NN that/IN strips/NNS machines/NNS of/IN the/DT irritating/VBG programs./NN
+Although/IN initially/RB free/JJ Microsoft/NNP has/VBZ not/RB ruled/VBN out/RP charging/VBG people/NNS who/WP want/VBP to/TO keep/VB this/DT toolkit/NN up/IN to/TO date./VB
+Surveys/NNS show/VBP that/IN almost/RB every/DT Windows/NNS PC/NN is/VBZ infested/JJ with/IN spyware/NN programs/NNS that/WDT do/VBP everything/NN from/IN bombard/NN users/NNS with/IN adverts/NNS to/TO steal/VB login/NN data./NN
+Microsoft/NNP said/VBD that/IN a/DT beta/NN version/NN of/IN the/DT toolkit/NN to/TO clean/VB up/RP Windows/NNS machines/NNS should/MD be/VB available/JJ within/IN 30/CD days./NN
+
+Designed/VBN for/IN PCs/NNS running/VBG Windows/NNS 2000/CD and/CC XP/NNP the/DT utility/NN will/MD clean/VB out/RP spyware/NN programs/NNS constantly/RB monitor/VBP what/WP happens/VBZ on/IN a/DT PC/NN and/CC will/MD be/VB regularly/RB updated/VBN to/TO catch/VB the/DT latest/JJS variants./NN
+Before/IN now/RB many/JJ of/IN Microsoft's/NNP other/JJ security/NN boosting/VBG programs/NNS such/JJ as/IN the/DT firewall/NN in/IN Windows/NNS XP/NNP have/VBP been/VBN given/VBN away/RB free./NN
+But/CC Mike/NNP Nash/NNP vice/NN president/NN in/IN Microsoft's/NNP security/NN business/NN unit/NN said/VBD it/PRP was/VBD still/RB working/VBG out/RP pricing/NN and/CC licensing/NN issues./NN
+Charging/VBG for/IN future/JJ versions/NNS has/VBZ not/RB been/VBN discounted/VBN he/PRP said./VB
+"We'll/NN come/VBN up/RP with/IN a/DT plan/NN and/CC roll/NN that/WDT out"/NN he/PRP said./VB
+The/DT plan/NN could/MD turn/VB out/RP to/TO be/VB a/DT lucrative/JJ one/CD for/IN Microsoft./NNP
+A/DT recent/JJ survey/NN by/IN Earthlink/NNP and/CC Webroot/NNP found/VBD that/IN 90%/CD of/IN PCs/NNS are/VBP infested/JJ with/IN the/DT surreptitious/JJ software/NN and/CC that/IN on/IN average/NN each/DT one/CD is/VBZ harbouring/VBG 28/CD separate/JJ spyware/NN programs./NN
+Currently/RB users/NNS wanting/VBG protection/NN from/IN spyware/NN have/VBP turned/VBN to/TO free/JJ programs/NNS such/JJ as/IN Spybot/NNP and/CC Ad-Aware./NNP
+Spyware/NNP comes/VBZ in/IN many/JJ forms/NNS and/CC at/IN its/PRP$ most/RBS benign/JJ exploits/VBZ lazy/JJ browsing/NN habits/NNS to/TO install/VB itself/PRP and/CC subject/JJ users/NNS to/TO unwanted/JJ adverts./NN
+Other/JJ forms/NNS hijack/VBP net/JJ browser/NN settings/NNS to/TO force/VB people/NNS to/TO view/VB pages/NNS they/PRP would/MD otherwise/RB never/RB visit./NN
+At/IN its/PRP$ most/JJS malign/NN spyware/NN watches/NNS everything/NN that/IN people/NNS do/VBP with/IN their/PRP$ PC/NN and/CC steals/VBZ login/NN information/NN and/CC other/JJ personal/JJ data./NN
+Microsoft's/NNP announcement/NN about/IN spyware/NN comes/VBZ after/IN it/PRP bought/VBD small/JJ New/NNP York/NNP software/NN firm/NN Giant/NNP Company/NNP Software./NNP
+Terms/NNS of/IN the/DT acquisition/NN were/VBD not/RB disclosed./JJ

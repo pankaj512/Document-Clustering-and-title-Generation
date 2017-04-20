@@ -1,0 +1,13 @@
+Collins/NNP calls/VBZ for/IN Chambers/NNP return/NN
+
+World/NNP 100m/CD champion/NN Kim/NNP Collins/NNP says/VBZ suspended/VBN sprinter/NN Dwain/NNP Chambers/NNP should/MD be/VB allowed/VBN to/TO compete/VB in/IN the/DT Olympics/NNPS again./NN
+
+Chambers/NNP was/VBD banned/VBN for/IN two/CD years/NNS after/IN testing/NN positive/JJ for/IN the/DT anabolic/JJ steroid/NN THG/NNP and/CC his/PRP$ suspension/NN runs/VBZ out/RP in/IN November/NNP this/DT year./NN
+But/CC Collins/NNP says/VBZ the/DT British/NNP Olympic/NNP Association/NNP should/MD reverse/VB the/DT decision/NN to/TO ban/VB him/PRP from/IN the/DT Olympics/NNPS for/IN life./NN
+"It/NN was/VBD too/RB harsh"/NN Collins/NNP told/VBD Radio/NNP Five/CD Live./NNP
+"They/NN should/MD reconsider."/VB Chambers/NNP has/VBZ been/VBN in/IN America/NNP learning/VBG American/JJ football/NN but/CC has/VBZ not/RB ruled/VBN out/RP a/DT return/NN to/TO the/DT track./NN
+Collins/NNP added/VBD "He/NN is/VBZ a/DT great/JJ guy/NN and/CC I/PRP have/VBP never/RB had/VBN any/DT problems/NNS with/IN him./NN
+We/PRP are/VBP friends./NN
+"I/NN would/MD like/VB to/TO see/VB Dwain/NNP come/VB back/RB and/CC compete/VB again./NN
+He/PRP is/VBZ a/DT good/JJ person./NN
+"Even/NN though/IN he/PRP made/VBD a/DT mistake/NN he/PRP understands/VBZ what/WP he/PRP did/VBD and/CC should/MD be/VB given/VBN a/DT chance/NN once/RB more."/NN

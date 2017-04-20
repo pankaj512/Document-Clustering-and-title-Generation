@@ -1,0 +1,15 @@
+Oil/NNP rebounds/VBZ from/IN weather/NN effect/NN
+
+Oil/NN prices/NNS recovered/VBD in/IN Asian/JJ trade/NN on/IN Tuesday/NNP after/IN falling/VBG in/IN New/NNP York/NNP on/IN milder/NN winter/NN weather/NN across/IN the/DT US./NNP
+
+With/IN winter/NN temperatures/NNS staying/VBG relatively/RB high/JJ in/IN the/DT northern/JJ US/PRP a/DT barrel/NN of/IN light/JJ crude/NN ended/VBD Monday/NNP down/RB $1.33/CD to/TO $42.12./CD
+However/RB crude/NN prices/NNS have/VBP rebounded/VBN in/IN Asia/NNP rising/VBG to/TO $42.30/CD a/DT barrel/NN for/IN February/NNP delivery./NN
+In/IN London/NNP trading/NN of/IN Brent/NNP crude/NN was/VBD suspended/VBN for/IN a/DT public/JJ holiday/NN but/CC the/DT price/NN fell/VBD to/TO $39.20/CD in/IN the/DT Far/NNP East./NNP
+
+With/IN milder/NN temperatures/NNS expected/VBN to/TO continue/VB in/IN the/DT northern/JJ parts/NNS of/IN the/DT US/PRP over/IN the/DT next/JJ few/JJ days/NNS at/IN least/JJS analysts/NNS have/VBP said/VBN the/DT price/NN of/IN oil/NN may/MD fall/VB further/JJ -/: even/RB if/IN the/DT decline/NN was/VBD only/RB temporary./NN
+"Weather/NN has/VBZ been/VBN the/DT Achilles'/NNP heel/NN of/IN this/DT market"/NN said/VBD ABN/NNP AMRO/NNP analyst/NN John/NNP Brady./NNP
+"But/NN it/PRP is/VBZ winter/NN in/IN the/DT northeast./NN
+Eventually/RB we'll/NN get/NN another/DT cold/JJ blast."/NN Despite/IN a/DT fall/NN of/IN more/JJR than/IN $12/CD a/DT barrel/NN from/IN the/DT record/NN highs/NNS reached/VBN in/IN late/JJ October/NNP the/DT price/NN of/IN crude/JJ oil/NN remains/VBZ almost/RB 30%/CD higher/JJR than/IN year-ago/JJ levels./NN
+Prices/NNS rose/VBD last/JJ week/NN after/IN militant/JJ attacks/NNS in/IN Riyadh/NNP the/DT capital/NN of/IN Saudi/NNP Arabia/NNP briefly/NN renewed/VBN fears/NNS that/IN the/DT supply/NN chain/NN might/MD be/VB broken/VBN in/IN the/DT world's/NNS leading/VBG crude/NN exporter./NN
+"The/NN market/NN was/VBD panicked/VBN but/CC fears/NNS essentially/RB evaporated.../VBP
+since/IN there/EX was/VBD no/DT follow-up"/NN said/VBD Deborah/NNP White/NNP senior/JJ economist/NN for/IN energy/NN at/IN SG/NNP Securities/NNPS in/IN Paris./NNP

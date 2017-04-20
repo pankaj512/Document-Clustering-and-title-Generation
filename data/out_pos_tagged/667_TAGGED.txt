@@ -1,0 +1,10 @@
+US/PRP charity/VBP anthem/NN is/VBZ re-released/JJ
+
+We/PRP Are/VBP The/DT World/NNP the/DT American/JJ charity/NN anthem/NN inspired/VBN by/IN the/DT success/NN of/IN Band/NNP Aid/NNP has/VBZ been/VBN re-issued/JJ to/TO raise/VB money/NN for/IN Aids/NNS research/NN and/CC tsunami/NN victims./NN
+
+More/JJR than/IN 40/CD stars/NNS sang/VBD as/IN group/NN USA/NNP For/IN Africa/NNP including/VBG Lionel/NNP Richie/NNP Diana/NNP Ross/NNP Ray/NNP Charles/NNP Bob/NNP Dylan/NNP Michael/NNP Jackson/NNP and/CC Bruce/NNP Springsteen./NNP
+It/PRP topped/VBD the/DT charts/NNS in/IN the/DT US/PRP and/CC UK/NNP raising/VBG millions/NNS of/IN dollars/NNS for/IN African/JJ famine/NN relief./NN
+The/DT re-release/JJ also/RB marks/VBZ the/DT 20th/JJ anniversary/NN of/IN the/DT original/JJ recording./NN
+It/PRP has/VBZ been/VBN re-issued/JJ as/IN part/NN of/IN a/DT two-disc/JJ DVD/NNP set/VBD which/WDT will/MD also/RB feature/VB footage/NN from/IN the/DT recording/NN session/NN of/IN the/DT track/NN in/IN January/NNP 1985./CD
+The/DT single/NN was/VBD originally/RB released/VBN in/IN the/DT US/PRP on/IN 7/CD March/NNP 1985/CD and/CC sold/VBN 800000/CD copies/NNS in/IN its/PRP$ first/JJ week./NN
+It/PRP went/VBD on/RP to/TO win/VB Grammys/NNP for/IN song/NN of/IN the/DT year/NN and/CC record/NN of/IN the/DT year./NN

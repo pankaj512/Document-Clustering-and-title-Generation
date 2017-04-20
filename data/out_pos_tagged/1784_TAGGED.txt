@@ -1,0 +1,9 @@
+Capriati/VBG out/IN of/IN Australian/JJ Open/NNP
+
+Jennifer/NNP Capriati/NNP has/VBZ become/VBN the/DT third/JJ leading/NN lady/NN to/TO withdraw/VB from/IN the/DT Australian/JJ Open/NNP because/IN of/IN injury./NN
+
+The/DT organisers/NNS of/IN the/DT first/JJ grand/JJ slam/NN of/IN 2005/CD which/WDT begins/VBZ on/IN 17/CD January/NNP said/VBD the/DT American/NNP has/VBZ a/DT problem/NN with/IN her/PRP$ right/JJ shoulder./NN
+It/PRP comes/VBZ as/IN a/DT blow/NN to/TO the/DT women's/NNS draw/VBP as/IN last/JJ year's/NNS champion/NN Justin/NNP Henin-Hardenne/NNP and/CC runner-up/JJ Kim/NNP Clijsters/NNP will/MD also/RB be/VB absent./NN
+Capriati/NNP is/VBZ a/DT two-time/JJ champion/NN in/IN Melbourne/NNP with/IN wins/VBZ in/IN 2001/CD and/CC 2002./CD
+She/PRP is/VBZ believed/VBN to/TO have/VB picked/VBN up/RP the/DT injury/NN at/IN the/DT Advanta/NNP Championships/NNS at/IN Philadelphia/NNP in/IN November/NNP and/CC had/VBD to/TO pull/VB out/IN of/IN an/DT exhibition/NN match/NN with/IN Wimbledon/NNP champion/NN Maria/NNP Sharapova/NNP on/IN 17/CD December./NNP
+Capriati/NNP also/RB decided/VBD against/IN competing/VBG in/IN the/DT Australian/JJ Open/NNP warm-up/NN event/NN the/DT Sydney/NNP International./NNP

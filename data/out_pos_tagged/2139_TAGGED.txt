@@ -1,0 +1,30 @@
+Warning/NN over/IN tsunami/NN aid/NN website/NN
+
+Net/JJ users/NNS are/VBP being/VBG told/VBD to/TO avoid/VB a/DT scam/NN website/NN that/IN claims/NNS to/TO collect/VB cash/NN on/IN behalf/NN of/IN tsunami/NN victims./NN
+
+The/DT site/NN looks/VBZ plausible/JJ because/IN it/PRP uses/VBZ an/DT old/JJ version/NN of/IN the/DT official/JJ Disasters/NNS Emergency/NNP Committee/NNP webpage./NN
+However/RB DEC/NNP has/VBZ no/DT connection/NN with/IN the/DT fake/JJ site/NN and/CC says/VBZ it/PRP has/VBZ contacted/VBN the/DT police/NNS about/IN it./NN
+The/DT site/NN is/VBZ just/RB the/DT latest/JJS in/IN a/DT long/JJ list/NN of/IN scams/NNS that/WDT try/VBP to/TO cash/VB in/RP on/IN the/DT goodwill/NN generated/VBN by/IN the/DT tsunami/NN disaster./JJ
+
+The/DT link/NN to/TO the/DT website/NN is/VBZ contained/VBN in/IN a/DT spam/NN e-mail/JJ that/WDT is/VBZ currently/RB circulating./NN
+The/DT message's/NNS subject/JJ line/NN reads/VBZ "Urgent/NN Tsunami/NN Earthquake/NN Appeal"/NNP and/CC its/PRP$ text/NN bears/VBZ all/PDT the/DT poor/JJ grammar/NN and/CC bad/JJ spelling/NN that/WDT characterises/NNS many/JJ other/JJ phishing/NN attempts./NN
+The/DT web/NN address/NN of/IN the/DT fake/JJ site/NN is/VBZ decuk.org/NN which/WDT could/MD be/VB close/VBN enough/RB to/TO the/DT official/JJ www.dec.org.uk/NN address/NN to/TO confuse/VB some/DT people/NNS keen/JJ to/TO donate./VB
+Patricia/NNP Sanders/NNP spokeswoman/NN for/IN the/DT Disaster/NN Emergency/NNP Committee/NNP said/VBD it/PRP was/VBD aware/JJ of/IN the/DT site/NN and/CC had/VBD contacted/VBN the/DT Computer/NNP Crime/NN Unit/NNP at/IN Scotland/NNP Yard/NN to/TO help/VB get/VB it/PRP shut/VB down./NN
+She/PRP said/VBD the/DT spam/NN e-mails/NNS directing/VBG people/NNS to/TO the/DT site/NN started/VBD circulating/VBG two/CD days/NNS ago/RB shortly/RB after/IN the/DT domain/NN name/NN of/IN the/DT site/NN was/VBD registered./NN
+It/PRP is/VBZ thought/VBN that/IN the/DT fake/JJ site/NN is/VBZ being/VBG run/VBN from/IN Romania./NNP
+Ms/NNP Sanders/NNP said/VBD DEC/NNP had/VBD contacted/VBN US/PRP net/JJ registrars/NNS who/WP handle/VBP domain/NN ownership/NN and/CC the/DT net/JJ hosting/NN firm/NN that/WDT is/VBZ keeping/VBG the/DT site/NN on/IN the/DT web./NN
+
+DEC/NNP was/VBD going/VBG to/TO push/VB for/IN all/DT cash/NN donated/VBN via/IN the/DT site/NN to/TO be/VB handed/VBN over/RP to/TO the/DT official/JJ organisation./NN
+BT/NNP and/CC DEC's/NNP hosting/VBG company/NN were/VBD also/RB making/VBG efforts/NNS to/TO get/VB the/DT site/NN shut/NN down/RP she/PRP said./VBP
+
+Ms/NNP Sanders/NNP said/VBD sending/VBG out/RP spam/NN e-mail/JJ to/TO solicit/VB donations/NNS was/VBD not/RB DEC's/NNP style/NN and/CC that/IN it/PRP would/MD never/RB canvass/JJ support/NN in/IN this/DT way./NN
+She/PRP said/VBD that/IN DEC/NNP hoped/VBD to/TO get/VB the/DT fake/JJ site/NN shut/NN down/RP as/RB soon/RB as/IN possible./NN
+All/DT attempts/NNS by/IN the/DT BBC/NNP News/NNP website/NN to/TO contact/VB the/DT people/NNS behind/IN the/DT site/NN have/VBP failed./NN
+None/NN of/IN the/DT e-mail/JJ addresses/NNS supplied/VBN on/IN the/DT site/NN work/NN and/CC the/DT real/JJ owner/NN of/IN the/DT domain/NN is/VBZ obscured/VBN in/IN publicly/RB available/JJ net/JJ records./NN
+This/DT is/VBZ not/RB the/DT first/JJ attempt/NN to/TO cash/VB in/RP on/IN the/DT outpouring/NN of/IN goodwill/NN that/WDT has/VBZ accompanied/VBN appeals/NNS for/IN tsunami/NN aid./NN
+One/CD e-mail/NN sent/VBD out/RP in/IN early/JJ January/NNP came/VBD from/IN someone/NN who/WP claimed/VBD that/IN he/PRP had/VBD lost/VBN his/PRP$ parents/NNS in/IN the/DT disaster/NN and/CC was/VBD asking/VBG for/IN help/NN moving/VBG an/DT inheritance/NN from/IN a/DT bank/NN account/NN in/IN the/DT Netherlands./NNP
+The/DT con/NN was/VBD very/RB similar/JJ to/TO the/DT familiar/JJ Nigerian/NNP forward/RB fee/NN fraud/NN e-mails/NNS that/DT milk/NN money/NN out/IN of/IN people/NNS by/IN promising/VBG them/PRP a/DT cut/NN of/IN a/DT much/RB larger/JJR cash/NN pile./NN
+Other/JJ scam/NN e-mails/NNS included/VBD a/DT link/NN to/TO a/DT website/NN that/IN supposedly/RB let/VBP people/NNS donate/VB money/NN but/CC instead/RB loaded/VBN spyware/NN on/IN their/PRP$ computers/NNS that/WDT grabbed/VBD confidential/JJ information./NN
+In/IN a/DT monthly/JJ report/NN anti-virus/JJ firm/NN Sophos/NNP said/VBD that/IN two/CD e-mail/JJ messages/NNS about/IN the/DT tsunami/NN made/VBD it/PRP to/TO the/DT top/JJ 10/CD hoax/NN list/NN during/IN January./NNP
+Another/DT tsunami-related/JJ e-mail/JJ is/VBZ also/RB circulating/VBG that/WDT carries/VBZ the/DT Zar/NNP worm/NN which/WDT tries/VBZ to/TO spread/VB via/IN the/DT familiar/JJ route/NN of/IN Microsoft's/NNP Outlook/NN e-mail/JJ program./NN
+Anyone/NN opening/VBG the/DT attachment/NN of/IN the/DT mail/NN will/MD have/VB their/PRP$ contact/NN list/NN plundered/VBN by/IN the/DT worm/NN keen/JJ to/TO find/VB new/JJ addresses/NNS to/TO send/VB itself/PRP to./VBP

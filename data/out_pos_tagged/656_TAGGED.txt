@@ -1,0 +1,18 @@
+J-Lo/NNP and/CC husband/NN plan/NN debut/NN duet/NN
+
+Singers/NNS Jennifer/NNP Lopez/NNP and/CC husband/NN Marc/NNP Anthony/NNP a/DT Latin/NNP pop/NN star/NN are/VBP to/TO perform/VB a/DT duet/NN at/IN this/DT month's/NNS Grammy/NNP Awards/NNS in/IN Los/NNP Angeles./NNP
+
+Anthony/NNP became/VBD Lopez's/NNP third/JJ husband/NN in/IN June/NNP 2004./CD
+He/PRP won/VBD a/DT Grammy/NNP in/IN 1998/CD and/CC is/VBZ nominated/VBN for/IN two/CD more/JJR this/DT year./NN
+The/DT 13/CD February/NNP ceremony/NN will/MD also/RB include/VB a/DT rendition/NN of/IN The/DT Beatles'/NNP Across/IN The/DT Universe/NN by/IN Bono/FW Stevie/NNP Wonder/VBP Norah/NNP Jones/NNP and/CC Brian/NNP Wilson./NNP
+The/DT song/NN will/MD go/VB on/IN sale/NN online/NN to/TO raise/VB money/NN for/IN the/DT tsunami/NN aid/NN effort./NN
+The/DT awards/NNS show/VBP will/MD also/RB feature/VB performances/NNS from/IN U2/CD Green/NNP Day/NNP Alicia/NNP Keys/NNP and/CC Kanye/NNP West/NNP -/: but/CC the/DT Lopez/NNP and/CC Anthony/NNP duet/NN is/VBZ likely/JJ to/TO be/VB one/CD of/IN the/DT biggest/JJS talking/VBG points./NN
+
+Anthony/NNP born/VBD in/IN New/NNP York/NNP to/TO a/DT Puerto/NNP Rican/JJ family/NN is/VBZ reported/VBN to/TO be/VB the/DT biggest-selling/JJ salsa/NN artist/NN of/IN all/DT time./NN
+He/PRP is/VBZ nominated/VBN this/DT year/NN for/IN best/JJS Latin/NNP pop/NN album/NN and/CC best/JJS salsa/merengue/NN album./NN
+The/DT tsunami/NN tribute/NN song/NN will/MD also/RB feature/VB Alicia/NNP Keys/NNP Velvet/NN Revolver/NNP and/CC Tim/NNP McGraw./NNP
+Fans/NNS will/MD be/VB able/JJ to/TO download/VB it/PRP for/IN $0.99/CD (£0.53)/CD from/IN iTunes/NNS or/CC purchase/VB the/DT video/NN from/IN the/DT CBS/NNP TV/NN network's/NNS site./NN
+Kanye/NNP West/NNP the/DT rapper/NN who/WP leads/VBZ the/DT awards/NNS with/IN 10/CD nominations/NNS will/MD perform/VB alongside/IN John/NNP Legend/NNP Mavis/NNP Staples/NNP and/CC the/DT Blind/NNP Boys/NNPS of/IN Alabama./NNP
+There/EX will/MD also/RB be/VB a/DT tribute/NN to/TO Ray/NNP Charles/NNP featuring/VBG Bonnie/NNP Raitt/NNP and/CC Billy/NNP Preston/NNP and/CC a/DT celebration/NN of/IN southern/JJ rock/NN with/IN Tim/NNP McGraw/NNP Gretchen/NNP Wilson/NNP Lynyrd/NNP Skynyrd/NNP Dickie/NNP Betts/NNP and/CC Elvis/NNP Bishop./NNP
+Ray/NNP Charles/NNP who/WP died/VBD in/IN June/NNP 2004/CD has/VBZ seven/CD posthumous/JJ nominations./NN
+Alicia/NNP Keys/NNP and/CC Usher/NNP share/NN eight/CD nominations/NNS each./NN

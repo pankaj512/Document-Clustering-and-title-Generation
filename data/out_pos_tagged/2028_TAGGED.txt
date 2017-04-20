@@ -1,0 +1,23 @@
+British/NNP Library/NNP gets/VBZ wireless/JJ net/JJ
+
+Visitors/NNS to/TO the/DT British/NNP Library/NNP will/MD be/VB able/JJ to/TO get/VB wireless/JJ internet/JJ access/NN alongside/IN the/DT extensive/JJ information/NN available/JJ in/IN its/PRP$ famous/JJ reading/NN rooms./NN
+
+Broadband/NNP wireless/JJ connectivity/NN will/MD be/VB made/VBN available/JJ in/IN the/DT eleven/NN reading/NN rooms/NNS the/DT auditorium/NN caf&#233/CD restaurant/NN and/CC outdoor/JJ Piazza/NNP area./NN
+A/DT study/NN revealed/VBD that/IN 86%/CD of/IN visitors/NNS to/TO the/DT Library/NNP carried/VBD laptops./NN
+The/DT technology/NN has/VBZ been/VBN on/IN trial/NN since/IN May/NNP and/CC usage/NN levels/NNS make/VBP the/DT Library/NNP London's/NNP most/RBS active/JJ public/JJ hotspot./NN
+
+Previously/RB many/JJ were/VBD leaving/VBG the/DT building/NN to/TO go/VB to/TO a/DT nearby/JJ internet/JJ caf&#233/CD to/TO access/VB their/PRP$ e-mail/JJ the/DT study/NN found./NN
+"At/NN the/DT British/NNP Library/NNP we/PRP are/VBP continually/RB exploring/VBG ways/NNS in/IN which/WDT technology/NN can/MD help/VB us/PRP to/TO improve/VB services/NNS to/TO our/PRP$ users"/NN said/VBD Lynne/NNP Brindley/NNP chief/NN executive/NN of/IN the/DT British/NNP Library./NNP
+"Surveys/NN we/PRP conducted/VBD recently/RB confirmed/VBD that/IN alongside/IN the/DT materials/NNS they/PRP consult/VBP here/RB our/PRP$ users/NNS want/VBP to/TO be/VB able/JJ to/TO access/VB the/DT internet/JJ when/WRB they/PRP are/VBP at/IN the/DT Library/NNP for/IN research/NN or/CC to/TO communicate/VB with/IN colleagues"/NN she/PRP said./VBP
+The/DT service/NN will/MD be/VB priced/VBN at/IN £4.50/CD for/IN an/DT hour's/NNS session/NN or/CC £35/CD for/IN a/DT monthly/JJ pass./NN
+The/DT study/NN conducted/VBN by/IN consultancy/NN Building/NNP Zones/NNS found/VBD that/IN 16%/CD of/IN visitors/NNS came/VBD to/TO the/DT Library/NNP to/TO sit/VB down/RP and/CC use/NN it/PRP as/IN a/DT business/NN centre./NN
+This/DT could/MD be/VB because/IN of/IN its/PRP$ proximity/NN to/TO busy/JJ mainline/NN stations/NNS such/JJ as/IN Kings/NNPS Cross/NNP and/CC Euston./NNP
+The/DT study/NN also/RB found/VBD that/IN people/NNS were/VBD spending/NN an/DT average/NN of/IN six/CD hours/NNS in/IN the/DT building/NN making/VBG it/PRP an/DT ideal/JJ wireless/JJ hotspot./NN
+Since/IN May/NNP the/DT service/NN has/VBZ registered/VBN 1200/CD sessions/NNS per/IN week/NN making/VBG it/PRP London's/NNP most/RBS active/JJ public/JJ hotspot./NN
+The/DT majority/NN of/IN visitors/NNS wanted/VBD to/TO be/VB able/JJ to/TO access/VB their/PRP$ e-mail/NN as/RB well/RB as/IN the/DT British/NNP Library/NNP catalogue./NN
+The/DT service/NN has/VBZ been/VBN rolled/VBN out/RP in/IN partnership/NN with/IN wireless/JJ provider/VBP The/DT Cloud/NN and/CC Hewlett/NNP Packard./NNP
+
+It/PRP will/MD operate/VB independently/RB from/IN the/DT Library's/NNP existing/VBG network./NN
+The/DT British/NNP Library/NNP receives/VBZ around/IN 3000/CD visitors/NNS each/DT day/NN and/CC serves/VBZ around/IN 500000/CD readers/NNS each/DT year./NN
+People/NNS come/VBP to/TO view/VB resources/NNS which/WDT include/VBP the/DT world's/NNS largest/JJS collection/NN of/IN patents/NNS and/CC the/DT UK's/NNP most/RBS extensive/JJ collection/NN of/IN science/NN technology/NN and/CC medical/JJ information./NN
+The/DT Library/NNP receives/VBZ between/IN three/CD and/CC four/CD million/CD requests/NNS from/IN remote/JJ users/NNS around/IN the/DT world/NN each/DT year./NN

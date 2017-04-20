@@ -1,0 +1,16 @@
+Wall/NNP Street/NNP cool/JJ to/TO eBay's/NNS profit/NN
+
+Shares/NNS in/IN online/NN auction/NN house/NN eBay/NN fell/VBD 9.8%/CD in/IN after-hours/JJ trade/NN on/IN Wednesday/NNP after/IN its/PRP$ quarterly/JJ profits/NNS failed/VBD to/TO meet/VB market/NN expectations./NN
+
+Despite/IN seeing/VBG net/JJ profits/NNS rise/VBP by/IN 44%/CD to/TO $205.4m/CD (£110m)/CD during/IN October/NNP to/TO December/NNP from/IN $142m/CD a/DT year/NN earlier/RBR Wall/NNP Street/NNP had/VBD expected/VBN more./NN
+EBay/NNP stock/NN fell/VBD to/TO $92.9/CD in/IN after-hours/JJ trade/NN from/IN a/DT $103.05/CD end/NN on/IN Nasdaq./NNP
+EBay's/NNP net/JJ revenue/NN for/IN the/DT quarter/NN rose/VBD to/TO $935.8m/CD from/IN $648.4m/CD boosted/VBN by/IN growth/NN at/IN its/PRP$ PayPal/NNP payment/NN service./NN
+
+Excluding/VBG special/JJ items/NNS eBay's/NNS profit/NN was/VBD 33/CD cents/NNS a/DT share/NN but/CC analysts/NNS had/VBD expected/VBN 34/CD cents./NN
+
+"I/NN think/VBP Wall/NNP Street/NNP has/VBZ gotten/VBN a/DT bit/NN ahead/RB of/IN eBay/NN this/DT quarter/NN and/CC for/IN the/DT 2005/CD year."/NN said/VBD Janco/NNP Partners/NNPS analyst/NN Martin/NNP Pyykkonen./NNP
+For/IN 2004/CD as/IN a/DT whole/NN eBay/NN earned/VBD $778.2m/CD on/IN sales/NNS of/IN $3.27bn./CD
+EBay/NNP president/NN and/CC chief/JJ executive/NN Meg/NNP Whitman/NNP called/VBD 2004/CD an/DT "outstanding/VBG success"/NN that/WDT generated/VBD "tremendous/JJ momentum"/NN for/IN 2005./CD
+"I'm/NN more/RBR confident/JJ than/IN ever/RB that/IN the/DT decisions/NNS and/CC investments/NNS we're/NN making/VBG today/NN will/MD ensure/VB a/DT bright/JJ future/NN for/IN the/DT company/NN and/CC our/PRP$ community/NN of/IN users/NNS around/IN the/DT world"/NN she/PRP said./VBP
+EBay/NNP now/RB forecasts/VBZ 2005/CD revenue/NN of/IN $4.2bn/CD to/TO $4.35bn/CD and/CC earnings/NNS excluding/VBG items/NNS of/IN $1.48/CD to/TO $1.52/CD per/IN share./NN
+Analysts/NNS had/VBD previously/RB estimated/VBD that/DT eBay/NN would/MD achieve/VB 2005/CD revenues/NNS of/IN $4.37bn/CD and/CC earnings/NNS of/IN $1.62/CD per/IN share/NN excluding/VBG items./NN

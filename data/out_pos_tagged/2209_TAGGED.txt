@@ -1,0 +1,17 @@
+Beckham/NNP virus/NN spotted/VBD on/IN the/DT net/JJ
+
+Virus/NN writers/NNS are/VBP trading/NN on/IN interest/NN in/IN David/NNP Beckham/NNP to/TO distribute/VB their/PRP$ malicious/JJ wares./NN
+
+Messages/NNS are/VBP circulating/VBG widely/RB that/WDT purport/VBP to/TO have/VB evidence/NN of/IN the/DT England/NNP captain/NN in/IN a/DT compromising/VBG position./NN
+But/CC anyone/NN visiting/VBG the/DT website/NN mentioned/VBN in/IN the/DT message/NN will/MD not/RB see/VB pictures/NNS of/IN Mr/NNP Beckham/NNP but/CC will/MD have/VB their/PRP$ computer/NN infected/JJ by/IN a/DT virus./NN
+The/DT pernicious/JJ program/NN opens/VBZ a/DT backdoor/NN on/IN a/DT computer/NN so/IN it/PRP can/MD be/VB controlled/VBN remotely/RB by/IN malicious/JJ hackers./NN
+
+The/DT appearance/NN of/IN the/DT Beckham/NNP Windows/NNS trojan/NN is/VBZ just/RB another/DT example/NN in/IN a/DT long/JJ line/NN of/IN viruses/NNS that/WDT trade/NN on/IN interest/NN in/IN celebrities/NNS in/IN an/DT attempt/NN to/TO fuel/VB their/PRP$ spread./NN
+Tennis/NN player/NN Anna/NNP Kournikova/NNP popstars/NNS Britney/NNP Spears/NNP and/CC Avril/NNP Lavigne/NNP as/RB well/RB as/IN Arnold/NNP Schwarzenegger/NNP have/VBP all/DT been/VBN used/VBN in/IN the/DT past/JJ to/TO try/VB to/TO con/VB people/NNS into/IN opening/NN infected/JJ files./NN
+The/DT huge/JJ amount/NN of/IN interest/NN in/IN Mr/NNP Beckham/NNP and/CC his/PRP$ private/JJ life/NN and/CC the/DT large/JJ number/NN of/IN messages/NNS posted/VBD to/TO discussion/VB groups/NNS on/IN the/DT net/NN might/MD mean/VB that/IN the/DT malicious/JJ program/NN catches/NNS a/DT lot/NN of/IN people/NNS out./VBP
+"The/NN public's/NNS appetite/NN for/IN salacious/JJ gossip/NN about/IN the/DT private/JJ life/NN of/IN the/DT Beckhams/NNP might/MD lead/VB some/DT into/IN an/DT unpleasant/JJ computer/NN infection"/NN said/VBD Graham/NNP Cluley/NNP from/IN anti-virus/JJ firm/NN Sophos./NNP
+Simply/RB opening/VBG the/DT message/NN will/MD not/RB infect/VB a/DT user's/NNS PC./NNP
+But/CC anyone/NN visiting/VBG the/DT website/NN it/PRP mentions/VBZ who/WP then/RB downloads/NNS and/CC opens/VBZ the/DT fake/JJ image/NN file/NN stored/VBD on/IN that/DT site/NN will/MD be/VB infected./NN
+The/DT program/NN that/IN installs/NNS itself/PRP is/VBZ called/VBN the/DT Hackarmy/NNP trojan/NN and/CC it/PRP tries/VBZ to/TO recruit/VB PCs/NNS into/IN so-called/JJ 'bot/NN networks/NNS that/WDT are/VBP often/RB used/VBN to/TO distribute/VB spam/NN mail/NN messages/NNS or/CC to/TO launch/VB attacks/NNS across/IN the/DT web./NN
+Computers/NNS running/VBG Microsoft/NNP Windows/NNS 95/CD 98/CD 2000/CD NT/NNP and/CC XP/NNP are/VBP vulnerable/JJ to/TO this/DT trojan./NN
+Many/JJ anti-virus/JJ programs/NNS have/VBP been/VBN able/JJ to/TO detect/VB this/DT trojan/NN since/IN it/PRP first/RB appeared/VBD early/RB this/DT year/NN and/CC have/VBP regularly/RB been/VBN updated/VBN to/TO catch/VB new/JJ variants./NN

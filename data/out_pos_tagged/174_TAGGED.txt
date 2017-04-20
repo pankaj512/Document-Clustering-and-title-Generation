@@ -1,0 +1,18 @@
+Yangtze/NNP Electric's/NNP profits/NNS double/JJ
+
+Yangtze/NNP Electric/NNP Power/NNP the/DT operator/NN of/IN China's/NNP Three/CD Gorges/NNP Dam/NN has/VBZ said/VBN its/PRP$ profits/NNS more/JJR than/IN doubled/VBD in/IN 2004./CD
+
+The/DT firm/NN has/VBZ benefited/VBN from/IN increased/VBN demand/NN for/IN electricity/NN at/IN a/DT time/NN when/WRB power/NN shortages/NNS have/VBP hit/VBN cities/NNS and/CC provinces/NNS across/IN the/DT country./NN
+As/IN a/DT hydroelectric-power/JJ generator/NN it/PRP has/VBZ not/RB been/VBN hurt/VBN by/IN higher/JJR coal/NN costs./NN
+Net/JJ income/NN jumped/VBD to/TO 3bn/CD yuan/NN in/IN 2004/CD ($365m/CD £190m)/CD compared/VBN with/IN 1.4bn/CD yuan/NN in/IN 2003./CD
+Sales/NNS surged/VBD to/TO 6.2bn/CD yuan/NN from/IN 3bn/CD yuan/NN a/DT year/NN earlier./NN
+The/DT figures/NNS topped/VBD analysts/NNS expectations/NNS even/RB though/IN the/DT rate/NN of/IN growth/NN has/VBZ slowed/VBN from/IN 2003./CD
+Analysts/NNS forecast/NN that/IN it/PRP is/VBZ likely/JJ to/TO decline/VB further/JJ this/DT year/NN to/TO a/DT rate/NN of/IN expansion/NN of/IN closer/JJR to/TO 20%./CD
+
+Yangtze/NNP Electric/NNP has/VBZ been/VBN expanding/VBG its/PRP$ output/NN to/TO meet/VB demand/NN driven/VBN by/IN China's/NNP booming/JJ economy./NN
+The/DT government/NN has/VBZ delayed/VBN the/DT building/NN of/IN a/DT number/NN of/IN power/NN plants/NNS in/IN an/DT effort/NN to/TO rein/VB in/RP growth/NN amid/IN concerns/NNS that/IN the/DT economy/NN may/MD overheat./VB
+That/DT has/VBZ led/VBN to/TO an/DT energy/NN crunch/NN with/IN demand/NN outstripping/VBG supply./NN
+Earlier/RBR this/DT month/NN work/NN was/VBD halted/VBN on/IN an/DT underground/JJ power/NN station/NN and/CC a/DT supply/NN unit/NN on/IN the/DT Three/CD Gorges/NNP Dam/NN as/RB well/RB as/IN a/DT power/NN station/NN on/IN its/PRP$ sister/NN Xiluodu/NNP dam/NN because/IN of/IN environmental/JJ worries./NN
+A/DT total/NN of/IN 30/CD large-scale/JJ projects/NNS have/VBP been/VBN halted/VBN across/IN the/DT country/NN for/IN similar/JJ reasons./NN
+The/DT Three/CD Gorges/NNP Dam/NN project/NN has/VBZ led/VBN to/TO more/JJR than/IN half/PDT a/DT million/CD people/NNS being/VBG relocated/VBN and/CC drawn/VBN criticism/NN from/IN environmental/JJ groups/NNS and/CC overseas/JJ human/JJ rights/NNS activists./NN
+Its/PRP$ sister/NN project/NN the/DT Xiluodu/NNP Dam/NN is/VBZ being/VBG built/VBN on/IN the/DT Jinshajiang/NNP -/: or/CC "river/NN of/IN golden/JJ sand"/NN as/IN the/DT upper/JJ reaches/NNS of/IN the/DT Yangtze/NNP are/VBP known./NN

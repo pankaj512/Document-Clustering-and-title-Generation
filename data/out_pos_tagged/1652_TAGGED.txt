@@ -1,0 +1,15 @@
+Captains/NNP lining/VBG up/RP for/IN Aid/NNP match/VB
+
+Ireland's/NNP Brian/NNP O'Driscoll/NNP is/VBZ one/CD of/IN four/CD Six/CD Nations/NNPS captains/NNS included/VBN in/IN the/DT Northern/NNP Hemisphere/NNP squad/NN for/IN the/DT IRB/NNP Rugby/NNP Aid/NNP match/VB on/IN 5/CD March./NNP
+
+France's/NNP Fabien/NNP Pelous/NNP Gordon/NNP Bullock/NNP of/IN Scotland/NNP and/CC Italy's/NNP Marco/NNP Bortolami/NNP are/VBP also/RB in/IN the/DT Northern/NNP party./NN
+Sir/NNP Clive/NNP Woodward/NNP will/MD coach/VB the/DT Northern/NNP team/NN against/IN Rod/NNP Macqueen's/NNP Southern/NNP Hemisphere/NNP team/NN in/IN a/DT tsumani/NN fund-raising/NN match/NN at/IN Twickenham./NNP
+"I'm/NN looking/VBG forward/RB to/TO working/VBG with/IN such/JJ outstanding/JJ players"/NN he/PRP said./VB
+It/PRP will/MD be/VB a/DT chance/NN for/IN Woodward/NNP to/TO assess/VB some/DT of/IN his/PRP$ options/NNS before/IN unveiling/VBG his/PRP$ British/JJ and/CC Irish/JJ Lions/NNP touring/VBG party/NN who/WP will/MD visit/VB New/NNP Zealand/NNP in/IN the/DT summer./NN
+"The/NN game/NN promises/VBZ to/TO be/VB a/DT great/JJ spectacle"/NN he/PRP said./VB
+"Both/NN teams/NNS are/VBP fielding/VBG top-quality/JJ sides/NNS and/CC I/PRP really/RB hope/VBP that/IN the/DT rugby/NN public/NN and/CC community/NN get/NN behind/IN this/DT game/NN to/TO raise/VB as/IN much/JJ money/NN as/IN possible/JJ for/IN such/JJ a/DT deserving/JJ cause."/NN
+
+L/NNP Dallaglio/NNP (England)/NN B/NNP Cohen/NNP (England)/NN A/DT Rougerie/NNP (France)/NN D/NNP Traille/NNP (France)/NN F/NN Pelous/NNP (France)/NN R/NN Ibanez/NNP (France)/NN P/NNP de/NNP Villiers/NNP (France)/NN B/NNP O'Driscoll/NNP (Ireland/NN capt)/NN P/NNP O'Connell/NNP (Ireland)/NN D/NNP Humphreys/NNP (Ireland)/NN C/NNP Paterson/NNP (Scotland)/NN C/NNP Cusiter/NNP (Scotland)/NN G/NNP Bullock/NNP (Scotland)/NN S/NNP Taylor/NNP (Scotland)/NN A/DT Lo/NNP Cicero/NNP (Italy)/NN M/NNP Bortolami/NNP (Italy)/NN S/NNP Parisse/NNP (Italy)/NN D/NNP Peel/NNP (Wales)/NN C/NNP Sweeney/NNP (Wales)/NN J/NNP Thomas/NNP (Wales)/NN R/NN Williams/NNP (Wales)/NN J/NNP Yapp/NNP (Wales)./NN
+
+C/NNP Latham/NNP (Australia)/NN R/NN Caucaunibuca/NNP (Fiji)/NN J/NNP Fourie/NNP (S/NN Africa)/NNP T/NNP Umaga/NNP (New/NN Zealand)/NNP S/NNP Bobo/NNP (Fiji)/NN A/DT Mehrtens/NNP (New/NN Zealand)/NNP G/NNP Gregan/NNP (Australia/NN capt)/NN T/NNP Kefu/NNP (Australia)/NN P/NNP Waugh/NNP (Australia)/NN S/NNP Burger/NNP (S/NN Africa)/NNP I/PRP Rawaqa/NNP (Fiji)/NN V/NNP Matfield/NNP (S/NN Africa)/NNP K/NNP Visagie/NNP (S/NN Africa)/NNP J/NNP Smit/NNP (S/NN Africa)/NNP C/NNP Hoeft/NNP (New/NN Zealand)./NNP
+Reserves/NNS B/NNP Reihana/NNP (New/NN Zealand)/NNP B/NNP Lima/NNP (Samoa)/NN E/NN Taukafa/NNP (Tonga)/NN O/NNP Palepoi/NNP (Samoa)/NN S/NNP Sititi/NNP (Samoa)/NN M/NNP Rauluni/NNP (Fiji)/NN A/DT N/NNP Other./NNP

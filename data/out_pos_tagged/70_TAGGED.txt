@@ -1,0 +1,12 @@
+Circuit/NNP City/NNP gets/VBZ takeover/NN offer/NN
+
+Circuit/NNP City/NNP Stores/NNPS the/DT second-largest/JJ electronics/NN retailer/NN in/IN the/DT US/PRP has/VBZ received/VBN a/DT $3.25bn/CD (£1.7bn)/CD takeover/NN offer./NN
+
+The/DT bid/NN has/VBZ come/VBN from/IN Boston-based/JJ private/JJ investment/NN firm/NN Highfields/NNP Capital/NNP Management/NNP which/WDT already/RB owns/VBZ 6.7%/CD of/IN Circuit/NNP City's/NNP shares./NN
+Shares/NNS in/IN the/DT retailer/NN were/VBD up/RB 19.6%/CD at/IN $17.04/CD in/IN Tuesday/NNP morning/NN trading/NN in/IN New/NNP York/NNP following/VBG the/DT announcement./NN
+Highfield/NNP said/VBD that/IN it/PRP intends/VBZ to/TO take/VB the/DT Virginia-based/JJ firm/JJ private./NN
+
+"Such/NN a/DT transformation/NN would/MD eliminate/VB the/DT public-company/NN transparency/NN into/IN the/DT company's/NNS operating/NN strategy/NN that/WDT is/VBZ uniquely/RB damaging/JJ in/IN a/DT highly/RB competitive/JJ industry/NN where/WRB Circuit/NNP City/NNP is/VBZ going/VBG head-to-head/JJ with/IN a/DT tough/JJ and/CC entrenched/JJ rival"/NN Highfield/NNP said./NN
+One/CD analyst/NN suggested/VBD that/IN a/DT bidding/NN battle/NN may/MD now/RB begin/VB for/IN the/DT company./NN
+Bill/NNP Armstrong/NNP a/DT retail/JJ analyst/NN at/IN CL/NNP King/NNP &/CC Associates/NNP said/VBD he/PRP expected/VBD to/TO see/VB other/JJ private/JJ investment/NN firms/NNS come/VBP forward/RB for/IN Circuit/NNP City./NNP
+The/DT retailer/NN is/VBZ debt/NN free/JJ with/IN a/DT good/JJ cash/NN flow/NN despite/IN the/DT fact/NN that/IN it/PRP is/VBZ said/VBN to/TO be/VB struggling/VBG to/TO keep/VB up/RP with/IN market/NN leader/NN Best/JJS Buy/VB and/CC cut-price/JJ competition/NN from/IN the/DT likes/NNS of/IN Wal-Mart/NNP said/VBD Mr/NNP Armstrong./NNP

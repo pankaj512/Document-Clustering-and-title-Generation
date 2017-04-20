@@ -1,0 +1,15 @@
+UK/NNP Directors/NNS Guild/NNP nominees/NNS named/VBN
+
+Martin/NNP Scorsese/NNP and/CC Clint/NNP Eastwood/NNP are/VBP among/IN the/DT nominees/NNS for/IN the/DT top/JJ prize/NN at/IN the/DT Directors/NNS Guild/NNP of/IN Great/NNP Britain/NNP awards/NNS now/RB in/IN their/PRP$ second/JJ year./NN
+
+The/DT Oscar/NNP rivals/NNS will/MD compete/VB for/IN the/DT international/JJ film/NN prize/NN at/IN the/DT ceremony/NN to/TO be/VB held/VBN at/IN the/DT Curzon/NNP Mayfair/NNP cinema/NN in/IN London/NNP on/IN 20/CD March./NNP
+Other/JJ nominees/NNS include/VBP Bill/NNP Condon/NNP for/IN Kinsey/NNP and/CC Michel/NNP Gondry/NNP for/IN Eternal/JJ Sunshine/NNP of/IN the/DT Spotless/NNP Mind./NNP
+Mike/NNP Leigh's/NNP Vera/NNP Drake/NNP is/VBZ among/IN the/DT nominees/NNS for/IN best/JJS British/JJ film./NN
+The/DT awards/NNS will/MD see/VB Eastwood/NNP and/CC Scorsese/NNP once/RB again/RB competing/VBG for/IN the/DT directing/VBG prize/NN following/VBG last/JJ weekend's/NNS Oscars./NNP
+Clint/NNP Eastwood/NNP won/VBD best/RBS director/NN for/IN Million/CD Dollar/NN Baby/NNP beating/VBG Scorsese/NNP who/WP was/VBD nominated/VBN for/IN a/DT fifth/JJ time/NN for/IN the/DT Howard/NNP Hughes/NNP biopic/VBD The/DT Aviator./NNP
+Mike/NNP Leigh/NNP will/MD compete/VB for/IN the/DT British/JJ film/NN prize/NN with/IN Shane/NNP Meadows/NNP for/IN Dead/NNP Man's/NNP Shoes/NNS Roger/NNP Michell/NNP For/IN Enduring/VBG Love/NNP and/CC My/PRP$ Summer/NNPS Of/IN Love/NNP director/NN Pawel/NNP Pawlikowski./NNP
+
+Nominees/NNS for/IN best/JJS foreign/JJ film/NN include/VBP Spain's/NNP Pedro/NNP Almodovar/NNP for/IN Bad/JJ Education/NNP and/CC Hong/NNP Kong/NNP director/NN Wong/NNP Kar-Wai/NNP for/IN 2046./CD
+In/IN the/DT TV/NN categories/NNS comedy/NN series/NN Early/RB Doors/VBZ and/CC The/DT Alan/NNP Clark/NNP Diaries/NNS will/MD compete/VB for/IN the/DT best/JJS directing/VBG award/NN for/IN a/DT 30-minute/JJ television/NN show/NN while/IN the/DT directors/NNS of/IN Shameless/NNP Hustle/NNP and/CC Bodies/NNS are/VBP all/DT nominated/VBN for/IN the/DT 60-minute/JJ television/NN prize./NN
+The/DT directors/NNS of/IN Omagh/NNP and/CC Sex/NN Traffic/NNP are/VBP among/IN the/DT nominees/NNS for/IN a/DT television/NN movie/NN or/CC mini-series./JJ
+American/NNP Beauty's/NNP Sam/NNP Mendes/NNP will/MD receive/VB a/DT lifetime/NN achievement/NN award/NN for/IN his/PRP$ work/NN in/IN film/NN and/CC theatre/FW while/IN theatre/FW director/NN Simon/NNP McBurney/NNP will/MD be/VB given/VBN an/DT award/NN for/IN outstanding/JJ directorial/JJ achievement./NN

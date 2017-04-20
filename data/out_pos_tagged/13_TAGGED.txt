@@ -1,0 +1,18 @@
+Peugeot/NNP deal/NN boosts/VBZ Mitsubishi/NNP
+
+Struggling/VBG Japanese/JJ car/NN maker/NN Mitsubishi/NNP Motors/NNPS has/VBZ struck/VBN a/DT deal/NN to/TO supply/VB French/JJ car/NN maker/NN Peugeot/NNP with/IN 30000/CD sports/NNS utility/NN vehicles/NNS (SUV)./NN
+
+The/DT two/CD firms/NNS signed/VBD a/DT Memorandum/NN of/IN Understanding/NN and/CC say/VB they/PRP expect/VBP to/TO seal/VB a/DT final/JJ agreement/NN by/IN Spring/NNP 2005./CD
+The/DT alliance/NN comes/VBZ as/IN a/DT badly-needed/JJ boost/NN for/IN loss-making/JJ Mitsubishi/NNP after/IN several/JJ profit/NN warnings/NNS and/CC poor/JJ sales./NN
+The/DT SUVs/NNP will/MD be/VB built/VBN in/IN Japan/NNP using/VBG Peugeot's/NNP diesel/NN engines/NNS and/CC sold/VBN mainly/RB in/IN the/DT European/JJ market./NN
+Falling/VBG sales/NNS have/VBP left/VBN Mitsubishi/NNP Motors/NNPS with/IN underused/VBN capacity/NN and/CC the/DT production/NN deal/NN with/IN Peugeot/NNP gives/VBZ it/PRP a/DT chance/NN to/TO utilise/VB some/DT of/IN it./NN
+
+In/IN January/NNP Mitsubishi/NNP Motors/NNPS issued/VBD its/PRP$ third/JJ profits/NNS warning/NN in/IN nine/CD months/NNS and/CC cut/VB its/PRP$ sales/NNS forecasts/NNS for/IN the/DT year/NN to/TO March/NNP 2005./CD
+Its/PRP$ sales/NNS have/VBP slid/VBN 41%/CD in/IN the/DT past/JJ year/NN catalysed/VBN by/IN the/DT revelation/NN that/IN the/DT company/NN had/VBD systematically/RB been/VBN hiding/VBG records/NNS of/IN faults/NNS and/CC then/RB secretly/RB repairing/VBG vehicles./NN
+As/IN a/DT result/NN the/DT Japanese/JJ car/NN maker/NN has/VBZ sought/VBN a/DT series/NN of/IN financial/JJ bailouts./NN
+Last/JJ month/NN it/PRP said/VBD it/PRP was/VBD looking/VBG for/IN a/DT further/JJ 540bn/CD yen/NNS ($5.2bn/CD £2.77bn)/CD in/IN fresh/JJ financial/JJ backing/NN half/NN of/IN it/PRP from/IN other/JJ companies/NNS in/IN the/DT Mitsubishi/NNP group./NN
+US-German/NNP carmaker/NN DaimlerChrylser/NNP a/DT 30%/CD shareholder/NN in/IN Mitsubishi/NNP Motors/NNPS decided/VBD in/IN April/NNP 2004/CD not/RB to/TO pump/VB in/IN any/DT more/JJR money./NN
+The/DT deal/NN with/IN Peugeot/NNP was/VBD celebrated/JJ by/IN Mitsubishi's/NNP newly-appointed/JJ chief/JJ executive/NN Takashi/NNP Nishioka/NNP who/WP took/VBD over/RP after/IN three/CD top/JJ bosses/NNS stood/VBD down/RB last/JJ month/NN to/TO shoulder/VB responsibility/NN for/IN the/DT firm's/NNS troubles./NN
+Mitsubishi/NNP Motors/NNPS has/VBZ forecast/VBN a/DT net/JJ loss/NN of/IN 472bn/CD yen/NNS in/IN its/PRP$ current/JJ financial/JJ year/NN to/TO March/NNP 2005./CD
+Last/JJ month/NN it/PRP signed/VBD a/DT production/NN agreement/NN with/IN Japanese/JJ rival/JJ Nissan/NNP Motor/NNP to/TO supply/VB it/PRP with/IN 36000/CD small/JJ cars/NNS for/IN sale/NN in/IN Japan./NNP
+It/PRP has/VBZ been/VBN making/VBG cars/NNS for/IN Nissan/NNP since/IN 2003./CD

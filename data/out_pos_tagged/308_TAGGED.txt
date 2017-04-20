@@ -1,0 +1,18 @@
+French/JJ boss/NN to/TO leave/VB EADS/NNP
+
+The/DT French/JJ co-head/NN of/IN European/JJ defence/NN and/CC aerospace/NN group/NN EADS/NNP Philippe/NNP Camus/NNP is/VBZ to/TO leave/VB his/PRP$ post./NN
+
+Mr/NNP Camus/NNP said/VBD in/IN a/DT statement/NN that/IN he/PRP has/VBZ accepted/VBN the/DT invitation/NN to/TO return/VB full-time/JJ to/TO the/DT Lagardere/NNP group/NN which/WDT owns/VBZ 30%/CD of/IN EADS./NNP
+"I/NN will/MD give/VB up/RP my/PRP$ role/NN as/RB soon/RB as/IN the/DT board/NN of/IN directors/NNS asks/VBZ me/PRP to/TO do/VB so"/NN he/PRP said./VB
+Airbus/NNP head/NN Noel/NNP Forgeard/NNP is/VBZ now/RB set/VBN to/TO replace/VB Mr/NNP Camus/NNP bringing/VBG the/DT company's/NNS power/NN struggle/NN to/TO an/DT end./NN
+Fighting/NN between/IN Mr/NNP Camus/NNP and/CC Mr/NNP Forgeard/NNP has/VBZ hit/VBN the/DT headlines/NNS in/IN France/NNP and/CC analysts/NNS feared/VBN that/IN this/DT fighting/VBG could/MD destabilise/VB the/DT defence/NN and/CC aerospace/NN group./NN
+French/JJ finance/NN minister/NN Herve/NNP Gaymard/NNP is/VBZ on/IN record/NN as/IN saying/VBG that/IN he/PRP "deplored"/VB the/DT infighting/NN at/IN the/DT company./NN
+The/DT company/NN should/MD now/RB be/VB able/JJ put/NN this/DT dispute/NN behind/IN it/PRP with/IN the/DT departure/NN of/IN Mr/NNP Camus/NNP and/CC with/IN the/DT clear/JJ support/NN given/VBN to/TO Mr/NNP Forgeard/NNP by/IN the/DT Lagardere/NNP group/NN the/DT main/JJ French/JJ shareholder/NN of/IN EADS./NNP
+The/DT other/JJ main/JJ shareholders/NNS of/IN EADS/NNP are/VBP the/DT French/JJ government/NN (15%)/CD who/WP also/RB support/VB Mr/NNP Forgeard/NNP and/CC Germany's/NNP DaimlerChrysler/NNP (30%)./CD
+Rainer/NNP Hertrich/NNP the/DT German/NNP co-head/NN of/IN EADS/NNP will/MD also/RB step/VB down/RP when/WRB his/PRP$ contract/NN expires/VBZ next/JJ year./NN
+
+Mr/NNP Camus/NNP recently/RB came/VBD under/IN pressure/NN as/IN it/PRP became/VBD clear/JJ that/IN the/DT A380/CD superjumbo/NN was/VBD running/VBG over/IN budget./NN
+EADS/NNP -/: Airbus'/NNP majority/NN owner/NN -/: admitted/VBN earlier/RBR this/DT week/NN that/IN the/DT project/NN was/VBD running/VBG 1.45bn/CD euros/NNS (£1bn/CD $1.9bn)/CD over/IN budget./NN
+But/CC Mr/NNP Forgeard/NNP has/VBZ denied/VBN this/DT telling/VBG French/JJ media/NNS that/IN there/EX is/VBZ no/DT current/JJ overrun/NN in/IN the/DT budget./NN
+"But/NN for/IN the/DT sake/NN of/IN transparency/NN we/PRP told/VBD our/PRP$ shareholders/NNS last/JJ week/NN that/IN if/IN we/PRP look/VBP at/IN the/DT forecast/NN for/IN total/JJ costs/NNS of/IN the/DT project/NN up/IN to/TO 2010/CD there/EX is/VBZ a/DT risk/NN that/IN we/PRP will/MD go/VB over/IN by/IN around/IN 10%/CD which/WDT is/VBZ about/IN 1bn/CD euros/NNS (£686m/CD $1.32bn)"/CD he/PRP told/VBD France's/NNP LCI/NNP Television./NNP
+Due/JJ to/TO enter/VB service/NN in/IN 2006/CD the/DT A380/CD will/MD replace/VB the/DT Boeing/NNP 747/CD jumbo/JJ as/IN the/DT world's/NNS biggest/JJS passenger/NN aircraft./NN

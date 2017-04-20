@@ -1,0 +1,18 @@
+E-University/NNP 'disgraceful/JJ waste'/NN
+
+A/DT failed/VBD government/NN scheme/NN to/TO offer/VB UK/NNP university/NN courses/NNS online/NN has/VBZ been/VBN branded/VBN a/DT "disgraceful/JJ waste"/NN by/IN MPs./NNP
+
+The/DT e-University/NN was/VBD scrapped/VBN last/JJ year/NN having/VBG attracted/VBN only/RB 900/CD students/NNS at/IN a/DT cost/NN of/IN £50m./CD
+Chief/NNP executive/NN John/NNP Beaumont/NNP was/VBD paid/VBN a/DT bonus/NN of/IN £44914/CD despite/IN a/DT failure/NN to/TO bring/VB in/RP private/JJ sector/NN backers./NN
+The/DT Commons/NNPS education/NN select/NN committee/NN called/VBD this/DT "morally/RB indefensible"/NN but/CC the/DT government/NN said/VBD the/DT e-University/JJ project/NN had/VBD "improved/VBN understanding"./NN
+
+A/DT Department/NNP for/IN Education/NNP and/CC Skills/NNS spokeswoman/NN said/VBD the/DT venture/NN had/VBD been/VBN "ambitious/JJ and/CC ground-breaking/JJ but/CC take-up/JJ had/VBD not/RB been/VBN "sufficient/NN to/TO continue/VB with/IN the/DT project"./NN
+She/PRP added/VBD "UK/NN e-Universities/NNS was/VBD not/RB the/DT only/JJ organisation/NN to/TO have/VB lost/VBN out/RP on/IN private/JJ sector/NN investment/NN in/IN the/DT collapse/NN of/IN the/DT dotcom/NN boom."/NN The/DT select/JJ committee/NN found/VBD that/IN those/DT responsible/JJ for/IN founding/NN the/DT e-University/NN in/IN 2000/CD had/VBD been/VBN caught/VBN up/RP in/IN the/DT "general/JJ atmosphere/NN of/IN enthusiasm"/NN surrounding/VBG the/DT internet./JJ
+Initial/JJ business/NN plans/NNS forecast/VBP a/DT quarter/NN of/IN a/DT million/CD students/NNS joining/VBG within/IN a/DT decade/NN bringing/VBG in/IN at/IN least/JJS £110m/CD in/IN profit./NN
+
+But/CC virtually/RB no/DT market/NN research/NN was/VBD carried/VBN out/RB and/CC just/RB £4.2m/CD was/VBD spent/VBN on/IN worldwide/NN sales/NNS and/CC marketing/NN of/IN courses./NN
+Some/DT £14m/CD went/VBD on/IN developing/VBG the/DT technology/NN to/TO make/VB the/DT e-University/JJ work./NN
+This/DT was/VBD used/VBN by/IN just/RB 200/CD students/NNS the/DT rest/NN preferring/VBG to/TO work/VB through/IN existing/VBG university/NN websites./NN
+With/IN no/DT significant/JJ private/JJ investors/NNS and/CC no/DT direct/JJ accountability/NN to/TO a/DT government/NN minister/NN the/DT e-University/NN had/VBD had/VBN "too/NN much/JJ freedom/NN to/TO spend/VB public/JJ money/NN as/IN it/PRP wished"/NN the/DT report/NN found./NN
+Committee/NNP chairman/NN Barry/NNP Sheerman/NNP said/VBD "UK/NN e-University/NN was/VBD a/DT terrible/JJ waste/NN of/IN public/JJ money./NN
+"The/NN senior/JJ executives/NNS failed/VBD to/TO interest/VB any/DT private/JJ investors/NNS and/CC showed/VBD an/DT extraordinary/JJ over-confidence/NN in/IN their/PRP$ ability/NN to/TO attract/VB students/NNS to/TO the/DT scheme."/NN The/DT report/NN warns/VBZ that/IN the/DT government/NN should/MD not/RB be/VB scared/VBN off/RP investment/NN in/IN innovative/JJ but/CC potentially/RB risky/JJ schemes/NNS by/IN the/DT failure/NN of/IN the/DT e-University/JJ but/CC "should/NN learn/VBP the/DT lessons/NNS from/IN this/DT disaster"./JJ

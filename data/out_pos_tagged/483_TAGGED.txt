@@ -1,0 +1,14 @@
+Ailing/VBG EuroDisney/NNP vows/VBZ turnaround/NN
+
+EuroDisney/VBG the/DT European/JJ home/NN of/IN Mickey/NNP Mouse/NNP and/CC friends/NNS has/VBZ said/VBN it/PRP will/MD sell/VB 253m/CD euros/NNS (£175m/CD $328m)/CD of/IN new/JJ shares/NNS as/IN it/PRP looks/VBZ to/TO avoid/VB insolvency./NN
+
+The/DT sale/NN is/VBZ the/DT last/JJ part/NN of/IN a/DT plan/NN to/TO restructure/VB 2.4bn/CD euros-worth/JJ of/IN debts./NN
+Despite/IN struggling/VBG since/IN it/PRP was/VBD opened/VBN in/IN 1992/CD EuroDisney/NNP has/VBZ recently/RB made/VBN progress/NN in/IN turning/VBG its/PRP$ business/NN around/IN and/CC ticket/NN sales/NNS have/VBP picked/VBN up./NN
+However/RB analysts/NNS still/RB question/VBP whether/IN it/PRP attracts/VBZ enough/JJ visitors/NNS to/TO stay/VB open/JJ even/RB with/IN the/DT restructuring./NN
+
+EuroDisney/NNP remains/VBZ Europe's/NNP largest/JJS single/JJ tourist/NN attraction/NN attracting/VBG some/DT 12.4/CD million/CD visitors/NNS annually./NN
+A/DT new/JJ attraction/NN -/: Walt/NNP Disney/NNP Studios/NNP -/: has/VBZ recently/RB opened/VBN its/PRP$ site/NN near/IN Paris./NNP
+The/DT company's/NNS currently/RB traded/VBN stock/NN tumbled/VBD in/IN Paris/NNP on/IN the/DT latest/JJS news/NN shedding/VBG 15%/CD to/TO 22/CD euro/NN cents./NN
+EuroDisney/NNP will/MD sell/VB the/DT new/JJ shares/NNS priced/VBN at/IN 9/CD euros/NNS cents/NNS each./NN
+The/DT US/PRP Disney/NNP Corporation/NNP and/CC Saudi/NNP Arabian/NNP prince/NN Al-Walid/NNP bin/NN Talal/NNP the/DT firm's/NNS two/CD main/JJ shareholders/NNS will/MD buy/VB the/DT new/JJ stock./NN
+The/DT restructuring/NN deal/NN is/VBZ the/DT second/NN in/IN the/DT firm's/NNS troubled/JJ financial/JJ history/NN its/PRP$ finances/NNS were/VBD first/RB reorganised/VBN in/IN 1994./CD

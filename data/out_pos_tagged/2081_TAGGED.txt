@@ -1,0 +1,17 @@
+Santy/NNP worm/NN makes/VBZ unwelcome/JJ visit/NN
+
+Thousands/NNS of/IN website/NN bulletin/NN boards/NNS have/VBP been/VBN defaced/VBN by/IN a/DT virus/NN that/WDT used/VBD Google/NNP to/TO spread/VB across/IN the/DT net./NN
+
+The/DT Santy/NNP worm/NN first/RB appeared/VBD on/IN 20/CD December/NNP and/CC within/IN 24/CD hours/NNS had/VBD successfully/RB hit/VBN more/JJR than/IN 40000/CD websites./NN
+The/DT malicious/JJ program/NN exploits/VBZ a/DT vulnerability/NN in/IN the/DT widely/RB used/JJ phpBB/NN software./NN
+Santy's/NNP spread/NN has/VBZ now/RB been/VBN stopped/VBN after/IN Google/NNP began/VBD blocking/VBG infected/JJ sites/NNS searching/VBG for/IN new/JJ victims./NN
+
+The/DT worm/NN replaces/VBZ chat/VB forums/NNS with/IN a/DT webpage/NN announcing/VBG that/IN the/DT site/NN had/VBD been/VBN defaced/VBN by/IN the/DT malicious/JJ program./NN
+Soon/RB after/IN being/VBG infected/JJ sites/NNS hit/VBN by/IN the/DT worm/NN started/VBD randomly/RB searching/VBG for/IN other/JJ websites/NNS running/VBG the/DT vulnerable/JJ phpBB/NN software./NN
+Once/RB Google/NNP started/VBD blocking/VBG these/DT search/NN queries/NNS the/DT rate/NN of/IN infection/NN tailed/VBD off/RP sharply./NN
+A/DT message/NN sent/VBN to/TO Finnish/JJ security/NN firm/NN F-Secure/NNP by/IN Google's/NNP security/NN team/NN said/VBD "While/NN a/DT seven/CD hour/NN response/NN for/IN something/NN like/IN this/DT is/VBZ not/RB outrageous/JJ we/PRP think/VBP we/PRP can/MD and/CC should/MD do/VB better."/NN "We/NN will/MD be/VB reviewing/VBG our/PRP$ procedures/NNS to/TO improve/VB our/PRP$ response/NN time/NN in/IN the/DT future/JJ to/TO similar/JJ problems"/NN the/DT Google/NNP team/NN said./NN
+Security/NN firms/NNS estimate/VBP that/IN about/IN 1m/CD websites/NNS run/VBP their/PRP$ discussion/NN groups/NNS and/CC forums/NNS with/IN the/DT open/JJ source/NN phpBB/NN program./NN
+The/DT worst/JJS of/IN the/DT attack/NN now/RB seems/VBZ to/TO be/VB over/IN as/IN a/DT search/NN conducted/VBN on/IN the/DT morning/NN of/IN the/DT 22/CD December/NNP produced/VBN only/RB 1440/CD hits/NNS for/IN sites/NNS showing/VBG the/DT text/NN used/VBN in/IN the/DT defacement/NN message./NN
+People/NNS using/VBG the/DT sites/NNS hit/VBN by/IN Santy/NNP will/MD not/RB be/VB affected/VBN by/IN the/DT worm./NN
+Santy/NNP is/VBZ not/RB the/DT first/JJ malicious/JJ program/NN to/TO use/VB Google/NNP to/TO help/VB it/PRP spread./NN
+In/IN July/NNP a/DT variant/JJ of/IN the/DT MyDoom/NNP virus/NN slowed/VBD down/RP searches/NNS on/IN Google/NNP as/IN the/DT program/NN flooded/VBD the/DT search/NN site/NN with/IN queries/NNS looking/VBG for/IN new/JJ e-mail/JJ addresses/NNS to/TO send/VB itself/PRP to./VBP

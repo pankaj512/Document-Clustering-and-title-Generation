@@ -1,0 +1,19 @@
+Rank/NNP 'set/NN to/TO sell/VB off/RP film/NN unit'/NN
+
+Leisure/NN group/NN Rank/NNP could/MD unveil/VB plans/NNS to/TO demerge/VB its/PRP$ film/NN services/NNS unit/NN and/CC sell/VB its/PRP$ media/NNS business/NN reports/NNS claim./NN
+
+Rank/NNP formerly/RB famous/JJ for/IN the/DT Carry/NN On/IN series/NN will/MD expose/VB the/DT shake-up/NN at/IN the/DT announcement/NN of/IN its/PRP$ results/NNS on/IN Friday/NNP the/DT Sunday/NNP Telegraph/NNP reported./NN
+Advisors/NNP Goldman/NNP Sachs/NNP are/VBP understood/VBN to/TO have/VB valued/VBN its/PRP$ demerged/VBN Deluxe/JJ Film/NNP unit/NN at/IN £300m/CD the/DT report/NN added./NN
+Speculation/NN of/IN a/DT possible/JJ shake-up/NN has/VBZ mounted/VBN since/IN Rank/NNP announced/VBD a/DT study/NN into/IN a/DT possible/JJ demerger/NN in/IN September./NNP
+Since/IN Mike/NNP Smith's/NNP appointment/NN as/IN chief/JJ executive/NN in/IN 1999/CD the/DT group/NN has/VBZ focused/VBN on/IN fewer/JJR businesses/NNS and/CC embarked/VBN on/IN a/DT major/JJ cost-cutting/JJ programme/NN which/WDT has/VBZ seen/VBN it/PRP dispose/VB of/IN a/DT number/NN of/IN businesses/NNS including/VBG the/DT Odeon/NNP cinema/NN chain/NN and/CC the/DT Pinewood/NNP studios./NN
+The/DT move/NN left/VBD the/DT group/NN with/IN three/CD core/NN divisions/NNS gaming/VBG Hard/JJ Rock/NNP and/CC Deluxe/JJ Films/NNS which/WDT provides/VBZ technical/JJ services/NNS to/TO Hollywood/NNP studios./NN
+
+Rank/NNP now/RB aims/VBZ to/TO concentrate/VB on/IN its/PRP$ gaming/NN bars/NNS and/CC hotels/NNS business/NN including/VBG extending/VBG its/PRP$ Hard/JJ Rock/NNP brand/NN to/TO its/PRP$ casinos/NNS -/: trials/NNS of/IN which/WDT have/VBP been/VBN a/DT success./NN
+It/PRP also/RB owns/VBZ Deluxe/JJ Media/NNP which/WDT makes/VBZ and/CC distributes/VBZ DVDs/NNP and/CC videos./NN
+However/RB that/DT business/NN is/VBZ seen/VBN as/IN less/JJR successful./NN
+Last/JJ year/NN it/PRP made/VBD profits/NNS of/IN £21.5m/CD on/IN a/DT turnover/NN of/IN £392.1m/CD and/CC experts/NNS suggest/VBP its/PRP$ success/NN in/IN moving/VBG to/TO DVDs/NNP from/IN VHS/NNP video/NN could/MD make/VB it/PRP an/DT attractive/JJ target/NN for/IN a/DT private/JJ equity/NN buyer./NN
+A/DT spokesman/NN for/IN the/DT firm/NN refused/VBD to/TO comment/VB on/IN the/DT reports/NNS but/CC said/VBD any/DT results/NNS from/IN the/DT demerger/NN study/NN were/VBD likely/JJ to/TO be/VB set/VBN out/RP when/WRB it/PRP unveiled/VBD its/PRP$ results/NNS on/IN Friday./NNP
+Analysts/NNS predict/VBP the/DT firm/NN is/VBZ likely/JJ to/TO report/VB a/DT slight/JJ drop/NN in/IN annual/JJ pre-tax/JJ profits/NNS to/TO £170m/CD from/IN £194m/CD last/JJ year./NN
+Formed/VBN in/IN the/DT 1940s/NNS the/DT firm/NN was/VBD a/DT leading/JJ UK/NNP film/NN producer/NN and/CC cinema/NN owner/NN for/IN many/JJ years./NN
+It/PRP has/VBZ now/RB diversified/JJ into/IN a/DT range/NN of/IN other/JJ leisure/NN activities/NNS -/: mainly/RB in/IN the/DT UK/NNP -/: including/VBG hotels/NNS roadside/NN service/NN areas/NNS and/CC holiday/NN centres./NN
+It/PRP now/RB owns/VBZ 34/CD Grosvenor/NNP casinos/VBZ the/DT Mecca/NNP Bingo/NNP chain/NN and/CC more/JJR than/IN 100/CD Hard/JJ Rock/NNP Cafes/NNS in/IN 38/CD countries./NN

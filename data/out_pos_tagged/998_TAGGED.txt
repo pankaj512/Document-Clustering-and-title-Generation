@@ -1,0 +1,28 @@
+Blunkett/NNP row/NN should/MD end/VB -/: Blair/NNP
+
+Prime/NNP Minister/NNP Tony/NNP Blair/NNP said/VBD it/PRP was/VBD time/NN to/TO draw/VB a/DT line/NN under/IN the/DT controversy/NN surrounding/VBG David/NNP Blunkett./NNP
+
+The/DT Tories/NNPS and/CC the/DT Lib/NNP Dems/NNP have/VBP called/VBN for/IN a/DT second/JJ inquiry/NN into/IN the/DT fast-tracking/NN of/IN a/DT visa/NN application/NN for/IN Mr/NNP Blunkett's/NNP ex-lover's/NN nanny./NN
+Sir/NNP Alan/NNP Budd/NNP found/VBD a/DT "chain/NN of/IN events"/NN linked/VBN Mr/NNP Blunkett/NNP to/TO Leoncia/NNP Casalme's/NNP indefinite/JJ leave/NN to/TO remain/VB application./NN
+At/IN the/DT end/NN of/IN his/PRP$ Middle/NNP East/NNP trip/NN Mr/NNP Blair/NNP said/VBD he/PRP still/RB admired/VBD Mr/NNP Blunkett/NNP and/CC thought/VBD his/PRP$ integrity/NN was/VBD intact./NN
+
+On/IN Tuesday/NNP Sir/NNP Alan/NNP said/VBD the/DT application/NN for/IN leave/NN to/TO remain/VB in/IN the/DT UK/NNP made/VBN by/IN Kimberly/NNP Quinn's/NNP nanny/NN was/VBD processed/VBN in/IN 52/CD days/NNS 120/CD days/NNS faster/RBR than/IN the/DT average./NN
+But/CC he/PRP could/MD not/RB find/VB evidence/NN to/TO show/VB whether/IN Mr/NNP Blunkett's/NNP intervention/NN was/VBD intended/VBN to/TO give/VB special/JJ help/NN for/IN his/PRP$ then/RB lover's/NNS nanny/NN -/: or/CC if/IN he/PRP was/VBD raising/VBG the/DT case/NN as/IN an/DT example/NN of/IN poor/JJ departmental/JJ performance./NN
+In/IN his/PRP$ first/JJ comments/NNS since/IN Sir/NNP Alan's/NNP announcement/NN Mr/NNP Blair/NNP told/VBD BBC/NNP News/NNP he/PRP had/VBD not/RB yet/RB read/VB the/DT report/NN in/IN detail./NN
+But/CC told/VBD BBC/NNP News/NNP "As/NN far/RB as/IN I'm/NNP concerned/VBD we/PRP have/VBP drawn/VBN a/DT line/NN under/IN that."/NN
+
+Asked/VBN if/IN Mr/NNP Blunkett/NNP could/MD return/VB to/TO frontline/VB politics/NNS at/IN some/DT point/NN he/PRP replied/VBD "I/NN have/VBP made/VBN my/PRP$ admiration/NN for/IN David/NNP very/RB clear/JJ and/CC it/PRP remains./NN
+"He's/NN been/VBN a/DT tremendous/JJ colleague/NN he's/NNS done/VBD a/DT great/JJ job/NN for/IN us/PRP first/JJ as/IN home/NN secretary/NN then/RB as/IN education/NN secretary./NN
+The/DT future/NN is/VBZ something/NN we/PRP will/MD have/VB to/TO approach/VB in/IN the/DT future."/NN The/DT prime/JJ minister/NN shrugged/VBD off/RP claims/NNS from/IN Conservative/JJ leader/NN Michael/NNP Howard/NNP that/IN he/PRP led/VBD a/DT "grubby/NN government"./NN
+He/PRP said/VBD Mr/NNP Blunkett's/NNP integrity/NN remained/VBD intact/JJ "He/NN was/VBD the/DT person/NN first/RB of/IN all/DT who/WP asked/VBD for/IN this/DT inquiry/NN to/TO be/VB set/VBN up./NN
+He/PRP accepted/VBD that/IN what/WP he/PRP originally/RB thought/VBD had/VBN happened/VBN had/VBN not/RB happened/VBN he/PRP said./VB
+"But/NN I/PRP think/VBP Sir/NNP Alan/NNP Budd/NNP also/RB accepted/VBD there/EX wasn't/NN some/DT conspiracy/NN or/CC cover-up/NN and/CC I/PRP just/RB think/VBP a/DT line/NN should/MD be/VB drawn/VBN under/IN now/RB and/CC we/PRP should/MD move/VB on."/NN
+
+Earlier/RBR Mr/NNP Howard/NNP said/VBD "There/NN does/VBZ need/VB to/TO be/VB another/DT inquiry/NN a/DT judge-led/JJ inquiry./NN
+There/EX were/VBD so/RB many/JJ questions/NNS that/DT weren't/NN answered."/NN There/EX was/VBD "deceit/NN at/IN the/DT heart/NN of/IN government"/NN which/WDT was/VBD not/RB limited/VBN to/TO the/DT visa/NN affair/NN he/PRP argued./VB
+Lib/NNP Dem/NNP home/NN affairs/NNS spokesman/NN Mark/NNP Oaten/NNP also/RB said/VBD there/EX was/VBD "a/NN strong/JJ case/NN for/IN a/DT judge-led/JJ judicial/JJ review"./NN
+
+He/PRP said/VBD "Next/NN time/NN it/PRP happens/VBZ it/PRP may/MD not/RB be/VB about/IN a/DT nanny/NN and/CC their/PRP$ visa./NN
+It/PRP may/MD be/VB about/IN something/NN even/RB more/RBR important/JJ than/IN that."/NN Mr/NNP Blunkett/NNP quit/VBD as/IN home/NN secretary/NN last/JJ week/NN after/IN being/VBG told/VBD in/IN advance/NN of/IN Sir/NNP Alan's/NNP findings./NN
+In/IN a/DT statement/NN the/DT ex-home/NN secretary/NN said/VBD he/PRP accepted/VBD the/DT inquiry's/NNS findings./NN
+He/PRP said/VBD he/PRP had/VBD told/VBN the/DT truth/NN throughout/IN and/CC had/VBD raised/VBN the/DT nanny/NN case/NN as/IN an/DT example/NN of/IN unacceptable/JJ backlogs/NNS in/IN the/DT system./NN

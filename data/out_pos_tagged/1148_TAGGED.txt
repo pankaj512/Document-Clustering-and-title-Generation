@@ -1,0 +1,27 @@
+Blair/NNP 'said/NN he/PRP would/MD stand/VB down'/NN
+
+Tony/NNP Blair/NNP promised/VBD Gordon/NNP Brown/NNP he/PRP would/MD stand/VB down/RB before/IN the/DT next/JJ election/NN a/DT new/JJ book/NN about/IN the/DT chancellor/NN claims./NN
+
+But/CC the/DT prime/JJ minister/NN changed/VBD his/PRP$ mind/NN following/VBG intervention/NN from/IN allies/NNS in/IN the/DT Cabinet/NNP according/VBG to/TO the/DT book./NN
+The/DT book/NN by/IN Sunday/NNP Telegraph/NNP journalist/NN Robert/NNP Peston/NNP said/VBD the/DT pair/NN had/VBD "mutual/JJ animosity/NN and/CC contempt"/NN for/IN each/DT other./NN
+The/DT book/NN Brown's/NNP Britain/NNP said/VBD Tony/NNP Blair/NNP felt/VBN by/IN November/NNP 2003/CD he/PRP had/VBD lost/VBN voters'/NN trust./NN
+
+The/DT author's/NNS sources/NNS all/DT unnamed/JJ "allies"/NN of/IN Mr/NNP Blair/NNP and/CC Mr/NNP Brown/NNP said/VBD the/DT prime/JJ minister/NN felt/VBD the/DT Iraq/NNP war/NN had/VBD undermined/VBN him/PRP and/CC that/IN he/PRP was/VBD no/RB longer/RB an/DT asset/NN to/TO the/DT Labour/NNP Party./NNP
+
+The/DT book/NN serialised/VBD in/IN the/DT Sunday/NNP Telegraph/NNP alleges/VBZ that/IN Mr/NNP Blair/NNP told/VBD the/DT chancellor/NN at/IN a/DT dinner/NN hosted/VBN by/IN deputy/NN PM/NNP John/NNP Prescott/NNP in/IN November/NNP 2003/CD of/IN his/PRP$ intention/NN to/TO stand/VB down./NN
+"At/NN that/WDT stage/NN he/PRP saw/VBD Gordon/NNP Brown/NNP and/CC said/VBD 'look/NN you/PRP are/VBP the/DT next/JJ most/RBS influential/JJ member/NN of/IN the/DT government/NN I/PRP need/VBP your/PRP$ help/NN to/TO get/VB through/IN the/DT next/JJ year"/NN Mr/NNP Peston/NNP said./NN
+"I/NN myself/PRP recognise/VBP that/IN I'm/NNP going/VBG to/TO have/VB to/TO stand/VB down/RB before/IN the/DT election/NN but/CC help/VB me/PRP to/TO get/VB through/IN the/DT year/NN and/CC I/PRP will/MD then/RB stand/VB down.'"/NN But/CC he/PRP changed/VBD his/PRP$ mind/NN in/IN June/NNP 2004/CD following/VBG intervention/NN from/IN allies/NNS in/IN the/DT Cabinet/NNP and/CC the/DT suspicion/NN that/IN the/DT chancellor/NN was/VBD deliberately/RB manoeuvring/VBG against/IN him/PRP the/DT book/NN claims./NN
+
+Mr/NNP Peston/NNP told/VBD BBC/NNP News/NNP "My/NN understanding/NN is/VBZ that/IN they/PRP are/VBP not/RB nearly/RB as/IN close/NN or/CC as/RB friendly/JJ as/IN they/PRP once/RB were./VBP
+"What/NN the/DT book/NN says/VBZ is/VBZ there/EX now/RB a/DT pretty/RB profound/JJ mutual/JJ mistrust/NN mutual/JJ animosity./NN
+"I/NN think/VBP in/IN public/JJ you/PRP see/VBP this/DT double/JJ act/NN pretending/VBG everything/NN is/VBZ alright/NN but/CC in/IN private/JJ I/PRP don't/VBP think/VBP the/DT relationship/NN is/VBZ good/JJ because/IN Brown/NNP understandably/RB feels/VBZ deeply/RB betrayed/VBN -/: particularly/RB over/IN this/DT issue/NN of/IN the/DT leadership."/NN There/EX has/VBZ been/VBN fresh/JJ speculation/NN of/IN a/DT rift/NN recently/RB following/VBG their/PRP$ separate/JJ responses/NNS to/TO the/DT Asian/JJ tsunami./NN
+Rumours/NNP of/IN a/DT rift/NN were/VBD fuelled/VBN by/IN the/DT sudden/JJ decision/NN to/TO hold/VB Mr/NNP Blair's/NNP monthly/JJ media/NNS conference/NN at/IN the/DT same/JJ time/NN as/IN a/DT long-planned/JJ speech/NN by/IN Mr/NNP Brown/NNP on/IN UK/NNP plans/VBZ to/TO tackle/VB global/JJ poverty/NN with/IN a/DT new/JJ "Marshall/NN Plan"/NNP for/IN Africa./NNP
+There/EX was/VBD speculation/NN the/DT pair/NN were/VBD trying/VBG to/TO outdo/VB each/DT other's/NNS response/NN to/TO the/DT disaster./JJ
+
+Former/NNP welfare/NN minister/NN Frank/NNP Field/NNP MP/NNP criticised/VBD the/DT reported/VBN rivalry/NN between/IN the/DT pair/NN on/IN GMTV's/NNP Sunday/NNP Programme./NNP
+
+"What/NN sort/NN of/IN model/NN does/VBZ it/PRP give/VB to/TO the/DT nation/NN when/WRB the/DT two/CD most/RBS important/JJ political/JJ leaders/NNS do/VBP nothing/NN but/CC fight/NN it/PRP out/RP together/RB or/CC use/VBP their/PRP$ aides/NNS to/TO fight/VB it/PRP out?"/NN the/DT Labour/NNP MP/NNP for/IN Birkenhead/NNP asked./NN
+He/PRP said/VBD the/DT prime/JJ minister/NN should/MD sack/VB Mr/NNP Brown/NNP but/CC did/VBD not/RB believe/VB Mr/NNP Blair/NNP was/VBD strong/JJ enough/RB to/TO do/VB so./NN
+Conservative/JJ policy/NN co-ordinator/JJ David/NNP Cameron/NNP MP/NNP for/IN Witney/NNP added/VBD "If/NN it/PRP wasn't/NN so/RB serious/JJ it/PRP would/MD be/VB funny./NN
+"But/NN it/PRP is/VBZ serious/JJ -/: you've/NN got/VBD the/DT two/CD most/RBS senior/JJ people/NNS in/IN the/DT government/NN not/RB concentrating/VBG on/IN fighting/VBG crime/NN poverty/NN or/CC dirty/JJ hospitals/NNS -/: they/PRP are/VBP fighting/VBG each/DT other."/NN Carol/NNP Walker/NNP BBC/NNP News/NNP 24/CD political/JJ correspondent/NN added/VBD "There/NN is/VBZ a/DT real/JJ concern/NN that/IN this/DT could/MD undermine/VB the/DT general/JJ election/NN campaign./NN
+"And/NN clearly/RB it/PRP is/VBZ very/RB bad/JJ news/NN for/IN the/DT government/NN at/IN a/DT time/NN when/WRB it/PRP is/VBZ trying/VBG to/TO explain/VB what/WP it/PRP is/VBZ doing/VBG to/TO respond/VB to/TO the/DT terrible/JJ problems/NNS thrown/VBD up/RP by/IN the/DT tsunami/NN disaster."/JJ

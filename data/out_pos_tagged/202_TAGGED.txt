@@ -1,0 +1,21 @@
+MCI/NNP shareholder/NN sues/NNS to/TO stop/VB bid/NN
+
+A/DT shareholder/NN in/IN US/PRP phone/VBP firm/NN MCI/NNP has/VBZ taken/VBN legal/JJ action/NN to/TO halt/VB a/DT $6.75bn/CD (£3.6bn)/CD buyout/NN by/IN telecoms/NNS giant/JJ Verizon/NNP hoping/VBG to/TO get/VB a/DT better/JJR deal./NN
+
+The/DT lawsuit/NN was/VBD filed/VBN on/IN Friday/NNP after/IN Qwest/NNP Communications/NNPS which/WDT had/VBD an/DT earlier/JJR offer/NN for/IN MCI/NNP rejected/VBD said/VBN it/PRP would/MD submit/VB an/DT improved/VBN bid./NN
+MCI's/NN directors/NNS have/VBP backed/VBN Verizon/NNP despite/IN it/PRP tabling/VBG less/JJR money./NN
+They/PRP are/VBP accused/VBN of/IN breaching/VBG their/PRP$ fiduciary/JJ duties/NNS by/IN depriving/VBG MCI/NNP shareholders/NNS "of/NN maximum/NN value"./NN
+
+According/VBG the/DT legal/JJ papers/NNS filed/VBN in/IN a/DT Delaware/NNP court/NN Verizon/NNP is/VBZ set/VBN to/TO pay/VB an/DT ""unconscionable/JJ unfair/JJ and/CC grossly/RB inadequate"/NN sum/NN for/IN MCI/NNP which/WDT was/VBD formerly/RB known/VBN as/IN Worldcom./NNP
+Qwest/NNP said/VBD on/IN Wednesday/NNP that/IN MCI/NNP had/VBD rejected/VBN a/DT deal/NN worth/JJ $8bn./CD
+A/DT number/NN of/IN large/JJ MCI/NNP shareholders/NNS expressed/VBD unhappiness/NN at/IN the/DT decision/NN saying/VBG that/IN Verizon's/NNP offer/NN made/VBD up/RP of/IN cash/NN shares/NNS and/CC dividends/NNS undervalued/VBD the/DT company./NN
+Friday's/NNP lawsuit/NN argues/VBZ that/IN the/DT Verizon/NNP offer/NN makes/VBZ no/DT provision/NN for/IN future/JJ growth/NN prospects/NNS and/CC that/DT consolidation/NN in/IN the/DT US/PRP phone/VBP industry/NN will/MD put/VB a/DT premium/NN on/IN MCI's/NNP network/NN assets/NNS and/CC clients./NN
+MCI's/NN directors/NNS have/VBP argued/VBN that/IN Verizon/NNP is/VBZ bigger/JJR than/IN Qwest/NNP has/VBZ fewer/JJR debts/NNS and/CC has/VBZ built/VBN a/DT successful/JJ mobile/JJ division./NN
+Chief/NNP executive/NN Michael/NNP Capellas/NNP spent/VBD last/JJ week/NN meeting/NN with/IN shareholders/NNS in/IN an/DT effort/NN to/TO win/VB their/PRP$ backing./NN
+
+In/IN 2002/CD investors/NNS in/IN the/DT then-named/JJ Worldcom/NNP lost/VBD millions/NNS when/WRB the/DT company/NN filed/VBD for/IN bankruptcy/NN following/VBG an/DT accounting/NN scandal./NN
+However/RB the/DT firm/NN -/: now/RB renamed/VBN MCI/NNP -/: has/VBZ put/VBN its/PRP$ operations/NNS in/IN order/NN and/CC emerged/VBD from/IN bankruptcy/NN protection/NN last/JJ April./NNP
+It/PRP is/VBZ a/DT long-distance/JJ and/CC corporate/JJ phone/NN firm/NN and/CC would/MD provide/VB the/DT buyer/NN with/IN access/NN to/TO a/DT global/JJ telecommunications/NNS network/NN and/CC a/DT large/JJ number/NN of/IN business-based/JJ subscribers./NN
+MCI/NNP shares/NNS jumped/VBD on/IN Friday/NNP hitting/VBG their/PRP$ highest/JJS level/NN since/IN April/NNP 2004/CD amid/IN speculation/NN that/IN it/PRP would/MD be/VB the/DT focus/NN of/IN a/DT bidding/NN war./NN
+A/DT takeover/NN of/IN MCI/NNP would/MD be/VB the/DT fifth/JJ billion-dollar/JJ telecoms/NNS deal/NN since/IN October/NNP as/IN companies/NNS look/VBP to/TO cut/VB costs/NNS and/CC boost/VB client/NN bases./NN
+Earlier/RBR this/DT month/NN SBC/NNP Communications/NNPS agreed/VBD to/TO buy/VB its/PRP$ former/JJ parent/NN and/CC phone/NN pioneer/NN AT&T/NNP for/IN about/RB $16bn./CD

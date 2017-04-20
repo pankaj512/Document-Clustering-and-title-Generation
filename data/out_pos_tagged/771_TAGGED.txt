@@ -1,0 +1,15 @@
+Brits/NNP return/NN Keane/NNP to/TO number/VB one/CD
+
+Brits/NNP success/NN has/VBZ helped/VBN return/NN Keane's/NNP award-winning/JJ album/NN Hopes/VBZ and/CC Fears/NNS back/RB to/TO the/DT top/NN of/IN the/DT UK/NNP album/NN chart./NN
+
+The/DT debut/NN album/NN which/WDT took/VBD the/DT best/JJS British/JJ album/NN title/NN at/IN the/DT Brits/NNP on/IN Tuesday/NNP moved/VBD up/RB seven/CD places/NNS from/IN number/NN eight/CD to/TO number/VB one./NN
+Also/RB capitalising/VBG on/IN Brits/NNP success/NN were/VBD the/DT Scissor/NNP Sisters/NNS whose/WP$ eponymous/JJ album/NN moved/VBD three/CD places/NNS to/TO number/VB two./NN
+U2's/CD latest/JJS single/JJ Sometimes/RB You/PRP Can't/NNP Make/VB It/PRP On/IN Your/PRP$ Own/NN took/VBD the/DT top/JJ spot/NN in/IN the/DT singles/NNS chart/NN ahead/RB of/IN Elvis./NNP
+The/DT track/NN from/IN their/PRP$ current/JJ album/NN How/WRB To/TO Dismantle/VB An/DT Atomic/JJ Bomb/NN pushed/VBN Eminem's/NNP Like/IN Toy/NNP Soldiers/NNS from/IN number/NN one/CD to/TO number/VB three./NN
+
+Elvis'/NNP Wooden/JJ Heart/NNP which/WDT entered/VBD the/DT chart/NN at/IN number/NN two/CD is/VBZ the/DT sixth/NN in/IN a/DT series/NN of/IN 18/CD reissues/NNS to/TO mark/VB the/DT 70th/JJ anniversary/NN of/IN Presley's/NNP birth./NN
+There/EX are/VBP currently/RB six/CD re-released/JJ Elvis'/NNP tracks/VBZ occupying/VBG spots/NNS in/IN the/DT top/JJ 40/CD singles/NNS chart/NN including/VBG Are/VBP You/PRP Lonesome/JJ Tonight/NNP at/IN number/NN 20/CD It's/NNP Now/RB or/CC Never/RB at/IN number/NN 27/CD and/CC Jailhouse/NN Rock/NNP at/IN number/NN 37./CD
+Soldier/JJR by/IN Destiny's/NNP Child/NN Ti/NNP and/CC Lil/NNP Wayne/NNP debuted/VBD at/IN number/NN four/CD while/IN Almost/RB Here/RB the/DT duet/NN from/IN former/JJ Westlife/NNP star/NN Brian/NNP McFadden/NNP and/CC Delta/NNP Goodrem/NNP fell/VBD from/IN number/NN three/CD to/TO number/VB five./NN
+There/EX was/VBD more/JJR follow/NN up/IN to/TO Brits/NNP success/NN for/IN Franz/NNP Ferdinand/NNP won/VBD best/RBS rock/NN act/NN and/CC best/JJS British/JJ group/NN last/JJ week./NN
+Their/PRP$ self-titled/NN album/NN moved/VBD from/IN 13/CD to/TO number/VB four./NN
+Last/JJ week's/NNS number/NN one/CD album/NN Tourist/NNP by/IN Athlete/NN fell/VBD to/TO number/VB three./NN

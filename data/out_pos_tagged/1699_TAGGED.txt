@@ -1,0 +1,14 @@
+Campbell/NN to/TO be/VB Lions/NNP consultant/NN
+
+Former/NNP government/NN communications/NNS chief/JJ Alastair/NNP Campbell/NNP will/MD act/VB as/IN a/DT media/NNS consultant/NN to/TO Sir/NNP Clive/NNP Woodward's/NNP 2005/CD Lions/NNP on/IN their/PRP$ tour/NN to/TO New/NNP Zealand./NNP
+
+Campbell/NNP who/WP left/VBD Downing/NNP Street/NNP earlier/RBR this/DT year/NN will/MD advise/VB on/IN media/NNS strategy/NN before/IN and/CC during/IN the/DT tour./NN
+"I/NN hope/NN I/PRP can/MD contribute/VB to/TO the/DT planning/NN and/CC preparation/NN and/CC to/TO ensuring/VBG the/DT media/NNS and/CC public/JJ get/VB the/DT most/JJS out/IN of/IN the/DT tour/NN itself"/NN he/PRP said./VB
+"I/NN am/VBP also/RB looking/VBG forward/RB to/TO going/VBG out/RP for/IN the/DT later/RB stages/NNS of/IN the/DT tour."/NN Woodward's/NNP decision/NN to/TO call/VB in/IN Prime/NNP Minister/NNP Tony/NNP Blair's/NNP former/JJ spin/NN doctor/NN springs/NNS from/IN the/DT deterioration/NN in/IN media/NNS relations/NNS on/IN the/DT last/JJ Lions/NNP tour/NN of/IN Australia/NNP in/IN 2001/CD when/WRB New/NNP Zealander/NNP Graham/NNP Henry/NNP was/VBD the/DT head/NN coach./NN
+The/DT furore/NN surrounding/VBG the/DT newspaper/NN diaries/NNS of/IN Matt/NNP Dawson/NNP and/CC Austin/NNP Healey/NNP was/VBD compounded/VBN by/IN other/JJ disillusioned/JJ players/NNS venting/VBG their/PRP$ frustration/NN through/IN the/DT media./NN
+"The/NNP Lions/NNP is/VBZ a/DT massive/JJ media/NNS event"/NN said/VBD Woodward/NNP who/WP will/MD be/VB the/DT head/NN coach./NN
+"There/NN will/MD be/VB a/DT huge/JJ level/NN of/IN interest/NN from/IN the/DT travelling/VBG media/NNS the/DT fans/NNS that/WDT will/MD go/VB out/RP in/IN their/PRP$ thousands/NNS and/CC the/DT New/NNP Zealand/NNP public./NN
+"We/NN need/VBP to/TO have/VB the/DT strategy/NN and/CC processes/VBZ in/IN place/NN to/TO deal/VB with/IN the/DT pressures/NNS that/WDT will/MD bring./VB
+"[Alastair]/NN will/MD act/VB as/IN an/DT advisor/NN both/DT in/IN the/DT build/NN up/IN to/TO and/CC on/IN the/DT tour/NN itself./NN
+His/PRP$ role/NN is/VBZ to/TO work/VB closely/RB with/IN not/RB only/RB myself/PRP but/CC (tour/NN manager)/NN Bill/NNP Beaumont/NNP (media/NN manager)/NN Louisa/NNP Cheetham/NNP and/CC (team/NN manager)/NN Louise/NNP Ramsay."/NNP Campbell/NNP is/VBZ due/JJ to/TO resume/VB working/VBG for/IN the/DT government/NN in/IN the/DT new/JJ year/NN in/IN the/DT build-up/JJ to/TO an/DT anticipated/VBN May/NNP general/JJ election./NN
+The/DT Lions/NNP leave/VB for/IN New/NNP Zealand/NNP on/IN 24/CD May/NNP with/IN the/DT first/JJ Test/NNP match/VB against/IN the/DT All/DT Blacks/NNPS in/IN Christchurch/NNP on/IN 25/CD June./NNP

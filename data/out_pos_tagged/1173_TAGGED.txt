@@ -1,0 +1,15 @@
+Howard/NNP and/CC Blair/NNP tax/NN pledge/NN clash/NN
+
+Tony/NNP Blair/NNP has/VBZ said/VBN voters/NNS will/MD have/VB to/TO wait/VB for/IN Labour's/NNP manifesto/NN to/TO see/VB if/IN the/DT party/NN has/VBZ plans/NNS to/TO increase/VB tax./NN
+
+The/DT premier/NN was/VBD responding/VBG to/TO a/DT challenge/NN from/IN Tory/NNP leader/NN Michael/NNP Howard/NNP who/WP said/VBD Labour/NNP would/MD raise/VB taxes/NNS in/IN its/PRP$ post-election/JJ Budget./NNP
+Mr/NNP Blair/NNP derided/VBD Tory/NNP claims/NNS they/PRP could/MD cut/VB £35bn/CD in/IN "wasteful/JJ spending"/NN saying/VBG the/DT party/NN had/VBD got/VBN its/PRP$ sums/NNS wrong./NN
+The/DT two/CD political/JJ leaders/NNS clashed/VBN just/RB days/NNS after/IN the/DT opening/NN salvoes/NNS of/IN the/DT pre-election/JJ period./NN
+Mr/NNP Howard/NNP told/VBD MPs/NNP that/DT "every/NN independent/JJ expert"/NN from/IN the/DT International/NNP Monetary/NNP Fund/NNP to/TO the/DT Institute/NNP of/IN Fiscal/JJ Studies/NNPS had/VBD suggested/VBN the/DT "government/NN was/VBD spending/NN more/JJR than/IN it/PRP is/VBZ raising/VBG and/CC a/DT Labour/NNP chancellor/NN would/MD have/VB to/TO put/VB up/RP taxes"./NN
+Mr/NNP Blair/NNP replied/VBD "I/NN think/VBP they/PRP are/VBP wrong/JJ for/IN this/DT very/RB simple/JJ reason/NN that/IN the/DT Treasury/NNP forecasts/NNS on/IN the/DT economy/NN have/VBP been/VBN proven/VBN right."/NN The/DT Tories/NNPS on/IN Monday/NNP highlighted/VBD their/PRP$ plans/NNS for/IN tax/NN cuts/NNS worth/JJ £4bn/CD although/IN the/DT specific/JJ taxes/NNS to/TO be/VB cut/VBN have/VBP not/RB been/VBN announced./NN
+
+They/PRP also/RB spelled/VBD out/RP their/PRP$ plans/NNS for/IN reduced/VBN government/NN borrowing/NN and/CC more/JJR spending/NN on/IN key/JJ services./NN
+Labour/NNP and/CC the/DT Liberal/NNP Democrats/NNPS have/VBP said/VBN the/DT party's/NNS sums/NNS do/VBP not/RB add/VB up/RB and/CC claim/NN it/PRP would/MD cut/VB frontline/NN services./NN
+But/CC Mr/NNP Howard/NNP said/VBD voters/NNS faced/VBD a/DT clear/JJ choice/NN at/IN the/DT next/JJ election/NN between/IN more/JJR waste/NN and/CC more/JJR tax/NN under/IN Labour/NNP and/CC Tory/NNP value/NN for/IN money/NN and/CC lower/JJR taxes./NN
+The/DT Liberal/NNP Democrats/NNPS have/VBP also/RB launched/VBN their/PRP$ pre-election/JJ platform/NN with/IN leader/NN Charles/NNP Kennedy/NNP saying/VBG his/PRP$ party/NN was/VBD the/DT "authentic/JJ opposition"/NN particularly/RB on/IN the/DT Iraq/NNP war/NN council/NN tax/NN and/CC university/NN tuition/NN fees./NN
+Labour/NNP hit/VBD back/RB at/IN the/DT Tory/NNP proposals/NNS even/RB before/IN their/PRP$ publication/NN with/IN election/NN coordinator/NN Alan/NNP Milburn/NNP accusing/VBG Mr/NNP Howard/NNP of/IN producing/VBG a/DT "fraudulent/NN prospectus"./NN

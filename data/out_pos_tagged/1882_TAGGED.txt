@@ -1,0 +1,23 @@
+BT/NNP boosts/VBZ its/PRP$ broadband/NN packages/NNS
+
+British/NNP Telecom/NNP has/VBZ said/VBN it/PRP will/MD double/VB the/DT broadband/NN speeds/NNS of/IN most/JJS of/IN its/PRP$ home/NN and/CC business/NN customers./NN
+
+The/DT increased/VBN speeds/NNS will/MD come/VB at/IN no/DT extra/JJ charge/NN and/CC follows/VBZ a/DT similar/JJ move/NN by/IN internet/JJ service/NN provider/NN AOL./NNP
+Many/JJ BT/NNP customers/NNS will/MD now/RB have/VB download/NN speeds/NNS of/IN 2Mbps/CD although/IN there/EX are/VBP usage/NN allowances/NNS of/IN between/IN one/CD gigabyte/NN and/CC 30/CD gigabytes/NNS a/DT month./NN
+The/DT new/JJ speeds/NNS start/VBP to/TO come/VB into/IN effect/NN on/IN 17/CD February/NNP for/IN home/NN customers/NNS and/CC 1/CD April/NNP for/IN businesses./NN
+"Britain/NN is/VBZ now/RB broadband/NN Britain"/NNP said/VBD Duncan/NNP Ingram/NNP BT's/NNP managing/VBG director/NN broadband/NN and/CC internet/JJ services./NN
+He/PRP added/VBD "Ninety/NN percent/NN of/IN our/PRP$ customers/NNS will/MD see/VB real/JJ increases/NNS in/IN speed./NN
+
+"These/NN speed/NN increases/NNS will/MD give/VB people/NNS the/DT opportunity/NN to/TO do/VB a/DT lot/NN more/JJR with/IN their/PRP$ broadband/NN connections"/NN he/PRP said./VB
+Upload/NN speeds/NNS -/: the/DT speed/NN at/IN which/WDT information/NN is/VBZ sent/VBN from/IN a/DT PC/NN via/IN broadband/NN -/: will/MD remain/VB at/IN the/DT same/JJ speed/NN said/VBD Mr/NNP Ingram./NNP
+Despite/IN the/DT increases/NNS BT/NNP will/MD continue/VB to/TO have/VB usage/NN allowances/NNS for/IN home/NN customers./NN
+"The/NN allowances/NNS are/VBP extremely/RB generous"/NN said/VBD Mr/NNP Ingram/NNP "For/NN what/WP we/PRP are/VBP seeing/VBG in/IN the/DT market/NN place/NN -/: they/PRP are/VBP really/RB not/RB an/DT issue."/NN BT/NNP will/MD begin/VB enforcing/VBG the/DT allowances/NNS in/IN the/DT summer./NN
+Customers/NNS who/WP exceed/VBP the/DT amounts/NNS will/MD either/RB be/VB able/JJ to/TO pay/VB for/IN a/DT bigger/JJR allowance/NN or/CC see/VB their/PRP$ download/NN speeds/NNS reduced./NN
+BT/NNP now/RB has/VBZ a/DT 36%/CD share/NN of/IN the/DT broadband/NN market/NN -/: down/RB from/IN 39%/CD -/: which/WDT is/VBZ becoming/VBG increasingly/RB competitive./NN
+In/IN the/DT last/JJ few/JJ months/NNS many/JJ rival/JJ ISPs/NNP have/VBP begun/VBN to/TO offer/VB 2Mbps/CD services/NNS including/VBG AOL/NNP Plusnet/NNP and/CC UK/NNP Online./NNP
+
+But/CC Britain/NNP continues/VBZ to/TO lag/VB behind/IN some/DT countries/NNS -/: especially/RB Japan/NNP and/CC South/NNP Korea/NNP -/: which/WDT offer/NN broadband/NN speeds/NNS of/IN up/IN to/TO 40Mbps./CD
+But/CC Mr/NNP Ingram/NNP said/VBD it/PRP was/VBD important/JJ to/TO "separate/VB hype/NN from/IN reality"./NN
+He/PRP said/VBD that/IN a/DT limited/VBN number/NN of/IN people/NNS with/IN those/DT connections/NNS consistently/RB received/VBD speeds/NNS of/IN 40Mbps./CD
+Customers/NNS will/MD not/RB see/VB their/PRP$ connections/NNS double/JJ immediately/RB on/IN 17/CD February./NNP
+Mr/NNP Ingram/NNP said/VBD there/EX would/MD be/VB a/DT roll/NN out/RP across/IN the/DT network/NN in/IN order/NN to/TO prevent/VB any/DT problems./NN

@@ -1,0 +1,14 @@
+UK/NNP 'needs/NN true/JJ immigration/NN data'/NN
+
+A/DT former/JJ Home/NNP Office/NNP minister/NN has/VBZ called/VBN for/IN an/DT independent/JJ body/NN to/TO be/VB set/VBN up/RP to/TO monitor/VB UK/NNP immigration./NN
+
+Barbara/NNP Roche/NNP said/VBD an/DT organisation/NN should/MD monitor/VB and/CC publish/VB figures/NNS and/CC be/VB independent/JJ of/IN government./NN
+She/PRP said/VBD this/DT would/MD counter/VB "so-called/JJ independent"/NN groups/NNS like/IN Migration/NNP Watch/NNP which/WDT she/PRP described/VBD as/IN an/DT anti-immigration/JJ body/NN posing/VBG as/IN independent./NN
+Migration/NNP Watch/NNP says/VBZ it/PRP is/VBZ not/RB against/IN all/DT immigration/NN and/CC the/DT government/NN already/RB publishes/VBZ accurate/JJ figures./NN
+Sir/NNP Andrew/NNP Green/NNP chairman/NN of/IN the/DT organisation/NN says/VBZ there/EX is/VBZ no/DT need/NN for/IN an/DT independent/JJ body/NN because/IN Office/NNP of/IN National/NNP Statistics/NNPS data/NNS are/VBP accurate./NN
+He/PRP says/VBZ he/PRP opposes/VBZ large-scale/JJ immigration/NN "both/NN on/IN the/DT grounds/NNS of/IN overcrowding/NN and/CC culture"./NN
+
+He/PRP said/VBD "For/NN example/NN over/IN the/DT next/JJ 20/CD years/NNS one/CD household/NN in/IN three/CD will/MD be/VB due/JJ to/TO immigration./NN
+"We/NN are/VBP already/RB more/RBR overcrowded/JJ than/IN India/NNP and/CC we/PRP are/VBP four/CD times/NNS more/RBR overcrowded/JJ than/IN France."/NNP Ms/NNP Roche/NNP Labour/NNP MP/NNP for/IN Hornsey/NNP and/CC Wood/NNP Green/NNP believes/VBZ legal/JJ migration/NN is/VBZ something/NN we/PRP should/MD welcome./VB
+She/PRP said/VBD her/PRP$ proposals/NNS mean/VBP "we/NN wouldn't/NN have/VBP so-called/JJ independent/JJ experts/NNS like/IN Migration/NNP Watch/NNP who/WP come/VBP into/IN this/DT debate/NN from/IN an/DT anti-immigration/JJ point/NN of/IN view."/NN She/PRP went/VBD on/IN "What/NN I/PRP would/MD like/VB to/TO see/VB is/VBZ there/EX being/VBG a/DT body/NN which/WDT actually/RB looked/VBD at/IN the/DT figures/NNS published/VBD them/PRP and/CC was/VBD independent/JJ of/IN government./NN
+"I/NN think/VBP that/WDT would/MD go/VB a/DT long/JJ way/NN to/TO allaying/VBG some/DT of/IN the/DT fears/NNS that/WDT are/VBP sometimes/RB whipped/VBN up/RP during/IN this/DT debate."/NN

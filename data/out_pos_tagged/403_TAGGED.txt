@@ -1,0 +1,23 @@
+WorldCom/NNP bosses'/NN $54m/CD payout/NN
+
+Ten/CD former/JJ directors/NNS at/IN WorldCom/NNP have/VBP agreed/VBN to/TO pay/VB $54m/CD (£28.85m)/CD including/VBG $18m/CD from/IN their/PRP$ own/JJ pockets/NNS to/TO settle/VB a/DT class/NN action/NN lawsuit/NN reports/NNS say./NN
+
+James/NNP Wareham/NNP a/DT lawyer/NN representing/VBG one/CD of/IN the/DT directors/NNS told/VBD Reuters/NNP the/DT 10/CD had/VBD agreed/VBN to/TO pay/VB those/DT who/WP lost/VBD billions/NNS when/WRB the/DT firm/JJ collapsed./NN
+The/DT remaining/VBG $36m/CD will/MD be/VB paid/VBN by/IN the/DT directors'/NN insurers./NN
+But/CC a/DT spokesman/NN for/IN the/DT prosecutor/NN New/NNP York/NNP State/NNP Comptroller/NNP Alan/NNP Hevesi/NNP said/VBD no/DT formal/JJ agreement/NN had/VBD been/VBN made./NN
+
+Corporate/JJ governance/NN experts/NNS said/VBD that/IN if/IN the/DT directors/NNS do/VBP dip/NN into/IN their/PRP$ own/JJ pockets/NNS for/IN the/DT settlement/NN it/PRP will/MD set/VB a/DT new/JJ standard/NN for/IN the/DT accountability/NN of/IN bosses/NNS when/WRB the/DT firms/NNS they/PRP oversee/VBP face/NN problems./NN
+
+"Directors/NN very/RB rarely/RB pay"/NN said/VBD Charles/NNP Elson/NNP chairman/NN of/IN the/DT Center/NNP for/IN Corporate/JJ Governance/NN at/IN the/DT University/NNP of/IN Delaware./NNP
+He/PRP added/VBD that/IN the/DT settlement/NN "sends/NN a/DT pretty/RB strong/JJ shockwave/NN through/IN the/DT director/NN world"./NN
+A/DT formal/JJ agreement/NN on/IN the/DT payout/NN is/VBZ expected/VBN to/TO be/VB signed/VBN on/IN Thursday/NNP in/IN a/DT US/PRP district/VBP court/NN in/IN Manhattan./NNP
+Earlier/RBR the/DT New/NNP York/NNP Times/NNP had/VBD reported/VBN that/IN the/DT personal/JJ payments/NNS were/VBD required/VBN as/IN part/NN of/IN any/DT deal/NN at/IN the/DT start/NN of/IN negotiations./NN
+The/DT ten/NN former/JJ outside/JJ directors/NNS are/VBP James/NNP Allen/NNP Judith/NNP Areen/NNP Carl/NNP Aycock/NNP Max/NNP Bobbitt/NNP Clifford/NNP Alexander/NNP Stiles/NNP Kellett/NNP Gordon/NNP Macklin/NNP John/NNP Porter/NNP Lawrence/NNP Tucker/NNP and/CC the/DT estate/NN of/IN John/NNP Sidgmore/NNP who/WP died/VBD last/JJ year./NN
+It/PRP has/VBZ not/RB yet/RB been/VBN determined/VBN how/WRB much/JJ each/DT director/NN will/MD have/VB to/TO pay./VB
+"None/NN of/IN the/DT 10/CD former/JJ directors/NNS was/VBD a/DT direct/JJ participant/NN in/IN the/DT accounting/NN machinations/NNS of/IN the/DT WorldCom/NNP fraud"/NN said/VBD the/DT Wall/NNP Street/NNP Journal/NNP (WSJ)./NN
+
+Two/CD other/JJ outside/IN former/JJ directors/NNS Bert/NNP Roberts/NNP and/CC Francesco/NNP Galesi/NNP remain/VBP defendants/NNS in/IN the/DT lawsuit/NN said/VBD the/DT newspaper./NN
+According/VBG to/TO the/DT WSJ/NNP which/WDT cites/VBZ people/NNS familiar/JJ to/TO the/DT case/NN the/DT settling/VBG directors/NNS are/VBP expected/VBN to/TO deny/VB wrongdoing/NN and/CC state/NN they/PRP are/VBP settling/VBG the/DT case/NN to/TO eliminate/VB the/DT uncertainties/NNS and/CC expense/NN of/IN further/JJ litigations./NN
+The/DT second-largest/JJ US/PRP long-distance/JJ telecoms/NNS operator/NN filed/VBD for/IN bankruptcy/NN in/IN 2002/CD when/WRB an/DT $11bn/CD accounting/NN scandal/NN was/VBD unearthed./NN
+The/DT company/NN emerged/VBD from/IN Chapter/NN 11/CD protection/NN last/JJ year/NN and/CC changed/VBD its/PRP$ name/NN to/TO MCI/NNP Inc./NNP
+Former/NNP WorldCom/NNP chief/NN executive/NN Bernard/NNP Ebbers/NNP is/VBZ to/TO face/VB trial/NN this/DT month/NN on/IN criminal/JJ charges/NNS that/IN he/PRP oversaw/VBD the/DT fraud./NN

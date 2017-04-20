@@ -1,0 +1,584 @@
+Twitter/NNP or/CC- 0.015807560137457044
+Twitter/NNP text/NN- 0.015807560137457044
+Twitter/NNP of/IN- 0.015807560137457044
+Twitter/NNP toward/IN- 0.015807560137457044
+Twitter/NNP character/NN- 0.015807560137457044
+Twitter/NNP to/TO- 0.015807560137457044
+Twitter/NNP on/IN- 0.015807560137457044
+Twitter/NNP that/IN- 0.015807560137457044
+Twitter/NNP it/PRP- 0.015807560137457044
+Twitter/NNP be/VB- 0.04310344827586207
+Twitter/NNP someone/VB- 0.04310344827586207
+Twitter/NNP â€”/NN- 0.015807560137457044
+Twitter/NNP you/PRP- 0.015807560137457044
+Twitter/NNP limit/NN- 0.015807560137457044
+Twitter/NNP the/DT- 0.015807560137457044
+Twitter/NNP company/NN- 0.015807560137457044
+Twitter/NNP at/IN- 0.015807560137457044
+Twitter/NNP those/DT- 0.015807560137457044
+Twitter/NNP a/DT- 0.015807560137457044
+Twitter/NNP no/RB- 0.010775862068965518
+a/DT or/CC- 0.015807560137457044
+a/DT text/NN- 0.5294117647058824
+a/DT of/IN- 0.015807560137457044
+a/DT toward/IN- 0.015807560137457044
+a/DT Twitter/NNP- 0.23529411764705882
+a/DT character/NN- 0.5294117647058824
+a/DT to/TO- 0.015807560137457044
+a/DT on/IN- 0.015807560137457044
+a/DT that/IN- 0.015807560137457044
+a/DT it/PRP- 0.015807560137457044
+a/DT be/VB- 0.015807560137457044
+a/DT someone/VB- 0.015807560137457044
+a/DT â€”/NN- 0.5294117647058824
+a/DT you/PRP- 0.015807560137457044
+a/DT limit/NN- 0.5294117647058824
+a/DT the/DT- 0.015807560137457044
+a/DT company/NN- 0.5294117647058824
+a/DT at/IN- 0.015807560137457044
+a/DT those/DT- 0.015807560137457044
+a/DT no/RB- 0.015807560137457044
+at/IN or/CC- 0.015807560137457044
+at/IN text/NN- 0.015807560137457044
+at/IN of/IN- 0.015807560137457044
+at/IN toward/IN- 0.015807560137457044
+at/IN Twitter/NNP- 0.015807560137457044
+at/IN character/NN- 0.015807560137457044
+at/IN to/TO- 0.015807560137457044
+at/IN on/IN- 0.015807560137457044
+at/IN that/IN- 0.015807560137457044
+at/IN it/PRP- 0.015807560137457044
+at/IN be/VB- 0.015807560137457044
+at/IN someone/VB- 0.015807560137457044
+at/IN â€”/NN- 0.015807560137457044
+at/IN you/PRP- 0.015807560137457044
+at/IN limit/NN- 0.015807560137457044
+at/IN the/DT- 0
+at/IN company/NN- 0.015807560137457044
+at/IN those/DT- 0
+at/IN a/DT- 0
+at/IN no/RB- 0.015807560137457044
+be/VB or/CC- 0.015807560137457044
+be/VB text/NN- 0.14285714285714285
+be/VB of/IN- 0.21428571428571427
+be/VB toward/IN- 0.21428571428571427
+be/VB Twitter/NNP- 0.2857142857142857
+be/VB character/NN- 0.14285714285714285
+be/VB to/TO- 0.14285714285714285
+be/VB on/IN- 0.21428571428571427
+be/VB that/IN- 0.21428571428571427
+be/VB it/PRP- 0.015807560137457044
+be/VB someone/VB- 0.015807560137457044
+be/VB â€”/NN- 0.14285714285714285
+be/VB you/PRP- 0.015807560137457044
+be/VB limit/NN- 0.14285714285714285
+be/VB the/DT- 0.015807560137457044
+be/VB company/NN- 0.14285714285714285
+be/VB at/IN- 0.21428571428571427
+be/VB those/DT- 0.015807560137457044
+be/VB a/DT- 0.015807560137457044
+be/VB no/RB- 0.015807560137457044
+character/NN or/CC- 0.015807560137457044
+character/NN text/NN- 0.15950920245398773
+character/NN of/IN- 0.015807560137457044
+character/NN toward/IN- 0.015807560137457044
+character/NN Twitter/NNP- 0.015807560137457044
+character/NN to/TO- 0.015807560137457044
+character/NN on/IN- 0.015807560137457044
+character/NN that/IN- 0.015807560137457044
+character/NN it/PRP- 0.015807560137457044
+character/NN be/VB- 0.015807560137457044
+character/NN someone/VB- 0.015807560137457044
+character/NN â€”/NN- 0.15950920245398773
+character/NN you/PRP- 0.015807560137457044
+character/NN limit/NN- 0.15950920245398773
+character/NN the/DT- 0.015807560137457044
+character/NN company/NN- 0.15950920245398773
+character/NN at/IN- 0.015807560137457044
+character/NN those/DT- 0.015807560137457044
+character/NN a/DT- 0.015807560137457044
+character/NN no/RB- 0.015807560137457044
+company/NN or/CC- 0.015807560137457044
+company/NN text/NN- 0.15950920245398773
+company/NN of/IN- 0.015807560137457044
+company/NN toward/IN- 0.015807560137457044
+company/NN Twitter/NNP- 0.015807560137457044
+company/NN character/NN- 0.15950920245398773
+company/NN to/TO- 0.015807560137457044
+company/NN on/IN- 0.015807560137457044
+company/NN that/IN- 0.015807560137457044
+company/NN it/PRP- 0.015807560137457044
+company/NN be/VB- 0.015807560137457044
+company/NN someone/VB- 0.015807560137457044
+company/NN â€”/NN- 0.15950920245398773
+company/NN you/PRP- 0.015807560137457044
+company/NN limit/NN- 0.15950920245398773
+company/NN the/DT- 0.015807560137457044
+company/NN at/IN- 0.015807560137457044
+company/NN those/DT- 0.015807560137457044
+company/NN a/DT- 0.015807560137457044
+company/NN no/RB- 0.015807560137457044
+it/PRP or/CC- 0.015807560137457044
+it/PRP text/NN- 0.015807560137457044
+it/PRP of/IN- 0.015807560137457044
+it/PRP toward/IN- 0.015807560137457044
+it/PRP Twitter/NNP- 0.015807560137457044
+it/PRP character/NN- 0.015807560137457044
+it/PRP to/TO- 0.015807560137457044
+it/PRP on/IN- 0.015807560137457044
+it/PRP that/IN- 0.015807560137457044
+it/PRP be/VB- 0.015807560137457044
+it/PRP someone/VB- 0.015807560137457044
+it/PRP â€”/NN- 0.015807560137457044
+it/PRP you/PRP- 0.015807560137457044
+it/PRP limit/NN- 0.015807560137457044
+it/PRP the/DT- 0.015807560137457044
+it/PRP company/NN- 0.015807560137457044
+it/PRP at/IN- 0.015807560137457044
+it/PRP those/DT- 0.015807560137457044
+it/PRP a/DT- 0.015807560137457044
+it/PRP no/RB- 0.015807560137457044
+limit/NN or/CC- 0.015807560137457044
+limit/NN text/NN- 0.15950920245398773
+limit/NN of/IN- 0.015807560137457044
+limit/NN toward/IN- 0.015807560137457044
+limit/NN Twitter/NNP- 0.015807560137457044
+limit/NN character/NN- 0.15950920245398773
+limit/NN to/TO- 0.015807560137457044
+limit/NN on/IN- 0.015807560137457044
+limit/NN that/IN- 0.015807560137457044
+limit/NN it/PRP- 0.015807560137457044
+limit/NN be/VB- 0.015807560137457044
+limit/NN someone/VB- 0.015807560137457044
+limit/NN â€”/NN- 0.15950920245398773
+limit/NN you/PRP- 0.015807560137457044
+limit/NN the/DT- 0.015807560137457044
+limit/NN company/NN- 0.15950920245398773
+limit/NN at/IN- 0.015807560137457044
+limit/NN those/DT- 0.015807560137457044
+limit/NN a/DT- 0.015807560137457044
+limit/NN no/RB- 0.015807560137457044
+no/RB or/CC- 0.015807560137457044
+no/RB text/NN- 0.2857142857142857
+no/RB of/IN- 0.015807560137457044
+no/RB toward/IN- 0.015807560137457044
+no/RB Twitter/NNP- 0.015807560137457044
+no/RB character/NN- 0.2857142857142857
+no/RB to/TO- 0.015807560137457044
+no/RB on/IN- 0.015807560137457044
+no/RB that/IN- 0.015807560137457044
+no/RB it/PRP- 0.015807560137457044
+no/RB be/VB- 0.14285714285714285
+no/RB someone/VB- 0.14285714285714285
+no/RB â€”/NN- 0.2857142857142857
+no/RB you/PRP- 0.015807560137457044
+no/RB limit/NN- 0.2857142857142857
+no/RB the/DT- 0.015807560137457044
+no/RB company/NN- 0.2857142857142857
+no/RB at/IN- 0.015807560137457044
+no/RB those/DT- 0.015807560137457044
+no/RB a/DT- 0.015807560137457044
+of/IN or/CC- 0.015807560137457044
+of/IN text/NN- 0.015807560137457044
+of/IN toward/IN- 0.015807560137457044
+of/IN Twitter/NNP- 0.015807560137457044
+of/IN character/NN- 0.015807560137457044
+of/IN to/TO- 0.015807560137457044
+of/IN on/IN- 0.015807560137457044
+of/IN that/IN- 0.015807560137457044
+of/IN it/PRP- 0.015807560137457044
+of/IN be/VB- 0.015807560137457044
+of/IN someone/VB- 0.015807560137457044
+of/IN â€”/NN- 0.015807560137457044
+of/IN you/PRP- 0.015807560137457044
+of/IN limit/NN- 0.015807560137457044
+of/IN the/DT- 0
+of/IN company/NN- 0.015807560137457044
+of/IN at/IN- 0.015807560137457044
+of/IN those/DT- 0
+of/IN a/DT- 0
+of/IN no/RB- 0.015807560137457044
+on/IN or/CC- 0.015807560137457044
+on/IN text/NN- 0.015807560137457044
+on/IN of/IN- 0.015807560137457044
+on/IN toward/IN- 0.015807560137457044
+on/IN Twitter/NNP- 0.015807560137457044
+on/IN character/NN- 0.015807560137457044
+on/IN to/TO- 0.015807560137457044
+on/IN that/IN- 0.015807560137457044
+on/IN it/PRP- 0.015807560137457044
+on/IN be/VB- 0.015807560137457044
+on/IN someone/VB- 0.015807560137457044
+on/IN â€”/NN- 0.015807560137457044
+on/IN you/PRP- 0.015807560137457044
+on/IN limit/NN- 0.015807560137457044
+on/IN the/DT- 0
+on/IN company/NN- 0.015807560137457044
+on/IN at/IN- 0.015807560137457044
+on/IN those/DT- 0
+on/IN a/DT- 0
+on/IN no/RB- 0.015807560137457044
+or/CC text/NN- 0.015807560137457044
+or/CC of/IN- 0.015807560137457044
+or/CC toward/IN- 0.015807560137457044
+or/CC Twitter/NNP- 0.015807560137457044
+or/CC character/NN- 0.015807560137457044
+or/CC to/TO- 0.015807560137457044
+or/CC on/IN- 0.015807560137457044
+or/CC that/IN- 0.015807560137457044
+or/CC it/PRP- 0.015807560137457044
+or/CC be/VB- 0.015807560137457044
+or/CC someone/VB- 0.015807560137457044
+or/CC â€”/NN- 0.015807560137457044
+or/CC you/PRP- 0.015807560137457044
+or/CC limit/NN- 0.015807560137457044
+or/CC the/DT- 0.015807560137457044
+or/CC company/NN- 0.015807560137457044
+or/CC at/IN- 0.015807560137457044
+or/CC those/DT- 0.015807560137457044
+or/CC a/DT- 0.015807560137457044
+or/CC no/RB- 0.015807560137457044
+someone/VB or/CC- 0.015807560137457044
+someone/VB text/NN- 0.14285714285714285
+someone/VB of/IN- 0.21428571428571427
+someone/VB toward/IN- 0.21428571428571427
+someone/VB Twitter/NNP- 0.2857142857142857
+someone/VB character/NN- 0.14285714285714285
+someone/VB to/TO- 0.14285714285714285
+someone/VB on/IN- 0.21428571428571427
+someone/VB that/IN- 0.21428571428571427
+someone/VB it/PRP- 0.015807560137457044
+someone/VB be/VB- 0.015807560137457044
+someone/VB â€”/NN- 0.14285714285714285
+someone/VB you/PRP- 0.015807560137457044
+someone/VB limit/NN- 0.14285714285714285
+someone/VB the/DT- 0.015807560137457044
+someone/VB company/NN- 0.14285714285714285
+someone/VB at/IN- 0.21428571428571427
+someone/VB those/DT- 0.015807560137457044
+someone/VB a/DT- 0.015807560137457044
+someone/VB no/RB- 0.015807560137457044
+text/NN or/CC- 0.015807560137457044
+text/NN of/IN- 0.015807560137457044
+text/NN toward/IN- 0.015807560137457044
+text/NN Twitter/NNP- 0.015807560137457044
+text/NN character/NN- 0.15950920245398773
+text/NN to/TO- 0.015807560137457044
+text/NN on/IN- 0.015807560137457044
+text/NN that/IN- 0.015807560137457044
+text/NN it/PRP- 0.015807560137457044
+text/NN be/VB- 0.015807560137457044
+text/NN someone/VB- 0.015807560137457044
+text/NN â€”/NN- 0.15950920245398773
+text/NN you/PRP- 0.015807560137457044
+text/NN limit/NN- 0.15950920245398773
+text/NN the/DT- 0.015807560137457044
+text/NN company/NN- 0.15950920245398773
+text/NN at/IN- 0.015807560137457044
+text/NN those/DT- 0.015807560137457044
+text/NN a/DT- 0.015807560137457044
+text/NN no/RB- 0.015807560137457044
+that/IN or/CC- 0.015807560137457044
+that/IN text/NN- 0.015807560137457044
+that/IN of/IN- 0.015807560137457044
+that/IN toward/IN- 0.015807560137457044
+that/IN Twitter/NNP- 0.015807560137457044
+that/IN character/NN- 0.015807560137457044
+that/IN to/TO- 0.015807560137457044
+that/IN on/IN- 0.015807560137457044
+that/IN it/PRP- 0.015807560137457044
+that/IN be/VB- 0.015807560137457044
+that/IN someone/VB- 0.015807560137457044
+that/IN â€”/NN- 0.015807560137457044
+that/IN you/PRP- 0.015807560137457044
+that/IN limit/NN- 0.015807560137457044
+that/IN the/DT- 0
+that/IN company/NN- 0.015807560137457044
+that/IN at/IN- 0.015807560137457044
+that/IN those/DT- 0
+that/IN a/DT- 0
+that/IN no/RB- 0.015807560137457044
+the/DT or/CC- 0.015807560137457044
+the/DT text/NN- 0.5294117647058824
+the/DT of/IN- 0.015807560137457044
+the/DT toward/IN- 0.015807560137457044
+the/DT Twitter/NNP- 0.23529411764705882
+the/DT character/NN- 0.5294117647058824
+the/DT to/TO- 0.015807560137457044
+the/DT on/IN- 0.015807560137457044
+the/DT that/IN- 0.015807560137457044
+the/DT it/PRP- 0.015807560137457044
+the/DT be/VB- 0.015807560137457044
+the/DT someone/VB- 0.015807560137457044
+the/DT â€”/NN- 0.5294117647058824
+the/DT you/PRP- 0.015807560137457044
+the/DT limit/NN- 0.5294117647058824
+the/DT company/NN- 0.5294117647058824
+the/DT at/IN- 0.015807560137457044
+the/DT those/DT- 0.015807560137457044
+the/DT a/DT- 0.015807560137457044
+the/DT no/RB- 0.015807560137457044
+those/DT or/CC- 0.015807560137457044
+those/DT text/NN- 0.5294117647058824
+those/DT of/IN- 0.015807560137457044
+those/DT toward/IN- 0.015807560137457044
+those/DT Twitter/NNP- 0.23529411764705882
+those/DT character/NN- 0.5294117647058824
+those/DT to/TO- 0.015807560137457044
+those/DT on/IN- 0.015807560137457044
+those/DT that/IN- 0.015807560137457044
+those/DT it/PRP- 0.015807560137457044
+those/DT be/VB- 0.015807560137457044
+those/DT someone/VB- 0.015807560137457044
+those/DT â€”/NN- 0.5294117647058824
+those/DT you/PRP- 0.015807560137457044
+those/DT limit/NN- 0.5294117647058824
+those/DT the/DT- 0.015807560137457044
+those/DT company/NN- 0.5294117647058824
+those/DT at/IN- 0.015807560137457044
+those/DT a/DT- 0.015807560137457044
+those/DT no/RB- 0.015807560137457044
+to/TO or/CC- 0.015807560137457044
+to/TO text/NN- 0.015807560137457044
+to/TO of/IN- 0.015807560137457044
+to/TO toward/IN- 0.015807560137457044
+to/TO Twitter/NNP- 0.015807560137457044
+to/TO character/NN- 0.015807560137457044
+to/TO on/IN- 0.015807560137457044
+to/TO that/IN- 0.015807560137457044
+to/TO it/PRP- 0.015807560137457044
+to/TO be/VB- 0.015807560137457044
+to/TO someone/VB- 0.015807560137457044
+to/TO â€”/NN- 0.015807560137457044
+to/TO you/PRP- 0.015807560137457044
+to/TO limit/NN- 0.015807560137457044
+to/TO the/DT- 0.015807560137457044
+to/TO company/NN- 0.015807560137457044
+to/TO at/IN- 0.015807560137457044
+to/TO those/DT- 0.015807560137457044
+to/TO a/DT- 0.015807560137457044
+to/TO no/RB- 0.015807560137457044
+toward/IN or/CC- 0.015807560137457044
+toward/IN text/NN- 0.015807560137457044
+toward/IN of/IN- 0.015807560137457044
+toward/IN Twitter/NNP- 0.015807560137457044
+toward/IN character/NN- 0.015807560137457044
+toward/IN to/TO- 0.015807560137457044
+toward/IN on/IN- 0.015807560137457044
+toward/IN that/IN- 0.015807560137457044
+toward/IN it/PRP- 0.015807560137457044
+toward/IN be/VB- 0.015807560137457044
+toward/IN someone/VB- 0.015807560137457044
+toward/IN â€”/NN- 0.015807560137457044
+toward/IN you/PRP- 0.015807560137457044
+toward/IN limit/NN- 0.015807560137457044
+toward/IN the/DT- 0
+toward/IN company/NN- 0.015807560137457044
+toward/IN at/IN- 0.015807560137457044
+toward/IN those/DT- 0
+toward/IN a/DT- 0
+toward/IN no/RB- 0.015807560137457044
+you/PRP or/CC- 0.015807560137457044
+you/PRP text/NN- 0.015807560137457044
+you/PRP of/IN- 0.015807560137457044
+you/PRP toward/IN- 0.015807560137457044
+you/PRP Twitter/NNP- 0.015807560137457044
+you/PRP character/NN- 0.015807560137457044
+you/PRP to/TO- 0.015807560137457044
+you/PRP on/IN- 0.015807560137457044
+you/PRP that/IN- 0.015807560137457044
+you/PRP it/PRP- 0.015807560137457044
+you/PRP be/VB- 0.015807560137457044
+you/PRP someone/VB- 0.015807560137457044
+you/PRP â€”/NN- 0.015807560137457044
+you/PRP limit/NN- 0.015807560137457044
+you/PRP the/DT- 0.015807560137457044
+you/PRP company/NN- 0.015807560137457044
+you/PRP at/IN- 0.015807560137457044
+you/PRP those/DT- 0.015807560137457044
+you/PRP a/DT- 0.015807560137457044
+you/PRP no/RB- 0.015807560137457044
+a/DT character/NN or/CC- 0.5294117647058824
+a/DT character/NN text/NN- 0.7794117647058824
+a/DT character/NN of/IN- 0.7238562091503268
+a/DT character/NN toward/IN- 0.7238562091503268
+a/DT character/NN Twitter/NNP- 0.5571895424836601
+a/DT character/NN to/TO- 0.5849673202614379
+a/DT character/NN on/IN- 0.7238562091503268
+a/DT character/NN that/IN- 0.7238562091503268
+a/DT character/NN it/PRP- 0.5294117647058824
+a/DT character/NN be/VB- 0.5294117647058824
+a/DT character/NN someone/VB- 0.5294117647058824
+a/DT character/NN â€”/NN- 0.7794117647058824
+a/DT character/NN you/PRP- 0.5294117647058824
+a/DT character/NN limit/NN- 0.7794117647058824
+a/DT character/NN the/DT- 0.5294117647058824
+a/DT character/NN company/NN- 0.7794117647058824
+a/DT character/NN at/IN- 0.7238562091503268
+a/DT character/NN those/DT- 0.5294117647058824
+a/DT character/NN no/RB- 0.5294117647058824
+a/DT character/NN company/NN or/CC- 0.7952193248433395
+a/DT character/NN company/NN text/NN- 0.7952193248433395
+a/DT character/NN company/NN of/IN- 0.8718973138388303
+a/DT character/NN company/NN toward/IN- 0.8718973138388303
+a/DT character/NN company/NN Twitter/NNP- 0.8006063697155162
+a/DT character/NN company/NN to/TO- 0.7952193248433395
+a/DT character/NN company/NN on/IN- 0.8718973138388303
+a/DT character/NN company/NN that/IN- 0.8718973138388303
+a/DT character/NN company/NN it/PRP- 0.7813385469794855
+a/DT character/NN company/NN be/VB- 0.7851921115266917
+a/DT character/NN company/NN someone/VB- 0.7851921115266917
+a/DT character/NN company/NN â€”/NN- 0.7952193248433395
+a/DT character/NN company/NN you/PRP- 0.7813385469794855
+a/DT character/NN company/NN limit/NN- 0.7952193248433395
+a/DT character/NN company/NN the/DT- 0.7952193248433395
+a/DT character/NN company/NN at/IN- 0.8718973138388303
+a/DT character/NN company/NN those/DT- 0.7952193248433395
+a/DT character/NN company/NN no/RB- 0.7952193248433395
+a/DT character/NN company/NN at/IN or/CC- 0.8877048739762874
+a/DT character/NN company/NN at/IN text/NN- 0.8877048739762874
+a/DT character/NN company/NN at/IN of/IN- 0.8817012354074577
+a/DT character/NN company/NN at/IN toward/IN- 0.8817012354074577
+a/DT character/NN company/NN at/IN Twitter/NNP- 0.8877048739762874
+a/DT character/NN company/NN at/IN to/TO- 0.8877048739762874
+a/DT character/NN company/NN at/IN on/IN- 0.8817012354074577
+a/DT character/NN company/NN at/IN that/IN- 0.8817012354074577
+a/DT character/NN company/NN at/IN it/PRP- 0.8817012354074577
+a/DT character/NN company/NN at/IN be/VB- 0.8877048739762874
+a/DT character/NN company/NN at/IN someone/VB- 0.8877048739762874
+a/DT character/NN company/NN at/IN â€”/NN- 0.8877048739762874
+a/DT character/NN company/NN at/IN you/PRP- 0.8817012354074577
+a/DT character/NN company/NN at/IN limit/NN- 0.8877048739762874
+a/DT character/NN company/NN at/IN the/DT- 0.8964071177603989
+a/DT character/NN company/NN at/IN those/DT- 0.8964071177603989
+a/DT character/NN company/NN at/IN no/RB- 0.876799274623144
+a/DT character/NN company/NN at/IN the/DT or/CC- 0.9122146778978559
+a/DT character/NN company/NN at/IN the/DT text/NN- 1.1821214034746848
+a/DT character/NN company/NN at/IN the/DT of/IN- 0.9122146778978559
+a/DT character/NN company/NN at/IN the/DT toward/IN- 0.9122146778978559
+a/DT character/NN company/NN at/IN the/DT Twitter/NNP- 1.0868833082365894
+a/DT character/NN company/NN at/IN the/DT to/TO- 0.9122146778978559
+a/DT character/NN company/NN at/IN the/DT on/IN- 0.9122146778978559
+a/DT character/NN company/NN at/IN the/DT that/IN- 0.9122146778978559
+a/DT character/NN company/NN at/IN the/DT it/PRP- 1.0392642606175417
+a/DT character/NN company/NN at/IN the/DT be/VB- 0.9122146778978559
+a/DT character/NN company/NN at/IN the/DT someone/VB- 0.9122146778978559
+a/DT character/NN company/NN at/IN the/DT â€”/NN- 1.1821214034746848
+a/DT character/NN company/NN at/IN the/DT you/PRP- 1.0392642606175417
+a/DT character/NN company/NN at/IN the/DT limit/NN- 1.1821214034746848
+a/DT character/NN company/NN at/IN the/DT those/DT- 0.9122146778978559
+a/DT character/NN company/NN at/IN the/DT no/RB- 0.9122146778978559
+a/DT character/NN company/NN at/IN the/DT limit/NN or/CC- 1.1979289636121417
+a/DT character/NN company/NN at/IN the/DT limit/NN text/NN- 1.1979289636121417
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN- 1.3765658479191292
+a/DT character/NN company/NN at/IN the/DT limit/NN toward/IN- 1.3765658479191292
+a/DT character/NN company/NN at/IN the/DT limit/NN Twitter/NNP- 1.2098991812524624
+a/DT character/NN company/NN at/IN the/DT limit/NN to/TO- 1.2376769590302403
+a/DT character/NN company/NN at/IN the/DT limit/NN on/IN- 1.3765658479191292
+a/DT character/NN company/NN at/IN the/DT limit/NN that/IN- 1.3765658479191292
+a/DT character/NN company/NN at/IN the/DT limit/NN it/PRP- 1.1979289636121417
+a/DT character/NN company/NN at/IN the/DT limit/NN be/VB- 1.1979289636121417
+a/DT character/NN company/NN at/IN the/DT limit/NN someone/VB- 1.1979289636121417
+a/DT character/NN company/NN at/IN the/DT limit/NN â€”/NN- 1.1979289636121417
+a/DT character/NN company/NN at/IN the/DT limit/NN you/PRP- 1.1979289636121417
+a/DT character/NN company/NN at/IN the/DT limit/NN those/DT- 1.1979289636121417
+a/DT character/NN company/NN at/IN the/DT limit/NN no/RB- 1.1979289636121417
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN or/CC- 1.3923734080565862
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN text/NN- 1.3923734080565862
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN toward/IN- 1.3863697694877566
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN Twitter/NNP- 1.3923734080565862
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN to/TO- 1.3923734080565862
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN on/IN- 1.3863697694877566
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN that/IN- 1.3863697694877566
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN it/PRP- 1.3863697694877566
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN be/VB- 1.3923734080565862
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN someone/VB- 1.3923734080565862
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN â€”/NN- 1.3923734080565862
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN you/PRP- 1.3863697694877566
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT- 1.4010756518406977
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN no/RB- 1.3814678087034429
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT or/CC- 1.4168832119781547
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN- 1.6867899375549835
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT toward/IN- 1.4168832119781547
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT Twitter/NNP- 1.5915518423168882
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT to/TO- 1.4168832119781547
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT on/IN- 1.4168832119781547
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT that/IN- 1.4168832119781547
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT it/PRP- 1.5439327946978405
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT be/VB- 1.4168832119781547
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT someone/VB- 1.4168832119781547
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT â€”/NN- 1.6867899375549835
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT you/PRP- 1.5439327946978405
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT no/RB- 1.4168832119781547
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN or/CC- 1.7025974976924405
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN toward/IN- 1.881234381999428
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN Twitter/NNP- 1.7145677153327612
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN to/TO- 1.742345493110539
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN- 1.881234381999428
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN that/IN- 1.881234381999428
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN it/PRP- 1.7025974976924405
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN be/VB- 1.7025974976924405
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN someone/VB- 1.7025974976924405
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN â€”/NN- 1.7025974976924405
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN you/PRP- 1.7025974976924405
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN no/RB- 1.7025974976924405
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN or/CC- 1.897041942136885
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN toward/IN- 1.8910383035680554
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP- 1.897041942136885
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN to/TO- 1.897041942136885
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN that/IN- 1.8910383035680554
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN it/PRP- 1.8910383035680554
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN be/VB- 1.897041942136885
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN someone/VB- 1.897041942136885
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN â€”/NN- 1.897041942136885
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN you/PRP- 1.8910383035680554
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN no/RB- 1.8861363427837416
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP or/CC- 1.912849502274342
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP toward/IN- 1.912849502274342
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP to/TO- 1.9012792302724781
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP that/IN- 1.912849502274342
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP it/PRP- 1.912849502274342
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP be/VB- 1.912849502274342
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP someone/VB- 1.912849502274342
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN- 2.20636397603519
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP you/PRP- 1.912849502274342
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP no/RB- 1.912849502274342
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN or/CC- 2.222171536172647
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN toward/IN- 2.303018251128127
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN to/TO- 2.239821225105822
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN- 2.303018251128127
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN it/PRP- 2.210081448154149
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN be/VB- 2.210081448154149
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN someone/VB- 2.210081448154149
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN you/PRP- 2.210081448154149
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN no/RB- 2.222171536172647
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN or/CC- 2.318825811265584
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN toward/IN- 2.3128221726967544
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN to/TO- 2.318825811265584
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN it/PRP- 2.3128221726967544
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB- 2.318825811265584
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN someone/VB- 2.318825811265584
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN you/PRP- 2.3128221726967544
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN no/RB- 2.3079202119124407
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB or/CC- 2.334633371403041
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB toward/IN- 2.334633371403041
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB to/TO- 2.334633371403041
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP- 2.334633371403041
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB someone/VB- 2.334633371403041
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB you/PRP- 2.334633371403041
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB no/RB- 2.334633371403041
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP or/CC- 2.350440931540498
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP toward/IN- 2.350440931540498
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP to/TO- 2.350440931540498
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP someone/VB- 2.350440931540498
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP you/PRP- 2.350440931540498
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP no/RB- 2.350440931540498
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP no/RB or/CC- 2.366248491677955
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP no/RB toward/IN- 2.366248491677955
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP no/RB to/TO- 2.366248491677955
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP no/RB someone/VB- 2.366248491677955
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP no/RB you/PRP- 2.366248491677955
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP no/RB or/CC toward/IN- 2.382056051815412
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP no/RB or/CC to/TO- 2.382056051815412
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP no/RB or/CC someone/VB- 2.382056051815412
+a/DT character/NN company/NN at/IN the/DT limit/NN of/IN those/DT text/NN on/IN Twitter/NNP â€”/NN that/IN be/VB it/PRP no/RB or/CC you/PRP- 2.382056051815412

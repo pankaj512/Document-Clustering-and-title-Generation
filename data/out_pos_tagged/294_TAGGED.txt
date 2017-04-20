@@ -1,0 +1,30 @@
+Wall/NNP Street/NNP cheers/NNS Bush/NNP victory/NN
+
+The/DT US/PRP stock/VBP market/NN has/VBZ closed/VBN higher/JJR in/IN response/NN to/TO George/NNP W/NNP Bush's/NNP victory/NN in/IN the/DT presidential/JJ elections./NN
+
+The/DT benchmark/JJ Dow/NNP Jones/NNP share/NN index/NN closed/VBD more/JJR than/IN 1%/CD higher/JJR at/IN 10137/CD while/IN the/DT Nasdaq/NNP rose/VBD 0.9%/CD to/TO 2004./CD
+Many/JJ investors/NNS believe/VBP that/IN Mr/NNP Bush's/NNP policies/NNS are/VBP more/RBR business-friendly/JJ than/IN those/DT of/IN his/PRP$ Democrat/NNP challenger/NN John/NNP Kerry./NNP
+The/DT higher/JJR share/NN prices/NNS also/RB reflect/VBP relief/NN that/IN a/DT clear/JJ winner/NN has/VBZ emerged/VBN from/IN what/WP proved/VBD to/TO be/VB a/DT tight/JJ poll./NN
+
+Investors/NNS had/VBD worried/VBN that/IN the/DT outcome/NN of/IN the/DT poll/NN would/MD be/VB inconclusive/JJ paving/NN the/DT way/NN for/IN a/DT repeat/NN of/IN the/DT legal/JJ wrangling/NN that/WDT marred/VBD the/DT 2000/CD election./NN
+
+The/DT Dow/NNP lost/VBD 5%/CD of/IN its/PRP$ value/NN in/IN the/DT three/CD weeks/NNS immediately/RB after/IN that/DT election/NN when/WRB it/PRP was/VBD unclear/JJ who/WP would/MD occupy/VB the/DT White/NNP House./NNP
+Mr/NNP Kerry/NNP conceded/VBD defeat/NN on/IN Wednesday/NNP abandoning/VBG last-ditch/JJ hopes/NNS of/IN carrying/VBG the/DT vote/NN in/IN the/DT swing/NN state/NN of/IN Ohio./NNP
+"The/NN relief/NN for/IN the/DT markets/NNS may/MD be/VB that/IN we/PRP have/VBP a/DT decision/NN and/CC can/MD move/VB forward"/NN said/VBD Tim/NNP Ghriskey/NNP chief/JJ investment/NN officer/NN of/IN Solaris/NNP Asset/NNP Management./NNP
+Some/DT analysts/NNS predicted/VBD that/IN the/DT jump/NN in/IN share/NN prices/NNS would/MD be/VB short-lived/JJ saying/NN investors/NNS would/MD quickly/RB focus/VB once/RB again/RB on/IN the/DT health/NN of/IN the/DT US/PRP economy./VBP
+"I/NN would/MD look/VB at/IN the/DT stock/NN market/NN rally/NN for/IN Bush/NNP as/IN kind/NN of/IN a/DT one-day/JJ event"/NN said/VBD Ken/NNP Mayland/NNP at/IN Clearview/NNP Economics./NNP
+The/DT US'/NNP recent/JJ economic/JJ performance/NN has/VBZ been/VBN mixed/JJ with/IN solid/JJ growth/NN offset/VBN by/IN disappointingly/RB low/JJ job/NN creation/NN figures/NNS and/CC mounting/VBG worries/NNS over/IN a/DT record/NN budget/NN deficit./NN
+Elsewhere/RB in/IN the/DT financial/JJ markets/NNS on/IN Wednesday/NNP the/DT dollar/NN dipped/VBD slightly/RB against/IN the/DT euro/NN and/CC climbed/VBD against/IN the/DT yen/NN while/IN US/PRP oil/VBP prices/NNS closed/VBD up/RB $1.26/CD at/IN $50.88/CD a/DT barrel/NN in/IN New/NNP York./NNP
+The/DT rise/NN in/IN oil/NN prices/NNS partly/RB reflects/VBZ the/DT view/NN that/IN President/NNP Bush/NNP is/VBZ less/RBR likely/JJ than/IN Mr/NNP Kerry/NNP to/TO release/VB supplies/NNS from/IN the/DT US'/NNP strategic/JJ oil/NN reserve./NN
+Share/NN prices/NNS in/IN London/NNP Frankfurt/NNP and/CC Paris/NNP also/RB closed/VBD higher./NN
+
+Successive/JJ polls/NNS in/IN the/DT run-up/NN to/TO Tuesday's/NNP election/NN had/VBD shown/VBN the/DT two/CD candidates/NNS running/VBG neck/NN and/CC neck./NN
+
+Economic/NN issues/NNS as/RB well/RB as/IN the/DT war/NN in/IN Iraq/NNP were/VBD the/DT forefront/NN of/IN the/DT campaign./NN
+In/IN key/JJ swing/NN states/NNS such/JJ as/IN Ohio/NNP which/WDT has/VBZ suffered/VBN substantial/JJ job/NN losses/NNS in/IN the/DT past/JJ four/CD years/NNS President/NNP Bush's/NNP handling/NN of/IN the/DT economy/NN became/VBD a/DT crucial/JJ election/NN issue./NN
+Senator/NNP Kerry/NNP attacked/VBD President/NNP Bush's/NNP economic/JJ record/NN during/IN his/PRP$ campaign/NN hammering/VBG home/NN the/DT fact/NN that/IN a/DT net/JJ 800000/CD jobs/NNS were/VBD lost/VBN during/IN his/PRP$ term/NN in/IN office./NN
+President/NNP Bush/NNP focused/VBD on/IN the/DT fact/NN that/IN two/CD million/CD jobs/NNS have/VBP been/VBN created/VBN in/IN the/DT past/JJ year/NN claiming/VBG that/IN it/PRP has/VBZ vindicated/VBN his/PRP$ tax-cutting/JJ agenda./NN
+As/IN for/IN future/JJ policies/NNS both/DT candidates/NNS pledged/VBD to/TO bring/VB America's/NNP $422bn/CD federal/JJ budget/NN deficit/NN under/IN control./NN
+Senator/NNP Kerry/NNP planned/VBD to/TO increase/VB taxes/NNS on/IN those/DT earning/VBG more/JJR than/IN $200000/CD a/DT year./NN
+President/NNP Bush/NNP has/VBZ placed/VBN reform/NN of/IN the/DT pensions/NNS system/NN at/IN the/DT heart/NN of/IN his/PRP$ economic/JJ agenda/NN for/IN a/DT second/JJ term./NN
+However/RB economists/NNS have/VBP said/VBN both/DT candidates'/JJ economic/JJ programmes/NNS rested/VBN on/IN questionable/JJ assumptions/NNS about/IN future/JJ growth./NN

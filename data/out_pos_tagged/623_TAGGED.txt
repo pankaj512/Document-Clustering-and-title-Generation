@@ -1,0 +1,15 @@
+Wal-Mart/NNP is/VBZ sued/VBN over/IN rude/JJ lyrics/NNS
+
+The/DT parents/NNS of/IN a/DT 13-year-old/JJ girl/NN are/VBP suing/VBG US/PRP supermarket/VBP giant/NN Wal-Mart/NNP over/IN a/DT CD/NNP by/IN rock/NN group/NN Evanescence/NNP that/WDT contains/VBZ swear/VB words./NN
+
+The/DT lawsuit/NN filed/VBD in/IN Washington/NNP County/NNP alleges/VBZ Wal-Mart/NNP deceived/VBD customers/NNS by/IN not/RB putting/VBG warning/NN labels/NNS on/IN the/DT cover./NN
+Trevin/NNP Skeens/NNP alleges/VBZ Wal-Mart/NNP knew/VBD of/IN the/DT offending/VBG word/NN because/IN it/PRP had/VBD censored/VBN it/PRP on/IN its/PRP$ music/NN sales/NNS website./NN
+Wal-Mart/NNP said/VBD it/PRP was/VBD investigating/VBG the/DT claims/NNS but/CC had/VBD no/DT plans/NNS to/TO pull/VB the/DT CD./NNP
+Wal-Mart/NNP has/VBZ a/DT policy/NN of/IN not/RB stocking/VBG CDs/NNS which/WDT carry/VBP parental/JJ advisory/JJ labels./NN
+Mr/NNP Skeens/NNP said/VBD he/PRP bought/VBD the/DT Anywhere/RB But/CC Home/NNP CD/NNP for/IN his/PRP$ daughter/NN and/CC was/VBD shocked/VBN to/TO hear/VB the/DT swearing/NN when/WRB it/PRP was/VBD played/VBN in/IN their/PRP$ car./NN
+
+"I/NN don't/NN want/VBP any/DT other/JJ families/NNS to/TO get/VB this/DT expecting/VBG it/PRP to/TO be/VB clean./NN
+It/PRP needs/VBZ to/TO be/VB removed/VBN from/IN the/DT shelves/NNS to/TO prevent/VB other/JJ children/NNS from/IN hearing/NN it"/NN said/VBD Mr/NNP Skeens/NNP of/IN Brownsville./NNP
+The/DT lawsuit/NN seeks/VBZ to/TO force/VB Wal-Mart/NNP to/TO censor/VB the/DT music/NN or/CC remove/VB it/PRP from/IN its/PRP$ stores/NNS in/IN Maryland./NNP
+It/PRP also/RB seeks/VBZ damages/NNS of/IN up/IN to/TO $74500/CD (£38660)/CD for/IN every/DT customer/NN who/WP bought/VBD the/DT CD/NNP at/IN Maryland/NNP Wal-Marts/NNP and/CC also/RB naming/VBG record/NN label/NN Wind-Up/NNP Records/NNPS and/CC distributor/NN BMG/NNP Entertainment/NNP in/IN the/DT legal/JJ action./NN
+"While/NNP Wal-Mart/NNP sets/NNS high/JJ standards/NNS it/PRP would/MD not/RB be/VB possible/JJ to/TO eliminate/VB every/DT image/NN word/NN or/CC topic/NN that/IN an/DT individual/NN might/MD find/VB objectionable"/NN Wal-Mart/NNP spokesman/NN Guy/NNP Whitcomb/NNP told/VBD the/DT Herald-Mail/NNP of/IN Hagerstown./NNP

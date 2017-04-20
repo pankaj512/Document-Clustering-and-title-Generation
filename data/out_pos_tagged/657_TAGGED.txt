@@ -1,0 +1,15 @@
+Beastie/NNP Boys/NNPS win/VBP sampling/VBG battle/NN
+
+US/PRP rappers/VBZ Beastie/NNP Boys/NNPS have/VBP won/VBN their/PRP$ long-running/JJ battle/NN over/IN the/DT use/NN of/IN a/DT sample/NN in/IN their/PRP$ song/NN Pass/VBP the/DT Mic./NNP
+
+The/DT punk-rappers/NNS used/VBD three/CD notes/NNS of/IN music/NN from/IN flautist/NN James/NNP Newton's/NNP Choir/NN in/IN their/PRP$ track/NN from/IN 1992./CD
+Although/IN the/DT group/NN had/VBD paid/VBN a/DT licence/NN fee/NN for/IN the/DT sample/NN Mr/NNP Newton/NNP said/VBD his/PRP$ copyright/NN had/VBD been/VBN infringed./NN
+But/CC the/DT US/PRP Court/NNP of/IN Appeal/NN upheld/VBD its/PRP$ original/JJ decision/NN that/IN the/DT group/NN did/VBD not/RB have/VB to/TO pay/VB an/DT additional/JJ fee/NN to/TO license/VB the/DT underlying/VBG composition./NN
+The/DT Beastie/NNP Boys/NNPS -/: Michael/NNP Diamond/NNP Adam/NNP Horowitz/NNP and/CC Adam/NNP Yauch/NNP -/: are/VBP considered/VBN to/TO be/VB one/CD of/IN early/JJ pioneers/NNS of/IN sampling/VBG music./NN
+
+Sampling/NNP now/RB a/DT standard/JJ practice/NN among/IN musicians/NNS involves/VBZ taking/VBG a/DT segment/NN of/IN one/CD track/NN and/CC using/VBG it/PRP in/IN a/DT different/JJ song./NN
+A/DT three-judge/JJ panel/NN of/IN the/DT court/NN held/VBD in/IN 2003/CD that/IN the/DT band/NN had/VBD abided/VBN by/IN copyright/NN protections/NNS by/IN paying/VBG a/DT licence/NN fee/NN for/IN a/DT sample/NN of/IN Mr/NNP Newton's/NNP recording./NN
+That/DT finding/NN upheld/VBD a/DT lower-court/NN dismissal/NN of/IN the/DT case/NN in/IN favour/NN of/IN the/DT Beastie/NNP Boys./NNP
+"We/NN hold/NN that/IN Beastie/NNP Boys'/NNP use/NN of/IN a/DT brief/JJ segment/NN of/IN that/DT composition/NN consisting/VBG of/IN three/CD notes/NNS separated/VBN by/IN a/DT half-step/NN over/IN a/DT background/NN C/NNP note/NN is/VBZ not/RB sufficient/JJ to/TO sustain/VB a/DT claim/NN for/IN infringement/NN of/IN Newton's/NNP copyright"/NN Chief/NNP Judge/NNP Mary/NNP Schroeder/NNP wrote/VBD in/IN her/PRP$ opinion./NN
+Mr/NNP Newton/NNP is/VBZ a/DT critically/RB acclaimed/JJ jazz/NN and/CC classical/JJ flutist/NN composer/NN performer/NN and/CC university/NN professor./NN
+Mr/NNP Newton/NNP and/CC the/DT Beastie/NNP Boys/NNPS were/VBD not/RB available/JJ for/IN comment./NN

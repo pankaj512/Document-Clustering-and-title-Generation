@@ -1,0 +1,23 @@
+Argonaut/NNP founder/NN rebuilds/NNS empire/NN
+
+Jez/NNP San/NNP the/DT man/NN behind/IN the/DT Argonaut/NNP games/NNS group/NN which/WDT went/VBD into/IN administration/NN a/DT week/NN ago/RB has/VBZ bought/VBN back/RB most/JJS of/IN the/DT company./NN
+
+The/DT veteran/NN games/NNS developer/NN has/VBZ taken/VBN over/RP the/DT Cambridge-based/JJ Just/RB Add/VBD Monsters/NNP studios/NNS and/CC the/DT London/NNP subsidiary/NN Morpheme./NNP
+The/DT Argonaut/NNP group/NN went/VBD into/IN administration/NN due/JJ to/TO a/DT severe/JJ cash/NN crisis/NN firing/NN about/IN half/NN of/IN its/PRP$ staff./NN
+In/IN August/NNP it/PRP had/VBD warned/VBN of/IN annual/JJ losses/NNS of/IN £6m/CD for/IN the/DT year/NN to/TO 31/CD July./NNP
+
+Jez/NNP San/NNP is/VBZ one/CD of/IN the/DT key/JJ figures/NNS in/IN the/DT UK's/NNP games/NNS industry./NN
+The/DT developer/NN who/WP received/VBD an/DT OBE/NNP in/IN 2002/CD was/VBD estimated/VBN to/TO have/VB been/VBN worth/JJ more/JJR than/IN £200m/CD at/IN the/DT peak/NN of/IN the/DT dotcom/NN boom./NN
+
+He/PRP founded/VBD Argonaut/NNP in/IN 1982/CD and/CC has/VBZ been/VBN behind/IN titles/NNS such/JJ as/IN 1993/CD Starfox/NNP game./NN
+More/RBR recently/RB it/PRP was/VBD behind/IN the/DT Harry/NNP Potter/NNP games/NNS for/IN the/DT PlayStation./NNP
+But/CC like/IN all/DT software/NN developers/NNS Argonaut/NNP needed/VBD a/DT constant/JJ flow/NN of/IN deals/NNS with/IN publishers./NN
+In/IN August/NNP it/PRP warned/VBD of/IN annual/JJ losses/NNS of/IN £6m/CD blaming/VBG delays/NNS in/IN signing/VBG new/JJ contracts/NNS and/CC tough/JJ conditions/NNS in/IN the/DT software/NN industry./NN
+The/DT group's/NNS three/CD subsidiaries/NNS were/VBD placed/VBN in/IN administration/NN a/DT week/NN ago/RB with/IN Mr/NNP Sans/NNP resigning/VBG as/IN the/DT company's/NNS CEO/NNP and/CC some/DT 100/CD staff/NN being/VBG fired./NN
+After/IN the/DT latest/JJS round/NN of/IN cuts/NNS there/EX were/VBD 80/CD workers/NNS at/IN Argonaut/NNP headquarters/NN in/IN Edgware/NNP in/IN north/RB London/NNP with/IN 17/CD at/IN its/PRP$ Morpheme/NNP offices/NNS in/IN Kentish/NNP Town/NNP London/NNP and/CC 22/CD at/IN the/DT Just/RB Add/VB Monsters/NNP base/NN in/IN Cambridge./NNP
+Mr/NNP San/NNP has/VBZ re-emerged/JJ buying/NN back/RB Morpheme/NNP and/CC Just/RB Add/VB Monsters./NNP
+"We/NN are/VBP pleased/JJ to/TO announce/VB the/DT sale/NN of/IN these/DT two/CD businesses/NNS as/IN going/VBG concerns"/NN said/VBD David/NNP Rubin/NNP of/IN administrators/NNS David/NNP Rubin/NNP &/CC Partners./NNP
+"This/NN has/VBZ saved/VBN over/IN 40/CD jobs/NNS as/RB well/RB as/IN the/DT substantial/JJ employment/NN claims/VBZ that/WDT would/MD have/VB arisen/VBN had/VBD the/DT sales/NNS not/RB been/VBN achieved."/NN Mr/NNP Rubin/NNP said/VBD the/DT administrators/NNS were/VBD in/IN talks/NNS over/IN the/DT sale/NN of/IN the/DT Argonaut/NNP software/NN division/NN in/IN Edgware/NNP and/CC were/VBD hopeful/JJ of/IN finding/VBG a/DT buyer./NN
+"This/NN is/VBZ a/DT very/RB difficult/JJ time/NN for/IN all/PDT the/DT employees/NNS there/RB but/CC I/PRP salute/VBP their/PRP$ commitment/NN to/TO the/DT business/NN while/IN we/PRP work/VBP towards/IN a/DT solution"/NN he/PRP said./VB
+Some/DT former/JJ employees/NNS are/VBP angry/JJ at/IN the/DT way/NN cash/NN crisis/NN was/VBD handled./NN
+One/CD told/VBD BBC/NNP News/NNP Online/NNP that/IN the/DT staff/NN who/WP had/VBD been/VBN fired/VBN had/VBD been/VBN "financially/RB ruined/VBN in/IN the/DT space/NN of/IN a/DT day"./NN

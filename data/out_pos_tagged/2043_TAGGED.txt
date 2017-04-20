@@ -1,0 +1,22 @@
+Disney/NNP backs/VBZ Sony/NNP DVD/NNP technology/NN
+
+A/DT next/JJ generation/NN DVD/NNP technology/NN backed/VBN by/IN Sony/NNP has/VBZ received/VBN a/DT major/JJ boost./NN
+
+Film/NNP giant/JJ Disney/NNP says/VBZ it/PRP will/MD produce/VB its/PRP$ future/JJ DVDs/NNP using/VBG Sony's/NNP Blu-ray/NNP Disc/NNP technology/NN but/CC has/VBZ not/RB ruled/VBN out/RP a/DT rival/JJ format/NN developed/VBN by/IN Toshiba./NNP
+The/DT two/CD competing/VBG DVD/NNP formats/NNS Blu-ray/NNP developed/VBD by/IN Sony/NNP and/CC others/NNS and/CC Toshiba's/NNP HD-DVD/NNP have/VBP been/VBN courting/VBG top/JJ film/NN studios/NNS for/IN several/JJ months./NN
+The/DT next/JJ generation/NN of/IN DVDs/NNP promise/NN very/RB high/JJ quality/NN pictures/NNS and/CC sound/NN as/RB well/RB as/IN a/DT lot/NN of/IN data./NN
+Both/DT technologies/NNS use/VBP a/DT blue/JJ laser/NN to/TO write/VB information./NN
+It/PRP has/VBZ a/DT shorter/JJR wavelength/NN so/RB more/RBR data/NNS can/MD be/VB stored./NN
+Disney/NNP is/VBZ the/DT latest/JJS studio/NN to/TO announce/VB which/WDT technology/NN it/PRP is/VBZ backing/NN in/IN a/DT format/NN battle/NN which/WDT mirrors/VBZ the/DT 1980s/CD Betamax/NNP versus/CC VHS/NNP war./NN
+Sony/NNP lost/VBD out/RP to/TO JVC/NNP in/IN that/DT fight./NN
+
+The/DT current/JJ battle/NN for/IN Hollywood's/NNP hearts/NNS and/CC minds/NNS is/VBZ a/DT crucial/JJ one/CD because/IN high-definition/JJ films/NNS will/MD bring/VB in/RP billions/NNS of/IN revenue/NN and/CC the/DT studios/NNS would/MD prefer/VB to/TO use/VB one/CD standard./NN
+Last/JJ month/NN Paramount/NNP Universal/NNP and/CC Warner/NNP Brothers/NNPS said/VBD they/PRP were/VBD opting/VBG for/IN the/DT Toshiba/NNP and/CC NEC-backed/JJ format/NN HD-DVD/NNP high-definition/JJ discs./JJ
+
+Those/DT studios/NNS currently/RB produce/VBP about/IN 45%/CD of/IN DVD/NNP content./NN
+Sony/NNP Pictures/NNP Entertainment/NNP and/CC MGM/NNP Studios/NNP have/VBP already/RB staked/VBN their/PRP$ allegiance/NN with/IN the/DT Blu-ray/NNP Disc/NNP Association/NNP whose/WP$ members/NNS also/RB include/VBP technology/NN companies/NNS Dell/NNP Samsung/NNP and/CC Matsushita./NNP
+Twentieth/NNP Century/NNP Fox/NNP is/VBZ still/RB to/TO announce/VB which/WDT technology/NN it/PRP will/MD be/VB supporting./NN
+If/IN Fox/NNP decided/VBD to/TO go/VB with/IN Blu-ray/NNP too/RB it/PRP would/MD mean/VB the/DT format/NN would/MD have/VB a/DT 47%/CD share/NN of/IN DVD/NNP content./NN
+Disney/NNP said/VBD its/PRP$ films/NNS would/MD be/VB available/JJ on/IN the/DT Blu-ray/NNP format/NN when/WRB DVD/NNP players/NNS for/IN the/DT standard/NN went/VBD on/IN sale/NN on/IN North/NNP America/NNP and/CC Japan/NNP expected/VBD in/IN 2006./CD
+Universal/NNP is/VBZ to/TO start/VB producing/VBG films/NNS on/IN the/DT HD-DVD/NNP format/NN in/IN 2005/CD and/CC Paramount/NNP will/MD start/VB releasing/VBG titles/NNS using/VBG the/DT standard/NN in/IN 2006./CD
+Toshiba/NNP expects/VBZ sales/NNS of/IN HD-DVDs/NNP to/TO reach/VB 300bn/CD yen/NNS ($2.9bn/CD £1.5bn)/CD by/IN 2010./CD

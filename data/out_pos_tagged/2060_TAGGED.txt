@@ -1,0 +1,26 @@
+Google/NN to/TO scan/VB famous/JJ libraries/NNS
+
+The/DT libraries/NNS of/IN five/CD of/IN the/DT world's/NNS most/RBS important/JJ academic/JJ institutions/NNS are/VBP to/TO be/VB digitised/VBN by/IN Google./NNP
+
+Scanned/JJ pages/NNS from/IN books/NNS in/IN the/DT public/JJ domain/NN will/MD then/RB be/VB made/VBN available/JJ for/IN search/NN and/CC reading/NN online./NN
+The/DT full/JJ libraries/NNS of/IN Michigan/NNP and/CC Stanford/NNP universities/NNS as/RB well/RB as/IN archives/NNS at/IN Harvard/NNP Oxford/NNP and/CC the/DT New/NNP York/NNP Public/NNP Library/NNP are/VBP included./NN
+Online/NN pages/NNS from/IN scanned/VBN books/NNS will/MD not/RB have/VB adverts/NNS but/CC will/MD have/VB links/NNS to/TO online/VB store/NN Amazon/NNP Google/NNP said./NN
+
+"The/NN goal/NN of/IN the/DT project/NN is/VBZ to/TO unlock/VB the/DT wealth/NN of/IN information/NN that/WDT is/VBZ offline/NN and/CC bring/VB it/PRP online"/NN said/VBD Susan/NNP Wojcicki/NNP director/NN of/IN product/NN management/NN at/IN Google./NNP
+
+There/EX will/MD also/RB be/VB links/NNS to/TO public/JJ libraries/NNS so/IN that/IN the/DT books/NNS can/MD be/VB borrowed./NN
+Google/NNP will/MD not/RB be/VB paid/VBN for/IN providing/VBG for/IN the/DT links./NN
+It/PRP will/MD take/VB six/CD years/NNS to/TO digitise/VB the/DT full/JJ collection/NN at/IN Michigan/NNP which/WDT contains/VBZ seven/CD million/CD volumes./NN
+Users/NNS will/MD only/RB have/VB access/NN to/TO extracts/NNS and/CC bibliographies/NNS of/IN copyrighted/VBN works./NN
+The/DT New/NNP York/NNP library/NN is/VBZ allowing/VBG Google/NNP to/TO include/VB a/DT small/JJ portion/NN of/IN books/NNS no/RB longer/RB covered/VBN by/IN copyright./NN
+
+Harvard/NNP is/VBZ limiting/VBG its/PRP$ participation/NN to/TO 40000/CD books/NNS while/IN Oxford/NNP wants/VBZ Google/NNP to/TO scan/VB books/NNS originally/RB published/VBN in/IN the/DT 19th/JJ Century/NNP and/CC held/VBN in/IN the/DT Bodleian/NNP Library./NNP
+A/DT spokeswoman/NN for/IN Oxford/NNP University/NNP said/VBD the/DT digitised/VBN books/NNS would/MD include/VB novels/NNS poetry/VBP political/JJ tracts/NNS and/CC art/NN books./NN
+"Important/NN works/VBZ that/WDT are/VBP out/IN of/IN print/NN or/CC only/RB available/JJ in/IN a/DT few/JJ libraries/NNS around/IN the/DT world/NN will/MD be/VB made/VBN available/JJ to/TO everyone"/VB she/PRP said./VBP
+About/IN one/CD million/CD books/NNS will/MD be/VB scanned/VBN by/IN Google/NNP less/JJR than/IN 15%/CD of/IN the/DT total/JJ collection/NN held/VBN in/IN the/DT Bodleian./NNP
+"We/NN hope/NN that/IN Oxford's/NNP contribution/NN to/TO this/DT project/NN will/MD be/VB of/IN scholarly/JJ use/NN as/RB well/RB as/IN general/JJ interest/NN to/TO people/NNS around/IN the/DT world"/NN said/VBD Reg/NNP Carr/NNP director/NN of/IN Oxford/NNP University/NNP Library/NNP Services./NNP
+
+"It's/NN a/DT significant/JJ opportunity/NN to/TO bring/VB our/PRP$ material/NN to/TO the/DT rest/NN of/IN the/DT world"/NN said/VBD Paul/NNP LeClerc/NNP president/NN of/IN the/DT New/NNP York/NNP Public/NNP Library./NNP
+"It/NN could/MD solve/VB an/DT old/JJ problem/NN If/IN people/NNS can't/VBP get/NN to/TO us/PRP how/WRB can/MD we/PRP get/VB to/TO them?"/VB "This/NN is/VBZ the/DT day/NN the/DT world/NN changes"/NN said/VBD John/NNP Wilkin/NNP a/DT University/NNP of/IN Michigan/NNP librarian/NN working/VBG with/IN Google./NNP
+"It/NN will/MD be/VB disruptive/JJ because/IN some/DT people/NNS will/MD worry/VB that/IN this/DT is/VBZ the/DT beginning/NN of/IN the/DT end/NN of/IN libraries./NN
+"But/NN this/DT is/VBZ something/NN we/PRP have/VBP to/TO do/VB to/TO revitalise/VB the/DT profession/NN and/CC make/VB it/PRP more/JJR meaningful."/NN

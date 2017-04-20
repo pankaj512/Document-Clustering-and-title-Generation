@@ -1,0 +1,46 @@
+Business/NN fears/NNS over/IN sluggish/JJ EU/NNP economy/NN
+
+As/IN European/JJ leaders/NNS gather/VBP in/IN Rome/NNP on/IN Friday/NNP to/TO sign/VB the/DT new/JJ EU/NNP constitution/NN many/JJ companies/NNS will/MD be/VB focusing/VBG on/IN matters/NNS much/RB closer/JJR to/TO home/NN -/: namely/RB how/WRB to/TO stay/VB in/IN business./NN
+
+Lille/NNP is/VBZ a/DT popular/JJ tourist/NN destination/NN for/IN Britons/NNP who/WP want/VBP a/DT taste/NN of/IN France/NNP at/IN the/DT weekend./NN
+But/CC how/WRB many/JJ tourists/NNS look/VBP at/IN the/DT impressively/RB grand/JJ Victorian/JJ Chambre/NNP de/NNP Commerce/NNP which/WDT stands/VBZ beside/IN the/DT Opera/NNP House/NNP and/CC consider/VB that/IN it/PRP was/VBD built/VBN -/: like/IN the/DT town/NN halls/NNS in/IN many/JJ northern/JJ English/JJ towns/NNS -/: on/IN the/DT wealth/NN created/VBN by/IN coal/NN steel/NN and/CC textiles?/NN Like/IN northern/JJ England/NNP and/CC industrial/JJ Scotland/NNP those/DT industries/NNS have/VBP been/VBN in/IN long/JJ term/NN decline/NN -/: the/DT last/JJ coal/NN pit/NN closed/VBD in/IN 1990./CD
+Beck-Crespel/NNP is/VBZ a/DT specialist/NN steel/NN firm/NN in/IN Armentieres/NNP about/IN 20/CD miles/NNS from/IN Lille./NNP
+The/DT company/NN has/VBZ not/RB laid/VBN off/RP a/DT worker/NN since/IN 1945./CD
+It/PRP specialises/VBZ in/IN making/VBG bolts/NNS and/CC fixings/NNS for/IN power/NN stations/NNS and/CC the/DT oil/NN industry/NN but/CC not/RB many/JJ of/IN those/DT are/VBP being/VBG built/VBN in/IN Europe/NNP these/DT days./NN
+
+Director/NNP Hugues/NNP Charbonnier/NNP says/VBZ he/PRP is/VBZ under/IN pressure/NN because/IN factories/NNS in/IN the/DT Far/NNP East/NNP are/VBP able/JJ to/TO make/VB some/DT of/IN his/PRP$ output/NN more/RBR cheaply/RB while/IN his/PRP$ key/JJ markets/NNS are/VBP now/RB in/IN China/NNP and/CC India./NNP
+"In/NN our/PRP$ business/NN the/DT market/NN is/VBZ absolutely/RB global/JJ you/PRP can/MD not/RB imagine/VB living/VBG with/IN our/PRP$ size/NN (of/NN business)/NN even/RB within/IN an/DT enlarged/JJ European/NNP Union/NNP (if/NN we/PRP did/VBD that)/NN we/PRP would/MD need/VB not/RB 350/CD people/NNS but/CC perhaps/RB just/RB 150/CD or/CC 200"/CD he/PRP says./VB
+It/PRP isn't/VBP just/RB globalisation/NN that/WDT is/VBZ hurting/VBG the/DT law/NN in/IN France/NNP means/VBZ workers/NNS are/VBP paid/VBN for/IN a/DT 39/CD hour/NN week/NN even/RB though/IN they/PRP work/VBP just/RB 35/CD hours./NN
+But/CC at/IN least/JJS there/EX is/VBZ still/RB a/DT steel/NN industry./NN
+Coal/NN has/VBZ now/RB totally/RB vanished/VBN and/CC textiles/NNS are/VBP struggling./NN
+New/JJ business/NN has/VBZ been/VBN attracted/VBN but/CC not/RB enough/RB to/TO make/VB up/RP the/DT difference./NN
+
+That/DT is/VBZ one/CD reason/NN why/WRB people/NNS here/RB are/VBP not/RB great/JJ fans/NNS of/IN the/DT EU/NNP says/VBZ Frederic/NNP Sawicki/NNP a/DT politics/NNS lecturer/NN at/IN the/DT University/NNP of/IN Lille./NNP
+
+"In/NN the/DT region/NN today/NN the/DT unemployment/NN rate/NN is/VBZ 12%/CD in/IN some/DT areas/NNS it/PRP is/VBZ 15%./CD
+They/PRP don't/VBP see/NN what/WP Europe/NNP is/VBZ doing/VBG for/IN them/PRP so/RB there/EX is/VBZ a/DT kind/NN of/IN euro/NN scepticism/NN especially/RB in/IN the/DT working/VBG classes"/NN he/PRP says./VB
+Which/WDT is/VBZ strange/JJ because/IN Lille/NNP is/VBZ at/IN the/DT crossroads/NNS of/IN Europe/NNP -/: if/IN anywhere/RB should/MD be/VB benefiting/VBG from/IN the/DT euro/NN it/PRP is/VBZ here./NN
+The/DT euro/NN was/VBD designed/VBN to/TO increase/VB trade/NN within/IN the/DT eurozone/NN but/CC the/DT biggest/JJS increase/NN in/IN trade/NN has/VBZ been/VBN with/IN the/DT rest/NN of/IN the/DT world./NN
+Much/JJ of/IN that/DT trade/NN passes/VBZ through/IN the/DT world's/NNS largest/JJS port/NN Rotterdam/NNP in/IN Holland/NNP home/NN to/TO specialist/VB crane/NN maker/NN Huisman/NNP Itrec./NNP
+Its/PRP$ cranes/NNS help/VBP build/VB oil/NN rigs/NNS and/CC lifted/VBD the/DT sunken/JJ Russian/JJ submarine/NN Kursk/NNP from/IN the/DT sea/NN bed/NN but/CC Huisman/NNP Itrec/NNP is/VBZ now/RB setting/VBG up/RP a/DT factory/NN in/IN China/NNP where/WRB costs/NNS are/VBP cheaper/JJR and/CC its/PRP$ main/JJ customers/NNS are/VBP closer./NN
+
+Boss/NNP Henk/NNP Addink/NNP blames/VBZ the/DT low/JJ growth/NN rate/NN in/IN Europe/NNP for/IN the/DT lack/NN of/IN orders/NNS closer/JJR to/TO home./VB
+"In/NN the/DT US/PRP growth/VBP is/VBZ something/NN like/IN 6%/CD in/IN China/NNP they/PRP are/VBP estimating/VBG 15%/CD and/CC in/IN the/DT EU/NNP it/PRP is/VBZ more/JJR or/CC less/JJR 1%"/CD he/PRP says./VB
+Mr/NNP Addink/NNP blames/VBZ the/DT euro/NN for/IN stifling/VBG demand./NN
+He/PRP much/VBD preferred/JJ the/DT old/JJ currencies/NNS of/IN Europe/NNP which/WDT moved/VBD in/IN relation/NN to/TO each/DT country's/NNS economic/JJ performance./NN
+In/IN Germany/NNP industry/NN is/VBZ exporting/VBG more/JJR these/DT days/NNS but/CC the/DT economy/NN as/IN a/DT whole/NN is/VBZ once/RB again/RB mired/VBN in/IN slow/JJ growth/NN and/CC high/JJ unemployment./NN
+Growth/NN is/VBZ likely/JJ to/TO peak/VB this/DT year/NN at/IN just/RB under/IN 2%./CD
+In/IN Britain/NNP that/WDT would/MD be/VB a/DT bad/JJ year/NN in/IN Germany/NNP it/PRP is/VBZ one/CD of/IN the/DT best/JJS in/IN recent/JJ years./NN
+With/IN Germany/NNP making/VBG up/RP a/DT third/JJ of/IN the/DT eurozone's/NNS economy/VBP this/DT is/VBZ a/DT major/JJ problem./NN
+If/IN Germany/NNP doesn't/NN once/RB again/RB become/VB the/DT powerhouse/NN of/IN Europe/NNP growth/NN across/IN the/DT bloc/NN is/VBZ never/RB going/VBG to/TO be/VB as/RB strong/JJ as/IN it/PRP could/MD be./VB
+However/RB at/IN one/CD factory/NN near/IN the/DT Dutch/JJ border/NN things/NNS are/VBP changing./NN
+
+The/DT Siemens/NNP plant/NN at/IN Boscholt/NNP makes/VBZ cordless/JJ phones/NNS and/CC employs/VBZ 2000/CD staff./NN
+Staff/NNS have/VBP started/VBN working/VBG an/DT extra/JJ four/CD hours/NNS a/DT week/NN for/IN no/DT extra/JJ pay/NN after/IN Siemens/NNP threatened/VBD to/TO take/VB the/DT factory/NN and/CC their/PRP$ jobs/NNS to/TO Hungary./NNP
+Factory/NN manager/NN Herbert/NNP Stueker/NNP says/VBZ that/IN he/PRP now/RB hopes/VBZ to/TO increase/VB productivity/NN "by/NN nearly/RB 30%"./CD
+But/CC Germany/NNP needs/VBZ much/RB more/JJR reform/NN if/IN all/DT its/PRP$ industry/NN is/VBZ to/TO compete/VB with/IN places/NNS such/JJ Hungary/NNP or/CC China./NNP
+The/DT Government/NNP is/VBZ reforming/VBG the/DT labour/NN market/NN and/CC cutting/VBG the/DT generous/JJ unemployment/NN system/NN but/CC the/DT real/JJ solution/NN is/VBZ to/TO cut/VB the/DT wages/NNS of/IN low/JJ skilled/JJ workers/NNS says/VBZ Helmut/NNP Schneider/NNP director/NN of/IN the/DT Institute/NNP for/IN the/DT Study/NNP of/IN Labour/NNP at/IN Bonn/NNP University./NNP
+"Labour/NN is/VBZ too/RB costly/JJ in/IN Germany/NNP especially/RB for/IN the/DT low/JJ skilled/JJ labour/NN and/CC this/DT is/VBZ the/DT main/JJ problem./NN
+If/IN we/PRP could/MD solve/VB that/WDT problem/NN we/PRP could/MD cut/VB unemployment/NN by/IN half"/NN he/PRP says./VB
+The/DT EU/NNP set/VBD itself/PRP the/DT target/NN of/IN being/VBG the/DT most/RBS efficient/JJ economy/NN in/IN the/DT world/NN by/IN 2010./CD
+Four/CD years/NNS into/IN that/DT process/NN and/CC the/DT target/NN seems/VBZ further/JJ away/RB than/IN ever./NN

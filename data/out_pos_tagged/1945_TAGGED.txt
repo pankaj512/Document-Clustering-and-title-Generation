@@ -1,0 +1,25 @@
+Robots/NNS learn/VBP 'robotiquette'/NN rules/NNS
+
+Robots/NNS are/VBP learning/VBG lessons/NNS on/IN "robotiquette"/NN -/: how/WRB to/TO behave/VB socially/RB -/: so/IN they/PRP can/MD mix/VB better/RBR with/IN humans./NN
+
+By/IN playing/VBG games/NNS like/IN pass-the-parcel/JJ a/DT University/NNP of/IN Hertfordshire/NNP team/NN is/VBZ finding/VBG out/RP how/WRB future/JJ robot/NN companions/NNS should/MD react/VB in/IN social/JJ situations./NN
+The/DT study's/NNS findings/NNS will/MD eventually/RB help/VB humans/NNS develop/VB a/DT code/NN of/IN social/JJ behaviour/NN in/IN human-robot/JJ interaction./JJ
+The/DT work/NN is/VBZ part/NN of/IN the/DT European/NNP Cogniron/NNP robotics/NNS project/NN and/CC was/VBD on/IN show/VBP at/IN London's/NNP Science/NNP Museum./NNP
+
+"We/NN are/VBP assuming/VBG a/DT situation/NN in/IN which/WDT a/DT useful/JJ human/JJ companion/NN robot/NN already/RB exists"/NN said/VBD Professor/NNP Kerstin/NNP Dautenhahn/NNP project/NN leader/NN at/IN Hertfordshire./NNP
+"Our/NN mission/NN is/VBZ to/TO look/VB at/IN how/WRB such/PDT a/DT robot/NN should/MD be/VB programmed/VBN to/TO respect/VB personal/JJ spaces/NNS of/IN humans."/NN
+
+The/DT research/NN also/RB focuses/VBZ on/IN human/JJ perception/NN of/IN robots/NNS including/VBG how/WRB they/PRP should/MD look/VB and/CC how/WRB a/DT robot/NN can/MD learn/VB new/JJ skills/NNS by/IN imitating/VBG a/DT human/JJ demonstrator./NN
+"Without/NN such/JJ studies/NNS you/PRP will/MD build/VB robots/NNS which/WDT might/MD not/RB respect/VB the/DT fact/NN that/IN humans/NNS are/VBP individuals/NNS have/VBP preferences/NNS and/CC come/VB from/IN different/JJ cultural/JJ backgrounds"/NN Professor/NNP Dautenhahn/NNP told/VBD BBC/NNP News/NNP Online./NNP
+"And/NN I/PRP want/VBP robots/NNS to/TO treat/VB humans/NNS as/IN human/JJ beings/NNS and/CC not/RB like/IN other/JJ robots"/NN she/PRP added./VBP
+
+In/IN most/JJS situations/NNS a/DT companion/NN robot/NN will/MD eventually/RB have/VB to/TO deal/VB not/RB only/RB with/IN one/CD person/NN but/CC also/RB with/IN groups/NNS of/IN people./NN
+To/TO find/VB out/RP how/WRB they/PRP would/MD react/VB the/DT Hertfordshire/NNP Cogniron/NNP team/NN taught/VBD one/CD robot/NN to/TO play/VB pass-the-parcel/JJ with/IN children./NN
+
+Showing/VBG off/RP its/PRP$ skills/NNS at/IN the/DT Science/NNP Museum/NNP the/DT unnamed/JJ robot/NN had/VBD to/TO select/VB approach/NN and/CC ask/VB different/JJ children/NNS to/TO pick/VB up/RP a/DT parcel/NN with/IN a/DT gift/NN moving/VBG it/PRP arm/VBD as/IN a/DT pointer/NN and/CC its/PRP$ camera/NN as/IN an/DT eye./NN
+It/PRP even/RB used/VBD speech/NN to/TO give/VB instructions/NNS and/CC play/VB music./NN
+However/RB according/VBG to/TO researchers/NNS it/PRP will/MD still/RB take/VB many/JJ years/NNS to/TO build/VB a/DT robot/NN which/WDT would/MD make/VB full/JJ use/NN of/IN the/DT "robotiquette"/NN for/IN human/JJ interaction./JJ
+"If/NN you/PRP think/VBP of/IN a/DT robot/NN as/IN a/DT companion/NN for/IN the/DT human/JJ being/VBG you/PRP can/MD think/VB of/IN 20/CD years/NNS into/IN the/DT future"/NN concluded/VBD Professor/NNP Dautenhahn./NNP
+"It/NN might/MD take/VB even/RB longer/RBR because/IN it/PRP is/VBZ very/RB very/RB hard/JJ to/TO develop/VB such/PDT a/DT robot."/NN
+
+You/PRP can/MD hear/VB more/JJR on/IN this/DT story/NN on/IN the/DT BBC/NNP World/NNP Service's/NNP Go/VB Digital/NNP programme./NN

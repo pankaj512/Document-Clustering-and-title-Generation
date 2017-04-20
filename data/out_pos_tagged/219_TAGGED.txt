@@ -1,0 +1,18 @@
+Rescue/NN hope/NN for/IN Borussia/NNP Dortmund/NNP
+
+Shares/NNS in/IN struggling/VBG German/JJ football/NN club/NN Borussia/NNP Dortmund/NNP slipped/VBD on/IN Monday/NNP despite/IN the/DT club/NN agreeing/VBG a/DT rescue/NN plan/NN with/IN creditors/NNS on/IN Friday./NNP
+
+The/DT club/NN which/WDT has/VBZ posted/VBN record/NN losses/NNS and/CC racked/VBN up/RP debts/NNS said/VBD last/JJ week/NN that/IN it/PRP was/VBD in/IN "a/NN life-threatening/JJ profitability/NN and/CC financial/JJ situation"./NN
+Creditors/NNS agreed/VBD on/IN Friday/NNP to/TO suspend/VB interest/NN payments/NNS until/IN 2007./CD
+News/NNP of/IN the/DT deal/NN had/VBD boosted/VBN shares/NNS in/IN the/DT club/NN on/IN Friday/NNP but/CC the/DT stock/NN slipped/VBD back/RB 7%/CD during/IN Monday/NNP morning./NN
+
+In/IN addition/NN to/TO the/DT interest-payment/NN freeze/VB Borussia/NNP Dortmund/NNP also/RB will/MD get/VB short-term/JJ loans/NNS to/TO help/VB pay/VB salaries./NN
+It/PRP estimated/VBD that/IN it/PRP needs/VBZ almost/RB 30m/CD euros/NNS ($39m/CD £21m)/CD until/IN the/DT end/NN of/IN June/NNP if/IN it/PRP is/VBZ to/TO pay/VB its/PRP$ bills./NN
+The/DT football/NN club/NN is/VBZ hoping/VBG that/IN all/DT its/PRP$ creditors/NNS will/MD agree/VB to/TO defer/VB rent/NN payments/NNS on/IN its/PRP$ Westfalen/NNP stadium./NN
+Borussia/NN officials/NNS met/VBD with/IN almost/RB all/PDT the/DT banks/NNS involved/VBN in/IN its/PRP$ financing/NN on/IN Friday/NNP and/CC over/IN the/DT weekend./NN
+Three/CD creditors/NNS have/VBP yet/RB to/TO agree/VB to/TO the/DT deal/NN struck/VBD last/JJ week./NN
+On/IN 14/CD March/NNP one/CD of/IN these/DT creditors/NNS -/: property/NN investment/NN fund/NN Molsiris/NNP which/WDT owns/VBZ the/DT club's/NNS stadium/NN -/: holds/VBZ its/PRP$ AGM/NNP at/IN which/WDT it/PRP will/MD discuss/VB the/DT rescue/NN plan./NN
+Chief/NNP executive/NN Gerd/NNP Niebaum/NNP stepped/VBD down/RB last/JJ week/NN and/CC creditors/NNS have/VBP been/VBN pushing/VBG for/IN a/DT greater/JJR say/NN in/IN how/WRB the/DT club/NN is/VBZ run./NN
+Borussia/NNP Dortmund/NNP also/RB is/VBZ facing/VBG calls/NNS to/TO appoint/VB executives/NNS from/IN outside/IN the/DT club./NN
+The/DT club/NN posted/VBD a/DT record/NN loss/NN of/IN 68m/CD euros/NNS in/IN the/DT 12/CD months/NNS through/IN June./NNP
+Adding/VBG to/TO its/PRP$ woes/NNS Borussia/NNP Dortmund/NNP was/VBD beaten/VBN 5-0/CD by/IN Bayern/NNP Munich/NNP on/IN Saturday./NNP

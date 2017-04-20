@@ -1,0 +1,18 @@
+Cherie/NNP accused/VBD of/IN attacking/VBG Bush/NNP
+
+Cherie/NNP Blair/NNP has/VBZ been/VBN accused/VBN of/IN criticising/VBG George/NNP W/NNP Bush's/NNP policies/NNS in/IN a/DT private/JJ address/NN she/PRP gave/VBD during/IN a/DT United/NNP States/NNPS lecture/VBP tour./NN
+
+The/DT prime/JJ minister's/NNS wife/NN is/VBZ said/VBN to/TO have/VB praised/VBN the/DT Supreme/NNP Court/NNP for/IN overruling/VBG the/DT White/NNP House/NNP on/IN the/DT legal/JJ rights/NNS of/IN Guantanamo/NNP Bay/NNP detainees./NN
+The/DT Tories/NNPS said/VBD she/PRP broke/VBD a/DT convention/NN that/IN British/JJ political/JJ figures/NNS do/VBP not/RB act/NN in/IN a/DT partisan/JJ way/NN when/WRB abroad./NN
+But/CC Downing/NNP Street/NNP said/VBD she/PRP was/VBD speaking/VBG in/IN her/PRP$ capacity/NN as/IN a/DT lawyer./NN
+It/PRP said/VBD she/PRP was/VBD not/RB expressing/VBG political/JJ opinions./NN
+Mrs/NNP Blair's/NNP remarks/NNS are/VBP said/VBN to/TO have/VB been/VBN made/VBN in/IN a/DT speech/NN to/TO law/VB students/NNS in/IN Massachusetts./NNP
+She/PRP said/VBD the/DT decision/NN by/IN the/DT US/PRP Supreme/NNP Court/NNP to/TO give/VB legal/JJ protection/NN to/TO two/CD Britons/NNP held/VBN at/IN Guantanamo/NNP Bay/NNP was/VBD a/DT significant/JJ victory/NN for/IN human/JJ rights/NNS and/CC the/DT international/JJ rule/NN of/IN law./NN
+She/PRP also/RB described/VBD the/DT US/PRP legal/JJ code/NN as/IN an/DT outdated/VBN grandfather/NN clock/NN and/CC welcomed/VBD a/DT decision/NN to/TO throw/VB out/RP a/DT law/NN backed/VBN by/IN Mr/NNP Bush/NNP relating/VBG to/TO sodomy/VB in/IN Texas./NNP
+
+BBC/NNP news/NN correspondent/NN Gary/NNP O'Donoghue/NNP said/VBD Mrs/NNP Blair/NNP was/VBD likely/JJ to/TO face/VB further/JJ calls/NNS for/IN restraint/NN since/IN the/DT US/PRP election/VBP is/VBZ imminent./NN
+"There/NN have/VBP been/VBN some/DT objections/NNS from/IN people/NNS reasonably/RB close/RB to/TO the/DT Bush/NNP administration/NN about/IN her/PRP$ making/VBG these/DT comments/NNS in/IN their/PRP$ backyard/NN just/RB two/CD days/NNS before/IN a/DT presidential/JJ election"/NN he/PRP said./VB
+"Conservatives/NN here/RB too/RB have/VBP made/VBN their/PRP$ feelings/NNS clear./NN
+"Cherie/NN Booth/NN has/VBZ always/RB regarded/VBN herself/PRP as/IN having/VBG an/DT independent/JJ career./NN
+She/PRP has/VBZ continued/VBN to/TO practise/VB as/IN a/DT major/JJ human/JJ rights/NNS lawyer/NN in/IN the/DT courts./NN
+"It's/NN not/RB unusual/JJ for/IN her/PRP to/TO make/VB these/DT sorts/NNS of/IN criticisms/NNS clear/JJ but/CC it/PRP can/MD be/VB embarrassing."/NN

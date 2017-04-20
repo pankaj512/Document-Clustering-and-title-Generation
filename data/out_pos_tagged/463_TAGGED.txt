@@ -1,0 +1,11 @@
+US/PRP economy/VBP still/RB growing/VBG says/VBZ Fed/NNP
+
+Most/JJS areas/NNS of/IN the/DT US/PRP saw/VBD their/PRP$ economy/NN continue/VBP to/TO expand/VB in/IN December/NNP and/CC early/JJ January/NNP the/DT US/PRP Federal/NNP Reserve/NNP said/VBD in/IN its/PRP$ latest/JJS Beige/NNP Book/NNP report./NN
+
+Of/IN the/DT 12/CD US/PRP regions/VBZ it/PRP identifies/VBZ for/IN the/DT study/NN 11/CD showed/VBD stronger/JJR economic/JJ growth/NN with/IN only/RB the/DT Cleveland/NNP area/NN falling/VBG behind/RB with/IN a/DT "mixed"/NN rating./NN
+Consumer/NNP spending/NN was/VBD higher/JJR in/IN December/NNP than/IN November/NNP and/CC festive/JJ sales/NNS were/VBD also/RB up/IN on/IN 2003./CD
+The/DT employment/NN picture/NN also/RB improved/VBD the/DT Fed/NNP said./NN
+
+"Labour/NN markets/NNS firmed/VBD in/IN a/DT number/NN of/IN districts/NNS but/CC wage/NN pressures/NNS generally/RB remained/VBD modest"/NN the/DT Beige/NNP Book/NNP said./NN
+"Several/JJ districts/NNS reported/VBD higher/JJR prices/NNS for/IN building/NN materials/NNS and/CC manufacturing/NN inputs/NNS but/CC most/JJS reported/VBD steady/JJ or/CC only/RB slightly/RB higher/JJR overall/JJ price/NN levels."/NN The/DT report/NN added/VBD that/IN residential/JJ real/JJ estate/NN activity/NN remained/VBD strong/JJ and/CC that/IN commercial/JJ real/JJ estate/NN activity/NN strengthened/VBD in/IN most/JJS districts./JJ
+"Office/NN leasing/NN was/VBD especially/RB brisk/JJ in/IN Washington/NNP DC/NNP and/CC New/NNP York/NNP City/NNP two/CD of/IN the/DT nation's/NNS strongest/JJS commercial/JJ markets"/NN the/DT Fed/NNP said./NN

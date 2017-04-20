@@ -1,0 +1,13 @@
+House/NN prices/NNS suffer/VBP festive/JJ fall/NN
+
+UK/NNP house/NN prices/NNS fell/VBD 0.7%/CD in/IN December/NNP according/VBG to/TO figures/NNS from/IN the/DT Office/NNP of/IN the/DT Deputy/NNP Prime/NNP Minister./NNP
+
+Nationally/RB house/NN prices/NNS rose/VBD at/IN an/DT annual/JJ rate/NN of/IN 10.7%/CD in/IN December/NNP less/JJR than/IN the/DT 13.7%/CD rise/NN the/DT previous/JJ month./NN
+The/DT average/JJ UK/NNP house/NN price/NN fell/VBD from/IN £180126/CD in/IN November/NNP to/TO £178906/CD reflecting/VBG recent/JJ Land/NNP Registry/NNP figures/NNS confirming/VBG a/DT slowdown/NN in/IN late/JJ 2004./CD
+All/DT major/JJ UK/NNP regions/NNS apart/RB from/IN Northern/JJ Ireland/NNP experienced/VBD a/DT fall/NN in/IN annual/JJ growth/NN during/IN December./NNP
+
+December/NNP is/VBZ traditionally/RB a/DT quiet/JJ month/NN for/IN the/DT housing/NN market/NN because/IN of/IN Christmas/NNP celebrations./NN
+However/RB recent/JJ figures/NNS from/IN the/DT Land/NNP Registry/NNP -/: showing/VBG a/DT big/JJ drop/NN in/IN sales/NNS between/IN the/DT last/JJ quarter/NN of/IN 2004/CD and/CC the/DT previous/JJ year/NN -/: suggested/VBD the/DT slowdown/NN could/MD be/VB more/JJR than/IN a/DT seasonal/JJ blip./NN
+The/DT volume/NN of/IN sales/NNS between/IN October/NNP and/CC December/NNP dropped/VBD by/IN nearly/RB a/DT quarter/NN from/IN the/DT same/JJ period/NN in/IN 2003/CD the/DT Land/NNP Registry/NNP said./NN
+Although/IN both/DT the/DT Office/NNP of/IN the/DT Deputy/NNP Prime/NNP Minister/NNP (ODPM)/NN and/CC the/DT Land/NNP Registry/NNP figures/NNS point/NN to/TO a/DT slowdown/NN in/IN the/DT market/NN the/DT most/RBS recent/JJ surveys/NNS from/IN Nationwide/NNP and/CC Halifax/NNP have/VBP indicated/VBN the/DT market/NN may/MD be/VB undergoing/VBG a/DT revival./NN
+After/IN registering/NN falls/VBZ at/IN the/DT back-end/NN of/IN 2004/CD Halifax/NNP said/VBD house/NN prices/NNS rose/VBD by/IN 0.8%/CD in/IN January/NNP and/CC Nationwide/NNP reported/VBD a/DT rise/NN of/IN 0.4%/CD in/IN the/DT first/JJ month/NN of/IN the/DT year./NN

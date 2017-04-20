@@ -1,0 +1,27 @@
+Microsoft/NNP makes/VBZ anti-piracy/JJ move/NN
+
+Microsoft/NNP says/VBZ it/PRP is/VBZ clamping/VBG down/RP on/IN people/NNS running/VBG pirated/VBN versions/NNS of/IN its/PRP$ Windows/NNS operating/NN system/NN by/IN restricting/VBG their/PRP$ access/NN to/TO security/NN features./NN
+
+The/DT Windows/NNS Genuine/JJ Advantage/NN scheme/NN means/VBZ people/NNS will/MD have/VB to/TO prove/VB their/PRP$ software/NN is/VBZ genuine/JJ from/IN mid-2005./JJ
+It/PRP will/MD still/RB allow/VB those/DT with/IN unauthorised/VBN copies/NNS to/TO get/VB some/DT crucial/JJ security/NN fixes/NNS via/IN automatic/JJ updates/NNS but/CC their/PRP$ options/NNS would/MD be/VB "limited"./NN
+Microsoft/NN releases/NNS regular/JJ security/NN updates/NNS to/TO its/PRP$ software/NN to/TO protect/VB PCs./NNP
+Either/CC PCs/NNS detect/VBP updates/NNS automatically/RB or/CC users/NNS manually/RB download/VBP fixes/NNS through/IN Microsoft's/NNP site./NN
+Those/DT running/VBG pirated/VBN Windows/NNS programs/NNS would/MD not/RB have/VB access/NN to/TO other/JJ downloads/NNS and/CC "add-ons"/JJ that/IN the/DT software/NN giant/NN offers./NN
+
+People/NNS who/WP try/VBP to/TO manually/RB download/VB security/NN patches/NNS will/MD have/VB to/TO let/VB Microsoft/NNP run/VB an/DT automated/VBN checking/NN procedure/NN on/IN their/PRP$ computer/NN or/CC give/VB an/DT identification/NN number./NN
+
+Microsoft's/NNP regular/JJ patches/NNS which/WDT it/PRP releases/VBZ for/IN newly-found/JJ security/NN flaws/NNS are/VBP important/JJ because/IN they/PRP stop/VBP worms/NNS viruses/NNS and/CC other/JJ threats/NNS penetrating/VBG PCs./NNP
+Some/DT security/NN experts/NNS are/VBP concerned/VBN that/IN restricting/VBG access/NN to/TO such/JJ patches/NNS could/MD mean/VB a/DT rise/NN in/IN such/JJ attacks/NNS and/CC threats/NNS with/IN more/JJR PCs/NNS left/VBD unprotected./NN
+But/CC Graham/NNP Cluley/NNP senior/JJ consultant/NN at/IN security/NN firm/NN Sophos/NNP told/VBD the/DT BBC/NNP News/NNP website/NN that/IN it/PRP was/VBD a/DT positive/JJ decision./NN
+"It/NN sounds/VBZ like/IN their/PRP$ decision/NN to/TO allow/VB critical/JJ security/NN patches/NNS to/TO remain/VB available/JJ to/TO both/DT legitimate/JJ and/CC illegitimate/JJ users/NNS of/IN Windows/NNS is/VBZ good/JJ news/NN for/IN everyone/NN who/WP uses/VBZ the/DT net"/NN he/PRP said./VB
+Windows/NNS Genuine/JJ Advantage/NN was/VBD first/RB introduced/VBN as/IN a/DT pilot/NN scheme/NN in/IN September/NNP 2004/CD for/IN English-language/JJ versions/NNS of/IN Windows./NNP
+
+Microsoft's/NN Windows/NNS operating/NN system/NN is/VBZ heavily/RB exploited/VBN by/IN virus/NN writers/NNS because/IN it/PRP is/VBZ so/RB widespread/JJ and/CC they/PRP are/VBP constantly/RB seeking/VBG out/RP new/JJ security/NN loopholes/NNS to/TO take/VB advantage/NN of./NN
+The/DT company/NN is/VBZ trying/VBG to/TO tackle/VB security/NN threats/NNS whilst/NN cracking/VBG down/RP on/IN pirated/VBN software/NN at/IN the/DT same/JJ time./NN
+Software/NNP piracy/NN has/VBZ cost/VBN the/DT company/NN billions/VBZ it/PRP says./NN
+The/DT company/NN announced/VBD earlier/RBR in/IN January/NNP that/IN it/PRP was/VBD releasing/VBG security/NN tools/NNS to/TO clean/VB up/RP PCs/NNS harbouring/VBG viruses/NNS and/CC spyware/NN which/WDT 90%/CD of/IN PCs/NNS are/VBP infected/JJ with./NN
+The/DT virus-fighting/JJ program/NN updated/VBD monthly/NN is/VBZ a/DT precursor/NN to/TO Microsoft's/NNP dedicated/VBD anti-virus/JJ software./NN
+Last/JJ year/NN it/PRP introduced/VBD the/DT Windows/NNS XP/NNP Counterfeit/NNP Project/NNP a/DT UK-based/JJ pilot/NN scheme/NN which/WDT ran/VBD from/IN November/NNP to/TO December./NNP
+The/DT scheme/NN meant/VBD that/IN anyone/NN with/IN pre-installed/JJ copies/NNS of/IN the/DT operating/VBG system/NN in/IN PCs/NNS bought/VBD before/IN November/NNP could/MD replace/VB counterfeit/NN versions/NNS of/IN Windows/NNS XP/NNP with/IN legal/JJ ones/NNS for/IN free./NN
+It/PRP is/VBZ also/RB increasing/VBG efforts/NNS to/TO squash/VB software/NN piracy/NN in/IN China/NNP Norway/NNP and/CC the/DT Czech/JJ Republic/NNP where/WRB pirated/VBN software/NN is/VBZ a/DT huge/JJ problem/NN by/IN offering/VBG discounts/NNS on/IN legitimate/JJ software/NN to/TO users/NNS of/IN pirated/VBN copies/NNS Windows./NNP
+"China/NN in/IN particular/NN is/VBZ a/DT problem/NN with/IN piracy/NN estimated/VBN at/IN 92%"/CD said/VBD Mr/NNP Cluley./NNP

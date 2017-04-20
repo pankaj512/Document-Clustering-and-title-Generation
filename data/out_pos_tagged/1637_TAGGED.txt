@@ -1,0 +1,17 @@
+Leeds/NNP v/NN Saracens/NNP (Fri)/NN
+
+Headingley/NNP
+
+Friday/NNP 25/CD February/NNP
+
+2000/CD GMT/NNP
+
+The/DT Tykes/NNP have/VBP brought/VBN in/RP Newcastle/NNP prop/VB Ed/NNP Kalman/NNP and/CC Tom/NNP McGee/NNP from/IN the/DT Borders/NNS on/IN loan/NN while/IN fly-half/JJ Craig/NNP McMullen/NNP has/VBZ joined/VBN from/IN Narbonne./NNP
+Raphael/NNP Ibanez/NNP is/VBZ named/VBN at/IN hooker/NN for/IN Saracens/NNP in/IN one/CD of/IN four/CD changes./NN
+Simon/NNP Raiwalui/NNP and/CC Ben/NNP Russell/NNP are/VBP also/RB selected/VBN in/IN the/DT pack/NN while/IN Kevin/NNP Sorrell/NNP comes/VBZ in/IN at/IN outside/JJ centre./NN
+
+-/: Friday's/NNP game/NN at/IN Headingley/NNP got/VBD the/DT go-ahead/NN on/IN Friday/NNP after/IN passing/VBG an/DT early/JJ pitch/NN inspection./NN
+Leeds/NNP Balshaw/NNP Rees/NNP Christophers/NNP Bell/NNP Doherty/NNP McMullen/NNP Dickens/NNP McGee/NNP Rawlinson/NNP Gerber/NNP Murphy/NNP Palmer/NNP (capt)/NN Morgan/NNP Parks/NNPS Popham./NNP
+Replacements/NNS Kalman/NNP Regan/NNP Hyde/NNP Rigney/NNP McMillan/NNP Rock/NNP Vickerman./NNP
+Saracens/NNP Bartholomeusz/NNP Castaignede/NNP Sorrell/NNP Harris/NNP Vaikona/NNP Jackson/NNP Bracken/NNP Yates/NNP Ibanez/NNP Visagie/NNP Raiwalui/NNP Fullarton/NNP Randell/NNP Russell/NNP Vyvyan/NNP (capt)./NN
+Replacements/NNS Cairns/NNP Lloyd/NNP Broster/NNP Chesney/NNP Johnston/NNP Rauluni/NNP Little./NNP

@@ -1,0 +1,18 @@
+Protect/NN whistleblowers/NNS TUC/NNP says/VBZ
+
+The/DT government/NN should/MD change/VB the/DT law/NN to/TO give/VB more/JJR protection/NN to/TO employees/NNS who/WP raise/VBP health/NN and/CC safety/NN concerns/NNS about/IN their/PRP$ workplaces/NNS the/DT TUC/NNP has/VBZ said./NN
+
+It/PRP said/VBD data/NNS from/IN employment/NN tribunals/NNS suggested/VBD 1500/CD "safety/NN whistleblowers"/NN had/VBD lost/VBN their/PRP$ jobs/NNS since/IN 1999./CD
+Some/DT firms/NNS found/VBD it/PRP cheaper/JJR to/TO sack/VB a/DT worker/NN than/IN to/TO improve/VB buildings/NNS or/CC change/NN working/VBG conditions/NNS it/PRP said./NN
+The/DT Health/NNP and/CC Safety/NNP Executive/NNP said/VBD it/PRP was/VBD trying/VBG to/TO get/VB workers/NNS more/RBR involved/JJ in/IN helping/VBG to/TO make/VB workplaces/NNS safer./NN
+The/DT TUC/NNP figures/NNS were/VBD drawn/VBN from/IN unfair/JJ dismissal/NN cases/NNS at/IN tribunals/NNS were/VBD health/NN and/CC safety/NN were/VBD the/DT main/JJ issue./NN
+
+Safety/NN representatives/NNS were/VBD often/RB ignored/VBN when/WRB raising/VBG concerns/NNS because/IN there/EX was/VBD no/DT legal/JJ duty/NN to/TO respond/VB claimed/VBD the/DT union/NN organisation./NN
+General/NNP secretary/NN Brendan/NNP Barber/NNP said/VBD "It/NN shouldn't/NN be/VB a/DT firing/NN offence/NN to/TO object/VB to/TO unsafe/JJ work./NN
+"Workers/NN should/MD not/RB be/VB placed/VBN in/IN the/DT situation/NN where/WRB they/PRP are/VBP forced/VBN to/TO choose/VB between/IN risking/VBG their/PRP$ job/NN or/CC risking/VBG their/PRP$ personal/JJ health/NN and/CC safety."/NN Mr/NNP Barber/NNP who/WP said/VBD the/DT "problem/NN is/VBZ far/RB worse/JJR than/IN official/JJ statistics/NNS show"/NN called/VBN for/IN a/DT legal/JJ system/NN that/DT "protects/NN safety/NN whistleblowers"./NN
+He/PRP added/VBD that/IN workers/NNS who/WP are/VBP not/RB in/IN a/DT union/NN as/RB well/RB as/IN casual/JJ and/CC migrant/NN workers/NNS "stand/VBP little/JJ chance/NN of/IN redress."/NN
+
+Rory/NNP O'/NNP Neill/NNP editor/NN of/IN union-backed/JJ Hazards/NNS magazine/NN which/WDT conducted/VBD the/DT research/NN said/VBD "Giving/VBG union/NN safety/NN reps/NNS more/JJR rights/NNS in/IN more/JJR workplaces/NNS is/VBZ the/DT ultimate/JJ win-win./JJ
+"Death/NN and/CC injuries/NNS at/IN work/NN increased/VBD last/JJ year/NN for/IN the/DT second/JJ time/NN since/IN the/DT turn/NN of/IN the/DT century./NN
+"It/NN would/MD be/VB a/DT fatal/JJ mistake/NN not/RB to/TO take/VB full/JJ advantage/NN of/IN the/DT union/NN safety/NN effect."/NN The/DT TUC/NNP has/VBZ called/VBN on/IN the/DT government/NN to/TO appoint/VB "roving"/NN safety/NN reps/NNS and/CC to/TO increase/VB spending/NN on/IN health/NN and/CC safety/NN work/NN inspections./NN
+The/DT Health/NNP and/CC Safety/NNP Executive/NNP had/VBD said/VBN that/IN it/PRP had/VBD launched/VBN an/DT initiative/NN to/TO make/VB factories/NNS and/CC offices/NNS safer/JJR with/IN more/JJR worker/NN involvement./NN

@@ -1,0 +1,17 @@
+India's/NNP Maruti/NNP sees/VBZ profits/NNS jump/NN
+
+India's/NNP biggest/JJS carmaker/NN Maruti/NNP has/VBZ reported/VBN a/DT sharp/JJ increase/NN in/IN quarterly/JJ profit/NN after/IN a/DT booming/JJ economy/NN and/CC low/JJ interest/NN rates/NNS boosted/VBD demand./NN
+
+Net/JJ profit/NN surged/VBD 70%/CD to/TO 2.39bn/CD rupees/NNS ($54.98m/CD £29.32m)/CD in/IN the/DT last/JJ three/CD months/NNS of/IN 2004/CD compared/VBN with/IN 1.41bn/CD rupees/NNS a/DT year/NN earlier./NN
+Total/JJ sales/NNS were/VBD 30.1bn/CD rupees/NNS up/RP 27%/CD from/IN the/DT same/JJ 2004/CD period./NN
+Maruti/NN accounts/VBZ for/IN half/DT of/IN India's/NNP domestic/JJ car/NN sales/NNS luring/VBG consumers/NNS with/IN cheap/JJ fuel-efficient/JJ vehicles./NN
+
+Demand/NN in/IN India/NNP also/RB has/VBZ been/VBN driven/VBN by/IN the/DT poor/JJ state/NN of/IN public/JJ transport/NN and/CC the/DT very/RB low/JJ level/NN of/IN car/NN ownership/NN analysts/NNS said./NN
+
+Figures/NNS show/VBP that/IN only/RB eight/CD people/NNS per/IN thousand/CD are/VBP car/NN owners./NN
+Maruti/NNP beat/VB market/NN expectations/NNS despite/IN an/DT increase/NN in/IN raw/JJ materials/NNS costs./NN
+The/DT company/NN majority-owned/JJ by/IN Japan's/NNP Suzuki/NNP said/VBD an/DT increase/NN in/IN steel/NN and/CC other/JJ raw/JJ material/NN prices/NNS was/VBD partially/RB offset/VBN by/IN cost/NN cutting./NN
+Sales/NNS in/IN the/DT fiscal/JJ third/JJ quarter/NN including/VBG vans/NNS and/CC utility/NN vehicles/NNS rose/VBD by/IN 17.8%/CD to/TO 136.069/CD units./NN
+Maruti/NNP is/VBZ not/RB the/DT only/JJ company/NN benefiting/VBG as/IN Indian's/NNP economic/JJ growth/NN gives/VBZ consumer/NN greater/JJR spending/NN power./NN
+Utility/NNP vehicle/NN and/CC tractor/NN maker/NN Mahindra/NNP has/VBZ reported/VBN a/DT 52%/CD rise/NN in/IN net/JJ profit/NN during/IN the/DT last/JJ three/CD months/NNS of/IN 2004./CD
+Profit/NN was/VBD 1.33bn/CD rupees/NNS compared/VBN with/IN 874.2m/CD rupees/NNS a/DT year/NN earlier./NN

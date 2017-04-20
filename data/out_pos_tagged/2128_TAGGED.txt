@@ -1,0 +1,35 @@
+Format/NN wars/NNS could/MD 'confuse/VB users'/NN
+
+Technology/NNP firms/NNS Sony/NNP Philips/NNP Matsushita/NNP and/CC Samsung/NNP are/VBP developing/VBG a/DT common/JJ way/NN to/TO stop/VB people/NNS pirating/VBG digital/JJ music/NN and/CC video./NN
+
+The/DT firms/NNS want/VBP to/TO make/VB a/DT system/NN that/WDT ensures/VBZ files/NNS play/VBP on/IN the/DT hardware/NN they/PRP make/VBP but/CC also/RB thwarts/NNS illegal/JJ copying./NN
+The/DT move/NN could/MD mean/VB more/JJR confusion/NN for/IN consumers/NNS already/RB faced/VBN by/IN many/JJ different/JJ and/CC conflicting/VBG content/NN control/NN systems/NNS experts/NNS warned./NN
+They/PRP say/VBP there/EX are/VBP no/DT guarantees/NNS the/DT system/NN will/MD even/RB prevent/VB piracy./NN
+
+Currently/RB many/JJ online/NN stores/NNS wrap/VBP up/RP downloadable/JJ files/NNS in/IN an/DT own-brand/JJ control/NN system/NN that/WDT means/VBZ they/PRP can/MD only/RB be/VB played/VBN on/IN a/DT small/JJ number/NN of/IN media/NNS players./NN
+Systems/NNS that/DT limit/NN what/WP people/NNS can/MD do/VB with/IN the/DT files/NNS they/PRP download/VBP are/VBP known/VBN as/IN Digital/NNP Rights/NNP Management/NNP systems./NN
+By/IN setting/VBG up/RP the/DT alliance/NN to/TO work/VB on/IN a/DT common/JJ control/NN system/NN the/DT firms/NNS said/VBD they/PRP hope/VBP to/TO end/VB this/DT current/JJ fragmentation/NN of/IN file/NN formats./NN
+In/IN a/DT joint/JJ statement/NN the/DT firms/NNS said/VBD they/PRP wanted/VBD to/TO let/VB consumers/NNS enjoy/VB "appropriately/RB licensed/VBD video/NN and/CC music/NN on/IN any/DT device/NN independent/JJ of/IN how/WRB they/PRP originally/RB obtained/VBD that/DT content"./NN
+The/DT firms/NNS hope/VBP that/IN it/PRP will/MD also/RB make/VB it/PRP harder/RBR for/IN consumers/NNS to/TO make/VB illegal/JJ copies/NNS of/IN the/DT music/NN movies/NNS and/CC other/JJ digital/JJ content/NN they/PRP have/VBP bought./NN
+Called/VBN the/DT Marlin/NNP Joint/NNP Development/NNP Association/NNP the/DT alliance/NN will/MD define/VB basic/JJ specifications/NNS that/IN every/DT device/NN made/VBN by/IN the/DT electronics/NNS firms/NNS will/MD conform/VB to./NN
+Marlin/NNP will/MD be/VB built/VBN on/IN technology/NN from/IN rights/NNS management/NN firm/NN Intertrust/NNP as/RB well/RB as/IN an/DT earlier/JJR DRM/NNP system/NN developed/VBN by/IN a/DT group/NN known/VBN as/IN the/DT Coral/NNP Consortium./NNP
+
+The/DT move/NN is/VBZ widely/RB seen/VBN as/IN a/DT way/NN for/IN the/DT four/CD firms/NNS to/TO decide/VB their/PRP$ own/JJ destiny/NN on/IN content/NN control/NN systems/NNS instead/RB of/IN having/VBG to/TO sign/VB up/RP for/IN those/DT being/VBG pushed/VBN by/IN Apple/NNP and/CC Microsoft./NNP
+Confusingly/NNP for/IN consumers/NNS the/DT technology/NN that/WDT comes/VBZ out/IN of/IN the/DT alliance/NN will/MD sit/VB alongside/IN the/DT content/NN control/NN systems/NNS of/IN rival/JJ firms/NNS such/JJ as/IN Microsoft/NNP and/CC Apple./NNP
+"In/NN many/JJ ways/NNS the/DT different/JJ DRM/NNP systems/NNS are/VBP akin/JJ to/TO the/DT different/JJ physical/JJ formats/NNS such/JJ as/IN Betamax/NNP and/CC VHS/NNP that/IN consumers/NNS have/VBP seen/VBN in/IN the/DT past"/NN said/VBD Ian/NNP Fogg/NNP personal/JJ technology/NN and/CC broadband/NN analyst/NN at/IN Jupiter/NNP Research./NNP
+"The/NN difference/NN is/VBZ that/IN it/PRP is/VBZ very/RB fragmented"/NN he/PRP said./VB
+"It's/NN not/RB a/DT two-horse/JJ race/NN it's/NNS a/DT five/CD six/CD seven/CD or/CC even/RB eight-horse/JJ race"/NN Mr/NNP Fogg/NNP said/VBD consumers/NNS had/VBD to/TO be/VB very/RB careful/JJ when/WRB buying/VBG digital/JJ content/JJ to/TO ensure/VB that/IN it/PRP would/MD play/VB on/IN the/DT devices/NNS they/PRP own./VBP
+He/PRP said/VBD currently/RB there/EX were/VBD even/RB incompatibilities/NNS within/IN DRM/NNP families./NN
+Although/IN initiatives/NNS such/JJ as/IN Microsoft's/NNP "Plays/NN for/IN Sure"/NNP program/NN could/MD help/VB remove/VB some/DT of/IN the/DT uncertainty/NN he/PRP said/VBD life/NN was/VBD likely/JJ to/TO be/VB confusing/JJ for/IN consumers/NNS for/IN some/DT time/NN to/TO come./VB
+
+Shelley/NNP Taylor/NNP analyst/NN and/CC author/NN of/IN a/DT report/NN about/IN online/NN music/NN services/NNS said/VBD the/DT locks/NNS and/CC limits/NNS on/IN digital/JJ files/NNS were/VBD done/VBN to/TO maximise/VB the/DT cash/NN that/IN firms/NNS can/MD make/VB from/IN consumers./NN
+Apple's/NN iTunes/NNS service/NN was/VBD a/DT perfect/JJ example/NN of/IN this/DT she/PRP said./VBP
+"Although/NN iTunes/NNS has/VBZ been/VBN hugely/RB successful/JJ Apple/NNP could/MD not/RB justify/VB its/PRP$ existence/NN if/IN it/PRP did/VBD not/RB help/VB sell/VB all/PDT those/DT iPods"/NN she/PRP said./VBP
+
+She/PRP said/VBD rampant/JJ competition/NN between/IN online/NN music/NN services/NNS of/IN which/WDT there/EX are/VBP now/RB 230/CD according/VBG to/TO recent/JJ figures/NNS could/MD drive/VB more/JJR openness/NN and/CC freer/JJR file/VB formats./NN
+"It/NN always/RB works/VBZ out/RP that/DT consumer/NN needs/VBZ win/VB out/RP in/IN the/DT long/JJ run"/NN she/PRP said/VBD "and/NN the/DT services/NNS that/WDT win/VBP in/IN the/DT long/JJ run/NN are/VBP the/DT ones/NNS that/WDT listen/VBP to/TO consumers/NNS earliest."/NN Ms/NNP Taylor/NNP said/VBD the/DT limits/NNS legal/JJ download/NN services/NNS place/VBP on/IN files/NNS could/MD help/VB explain/VB the/DT continuing/VBG popularity/NN of/IN file-sharing/JJ systems/NNS that/WDT let/NN people/NNS get/VB hold/VB of/IN pirated/VBN pop./NN
+"People/NN want/VBP portability"/NN she/PRP said/VBD "and/NN with/IN peer-to-peer/JJ they/PRP have/VBP 100%/CD portability."/NN Cory/NNP Doctorow/JJ European/JJ co-ordinator/NN for/IN the/DT Electronic/NNP Frontier/NNP Foundation/NNP which/WDT campaigns/NNS for/IN consumers/NNS on/IN many/JJ cyber-rights/NNS issues/NNS expressed/VBD doubts/NNS that/IN the/DT Marlin/NNP system/NN would/MD achieve/VB its/PRP$ aims./NN
+"Not/NN one/CD of/IN these/DT systems/NNS has/VBZ ever/RB prevented/VBN piracy/NN or/CC illegal/JJ copying"/NN he/PRP said./VB
+He/PRP said/VBD many/JJ firms/NNS readily/RB admit/VBP that/IN their/PRP$ DRM/NNP systems/NNS are/VBP little/JJ protection/NN against/IN skilled/JJ attackers/NNS such/JJ as/IN the/DT organised/VBN crime/NN gangs/NNS that/WDT are/VBP responsible/JJ for/IN most/JJS piracy./NN
+Instead/RB said/VBD Mr/NNP Doctorow/NNP DRM/NNP systems/NNS were/VBD intended/VBN to/TO control/VB the/DT group/NN that/IN electronics/NNS firms/NNS have/VBP most/JJS hold/VB over/IN -/: consumers./NN
+"The/NN studios/NNS and/CC labels/NNS perceive/VBP an/DT opportunity/NN to/TO sell/VB you/PRP your/PRP$ media/NNS again/RB and/CC again/RB -/: the/DT iPod/NN version/NN the/DT auto/NN version/NN the/DT American/JJ and/CC UK/NNP version/NN the/DT ringtone/NN version/NN and/CC so/RB on."/NN

@@ -1,0 +1,17 @@
+Bomb/NN threat/NN at/IN Bernabeu/NNP stadium/NN
+
+Spectators/NNS were/VBD evacuated/VBN from/IN Real/JJ Madrid's/NNP Bernabeu/NNP stadium/NN on/IN Sunday/NNP following/VBG a/DT bomb/NN scare/NN during/IN the/DT game/NN between/IN the/DT hosts/NNS and/CC Real/JJ Sociedad./NNP
+
+More/JJR than/IN 70000/CD people/NNS abandoned/VBD the/DT ground/NN with/IN the/DT score/NN at/IN 1-1/JJ and/CC only/RB three/CD minutes/NNS left/VBN to/TO play./VB
+The/DT Basque/NNP newspaper/NN Gara/NNP apparently/RB received/VBD a/DT telephone/NN call/NN saying/VBG a/DT bomb/NN was/VBD due/JJ to/TO explode/VB at/IN 2100/CD local/JJ time./NN
+But/CC after/IN searching/VBG the/DT stadium/NN with/IN sniffer/NN dogs/NNS the/DT police/NNS said/VBD that/IN no/DT explosive/JJ device/NN had/VBD been/VBN found./NN
+
+"The/NN police/NNS have/VBP said/VBN they/PRP have/VBP completed/VBN their/PRP$ search/NN and/CC have/VBP not/RB found/VBN anything"/NN said/VBD Real/JJ Madrid/NNP president/NN Florentino/NNP Perez./NNP
+"The/NN best/JJS thing/NN we/PRP can/MD all/DT do/VB now/RB is/VBZ to/TO put/VB this/DT nightmare/NN behind/IN us."/NN Madrid/NNP midfielder/NN Guti/NNP told/VBD private/JJ Spanish/JJ radio/NN station/NN Cadena/NNP Ser/NNP "I/NN have/VBP never/RB seen/VBN this/DT before/IN and/CC sport/NN should/MD be/VB above/IN it/PRP all."/NN Real/NN took/VBD the/DT lead/NN just/RB before/IN the/DT break/NN when/WRB Brazilian/JJ striker/NN Ronaldo/NNP cracked/VBD home/NN with/IN his/PRP$ left/VBN foot./NN
+Sociedad/NNP levelled/VBD the/DT match/NN midway/NN through/IN the/DT second/JJ half/NN when/WRB Turkish/JJ striker/NN Nihat/NNP Kahveci/NNP smashed/VBD home/NN with/IN an/DT acrobatic/JJ finish./NN
+It/PRP is/VBZ not/RB yet/RB clear/JJ if/IN the/DT remaining/NN three/CD minutes/NNS of/IN the/DT game/NN will/MD be/VB played/VBN at/IN a/DT later/JJ date/NN or/CC if/IN the/DT result/NN will/MD be/VB allowed/VBN to/TO stand./VB
+
+If/IN the/DT result/NN remains/VBZ at/IN 1-1/JJ Real/JJ will/MD drop/VB to/TO third/JJ place/NN in/IN the/DT standings/NNS 11/CD points/NNS behind/IN leaders/NNS Barcelona/NNP who/WP snatched/VBD a/DT late/JJ 2-1/JJ win/NN at/IN Albacete/NNP on/IN Saturday./NNP
+Initial/JJ reports/NNS suggested/VBD the/DT Basque/NNP separatist/NN group/NN ETA/NNP may/MD be/VB responsible/JJ for/IN the/DT bomb/NN threat/NN after/IN issuing/VBG similar/JJ warnings/NNS before/IN a/DT series/NN of/IN small/JJ explosions/NNS in/IN recent/JJ days./NN
+The/DT Bernabeu/NNP was/VBD targeted/VBN by/IN ETA/NNP on/IN 1/CD May/NNP 2002/CD when/WRB Madrid/NNP were/VBD about/IN to/TO play/VB FC/NNP Barcelona/NNP in/IN a/DT Champions/NNS League/NNP semi-final./JJ
+A/DT car/NN bomb/NN exploded/VBD in/IN a/DT street/NN outside/IN the/DT stadium/NN and/CC 17/CD people/NNS were/VBD slightly/RB injured./NN

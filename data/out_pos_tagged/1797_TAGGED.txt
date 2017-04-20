@@ -1,0 +1,13 @@
+Sydney/NNP return/NN for/IN Henin-Hardenne/NNP
+
+Olympic/NNP champion/NN Justine/NNP Henin-Hardenne/NNP will/MD return/VB to/TO action/VB in/IN January's/NNP Sydney/NNP International/NNP tournament./NN
+
+The/DT Belgian/JJ has/VBZ not/RB competed/VBN since/IN losing/VBG her/PRP$ top/JJ world/NN ranking/JJ at/IN the/DT US/PRP Open/NNP in/IN September/NNP where/WRB she/PRP was/VBD beaten/VBN in/IN the/DT fourth/JJ round/NN by/IN Nadia/NNP Petrova./NNP
+She/PRP took/VBD time/NN out/RP to/TO shake/VB off/RP a/DT virus/NN but/CC will/MD defend/VB her/PRP$ titles/NNS in/IN Sydney/NNP and/CC at/IN the/DT Australian/JJ Open./NNP
+Women's/NNP world/NN number/NN one/CD Lindsay/NNP Davenport/NNP and/CC French/JJ Open/NNP champion/NN Anastasia/NNP Myskina/NNP will/MD also/RB compete./VB
+
+In/IN the/DT men's/NNS event/NN world/NN number/NN three/CD Lleyton/NNP Hewitt/NNP returns/NNS to/TO defend/VB his/PRP$ title/NN along/IN with/IN runner-up/JJ Carlos/NNP Moya./NNP
+Moya/NNP Spain's/NNP Davis/NNP Cup/NNP final/JJ hero/NN in/IN their/PRP$ recent/JJ win/NN over/IN the/DT US/PRP had/VBD to/TO retire/VB with/IN an/DT ankle/NN injury/NN in/IN the/DT first/JJ set/NN of/IN the/DT final./NN
+
+Tournament/NN director/NN Craig/NNP Watson/NNP said/VBD "I/NN had/VBD a/DT message/NN relayed/VBN to/TO me/PRP from/IN him/PRP after/IN Spain's/NNP Davis/NNP Cup/NNP victory/NN saying/VBG he/PRP was/VBD looking/VBG forward/RB to/TO trying/VBG to/TO make/VB up/RP for/IN his/PRP$ disappointment/NN in/IN the/DT (2004)/CD final./NN
+The/DT tournament/NN will/MD take/VB place/NN from/IN 9-15/JJ January./NNP

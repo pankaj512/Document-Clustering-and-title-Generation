@@ -1,0 +1,31 @@
+Brown/NNP ally/NN rejects/VBZ Budget/NNP spree/NN
+
+Chancellor/NNP Gordon/NNP Brown's/NNP closest/JJS ally/NN has/VBZ denied/VBN suggestions/NNS there/RB will/MD be/VB a/DT Budget/NNP giveaway/JJ on/IN 16/CD March./NNP
+
+Ed/NN Balls/NNS ex-chief/JJ economic/JJ adviser/NN to/TO the/DT Treasury/NNP said/VBD there/EX would/MD be/VB no/DT spending/NN spree/NN before/IN polling/NN day./NN
+But/CC Mr/NNP Balls/VBZ a/DT prospective/JJ Labour/NNP MP/NNP said/VBD he/PRP was/VBD confident/JJ the/DT chancellor/NN would/MD meet/VB his/PRP$ fiscal/JJ rules./NN
+He/PRP was/VBD speaking/VBG as/IN Sir/NNP Digby/NNP Jones/NNP CBI/NNP director/NN general/NN warned/VBD Mr/NNP Brown/NNP not/RB to/TO be/VB tempted/VBN to/TO use/VB any/DT extra/JJ cash/NN on/IN pre-election/JJ bribes./NN
+
+Mr/NN Balls/NNS who/WP stepped/VBD down/RB from/IN his/PRP$ Treasury/NNP post/NN to/TO stand/VB as/IN a/DT Labour/NNP candidate/NN in/IN the/DT election/NN had/VBD suggested/VBN that/IN Mr/NNP Brown/NNP would/MD meet/VB his/PRP$ golden/JJ economic/JJ rule/NN -/: "with/NN a/DT margin/NN to/TO spare"./VB
+He/PRP said/VBD he/PRP hoped/VBD more/JJR would/MD be/VB done/VBN to/TO build/VB on/IN current/JJ tax/NN credit/NN rules./NN
+
+He/PRP also/RB stressed/VBD rise/NN in/IN interest/NN rates/NNS ahead/RB of/IN an/DT expected/VBN May/NNP election/NN would/MD not/RB affect/VB the/DT Labour/NNP Party's/NNP chances/NNS of/IN winning./NN
+Expectations/NNS of/IN a/DT rate/NN rise/NN have/VBP gathered/VBN pace/NN after/IN figures/NNS showed/VBD house/NN prices/NNS are/VBP still/RB rising./NN
+Consumer/NNP borrowing/NN rose/VBD at/IN a/DT near-record/JJ pace/NN in/IN January./NNP
+"If/NN the/DT MPC/NNP (the/NN Bank/NNP of/IN England's/NNP Monetary/NNP Policy/NNP Committee)/NNP were/VBD to/TO judge/VB that/IN a/DT rate/NN rise/NN was/VBD justified/VBN before/IN the/DT election/NN because/IN of/IN the/DT strength/NN of/IN the/DT economy/NN -/: and/CC I'm/NNP not/RB predicting/VBG that/IN they/PRP will/MD -/: I/PRP do/VBP not/RB believe/VB that/IN this/DT will/MD be/VB a/DT big/JJ election/NN issue/NN in/IN Britain/NNP for/IN Labour"/NNP he/PRP told/VBD a/DT Parliamentary/JJ lunch./NN
+"This/NN is/VBZ a/DT big/JJ change/NN in/IN our/PRP$ political/JJ culture."/NN
+
+During/IN an/DT interview/NN with/IN BBC/NNP Radio/NNP 4's/CD Today/NN programme/NN Mr/NNP Balls/NNS said/VBD he/PRP was/VBD sure/JJ Mr/NNP Brown's/NNP Budget/NNP would/MD not/RB put/VBD at/IN risk/NN the/DT stability/NN of/IN the/DT economy./NN
+"I/NN don't/NN think/VBP we'll/NN see/VB a/DT pre-election/JJ spending/NN spree/NN -/: we/PRP certainly/RB did/VBD not/RB see/VB that/IN before/IN 2001"/CD he/PRP said./VB
+
+His/PRP$ assurances/NNS came/VBD after/IN Sir/NNP Digby/NNP Jones/NNP said/VBD stability/NN was/VBD all/DT important/JJ and/CC any/DT extra/JJ cash/NN should/MD be/VB spent/VBN on/IN improving/VBG workers'/NN skills./NN
+His/PRP$ message/NN to/TO the/DT chancellor/NN was/VBD "Please/NN don't/NN give/VBP it/PRP away/RB in/IN any/DT form/NN of/IN electioneering."/NN Sir/NNP Digby/NNP added/VBD "I/NN don't/NN think/VBP he/PRP will./VB
+I/PRP have/VBP to/TO say/VB he/PRP has/VBZ been/VBN a/DT prudent/JJ chancellor/NN right/NN the/DT way/NN through./NN
+Stability/NN is/VBZ the/DT key/JJ word/NN -/: British/JJ business/NN needs/VBZ boring/JJ stability/NN more/JJR than/IN anything./NN
+"We/NN would/MD say/VB to/TO him/PRP 'don't/VB increase/NN your/PRP$ public/JJ spending/NN don't/NN give/VBP it/PRP away./NN
+But/CC if/IN you/PRP are/VBP going/VBG to/TO anywhere/RB just/RB add/VB something/NN to/TO the/DT competitiveness/NN of/IN Britain/NNP put/VBD it/PRP into/IN skilling/VBG our/PRP$ people'./NN
+"That/NN would/MD be/VB a/DT good/JJ way/NN to/TO spend/VB any/DT excess."/NN
+
+Mr/NN Balls/NNS refused/VBD to/TO say/VB whether/IN Mr/NNP Brown/NNP would/MD remain/VB as/IN chancellor/NN after/IN the/DT election/NN amid/IN speculation/NN he/PRP will/MD be/VB offered/VBN the/DT job/NN of/IN Foreign/NNP Secretary./NNP
+"I/NN think/VBP that/IN Gordon/NNP Brown/NNP wants/VBZ to/TO be/VB part/NN of/IN the/DT successful/JJ Labour/NNP government/NN which/WDT delivers/VBZ in/IN the/DT third/JJ term/NN for/IN the/DT priorities/NNS of/IN the/DT people/NNS and/CC sees/VBZ off/RP a/DT Conservative/JJ Party/NNP that/WDT will/MD take/VB Britain/NNP backwards"/NN Mr/NNP Balls/NNS told/VBD Today./NNP
+Prime/NNP Minister/NNP Tony/NNP Blair/NNP has/VBZ yet/RB to/TO name/VB the/DT date/NN of/IN the/DT election/NN but/CC most/JJS pundits/NNS are/VBP betting/VBG on/IN 5/CD May./NNP

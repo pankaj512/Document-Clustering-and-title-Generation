@@ -1,0 +1,26 @@
+Mourinho/NN to/TO escape/VB FA/NNP charge/NN
+
+Chelsea/NNP boss/NN Jose/NNP Mourinho/NNP will/MD not/RB face/VB any/DT Football/NNP Association/NNP action/NN over/IN the/DT comments/NNS he/PRP made/VBD after/IN their/PRP$ Carling/NNP Cup/NNP tie/VB with/IN Manchester/NNP United./NNP
+
+Mourinho/NNP intimated/VBD that/IN United/NNP boss/NN Sir/NNP Alex/NNP Ferguson/NNP influenced/VBD referee/NN Neale/NNP Barry/NNP after/IN the/DT duo/NN walked/VBD down/RP the/DT tunnel/NN together/RB at/IN half-time./JJ
+But/CC an/DT FA/NNP spokesman/NN told/VBD BBC/NNP Sport/NNP "We/NN are/VBP not/RB taking/VBG action/NN over/IN Mourinho./NNP
+"We/NN have/VBP looked/VBN at/IN the/DT comments/NNS and/CC we/PRP have/VBP decided/VBN that/IN no/DT further/JJ action/NN is/VBZ required./NN
+That/DT is/VBZ the/DT end/NN of/IN it."/NN Mourinho/NNP was/VBD concerned/VBN that/IN Ferguson's/NNP conversation/NN with/IN Barry/NNP was/VBD followed/VBN by/IN an/DT inconsistent/JJ display/NN by/IN the/DT official./NN
+"I/NN see/NN one/CD referee/NN in/IN the/DT first/JJ half/NN and/CC another/DT in/IN the/DT second"/NN said/VBD Mourinho./NNP
+"If/NN the/DT FA/NNP ask/VB me/PRP what/WP happened/VBD I/PRP will/MD tell/VB them./NN
+What/WP I/PRP saw/VBD and/CC felt/VBD made/VBN it/PRP easier/JJR to/TO understand/VB a/DT few/JJ things./NN
+
+"Maybe/NN when/WRB I/PRP turn/VBP 60/CD and/CC have/VBP been/VBN managing/VBG in/IN the/DT same/JJ league/NN for/IN 20/CD years/NNS and/CC have/VBP the/DT respect/NN of/IN everybody/NN I/PRP will/MD have/VB the/DT power/NN to/TO speak/VB to/TO people/NNS and/CC make/VB them/PRP tremble/JJ a/DT little/JJ bit./NN
+"The/NN referee/NN controlled/VBD the/DT game/NN in/IN one/CD way/NN during/IN the/DT first/JJ half/NN but/CC in/IN the/DT second/JJ they/PRP had/VBD dozens/NNS of/IN free-kicks./JJ
+It/PRP was/VBD fault/NN after/IN fault/NN dive/NN after/IN dive./NN
+"But/NN I/PRP know/VBP the/DT referee/NN did/VBD not/RB walk/VB to/TO the/DT dressing/VBG rooms/NNS alone/RB at/IN half-time./JJ
+He/PRP should/MD only/RB have/VB had/VBN his/PRP$ two/CD assistants/NNS and/CC the/DT fourth/JJ official/NN with/IN him/PRP but/CC there/EX was/VBD also/RB someone/NN else."/NN Referees/NNS chief/JJ Keith/NNP Hackett/NNP believes/VBZ Mourinho/NNP should/MD retract/VB his/PRP$ comments/NNS about/IN Ferguson/NNP and/CC Barry/NNP as/IN he/PRP believes/VBZ the/DT Blues/NNPS boss/NN has/VBZ questioned/VBN their/PRP$ integrity./NN
+"I'm/NN hoping/VBG he/PRP might/MD reconsider/VB his/PRP$ comments/NNS unfortunately/RB this/DT is/VBZ the/DT nature/NN of/IN the/DT game"/NN said/VBD Hackett./NNP
+"I/NN don't/NN want/VBP referees/NNS or/CC myself/PRP getting/VBG in/IN the/DT psychological/JJ warfare/NN between/IN two/CD managers./NN
+For/IN the/DT second/JJ leg/NN we/PRP have/VBP an/DT experienced/VBN referee/NN and/CC we/PRP should/MD be/VB talking/VBG about/IN the/DT quality/NN of/IN that/DT game/NN rather/RB than/IN the/DT refereeing./NN
+"Sometimes/NN managers/NNS have/VBP grounds/NNS for/IN comments/NNS and/CC I/PRP note/VBP that/IN but/CC a/DT referees/NNS integrity/NN has/VBZ been/VBN questioned/VBN that/WDT is/VBZ offensive/JJ and/CC should/MD be/VB avoided./NN
+Mr/NNP Mourinho/NNP should/MD look/VB at/IN the/DT facts."/NN Mourinho/NNP added/VBD that/IN the/DT match/NN was/VBD entertaining/JJ for/IN a/DT goalless/JJ draw/VBP and/CC insisted/VBD his/PRP$ team/NN could/MD still/RB reach/VB the/DT final./NN
+"It's/NN 0-0/JJ so/RB if/IN we/PRP win/VBP we/PRP go/VBP through/IN and/CC if/IN we/PRP get/VBP a/DT draw/NN we/PRP go/VBP to/TO extra/JJ time"/NN he/PRP said./VB
+"We/NN have/VBP exactly/RB the/DT same/JJ chance/NN we/PRP had/VBD before/IN this/DT game./NN
+"We/NN are/VBP confident/JJ of/IN getting/VBG a/DT result/NN but/CC we/PRP know/VBP what/WP Manchester/NNP United/NNP is/VBZ a/DT footballing/VBG power./NN
+It'll/NNP be/VBP difficult/JJ for/IN us/PRP but/CC also/RB for/IN them."/NN

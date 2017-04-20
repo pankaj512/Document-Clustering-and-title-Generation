@@ -1,0 +1,11 @@
+Tokyo/NNP says/VBZ deflation/NN 'controlled'/NN
+
+The/DT Japanese/JJ government/NN has/VBZ forecast/NN that/IN the/DT country's/NNS economic/JJ growth/NN will/MD slow/VB to/TO 1.6%/CD in/IN the/DT next/JJ fiscal/JJ year/NN starting/VBG in/IN April/NNP 2005./CD
+
+While/IN it/PRP predicts/VBZ this/DT fall/NN from/IN the/DT current/JJ 2.1%/CD level/NN it/PRP said/VBD it/PRP was/VBD making/VBG progress/NN on/IN ending/VBG deflation./NN
+The/DT figures/NNS were/VBD given/VBN by/IN economics/NNS minister/NN Heizo/NNP Takenaka/NNP who/WP said/VBD the/DT economy/NN would/MD grow/VB by/IN 2%/CD in/IN 2006/07./CD
+He/PRP said/VBD the/DT consumer/NN price/NN index/NN (CPI)/NN would/MD rise/VB 0.1%/CD in/IN the/DT next/JJ fiscal/JJ year/NN the/DT first/JJ gain/NN since/IN 2000/01./CD
+"We/NN are/VBP attempting/VBG to/TO make/VB real/JJ economic/JJ conditions/NNS better/JJR and/CC to/TO overcome/VB deflation./NN
+I/PRP think/VBP we/PRP are/VBP on/IN track"/NN said/VBD Mr/NNP Takenaka./NNP
+Deflation/NNP -/: or/CC falling/VBG consumer/NN prices/NNS -/: has/VBZ plagued/VBN Japan/NNP for/IN more/RBR than/IN five/CD years./NN
+To/TO ease/VB the/DT problem/NN the/DT Bank/NNP of/IN Japan/NNP has/VBZ regularly/RB flooded/VBN the/DT money/NN market/NN with/IN excess/JJ cash/NN to/TO keep/VB short/JJ term/NN interest/NN rates/NNS at/IN 0%/CD in/IN an/DT attempt/NN to/TO spur/VB economic/JJ activity./NN

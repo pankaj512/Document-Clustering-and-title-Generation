@@ -1,0 +1,17 @@
+Low-cost/JJ airlines/NNS hit/VBD Eurotunnel/NNP
+
+Channel/NNP Tunnel/NN operator/NN Eurotunnel/NNP has/VBZ seen/VBN sales/NNS fall/VBP in/IN the/DT face/NN of/IN the/DT upsurge/NN in/IN European/JJ low-cost/JJ airlines./NN
+
+The/DT firm/NN said/VBD sales/NNS were/VBD down/RB 4%/CD in/IN 2004/CD to/TO 789m/CD euros/NNS ($1.03bn/CD £548m)./CD
+"The/NN impact/NN of/IN the/DT development/NN of/IN no-frills/JJ airlines/NNS is/VBZ being/VBG felt/VBN ever/RB more/JJR strongly"/NN said/VBD chief/JJ executive/NN Jean-Louis/NNP Raymond./NNP
+Income/NNP from/IN its/PRP$ vehicle-carrying/JJ shuttle/NN services/NNS fell/VBD 7%/CD although/IN 15%/CD more/JJR passengers/NNS meant/VBD a/DT 2%/CD rise/NN in/IN railway/NN revenue./NN
+
+The/DT cross-Channel/JJ truck/NN market/NN is/VBZ improving/VBG Eurotunnel/NNP said/VBD but/CC warned/VBD that/IN it/PRP was/VBD not/RB benefiting/VBG since/IN much/JJ of/IN the/DT traffic/NN was/VBD in/IN containers/NNS destined/VBN for/IN ports./NN
+The/DT passenger-only/JJ trains/NNS which/WDT use/NN the/DT tunnel/NN are/VBP run/VBN by/IN a/DT separate/JJ company/NN Eurostar./NNP
+
+Eurotunnel/NNP is/VBZ still/RB struggling/VBG with/IN debts/NNS of/IN more/JJR than/IN 6bn/CD euros./NN
+The/DT company/NN is/VBZ currently/RB kept/VBN afloat/RB by/IN the/DT 200-plus/JJ banks/NNS to/TO whom/WP it/PRP owes/VBZ the/DT money./NN
+A/DT shareholder/NN revolt/NN threw/VBD out/RP the/DT old/JJ board/NN in/IN 2004./CD
+But/CC the/DT BBC's/NNP business/NN editor/NN Jeff/NNP Randall/NNP said/VBD the/DT banks/NNS could/MD yet/RB step/VB in/IN and/CC take/VB over/RP altogether./NN
+"At/NN the/DT moment/NN it/PRP can't/NN even/RB service/VB the/DT interest/NN on/IN its/PRP$ debt"/NN he/PRP said./VB
+"This/NN is/VBZ a/DT company/NN in/IN the/DT departure/NN lounge/NN of/IN life."/NN

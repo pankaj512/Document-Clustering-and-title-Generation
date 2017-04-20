@@ -1,0 +1,25 @@
+Neeson/NNP in/IN bid/NN to/TO revive/VB theatre/FW
+
+Hollywood/NNP film/NN star/NN Liam/NNP Neeson/NNP has/VBZ held/VBN a/DT dinner/NN party/NN in/IN New/NNP York/NNP to/TO promote/VB Belfast's/NNP Lyric/NNP Theatre./NNP
+
+The/DT Ballymena-born/NNP actor/NN said/VBD that/IN the/DT theatre/FW on/IN Ridgeway/NNP Street/NNP was/VBD in/IN a/DT "very/NN dilapidated/JJ condition"./NN
+Lyric/NNP chairman/NN David/NNP Johnston/NNP has/VBZ said/VBN that/IN rebuilding/VBG the/DT theatre/FW at/IN a/DT cost/NN of/IN £8m/CD is/VBZ the/DT only/JJ answer./NN
+Mr/NNP Neeson/NNP said/VBD that/IN the/DT idea/NN was/VBD to/TO get/VB a/DT bunch/NN of/IN "healthy/NN wealthy/JJ Irish/JJ Americans"/NNP in/IN one/CD room/NN and/CC ask/VB them/PRP to/TO help/VB with/IN fundraising./NN
+
+The/DT Oscar-nominated/NNP actor/NN whose/WP$ films/NNS include/VBP Schindler's/NNP List/NN Michael/NNP Collins/NNP and/CC Star/NNP Wars/NNS The/DT Phantom/JJ Menace/NN said/VBD "The/NN Lyric/NNP is/VBZ too/RB important/JJ to/TO the/DT cultural/JJ and/CC social/JJ life/NN of/IN Northern/JJ Ireland/NNP for/IN this/DT building/NN to/TO crumble/VB and/CC fall/NN apart./NN
+"It/NN gave/VBD me/PRP a/DT start/NN professionally./NN
+Mary/NNP O'Malley/NNP the/DT founder/NN of/IN the/DT theatre/FW gave/VBD me/PRP my/PRP$ future./NN
+"In/NN those/DT days/NNS in/IN the/DT mid-70s/JJ when/WRB I/PRP was/VBD there/EX we/PRP were/VBD doing/VBG a/DT play/NN every/DT four/CD weeks./NN
+"Belfast/NN was/VBD not/RB a/DT pretty/JJ town/NN to/TO be/VB living/VBG in./NN
+"There/NN was/VBD serious/JJ trouble/NN as/IN you/PRP know/VBP but/CC this/DT theatre/FW was/VBD like/IN a/DT Belisha/NNP beacon/NN of/IN light/JJ and/CC hope/NN six/CD nights/NNS a/DT week/NN doing/VBG everything/NN from/IN Shakespeare/NNP to/TO Yeats/NNP to/TO O'Casey/NNP with/IN a/DT group/NN of/IN actors/NNS and/CC actresses/NNS that/WDT affected/VBD me/PRP very/RB deeply/RB and/CC still/RB do."/VB The/DT Lyric/NNP began/VBD 50/CD years/NNS ago/RB but/CC the/DT doors/NNS opened/VBD at/IN its/PRP$ present/JJ site/NN on/IN the/DT Stranmillis/NNP embankment/NN overlooking/VBG the/DT River/NNP Lagan/NNP in/IN 1968./CD
+
+As/RB well/RB as/IN Liam/NNP Neeson/NNP it/PRP also/RB launched/VBD the/DT careers/NNS of/IN Adrian/NNP Dunbar/NNP and/CC Stephen/NNP Rea/NNP and/CC playwrights/NNS such/JJ as/IN Martin/NNP Lynch/NNP and/CC Gary/NNP Mitchell./NNP
+Speaking/VBG to/TO BBC/NNP Northern/NNP Ireland/NNP before/IN the/DT event/NN at/IN New/NNP York's/NNP SoHo/NNP House/NNP Mr/NNP Neeson/NNP said/VBD that/IN his/PRP$ spirit/NN belonged/VBD to/TO the/DT Glens/NNP of/IN Antrim./NNP
+And/CC he/PRP said/VBD that/IN there/EX was/VBD one/CD figure/NN from/IN his/PRP$ childhood/NN that/IN he/PRP would/MD love/VB to/TO portray/VB on/IN the/DT big/JJ screen/NN -/: Ian/NNP Paisley./NNP
+He/PRP said/VBD that/IN the/DT DUP/NNP leader/NN and/CC preacher/NN was/VBD a/DT "very/NN dynamic/JJ extraordinary/JJ figure"./NN
+Neeson/NNP used/VBD to/TO listen/VB to/TO his/PRP$ sermons/NNS on/IN a/DT Friday/NNP night/NN in/IN Ballymena./NNP
+He/PRP said/VBD "What/NN an/DT orator./NN
+He/PRP was/VBD from/IN that/DT old/JJ school/NN of/IN bible-thumping/JJ righteousness./NN
+But/CC it/PRP was/VBD so/RB dramatic./NN
+I/PRP found/VBD him/PRP very/RB powerful./VBP
+"I'd/NN love/NN to/TO get/VB a/DT chance/NN to/TO play/VB him/PRP some/DT time."/NN

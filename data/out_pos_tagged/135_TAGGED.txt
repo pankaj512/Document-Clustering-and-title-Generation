@@ -1,0 +1,26 @@
+Feta/NNP cheese/NN battle/NN reaches/VBZ court/NN
+
+A/DT row/NN over/IN whether/IN only/RB Greece/NNP should/MD be/VB allowed/VBN to/TO label/VB its/PRP$ cheese/NN feta/NN has/VBZ reached/VBN the/DT European/NNP Court/NNP of/IN Justice./NNP
+
+The/DT Danish/JJ and/CC German/JJ governments/NNS are/VBP challenging/VBG a/DT European/NNP Commission/NNP ruling/NN which/WDT said/VBD Greece/NNP should/MD have/VB sole/JJ rights/NNS to/TO use/VB the/DT name./NN
+The/DT Commission's/NNP decision/NN gave/VBD the/DT same/JJ legal/JJ protection/NN to/TO feta/VB as/IN to/TO Italian/JJ Parma/NNP ham/NN and/CC French/JJ Champagne./NNP
+But/CC critics/NNS of/IN the/DT judgement/NN say/VBP feta/NN is/VBZ a/DT generic/JJ term/NN with/IN the/DT cheese/NN produced/VBN widely/RB outside/IN Greece./NNP
+
+The/DT Commission's/NNP controversial/JJ 2002/CD ruling/NN gave/VBD "protected/VBN designation/NN of/IN origin"/NN status/NN to/TO feta/VB cheese/NN made/VBN in/IN Greece/NNP effectively/RB restricting/VBG the/DT use/NN of/IN the/DT feta/NN name/NN to/TO producers/NNS there./NN
+
+From/IN 2007/CD onwards/NNS Greek/JJ firms/NNS will/MD have/VB the/DT exclusive/JJ use/NN of/IN the/DT feta/NN label/NN and/CC producers/NNS elsewhere/RB in/IN Europe/NNP must/MD find/VB another/DT name/NN to/TO describe/VB their/PRP$ products./NN
+The/DT German/JJ and/CC Danish/JJ governments/NNS argue/VBP that/DT feta/NN does/VBZ not/RB relate/VB to/TO a/DT specific/JJ geographical/JJ area/NN and/CC that/IN their/PRP$ firms/NNS have/VBP been/VBN producing/VBG and/CC exporting/VBG the/DT cheese/NN for/IN years./NN
+"In/NN our/PRP$ opinion/NN it/PRP is/VBZ a/DT generic/JJ designation/NN and/CC we/PRP do/VBP not/RB have/VB any/DT other/JJ name/NN or/CC term/NN for/IN this/DT type/NN of/IN cheese"/NN Hans/NNP Arne/NNP Kristiansen/NNP a/DT spokesman/NN for/IN the/DT Danish/JJ Dairy/NN Board/NNP told/VBD the/DT BBC./NNP
+Denmark/NNP is/VBZ Europe's/NNP second/JJ largest/JJS producer/NN of/IN feta/NN after/IN Greece/NNP -/: producing/VBG about/IN 30000/CD tonnes/NNS a/DT year/NN -/: and/CC exports/VBZ its/PRP$ products/NNS to/TO Greece./NNP
+It/PRP is/VBZ concerned/VBN that/IN the/DT ruling/NN could/MD threaten/VB the/DT production/NN of/IN other/JJ cheeses/NNS in/IN Denmark/NNP such/JJ as/IN brie./NN
+"It/NN would/MD cost/VB millions/NNS if/IN we/PRP wanted/VBD to/TO introduce/VB a/DT new/JJ designation"/NN Mr/NNP Kristiansen/NNP said./NN
+"That/NN is/VBZ just/RB one/CD of/IN the/DT costs."/NN
+
+The/DT case/NN will/MD also/RB have/VB a/DT major/JJ impact/NN on/IN Britain's/NNP sole/JJ feta/NN producer/NN Yorkshire/NNP company/NN Shepherds/NNP Purse/NN Cheeses./NNP
+
+Judy/NNP Bell/NNP the/DT company's/NNS founder/NN said/VBD it/PRP would/MD cost/VB a/DT huge/JJ amount/NN to/TO rebrand/VB its/PRP$ product./NN
+"If/NN we/PRP lose/VBP we/PRP will/MD have/VB to/TO go/VB through/IN a/DT massive/JJ re-merchandising/JJ process/NN and/CC reorganisation"/NN she/PRP said./VBP
+"We/NN have/VBP never/RB tried/VBN to/TO pull/VB the/DT wool/NN over/IN anyone's/NNS eyes/NNS -/: it's/NNS very/RB clear/JJ from/IN the/DT label/NN that/IN it's/NNS Yorkshire/NNP feta."/NN The/DT original/JJ decision/NN was/VBD a/DT victory/NN for/IN Greece/NNP where/WRB feta/NN cheese/NN is/VBZ believed/VBN to/TO have/VB been/VBN produced/VBN for/IN about/IN 6000/CD years./NN
+Feta/NNP is/VBZ a/DT soft/JJ white/JJ cheese/NN made/VBN from/IN sheep/NN or/CC goat's/NNS milk/NN and/CC is/VBZ an/DT essential/JJ ingredient/NN in/IN Greek/JJ cuisine./NN
+Greece/NNP makes/VBZ 115000/CD tonnes/NNS mainly/RB for/IN domestic/JJ consumption./NN
+The/DT Court/NNP is/VBZ expected/VBN to/TO reach/VB a/DT verdict/NN in/IN the/DT case/NN in/IN the/DT autumn./NN

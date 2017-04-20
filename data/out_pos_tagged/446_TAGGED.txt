@@ -1,0 +1,20 @@
+US/PRP in/IN EU/NNP tariff/NN chaos/NN trade/NN row/NN
+
+The/DT US/PRP has/VBZ asked/VBN the/DT World/NNP Trade/NNP Organisation/NNP to/TO investigate/VB European/NNP Union/NNP customs/NNS tariffs/NNS which/WDT it/PRP says/NNS are/VBP inconsistent/JJ and/CC hamper/VB trade./NN
+
+The/DT EU's/NNP own/JJ institutions/NNS have/VBP noted/VBN the/DT uneven/JJ way/NN EU/NNP customs/NNS rules/NNS are/VBP applied/VBN but/CC failed/VBD to/TO act/VB the/DT US/PRP Trade/NNP Representative's/NNP Office/NNP said./NN
+Small/JJ and/CC mid-sized/JJ US/PRP firms/VBZ were/VBD worst-hit/JJ it/PRP added./NN
+The/DT EU/NNP expanded/VBD from/IN 15/CD to/TO 25/CD member/NN states/NNS in/IN May./NNP
+The/DT US/PRP said/VBD it/PRP filed/VBD the/DT complaint/NN after/IN talks/NNS failed/VBD to/TO find/VB a/DT solution./NN
+
+The/DT move/NN came/VBD in/IN the/DT same/JJ week/NN that/IN the/DT US/PRP and/CC EU/NNP stepped/VBD back/RB from/IN confrontation/NN in/IN a/DT tense/JJ dispute/NN over/IN aircraft/NN subsidies/NNS to/TO European/JJ manufacturer/NN Airbus/NNP and/CC US/PRP firm/VBP Boeing./NNP
+New/NNP EU/NNP trade/NN commissioner/NN Peter/NNP Mandelson/NNP said/VBD on/IN Tuesday/NNP that/IN the/DT two/CD sides/NNS had/VBD agreed/VBN to/TO reopen/VB talks/NNS in/IN the/DT aircraft/NN subsidies/NNS row/NN which/WDT led/VBD to/TO tit-for-tat/JJ WTO/NNP filings/NNS in/IN last/JJ autumn./NN
+
+Explaining/VBG why/WRB it/PRP has/VBZ asked/VBN the/DT WTO/NNP to/TO set/VB up/RP a/DT dispute/NN settlement/NN panel/NN on/IN customs/NNS barriers/NNS the/DT US/PRP Trade/NNP Representative's/NNP Office/NNP said/VBD that/IN it/PRP wants/VBZ to/TO tackle/VB the/DT issue/NN "early/RB in/IN the/DT EU's/NNP process/NN of/IN dealing/VBG with/IN the/DT problems/NNS of/IN enlargement"./NN
+Ten/CD countries/NNS mostly/RB in/IN Eastern/NNP Europe/NNP joined/VBD the/DT EU/NNP in/IN May./NNP
+The/DT US/PRP said/VBD its/PRP$ trade/NN with/IN the/DT 25/CD EU/NNP member/NN countries/NNS was/VBD worth/JJ $155.2bn/CD (£82.8bn)/CD in/IN 2003./CD
+"Although/NN the/DT EU/NNP is/VBZ a/DT customs/NNS union/NN there/EX is/VBZ no/DT single/JJ EU/NNP customs/NNS administration"/VBP a/DT statement/NN issued/VBN on/IN behalf/NN of/IN Robert/NNP Zoellick/NNP US/PRP Trade/NNP Representative/NNP said./NN
+Lack/NN of/IN uniformity/NN coupled/VBN with/IN lack/NN of/IN procedures/NNS for/IN prompt/NN EU-wide/NNP review/NN can/MD hinder/VB US/PRP exports/NNS especially/RB for/IN small/JJ to/TO mid-sized/JJ businesses"/NN An/DT EU/NNP spokesman/NN in/IN Washington/NNP dismissed/VBD the/DT US/PRP complaint./VBP
+"We/NN think/VBP the/DT US/PRP case/VBP is/VBZ very/RB weak./NN
+They/PRP haven't/VBP come/VBN up/RP with/IN any/DT evidence/NN that/IN US/PRP companies/VBZ are/VBP being/VBG harmed"/NN said/VBD Anthony/NNP Gooch./NNP
+It/PRP could/MD take/VB several/JJ months/NNS for/IN the/DT WTO's/NNP dispute/NN settlement/NN panel/NN to/TO report/VB its/PRP$ findings./NN

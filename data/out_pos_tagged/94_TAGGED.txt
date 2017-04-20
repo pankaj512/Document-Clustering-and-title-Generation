@@ -1,0 +1,14 @@
+US/PRP economy/VBP shows/VBZ solid/JJ GDP/NNP growth/NN
+
+The/DT US/PRP economy/VBP has/VBZ grown/VBN more/RBR than/IN expected/VBN expanding/VBG at/IN an/DT annual/JJ rate/NN of/IN 3.8%/CD in/IN the/DT last/JJ quarter/NN of/IN 2004./CD
+
+The/DT gross/JJ domestic/JJ product/NN figure/NN was/VBD ahead/RB of/IN the/DT 3.1%/CD the/DT government/NN estimated/VBD a/DT month/NN ago./NN
+The/DT rise/NN reflects/VBZ stronger/JJR spending/NN by/IN businesses/NNS on/IN capital/NN equipment/NN and/CC a/DT smaller-than-expected/JJ trade/NN deficit./NN
+GDP/NNP is/VBZ a/DT measure/NN of/IN a/DT country's/NNS economic/JJ health/NN reflecting/VBG the/DT value/NN of/IN the/DT goods/NNS and/CC services/NNS it/PRP produces./NN
+
+The/DT new/JJ GDP/NNP figure/NN announced/VBN by/IN the/DT Commerce/NNP Department/NNP on/IN Friday/NNP also/RB topped/VBD the/DT 3.5%/CD growth/NN rate/NN that/IN economists/NNS had/VBD forecast/VBN ahead/RB of/IN Friday's/NNP announcement./NN
+Growth/NN was/VBD at/IN an/DT annual/JJ rate/NN of/IN 4%/CD in/IN the/DT third/JJ quarter/NN of/IN 2004/CD and/CC for/IN the/DT year/NN it/PRP came/VBD in/IN at/IN 4.4%/CD the/DT best/JJS figure/NN in/IN five/CD years./NN
+However/RB the/DT positive/JJ economic/JJ climate/NN may/MD lead/VB to/TO a/DT rise/NN in/IN interest/NN rates/NNS with/IN many/JJ expecting/VBG US/PRP rates/NNS to/TO rise/VB on/IN 22/CD March./NNP
+In/IN the/DT January-to-March/NNP quarter/NN the/DT economy/NN is/VBZ expected/VBN to/TO grow/VB at/IN an/DT annual/JJ rate/NN of/IN about/IN 4%/CD economists/NNS forecast./NN
+In/IN the/DT final/JJ quarter/NN of/IN 2004/CD businesses/NNS increased/VBD spending/NN on/IN capital/NN equipment/NN and/CC software/NN by/IN 18%/CD up/RP from/IN 17.5%/CD in/IN the/DT third/JJ quarter./NN
+Consumer/NNP spending/NN grew/VBD 4.2%/CD in/IN the/DT final/JJ quarter/NN down/RP from/IN the/DT third/JJ quarter's/NNS 5.1%./CD

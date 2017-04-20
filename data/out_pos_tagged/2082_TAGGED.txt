@@ -1,0 +1,16 @@
+EU/NNP software/NN patent/NN law/NN delayed/VBN
+
+Controversial/JJ new/JJ EU/NNP rules/NNS for/IN the/DT patenting/NN of/IN computer-based/JJ inventions/NNS have/VBP been/VBN put/VBN on/IN hold/NN due/JJ to/TO a/DT last/JJ minute/NN intervention/NN from/IN Poland./NNP
+
+Poland/NNP -/: a/DT large/JJ and/CC therefore/RB crucial/JJ EU/NNP member/NN -/: has/VBZ requested/VBN more/JJR time/NN to/TO consider/VB the/DT issue/NN especially/RB as/IN it/PRP relates/VBZ to/TO the/DT patenting/NN of/IN software./NN
+Critics/NNS say/VBP the/DT law/NN would/MD favour/VB large/JJ companies/NNS over/IN small/JJ innovative/JJ ones./NN
+They/PRP say/VBP it/PRP could/MD have/VB massive/JJ ramifications/NNS for/IN developments/NNS such/JJ as/IN open/JJ source/NN software./NN
+
+Polish/JJ ministers/NNS want/VBP to/TO see/VB the/DT phrasing/NN of/IN the/DT text/NN of/IN the/DT Directive/NN on/IN the/DT Patentability/NNP of/IN Computer-Implemented/JJ Inventions/NNS changed/VBN so/IN that/IN it/PRP excludes/VBZ the/DT patenting/NN of/IN software./NN
+The/DT planned/VBN law/NN has/VBZ ignited/VBN angry/JJ debate/NN about/IN whether/IN the/DT EU/NNP should/MD allow/VB the/DT patenting/NN of/IN computer/NN programs/NNS and/CC internet/JJ business/NN methods/NNS as/IN currently/RB happens/VBZ in/IN the/DT US./NNP
+So/RB for/IN instance/NN US-based/JJ Amazon.com/NNP holds/VBZ a/DT patent/NN on/IN 'one-click/JJ shopping'./NN
+Critics/NNS claim/VBP the/DT law/NN which/WDT the/DT EU/NNP says/VBZ is/VBZ needed/VBN to/TO harmonise/VB with/IN the/DT US/PRP is/VBZ little/RB more/JJR than/IN a/DT law/NN on/IN ideas./NN
+"Patent/NN rights/NNS it/PRP is/VBZ claimed/VBN protect/VB inventors/NNS but/CC in/IN this/DT case/NN it/PRP is/VBZ exclusively/RB the/DT interests/NNS of/IN the/DT big/JJ companies/NNS that/WDT are/VBP protected"/NN Eva/NNP Lichtenberg/NNP a/DT Austrian/JJ Green/NNP member/NN of/IN the/DT European/NNP Parliament/NNP said/VBD in/IN a/DT statement./NN
+"Smaller/NN innovative/JJ firms/NNS cannot/NN afford/VBP the/DT patenting/NN and/CC legal/JJ costs/NNS that/IN the/DT directive/NN would/MD inflict/VB on/IN them"/NN she/PRP added./VBP
+The/DT European/NNP Parliament/NNP has/VBZ already/RB clashed/VBN with/IN the/DT European/NNP Union/NNP on/IN the/DT issue/NN and/CC there/EX have/VBP been/VBN accusations/NNS that/IN the/DT process/NN to/TO decide/VB the/DT issue/NN has/VBZ been/VBN undemocratic./NN
+The/DT directive/NN has/VBZ been/VBN subject/JJ to/TO several/JJ previous/JJ delays./NN

@@ -1,0 +1,14 @@
+Hundreds/NNS vie/NN for/IN best/JJS film/NN Oscar/NNP
+
+A/DT total/NN of/IN 267/CD films/NNS are/VBP eligible/JJ for/IN the/DT best/JJS film/NN Oscar/NNP but/CC only/RB five/CD will/MD be/VB chosen/VBN to/TO go/VB forward/RB as/IN nominees./NN
+
+The/DT Academy/NNP of/IN Motion/NNP Picture/NNP Arts/NNS and/CC Sciences/NNPS has/VBZ sent/VBN out/RP the/DT first/JJ ballot/NN papers/NNS with/IN the/DT full/JJ list/NN of/IN films/NNS vying/VBG for/IN recognition./NN
+Among/IN those/DT expected/VBN to/TO receive/VB nominations/NNS are/VBP The/DT Aviator/NNP Million/CD Dollar/NN Baby/NNP and/CC Sideways./NNP
+Academy/NN members/NNS will/MD now/RB vote/VB for/IN their/PRP$ favourites/NNS before/IN the/DT final/JJ nominees/NNS are/VBP announced/VBN on/IN 25/CD January./NNP
+
+To/TO be/VB eligible/JJ for/IN nomination/NN a/DT film/NN must/MD have/VB been/VBN shown/VBN in/IN a/DT commercial/JJ theatre/FW for/IN seven/CD consecutive/JJ days/NNS before/IN the/DT deadline/NN of/IN 31/CD December./NNP
+Director/NNP Martin/NNP Scorsese's/NNP The/DT Aviator/NNP starring/VBG Leonardo/NNP DiCaprio/NNP went/VBD on/IN general/JJ release/NN on/IN Christmas/NNP Day/NNP in/IN the/DT US/PRP ensuring/VBG it/PRP just/RB made/VBD the/DT deadline./NN
+Studios/NNS have/VBP already/RB begun/VBN lobbying/VBG voters/NNS taking/VBG out/RP full/JJ page/NN adverts/NNS in/IN trade/NN publications/NNS such/JJ as/IN Variety/NNP urging/VBG them/PRP to/TO remember/VB particular/JJ films/NNS when/WRB it/PRP comes/VBZ to/TO choosing/VBG what/WP to/TO back./VB
+Other/JJ movies/NNS tipped/VBD for/IN possible/JJ success/NN include/VBP Closer/RBR starring/VBG Jude/NNP Law/NNP and/CC Julia/NNP Roberts/NNP Finding/VBG Neverland/NNP with/IN Johnny/NNP Depp/NNP as/IN author/NN JM/NNP Barry/NNP and/CC Kinsey/NNP starring/VBG Liam/NNP Neeson/NNP as/IN the/DT famed/JJ sex/NN scientist/NN Alfred/NNP Kinsey./NNP
+Meanwhile/RB design/NN engineer/NN Takuo/NNP Miyagishima/NNP will/MD be/VB awarded/VBN an/DT Oscar/NNP at/IN the/DT Scientific/NNP and/CC Technical/NNP Awards/NNS Dinner/NN on/IN 12/CD February/NNP 2005./CD
+Miyagishima/NNP is/VBZ the/DT 18th/JJ recipient/NN of/IN the/DT Sawyer/NNP Award/NN which/WDT is/VBZ "presented/VBN to/TO an/DT individual/NN in/IN the/DT motion/NN picture/NN industry/NN whose/WP$ technological/JJ contributions/NNS have/VBP brought/VBN credit/NN to/TO the/DT industry."/NN The/DT main/JJ Oscar/NNP ceremony/NN will/MD be/VB held/VBN in/IN Los/NNP Angeles/NNP on/IN 27/CD February./NNP

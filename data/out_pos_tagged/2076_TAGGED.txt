@@ -1,0 +1,18 @@
+Virus/NN poses/VBZ as/IN Christmas/NNP e-mail/JJ
+
+Security/NN firms/NNS are/VBP warning/NN about/IN a/DT Windows/NNS virus/VBP disguising/JJ itself/PRP as/IN an/DT electronic/JJ Christmas/NNP card./NN
+
+The/DT Zafi.D/NNP virus/NN translates/NNS the/DT Christmas/NNP greeting/VBG on/IN its/PRP$ subject/JJ line/NN into/IN the/DT language/NN of/IN the/DT person/NN receiving/VBG infected/JJ e-mail./JJ
+Anti-virus/NN firms/NNS speculate/VBP that/IN this/DT multilingual/JJ ability/NN is/VBZ helping/VBG the/DT malicious/JJ program/NN spread/NN widely/RB online./NN
+Anti-virus/NNP firm/NN Sophos/NNP said/VBD that/IN 10%/CD of/IN the/DT e-mail/JJ currently/RB on/IN the/DT net/NN was/VBD infected/JJ with/IN the/DT Zafi/NNP virus./NN
+
+Like/IN many/JJ other/JJ Windows/NNS viruses/NNS Zafi-D/NNP plunders/NNS Microsoft/NNP Outlook/NN for/IN e-mail/JJ addresses/NNS and/CC then/RB uses/VBZ mail-sending/JJ software/NN to/TO despatch/VB itself/PRP across/IN the/DT web/NN to/TO new/JJ victims./NN
+To/TO be/VB infected/JJ users/NNS must/MD open/VB up/RP the/DT attachment/NN travelling/VBG with/IN the/DT message/NN which/WDT bears/VBZ the/DT code/NN for/IN the/DT malicious/JJ bug./NN
+The/DT attachment/NN on/IN the/DT e-mail/JJ poses/NNS as/IN an/DT electronic/JJ Christmas/NNP card/NN but/CC anyone/NN opening/NN it/PRP will/MD simply/RB get/VB a/DT crude/JJ image/NN of/IN two/CD smiley/NN faces./NN
+
+The/DT virus'/NN subject/JJ line/NN says/VBZ "Merry/NN Christmas"/NNP and/CC translates/VBZ this/DT into/IN one/CD of/IN 15/CD languages/NNS depending/NN of/IN the/DT final/JJ suffix/NN of/IN the/DT e-mail/JJ address/VB the/DT infected/JJ message/NN has/VBZ been/VBN sent/VBN to./NN
+The/DT message/NN in/IN the/DT body/NN of/IN the/DT e-mail/JJ reads/VBZ "Happy/JJ Holidays"/NNP and/CC this/DT too/RB is/VBZ translated./NN
+On/IN infected/JJ machines/NNS the/DT virus/NN tries/VBZ to/TO disable/JJ anti-virus/JJ and/CC firewall/NN software/NN and/CC opens/VBZ up/RP a/DT backdoor/NN on/IN the/DT PC/NN to/TO hand/VB over/IN control/NN to/TO the/DT writer/NN of/IN the/DT virus./NN
+The/DT virus/NN is/VBZ thought/VBN to/TO have/VB spread/NN most/RBS widely/RB in/IN South/NNP America/NNP Italy/NNP Spain/NNP Bulgaria/NNP and/CC Hungary./NNP
+The/DT original/JJ Zafi/NNP virus/NN appeared/VBD in/IN April/NNP this/DT year./NN
+"We/NN have/VBP seen/VBN these/DT hoaxes/NNS for/IN several/JJ Christmases/NNP already/RB and/CC personally/RB I/PRP prefer/VBP traditional/JJ pen/NN and/CC paper/NN cards/NNS and/CC we/PRP recommend/VBP this/DT to/TO all/DT our/PRP$ clients/NNS too"/NN said/VBD Mikko/NNP Hypponen/NNP who/WP heads/VBZ F-Secure's/NNP anti-virus/JJ team./NN

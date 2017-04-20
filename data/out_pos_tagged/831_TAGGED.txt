@@ -1,0 +1,24 @@
+UK/NNP 'world's/NN biggest/JJS music/NN buyer'/NN
+
+UK/NN consumers/NNS are/VBP the/DT biggest/JJS music/NN buyers/NNS in/IN the/DT world/NN according/VBG to/TO new/JJ figures/NNS released/VBN on/IN Tuesday/NNP by/IN the/DT British/NNP Phonographic/NNP Industry/NNP (BPI)./NN
+
+But/CC global/JJ sales/NNS of/IN recorded/VBN music/NN were/VBD flat/JJ in/IN 2004/CD with/IN growing/VBG sales/NNS in/IN DVD/NNP music/NN videos/NNS offset/VBN by/IN online/NN and/CC physical/JJ piracy/NN in/IN major/JJ markets./NN
+The/DT UK/NNP music/NN industry/NN recorded/VBD an/DT overall/JJ 3%/CD increase/NN in/IN volume/NN sales/NNS mostly/RB due/JJ to/TO its/PRP$ robust/JJ albums/NNS market./NN
+However/RB world/NN music/NN sales/NNS declined/VBD by/IN 1.3%/CD to/TO $33.6/CD billion/CD (£17.7/CD billion)./NN
+The/DT UK/NNP CD/NNP albums/NNS market/NN grew/VBN by/IN 4.5%/CD in/IN 2004/CD with/IN a/DT record/NN 174.6/CD million/CD units/NNS sold./NN
+On/IN average/JJ every/DT Briton/NNP buys/VBZ 3.2/CD CDs/NNS per/IN person/NN per/IN year./NN
+
+Around/IN 26000/CD albums/NNS are/VBP released/VBN in/IN the/DT UK/NNP each/DT year/NN making/VBG Britain/NNP second/JJ only/RB to/TO the/DT US/PRP in/IN terms/NNS of/IN the/DT number/NN of/IN releases./NN
+Overall/RB sales/NNS were/VBD driven/VBN by/IN new/JJ UK-signed/NNP artists/NNS such/JJ as/IN Keane/NNP Katie/NNP Melua/NNP and/CC Scissor/NNP Sisters/NNS whose/WP$ debut/NN album/NN sold/VBN almost/RB 1.6/CD million/CD copies/NNS in/IN the/DT UK./NNP
+"A/NN slew/NN of/IN great/JJ new/JJ British/JJ artists/NNS have/VBP met/VBN UK/NNP music/NN fans'/NN demand/NN for/IN great/JJ music"/NN said/VBD BPI/NNP chairman/NN Peter/NNP Jameson./NNP
+The/DT best-selling/JJS album/NN globally/RB was/VBD Usher's/NNP Confessions/NNS -/: one/CD of/IN eight/CD albums/NNS to/TO sell/VB more/RBR than/IN five/CD million/CD copies/NNS in/IN 2004./CD
+
+The/DT growth/NN in/IN the/DT DVD/NNP market/NN and/CC a/DT sharp/JJ increase/NN in/IN sales/NNS of/IN digital/JJ music/NN ensured/VBD a/DT strong/JJ market/NN in/IN the/DT US./NNP
+The/DT total/JJ number/NN of/IN tracks/NNS downloaded/VBN last/JJ year/NN were/VBD up/RB more/JJR than/IN tenfold/RB on/IN 2003./CD
+Digital/NN sales/NNS in/IN the/DT US/PRP in/IN the/DT first/JJ two/CD months/NNS of/IN 2005/CD are/VBP already/RB more/RBR than/IN double/JJ that/IN of/IN the/DT same/JJ period/NN in/IN 2004./CD
+
+However/RB some/DT markets/NNS in/IN Continental/NNP Europe/NNP and/CC Asia/NNP -/: notably/RB Sweden/NNP Finland/NNP France/NNP Spain/NNP and/CC South/NNP Korea/NNP -/: have/VBP been/VBN drastically/RB hit/VBN by/IN internet/JJ piracy./NN
+Australia/NNP Italy/NNP and/CC the/DT Netherlands/NNP also/RB saw/VBD a/DT decline./NN
+"On/NN the/DT positive/JJ side/NN digital/JJ sales/NNS are/VBP booming"/NN said/VBD John/NNP Kennedy/NNP chief/NN executive/NN of/IN the/DT International/NNP Federation/NNP of/IN Phonographic/NNP Industries/NNP (IFPI)./NN
+"However/NN commercial/JJ piracy/NN and/CC illegal/JJ file-sharing/JJ are/VBP continuing/VBG to/TO depress/VB our/PRP$ markets./NN
+"The/NN priority/NN in/IN the/DT coming/VBG year/NN is/VBZ to/TO step/VB up/RP the/DT advance/NN of/IN legitimate/JJ digital/JJ sales/NNS and/CC sustain/VB our/PRP$ anti-piracy/JJ efforts."/NN "The/NN main/JJ choice/NN today's/NNS music/NN fan/NN now/RB has/VBZ to/TO make/VB is/VBZ whether/IN to/TO get/VB music/NN legally/RB or/CC illegally"/NN added/VBD Mr/NNP Jameson./NNP

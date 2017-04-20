@@ -1,0 +1,14 @@
+Retail/JJ sales/NNS show/VBP festive/JJ fervour/NN
+
+UK/NNP retail/JJ sales/NNS were/VBD better/RBR than/IN expected/VBN in/IN November/NNP as/IN Christmas/NNP shoppers/NNS began/VBD their/PRP$ seasonal/JJ flock/NN to/TO the/DT High/NNP Street/NNP figures/NNS show./NN
+
+The/DT Office/NNP for/IN National/NNP Statistics/NNPS (ONS)/NN said/VBD retail/JJ sales/NNS rose/VBD 0.6%/CD on/IN the/DT month/NN and/CC 6.1%/CD on/IN the/DT year./NN
+But/CC the/DT figures/NNS along/IN with/IN this/DT week's/NNS inflation/NN report/NN could/MD trigger/VB another/DT interest/NN rate/NN rise/NN in/IN the/DT New/NNP Year./NNP
+However/RB recent/JJ data/NNS from/IN the/DT British/JJ Retail/JJ Consortium/NNP showed/VBD a/DT 0.2%/CD slip/NN in/IN High/NNP Street/NNP sales/NNS during/IN November./NNP
+
+The/DT ONS/NNP data/NNS confounded/VBD analyst/NN expectations./NN
+Many/JJ had/VBD expected/VBN sales/NNS to/TO fall/VB slightly/RB in/IN November/NNP as/IN shoppers/NNS put/VBP off/RP buying/VBG Christmas/NNP presents/VBZ until/IN December./NNP
+However/RB retailers'/NN attempts/VBZ to/TO draw/VB in/IN the/DT crowds/NNS may/MD be/VB behind/IN November's/NNP unexpected/JJ rise/NN in/IN sales/NNS they/PRP say./VBP
+Aggressive/JJ tactics/NNS such/JJ as/IN one-day/JJ discount/NN sales/NNS adopted/VBN by/IN stores/NNS such/JJ as/IN Marks/NNP &/CC Spencer/NNP appear/VBP to/TO have/VB paid/VBN off./NN
+"Price/NN discounting/NN has/VBZ certainly/RB accounted/VBN for/IN much/JJ of/IN this/DT because/IN the/DT value/NN of/IN retail/JJ sales/NNS hasn't/NN grown/VBN as/RB much/JJ as/IN volumes"/NN said/VBD Investec/NNP economist/NN David/NNP Page./NNP
+The/DT figures/NNS sparked/VBD a/DT rally/NN for/IN sterling/NN as/IN the/DT data/NNS supported/VBD the/DT view/NN that/IN it/PRP is/VBZ too/RB early/JJ to/TO assume/VB that/IN base/NN rates/NNS have/VBP peaked./NN

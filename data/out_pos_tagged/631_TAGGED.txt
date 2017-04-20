@@ -1,0 +1,16 @@
+Belle/FW named/VBN 'best/JJ Scottish/JJ band'/NN
+
+Belle/FW &/CC Sebastian/NNP have/VBP been/VBN named/VBN the/DT best/JJS Scottish/JJ band/NN of/IN all/DT time/NN after/IN a/DT three/CD month-long/JJ public/JJ poll./NN
+
+The/DT group/NN beat/VB Travis/NNP and/CC Idlewild/NNP into/IN second/JJ and/CC third/JJ place/NN respectively./NN
+Franz/NNP Ferdinand/NNP who/WP recently/RB picked/VBD up/RB five/CD Brit/NNP Award/NN nominations/NNS ended/VBD up/RP in/IN 15th/JJ place/NN while/IN the/DT Eurythmics/NNP wound/VBD up/RP at/IN a/DT lowly/RB 38./CD
+Other/JJ Scottish/NNP acts/NNS such/JJ as/IN the/DT Mull/JJ Historical/JJ Society/NNP who/WP also/RB featured/VBD in/IN the/DT top/JJ 50/CD performed/VBN at/IN a/DT party/NN in/IN Glasgow/NNP where/WRB the/DT result/NN was/VBD announced./NN
+Scottish-based/JJ band/NN Snow/NNP Patrol/NNP who/WP finished/VBD 14th/JJ in/IN the/DT vote/NN and/CC have/VBP been/VBN nominated/VBN for/IN a/DT pair/NN of/IN Brit/NNP Awards/NNS were/VBD among/IN the/DT performers/NNS who/WP covered/VBD well-known/JJ Scottish/JJ pop/NN songs/NNS at/IN the/DT party/NN on/IN Wednesday/NNP night./NN
+
+Indie/NN stalwarts/NNS Belle/NNP &/CC Sebastian/NNP have/VBP enjoyed/VBN a/DT chart/NN career/NN stretching/VBG back/RB to/TO 1997./CD
+They/PRP were/VBD the/DT surprise/NN winners/NNS of/IN the/DT Brit/NNP Award/NN for/IN best/JJS breakthrough/NN act/NN two/CD years/NNS later./NN
+Scottish/NN bands/NNS from/IN earlier/RBR musical/JJ eras/NNS also/RB made/VBN it/PRP into/IN the/DT final/JJ list/NN including/VBG 1970s/NNS tartan/NN boy/NN band/NN the/DT Bay/NNP City/NNP Rollers/NNS and/CC goth/NN favourites/NNS the/DT Jesus/NNP and/CC Mary/NNP Chain./NNP
+
+Scottish/JJ magazine/NN The/DT List/NN recently/RB compiled/VBD a/DT list/NN of/IN the/DT top/JJ 50/CD Scottish/NNP bands/NNS of/IN all/DT time/NN but/CC left/VBD the/DT final/JJ decision/NN to/TO the/DT public./NN
+The/DT magazine's/NNS music/NN editor/NN Mark/NNP Robertson/NNP said/VBD "The/NN idea/NN behind/IN the/DT project/NN was/VBD simple/JJ -/: to/TO rediscover/VB the/DT very/RB best/JJS of/IN Scottish/JJ music/NN from/IN the/DT finest/JJS musical/JJ talent/NN spanning/VBG from/IN the/DT age/NN of/IN 70s/CD rock/NN through/IN to/TO 80s/CD pop/NN right/NN up/IN to/TO today's/NNS international/JJ stars."/NN "Everyone/NN has/VBZ strong/JJ opinions/NNS about/IN this/DT and/CC we/PRP wanted/VBD to/TO open/VB it/PRP up/IN to/TO the/DT public/NN to/TO decide"/VB he/PRP added./VB
+BBC/NNP Radio/NNP Scotland/NNP presenter/NN Vic/NNP Galloway/NNP who/WP has/VBZ been/VBN involved/VBN in/IN the/DT project/NN said/VBD it/PRP had/VBD been/VBN "great/NN fun"/NN to/TO look/VB back/RB at/IN Scotland's/NNP musical/JJ heritage/NN and/CC take/VB note/NN of/IN up-and-coming/JJ Scottish/JJ acts./NN

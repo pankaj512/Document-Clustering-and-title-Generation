@@ -1,0 +1,18 @@
+REM/NNP announce/VBP new/JJ Glasgow/NNP concert/NN
+
+US/PRP band/VBP REM/NNP have/VBP announced/VBN plans/NNS to/TO perform/VB for/IN 10000/CD Scottish/NNP fans/NNS in/IN a/DT rescheduled/VBN gig./NN
+
+The/DT band/NN will/MD play/VB in/IN what/WP has/VBZ been/VBN dubbed/VBN Europe's/NNP biggest/JJS tent/NN on/IN Glasgow/NNP Green/NNP on/IN Tuesday/NNP 14/CD June./NNP
+They/PRP were/VBD forced/VBN to/TO pull/VB out/IN of/IN a/DT concert/NN at/IN the/DT SECC/NNP in/IN Glasgow/NNP last/JJ month/NN after/IN bassist/NN Mike/NNP Mills/NNP contracted/VBD flu./NN
+Fans/NNS who/WP bought/VBD tickets/NNS for/IN the/DT original/JJ 22/CD February/NNP show/NN can/MD attend/VB the/DT rescheduled/VBN concert./NN
+The/DT June/NNP gig/NN will/MD act/VB as/IN a/DT warm-up/NN for/IN REM's/NNP open/JJ air/NN concert/NN at/IN Balloch/NNP Castle/NNP Country/NNP Park/NNP on/IN the/DT banks/NNS of/IN Loch/NNP Lomond/NNP four/CD days/NNS later./NN
+
+Promoters/NNS Regular/JJ Music/NNP booked/VBD Glasgow/NNP Green/NNP as/IN the/DT SECC/NNP was/VBD not/RB available/JJ on/IN the/DT most/RBS suitable/JJ date./NN
+Mark/NNP Mackie/NNP director/NN of/IN Regular/JJ Music/NNP said/VBD "It/NN is/VBZ fantastic/JJ news/NN and/CC it/PRP really/RB shows/VBZ REM's/NNP commitment/NN to/TO their/PRP$ Scottish/NNP fans/NNS that/IN they/PRP are/VBP coming/VBG back/RB to/TO Glasgow/NNP for/IN what/WP will/MD be/VB a/DT truly/RB unique/JJ gig."/NN The/DT REM/NNP gigs/NNS will/MD kick-start/VB what/WP promises/VBZ to/TO be/VB a/DT memorable/JJ summer/NN for/IN Scottish/JJ music/NN lovers./NN
+
+Grammy/NNP Award/NN winners/NNS U2/CD will/MD play/VB Hampden/NNP on/IN 21/CD June/NNP while/IN Oasis/NNP will/MD also/RB perform/VB at/IN the/DT national/JJ stadium/NN in/IN Glasgow/NNP on/IN 29/CD June./NNP
+Coldplay/NNS have/VBP announced/VBN a/DT concert/NN at/IN Bellahouston/NNP Park/NNP in/IN Glasgow/NNP on/IN 1/CD July/NNP and/CC T/NNP in/IN the/DT Park/NNP will/MD be/VB held/VBN at/IN Balado/NNP near/IN Kinross/NNP from/IN 9-10/CD July./NNP
+Ticketweb/NNP and/CC the/DT SECC/NNP box/NN office/NN will/MD write/VB to/TO customers/NNS who/WP bought/VBD tickets/NNS for/IN the/DT February/NNP gig/NN asking/VBG if/IN they/PRP want/VBP to/TO attend/VB the/DT new/JJ show./NN
+Those/DT who/WP bought/VBD tickets/NNS in/IN person/NN are/VBP being/VBG urged/VBD to/TO return/VB to/TO the/DT point/NN of/IN purchase./NN
+Anyone/NN who/WP cannot/VBP make/VBP the/DT concert/NN will/MD be/VB given/VBN a/DT refund./NN
+The/DT cut-off/JJ date/NN for/IN swapping/VBG tickets/NNS is/VBZ 1/CD April/NNP when/WRB those/DT remaining/VBG will/MD go/VB on/IN sale/NN to/TO the/DT public./NN

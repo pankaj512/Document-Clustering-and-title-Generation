@@ -1,0 +1,28 @@
+PlayStation/NNP 3/CD processor/NN unveiled/VBD
+
+The/DT Cell/NN processor/NN which/WDT will/MD drive/VB Sony's/NNP PlayStation/NNP 3/CD will/MD run/VB 10-times/JJ faster/RBR than/IN current/JJ PC/NN chips/VBZ its/PRP$ designers/NNS have/VBP said./NN
+
+Sony/NNP IBM/NNP and/CC Toshiba/NNP who/WP have/VBP been/VBN working/VBG on/IN the/DT Cell/NN processor/NN for/IN three/CD years/NNS unveiled/VBD the/DT chip/NN on/IN Monday./NNP
+It/PRP is/VBZ being/VBG designed/VBN for/IN use/NN in/IN graphics/NNS workstations/NNS the/DT new/JJ PlayStation/NNP console/NN and/CC has/VBZ been/VBN described/VBN as/IN a/DT supercomputer/NN on/IN a/DT chip./NN
+The/DT chip/NN will/MD run/VB at/IN speeds/NNS of/IN greater/JJR than/IN 4/CD GHz/NNP the/DT firms/NNS said./NN
+By/IN comparison/NN rival/JJ chip/NN maker/NN Intel's/NNP fastest/JJS processor/NN runs/VBZ at/IN 3.8/CD GHz./NNP
+Details/NNS of/IN the/DT chip/NN were/VBD released/VBN at/IN the/DT International/NNP Solid/JJ State/NNP Circuits/NNS Conference/NNP in/IN San/NNP Francisco./NNP
+The/DT new/JJ processor/NN is/VBZ set/VBN to/TO ignite/VB a/DT fresh/JJ battle/NN between/IN Intel/NNP and/CC the/DT Cell/NN consortium/NN over/IN which/WDT processor/NN sits/VBZ at/IN the/DT centre/NN of/IN digital/JJ products./NN
+The/DT PlayStation/NNP 3/CD is/VBZ expected/VBN in/IN 2006/CD while/IN Toshiba/NNP plans/VBZ to/TO incorporate/VB it/PRP into/IN high-end/JJ televisions/NNS next/IN year./NN
+IBM/NNP has/VBZ said/VBN it/PRP will/MD sell/VB a/DT workstation/NN with/IN the/DT chip/NN starting/VBG later/RB this/DT year./NN
+
+Cell/NN is/VBZ comprised/VBN of/IN several/JJ computing/NN engines/NNS or/CC cores./NN
+A/DT core/NN based/VBN on/IN IBM's/NNP Power/NNP architecture/NN controls/NNS eight/CD "synergistic"/NN processing/NN centres./NN
+In/IN all/DT they/PRP can/MD simultaneously/RB carry/VB out/RP 10/CD instruction/NN sequences/NNS compared/VBN with/IN two/CD for/IN current/JJ Intel/NNP chips./NN
+
+Later/RB this/DT year/NN Intel/NNP and/CC Advanced/NNP Micro/NNP Devices/NNPS plan/NN to/TO release/VB their/PRP$ own/JJ "multicore"/NN chips/NNS which/WDT also/RB increase/VB the/DT number/NN of/IN instructions/NNS that/WDT can/MD be/VB executed/VBN at/IN once./NN
+The/DT Cell's/NNP specifications/NNS suggest/VBP the/DT PlayStation/NNP 3/CD will/MD offer/VB a/DT significant/JJ boost/NN in/IN graphics/NNS capabilities/NNS but/CC analysts/NNS cautioned/VBD that/IN not/RB all/PDT the/DT features/NNS in/IN a/DT product/NN announcement/NN will/MD find/VB their/PRP$ way/NN into/IN systems./NN
+"Any/NN new/JJ technology/NN like/IN this/DT has/VBZ two/CD components"/NN said/VBD Steve/NNP Kleynhans/NNP an/DT analyst/NN with/IN Meta/NNP Group./NNP
+He/PRP said/VBD "It/NN has/VBZ the/DT vision/NN of/IN what/WP it/PRP could/MD be/VB because/IN you/PRP need/VBP the/DT big/JJ vision/NN to/TO sell/VB it./NN
+"Then/NN there's/NNS the/DT reality/NN of/IN how/WRB it's/NNS really/RB going/VBG to/TO be/VB used/VBN which/WDT generally/RB is/VBZ several/JJ levels/NNS down/IN the/DT chain/NN from/IN there."/NN
+
+While/IN the/DT PlayStation/NNP 3/CD is/VBZ likely/JJ to/TO be/VB the/DT first/JJ mass-market/JJ product/NN to/TO use/VB Cell/NN the/DT chip's/NNS designers/NNS have/VBP said/VBN the/DT flexible/JJ architecture/NN means/VBZ that/IN it/PRP would/MD be/VB useful/JJ for/IN a/DT wide/JJ range/NN of/IN applications/NNS from/IN servers/NNS to/TO mobile/JJ phones./NN
+Initial/JJ devices/NNS are/VBP unlikely/JJ to/TO be/VB any/DT smaller/JJR than/IN a/DT games/NNS console/NN however/RB because/IN the/DT first/JJ version/NN of/IN the/DT Cell/NN will/MD run/VB hot/JJ enough/RB to/TO need/VB a/DT cooling/VBG fan./NN
+And/CC while/IN marketing/NN speak/NN describes/VBZ the/DT chip/NN as/IN a/DT "supercomputer"/NN -/: it/PRP remains/VBZ significantly/RB slower/JJR than/IN the/DT slowest/JJS computer/NN on/IN the/DT list/NN of/IN the/DT world's/NNS top/JJ 500/CD supercomputers./NN
+IBM/NNP said/VBD Cell/NN was/VBD "OS/NN neutral"/NN and/CC would/MD support/VB multiple/JJ operating/VBG systems/NNS simultaneously/RB but/CC designers/NNS would/MD not/RB confirm/VB if/IN Microsoft's/NNP Windows/NNS was/VBD among/IN those/DT tested/VBN with/IN the/DT chip./NN
+If/IN Cell/NN is/VBZ to/TO challenge/VB Intel's/NNP range/NN of/IN chips/NNS in/IN the/DT marketplace/NN it/PRP will/MD need/VB to/TO find/VB itself/PRP inside/IN PCs/NNS which/WDT predominantly/RB run/VBP using/VBG Windows./NNP

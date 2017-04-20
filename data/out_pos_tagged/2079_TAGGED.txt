@@ -1,0 +1,19 @@
+Hollywood/NNP campaign/NN hits/NNS websites/NNS
+
+Movie/NNP studio/NN efforts/NNS to/TO stop/VB pirated/JJ films/NNS being/VBG shared/VBN on/IN peer-to-peer/JJ networks/NNS have/VBP claimed/VBN a/DT high-profile/JJ victim./NN
+
+The/DT campaign/NN of/IN legal/JJ action/NN is/VBZ thought/VBN to/TO be/VB behind/IN the/DT closure/NN of/IN the/DT widely/RB used/JJ Suprnova.org/NNP website./NN
+The/DT site/NN was/VBD the/DT most/RBS popular/JJ place/NN for/IN people/NNS swapping/VBG and/CC sharing/VBG links/NNS for/IN the/DT BitTorrent/NNP network./NN
+A/DT recent/JJ study/NN showed/VBD that/IN more/JJR than/IN half/NN of/IN the/DT peer-to-peer/JJ traffic/NN during/IN June/NNP was/VBD for/IN the/DT BitTorrent/NNP system./NN
+
+In/IN a/DT message/NN posted/VBD on/IN Suprnova.org/NNP on/IN Sunday/NNP the/DT site's/NNS controllers/NNS said/VBD the/DT site/NN was/VBD "closing/VBG down/RP for/IN good/JJ in/IN the/DT way/NN that/IN we/PRP all/DT know/VBP it"./NN
+If/IN the/DT site/NN did/VBD return/NN the/DT message/NN said/VBD it/PRP would/MD not/RB be/VB hosting/VBG any/DT more/JJR torrent/NN links./NN
+It/PRP continued/JJ "We/NN are/VBP very/RB sorry/JJ for/IN this/DT but/CC there/EX was/VBD no/DT other/JJ way/NN we/PRP have/VBP tried/VBN everything./NN
+''/'' The/DT only/JJ parts/NNS that/WDT would/MD keep/VB going/VBG said/VBD the/DT operators/NNS of/IN the/DT Suprnova/NNP site/NN were/VBD the/DT discussion/NN forums/NNS and/CC net/JJ chat/NN channels./NN
+The/DT site/NN is/VBZ thought/VBN to/TO have/VB closed/VBN following/VBG an/DT announcement/NN by/IN the/DT Motion/NNP Picture/NNP Association/NNP of/IN America/NNP that/IN it/PRP was/VBD launching/VBG legal/JJ action/NN against/IN those/DT operating/VBG BitTorrent/NNP servers/NNS rather/RB than/IN end/NN users./NN
+Because/IN of/IN the/DT way/NN that/IN BitTorrent/NNP works/VBZ server/NN sites/NNS do/VBP not/RB host/VB the/DT actual/JJ file/NN being/VBG shared/VBN instead/RB they/PRP host/VBP a/DT link/NN that/IN points/NNS people/NNS to/TO others/NNS that/WDT have/VBP it./NN
+By/IN targeting/VBG servers/NNS the/DT MPAA/NNP hopes/VBZ to/TO cripple/VB BitTorrent's/NNP ability/NN to/TO share/VB files./NN
+In/IN the/DT opening/NN days/NNS of/IN the/DT MPAA/NNP campaign/NN the/DT organisation/NN filed/VBD 100/CD lawsuits/NNS against/IN operators/NNS of/IN BitTorrent/NNP server/NN site./NN
+The/DT launching/NN of/IN the/DT legal/JJ seems/VBZ to/TO be/VB having/VBG an/DT effect./NN
+Phoenix/NNP Torrents/NNP another/DT popular/JJ BitTorrent/NNP site/NN has/VBZ also/RB decided/VBN to/TO shut/VB down/RP and/CC though/IN it/PRP gave/VBD no/DT reasons/NNS for/IN the/DT closure/NN it/PRP is/VBZ thought/VBN to/TO be/VB motivated/VBN by/IN the/DT threat/NN of/IN legal/JJ action./NN
+Last/JJ week/NN Finnish/JJ police/NN raided/VBD a/DT BitTorrent/NNP site/NN based/VBN in/IN the/DT country/NN that/IN according/VBG to/TO reports/NNS let/VBP 10000/CD users/NNS shared/VBN pirated/VBN films/NNS software/NN music/NN and/CC games./NN

@@ -1,0 +1,32 @@
+Man/NNP Utd/NNP stroll/VB to/TO Cup/NNP win/VB
+
+Wayne/NNP Rooney/NNP made/VBD a/DT winning/VBG return/NN to/TO Everton/NNP as/IN Manchester/NNP United/NNP cruised/VBD into/IN the/DT FA/NNP Cup/NNP quarter-finals./JJ
+
+Rooney/NNP received/VBD a/DT hostile/JJ reception/NN but/CC goals/NNS in/IN each/DT half/NN from/IN Quinton/NNP Fortune/NNP and/CC Cristiano/NNP Ronaldo/NNP silenced/VBD the/DT jeers/NNS at/IN Goodison/NNP Park./NNP
+Fortune/NNP headed/VBD home/NN after/IN 23/CD minutes/NNS before/IN Ronaldo/NNP scored/VBD when/WRB Nigel/NNP Martyn/NNP parried/VBD Paul/NNP Scholes'/NNP free-kick./JJ
+Marcus/NNP Bent/NNP missed/VBD Everton's/NNP best/JJS chance/NN when/WRB Roy/NNP Carroll/NNP who/WP was/VBD later/RB struck/VBN by/IN a/DT missile/NN saved/VBN at/IN his/PRP$ feet./NN
+
+Rooney's/NNP return/NN was/VBD always/RB going/VBG to/TO be/VB a/DT potential/JJ flashpoint/NN and/CC he/PRP was/VBD involved/VBN in/IN an/DT angry/JJ exchange/NN with/IN a/DT spectator/NN even/RB before/IN kick-off./JJ
+And/CC Rooney's/NNP every/DT touch/NN was/VBD met/VBN with/IN a/DT deafening/VBG chorus/NN of/IN jeers/NNS from/IN the/DT crowd/NN that/WDT once/RB idolised/VBN the/DT 19-year-old./JJ
+Everton/NNP started/VBD brightly/RB and/CC Fortune/NNP needed/VBD to/TO be/VB alert/VBN to/TO scramble/VB away/RB a/DT header/NN from/IN Bent/NNP near/IN the/DT goal-line./JJ
+But/CC that/DT was/VBD the/DT cue/NN for/IN United/NNP to/TO take/VB complete/JJ control/NN with/IN a/DT supreme/JJ passing/NN display/NN on/IN a/DT Goodison/NNP Park/NNP pitch/NN that/WDT was/VBD cutting/VBG up./NN
+Fortune/NNP gave/VBD United/NNP the/DT lead/NN after/IN 23/CD minutes/NNS rising/VBG to/TO meet/VB Ronaldo's/NNP cross/VB from/IN eight/CD yards/NNS after/IN the/DT Portuguese/NNP youngster/NN had/VBD been/VBN allowed/VBN too/RB much/JJ time/NN and/CC space/NN by/IN the/DT hapless/JJ Gary/NNP Naysmith./NNP
+United/NNP dominated/VBD without/IN creating/VBG too/RB many/JJ clear-cut/JJ chances/NNS and/CC they/PRP almost/RB paid/VBD the/DT price/NN for/IN not/RB making/VBG the/DT most/JJS of/IN their/PRP$ domination/NN two/CD minutes/NNS before/IN half-time./JJ
+Mikel/NNP Arteta/NNP played/VBD a/DT superb/NN ball/NN into/IN the/DT area/NN but/CC Bent/NNP played/VBD onside/NN by/IN Gabriel/NNP Heintze/NNP hesitated/VBD and/CC Carroll/NNP plunged/VBD at/IN his/PRP$ fee/NN to/TO save./VB
+United/NNP almost/RB doubled/VBD their/PRP$ lead/NN after/IN 48/CD minutes/NNS when/WRB Ronaldo's/NNP low/JJ drive/NN from/IN 25/CD yards/NNS took/VBD a/DT deflection/NN off/RP Tony/NNP Hibbert/NNP but/CC Martyn/NNP dived/VBD to/TO save/VB brilliantly./NN
+And/CC Martyn/NNP came/VBD to/TO Everton's/NNP rescue/NN three/CD minutes/NNS later/RB when/WRB Rooney's/NNP big/JJ moment/NN almost/RB arrived/VBD as/IN he/PRP raced/VBD clean/JJ through/IN but/CC once/RB again/RB the/DT veteran/NN keeper/NN was/VBD in/IN outstanding/JJ form./NN
+But/CC there/EX was/VBD nothing/NN Martyn/NNP could/MD do/VB when/WRB United/NNP doubled/VBD their/PRP$ lead/NN after/IN 57/CD minutes/NNS as/IN they/PRP doubled/VBD their/PRP$ advantage./NN
+Scholes'/NNP free-kick/NN took/VBD a/DT deflection/NN and/CC Martyn/NNP could/MD only/RB parry/VB the/DT ball/NN out/RP for/IN Ronaldo/NNP who/WP reacted/VBD first/JJ to/TO score/VB easily./NN
+Everton's/NN problems/NNS worsened/VBN when/WRB James/NNP McFadden/NNP limped/VBD off/RP with/IN an/DT injury./NN
+And/CC there/EX may/MD be/VB further/JJ trouble/NN ahead/RB for/IN Everton/NNP after/IN goalkeeper/NN Carroll/NNP required/VBD treatment/NN after/IN he/PRP was/VBD struck/VBN on/IN the/DT head/NN by/IN a/DT missile/NN thrown/VBN from/IN behind/IN the/DT goal./NN
+Rooney's/NNP desperate/JJ search/NN for/IN a/DT goal/NN on/IN his/PRP$ return/NN to/TO Everton/NNP was/VBD halted/VBN again/RB by/IN Martyn/NNP in/IN injury-time/JJ when/WRB he/PRP outpaced/VBD Stubbs/NNP but/CC once/RB again/RB Martyn/NNP denied/VBD the/DT England/NNP striker./NN
+
+-/: Manchester/NNP United/NNP coach/NN Sir/NNP Alex/NNP Ferguson/NNP "It/NN was/VBD a/DT fantastic/JJ performance/NN by/IN us./NN
+In/IN fairness/NN I/PRP think/VBP Everton/NNP have/VBP missed/VBN a/DT couple/NN of/IN players/NNS and/CC got/VBD some/DT young/JJ players/NNS out./NN
+"The/NN boy/NN Ronaldo/NNP is/VBZ a/DT fantastic/JJ player./NN
+He's/NNP persistent/JJ and/CC never/RB gives/VBZ in./NN
+"I/NN don't/NN know/NN how/WRB many/JJ fouls/NNS he/PRP had/VBD He/PRP gets/VBZ up/RB and/CC wants/VBZ the/DT ball/NN again/RB he's/VBZ truly/RB a/DT fabulous/JJ player."/NN Everton/NNP Martyn/NNP Hibbert/NNP Yobo/NNP Stubbs/NNP Naysmith/NNP Osman/NNP Carsley/NNP Arteta/NNP Kilbane/NNP McFadden/NNP Bent./NNP
+Subs/NNP Wright/NNP Pistone/NNP Weir/NNP Plessis/NNP Vaughan./NNP
+Manchester/NNP United/NNP Carroll/NNP Gary/NNP Neville/NNP Brown/NNP Ferdinand/NNP Heinze/NNP Ronaldo/NNP Phil/NNP Neville/NNP Keane/NNP Scholes/NNP Fortune/NNP Rooney./NNP
+Subs/NNP Howard/NNP Giggs/NNP Smith/NNP Miller/NNP Spector./NNP
+Referee/NNP R/NN Styles/NNS (Hampshire)/NN

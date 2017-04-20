@@ -1,0 +1,14 @@
+'Post-Christmas/JJ lull'/NN in/IN lending/NN
+
+UK/NNP mortgage/NN lending/NN showed/VBD a/DT "post-Christmas/JJ lull"/NN in/IN January/NNP indicating/VBG a/DT slowing/VBG housing/NN market/NN lenders/NNS have/VBP said./NN
+
+Both/DT the/DT Council/NNP of/IN Mortgage/NNP Lenders/NNP (CML)/NN and/CC Building/NNP Society/NNP Association/NNP (BSA)/NN said/VBD lending/NN was/VBD down/RB sharply./NN
+The/DT CML/NNP said/VBD gross/JJ mortgage/NN lending/NN stood/VBD at/IN £17.9bn/CD compared/VBN with/IN £21.8bn/CD in/IN January/NNP last/JJ year./NN
+The/DT BSA/NNP said/VBD mortgage/NN approvals/NNS -/: loans/NNS approved/VBN but/CC not/RB yet/RB made/VBN -/: were/VBD £2bn/CD down/RB from/IN £2.6bn/CD in/IN January/NNP 2004./CD
+
+At/IN the/DT same/JJ time/NN the/DT British/NNP Bankers'/NNP Association/NNP (BBA)/NN said/VBD lending/NN was/VBD "weaker"./NN
+Overall/RB the/DT BBA/NNP said/VBD mortgage/NN lending/NN rose/VBD by/IN £4bn/CD in/IN January/NNP a/DT far/RB smaller/JJR increase/NN than/IN the/DT £5.1bn/CD seen/VBN in/IN December./NNP
+This/DT was/VBD a/DT return/NN to/TO the/DT "weaker/NN pattern"/NN of/IN lending/NN seen/VBN in/IN the/DT last/JJ months/NNS of/IN 2004/CD the/DT BBA/NNP added./NN
+However/RB it/PRP is/VBZ the/DT year-on-year/JJ lending/NN comparisons/NNS which/WDT are/VBP the/DT most/JJS striking./NN
+The/DT CML/NNP said/VBD lending/NN for/IN house/NN purchases/NNS and/CC gross/JJ mortgage/NN lending/NN were/VBD 29%/CD and/CC 18%/CD lower/JJR year-on-year/JJ respectively./NN
+"These/NN figures/NNS show/VBP beyond/IN doubt/NN the/DT recent/JJ slowdown/NN in/IN the/DT housing/NN market"/NN Peter/NNP Williams/NNP CML/NNP deputy/NN director/NN said./NN

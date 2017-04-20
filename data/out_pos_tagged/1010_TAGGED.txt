@@ -1,0 +1,16 @@
+Green/NNP fear/NN for/IN transport/NN ballot/NN
+
+The/DT Green/NNP Party/NNP is/VBZ concerned/VBN thousands/NNS of/IN residents/NNS may/MD not/RB be/VB able/JJ to/TO vote/VB in/IN Edinburgh's/NNP transport/NN referendum./NN
+
+Edinburgh/NNP City/NNP Council/NNP is/VBZ to/TO ballot/VB constituents/NNS on/IN proposals/NNS to/TO introduce/VB congestion/NN charging/VBG in/IN the/DT capital./NN
+But/CC Green/NNP MSP/NNP Mark/NNP Ballard/NNP fears/NNS people/NNS not/RB on/IN the/DT council's/NNS edited/VBD electoral/JJ register/NN may/MD miss/VB out./NN
+Local/JJ authorities/NNS can/MD only/RB send/VB ballot/NN papers/NNS to/TO those/DT on/IN the/DT edited/VBN list/NN over/IN non-statutory/JJ matters/NNS such/JJ as/IN the/DT transport/NN referendum./NN
+Therefore/RB residents/NNS who/WP have/VBP exercised/VBN their/PRP$ right/NN to/TO have/VB their/PRP$ details/NNS left/VBN off/RP the/DT list/NN could/MD miss/VB the/DT chance/NN to/TO vote./VB
+
+However/RB there/EX is/VBZ still/RB time/NN for/IN those/DT who/WP are/VBP not/RB on/IN the/DT list/NN to/TO contact/VB the/DT council/NN and/CC make/VB sure/JJ they/PRP are/VBP sent/VBN ballot/NN forms/NNS ahead/RB of/IN February's/NNP voting/NN deadline./NN
+Mr/NNP Ballard/NNP said/VBD "This/NN vote/NN will/MD set/VB the/DT future/NN of/IN transport/NN in/IN Edinburgh/NNP for/IN decades/NNS to/TO come./VB
+"It/NN is/VBZ therefore/RB vital/JJ that/IN as/IN many/JJ residents/NNS as/IN possible/JJ in/IN Edinburgh/NNP City/NNP and/CC the/DT surrounding/VBG areas/NNS are/VBP registered/VBN to/TO vote/VB in/IN the/DT ballot./NN
+"Many/NN people/NNS are/VBP not/RB aware/JJ that/IN they/PRP may/MD miss/VB out/RP on/IN their/PRP$ chance/NN to/TO have/VB a/DT say./NN
+"Everyone/NN involved/VBN in/IN this/DT debate/NN -/: both/DT for/IN and/CC against/IN -/: wants/VBZ the/DT ballot/NN to/TO be/VB as/RB fair/JJ and/CC representative/NN as/IN possible/JJ and/CC that/DT means/VBZ encouraging/VBG people/NNS to/TO take/VB part."/NN The/DT ballot/NN will/MD ask/VB residents/NNS to/TO vote/VB for/IN or/CC against/IN the/DT council's/NNS proposed/VBD congestion/NN charge/NN scheme/NN and/CC a/DT host/NN of/IN transport/NN improvements/NNS to/TO be/VB funded/VBN by/IN it./NN
+The/DT outcome/NN of/IN the/DT referendum/NN will/MD be/VB known/VBN next/JJ month/NN after/IN the/DT ballot/NN forms/NNS are/VBP sent/VBN out/RB and/CC returned/VBN to/TO the/DT council./NN
+Towards/IN the/DT end/NN of/IN February/NNP the/DT council/NN will/MD meet/VB to/TO decide/VB whether/IN to/TO proceed/VB with/IN an/DT application/NN to/TO Scottish/NNP ministers/NNS for/IN approval/NN for/IN its/PRP$ planned/VBN congestion/NN charging/VBG scheme/NN and/CC the/DT other/JJ parts/NNS of/IN its/PRP$ transport/NN package./NN

@@ -1,0 +1,16 @@
+Dollar/NN hits/VBZ new/JJ low/JJ versus/CC euro/NN
+
+The/DT US/PRP dollar/VBP has/VBZ continued/VBN its/PRP$ record-breaking/JJ slide/NN and/CC has/VBZ tumbled/VBN to/TO a/DT new/JJ low/NN against/IN the/DT euro./NN
+
+Investors/NNS are/VBP betting/VBG that/IN the/DT European/NNP Central/NNP Bank/NNP (ECB)/NN will/MD not/RB do/VB anything/NN to/TO weaken/VB the/DT euro/NN while/IN the/DT US/PRP is/VBZ thought/VBN to/TO favour/VB a/DT declining/VBG dollar./NN
+The/DT US/PRP is/VBZ struggling/VBG with/IN a/DT ballooning/NN trade/NN deficit/NN and/CC analysts/NNS said/VBD one/CD of/IN the/DT easiest/JJS ways/NNS to/TO fund/VB it/PRP was/VBN by/IN allowing/VBG a/DT depreciation/NN of/IN the/DT dollar./NN
+They/PRP have/VBP predicted/VBN that/IN the/DT dollar/NN is/VBZ likely/JJ to/TO fall/VB even/RB further./NN
+
+The/DT US/PRP currency/VBP was/VBD trading/VBG at/IN $1.364/CD per/IN euro/NN at/IN 1800/CD GMT/NNP on/IN Monday./NNP
+This/DT compares/VBZ with/IN $1.354/CD to/TO the/DT euro/NN in/IN late/JJ trading/NN in/IN New/NNP York/NNP on/IN Friday/NNP which/WDT was/VBD then/RB a/DT record/NN low./NN
+
+The/DT dollar/NN has/VBZ weakened/VBN sharply/RB since/IN September/NNP when/WRB it/PRP traded/VBD about/IN $1.20/CD against/IN the/DT euro./NN
+It/PRP has/VBZ lost/VBN 7%/CD this/DT year/NN while/IN against/IN the/DT Japanese/JJ yen/NNS it/PRP is/VBZ down/RB 3.2%./CD
+Traders/NNS said/VBD that/IN thin/JJ trading/NN levels/NNS had/VBD amplified/VBN Monday's/NNP move./NN
+"It's/NN not/RB going/VBG to/TO take/VB much/JJ to/TO push/VB [the/NN dollar]/NN one/CD way/NN or/CC the/DT other"/NN said/VBD Grant/NNP Wilson/NNP of/IN Mellon/NNP Bank./NNP
+Liquidity/NN -/: a/DT measure/NN of/IN the/DT number/NN of/IN parties/NNS willing/JJ to/TO trade/VB in/IN the/DT market/NN -/: was/VBD about/IN half/NN that/IN of/IN a/DT normal/JJ working/JJ day/NN traders/NNS said./NN

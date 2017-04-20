@@ -1,0 +1,13 @@
+Kraft/NN cuts/VBZ snack/NN ads/NNS for/IN children/NNS
+
+Kraft/NNP plans/VBZ to/TO cut/VB back/RB on/IN advertising/NN of/IN products/NNS like/IN Oreo/NNP cookies/NNS and/CC sugary/JJ Kool-Aid/NNP drinks/NNS as/IN part/NN of/IN an/DT effort/NN to/TO promote/VB healthy/JJ eating./NN
+
+The/DT largest/JJS US/PRP food/VBP maker/NN will/MD also/RB add/VB a/DT label/NN to/TO its/PRP$ more/RBR nutritional/JJ and/CC low-fat/JJ brands/NNS to/TO promote/VB the/DT benefits./NN
+Kraft/NNP rival/JJ PepsiCo/NNP began/VBD a/DT similar/JJ labelling/NN initiative/NN last/JJ year./NN
+The/DT moves/NNS come/VBP as/IN the/DT firms/NNS face/VBP criticism/NN from/IN consumer/NN groups/NNS concerned/VBN at/IN rising/VBG levels/NNS of/IN obesity/NN in/IN US/PRP children./VBP
+Major/NNP food/NN manufacturers/NNS have/VBP recently/RB been/VBN reformulating/VBG the/DT content/NN of/IN some/DT calorie-heavy/JJ products./NN
+
+Kraft's/NNP new/JJ advertising/NN policy/NN which/WDT covers/VBZ advertising/NN on/IN TV/NN radio/NN and/CC in/IN print/NN publications/NNS is/VBZ aimed/VBN at/IN children/NNS between/IN the/DT ages/NNS of/IN six/CD and/CC 11./CD
+It/PRP means/VBZ commercials/NNS for/IN some/DT of/IN its/PRP$ most/RBS famous/JJ snacks/NNS and/CC cereals/NNS shown/VBN during/IN early/JJ morning/NN cartoon/NN shows/VBZ on/IN TV/NN will/MD now/RB be/VB replaced/VBN by/IN food/NN and/CC drink/NN qualifying/VBG for/IN Kraft's/NNP new/JJ "Sensible/JJ Solution"/NNP label./NN
+But/CC the/DT firm/NN said/VBD it/PRP would/MD continue/VB to/TO advertise/VB all/DT its/PRP$ products/NNS in/IN media/NNS seen/VBN by/IN parents/NNS and/CC "all/NN family"/NN audiences./NN
+"We're/NN working/VBG on/IN ways/NNS to/TO encourage/VB both/DT adults/NNS and/CC children/NNS to/TO eat/VB wisely/RB by/IN selecting/VBG more/RBR nutritionally/RB balanced/JJ diets"/NN said/VBD Lance/NNP Friedmann/NNP Kraft/NNP senior/JJ vice/NN president./NN

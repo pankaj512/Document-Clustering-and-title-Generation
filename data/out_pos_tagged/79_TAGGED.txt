@@ -1,0 +1,16 @@
+ID/NNP theft/NN surge/NN hits/NNS US/PRP consumers/VBZ
+
+Almost/RB a/DT quarter/NN of/IN a/DT million/CD US/PRP consumers/VBZ complained/VBD of/IN being/VBG targeted/VBN for/IN identity/NN theft/NN in/IN 2004/CD official/JJ figures/NNS suggest./NN
+
+The/DT Federal/NNP Trade/NNP Commission/NNP said/VBD two/CD in/IN five/CD of/IN the/DT 635173/CD reports/NNS it/PRP had/VBD from/IN consumers/NNS concerned/VBD ID/NNP fraud./NN
+ID/NNP theft/NN occurs/VBZ when/WRB criminals/NNS use/VBP someone/NN else's/NNS personal/JJ information/NN to/TO steal/VB credit/NN or/CC commit/VB other/JJ crimes./NN
+Internet/NN auctions/NNS were/VBD the/DT second/JJ biggest/JJS source/NN of/IN fraud/NN complaints/NNS comprising/VBG 16%/CD of/IN the/DT total./NN
+The/DT total/JJ cost/NN of/IN fraud/NN reported/VBN by/IN consumers/NNS was/VBD $546m/CD (£290m)./CD
+
+The/DT report/NN marks/VBZ the/DT fifth/JJ year/NN in/IN a/DT row/NN in/IN which/WDT identity/NN fraud/NN has/VBZ topped/VBN the/DT table./NN
+The/DT biggest/JJS slice/NN of/IN the/DT 246570/CD ID/NNP fraud/NN cases/NNS reported/VBD -/: almost/RB 30%/CD -/: concerned/VBN abuses/NNS of/IN people's/NNS credit./NN
+Misusing/NN someone's/NNS identity/NN to/TO claim/VB new/JJ credit/NN cards/NNS or/CC loans/NNS comprised/VBD 16.5%/CD of/IN the/DT total/JJ with/IN almost/RB 12%/CD coming/VBG from/IN false/JJ claims/NNS on/IN existing/VBG credit./NN
+Another/DT 18%/CD came/VBD from/IN attempts/NNS to/TO rip/VB off/RP people's/NNS bank/NN accounts/NNS while/IN 13%/CD of/IN cases/NNS concerned/VBD attempts/NNS to/TO defraud/VB employers/NNS by/IN abusing/VBG someone/NN else's/NNS identity./NN
+Outside/IN the/DT field/NN of/IN ID/NNP theft/NN 53%/CD of/IN the/DT near-400000/CD complaints/NNS were/VBD internet-related./JJ
+Among/IN the/DT 100000/CD internet/JJ auction/NN complaints/NNS the/DT failure/NN of/IN sellers/NNS to/TO deliver/VB or/CC the/DT supply/NN of/IN sub-standard/JJ goods/NNS were/VBD the/DT most/RBS common/JJ woes/NNS reported./NN
+Catalogue/NN and/CC home-shopping/NN frauds/NNS were/VBD next/JJ in/IN line/NN accounting/VBG for/IN 8%/CD of/IN total/JJ complaints/NNS while/IN concerns/NNS about/IN internet/JJ services/NNS and/CC computers/NNS -/: including/VBG spyware/NN found/VBD on/IN people's/NNS PCs/NNS and/CC undisclosed/JJ charges/NNS for/IN websites/NNS -/: amounted/VBD to/TO 6%/CD of/IN complaints./NN

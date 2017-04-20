@@ -1,0 +1,19 @@
+McDonald's/NN to/TO sponsor/VB MTV/NNP show/NN
+
+McDonald's/VBG the/DT world's/NNS largest/JJS restaurant/NN chain/NN is/VBZ to/TO sponsor/VB a/DT programme/NN on/IN music/NN channel/NN MTV/NNP as/IN part/NN of/IN its/PRP$ latest/JJS youth/NN market/NN promotion./NN
+
+The/DT show/NN Advance/NNP Warning/NN highlights/VBZ new/JJ talent/NN and/CC MTV/NNP reckons/VBZ it/PRP will/MD give/VB McDonald's/NNP access/NN to/TO nearly/RB 400/CD million/CD homes/NNS in/IN 162/CD countries./NN
+McDonald's/NNP golden/JJ arches/NNS name/NN and/CC "I'm/NN loving/VBG it"/NN catchphrase/NN will/MD be/VB used/VBN throughout/IN the/DT half-hour/JJ programme./NN
+The/DT move/NN comes/VBZ amid/IN growing/VBG concerns/NNS about/IN obesity/NN in/IN Europe/NNP and/CC the/DT US./NNP
+
+The/DT European/NNP Union/NNP has/VBZ called/VBN on/IN the/DT food/NN industry/NN to/TO reduce/VB the/DT number/NN of/IN adverts/NNS aimed/VBN at/IN young/JJ children/NNS warning/VBG that/DT legislation/NN would/MD be/VB introduced./NN
+unless/IN voluntary/JJ steps/NNS were/VBD taken./NN
+In/IN the/DT US/PRP food/VBP group/NN Kraft/NNP is/VBZ among/IN firms/NNS that/WDT already/RB have/VBP cut/VBN back/RB on/IN promoting/VBG sugar/NN and/CC fattening/NN products/NNS to/TO the/DT young./NN
+McDonalds/NNP has/VBZ also/RB been/VBN taking/VBG steps/NNS to/TO improve/VB its/PRP$ junk/NN food/NN reputation/NN revamping/VBG its/PRP$ menu/NN and/CC providing/VBG clients/NNS with/IN health-related/JJ products/NNS such/JJ as/IN pedometers./NN
+As/RB well/RB as/IN burgers/NNS like/IN the/DT Big/NNP Mac/NNP and/CC Quarter/NN Pounder/NNP with/IN Cheese/NNP the/DT company/NN now/RB sells/VBZ healthier/JJR options/NNS such/JJ as/IN salads/NNS and/CC fresh/JJ fruit./NN
+Chief/NNP executive/NN Jim/NNP Skinner/NNP attributed/VBD an/DT 8.3%/CD increase/NN in/IN January/NNP worldwide/NN sales/NNS to/TO the/DT "vitality/NN of/IN our/PRP$ menu"/NN among/IN other/JJ things./NN
+
+Hooking/VBG up/RP with/IN MTV/NNP is/VBZ expected/VBN to/TO add/VB extra/JJ momentum/NN to/TO McDonald's/NNP recent/JJ revival./NN
+MTV/NNP which/WDT played/VBD a/DT key/JJ role/NN in/IN the/DT emergence/NN of/IN the/DT music/NN video/NN is/VBZ to/TO show/VB Advance/NNP Warning/NN on/IN all/DT 25/CD of/IN its/PRP$ channels/NNS across/IN the/DT world./NN
+The/DT programme/NN can/MD at/IN present/JJ only/RB been/VBN seen/VBN in/IN the/DT US/PRP where/WRB it/PRP has/VBZ featured/VBN artists/NNS like/IN British/JJ stars/NNS Joss/NNP Stone/NNP and/CC Franz/NNP Ferdinand./NNP
+McDonald's/NNP has/VBZ targeted/VBN the/DT youth/NN market/NN in/IN the/DT past/JJ with/IN its/PRP$ advertisements/NNS signing/VBG up/RP stars/NNS like/IN jelly-legged/JJ dancer/NN Justin/NNP Timberlake/NNP and/CC all-woman/JJ singing/VBG group/NN Destiny's/NNP Child./NNP

@@ -1,0 +1,21 @@
+Building/NNP giant/JJ in/IN asbestos/NN payout/NN
+
+Australian/JJ building/NN products/NNS group/NN James/NNP Hardie/NNP has/VBZ agreed/VBN to/TO pay/VB $1.1bn/CD (£568m)/CD to/TO victims/NNS of/IN asbestos-related/JJ diseases./JJ
+
+The/DT landmark/NN deal/NN could/MD see/VB thousands/NNS of/IN people/NNS suffering/VBG from/IN lung/NN diseases/NNS -/: caused/VBN by/IN asbestos/NN the/DT company/NN once/RB made/VBD -/: receive/VB compensation./NN
+The/DT move/NN follows/VBZ angry/JJ protests/NNS after/IN the/DT firm/NN said/VBD a/DT previous/JJ compensation/NN fund/NN was/VBD running/VBG out/IN of/IN money./NN
+A/DT subsequent/JJ New/NNP South/NNP Wales/NNP state/NN inquiry/NN criticised/VBN Hardie's/NNP actions./NN
+In/IN September/NNP the/DT inquiry/NN found/VBD that/IN the/DT company/NN had/VBD misled/VBN the/DT public/NN about/IN the/DT amount/NN of/IN money/NN set/VBN aside/RB to/TO cover/VB its/PRP$ asbestos-related/JJ liabilities/NNS sparking/VBG the/DT resignation/NN of/IN its/PRP$ then/RB chief/JJ executive/NN Peter/NNP MacDonald./NNP
+
+Campaigners/NNP welcomed/VBD news/NN of/IN the/DT preliminary/JJ agreement./NN
+"This/NN is/VBZ a/DT momentous/JJ day/NN in/IN the/DT fight/NN for/IN victims/NNS and/CC their/PRP$ families"/NN said/VBD asbestosis/NN sufferer/NN Bernie/NNP Banton/NNP who/WP leads/VBZ a/DT victims'/NN association./NN
+"There/NN is/VBZ still/RB a/DT long/JJ way/NN to/TO go/VB but/CC we/PRP are/VBP getting/VBG there."/NN James/NNP Hardie/NNP chairwoman/NN Meredith/NNP Hellicar/NNP said/VBD the/DT deal/NN provided/VBN for/IN a/DT funding/NN arrangement/NN "that/NN is/VBZ affordable/JJ sensible/JJ and/CC workable"./NN
+"At/NN the/DT end/NN of/IN the/DT day/NN we/PRP are/VBP dealing/VBG with/IN compensation/NN for/IN people/NNS who/WP are/VBP terminally/RB ill./NN
+We/PRP don't/VBP know/NN exactly/RB how/WRB many/JJ of/IN them/PRP there/EX will/MD be/VB we/PRP don't/VBP know/NN over/IN what/WP exact/JJ period/NN they/PRP will/MD fall/VB ill"/NN she/PRP said./VBP
+However/RB the/DT deal/NN still/RB has/VBZ to/TO receive/VB the/DT approval/NN of/IN Hardie's/NNP shareholders./NN
+
+Hardie/NNP which/WDT currently/RB makes/VBZ more/JJR than/IN 80%/CD of/IN its/PRP$ revenues/NNS in/IN the/DT US/PRP was/VBD once/RB Australia's/NNP biggest/JJS supplier/NN of/IN asbestos/NN building/NN materials./NN
+In/IN 2001/CD the/DT company/NN set/VBD up/RP a/DT fund/NN to/TO compensate/VB asbestos/NN victims/NNS but/CC it/PRP later/RB admitted/VBD the/DT fund/NN was/VBD running/VBG short/JJ of/IN money./NN
+A/DT decision/NN by/IN Hardie/NNP to/TO move/VB its/PRP$ headquarters/NN to/TO the/DT Netherlands/NNP -/: while/IN remaining/VBG a/DT listed/VBN company/NN in/IN Australia/NNP -/: provoked/VBN a/DT damaging/JJ public/JJ outcry./NN
+Victims/NNS groups/NNS accusing/VBG it/PRP of/IN trying/VBG to/TO escape/VB its/PRP$ responsibilities/NNS by/IN moving/VBG abroad/RB a/DT charge/NN the/DT company/NN denies./NN
+Australia's/NN securities/NNS watchdog/NN is/VBZ currently/RB investigating/VBG Hardie's/NNP former/JJ chief/JJ executive/NN and/CC former/JJ chief/JJ financial/JJ officer/NN over/IN allegations/NNS of/IN misleading/JJ investors/NNS and/CC the/DT general/JJ public./NN

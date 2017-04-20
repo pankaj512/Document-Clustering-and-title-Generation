@@ -1,0 +1,32 @@
+Election/NNP deal/NN faltered/VBD over/IN Heath/NNP role/NN
+
+The/DT Tories/NNPS failed/VBD to/TO hold/VB onto/IN power/NN in/IN 1974/CD after/IN Liberals/NNS demanded/VBD Sir/NNP Edward/NNP Heath/NNP quit/VBD in/IN return/NN for/IN co-operation./JJ
+
+Documents/NNS released/VBN after/IN 30/CD years/NNS reveal/VBP the/DT failed/VBN negotiations/NNS by/IN the/DT then/RB prime/JJ minister/NN following/VBG the/DT dramatic/JJ February/NNP general/JJ election./NN
+Liberal/NNP leader/NN Jeremy/NNP Thorpe/NNP appeared/VBD willing/JJ to/TO form/VB a/DT coalition/NN government./NN
+But/CC it/PRP partly/RB collapsed/VBD over/IN the/DT Conservative/JJ leader's/NNS own/JJ role/NN prompting/VBG the/DT Queen/NNP to/TO ask/VB Harold/NNP Wilson/NNP to/TO form/VB a/DT Labour/NNP government./NN
+The/DT February/NNP 1974/CD general/JJ election/NN surprised/VBD the/DT nation/NN when/WRB it/PRP created/VBD a/DT hung/VBN parliament/NN with/IN no/DT party/NN in/IN overall/JJ control./NN
+Sir/NNP Edward/NNP had/VBD gone/VBN to/TO the/DT country/NN for/IN a/DT fresh/JJ mandate/NN amid/IN the/DT spiralling/VBG economic/JJ crisis/NN a/DT miners'/NN strike/NN and/CC the/DT subsequent/JJ three-day/JJ week./NN
+Labour/NNP emerged/VBD with/IN the/DT most/JJS seats/NNS -/: but/CC its/PRP$ 301/CD MPs/NNP were/VBD 17/CD short/JJ of/IN the/DT number/NN Mr/NNP Wilson/NNP needed/VBD to/TO form/VB a/DT majority./NN
+
+Sir/NNP Edward/NNP who/WP had/VBD received/VBN more/JJR votes/NNS but/CC had/VBD fewer/JJR MPs/NNP believed/VBD he/PRP had/VBD the/DT authority/NN to/TO remain/VB at/IN Number/NN 10/CD providing/VBG the/DT 14/CD Liberal/NNP MPs/NNP would/MD support/VB his/PRP$ government./NN
+He/PRP said/VBD the/DT Liberals/NNS could/MD keep/VB out/RP Labour/NNP in/IN three/CD ways/NNS lend/VBP ad/NN hoc/FW support/NN to/TO his/PRP$ minority/NN government/NN help/NN draw/VB up/RP the/DT government's/NNS programme/NN or/CC have/VBP up/IN to/TO three/CD Cabinet/NNP members/NNS in/IN a/DT coalition/NN with/IN the/DT Conservatives./NNP
+According/VBG to/TO the/DT documents/NNS released/VBN at/IN the/DT National/NNP Archives/NNPS the/DT "friendly/RB and/CC easy"/NN first/JJ meeting/NN indicated/VBD that/IN both/DT Sir/NNP Edward/NNP and/CC Mr/NNP Thorpe/NNP thought/VBD they/PRP had/VBD the/DT makings/NNS of/IN a/DT deal./NN
+Mr/NNP Thorpe/NNP was/VBD in/IN high/JJ spirits/NNS having/VBG just/RB led/VBN his/PRP$ party/NN to/TO a/DT historic/JJ jump/NN in/IN support./NN
+He/PRP also/RB argued/VBD for/IN a/DT grand/JJ coalition/NN of/IN all/DT three/CD main/JJ parties./NN
+But/CC Sir/NNP Edward/NNP said/VBD that/WDT was/VBD impossible/JJ because/IN the/DT Labour/NNP left/VBD was/VBD set/VBN against/IN it/PRP and/CC the/DT pair/NN settled/VBD on/IN trying/VBG for/IN a/DT Conservative-Liberal/NNP pact./NN
+
+Hours/NNS later/RB Sir/NNP Edward's/NNP hopes/VBZ of/IN a/DT deal/NN unravelled/VBN as/IN Mr/NNP Thorpe's/NNP colleagues/NNS refused/VBD to/TO support/VB him./NN
+"Jeremy/NN said/VBD he/PRP was/VBD encountering/VBG a/DT rather/RB embarrassing/JJ problem/NN with/IN his/PRP$ colleagues/NNS about/IN the/DT prime/JJ minister/NN personally"/NN reads/VBZ a/DT telephone/NN memo/NN for/IN Mr/NNP Heath./NNP
+
+"They/NN feel/VBP they/PRP could/MD not/RB agree/VB to/TO serve/VB as/RB long/RB as/IN he/PRP is/VBZ the/DT prime/JJ minister./NN
+"Asked/VBN if/IN this/DT was/VBD his/PRP$ own/JJ view/NN he/PRP said/VBD -/: no/DT it/PRP was/VBD not/RB I/PRP am/VB very/RB close/RB to/TO Ted/NNP and/CC thought/VBD he/PRP was/VBD by/IN far/RB the/DT most/RBS able/JJ man/NN we/PRP had/VBD and/CC he/PRP would/MD be/VB perfectly/RB happy/JJ to/TO serve/VB -/: it/PRP was/VBD only/RB some/DT of/IN his/PRP$ colleagues/NNS who/WP were/VBD being/VBG difficult."/NN The/DT following/JJ day/NN the/DT stickling/VBG points/NNS had/VBD clearly/RB become/VB two-fold/JJ Mr/NNP Thorpe's/NNP colleagues/NNS wanted/VBD electoral/JJ reform/NN and/CC Sir/NNP Edward's/NNP resignation./NN
+Mr/NNP Thorpe/NNP told/VBD Sir/NNP Edward/NNP "I/NN am/VBP sorry/JJ this/DT is/VBZ obviously/RB hell/NN -/: a/DT nightmare/NN on/IN stilts/NNS for/IN you./NN
+"Somehow/NN I/PRP personally/RB hope/VBP that/IN we/PRP can/MD work/VB something/NN out."/NN
+
+Four/CD hours/NNS later/RB Sir/NNP Edward/NNP called/VBD the/DT Liberal/NNP leader/NN back/RB to/TO Downing/NNP Street/NNP in/IN a/DT last/JJ attempt/NN at/IN a/DT deal./NN
+The/DT minutes/NNS of/IN the/DT meeting/NN show/NN how/WRB the/DT chance/NN of/IN a/DT coalition/NN government/NN quickly/RB evaporated./NN
+"The/NNP PM/NNP said/VBD he/PRP was/VBD bound/VBN to/TO tell/VB Mr/NNP Thorpe/NNP that/IN his/PRP$ colleagues/NNS had/VBD told/VBN him/PRP that/IN they/PRP would/MD not/RB agree/VB to/TO serve/VB under/IN any/DT other/JJ prime/JJ minister./NN
+Mr/NNP Thorpe/NNP was/VBD at/IN liberty/NN to/TO verify/VB this/DT by/IN talking/VBG to/TO one/CD or/CC two/CD of/IN the/DT prime/JJ minister's/NNS colleagues."/NN Documents/NNS show/VBP that/IN Sir/NNP Edward/NNP mulled/VBD over/IN resigning/VBG and/CC perhaps/RB returning/VBG to/TO coalition/VB government/NN in/IN a/DT Labour-led/JJ coalition./NN
+But/CC he/PRP already/RB knew/VBD Mr/NNP Wilson/NNP would/MD not/RB form/VB a/DT coalition/NN with/IN either/CC the/DT Liberals/NNS or/CC the/DT Conservatives/NNS because/IN of/IN the/DT opposition/NN of/IN the/DT Labour/NNP left./NN
+Within/IN hours/NNS of/IN his/PRP$ final/JJ talks/NNS with/IN Mr/NNP Thorpe/NNP Sir/NNP Edward/NNP told/VBD the/DT nation/NN he/PRP was/VBD resigning/VBG and/CC the/DT Queen/NNP invited/VBD Mr/NNP Wilson/NNP to/TO form/VB a/DT new/JJ minority/NN government./NN

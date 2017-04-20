@@ -1,0 +1,14 @@
+Spike/NNP Lee/NNP backs/VBZ student/NN directors/NNS
+
+Film-maker/NNP Spike/NNP Lee/NNP says/VBZ black/JJ representation/NN is/VBZ stronger/RBR than/IN ever/RB in/IN cinema/NN and/CC TV/NN but/CC the/DT true/JJ power/NN in/IN entertainment/NN lies/VBZ behind/IN the/DT camera./NN
+
+The/DT She/PRP Hate/VBP Me/PRP director/VBP urged/VBD students/NNS at/IN his/PRP$ old/JJ Atlanta/NNP university/NN Morehouse/NNP College/NNP to/TO seek/VB "gatekeeper/NN positions"/NN behind/IN the/DT scenes./NN
+Lee/NNP told/VBD them/PRP to/TO "work/VB up/RP the/DT corporate/JJ ladder/NN because/IN everybody/NN can't/NN be/VB an/DT actor/NN everybody/NN can't/NN make/VB a/DT record"./NN
+He/PRP spoke/VBD as/IN part/NN of/IN a/DT discussion/NN panel/NN then/RB led/VBD a/DT retrospective/NN of/IN his/PRP$ films./NN
+
+Returning/VBG to/TO his/PRP$ old/JJ university/NN which/WDT educates/NNS only/RB African/NNP American/JJ students/NNS Lee/NNP discussed/VBD the/DT challenges/NNS facing/VBG black/JJ people/NNS in/IN the/DT entertainment/NN industry./NN
+"Even/NNP Denzel/NNP (Washington)/NN he's/NNS getting/VBG $20m/CD a/DT movie./NN
+But/CC when/WRB it/PRP comes/VBZ time/NN to/TO do/VB a/DT movie/NN he/PRP has/VBZ to/TO go/VB to/TO one/CD of/IN those/DT gatekeepers"/NN Lee/NNP said./NN
+He/PRP told/VBD aspiring/VBG young/JJ film-makers/NNS in/IN the/DT audience/NN not/RB to/TO ignore/VB non-traditional/JJ routes/NNS to/TO getting/VBG a/DT movie/NN made/VBN including/VBG raising/VBG funds/NNS independently/RB and/CC releasing/VBG films/NNS straight/JJ to/TO DVD./NNP
+"It's/NN a/DT huge/JJ market"/NN the/DT 47-year-old/JJ director/NN said./NN
+"It's/NN not/RB something/NN that/WDT should/MD be/VB looked/VBN upon/IN as/IN a/DT stepchild."/NN Lee/NNP has/VBZ made/VBN more/JJR than/IN 25/CD films/NNS including/VBG Jungle/NN Fever/NN Do/VBP the/DT Right/JJ Thing/NNP Summer/NNPS of/IN Sam/NNP and/CC 1986/CD hit/VBD She's/NNP Gotta/NNP Have/VBP It./NNP

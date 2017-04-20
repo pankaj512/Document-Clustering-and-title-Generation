@@ -1,0 +1,14 @@
+Brizzel/NN to/TO run/VB AAA's/NNP in/IN Sheffield/NNP
+
+Ballymena/NNP sprinter/NN Paul/NNP Brizzel/NNP will/MD be/VB among/IN eight/CD of/IN Ireland's/JJ European/JJ Indoor/JJ hopefuls/NNS competing/VBG in/IN this/DT weekend's/NNS AAA's/NNP Championships./NNP
+
+US-based/JJ Alistair/NNP Cragg/NNP and/CC Mark/NNP Carroll/NNP are/VBP the/DT only/JJ Irish/JJ athletes/NNS selected/VBN so/RB far/RB for/IN the/DT Europeans/NNPS who/WP will/MD not/RB run/VB in/IN Sheffield./NNP
+Brizzel/NNP will/MD defend/VB his/PRP$ 200m/CD title/NN in/IN the/DT British/JJ trials./NN
+In-form/NNP James/NNP McIlroy/NNP will/MD hope/VB to/TO confirm/VB his/PRP$ place/NN in/IN the/DT British/JJ team/NN for/IN Madrid/NNP by/IN winning/VBG the/DT 800m/CD title./NN
+McIlroy/NNP has/VBZ been/VBN in/IN tremendous/JJ form/NN on/IN the/DT European/JJ circuit/NN in/IN recent/JJ weeks./NN
+He/PRP is/VBZ one/CD of/IN the/DT fastest/JJS 800m/CD runners/NNS in/IN the/DT world/NN this/DT winter/NN and/CC already/RB seems/VBZ assured/VBN of/IN a/DT place/NN in/IN Madrid./NNP
+Corkman/NNP Mark/NNP Carroll/NNP confirmed/VBD in/IN midweek/JJ that/IN he/PRP would/MD join/VB Cragg/NNP in/IN the/DT European/NNP Championships./NNP
+Carroll/NNP is/VBZ ranked/VBN number/NN three/CD in/IN the/DT world/NN 3000m/CD ranking/JJ at/IN the/DT moment/NN with/IN Cragg/NNP occupying/VBG top/JJ spot./NN
+Meanwhile/RB nine-times/NNS champion/NN Dermot/NNP Donnelly/NNP will/MD not/RB be/VB coming/VBG out/IN of/IN retirement/NN to/TO compete/VB in/IN the/DT Northern/NNP Ireland/NNP Cross/NNP Country/NNP Championships/NNS in/IN Coleraine/NNP on/IN Saturday./NNP
+An/DT injury/NN crisis/NN in/IN the/DT Annadale/NNP Striders/NNP squad/NN led/VBD to/TO Donnelly/NNP being/VBG entered/VBN by/IN coach/NN John/NNP McLaughlin/NNP but/CC the/DT athlete/NN told/VBD BBC/NNP Sport/NNP on/IN Friday/NNP evening/NN that/IN he/PRP would/MD not/RB be/VB running./NN
+Willowfield's/NNP Paul/NNP Rowan/NNP will/MD go/VB in/IN as/RB individual/JJ favourite/NN but/CC Annadale/NNP could/MD have/VB a/DT tough/JJ job/NN holding/VBG on/RP to/TO their/PRP$ team/NN title/NN as/IN Andrew/NNP Dunwoody/NNP and/CC Noel/NNP Pollock/NNP are/VBP unlikely/JJ to/TO run./VB

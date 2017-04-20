@@ -1,0 +1,26 @@
+Observers/NNS to/TO monitor/VB UK/NNP election/NN
+
+Ministers/NNS will/MD invite/VB international/JJ observers/NNS to/TO check/VB the/DT forthcoming/JJ UK/NNP general/JJ election/NN is/VBZ fairly/RB run./NN
+
+The/DT move/NN comes/VBZ amid/IN claims/NNS the/DT poll/NN could/MD be/VB marred/VBN by/IN electoral/JJ fraud./NN
+A/DT report/NN by/IN two/CD MPs/NNP committees/NNS called/VBN on/IN Thursday/NNP for/IN urgent/NN changes/NNS to/TO the/DT electoral/JJ registration/NN system/NN to/TO combat/VB vote/NN rigging/VBG and/CC boost/VB turnout./NN
+But/CC in/IN a/DT written/VBN response/NN to/TO Labour/NNP MP/NNP Gordon/NNP Prentice/NNP the/DT government/NN said/VBD it/PRP would/MD normally/RB invite/VB observers/NNS to/TO any/DT UK/NNP election./NN
+
+Junior/NN constitutional/JJ affairs/NNS minister/NN Christopher/NNP Leslie/NNP said/VBD "I/NN fully/RB expect/VBP us/PRP to/TO repeat/VB our/PRP$ previous/JJ practice/NN of/IN doing/VBG so/RB once/RB the/DT date/NN for/IN the/DT next/JJ general/JJ election/NN is/VBZ announced."/VBG The/DT government/NN has/VBZ looked/VBN at/IN ways/NNS of/IN boosting/VBG voter/NN turnout/NN which/WDT fell/VBD to/TO 59%/CD in/IN the/DT last/JJ general/JJ election/NN in/IN 2001./CD
+
+But/CC trial/NN all-postal/JJ ballots/NNS in/IN four/CD English/JJ regions/NNS last/JJ summer/NN were/VBD hit/VBN by/IN delays/NNS and/CC some/DT fraud/NN allegations./NN
+Liberal/NNP Democrat/NNP peer/VB Lord/NNP Greaves/NNP called/VBD last/JJ week/NN for/IN international/JJ observers/NNS at/IN the/DT general/JJ election/NN -/: saying/VBG otherwise/RB there/EX could/MD be/VB months/NNS of/IN court/NN challenges/NNS "on/VBP a/DT scale/NN not/RB seen/VBN since/IN the/DT 19th/JJ Century"./NNP
+Thursday's/NNP report/NN was/VBD drawn/VBN up/RP by/IN two/CD committees/NNS scrutinising/VBG the/DT work/NN of/IN the/DT Office/NNP of/IN the/DT Deputy/NNP Prime/NNP Minister/NNP (ODPM)/NN and/CC the/DT Department/NNP for/IN Constitutional/NNP Affairs/NNP (DCA)./NN
+It/PRP said/VBD that/IN with/IN the/DT growth/NN of/IN postal/JJ voting/NN there/EX was/VBD a/DT strong/JJ case/NN to/TO tighten/VB up/RP fraud/NN protection/NN by/IN requiring/VBG voters/NNS to/TO register/VB individually/RB rather/RB than/IN by/IN household./NN
+It/PRP also/RB said/VBD about/IN three/CD million/CD people/NNS eligible/JJ to/TO vote/VB are/VBP not/RB registered/VBN to/TO do/VB so./NN
+
+Figures/NNS for/IN the/DT 2001/CD general/JJ election/NN suggest/VBP 29%/CD of/IN people/NNS aged/VBN between/IN 18/CD and/CC 24/CD and/CC 19%/CD of/IN black/JJ voters/NNS were/VBD not/RB on/IN the/DT electoral/JJ roll./NN
+Young/NN people/NNS in/IN shared/VBN accommodation/NN are/VBP thought/VBN to/TO miss/VB out/RP because/IN no/DT one/NN acts/NNS as/IN head/NN of/IN the/DT household/NN to/TO fill/VB in/IN the/DT form./NN
+ODPM/NNP committee/NN chairman/NN Andrew/NNP Bennett/NNP said/VBD individual/JJ voter/NN registration/NN as/IN opposed/VBN to/TO registration/VB by/IN household/NN should/MD be/VB quickly/RB introduced/VBN as/IN it/PRP could/MD "dramatically/RB reduce/VB the/DT chances/NNS of/IN fraud"./NN
+But/CC his/PRP$ counterpart/NN on/IN the/DT DCA/NNP committee/NN Alan/NNP Beith/NNP said/VBD it/PRP should/MD be/VB delayed/VBN "until/NN measures/NNS likely/JJ to/TO increase/VB registration/NN have/VBP been/VBN put/VBN in/IN place/NN and/CC proved/VBD effective."/NN Shadow/NNP Constitutional/NNP Affairs/NNP Secretary/NNP Oliver/NNP Heald/NNP accused/VBD the/DT government/NN of/IN "dragging/VBG its/PRP$ feet"/NN over/IN "this/NN badly/RB needed/VBD measure"./NN
+"It/NN is/VBZ vital/JJ that/IN we/PRP move/VBP ahead/RB with/IN the/DT Northern/NNP Ireland/NNP system/NN of/IN individual/JJ electoral/JJ registration/NN to/TO safeguard/VB the/DT integrity/NN of/IN the/DT Britain's/NNP electoral/JJ system"/NN he/PRP said./VB
+
+The/DT report/NN said/VBD individual/JJ registration/NN should/MD be/VB treated/VBN carefully/RB as/IN 12%/CD of/IN voters/NNS disappeared/VBD from/IN the/DT electoral/JJ roll/NN in/IN Northern/JJ Ireland/NNP when/WRB it/PRP was/VBD introduced/VBN in/IN 2002./CD
+The/DT report/NN said/VBD the/DT government/NN should/MD consider/VB fines/NNS for/IN unregistered/JJ voters/NNS but/CC accepted/VBD many/JJ experts/NNS said/VBD it/PRP would/MD be/VB an/DT expensive/JJ system/NN that/WDT would/MD be/VB hard/JJ to/TO enforce./VB
+It/PRP said/VBD incentives/NNS to/TO register/VB such/JJ as/IN £20/CD council/NN tax/NN rebate/NN were/VBD likely/JJ to/TO be/VB seen/VBN as/IN "gimmicks"/NN and/CC risked/VBD undermining/VBG the/DT integrity/NN of/IN the/DT system/NN MPs/NNP said./NN
+Instead/RB they/PRP called/VBD for/IN "imaginative/JJ campaigns"/NN to/TO boost/VB interest./JJ

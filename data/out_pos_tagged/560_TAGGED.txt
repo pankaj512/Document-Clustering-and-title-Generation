@@ -1,0 +1,16 @@
+Willis/NN sues/NNS over/IN movie/NN 'injury'/NN
+
+Actor/NNP Bruce/NNP Willis/NNP is/VBZ suing/VBG Revolution/NNP Studios/NNP over/IN an/DT injury/NN he/PRP said/VBD he/PRP suffered/VBD while/IN making/VBG Tears/NNS of/IN the/DT Sun./NNP
+
+Willis/NNP is/VBZ seeking/VBG medical/JJ expenses/NNS after/IN he/PRP said/VBD he/PRP was/VBD hit/VBN in/IN the/DT head/NN by/IN a/DT firework/NN during/IN the/DT filming/NN of/IN the/DT 2002/CD movie/NN produced/VBN by/IN the/DT firm./NN
+The/DT lawsuit/NN said/VBD the/DT star/NN has/VBZ endured/VBN mental/JJ and/CC physical/JJ injuries/NNS as/IN a/DT result/NN of/IN the/DT alleged/VBN incident./NN
+"We/NN are/VBP not/RB able/JJ to/TO comment/VB on/IN pending/VBG litigation"/NN Revolution/NNP Studios/NNP spokesman/NN Sean/NNP Dudas/NNP said./NN
+
+In/IN Tears/NNS of/IN the/DT Sun/NNP Willis/NNP plays/VBZ a/DT US/PRP military/JJ commander/NN who/WP disobeys/VBZ orders/NNS to/TO try/VB and/CC help/VB save/VB a/DT doctor/NN and/CC patients/NNS trapped/VBN in/IN the/DT Nigerian/NNP jungle./NN
+Directed/NNP by/IN Antoine/NNP Fuqua/NNP the/DT film/NN was/VBD poorly/RB received/VBN by/IN critics/NNS and/CC did/VBD not/RB perform/VB strongly/RB at/IN the/DT box/NN office./NN
+According/VBG to/TO the/DT lawsuit/NN the/DT injury/NN was/VBD suffered/VBN during/IN the/DT firing/NN of/IN explosions/NNS as/IN part/NN of/IN a/DT special/JJ effect./NN
+The/DT explosions/NNS known/VBD as/IN squibs/NNS were/VBD intended/VBN to/TO "simulate/VB the/DT appearance/NN of/IN bullets/NNS striking/VBP the/DT ground"./NN
+The/DT lawsuit/NN said/VBD Willis/NNP has/VBZ endured/VBN "extreme/NN mental/JJ physical/JJ and/CC emotional/JJ pain/NN and/CC suffering."/NN There/EX were/VBD no/DT specific/JJ details/NNS on/IN the/DT injuries./NN
+While/IN Willis/NNP does/VBZ not/RB seek/VB specific/JJ monetary/JJ damages/NNS the/DT lawsuit/NN noted/VBD that/IN the/DT star/NN "was/NN required/VBN to/TO and/CC did/VBD employ/VB physicians/NNS and/CC other/JJ medical/JJ personnel"./NN
+It/PRP stated/VBD he/PRP will/MD incur/VB additional/JJ future/JJ medical/JJ expenses./NN
+The/DT lawsuit/NN said/VBD Revolution/NNP Studios/NNP and/CC special/JJ effects/NNS foreman/NN Joe/NNP Pancake/NNP "had/NN a/DT duty/NN to/TO Willis/NNP to/TO ensure/VB that/IN the/DT squibs/NNS were/VBD inspected/VBN set/VBN up/RP placed/VBN and/CC detonated/VBN in/IN a/DT safe/JJ manner/NN and/CC to/TO employ/VB technicians/NNS who/WP were/VBD trained/VBN and/CC competent/JJ in/IN their/PRP$ use"./NN

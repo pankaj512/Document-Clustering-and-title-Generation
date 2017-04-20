@@ -1,0 +1,19 @@
+Woolf/NNP murder/NN sentence/NN rethink/NN
+
+Plans/NNS to/TO give/VB murderers/NNS lighter/JJR sentences/NNS if/IN they/PRP plead/VBP guilty/JJ have/VBP been/VBN watered/VBN down./NN
+
+There/EX was/VBD an/DT outcry/NN three/CD months/NNS ago/RB when/WRB the/DT Sentencing/VBG Guidelines/NNS Council/NNP -/: led/VBN by/IN Lord/NNP Woolf/NNP -/: published/VBN its/PRP$ proposals/NNS for/IN England/NNP and/CC Wales./NNP
+It/PRP had/VBD suggested/VBN judges/NNS should/MD reduce/VB sentences/NNS by/IN a/DT third/NN for/IN murderers/NNS who/WP confessed/VBD at/IN the/DT earliest/JJS opportunity./NN
+But/CC that/DT has/VBZ now/RB been/VBN changed/VBN to/TO one-sixth/JJ with/IN no/DT reduction/NN for/IN those/DT killers/NNS given/VBD a/DT "whole/NN life/NN tariff"./NN
+At/IN the/DT time/NN Lord/NNP Woolf/NNP the/DT Lord/NNP Chief/NNP Justice/NNP had/VBD said/VBN the/DT one/CD third/JJ reduction/NN would/MD only/RB be/VB in/IN extraordinary/JJ circumstances/NNS -/: for/IN example/NN if/IN people/NNS gave/VBD themselves/PRP up/RP before/IN their/PRP$ crime/NN had/VBD even/RB been/VBN detected./NN
+The/DT guidelines/NNS were/VBD to/TO recognise/VB the/DT need/NN to/TO spare/JJ victims/NNS and/CC witnesses/VBZ the/DT trauma/NN of/IN going/VBG to/TO court/VB where/WRB possible/JJ by/IN allowing/VBG lighter/JJR sentences/NNS for/IN guilty/JJ pleas/NNS and/CC co-operation/JJ he/PRP said./VB
+
+But/CC director/NN of/IN the/DT Victims/NNS of/IN Crime/NNP Trust/NNP Norman/NNP Brennan/NNP accused/VBD Lord/NNP Woolf/NNP of/IN having/VBG an/DT "arrogant/NN contempt/NN for/IN victims/NNS of/IN crime/NN and/CC the/DT law-abiding/JJ public"./NN
+The/DT National/NNP Association/NNP of/IN Probation/NN Officers/NNS said/VBD the/DT move/NN would/MD be/VB "political/JJ suicide"./NN
+In/IN revised/VBN proposals/NNS from/IN the/DT Sentencing/VBG Guidelines/NNS Council/NNP (SGC)/NN the/DT section/NN on/IN murder/NN said/VBD possible/JJ reductions/NNS would/MD have/VB to/TO be/VB "weighed/VBN carefully"/NN by/IN a/DT judge/NN so/IN they/PRP did/VBD not/RB lead/VB to/TO "an/NN inappropriately/RB short/JJ sentence"./NN
+Where/WRB it/PRP was/VBD appropriate/JJ to/TO reduce/VB the/DT minimum/JJ term/NN having/VBG regard/VBP to/TO a/DT plea/NN of/IN guilty/JJ the/DT maximum/NN reduction/NN would/MD be/VB one/CD sixth/JJ and/CC should/MD never/RB exceed/VB five/CD years/NNS it/PRP said./NN
+
+In/IN a/DT statement/NN issued/VBN on/IN Wednesday/NNP Lord/NNP Woolf/NNP said/VBD "I/NN have/VBP no/DT doubt/NN that/IN being/VBG able/JJ to/TO call/VB on/IN the/DT diverse/JJ backgrounds/NNS and/CC experiences/NNS of/IN all/PDT those/DT that/WDT serve/VBP on/IN the/DT SGC/NNP has/VBZ vastly/RB improved/VBN the/DT final/JJ guidelines./NN
+"I/NN am/VBP confident/JJ as/IN a/DT result/NN that/IN judges/NNS will/MD be/VB better/RB placed/JJ to/TO deliver/VB sentences/NNS which/WDT are/VBP effective/JJ both/DT as/IN punishments/NNS and/CC deterrents/NNS to/TO offending/VBG and/CC reoffending."/NN Director/NNP of/IN Public/NNP Prosecutions/NNS Ken/NNP Macdonald/NNP QC/NNP who/WP sits/VBZ on/IN the/DT SGC/NNP said/VBD the/DT principle/NN of/IN discounting/NN sentences/NNS to/TO offenders/NNS for/IN early/JJ guilty/JJ pleas/NNS is/VBZ set/VBN down/RB by/IN parliament./NN
+"What/NN the/DT new/JJ guideline/NN on/IN reduced/VBN sentences/NNS for/IN guilty/JJ pleas/NNS does/VBZ is/VBZ increase/VBG the/DT chances/NNS of/IN convicting/VBG the/DT guilty/JJ by/IN bringing/VBG clarity/NN to/TO this/DT process./NN
+"It/NN represents/VBZ a/DT tougher/JJR regime/NN than/IN existed/VBD previously/RB because/IN the/DT discount/NN is/VBZ automatically/RB reduced/VBN if/IN a/DT guilty/JJ plea/NN is/VBZ not/RB made/VBN at/IN the/DT first/JJ available/JJ opportunity"/NN he/PRP said./VB

@@ -1,0 +1,13 @@
+Coach/VB Ranieri/NNP sacked/VBN by/IN Valencia/NNP
+
+Claudio/NNP Ranieri/NNP has/VBZ been/VBN sacked/VBN as/IN Valencia/NNP coach/NN just/RB eight/CD months/NNS after/IN taking/VBG charge/NN at/IN the/DT Primera/NNP Liga/NNP club/NN for/IN the/DT second/JJ time/NN in/IN his/PRP$ career./NN
+
+The/DT decision/NN was/VBD taken/VBN at/IN a/DT board/NN meeting/NN following/VBG the/DT side's/NNS surprise/NN elimination/NN from/IN the/DT Uefa/NNP Cup./NNP
+"We/NN understand/VB and/CC he/PRP understands/VBZ that/IN the/DT results/NNS in/IN the/DT last/JJ few/JJ weeks/NNS have/VBP not/RB been/VBN the/DT most/JJS appropriate"/NN said/VBD club/NN president/NN Juan/NNP Bautista./NNP
+Former/NNP assistant/JJ Antonio/NNP Lopez/NNP will/MD take/VB over/RP as/IN the/DT new/JJ coach./NN
+Italian/JJ Ranieri/NNP took/VBD over/RP the/DT Valencia/NNP job/NN in/IN June/NNP 2004/CD having/VBG been/VBN replaced/VBN at/IN Chelsea/NNP by/IN Jose/NNP Mourinho./NNP
+
+Things/NNS began/VBD well/RB but/CC the/DT Spanish/JJ champions/NNS extended/VBD their/PRP$ winless/JJ streak/NN to/TO six/CD after/IN losing/VBG to/TO Racing/VBG Santander/NNP last/JJ weekend./NN
+That/DT defeat/NN was/VBD then/RB followed/VBN by/IN a/DT Uefa/NNP Cup/NNP exit/NN at/IN the/DT hands/NNS of/IN Steaua/NNP Bucharest./NNP
+Ranieri/NNP first/RB took/VBD charge/NN of/IN Valencia/NNP in/IN 1997/CD guiding/VBG them/PRP to/TO the/DT King's/NNP Cup/NNP and/CC helping/VBG them/PRP to/TO qualify/VB for/IN the/DT Champions/NNS League./NNP
+The/DT 54-year-old/JJ then/RB moved/VBD to/TO Atletico/NNP Madrid/NNP in/IN 1999/CD before/IN joining/VBG Chelsea/NNP the/DT following/JJ year./NN

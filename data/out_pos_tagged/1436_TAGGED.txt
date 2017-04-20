@@ -1,0 +1,15 @@
+England's/NNP defensive/JJ crisis/NN grows/VBZ
+
+England's/NNP defensive/JJ worries/NNS have/VBP deepened/VBN following/VBG the/DT withdrawal/NN of/IN Tottenham's/NNP Ledley/NNP King/NNP from/IN the/DT squad/NN to/TO face/VB Holland./NNP
+
+Chelsea's/NNP John/NNP Terry/NNP and/CC Wayne/NNP Bridge/NNP are/VBP also/RB out/IN leaving/VBG coach/NN Sven-Goran/NNP Eriksson/NNP with/IN a/DT real/JJ problem/NN for/IN Wednesday's/NNP match/VB at/IN Villa/NNP Park./NNP
+Injured/VBN Rio/NNP Ferdinand/NNP and/CC Sol/NNP Campbell/NNP were/VBD both/DT left/VBN out/IN of/IN the/DT squad/NN and/CC Matthew/NNP Upson/NNP has/VBZ already/RB pulled/VBN out./NN
+Wes/NNP Brown/NNP and/CC Jamie/NNP Carragher/NNP are/VBP likely/JJ to/TO be/VB the/DT makeshift/JJ partnership./NN
+Terry/VBG the/DT captain/NN of/IN Chelsea/NNP as/IN they/PRP push/VBP for/IN the/DT Premiership/NN title/NN would/MD have/VB been/VBN a/DT certain/JJ starter/NN in/IN the/DT absence/NN of/IN Campbell/NNP and/CC Ferdinand./NNP
+But/CC now/RB he/PRP has/VBZ pulled/VBN out/RP with/IN a/DT bruised/VBN knee/NN and/CC is/VBZ likely/JJ to/TO be/VB replaced/VBN by/IN Carragher/NNP alongside/IN Brown./NNP
+
+Manchester/NNP United's/NNP Brown/NNP last/NN played/VBD for/IN England/NNP in/IN the/DT defeat/NN by/IN Australia/NNP at/IN Upton/NNP Park/NNP in/IN February/NNP 2003./CD
+The/DT 25-year-old/NN was/VBD only/RB called/VBN into/IN the/DT squad/NN on/IN Sunday/NNP night/NN as/IN cover/NN following/VBG the/DT enforced/VBN withdrawal/NN of/IN Upson/NNP who/WP has/VBZ a/DT hamstring/VBG injury./NN
+And/CC Brown/NNP now/RB looks/VBZ certain/JJ to/TO add/VB to/TO his/PRP$ tally/NN of/IN seven/CD senior/JJ appearances/NNS for/IN England./NNP
+King/NNP was/VBD forced/VBN to/TO pull/VB out/RP after/IN his/PRP$ groin/NN injury/NN was/VBD assessed/VBN by/IN England's/NNP medical/JJ staff./NN
+Eriksson/NNP has/VBZ still/RB not/RB decided/VBD whether/IN to/TO call/VB up/RP any/DT further/JJ back-up/JJ having/NN already/RB summoned/VBN Phil/NNP Neville/NNP after/IN Bridge/NNP pulled/VBD out/RP with/IN a/DT foot/NN injury./NN

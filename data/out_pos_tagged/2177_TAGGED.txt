@@ -1,0 +1,30 @@
+Anti-tremor/NNP mouse/NN stops/VBZ PC/NN shakes/VBZ
+
+A/DT special/JJ adaptor/NN that/WDT helps/VBZ people/NNS with/IN hand/NN tremors/NNS control/VBP a/DT computer/NN mouse/NN more/RBR easily/RB has/VBZ been/VBN developed./NN
+
+The/DT device/NN uses/VBZ similar/JJ "steady/NN cam"/NN technology/NN found/VBN in/IN camcorders/NNS to/TO filter/VB out/RP shaking/VBG hand/NN movements./NN
+People/NNS with/IN hand/NN tremors/NNS find/VBP it/PRP hard/JJ to/TO use/VB conventional/JJ mice/NNS for/IN simple/JJ computer/NN tasks/NNS because/IN of/IN the/DT erratic/JJ movements/NNS of/IN the/DT cursor/NN on/IN the/DT screen./NN
+About/IN three/CD million/CD Britons/NNP have/VBP some/DT sort/NN of/IN hand/NN tremor/NN condition/NN said/VBD the/DT UK/NNP National/NNP Tremor/NN Foundation./NNP
+"Using/VBG a/DT computer/NN mouse/NN is/VBZ well/RB known/VBN for/IN being/VBG extremely/RB hard/RB for/IN people/NNS with/IN tremors/NNS so/RB we're/VBP delighted/JJ to/TO hear/VB that/IN a/DT technology/NN has/VBZ been/VBN developed/VBN to/TO address/VB this/DT problem"/NN said/VBD Karen/NNP Walsh/NNP from/IN the/DT UK/NNP National/NNP Tremor/NN Foundation./NNP
+Most/JJS commonly/RB associated/VBN with/IN tremors/NNS is/VBZ Parkinson's/NNP disease/NN but/CC they/PRP can/MD also/RB be/VB caused/VBN by/IN other/JJ conditions/NNS like/IN Essential/JJ Tremor/NN (ET)./NN
+Tremors/NNS more/RBR often/RB affect/VB older/JJR people/NNS but/CC can/MD hit/VB all/DT ages./NN
+ET/NNP for/IN example/NN is/VBZ genetic/JJ and/CC can/MD afflict/VB people/NNS throughout/IN their/PRP$ lives./NN
+
+The/DT Assistive/NNP Mouse/NNP Adapter/NN (AMA)/NN is/VBZ the/DT brainchild/NN of/IN IBM/NNP researcher/NN Jim/NNP Levine/NNP who/WP developed/VBD the/DT prototype/NN after/IN seeing/VBG his/PRP$ uncle/NN who/WP has/VBZ Parkinson's/NNP disease/NN struggle/NN with/IN mouse/NN control./NN
+"I/NN knew/VBD that/IN there/EX must/MD be/VB way/NN to/TO improve/VB the/DT situation/NN for/IN him/PRP and/CC the/DT millions/NNS of/IN other/JJ tremor/NN sufferers/NNS around/IN the/DT world/NN including/VBG the/DT elderly./NN
+
+"The/JJ number/NN of/IN elderly/JJ computer/NN users/NNS will/MD increase/VB as/IN the/DT population/NN ages/NNS and/CC at/IN the/DT same/JJ time/NN the/DT need/NN for/IN computer/NN access/NN grows"/NN he/PRP said./VB
+Computer/NN users/NNS plug/VBP the/DT device/NN into/IN a/DT PC/NN and/CC it/PRP can/MD be/VB adjusted/VBN depending/VBG on/IN how/WRB severe/JJ the/DT tremor/NN is./NN
+It/PRP is/VBZ also/RB able/JJ to/TO recognise/VB multiple/JJ clicking/NN on/IN a/DT mouse/NN button/NN caused/VBN by/IN shaky/JJ digits./NN
+IBM/NNP said/VBD it/PRP would/MD partner/VB up/RP with/IN a/DT small/JJ UK-based/JJ electronics/NNS firm/NN Montrose/NNP Secam/NNP to/TO produce/VB the/DT devices/NNS which/WDT will/MD cost/VB about/RB £70./CD
+James/NNP Cosgrave/NNP one/CD of/IN the/DT company's/NNS directors/NNS said/VBD it/PRP would/MD make/VB a/DT big/JJ difference/NN to/TO those/DT with/IN tremors./NN
+"I'm/NN a/DT pilot/NN and/CC my/PRP$ tremor/NN condition/NN has/VBZ not/RB limited/JJ my/PRP$ ability/NN to/TO fly/VB a/DT plane"/NN he/PRP said./VB
+"But/NN using/VBG a/DT PC/NN has/VBZ proven/VBN almost/RB impossible/JJ simply/RB because/IN everything/NN revolves/VBZ around/IN using/VBG the/DT mouse/NN to/TO accurately/RB manipulate/VB the/DT tiny/JJ cursor/NN on/IN the/DT screen."/NN He/PRP said/VBD a/DT prototype/NN of/IN the/DT gadget/NN had/VBD transformed/VBN his/PRP$ life./NN
+
+The/DT device/NN could/MD help/VB open/JJ up/RP computing/NN to/TO millions/NNS more/JJR people/NNS who/WP have/VBP found/VBN shaking/VBG to/TO be/VB a/DT barrier./NN
+Last/JJ year/NN the/DT Office/NNP for/IN National/NNP Statistics/NNPS reported/VBD that/IN for/IN the/DT first/JJ time/NN more/JJR than/IN half/NN of/IN all/DT households/NNS in/IN Britain/NNP had/VBD a/DT home/NN computer./NN
+With/IN prices/NNS getting/VBG cheaper/JJR to/TO get/VB online/NN too/RB computer/NN ownership/NN is/VBZ increasing./NN
+But/CC although/IN 62%/CD of/IN British/JJ people/NNS have/VBP tried/VBN the/DT internet/JJ only/RB 15%/CD of/IN Britons/NNP aged/VBD 65/CD or/CC over/IN have/VBP been/VBN online./VBG
+More/JJR than/IN six/CD million/CD UK/NNP households/NNS now/RB have/VBP a/DT broadband/NN net./NN
+By/IN the/DT middle/NN of/IN 2005/CD it/PRP is/VBZ estimated/VBN that/IN 50%/CD of/IN all/DT UK/NNP net/JJ users/NNS will/MD be/VB on/IN broadband./NN
+There/EX are/VBP still/RB millions/NNS using/VBG the/DT net/NN through/IN dial-up/JJ connections/NNS too./NN

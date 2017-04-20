@@ -1,0 +1,15 @@
+Stormy/JJ year/NN for/IN property/NN insurers/NNS
+
+A/DT string/NN of/IN storms/NNS typhoons/NNS and/CC earthquakes/NNS has/VBZ made/VBN 2004/CD the/DT most/RBS expensive/JJ year/NN on/IN record/NN for/IN property/NN insurers/NNS according/VBG to/TO Swiss/NNP Re./NNP
+
+The/DT world's/NNS second/JJ biggest/JJS insurer/NN said/VBD disasters/NNS around/IN the/DT globe/NN have/VBP seen/VBN property/NN claims/NNS reach/VBP $42bn/CD (£21.5bn)./CD
+"2004/CD reinforces/VBZ the/DT trend/NN towards/IN higher/JJR losses"/NN said/VBD Swiss/NNP Re./NNP
+Tightly/RB packed/VBN populations/NNS in/IN the/DT areas/NNS involved/VBN in/IN natural/JJ and/CC man-made/JJ disasters/NNS were/VBD to/TO partly/RB to/TO blame/VB for/IN the/DT rise/NN in/IN claims/NNS it/PRP said./NN
+Some/DT 95%/CD of/IN insurance/NN claims/NNS were/VBD for/IN natural/JJ catastrophes/NNS with/IN the/DT rest/NN attributed/VBN to/TO made-made/JJ events./NN
+
+The/DT largest/JJS claims/NNS came/VBD from/IN the/DT US/PRP which/WDT was/VBD struck/VBN by/IN four/CD hurricanes/NNS and/CC Japan/NNP which/WDT suffered/VBD the/DT highest/JJS concentration/NN of/IN typhoons/NNS for/IN decades/NNS plus/CC a/DT major/JJ earthquake./NN
+
+Europe/NNP suffered/VBD fewer/JJR natural/JJ disasters/NNS but/CC 191/CD people/NNS were/VBD killed/VBN and/CC more/JJR than/IN 2000/CD injured/VBN in/IN March/NNP after/IN the/DT terrorist/JJ attack/NN on/IN train/NN stations/NNS in/IN Madrid./NNP
+The/DT damages/NNS claimed/VBD in/IN 2004/CD eclipsed/VBN previous/JJ years/NNS including/VBG 2001/CD when/WRB the/DT 11/CD September/NNP attacks/NNS pushed/VBD claims/NNS up/IN to/TO $37bn./CD
+Swiss/NNP Re/NNP said/VBD it/PRP had/VBD registered/VBN about/IN 300/CD natural/JJ and/CC man-made/JJ disasters/NNS around/IN the/DT world/NN in/IN 2004./CD
+Twenty-one/CD thousand/CD people/NNS lost/VBD their/PRP$ lives/NNS in/IN the/DT catastrophes/NNS with/IN a/DT cost/NN to/TO the/DT global/JJ economy/NN of/IN around/IN $105bn/CD (£54bn)./CD

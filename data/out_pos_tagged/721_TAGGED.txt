@@ -1,0 +1,12 @@
+Brookside/NNP creator's/NNS Channel/NNP 4/CD bid/NN
+
+The/DT creator/NN of/IN defunct/JJ TV/NN soap/NN Brookside/NNP has/VBZ written/VBN to/TO the/DT culture/NN minister/NN to/TO offer/VB to/TO buy/VB Channel/NNP 4./CD
+
+Phil/NNP Redmond/NNP now/RB chairman/NN of/IN Mersey/NNP TV/NN told/VBD Tessa/NNP Jowell/NNP he/PRP would/MD run/VB it/PRP with/IN its/PRP$ current/JJ remit/NN intact/JJ for/IN the/DT next/JJ 10/CD years./NN
+But/CC media/NNS watchdog/NN Ofcom/NNP has/VBZ said/VBD the/DT the/DT commercially/RB funded/VBN public/JJ service/NN broadcaster/NN will/MD not/RB be/VB privatised./NN
+A/DT spokesman/NN for/IN the/DT Department/NNP for/IN Culture/NNP Media/NNP and/CC Sport/NNP said/VBD there/EX were/VBD no/DT plans/NNS to/TO sell/VB the/DT channel./NN
+
+He/PRP added/VBD that/IN primary/JJ legislation/NN would/MD be/VB required/VBN for/IN the/DT station/NN to/TO be/VB sold/VBN off/RP which/WDT the/DT government/NN was/VBD not/RB intending/VBG to/TO introduce./VB
+Brookside/NNP was/VBD axed/VBN in/IN 2003/CD after/IN its/PRP$ ratings/NNS slumped/VBD from/IN a/DT peak/NN of/IN seven/CD million/CD to/TO just/RB 1.5/CD million./NN
+Redmond/NNP also/RB brought/VBD teen/JJ soap/NN Hollyoaks/NNP to/TO Channel/NNP 4/CD and/CC created/VBD Grange/NNP Hill/NNP the/DT school-based/JJ drama/NN serial/NN which/WDT was/VBD first/JJ broadcast/NN on/IN BBC/NNP One/CD in/IN 1978./CD
+He/PRP was/VBD awarded/VBN the/DT CBE/NNP for/IN services/NNS to/TO drama/VB earlier/RBR this/DT year./NN

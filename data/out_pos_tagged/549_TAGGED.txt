@@ -1,0 +1,20 @@
+Aviator/NNP 'creator'/NN in/IN Oscars/NNP snub/NN
+
+The/DT man/NN who/WP said/VBD he/PRP got/VBD Oscar-nominated/NNP movie/NN The/DT Aviator/NNP off/RP the/DT ground/NN and/CC signed/VBD up/RP Leonardo/NNP DiCaprio/NNP has/VBZ been/VBN shut/NN out/IN of/IN the/DT Academy/NNP Awards/NNS race./NN
+
+Charles/NNP Evans/NNP Jr/NNP battled/VBD over/IN his/PRP$ role/NN with/IN the/DT people/NNS who/WP eventually/RB made/VBD the/DT film/NN and/CC won/VBD a/DT producer's/NNS credit./NN
+But/CC he/PRP is/VBZ not/RB on/IN the/DT list/NN of/IN producers/NNS who/WP can/MD win/VB a/DT best/JJS film/NN Oscar/NNP due/JJ to/TO a/DT limit/NN on/IN the/DT number/NN of/IN nominees./NN
+The/DT Oscars/NNP organisers/NNS have/VBP picked/VBN two/CD of/IN The/DT Aviator's/NNP four/CD producers/NNS to/TO be/VB nominated/VBN for/IN best/JJS film./NN
+
+Up/IN to/TO three/CD producers/NNS can/MD be/VB named/VBN per/IN film/NN but/CC the/DT studios/NNS behind/IN The/DT Aviator/NNP and/CC Million/CD Dollar/NN Baby/NNP failed/VBD to/TO trim/VB their/PRP$ credits/NNS -/: so/IN the/DT Academy/NNP of/IN Motion/NNP Pictures/NNP Arts/NNS and/CC Sciences/NNPS (Ampas)/NN has/VBZ done/VBN it/PRP for/IN them./NN
+The/DT Aviator's/NNP nominated/VBD producers/NNS are/VBP Michael/NNP Mann/NNP and/CC Graham/NNP King/NNP -/: with/IN Mr/NNP Evans/NNP and/CC Sandy/NNP Climan/NNP Mr/NNP Mann's/NNP former/JJ deputy/NN left/VBD off./NN
+Mr/NNP Evans/NNP sued/VBD Mr/NNP Mann/NNP in/IN 2001/CD claiming/VBG he/PRP came/VBD up/RP with/IN the/DT idea/NN spent/VBD years/NNS developing/VBG it/PRP and/CC persuaded/VBD DiCaprio/NNP to/TO play/VB Hughes/NNP -/: but/CC said/VBD he/PRP was/VBD later/RB excluded/VBN from/IN the/DT project./NN
+The/DT two/CD sides/NNS settled/VBD out/IN of/IN court/NN in/IN a/DT deal/NN that/WDT has/VBZ remained/VBN secret/JJ apart/RB from/IN the/DT fact/NN Mr/NNP Evans'/NNP name/NN has/VBZ appeared/VBN as/IN a/DT producer/NN when/WRB the/DT film's/NNS credits/NNS roll./NN
+At/IN the/DT Golden/NNP Globes/NNP Mr/NNP Evans/NNP -/: who/WP was/VBD named/VBN among/IN the/DT winners/NNS when/WRB the/DT film/NN won/VBD best/RBS drama/NN film/NN -/: evaded/VBN a/DT security/NN guard/NN to/TO have/VB his/PRP$ photo/NN taken/VBN with/IN DiCaprio/NNP director/NN Martin/NNP Scorsese/NNP Mr/NNP Mann/NNP and/CC Mr/NNP King./NNP
+
+Ampas/NNP decided/VBD to/TO limit/VB the/DT number/NN of/IN producers/NNS who/WP could/MD be/VB nominated/VBN after/IN Shakespeare/NNP in/IN Love's/NNP victory/NN in/IN 1999/CD saw/VBD five/CD producers/NNS collect/VBP awards./NN
+The/DT eligible/JJ names/NNS for/IN The/DT Aviator/NNP and/CC Million/CD Dollar/NN Baby/NNP were/VBD decided/VBN by/IN Ampas'/NNP producers/NNS branch/NN executive/JJ committee/NN on/IN Wednesday./NNP
+The/DT decision/NN also/RB saw/VBD Clint/NNP Eastwood/NNP get/VB his/PRP$ third/JJ personal/JJ nomination/NN for/IN Million/CD Dollar/NN Baby./NNP
+He/PRP is/VBZ now/RB named/VBN in/IN the/DT best/JJS film/NN category/NN as/RB well/RB as/IN being/VBG nominated/VBN for/IN best/JJS director/NN and/CC best/JJS lead/VB actor./NN
+The/DT Academy/NNP Awards/NNS ceremony/NN will/MD be/VB held/VBN in/IN Hollywood/NNP on/IN 27/CD February./NNP
+Chinese/JJ actress/NN Ziyi/NNP Zhang/NNP star/NN of/IN Crouching/NNP Tiger/NNP Hidden/VBN Dragon/NNP Hero/NN and/CC House/NNP of/IN Flying/NNP Daggers/NNP is/VBZ the/DT latest/JJS name/NN to/TO be/VB added/VBN to/TO the/DT list/NN of/IN presenters/NNS on/IN the/DT night./NN

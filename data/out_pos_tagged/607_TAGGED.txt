@@ -1,0 +1,21 @@
+Surprise/NNP win/VB for/IN anti-Bush/JJ film/NN
+
+Michael/NNP Moore's/NNP anti-Bush/JJ documentary/NN Fahrenheit/NN 9/11/CD has/VBZ won/VBN best/RBS film/NN at/IN the/DT US/PRP People's/NNP Choice/NN Awards/NNS voted/VBD for/IN by/IN the/DT US/PRP public./VBP
+
+Mel/NNP Gibson's/NNP The/DT Passion/NN of/IN the/DT Christ/NNP won/VBD best/RBS drama/NN despite/IN both/DT films/NNS being/VBG snubbed/VBD so/RB far/RB at/IN US/PRP film/VBP awards/NNS in/IN the/DT run-up/NN to/TO February's/NNP Oscars./NNP
+Julia/NNP Roberts/NNP won/VBD her/PRP$ 10th/JJ consecutive/JJ crown/NN as/IN favourite/NN female/JJ movie/NN star./NN
+Johnny/NNP Depp/NNP was/VBD favourite/NN male/JJ movie/NN star/NN and/CC Renee/NNP Zellweger/NNP was/VBD favourite/NN leading/VBG lady/NN at/IN Sunday's/NNP awards/NNS in/IN LA./NNP
+
+Film/NNP sequel/NN Shrek/NNP 2/CD took/VBD three/CD prizes/NNS -/: voted/VBD top/JJ animated/VBN movie/NN top/JJ film/NN comedy/NN and/CC top/JJ sequel./NN
+In/IN television/NN categories/NNS Desperate/JJ Housewives/NNS was/VBD named/VBN top/JJ new/JJ drama/NN and/CC Joey/NNP starring/VBG former/JJ Friends/NNPS actor/NN Matt/NNP LeBlanc/NNP was/VBD best/RBS new/JJ comedy./NN
+Long-running/JJ shows/NNS Will/MD and/CC Grace/NNP and/CC CSI/NNP Crime/NN Scene/NN Investigation/NNP were/VBD named/VBN best/JJS TV/NN comedy/NN and/CC TV/NN drama/NN respectively./NN
+
+Nominees/NNS for/IN the/DT People's/NNP Choice/NN Awards/NNS were/VBD picked/VBN by/IN a/DT 6000-strong/JJ Entertainment/NNP Weekly/NNP magazine/NN panel/NN and/CC winners/NNS were/VBD subsequently/RB chosen/VBN by/IN 21/CD million/CD online/NN voters./NN
+Fahrenheit/NN 9/11/CD director/NN Michael/NNP Moore/NNP dedicated/VBD his/PRP$ trophy/NN to/TO soldiers/NNS in/IN Iraq./NNP
+His/PRP$ film/NN was/VBD highly/RB critical/JJ of/IN President/NNP George/NNP W/NNP Bush/NNP and/CC the/DT US-led/JJ invasion/NN of/IN Iraq/NNP and/CC Moore/NNP was/VBD an/DT outspoken/JJ Bush/NNP critic/NN in/IN the/DT 2004/CD presidential/JJ campaign/NN inwhich/NN Democratic/JJ challenger/NN John/NNP Kerry/NNP lost./NN
+
+"This/NN country/NN is/VBZ still/RB all/DT of/IN ours/PRP not/RB right/VBP or/CC left/VBN or/CC Democrat/NNP or/CC Republican"/NNP Moore/NNP told/VBD the/DT audience/NN at/IN the/DT ceremony/NN in/IN Pasadena/NNP California./NNP
+Moore/NNP said/VBD it/PRP was/VBD "an/NN historic/JJ occasion"/NN that/IN the/DT 31-year-old/JJ awards/NNS ceremony/NN would/MD name/VB a/DT documentary/NN its/PRP$ best/JJS film./NN
+Unlike/IN many/JJ other/JJ film-makers/NNS Passion/NN of/IN the/DT Christ/NNP director/NN Mel/NNP Gibson/NNP has/VBZ vowed/VBN not/RB to/TO campaign/VB for/IN an/DT Oscar/NNP for/IN his/PRP$ movie./NN
+"To/NN me/PRP really/RB this/DT is/VBZ the/DT ultimate/JJ goal/NN because/IN one/CD doesn't/NN make/VBP work/NN for/IN the/DT elite"/NN Gibson/NNP said/VBD backstage/RB at/IN the/DT event./NN
+"To/NN me/PRP the/DT people/NNS have/VBP spoken."/NN

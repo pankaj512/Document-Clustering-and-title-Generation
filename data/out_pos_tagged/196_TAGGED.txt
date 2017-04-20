@@ -1,0 +1,19 @@
+Worldcom/NNP director/NN ends/VBZ evidence/NN
+
+The/DT former/JJ chief/JJ financial/JJ officer/NN at/IN US/PRP telecoms/VBZ firm/NN WorldCom/NNP has/VBZ finished/VBN giving/VBG evidence/NN at/IN the/DT trial/NN of/IN his/PRP$ ex-boss/NN Bernie/NNP Ebbers./NNP
+
+Scott/NNP Sullivan/NNP admitted/VBD to/TO jurors/NNS he/PRP was/VBD willing/JJ to/TO commit/VB fraud/NN to/TO meet/VB Wall/NNP Street/NNP earnings/NNS projections./NN
+Mr/NNP Ebbers/NNP is/VBZ on/IN trial/NN for/IN fraud/NN and/CC conspiracy/NN in/IN relation/NN to/TO WorldCom's/NNP collapse/NN in/IN 2002./CD
+He/PRP pleads/VBZ not/RB guilty./VBP
+Mr/NNP Sullivan/NNP has/VBZ spent/VBN two/CD days/NNS being/VBG cross-examined/JJ by/IN lawyers/NNS for/IN former/JJ Worldcom/NNP chief/NN executive/NN Mr/NNP Ebbers./NNP
+
+Attorney/NNP Reid/NNP Weingarten/NNP has/VBZ attempted/VBN to/TO portray/VB Mr/NNP Sullivan/NNP as/IN a/DT liar/NN and/CC on/IN Thursday/NNP quizzed/VBD him/PRP about/IN his/PRP$ decision/NN to/TO commit/VB fraud/NN to/TO meet/VB analysts'/NN profit/NN estimates./NN
+"At/NN that/DT point/NN in/IN time"/NN Mr/NNP Sullivan/NNP said/VBD referring/VBG to/TO the/DT first/JJ false/JJ entries/NNS in/IN late/JJ 2000/CD "I/NN knew/VBD it/PRP was/VBD wrong/JJ and/CC I/PRP knew/VBD it/PRP was/VBD against/IN the/DT law/NN but/CC I/PRP thought/VBD we/PRP would/MD get/VB through/IN it/PRP in/IN the/DT short/JJ term."/NN Mr/NNP Sullivan/NNP 42/CD has/VBZ already/RB pleaded/VBN guilty/JJ to/TO fraud/VB and/CC will/MD be/VB sentenced/VBN following/VBG Mr/NNP Ebbers'/NNP trial/NN where/WRB he/PRP is/VBZ appearing/VBG as/IN a/DT prosecution/NN witness./NN
+Mr/NNP Ebbers/NNP 63/CD has/VBZ always/RB insisted/VBN that/IN he/PRP was/VBD unaware/JJ of/IN any/DT hidden/VBN shortfalls/NNS in/IN WorldCom's/NNP finances./NN
+The/DT former/JJ finance/NN officer/NN said/VBD Mr/NNP Ebbers/NNP knew/VBD about/IN the/DT improper/JJ accounting/NN entries/NNS that/WDT were/VBD made/VBN between/IN 2000/CD and/CC 2002/CD to/TO conceal/VB soaring/VBG expenses/NNS and/CC inflate/VB revenue./NN
+
+Mr/NNP Ebbers/NNP could/MD face/VB a/DT sentence/NN of/IN 85/CD years/NNS if/IN convicted/VBN of/IN all/PDT the/DT charges/NNS he/PRP is/VBZ facing./NN
+WorldCom's/NN problems/NNS appear/VBP to/TO have/VB begun/VBN with/IN the/DT collapse/NN of/IN the/DT dotcom/NN boom/NN which/WDT cut/VBP its/PRP$ business/NN from/IN internet/JJ companies./NN
+Prosecutors/NNS allege/VBP that/IN the/DT company's/NNS top/JJ executives/NNS responded/VBD by/IN orchestrating/VBG massive/JJ fraud/NN over/IN a/DT two-year/JJ period./NN
+WorldCom/NNP emerged/VBD from/IN bankruptcy/NN protection/NN in/IN 2004/CD and/CC is/VBZ now/RB known/VBN as/IN MCI./NNP
+On/IN Monday/NNP MCI/NNP agreed/VBD to/TO a/DT buyout/NN by/IN Verizon/NNP Communications/NNPS in/IN a/DT deal/NN valued/VBN at/IN $6.75bn./CD

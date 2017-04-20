@@ -1,0 +1,14 @@
+Argentina/NNP Venezuela/NNP in/IN oil/NN deal/NN
+
+Argentina/NNP and/CC Venezuela/NNP have/VBP extended/VBN a/DT food-for-oil/JJ deal/NN which/WDT helped/VBD the/DT former/JJ to/TO overcome/VB a/DT severe/JJ energy/NN crisis/NN last/JJ year./NN
+
+Argentine/JJ President/NNP Nestor/NNP Kirchner/NNP and/CC Venezuelan/JJ President/NNP Hugo/NNP Chavez/NNP signed/VBD the/DT deal/NN in/IN Buenos/NNP Aires/NNP on/IN Tuesday./NNP
+Last/JJ April/NNP Argentina/NNP signed/VBD a/DT $240m/CD agreement/NN to/TO import/VB Venezuelan/JJ fuel/NN in/IN exchange/NN for/IN agricultural/JJ goods/NNS and/CC this/DT deal/NN has/VBZ now/RB been/VBN extended./NN
+Venezuela/NNP will/MD now/RB import/VB cattle/NNS medicines/NNS and/CC medical/JJ equipment./NN
+Last/JJ year/NN Argentina's/NNP severe/JJ energy/NN crisis/NN forced/VBN President/NNP Kirchner/NNP to/TO suspend/VB gas/NN exports/NNS to/TO Chile./NNP
+Argentina/NN fears/NNS that/IN rising/VBG demand/NN could/MD spark/VB another/DT crisis/NN and/CC wants/VBZ to/TO prevent/VB it/PRP by/IN signing/VBG this/DT deal./NN
+The/DT two/CD countries/NNS also/RB formalised/VBN a/DT co-operation/JJ deal/NN between/IN Venezuelan/JJ energy/NN firm/NN PDVSA/NNP and/CC Argentina's/NNP Enarsa./NNP
+Under/IN this/DT deal/NN the/DT Argentine/JJ market/NN will/MD be/VB opened/VBN to/TO Venezuelan/JJ investment./NN
+President/NNP Chavez/NNP added/VBD that/IN Brazil's/NNP Petrobras/NNP could/MD join/VB soon/RB the/DT co-operation/JJ deal./NN
+President/NNP Chavez/NNP is/VBZ an/DT ardent/JJ promoter/NN of/IN the/DT concept/NN of/IN a/DT South/NNP American/JJ oil/NN company/NN which/WDT could/MD include/VB the/DT state-owned/JJ companies/NNS of/IN Venezuela/NNP Argentina/NNP Brazil/NNP and/CC Bolivia./NNP
+The/DT two/CD presidents/NNS also/RB agreed/VBD to/TO create/VB 'Television/NN Sur'/NNP a/DT Latin/JJ American/JJ network/NN of/IN state-owned/JJ television/NN channels./NN

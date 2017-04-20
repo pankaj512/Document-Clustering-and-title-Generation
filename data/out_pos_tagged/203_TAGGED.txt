@@ -1,0 +1,18 @@
+'Standoff'/NN on/IN Deutsche's/NNP LSE/NNP bid/NN
+
+Deutsche/NNP Boerse/NNP investors/NNS unhappy/JJ with/IN its/PRP$ London/NNP Stock/NNP Exchange/NNP bid/NN will/MD have/VB no/DT chance/NN to/TO throw/VB out/RP the/DT exchange's/NNS management/NN until/IN May/NNP Reuters/NNP says./NN
+
+The/DT Sunday/NNP Times/NNP reported/VBD that/WDT hedge/NN funds/NNS TCI/NNP and/CC Atticus/NNP were/VBD planning/VBG to/TO demand/VB the/DT removal/NN of/IN the/DT group's/NNS chairman/NN and/CC chief/JJ executive./NN
+But/CC Deutsche/NNP Boerse/NNP told/VBD news/NN agency/NN Reuters/NNP such/PDT a/DT move/NN would/MD have/VB to/TO wait/VB until/IN May's/NNP annual/JJ general/JJ meeting./NN
+Investors/NNS want/VBP Deutsche/NNP to/TO return/VB cash/NN to/TO shareholders/NNS rather/RB than/IN bid./NN
+"We/NN are/VBP long-term/JJ investors/NNS and/CC are/VBP experienced/VBN in/IN removing/VBG management./NN
+We/PRP are/VBP not/RB scared/VBN to/TO take/VB this/DT to/TO its/PRP$ conclusion/NN this/DT time"/NN Atticus'/NNP David/NNP Slager/NNP told/VBD the/DT Sunday/NNP Times./NNP
+However/RB Deutsche/NNP Boerse/NNP told/VBD Reuters/NNP "TCI's/NN request/NN for/IN the/DT removal/NN of/IN the/DT supervisory/JJ board/NN will/MD be/VB considered/VBN at/IN the/DT annual/JJ general/JJ meeting/NN on/IN May/NNP 25."/CD
+
+The/DT Sunday/NNP Times/NNP reported/VBD that/IN TCI/NNP had/VBD been/VBN drawing/VBG up/RP a/DT list/NN of/IN heavyweight/JJ executives/NNS to/TO replace/VB Deutsche's/NNP chairman/NN Rolf/NNP Breuer/NNP and/CC chief/JJ executive/NN Werner/NNP Seifert./NNP
+The/DT group/NN owns/VBZ more/JJR than/IN 5%/CD of/IN Deutsche/NNP -/: more/JJR than/IN enough/JJ to/TO demand/VB an/DT extraordinary/JJ general/JJ meeting/NN to/TO call/VB on/IN shareholders/NNS to/TO oust/VB the/DT German/JJ exchange's/NNS management./NN
+Under/IN German/JJ law/NN Deutsche/NNP does/VBZ not/RB need/VB investor/NN backing/NN to/TO make/VB a/DT takeover/NN bid./NN
+TCI/NNP and/CC Atticus/NNP have/VBP opposed/VBN the/DT LSE/NNP bid/NN for/IN some/DT time/NN saying/VBG it/PRP would/MD destroy/VB shareholder/NN value/NN and/CC would/MD be/VB better/JJR spent/VBN on/IN a/DT share/NN buyback./NN
+Deutsche/NNP is/VBZ in/IN competition/NN with/IN pan-European/JJ bourse/NN Euronext/NNP to/TO take/VB over/RP the/DT London/NNP exchange./NN
+Many/JJ commentators/NNS have/VBP suggested/VBN a/DT bidding/NN war/NN between/IN the/DT two/CD could/MD break/VB out./NN
+However/RB any/DT such/JJ move/NN would/MD have/VB to/TO wait/VB until/IN March/NNP when/WRB the/DT Office/NNP of/IN Fair/NNP Trading/NN completes/VBZ an/DT investigation/NN into/IN the/DT competition/NN aspects/NNS of/IN the/DT pair's/NNS takeover/NN proposals./NN

@@ -1,0 +1,12 @@
+Moreno/NNP debut/NN makes/VBZ Oscar/NNP mark/NN
+
+Catalina/NNP Sandino/NNP Moreno/NNP has/VBZ joined/VBN a/DT rare/JJ group/NN of/IN actresses/NNS who/WP have/VBP been/VBN nominated/VBN for/IN an/DT Oscar/NNP for/IN starring/VBG in/IN a/DT foreign/JJ language/NN film./NN
+
+The/DT Colombian-born/NNP actress/NN was/VBD the/DT final/JJ hope/NN for/IN director/NN Joshua/NNP Marston/NNP who/WP scoured/VBD the/DT US/PRP and/CC Colombia/NNP for/IN a/DT lead/NN for/IN Maria/NNP Full/JJ of/IN Grace./NNP
+The/DT film/NN sees/VBZ the/DT 23-year-old/JJ play/NN a/DT teenage/JJ drug/NN mule/NN who/WP smuggles/VBZ heroin/NN by/IN swallowing/VBG pellets/NNS in/IN condoms./NN
+Plaudits/NNS have/VBP been/VBN raining/VBG down/RP on/IN her/PRP for/IN her/PRP$ gritty/JJ performance/NN making/VBG it/PRP all/PDT the/DT more/RBR surprising/JJ that/IN this/DT is/VBZ her/PRP$ first/JJ film./NN
+Her/PRP$ previous/JJ acting/NN experience/NN was/VBD in/IN amateur/JJ productions/NNS in/IN her/PRP$ home/NN city/NN of/IN Bogota/NNP at/IN the/DT Ruben/NNP Di/NNP Pietro/NNP theatre/NNP academy./NN
+She/PRP has/VBZ already/RB received/VBN a/DT nomination/NN for/IN the/DT Independent/NNP Spirit/NN Awards/NNS leading/VBG actress/NN category/NN but/CC these/DT rarely/RB overlap/VB with/IN Academy/NNP Awards/NNS instead/RB recognising/VBG quirkier/NN low-budget/JJ films./NN
+And/CC at/IN the/DT 2004/CD Berlin/NNP Film/NNP Festival/NNP the/DT jury/NN could/MD not/RB choose/VB between/IN her/PRP and/CC Charlize/NNP Theron's/NNP Oscar/NNP winning/VBG performance/NN in/IN Monster/NN so/RB gave/VBD them/PRP a/DT tied/VBN award./NN
+Sandino/NNP Moreno/NNP is/VBZ now/RB being/VBG regarded/VBN as/IN one/CD of/IN the/DT most/JJS promising/JJ actresses/NNS around/IN at/IN the/DT moment./NN
+But/CC she/PRP is/VBZ taking/VBG her/PRP$ time/NN committing/VBG to/TO her/PRP$ next/JJ project/NN hoping/VBG to/TO land/VB a/DT strong/JJ Spanish/JJ script/NN and/CC would/MD love/VB to/TO be/VB able/JJ to/TO work/VB with/IN directors/NNS Pedro/NNP Almodovar/NNP or/CC Alejandro/NNP Amenabar./NNP

@@ -1,0 +1,66 @@
+'Podcasters'/NN look/NN to/TO net/JJ money/NN
+
+Nasa/NNP is/VBZ doing/VBG it/PRP 14-year-old/JJ boys/NNS in/IN bedrooms/NNS are/VBP doing/VBG it/PRP couples/NNS are/VBP doing/VBG it/PRP gadget/NN lovers/NNS -/: male/JJ and/CC female/JJ -/: are/VBP definitely/RB doing/VBG it./NN
+
+It/PRP is/VBZ podcasting/VBG -/: DIY/NNP radio/NN in/IN the/DT form/NN of/IN downloadable/JJ MP3/CD audio/JJ files./NN
+They/PRP can/MD done/VB by/IN anyone/NN who/WP has/VBZ a/DT microphone/NN simple/JJ software/NN the/DT net/JJ and/CC something/NN to/TO say./VB
+Some/DT liken/VB them/PRP to/TO talking/VBG "audioblogs"/NN because/IN many/JJ complement/VBP text-based/JJ weblogs/NNS -/: diary-like/JJ sites/NNS where/WRB people/NNS share/VBP their/PRP$ thoughts./NN
+They/PRP are/VBP essentially/RB amateur/JJ radio/NN shows/VBZ on/IN the/DT net/NN on/IN demand/NN and/CC the/DT "movement"/NN is/VBZ at/IN very/RB early/JJ stages./NN
+"It's/NN about/IN real/JJ people/NNS saying/VBG real/JJ things/NNS and/CC communicating"/NN says/VBZ Adam/NNP Curry/NNP former/JJ MTV/NNP VJ/NNP and/CC the/DT Pied/NNP Piper/NNP of/IN podcasting./NN
+He/PRP was/VBD one/CD of/IN a/DT community/NN of/IN people/NNS who/WP created/VBD iPodder/NN a/DT small/JJ computer/NN program/NN known/VBN as/IN an/DT "aggregator"./NN
+
+It/PRP collects/VBZ and/CC automatically/RB sends/VBZ MP3/CD files/NNS to/TO any/DT digital/JJ music-playing/JJ device/NN that/WDT can/MD play/VB WMP/NNP formats./NN
+Those/DT with/IN digital/JJ music/NN players/NNS can/MD select/VB which/WDT podcasts/VBZ they/PRP like/IN and/CC subscribe/VB -/: for/IN free/JJ -/: to/TO that/DT show's/NNS "feed"./NN
+When/WRB a/DT new/JJ podcast/NN is/VBZ available/JJ it/PRP is/VBZ automatically/RB sent/VBN to/TO the/DT device/NN when/WRB connected/VBN to/TO a/DT computer./NN
+"It/NN is/VBZ totally/RB going/VBG to/TO kill/VB the/DT business/NN model/NN of/IN radio"/NN thinks/VBZ Curry./NNP
+"I/NN just/RB did/VBD a/DT tour/NN of/IN Madison/NNP Avenue/NNP where/WRB all/PDT the/DT big/JJ brands/NNS and/CC advertising/NN agencies/NNS of/IN the/DT world/NN are"/NN he/PRP says./VB
+"And/NN they/PRP are/VBP scared/VBN to/TO death/NN of/IN the/DT next/JJ generation/NN -/: like/IN my/PRP$ daughter/NN who/WP is/VBZ 14/CD -/: who/WP don't/VBP listen/VB to/TO radio./NN
+"They/NN are/VBP on/IN MSN/NNP they've/NN got/VBD their/PRP$ iPod/VBP their/PRP$ MP3/CD player/NN they've/NN got/VBD their/PRP$ Xbox/NNP -/: they/PRP are/VBP not/RB listening/VBG to/TO radio./VB
+"So/NN how/WRB are/VBP they/PRP going/VBG to/TO reach/VB these/DT audiences?/NN "It/NN is/VBZ the/DT distribution/NN that/WDT is/VBZ changing/VBG and/CC the/DT barriers/NNS are/VBP being/VBG brought/VBN down/RB so/RB everyone/NN can/MD be/VB part/NN of/IN it."/NN
+
+It/PRP is/VBZ a/DT fledgling/NN movement/NN but/CC it/PRP is/VBZ gaining/VBG momentum/NN now/RB that/IN people/NNS have/VBP started/VBN thinking/VBG about/IN how/WRB to/TO make/VB a/DT business/NN from/IN it./NN
+Ian/NNP Fogg/NNP Jupiter/NNP Research/NNP analyst/NN thinks/VBZ there/EX could/MD be/VB potential/NN for/IN business/NN but/CC it/PRP could/MD take/VB an/DT interesting/JJ turn/NN if/IN big/JJ companies/NNS like/IN Apple/NNP and/CC Microsoft/NNP get/VBP involved./NN
+"It/NN is/VBZ a/DT nascent/NN area/NN but/CC quite/RB exciting./NN
+It/PRP is/VBZ yet/RB another/DT area/NN that/WDT demonstrates/VBZ the/DT move/NN to/TO a/DT digital/JJ lifestyle/NN and/CC digital/JJ home/NN is/VBZ not/RB over"/NN he/PRP says./VB
+
+"Podcasting/VBG is/VBZ one/CD of/IN those/DT interesting/JJ areas/NNS that/IN bridges/NNS what/WP you/PRP do/VBP at/IN home/NN and/CC what/WP you/PRP do/VBP out/RB and/CC about/IN -/: a/DT classic/JJ hybrid./NN
+It/PRP is/VBZ another/DT aspect/NN of/IN the/DT "time-shifting"/NN of/IN content/NN -/: the/DT latest/JJS industry/NN buzzword/NN for/IN being/VBG able/JJ to/TO listen/VB to/TO what/WP you/PRP want/VBP when/WRB and/CC wherever/WRB you/PRP want./VBP
+Audiences/NNS are/VBP in/IN the/DT 10s/CD 100s/CD and/CC 1000s/CD rather/RB than/IN millions./NN
+More/JJR than/IN 4300/CD podcasts/NNS are/VBP currently/RB listed./NN
+Curry's/NNP Daily/NNP Source/NN Code/NNP -/: which/WDT he/PRP committed/VBD to/TO doing/VBG daily/JJ to/TO inspire/VB the/DT community/NN -/: has/VBZ 10s/CD of/IN thousands/NNS of/IN listeners./NN
+
+But/CC Dave/NNP Winer/NNP is/VBZ doubtful./NN
+He/PRP designed/VBD the/DT format/NN called/VBN RSS/NNP (Really/RB Simple/NN Syndication)/NNP which/WDT gives/VBZ web/NN users/NNS an/DT easy/JJ way/NN to/TO keep/VB updated/VBN automatically/RB on/IN sites/NNS they/PRP like./VBP
+Podcasts/NNP rely/VB on/IN his/PRP$ technology/NN because/IN it/PRP is/VBZ the/DT way/NN they/PRP are/VBP distributed./JJ
+He/PRP is/VBZ also/RB writer/NN of/IN the/DT longest-running/JJ weblog/NN on/IN the/DT net/JJ Scripting/NNP News./NNP
+He/PRP thinks/VBZ its/PRP$ power/NN lies/VBZ in/IN its/PRP$ democratising/VBG potential/JJ not/RB in/IN its/PRP$ "over-hyped"/JJ business/NN promise./NN
+
+"We're/NN the/DT sources/NNS the/DT people/NNS doing/VBG stuff/NN and/CC podcasting/VBG is/VBZ a/DT way/NN to/TO tell/VB people/NNS who/WP care/VBP what/WP we're/NN doing./NN
+"No/NN matter/NN how/WRB you/PRP look/VBP at/IN it/PRP commercialising/VBG this/DT medium/NN isn't/NN going/VBG to/TO make/VB very/RB much/RB money"/NN he/PRP says./VB
+"Podcasting/VBG is/VBZ going/VBG to/TO be/VB a/DT medium/NN of/IN niches/NNS with/IN 'audiences'/NN measured/VBN in/IN the/DT single/JJ digits/NNS like/IN e-mail/JJ or/CC blogs./NN
+"Maybe/NN in/IN a/DT few/JJ years/NNS maybe/RB six/CD or/CC seven/CD digits./NN
+But/CC it/PRP will/MD have/VB to/TO sustain/VB interest/NN beyond/IN the/DT hype/NN balloon."/NN Curry/NNP and/CC associate/JJ Ron/NNP Bloom's/NNP new/JJ venture/NN called/VBN PodShow/NNP is/VBZ to/TO help/VB ordinary/JJ people/NNS produce/VBP post/NN distribute/NN and/CC market/VBP their/PRP$ podcasts./NN
+Because/IN of/IN the/DT way/NN podcasts/NNS work/VBP based/VBN on/IN RSS/NNP the/DT latest/JJS podcasts/NNS which/WDT people/NNS can/MD select/VB mean/VB that/IN they/PRP are/VBP ready-made/JJ targets./NN
+"When/NN you/PRP look/VBP at/IN podcasting/VBG -/: wow/NN this/DT is/VBZ a/DT pretty/RB interesting/JJ audience./NN
+The/DT audience/NN is/VBZ pre-selected./JJ
+They/PRP have/VBP decided/VBN to/TO subscribe/VB to/TO your/PRP$ program"/NN explains/VBZ Curry./NNP
+Advertising/NNP in/IN his/PRP$ eyes/NNS can/MD be/VB tailored/VBN to/TO podcasts/NNS to/TO make/VB it/PRP more/RBR imaginative/JJ and/CC unobtrusive./NN
+"How/NN I/PRP believe/VBP this/DT will/MD work/VB is/VBZ to/TO create/VB a/DT network/NN that/IN in/IN aggregation/NN will/MD have/VB enough/JJ numbers/NNS to/TO support/VB a/DT return/NN on/IN investment/NN for/IN the/DT advertisers/NNS and/CC for/IN the/DT podcasters./NN
+"I/NN have/VBP 50/CD 60/CD 70000/CD listeners./NN
+I/PRP could/MD make/VB a/DT couple/NN of/IN bucks/NNS off/RP that/IN but/CC not/RB much./NN
+If/IN you/PRP are/VBP talking/VBG a/DT million/CD podcasters/NNS and/CC then/RB you/PRP can/MD kind/VB of/IN divide/VBP that/IN amongst/IN ourselves/PRP then/RB that/DT is/VBZ kind/NN of/IN interesting."/JJ Essentially/RB he/PRP says/VBZ if/IN you/PRP are/VBP doing/VBG a/DT bass/NN fishing/NN podcast/NN someone/NN who/WP is/VBZ selling/VBG bait/NN and/CC tackle/VB will/MD probably/RB want/VB to/TO advertise/VB on/IN your/PRP$ show./NN
+He/PRP is/VBZ clear/JJ the/DT ads/NNS will/MD not/RB be/VB the/DT traditional/JJ "in-your-face"/JJ type/NN familiar/JJ to/TO commercial/JJ radio/NN now./NN
+"We/NN are/VBP really/RB going/VBG to/TO see/VB these/DT microcosms/NNS and/CC commerce/NN will/MD be/VB all/DT over/IN the/DT place."/NN
+
+It/PRP is/VBZ happening/VBG already./NN
+Coffee-loving/NNP Curry/NNP has/VBZ sold/VBN $4000/CD worth/NN of/IN coffee/NN machines/NNS through/IN a/DT referral/NN link/NN to/TO Amazon/NNP from/IN his/PRP$ site./NN
+
+Others/NNS use/VBP in-show/JJ promotions/NNS like/IN The/DT Dawn/NN and/CC Drew/NNP Show./NNP
+One/CD Eric/NNP Rice/NNP has/VBZ won/VBN sponsorship/NN from/IN Warner/NNP Bros./NNP
+He/PRP can/MD now/RB legally/RB play/VB the/DT music/NN of/IN a/DT band/NN Warner/NNP Bros/NNP wants/VBZ to/TO push./VB
+Some/DT commentators/NNS on/IN the/DT net/JJ say/VBP it/PRP has/VBZ a/DT similar/JJ feel/NN to/TO the/DT dotcom/NN days./NN
+Others/NNS say/VBP it/PRP is/VBZ just/RB another/DT element/NN of/IN setting/VBG media/NNS free/JJ from/IN big/JJ companies/NNS and/CC letting/VBG people/NNS be/VBP creative./NN
+One/CD thing/NN is/VBZ for/IN sure/JJ they/PRP are/VBP not/RB about/IN to/TO disappear/VB in/IN a/DT hurry./NN
+The/DT creative/JJ forces/NNS behind/IN radio/NN are/VBP elated/VBN says/VBZ Curry./NNP
+For/IN now/RB he/PRP tunes/VBZ out/RP the/DT negative/JJ comments/NNS within/IN the/DT podcasting/VBG community./NN
+"I/NN should/MD be/VB knighted/VBN for/IN this"/NN he/PRP adds/VBZ with/IN a/DT wry/NN chuckle/NN "People/NN are/VBP going/VBG to/TO be/VB so/RB happy/JJ to/TO sit/VB at/IN home/NN make/VBP their/PRP$ podcast/NN and/CC make/VB a/DT little/JJ money."/NN

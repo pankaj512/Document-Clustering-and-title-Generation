@@ -1,0 +1,10 @@
+Lib/NNP Dems/NNP predict/VBP 'best/JJ ever/RB poll'/NN
+
+The/DT Lib/NNP Dems/NNP are/VBP set/VBN for/IN their/PRP$ best/JJS results/NNS in/IN both/DT the/DT general/JJ election/NN and/CC the/DT local/JJ council/NN polls/NNS one/CD of/IN their/PRP$ frontbenchers/NNS has/VBZ predicted./NN
+
+Local/JJ government/NN spokesman/NN Ed/NNP Davey/NNP was/VBD speaking/VBG as/IN the/DT party/NN launched/VBD its/PRP$ campaign/NN for/IN the/DT local/JJ elections/NNS being/VBG held/VBN in/IN 37/CD English/JJ council/NN areas./NN
+The/DT flagship/NN pledge/NN is/VBZ to/TO replace/VB council/NN tax/NN with/IN a/DT local/JJ income/NN tax./NN
+The/DT Tories/NNPS say/VBP the/DT Lib/NNP Dems/NNP would/MD make/VB people/NNS pay/VB more/JJR tax/NN and/CC Labour/NNP says/VBZ the/DT party's/NNS sums/NNS do/VBP not/RB add/VB up./NN
+Looking/VBG to/TO the/DT coming/VBG elections/NNS which/WDT are/VBP all/DT expected/VBN to/TO be/VB held/VBN on/IN 5/CD May/NNP Mr/NNP Davey/NNP said/VBD "We/NN are/VBP going/VBG to/TO be/VB winning/VBG more/JJR votes/NNS and/CC winning/VBG more/JJR seats./NN
+"I/NN think/VBP we/PRP are/VBP going/VBG to/TO have/VB the/DT best/JJS general/JJ election/NN results/NNS and/CC local/JJ election/NN results/NNS we/PRP have/VBP ever/RB had/VBN under/IN [party/NN leader]/NN Charles/NNP Kennedy./NNP
+"I/NN couldn't/NN think/VBP of/IN a/DT stronger/JJR endorsement/NN of/IN a/DT leader."/NN

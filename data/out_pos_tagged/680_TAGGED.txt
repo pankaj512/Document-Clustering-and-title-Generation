@@ -1,0 +1,13 @@
+EastEnders/NNP 'is/NN set/VBN for/IN US/PRP remake'/VBP
+
+Plans/NNS to/TO create/VB a/DT US/PRP soap/VBP based/VBN on/IN the/DT BBC's/NNP EastEnders/NNP have/VBP reportedly/RB been/VBN drawn/VBN up/RP by/IN the/DT Fox/NNP TV/NN network./NN
+
+EastEnders'/NNP head/NN writer/NN Tony/NNP Jordan/NNP and/CC music/NN mogul/NN Simon/NNP Fuller/NNP are/VBP involved/VBN in/IN the/DT project/NN according/VBG to/TO reports/NNS in/IN the/DT Hollywood/NNP Reporter/NN trade/NN newspaper./NN
+It/PRP said/VBD scripts/NNS have/VBP been/VBN commissioned/VBN for/IN a/DT series/NN about/IN a/DT community/NN of/IN working/VBG class/NN people/NNS in/IN of/IN Chicago./NNP
+The/DT original/JJ EastEnders/NNP was/VBD pulled/VBN from/IN BBC/NNP America/NNP last/JJ year/NN after/IN it/PRP proved/VBD a/DT failure/NN in/IN the/DT ratings./NN
+US/PRP versions/VBZ of/IN other/JJ British/JJ hits/NNS have/VBP proved/VBN less/RBR successful/JJ across/IN the/DT Atlantic./NNP
+
+BBC/NNP comedy/NN Coupling/NN was/VBD remade/VB with/IN a/DT US/PRP cast/VBP but/CC lost/VBD its/PRP$ primetime/NN slot/NN on/IN the/DT NBC/NNP network/NN due/JJ to/TO disappointing/JJ ratings./NN
+At/IN home/NN EastEnders/NNP has/VBZ been/VBN facing/VBG its/PRP$ own/JJ ratings/NNS battle/NN recently/RB losing/VBG out/RP to/TO rival/JJ ITV/NNP soap/NN Emmer/NNP dale./NN
+Primetime/NN soaps/NNS on/IN US/PRP television/VBP have/VBP made/VBN a/DT recent/JJ comeback/NN following/VBG the/DT success/NN of/IN ABC/NNP serial/NN Desperate/JJ Housewives./NNP
+The/DT series/NN takes/VBZ a/DT "darkly/JJ comedic"/NN look/NN at/IN the/DT goings-on/NNS of/IN a/DT group/NN of/IN characters/NNS living/VBG in/IN the/DT suburbs./NN

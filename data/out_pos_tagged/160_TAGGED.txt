@@ -1,0 +1,23 @@
+GM/NNP pays/VBZ $2bn/CD to/TO evade/VB Fiat/NNP buyout/NN
+
+General/NNP Motors/NNPS of/IN the/DT US/PRP is/VBZ to/TO pay/VB Fiat/NNP 1.55bn/CD euros/NNS ($2bn/CD £1.1bn)/CD to/TO get/VB out/IN of/IN a/DT deal/NN which/WDT could/MD have/VB forced/VBN it/PRP to/TO buy/VB the/DT Italian/JJ car/NN maker/NN outright./NN
+
+Fiat/NNP had/VBD sold/VBN GM/NNP a/DT stake/NN in/IN 2000/CD as/IN part/NN of/IN a/DT partnership/NN agreement./NN
+But/CC Fiat's/NNP heavy/JJ losses/NNS have/VBP convinced/VBN GM/NNP -/: whose/WP$ own/JJ European/JJ operations/NNS are/VBP in/IN the/DT red/NN -/: to/TO back/VB away./VB
+The/DT pay-off/JJ means/VBZ the/DT two/CD firms/NNS will/MD unwind/VB joint/JJ ventures/NNS but/CC Fiat/NNP will/MD keep/VB supplying/VBG diesel/NN engines/NNS and/CC the/DT money/NN will/MD allow/VB it/PRP to/TO reduce/VB its/PRP$ debt./NN
+Fiat's/NNP shares/NNS on/IN the/DT Milan/NNP stock/NN exchange/NN rose/VBD 4.5%/CD by/IN 0900/CD GMT/NNP to/TO 6.2/CD euros/NNS having/VBG shot/NN up/RP more/JJR than/IN 7%/CD in/IN early/JJ trading./NN
+"We/NN now/RB have/VBP absolute/JJ freedom/NN to/TO design/VB our/PRP$ own/JJ future"/NN said/VBD Fiat/NNP chief/NN executive/NN Sergio/NNP Marchionne./NNP
+
+Analysts/NNS said/VBD Fiat/NNP seemed/VBD to/TO have/VB done/VBN well/RB out/IN of/IN the/DT deal/NN although/IN some/DT predictions/NNS had/VBD expected/VBN a/DT 2bn/CD euro/NN pay-off./JJ
+Fiat/NNP is/VBZ to/TO get/VB 1bn/CD euros/NNS immediately/RB with/IN another/DT 550m/CD to/TO follow/VB within/IN 90/CD days./NN
+The/DT firm/NN is/VBZ Italy's/NNP largest/JJS private/JJ employer/NN and/CC a/DT failure/NN to/TO reach/VB an/DT agreement/NN could/MD have/VB had/VBN severe/JJ consequences/NNS for/IN thousands/NNS of/IN workers/NNS and/CC for/IN the/DT Italian/JJ economy./NN
+For/IN its/PRP$ part/NN GM/NNP was/VBD keen/JJ to/TO ward/VB off/RP any/DT criticism/NN that/IN the/DT deal/NN had/VBD been/VBN a/DT mistake./NN
+
+"We/NN needed/VBD scale/NN in/IN Europe/NNP to/TO get/VB costs/NNS down/RB and/CC we/PRP were/VBD able/JJ to/TO do/VB that/DT in/IN working/VBG with/IN Fiat"/NNP said/VBD GM/NNP chief/NN executive/NN Rick/NNP Wagoner./NNP
+
+The/DT Fiat-GM/NNP alliance/NN came/VBD about/IN in/IN 2000/CD as/IN an/DT alternative/NN to/TO selling/VBG Fiat/NNP outright./NN
+German-US/NNP car/NN firm/NN DaimlerChrysler/NNP had/VBD been/VBN willing/JJ to/TO buy/VB the/DT firm/NN but/CC Fiat/NNP patriarch/NN Gianni/NNP Agnelli/NNP did/VBD not/RB want/VB to/TO give/VB up/RP control./NN
+Instead/RB GM/NNP swapped/VBD a/DT 6%/CD stake/NN in/IN itself/PRP for/IN 20%/CD of/IN Fiat/NNP -/: and/CC gave/VBD Fiat/NNP a/DT "put/NN option"/NN to/TO sell/VB GM/NNP the/DT rest/NN of/IN the/DT car/NN maker/NN between/IN January/NNP 2004/CD and/CC July/NNP 2009./CD
+But/CC despite/IN the/DT alliance/NN Fiat/NNP failed/VBD to/TO put/VB itself/PRP back/RB on/IN track/NN continuing/VBG to/TO lose/VB money/NN and/CC market/NN share./NN
+As/IN a/DT result/NN the/DT sell-off/NN looked/VBD better/RBR and/CC better/JJR for/IN the/DT Italians/NNPS -/: and/CC much/RB worse/JJR for/IN GM/NNP which/WDT is/VBZ struggling/VBG with/IN its/PRP$ own/JJ loss-making/JJ European/JJ marques/NNS Opel/NNP and/CC Saab./NNP
+The/DT relationship/NN soured/JJ further/NN after/IN Fiat/NNP sold/VBD half/NN its/PRP$ finance/NN arm/NN and/CC recapitalised/VBN in/IN 2003/CD halving/VBG GM's/NNP stake/NN to/TO 10%./CD

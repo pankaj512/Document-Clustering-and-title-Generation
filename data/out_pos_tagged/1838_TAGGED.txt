@@ -1,0 +1,17 @@
+EU/NNP software/NN patent/NN law/NN faces/VBZ axe/NN
+
+The/DT European/NNP Parliament/NNP has/VBZ thrown/VBN out/RP a/DT bill/NN that/WDT would/MD have/VB allowed/VBN software/NN to/TO be/VB patented./NN
+
+Politicians/NNS unanimously/RB rejected/VBD the/DT bill/NN and/CC now/RB it/PRP must/MD go/VB through/IN another/DT round/NN of/IN consultation/NN if/IN it/PRP is/VBZ to/TO have/VB a/DT chance/NN of/IN becoming/VBG law./NN
+During/IN consultation/NN the/DT software/NN patents/NNS bill/NN could/MD be/VB substantially/RB re-drafted/JJ or/CC even/RB scrapped./NN
+The/DT bill/NN was/VBD backed/VBN by/IN some/DT hi-tech/JJ firms/NNS saying/VBG they/PRP needed/VBD protections/NNS it/PRP offered/VBD to/TO make/VB research/NN worthwhile./NN
+
+Hugo/NNP Lueders/JJ European/JJ director/NN for/IN public/JJ policy/NN at/IN CompTIA/NNP an/DT umbrella/NN organization/NN for/IN technology/NN companies/NNS said/VBD only/RB when/WRB intellectual/JJ property/NN was/VBD adequately/RB protected/VBN would/MD European/JJ inventors/NNS prosper./NN
+He/PRP said/VBD the/DT benefits/NNS of/IN the/DT bill/NN had/VBD been/VBN obscured/VBN by/IN special/JJ interest/NN groups/NNS which/WDT muddied/VBD debate/NN over/IN the/DT rights/NNS and/CC wrongs/NNS of/IN software/NN patents./NN
+Other/JJ proponents/NNS of/IN the/DT bill/NN said/VBD it/PRP was/VBD a/DT good/JJ compromise/NN that/WDT avoided/VBD the/DT excesses/NNS of/IN the/DT American/JJ system/NN which/WDT allows/VBZ the/DT patenting/NN of/IN business/NN practices/NNS as/RB well/RB as/IN software./NN
+But/CC opponents/NNS of/IN the/DT bill/NN said/VBD that/IN it/PRP could/MD stifle/VB innovation/NN be/VB abused/VBN by/IN firms/NNS keen/JJ to/TO protect/VB existing/VBG monopolies/NNS and/CC could/MD hamper/VB the/DT growth/NN of/IN the/DT open/JJ source/NN movement./NN
+The/DT proposed/VBN law/NN had/VBD a/DT troubled/JJ passage/NN through/IN the/DT European/JJ parliament./NN
+Its/PRP$ progress/NN was/VBD delayed/VBN twice/RB when/WRB Polish/JJ MEPs/NNP rejected/VBD plans/NNS to/TO adopt/VB it./NN
+Also/RB earlier/RBR this/DT month/NN the/DT influential/JJ European/NNP Legal/NNP Affairs/NNP Committee/NNP (JURI)/NN said/VBD the/DT law/NN should/MD be/VB re-drafted/JJ after/IN it/PRP failed/VBD to/TO win/VB the/DT support/NN of/IN MEPs./NNP
+To/TO become/VB law/NN both/DT the/DT European/NNP Parliament/NNP and/CC a/DT qualified/VBN majority/NN of/IN EU/NNP states/NNS have/VBP to/TO approve/VB of/IN the/DT draft/NN wording/NN of/IN the/DT bill./NN
+The/DT latest/JJS rejection/NN means/VBZ that/IN now/RB the/DT bill/NN on/IN computer/NN inventions/NNS must/MD go/VB back/RB to/TO the/DT EU/NNP for/IN re-consideration./JJ

@@ -1,0 +1,40 @@
+Asian/JJ quake/NN hits/NNS European/JJ shares/NNS
+
+Shares/NNS in/IN Europe's/NNP leading/VBG reinsurers/NNS and/CC travel/NN firms/NNS have/VBP fallen/VBN as/IN the/DT scale/NN of/IN the/DT damage/NN wrought/VBN by/IN tsunamis/NNS across/IN south/JJ Asia/NNP has/VBZ become/VBN apparent./NN
+
+More/JJR than/IN 23000/CD people/NNS have/VBP been/VBN killed/VBN following/VBG a/DT massive/JJ underwater/JJ earthquake/NN and/CC many/JJ of/IN the/DT worst/JJS hit/VBD areas/NNS are/VBP popular/JJ tourist/NN destinations./NN
+Reisurance/NN firms/NNS such/JJ as/IN Swiss/NNP Re/NNP and/CC Munich/NNP Re/NNP lost/VBD value/NN as/IN investors/NNS worried/VBN about/IN rebuilding/VBG costs./NN
+But/CC the/DT disaster/NN has/VBZ little/JJ impact/NN on/IN stock/NN markets/NNS in/IN the/DT US/PRP and/CC Asia./NNP
+
+Currencies/NNS including/VBG the/DT Thai/NNP baht/NN and/CC Indonesian/NNP rupiah/NN weakened/VBN as/IN analysts/NNS warned/VBD that/IN economic/JJ growth/NN may/MD slow./VB
+"It/NN came/VBD at/IN the/DT worst/JJS possible/JJ time"/NN said/VBD Hans/NNP Goetti/NNP a/DT Singapore-based/JJ fund/NN manager./NN
+"The/NN impact/NN on/IN the/DT tourist/NN industry/NN is/VBZ pretty/RB devastating/JJ especially/RB in/IN Thailand."/NNP Travel-related/JJ shares/NNS dropped/VBD in/IN Europe/NNP with/IN companies/NNS such/JJ as/IN Germany's/NNP TUI/NNP and/CC Lufthansa/NNP and/CC France's/NNP Club/NNP Mediterranne/NNP sliding./NN
+Insurers/NNS and/CC reinsurance/NN firms/NNS were/VBD also/RB under/IN pressure/NN in/IN Europe./NNP
+
+Shares/NNS in/IN Munich/NNP Re/NNP and/CC Swiss/NNP Re/NNP -/: the/DT world's/NNS two/CD biggest/JJS reinsurers/NNS -/: both/DT fell/VBD 1.7%/CD as/IN the/DT market/NN speculated/VBD about/IN the/DT cost/NN of/IN rebuilding/VBG in/IN Asia./NNP
+Zurich/NNP Financial/NNP Allianz/NNP and/CC Axa/NNP also/RB suffered/VBD a/DT decline/NN in/IN value./NN
+
+However/RB their/PRP$ losses/NNS were/VBD much/RB smaller/JJR reflecting/VBG the/DT market's/NNS view/NN that/IN reinsurers/NNS were/VBD likely/JJ to/TO pick/VB up/RP the/DT bulk/NN of/IN the/DT costs./NN
+Worries/NNS about/IN the/DT size/NN of/IN insurance/NN liabilities/NNS dragged/VBD European/JJ shares/NNS down/RP although/IN the/DT impact/NN was/VBD exacerbated/VBN by/IN light/JJ post-Christmas/NNS trading./NN
+Germany's/NNP benchmark/NN Dax/NNP index/NN closed/VBD the/DT day/NN 16.29/CD points/NNS lower/JJR at/IN 3.817.69/CD while/IN France's/NNP Cac/NNP index/NN of/IN leading/VBG shares/NNS fell/VBD 5.07/CD points/NNS to/TO 3.817.69./CD
+Investors/NNS pointed/VBD out/RP however/RB that/IN declines/NNS probably/RB would/MD be/VB industry/NN specific/JJ with/IN the/DT travel/NN and/CC insurance/NN firms/NNS hit/VBD hardest./NN
+"It's/NN still/RB too/RB early/RB for/IN concrete/JJ damage/NN figures"/NN Swiss/NNP Re's/NNP spokesman/NN Floiran/NNP Woest/NNP told/VBD Associated/NNP Press./NNP
+"That/NN also/RB has/VBZ to/TO do/VB with/IN the/DT fact/NN that/IN the/DT damage/NN is/VBZ very/RB widely/RB spread/NN geographically."/NN
+
+The/DT unfolding/VBG scale/NN of/IN the/DT disaster/NN in/IN south/JJ Asia/NNP had/VBD little/JJ immediate/JJ impact/NN on/IN US/PRP shares/VBZ however./NN
+The/DT Dow/NNP Jones/NNP index/NN had/VBD risen/VBN 20.54/CD points/NNS or/CC 0.2%/CD to/TO 10847.66/CD by/IN late/JJ morning/NN as/IN analsyts/NNS were/VBD cheered/VBN by/IN more/RBR encouraging/VBG reports/NNS from/IN retailers/NNS about/IN post-Christmas/NNS sales./NN
+In/IN Asian/JJ markets/NNS adjustments/NNS were/VBD made/VBN quickly/RB to/TO account/VB for/IN lower/JJR earnings/NNS and/CC the/DT cost/NN of/IN repairs./NN
+Thai/NNP Airways/NNPS shed/VBD almost/RB 4%./CD
+The/DT country/NN relies/VBZ on/IN tourism/NN for/IN about/IN 6%/CD of/IN its/PRP$ total/JJ economy./NN
+Singapore/NNP Airlines/NNPS dropped/VBD 2.6%./CD
+About/IN 5%/CD of/IN Singapore's/NNP annual/JJ gross/JJ domestic/JJ product/NN (GDP)/NN comes/VBZ from/IN tourism./NN
+Malaysia's/NNP budget/NN airline/NN AirAsia/NNP fell/VBD 2.9%./CD
+Resort/NNP operator/NN Tanco/NNP Holdings/NNP slumped/VBD 5%./CD
+
+Travel/NN companies/NNS also/RB took/VBD a/DT hit/NN with/IN Japan's/NNP Kinki/NNP Nippon/NNP sliding/VBG 1.5%/CD and/CC HIS/PRP$ dropping/VBG 3.3%./CD
+However/RB the/DT overall/JJ impact/NN on/IN Asia's/NNP largest/JJS stock/NN market/NN Japan's/NNP Nikkei/NNP was/VBD slight./NN
+Shares/NNS fell/VBD just/RB 0.03%./CD
+Concerns/NNS about/IN the/DT strength/NN of/IN economic/JJ growth/NN going/VBG forward/RB weighed/VBD on/IN the/DT currency/NN markets./NN
+The/DT Indonesian/NNP rupiah/NN lost/VBD as/RB much/JJ as/IN 0.6%/CD against/IN the/DT US/PRP dollar/VBP before/IN bouncing/VBG back/RB slightly/RB to/TO trade/VB at/IN 9300./CD
+The/DT Thai/NNP baht/NN lost/VBD 0.3%/CD against/IN the/DT US/PRP currency/VBP trading/NN at/IN 39.10./CD
+In/IN India/NNP where/WRB more/JJR than/IN 2000/CD people/NNS are/VBP thought/VBN to/TO have/VB died/VBN the/DT rupee/NN shed/VBD 0.1%/CD against/IN the/DT dollar/NN Analysts/NNS said/VBD that/IN it/PRP was/VBD difficult/JJ to/TO predict/VB the/DT total/JJ cost/NN of/IN the/DT disaster/NN and/CC warned/VBD that/IN share/NN prices/NNS and/CC currencies/NNS would/MD come/VB under/IN increasing/VBG pressure/NN as/IN the/DT bills/NNS mounted./NN

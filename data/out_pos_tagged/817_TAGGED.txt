@@ -1,0 +1,22 @@
+Carry/VB On/IN star/NN Patsy/NNP Rowlands/NNP dies/VBZ
+
+Actress/NNP Patsy/NNP Rowlands/NNP known/VBD to/TO millions/NNS for/IN her/PRP$ roles/NNS in/IN the/DT Carry/NN On/IN films/NNS has/VBZ died/VBN at/IN the/DT age/NN of/IN 71./CD
+
+Rowlands/NNP starred/VBD in/IN nine/CD of/IN the/DT popular/JJ Carry/NN On/IN films/NNS alongside/IN fellow/JJ regulars/NNS Sid/NNP James/NNP Kenneth/NNP Williams/NNP and/CC Barbara/NNP Windsor./NNP
+She/PRP also/RB carved/VBD out/RP a/DT successful/JJ television/NN career/NN appearing/VBG for/IN many/JJ years/NNS in/IN ITV's/NNP well-loved/JJ comedy/NN Bless/NN This/DT House./NNP
+Rowlands/NNP died/VBD in/IN Hove/NNP on/IN Saturday/NNP morning/NN her/PRP$ agent/NN said./NN
+
+Born/VBN in/IN January/NNP 1934/CD Rowlands/NNP won/VBD a/DT scholarship/NN to/TO the/DT Guildhall/NNP School/NNP of/IN Speech/NN and/CC Drama/NN scholarship/NN when/WRB she/PRP was/VBD just/RB 15./CD
+
+After/IN spending/NN several/JJ years/NNS at/IN the/DT Players/NNS Theatre/NNP in/IN London/NNP she/PRP made/VBD her/PRP$ film/NN debut/NN in/IN 1963/CD in/IN Tom/NNP Jones/NNP directed/VBD by/IN Tony/NNP Richardson./NNP
+She/PRP made/VBD her/PRP$ first/JJ Carry/NN On/IN film/NN in/IN 1969/CD where/WRB she/PRP appeared/VBD in/IN Carry/NN On/IN Again/RB Doctor./NNP
+Rowlands/NNP played/VBD the/DT hard-done-by/JJ wife/NN or/CC the/DT put-upon/JJ employee/NN as/IN a/DT regular/JJ Carry/NN On/IN star./NN
+She/PRP also/RB appeared/VBD in/IN Carry/NN On/IN at/IN your/PRP$ Convenience/NNP Carry/VB On/IN Matron/NN and/CC Carry/VB On/IN Loving/NNP as/RB well/RB as/IN others./NN
+
+In/IN recent/JJ years/NNS she/PRP appeared/VBD in/IN BBC/NNP mini-series/VBZ The/DT Cazalets/NNPS and/CC played/VBD Mrs/NNP Potts/NNP in/IN the/DT London/NNP stage/NN version/NN of/IN Beauty/NN and/CC the/DT Beast./NNP
+Agent/NNP Simon/NNP Beresford/NNP said/VBD "She/NN was/VBD just/RB an/DT absolutely/JJ favourite/NN client/NN She/PRP never/RB complained/VBD about/IN anything/NN particularly/RB when/WRB she/PRP was/VBD ill/JJ she/PRP was/VBD an/DT old/JJ trouper./NN
+"She/NN was/VBD of/IN the/DT old/JJ school/NN -/: she/PRP had/VBD skills/NNS from/IN musical/JJ theatre/FW and/CC high/JJ drama/NN that/WDT is/VBZ why/WRB she/PRP worked/VBD with/IN the/DT great/JJ and/CC the/DT good/NN of/IN directors./NN
+"She/NN didn't/NN mind/NN always/RB being/VBG recognised/VBN for/IN the/DT Carry/NN On/IN films/NNS because/IN she/PRP thoroughly/RB enjoyed/VBD making/VBG them./NN
+She/PRP was/VBD a/DT really/RB lovely/JJ person/NN and/CC she/PRP will/MD be/VB much/RB missed."/NN Her/PRP$ last/JJ appearance/NN on/IN stage/NN was/VBD as/IN Mrs/NNP Pearce/NNP in/IN the/DT award-winning/JJ production/NN of/IN My/PRP$ Fair/NNP Lady/NNP at/IN the/DT National/NNP Theatre./NNP
+Previously/RB married/JJ she/PRP leaves/VBZ one/CD son/NN Alan./NNP
+Her/PRP$ funeral/JJ will/MD be/VB a/DT private/JJ family/NN occasion/NN with/IN a/DT memorial/NN service/NN at/IN a/DT later/JJ date./NN

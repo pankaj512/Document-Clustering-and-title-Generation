@@ -1,0 +1,15 @@
+Russian/JJ film/NN wins/VBZ BBC/NNP world/NN prize/NN
+
+Russian/JJ drama/NN The/DT Return/NN (Vozvrashchenie)/NN has/VBZ been/VBN named/VBN winner/NN of/IN the/DT BBC/NNP Four/CD World/NNP Cinema/NNP Award./NNP
+
+The/DT film/NN tells/VBZ the/DT story/NN of/IN two/CD adolescent/JJ boys/NNS who/WP are/VBP subjected/VBN to/TO a/DT harsh/JJ regime/NN when/WRB their/PRP$ strict/JJ father/NN returns/NNS after/IN a/DT 10-year/JJ absence./NN
+Directed/NNP by/IN Andrey/NNP Zvyagintsev/NNP The/DT Return/NN previously/RB won/VBD the/DT 2003/CD Golden/NNP Lion/NNP award/NN at/IN the/DT Venice/NNP Film/NNP Festival./NNP
+The/DT prize/NN was/VBD presented/VBN at/IN an/DT awards/NNS ceremony/NN held/VBN in/IN London/NNP on/IN Thursday/NNP and/CC hosted/VBN by/IN Jonathan/NNP Ross./NNP
+The/DT winner/NN was/VBD chosen/VBN by/IN a/DT panel/NN which/WDT included/VBD X/NNP Files/NNS actress/NN Gillian/NNP Anderson/NNP critic/NN Roger/NNP Clarke/NNP and/CC Touching/VBG the/DT Void/NN director/NN Kevin/NNP McDonald./NNP
+
+Ross/NNP who/WP is/VBZ the/DT presenter/NN of/IN BBC/NNP One's/NNP Film/NNP 2005/CD was/VBD also/RB involved/VBN in/IN the/DT deliberations./NN
+A/DT shortlist/NN of/IN six/CD films/NNS from/IN around/IN the/DT world/NN had/VBD been/VBN drawn/VBN up/RP from/IN which/WDT the/DT panel/NN chose./NN
+Other/JJ nominees/NNS included/VBD the/DT Motorcycle/NNP Diaries/NNS Zatoichi/NNP and/CC Hero./NNP
+A/DT viewer/NN poll/NN saw/VBD director/NN Zhang/NNP Yimou's/NNP martial/JJ arts/NNS epic/NN Hero/NN emerge/NN as/IN the/DT favourite/NN with/IN 32%/CD of/IN votes/NNS cast./NN
+Tragedy/NN struck/VBD the/DT production/NN of/IN The/DT Return/NN when/WRB one/CD of/IN the/DT young/JJ stars/NNS 15-year-old/JJ Vladimir/NNP Girin/NNP drowned/VBD in/IN a/DT lake/NN where/WRB some/DT of/IN the/DT film's/NNS scenes/NNS were/VBD set./NN
+The/DT winner/NN of/IN the/DT World/NNP Cinema/NNP Award/NN last/JJ year/NN was/VBD the/DT French/JJ animated/VBN feature/NN Belleville/NNP Rendezvous/NN

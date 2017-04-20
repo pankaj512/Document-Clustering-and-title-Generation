@@ -1,0 +1,51 @@
+Redknapp's/NNP Saints/NNP face/NN Pompey/NNP tie/VB
+
+New/NNP Southampton/NNP manager/NN Harry/NNP Redknapp/NNP faces/VBZ an/DT immediate/JJ reunion/NN with/IN his/PRP$ old/JJ club/NN Portsmouth/NNP after/IN they/PRP were/VBD drawn/VBN together/RB in/IN the/DT FA/NNP Cup/NNP fourth/JJ round./NN
+
+Exeter/NNP City/NNP face/NN a/DT home/NN tie/NN against/IN Middlesbrough/NNP if/IN they/PRP can/MD see/VB off/RP holders/NNS Manchester/NNP United/NNP in/IN a/DT replay./NN
+Oldham's/NNP reward/NN for/IN beating/VBG Manchester/NNP City/NNP is/VBZ a/DT home/NN tie/NN with/IN Bolton/NNP while/IN Yeovil/NNP will/MD be/VB away/RB to/TO Charlton./NNP
+Chelsea/NNP host/NN Birmingham/NNP Tottenham/NNP travel/NN to/TO West/NNP Brom/NNP and/CC Arsenal/NN will/MD entertain/VB Championship/NNP side/NN Wolves./NNP
+Saints/NNP boss/NN Redknapp/NNP was/VBD upbeat/JJ about/IN the/DT draw/NN despite/IN having/VBG to/TO face/VB the/DT club/NN he/PRP walked/VBD out/RP on/IN just/RB six/CD weeks/NNS ago./NN
+"I've/NN said/VBD before/IN I/PRP can/MD walk/VB away/RB from/IN Portsmouth/NNP with/IN my/PRP$ head/NN held/VBD high/JJ I'm/NNP proud/JJ of/IN what/WP I/PRP did/VBD there/RB and/CC no/DT one/NN can/MD take/VB that/IN away/RB from/IN me"/NN said/VBD Redknapp./NNP
+"Maybe/NNP I'll/NNP be/VB in/IN for/IN some/DT stick/NN there's/NNS always/RB some/DT of/IN that/DT but/CC we'll/NN get/NN on/IN with/IN it/PRP and/CC it's/NNS only/RB a/DT game/NN of/IN football."/NN Birmingham/NNP manager/NN Steve/NNP Bruce/NNP admitted/VBD their/PRP$ trip/NN to/TO Stamford/NNP Bridge/NNP to/TO face/VB Premiership/NN leaders/NNS Chelsea/NNP was/VBD the/DT toughest/JJS draw/VB possible./NN
+Bruce/NNP said/VBD "I'm/NN still/RB in/IN shock./NN
+We've/NN given/VBD good/JJ accounts/NNS of/IN ourselves/PRP against/IN Chelsea/NNP in/IN the/DT past/JJ and/CC played/VBD well/RB when/WRB we/PRP lost/VBD 1-0/JJ at/IN home/NN at/IN the/DT start/NN of/IN the/DT season/NN -/: but/CC that's/VBZ the/DT past./NN
+"But/NN it's/NNS the/DT best/JJS competition/NN in/IN the/DT world/NN as/RB far/RB as/IN I/PRP am/VBP concerned/VBN and/CC we/PRP will/MD give/VB it/PRP our/PRP$ best/JJS shot."/NN Brentford/NNP boss/NN Martin/NNP Allen/NNP remained/VBD cautious/JJ despite/IN his/PRP$ side's/NNS favourable/JJ draw/NN -/: a/DT home/NN tie/NN with/IN either/CC Hartlepool/NNP or/CC Boston./NNP
+"The/NN best/JJS thing/NN is/VBZ it's/NNS a/DT home/NN game./NN
+However/RB we/PRP know/VBP that/IN whoever/WP we/PRP play/VBP it/PRP is/VBZ going/VBG to/TO be/VB a/DT really/RB tough/JJ game"/NN said/VBD Allen./NNP
+"But/NN it's/NNS not/RB about/IN the/DT opposition/NN it's/NNS about/IN us./NN
+We/PRP all/DT want/VBP to/TO get/VB through/IN to/TO the/DT next/JJ round/NN and/CC face/VB a/DT massive/JJ team/NN that's/NNS the/DT way/NN it/PRP is."/NN
+
+Meanwhile/RB the/DT BBC/NNP has/VBZ confirmed/VBN it/PRP will/MD be/VB televising/NN Exeter's/NNP replay/NN with/IN Man/NN Utd/NNP live/VB on/IN Wednesday/NNP 19/CD January/NNP from/IN 1930/CD on/IN BBC/NNP One./NNP
+
+Derby/NNP v/NN Watford/NNP or/CC Fulham/NNP
+
+Man/NNP Utd/NNP or/CC Exeter/NNP v/NN Middlesbrough/NNP
+
+Cardiff/NNP or/CC Blackburn/NNP v/NN Colchester/NNP
+
+Chelsea/NNP v/NN Birmingham/NNP
+
+West/NNP Ham/NN v/NN Sheff/NNP Utd/NNP
+
+Oldham/NNP v/NN Bolton/NNP
+
+Arsenal/NN v/NN Wolverhampton/NNP
+
+Everton/NNP v/NN Sunderland/NNP
+
+Nottm/NNP Forest/NNP v/NN Peterborough/NNP
+
+Brentford/NNP v/NN Hartlepool/NNP or/CC Boston/NNP
+
+Reading/VBG or/CC Swansea/NNP v/NN Leicester/NNP or/CC Blackpool/NNP
+
+Burnley/NNP or/CC Liverpool/NNP v/NN Bournemouth/NNP
+
+Southampton/NNP v/NN Portsmouth/NNP
+
+West/NNP Brom/NNP v/NN Tottenham/NNP
+
+Newcastle/NNP v/NN Coventry/NNP
+
+Charlton/NNP v/NN Yeovil/NNP

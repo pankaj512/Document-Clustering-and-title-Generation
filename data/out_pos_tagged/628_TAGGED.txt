@@ -1,0 +1,18 @@
+REM/NN concerts/NNS blighted/JJ by/IN illness/NN
+
+US/PRP rock/VBP band/NN REM/NNP have/VBP been/VBN forced/VBN to/TO cancel/VB concerts/NNS after/IN bass/NN player/NN Mike/NNP Mills/NNP was/VBD taken/VBN to/TO hospital/NN suffering/VBG from/IN "severe/NN flu-like/JJ symptoms"./NN
+
+The/DT band/NN were/VBD forced/VBN to/TO cut/VB short/JJ Monday/NNP night's/NNS show/VBP in/IN Sheffield/NNP and/CC have/VBP cancelled/VBN Tuesday's/NNP Glasgow/NNP date./NN
+Mills/NNP could/MD "hardly/RB stand/VB up/RP let/VB alone/RB play"/NN said/VBD an/DT REM/NNP spokesman/NN who/WP added/VBD he/PRP is/VBZ now/RB "resting"/NN in/IN hospital./NN
+The/DT remainder/NN of/IN the/DT band/NN played/VBD a/DT short/JJ acoustic/JJ set/VBN on/IN Monday./NNP
+Tuesday's/NNP gig/NN has/VBZ been/VBN rescheduled/VBN for/IN 15/CD June./NNP
+Those/DT who/WP had/VBD a/DT ticket/NN for/IN the/DT show/NN in/IN Glasgow/NNP are/VBP being/VBG advised/VBD to/TO retain/VB their/PRP$ ticket/NN stub/NN so/IN they/PRP can/MD attend/VB the/DT new/JJ date./NN
+The/DT band's/NNS spokesman/NN said/VBD that/IN they/PRP would/MD review/VB their/PRP$ remaining/VBG dates/NNS on/IN a/DT "day-to-day/JJ basis"/NN based/VBN on/IN doctors'/NN advice/NN to/TO Mills./NNP
+"Obviously/RB we/PRP all/DT want/VBP Mike/NNP to/TO get/VB better/JJR and/CC clearly/RB we/PRP all/DT want/VBP to/TO play/VB the/DT shows./NN
+Rest/VB assured/VBN we/PRP will/MD do/VB so/RB as/RB soon/RB as/IN possible"/NN he/PRP said./VB
+
+The/DT band/NN were/VBD still/RB hopeful/JJ they/PRP would/MD be/VB able/JJ to/TO make/VB their/PRP$ Wednesday/NNP date/NN added/VBD the/DT spokesman./NN
+REM/NNP played/VBD accoustic/JJ versions/NNS of/IN their/PRP$ hits/NNS Losing/VBG My/PRP$ Religion/NNP I've/NNP Been/VBN High/NNP Leaving/VBG New/NNP York/NNP and/CC The/DT One/CD I/PRP Love/NNP to/TO the/DT Sheffield/NNP Arena/NN audience/NN on/IN Monday./NNP
+The/DT band/NN had/VBD originally/RB been/VBN scheduled/VBN to/TO play/VB four/CD dates/NNS in/IN the/DT UK/NNP as/IN part/NN of/IN a/DT world/NN tour./NN
+In/IN 1995/CD former/JJ drummer/NN Bill/NNP Berry/NNP collapsed/VBD in/IN Switzerland/NNP while/IN the/DT band/NN was/VBD on/IN tour/NN having/VBG suffered/VBD a/DT ruptured/VBN aneurysm./NN
+He/PRP made/VBD a/DT full/JJ recovery/NN only/RB to/TO leave/VB the/DT band/NN two/CD years/NNS later./NN

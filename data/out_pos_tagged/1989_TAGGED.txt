@@ -1,0 +1,21 @@
+'Brainwave'/NN cap/NN controls/NNS computer/NN
+
+A/DT team/NN of/IN US/PRP researchers/VBZ has/VBZ shown/VBN that/IN controlling/VBG devices/NNS with/IN the/DT brain/NN is/VBZ a/DT step/NN closer./NN
+
+Four/CD people/NNS two/CD of/IN them/PRP partly/RB paralysed/VBD wheelchair/NN users/NNS successfully/RB moved/VBD a/DT computer/NN cursor/NN while/IN wearing/VBG a/DT cap/NN with/IN 64/CD electrodes./NN
+Previous/JJ research/NN has/VBZ shown/VBN that/IN monkeys/NNS can/MD control/VB a/DT computer/NN with/IN electrodes/NNS implanted/VBN into/IN their/PRP$ brain./NN
+The/DT New/NNP York/NNP team/NN reported/VBD their/PRP$ findings/NNS in/IN the/DT Proceedings/NNP of/IN the/DT National/NNP Academy/NNP of/IN Sciences./NNP
+"The/NN results/NNS show/VBP that/IN people/NNS can/MD learn/VB to/TO use/VB scalp-recorded/JJ electroencephalogram/NN rhythms/NNS to/TO control/VB rapid/JJ and/CC accurate/JJ movement/NN of/IN a/DT cursor/NN in/IN two/CD directions"/NN said/VBD Jonathan/NNP Wolpaw/NNP and/CC Dennis/NNP McFarlane./NNP
+The/DT research/NN team/NN from/IN New/NNP York/NNP State/NNP Department/NNP of/IN Health/NNP and/CC State/NNP University/NNP of/IN New/NNP York/NNP in/IN Albany/NNP said/VBD the/DT research/NN was/VBD another/DT step/NN towards/IN people/NNS controlling/VBG wheelchairs/NNS or/CC other/JJ electronic/JJ devices/NNS by/IN thought./NN
+
+The/DT four/CD people/NNS faced/VBD a/DT large/JJ video/NN screen/NN wearing/VBG a/DT special/JJ cap/NN which/WDT meant/VBD no/DT surgery/NN or/CC implantation/NN was/VBD needed./NN
+
+Brain/NN activity/NN produces/VBZ electrical/JJ signals/NNS that/WDT can/MD be/VB read/VBN by/IN electrodes./NN
+Complex/JJ algorithms/NNS then/RB translate/VBP those/DT signals/NNS into/IN instructions/NNS to/TO direct/VB the/DT computer./NN
+Such/JJ brain/NN activity/NN does/VBZ not/RB require/VB the/DT use/NN of/IN any/DT nerves/NNS of/IN muscles/NNS so/IN people/NNS with/IN stroke/NN or/CC spinal/JJ cord/NN injuries/NNS could/MD use/VB the/DT cap/NN effectively./NN
+"The/NN impressive/JJ non-invasive/JJ multidimensional/JJ control/NN achieved/VBN in/IN the/DT present/JJ study/NN suggests/VBZ that/IN a/DT non-invasive/JJ brain/NN control/NN interface/JJ could/MD support/VB clinically/RB useful/JJ operation/NN of/IN a/DT robotic/JJ arm/NN a/DT motorised/VBN wheelchair/NN or/CC a/DT neuroprosthesis"/NN said/VBD the/DT researchers./NN
+The/DT four/CD volunteers/NNS also/RB showed/VBD that/IN they/PRP could/MD get/VB better/JJR at/IN controlling/VBG the/DT cursor/NN the/DT more/JJR times/NNS they/PRP tried./VBP
+Although/IN the/DT two/CD partially-paralysed/JJ people/NNS performed/VBD better/JJR overall/JJ the/DT researchers/NNS said/VBD this/DT could/MD be/VB because/IN their/PRP$ brains/NNS were/VBD more/RBR used/JJ to/TO adapting/VBG or/CC that/IN they/PRP were/VBD simply/RB more/JJR motivated./NN
+It/PRP is/VBZ not/RB the/DT first/JJ time/NN researchers/NNS have/VBP had/VBN this/DT sort/NN of/IN success/NN in/IN brain-control/JJ experiments./NN
+Some/DT teams/NNS have/VBP used/VBN eye/NN motion/NN and/CC other/JJ recording/NN techniques./NN
+Earlier/RBR this/DT year/NN a/DT team/NN at/IN the/DT MIT/NNP Media/NNP Labs/NNPS Europe/NNP demonstrated/VBD a/DT wireless/JJ cap/NN which/WDT read/VBP brain/NN waves/NNS to/TO control/VB a/DT computer/NN character./NN

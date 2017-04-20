@@ -1,0 +1,19 @@
+Worldcom/NNP ex-boss/NN launches/NNS defence/NN
+
+Lawyers/NNS defending/VBG former/JJ WorldCom/NNP chief/NN Bernie/NNP Ebbers/NNP against/IN a/DT battery/NN of/IN fraud/NN charges/NNS have/VBP called/VBN a/DT company/NN whistleblower/NN as/IN their/PRP$ first/JJ witness./NN
+
+Cynthia/NNP Cooper/NNP WorldCom's/NNP ex-head/NN of/IN internal/JJ accounting/NN alerted/VBD directors/NNS to/TO irregular/VB accounting/NN practices/NNS at/IN the/DT US/PRP telecoms/VBZ giant/JJ in/IN 2002./CD
+Her/PRP$ warnings/NNS led/VBN to/TO the/DT collapse/NN of/IN the/DT firm/NN following/VBG the/DT discovery/NN of/IN an/DT $11bn/CD (£5.7bn)/CD accounting/NN fraud./NN
+Mr/NNP Ebbers/NNP has/VBZ pleaded/VBN not/RB guilty/JJ to/TO charges/NNS of/IN fraud/NN and/CC conspiracy./NN
+
+Prosecution/NN lawyers/NNS have/VBP argued/VBN that/IN Mr/NNP Ebbers/NNP orchestrated/VBD a/DT series/NN of/IN accounting/NN tricks/NNS at/IN WorldCom/NNP ordering/VBG employees/NNS to/TO hide/VB expenses/NNS and/CC inflate/VB revenues/NNS to/TO meet/VB Wall/NNP Street/NNP earnings/NNS estimates./NN
+But/CC Ms/NNP Cooper/NNP who/WP now/RB runs/VBZ her/PRP$ own/JJ consulting/NN business/NN told/VBD a/DT jury/NN in/IN New/NNP York/NNP on/IN Wednesday/NNP that/IN external/JJ auditors/NNS Arthur/NNP Andersen/NNP had/VBD approved/VBN WorldCom's/NNP accounting/NN in/IN early/JJ 2001/CD and/CC 2002./CD
+She/PRP said/VBD Andersen/NNP had/VBD given/VBN a/DT "green/NN light"/NN to/TO the/DT procedures/NNS and/CC practices/NNS used/VBN by/IN WorldCom./NNP
+Mr/NNP Ebber's/NNP lawyers/NNS have/VBP said/VBN he/PRP was/VBD unaware/JJ of/IN the/DT fraud/NN arguing/VBG that/IN auditors/NNS did/VBD not/RB alert/VB him/PRP to/TO any/DT problems./NN
+
+Ms/NNP Cooper/NNP also/RB said/VBD that/IN during/IN shareholder/NN meetings/NNS Mr/NNP Ebbers/NNP often/RB passed/VBD over/IN technical/JJ questions/NNS to/TO the/DT company's/NNS finance/VBP chief/NN giving/NN only/RB "brief"/NN answers/NNS himself./NN
+The/DT prosecution's/NNS star/NN witness/NN former/JJ WorldCom/NNP financial/JJ chief/JJ Scott/NNP Sullivan/NNP has/VBZ said/VBN that/IN Mr/NNP Ebbers/NNP ordered/VBD accounting/NN adjustments/NNS at/IN the/DT firm/NN telling/VBG him/PRP to/TO "hit/VB our/PRP$ books"./NN
+However/RB Ms/NNP Cooper/NNP said/VBD Mr/NNP Sullivan/NNP had/VBD not/RB mentioned/VBN "anything/VBG uncomfortable"/NN about/IN WorldCom's/NNP accounting/NN during/IN a/DT 2001/CD audit/NN committee/NN meeting./NN
+Mr/NNP Ebbers/NNP could/MD face/VB a/DT jail/NN sentence/NN of/IN 85/CD years/NNS if/IN convicted/VBN of/IN all/PDT the/DT charges/NNS he/PRP is/VBZ facing./NN
+WorldCom/NNP emerged/VBD from/IN bankruptcy/NN protection/NN in/IN 2004/CD and/CC is/VBZ now/RB known/VBN as/IN MCI./NNP
+Last/JJ week/NN MCI/NNP agreed/VBD to/TO a/DT buyout/NN by/IN Verizon/NNP Communications/NNPS in/IN a/DT deal/NN valued/VBN at/IN $6.75bn./CD

@@ -1,0 +1,11 @@
+TV/NN presenter/NN Deeley/NNP drops/NNS CDUK/NNP
+
+Cat/NNP Deeley/NNP has/VBZ resigned/VBN as/IN host/NN of/IN ITV1's/CD Saturday/NNP morning/NN children's/NNS music/NN show/NN CDUK/NNP after/IN six/CD years./NN
+
+The/DT 28-year-old/JJ host/NN who/WP also/RB presents/VBZ Stars/NNP In/IN Their/PRP$ Eyes/NNS said/VBD she/PRP wanted/VBD to/TO concentrate/VB on/IN new/JJ television/NN projects./NN
+"I've/NN had/VBD a/DT great/JJ few/JJ years/NNS met/VBD some/DT really/RB incredible/JJ people/NNS and/CC been/VBN given/VBN some/DT wonderful/JJ opportunities"/NN the/DT presenter/NN said./NN
+Deeley/NNP will/MD host/VB her/PRP$ last/JJ show/NN on/IN 5/CD March/NNP and/CC guest/NN presenters/NNS will/MD stand/VB in/IN until/IN a/DT replacement/NN is/VBZ found./NN
+
+The/DT long-running/JJ presenter/NN said/VBD "I/NN would/MD like/VB to/TO take/VB this/DT opportunity/NN to/TO thank/VB the/DT CDUK/NNP team/NN and/CC all/PDT the/DT viewers/NNS that/WDT have/VBP watched/VBN supported/VBN the/DT show/NN and/CC let/VB me/PRP gate/VBP crash/VBP their/PRP$ Saturday/NNP morning./NN
+"Whilst/NN obviously/RB I/PRP am/VBP really/RB sad/JJ to/TO say/VB goodbye/NN I'm/NNP immensely/RB excited/VBD about/IN the/DT future."/NN Deeley/NNP formerly/RB co-hosted/JJ SMtv/NNP the/DT children's/NNS show/VBP which/WDT airs/VBZ before/IN CDUK/NNP on/IN a/DT Saturday/NNP morning/NN alongside/IN hit/VBD presenters/NNS Ant/NNP and/CC Dec./NNP
+She/PRP won/VBD a/DT Children's/NNP Bafta/NNP award/NN for/IN best/JJS presenter/NN in/IN December/NNP 2001/CD and/CC also/RB fronted/VBN BBC/NNP One's/NNP Fame/NNP Academy/NNP series./NN

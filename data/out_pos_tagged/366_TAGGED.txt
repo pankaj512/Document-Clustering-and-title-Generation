@@ -1,0 +1,24 @@
+WMC/NNP says/VBZ Xstrata/NNP bid/NN is/VBZ too/RB low/JJ
+
+Australian/JJ mining/NN firm/NN WMC/NNP Resources/NNPS has/VBZ said/VBN it/PRP is/VBZ worth/JJ up/IN to/TO 30%/CD more/JJR than/IN a/DT hostile/JJ 7.4bn/CD Australian/JJ dollar/NN ($5.8bn/CD £3bn)/CD bid/NN by/IN rival/JJ Xstrata./NNP
+
+There/EX is/VBZ now/RB pressure/NN on/IN Swiss-based/JJ Xstrata/NNP to/TO increase/VB its/PRP$ takeover/NN offer./NN
+A/DT report/NN from/IN investment/NN firm/NN Grant/NNP Samuel/NNP in/IN WMC/NNP defence/NN documents/NNS values/VBZ WMC/NNP shares/NNS at/IN A$7.17/CD to/TO A$8.24/CD against/IN Xstrata's/NNP bid/NN of/IN A$6.35/CD a/DT share./NN
+Analysts/NNS said/VBD the/DT defence/NN documents/NNS provided/VBD more/JJR details/NNS on/IN WMC/NNP and/CC may/MD trigger/VB a/DT possible/JJ rival/JJ bid./NN
+"If/NN a/DT bid/NN is/VBZ going/VBG to/TO emerge/VB it/PRP is/VBZ probably/RB likely/JJ in/IN the/DT next/JJ one/CD to/TO two/CD weeks"/NN said/VBD Daiwa/NNP Securities/NNPS analyst/NN Mark/NNP Pervan./NNP
+He/PRP said/VBD the/DT valuation/NN would/MD put/VB increased/VBN pressure/NN on/IN Xstrata/NNP to/TO look/VB at/IN "sweetening"/NN its/PRP$ offer./NN
+Marc/NNP Gonsalves/NNP an/DT executive/NN at/IN Xstrata/NNP said/VBD "We/NN will/MD review/VB the/DT information/NN contained/VBN in/IN the/DT target's/NNS statement/NN over/IN the/DT next/JJ week/NN or/CC so."/NN He/PRP added/VBD "While/NN we/PRP will/MD review/VB the/DT assumptions/NNS made/VBN by/IN Grant/NNP Samuel/NNP in/IN detail/NN we/PRP are/VBP extremely/RB sceptical/JJ of/IN their/PRP$ conclusion/NN and/CC suggest/VBP that/IN WMC/NNP shareholders/NNS take/VBP extreme/JJ care/NN in/IN presuming/VBG that/IN these/DT optimistic/JJ assumptions/NNS are/VBP capable/JJ of/IN being/VBG realised."/NN
+
+Last/JJ month/NN Australia's/NNP competition/NN watchdog/NN said/VBD it/PRP would/MD not/RB oppose/VB the/DT purchase/NN of/IN WMC/NNP by/IN Zurich/NNP and/CC London-based/JJ Xstrata./NNP
+On/IN Tuesday/NNP WMC/NNP chairman/NN Tommie/NNP Bergman/NNP said/VBD in/IN a/DT statement/NN the/DT directors/NNS believed/VBD it/PRP was/VBD in/IN shareholders'/NN best/JJS interest/NN to/TO reject/VB the/DT offer./NN
+He/PRP said/VBD WMC/NNP would/MD pursue/VB "value-creating/JJ options"/NN provided/VBN by/IN a/DT portfolio/NN of/IN "world/NN class/NN assets"./NN
+And/CC WMC/NNP chief/NN executive/NN Andrew/NNP Michelmore/NNP claimed/VBD the/DT Xstrata/NNP offer/NN was/VBD aimed/VBN at/IN creating/VBG value/NN for/IN Xstrata's/NNP shareholders/NNS and/CC was/VBD not/RB being/VBG made/VBN for/IN the/DT benefit/NN of/IN WMC's/NNP shareholders./NN
+Grant/NNP Samuel/NNP said/VBD its/PRP$ valuation/NN of/IN WMC/NNP was/VBD based/VBN on/IN lower/JJR average/JJ prices/NNS for/IN nickel/NN copper/NN and/CC uranium/NN than/IN current/JJ market/NN levels./NN
+"Any/NN longer/RB term/NN commodity/NN price/NN improvements/NNS would/MD only/RB improve/VB our/PRP$ outlook"/NN Mr/NNP Michelmore/NNP said./NN
+
+In/IN 2003/CD Xstrata/NNP acquired/VBN Australia's/NNP largest/JJS copper/NN miner/NN -/: MIM/NNP Holdings./NNP
+WMC/NNP Resources/NNPS is/VBZ the/DT world's/NNS third-largest/JJ producer/NN of/IN concentrated/VBN nickel/NN and/CC also/RB a/DT miner/NN of/IN copper/NN and/CC uranium./NN
+It/PRP owns/VBZ the/DT Olympic/NNP Dam/NN mine/NN in/IN South/NNP Australia/NNP which/WDT contains/VBZ about/IN one-third/NN of/IN the/DT world's/NNS known/VBD uranium/NN resources/NNS and/CC is/VBZ also/RB the/DT world's/NNS fourth/JJ largest/JJS copper/NN mine./NN
+Xstrata/NNP is/VBZ a/DT global/JJ mining/NN giant/NN with/IN operations/NNS in/IN Australia/NNP South/NNP Africa/NNP Spain/NNP Germany/NNP Argentina/NNP and/CC the/DT UK./NNP
+Its/PRP$ core/NN products/NNS are/VBP copper/NN coking/VBG coal/NN thermal/JJ coal/NN ferrochrome/NN vanadium/NN and/CC zinc./NN
+It/PRP also/RB has/VBZ growing/VBG businesses/NNS in/IN gold/NN lead/NN and/CC silver./NN

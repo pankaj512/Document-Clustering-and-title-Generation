@@ -1,0 +1,18 @@
+Dutch/JJ bank/NN to/TO lay/VB off/RP 2850/CD staff/NN
+
+ABN/NNP Amro/NNP the/DT Netherlands'/NNP largest/JJS bank/NN is/VBZ to/TO cut/VB 2850/CD jobs/NNS as/IN a/DT result/NN of/IN falling/VBG profits./NN
+
+The/DT cuts/NNS -/: amounting/VBG to/TO 3%/CD of/IN the/DT bank's/NNS workforce/NN -/: will/MD result/VB in/IN a/DT one-off/JJ charge/NN of/IN 790m/CD euros/NNS ($1.1bn)./CD
+About/IN 1100/CD jobs/NNS will/MD go/VB in/IN investment/NN banking/NN while/IN 1200/CD and/CC 550/CD will/MD go/VB in/IN IT/PRP and/CC human/JJ resources/NNS respectively./NN
+ABN/NNP Amro/NNP is/VBZ the/DT third/JJ large/JJ European/JJ bank/NN to/TO announce/VB cutbacks/NNS in/IN the/DT past/JJ month/NN following/VBG Deutsche/NNP Bank/NNP and/CC Credit/NNP Suisse/NNP Group./NNP
+
+Its/PRP$ profitability/NN has/VBZ been/VBN hit/VBN by/IN a/DT fall/NN in/IN mortgage/NN lending/NN in/IN the/DT United/NNP States/NNPS -/: the/DT bank's/NNS largest/JJS single/JJ market/NN -/: following/VBG recent/JJ interest/NN rate/NN rises./NN
+ABN/NNP Amro's/NNP operations/NNS in/IN the/DT Netherlands/NNP and/CC the/DT United/NNP Kingdom/NNP will/MD be/VB hardest/RBS hit./NN
+Jobs/NNP will/MD also/RB be/VB lost/VBN in/IN the/DT US/PRP -/: which/WDT accounted/VBD for/IN 46%/CD of/IN profit/NN in/IN the/DT first/JJ half/NN of/IN 2004/CD -/: and/CC across/IN its/PRP$ operations/NNS in/IN the/DT Americas/NNPS and/CC Asia-Pacific/NNP regions./NN
+
+The/DT restructuring/NN is/VBZ designed/VBN to/TO improve/VB efficiency/NN by/IN reducing/VBG administrative/JJ costs/NNS and/CC increasing/VBG focus/NN on/IN client/NN service./NN
+The/DT bank/NN said/VBD it/PRP was/VBD on/IN course/NN for/IN a/DT 10%/CD rise/NN in/IN net/JJ income/NN this/DT year/NN but/CC operating/VBG profits/NNS are/VBP set/VBN to/TO fall/VB because/IN of/IN a/DT fall/NN in/IN US/PRP revenues./VBP
+ABN/NNP Amro/NNP currently/RB has/VBZ more/JJR than/IN 100000/CD staff./NN
+"To/NN get/NN any/DT profit/NN growth/NN in/IN the/DT coming/VBG years/NNS they/PRP will/MD have/VB to/TO lower/VB costs/NNS so/RB shedding/VBG jobs/NNS makes/VBZ total/JJ sense"/NN Ivo/NNP Geijsen/NNP an/DT analyst/NN with/IN Bank/NNP Oyens/NNP &/CC Van/NNP Eeghen/NNP told/VBD Bloomberg./NNP
+Europe's/NNP leading/VBG banks/NNS seem/VBP set/VBN for/IN a/DT period/NN of/IN retrenchment./NN
+Deutsche/NNP Bank/NNP said/VBD earlier/RBR this/DT month/NN it/PRP would/MD reduce/VB its/PRP$ German/JJ workforce/NN by/IN 1920/CD while/IN as/RB many/JJ as/IN 300/CD jobs/NNS will/MD be/VB lost/VBN at/IN Credit/NNP Suisse/NNP First/NNP Boston./NNP

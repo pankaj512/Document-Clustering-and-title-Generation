@@ -1,0 +1,20 @@
+Local/JJ net/JJ TV/NN takes/VBZ off/RP in/IN Austria/NNP
+
+An/DT Austrian/JJ village/NN is/VBZ testing/NN technology/NN that/WDT could/MD represent/VB the/DT future/NN of/IN television./NN
+
+The/DT people/NNS of/IN Engerwitzdorf/NNP are/VBP filming/VBG editing/NN and/CC producing/VBG their/PRP$ own/JJ regional/JJ news/NN channel./NN
+The/DT channel/NN covers/VBZ local/JJ politics/NNS sports/NNS events/NNS and/CC anything/NN that/IN residents/NNS want/VBP to/TO film/VB and/CC are/VBP prepared/VBN to/TO upload/VB for/IN others/NNS to/TO watch/VB on/IN PCs./NNP
+The/DT pilot/NN has/VBZ been/VBN so/RB successful/JJ that/IN Telekom/NNP Austria/NNP is/VBZ now/RB considering/VBG setting/VBG up/RP other/JJ projects/NNS elsewhere./NN
+
+"It's/NN growing/VBG unbelievably/RB fast"/NN said/VBD Rudolf/NNP Fischer/NNP head/NN of/IN Telekom/NNP Austria's/NNP fixed/VBD line/NN division./NN
+The/DT trial/NN of/IN Buntes/NNP Fernsehen/NNP (Multi-Coloured/JJ TV)/NNP was/VBD started/VBN in/IN late/JJ 2004/CD and/CC creates/VBZ a/DT net-based/JJ TV/NN station/NN run/NN by/IN the/DT 8000/CD residents/NNS of/IN Engerwitzdorf./NNP
+The/DT hardware/NN and/CC software/NN to/TO turn/VB video/NN footage/NN into/IN edited/VBN programmes/NNS has/VBZ been/VBN provided/VBN by/IN Telekom/NNP Austria/NNP but/CC this/DT equipment/NN following/VBG training/NN has/VBZ been/VBN turned/VBN over/RP to/TO the/DT villagers./NN
+Any/DT video/NN programme/NN created/VBN by/IN the/DT villagers/NNS is/VBZ uploaded/VBN to/TO a/DT Buntes/NNP Fernsehen/NNP portal/JJ that/WDT lets/VBZ people/NNS browse/VBP and/CC download/NN what/WP they/PRP want/VBP to/TO watch./VB
+Most/JJS people/NNS watch/VBP the/DT TV/NN on/IN their/PRP$ home/NN PC/NN and/CC a/DT broadband/NN connection/NN is/VBZ needed/VBN to/TO get/VB broadcast/VBN quality/NN programmes./NN
+In/IN the/DT first/JJ four/CD months/NNS of/IN the/DT project/NN villagers/NNS have/VBP created/VBN 60/CD films/NNS and/CC put/VBD together/RB regular/JJ reports/NNS on/IN local/JJ news/NN items./NN
+"They/NN have/VBP adopted/VBN it/PRP very/RB quickly"/VBP said/VBD Mr/NNP Fischer./NNP
+"They/NN like/IN the/DT possibility/NN to/TO create/VB their/PRP$ own/JJ content/NN and/CC see/VB what's/NNS going/VBG on/RP in/IN the/DT area."/NN "It's/NN kind/NN of/IN the/DT democratisation/NN of/IN local/JJ TV"/NNP he/PRP said/VBD "because/NN none/NN of/IN the/DT bigger/JJR broadcasters/NNS would/MD ever/RB do/VB anything/NN like/IN this/DT for/IN that/DT region."/NN The/DT Buntes/NNP Fernsehen/NNP project/NN has/VBZ been/VBN such/PDT a/DT success/NN that/IN Telekom/NNP Austria/NNP is/VBZ now/RB considering/VBG setting/VBG up/RP other/JJ schemes/NNS in/IN similarly/RB rural/JJ areas./NN
+Mr/NNP Fischer/NNP said/VBD it/PRP was/VBD taking/VBG the/DT roll-out/NN to/TO other/JJ areas/NNS slowly/RB because/IN of/IN the/DT work/NN involved/VBN in/IN setting/VBG up/RP the/DT scheme/NN getting/VBG backers/NNS from/IN local/JJ government/NN and/CC educating/VBG people/NNS how/WRB to/TO make/VB programmes./NN
+The/DT Engerwitzdorf/NNP scheme/NN is/VBZ an/DT outgrowth/NN of/IN Telekom/NNP Austria's/NNP online/NN TV/NN channel/NN Aon/NNP which/WDT lets/VBZ people/NNS watch/VBP programmes/NNS on/IN their/PRP$ PC./NNP
+Aon/NN streams/VBZ a/DT couple/NN of/IN live/JJ channels/NNS plus/CC sports/NNS news/NN and/CC music/NN programmes/NNS on/RP to/TO the/DT net/JJ and/CC has/VBZ a/DT pay-for-download/JJ section/NN that/WDT lets/VBZ people/NNS watch/VBP what/WP they/PRP want/VBP when/WRB they/PRP want/VBP to/TO watch/VB it./NN
+In/IN October/NNP a/DT larger/JJR TV-on-demand/NNP project/NN is/VBZ due/JJ to/TO launch/VB in/IN Vienna/NNP that/WDT will/MD let/VB people/NNS download/VBP many/JJ programmes/NNS from/IN the/DT net./NN

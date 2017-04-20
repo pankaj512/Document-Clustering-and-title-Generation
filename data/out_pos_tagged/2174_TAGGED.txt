@@ -1,0 +1,29 @@
+Chip/NN maker/NN backs/VBZ net/JJ phone/NN calls/NNS
+
+Rich/NNP Templeton/NNP the/DT head/NN of/IN giant/JJ chip/NN maker/NN Texas/NNP Instruments/NNP has/VBZ given/VBN his/PRP$ backing/NN to/TO the/DT growing/VBG sector/NN of/IN Voice/NNP over/IN Internet/NNP Telephony/NNP (Voip)/NN
+
+Voip/NNP allows/VBZ PC/NN users/NNS and/CC in/IN some/DT cases/NNS those/DT with/IN just/RB a/DT broadband/NN connection/NN to/TO make/VB telephone/NN calls/NNS via/IN the/DT net./NN
+Mr/NNP Templeton/NNP said/VBD Voip/NNP would/MD be/VB the/DT next/JJ major/JJ application/NN to/TO drive/VB broadband/NN connections/NNS into/IN homes./NN
+Internet/NNP service/NN provider/NN Wanadoo/NNP has/VBZ announced/VBN it/PRP is/VBZ launching/VBG its/PRP$ own/JJ broadband/NN telephony/NN service/NN in/IN the/DT UK./NNP
+
+Subscribers/NNS to/TO Wanadoo's/NNP broadband/NN service/NN will/MD be/VB able/JJ to/TO use/VB the/DT service/NN to/TO make/VB free/JJ evening/NN and/CC weekend/NN calls/VBZ to/TO any/DT UK/NNP landline/NN and/CC free/JJ calls/NNS at/IN any/DT time/NN to/TO other/JJ Wanadoo/NNP users./NN
+The/DT service/NN will/MD cost/VB an/DT extra/JJ £4/CD a/DT month/NN and/CC will/MD come/VB with/IN a/DT free/JJ Livebox/NNP the/DT broadband/NN hub/NN which/WDT Wanadoo/NNP plans/VBZ will/MD be/VB used/VBN in/IN future/JJ to/TO provide/VB video-on-demand/JJ and/CC home/NN security/NN services./NN
+The/DT secondary/JJ phone/NN line/NN will/MD mean/VB customers/NNS can/MD have/VB an/DT extra/JJ home/NN phone/NN number/NN and/CC will/MD also/RB provide/VB wireless/JJ internet/JJ access/NN around/IN the/DT home./NN
+Eventually/RB the/DT service/NN will/MD replace/VB existing/VBG landline/NN services/NNS as/IN Wanadoo/NNP goes/VBZ head/NN to/TO head/NN with/IN BT./NNP
+"Voice-over/JJ broadband/NN is/VBZ a/DT key/JJ trend/NN across/IN Europe/NNP and/CC is/VBZ set/VBN to/TO have/VB a/DT dramatic/JJ impact/NN on/IN the/DT telecommunications/NNS industry/NN ''/'' Eric/NNP Abensur/NNP Wanadoo's/NNP chief/NN executive/NN told/VBD the/DT BBC/NNP News/NNP website./NN
+Mr/NNP Templeton/NNP said/VBD he/PRP agreed./VB
+"Voice-over-packet/JJ is/VBZ going/VBG to/TO be/VB the/DT second/JJ killer/NN application/NN after/IN broadband/NN internet/JJ access"/NN he/PRP said./VB
+The/DT world's/NNS largest/JJS maker/NN of/IN chips/NNS for/IN mobile/JJ phones/NNS believes/VBZ the/DT technology/NN will/MD grow/VB rapidly/RB from/IN the/DT relatively/RB small/JJ user/NN base/NN it/PRP has/VBZ currently./NN
+
+Almost/RB 83/CD million/CD people/NNS have/VBP downloaded/VBN the/DT software/NN that/WDT powers/VBZ the/DT Skype/JJ Voip/NNP service/NN according/VBG to/TO the/DT net/JJ telephony/NN firm's/NNS website./NN
+Skype/JJ lets/VBZ people/NNS make/VBP free/JJ calls/VBZ to/TO other/JJ Skype/JJ users/NNS and/CC also/RB make/VB low-cost/JJ calls/VBZ to/TO ordinary/JJ phone/NN numbers./NN
+US/PRP firm/VBP Vonage/NNP also/RB offers/VBZ a/DT Voip/NNP service/NN but/CC one/CD which/WDT lets/VBZ people/NNS plug/VBP an/DT ordinary/JJ phone/NN into/IN a/DT broadband/NN router/NN to/TO make/VB calls./NN
+Bill/NNP Simmelink/NNP general/JJ manager/NN of/IN TI's/NNP Voip/NNP business/NN said/VBD the/DT technology/NN would/MD only/RB take/VB off/RP when/WRB people/NNS were/VBD making/VBG net/JJ calls/VBZ with/IN the/DT ease/NN of/IN making/VBG a/DT normal/JJ call./NN
+"It's/NN not/RB about/IN the/DT pipe/NN if/IN you/PRP will/MD or/CC the/DT silicon/NN per/IN se/FW it's/NNS about/IN the/DT application"/NN he/PRP said./VB
+
+"We/NN want/VBP to/TO communicate/VB freely/RB effortlessly/RB and/CC economically/RB wherever/WRB we/PRP are."/VBP In/IN a/DT sign/NN that/IN Voip/NNP is/VBZ seeping/VBG into/IN the/DT mainstream/NN giant/NN ISP/NNP AOL/NNP announced/VBD on/IN Tuesday/NNP that/IN it/PRP had/VBD plans/NNS to/TO launch/VB a/DT net-based/JJ phone/NN service/NN for/IN some/DT of/IN its/PRP$ members/NNS within/IN the/DT month./NN
+Customers/NNS will/MD continue/VB to/TO use/VB their/PRP$ traditional/JJ phones/NNS but/CC they/PRP will/MD plug/VB them/PRP into/IN adapters/NNS connected/VBN to/TO their/PRP$ broadband/NN source/NN rather/RB than/IN the/DT jack/NN provided/VBN by/IN the/DT telephone/NN company./NN
+Calls/NNS are/VBP received/VBN and/CC placed/VBN just/RB like/IN on/IN the/DT old/JJ telephone/NN network./NN
+"We/NN can/MD help/VB mass-market/JJ adoption/NN of/IN Voip"/NNP said/VBD AOL/NNP chief/NN executive/NN Jonathan/NNP Miller./NNP
+"We/NN can/MD utilise/VB our/PRP$ national/JJ footprint./NN
+We/PRP can/MD help/VB the/DT entire/JJ industry/NN become/VBN well/RB known."/NN

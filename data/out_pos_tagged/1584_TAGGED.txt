@@ -1,0 +1,12 @@
+Henry/NNP tipped/VBD for/IN Fifa/NNP award/NN
+
+Fifa/NNP president/NN Sepp/NNP Blatter/NNP hopes/VBZ Arsenal's/NNP Thierry/NNP Henry/NNP will/MD be/VB named/VBN World/NNP Player/NNP of/IN the/DT Year/NN on/IN Monday./NNP
+
+Henry/NNP is/VBZ on/IN the/DT Fifa/NNP shortlist/NN with/IN Barcelona's/NNP Ronaldinho/NNP and/CC newly-crowned/JJ European/NNP Footballer/NNP of/IN the/DT Year/NN AC/NNP Milan's/NNP Andriy/NNP Shevchenko./NNP
+Blatter/NNP said/VBD "Henry/NN for/IN me/PRP is/VBZ the/DT personality/NN on/IN the/DT field./NN
+He/PRP is/VBZ the/DT man/NN who/WP can/MD run/VB and/CC organise/VB the/DT game."/NN The/DT winner/NN of/IN the/DT accolade/NN will/MD be/VB named/VBN at/IN a/DT glittering/VBG ceremony/NN at/IN Zurich's/NNP Opera/NNP house./NN
+The/DT three/CD shortlisted/VBD candidates/NNS for/IN the/DT women's/NNS award/NN are/VBP Mia/NNP Hamm/NNP of/IN the/DT United/NNP States/NNPS Germany's/NNP Birgit/NNP Prinz/NNP and/CC Brazilian/JJ youngster/NN Marta./NNP
+
+Hamm/NNP who/WP recently/RB retired/VBD -/: is/VBZ looking/VBG to/TO regain/VB the/DT women's/NNS award/NN which/WDT she/PRP lost/VBD last/JJ year/NN to/TO striker/VB Prinz./NNP
+Fifa/NNP has/VBZ changed/VBN the/DT panel/NN of/IN voters/NNS for/IN this/DT year's/NNS awards./NN
+Male/JJ and/CC female/JJ captains/NNS of/IN every/DT national/JJ team/NN will/MD be/VB able/JJ to/TO vote/VB as/RB well/RB as/IN their/PRP$ coaches/NNS and/CC Fipro/NNP -/: the/DT global/JJ organisation/NN for/IN professional/JJ players./NN

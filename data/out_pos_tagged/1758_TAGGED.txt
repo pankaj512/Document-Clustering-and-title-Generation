@@ -1,0 +1,21 @@
+Angry/NNP Williams/NNP rejects/VBZ criticism/NN
+
+Serena/NNP Williams/NNP has/VBZ angrily/RB rejected/VBN claims/VBZ that/IN she/PRP and/CC sister/NN Venus/NNP are/VBP a/DT declining/VBG force/NN in/IN tennis./NN
+
+The/DT sisters/NNS ended/VBD last/JJ year/NN without/IN a/DT Grand/NNP Slam/NNP title/NN for/IN the/DT first/JJ time/NN since/IN 1998./CD
+But/CC Serena/NNP denied/VBD their/PRP$ challenge/NN was/VBD fading/JJ saying/NN "That's/NN not/RB fair/JJ -/: I'm/NNP tired/JJ of/IN not/RB saying/VBG anything./NN
+"We've/NN been/VBN practising/VBG hard./NN
+We've/NN had/VBD serious/JJ injuries./NN
+I've/NNP had/VBD surgery/NN and/CC after/IN I/PRP got/VBD to/TO the/DT Wimbledon/NNP final./NN
+I/PRP don't/VBP know/NN many/JJ who/WP have/VBP done/VBN that."/NN While/IN Serena/NNP is/VBZ through/IN to/TO the/DT Australian/JJ Open/NNP semi-finals/NNS Venus/NNP went/VBD out/RP in/IN the/DT fourth/JJ round/NN meaning/VBG she/PRP has/VBZ not/RB gone/VBN further/RBR than/IN the/DT last/JJ eight/CD in/IN her/PRP$ last/JJ five/CD Grand/NNP Slam/NNP appearances./NN
+But/CC Serena/NNP added/VBD "Venus/NN had/VBD a/DT severe/JJ strain/NN in/IN her/PRP$ stomach./NN
+I/PRP actually/RB had/VBD the/DT same/JJ injury/NN but/CC I/PRP didn't/VBP tear/NN it/PRP the/DT way/NN she/PRP did./VBP
+
+"If/NN I/PRP would/MD have/VB torn/VBN it/PRP I/PRP wouldn't/VBP have/VBP been/VBN here./VBG
+"She/NN played/VBD a/DT player/NN (Alicia/NN Molik)/NNP that/IN just/RB played/VBD out/IN of/IN her/PRP$ mind/NN and/CC Venus/NNP made/VBD some/DT errors/NNS that/IN she/PRP probably/RB shouldn't/VBP have/VBP made."/NN Serena/NNP also/RB said/VBD people/NNS tended/VBN to/TO forget/VB the/DT impact/NN the/DT 2003/CD murder/NN of/IN sister/NN Yetunde/NNP Price/NNP had/VBD had/VBN on/IN the/DT family./NN
+"To/NN top/JJ it/PRP off/RP we/PRP have/VBP a/DT very/RB very/RB very/RB very/RB very/RB close/VB family"/NN Serena/NNP continued./NN
+"To/NN be/VB in/IN some/DT situation/NN that/DT we've/NN been/VBN placed/VBN in/IN in/IN the/DT past/JJ little/NN over/IN a/DT year/NN it's/NNS not/RB easy/JJ to/TO come/VB out/RB and/CC just/RB perform/VB at/IN your/PRP$ best/JJS when/WRB you/PRP realize/VBP there/EX are/VBP so/RB many/JJ things/NNS that/WDT are/VBP so/RB important./NN
+"So/NN no/DT we're/NN not/RB declining./NN
+We're/NNP here./NN
+I/PRP don't/VBP have/VBP to/TO win/VB this/DT tournament/NN to/TO prove/VB anything./NN
+I/PRP know/VBP that/IN I'm/NNP out/RP here/RB and/CC I/PRP know/VBP that/IN I'm/NNP one/CD of/IN the/DT best/JJS players/NNS out/RP here."/NN

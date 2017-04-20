@@ -1,0 +1,35 @@
+Mobile/NNP audio/JJ enters/VBZ new/JJ dimension/NN
+
+As/IN mobile/JJ phones/NNS move/VBP closer/JJR to/TO being/VBG a/DT ubiquitous/JJ all-in-one/JJ media/NNS player/VBP audio/JJ is/VBZ becoming/VBG ever/RB more/JJR important./NN
+But/CC how/WRB good/JJ can/MD that/DT sound/NN be/VB from/IN such/JJ a/DT small/JJ device?/NN
+
+The/DT sound/NN of/IN a/DT buzzing/VBG bee/NN jumps/VBZ from/IN left/VBN to/TO right/VB before/IN disappearing/JJ around/IN the/DT back/NN of/IN my/PRP$ head./NN
+The/DT surround/VBP sound/NN demo/NN is/VBZ unremarkable/JJ when/WRB heard/VBN on/IN a/DT multi-speaker/JJ home/NN cinema/NN system/NN but/CC startling/JJ when/WRB emerging/VBG from/IN a/DT small/JJ mobile/JJ phone./NN
+British/JJ firm/NN Sonaptic/NNP is/VBZ one/CD of/IN a/DT number/NN of/IN companies/NNS to/TO have/VB developed/VBN 3D/CD audio/JJ technology/NN that/WDT emerges/VBZ from/IN stereo/NN speakers./NN
+Firms/NNS AM3D/CD and/CC SRS/NNP both/DT offer/NN stereo-widening/JJ technology/NN for/IN mobile/JJ phones./NN
+But/CC Sonaptic's/NNP managing/VBG director/NN David/NNP Monteith/NNP says/VBZ his/PRP$ firm/NN is/VBZ the/DT only/JJ company/NN to/TO offer/VB positional/JJ 3D/CD audio/JJ on/IN a/DT mobile./NN
+
+"There/NN are/VBP quite/RB a/DT few/JJ basic/JJ technologies/NNS out/IN there/EX making/VBG the/DT sound/NN seem/VBP a/DT bit/NN bigger/JJR headphones/NNS a/DT bit/NN nicer./NN
+
+"No-one/JJ has/VBZ really/RB tried/VBN before/IN to/TO make/VB proper/JJ 3D/CD positional/JJ audio/JJ -/: where/WRB an/DT individual/JJ channel/NN can/MD be/VB moved/VBN around."/NN Sonaptic/NNP has/VBZ been/VBN working/VBG with/IN Japanese/JJ mobile/JJ network/NN NTT/NNP DoCoMo/NNP to/TO set/VB standards/NNS for/IN 3D/CD audio/JJ on/IN mobile/JJ phones./NN
+In/IN the/DT last/JJ few/JJ months/NNS handsets/NNS from/IN NEC/NNP Fujitsu/NNP and/CC Mitsubishi/NNP have/VBP been/VBN released/VBN on/RP to/TO the/DT Japanese/JJ marker/NN which/WDT have/VBP chips/NNS produced/VBN by/IN Yamaha/NNP and/CC Rohm/NNP with/IN Sonaptic's/NNP technology./NN
+"The/NN technology/NN has/VBZ been/VBN around/IN on/IN PCs/NNS and/CC games/NNS consoles/VBZ for/IN some/DT time/NN but/CC what/WP we/PRP are/VBP doing/VBG is/VBZ making/VBG it/PRP more/RBR efficient/JJ so/IN it/PRP can/MD go/VB on/IN a/DT small/JJ consumer/NN device/NN like/IN a/DT mobile/JJ phone"/NN said/VBD Mr/NNP Monteith./NNP
+
+The/DT technology/NN works/VBZ through/IN applying/VBG the/DT science/NN of/IN psychoacoustics/NNS and/CC grew/VBD out/IN of/IN medical/JJ research/NN done/VBN by/IN the/DT company's/NNS research/NN director/NN Dr/NNP Alastair/NNP Sibbald./NNP
+"We/NN are/VBP basically/RB trying/VBG to/TO fool/VB your/PRP$ ears/NNS into/IN thinking/VBG sound/NN is/VBZ coming/VBG from/IN areas/NNS it/PRP actually/RB isn't./VBP
+"Your/NN brain/NN uses/VBZ certain/JJ bits/NNS of/IN information/NN which/WDT we/PRP are/VBP effectively/RB synthesising/VBG on/IN a/DT mobile/JJ phone/NN handset."/NN The/DT structure/NN of/IN the/DT ear/NN works/VBZ as/IN a/DT 3D/CD encoder/NN for/IN sound/NN -/: helping/VBG the/DT brain/NN understand/VB from/IN where/WRB sound/NN is/VBZ emanating./NN
+Sonaptic's/NNP audio/JJ processing/NN algorithms/NNS mimic/VBP that/IN 3D/CD encoding/VBG giving/VBG the/DT impression/NN that/DT sound/NN is/VBZ coming/VBG from/IN the/DT left/NN right/NN and/CC behind/IN a/DT listener/NN when/WRB in/IN fact/NN it/PRP is/VBZ coming/VBG from/IN a/DT single/JJ source./NN
+Mr/NNP Montieth/NNP says/VBZ "If/VBG the/DT sound/NN is/VBZ off/RP to/TO one/CD side/NN it/PRP will/MD get/VB to/TO one/CD ear/NN before/IN the/DT other/JJ -/: if/IN it/PRP is/VBZ on/IN the/DT right/NN it/PRP has/VBZ to/TO bend/VB around/IN your/PRP$ head/NN to/TO get/VB to/TO your/PRP$ left/VBN ear./NN
+
+"The/NN shape/NN of/IN your/PRP$ ear/NN causes/VBZ differences/NNS in/IN sound/NN from/IN one/CD ear/NN to/TO the/DT other./NN
+We/PRP are/VBP synthesising/VBG those/DT differences."/NN Sonaptic/NNP hopes/VBZ the/DT technology/NN will/MD have/VB a/DT big/JJ impact/NN in/IN the/DT growing/VBG market/NN of/IN mobile/JJ gaming/NN and/CC music/NN downloading./NN
+"Handhelds/NN often/RB have/VBP limitations/NNS -/: screens/NNS will/MD be/VB small/JJ by/IN definition./NN
+"If/NN you/PRP want/VBP to/TO get/VB impact/NN from/IN media/NNS you/PRP are/VBP running/VBG -/: either/CC a/DT movie/NN a/DT game/NN or/CC watching/VBG TV/NN -/: if/IN you/PRP want/VBP it/PRP to/TO be/VB more/RBR immersive/JJ then/RB our/PRP$ technology/NN can/MD help."/VB A/DT fishing/NN game/NN is/VBZ the/DT first/JJ title/NN to/TO use/VB the/DT technology/NN creating/VBG a/DT 3D/CD sound/NN field/NN while/IN the/DT gamer/NN plays./NN
+Driving/VBG games/NNS and/CC shoot/VB 'em/PRP ups/NNS using/VBG the/DT technology/NN are/VBP in/IN development./NN
+The/DT technology/NN can/MD also/RB be/VB used/VBN for/IN music/NN -/: giving/VBG songs/NNS a/DT much/RB more/RBR expansive/JJ and/CC immersive/JJ feel./NN
+Sonaptic/NNP offers/VBZ its/PRP$ technology/NN on/IN a/DT chip/NN or/CC in/IN software/NN and/CC is/VBZ about/IN to/TO release/VB a/DT new/JJ version/NN which/WDT significantly/RB improves/VBZ the/DT efficiency/NN of/IN the/DT audio/JJ processing./NN
+"It's/NN important/JJ we/PRP only/RB use/VBP 10/CD or/CC 15%/CD of/IN the/DT processor/NN otherwise/RB you/PRP won't/VBP be/VB able/JJ to/TO play/VB a/DT game/NN on/IN the/DT handset"/NN explained/VBD Mr/NNP Montieth./NNP
+The/DT company/NN is/VBZ now/RB looking/VBG to/TO the/DT US/PRP and/CC European/JJ markets/NNS where/WRB it/PRP has/VBZ been/VBN working/VBG with/IN network/NN Vodafone./NNP
+"We/NN have/VBP focused/VBN first/JJ on/IN Japan/NNP because/IN it/PRP has/VBZ a/DT very/RB advanced/VBD mobile/JJ phone/NN market./NN
+"We/NN knew/VBD Japan/NNP would/MD be/VB the/DT first/JJ place/NN to/TO have/VB the/DT handsets/NNS that/WDT could/MD use/VB our/PRP$ technology./NN
+"There/NN should/MD be/VB handsets/NNS out/RP in/IN the/DT UK/NNP in/IN the/DT next/JJ six/CD months."/NN

@@ -1,0 +1,15 @@
+Fry/NN set/VBN for/IN role/NN in/IN Hitchhiker's/NNP
+
+Actor/NNP Stephen/NNP Fry/NN is/VBZ joining/VBG the/DT cast/NN of/IN the/DT forthcoming/JJ film/NN adaptation/NN of/IN The/DT Hitchhiker's/NNP Guide/NNP To/TO The/DT Galaxy./NNP
+
+Fry/NN will/MD provide/VB the/DT voice/NN of/IN The/DT Guide/NNP an/DT electronic/JJ book/NN which/WDT accompanies/VBZ the/DT story's/NNS hero/NN Arthur/NNP Dent/NN on/IN his/PRP$ travels/NNS around/IN the/DT galaxy./NN
+Martin/NNP Freeman/NNP John/NNP Malkovich/NNP Bill/NNP Nighy/NNP and/CC Alan/NNP Rickman/NNP are/VBP co-starring/JJ in/IN the/DT film/NN due/JJ for/IN release/NN in/IN May./NNP
+The/DT late/JJ Douglas/NNP Adams'/NNP original/JJ 1977/CD scripts/NNS have/VBP also/RB been/VBN turned/VBN into/IN a/DT series/NN of/IN successful/JJ books./NN
+
+"Being/VBG asked/VBD to/TO do/VB the/DT voice/NN of/IN The/DT Guide/NNP is/VBZ like/IN having/VBG your/PRP$ birthday/NN on/IN Christmas/NNP Day/NNP discovering/VBG a/DT winning/VBG lottery/NN ticket/NN in/IN your/PRP$ stocking/NN and/CC having/VBG chocolate/NN poured/VBD all/DT over/IN you"/NN said/VBD Fry/NN a/DT self-confessed/NN fan/NN of/IN the/DT book./NN
+The/DT film's/NNS executive/NN producer/NN Robbie/NNP Stamp/NN said/VBD that/IN Adams/NNP who/WP died/VBD in/IN 2001/CD would/MD have/VB been/VBN "delighted"/VBG with/IN the/DT choice/NN of/IN Fry/NN for/IN the/DT role./NN
+
+"His/NN humour/NN and/CC intelligence/NN are/VBP perfect/JJ for/IN the/DT voice/NN of/IN The/DT Guide"/NNP added/VBD Mr/NNP Stamp./NNP
+Adams/NNP wrote/VBD the/DT screenplay/NN based/VBN on/IN his/PRP$ book/NN before/IN his/PRP$ premature/JJ death/NN while/IN a/DT new/JJ radio/NN series/NN was/VBD aired/VBN 26/CD years/NNS after/IN the/DT first/JJ broadcast/NN and/CC included/VBD many/JJ of/IN the/DT original/JJ cast/NN members./NN
+Hollywood/NNP star/NN Malkovich/NNP will/MD play/VB religious/JJ cult/NN leader/NN Humma/NNP Kavula/NNP which/WDT was/VBD especially/RB created/VBN by/IN Adams/NNP for/IN the/DT new/JJ film./NN
+Freeman/NNP who/WP starred/VBD in/IN hit/VBD BBC/NNP comedy/NN The/DT Office/NNP will/MD play/VB the/DT role/NN of/IN Arthur/NNP Dent/NN who/WP begins/VBZ his/PRP$ intergalactic/JJ voyage/NN following/VBG the/DT destruction/NN of/IN the/DT Earth./NNP

@@ -1,0 +1,23 @@
+Humanoid/NNP robot/NN learns/VBZ how/WRB to/TO run/VB
+
+Car-maker/NNP Honda's/NNP humanoid/NN robot/NN Asimo/NNP has/VBZ just/RB got/VBN faster/RBR and/CC smarter./NN
+
+The/DT Japanese/JJ firm/NN is/VBZ a/DT leader/NN in/IN developing/VBG two-legged/JJ robots/NNS and/CC the/DT new/NN improved/VBN Asimo/NNP (Advanced/VBD Step/NN in/IN Innovative/JJ Mobility)/NNP can/MD now/RB run/VB find/VB his/PRP$ way/NN around/IN obstacles/NNS as/RB well/RB as/IN interact/JJ with/IN people./NN
+Eventually/RB Asimo/NNP could/MD find/VB gainful/JJ employment/NN in/IN homes/NNS and/CC offices./NN
+"The/NN aim/NN is/VBZ to/TO develop/VB a/DT robot/NN that/WDT can/MD help/VB people/NNS in/IN their/PRP$ daily/JJ lives"/NN said/VBD a/DT Honda/NNP spokesman./NN
+
+To/TO get/VB the/DT robot/NN running/VBG for/IN the/DT first/JJ time/NN was/VBD not/RB an/DT easy/JJ process/NN as/IN it/PRP involved/VBD Asimo/NNP making/VBG an/DT accurate/JJ leap/NN and/CC absorbing/VBG the/DT impact/NN of/IN landing/NN without/IN slipping/VBG or/CC spinning./NN
+The/DT "run"/NN he/PRP is/VBZ now/RB capable/JJ of/IN is/NNS perhaps/RB not/RB quite/RB up/IN to/TO Olympic/NNP star/NN Kelly/NNP Holmes'/NNP standard./NN
+At/IN 3km/h/CD it/PRP is/VBZ closer/JJR to/TO a/DT leisurely/JJ jog./NN
+Its/PRP$ makers/NNS claim/VBP that/IN it/PRP is/VBZ almost/RB four/CD times/NNS as/RB fast/RB as/IN Sony's/NNP Qrio/NNP which/WDT became/VBD the/DT first/JJ robot/NN to/TO run/VB last/JJ year./NN
+The/DT criteria/NNS for/IN running/VBG robots/NNS is/VBZ defined/VBN by/IN engineers/NNS as/IN having/VBG both/DT feet/NNS off/IN the/DT ground/NN between/IN strides./NN
+Asimo/NNP has/VBZ improved/VBN in/IN other/JJ ways/NNS too/RB increasing/VBG his/PRP$ walking/VBG speed/NN from/IN 1.6km/h/CD to/TO 2.5km/CD growing/VBG 10cm/CD to/TO 130cm/CD and/CC putting/VBG on/RP 2kg/CD in/IN weight./NN
+While/IN he/PRP may/MD not/RB quite/RB be/VB ready/JJ for/IN yoga/NN he/PRP does/VBZ have/VB more/JJR freedom/NN of/IN movement/NN being/VBG able/JJ to/TO twist/VB his/PRP$ hips/NNS and/CC bend/VB his/PRP$ wrists/NNS thumbs/NNS and/CC neck./NN
+
+Asimo/NNP has/VBZ already/RB made/VBN his/PRP$ mark/NN on/IN the/DT international/JJ robot/NN scene/NN and/CC in/IN November/NNP was/VBD inducted/VBN into/IN the/DT Robot/NN Hall/NNP of/IN Fame./NNP
+He/PRP has/VBZ wowed/VBN audiences/NNS around/IN the/DT world/NN with/IN his/PRP$ ability/NN to/TO walk/VB upstairs/NN recognise/NN faces/VBZ and/CC come/VB when/WRB beckoned./NN
+In/IN August/NNP 2003/CD he/PRP even/RB attended/VBD a/DT state/NN dinner/NN in/IN the/DT Czech/JJ Republic/NNP travelling/VBG with/IN the/DT Japanese/JJ prime/JJ minister/NN as/IN a/DT goodwill/NN envoy./NN
+He/PRP is/VBZ one/CD of/IN a/DT handful/NN of/IN robots/NNS used/VBN by/IN tech/NN firms/NNS to/TO trumpet/VB their/PRP$ technological/JJ advances./NN
+Technology/NNP developed/VBD for/IN Asimo/NNP could/MD be/VB used/VBN in/IN the/DT automobile/NN industry/NN as/IN electronics/NNS increasingly/RB take/VBP over/RP from/IN mechanics/NNS in/IN car/NN design./NN
+For/IN the/DT moment/NN Asimo's/NNP biggest/JJS role/NN is/VBZ an/DT entertainer/NN and/CC the/DT audience/NN gathered/VBN to/TO see/VB his/PRP$ first/JJ public/JJ run/NN greeted/VBN his/PRP$ slightly/RB comical/JJ gait/NN with/IN amusement/NN according/VBG to/TO reports./NN
+Robots/NNS can/MD fulfil/VB serious/JJ functions/NNS in/IN society/NN and/CC the/DT United/NNP Nations/NNPS Economic/NNP Commission/NNP for/IN Europe/NNP predicts/VBZ that/IN the/DT worldwide/NN market/NN for/IN industrial/JJ robots/NNS will/MD swell/VB from/IN 81000/CD units/NNS in/IN 2003/CD to/TO 106000/CD in/IN 2007./CD

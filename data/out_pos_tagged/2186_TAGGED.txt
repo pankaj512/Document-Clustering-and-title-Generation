@@ -1,0 +1,25 @@
+Bad/JJ e-mail/JJ habits/NNS sustains/VBZ spam/NN
+
+The/DT 'bad/NN behaviour'/NN of/IN e-mail/JJ users/NNS is/VBZ helping/VBG to/TO sustain/VB the/DT spam/NN industry/NN a/DT new/JJ study/NN has/VBZ found./NN
+
+According/VBG to/TO a/DT survey/NN conducted/VBN by/IN security/NN firm/NN Mirapoint/NNP and/CC market/NN research/NN company/NN the/DT Radicati/NNP Group/NNP nearly/RB a/DT third/JJ of/IN e-mail/JJ users/NNS have/VBP clicked/VBN on/IN links/NNS in/IN spam/NN messages./NN
+One/CD in/IN ten/NN users/NNS have/VBP bought/VBN products/NNS advertised/VBN in/IN junk/NN mail./NN
+Clicking/NNP on/IN a/DT link/NN in/IN a/DT spam/NN message/NN can/MD expose/VB people/NNS to/TO viruses/NNS and/CC alert/VB spammers/NNS to/TO live/VB e-mail/JJ accounts./NN
+
+The/DT fact/NN that/IN one/CD in/IN ten/NN e-mail/JJ users/NNS are/VBP buying/VBG things/NNS advertised/VBN in/IN spam/NN continues/VBZ to/TO make/VB it/PRP an/DT attractive/JJ business/NN especially/RB given/VBN that/IN sending/VBG out/RP huge/JJ amounts/NNS of/IN spam/NN costs/NNS very/RB little/JJ the/DT report/NN concludes./NN
+"This/NN preliminary/JJ data/NNS is/VBZ surprising/JJ and/CC somewhat/RB shocking/JJ to/TO us"/VB said/VBD Marcel/NNP Nienhuis/NNP market/NN analyst/NN at/IN the/DT Radicati/NNP Group./NNP
+"It/NN explains/VBZ why/WRB e-mail/JJ security/NN threats/NNS including/VBG spam/NN viruses/NNS and/CC phishing/VBG scams/NNS continue/VBP to/TO proliferate"/VB he/PRP said/VBD accusing/VBG users/NNS of/IN "bad/NN e-mail/JJ behaviour"./NN
+Spammers/NNS are/VBP increasingly/RB hooking/VBG into/IN whatever/WDT happens/VBZ to/TO be/VB flavour/NN of/IN the/DT month/NN according/VBG to/TO security/NN firm/NN Clearswift./NNP
+It/PRP has/VBZ recently/RB seen/VBN a/DT rise/NN in/IN the/DT number/NN of/IN spam/NN messages/NNS offering/VBG phoney/JJ Sony/NNP PSP/NNP giveaways./NN
+And/CC in/IN perhaps/RB a/DT nod/NN to/TO the/DT popularity/NN of/IN the/DT American/JJ drama/NN series/NN Desperate/JJ Housewives/NNS it/PRP has/VBZ also/RB seen/VBN a/DT dramatic/JJ rise/NN in/IN junk/NN mails/NNS purporting/VBG to/TO give/VB details/NNS of/IN women/NNS looking/VBG for/IN casual/JJ sex./NN
+But/CC rather/RB than/IN finding/VBG a/DT companion/NN users/NNS who/WP click/VBP on/IN such/JJ mail/NN will/MD find/VB themselves/PRP redirected/VBD to/TO porn/VB sites/NNS where/WRB they/PRP run/VBP the/DT risk/NN of/IN downloading/VBG spyware/NN on/RP to/TO their/PRP$ PC./NNP
+Clearswift/NNP has/VBZ seen/VBN a/DT 180%/CD rise/NN in/IN sex-related/JJ spam/NN over/IN the/DT course/NN of/IN the/DT last/JJ month./NN
+"Without/NN casting/VBG aspersions/NNS those/DT likely/JJ to/TO respond/VB to/TO these/DT kind/NN of/IN adverts/NNS will/MD be/VB invariably/RB hoping/VBG that/DT 'one/NN thing/NN leads/VBZ to/TO another'/VB but/CC aside/RB from/IN the/DT fact/NN that/IN these/DT mails/NNS are/VBP bogus/JJ clicking/NN on/IN any/DT link/NN within/IN a/DT spam/NN mail/NN can/MD lead/VB to/TO a/DT whole/JJ host/NN of/IN unwanted/JJ problems"/NN said/VBD Alyn/NNP Hockey/NNP Clearswift's/NNP director/NN of/IN research./NN
+
+Sexually/RB explicit/JJ terms/NNS make/VBP up/RP 14%/CD of/IN security/NN firm/NN Sophos'/NNP top/JJ 50/CD word/NN that/IN spammers/NNS most/RBS commonly/RB try/VB to/TO disguise/VB in/IN order/NN to/TO beat/VB anti-spam/JJ filters./NN
+Spammers/NNP will/MD deliberately/RB misspell/VB a/DT word/NN or/CC use/NN digits/NNS instead/RB of/IN letters/NNS in/IN an/DT attempt/NN to/TO by-pass/JJ anti-spam/JJ software/NN said/VBD Graham/NNP Cluley/NNP senior/JJ technology/NN consultant/NN for/IN security/NN firm/NN Sophos./NNP
+"The/NN list/NN of/IN words/NNS most/RBS commonly/RB hidden/VBN by/IN the/DT spammers/NNS from/IN anti-spam/JJ software/NN reveals/VBZ that/IN most/JJS spam/NN is/VBZ about/IN the/DT old/JJ favourites/NNS money/NN drugs/NNS and/CC sex"/NN said/VBD Mr/NNP Cluley./NNP
+But/CC anti-spam/JJ filters/NNS can/MD only/RB be/VB part/NN of/IN the/DT solution/NN to/TO the/DT menace/NN of/IN junk/NN e-mail./JJ
+"People/NN must/MD resist/VB their/PRP$ basic/JJ instincts/NNS to/TO buy/VB from/IN spam/NN mails./NN
+Spammers/NNS are/VBP criminals/NNS plain/JJ and/CC simple./NN
+If/IN no-one/NN responded/VBD to/TO junk/VB e-mail/JJ and/CC didn't/NN buy/NN products/NNS sold/VBN in/IN this/DT way/NN then/RB spam/NN would/MD be/VB as/RB extinct/JJ as/IN the/DT dinosaurs"/NN he/PRP said./VB

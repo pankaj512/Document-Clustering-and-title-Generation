@@ -1,0 +1,22 @@
+Green/CD reports/NNS shun/VBP supply/NN chain/NN
+
+Nearly/RB 20%/CD more/JJR UK/NNP top/JJ 250/CD firms/NNS produced/VBD non-financial/JJ reports/NNS on/IN social/JJ and/CC environment/NN issues/NNS than/IN last/JJ year./NN
+
+But/CC of/IN the/DT 145/CD companies/NNS reporting/VBG 76%/CD didn't/NN examine/NN their/PRP$ supply/NN chains/NNS says/VBZ the/DT annual/JJ Directions/NNS survey./NN
+Green/CD groups/NNS say/VBP putting/VBG pressure/NN on/IN supply/NN chains/NNS is/VBZ a/DT major/JJ way/NN companies/NNS can/MD reduce/VB their/PRP$ environmental/JJ impact./NN
+The/DT survey/NN is/VBZ published/VBN by/IN corporate/JJ social/JJ responsibility/NN firm/JJ Context/NN and/CC branding/VBG firm/NN SalterBaxter./NNP
+
+Blake/NNP Lee-Harwood/NNP campaigns/NNS director/NN at/IN Greenpeace/NNP in/IN the/DT UK/NNP said/VBD "It's/NN fairly/RB meaningless/JJ to/TO talk/VB about/IN your/PRP$ company's/NNS direction/NN in/IN terms/NNS of/IN sustainability/NN without/IN having/VBG detailed/JJ knowledge/NN of/IN your/PRP$ supply/NN chain./NN
+"It's/NN also/RB important/JJ to/TO get/VB some/DT kind/NN of/IN independent/JJ assessment/NN of/IN your/PRP$ reporting."/NN
+
+Less/RBR than/IN a/DT quarter/NN of/IN companies/NNS (24%)/CD get/NN their/PRP$ corporate/JJ social/JJ responsibility/NN (CSR)/NN reports/NNS independently/RB verified/VBN to/TO provide/VB assurances/NNS they/PRP are/VBP accurate/JJ and/CC complete/JJ says/VBZ the/DT survey./NN
+To/TO date/VB there/EX are/VBP no/DT set/VBN standards/NNS for/IN non-financial/JJ reporting/NN although/IN the/DT Global/JJ Reporting/NNP Initiative/NNP an/DT independent/JJ pro-sustainability/JJ institution/NN is/VBZ planning/VBG to/TO establish/VB some./NN
+The/DT reports/NNS surveyed/VBD by/IN Directions/NNS are/VBP published/VBN voluntarily./NN
+They/PRP are/VBP usually/RB called/VBN corporate/JJ social/JJ responsibility/NN (CSR)/NN reports/NNS sustainability/NN reports/NNS or/CC social/JJ and/CC environmental/JJ reports./NN
+
+Peter/NNP Knight/NNP director/NN of/IN Context/NN says/VBZ 24/CD UK/NNP top/JJ 250/CD companies/NNS reported/VBN for/IN the/DT first/JJ time/NN this/DT year/NN and/CC in/IN general/JJ the/DT quality/NN of/IN reports/NNS has/VBZ improved./NN
+"The/NN corporate/JJ lexicon/NN of/IN homilies/NNS generalities/NNS and/CC soft/JJ assurances/NNS -/: fluff/NN -/: is/VBZ on/IN its/PRP$ way/NN out./NN
+There/EX are/VBP less/CC pictures/NNS of/IN smiling/VBG children/NNS and/CC butterflies."/VB The/DT UK/NNP government/NN will/MD soon/RB require/VB all/DT quoted/VBN companies/NNS to/TO report/VB their/PRP$ social/JJ and/CC environmental/JJ risks/NNS in/IN a/DT chapter/NN in/IN their/PRP$ annual/JJ reports/NNS called/VBD the/DT Operating/NN and/CC Financial/NNP Review./NNP
+The/DT regulation/NN is/VBZ not/RB expected/VBN until/IN 2005/CD and/CC the/DT first/JJ reports/NNS under/IN this/DT scheme/NN will/MD not/RB be/VB published/VBN before/IN 2006./CD
+The/DT US/PRP seems/VBZ to/TO lag/VB Europe/NNP in/IN producing/VBG corporate/JJ social/JJ responsibility/NN reports./NN
+The/DT majority/NN of/IN European/JJ top/JJ 50/CD companies/NNS (44)/CD publish/NN them/PRP and/CC only/RB 27/CD of/IN the/DT US/PRP top/JJ 50./CD

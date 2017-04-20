@@ -1,0 +1,18 @@
+Beijingers/NNP fume/NN over/IN parking/NN fees/NNS
+
+Choking/VBG traffic/NN jams/NNS in/IN Beijing/NNP are/VBP prompting/VBG officials/NNS to/TO look/VB at/IN reorganising/VBG car/NN parking/NN charges./NN
+
+Car/NNP ownership/NN has/VBZ risen/VBN fast/RB in/IN recent/JJ years/NNS and/CC there/EX are/VBP now/RB two/CD and/CC a/DT half/NN million/CD cars/NNS on/IN the/DT city's/NNS roads./NN
+The/DT trouble/NN is/VBZ that/IN the/DT high/JJ status/NN of/IN car/NN ownership/NN is/VBZ matched/VBN by/IN expensive/JJ fees/NNS at/IN indoor/JJ car/NN parks/NNS making/VBG motorists/NNS reluctant/JJ to/TO use/VB them./NN
+Instead/RB roads/NNS are/VBP being/VBG clogged/VBN by/IN drivers/NNS circling/VBG in/IN search/NN of/IN a/DT cheaper/JJR outdoor/JJ option./NN
+"The/NN price/NN differences/NNS between/IN indoor/JJ and/CC outdoor/JJ lots/NNS are/VBP unreasonable"/NN said/VBD Wang/NNP Yan/NNP an/DT official/NN from/IN the/DT Beijing/NNP Municipal/NNP Commission/NNP for/IN Development/NNP and/CC Reform/NNP quoted/VBD in/IN the/DT state-run/JJ China/NNP Daily/NNP newspaper./NN
+Mr/NNP Wang/NNP who/WP is/VBZ in/IN charge/NN of/IN collecting/VBG car/NN parking/NN fees/NNS said/VBD his/PRP$ team/NN would/MD be/VB looking/VBG at/IN adjusting/VBG parking/NN prices/NNS to/TO close/VB the/DT gap./NN
+Indoor/JJ parking/NN bays/NNS can/MD cost/VB up/IN to/TO 250%/CD more/JJR than/IN outdoor/JJ ones./NN
+
+Sports/NN fans/NNS who/WP drive/VBP to/TO matches/VBZ may/MD also/RB find/VB themselves/PRP the/DT target/NN of/IN the/DT commission's/NNS road/NN rage./NN
+It/PRP wants/VBZ them/PRP to/TO use/VB public/JJ transport/NN and/CC is/VBZ considering/VBG jacking/VBG up/RP the/DT prices/NNS of/IN car/NN parks/NNS near/IN sports/NNS grounds./NN
+Mr/NNP Wang/NNP said/VBD his/PRP$ review/NN team/NN may/MD scrap/VB the/DT relatively/RB cheap/JJ hourly/JJ fee/NN near/IN such/JJ places/NNS and/CC impose/VB a/DT higher/JJR flat/JJ rate/NN during/IN matches./NN
+Indoor/JJ parking/NN may/MD be/VB costly/JJ but/CC it/PRP is/VBZ not/RB always/RB secure./VB
+Mr/NNP Wang's/NNP team/NN are/VBP also/RB going/VBG to/TO look/VB into/IN complaints/NNS from/IN residents/NNS about/IN poor/JJ service/NN received/VBD in/IN exchange/NN for/IN compulsory/JJ monthly/JJ fees/NNS of/IN up/IN to/TO 400/CD yuan/NN ($48/CD £26)./CD
+The/DT Beijing/NNP authorities/NNS decided/VBD two/CD years/NNS ago/RB that/IN visiting/VBG foreign/JJ dignitaries'/NN motorcades/NNS should/MD not/RB longer/RB get/VB motorcycle/NN outriders/NNS as/IN they/PRP blocked/VBD the/DT traffic./NN
+Unclogging/NNP Beijing's/NNP increasingly/RB impassable/JJ streets/NNS is/VBZ a/DT major/JJ concern/NN for/IN the/DT Chinese/JJ authorities/NNS who/WP are/VBP building/NN dozens/NNS of/IN new/JJ roads/NNS to/TO create/VB a/DT showcase/NN modern/JJ city/NN ahead/RB of/IN the/DT 2008/CD Olympic/NNP Games./NNP

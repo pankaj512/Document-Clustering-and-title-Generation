@@ -1,0 +1,24 @@
+Video/NNP phone/NN help/NN for/IN deaf/JJ people/NNS
+
+Deaf/JJ people/NNS who/WP prefer/VBP to/TO communicate/VB using/VBG British/JJ Sign/NN Language/NN (BSL)/NN could/MD soon/RB be/VB having/VBG their/PRP$ phone/NN conversations/NNS relayed/VBD using/VBG webcams/NNS or/CC videophones/NNS and/CC an/DT interpreter./JJ
+
+The/DT Video/NNP Relay/NNP Service/NNP is/VBZ being/VBG piloted/VBN by/IN the/DT Royal/NNP National/NNP Institute/NNP for/IN Deaf/JJ People/NNS (RNID)/NN but/CC the/DT organisation/NN says/VBZ unless/IN the/DT service/NN is/VBZ provided/VBN at/IN the/DT same/JJ rate/NN as/IN voice/NN calls/VBZ it/PRP will/MD be/VB beyond/IN most/JJS people's/NNS pockets./NN
+The/DT RNID/NNP is/VBZ urging/VBG telecoms/NNS regulator/NN Ofcom/NNP to/TO reduce/VB the/DT cost/NN of/IN the/DT service/NN from/IN the/DT current/JJ £7.00/CD per/IN minute/NN and/CC make/VB it/PRP the/DT same/JJ as/IN ordinary/JJ phone/NN calls./NN
+The/DT service/NN works/VBZ by/IN putting/VBG a/DT deaf/JJ person/NN in/IN visual/JJ contact/NN with/IN a/DT BSL/NNP interpreter/NN via/IN a/DT webcam/NN or/CC video/NN phone/NN and/CC the/DT interpreter/NN then/RB relays/VBZ the/DT deaf/JJ person's/NNS conversation/NN using/VBG a/DT telephone/NN and/CC translates/VBZ the/DT other/JJ person's/NNS response/NN into/IN sign/NN language./NN
+
+For/IN many/JJ deaf/JJ people/NNS especially/RB those/DT born/VBN deaf/JJ BSL/NNP is/VBZ a/DT first/JJ and/CC preferred/JJ means/NNS of/IN communication./NN
+
+Until/IN now/RB the/DT only/JJ alternative/NN has/VBZ been/VBN to/TO use/VB textphones/NNS which/WDT means/VBZ having/VBG to/TO type/VB a/DT message/NN and/CC have/VBP it/PRP relayed/VBD via/IN an/DT operator./NN
+"In/NN the/DT past/JJ I've/NNP used/VBD textphones/NNS but/CC they/PRP have/VBP problems"/NN said/VBN Robert/NNP Currington/NNP who/WP is/VBZ taking/VBG part/NN in/IN the/DT pilot./NN
+"I/NN communicate/NN in/IN BSL/NNP my/PRP$ written/VBN English/NNP is/VBZ not/RB very/RB good/JJ and/CC it/PRP takes/VBZ me/PRP longer/RB to/TO think/VB in/IN English/NNP and/CC type/VB my/PRP$ message."/NN "I/NN sometimes/RB find/VB it/PRP difficult/JJ to/TO understand/VB the/DT reply."/NN The/DT RNID/NNP says/VBZ the/DT UK/NNP is/VBZ lagging/VBG behind/IN other/JJ countries/NNS which/WDT are/VBP already/RB making/VBG relay/NN services/NNS available/JJ at/IN the/DT cost/NN of/IN an/DT ordinary/JJ phone/NN call./NN
+"There/NN are/VBP no/DT technical/JJ or/CC economic/JJ reasons/NNS for/IN not/RB providing/VBG equivalent/NN access/NN to/TO services/NNS for/IN deaf/JJ people"/NN said/VBD RNID/NNP technology/NN director/NN Guido/NNP Gybels./NNP
+"In/NN the/DT US/PRP and/CC Australia/NNP sign/NN language/NN relay/NN services/NNS have/VBP already/RB been/VBN made/VBN universally/RB available/JJ at/IN the/DT same/JJ cost/NN as/IN a/DT voice/NN call./NN
+"By/NN failing/VBG to/TO provide/VB and/CC fund/VB the/DT video/NN relay/NN service/NN for/IN sign/NN language/NN users/NNS the/DT telecommunications/NNS sector/NN is/VBZ effectively/RB discriminating/VBG against/IN an/DT already/RB disenfranchised/JJ group."/NN
+
+Ofcom/NNP says/VBZ it/PRP has/VBZ plans/NNS to/TO review/VB the/DT services/NNS that/IN telecoms/NNS companies/NNS are/VBP obliged/VBN to/TO provide/VB early/JJ next/JJ year./NN
+And/CC new/JJ technology/NN including/VBG the/DT Video/NNP Relay/NNP Service/NNP will/MD be/VB discussed/VBN with/IN interested/JJ parties/NNS in/IN the/DT near/JJ future./NN
+But/CC a/DT spokesman/NN said/VBD its/PRP$ powers/NNS were/VBD limited/VBN by/IN legislation./NN
+"Any/NN proposals/NNS to/TO extend/VB existing/VBG arrangements/NNS to/TO cover/VB new/JJ services/NNS would/MD be/VB for/IN government/NN to/TO consider"/VB he/PRP said./VB
+Mr/NNP Currington/NNP like/IN many/JJ of/IN the/DT UK's/NNP 70000/CD BSL/NNP users/NNS will/MD be/VB hoping/VBG that/IN a/DT way/NN can/MD be/VB found/VBN to/TO make/VB a/DT cost-effective/JJ service/NN available./NN
+"The/NN relay/NN service/NN makes/VBZ phone/NN conversations/NNS a/DT pleasure"/NN he/PRP said./VB
+"I/NN can/MD show/VB my/PRP$ emotions/NNS more/RBR easily/RB in/IN BSL/NNP in/IN the/DT same/JJ way/NN hearing/NN people/NNS express/VBP emotions/NNS through/IN voice/NN calls."/NN

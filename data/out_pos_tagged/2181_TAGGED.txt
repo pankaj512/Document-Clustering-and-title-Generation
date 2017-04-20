@@ -1,0 +1,31 @@
+Have/VBP hackers/NNS recruited/VBD your/PRP$ PC?/NNP
+
+More/JJR than/IN one/CD million/CD computers/NNS on/IN the/DT net/JJ have/VBP been/VBN hijacked/VBN to/TO attack/VB websites/NNS and/CC pump/VB out/RP spam/NN and/CC viruses./NN
+
+The/DT huge/JJ number/NN was/VBD revealed/VBN by/IN security/NN researchers/NNS who/WP have/VBP spent/VBN months/NNS tracking/VBG more/JJR than/IN 100/CD networks/NNS of/IN remotely-controlled/JJ machines./NN
+The/DT largest/JJS network/NN of/IN so-called/JJ zombie/NN networks/NNS spied/VBD on/IN by/IN the/DT team/NN was/VBD made/VBN up/RP of/IN 50000/CD hijacked/VBN home/NN computers./NN
+Data/NNP was/VBD gathered/VBN using/VBG machines/NNS that/WDT looked/VBD innocent/JJ but/CC which/WDT logged/VBD everything/NN hackers/NNS did/VBD to/TO them./VB
+
+The/DT detailed/JJ look/NN at/IN zombie/NN or/CC 'bot/NN nets/NNS of/IN hijacked/VBN computers/NNS was/VBD done/VBN by/IN the/DT Honeynet/NNP Project/NNP -/: a/DT group/NN of/IN security/NN researchers/NNS that/WDT gather/NN information/NN using/VBG networks/NNS of/IN computers/NNS that/DT act/NN as/IN "honey/NN pots"/NN to/TO attract/VB hackers/NNS and/CC gather/VB information/NN about/IN how/WRB they/PRP work./VBP
+While/IN 'bot/NN nets/NNS have/VBP been/VBN known/VBN about/IN for/IN some/DT time/NN estimates/NNS of/IN how/WRB widespread/JJ they/PRP are/VBP from/IN security/NN firms/NNS have/VBP varied/VBN widely./NN
+
+To/TO gather/VB its/PRP$ information/NN the/DT German/NNP arm/NN of/IN the/DT Honeynet/NNP Project/NNP created/VBD software/NN tools/NNS to/TO log/VB what/WP happened/VBD to/TO the/DT machines/NNS they/PRP put/VBD on/IN the/DT web./NN
+Getting/VBG the/DT machines/NNS hijacked/VBN was/VBD worryingly/RB easy./NN
+The/DT longest/JJS time/NN a/DT Honeynet/NNP machine/NN survived/VBD without/IN being/VBG found/VBD by/IN an/DT automatic/JJ attack/NN tool/NN was/VBD only/RB a/DT few/JJ minutes./NN
+The/DT shortest/JJ compromise/NN time/NN was/VBD only/RB a/DT few/JJ seconds./NN
+The/DT research/NN found/VBD that/WDT once/RB compromised/VBN machines/NNS tend/VBP to/TO report/VB in/RP to/TO chat/VB channels/NNS on/IN IRC/NNP servers/NNS and/CC wait/VB instructions/NNS from/IN the/DT malicious/JJ hacker/NN behind/IN the/DT tools/NNS used/VBN to/TO recruit/VB the/DT machine./NN
+Many/JJ well-known/JJ vulnerabilities/NNS in/IN the/DT Windows/NNS operating/NN system/NN were/VBD exploited/VBN by/IN 'bot/NN net/JJ controllers/NNS to/TO find/VB and/CC take/VB over/RP target/NN machines./NN
+Especially/RB coveted/JJ were/VBD home/NN PCs/NNS sitting/VBG on/IN broadband/NN connections/NNS that/WDT are/VBP never/RB turned/VBN off./NN
+
+The/DT months/NNS of/IN surveillance/NN revealed/VBD that/IN the/DT different/JJ 'bot/NN nets/NNS -/: which/WDT involve/VBP a/DT few/JJ hundred/CD to/TO tens/NNS of/IN thousands/NNS of/IN machines/NNS -/: are/VBP used/VBN for/IN a/DT variety/NN of/IN purposes./NN
+Many/JJ are/VBP used/VBN as/IN relays/NNS for/IN spam/NN to/TO route/VB unwanted/JJ adverts/NNS to/TO PC/VB users/NNS or/CC as/IN launch/NN platforms/NNS for/IN viruses./NN
+But/CC the/DT research/NN team/NN found/VBD that/IN many/JJ are/VBP put/VBN to/TO very/RB different/JJ uses./NN
+During/IN the/DT monitoring/NN period/NN the/DT team/NN saw/VBD 'bot/NN nets/NNS used/VBN to/TO launch/VB 226/CD distributed/VBN denial-of-service/JJ attacks/NNS on/IN 99/CD separate/JJ targets./NN
+These/DT attacks/NNS bombard/NN websites/NNS with/IN data/NNS in/IN an/DT attempt/NN to/TO overwhelm/VB the/DT target./NN
+Using/VBG a/DT 'bot/NN net/NN of/IN machines/NNS spread/NN around/IN different/JJ networks/NNS and/CC nations/NNS makes/VBZ such/JJ attacks/NNS hard/JJ to/TO defend/VB against./NN
+One/CD DDoS/NNP attack/NN was/VBD used/VBN by/IN one/CD firm/NN to/TO knock/VB its/PRP$ competitors/NNS offline./NN
+Other/JJ 'bot/NN nets/NNS were/VBD used/VBN to/TO abuse/VB the/DT Google/NNP Adsense/NNP program/NN that/IN rewards/NNS websites/NNS for/IN displaying/VBG adverts/NNS from/IN the/DT search/NN engine./NN
+Some/DT networks/NNS were/VBD used/VBN to/TO abuse/VB or/CC manipulate/VB online/NN polls/NNS and/CC games./NN
+Criminals/NNS also/RB seem/VBP to/TO be/VB starting/VBG to/TO use/VB 'bot/NN nets/NNS for/IN mass/NN identity/NN theft/NN to/TO host/VB websites/NNS that/WDT look/VBP like/IN those/DT of/IN banks/NNS so/RB confidential/JJ information/NN can/MD be/VB gathered/VBN and/CC to/TO peep/VB into/IN online/NN traffic/NN to/TO steal/VB sensitive/JJ data./NN
+"Leveraging/VBG the/DT power/NN of/IN several/JJ thousand/CD bots/NNS it/PRP is/VBZ viable/JJ to/TO take/VB down/RP almost/RB any/DT website/NN or/CC network/NN instantly"/NN said/VBD the/DT researchers./NN
+"Even/NN in/IN unskilled/VBN hands/NNS it/PRP should/MD be/VB obvious/JJ that/DT 'bot/NN nets/NNS are/VBP a/DT loaded/VBN and/CC powerful/JJ weapon."/NN

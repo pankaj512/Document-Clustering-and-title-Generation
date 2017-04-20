@@ -1,0 +1,19 @@
+Sport/NNP betting/VBG rules/NNS in/IN spotlight/NN
+
+A/DT group/NN of/IN MPs/NNP and/CC peers/VBZ has/VBZ called/VBN for/IN a/DT tightening/NN of/IN regulations/NNS controlling/VBG betting/VBG on/IN sport./NN
+
+The/DT Parliamentary/JJ Group/NNP on/IN Betting/NNP and/CC Gaming/NN held/VBD a/DT substantial/JJ inquiry/NN into/IN betting/VBG last/JJ year./NN
+It/PRP followed/VBD fears/NNS that/IN a/DT massive/JJ increase/NN in/IN betting/VBG on/IN sport/NN such/JJ as/IN that/DT done/VBD using/VBG the/DT internet/JJ and/CC mobile/JJ phones/NNS has/VBZ led/VBN to/TO more/JJR cheating./NN
+The/DT all-party/JJ group/NN recommended/VBD 15/CD ways/NNS to/TO protect/VB punters/NNS and/CC improve/VB the/DT integrity/NN of/IN sports/NNS betting./NN
+They/PRP include/VBP a/DT proposal/NN for/IN raising/VBG the/DT maximum/NN jail/NN sentence/NN for/IN gambling/NN cheats/NNS above/IN the/DT current/JJ two/CD years./NN
+Lord/NNP Condon/NNP head/NN of/IN the/DT International/NNP Cricket/NN Council's/NNP anti-corruption/JJ unit/NN who/WP originally/RB made/VBD the/DT call/NN for/IN longer/RB prison/NN sentences/NNS said/VBD the/DT two-year/JJ penalty/NN was/VBD "derisory"./NN
+"You/NN could/MD get/VB a/DT bigger/JJR sentence/NN for/IN failing/VBG to/TO pay/VB your/PRP$ hotel/NN bill/NN criminally/RB than/IN you/PRP could/MD for/IN corruption/NN in/IN major/JJ sports./NN
+"Symbolically/RB a/DT higher/JJR penalty/NN perhaps/RB as/IN the/DT Bill/NNP passes/VBZ through/IN the/DT two/CD Houses/NNS might/MD be/VB appropriate."/NN
+
+The/DT report/NN recommended/VBD the/DT governing/VBG bodies/NNS of/IN sports/NNS have/VBP a/DT say/NN in/IN the/DT type/NN of/IN bets/NNS offered/VBN to/TO punters/NNS and/CC for/IN bookmakers/NNS to/TO set/VB up/RP "audit/NN trails"/NN -/: something/NN the/DT new/JJ betting/NN exchanges/NNS already/RB do/VBP -/: to/TO allow/VB suspicious/JJ betting/NN patterns/NNS to/TO be/VB traced./NN
+
+Lord/NNP Faulkner/NNP of/IN Worcester/NNP who/WP chaired/VBD the/DT inquiry/NN said/VBD "Whilst/NN we/PRP accept/VBP that/IN the/DT greater/JJR part/NN of/IN sports/NNS betting/VBG is/VBZ neither/DT corrupt/JJ nor/CC unfair/JJ to/TO punters/NNS the/DT evidence/NN convinces/VBZ us/PRP that/IN the/DT growth/NN of/IN betting/VBG exchanges/NNS -/: because/IN of/IN the/DT facility/NN they/PRP provide/VBP to/TO bet/VB against/IN a/DT result/NN -/: has/VBZ increased/VBN the/DT potential/NN for/IN corruption./NN
+"It/NN is/VBZ important/JJ that/IN the/DT government/NN works/VBZ with/IN sporting/VBG administrators/NNS to/TO review/VB the/DT difficulties/NNS faced/VBN by/IN governing/VBG bodies/NNS in/IN convicting/VBG the/DT guilty/JJ and/CC penalising/VBG them/PRP appropriately."/VBP The/DT panel's/NNS aim/NN was/VBD to/TO try/VB to/TO define/VB what/WP constitutes/VBZ cheating/NN assess/NN how/WRB much/RB might/MD be/VB going/VBG on/IN and/CC suggest/VBP what/WP the/DT government/NN might/MD do/VB to/TO put/VB it/PRP right./NN
+As/RB well/RB as/IN the/DT growth/NN of/IN internet/JJ and/CC mobile/JJ phone/NN betting/VBG there/EX has/VBZ been/VBN the/DT creation/NN of/IN betting/VBG exchanges/NNS which/WDT allow/VBP punters/NNS to/TO fix/VB odds/NNS between/IN themselves./NN
+Betting/NN exchanges/NNS allow/VBP punters/NNS to/TO back/VB (to/VB win)/NN but/CC also/RB lay/VBD (to/NN lose)/NN a/DT horse./NN
+This/DT means/VBZ they/PRP can/MD control/VB their/PRP$ odds/NNS at/IN winning/VBG by/IN placing/VBG their/PRP$ money/NN both/DT ways./NN

@@ -1,0 +1,23 @@
+GM/NNP Ford/NNP cut/VBD output/NN as/IN sales/NNS fall/VBP
+
+US/PRP car/VBP firms/NNS General/NNP Motors/NNPS (GM)/NN and/CC Ford/NNP have/VBP been/VBN forced/VBN to/TO cut/VB production/NN in/IN the/DT face/NN of/IN falling/VBG car/NN sales./NN
+
+US/PRP sales/VBZ at/IN GM/NNP sank/VBD 12.7%/CD in/IN February/NNP compared/VBD to/TO a/DT year/NN ago/RB while/IN Ford/NNP sales/NNS dropped/VBD 3%/CD as/IN foreign/JJ rivals/NNS took/VBD a/DT bigger/JJR share/NN of/IN the/DT market./NN
+Meanwhile/RB Asian/JJ carmakers/NNS fared/VBD well/RB -/: Toyota/NNP sales/NNS jumped/VBD 11%/CD while/IN rival/JJ Nissan/NNP notched/VBD up/RP a/DT 10%/CD increase./NN
+Overall./NNP
+sales/NNS across/IN the/DT industry/NN also/RB fell/VBD to/TO 1.25/CD million/CD vehicles/NNS from/IN 1.27/CD million/CD a/DT year/NN earlier./NN
+
+GM/NNP and/CC Ford/NNP blamed/VBD high/JJ fuel/NN prices/NNS for/IN low/JJ sales/NNS of/IN big/JJ trucks/NNS and/CC gas-guzzling/JJ sports/NNS utility/NN vehicles/NNS (SUVs)/NN -/: the/DT vehicles/NNS that/WDT provide/VBP the/DT biggest/JJS profits./NN
+
+GM/NNP added/VBD that/IN US/PRP truck/VBP sales/NNS fell/VBD 9%/CD in/IN February/NNP while/IN car/NN business/NN tumbled/VBD 17%/CD however/RB it/PRP did/VBD acknowledge/VB that/IN some/DT new/JJ products/NNS -/: such/JJ as/IN the/DT Pontiac/NNP G6/CD and/CC Chevrolet/NNP Cobalt/NNP -/: had/VBD put/VBN in/IN solid/JJ performances./NN
+"The/NN calendar/NN year/NN is/VBZ starting/VBG off/RP slower/JJR than/IN expected/VBN both/DT for/IN GM/NNP and/CC the/DT industry"/NN said/VBD Mark/NNP LaNeve/NNP GM's/NNP vice/NN president/NN for/IN North/JJ American/JJ sales/NNS service/NN and/CC marketing./NN
+The/DT slump/NN in/IN sales/NNS prompted/VBD the/DT group/NN to/TO cut/VB production/NN in/IN North/NNP America/NNP by/IN 3%/CD -/: it/PRP has/VBZ already/RB reduced/VBN output/NN by/IN around/IN 9%/CD in/IN the/DT face/NN of/IN growing/VBG stockpiles./NN
+Meanwhile/RB Ford/NNP which/WDT posted/VBD its/PRP$ ninth/JJ consecutive/JJ drop/NN in/IN monthly/JJ US/PRP sales/VBZ said/VBD it/PRP was/VBD cutting/VBG first-quarter/JJ North/JJ American/JJ production/NN by/IN another/DT 10000/CD vehicles/NNS or/CC 1.2%./CD
+Chrysler/VBG the/DT US/PRP unit/VBP of/IN Germany's/NNP DaimlerChrysler/NNP was/VBD the/DT only/JJ Detroit/NNP based/VBD automaker/NN to/TO boast/VB an/DT increase/NN in/IN market/NN share/NN during/IN the/DT month/NN -/: with/IN sales/NNS rising/VBG 8%./CD
+
+But/CC America's/NNP loss/NN was/VBD its/PRP$ foreign/JJ rivals'/NN gain/NN as/IN they/PRP continued/VBD to/TO nibble/JJ away/RB at/IN the/DT US/PRP market./VBP
+While/IN Japan's/NNP top/JJ car/NN maker/NN Toyota/NNP and/CC Nissan/NNP saw/VBD sales/NNS accelerate/VBP even/RB the/DT smaller/JJR Suzuki/NNP Motor/NNP Corp/NNP snapped/VBD up/RP a/DT more/JJR business/JJ with/IN sales/NNS improving/VBG 17.6%/CD on/IN a/DT year/NN ago./NN
+In/IN 2003/CD the/DT firm/NN launched/VBD an/DT ambitious/JJ plan/NN to/TO triple/VB US/PRP sales/VBZ by/IN 2007/CD as/IN it/PRP seeks/VBZ to/TO become/VB a/DT bigger/JJR player/NN in/IN the/DT Asian/JJ assault/NN on/IN the/DT US/PRP market./VBP
+Korea's/NNP Hyundai/NNP was/VBD another/DT big/JJ gainer/NN turning/VBG in/RP a/DT 19%/CD surge/NN in/IN February/NNP sales./NN
+Toyota/NNP put/VBD its/PRP$ rise/NN in/IN sales/NNS down/RB to/TO strong/JJ results/NNS for/IN its/PRP$ redesigned/VBN Avalon/NNP sedan/NN and/CC a/DT 120%/CD surge/NN in/IN sales/NNS of/IN its/PRP$ gas-electric/JJ Prius/NNP hybrid/JJ mid-size/JJ sedan/NN as/IN petrol-price/JJ conscious/JJ consumers/NNS looked/VBD to/TO vehicles/NNS that/WDT were/VBD cheaper/JJR to/TO run./VB
+"As/NN gas/NN prices/NNS continue/VBP their/PRP$ upward/JJ march/NN fuel/NN efficiency/NN catches/NNS the/DT public/JJ eye"/NN Jim/NNP Press/NNP vice/NN president/NN and/CC chief/NN operating/NN officer/NN of/IN Toyota's/NNP US/PRP sales/VBZ arm/NN said/VBD in/IN a/DT statement./NN

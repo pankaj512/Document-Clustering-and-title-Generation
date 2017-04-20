@@ -1,0 +1,12 @@
+Shark/NNP Tale/NNP DVD/NNP is/VBZ US/PRP best-seller/NN
+
+Oscar-nominated/NNP animation/NN Shark/NN Tale/NNP has/VBZ raked/VBN in/IN $80m/CD (£42.4m)/CD in/IN the/DT first/JJ week/NN of/IN its/PRP$ US/PRP DVD/NNP release/NN becoming/VBG the/DT year's/NNS best-selling/JJS home/NN video/NN so/RB far./NN
+
+The/DT tally/NN for/IN its/PRP$ DVD/NNP and/CC video/NN sales/NNS soared/VBD past/JJ the/DT film's/NNS opening/NN week/NN US/PRP box/VBP office/NN takings/NNS of/IN $56m/CD (£29.7m)./CD
+Shark/NNP Tale/NNP is/VBZ now/RB the/DT sixth-highest/JJ earning/NN DVD/NNP for/IN first/JJ week/NN sales./NN
+The/DT all-time/JJ first-week/JJ record/NN is/VBZ held/VBN by/IN 1995's/CD Lion/NNP King/NNP followed/VBD by/IN Shrek/NNP 2/CD Finding/VBG Nemo/NNP the/DT original/JJ Shrek/NNP and/CC Monster's/NNP Inc./NNP
+
+Shark/NNP Tale/NNP whose/WP$ voice/NN cast/NN includes/VBZ Will/MD Smith/NNP Robert/NNP De/NNP Niro/NNP Renee/NNP Zellweger/NNP and/CC Martin/NNP Scorsese/NNP sold/VBD more/JJR than/IN 6/CD million/CD DVDs/NNP and/CC videos/NNS across/IN the/DT United/NNP States/NNPS and/CC Canada./NNP
+It/PRP becomes/VBZ the/DT highest/JJS first-week/JJ earner/NN for/IN February/NNP outshining/VBG My/PRP$ Big/NNP Fat/NNP Greek/JJ Wedding/NN which/WDT sold/VBD four/CD million/CD units/NNS in/IN 2003./CD
+Films/NNS which/WDT are/VBP expected/VBN to/TO earn/VB strong/JJ home/NN video/NN returns/NNS are/VBP usually/RB timed/VBN for/IN release/NN in/IN the/DT busiest/JJS retail/JJ season/NN which/WDT falls/VBZ before/IN Christmas./NNP
+The/DT best-selling/JJS home/NN video/NN of/IN last/JJ year/NN was/VBD the/DT Dreamworks/NNP hit/VBD Shrek/NNP 2/CD which/WDT took/VBD an/DT estimated/JJ $458/CD m/NN (£242.7m)/CD in/IN North/NNP America/NNP alone./NN

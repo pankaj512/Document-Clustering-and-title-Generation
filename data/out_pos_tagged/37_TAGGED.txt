@@ -1,0 +1,23 @@
+Japanese/JJ mogul/NN arrested/VBN for/IN fraud/NN
+
+One/CD of/IN Japan's/NNP best-known/JJS businessmen/NNS was/VBD arrested/VBN on/IN Thursday/NNP on/IN charges/NNS of/IN falsifying/VBG shareholder/NN information/NN and/CC selling/VBG shares/NNS based/VBN on/IN the/DT false/JJ data./NN
+
+Yoshiaki/NNP Tsutsumi/NNP was/VBD once/RB ranked/VBN as/IN the/DT world's/NNS richest/JJS man/NN and/CC ran/VBD a/DT business/NN spanning/VBG hotels/NNS railways/NNS construction/NN and/CC a/DT baseball/NN team./NN
+His/PRP$ is/VBZ the/DT latest/JJS in/IN a/DT series/NN of/IN arrests/NNS of/IN top/JJ executives/NNS in/IN Japan/NNP over/IN business/NN scandals./NN
+He/PRP was/VBD taken/VBN away/RB in/IN a/DT van/NNP outside/IN one/CD of/IN his/PRP$ Prince/NNP hotels/NNS in/IN Tokyo./NNP
+
+There/EX was/VBD a/DT time/NN when/WRB Mr/NNP Tsutsumi/NNP seemed/VBD untouchable./NN
+Inheriting/VBG a/DT large/JJ property/NN business/NN from/IN his/PRP$ father/NN in/IN the/DT 1960s/NNS he/PRP became/VBD one/CD of/IN Japan's/NNP most/RBS powerful/JJ industrialists/NNS with/IN close/JJ connections/NNS to/TO many/JJ of/IN the/DT country's/NNS leading/VBG politicians./NN
+He/PRP used/VBD his/PRP$ wealth/NN and/CC influence/NN to/TO bring/VB the/DT Winter/NNP Olympic/NNP Games/NNPS to/TO Nagano/NNP in/IN 1998./CD
+But/CC last/JJ year/NN he/PRP was/VBD forced/VBN to/TO resign/VB from/IN all/PDT the/DT posts/NNS he/PRP held/VBD in/IN his/PRP$ business/NN empire/NN after/IN being/VBG accused/VBN of/IN falsifying/VBG the/DT share-ownership/NN structure/NN of/IN Seibu/NNP Railways/NNS one/CD of/IN his/PRP$ companies./NN
+Under/IN Japanese/JJ stock/NN market/NN rules/NNS no/DT listed/VBN company/NN can/MD be/VB more/JJR than/IN 80%/CD owned/VBN by/IN its/PRP$ 10/CD largest/JJS shareholders./NN
+Now/RB Mr/NNP Tsutsumi/NNP faces/VBZ criminal/JJ charges/NNS and/CC the/DT possibility/NN of/IN a/DT prison/NN sentence/NN because/IN he/PRP made/VBD it/PRP look/VB as/IN if/IN the/DT 10/CD biggest/JJS shareholders/NNS owned/VBD less/JJR than/IN this/DT amount./NN
+Seibu/NN Railways/NNS has/VBZ been/VBN delisted/VBN from/IN the/DT stock/NN exchange/NN its/PRP$ share/NN value/NN has/VBZ plunged/VBN and/CC it/PRP is/VBZ the/DT target/NN of/IN a/DT takeover/NN bid./NN
+
+Mr/NNP Tsutsumi's/NNP fall/NN from/IN grace/NN follows/VBZ the/DT arrests/NNS of/IN several/JJ other/JJ top/JJ executives/NNS in/IN Japan/NNP as/IN the/DT authorities/NNS try/VBP to/TO curb/VB the/DT murky/JJ business/NN practices/NNS which/WDT were/VBD once/RB widespread/JJ in/IN Japanese/JJ companies./NN
+His/PRP$ determination/NN to/TO stay/VB at/IN the/DT top/NN at/IN all/DT costs/NNS may/MD have/VB had/VBN its/PRP$ roots/NNS in/IN his/PRP$ childhood./NN
+The/DT illegitimate/JJ third/JJ son/NN of/IN a/DT rich/JJ father/NN who/WP made/VBD his/PRP$ money/NN buying/VBG up/RP property/NN as/IN Japan/NNP rebuilt/NN after/IN World/NNP War/NNP II/NNP he/PRP has/VBZ described/VBN the/DT demands/VBZ his/PRP$ father/NN made./NN
+"I/NN felt/VBD enormous/JJ pressure/NN when/WRB I/PRP dined/VBD with/IN him/PRP and/CC it/PRP was/VBD nothing/NN but/CC pain"/NN Tsutsumi/NNP told/VBD a/DT weekly/JJ magazine/NN in/IN 1987./CD
+"He/NN scolded/VBD me/PRP for/IN pouring/VBG too/RB much/JJ soy/NN sauce/NN or/CC told/VBD me/PRP fruit/VBP was/VBD not/RB for/IN children./NN
+He/PRP didn't/VBP let/NN me/PRP use/VBP the/DT silk/NN futon/NN saying/VBG it's/NNS a/DT luxury."/NN There/EX have/VBP been/VBN corporate/JJ governance/NN issues/NNS at/IN some/DT other/JJ Japanese/JJ companies/NNS too./VBP
+Last/JJ year/NN twelve/CD managers/NNS from/IN Mitsubishi/NNP Motors/NNPS were/VBD charged/VBN with/IN covering/VBG up/RP safety/NN defects/NNS in/IN their/PRP$ vehicles/NNS and/CC three/CD executives/NNS from/IN Japan's/NNP troubled/JJ UFJ/NNP bank/NN were/VBD charged/VBN with/IN concealing/VBG the/DT extent/NN of/IN the/DT bank's/NNS bad/JJ loans./NN

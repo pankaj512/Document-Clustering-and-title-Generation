@@ -1,0 +1,19 @@
+MSPs/NNP hear/VB renewed/VBN climate/NN warning/NN
+
+Climate/NN change/NN could/MD be/VB completely/RB out/IN of/IN control/NN within/IN several/JJ decades/NNS the/DT Scottish/NNP Environment/NNP Protection/NNP Agency/NNP is/VBZ warning/VBG a/DT committee/NN of/IN MSPs./NNP
+
+Experts/NNS are/VBP giving/VBG evidence/NN on/IN the/DT subject/JJ to/TO the/DT Scottish/NNP Parliament's/NNP environment/NN committee./NN
+Officials/NNS believe/VBP nuclear/JJ energy/NN and/CC wind/NN farms/NNS may/MD be/VB better/JJR options/NNS than/IN trying/VBG to/TO tackle/VB global/JJ warming./NN
+Solutions/NNS suggested/VBN by/IN conservationists/NNS include/VBP reducing/VBG internal/JJ UK/NNP air/NN travel/NN and/CC boosting/VBG electric/JJ trains./NN
+The/DT evidence/NN is/VBZ part/NN of/IN the/DT committee's/NNS inquiry/NN into/IN the/DT impact/NN of/IN climate/NN change/NN in/IN Scotland./NNP
+Sepa/NNP is/VBZ attempting/VBG to/TO curb/VB global/JJ warming/NN gases/NNS as/IN pollution/NN from/IN transport/NN emissions/NNS increases./NN
+
+Ecologists/NNS are/VBP warning/NN MSPs/NNP that/IN Scotland/NNP may/MD have/VB to/TO accept/VB "significant/NN intrusion"/NN from/IN wind/NN farms./NN
+It/PRP is/VBZ likely/JJ also/RB that/IN nuclear/JJ power/NN will/MD be/VB needed/VBN for/IN possibly/RB several/JJ decades./NN
+Sepa/NNS predict/VBP that/IN the/DT two/CD methods/NNS will/MD remain/VB as/IN energy/NN sources/NNS until/IN climate/NN change/NN is/VBZ under/IN control./NN
+Experts/NNS studying/VBG the/DT seas/NNS off/IN Scotland's/NNP west/NN coast/NN have/VBP already/RB forecast/NN more/RBR devastating/JJ weather/NN of/IN the/DT type/NN which/WDT caused/VBD havoc/NN across/IN the/DT country/NN last/JJ month./NN
+
+They/PRP predicted/VBD that/IN damaging/JJ storms/NNS will/MD become/VB more/JJR frequent./NN
+Researchers/NNS from/IN the/DT University/NNP of/IN the/DT Highlands/NNP and/CC Islands/NNP and/CC Southampton/NNP have/VBP been/VBN looking/VBG at/IN wave/NN heights/NNS in/IN the/DT Atlantic/NNP over/IN the/DT last/JJ nine/CD years./NN
+The/DT project/NN was/VBD conducted/VBN jointly/RB by/IN the/DT Environmental/NNP Research/NNP Institute/NNP in/IN Thurso/NNP which/WDT is/VBZ part/NN of/IN the/DT University/NNP of/IN the/DT Highlands/NNP and/CC Islands/NNP (UHI)/NN Millennium/NNP Institute/NNP network/NN and/CC the/DT Southampton/NNP Oceanography/NNP Centre./NNP
+Scientists/NNS carried/VBD out/RP a/DT series/NN of/IN studies/NNS including/VBG the/DT use/NN of/IN satellites/NNS to/TO assess/VB wave/NN heights/NNS in/IN the/DT seas/NNS around/IN the/DT west/NN coast/NN and/CC the/DT Hebrides./NNP

@@ -1,0 +1,14 @@
+MPs/NNP assess/VB Scots/NNP fishing/NN industry/NN
+
+A/DT group/NN of/IN MPs/NNP are/VBP on/IN a/DT two-day/JJ fact-finding/JJ mission/NN to/TO Scotland/NNP to/TO gather/VB evidence/NN for/IN a/DT report/NN into/IN the/DT UK's/NNP fishing/NN industry./NN
+
+Members/NNS of/IN Westminster's/NNP environment/NN food/NN and/CC rural/JJ affairs/NNS committee/NN will/MD be/VB touring/VBG fish/NN markets/NNS and/CC talking/VBG to/TO fish/VB processors./NN
+They/PRP will/MD also/RB talk/VB to/TO Fisheries/NNPS Minister/NNP Ross/NNP Finnie/NNP and/CC scientists./NN
+MPs/NNS are/VBP deciding/VBG whether/IN to/TO recommend/VB a/DT new/JJ system/NN of/IN "community/NN quotas"/NN to/TO conserve/VB fish/NN stocks./NN
+The/DT aim/NN is/VBZ that/DT fishing/NN ports/NNS like/IN Peterhead/NNP or/CC Fraserburgh/NNP would/MD be/VB allocated/VBN a/DT quota/NN and/CC local/JJ people/NNS would/MD decide/VB how/WRB to/TO fish/VB it./NN
+The/DT scheme/NN is/VBZ a/DT variation/NN on/IN the/DT local/JJ management/NN committees/NNS already/RB being/VBG established/VBN by/IN the/DT European/NNP Union./NNP
+
+Details/NNS are/VBP contained/VBN in/IN a/DT Royal/NNP Commission/NNP report/NN for/IN the/DT UK/NNP Government/NNP along/IN with/IN the/DT more/RBR controversial/JJ idea/NN of/IN closing/NN some/DT mixed/JJ fishing/NN grounds/NNS completely./NN
+Six/CD members/NNS of/IN the/DT committee/NN will/MD be/VB in/IN Scotland/NNP to/TO seek/VB views/NNS from/IN fishermen/NNS and/CC processors/NNS in/IN Aberdeen/NNP and/CC Peterhead./NNP
+They/PRP will/MD also/RB speak/VB to/TO Mr/NNP Finnie/NNP representatives/NNS of/IN the/DT Royal/NNP Society/NNP and/CC the/DT Sea/NNP Fish/NNP Industry/NNP Authority./NNP
+Committee/NNP chairman/NN Austin/NNP Mitchell/NNP said/VBD some/DT way/NN has/VBZ to/TO be/VB found/VBN of/IN harvesting/VBG mixed/JJ fisheries/NNS without/IN wasting/VBG stocks./NN

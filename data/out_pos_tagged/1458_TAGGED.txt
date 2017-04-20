@@ -1,0 +1,18 @@
+Downing/NNP injury/NN mars/NNS Uefa/NNP victory/NN
+
+Middlesbrough/NNP boss/NN Steve/NNP McClaren/NNP hopes/VBZ that/IN Stewart/NNP Downing/NNP did/VBD not/RB seriously/RB damage/NN his/PRP$ hamstring/VBG during/IN the/DT 2-1/JJ Uefa/NNP Cup/NNP win/VB over/IN Graz/NNP AK./NNP
+
+The/DT winger/NN was/VBD carried/VBN off/RP on/IN a/DT stretcher/NN in/IN the/DT closing/NN stages/NNS as/IN Boro/NNP booked/VBD their/PRP$ place/NN in/IN the/DT last/JJ 16./CD
+McClaren/NNP said/VBD "Stewart/NN has/VBZ tweaked/VBN a/DT hamstring/VBG which/WDT is/VBZ a/DT blow/NN for/IN us./NN
+We/PRP will/MD assess/VB it/PRP in/IN the/DT morning./NN
+"But/NNP I'm/NNP delighted/JJ with/IN the/DT match/NN result./NN
+They/PRP say/VBP in/IN sport/NN you/PRP can/MD win/VB ugly/JJ -/: and/CC we/PRP certainly/RB did."/VBP McClaren/NNP was/VBD relieved/VBN to/TO make/VB it/PRP through/RP after/IN a/DT tough/JJ encounter/NN at/IN The/DT Riverside./NNP
+
+"To/NN be/VB fair/JJ to/TO Graz/NNP they/PRP had/VBD a/DT gameplan/NN -/: they/PRP knocked/VBD the/DT ball/NN forward/RB especially/RB in/IN the/DT first/JJ half/NN and/CC we/PRP struggled/VBD to/TO deal/VB with/IN it./NN
+"In/NN the/DT second/JJ half/NN we/PRP were/VBD better/RBR but/CC it/PRP was/VBD frustrating/JJ because/IN we/PRP got/VBD the/DT goal/NN -/: but/CC one/CD slip/NN and/CC they/PRP were/VBD back/RB in/IN it."/NN Boro/NNP face/NN Sporting/NNP Lisbon/NNP for/IN a/DT place/NN in/IN the/DT quarter-finals/NNS after/IN the/DT Portuguese/NNP side/NN saw/VBD off/RP Feyenoord/NNP on/IN Thursday./NNP
+And/CC McClaren/NNP added/VBD "Sporting/VBG are/VBP technically/RB very/RB good/JJ -/: Portuguese/NNP sides/NNS always/RB are./VBP
+"But/NN the/DT journey/NN goes/VBZ on/IN for/IN us/PRP and/CC we/PRP will/MD now/RB go/VB to/TO their/PRP$ magnificent/JJ stadium/NN -/: after/IN the/DT first/JJ game/NN here/RB -/: we'll/NN look/NN forward/RB to/TO it."/VB Goalscorer/NNP Jimmy/NNP Floyd/NNP Hasselbaink/NNP added/VBD "It/NN wasn't/NN a/DT particularly/RB beautiful/JJ match/NN to/TO watch/VB -/: but/CC they/PRP made/VBD it/PRP difficult/JJ for/IN us./NN
+"We/NN didn't/NN play/NN well/RB at/IN all./NN
+But/CC you/PRP need/VBP a/DT little/JJ bit/NN of/IN luck/NN and/CC I/PRP think/VBP we/PRP got/VBD that/IN when/WRB my/PRP$ shot/NN went/VBD through/RB the/DT legs/NNS of/IN their/PRP$ goalkeeper./NN
+"I/NN would/MD have/VB liked/VBN to/TO play/VB in/IN Holland/NNP -/: that/WDT would/MD have/VB been/VBN a/DT little/JJ bit/NN special/JJ to/TO me./VB
+"But/NN so/RB is/VBZ going/VBG back/RB to/TO Portugal/NNP -/: I'll/NNP be/VB playing/VBG against/IN some/DT lads/NNS I/PRP played/VBD with/IN at/IN Boavista."/NNP

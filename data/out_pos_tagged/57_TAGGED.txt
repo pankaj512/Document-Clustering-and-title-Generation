@@ -1,0 +1,26 @@
+Economy/NNP 'stronger/NN than/IN forecast'/NN
+
+The/DT UK/NNP economy/NN probably/RB grew/VBD at/IN a/DT faster/JJR rate/NN in/IN the/DT third/JJ quarter/NN than/IN the/DT 0.4%/CD reported/VBD according/VBG to/TO Bank/NNP of/IN England/NNP deputy/NN governor/NN Rachel/NNP Lomax./NNP
+
+Private/JJ sector/NN business/NN surveys/NNS suggest/VBP a/DT stronger/JJR economy/NN than/IN official/JJ estimates/NNS Ms/NNP Lomax/NNP said./NN
+Other/JJ surveys/NNS collectively/RB show/VBP a/DT rapid/JJ slowdown/NN in/IN UK/NNP house/NN price/NN growth/NN she/PRP pointed/VBD out./NN
+This/DT means/VBZ that/IN despite/IN a/DT strong/JJ economic/JJ growth/NN base/NN rates/NNS will/MD probably/RB stay/VB on/IN hold/NN at/IN 4.75%./CD
+Official/JJ data/NNS comes/VBZ from/IN the/DT Office/NNP for/IN National/NNP Statistics/NNPS (ONS)./NN
+Though/IN reliable/JJ ONS/NNP data/NNS takes/VBZ longer/RB to/TO publish/VB so/RB now/RB the/DT BoE/NNP is/VBZ calling/VBG for/IN faster/JJR delivery/NN of/IN data/NNS so/IN it/PRP can/MD make/VB more/RBR effective/JJ policy/NN decisions./NN
+"Recent/NN work/NN by/IN the/DT Bank/NNP has/VBZ shown/VBN that/IN private/JJ sector/NN surveys/NNS add/VBP value/NN even/RB when/WRB preliminary/JJ ONS/NNP estimates/NNS are/VBP available"/NN Ms/NNP Lomax/NNP said/VBD in/IN a/DT speech/NN to/TO the/DT North/NNP Wales/NNP Business/NNP Club./NNP
+
+The/DT ONS/NNP is/VBZ due/JJ to/TO publish/VB its/PRP$ second/JJ estimate/NN of/IN third/JJ quarter/NN growth/NN on/IN Friday./NNP
+"The/NNP MPC/NNP judges/NNS that/IN overall/JJ growth/NN was/VBD a/DT little/RB higher/JJR in/IN the/DT third/JJ quarter/NN than/IN the/DT official/JJ data/NNS currently/RB indicate"/VBP Ms/NNP Lomax/NNP said./NN
+The/DT Bank/NNP said/VBD successful/JJ monetary/JJ policy/NN depends/VBZ on/IN having/VBG good/JJ information./NN
+Rachel/NNP Lomax/NNP cited/VBD the/DT late/JJ 1980s/CD as/IN an/DT example/NN of/IN a/DT time/NN when/WRB weak/JJ economic/JJ figures/NNS were/VBD published/VBN but/CC substantially/RB revised/VBN upwards/NNS years/NNS later./NN
+
+"The/NN statistical/JJ fog/NN surrounding/VBG the/DT true/JJ state/NN of/IN the/DT economy/NN has/VBZ proved/VBN a/DT particularly/RB potent/JJ breeding/NN ground/NN for/IN policy/NN errors/NNS in/IN the/DT past"/NN she/PRP said./VBP
+Improving/NN the/DT quality/NN of/IN national/JJ statistics/NNS is/VBZ the/DT single/JJ the/DT best/JJS way/NN of/IN making/VBG sure/JJ the/DT Monetary/NNP Policy/NNP Committee/NNP (MPC)/NN makes/VBZ the/DT right/JJ decisions/NNS she/PRP said./VBP
+The/DT Bank/NNP of/IN England/NNP is/VBZ working/VBG in/IN tandem/NN with/IN the/DT ONS/NNP to/TO improve/VB the/DT quality/NN and/CC speed/NN of/IN delivery/NN of/IN data./NN
+Her/PRP$ remarks/NNS follow/VBP criticism/NN from/IN the/DT House/NNP of/IN Lords/NNPS Economic/NNP Affairs/NNP Committee/NNP which/WDT said/VBD the/DT MPC/NNP had/VBD held/VBN interest/NN rates/NNS too/RB high/JJ given/VBN that/DT inflation/NN was/VBD way/NN below/IN the/DT 2%/CD target./NN
+
+A/DT slowdown/NN in/IN the/DT housing/NN market/NN and/CC this/DT year's/NNS surge/NN in/IN oil/NN prices/NNS has/VBZ made/VBN economic/JJ forecasting/NN all/PDT the/DT more/RBR tricky/JJ leading/NN to/TO a/DT more/RBR uncertain/JJ outlook./NN
+"This/NN year/NN rising/VBG oil/NN prices/NNS and/CC a/DT significant/JJ slowdown/NN in/IN the/DT housing/NN market/NN have/VBP awoken/NN bad/JJ memories/NNS of/IN the/DT 1970s/NNS and/CC 1980s"/CD Ms/NNP Lomax/NNP said./NN
+"The/NNP MPC/NNP will/MD be/VB doing/VBG well/RB if/IN it/PRP can/MD achieve/VB the/DT same/JJ stability/NN over/IN the/DT next/JJ decade/NN as/IN we/PRP have/VBP enjoyed/VBN over/IN the/DT past/JJ 10/CD years."/NN Decisions/NNS on/IN interest/NN rates/NNS are/VBP made/VBN after/IN the/DT MPC/NNP gathers/NNS together/RB the/DT range/NN of/IN indicators/NNS available/VBP every/DT month./NN
+The/DT clearest/JJ signals/NNS come/VBP when/WRB all/DT indicators/NNS are/VBP pointing/VBG the/DT same/JJ direction/NN Ms/NNP Lomax/NNP intimated./NN
+"In/JJ economic/JJ assessment/NN there/EX is/VBZ safety/NN in/IN numbers."/NN

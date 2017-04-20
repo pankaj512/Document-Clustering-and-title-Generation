@@ -1,0 +1,10 @@
+Share/NN boost/NN for/IN feud-hit/JJ Reliance/NNP
+
+The/DT board/NN of/IN Indian/JJ conglomerate/NN Reliance/NNP has/VBZ agreed/VBN a/DT share/NN buy-back/NN to/TO counter/VB the/DT effects/NNS of/IN a/DT power/NN struggle/NN in/IN the/DT controlling/VBG family./NN
+
+The/DT buy-back/NN is/VBZ a/DT victory/NN for/IN chairman/NN Mukesh/NNP Ambani/NNP whose/WP$ idea/NN it/PRP was./NN
+His/PRP$ brother/NN Anil/NNP the/DT vice-chairman/NN said/VBD had/VBN not/RB been/VBN consulted/VBN and/CC that/IN the/DT buy-back/NN was/VBD "completely/RB inappropriate/JJ and/CC unnecessary"./NN
+The/DT board/NN hopes/VBZ the/DT move/NN will/MD reverse/VB a/DT 13%/CD fall/NN in/IN Reliance's/NNP shares/NNS since/IN the/DT feud/NN became/VBD public/JJ last/JJ month./NN
+The/DT company/NN has/VBZ been/VBN fractious/JJ since/IN founder/NN Dhirubhai/NNP Ambani/NNP died/VBD in/IN 2002/CD leaving/VBG no/DT will./NN
+"Today's/NN round/NN has/VBZ gone/VBN to/TO [Mukesh]/VB there/EX is/VBZ no/DT doubt/NN about/IN it"/NN said/VBD Nanik/NNP Rupani/NNP president/NN of/IN the/DT Indian/JJ Merchants/NNPS Chamber/NNP a/DT Bombay-based/JJ traders'/NN body./NN
+The/DT company/NN plans/VBZ to/TO buy/VB back/RB 52/CD million/CD shares/NNS at/IN 570/CD rupees/NNS (£6.80/CD $13)/CD apiece/RB a/DT premium/NN of/IN more/JJR than/IN 10%/CD to/TO its/PRP$ current/JJ market/NN price./NN

@@ -1,0 +1,21 @@
+Assembly/NNP ballot/NN papers/NNS 'missing'/NN
+
+Hundreds/NNS of/IN ballot/NN papers/NNS for/IN the/DT regional/JJ assembly/NN referendum/NN in/IN the/DT North/NNP East/NNP have/VBP "disappeared"./NN
+
+Royal/NNP Mail/NNP says/VBZ it/PRP is/VBZ investigating/VBG the/DT situation/NN which/WDT has/VBZ meant/VBN about/IN 300/CD homes/NNS in/IN County/NNP Durham/NNP are/VBP not/RB receiving/VBG voting/NN packs./NN
+Officials/NNS at/IN Darlington/NNP Council/NNP are/VBP now/RB in/IN a/DT race/NN against/IN time/NN to/TO try/VB and/CC rectify/VB the/DT situation./NN
+The/DT all-postal/JJ votes/NNS of/IN about/IN two/CD million/CD electors/NNS are/VBP due/JJ to/TO be/VB handed/VBN in/IN by/IN 4/CD November./NNP
+A/DT spokesman/NN for/IN Darlington/NNP Council/NNP said/VBD "We/NN have/VBP sent/VBN out/RP the/DT ballot/NN papers/NNS the/DT problem/NN is/VBZ with/IN Royal/NNP Mail./NNP
+"Somewhere/NN along/IN the/DT line/NN something/NN has/VBZ gone/VBN wrong/JJ and/CC these/DT ballot/NN papers/NNS have/VBP not/RB been/VBN delivered./NN
+"The/NNP Royal/NNP Mail/NNP is/VBZ investigating/VBG to/TO see/VB if/IN they/PRP can/MD find/VB out/RP what/WP the/DT problem/NN is."/NN
+
+A/DT spokeswoman/NN for/IN Royal/NNP Mail/NNP said/VBD "We/NN are/VBP investigating/VBG a/DT problem/NN with/IN the/DT delivery/NN route/NN in/IN the/DT Mowden/NNP area/NN of/IN Darlington./NNP
+"This/NN is/VBZ affecting/VBG several/JJ hundred/CD properties/NNS which/WDT have/VBP failed/VBN to/TO receive/VB ballot/NN papers./NN
+"We/NN are/VBP working/VBG closely/RB with/IN the/DT council/NN and/CC will/MD do/VB all/DT we/PRP can/MD to/TO help/VB rectify/VB the/DT problem./NN
+"No-one/JJ will/MD not/RB receive/VB their/PRP$ ballot/NN paper/NN as/IN special/JJ hand/NN deliveries/NNS will/MD take/VB place/NN where/WRB necessary./NN
+"We/NN are/VBP unaware/JJ of/IN any/DT other/JJ problems/NNS of/IN this/DT kind/NN to/TO do/VB with/IN the/DT regional/JJ assembly/NN vote."/NN
+
+The/DT Darlington/NNP Council/NNP spokesman/NN added/VBD "Initially/RB we/PRP had/VBD complaints/NNS from/IN a/DT couple/NN of/IN residents/NNS in/IN Mowden/NNP to/TO say/VB they/PRP thought/VBD they/PRP should/MD have/VB had/VBN their/PRP$ ballot/NN papers/NNS by/IN now./NN
+"We/NN then/RB made/VBD further/JJ investigations/NNS and/CC it/PRP became/VBD clear/JJ this/DT was/VBD a/DT bigger/JJR issue."/NN A/DT spokeswoman/NN for/IN the/DT Electoral/JJ Commission/NNP told/VBD BBC/NNP News/NNP Online/NNP that/IN letters/NNS were/VBD being/VBG sent/VBD out/RP to/TO those/DT homes/NNS affected./NN
+She/PRP said/VBD the/DT commission/NN was/VBD satisfied/VBN that/IN measures/NNS had/VBD been/VBN put/VBN in/IN place/NN to/TO ensure/VB all/DT voters/NNS received/VBD ballot/NN papers/NNS in/IN time./NN
+So/RB far/RB a/DT total/NN of/IN 569072/CD ballot/NN envelopes/NNS have/VBP been/VBN scanned/VBN by/IN bar/NN code/NN at/IN counting/VBG offices/NNS across/IN the/DT North/NNP East./NNP

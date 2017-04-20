@@ -1,0 +1,12 @@
+Johnson/NNP uncertain/JJ about/IN Euro/NNP bid/NN
+
+Jade/NNP Johnson/NNP is/VBZ undecided/JJ about/IN whether/IN to/TO contest/VB next/JJ month's/NNS European/JJ Indoor/JJ Championships/NNS in/IN Madrid/NNP despite/IN winning/VBG the/DT AAAs/NNP long/JJ jump/NN title/NN on/IN Saturday./NNP
+
+The/DT 24-year-old/JJ delivered/VBD a/DT personal/JJ best/JJS of/IN 6.50m/CD to/TO win/VB the/DT European/JJ trials/NNS but/CC had/VBD to/TO wait/VB until/IN her/PRP$ final/JJ jump/NN after/IN four/CD failures./NN
+"I/NN don't/NN want/VBP to/TO go/VB if/IN I/PRP am/VBP not/RB going/VBG to/TO get/VB a/DT medal"/NN said/VBD Johnson./NNP
+"I/NN will/MD have/VB to/TO see/VB how/WRB I/PRP am/VBP jumping/VBG in/IN the/DT next/JJ competition/NN and/CC I'll/NNP have/VBP to/TO have/VB a/DT conversation/NN with/IN my/PRP$ coach."/NN Johnson/NNP who/WP finished/VBD seventh/JJ in/IN last/JJ year's/NNS Olympic/NNP Games/NNPS has/VBZ not/RB competed/VBN indoors/NNS since/IN 2000./CD
+And/CC the/DT Commonwealth/NNP and/CC European/JJ silver/NN medallist/NN believes/VBZ her/PRP$ lack/NN of/IN experience/NN in/IN the/DT early/JJ part/NN of/IN the/DT season/NN has/VBZ knocked/VBN her/PRP$ confidence./NN
+"It's/NN the/DT stress"/NN said/VBD Johnson./NNP
+"I/NN am/VBP not/RB used/VBN to/TO feeling/VB this/DT this/DT early./NN
+I/PRP am/VBP just/RB used/VBN to/TO training./VB
+"But/NN if/IN I'm/NNP doing/NN this/DT kind/NN of/IN thing/NN then/RB I/PRP will/MD have/VB to/TO see/VB how/WRB it/PRP goes."/NN Johnson/NNP next/JJ competes/NNS in/IN the/DT high-class/JJ Birmingham/NNP Grand/NNP Prix/NNP on/IN 18/CD February./NNP

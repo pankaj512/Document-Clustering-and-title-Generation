@@ -1,0 +1,9 @@
+Koubek/NNP suspended/VBD after/IN drugs/NNS test/NN
+
+Stefan/NNP Koubek/NNP says/VBZ he/PRP has/VBZ been/VBN banned/VBN for/IN three/CD months/NNS by/IN the/DT International/NNP Tennis/NN Federation/NNP (ITF)/NN after/IN testing/NN positive/JJ for/IN a/DT banned/VBN substance./NN
+
+The/DT world/NN number/NN 60/CD failed/VBD a/DT routine/JJ drugs/NNS test/NN at/IN this/DT year's/NNS French/JJ Open/NNP but/CC now/RB plans/VBZ to/TO lodge/VB an/DT appeal./NN
+Koubek/NNP believes/VBZ an/DT injection/NN given/VBN to/TO him/PRP by/IN an/DT Austrian/JJ doctor/NN to/TO treat/VB a/DT wrist/NN injury/NN is/VBZ to/TO blame/VB for/IN producing/VBG traces/NNS of/IN the/DT substance/NN in/IN his/PRP$ system./NN
+"I/NN have/VBP acted/VBN correctly"/NN the/DT 27-year-old/JJ Austrian/NN said/VBD in/IN a/DT statement./NN
+Koubek/NNP who/WP defeated/VBD Britain's/NNP Greg/NNP Rusedski/NNP in/IN the/DT decisive/JJ rubber/NN of/IN the/DT Davis/NNP Cup/NNP in/IN September/NNP is/VBZ now/RB set/VBN to/TO miss/VB the/DT start/NN of/IN the/DT season./NN
+He/PRP said/VBD "A/NN three-month/JJ ban/NN would/MD mean/VB that/IN I/PRP not/RB only/RB will/MD miss/VB the/DT Australian/JJ Open/NNP but/CC also/RB the/DT Davis/NNP Cup/NNP in/IN Australia."/NNP

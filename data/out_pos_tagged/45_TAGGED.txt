@@ -1,0 +1,17 @@
+US/PRP crude/VBP prices/NNS surge/NN above/IN $53/CD
+
+US/PRP crude/VBP prices/NNS have/VBP soared/VBN to/TO fresh/JJ four-month/JJ highs/NNS above/IN $53/CD in/IN the/DT US/PRP as/IN refinery/NN problems/NNS propelled/VBD petrol/NN prices/NNS to/TO an/DT all-time/JJ high./NN
+
+US/PRP light/VBD sweet/JJ crude/NN futures/NNS jumped/VBD to/TO $53.09/CD a/DT barrel/NN in/IN New/NNP York/NNP before/IN closing/VBG at/IN $53.03./CD
+The/DT gains/NNS tracked/VBD a/DT surge/NN in/IN US/PRP gasoline/VBP futures/NNS to/TO a/DT record/NN high/NN of/IN $1.4850/CD a/DT gallon./NN
+The/DT jump/NN followed/VBD a/DT fire/NN at/IN Western/JJ Refining/NN Company's/NNP refinery/NN in/IN Texas/NNP which/WDT shut/VBP down/RP petrol/NN production./NN
+A/DT spokesman/NN for/IN the/DT group/NN was/VBD unable/JJ to/TO say/VB when/WRB the/DT production/NN unit/NN would/MD be/VB back/RB up/RB and/CC running./NN
+"This/NN market/NN simply/RB wants/VBZ to/TO go/VB up"/NN Citigroup/NNP Global/NNP Markets/NNPS analyst/NN Kyle/NNP Cooper/NNP told/VBD Reuters/NNP news/NN agency./NN
+Ed/NNP Silliere/NNP analyst/NN at/IN Energy/NNP Merchant/NN added/VBD "Gasoline/NN is/VBZ up/IN because/IN of/IN the/DT refinery/NN issues/NNS in/IN Texas/NNP which/WDT means/VBZ there/EX will/MD be/VB a/DT scramble/NN for/IN product/NN in/IN the/DT (US)/NN Gulf/NNP Coast."/NNP
+
+Elsewhere/RB a/DT refinery/NN in/IN Houston/NNP was/VBD closed/VBN due/JJ to/TO mechanical/JJ problems/NNS while/IN on/IN Tuesday/NNP production/NN at/IN BP's/NNP Texas/NNP City/NNP refinery/NN was/VBD taken/VBN down/RP for/IN a/DT short/JJ time./NN
+In/IN the/DT approach/NN to/TO Spring/NNP the/DT market/NN becomes/VBZ much/RB more/RBR sensitive/JJ to/TO problems/NNS with/IN petrol/NN production/NN as/IN dealers/NNS anticipate/VBP rising/VBG demand/NN for/IN fuel/NN ahead/RB of/IN the/DT holiday/NN season./NN
+The/DT rise/NN in/IN prices/NNS came/VBD despite/IN a/DT US/PRP government/VBP report/NN that/WDT showed/VBD domestic/JJ supplies/NNS of/IN fuel/NN oil/NN and/CC fuel/NN were/VBD rising./NN
+Meanwhile/RB oil/NN production/NN cartel/NN Opec's/NNP recent/JJ announcement/NN that/IN it/PRP was/VBD now/RB unlikely/JJ to/TO cut/VB production/NN levels/NNS has/VBZ also/RB failed/VBN to/TO calm/JJ fears/NNS on/IN the/DT market./NN
+Oil/NN prices/NNS are/VBP roughly/RB 45%/CD higher/JJR than/IN a/DT year/NN ago/RB and/CC have/VBP risen/VBN sharply/RB in/IN recent/JJ weeks/NNS due/JJ to/TO a/DT combination/NN of/IN colder/JJR weather/NN the/DT declining/VBG value/NN of/IN the/DT dollar/NN and/CC fears/NNS that/IN Opec/NNP could/MD rein/VB in/RP production/NN to/TO head/VB off/RP a/DT seasonal/JJ drop/NN in/IN demand./NN
+Instability/NN in/IN Iraq/NNP and/CC underlying/VBG fears/NNS about/IN terrorism/NN have/VBP also/RB played/VBN a/DT part/NN in/IN the/DT rally./NN

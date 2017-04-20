@@ -1,0 +1,16 @@
+Career/NNP honour/NN for/IN actor/NN DiCaprio/NNP
+
+Actor/NNP Leonardo/NNP DiCaprio's/NNP "exceptional/JJ career"/NN has/VBZ been/VBN honoured/VBN at/IN the/DT Santa/NNP Barbara/NNP International/NNP Film/NNP Festival./NNP
+
+The/DT star/NN was/VBD presented/VBN with/IN the/DT award/NN by/IN Martin/NNP Scorsese/NNP who/WP directed/VBD him/PRP in/IN Oscar-nominated/NNP movie/NN The/DT Aviator./NNP
+"It's/NN a/DT lifetime/NN achievement/NN award/NN which/WDT is/VBZ completely/RB and/CC utterly/RB surreal/NN given/VBN I'm/NNP only/RB 30/CD years/NNS old"/NN DiCaprio/NNP said./NN
+"But/NN what/WP has/VBZ it/PRP been?/NN Almost/RB 17/CD years/NNS now./NN
+I've/NNP done/VBD quite/RB a/DT few/JJ films."/NN A/DT retrospective/NN of/IN his/PRP$ movies/NNS was/VBD shown./NN
+
+"What's/NN really/RB exciting/JJ for/IN me/PRP is/VBZ that/IN this/DT is/VBZ what/WP I/PRP really/RB love/VBP doing"/NN he/PRP added./VB
+"It's/NN what/WP I/PRP want/VBP to/TO do/VB for/IN the/DT rest/NN of/IN my/PRP$ life."/NN DiCaprio/NNP began/VBD his/PRP$ movie/NN career/NN in/IN horror/NN film/NN Critters/NNP 3/CD before/IN moving/VBG onto/IN roles/NNS in/IN The/DT Basketball/NN Diaries/NNS Romeo/NNP and/CC Juliet/NNP Titanic/NNP and/CC Gangs/NNS of/IN New/NNP York./NNP
+The/DT achievement/NN award/NN was/VBD created/VBN to/TO commemorate/VB the/DT California/NNP festival's/NNS 20th/JJ anniversary/NN and/CC coincided/VBD with/IN DiCaprio's/NNP portrayal/NN of/IN millionaire/NN Howard/NNP Hughes/NNP in/IN The/DT Aviator./NNP
+
+Veteran/NN actress/NN Jane/NNP Russell/NNP who/WP starred/VBD in/IN Hughes'/NNP 1943/CD film/NN The/DT Outlaw/NNP said/VBD was/VBD impressed/VBN by/IN DiCaprio's/NNP quest/NN for/IN authenticity/NN when/WRB he/PRP previously/RB discussed/VBD the/DT role/NN with/IN her./NN
+"I/NN was/VBD very/RB happy/JJ that/DT (DiCaprio)/NN came/VBD and/CC cared/VBD to/TO come/VB up/RB and/CC find/VB out/RP what/WP (Hughes)/NN was/VBD really/RB like"/NN she/PRP said./VBP
+The/DT Aviator/NNP has/VBZ taken/VBN pole/NN position/NN in/IN this/DT year's/NNS Oscars/NNP race/NN with/IN 11/CD nominations/NNS including/VBG nominations/NNS for/IN best/JJS film/NN best/JJS actor/NN for/IN DiCaprio/NNP and/CC best/JJS director/NN for/IN Scorsese./NNP

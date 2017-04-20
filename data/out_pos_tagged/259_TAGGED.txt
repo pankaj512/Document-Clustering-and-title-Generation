@@ -1,0 +1,16 @@
+Latin/NNP America/NNP sees/VBZ strong/JJ growth/NN
+
+Latin/NNP America's/NNP economy/NN grew/VBN by/IN 5.5%/CD in/IN 2004/CD its/PRP$ best/JJS performance/NN since/IN 1980/CD while/IN exports/NNS registered/VBD their/PRP$ best/JJS performance/NN in/IN two/CD decades./NN
+
+The/DT United/NNP Nations'/NNP Economic/NNP Commission/NNP for/IN Latin/NNP America/NNP and/CC the/DT Caribbean/NNP said/VBD the/DT region/NN grew/VBN by/IN 5.5%/CD this/DT year./NN
+The/DT Inter-American/NNP Development/NNP Bank/NNP (IADB)/NN said/VBD regional/JJ exports/NNS reached/VBD $445.1bn/CD (£227bn331bn/CD euros)/NN in/IN 2004./CD
+Doubts/NNS about/IN the/DT strength/NN of/IN the/DT US/PRP recovery/VBP and/CC overheating/NN of/IN the/DT Chinese/JJ economy/NN do/VBP however/RB pose/VB risks/NNS for/IN 2005./CD
+Both/DT organisations/NNS also/RB warned/VBD that/IN high/JJ oil/NN prices/NNS raise/VBP the/DT risk/NN of/IN either/DT inflation/NN or/CC recession./NN
+
+Nevertheless/RB the/DT Economic/NNP Commission/NNP for/IN Latin/NNP America/NNP and/CC the/DT Caribbean/NNP (ECLAC)/NN still/RB forecasts/VBZ growth/NN of/IN 4%/CD for/IN 2005./CD
+Strong/JJ recovery/NN in/IN some/DT countries/NNS such/JJ as/IN Venezuela/NNP and/CC Uruguay/NNP boosted/VBD the/DT overall/JJ performance/NN of/IN the/DT region./NN
+ECLAC/NNP also/RB said/VBD that/IN the/DT six/CD largest/JJS Latin/JJ American/JJ economies/NNS (Argentina/NN Brazil/NNP Chile/NNP Colombia/NNP Mexico/NNP and/CC Venezuela)/NNP grew/VBN by/IN more/JJR than/IN 3%/CD for/IN only/RB the/DT second/JJ time/NN in/IN 20/CD years./NN
+Chinese/JJ and/CC US/PRP economic/JJ strength/NN helped/VBD boost/VB exports/NNS as/IN did/VBD strong/JJ demand/NN for/IN agricultural/JJ and/CC mining/NN products./NN
+In/IN fact/NN Latin/JJ American/JJ exports/NNS to/TO China/NNP grew/VBD 34%/CD to/TO $14bn./CD
+Higher/JJR oil/NN prices/NNS also/RB helped/VBD boost/VB exports/NNS as/IN Mexico/NNP and/CC Venezuela/NNP are/VBP important/JJ oil/NN exporters./NN
+Regional/JJ blocs/NNS as/RB well/RB as/IN free/JJ trade/NN agreements/NNS with/IN the/DT US/PRP contributed/VBD to/TO the/DT region's/NNS strong/JJ performance/NN the/DT IADB/NNP said./NN

@@ -1,0 +1,30 @@
+Ore/NN costs/NNS hit/VBD global/JJ steel/NN firms/NNS
+
+Shares/NNS in/IN steel/NN firms/NNS have/VBP dropped/VBN worldwide/NN amid/IN concerns/NNS that/IN higher/JJR iron/NN ore/NN costs/NNS will/MD hit/VB profit/NN growth./NN
+
+Shares/NNS in/IN Germany's/NNP ThyssenKrupp/NNP the/DT UK's/NNP Corus/NNP and/CC France's/NNP Arcleor/NNP fell/VBD while/IN Japan's/NNP Nippon/NNP Steel/NNP slid/VBD after/IN it/PRP agreed/VBD to/TO pay/VB 72%/CD more/JJR for/IN iron/NN ore./NN
+China's/NNP Baoshan/NNP Iron/NNP and/CC Steel/NNP Co./NNP
+said/VBD it/PRP was/VBD delaying/VBG a/DT share/NN sale/NN because/IN of/IN weak/JJ market/NN conditions/NNS adding/VBG it/PRP would/MD raise/VB steel/NN prices/NNS to/TO offset/VB ore/NN costs./NN
+The/DT threat/NN of/IN higher/JJR raw/JJ material/NN costs/NNS also/RB hit/VBD industries/NNS such/JJ as/IN carmakers./NN
+France's/NNP Peugeot/NNP warned/VBD that/IN its/PRP$ profits/NNS may/MD decline/VB this/DT year/NN as/IN a/DT result/NN of/IN the/DT higher/JJR steel/NN plastic/NN and/CC commodity/NN prices./NN
+
+Steelmakers/NNS have/VBP been/VBN enjoying/VBG record/NN profits/NNS as/IN demand/NN for/IN steel/NN has/VBZ risen/VBN driven/VBN by/IN the/DT booming/JJ economies/NNS of/IN countries/NNS such/JJ as/IN China/NNP and/CC India./NNP
+Steel/NN prices/NNS rose/VBD by/IN 8%/CD globally/RB in/IN January/NNP alone/RB and/CC by/IN 24%/CD in/IN China./NNP
+
+The/DT boom/NN times/NNS are/VBP far/RB from/IN over/IN but/CC analysts/NNS say/VBP that/IN earnings/NNS growth/NN may/MD slow./VB
+The/DT share/NN price/NN fall/NN was/VBD initially/RB triggered/VBN by/IN news/NN that/IN two/CD of/IN the/DT world's/NNS biggest/JJS iron/NN ore/NN suppliers/NNS had/VBD negotiated/VBN contracts/NNS at/IN much-higher/JJ prices./NN
+Miners/NNS Rio/NNP Tinto/NNP and/CC Cia./NNP
+Vale/NNS Do/VBP Rio/NNP Dolce/FW (CVRD)/NN this/DT week/NN managed/VBN to/TO boost/VB by/IN 72%/CD the/DT price/NN of/IN their/PRP$ iron/NN ore/NN a/DT key/JJ component/NN of/IN steel./NN
+Analysts/NNS had/VBD expected/VBN Japan's/NNP Nippon/NNP to/TO agree/VB to/TO a/DT price/NN rise/NN of/IN between/IN 40%/CD and/CC 50%./CD
+Steel/NNP analyst/NN Peter/NNP Fish/NN director/NN of/IN Sheffield-based/JJ consulting/NN group/NN MEPS/NNP said/VBD the/DT extent/NN of/IN CVRD's/NNP price/NN rise/NN was/VBD "uncharted/VBN territory"/NN adding/VBG that/IN the/DT steel/NN industry/NN "hasn't/NN seen/VBN an/DT increase/NN of/IN this/DT magnitude/NN probably/RB in/IN 50/CD years"./NN
+Analysts/NNS now/RB expect/VBP other/JJ iron/NN ore/NN producers/NNS such/JJ as/IN Australia's/NNP BHP/NNP Billiton/NNP to/TO seek/VB annual/JJ price/NN rises/NNS of/IN up/IN to/TO 70%./CD
+
+The/DT news/NN triggered/VBD the/DT share/NN price/NN weakness./NN
+"It/NN sparked/VBN worries/NNS that/DT steel/NN makers/NNS might/MD not/RB be/VB able/JJ to/TO increase/VB product/NN prices/NNS further/JJ [/NN to/TO cover/VB rising/VBG ore/NN costs]"/NN explained/VBD Kazuhiro/NNP Takahashi/NNP of/IN Daiwa/NNP Securities/NNPS SMBC./NNP
+In/IN Europe/NNP Arcelor/NNP shed/VBD 2.1%/CD to/TO 17.58/CD euros/NNS in/IN Paris/NNP with/IN ThyssenKrupp/NNP dropping/VBG 1.7%/CD to/TO 16.87/CD euros./NN
+In/IN London/NNP Corus/NNP fell/VBD 2.2%/CD to/TO 55.57/CD pence./NN
+Japan's/NNP biggest/JJS steel/NN company/NN Nippon/NNP Steel/NNP lost/VBD 2.5%/CD to/TO 270/CD yen/NNS with/IN closest/JJS rival/JJ JFE/NNP Holdings/NNP down/RB 3.4%./CD
+China's/NNP Baoshan/NNP the/DT country's/NNS largest/JJS steel/NN producer/NN said/VBD that/IN the/DT uncertainty/NN surrounding/VBG the/DT industry/NN has/VBZ prompted/VBN it/PRP to/TO pull/VB its/PRP$ planned/VBN share/NN sale./NN
+The/DT firm/NN had/VBD been/VBN expected/VBN to/TO offer/VB 22.5bn/CD yuan/NN ($2.7bn)/CD worth/NN of/IN shares/NNS to/TO investors./VB
+No/DT date/NN has/VBZ been/VBN given/VBN for/IN when/WRB the/DT 5/CD billion/CD shares/NNS will/MD come/VB to/TO the/DT market./NN
+Baoshan/NNP stock/NN climbed/VBD on/IN news/NN of/IN the/DT delay/NN and/CC its/PRP$ decision/NN to/TO increase/VB the/DT price/NN of/IN its/PRP$ steel/NN by/IN 10%./CD

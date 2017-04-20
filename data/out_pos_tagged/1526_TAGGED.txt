@@ -1,0 +1,14 @@
+Jansen/NNP suffers/VBZ a/DT further/JJ setback/NN
+
+Blackburn/NNP striker/NN Matt/NNP Jansen/NNP faces/VBZ three/CD weeks/NNS out/RP after/IN surgery/NN to/TO treat/VB a/DT cartilage/NN problem./NN
+
+But/CC central/JJ defender/NN Lorenzo/NNP Amoruso/NNP is/VBZ moving/VBG closer/JJR to/TO fitness/NN following/VBG a/DT knee/NN operation./NN
+Rovers'/NNP assistant/NN manager/NN Mark/NNP Bowen/NNP said/VBD "Matt/NN had/VBD a/DT small/JJ operation/NN to/TO trim/VB knee/NN cartilage./NN
+"It's/NN a/DT tiny/JJ piece/NN of/IN work/NN which/WDT should/MD be/VB a/DT fairly/RB quick/JJ recovery./NN
+Lorenzo/NNP is/VBZ also/RB jogging/NN for/IN the/DT first/JJ time/NN along/IN with/IN kicking/VBG a/DT ball."/NN Jansen's/NNP career/NN has/VBZ been/VBN dogged/VBN by/IN injury/NN since/IN a/DT freak/NN scooter/NN accident/NN two/CD years/NNS ago./NN
+
+He/PRP returned/VBD to/TO first-team/JJ action/NN soon/RB after/IN Mark/NNP Hughes'/NNP appointment/NN as/IN Blackburn/NNP boss/NN and/CC marked/VBD it/PRP with/IN a/DT goal/NN against/IN Portsmouth/NNP in/IN his/PRP$ first/JJ appearance/NN of/IN the/DT season./NN
+Bowen/NNP added/VBD "I'm/NN guessing/VBG but/CC I/PRP reckon/VBP maybe/RB two/CD to/TO three/CD weeks/NNS before/IN he/PRP is/VBZ back/RB in/IN action/NN completely."/NN The/DT Rovers/NNP assistant/NN boss/NN forecast/NN a/DT longer/RB time/NN spell/NN for/IN Amoruso's/NNP availability/NN for/IN first-team/JJ duties./NN
+Bowen/NNP said/VBD "There's/NN still/RB some/DT scar/NN tissue/NN present/JJ so/IN it/PRP will/MD be/VB some/DT weeks./NN
+"It's/NN a/DT case/NN of/IN see/NN how/WRB he/PRP goes./VB
+You/PRP can't/VBP put/VBD a/DT real/JJ time/NN on/IN a/DT comeback/NN we'll/NN see/NN how/WRB he/PRP progresses."/VB

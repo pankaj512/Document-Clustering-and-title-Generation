@@ -1,0 +1,23 @@
+Correction/NN agency/NN plans/NNS dropped/VBD
+
+Plans/NNS to/TO create/VB a/DT single/JJ correctional/JJ agency/NN for/IN Scotland/NNP have/VBP been/VBN scrapped./VBG
+
+The/DT Scottish/NNP Executive/NNP will/MD not/RB now/RB merge/VB the/DT Scottish/NNP Prison/NNP Service/NNP with/IN local/JJ authority/NN social/JJ work/NN criminal/JJ justice/NN departments./NN
+The/DT National/NNP Correctional/NNP Agency/NNP would/MD have/VB provided/VBN a/DT 'one-stop'/JJ justice/NN system/NN but/CC has/VBZ been/VBN abandoned/VBN in/IN the/DT wake/NN of/IN stiff/JJ opposition./NN
+Instead/RB Scottish/NNP councils/NNS and/CC the/DT prison/NN service/NN will/MD be/VB compelled/VBN to/TO work/VB more/RBR closely/RB to/TO cut/VB reoffending./NN
+The/DT plan/NN was/VBD to/TO ensure/VB offenders/NNS were/VBD monitored/VBN by/IN the/DT same/JJ body/NN during/IN and/CC after/IN prison/NN preventing/VBG many/JJ from/IN being/VBG lost/VBN in/IN the/DT system/NN and/CC helping/VBG more/JJR of/IN them/PRP to/TO stop/VB reoffending./NN
+
+Scotland's/NNP reoffending/VBG rate/NN is/VBZ high/JJ with/IN more/JJR than/IN 60%/CD of/IN prisoners/NNS reconvicted/VBN within/IN two/CD years/NNS of/IN release/NN from/IN jail./NN
+This/DT is/VBZ leading/VBG to/TO an/DT ever-expanding/JJ prison/NN population/NN and/CC the/DT executive/NN wants/VBZ to/TO tackle/VB the/DT problem./NN
+Ministers/NNS thought/VBD merging/VBG the/DT prison/NN service/NN with/IN the/DT council-controlled/JJ criminal/JJ justice/NN social/JJ work/NN departments/NNS which/WDT provide/VBP community/NN sentences/NNS might/MD have/VB provided/VBN an/DT answer./NN
+However/RB following/VBG a/DT consultation/NN on/IN the/DT idea/NN Justice/NNP Minister/NNP Cathy/NNP Jamieson/NNP has/VBZ decided/VBN to/TO drop/VB the/DT plans./NN
+Instead/RB Ms/NNP Jamieson/NNP will/MD change/VB the/DT law/NN to/TO help/VB produce/VB a/DT closer/JJR working/NN relationship/NN between/IN both/DT elements/NNS of/IN the/DT justice/NN system./NN
+
+She/PRP will/MD announce/VB the/DT move/NN in/IN her/PRP$ Criminal/NNP Justice/NNP Plan/NNP on/IN Monday/NNP aiming/VBG to/TO "break/VB down/RP the/DT barriers/NNS between/IN what/WP happens/VBZ in/IN prison/NN and/CC what/WP happens/VBZ in/IN the/DT community"./NN
+The/DT new/JJ measures/NNS will/MD place/VB a/DT new/JJ statutory/JJ duty/NN on/IN the/DT SPS/NNP to/TO work/VB with/IN local/JJ authorities/NNS and/CC others/NNS in/IN area/NN partnerships./NN
+A/DT national/JJ advisory/JJ board/NN on/IN offender/NN management/NN will/MD also/RB be/VB created/VBN to/TO advise/VB Ms/NNP Jamieson/NNP on/IN the/DT SPS's/NNP role/NN and/CC performance/NN in/IN reducing/VBG reoffending./NN
+The/DT minister/NN said/VBD "Better/NN joint/JJ working/NN will/MD help/VB prisons/NNS play/VB a/DT much/RB stronger/JJR role/NN in/IN ending/VBG reoffending/VBG behaviour/NN and/CC in/IN particular/JJ help/NN address/VB the/DT revolving/JJ door/NN of/IN reoffending/VBG that/WDT sees/VBZ offenders/NNS entering/VBG prison/NN for/IN short/JJ periods/NNS during/IN which/WDT little/JJ is/VBZ done/VBN to/TO address/VB the/DT behaviour/NN that/WDT brought/VBD them/PRP there./VBP
+"Communities/NN who/WP are/VBP paying/VBG the/DT price/NN for/IN this/DT reoffending/VBG -/: both/DT in/IN terms/NNS of/IN crime/NN and/CC in/IN terms/NNS of/IN prison/NN costs/NNS -/: expect/VBP better./NN
+"It/NN costs/NNS the/DT taxpayer/NN £35000/CD a/DT year/NN to/TO provide/VB each/DT prison/NN place/NN and/CC that/DT cost/NN is/VBZ increasing./NN
+"Taxpayers/NN who/WP suffer/VBP the/DT consequences/NNS of/IN crime/NN also/RB end/NN up/RP paying/VBG for/IN keeping/VBG those/DT people/NNS in/IN prison./NN
+"Therefore/NN as/IN we/PRP continue/VBP to/TO invest/VB in/IN the/DT service/NN it/PRP is/VBZ only/RB right/NN that/IN we/PRP seek/VBP to/TO ensure/VB that/IN that/DT service/NN becomes/VBZ more/RBR accountable/JJ to/TO the/DT public/JJ it/PRP serves/VBZ to/TO ministers/NNS and/CC to/TO parliament."/VB

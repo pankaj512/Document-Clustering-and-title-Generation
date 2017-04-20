@@ -1,0 +1,24 @@
+Student/NNP 'fee/NN factor'/NN played/VBD down/RB
+
+A/DT rise/NN has/VBZ been/VBN recorded/VBN in/IN the/DT number/NN of/IN students/NNS from/IN south/RB of/IN the/DT border/NN applying/VBG to/TO universities/NNS in/IN Scotland./NNP
+
+However/RB Lifelong/JJ Learning/NNP Minister/NNP Jim/NNP Wallace/NNP said/VBD that/IN this/DT would/MD not/RB result/VB in/IN Scottish/NNP students/NNS missing/VBG out./NN
+Applications/NNS from/IN England/NNP and/CC Wales/NNP rose/VBD by/IN 17%/CD between/IN January/NNP 2005/CD and/CC the/DT previous/JJ year/NN up/IN 23600/CD to/TO 27700./CD
+Fears/NNS had/VBD been/VBN expressed/VBN that/IN a/DT flood/NN of/IN "fee/NN refugees"/NN would/MD try/VB to/TO avoid/VB top-up/JJ fees/NNS of/IN up/IN to/TO £3000/CD a/DT year/NN being/VBG introduced/VBN in/IN England./NNP
+In/IN June/NNP last/JJ year/NN Mr/NNP Wallace/NNP announced/VBD proposals/NNS to/TO increase/VB tuition/NN fees/NNS for/IN English/JJ students/NNS studying/VBG in/IN Scotland/NNP by/IN £2000/CD in/IN an/DT attempt/NN to/TO prevent/VB a/DT cross-border/JJ flood/NN although/IN no/DT figure/NN has/VBZ yet/RB been/VBN agreed./NN
+Legislation/NN to/TO introduce/VB the/DT top-up/JJ fees/NNS in/IN England/NNP is/VBZ not/RB due/JJ to/TO take/VB effect/NN until/IN autumn/NN 2006/CD and/CC students/NNS who/WP start/VBP before/IN then/RB will/MD not/RB have/VB to/TO pay/VB additional/JJ fees/NNS at/IN all./NN
+
+The/DT figures/NNS were/VBD made/VBN public/JJ on/IN Thursday/NNP by/IN admissions/NNS service/NN Ucas./NNP
+Universities/NNS Scotland/NNP which/WDT represents/VBZ university/NN principals/NNS claimed/VBD that/IN an/DT increase/NN in/IN applications/NNS did/VBD not/RB amount/VB to/TO Scottish/NNP students/NNS being/VBG squeezed/VBN out./NN
+Director/NNP David/NNP Caldwell/NNP said/VBD some/DT students/NNS could/MD be/VB applying/VBG in/IN an/DT attempt/NN to/TO avoid/VB the/DT possible/JJ increase/NN in/IN annual/JJ fees/NNS at/IN English/JJ universities/NNS but/CC this/DT was/VBD not/RB a/DT major/JJ factor./NN
+He/PRP told/VBD BBC/NNP Radio/NNP Scotland's/NNP Good/NNP Morning/NN Scotland/NNP programme/NN "The/NN reason/NN people/NNS are/VBP opting/VBG for/IN Scottish/NNP universities/NNS is/VBZ that/IN they/PRP are/VBP perceived/VBN as/IN being/NN of/IN very/RB high/JJ quality/NN they/PRP offer/VBP very/RB attractive/JJ courses/NNS and/CC Scotland/NNP is/VBZ seen/VBN as/IN a/DT very/RB attractive/JJ place/NN to/TO study./VB
+
+"They/NN know/NN that/IN when/WRB they/PRP take/VBP up/RP their/PRP$ studies/NNS in/IN 2006/CD they/PRP will/MD be/VB hit/VBN by/IN top-up/JJ fees/NNS if/IN they/PRP are/VBP going/VBG to/TO a/DT university/NN in/IN England/NNP and/CC that/WDT may/MD be/VB part/NN of/IN the/DT reason/NN why/WRB the/DT numbers/NNS coming/VBG to/TO Scotland/NNP are/VBP so/RB inflated./NN
+"However/NN it/PRP does/VBZ not/RB mean/VB that/IN we/PRP will/MD see/VB thousands/NNS of/IN additional/JJ students/NNS from/IN England/NNP studying/VBG here."/NN Mr/NNP Wallace/NNP agreed/VBD and/CC said/VBD the/DT figures/NNS had/VBD to/TO be/VB looked/VBN at/IN in/IN context./NN
+He/PRP explained/VBD that/IN when/WRB applications/NNS were/VBD translated/VBN into/IN acceptances/NNS the/DT number/NN was/VBD not/RB huge/JJ -/: an/DT additional/JJ figure/NN of/IN about/IN 200./CD
+
+Also/RB the/DT picture/NN was/VBD further/RBR blurred/VBN by/IN the/DT fact/NN that/IN applications/NNS from/IN Wales/NNP where/WRB there/EX are/VBP no/DT plans/NNS for/IN top-up/JJ fees/NNS have/VBP also/RB risen/VBN by/IN 19%./CD
+Mr/NNP Wallace/NNP said/VBD "Accepting/VBG students/NNS from/IN all/DT parts/NNS of/IN the/DT world/NN does/VBZ show/VBG the/DT high/JJ regard/VBP in/IN which/WDT Scottish/NNP higher/JJR education/NN is/VBZ held/VBN not/RB just/RB in/IN Britain./NNP
+"We/NN want/VBP to/TO make/VB sure/JJ that/IN when/WRB students/NNS are/VBP making/VBG their/PRP$ choice/NN they/PRP do/VBP so/RB on/IN the/DT nature/NN of/IN the/DT course/NN and/CC not/RB because/IN they/PRP are/VBP under/IN some/DT sort/NN of/IN financial/JJ pressure/NN to/TO go/VB to/TO Scotland./NNP
+"We/NN do/VBP not/RB want/VB to/TO have/VB a/DT situation/NN where/WRB it/PRP becomes/VBZ impossible/JJ for/IN Scottish/NNP students/NNS to/TO get/VB places/NNS at/IN Scottish/NNP universities/NNS because/IN we/PRP are/VBP seen/VBN as/IN the/DT cheap/JJ option./NN
+"Very/NN often/RB the/DT quality/NN of/IN the/DT university/NN experience/NN is/VBZ enhanced/VBN by/IN the/DT fact/NN there/EX are/VBP students/NNS coming/VBG from/IN a/DT wide/JJ range/NN of/IN backgrounds/NNS so/IN it/PRP would/MD be/VB wrong/JJ to/TO go/VB the/DT other/JJ way/NN and/CC start/VB excluding/VBG students."/NN

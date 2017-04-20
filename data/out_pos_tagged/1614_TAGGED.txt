@@ -1,0 +1,16 @@
+O'Sullivan/NNP quick/JJ to/TO hail/VB Italians/NNPS
+
+Ireland/NNP coach/NN Eddie/NNP O'Sullivan/NNP heaped/VBD praise/NN on/IN Italy/NNP after/IN seeing/VBG his/PRP$ side/NN stutter/NN to/TO a/DT 28-17/JJ victory/NN in/IN Rome./NNP
+
+"It/NN was/VBD a/DT hell/NN of/IN a/DT tough/JJ game"/NN said/VBD O'Sullivan./NNP
+"We/NN struggled/VBD in/IN the/DT first/JJ half/NN because/IN we/PRP hadn't/VBP the/DT football./NN
+"Italy/RB played/VBD really/RB well./NN
+They/PRP handled/VBD the/DT ball/NN well/RB in/IN terms/NNS of/IN kicking/VBG it/PRP if/IN that's/NNS not/RB an/DT oxymoron./NN
+"We/NN said/VBD before/IN the/DT game/NN that/IN it/PRP might/MD take/VB until/IN 10/CD minutes/NNS from/IN the/DT end/NN for/IN this/DT game/NN to/TO be/VB won/VBN and/CC that's/NNS how/WRB it/PRP turned/VBD out."/NN Ireland/NNP struggled/VBD to/TO cope/VB with/IN Italy's/NNP fierce/JJ start/NN and/CC were/VBD indebted/JJ to/TO skipper/VB Brian/NNP O'Driscoll/NNP who/WP set/VBD up/RP tries/VBZ for/IN Geordan/NNP Murphy/NNP and/CC Peter/NNP Stringer./NNP
+"We/NN had/VBD our/PRP$ first/JJ attack/NN in/IN the/DT Italian/JJ half/NN after/IN 22/CD minutes"/NN said/VBD O'Sullivan./NNP
+"We/NN had/VBD a/DT good/JJ return/NN with/IN three/CD first-half/JJ possessions/NNS in/IN their/PRP$ half/NN and/CC we/PRP scored/VBD twice./NN
+"The/NN second/JJ half/NN was/VBD about/IN spending/NN more/JJR time/NN in/IN their/PRP$ half."/NN Scrum-half/NNP Peter/NNP Stringer/NNP was/VBD also/RB glad/JJ that/IN Ireland/NNP escaped/VBD wtih/NN a/DT victory./NN
+"All/NN credit/NN to/TO them"/VB he/PRP told/VBD BBC/NNP Sport./NNP
+"We/NN knew/VBD it/PRP would/MD be/VB tough/JJ coming/NN to/TO Rome./NNP
+They/PRP always/RB give/VBP us/PRP a/DT tough/JJ game/NN here/RB and/CC they/PRP showed/VBD a/DT lot/NN of/IN spirit./NN
+"They/NN had/VBD a/DT lot/NN of/IN ball/NN in/IN the/DT first/JJ half/NN but/CC we/PRP got/VBD a/DT few/JJ scores/NNS when/WRB we/PRP got/VBD into/IN their/PRP$ 22."/CD

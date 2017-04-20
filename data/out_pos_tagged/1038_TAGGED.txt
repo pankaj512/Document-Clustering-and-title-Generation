@@ -1,0 +1,29 @@
+EU/NNP referendum/NN question/NN unveiled/VBD
+
+The/DT question/NN to/TO be/VB asked/VBN in/IN the/DT referendum/NN on/IN the/DT EU/NNP Constitution/NNP has/VBZ been/VBN unveiled/VBN by/IN the/DT government./NN
+
+It/PRP will/MD be/VB "Should/NN the/DT United/NNP Kingdom/NNP approve/VB the/DT treaty/NN establishing/VBG a/DT constitution/NN for/IN the/DT European/NNP Union?"/NNP The/DT constitution/NN will/MD be/VB incorporated/VBN into/IN UK/NNP law/NN if/IN there/EX is/VBZ a/DT yes/UH vote/NN in/IN the/DT referendum/NN expected/VBN in/IN 2006./CD
+Critics/NNS say/VBP the/DT constitution/NN is/VBZ a/DT further/JJ step/NN towards/IN a/DT federal/JJ Europe/NNP but/CC advocates/NNS say/VBP it/PRP ensures/VBZ effective/JJ operation/NN of/IN the/DT enlarged/JJ 25-state/JJ EU./NNP
+"If/NN we/PRP reject/VBP this/DT treaty/NN Britain/NNP will/MD be/VB isolated/VBN and/CC weak/JJ in/IN Europe"/NNP said/VBD Foreign/NNP Secretary/NNP Jack/NNP Straw/NNP who/WP along/IN with/IN the/DT rest/NN of/IN the/DT Cabinet/NNP will/MD back/RP a/DT "yes"/NN vote./NN
+
+Patriots/NNP by/IN definition/NN wanted/VBD the/DT UK/NNP to/TO be/VB prosperous/JJ at/IN home/NN and/CC strong/JJ and/CC influential/JJ abroad/RB Mr/NNP Straw/NNP said./NN
+"Our/NN role/NN as/IN a/DT leading/VBG member/NN of/IN the/DT EU/NNP is/VBZ a/DT crucial/JJ part/NN of/IN securing/VBG that."/NN
+
+Conservative/JJ shadow/NN foreign/JJ secretary/NN Michael/NNP Ancram/NNP said/VBD the/DT referendum/NN question/NN "seems/NN straightforward"./NN
+But/CC he/PRP accused/VBD the/DT government/NN of/IN trying/VBG to/TO confuse/VB the/DT issue/NN by/IN putting/VBG the/DT EU/NNP referendum/NN question/NN in/IN the/DT same/JJ bill/NN as/IN the/DT ratification/NN of/IN the/DT constitution/NN when/WRB they/PRP should/MD be/VB treated/VBN as/IN "two/NN separate/JJ issues"./NN
+Despite/IN this/DT "underhand/NN trick"/NN the/DT referendum/NN bill/NN stood/VBD "no/NN chance/NN of/IN becoming/VBG law/NN before/IN the/DT election"/NN he/PRP added./VB
+"This/NN is/VBZ Tony/NNP Blair's/NNP cheap/JJ gesture/NN to/TO the/DT pro-constitution/JJ lobby/NN while/IN he/PRP runs/VBZ scared/VBN of/IN a/DT debate/NN on/IN Europe/NNP he/PRP knows/VBZ he/PRP cannot/VB win."/NN Neil/NNP O'Brien/NNP director/NN of/IN anti-constitution/JJ group/NN Vote/NN No/DT said/VBD "The/NN reality/NN is/VBZ that/IN the/DT government/NN doesn't/NN want/VBP to/TO discuss/VB the/DT EU/NNP constitution/NN ahead/RB of/IN the/DT election/NN because/IN they/PRP know/VBP it/PRP is/VBZ extremely/RB unpopular/JJ with/IN voters/NNS and/CC with/IN business."/NN
+
+The/DT UK/NNP Independence/NNP Party/NNP said/VBD "If/NN the/DT government/NN believes/VBZ that/IN a/DT No/DT vote/NN would/MD mean/VB that/IN we/PRP should/MD leave/VB the/DT European/NNP Union/NNP they/PRP should/MD just/RB ask/VB us/PRP if/IN we/PRP want/VBP to/TO leave/VB the/DT EU./NNP
+Then/RB we/PRP can/MD be/VB out/IN of/IN it/PRP and/CC better/JJR off/RP much/JJ sooner."/NN
+
+Liberal/NNP Democrat/NNP leader/NN Charles/NNP Kennedy/NNP who/WP backs/VBZ the/DT constitution/NN said/VBD he/PRP expected/VBD the/DT referendum/NN would/MD come/VB in/IN the/DT first/JJ half/NN of/IN next/JJ year./NN
+He/PRP told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN programme/NN "The/NN sooner/RBR we/PRP get/VBP on/IN with/IN this/DT the/DT better."/NN He/PRP said/VBD the/DT question/NN sounded/VBD "very/NN neutral"/NN and/CC "balanced"/NN adding/VBG it/PRP would/MD enable/VB the/DT argument/NN "to/NN be/VB enjoined/VBN fairly/RB and/CC squarely/RB on/IN both/DT sides"./NN
+Green/NNP MEP/NNP Caroline/NNP Lucas/NNP welcomed/VBD Tony/NNP Blair's/NNP "courage/NN in/IN keeping/VBG his/PRP$ word"/NN on/IN holding/VBG a/DT referendum./NN
+But/CC she/PRP added/VBD "This/NN treaty/NN is/VBZ a/DT flawed/VBN document/NN that/WDT will/MD make/VB the/DT EU/NNP less/RBR accountable/JJ less/RBR sustainable/JJ and/CC less/JJR just."/NN
+
+Mr/NNP Blair/NNP signed/VBD the/DT constitution/NN at/IN a/DT ceremony/NN in/IN Rome/NNP in/IN November/NNP but/CC had/VBD already/RB made/VBN it/PRP clear/JJ the/DT issue/NN would/MD be/VB put/VBN to/TO voters/NNS in/IN a/DT referendum./NN
+That/DT promise/NN came/VBD after/IN sustained/VBN pressure/NN from/IN opposition/NN parties./NN
+Jack/NNP Straw/NNP who/WP argues/VBZ the/DT constitution/NN reflected/VBD a/DT "British/JJ vision/NN for/IN Europe"/NNP and/CC gives/VBZ "national/JJ governments/NNS a/DT stronger/JJR grip"/NN has/VBZ said/VBD the/DT referendum/NN could/MD be/VB held/VBN in/IN spring/NN 2006./CD
+But/CC in/IN an/DT interview/NN with/IN the/DT Financial/NNP Times/NNP Mr/NNP Blair/NNP refused/VBD to/TO be/VB pinned/VBN down/RP to/TO that/DT date/NN saying/VBG Britain/NNP would/MD hold/VB a/DT poll/NN "some/NN time/NN in/IN 2006/CD but/CC when/WRB I/PRP don't/VBP know"./NN
+The/DT paper/NN said/VBD the/DT prime/JJ minister/NN "claimed/VBD ignorance"/NN of/IN when/WRB other/JJ countries/NNS were/VBD planning/VBG to/TO hold/VB their/PRP$ referendums./NN

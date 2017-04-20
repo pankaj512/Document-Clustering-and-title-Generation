@@ -1,0 +1,19 @@
+Box/NNP office/NN blow/NN for/IN Alexander/NNP
+
+Director/NNP Oliver/NNP Stone's/NNP historical/JJ epic/NN Alexander/NNP has/VBZ failed/VBN in/IN its/PRP$ bid/NN to/TO conquer/VB the/DT box/NN office/NN entering/VBG the/DT US/PRP film/VBP charts/NNS at/IN number/NN six./NN
+
+The/DT swords/NNS and/CC sandals/NNS blockbuster/NN rumoured/VBN to/TO have/VB cost/NN more/JJR than/IN $150m/CD (£79m)/CD to/TO make/VB earned/VBD just/RB $13.5/CD (£7m)/CD over/IN three/CD days/NNS at/IN the/DT US/PRP box/VBP office./NN
+Due/JJ to/TO the/DT Thanksgiving/NNP holiday/NN the/DT film/NN opened/VBD on/IN Wednesday/NNP bringing/VBG its/PRP$ total/JJ takings/NNS to/TO $21.6m/CD (£11.4m)./CD
+Top/JJ of/IN the/DT box/NN office/NN for/IN a/DT second/JJ week/NN was/VBD action/NN movie/NN National/NNP Treasure./NNP
+The/DT family/NN adventure/NN starring/VBG Nicolas/NNP Cage/NNP took/VBD $33.1m/CD (£17.m)/CD ahead/RB of/IN animated/VBN comedy/NN The/DT Incredibles/NNP -/: now/RB in/IN its/PRP$ fourth/JJ week/NN in/IN the/DT charts/NNS -/: which/WDT took/VBD $24.1m/CD (£12.7m)./CD
+
+Last/JJ week/NN Oliver/NNP Stone's/NNP film/NN met/VBD with/IN scathing/JJ reviews/NNS from/IN US/PRP critics./VBP
+The/DT film/NN stars/NNS Irish/JJ actor/NN Colin/NNP Farrell/NNP as/IN one/CD of/IN history's/NNS most/RBS celebrated/JJ leaders/NNS -/: a/DT relentless/JJ and/CC arrogant/JJ warrior/NN who/WP conquered/VBD much/JJ of/IN the/DT known/VBN world/NN by/IN the/DT age/NN of/IN 25./CD
+In/IN particular/JJ its/PRP$ portrayal/NN of/IN Alexander/NNP as/IN a/DT bisexual/JJ has/VBZ met/VBN with/IN a/DT hostile/JJ reception/NN and/CC the/DT threat/NN of/IN legal/JJ action/NN from/IN Greek/JJ lawyers./NN
+"Though/NN the/DT battles/NNS have/VBP the/DT blood-and-sinew/JJ bravado/NN you/PRP expect/VBP from/IN Oliver/NNP Stone/NNP this/DT three-hour/JJ buttnumbathon/NN is/VBZ hamstrung/JJ by/IN a/DT hectoring/VBG grandiosity"/NN wrote/VBD one/CD reviewer/NN in/IN Rolling/NNP Stone/NNP magazine./NN
+Others/NNS poured/VBD scorn/VB on/IN Farrell's/NNP bleached/JJ hair/NN and/CC Angelina/NNP Jolie's/NNP unwieldy/JJ accent/NN which/WDT Variety/NNP called/VBD "a/NN combination/NN of/IN Mata/NNP Hari/NNP and/CC Count/NN Dracula"/NNP ./.
+But/CC novelist/NN Gore/NNP Vidal/NNP defended/VBD the/DT film/NN saying/VBG it/PRP was/VBD "barrier-breaking"/JJ for/IN its/PRP$ frank/JJ depiction/NN of/IN bisexuality./NN
+
+In/IN Sweden/NNP last/JJ Thursday/NNP to/TO pick/VB up/RP a/DT lifetime/NN achievement/NN award/NN at/IN the/DT Stockholm/NNP International/NNP Film/NNP Festival/NNP Stone/NNP expressed/VBD the/DT hope/NN that/IN Alexander/NNP might/MD be/VB better/RBR appreciated/JJ in/IN Europe./NNP
+"One/NN of/IN the/DT reasons/NNS I/PRP am/VBP being/VBG honoured/VBN here/RB is/VBZ Europeans/NNPS tend/VBP to/TO see/VB me/PRP a/DT little/JJ differently/RB than/IN they/PRP do/VBP in/IN the/DT US"/NNP said/VBD the/DT director/NN behind/IN JFK/NNP Platoon/NN and/CC Born/VBN on/IN the/DT Fourth/NN of/IN July./NNP
+He/PRP added/VBD Alexander/NNP "was/NN not/RB an/DT easy/JJ movie/NN but/CC then/RB I've/NNP never/RB made/VBD easy/JJ movies"./NN

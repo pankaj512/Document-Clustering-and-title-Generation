@@ -1,0 +1,15 @@
+Farrell/NNP due/JJ to/TO make/VB US/PRP TV/VBP debut/NN
+
+Actor/NNP Colin/NNP Farrell/NNP is/VBZ to/TO make/VB his/PRP$ debut/NN on/IN US/PRP television/VBP in/IN medical/JJ sitcom/NN Scrubs/NNP according/VBG to/TO Hollywood/NNP newspaper/NN Daily/NNP Variety./NNP
+
+The/DT film/NN star/NN who/WP recently/RB played/VBD the/DT title/NN role/NN in/IN historical/JJ blockbuster/NN Alexander/NNP will/MD make/VB a/DT cameo/NN appearance/NN as/IN an/DT unruly/JJ Irishman./NNP
+The/DT episode/NN featuring/VBG the/DT 28-year-old/NN will/MD be/VB screened/VBN on/IN 25/CD January./NNP
+Farrell's/NNP appearance/NN is/VBZ said/VBN to/TO be/VB a/DT result/NN of/IN his/PRP$ friendship/NN with/IN Zach/NNP Braff/NNP who/WP stars/VBZ in/IN the/DT programme./NN
+It/PRP will/MD be/VB the/DT actor's/NNS first/RB appearance/NN on/IN the/DT small/JJ screen/NN since/IN he/PRP appeared/VBD in/IN BBC/NNP series/NN Ballykissangel/NNP in/IN 1999./CD
+The/DT gentle/JJ Sunday/NNP night/NN drama/NN came/VBD to/TO an/DT end/NN in/IN 2001./CD
+
+He/PRP has/VBZ since/IN become/NN one/CD of/IN Hollywood's/NNP fastest-rising/JJ stars/NNS with/IN a/DT string/NN roles/NNS in/IN major/JJ league/NN films/NNS such/JJ as/IN Minority/NNP Report/NNP Phone/NN Booth/NN and/CC Daredevil./NNP
+Farrell/NNP is/VBZ pencilled/VBN in/RP to/TO play/VB the/DT role/NN of/IN Crockett/NNP in/IN a/DT film/NN version/NN of/IN 1980s/CD police/NN drama/NN Miami/NNP Vice./NNP
+Scrubs/NNP which/WDT appears/VBZ on/IN the/DT NBC/NNP network/NN in/IN the/DT US/PRP and/CC has/VBZ been/VBN shown/VBN on/IN Channel/NNP 4/CD on/IN British/JJ television/NN is/VBZ an/DT off-beat/JJ comedy/NN about/IN a/DT group/NN of/IN hospital/NN doctors./NN
+Other/JJ film/NN stars/NNS to/TO have/VB appeared/VBN in/IN Scrubs/NNP include/VBP Heather/NNP Graham/NNP while/IN Friends/NNPS actor/NN Matthew/NNP Perry/NNP has/VBZ guest-starred/JJ and/CC directed/VBD an/DT episode/NN of/IN the/DT show./NN
+Its/PRP$ leading/VBG star/NN Zach/NNP Braff/NNP has/VBZ recently/RB been/VBN seen/VBN on/IN the/DT big/JJ screen/NN in/IN Garden/NNP State/NNP which/WDT he/PRP also/RB directed./VBP

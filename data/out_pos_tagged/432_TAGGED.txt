@@ -1,0 +1,11 @@
+BA/NN to/TO suspend/VB two/CD Saudi/NNP services/NNS
+
+British/NNP Airways/NNPS is/VBZ to/TO halt/VB its/PRP$ flights/NNS from/IN London/NNP Heathrow/NNP to/TO Jeddah/NNP and/CC Riyadh/NNP in/IN Saudi/NNP Arabia/NNP from/IN 27/CD March./NNP
+
+The/DT airline/NN said/VBD the/DT decision/NN was/VBD a/DT commercial/JJ one/CD due/JJ to/TO reduced/VB passenger/NN demand/NN for/IN the/DT services./NN
+BA/NNP currently/RB operates/VBZ four/CD flights/NNS per/IN week/NN from/IN Heathrow/NNP to/TO Jeddah/NNP and/CC three/CD weekly/JJ journeys/NNS to/TO Riyadh./NNP
+It/PRP suspended/VBD flights/NNS to/TO Saudi/NNP Arabia/NNP for/IN three/CD weeks/NNS in/IN autumn/NN 2003/CD after/IN a/DT government/NN warning/NN about/IN a/DT "threat/NN to/TO UK/NNP aviation/NN interests/NNS in/IN Saudi/NNP Arabia"./NNP
+
+BA/NNP will/MD now/RB suspend/VB the/DT Saudi/NNP flights/NNS -/: which/WDT it/PRP says/VBZ will/MD remain/VB "under/NN constant/JJ review"/NN -/: from/IN 27/CD March./NNP
+"The/NN decision/NN to/TO suspend/VB flights/NNS between/IN the/DT UK/NNP and/CC Saudi/NNP Arabia/NNP is/VBZ a/DT difficult/JJ one/CD to/TO make/VB as/IN we/PRP have/VBP enjoyed/VBN a/DT long/JJ history/NN of/IN flying/VBG between/IN the/DT two/CD countries"/NN said/VBD BA/NNP director/NN of/IN commercial/JJ planning/NN Robert/NNP Boyle./NNP
+"However/NN the/DT routes/NNS don't/NN currently/RB make/VB a/DT profitable/JJ contribution/NN to/TO our/PRP$ business/NN and/CC we/PRP are/VBP unable/JJ to/TO sustain/VB them/PRP while/IN this/DT remains/VBZ the/DT case."/NN Passengers/NNS with/IN flights/NNS booked/VBN after/IN the/DT suspension/NN date/NN will/MD be/VB contacted/VBN by/IN BA/NNP for/IN alternative/JJ arrangements/NNS to/TO be/VB made./NN

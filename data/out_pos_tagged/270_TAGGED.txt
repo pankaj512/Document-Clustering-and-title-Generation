@@ -1,0 +1,32 @@
+Oil/NN prices/NNS reach/VBP three-month/JJ low/JJ
+
+Oil/NN prices/NNS have/VBP fallen/VBN heavily/RB for/IN a/DT second/JJ day/NN closing/NN at/IN three-month/JJ lows/NNS after/IN news/NN that/IN US/PRP crude/VBP stocks/NNS have/VBP improved/VBN ahead/RB of/IN winter./NN
+
+London/NNP Brent/NNP crude/NN closed/VBD at/IN $40.15/CD on/IN Thursday/NNP -/: a/DT drop/NN of/IN 5.1%/CD -/: having/VBG dived/VBD below/IN $40/CD a/DT barrel/NN for/IN the/DT first/JJ time/NN since/IN mid-September./JJ
+US/PRP light/VBD crude/NN traded/VBN in/IN New/NNP York/NNP lost/VBD more/JJR than/IN $2/CD to/TO $43.25/CD its/PRP$ lowest/JJS close/VB since/IN 10/CD September./NNP
+The/DT price/NN of/IN both/DT benchmark/JJ crudes/NNS has/VBZ dropped/VBN 12%/CD in/IN two/CD days./NN
+The/DT falls/VBZ were/VBD triggered/VBN when/WRB the/DT Energy/NNP Information/NNP Administration/NNP (EIA)/NN said/VBD on/IN Wednesday/NNP that/IN US/PRP crude/VBP stocks/NNS were/VBD 3.5%/CD higher/JJR than/IN a/DT year/NN ago./NN
+The/DT news/NN calmed/VBD worries/NNS about/IN winter/NN shortages./NN
+Weak/JJ US/PRP fuel/VBP and/CC heating/NN oil/NN stocks/NNS have/VBP been/VBN a/DT persistent/JJ factor/NN in/IN pushing/VBG up/RP oil/NN prices./NN
+"It's/NN amazing/JJ how/WRB quickly/RB sentiment/NN changed"/NN said/VBD Rick/NNP Mueller/NNP an/DT analyst/NN at/IN Energy/NNP Security/NNP Analysis./NNP
+Analysts/NNS also/RB attributed/VBD the/DT fall/NN to/TO mild/JJ early-winter/JJ weather/NN which/WDT has/VBZ tempered/VBN demand/NN for/IN heating/NN oil./NN
+
+The/DT stronger/JJR fuel/NN inventories/NNS helped/VBD boost/VB US/PRP stock/VBP markets/NNS to/TO nine-month/JJ highs/NNS on/IN Wednesday/NNP though/IN only/RB the/DT Nasdaq/NNP index/NN had/VBD hung/VBN onto/IN those/DT gains/NNS by/IN the/DT end/NN of/IN Thursday./NNP
+
+In/IN London/NNP the/DT FTSE/NNP 100/CD index/NN closed/VBD 15/CD points/NNS higher/JJR at/IN 4751./CD
+The/DT long-awaited/JJ drop/NN in/IN oil/NN prices/NNS helped/VBD to/TO ease/VB persistent/JJ investor/NN jitters/NNS over/IN the/DT impact/NN of/IN energy/NN costs/NNS on/IN company/NN profits/NNS and/CC economic/JJ growth./NN
+However/RB traders/NNS warned/VBD that/IN the/DT fall/NN could/MD be/VB short-lived/JJ if/IN there/EX is/VBZ a/DT cold/JJ snap/NN in/IN North/NNP America/NNP this/DT winter/NN or/CC any/DT major/JJ supply/NN problems/NNS in/IN other/JJ parts/NNS of/IN the/DT world./NN
+
+The/DT price/NN of/IN crude/NN is/VBZ still/RB up/IN about/IN 30%/CD on/IN the/DT start/NN of/IN 2004/CD but/CC has/VBZ fallen/VBN from/IN the/DT record/NN of/IN $55.67/CD set/VBN in/IN late/JJ October./NNP
+Opec/NN nations/NNS have/VBP increased/VBN production/NN to/TO 25-year/JJ highs/NNS to/TO meet/VB global/JJ demand/NN and/CC this/DT has/VBZ helped/VBN rebuild/VB US/PRP stocks/NNS hit/VBN by/IN supply/NN disruptions/NNS after/IN Hurricane/NNP Ivan/NNP in/IN September./NNP
+Traders/NNS were/VBD also/RB encouraged/VBN by/IN comments/NNS on/IN Wednesday/NNP from/IN the/DT energy/NN minister/NN of/IN Opec/NNP member/NN Algeria./NNP
+Chakib/NNP Khelil/NNP said/VBD the/DT cartel/NN was/VBD likely/JJ to/TO keep/VB output/NN unchanged/JJ when/WRB it/PRP meets/VBZ next/JJ week./NN
+However/RB some/DT analysts/NNS believe/VBP the/DT sharp/JJ fall/NN in/IN crude/NN prices/NNS may/MD harden/VB Opec's/NNP attitude/NN to/TO over-production/JJ leading/NN to/TO a/DT scaling/VBG back/RB of/IN oil/NN output./NN
+
+Fears/NNS still/RB remain/VBP over/IN the/DT level/NN of/IN US/PRP heating/VBP oil/NN stocks/NNS which/WDT are/VBP rising/VBG but/CC remain/VB down/RP on/IN 2004/CD levels./NN
+A/DT cold/JJ spell/NN in/IN north/RB America/NNP would/MD start/VB to/TO deplete/VB supplies/NNS and/CC could/MD spark/VB further/JJ price/NN rises./NN
+Analysts/NNS however/RB say/VBP prices/NNS will/MD fall/VB further/RBR if/IN inventories/NNS continue/VBP to/TO rise./VB
+"Mother/NNP Nature/NNP is/VBZ going/VBG to/TO be/VB huge/JJ in/IN the/DT next/JJ several/JJ weeks"/NN said/VBD Kyle/NNP Cooper/NNP at/IN Citigroup/NNP Global/JJ Markets./NNP
+"Long/NN term/NN I/PRP think/VBP we're/NN headed/VBN to/TO $30-35/JJ but/CC I/PRP don't/VBP think/VBP we're/NN doing/VBG that/DT yet./NN
+We/PRP have/VBP a/DT lot/NN of/IN winter/NN left."/NN John/NNP Person/NN president/NN of/IN National/NNP Futures/NNPS Advisory/NNP Services/NNPS said/VBD the/DT EIA/NNP data/NNS indicated/VBD there/EX should/MD be/VB adequate/JJ supplies/NNS for/IN the/DT next/JJ three/CD months/NNS in/IN the/DT US./NNP
+./.

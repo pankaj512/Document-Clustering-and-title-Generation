@@ -1,0 +1,14 @@
+England/NNP children's/NNS tsar/NN appointed/VBN
+
+The/DT first/JJ children's/NNS commissioner/NN for/IN England/NNP has/VBZ been/VBN appointed./NN
+
+Great/NNP Ormond/NNP Street/NNP Hospital/NNP professor/NN of/IN child/NN health/NN Al/NNP Aynsley-Green/NNP was/VBD chosen/VBN by/IN the/DT government/NN and/CC will/MD start/VB the/DT £100000-a-year/JJ job/NN immediately./NN
+He/PRP will/MD oversee/VB a/DT £2.5m/CD annual/JJ budget/NN and/CC have/VBP the/DT power/NN to/TO look/VB into/IN "any/NN matter/NN relating/VBG to/TO the/DT interests/NNS and/CC well-being/NN of/IN children"./NN
+Prof/NNP Aynsley-Green/NNP has/VBZ also/RB been/VBD the/DT national/JJ clinical/JJ director/NN for/IN children/NNS in/IN the/DT Department/NNP of/IN Health./NNP
+He/PRP promised/VBD to/TO make/VB sure/JJ that/IN children's/NNS opinions/NNS "count"./NN
+
+"I/NN will/MD be/VB drawing/VBG on/IN my/PRP$ experience/NN of/IN working/VBG with/IN children/NNS and/CC young/JJ people/NNS to/TO help/VB ensure/VB that/IN those/DT with/IN the/DT power/NN to/TO improve/VB children's/NNS lives/NNS do/VBP live/VB up/RP to/TO their/PRP$ responsibilities./NN
+"I/NN want/VBP all/DT children/NNS and/CC young/JJ people/NNS to/TO know/VB that/IN they/PRP can/MD approach/VB me/PRP to/TO discuss/VB any/DT matter/NN that/WDT affects/VBZ them/PRP knowing/VBG that/IN I/PRP will/MD value/VB their/PRP$ opinion."/NN Education/NNP Secretary/NNP Ruth/NNP Kelly/NNP said/VBD Prof/NNP Aynsley-Green/NNP would/MD "strengthen/VB the/DT voice/NN of/IN children/NNS and/CC young/JJ people"./NN
+Prof/NNP Aynsley-Green/NNP was/VBD a/DT lecturer/NN at/IN Oxford/NNP University/NNP trained/VBD at/IN Guy's/NNP Hospital/NNP Medical/NNP School/NNP University/NNP of/IN London/NNP Oriel/NNP College/NNP Oxford/NNP and/CC in/IN Switzerland./NNP
+He/PRP is/VBZ described/VBN as/IN "a/NN proud/JJ grandfather"/NN of/IN four./NN
+Scotland/NNP Wales/NNP and/CC Northern/NNP Ireland/NNP already/RB have/VBP children's/NNS commissioners./NN

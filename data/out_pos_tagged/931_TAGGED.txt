@@ -1,0 +1,15 @@
+Leaders/NNS meet/VBP over/IN Turkish/JJ EU/NNP bid/NN
+
+Tony/NNP Blair/NNP has/VBZ met/VBN Italian/JJ Prime/NNP Minister/NNP Silvio/NNP Berlusconi/NNP and/CC German/JJ Chancellor/NNP Gerhard/NNP Schroeder/NNP to/TO talk/VB about/IN Turkey/NNP entering/VBG the/DT EU./NNP
+
+The/DT Downing/NNP Street/NNP talks/NNS covered/VBD a/DT range/NN of/IN other/JJ topics/NNS ahead/RB of/IN an/DT EU/NNP summit/NN in/IN Brussels/NNP later/RB in/IN the/DT week./NN
+Mr/NNP Blair/NNP is/VBZ an/DT enthusiastic/JJ proponent/NN of/IN talks/NNS to/TO bring/VB Turkey/NNP within/IN the/DT recently-expanded/JJ EU./NNP
+Italy/NNP and/CC Germany/NNP also/RB favour/VB an/DT early/JJ start/NN to/TO talks/NNS but/CC there/EX is/VBZ scepticism/NN in/IN France/NNP and/CC elsewhere./NN
+Some/DT are/VBP worried/VBN that/IN Turkey's/NNP large/JJ and/CC rapidly/RB growing/VBG population/NN and/CC low/JJ average/JJ income/NN might/MD make/VB integration/NN into/IN the/DT EU/NNP difficult./NN
+
+Some/DT are/VBP concerned/VBN that/IN a/DT change/NN of/IN government/NN could/MD lead/VB to/TO Turkey/NNP reneging/VBG on/IN key/JJ human/JJ rights/NNS reforms/NNS it/PRP has/VBZ recently/RB enacted./NN
+And/CC many/JJ in/IN France/NNP would/MD prefer/VB Turkey/NNP to/TO admit/VB that/IN World/NNP War/NNP I-era/NNP killing/NN of/IN Armenians/NNPS constituted/VBD genocide./NN
+There/EX are/VBP also/RB issues/NNS in/IN France/NNP and/CC the/DT Netherlands/NNP over/IN the/DT possible/JJ problems/NNS of/IN integrating/VBG the/DT first/JJ major/JJ Muslim/NNP nation/NN into/IN the/DT EU./NNP
+But/CC Mr/NNP Blair/NNP and/CC the/DT Labour/NNP government/NN have/VBP been/VBN the/DT staunchest/JJS backers/NNS of/IN Turkish/JJ accession/NN provided/VBD it/PRP sticks/VBZ with/IN human/JJ rights/NNS and/CC economic/JJ reform./NN
+Mr/NNP Blair's/NNP official/JJ spokesman/NN said/VBD "The/NN prime/JJ minister/NN has/VBZ regular/JJ meetings/NNS with/IN both/DT of/IN them/PRP and/CC particularly/RB in/IN advance/NN of/IN European/NNP Councils./NNP
+"The/NN key/JJ issue/NN at/IN this/DT week's/NNS council/NN will/MD be/VB that/IN of/IN Turkey/NNP but/CC they/PRP will/MD also/RB discuss/VB a/DT range/NN of/IN other/JJ matters."/NN

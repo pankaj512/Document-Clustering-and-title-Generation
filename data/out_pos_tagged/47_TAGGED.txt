@@ -1,0 +1,16 @@
+Ryanair/NNP in/IN $4bn/CD Boeing/NNP plane/NN deal/NN
+
+Budget/NNP airline/NN Ryanair/NNP has/VBZ placed/VBN an/DT order/NN for/IN 70/CD Boeing/NNP 737-800/JJ planes/NNS in/IN a/DT deal/NN valued/VBN at/IN $4bn/CD (£2.1bn)/CD which/WDT should/MD lead/VB to/TO 2500/CD new/JJ Ryanair/NNP jobs./NN
+
+It/PRP also/RB has/VBZ an/DT option/NN for/IN a/DT further/JJ 70/CD aircraft/NN a/DT move/NN which/WDT brings/VBZ the/DT Ryanair/Boeing/NNP order/NN book/NN up/IN to/TO 225/CD firm/NN orders/NNS and/CC options/NNS on/IN 193/CD more./NN
+Ryanair/NNP said/VBD the/DT new/JJ planes/NNS would/MD help/VB it/PRP to/TO cut/VB operating/NN costs/NNS further./NN
+The/DT carrier/NN reported/VBD a/DT drop/NN in/IN quarterly/JJ profit/NN earlier/RBR this/DT year/NN after/IN it/PRP was/VBD hit/VBN by/IN higher/JJR fuel/NN costs./NN
+However/RB when/WRB it/PRP reported/VBD the/DT results/NNS the/DT airline/NN was/VBD upbeat/JJ about/IN prospects/NNS for/IN 2005/CD despite/IN tough/JJ competition/NN in/IN the/DT budget/NN airline/NN market./NN
+
+Ryanair/NNP chairman/NN David/NNP Bonderman/NNP said/VBD that/IN the/DT 737-800/NN had/VBD "significantly/RB reduced/VBN our/PRP$ unit/NN operating/NN costs/NNS and/CC allowed/VBD us/PRP to/TO reduce/VB air/NN fares/NNS each/DT year/NN for/IN the/DT last/JJ five/CD years"./NN
+
+"With/NN this/DT new/JJ order/NN and/CC new/JJ pricing/NN in/IN place/NN Ryanair/NNP expects/VBZ that/DT unit/NN operating/NN costs/NNS (excluding/VBG fuel)/NN will/MD continue/VB to/TO fall/VB each/DT year/NN for/IN the/DT next/JJ five/CD years"/NN he/PRP added./VB
+At/IN the/DT end/NN of/IN this/DT year/NN Ryanair/NNP will/MD have/VB taken/VBN delivery/NN of/IN about/IN 100/CD new/JJ planes/NNS while/IN the/DT 70/CD new/JJ orders/NNS are/VBP due/JJ for/IN delivery/NN between/IN 2008/CD and/CC 2012./CD
+The/DT airline/NN said/VBD that/IN when/WRB all/PDT these/DT planes/NNS have/VBP been/VBN delivered/VBN it/PRP will/MD be/VB able/JJ to/TO carry/VB more/JJR than/IN 70/CD million/CD passengers/NNS a/DT year/NN making/VBG it/PRP Europe's/NNP largest/JJS airline./NN
+About/IN 2500/CD new/JJ jobs/NNS should/MD be/VB created/VBN in/IN the/DT next/JJ seven/CD years/NNS it/PRP added./NN
+The/DT order/NN can/MD be/VB seen/VBN as/IN good/JJ news/NN for/IN Boeing/NNP which/WDT in/IN recent/JJ years/NNS has/VBZ been/VBN overtaken/NN by/IN European/JJ plane/NN maker/NN Airbus/NNP as/IN the/DT world's/NNS biggest-selling/JJ plane/NN maker./NN

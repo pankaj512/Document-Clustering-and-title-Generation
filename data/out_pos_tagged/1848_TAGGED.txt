@@ -1,0 +1,16 @@
+Game/NNP firm/NN holds/VBZ 'cast'/NN auditions/NNS
+
+Video/NNP game/NN firm/NN Bioware/NNP is/VBZ to/TO hold/VB open/JJ auditions/NNS for/IN people/NNS to/TO become/VB cast/NN members/NNS for/IN future/JJ games./NN
+
+The/DT company/NN which/WDT makes/VBZ role/NN playing/VBG games/NNS such/JJ as/IN Knights/NNS of/IN the/DT Old/NNP Republic/NNP and/CC Neverwinter/NNP Nights/NNPS is/VBZ seeking/VBG people/NNS aged/VBN 18/CD to/TO 99./CD
+The/DT Canada-based/JJ company/NN says/VBZ it/PRP was/VBD looking/VBG for/IN "a/NN wide/JJ variety/NN of/IN people/NNS to/TO use/VB as/IN face/NN models/NNS for/IN characters"./NN
+Everyone/NN chosen/VBN to/TO appear/VB in/IN a/DT video/NN game/NN will/MD receive/VB a/DT performer's/NNS fee/NN for/IN the/DT use/NN of/IN their/PRP$ image./NN
+The/DT company/NN is/VBZ inviting/VBG people/NNS to/TO come/VB along/RP to/TO a/DT shopping/NN mall/NN in/IN West/NNP Edmonton/NNP Alberta/NNP on/IN Friday/NNP and/CC Saturday/NNP bringing/VBG along/RB a/DT piece/NN of/IN photo/NN identification./NN
+
+"There/NN are/VBP hundreds/NNS and/CC hundreds/NNS of/IN characters/NNS in/IN a/DT typical/JJ Bioware/NNP game"/NN said/VBD Shauna/NNP Perry/NNP Bioware's/NNP audio/JJ and/CC external/JJ resources/NNS producer./NN
+"Those/NN people/NNS live/VBP in/IN any/DT city/NN and/CC village/NN and/CC so/IN we/PRP need/VBP ordinary/JJ people/NNS people/NNS with/IN interesting/JJ faces."/NN She/PRP added/VBD "Not/NN everyone/NN is/VBZ a/DT model/NN in/IN the/DT world/NN so/IN we/PRP don't/VBP want/VBP just/RB models/NNS in/IN our/PRP$ games."/NN People/NNS chosen/VBN to/TO appear/VB in/IN a/DT game/NN will/MD have/VB their/PRP$ head/NN scanned/VBN in/IN three/CD dimensions./NN
+Hundreds/NNS of/IN photos/NNS of/IN the/DT person's/NNS head/NN are/VBP taken/VBN so/IN that/IN a/DT model/NN of/IN the/DT head/NN can/MD be/VB generated/VBN in/IN 3D./CD
+"The/NN 3D/CD model/NN will/MD look/VB exactly/RB like/IN the/DT person/NN -/: it's/NNS really/RB quite/RB incredible/JJ how/WRB detailed/JJ they/PRP are"/VBP said/VBD Ms/NNP Perry./NNP
+She/PRP said/VBD chosen/VBN participants/NNS will/MD have/VB no/DT control/NN over/IN how/WRB the/DT image/NN is/VBZ used/VBN in/IN a/DT computer/NN game./NN
+"We/NN cannot/NN give/VBP people/NNS any/DT control/NN over/IN how/WRB the/DT images/NNS are/VBP used./NN
+"But/VBP their/PRP$ face/NN could/MD be/VB used/VBN in/IN multiple/JJ games/NNS -/: so/IN they/PRP could/MD be/VB the/DT hero/NN in/IN one/CD the/DT villain/NN in/IN another/DT and/CC just/RB a/DT merchant/NN in/IN a/DT third."/NN

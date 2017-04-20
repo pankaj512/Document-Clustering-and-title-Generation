@@ -1,0 +1,15 @@
+Kennedy/NNP predicts/VBZ bigger/JJR turnout/NN
+
+Voters'/NNP "pent/NN up/RP passion"/NN could/MD confound/VB predictions/NNS of/IN a/DT low/JJ turnout/NN in/IN the/DT coming/VBG general/JJ election/NN Charles/NNP Kennedy/NNP has/VBZ said./NN
+
+The/DT Liberal/NNP Democrat/NNP leader/NN predicted/VBD concerns/NNS over/IN Iraq/NNP and/CC other/JJ international/JJ and/CC domestic/JJ issue/NN would/MD express/VB themselves/PRP during/IN the/DT campaign./NN
+His/PRP$ comments/NNS come/VBP as/IN an/DT inquiry/NN looks/VBZ at/IN how/WRB best/JJS to/TO boost/VB voter/NN turnouts./NN
+Ex-foreign/NN secretary/NN Robin/NNP Cook/NNP said/VBD people/NNS were/VBD not/RB apathetic/JJ but/CC fed/JJ up/RP of/IN "pager/NN politics"/NN and/CC not/RB being/VBG heard./NN
+He/PRP like/IN Mr/NNP Kennedy/NNP pointed/VBD to/TO the/DT hundreds/NNS of/IN thousands/NNS of/IN people/NNS who/WP demonstrated/VBD against/IN plans/NNS for/IN the/DT Iraq/NNP war./NN
+
+Mr/NNP Cook/NNP who/WP is/VBZ giving/VBG evidence/NN to/TO the/DT Power/NNP inquiry/NN into/IN voter/NN turnout/NN rates/NNS told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN Programme/NNP it/PRP was/VBD not/RB fair/JJ to/TO blame/VB the/DT public/NN who/WP were/VBD "more/NN interested/JJ in/IN politics/NNS than/IN ever/RB before"./NN
+"They/NN are/VBP turned/VBN off/RP by/IN the/DT way/NN we/PRP do/VBP politics/NNS in/IN Britain./NNP
+There's/VBG a/DT message/NN there/RB for/IN politicians."/NN He/PRP urged/VBD politicians/NNS to/TO avoid/VB negative/JJ campaigning/NN and/CC to/TO "speak/VB more/JJR from/IN the/DT heart"./NN
+"We/NN should/MD be/VB not/RB so/RB afraid/JJ to/TO say/VB what/WP we/PRP stand/VBP for."/NN He/PRP also/RB criticised/VBD the/DT cult/NN of/IN personality/NN politics/NNS "There's/NN far/RB too/RB much/JJ interest/NN in/IN celebrities./NN
+"Politics/NN are/VBP in/IN danger/NN of/IN becoming/VBG another/DT branch/NN of/IN the/DT celebrity/NN industry."/NN The/DT government/NN has/VBZ tried/VBN a/DT number/NN of/IN things/NNS in/IN an/DT attempt/NN to/TO boost/VB voter/NN turnout/NN which/WDT fell/VBD to/TO 59%/CD in/IN the/DT last/JJ general/JJ election/NN in/IN 2001./CD
+This/DT has/VBZ included/VBN bringing/VBG in/IN directly/RB elected/VBN mayors/NNS to/TO head/VB local/JJ authorities/NNS and/CC trialling/VBG postal/JJ voting./NN

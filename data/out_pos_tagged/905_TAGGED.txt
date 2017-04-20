@@ -1,0 +1,36 @@
+Campbell/NNP E-mail/NN row/NN 'silly/RB fuss'/NN
+
+Ex-No/NN 10/CD media/NNS chief/JJ Alastair/NNP Campbell/NNP is/VBZ at/IN the/DT centre/NN of/IN a/DT new/JJ political/JJ row/NN over/IN an/DT e-mail/JJ containing/NN a/DT four-letter/JJ outburst/NN aimed/VBN at/IN BBC/NNP journalists./NN
+
+Mr/NNP Campbell/NNP sent/VBD the/DT missive/JJ by/IN mistake/NN to/TO BBC2's/CD Newsnight/NNP after/IN it/PRP sought/VBD to/TO question/VB his/PRP$ role/NN in/IN Labour's/NNP controversial/JJ poster/NN campaign./NN
+He/PRP later/RB contacted/VBD the/DT show/NN saying/VBG the/DT original/JJ e-mail/NN had/VBD been/VBN sent/VBN in/IN error/NN and/CC that/IN it/PRP was/VBD all/PDT a/DT "silly/RB fuss"./NN
+Mr/NNP Campbell/NNP has/VBZ recently/RB re-joined/JJ Labour's/NNP election/NN campaign./NN
+
+The/DT e-mail/NN was/VBD revealed/VBN the/DT day/NN after/IN Peter/NNP Mandelson/NNP former/JJ Labour/NNP minister/NN and/CC now/RB a/DT European/NNP Commissioner/NNP warned/VBD the/DT BBC/NNP to/TO steer/VB away/RB from/IN "demonising"/NN Mr/NNP Campbell./NNP
+Mr/NNP Campbell/NNP messaged/VBD Newsnight/NNP after/IN the/DT programme/NN investigated/VBD claims/VBZ that/IN Labour's/NNP advertising/NN agency/NN TBWA/NNP was/VBD blaming/VBG him/PRP for/IN controversy/NN over/IN its/PRP$ campaign/NN posters./NN
+The/DT images/NNS including/VBG one/CD of/IN flying/VBG pigs/NNS and/CC another/DT of/IN what/WP critics/NNS claim/VBP depicted/VBN Tory/NNP leader/NN Michael/NNP Howard/NNP as/IN Fagin/NNP prompted/VBD accusations/NNS of/IN anti-Semitism/JJ claims/NNS denied/VBN by/IN Labour./NNP
+
+Mr/NNP Campbell's/NNP e-mail/JJ which/WDT was/VBD apparently/RB intended/VBN for/IN a/DT party/NN official/NN suggested/VBD they/PRP should/MD get/VB Trevor/NNP Beattie/NNP TBWA's/NNP boss/NN to/TO issue/VB a/DT statement./NN
+In/IN it/PRP he/PRP said/VBD "Just/NN spoke/VBD to/TO trev./VB
+think/VBP tbwa/NN shd/NN give/VBP statement/NN to/TO newsnight/VB saying/VBG party/NN and/CC agency/NN work/NN together/RB well/RB and/CC nobody/NN here/RB has/VBZ spoken/VBN to/TO standard./VB
+Posters/NNS done/VBN by/IN by/IN tbwa/NN according/VBG to/TO political/JJ brief./NN
+Now/RB fuck/NN off/RP and/CC cover/VB something/NN important/JJ you/PRP twats"/VBP The/DT e-mail/NN was/VBD sent/VBN by/IN mistake/NN to/TO Newsnight/NNP journalist/NN Andrew/NNP McFadyen./NNP
+Realising/NNP his/PRP$ error/NN Mr/NNP Campbell/NNP then/RB e-mailed/JJ Mr/NNP McFadyen/NNP pointing/VBG out/RP the/DT mistake/NN but/CC suggesting/VBG presenter/NN Jeremy/NNP Paxman/NNP would/MD have/VB seen/VBN the/DT funny/JJ side./NN
+
+He/PRP said/VBD "Not/NN very/RB good/JJ at/IN this/DT e-mail/JJ Blackberry/NNP malarkey./NN
+Just/RB looked/VBD at/IN log/NN of/IN sent/JJ messages/NNS have/VBP realised/VBN e-mail/JJ meant/VBN for/IN colleagues/NNS at/IN TBWA/NNP has/VBZ gone/VBN to/TO you./VB
+For/IN the/DT record/NN first/RB three/CD sentences/NNS of/IN email/NN spot/NN on./NN
+No/DT row/NN between/IN me/PRP and/CC trevor./NN
+"Posters/NN done/VBN by/IN them/PRP according/VBG to/TO our/PRP$ brief./NN
+I/PRP dreamt/VBD up/RP flying/VBG pigs./NN
+Pigs/NNS not/RB great/JJ but/CC okay/JJ in/IN the/DT circs/NNS of/IN Tories/NNPS promising/VBG tax/NN cuts/NNS and/CC spending/NN rises/NNS with/IN the/DT same/JJ money./NN
+TBWA/NNP made/VBD production./NN
+"Campbell/NN swears/NNS shock./NN
+Final/JJ sentence/NN of/IN earlier/RBR e-mail/JJ probably/RB a/DT bit/NN colourful/JJ and/CC personal/JJ considering/NN we/PRP have/VBP never/RB actually/RB met/VBD but/CC I'm/NNP sure/JJ you/PRP share/VBP the/DT same/JJ sense/NN of/IN humour/NN as/IN your/PRP$ star/NN presenter/NN Mr/NNP P./NNP
+"Never/NN known/VBD such/PDT a/DT silly/JJ fuss/JJ since/IN the/DT last/JJ silly/JJ fuss/JJ but/CC there/EX we/PRP go./VBP
+Must/MD look/VB forward/RB not/RB back."/NN
+
+Later/RB the/DT prime/JJ minister's/NNS spokesman/NN was/VBD asked/VBN by/IN journalists/NNS about/IN his/PRP$ view/NN on/IN Mr/NNP Campbell's/NNP use/NN of/IN abusive/JJ language./NN
+The/DT spokesman/NN said/VBD "The/NN person/NN you/PRP are/VBP referring/VBG to/TO is/VBZ capable/JJ of/IN speaking/VBG for/IN himself/PRP and/CC he/PRP no/RB longer/RB works/VBZ in/IN government."/NN Foreign/NNP Secretary/NNP Jack/NNP Straw/NNP said/VBD he/PRP had/VBD always/RB had/VBN "very/NN good/JJ and/CC polite/JJ relations"/NN with/IN Mr/NNP Campbell/NNP who/WP he/PRP described/VBD as/IN "very/NN talented"./NN
+But/CC on/IN the/DT former/JJ spin/NN doctor's/NNS use/VBP of/IN language/NN Mr/NNP Straw/NNP said/VBD "I/NN do/VBP know/VB the/DT odd/JJ journalist/NN who/WP has/VBZ occasionally/RB used/VBN the/DT odd/JJ word/NN that/WDT would/MD probably/RB be/VB inappropriate/JJ in/IN some/DT circumstances./NN
+Maybe/RB I/PRP mix/VBP with/IN the/DT wrong/JJ kind/NN of/IN journalists."/NN Liam/NNP Fox/NNP Tory/NNP co-chairman/NN said/VBD the/DT return/NN of/IN Mr/NNP Campbell/NNP was/VBD a/DT sign/NN of/IN new/JJ "sinister/NN and/CC underhand/NN tactics"/NN by/IN Labour./NNP

@@ -1,0 +1,14 @@
+Lib/NNP Dems/NNP 'to/NN target/NN stamp/NN duty'/NN
+
+The/DT Liberal/NNP Democrats/NNPS are/VBP promising/VBG to/TO raise/VB the/DT stamp/NN duty/NN threshold/NN if/IN they/PRP win/VBP the/DT general/JJ election/NN in/IN a/DT bid/NN to/TO court/VB first-time/JJ house/NN buyers./NN
+
+Vince/NNP Cable/NNP the/DT party's/NNS Treasury/NNP spokesman/NN said/VBD raising/VBG the/DT threshold/NN to/TO £150000/CD would/MD prevent/VB over/IN 400000/CD home-buyers/NNS from/IN paying/VBG the/DT tax./NN
+He/PRP said/VBD first-time/JJ buyers/NNS were/VBD being/VBG "squeezed/VBN out"/NN of/IN the/DT housing/NN market./NN
+The/DT Labour/NNP party/NN said/VBD the/DT Liberal/NNP Democrats/NNPS needed/VBD to/TO explain/VB how/WRB they/PRP would/MD pay/VB for/IN the/DT plan./NN
+The/DT plan/NN forms/NNS part/NN of/IN a/DT wider/JJR Lib/NNP Dems/NNP policy/NN to/TO encourage/VB first/RB time/NN buyers/NNS and/CC those/DT on/IN lower/JJR incomes/NNS into/IN the/DT market./NN
+
+Under/IN the/DT proposals/NNS the/DT average/JJ saving/NN for/IN a/DT new/JJ buyer/NN would/MD be/VB more/JJR than/IN £1000/CD according/VBG to/TO Mr/NNP Cable./NNP
+"First/NN time/NN buyers/NNS are/VBP being/VBG squeezed/VBN out/IN of/IN the/DT housing/NN market/NN not/RB only/RB by/IN higher/JJR house/NN prices/NNS but/CC also/RB by/IN being/VBG swept/VBN into/IN the/DT stamp/NN duty/NN net"/NN he/PRP said./VB
+"By/NN failing/VBG to/TO uprate/VB the/DT stamp/NN duty/NN threshold/NN Gordon/NNP Brown/NNP has/VBZ hit/VBN first/JJ time/NN buyers/NNS and/CC those/DT on/IN low/JJ incomes/NNS the/DT hardest./NN
+"By/NN pledging/VBG to/TO increase/VB the/DT threshold/NN to/TO £150000/CD the/DT Liberal/NNP Democrats/NNPS will/MD make/VB it/PRP possible/JJ for/IN many/JJ first/JJ time/NN buyers/NNS to/TO buy/VB a/DT property/NN without/IN facing/VBG this/DT tax."/NN Paul/NNP Boateng/NNP MP/NNP Labour's/NNP Chief/NNP Secretary/NNP to/TO the/DT Treasury/NNP said/VBD "The/NN Lib/NNP Dems'/NNP sums/NNS don't/NN add/NN up./NN
+"They/NN can/MD have/VB no/DT credibility/NN until/IN they/PRP can/MD say/VB how/WRB they/PRP would/MD fund/VB their/PRP$ ever/RB growing/VBG list/NN of/IN tax/NN and/CC spending/NN commitments."/NN Mr/NNP Cable/NNP will/MD publish/VB his/PRP$ "Alternative/JJ Budget"/NNP on/IN Monday./NNP

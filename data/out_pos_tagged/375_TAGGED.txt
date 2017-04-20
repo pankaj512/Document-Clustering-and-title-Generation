@@ -1,0 +1,19 @@
+S/NNP Korean/JJ credit/NN card/NN firm/NN rescued/VBD
+
+South/NNP Korea's/NNP largest/JJS credit/NN card/NN firm/NN has/VBZ averted/VBN liquidation/NN following/VBG a/DT one/CD trillion/CD won/VBD ($960m/CD £499m)/CD bail-out./JJ
+
+LG/NNP Card/NNP had/VBD been/VBN threatened/VBN with/IN collapse/NN because/IN of/IN its/PRP$ huge/JJ debts/NNS but/CC the/DT firm's/NNS creditors/NNS and/CC its/PRP$ former/JJ parent/NN have/VBP stepped/VBN in/RP to/TO rescue/VB it./NN
+A/DT consortium/NN of/IN creditors/NNS and/CC LG/NNP Group/NNP a/DT family/NN owned/VBD conglomerate/NN have/VBP each/DT put/NN up/RP $480m/CD to/TO stabilise/VB the/DT firm./NN
+LG/NNP Card/NNP has/VBZ seven/CD million/CD customers/NNS and/CC its/PRP$ collapse/NN would/MD have/VB sent/VBN shockwaves/NNS through/IN the/DT country's/NNS economy./NN
+
+The/DT firm's/NNS creditors/NNS -/: which/WDT own/JJ 99%/CD of/IN LG/NNP Card/NNP -/: have/VBP been/VBN trying/VBG to/TO agree/VB a/DT deal/NN to/TO secure/VB its/PRP$ future/NN for/IN several/JJ weeks./NN
+They/PRP took/VBD control/NN of/IN the/DT company/NN in/IN January/NNP when/WRB it/PRP avoided/VBD bankruptcy/NN only/RB through/IN a/DT $4.5bn/CD bail-out./JJ
+
+They/PRP had/VBD threatened/VBN to/TO delist/VB the/DT company/NN a/DT move/NN which/WDT would/MD have/VB triggered/VBN massive/JJ debt/NN redemptions/NNS and/CC forced/VBD the/DT company/NN into/IN bankruptcy/NN unless/IN agreement/NN was/VBD reached/VBN on/IN its/PRP$ future/JJ funding./NN
+"LG/NNP Card/NNP will/MD not/RB need/VB any/DT more/RBR financial/JJ aid/NN after/IN this"/NN Laah/NNP Chong-gyu/NNP executive/JJ director/NN of/IN Korea/NNP Development/NNP Bank/NNP -/: one/CD of/IN the/DT firm's/NNS creditors/NNS -/: said./NN
+
+The/DT agreement/NN will/MD see/VB some/DT 12/CD trillion/CD won/VBD of/IN debt/NN converted/VBN into/IN equity./NN
+"The/NN purpose/NN of/IN the/DT capital/NN injection/NN is/VBZ to/TO avoid/VB delisting/NN and/CC the/DT goal/NN will/MD be/VB met"/NN David/NNP Kim/NNP an/DT analyst/NN at/IN Sejong/NNP Securities/NNPS told/VBD Reuters./NNP
+South/NNP Korea's/NNP consumer/NN credit/NN market/NN has/VBZ been/VBN slowly/RB recovering/VBG from/IN a/DT crisis/NN in/IN 2002/CD when/WRB a/DT credit/NN bubble/NN burst/NN and/CC millions/NNS of/IN consumers/NNS fell/VBD behind/RB on/IN their/PRP$ debt/NN repayments./NN
+LG/NNP Card/NNP returned/VBD to/TO profit/VB in/IN September/NNP but/CC needed/VBN further/JJ capital/NN to/TO avoid/VB being/VBG thrown/VBN off/RP the/DT market./NN
+South/NNP Korea's/NNP stock/NN exchange/NN can/MD delist/VB any/DT firm/NN if/IN its/PRP$ debt/NN exceeds/VBZ its/PRP$ assets/NNS two/CD years/NNS running./NN

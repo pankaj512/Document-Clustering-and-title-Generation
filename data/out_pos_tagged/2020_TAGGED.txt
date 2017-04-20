@@ -1,0 +1,25 @@
+New/JJ browser/NN wins/VBZ over/IN net/JJ surfers/NNS
+
+The/DT proportion/NN of/IN surfers/NNS using/VBG Microsoft's/NNP Internet/NNP Explorer/NNP (IE)/NN has/VBZ dropped/VBN to/TO below/IN 90%/CD say/VBP web/NN analysts./NN
+
+Net/JJ traffic/NN monitor/VB OneStat.com/NNP has/VBZ reported/VBN that/IN the/DT open-source/JJ browser/NN Firefox/NNP 1.0/CD released/VBN on/IN 9/CD November/NNP seems/VBZ to/TO be/VB drawing/VBG users/NNS away/RB from/IN IE./NNP
+While/IN IE's/NNP market/NN share/NN has/VBZ dropped/VBN 5%/CD since/IN May/NNP to/TO 88.9%/CD Mozilla/NNP browsers/NNS -/: including/VBG Firefox/NNP -/: have/VBP grown/VBN by/IN 5%./CD
+Firefox/NNP is/VBZ made/VBN by/IN the/DT Mozilla/NNP Foundation/NNP which/WDT was/VBD set/VBN up/RP by/IN former/JJ browser/NN maker/NN Netscape/NNP in/IN 1998./CD
+Although/IN there/EX have/VBP been/VBN other/JJ preview/NN versions/NNS of/IN Firefox/NNP version/NN 1.0/CD was/VBD the/DT first/JJ complete/JJ official/JJ program./NN
+"It/NN seems/VBZ that/IN people/NNS are/VBP switching/VBG from/IN Microsoft's/NNP Internet/NNP Explorer/NNP to/TO Mozilla's/NNP new/JJ Firefox/NNP browser"/NN said/VBD Niels/NNP Brinkman/NNP co-founder/NN of/IN Amsterdam-based/JJ OneStat.com./NNP
+
+Mozilla/NN browsers/NNS -/: including/VBG Firefox/NNP 1.0/CD -/: now/RB have/VBP 7.4%/CD of/IN the/DT market/NN share/NN the/DT figures/NNS suggest./NN
+Mozilla/NNP said/VBD that/IN more/RBR than/IN five/CD million/CD have/VBP downloaded/VBN the/DT free/JJ software/NN since/IN its/PRP$ official/JJ release./NN
+Supporters/NNS of/IN the/DT open-source/JJ software/NN in/IN the/DT US/PRP managed/VBD to/TO raise/VB $250000/CD (£133000)/CD to/TO advertise/VB the/DT release/NN of/IN Firefox/NNP 1.0/CD in/IN The/DT New/NNP York/NNP Times/NNP and/CC support/VB the/DT Mozilla/NNP Foundation./NNP
+There/EX was/VBD a/DT flurry/NN of/IN downloads/NNS on/IN its/PRP$ first/JJ day/NN of/IN release./NN
+
+The/DT figures/NNS echo/VBP similar/JJ research/NN from/IN net/JJ analyst/NN WebSideStory/NNP which/WDT suggested/VBD that/IN IE/NNP had/VBD 92.9%/CD of/IN users/NNS in/IN October/NNP compared/VBD to/TO 95.5%/CD in/IN June./NNP
+Microsoft/NNP IE/NNP has/VBZ dominated/VBN the/DT browser/NN market/NN for/IN some/DT time/NN after/IN taking/VBG the/DT crown/NN from/IN Netscape/NNP and/CC its/PRP$ share/NN of/IN users/NNS has/VBZ always/RB stayed/VBN at/IN around/IN the/DT 95%/CD mark./NN
+Firefox/NNP is/VBZ attractive/JJ to/TO many/JJ because/IN it/PRP is/VBZ open-source./JJ
+That/DT means/VBZ people/NNS are/VBP free/JJ to/TO adapt/VB the/DT software's/NNS core/NN code/NN to/TO create/VB other/JJ innovative/JJ features/NNS like/IN add-ons/NNS or/CC extensions/NNS to/TO the/DT program./NN
+Fewer/JJR security/NN holes/NNS have/VBP also/RB been/VBN discovered/VBN so/RB far/RB in/IN Firefox/NNP than/IN in/IN IE./NNP
+Paul/NNP Randle/NNP Microsoft/NNP Windows/NNS Client/NN product/NN manager/NN responded/VBD to/TO the/DT figures/NNS "We/NN certainly/RB respect/NN that/IN some/DT customers/NNS will/MD choose/VB alternative/JJ browsers/NNS and/CC that/IN choosing/VBG a/DT browser/NN is/VBZ about/IN more/JJR than/IN a/DT handful/NN of/IN features./NN
+"Microsoft/NN continues/VBZ to/TO make/VB significant/JJ investments/NNS in/IN IE/NNP including/VBG Service/NNP Pack/NN 2/CD with/IN advanced/JJ security/NN technologies/NNS and/CC continues/VBZ to/TO encourage/VB a/DT vibrant/JJ ecosystem/NN of/IN third/JJ party/NN add-ons/NNS for/IN Internet/NNP Explorer."/NNP Firefox/NNP wants/VBZ to/TO capture/VB 10%/CD of/IN the/DT market/NN by/IN the/DT end/NN of/IN 2005./CD
+Other/JJ browser/NN software/NN like/IN Opera/NNP and/CC Apple's/NNP Safari/NNP are/VBP also/RB challenging/VBG Microsoft's/NNP grip/NN on/IN the/DT browser/NN market./NN
+Opera/NNP is/VBZ set/VBN to/TO release/VB its/PRP$ version/NN 7.60/CD by/IN the/DT end/NN of/IN the/DT year./NN
+OneStat.com/NNP compiled/VBD the/DT statistical/JJ measurements/NNS from/IN two/CD million/CD net/JJ users/NNS in/IN 100/CD countries./NN

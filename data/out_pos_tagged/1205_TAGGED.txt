@@ -1,0 +1,13 @@
+UK/NNP youth/NN 'interested'/NN in/IN politics/NNS
+
+The/DT majority/NN of/IN young/JJ people/NNS are/VBP interested/JJ in/IN politics/NNS holding/VBG "strong/NN opinions"/NN on/IN policies/NNS and/CC have/VBP a/DT "keen/NN appetite"/NN for/IN direct/JJ action./NN
+
+Research/NNP undertaken/VBN for/IN voting/VBG watchdog/NN the/DT Electoral/JJ Commission/NNP suggests/VBZ 81%/CD of/IN 16/CD to/TO 20-year-olds/JJ feel/VBP strongly/RB about/IN issues/NNS like/IN crime/NN and/CC education./NN
+The/DT survey/NN findings/NNS are/VBP being/VBG released/VBN to/TO coincide/VB with/IN the/DT launch/NN of/IN the/DT Y/NNP Vote/NN Mock/JJ Elections/NNS 2005/CD initiative./NN
+Mock/JJ elections/NNS are/VBP planned/VBN to/TO take/VB place/NN in/IN schools/NNS across/IN the/DT UK./NNP
+
+Electoral/JJ Commission/NNP boss/NN Sam/NNP Younger/JJR said/VBD "We/NN know/NN that/IN young/JJ people/NNS often/RB feel/VBP disengaged/JJ from/IN democratic/JJ life/NN and/CC we/PRP believe/VBP in/IN working/VBG creatively/RB to/TO encourage/VB their/PRP$ interest/NN and/CC participation./NN
+"Mock/NN elections/NNS can/MD play/VB an/DT extremely/RB valuable/JJ role/NN in/IN helping/VBG young/JJ people/NNS understand/VBP how/WRB the/DT democratic/JJ process/NN works/VBZ and/CC why/WRB it/PRP matters"/NN he/PRP said./VB
+The/DT survey/NN of/IN a/DT sample/NN of/IN 500/CD British/JJ 16/CD to/TO 20-year-olds/JJ and/CC 500/CD 21/CD to/TO 25-year/JJ olds/NNS "showed/VBD Britain's/NNP young/JJ people/NNS are/VBP far/RB from/IN apathetic/JJ about/IN issues/NNS that/DT matter/NN to/TO most/JJS of/IN their/PRP$ lives"./NN
+The/DT Y/NNP Vote/NN initiative/NN is/VBZ being/VBG run/VBN jointly/RB by/IN the/DT Electoral/JJ Commission/NNP the/DT Hansard/NNP Society/NNP and/CC the/DT Department/NNP for/IN Education/NNP and/CC Skills/NNS in/IN the/DT run-up/NN to/TO local/JJ elections/NNS and/CC the/DT general/JJ election/NN possibly/RB on/IN 5/CD May./NNP
+Michael/NNP Rafferty/NNP who/WP is/VBZ mock/JJ elections/NNS project/NN manager/NN at/IN the/DT Hansard/NNP Society/NNP said/VBD he/PRP looked/VBD forward/RB to/TO seeing/VBG schools/NNS and/CC colleges/NNS across/IN the/DT UK/NNP participating/VBG in/IN the/DT mock/JJ votes./NN

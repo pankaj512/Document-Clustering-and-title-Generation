@@ -1,0 +1,17 @@
+Berlin/NNP hails/VBZ European/JJ cinema/NN
+
+Organisers/NNS say/VBP this/DT year's/NNS Berlin/NNP Film/NNP Festival/NNP which/WDT opens/VBZ on/IN Thursday/NNP with/IN period/NN epic/NN Man/NN to/TO Man/VB will/MD celebrate/VB a/DT revitalised/VBN European/JJ cinema./NN
+
+Of/IN the/DT 21/CD films/NNS in/IN competition/NN for/IN the/DT Golden/NNP and/CC Silver/NN Bear/NNP awards/NNS more/JJR than/IN half/NN are/VBP from/IN Europe/NNP with/IN France/NNP particularly/RB well/RB represented./NN
+Festival/NNP director/NN Dieter/NNP Kosslick/NNP says/VBZ this/DT strong/JJ showing/NN signals/NNS "a/VBP new/JJ consciousness/NN for/IN European/JJ films"./NN
+"They're/NN on/IN an/DT incredible/JJ winning/NN streak"/NN he/PRP told/VBD the/DT Reuters/NNP agency./NN
+"This/NN isn't/NN to/TO say/VB there/EX aren't/NN any/DT good/JJ American/JJ films"/NN he/PRP continued./VB
+"It's/NN just/RB that/IN there/EX are/VBP more/RBR good/JJ European/JJ films."/NN
+
+However/RB Mr/NNP Kosslick/NNP refused/VBD to/TO accept/VB that/IN widespread/JJ opposition/NN to/TO the/DT Iraq/NNP war/NN had/VBD turned/VBN audiences/NNS against/IN Hollywood/NNP imports./NN
+"There/NN is/VBZ no/DT anti-American/JJ mood"/NN he/PRP said./VB
+Some/DT 350/CD films/NNS will/MD be/VB screened/VBN at/IN this/DT year's/NNS festival/NN with/IN a/DT further/JJ 300/CD shown/VBN at/IN the/DT European/NNP Film/NNP Market/NNP that/WDT runs/VBZ alongside/IN it./NN
+More/JJR than/IN a/DT dozen/NN celebrities/NNS are/VBP scheduled/VBN to/TO attend/VB among/IN them/PRP Will/MD Smith/NNP Kevin/NNP Spacey/NNP and/CC Keanu/NNP Reeves./NNP
+But/CC Mr/NNP Kosslick/NNP says/VBZ more/JJR would/MD be/VB coming/VBG had/VBN the/DT Academy/NNP Awards/NNS not/RB been/VBN brought/VBN forward/RB to/TO 27/CD February./NNP
+"I'm/NN not/RB worried/VBD that/IN we/PRP won't/VBP be/VB able/JJ to/TO fill/VB the/DT red/JJ carpet/NN with/IN stars"/NN he/PRP said/VBD though/IN he/PRP admitted/VBD the/DT festival/NN may/MD be/VB moved/VBN to/TO January/NNP next/JJ year/NN to/TO avoid/VB a/DT similar/JJ clash./NN
+The/DT 10-day/JJ Berlinale/NNP runs/VBZ until/IN 20/CD February./NNP

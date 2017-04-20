@@ -1,0 +1,17 @@
+Visa/NNP decision/NN 'every/NN 11/CD minutes'/NN
+
+Visa/NNP processing/NN staff/NN are/VBP sometimes/RB expected/VBN to/TO rule/VB on/IN an/DT application/NN every/DT 11/CD minutes/NNS MPs/NNP have/VBP said./NN
+
+Pressure/NN was/VBD placed/VBN on/IN staff/NN to/TO be/VB efficient/JJ rather/RB than/IN to/TO do/VB a/DT thorough/JJ examination/NN of/IN an/DT application/NN the/DT Public/NNP Accounts/NNPS Committee/NNP found./NN
+Every/DT officer/NN had/VBD an/DT annual/JJ target/NN of/IN 8000/CD applications/NNS -/: equivalent/JJ to/TO 40/CD a/DT day/NN or/CC one/CD every/DT 11/CD minutes./NN
+MPs/NNS want/VBP research/NN into/IN whether/IN UK/NNP visa/NN holders/NNS leave/VBP at/IN the/DT end/NN of/IN their/PRP$ stays/NNS or/CC vanish/VB into/IN the/DT black/JJ market./NN
+Committee/NNP chairman/NN Edward/NNP Leigh/NNP said/VBD "There/NN is/VBZ a/DT worrying/VBG tension/NN between/IN quick/JJ processing/NN and/CC proper/JJ control/NN over/IN the/DT visas/NNS issued./NN
+"Entry/NN clearance/NN staff/NN are/VBP expected/VBN to/TO deal/VB with/IN a/DT visa/NN application/NN in/IN about/IN 11/CD minutes/NNS which/WDT is/VBZ surely/RB too/RB little/JJ time/NN to/TO look/VB closely/RB at/IN the/DT supporting/VBG documents./NN
+''/''
+
+The/DT committee's/NNS report/NN also/RB discussed/VBD the/DT Romanian/NNP and/CC Bulgarian/JJ visas/NNS scandal/NN which/WDT led/VBD to/TO the/DT resignation/NN of/IN immigration/NN minister/NN Beverley/NNP Hughes/NNP last/JJ year./NN
+Committee/NN members/NNS said/VBD the/DT Home/NNP Office/NNP had/VBD been/VBN wrong/JJ to/TO dismiss/VB concerns/NNS from/IN visa/NN staff/NN abroad/RB who/WP feared/VBD the/DT system/NN was/VBD being/VBG abused./NN
+Investigations/NNS carried/VBD out/RP in/IN the/DT wake/NN of/IN Ms/NNP Hughes'/NNP resignation/NN found/VBD more/JJR than/IN 7000/CD people/NNS had/VBD entered/VBN the/DT UK/NNP under/IN the/DT business/NN visa/NN scheme/NN for/IN Romanian/NNP and/CC Bulgarian/JJ "entrepreneurs"./NN
+Mr/NNP Leigh/NNP said/VBD the/DT Home/NNP Office/NNP should/MD now/RB consider/VB removing/VBG those/DT who/WP had/VBD not/RB set/VBN up/RP a/DT valid/JJ business./NN
+A/DT Home/NNP Office/NNP spokesman/NN said/VBD the/DT system/NN had/VBD been/VBN toughened/VBN and/CC tightened/VBD since/IN the/DT investigation./NN
+He/PRP added/VBD "that/NN the/DT traditional/JJ system/NN of/IN a/DT dual/JJ decision/NN making/VBG process/NN for/IN all/DT pre-entry/JJ applications/NNS will/MD be/VB replaced/VBN by/IN a/DT single/JJ pre-entry/JJ check/NN at/IN post/NN which/WDT will/MD be/VB simpler/JJR and/CC more/RBR robust/JJ against/IN abuse/NN than/IN the/DT current/JJ system"./NN

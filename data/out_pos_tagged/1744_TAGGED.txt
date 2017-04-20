@@ -1,0 +1,17 @@
+Parmar/NNP ruled/VBD out/IN of/IN Davis/NNP Cup/NNP tie/VB
+
+A/DT knee/NN injury/NN has/VBZ forced/VBN Arvind/NNP Parmar/NNP out/IN of/IN Great/NNP Britain's/NNP Davis/NNP Cup/NNP tie/VB in/IN Israel/NNP and/CC left/VBD Alex/NNP Bogdanovic/NNP in/IN line/NN to/TO take/VB the/DT second/JJ singles/NNS place./NN
+
+Parmar/NNP picked/VBD up/RP the/DT injury/NN last/JJ week/NN and/CC has/VBZ failed/VBN to/TO recover/VB in/IN time/NN for/IN the/DT Europe/Africa/NNP Zone/NNP I/PRP tie/VBP which/WDT begins/VBZ in/IN Tel/NNP Aviv/NNP on/IN Friday./NNP
+Bogdanovic/NNP looks/VBZ set/VBN to/TO take/VB the/DT second/JJ singles/NNS place/VBP alongside/IN Greg/NNP Rusedski./NNP
+GB/NNP captain/NN Jeremy/NNP Bates/NNP could/MD use/VB 17-year-old/JJ Andrew/NNP Murray/NNP and/CC David/NNP Sherwood/NNP in/IN the/DT doubles/NNS rubber./NN
+Bogdanovic/NNP and/CC Murray/NNP both/DT pulled/VBD out/IN of/IN tournaments/NNS last/JJ week/NN through/IN injury/NN but/CC are/VBP expected/VBN to/TO be/VB fit./NN
+Jamie/NNP Delgado/NNP and/CC Lee/NNP Childs/NNP have/VBP been/VBN called/VBN into/IN the/DT squad/NN in/IN Tel/NNP Aviv/NNP as/IN designated/VBN hitters/NNS for/IN team/NN practice/NN but/CC Bates/NNP has/VBZ no/DT plans/NNS to/TO call/VB either/CC of/IN them/PRP into/IN his/PRP$ squad/NN at/IN present./NN
+
+The/DT unheralded/VBN Sherwood/NNP was/VBD the/DT surprise/NN inclusion/NN when/WRB the/DT squad/NN was/VBD announced/VBN last/JJ week/NN and/CC Bates/NNP said/VBD "David/NN has/VBZ earned/VBN his/PRP$ place/NN in/IN this/DT squad/NN on/IN the/DT merit/NN of/IN his/PRP$ form/NN and/CC results/NNS over/IN the/DT last/JJ 12/CD months."/NN The/DT 6ft/CD 4in/CD Sherwood/NNP is/VBZ ranked/VBN 264th/JJ in/IN the/DT world/NN and/CC the/DT LTA/NNP have/VBP high/JJ hopes/NNS for/IN him/PRP after/IN Futures/NNPS tournament/NN wins/VBZ in/IN Wrexham/NNP and/CC Edinburgh./NNP
+
+The/DT Sheffield-born/NNP right-hander/NN aged/VBD 24/CD also/RB reached/VBN another/DT final/NN in/IN Plaisir/NNP France/NNP a/DT week/NN after/IN making/VBG the/DT semi-final/NN in/IN Mulhouse./NNP
+Bates/NNP is/VBZ glad/JJ to/TO have/VB Rusedski/NNP available/JJ after/IN Tim/NNP Henman's/NNP retirement/NN from/IN Davis/NNP Cup/NNP tennis./NN
+"His/NN wealth/NN of/IN experience/NN is/VBZ invaluable/JJ particularly/RB to/TO the/DT younger/JJR players/NNS and/CC I/PRP know/VBP he/PRP will/MD lead/VB by/IN example"/NN Bates/NNP said./NN
+"We/NN are/VBP looking/VBG forward/RB to/TO the/DT tie./NN
+The/DT squad/NN are/VBP all/DT in/IN excellent/JJ form."/NN

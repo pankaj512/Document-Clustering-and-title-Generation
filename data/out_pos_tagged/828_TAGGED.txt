@@ -1,0 +1,11 @@
+Roxy/NNP Music/NNP on/IN Isle/NNP of/IN Wight/NNP bill/NN
+
+Roxy/NNP Music/NNP will/MD appear/VB at/IN June's/NNP Isle/NNP of/IN Wight/NNP music/NN festival/NN along/IN with/IN Morrissey/NNP Supergrass/NNP and/CC Idlewild./NNP
+
+REM/NNS have/VBP already/RB been/VBN confirmed/VBN as/IN headliners/NNS for/IN the/DT three-day/JJ event/NN which/WDT takes/VBZ place/NN from/IN 10-12/JJ June./NNP
+Original/NNP band/NN members/NNS Bryan/NNP Ferry/NN Phil/NNP Manzerana/NNP Andy/NNP Mackay/NNP and/CC Paul/NNP Thompson/NNP will/MD take/VB to/TO the/DT stage/NN on/IN the/DT Saturday/NNP night/NN of/IN the/DT festival./NN
+The/DT band/NN are/VBP also/RB working/VBG in/IN the/DT studio/NN on/IN new/JJ material/VBP their/PRP$ first/NN since/IN the/DT 1982/CD album/NN Avalon./NNP
+Roxy/NNP Music/NNP were/VBD formed/VBN in/IN 1971/CD by/IN Ferry/NN Mackay/NNP and/CC Brian/NNP Eno/NNP with/IN Manzanera/NNP joining/VBG the/DT following/JJ year./NN
+Their/PRP$ first/RB hit/NN was/VBD 1972's/CD Virginia/NNP Plain/JJ with/IN other/JJ hits/NNS including/VBG Street/NNP Life/NNP Love/NNP Is/VBZ The/DT Drug/NNP and/CC the/DT 1981/CD John/NNP Lennon/NNP cover/VB Jealous/NNP Guy./NNP
+Roxy/NNP Music's/NNP back/RB catalogue/NN was/VBD re-released/JJ in/IN 2000/CD leading/VBG to/TO the/DT band/NN undertaking/VBG a/DT world/NN tour/NN in/IN 2001./CD
+Morrissey/NNP will/MD also/RB play/VB on/IN Saturday/NNP at/IN the/DT festival/NN while/IN Supergrass/NNP and/CC Idlewild/NNP have/VBP been/VBN confirmed/VBN for/IN the/DT Friday./NNP

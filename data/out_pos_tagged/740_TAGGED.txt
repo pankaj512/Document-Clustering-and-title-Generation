@@ -1,0 +1,14 @@
+Aaliyah/NNP claim/NN dismissed/VBN by/IN court/NN
+
+Late/RB R&B/NNP star/NN Aaliyah's/NNP record/NN company/NN has/VBZ failed/VBN in/IN an/DT attempt/NN to/TO sue/VB the/DT video/NN producer/NN who/WP booked/VBD the/DT ill-fated/JJ flight/NN on/IN which/WDT she/PRP died/VBD in/IN 2001./CD
+
+A/DT New/NNP York/NNP appeals/NNS court/NN has/VBZ told/VBN Blackground/NNP Records/NNPS that/IN only/RB the/DT singer's/NNS parents/NNS had/VBD the/DT right/NN to/TO launch/VB a/DT claim/NN for/IN wrongful/JJ death./NN
+The/DT 22-year-old/JJ singer's/NNS family/NN came/VBD to/TO an/DT undisclosed/JJ settlement/NN over/IN a/DT negligence/NN claim/NN in/IN 2003./CD
+Aaliyah/NNP had/VBD completed/VBN a/DT music/NN video/NN when/WRB the/DT plane/NN crashed/VBD in/IN the/DT Bahamas./NNP
+She/PRP and/CC eight/CD others/NNS were/VBD killed/VBN on/IN the/DT plane/NN which/WDT crashed/VBD as/IN if/IN left/VBN for/IN Florida./NNP
+Blackground/NNP Records'/NNP lawyer/NN Frank/NNP Penski/NNP said/VBD he/PRP had/VBD yet/RB to/TO examine/VB the/DT decision/NN and/CC did/VBD not/RB know/VB whether/IN they/PRP would/MD pursue/VB the/DT case./NN
+
+An/DT investigation/NN into/IN the/DT crash/NN revealed/VBD the/DT twin-engined/JJ Cessna/NNP was/VBD overloaded/VBN by/IN 700/CD pounds/NNS (320kg)./CD
+A/DT post-mortem/NN carried/VBD out/RP on/IN the/DT remains/NNS of/IN the/DT pilot/NN showed/VBD there/EX was/VBD cocaine/NN and/CC alcohol/NN in/IN his/PRP$ body./NN
+Aaliyah/NNP was/VBD a/DT rising/JJ star/NN in/IN music/NN and/CC film/NN before/IN she/PRP was/VBD killed./NN
+She/PRP was/VBD honoured/VBN with/IN a/DT string/NN of/IN posthumous/JJ awards/NNS and/CC her/PRP$ single/JJ More/JJR Than/IN A/DT Woman/NNP went/VBD to/TO number/VB one/CD in/IN the/DT UK./NNP

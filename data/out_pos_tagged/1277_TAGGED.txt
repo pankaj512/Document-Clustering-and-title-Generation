@@ -1,0 +1,14 @@
+Hunt/NNP ban/NN support/NN is/VBZ 'in/NN decline'/NN
+
+Support/NN for/IN a/DT ban/NN on/IN hunting/NN has/VBZ fallen/VBN in/IN the/DT past/JJ six/CD years/NNS a/DT poll/NN suggests./NN
+
+Less/RBR than/IN half/PDT the/DT UK/NNP wants/VBZ a/DT ban/NN compared/VBN to/TO almost/RB two-thirds/NNS in/IN 1999/CD the/DT Mori/NNP survey/NN of/IN 2000/CD adults/NNS for/IN BBC/NNP One's/NNP Countryfile/NNP programme/NN suggests./NN
+The/DT number/NN opposed/VBD to/TO a/DT ban/NN remains/VBZ constant/JJ but/CC those/DT "neither/NN supporting/VBG nor/CC opposing"/NN has/VBZ increased/VBN by/IN 11%./CD
+Most/JJS city-dwellers/NNS support/VBP the/DT ban/NN but/CC rural/JJ people/NNS were/VBD evenly/RB split/VBN between/IN supporters/NNS opponents/NNS and/CC undecided./NN
+
+Polling/NN company/NN Mori/NNP carried/VBD out/RP both/DT surveys./NN
+In/IN July/NNP 1999/CD they/PRP asked/VBD 801/CD adults/NNS if/IN they/PRP supported/VBD the/DT ban/NN for/IN the/DT Mail/NNP on/IN Sunday./NNP
+For/IN Countryfile/NNP they/PRP asked/VBD 2234/CD adults/NNS across/IN the/DT country/NN the/DT same/JJ question./NN
+The/DT Mail/NNP on/IN Sunday/NNP survey/NN found/VBD that/IN 63%/CD supported/VBD a/DT hunting/NN ban/NN compared/VBN with/IN 24%/CD against./NN
+In/IN the/DT Countryfile/NNP survey/NN 47%/CD said/VBD they/PRP supported/VBD the/DT legislation/NN with/IN 26%/CD against./NN
+But/CC the/DT programme/NN makers/NNS suggest/VBP the/DT British/JJ public/JJ are/VBP becoming/VBG "increasingly/RB neutral"/NN to/TO the/DT issue/NN because/IN around/IN one/CD quarter/NN said/VBD they/PRP "neither/VBP support/NN nor/CC oppose"/VB a/DT ban./NN

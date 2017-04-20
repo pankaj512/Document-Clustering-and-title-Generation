@@ -1,0 +1,20 @@
+Fed/NNP chief/NN warning/NN on/IN US/PRP deficit/VBP
+
+Federal/NNP Reserve/NNP chairman/NN Alan/NNP Greenspan/NNP has/VBZ warned/VBN that/IN allowing/VBG huge/JJ US/PRP budget/VBP deficits/NNS to/TO continue/VB could/MD have/VB "severe"/NN consequences./NN
+
+Speaking/VBG to/TO the/DT House/NNP Budget/NNP Committee/NNP he/PRP urged/VBD Congress/NNP to/TO take/VB action/NN to/TO cut/VB the/DT deficit/NN such/JJ as/IN increasing/VBG taxes./NN
+While/IN the/DT US/PRP economy/VBP is/VBZ growing/VBG at/IN a/DT "reasonably/RB good/JJ pace"/NN he/PRP warned/VBD that/IN budget/NN concerns/NNS were/VBD clouding/NN the/DT economic/JJ outlook/NN for/IN the/DT US./NNP
+Pension/NNP and/CC healthcare/NN costs/NNS posed/VBD the/DT greatest/JJS risks/NNS to/TO the/DT economy/NN he/PRP said./VB
+
+The/DT government/NN program/NN faces/VBZ severe/JJ financial/JJ strains/NNS in/IN coming/VBG decades/NNS as/IN the/DT massive/JJ baby-boom/JJ generation/NN retires./NN
+"I/NN fear/NN that/IN we/PRP may/MD have/VB already/RB committed/VBN more/RBR physical/JJ resources/NNS to/TO the/DT baby-boom/JJ generation/NN in/IN its/PRP$ retirement/NN years/NNS than/IN our/PRP$ economy/NN has/VBZ the/DT capacity/NN to/TO deliver./VB
+If/IN existing/NN promises/VBZ need/VBP to/TO be/VB changed/VBN those/DT changes/NNS should/MD be/VB made/VBN sooner/RBR rather/RB than/IN later"/NN Mr/NNP Greenspan/NNP said./NN
+He/PRP also/RB warned/VBD that/IN unless/IN the/DT nation/NN sees/VBZ unprecedented/JJ rises/NNS in/IN productivity/NN "retirement/NN and/CC health/NN programmes/NNS would/MD need/VB "significant"/NN changes./NN
+He/PRP called/VBD on/IN Congress/NNP to/TO cut/VB promised/JJ benefits/NNS for/IN retirees/NNS as/IN the/DT promised/VBN benefits/NNS for/IN the/DT soon-to-retire/JJ baby/NN boom/NN generation/NN were/VBD much/RB larger/JJR than/IN the/DT government/NN could/MD afford./VB
+
+Meanwhile/RB any/DT move/NN to/TO narrow/VB the/DT deficit/NN gap/NN by/IN raising/VBG taxes/NNS could/MD pose/VB a/DT significant/JJ risk/NN to/TO the/DT economy/NN by/IN dampening/VBG growth/NN and/CC spending/NN he/PRP added./VB
+He/PRP also/RB urged/VBD Congress/NNP to/TO reinstate/VB lapsed/JJ rules/NNS that/WDT require/NN tax/NN cuts/NNS and/CC spending/NN to/TO be/VB offset/VBN elsewhere/RB in/IN the/DT budget/NN in/IN an/DT effort/NN to/TO prevent/VB the/DT US/PRP heading/VBG further/RBR into/IN the/DT red./NN
+Despite/IN the/DT dire/JJ warnings/NNS Mr/NNP Greenspan/NNP did/VBD offer/NN some/DT good/JJ news/NN for/IN the/DT short/JJ term./NN
+As/IN US/PRP growth/VBP gathers/NNS steam/NN and/CC incomes/NNS rise/VBP that/WDT should/MD lead/VB to/TO a/DT narrowing/NN of/IN the/DT deficit./NN
+Recent/JJ increases/NNS in/IN defence/NN and/CC homeland/NN security/NN spending/NN were/VBD also/RB not/RB expected/VBN to/TO continue/VB indefinitely/RB which/WDT should/MD cut/VB some/DT costs./NN
+Since/IN President/NNP George/NNP W/NNP Bush/NNP came/VBD to/TO office/VB the/DT federal/JJ budget/NN has/VBZ swung/VBN from/IN a/DT record/NN surplus/NN to/TO a/DT record/NN deficit/NN of/IN $412bn/CD last/JJ year./NN

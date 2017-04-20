@@ -1,0 +1,35 @@
+Oscars/NNP steer/VBP clear/JJ of/IN controversy/NN
+
+The/DT Oscars/NNP nominations/NNS list/NN has/VBZ left/VBN out/RP some/DT of/IN the/DT most/RBS controversial/JJ films/NNS of/IN the/DT past/JJ year/NN in/IN favour/NN of/IN safer/JJR less/RBR contentious/JJ cinema./NN
+
+If/IN best/JJS film/NN nominees/NNS were/VBD drawn/VBN on/IN the/DT basis/NN of/IN column/NN inches/NNS two/CD of/IN the/DT front-runners/NNS would/MD have/VB had/VBN to/TO be/VB Michael/NNP Moore's/NNP Bush-baiting/NNP documentary/NN Fahrenheit/NN 9/11/CD and/CC Mel/NNP Gibson's/NNP The/DT Passion/NN of/IN the/DT Christ./NNP
+Both/DT films/NNS polarised/VBD opinion/NN but/CC had/VBD critics/NNS talking/VBG and/CC the/DT public/NN turning/VBG up/RP to/TO see/VB them/PRP -/: Fahrenheit/NN 9/11/CD breaking/VBG US/PRP box/VBP office/NN records/NNS for/IN a/DT documentary/NN and/CC The/DT Passion/NN of/IN the/DT Christ/NNP making/VBG more/JJR than/IN US$370m/CD (£196m)/CD in/IN the/DT US/PRP alone./VBP
+But/CC this/DT year's/NNS Academy/NNP Awards/NNS have/VBP shied/VBN away/RB from/IN the/DT big/JJ name/NN controversies/NNS with/IN The/DT Passion/NN of/IN the/DT Christ/NNP -/: a/DT film/NN accused/VBN of/IN being/VBG anti-Semitic/JJ -/: receiving/VBG nominations/NNS only/RB in/IN the/DT 'minor'/NN categories/NNS of/IN cinematography/NN makeup/NN and/CC musical/JJ score./NN
+
+Fahrenheit/NN 9/11/CD has/VBZ also/RB been/VBN overlooked/VBN despite/IN winning/VBG the/DT Palme/NNP d'Or/NN at/IN the/DT Cannes/NNP International/NNP Film/NNP Festival/NNP in/IN 2004./CD
+
+Moore's/NNP caustic/JJ documentary/NN may/MD have/VB been/VBN affected/VBN by/IN its/PRP$ distributors'/JJ decision/NN to/TO enter/VB it/PRP in/IN the/DT best/JJS picture/NN category/NN rather/RB than/IN best/JJS documentary/NN says/VBZ Tim/NNP Dams/VBZ the/DT news/NN editor/NN of/IN trade/NN magazine/NN Screen/NN International./NNP
+But/CC he/PRP also/RB believes/VBZ the/DT strong/JJ political/JJ viewpoint/NN of/IN Moore's/NNP film/NN does/VBZ not/RB sit/VB well/RB with/IN the/DT Academy./NNP
+"If/NN you/PRP look/VBP at/IN past/JJ Oscar/NNP winners/NNS and/CC nominees/VBZ the/DT very/RB conservative/JJ Oscar/NNP voters/NNS tend/VBP to/TO go/VB for/IN very/RB conservative/JJ epic-style/JJ pictures./NN
+Fahrenheit/NN 9/11/CD didn't/NN really/RB fit/VB in/RP to/TO that/DT category./NN
+"They/NN tend/VBP to/TO go/VB for/IN films/NNS like/IN Titanic/NNP Gladiator/NNP and/CC the/DT Lord/NNP of/IN the/DT Rings/NNS films/NNS with/IN scale/NN that/IN often/RB aren't/NN too/RB contentious"/NN he/PRP said./VB
+While/IN he/PRP said/VBD the/DT Oscar/NNP voting/NN panel/NN were/VBD not/RB "snubbing"/NN Moore's/NNP film/NN he/PRP thought/VBD it/PRP was/VBD unlikely/JJ a/DT documentary/NN could/MD ever/RB seriously/RB compete/VB in/IN a/DT best/JJS film/NN category./NN
+"I/NN think/VBP it's/NNS more/JJR a/DT misjudgement/NN by/IN the/DT people/NNS putting/VBG it/PRP out/RP rather/RB than/IN a/DT deliberate/NN snub"/NN he/PRP said./VB
+
+The/DT problem/NN with/IN Mel/NNP Gibson's/NNP film/NN he/PRP believed/VBD was/VBD that/IN the/DT voting/NN panel/NN may/MD have/VB been/VBN cautious/JJ in/IN nominating/VBG a/DT film/NN with/IN dialogue/NN in/IN Aramaic/NNP an/DT ancient/JJ Middle/NNP Eastern/NNP language./NN
+
+"Hollywood/NN doesn't/NN tend/VBP to/TO like/IN foreign-language/JJ films/NNS -/: no-one's/NNS ever/RB tried/VBD doing/VBG a/DT film/NN in/IN a/DT dead/JJ language"/NN he/PRP said./VB
+But/CC aside/RB from/IN these/DT two/CD films/NNS some/DT potentially/RB contentious/JJ pictures/NNS have/VBP won/VBN nominations./NN
+The/DT German/JJ film/NN The/DT Downfall/NN a/DT biopic/JJ tracing/NN the/DT final/JJ days/NNS of/IN Nazi/JJ leader/NN Adolf/NNP Hitler/NNP in/IN his/PRP$ Berlin/NNP bunker/NN has/VBZ been/VBN recognised/VBN in/IN the/DT best/JJS foreign/JJ film/NN category./NN
+The/DT film/NN has/VBZ caused/VBN some/DT controversy/NN in/IN showing/VBG Hitler/NNP as/IN a/DT fallible/JJ but/CC human/JJ man/NN rather/RB than/IN a/DT semi-mythical/JJ historical/JJ monster./NN
+But/CC Mr/NNP Dams/NNS said/VBD "It's/NN not/RB an/DT inflammatory/JJ film./NN
+It/PRP has/VBZ done/VBN very/RB well/RB in/IN Germany/NNP and/CC it's/VBZ a/DT film/NN that/WDT portrays/VBZ Hitler/NNP as/IN a/DT human/JJ rather/RB than/IN some/DT kind/NN of/IN devil/NN or/CC monster."/VB Another/DT 'contentious'/NN film/NN Mr/NNP Dams/NNS said/VBD has/VBZ gained/VBN a/DT nomination/NN in/IN the/DT best/JJS documentary/NN section/NN through/IN the/DT force/NN of/IN its/PRP$ charm./NN
+
+Independent/NNP film-maker/NN Morgan/NNP Spurlock/NNP may/MD have/VB forced/VBN fast-food/NN giant/NN McDonalds/NNP to/TO withdraw/VB its/PRP$ 'super/NN size'/NN portions/NNS in/IN the/DT US/PRP after/IN he/PRP went/VBD on/IN a/DT month-long/JJ diet/NN eating/VBG nothing/NN but/CC McDonalds/NNP meals/NNS -/: and/CC filmed/VBD his/PRP$ progress./NN
+
+The/DT film/NN has/VBZ been/VBN a/DT hit/NN around/IN the/DT world./NN
+Mr/NN Dams/NNS said/VBD "It's/NN a/DT political/JJ film/NN but/CC it's/NNS quite/RB fun/VBP and/CC punky/JJ and/CC well-paced./JJ
+"Morgan/NNP Spurlock/NNP is/VBZ a/DT really/RB likeable/JJ guy./NN
+It's/VBG a/DT very/RB accessible/JJ film/NN and/CC it/PRP doesn't/NN beat/VBP you/PRP over/IN the/DT head/NN with/IN its/PRP$ views./NN
+"While/NN in/IN Fahrenheit/NN 9/11/CD there/EX are/VBP moments/NNS of/IN comedy/NN I/PRP think/VBP the/DT way/NN that/IN Super/NNP Size/NN Me/PRP is/VBZ put/VBN together/RB -/: the/DT fact/NN it's/NNS a/DT very/RB likeable/JJ film/NN -/: means/VBZ it's/NNS won/VBD through/IN on/IN charm."/NN Dam's/NNP pick/VB at/IN this/DT year's/NNS Oscars?/NNP The/DT Aviator/NNP Martin/NNP Scorsese's/NNP biopic/JJ of/IN aviation/NN pioneer/NN and/CC Hollywood/NNP player/NN Howard/NNP Hughes./NNP
+Tinseltown/VB it/PRP seems/VBZ likes/VBZ nothing/NN more/JJR than/IN a/DT picture/NN about/IN one/CD of/IN its/PRP$ own./NN

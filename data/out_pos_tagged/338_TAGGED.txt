@@ -1,0 +1,16 @@
+Police/NNP detain/NN Chinese/JJ milk/NN bosses/NNS
+
+Chinese/JJ police/NNS have/VBP detained/VBN three/CD top/JJ executives/NNS at/IN milk/NN firm/NN Yili/NNP with/IN reports/NNS suggesting/VBG that/IN they/PRP are/VBP being/VBG investigated/VBD for/IN embezzlement./NN
+
+Yili/NNP -/: full/JJ name/NN Inner/JJ Mongolia/NNP Yili/NNP Industrial/NNP -/: confirmed/VBD its/PRP$ chairman/NN chief/NN financial/JJ officer/NN and/CC securities/NNS representative/NN were/VBD all/DT in/IN custody./NN
+The/DT company/NN China's/NNP third-largest/JJ milk/NN producer/NN is/VBZ to/TO hold/VB an/DT emergency/NN meeting/NN to/TO debate/VB the/DT issue./NN
+A/DT Yili/NNP spokesman/NN said/VBD it/PRP may/MD now/RB move/VB to/TO oust/VB chairman/NN Zheng/NNP Junhuai./NNP
+The/DT spokesman/NN did/VBD not/RB say/VB why/WRB the/DT three/CD had/VBD been/VBN detained/VBN by/IN the/DT police./NN
+The/DT official/JJ Xinhua/NNP News/NNP Agency/NNP said/VBD the/DT arrest/NN was/VBD linked/VBN to/TO alleged/VB embezzlement./NN
+
+Yili/NNP has/VBZ recently/RB been/VBN the/DT subject/NN of/IN intense/JJ media/NNS speculation/NN over/IN its/PRP$ financial/JJ operations./NN
+Executives/NNS are/VBP suspected/VBN of/IN wrongly/RB using/VBG 417m/CD yuan/NN ($50.4m/CD £26m)/CD of/IN company/NN funds/NNS to/TO support/VB a/DT management/NN buyout/NN back/RB in/IN July/NNP 2003./CD
+Yili's/NNP shares/NNS were/VBD suspended/VBN on/IN Tuesday/NNP having/VBG fallen/VBN by/IN 10%/CD on/IN Monday./NNP
+The/DT company/NN and/CC its/PRP$ two/CD main/JJ rivals/NNS -/: market/NN leader/NN Mengniu/NNP Dairy/NN and/CC second/JJ place/NN Bright/NNP Dairy/NN -/: dominate/VB a/DT Chinese/JJ milk/NN market/NN that/WDT has/VBZ grown/VBN by/IN almost/RB 30%/CD over/IN the/DT past/JJ five/CD years./NN
+Analysts/NNS wondered/VBD if/IN the/DT scandal/NN at/IN Yili/NNP -/: the/DT latest/JJS to/TO befall/VB Chinese/JJ companies/NNS this/DT year/NN -/: could/MD be/VB followed/VBN by/IN further/JJ revelations/NNS of/IN corporate/JJ wrongdoing./NN
+"Investors/NN wonder/VBP if/IN Yili's/NNP scandal/NN one/CD of/IN a/DT slew/NN to/TO be/VB uncovered/VBN this/DT year/NN isn't/NN just/RB the/DT tip/NN of/IN the/DT iceberg"/NN said/VBD Chen/NNP Huiqin/NNP an/DT analyst/NN at/IN Huatai/NNP Securities./NNP

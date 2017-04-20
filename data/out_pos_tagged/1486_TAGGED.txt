@@ -1,0 +1,14 @@
+QPR/NNP keeper/NN Day/NNP heads/VBZ for/IN Preston/NNP
+
+Queens/NNP Park/NNP Rangers/NNPS keeper/NN Chris/NNP Day/NNP is/VBZ set/VBN to/TO join/VB Preston/NNP on/IN a/DT month's/NNS loan./NN
+
+Day/NNP has/VBZ been/VBN displaced/VBN by/IN the/DT arrival/NN of/IN Simon/NNP Royce/NNP who/WP is/VBZ in/IN his/PRP$ second/JJ month/NN on/IN loan/NN from/IN Charlton./NNP
+QPR/NNS have/VBP also/RB signed/VBN Italian/JJ Generoso/NNP Rossi./NNP
+R's/NNP manager/NN Ian/NNP Holloway/NNP said/VBD "Some/NN might/MD say/VB it's/NNS a/DT risk/NN as/IN he/PRP can't/VB be/VB recalled/VBN during/IN that/DT month/NN and/CC Simon/NNP Royce/NNP can/MD now/RB be/VB recalled/VBN by/IN Charlton./NNP
+"But/NN I/PRP have/VBP other/JJ irons/NNS in/IN the/DT fire./NN
+I/PRP have/VBP had/VBN a/DT 'yes'/NN from/IN a/DT couple/NN of/IN others/NNS should/MD I/PRP need/VB them."/NN
+
+Day's/NNP Rangers/NNPS contract/NN expires/VBZ in/IN the/DT summer./NN
+Meanwhile/RB Holloway/NNP is/VBZ hoping/VBG to/TO complete/VB the/DT signing/NN of/IN Middlesbrough/NNP defender/NN Andy/NNP Davies/NNP -/: either/CC permanently/RB or/CC again/RB on/IN loan/NN -/: before/IN Saturday's/NNP match/VB at/IN Ipswich./NNP
+Davies/NNP impressed/VBD during/IN a/DT recent/JJ loan/NN spell/NN at/IN Loftus/NNP Road./NNP
+Holloway/NNP is/VBZ also/RB chasing/VBG Bristol/NNP City/NNP midfielder/NN Tom/NNP Doherty./NNP

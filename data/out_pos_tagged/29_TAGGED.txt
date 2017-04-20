@@ -1,0 +1,27 @@
+UK/NNP firm/NN faces/VBZ Venezuelan/JJ land/NN row/NN
+
+Venezuelan/JJ authorities/NNS have/VBP said/VBN they/PRP will/MD seize/VB land/NN owned/VBN by/IN a/DT British/JJ company/NN as/IN part/NN of/IN President/NNP Chavez's/NNP agrarian/NN reform/NN programme./NN
+
+Officials/NNS in/IN Cojedes/NNP state/NN said/VBD on/IN Friday/NNP that/WDT farmland/NN owned/VBN by/IN a/DT subsidiary/NN of/IN the/DT Vestey/NNP Group/NNP would/MD be/VB taken/VBN and/CC used/VBN to/TO settle/VB poor/JJ farmers./NN
+The/DT government/NN is/VBZ cracking/VBG down/RP on/IN so-called/JJ latifundios/NNS or/CC large/JJ rural/JJ estates/NNS which/WDT it/PRP says/NNS are/VBP lying/VBG idle./NN
+The/DT Vestey/NNP Group/NNP said/VBD it/PRP had/VBD not/RB been/VBN informed/VBN of/IN any/DT planned/VBN seizure./NN
+
+The/DT firm/NN whose/WP$ Agroflora/NNP subsidiary/NN operates/VBZ 13/CD farms/NNS in/IN Venezuela/NNP insisted/VBD that/IN it/PRP had/VBD complied/VBN fully/RB with/IN Venezuelan/JJ law./NN
+Prosecutors/NNS in/IN the/DT south/NN of/IN the/DT country/NN have/VBP targeted/VBN Hato/NNP El/NNP Charcote/NNP a/DT beef/NN cattle/NNS ranch/NN owned/VBN by/IN Agroflora./NNP
+According/VBG to/TO Reuters/NNP they/PRP plan/VBP to/TO seize/VB 12900/CD acres/NNS (5200/CD hectares)/NN from/IN the/DT 32000/CD acre/NN (13000/CD hectare)/NN farm./NN
+
+Officials/NNS claim/VBP that/IN Agroflora/NNP does/VBZ not/RB possess/VB valid/JJ documents/NNS proving/VBG its/PRP$ ownership/NN of/IN the/DT land/NN in/IN question./NN
+They/PRP also/RB allege/VBP that/IN areas/NNS of/IN the/DT ranch/NN are/VBP not/RB being/VBG used/VBN for/IN any/DT form/NN of/IN active/JJ production./NN
+"The/NN legal/JJ boundaries/NNS did/VBD not/RB match/VB up/RP with/IN the/DT actual/JJ boundaries/NNS and/CC there/EX is/VBZ surplus"/NN state/NN prosecutor/NN Alexis/NNP Ortiz/NNP told/VBD Reuters./NNP
+"As/NN a/DT consequence/NN the/DT government/NN has/VBZ taken/VBN action."/NN
+
+Controversial/JJ reforms/NNS passed/VBN in/IN 2001/CD give/VBP the/DT government/NN the/DT right/NN to/TO take/VB control/NN of/IN private/JJ property/NN if/IN it/PRP is/VBZ declared/VBN idle/JJ or/CC ownership/NN cannot/NN be/VB traced/VBN back/RB to/TO the/DT 19th/JJ Century./NNP
+
+Critics/NNS say/VBP the/DT powers/NNS -/: which/WDT President/NNP Chavez/NNP argues/NNS are/VBP needed/VBN to/TO help/VB the/DT country's/NNS poorest/JJS citizens/NNS and/CC develop/VB the/DT Venezuelan/JJ economy/NN -/: trample/NN all/DT over/IN private/JJ property/NN rights./NN
+The/DT Vestey/NNP Group/NNP said/VBD it/PRP had/VBD owned/VBN the/DT land/NN since/IN 1920/CD and/CC would/MD co-operate/VB fully/RB with/IN the/DT authorities./NN
+But/CC a/DT spokesman/NN added/VBD "Agroflora/NN is/VBZ absolutely/RB confident/JJ that/IN what/WP it/PRP has/VBZ submitted/VBN will/MD demonstrate/VB the/DT legality/NN of/IN its/PRP$ title/NN to/TO the/DT land."/NN The/DT company/NN pointed/VBD out/RP that/IN the/DT farm/NN which/WDT employs/VBZ 300/CD workers/NNS provides/VBZ meat/NN solely/RB for/IN the/DT Venezuelan/JJ market./NN
+
+Last/JJ month/NN the/DT government/NN said/VBD it/PRP had/VBD identified/VBN more/RBR than/IN 500/CD idle/JJ farms/NNS and/CC had/VBD yet/RB to/TO consider/VB the/DT status/NN of/IN a/DT further/JJ 40000./CD
+The/DT authorities/NNS said/VBD landowners/NNS whose/WP$ titles/NNS were/VBD in/IN order/NN and/CC whose/WP$ farms/NNS were/VBD productive/NN had/VBD "nothing/VBG to/TO fear"./VB
+Under/IN President/NNP Chavez/NNP the/DT Venezuelan/JJ government/NN has/VBZ steadily/RB expanded/VBN the/DT state's/NNS involvement/NN in/IN the/DT country's/NNS economy./NN
+It/PRP recently/RB said/VBD all/DT mining/NN contracts/NNS involving/VBG foreign/JJ firms/NNS would/MD be/VB examined/VBN to/TO ensure/VB they/PRP provided/VBD sufficient/JJ economic/JJ benefits/NNS to/TO the/DT state./NN

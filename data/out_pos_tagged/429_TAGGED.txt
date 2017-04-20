@@ -1,0 +1,20 @@
+US/PRP trade/VBP gap/NN ballooned/VBN in/IN October/NNP
+
+The/DT US/PRP trade/VBP deficit/NN widened/VBN by/IN more/RBR than/IN expected/VBN in/IN October/NNP hitting/VBG record/NN levels/NNS after/IN higher/JJR oil/NN prices/NNS raised/VBD import/NN costs/NNS figures/NNS have/VBP shown/VBN
+
+The/DT trade/NN shortfall/NN was/VBD $55.5bn/CD (£29bn)/CD up/RP 9%/CD from/IN September/NNP the/DT Commerce/NNP Department/NNP said./NN
+That/WDT pushed/VBD the/DT 10/CD month/NN deficit/NN to/TO $500.5bn./CD
+Imports/NNS rose/VBD by/IN 3.4%/CD while/IN exports/NNS increased/VBD by/IN only/RB 0.6%./CD
+A/DT weaker/JJR dollar/NN also/RB increased/VBD the/DT cost/NN of/IN imports/NNS though/IN this/DT should/MD help/VB drive/VB export/NN demand/NN in/IN coming/VBG months./NN
+"Things/NN are/VBP getting/VBG worse/JJR but/CC that's/NNS to/TO be/VB expected"/NN said/VBN David/NNP Wyss/NNP of/IN Standard/NNP &/CC Poor's/NNP in/IN New/NNP York./NNP
+"The/NN first/JJ thing/NN is/VBZ that/IN when/WRB the/DT dollar/NN goes/VBZ down/RB it/PRP increases/VBZ the/DT price/NN of/IN imports./NN
+"We/NN are/VBP seeing/VBG improved/VBN export/NN orders./NN
+Things/NNS seem/VBP to/TO be/VB going/VBG in/IN the/DT right/JJ direction."/NN
+
+Despite/IN this/DT optimism/NN significant/JJ concerns/NNS remain/VBP as/IN to/TO how/WRB the/DT US/PRP will/MD fund/VB its/PRP$ trade/NN and/CC budget/NN deficits/NNS should/MD they/PRP continue/VBP to/TO widen./VB
+Another/DT problem/NN highlighted/VBN by/IN analysts/NNS was/VBD the/DT growing/VBG trade/NN gap/NN with/IN China/NNP which/WDT has/VBZ been/VBN accused/VBN of/IN keeping/VBG its/PRP$ currency/NN artificially/RB weak/JJ in/IN order/NN to/TO boost/VB exports./NN
+The/DT US/PRP imported/VBD almost/RB $20bn/CD worth/NN of/IN goods/NNS from/IN China/NNP during/IN October/NNP exporting/VBG a/DT little/JJ under/IN $3bn./CD
+"It/NN seems/VBZ the/DT key/JJ worry/VBP that/WDT has/VBZ existed/VBN in/IN the/DT currency/NN market/NN still/RB remains"/NN said/VBD Anthony/NNP Crescenzi/NNP a/DT bond/NN strategist/NN at/IN Miller/NNP Tabak/NNP in/IN New/NNP York./NNP
+The/DT trade/NN deficit/NN and/CC the/DT shortfall/NN with/IN China/NNP "are/NN big/JJ issues/NNS going/VBG forward"./NN
+The/DT Commerce/NNP Department/NNP figures/NNS caused/VBD the/DT dollar/NN to/TO weaken/VB further/RBR despite/IN widespread/JJ expectations/NNS that/IN the/DT Federal/NNP Reserve/NNP will/MD raise/VB interest/NN rates/NNS for/IN a/DT fifth/JJ time/NN this/DT year./NN
+Borrowing/NN costs/NNS are/VBP tipped/VBN to/TO rise/VB by/IN a/DT quarter/NN of/IN a/DT percentage/NN point/NN to/TO 2.25%/CD at/IN a/DT Fed/NNP meeting/NN later/RB on/IN Tuesday./NNP

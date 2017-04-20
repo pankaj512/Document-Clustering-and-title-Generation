@@ -1,0 +1,30 @@
+UK/NN pioneers/NNS digital/JJ film/NN network/NN
+
+The/DT world's/NNS first/RB digital/JJ cinema/NN network/NN will/MD be/VB established/VBN in/IN the/DT UK/NNP over/IN the/DT next/JJ 18/CD months./NN
+
+The/DT UK/NNP Film/NNP Council/NNP has/VBZ awarded/VBN a/DT contract/NN worth/JJ £11.5m/CD to/TO Arts/NNS Alliance/NNP Digital/NNP Cinema/NNP (AADC)/NN who/WP will/MD set/VB up/RP the/DT network/NN of/IN up/IN to/TO 250/CD screens./NN
+AADC/NNP will/MD oversee/VB the/DT selection/NN of/IN cinemas/NNS across/IN the/DT UK/NNP which/WDT will/MD use/VB the/DT digital/JJ equipment./NN
+High/JJ definition/NN projectors/NNS and/CC computer/NN servers/NNS will/MD be/VB installed/VBN to/TO show/VB mainly/RB British/JJ and/CC specialist/NN films./NN
+Most/JJS cinemas/NNS currently/RB have/VBP mechanical/JJ projectors/NNS but/CC the/DT new/JJ network/NN will/MD see/VB up/IN to/TO 250/CD screens/NNS in/IN up/IN to/TO 150/CD cinemas/NNS fitted/VBN with/IN digital/JJ projectors/NNS capable/JJ of/IN displaying/VBG high/JJ definition/NN images./NN
+The/DT new/JJ network/NN will/MD double/VB the/DT world's/NNS total/NN of/IN digital/JJ screens./NN
+Cinemas/NNP will/MD be/VB given/VBN the/DT film/NN on/IN a/DT portable/JJ hard/JJ drive/NN and/CC they/PRP will/MD then/RB copy/VB the/DT content/JJ to/TO a/DT computer/NN server./NN
+
+Each/DT film/NN is/VBZ about/IN 100/CD gigabytes/NNS and/CC has/VBZ been/VBN compressed/VBN from/IN an/DT original/JJ one/CD terabyte-size/JJ file./NN
+Fiona/NNP Deans/NNP associate/JJ director/NN of/IN AADC/NNP said/VBD the/DT compression/NN was/VBD visually/RB lossless/JJ so/IN no/DT picture/NN degradation/NN will/MD occur./VB
+
+The/DT film/NN will/MD all/DT be/VB encrypted/VBN to/TO prevent/VB piracy/NN and/CC each/DT cinema/NN will/MD have/VB an/DT individual/JJ key/JJ which/WDT will/MD unlock/VB the/DT movie./NN
+"People/NN will/MD see/VB the/DT picture/NN quality/NN is/VBZ a/DT bit/NN clearer/JJR with/IN no/DT scratches./NN
+"The/NN picture/NN will/MD look/VB exactly/RB the/DT same/JJ as/IN when/WRB the/DT print/NN was/VBD first/RB made/VBN -/: there/EX is/VBZ no/DT degradation/NN in/IN quality/NN over/IN time."/NN
+
+The/DT key/JJ benefit/NN of/IN the/DT digital/JJ network/NN will/MD be/VB an/DT increase/NN in/IN the/DT distribution/NN and/CC screening/NN of/IN British/JJ films/NNS documentaries/NNS and/CC foreign/JJ language/NN films./NN
+
+"Access/NN to/TO specialised/VBN film/NN is/VBZ currently/RB restricted/VBN across/IN the/DT UK"/NNP said/VBD Pete/NNP Buckingham/NNP head/NN of/IN Distribution/NN and/CC Exhibition/NN at/IN the/DT UK/NNP Film/NNP Council./NNP
+"Although/NN a/DT genuine/JJ variety/NN of/IN films/NNS is/VBZ available/JJ in/IN central/JJ London/NNP and/CC a/DT few/JJ other/JJ metropolitan/JJ areas/NNS the/DT choice/NN for/IN many/JJ outside/IN these/DT areas/NNS remains/VBZ limited/JJ and/CC the/DT Digital/NNP Screen/NN Network/NNP will/MD improve/VB access/NN for/IN audiences/NNS across/IN the/DT UK"/NNP Digital/NNP prints/NNS costs/NNS less/JJR than/IN a/DT traditional/JJ 35mm/CD print/NN -/: giving/VBG distributors/NNS more/JJR flexibility/NN in/IN how/WRB they/PRP screen/VBP films/NNS said/VBD Ms/NNP Deans./NNP
+"It/NN can/MD cost/VB up/IN to/TO £1500/CD to/TO make/VB a/DT copy/NN of/IN a/DT print/NN for/IN specialist/NN films./NN
+"In/NN the/DT digital/JJ world/NN you/PRP can/MD make/VB prints/NNS for/IN considerably/RB less/JJR than/IN that./NN
+"Distributors/NN can/MD then/RB send/VB out/RP prints/NNS to/TO more/JJR cinemas/NNS and/CC prints/NNS can/MD stay/VB in/IN cinemas/NNS for/IN much/JJ longer."/NN The/DT UK/NNP digital/JJ network/NN will/MD be/VB the/DT first/JJ to/TO employ/VB 2k/CD projectors/NNS -/: which/WDT are/VBP capable/JJ of/IN showing/VBG films/NNS at/IN resolutions/NNS of/IN 2048/CD */NN 1080/CD pixels./NN
+A/DT separate/JJ competitive/JJ process/NN to/TO determine/VB which/WDT cinemas/NNS will/MD receive/VB the/DT digital/JJ screening/NN technology/NN will/MD conclude/VB in/IN May./NNP
+The/DT sheer/JJ cost/NN of/IN traditional/JJ prints/NNS means/VBZ that/IN some/DT cinemas/NNS need/VBP to/TO show/VB them/PRP twice/RB a/DT day/NN in/IN order/NN to/TO recoup/VB costs./NN
+"Some/NN films/NNS need/VBP word/NN of/IN mouth/NN and/CC time/NN to/TO build/VB momentum/NN -/: they/PRP don't/VBP need/VBP to/TO be/VB shown/VBN twice/RB a/DT day"/NN explained/VBD Ms/NNP Deans./NNP
+"A/NN cinema/NN will/MD often/RB book/VB a/DT 35mm/CD print/NN in/IN for/IN two/CD weeks/NNS -/: even/RB if/IN the/DT film/NN is/VBZ a/DT roaring/VBG success/NN they/PRP cannot/VBP hold/NN on/RP to/TO the/DT print/NN because/IN it/PRP will/MD have/VB to/TO go/VB to/TO another/DT cinema./NN
+"With/NN digital/JJ prints/NNS every/DT cinema/NN will/MD have/VB its/PRP$ own/JJ copy."/NN

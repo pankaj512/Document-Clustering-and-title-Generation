@@ -1,0 +1,15 @@
+Argentina/NNP closes/VBZ $102.6bn/CD debt/NN swap/NN
+
+Argentina/NNP is/VBZ set/VBN to/TO close/VB its/PRP$ $102.6bn/CD (£53.51bn)/CD debt/NN restructuring/NN offer/NN for/IN bondholders/NNS later/RB on/IN Friday/NNP with/IN the/DT government/NN hopeful/JJ that/IN most/JJS creditors/NNS will/MD accept/VB the/DT deal./NN
+
+The/DT estimated/VBN loss/NN to/TO bondholders/NNS is/VBZ up/IN to/TO 70%/CD of/IN the/DT original/JJ value/NN of/IN the/DT bonds/NNS yet/RB the/DT majority/NN are/VBP expected/VBN to/TO accept/VB the/DT government's/NNS offer./NN
+Argentina/NNP defaulted/VBD on/IN its/PRP$ debt/NN three/CD years/NNS ago/RB the/DT biggest/JJS sovereign/JJ default/NN in/IN modern/JJ history./NN
+Yesterday/NNP Argentina's/NNP economy/NN minister/NN Roberto/NNP Lavagna/NNP said/VBD that/IN he/PRP estimated/VBD that/IN the/DT results/NNS of/IN the/DT restructuring/NN would/MD be/VB ready/JJ around/IN next/JJ Thursday/NNP (3/CD March)./NNP
+Argentina's/NNP President/NNP Nestor/NNP Kirchner/NNP said/VBD on/IN Friday/NNP "A/NN year/NN ago/RB when/WRB we/PRP started/VBD the/DT swap/NN (negotiations)/NN they/PRP told/VBD us/PRP we/PRP were/VBD crazy/JJ that/IN we/PRP were/VBD irrational."/NN But/CC he/PRP added/VBD that/IN his/PRP$ government/NN was/VBD close/RB to/TO achieving/VBG "The/NN best/JJS debt/NN renegotiation/NN in/IN history."/NN The/DT country/NN has/VBZ been/VBN in/IN default/NN on/IN the/DT $102.6bn/CD -/: based/VBN on/IN an/DT original/JJ debt/NN of/IN $81.8bn/CD plus/CC interest/NN -/: for/IN the/DT past/JJ three/CD years./NN
+If/IN the/DT offer/NN does/VBZ not/RB go/VB ahead/RB international/JJ lawsuits/NNS on/IN behalf/NN of/IN aggrieved/VBN investors/NNS could/MD follow/VB but/CC analysts/NNS are/VBP optimistic/JJ that/IN it/PRP will/MD go/VB through/RP despite/IN the/DT tough/JJ terms/NNS for/IN bondholders./NN
+About/IN 70%/CD to/TO 80%/CD of/IN bondholders/NNS are/VBP expected/VBN to/TO accept/VB the/DT terms/NNS of/IN the/DT offer./NN
+By/IN 18/CD February/NNP creditors/NNS holding/VBG $41bn/CD -/: or/CC 40%/CD of/IN the/DT total/JJ debt/NN -/: had/VBD accepted/VBN the/DT offer./NN
+Sorting/VBG out/RP its/PRP$ debt/NN would/MD enhance/VB the/DT country's/NNS credibility/NN on/IN international/JJ markets/NNS and/CC enable/VB it/PRP to/TO attract/VB more/RBR foreign/JJ investment./NN
+Of/IN Argentina's/NNP bondholders/NNS 38.4%/CD reside/NN in/IN Argentina/NNP 15.6%/CD in/IN Italy/NNP 10.3%/CD in/IN Switzerland/NNP 9.1%/CD in/IN the/DT United/NNP States/NNPS 5.1%/CD in/IN Germany/NNP and/CC 3.1%/CD in/IN Japan./NNP
+Investors/NNS in/IN the/DT UK/NNP Holland/NNP and/CC Luxembourg/NNP have/VBP about/IN 1%/CD each/DT and/CC the/DT remainder/NN were/VBD not/RB broken/VBN down/RB by/IN country./NN
+The/DT deal/NN is/VBZ likely/JJ to/TO be/VB taken/VBN up/RP most/RBS enthusiastically/RB by/IN domestic/JJ investors/NNS who/WP will/MD benefit/VB if/IN Argentina's/NNP economy/NN becomes/VBZ more/JJR stable./NN

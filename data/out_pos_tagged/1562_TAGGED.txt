@@ -1,0 +1,10 @@
+Solskjaer/NNP raises/VBZ hopes/NNS of/IN return/NN
+
+Manchester/NNP United/NNP striker/NN Ole/NNP Gunnar/NNP Solskjaer/NNP said/VBD he/PRP hoped/VBD to/TO return/VB next/JJ season/NN following/VBG a/DT career-threatening/JJ injury/NN to/TO his/PRP$ right/JJ knee./NN
+
+The/DT 31-year-old/JJ Norway/NNP international/NN had/VBD surgery/NN in/IN Sweden/NNP in/IN August/NNP to/TO transplant/VB cartilage/NN into/IN the/DT joint./NN
+"I'm/NN in/IN no/DT doubt/NN that/IN I'll/NNP play/VB again"/NN Solskjaer/NNP told/VBD Aftenposten/NNP Daily./NNP
+"The/NN problem/NN will/MD be/VB the/DT speed/NN but/CC we're/NN talking/VBG about/IN eight/CD months'/NN time./NN
+It's/NNP going/VBG as/IN it/PRP should/MD with/IN the/DT knee./NN
+I'm/NNP slavishly/RB following/VBG a/DT programme."/NN Solskjaer/NNP last/NN played/VBD for/IN United/NNP as/IN a/DT late/JJ substitute/NN in/IN May's/NNP FA/NNP Cup/NNP final/JJ win/NN over/IN Millwall./NNP
+His/PRP$ contract/NN with/IN United/NNP runs/VBZ out/RP in/IN 2006/CD by/IN which/WDT time/NN he/PRP will/MD have/VB been/VBN at/IN the/DT Premier/NNP League/NNP club/NN for/IN 10/CD years./NN

@@ -1,0 +1,16 @@
+Tarantino/NN to/TO direct/JJ CSI/NNP episode/NN
+
+Film/NNP director/NN Quentin/NNP Tarantino/NNP is/VBZ to/TO direct/VB an/DT episode/NN of/IN US/PRP television/VBP series/NN CSI/NNP Crime/NN Scene/NN Investigation./NNP
+
+The/DT Oscar-winning/NNP Pulp/NNP Fiction/NN director/NN has/VBZ also/RB written/VBN an/DT original/JJ story/NN for/IN the/DT season/NN finale/NN episode./NN
+CSI's/NNP co-producer/JJ Carol/NNP Mendelsohn/NNP said/VBD the/DT episode/NN would/MD have/VB "more/NN bugs/NNS and/CC blood"/NN than/IN usual./NN
+It/PRP is/VBZ not/RB Tarantino's/NNP first/JJ venture/NN into/IN TV./NNP
+In/IN 1995/CD he/PRP directed/VBD an/DT episode/NN of/IN the/DT medical/JJ drama/NN ER/NNP and/CC has/VBZ also/RB appeared/VBN in/IN Alias./NNP
+
+Ms/NNP Mendelsohn/NNP said/VBD the/DT production/NN team/NN had/VBD been/VBN trying/VBG for/IN a/DT while/NN to/TO get/VB Tarantino/NNP to/TO direct/VB an/DT episode/NN of/IN CSI/NNP and/CC added/VBD that/IN he/PRP was/VBD a/DT fan/NN of/IN the/DT forensic/JJ drama./NN
+She/PRP said/VBD he/PRP finally/RB agreed/VBD a/DT few/JJ weeks/NNS ago/RB while/IN CSI/NNP was/VBD doing/VBG some/DT location/NN shooting/VBG in/IN Las/NNP Vegas/NNP and/CC the/DT show's/NNS stars/NNS persuaded/VBD him./NN
+"He/NN knows/VBZ everything/NN there/EX is/VBZ to/TO know/VB about/IN CSI/NNP and/CC he/PRP is/VBZ into/IN the/DT whole/JJ mythology/NN of/IN CSI"/NNP Mendelsohn/NNP said./NN
+"Quentin/NN came/VBD in/IN a/DT couple/NN of/IN weeks/NNS ago./NN
+We/PRP had/VBD a/DT story/NN meeting/NN with/IN the/DT writers./NN
+"He/NN had/VBD a/DT great/JJ idea/NN and/CC it/PRP was/VBD so/RB much/JJ fun/NN to/TO have/VB him/PRP in/IN the/DT room.../NN
+we/PRP are/VBP positively/RB giddy."/NN Filming/NN is/VBZ due/JJ to/TO start/VB in/IN early/JJ April/NNP and/CC the/DT Tarantino-directed/NNP episode/NN will/MD be/VB broadcast/NN in/IN the/DT US/PRP on/IN 19/CD May./NNP

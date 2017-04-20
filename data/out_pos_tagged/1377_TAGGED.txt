@@ -1,0 +1,13 @@
+McIlroy/NNP continues/VBZ winning/VBG streak/NN
+
+James/NNP McIlroy/NNP stormed/VBD to/TO his/PRP$ second/JJ international/JJ victory/NN in/IN less/JJR than/IN a/DT week/NN claiming/VBG the/DT men's/NNS 800m/CD at/IN the/DT TEAG/NNP indoor/JJ meeting/NN in/IN Erfurt./NNP
+
+The/DT Northern/NNP Ireland/NNP runner/NN set/VBD a/DT new/JJ personal/JJ best/JJS of/IN one/CD minute/NN 46.68/CD seconds/NNS -/: a/DT time/NN good/JJ enough/RB to/TO qualify/VB for/IN the/DT European/JJ Indoor/JJ Championships./NNP
+"I'm/NN qualified/VBN now/RB and/CC that's/NNS what/WP matters/NNS most"/NN said/VBD the/DT 28-year-old./JJ
+McIlroy/NNP is/VBZ now/RB hoping/VBG to/TO gain/VB a/DT late/JJ entry/NN into/IN Sunday's/NNP international/JJ indoor/JJ meeting/NN in/IN Leipzig./NNP
+The/DT Northern/NNP Irishman/NNP is/VBZ hoping/VBG manager/NN Ricky/NNP Simms/NNP can/MD swing/VB it/PRP for/IN him/PRP to/TO compete/VB after/IN he/PRP initially/RB withdrew/VBD after/IN contracting/NN a/DT cold./NN
+After/IN three/CD successive/JJ wins/NNS over/IN the/DT past/JJ fortnight/NN McIlroy/NNP is/VBZ brimming/VBG with/IN confidence./NN
+"I've/NN been/VBN waiting/VBG over/IN six/CD years/NNS for/IN this/DT to/TO happen/VB and/CC now/RB I'm/NNP certain/JJ my/PRP$ career/NN has/VBZ turned/VBN the/DT corner."/NN On/IN Friday/NNP McIlroy/NNP delivered/VBD an/DT impressive/JJ run/NN despite/IN suffering/VBG from/IN his/PRP$ bad/JJ cold./NN
+The/DT AAA/NNP indoor/JJ and/CC outdoor/JJ champion/NN accelerated/VBN away/RB from/IN the/DT field/NN in/IN the/DT final/JJ 300m/CD beating/VBG German/JJ Wolfram/NNP Mulle/NNP by/IN 0.90/CD seconds./NN
+McIlroy/NNP set/VBD a/DT world-leading/JJ mark/NN for/IN 1000m/CD at/IN the/DT Sparkassen/NNP Cup/NNP in/IN Stuttgart/NNP last/JJ weekend./NN
+And/CC his/PRP$ time/NN in/IN Erfurt/NNP makes/VBZ him/PRP third/JJ fastest/JJS over/IN 800m/CD in/IN the/DT world/NN this/DT year./NN

@@ -1,0 +1,17 @@
+Dutch/JJ watch/NN Van/NNP Gogh's/NNP last/JJ film/NN
+
+The/DT last/JJ film/NN to/TO be/VB made/VBN by/IN the/DT slain/VBN Dutch/JJ director/NN Theo/NNP van/NNP Gogh/NNP called/VBD 06/05/CD has/VBZ been/VBN premiered/VBN in/IN The/DT Hague./NNP
+
+Members/NNS of/IN Van/NNP Gogh's/NNP family/NN and/CC celebrities/NNS attended/VBD the/DT screening/NN of/IN 06/05/CD based/VBN on/IN the/DT murder/NN of/IN the/DT anti-immigration/JJ politician/NN Pim/NNP Fortuyn./NNP
+Van/NNP Gogh/NNP was/VBD shot/VBN and/CC stabbed/VBN to/TO death/NN in/IN Amsterdam/NNP six/CD weeks/NNS ago./NN
+A/DT Dutch-Moroccan/NNP man/NN suspected/VBN of/IN radical/JJ Islamist/NNP links/NNS has/VBZ been/VBN charged./NN
+The/DT killing/VBG and/CC Fortuyn's/NNP death/NN in/IN 2002/CD convulsed/VBD the/DT Netherlands./NNP
+Many/JJ Dutch/JJ people/NNS have/VBP questioned/VBN their/PRP$ country's/NNS self-image/NN as/IN a/DT peaceful/JJ tolerant/NN nation/NN in/IN the/DT wake/NN of/IN the/DT murders/NNS which/WDT triggered/VBD heated/JJ debate/NN about/IN immigration./NN
+
+An/DT animal/NN rights/NNS activist/NN was/VBD sentenced/VBN to/TO 18/CD years/NNS in/IN prison/NN last/JJ year/NN for/IN killing/VBG Fortuyn./NNP
+Earlier/RBR this/DT year/NN Van/NNP Gogh/NNP made/VBD a/DT film/NN accusing/VBG Islam/NNP of/IN promoting/VBG violence/NN against/IN women./NN
+It/PRP caused/VBD outrage/NN among/IN Muslims/NNPS and/CC death/NN threats/NNS were/VBD made/VBN against/IN him./NN
+The/DT film/NN 06/05/CD will/MD become/VB available/JJ on/IN the/DT internet/NN on/IN Wednesday/NNP and/CC go/VB on/IN general/JJ release/NN in/IN Dutch/JJ cinemas/NNS in/IN January./NNP
+Van/NNP Gogh's/NNP movie/NN mixes/VBZ real/JJ images/NNS of/IN the/DT day/NN of/IN Fortuyn's/NNP murder/NN with/IN a/DT fictional/JJ plot/NN about/IN Dutch/JJ intelligence/NN services/NNS conspiring/VBG to/TO silence/VB the/DT politician./NN
+The/DT story/NN unfolds/VBZ through/IN the/DT eyes/NNS of/IN a/DT freelance/NN photographer/NN who/WP unwittingly/RB takes/VBZ pictures/NNS revealing/VBG the/DT involvement/NN of/IN Dutch/JJ authorities/NNS in/IN Fortuyn's/NNP murder./NN
+Photographer/NNP Jim/NNP de/IN Booy/NNP then/RB goes/VBZ on/IN the/DT run/NN from/IN secret/JJ service/NN agents/NNS who/WP burgle/VBP his/PRP$ home/NN and/CC threaten/VB his/PRP$ family./NN

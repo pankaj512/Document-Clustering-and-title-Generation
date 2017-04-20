@@ -1,0 +1,24 @@
+Japan/NNP economy/NN slides/VBZ to/TO recession/VB
+
+The/DT Japanese/JJ economy/NN has/VBZ officially/RB gone/VBN back/RB into/IN recession/NN for/IN the/DT fourth/JJ time/NN in/IN a/DT decade./NN
+
+Gross/NNP domestic/JJ product/NN fell/VBD by/IN 0.1%/CD in/IN the/DT last/JJ three/CD months/NNS of/IN 2004./CD
+The/DT fall/NN reflects/VBZ weak/JJ exports/NNS and/CC a/DT slowdown/NN in/IN consumer/NN spending/NN and/CC follows/VBZ similar/JJ falls/NNS in/IN GDP/NNP in/IN the/DT two/CD previous/JJ quarters./NN
+The/DT Tokyo/NNP stock/NN market/NN fell/VBD after/IN the/DT figures/NNS were/VBD announced/VBN but/CC rose/VBD again/RB on/IN a/DT widespread/JJ perception/NN that/IN the/DT economy/NN will/MD recover/VB later/RB this/DT year./NN
+On/IN Wednesday/NNP the/DT government/NN revised/VBD growth/NN figures/NNS from/IN earlier/RBR in/IN 2004/CD which/WDT when/WRB taking/VBG into/RP account/NN performance/NN in/IN the/DT most/RBS recent/JJ period/NN effectively/RB tips/VBZ Japan/NNP into/IN recession./NN
+
+A/DT previous/JJ estimate/NN of/IN 0.1%/CD growth/NN between/IN July/NNP and/CC September/NNP was/VBD downgraded/VBN to/TO a/DT 0.3%/CD decline./NN
+A/DT recession/NN is/VBZ commonly/RB defined/VBN as/IN two/CD consecutive/JJ quarters/NNS of/IN negative/JJ growth/NN although/IN the/DT Japanese/JJ government/NN takes/VBZ other/JJ factors/NNS into/IN account/NN when/WRB judging/VBG the/DT status/NN of/IN its/PRP$ economy./NN
+
+Figures/NNS released/VBN by/IN the/DT government's/NNS Cabinet/NNP Office/NNP showed/VBD that/IN GDP/NNP on/IN an/DT annualised/VBN basis/NN fell/VBD 0.5%/CD in/IN the/DT last/JJ three/CD months/NNS of/IN 2004./CD
+However/RB politicians/NNS remain/VBP upbeat/JJ about/IN prospects/NNS for/IN an/DT economic/JJ boost/NN later/RB in/IN the/DT year./NN
+"The/NN economy/NN has/VBZ some/DT soft/JJ patches/NNS but/CC if/IN you/PRP look/VBP at/IN the/DT bigger/JJR picture/NN it/PRP is/VBZ in/IN a/DT recovery/NN stage"/NN said/VBD Economic/NNP and/CC Fiscal/JJ Policy/NNP Minister/NNP Heizo/NNP Takenaka./NNP
+Gross/NNP domestic/JJ product/NN measures/NNS the/DT overall/JJ value/NN of/IN goods/NNS and/CC services/NNS produced/VBN in/IN a/DT country./NN
+"The/NN economy/NN must/MD be/VB assessed/VBN comprehensively/RB and/CC we/PRP cannot/VBP look/NN at/IN GDP/NNP alone"/NN Mr/NNP Takenaka/NNP stressed./NN
+
+Ministers/NNS pointed/VBD to/TO the/DT fact/NN that/IN consumer/NN spending/NN had/VBD been/VBN depressed/JJ by/IN one-off/JJ factors/NNS such/JJ as/IN the/DT unseasonably/RB mild/JJ winter./NN
+Analysts/NNS said/VBD the/DT figures/NNS were/VBD disappointing/JJ but/CC argued/VBD that/IN Japan's/NNP largest/JJS companies/NNS had/VBD been/VBN recording/NN healthy/JJ profits/NNS and/CC capital/NN spending/NN was/VBD on/IN the/DT rise./NN
+Japan's/NNP economy/NN grew/VBD 2.6%/CD overall/JJ last/JJ year/NN -/: fuelled/VBN by/IN a/DT strong/JJ performance/NN in/IN the/DT first/JJ few/JJ months/NNS -/: and/CC is/VBZ forecast/NN to/TO see/VB growth/NN of/IN 2.1%/CD in/IN 2005./CD
+However/RB the/DT economy's/NNS fragile/JJ recovery/NN remains/VBZ dependent/JJ on/IN an/DT upturn/NN in/IN consumer/NN spending/NN a/DT fall/NN in/IN the/DT value/NN of/IN the/DT yen/NN and/CC an/DT improvement/NN in/IN global/JJ economies./NN
+"The/NN results/NNS came/VBD in/IN at/IN the/DT lower/JJR end/NN of/IN expectations/NNS but/CC we/PRP shouldn't/VBP be/VB too/RB pessimistic/JJ about/IN the/DT current/JJ state/NN and/CC the/DT outlook/NN for/IN the/DT economy"/NN said/VBD Naoki/NNP Iizuka/NNP senior/JJ economist/NN at/IN the/DT Dai-ichi/NNP Life/NNP Research/NNP Institute./NNP
+Japan's/NNP economy/NN has/VBZ seen/VBN stretches/NNS of/IN moderate/JJ growth/NN over/IN the/DT past/JJ decade/NN but/CC has/VBZ periodically/RB slipped/VBN back/RB into/IN recession./NN

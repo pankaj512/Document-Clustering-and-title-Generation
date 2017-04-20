@@ -1,0 +1,9 @@
+Beattie/NNP return/NN calms/NNS attack/NN fears/NNS
+
+Everton/NNP striker/NN James/NNP Beattie/NNP has/VBZ been/VBN declared/VBN fit/VB for/IN training/NN on/IN Tuesday/NNP despite/IN suffering/VBG an/DT alleged/VBN assault/NN last/JJ Saturday./NNP
+
+Beattie/NNP 27/CD is/VBZ not/RB believed/VBN to/TO be/VB as/RB seriously/RB hurt/VBN as/IN some/DT reports/NNS have/VBP suggested/VBN after/IN being/VBG "the/NN victim/NN of/IN an/DT unprovoked/VBN assault"/NN in/IN Birmingham./NNP
+He/PRP was/VBD on/IN a/DT night/NN out/RP with/IN his/PRP$ girlfriend/NN and/CC two/CD friends/NNS following/VBG Everton's/NNP 3-1/JJ win/NN over/IN Aston/NNP Villa./NNP
+"He/NN was/VBD shaken/VBN but/CC not/RB badly/RB injured"/NN said/VBD Everton/NNP spokesman/NN Ian/NNP Ross./NNP
+He/PRP added/VBD "He/NN did/VBD speak/VB to/TO the/DT police/NN but/CC will/MD not/RB be/VB pressing/VBG charges./NN
+"He/NN has/VBZ spoken/VBN to/TO manager/VB David/NNP Moyes/NNP about/IN what/WP happened."/NN Beattie/NNP was/VBD suspended/VBN for/IN the/DT win/NN at/IN Aston/NNP Villa/NNP after/IN his/PRP$ red/JJ card/NN against/IN Chelsea/NNP and/CC he/PRP will/MD be/VB available/JJ again/RB for/IN the/DT Merseyside/NNP derby/NN at/IN Liverpool/NNP on/IN 20/CD March./NNP

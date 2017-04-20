@@ -1,0 +1,25 @@
+Hospital/NN suspends/NNS 'no/NN Welsh'/NNP plan/NN
+
+An/DT English/JJ hospital/NN has/VBZ suspended/VBN plans/NNS to/TO stop/VB treating/VBG Welsh/NNP patients/NNS who/WP have/VBP waited/VBN more/JJR than/IN three/CD months./NN
+
+Hereford/NNP County/NNP Hospital/NNP had/VBD earlier/RBR said/VBN that/IN from/IN the/DT new/JJ year/NN patients/NNS waiting/VBG longer/RBR than/IN this/DT would/MD be/VB taken/VBN off/RP waiting/VBG lists/NNS for/IN hip/NN and/CC knee/NN operations./NN
+GPs/NNP in/IN Wales/NNP had/VBD feared/VBN patients/NNS could/MD be/VB pushed/VBN to/TO the/DT back/NN of/IN another/DT queue./NN
+But/CC after/IN talks/NNS with/IN Powys/NNP Health/NNP Board/NNP the/DT hospital/NN called/VBD off/RP its/PRP$ plan/NN until/IN health/NN chiefs/NNS meet/VBP early/RB in/IN January./NNP
+Hereford/NNP Hospital/NNP Trust/NNP caused/VBD an/DT outcry/NN when/WRB it/PRP sent/VBD out/RP a/DT letter/NN telling/VBG patients/NNS that/IN for/IN financial/JJ and/CC administrative/JJ reasons/NNS it/PRP planned/VBD to/TO turn/VB down/RP some/DT orthopaedic/JJ patients./NN
+Shocked/VBN health/NN officials/NNS in/IN Powys/NNP said/VBD this/DT meant/VBN they/PRP would/MD be/VB left/VBN with/IN the/DT prospect/NN of/IN patients/NNS and/CC doctors/NNS having/VBG to/TO find/VB new/JJ appointments/NNS in/IN other/JJ hospitals./NN
+Andy/NNP Williams/NNP chief/NN executive/NN of/IN Powys/NNP Local/JJ Health/NNP Board/NNP had/VBD said/VBN it/PRP was/VBD "a/NN totally/RB unacceptable/JJ way/NN to/TO behave"./VB
+
+Mr/NNP Williams/NNP had/VBD said/VBN he/PRP did/VBD not/RB think/VB it/PRP was/VBD a/DT Welsh-English/NNP issue/NN but/CC said/VBD Hereford/NNP hospital/NN was/VBD "struggling/VBG financially/RB and/CC trying/VBG to/TO pass/VB the/DT problem/NN back/RB to/TO Powys"./NNP
+He/PRP had/VBD told/VBN BBC/NNP Radio/NNP Wales/NNP "I/NN have/VBP written/VBN straight/JJ back/RB to/TO the/DT trust.../NN
+to/TO insist/VB they/PRP withdraw/VBP this/DT threat/NN and/CC treat/VB the/DT patients/NNS I/PRP am/VBP paying/VBG them/PRP to/TO treat."/VB But/CC after/IN the/DT hospital/NN had/VBD agreed/VBN to/TO the/DT suspension/NN Mr/NNP Williams/NNP said/VBD he/PRP was/VBD optimistic/JJ a/DT compromise/NN could/MD be/VB reached/VBN which/WDT would/MD ensure/VB Welsh/NNP patients/NNS continued/VBD to/TO be/VB treated/VBN there./NN
+He/PRP said/VBD the/DT problem/NN had/VBD been/VBN caused/VBN by/IN the/DT difference/NN in/IN waiting/VBG time/NN targets/NNS between/IN England/NNP and/CC Wales./NNP
+
+The/DT target/NN is/VBZ 12/CD months/NNS for/IN Welsh/NNP patients/NNS but/CC just/RB three/CD months/NNS in/IN England./NNP
+The/DT contract/NN with/IN the/DT Powys/NNP health/NN board/NN was/VBD worth/JJ £7m/CD a/DT year/NN for/IN the/DT hospital/NN and/CC accounts/VBZ for/IN 12%/CD of/IN its/PRP$ patients./NN
+In/IN a/DT statement/NN before/IN the/DT suspension/NN of/IN the/DT idea/NN the/DT Welsh/NNP Assembly/NNP Government/NNP said/VBD the/DT situation/NN was/VBD "unacceptable"./NN
+"But/NNP Powys/NNP Local/JJ Health/NNP Board/NNP is/VBZ committed/VBN to/TO ensuring/VBG our/PRP$ patients/NNS receive/VBP the/DT care/NN that/WDT is/VBZ appropriate"/NN said/VBN the/DT assembly/NN government./NN
+"Although/NN we/PRP will/MD be/VB challenging/VBG Hereford's/NNP decision/NN we/PRP will/MD put/VB in/IN place/NN appropriate/JJ care/NN for/IN our/PRP$ patients./NN
+They/PRP will/MD be/VB contacted/VBN by/IN their/PRP$ GPs/NNP in/IN the/DT next/JJ week."/NN Earlier/RBR David/NNP Rose/NNP Chief/NNP Executive/NNP of/IN Hereford/NNP Hospitals/NNPS NHS/NNP Trust/NNP had/VBD said/VBN "It/NN is/VBZ with/IN real/JJ regret/NN that/IN we/PRP have/VBP taken/VBN this/DT step./NN
+"We/NN want/VBP to/TO continue/VB providing/VBG an/DT excellent/JJ and/CC fast/RB service/NN to/TO Powys/NNP people/NNS but/CC can/MD only/RB do/VB this/DT if/IN we/PRP are/VBP paid/VBN to/TO provide/VB the/DT service./NN
+"In/NN 2005/CD our/PRP$ waiting/VBG time/NN will/MD fall/VB to/TO a/DT maximum/NN of/IN 6-months/JJ and/CC we/PRP want/VBP Powys/NNP people/NNS to/TO ask/VB to/TO be/VB referred/VBN to/TO our/PRP$ modern/JJ hospital./NN
+"We/NN appeal/NN to/TO Powys/NNP Local/JJ Health/NNP Board/NNP to/TO allow/VB Powys/NNP people/NNS to/TO choose/VB Hereford/NNP for/IN their/PRP$ treatment."/NN

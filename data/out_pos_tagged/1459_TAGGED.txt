@@ -1,0 +1,32 @@
+Rangers/NNS seal/NN Old/NNP Firm/NN win/NN
+
+Goals/NNS from/IN Gregory/NNP Vignal/NNP and/CC Nacho/NNP Novo/NNP gave/VBD Rangers/NNPS a/DT scrappy/JJ victory/NN at/IN Celtic/NNP Park/NNP that/IN moves/NNS them/PRP three/CD points/NNS clear/JJ of/IN the/DT champions./NN
+
+Rangers/NNS had/VBD rarely/RB threatened/VBN until/IN Celtic/NNP goalkeeper/NN Rab/NNP Douglas/NNP let/VB defender/NN Vignal's/NNP 25-yard/JJ drive/NN slip/NN through/IN his/PRP$ grasp/NN and/CC into/IN the/DT net./NN
+Opposite/JJ number/NN Ronald/NNP Waterreus/NNP had/VBD been/VBN Rangers'/NNP hero/NN saving/VBG superbly/RB from/IN Craig/NNP Bellamy/NNP and/CC John/NNP Hartson./NNP
+Striker/NNP Novo/NNP secured/VBD victory/NN lobbing/VBG Douglas/NNP with/IN eight/CD minutes/NNS remaining./NN
+It/PRP ended/VBD Celtic's/NNP 11-game/JJ unbeaten/JJ run/NN at/IN home/NN in/IN Old/NNP Firm/NN derbies/NNS and/CC gave/VBD Rangers/NNPS manager/NN Alex/NNP McLeish/NNP his/PRP$ first/JJ victory/NN at/IN the/DT home/NN of/IN his/PRP$ Glasgow/NNP rivals./NN
+Celtic/NNP had/VBD won/VBN their/PRP$ last/JJ six/CD meetings/NNS on/IN their/PRP$ home/NN pitch/NN including/VBG twice/RB already/RB this/DT season./NN
+They/PRP started/VBD confidently/RB with/IN new/JJ signing/NN Bellamy/NNP on/IN loan/NN from/IN Newcastle/NNP United/NNP given/VBN his/PRP$ Celtic/NNP debut/NN up/RP front/NN with/IN Wales/NNP international/JJ colleague/NN John/NNP Hartson/NNP and/CC Chris/NNP Sutton/NNP dropping/VBG into/IN midfield./NN
+It/PRP took/VBD Bellamy/NNP just/RB four/CD minutes/NNS to/TO threaten/VB taking/VBG on/RP Marvin/NNP Andrews/NNP before/IN delivering/VBG a/DT low/JJ drive/NN that/WDT was/VBD held/VBN by/IN Waterreus/NNP at/IN the/DT second/JJ attempt./NN
+He/PRP had/VBD an/DT even/RB better/JJR chance/NN after/IN Hartson/NNP dispossesed/JJ Sotiris/NNP Kyrgiakos/NNP and/CC sent/VBD his/PRP$ strike/NN partner/NN clear/JJ with/IN only/RB the/DT goalkeeper/NN to/TO beat./VB
+But/CC Waterreus/NNP did/VBD well/RB to/TO beat/VB away/RB Bellamy's/NNP disappointing/JJ low/JJ drive/NN from/IN 16/CD yards./NN
+Waterreus/NNP came/VBD to/TO the/DT rescue/NN again/RB when/WRB the/DT ball/NN fell/VBD to/TO Hartson/NNP just/RB inside/IN the/DT box/NN and/CC the/DT Dutch/JJ goalkeeper/NN made/VBD a/DT brave/NN block./NN
+It/PRP was/VBD an/DT Old/NNP Firm/NN return/NN for/IN Barry/NNP Ferguson/NNP as/IN McLeish/NNP stuck/VBD by/IN the/DT side/NN that/WDT thumped/VBD four/CD goals/NNS past/JJ Hibernian./NNP
+But/CC Rangers/NNPS found/VBD Celtic/NNP harder/JJR to/TO break/VB down/RP and/CC Douglas/NNP was/VBD not/RB threatened/VBN until/IN 10/CD minutes/NNS after/IN the/DT break./NN
+Dado/NNP Prso/NNP turned/VBD inside/IN Neil/NNP Lennon/NNP only/RB for/IN the/DT Celtic/NNP goalkeeper/NN to/TO beat/VB away/RB his/PRP$ powerful/JJ 18-yard/JJ drive./NN
+A/DT great/JJ defensive/JJ header/NN by/IN Andrews/NNP prevented/VBD Hartson/NNP pouncing/VBG from/IN five/CD yards/NNS out./NN
+Hartson/NNP foxed/VBD Vignal/NNP at/IN the/DT edge/NN of/IN the/DT Rangers/NNPS box/NN but/CC the/DT striker's/NNS shot/NN on/IN the/DT turn/NN was/VBD again/RB beaten/VBN away/RB by/IN Waterreus./NNP
+Rangers/NNS were/VBD beginning/VBG to/TO dominate/VB the/DT midfield/NN and/CC Vignal/NNP collecting/VBG a/DT knock/NN back/RB from/IN Fernando/NNP Ricksen/NNP broke/VBD the/DT deadlock/NN Douglas/NNP somehow/RB letting/VBG the/DT Frenchman's/NNP dipping/VBG drive/NN slip/NN through/IN his/PRP$ grasp./NN
+Novo/NNP pounced/VBD on/IN a/DT moments'/NN hesitation/NN in/IN the/DT Celtic/NNP defence/NN to/TO latch/VB on/RP to/TO a/DT long/JJ ball/NN from/IN Ricksen/NNP and/CC lob/VB the/DT ball/NN over/IN the/DT advancing/VBG Douglas./NNP
+Ricksen/NNP appeared/VBD to/TO be/VB hit/VBN by/IN a/DT coin/NN but/CC it/PRP could/MD not/RB prevent/VB Rangers'/NNP celebrations/NNS at/IN the/DT final/JJ whistle./NN
+
+Douglas/NNP McNamara/NNP Balde/NNP Varga/NNP Laursen/NNP Petrov/NNP Lennon/NNP Sutton/NNP Thompson/NNP Bellamy/NNP Hartson./NNP
+
+Subs/NNP Marshall/NNP Henchoz/NNP Juninho/NNP Paulista/NNP Lambert/NNP Maloney/NNP Wallace/NNP McGeady./NNP
+
+Waterreus/NNP Hutton/NNP Kyrgiakos/NNP Andrews/NNP Ball/NNP Buffel/NNP Ferguson/NNP Ricksen/NNP Vignal/NNP Prso/NNP Novo./NNP
+
+Subs/NNP McGregor/NNP Namouchi/NNP Burke/NNP Alex/NNP Rae/NNP Malcolm/NNP Thompson/NNP Lovenkrands./NNP
+
+M/NNP McCurry/NNP

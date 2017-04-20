@@ -1,0 +1,47 @@
+Peer-to-peer/NN nets/NNS 'here/NN to/TO stay'/VB
+
+Peer-to-peer/NNP (P2P)/CD networks/NNS are/VBP here/RB to/TO stay/VB and/CC are/VBP on/IN the/DT verge/NN of/IN being/VBG exploited/VBN by/IN commercial/JJ media/NNS firms/NNS says/VBZ a/DT panel/NN of/IN industry/NN experts./NN
+
+Once/RB several/JJ high-profile/JJ legal/JJ cases/NNS against/IN file-sharers/NNS are/VBP resolved/VBN this/DT year/NN firms/NNS will/MD be/VB very/RB keen/JJ to/TO try/VB and/CC make/VB money/NN from/IN P2P/CD technology./NN
+The/DT expert/NN panel/NN probed/VBD the/DT future/NN of/IN P2P/CD at/IN the/DT Consumer/NNP Electronics/NNP Show/NNP in/IN Las/NNP Vegas/NNP earlier/RBR in/IN January./NNP
+The/DT first/JJ convictions/NNS for/IN P2P/CD piracy/NN were/VBD handed/VBN out/RP in/IN the/DT US/PRP in/IN January./NNP
+William/NNP Trowbridge/NNP and/CC Michael/NNP Chicoine/NNP pleaded/VBD guilty/JJ to/TO charges/NNS that/IN they/PRP infringed/VBD copyright/NN by/IN illegally/RB sharing/VBG music/NN movies/NNS and/CC software./NN
+Since/IN the/DT first/JJ successful/JJ file-sharing/JJ network/NN Napster/NNP was/VBD forced/VBN to/TO close/VB down/RP the/DT entertainment/NN industry/NN has/VBZ been/VBN nervous/JJ and/CC critical/JJ of/IN P2P/CD technology/NN blaming/VBG it/PRP for/IN falling/VBG sales/NNS and/CC piracy./NN
+But/CC that/DT is/VBZ going/VBG to/TO change/VB very/RB soon/RB according/VBG to/TO the/DT panel./NN
+
+The/DT music/NN and/CC film/NN industries/NNS have/VBP started/VBN some/DT big/JJ legal/JJ cases/NNS against/IN owners/NNS of/IN legitimate/JJ P2P/CD networks/NNS -/: which/WDT are/VBP not/RB illegal/JJ in/IN themselves/PRP -/: and/CC of/IN individuals/NNS accused/VBN of/IN distributing/VBG pirated/VBN content/NN over/IN networks./NN
+But/CC they/PRP have/VBP slowly/RB realised/VBN that/IN P2P/CD is/VBZ a/DT good/JJ way/NN to/TO distribute/VB content/NN said/VBD Travis/NNP Kalanick/NNP founder/NN and/CC chairman/NN of/IN P2P/CD network/NN Red/NNP Swoosh/NNP and/CC soon/RB they/PRP are/VBP all/DT going/VBG to/TO want/VB a/DT slice/NN of/IN it./NN
+They/PRP are/VBP just/RB waiting/VBG to/TO come/VB up/RP with/IN "business/NN models"/NN that/WDT work/NN for/IN them/PRP which/WDT includes/VBZ digital/JJ rights/NNS management/NN and/CC copy-protection/JJ standards./NN
+
+But/CC until/IN the/DT legal/JJ actions/NNS are/VBP resolved/VBN experimentation/NN with/IN P2P/CD cannot/NN not/RB happen/VB said/VBD Michael/NNP Weiss/NNP president/NN of/IN StreamCast/NNP Networks./NNP
+Remembering/VBG the/DT furore/NN around/IN VCRs/NNS when/WRB they/PRP first/RB came/VBD out/RP Mr/NNP Weiss/NNP said/VBD "Old/NN media/NNS always/RB tries/VBZ to/TO stop/VB new/JJ media./NN
+"When/NN they/PRP can't/VBP stop/NN it/PRP they/PRP try/VBP to/TO control/VB it./NN
+Then/RB they/PRP figure/VBP out/RP how/WRB to/TO make/VB money/NN and/CC they/PRP always/RB make/VBP a/DT lot/NN of/IN money."/NN Once/RB the/DT courts/NNS decided/VBD that/IN the/DT VCR/NNP in/IN itself/PRP was/VBD not/RB an/DT illegal/JJ technology/NN the/DT film/NN studios/NNS turned/VBD it/PRP into/IN an/DT extremely/RB lucrative/JJ business./NN
+In/IN August/NNP 2004/CD the/DT San/NNP Francisco-based/JJ US/PRP Court/NNP of/IN Appeals/NNPS ruled/VBD in/IN favour/NN of/IN Grokster/NNP and/CC StreamCast/NNP two/CD file-sharing/JJ networks./NN
+The/DT court/NN said/VBD they/PRP were/VBD essentially/RB in/IN the/DT same/JJ position/NN that/IN Sony/NNP was/VBD in/IN the/DT 1980s/CD VCR/NNP battle/NN and/CC said/VBD that/IN the/DT networks/NNS themselves/PRP could/MD not/RB be/VB deemed/VBN as/IN illegal./NN
+
+P2P/CD networks/NNS usually/RB do/VBP not/RB rely/VB on/IN dedicated/VBN servers/NNS for/IN the/DT transfer/NN of/IN files./NN
+Instead/RB it/PRP uses/VBZ direct/JJ connections/NNS between/IN computers/NNS -/: or/CC clients./NN
+There/EX are/VBP now/RB many/JJ different/JJ types/NNS of/IN P2P/CD systems/NNS than/IN work/NN in/IN different/JJ ways./NN
+P2P/CD nets/NNS can/MD be/VB used/VBN to/TO share/VB any/DT kind/NN of/IN file/NN like/IN photos/NNS free/JJ software/NN licensed/VBD music/NN and/CC any/DT other/JJ digital/JJ content./NN
+The/DT BBC/NNP has/VBZ already/RB decided/VBN to/TO embrace/VB the/DT technology./NN
+It/PRP aims/VBZ to/TO offer/VB most/JJS of/IN its/PRP$ own/JJ programmes/NNS for/IN download/NN this/DT year/NN and/CC it/PRP will/MD use/VB P2P/CD technology/NN to/TO distribute/VB them./NN
+The/DT files/NNS would/MD be/VB locked/VBN seven/CD days/NNS after/IN a/DT programme/NN aired/VBD making/VBG rights/NNS management/VBP easier/JJR to/TO control./VB
+But/CC the/DT technology/NN is/VBZ still/RB demonised/VBN and/CC misunderstood/VBN by/IN many./NN
+The/DT global/JJ entertainment/NN industry/NN says/VBZ more/JJR than/IN 2.6/CD billion/CD copyrighted/VBN music/NN files/NNS are/VBP downloaded/VBN every/DT month/NN and/CC about/IN half/PDT a/DT million/CD films/NNS are/VBP downloaded/VBN a/DT day./NN
+Legal/NNP music/NN download/NN services/NNS like/IN Apple/NNP iTunes/NNS Napster/NNP have/VBP rushed/VBN into/IN the/DT music/NN marketplace/NN to/TO try/VB and/CC lure/VB file-sharers/NNS away/RB from/IN free/JJ content./NN
+Sales/NNS of/IN legally-downloaded/JJ songs/NNS grew/VBD tenfold/RB in/IN 2004/CD with/IN 200/CD million/CD tracks/VBZ bought/VBN online/NN in/IN the/DT US/PRP and/CC Europe/NNP in/IN 12/CD months/NNS the/DT IFPI/NNP reported/VBD this/DT week./NN
+But/CC such/JJ download/NN services/NNS are/VBP very/RB different/JJ from/IN P2P/CD networks/NNS not/RB least/JJS because/IN of/IN the/DT financial/JJ aspect./NN
+
+There/EX are/VBP several/JJ money-spinning/JJ models/NNS that/WDT could/MD turn/VB P2P/CD into/IN a/DT golden/JJ egg/NN for/IN commercial/JJ entertainment/NN companies./NN
+Paid-for-pass-along/NNP in/IN which/WDT firms/NNS receive/VBP money/NN each/DT time/NN a/DT file/NN is/VBZ shared/VBN along/IN with/IN various/JJ DRM/NNP solutions/NNS and/CC advertiser-based/JJ options/NNS are/VBP all/DT being/VBG considered./NN
+"We/NN see/NN there/EX are/VBP going/VBG to/TO be/VB different/JJ models/NNS for/IN commoditising/VBG P2P"/CD said/VBD Marc/NNP Morgenstern/NNP vice/NN president/NN of/IN anti-piracy/JJ firm/NN Overpeer./NNP
+
+"Consumers/NN are/VBP hungry/JJ for/IN it/PRP and/CC we/PRP will/MD discover/VB new/JJ models/NNS together"/NN agreed/VBD Mr/NNP Morgenstern./NNP
+But/CC many/JJ net/JJ users/NNS will/MD continue/VB to/TO ignore/VB the/DT entertainment/NN industry's/NNS potential/JJ controlling/NN grip/NN on/IN content/NN and/CC P2P/CD technology/NN by/IN continuing/VBG to/TO use/VB it/PRP for/IN their/PRP$ own/JJ creations./NN
+Unsigned/JJ bands/NNS for/IN example/NN use/NN P2P/CD networks/NNS to/TO distribute/VB their/PRP$ music/NN effectively/RB which/WDT also/RB draws/VBZ the/DT attention/NN of/IN record/NN companies/NNS looking/VBG for/IN new/JJ artists/NNS to/TO sign./VB
+"Increasingly/RB what/WP you/PRP are/VBP seeing/VBG on/IN P2P/CD is/VBZ consumer-created/JJ content"/NN said/VBD Derek/NNP Broes/NNP from/IN Microsoft./NNP
+"They/NN will/MD probably/RB play/VB an/DT increasing/VBG role/NN in/IN helping/VBG P2P/CD spread"/NN he/PRP said./VB
+Looking/VBG into/IN P2P's/CD future/JJ file/NN sharing/VBG is/VBZ just/RB the/DT beginning/NN for/IN P2P/CD networks/NNS as/RB far/RB as/IN Mr/NNP Broes/NNP is/VBZ concerned./NN
+"Once/NN some/DT of/IN these/DT issues/NNS are/VBP resolved/VBN you/PRP are/VBP going/VBG to/TO see/VB aggressive/JJ movement/NN to/TO protect/VB content/NN but/CC also/RB in/IN ways/NNS that/WDT are/VBP unimaginable/JJ now"/NN he/PRP said./VB
+"File-sharing/JJ is/VBZ the/DT tip/NN of/IN the/DT iceberg."/NN

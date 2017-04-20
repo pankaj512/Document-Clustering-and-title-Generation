@@ -1,0 +1,19 @@
+Chinese/JJ dam/NN firm/JJ 'defies/NN Beijing'/NNP
+
+The/DT China/NNP Three/CD Gorges/NNP Project/NNP Corp/NNP is/VBZ refusing/VBG to/TO obey/VB a/DT government/NN order/NN to/TO stop/VB construction/NN of/IN one/CD of/IN its/PRP$ giant/JJ dams/NNS the/DT Chinese/JJ state/NN press/NN has/VBZ said./NN
+
+The/DT builder/NN of/IN the/DT Three/CD Gorges/NNP Dam/NN is/VBZ continuing/VBG work/NN on/IN the/DT sister/NN Xiluodu/NNP dam/NN said/VBD the/DT Beijing/NNP News./NNP
+The/DT Xiluodu/NNP dam/NN is/VBZ one/CD of/IN 30/CD such/JJ large-scale/JJ construction/NN projects/NNS called/VBN to/TO a/DT halt/NN because/IN of/IN a/DT lack/NN of/IN proper/JJ environmental/JJ checks./NN
+The/DT Beijing/NNP News/NNP said/VBD the/DT company/NN may/MD instead/RB choose/VB to/TO pay/VB a/DT fine./NN
+The/DT firm/NN has/VBZ also/RB ignored/VBN orders/NNS to/TO stop/VB construction/NN at/IN two/CD of/IN its/PRP$ other/JJ projects/NNS -/: the/DT Three/CD Gorges/NNP Underground/JJ Power/NNP Plant/NNP and/CC the/DT Three/CD Gorges/NNP Project/NNP Electrical/JJ Power/NNP Supply/NNP Plant./NNP
+
+So/RB far/RB only/RB 22/CD of/IN the/DT 30/CD construction/NN projects/NNS targeted/VBN by/IN China's/NNP State/NNP Environmental/NNP Protection/NNP Agency/NNP (Sepa)/NN for/IN having/VBG not/RB carried/VBD out/RP mandatory/JJ environmental/JJ impact/NN assessments/NNS have/VBP complied/VBN with/IN its/PRP$ shutdown/NN order./NN
+The/DT China/NNP Three/CD Gorges/NNP Project/NNP Corp/NNP could/MD now/RB face/VB a/DT fine/NN up/IN to/TO 200000/CD yuan/NN ($24000/CD £12700)./CD
+Last/JJ week/NN it/PRP denied/VBD that/IN its/PRP$ projects/NNS violated/VBD regulations./NN
+"The/NN Three/CD Gorges/NNP Corporation/NNP has/VBZ all/DT along/IN abided/VBN by/IN the/DT law/NN and/CC have/VBP built/VBN our/PRP$ projects/NNS in/IN accordance/NN with/IN the/DT law"/NN it/PRP said./NN
+
+The/DT Sepa/NNP order/NN comes/VBZ as/IN the/DT Chinese/JJ government/NN appears/VBZ to/TO be/VB trying/VBG to/TO cool/VB the/DT country's/NNS booming/JJ economy./NN
+Previously/RB it/PRP has/VBZ encouraged/VBN construction/NN of/IN new/JJ electricity/NN generating/VBG capacity/NN to/TO solve/VB chronic/JJ energy/NN shortages/NNS which/WDT forced/VBD many/JJ factories/NNS into/IN part-time/JJ working/VBG last/JJ year./NN
+In/IN 2004/CD China/NNP increased/VBN its/PRP$ generating/VBG capacity/NN by/IN 12.6%/CD to/TO 440700/CD megawatts/NNS (MW)./NN
+The/DT Xiluodu/NNP Dam/NN is/VBZ designed/VBN to/TO produce/VB 12600/CD MW/NNP of/IN electricity/NN and/CC is/VBZ being/VBG built/VBN on/IN the/DT Jinshajiang/NNP -/: or/CC "river/NN of/IN golden/JJ sand"/NN as/IN the/DT upper/JJ reaches/NNS of/IN the/DT Yangtze/NNP are/VBP known./NN
+It/PRP is/VBZ a/DT sister/NN project/NN to/TO the/DT main/JJ Three/CD Gorges/NNP Dam/NN downstream/JJ where/WRB more/JJR than/IN half/PDT a/DT million/CD people/NNS have/VBP had/VBN to/TO be/VB relocated/VBN drawing/VBG criticism/NN from/IN environmental/JJ groups/NNS and/CC overseas/JJ human/JJ rights/NNS activists./NN

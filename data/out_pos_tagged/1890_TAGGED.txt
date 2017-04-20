@@ -1,0 +1,27 @@
+Kenyan/NNP school/NN turns/VBZ to/TO handhelds/NNS
+
+At/IN the/DT Mbita/NNP Point/NNP primary/JJ school/NN in/IN western/JJ Kenya/NNP students/NNS click/NN away/RB at/IN a/DT handheld/JJ computer/NN with/IN a/DT stylus./NN
+
+They/PRP are/VBP doing/VBG exercises/VBZ in/IN their/PRP$ school/NN textbooks/NNS which/WDT have/VBP been/VBN digitised./VBG
+It/PRP is/VBZ a/DT pilot/NN project/NN run/NN by/IN EduVision/NNP which/WDT is/VBZ looking/VBG at/IN ways/NNS to/TO use/VB low/JJ cost/NN computer/NN systems/NNS to/TO get/VB up-to-date/JJ information/NN to/TO students/NNS who/WP are/VBP currently/RB stuck/VBN with/IN ancient/JJ textbooks./NN
+Matthew/NNP Herren/NNP from/IN EduVision/NNP told/VBD the/DT BBC/NNP programme/NN Go/VB Digital/NNP how/WRB the/DT non-governmental/JJ organisation/NN uses/VBZ a/DT combination/NN of/IN satellite/NN radio/NN and/CC handheld/JJ computers/NNS called/VBN E-slates./NNP
+"The/NNP E-slates/NNP connect/VBP via/IN a/DT wireless/JJ connection/NN to/TO a/DT base/NN station/NN in/IN the/DT school./NN
+This/DT in/IN turn/NN is/VBZ connected/VBN to/TO a/DT satellite/NN radio/NN receiver./NN
+The/DT data/NNS is/VBZ transmitted/VBN alongside/IN audio/JJ signals."/NN The/DT base/NN station/NN processes/VBZ the/DT information/NN from/IN the/DT satellite/NN transmission/NN and/CC turns/VBZ it/PRP into/IN a/DT form/NN that/WDT can/MD be/VB read/VBN by/IN the/DT handheld/JJ E-slates./NNP
+"It/NN downloads/NNS from/IN the/DT satellite/NN and/CC every/DT day/NN processes/VBZ the/DT stream/NN sorts/NNS through/IN content/NN for/IN the/DT material/NN destined/VBN for/IN the/DT users/NNS connected/VBN to/TO it./VB
+It/PRP also/RB stores/VBZ this/DT on/IN its/PRP$ hard/JJ disc."/JJ
+
+The/DT system/NN is/VBZ cheaper/JJR than/IN installing/VBG and/CC maintaining/VBG an/DT internet/JJ connection/NN and/CC conventional/JJ computer/NN network./NN
+But/CC Mr/NNP Herren/NNP says/VBZ there/EX are/VBP both/DT pros/NNS and/CC cons/NNS to/TO the/DT project./NN
+"It's/NN very/RB simple/JJ to/TO set/VB up/RP just/RB a/DT satellite/NN antenna/NN on/IN the/DT roof/NN of/IN the/DT school/NN but/CC it's/NNS also/RB a/DT one-way/JJ connection/NN so/RB getting/VBG feedback/NN or/CC specific/JJ requests/NNS from/IN end/NN users/NNS is/VBZ difficult."/NN
+
+The/DT project/NN is/VBZ still/RB at/IN the/DT pilot/NN stage/NN and/CC EduVision/NNP staff/NN are/VBP on/IN the/DT ground/NN to/TO attend/VB to/TO teething/VBG problems/NNS with/IN the/DT Linux-based/JJ system./NN
+"The/NN content/NN is/VBZ divided/VBN into/IN visual/JJ information/NN textual/JJ information/NN and/CC questions./NN
+Users/NNS can/MD scroll/VB through/IN these/DT sections/NNS independently/RB of/IN each/DT other."/NN EduVision/NNP is/VBZ planning/VBG to/TO include/VB audio/JJ and/CC video/NN files/NNS as/IN the/DT system/NN develops/VBZ and/CC add/VB more/JJR content./NN
+Mr/NNP Herren/NNP says/VBZ this/DT would/MD vastly/RB increase/VB the/DT opportunities/NNS available/JJ to/TO the/DT students./NN
+He/PRP is/VBZ currently/RB in/IN negotiations/NNS to/TO take/VB advantage/NN of/IN a/DT project/NN being/VBG organised/VBN by/IN search/NN site/NN Google/NNP to/TO digitise/VB some/DT of/IN the/DT world's/NNS largest/JJS university/NN libraries./NN
+"All/NN books/NNS in/IN the/DT public/JJ domain/NN something/NN like/IN 15/CD million/CD could/MD be/VB put/VBN on/IN the/DT base/NN stations/NNS as/IN we/PRP manufacture/VBP them./NN
+Then/RB every/DT rural/JJ school/NN in/IN Africa/NNP would/MD have/VB access/NN to/TO the/DT same/JJ libraries/NNS as/IN the/DT students/NNS in/IN Oxford/NNP and/CC Harvard"/NNP Currently/RB the/DT project/NN is/VBZ operating/VBG in/IN an/DT area/NN where/WRB there/EX is/VBZ mains/NNS electricity./NN
+But/CC Mr/NNP Herren/NNP says/VBZ EduVision/NNP already/RB has/VBZ plans/NNS to/TO extend/VB it/PRP to/TO more/RBR remote/JJ regions./NN
+"We/NN plan/NN to/TO put/VB a/DT solar/JJ panel/NN at/IN the/DT school/NN with/IN the/DT base/NN station/NN have/VBP the/DT E-slates/NNP charge/NN during/IN the/DT day/NN when/WRB the/DT children/NNS are/VBP in/IN school/NN then/RB they/PRP can/MD take/VB them/PRP home/NN at/IN night/NN and/CC continue/VB working."/NN Maciej/NNP Sundra/NNP who/WP designed/VBD the/DT user/NN interface/JJ for/IN the/DT E-slates/NNP says/VBZ the/DT project's/NNS ultimate/JJ goal/NN is/VBZ levelling/VBG access/NN to/TO knowledge/NN around/IN the/DT world./NN
+"Why/NN in/IN this/DT age/NN when/WRB most/JJS people/NNS do/VBP most/JJS research/NN using/VBG the/DT internet/JJ are/VBP students/NNS still/RB using/VBG textbooks?/NN The/DT fact/NN that/IN we/PRP are/VBP doing/VBG this/DT in/IN a/DT rural/JJ developing/JJ country/NN is/VBZ very/RB exciting/JJ -/: as/IN they/PRP need/VBP it/PRP most."/NN

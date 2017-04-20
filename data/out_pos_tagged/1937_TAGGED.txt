@@ -1,0 +1,33 @@
+Viewers/NNS to/TO be/VB able/JJ to/TO shape/VB TV/NN
+
+Imagine/VB editing/NN Titanic/NNP down/RB to/TO watch/VB just/RB your/PRP$ favourite/NN bits/NNS or/CC cutting/VBG out/RP the/DT slushier/NN moments/NNS of/IN Star/NNP Wars/NNS to/TO leave/VB you/PRP with/IN a/DT bare/JJ bones/NNS action-fest./JJ
+
+Manipulating/NNP your/PRP$ favourite/NN films/NNS to/TO make/VB a/DT more/RBR personalised/JJ movie/NN is/VBZ just/RB the/DT beginning/NN of/IN an/DT ambitious/JJ new/JJ 7.5m/CD euro/NN (£5.1m)/CD project/NN funded/VBN by/IN the/DT European/NNP Union./NNP
+New/NNP Media/NNP for/IN a/DT New/NNP Millennium/NNP (NM2)/CD will/MD have/VB as/RB its/PRP$ endgame/NN the/DT development/NN of/IN a/DT completely/RB new/JJ media/NNS genre/NN which/WDT will/MD allow/VB audiences/NNS to/TO create/VB their/PRP$ own/JJ media/NNS worlds/NNS based/VBN on/IN their/PRP$ specific/JJ interests/NNS or/CC tastes./NN
+Viewers/NNS will/MD be/VB able/JJ to/TO participate/VB in/IN storylines/NNS manipulate/VBP plots/NNS and/CC even/RB the/DT sets/NNS and/CC props/NNS of/IN TV/NN shows./NN
+BT/NNP is/VBZ one/CD of/IN 13/CD partners/NNS involved/VBN in/IN the/DT project./NN
+It/PRP will/MD be/VB contributing/VBG software/NN that/WDT was/VBD originally/RB designed/VBN to/TO spot/VB anomalies/NNS in/IN CCTV/NNP pictures./NN
+The/DT software/NN uses/VBZ content/NN recognition/NN algorithms./NN
+The/DT three-year/JJ project/NN will/MD work/VB on/IN seven/CD productions/NNS as/IN it/PRP develops/VBZ a/DT set/NN of/IN software/NN tools/NNS that/WDT will/MD allow/VB viewers/NNS to/TO edit/VB content/JJ to/TO their/PRP$ needs./NN
+
+One/CD of/IN the/DT productions/NNS will/MD be/VB a/DT experimental/JJ television/NN show/NN where/WRB the/DT plot/NN will/MD be/VB driven/VBN by/IN text/NN messages/NNS from/IN the/DT TV/NN audience./NN
+
+Participants/NNS will/MD text/VB selected/VBN words/NNS which/WDT will/MD impact/VB how/WRB the/DT characters/NNS in/IN the/DT drama/NN interact./JJ
+It/PRP is/VBZ being/VBG developed/VBN in/IN Finland/NNP and/CC will/MD be/VB shown/VBN to/TO Finnish/JJ TV/NN audiences./NN
+Another/DT team/NN will/MD work/VB on/IN the/DT BBC's/NNP big/JJ budget/NN drama/NN of/IN Mervyn/NNP Peake's/NNP gothic/JJ fantasy/NN Gormenghast./NNP
+It/PRP will/MD be/VB re-engineered/JJ to/TO allow/VB people/NNS to/TO choose/VB a/DT variety/NN of/IN edited/VBN versions./NN
+"The/NNP BBC/NNP is/VBZ allowing/VBG us/PRP access/NN to/TO the/DT material/NN so/IN that/IN we/PRP can/MD prove/VB the/DT technology/NN and/CC the/DT principles"/NN explained/VBD Dr/NNP Doug/NNP Williams/NNP of/IN BT/NNP who/WP will/MD be/VB NM2's/CD technical/JJ project/NN manager./NN
+"The/NN TV/NN at/IN the/DT moment/NN is/VBZ a/DT relatively/RB dumb/JJ box/NN which/WDT receives/VBZ signals./NN
+This/DT project/NN is/VBZ about/IN teaching/NN the/DT machine/NN to/TO look/VB at/IN content/NN like/IN Lego/NNP blocks/NNS that/WDT can/MD be/VB reassembled/VBN to/TO make/VB perfect/JJ sense"/NN he/PRP said./VB
+"At/NN the/DT moment/NN we/PRP have/VBP interactive/JJ gaming/NN and/CC a/DT limited/VBN form/NN of/IN interactive/JJ TV/NN which/WDT usually/RB means/VBZ allowing/VBG audiences/NNS to/TO vote/VB on/IN shows./NN
+We/PRP are/VBP hoping/VBG to/TO occupy/VB the/DT space/NN in-between"/JJ he/PRP added./VB
+
+NM2's/CD co-ordinator/JJ Peter/NNP Stollenmayer/NNP explained/VBD that/IN the/DT new/JJ genre/NN would/MD radically/RB alter/VB the/DT role/NN of/IN the/DT audience./NN
+
+"Viewers/NN will/MD be/VB able/JJ to/TO interact/JJ directly/RB with/IN the/DT medium/NN and/CC influence/NN what/WP they/PRP see/VBP and/CC hear/VB according/VBG to/TO their/PRP$ personal/JJ tastes/NNS and/CC wishes"/NN he/PRP said./VB
+"Media/NN users/NNS will/MD no/RB longer/RB be/VB passive/JJ viewers/NNS but/CC become/VB active/JJ engagers."/NN It/PRP will/MD also/RB be/VB important/JJ that/IN the/DT tools/NNS are/VBP sophisticated/JJ enough/RB to/TO obey/VB the/DT complex/JJ rules/NNS of/IN cinematography/NN and/CC editing/NN said/VBD John/NNP Wyver/NNP from/IN TV/NN producer/NN Illuminations/NNP Television/NNP Limited/NNP which/WDT is/VBZ also/RB involved/VBN in/IN the/DT project./NN
+"It's/NN not/RB just/RB a/DT matter/NN of/IN stringing/VBG together/RB the/DT romantic/JJ or/CC action/NN portions/NNS of/IN a/DT production"/NN said/VBD Mr/NNP Wyver./NNP
+"The/NN tool/NN has/VBZ to/TO know/VB which/WDT bits/NNS fit/VBP together/RB both/DT visually/RB by/IN observing/VBG the/DT time-honoured/JJ rules/NNS that/WDT go/VBP in/IN editing/NN and/CC in/IN terms/NNS of/IN the/DT story."/NN "Only/RB then/RB will/MD the/DT personalised/VBN version/NN both/DT make/VBP sense/NN and/CC be/VB aesthetically/RB pleasing"/NN he/PRP added./VB
+Mr/NNP Wyver/NNP is/VBZ planning/VBG a/DT production/NN entitled/VBD The/DT Golden/NNP Age/NNP about/IN Renaissance/NNP art./NN
+It/PRP will/MD allow/VB viewers/NNS to/TO create/VB a/DT so-called/JJ media/NNS world/NN based/VBN on/IN their/PRP$ own/JJ specific/JJ areas/NNS of/IN interest/NN such/JJ as/IN poetry/NN music/NN and/CC architecture./NN
+Other/JJ productions/NNS that/IN the/DT NM2/CD team/NN will/MD make/VB range/VBP from/IN news/NN documentaries/NNS to/TO a/DT romantic/JJ comedy/NN drama./NN

@@ -1,0 +1,25 @@
+Bank/NN opts/NNS to/TO leave/VB rates/NNS on/IN hold/NN
+
+The/DT Bank/NNP of/IN England/NNP has/VBZ left/VBN interest/NN rates/NNS on/IN hold/NN at/IN 4.75%/CD for/IN a/DT sixth/JJ month/NN in/IN a/DT row./NN
+
+The/DT Bank's/NNP Monetary/NNP Policy/NNP Committee/NNP (MPC)/NN decided/VBD to/TO take/VB no/DT action/NN amid/IN mixed/JJ signals/NNS from/IN the/DT economy./NN
+But/CC some/DT economists/NNS predict/VBP a/DT further/JJ rise/NN in/IN the/DT cost/NN of/IN borrowing/NN will/MD come/VB later/RB this/DT year./NN
+Interest/NN rates/NNS rose/VBD five/CD times/NNS between/IN November/NNP 2003/CD and/CC August/NNP 2004/CD as/IN soaring/VBG house/NN prices/NNS and/CC buoyant/JJ consumer/NN data/NNS sparked/VBD inflation/NN fears./NN
+Bank/NNP of/IN England/NNP governor/NN Mervyn/NNP King/NNP has/VBZ recently/RB warned/VBN against/IN placing/VBG too/RB much/JJ weight/NN on/IN one/CD month's/NNS economic/JJ data/NNS suggesting/VBG the/DT MPC/NNP is/VBZ waiting/VBG for/IN a/DT clearer/JJR picture/NN to/TO emerge./VB
+Economists/NNS see/VBP next/JJ week's/NNS inflation/NN report/NN from/IN the/DT MPC/NNP as/IN key/JJ in/IN assessing/VBG whether/IN a/DT further/JJ interest/NN rate/NN rise/NN is/VBZ necessary/JJ to/TO keep/VB the/DT economy/NN in/IN check./NN
+
+Slower/JJR consumer/NN spending/NN and/CC a/DT quieter/NN housing/NN market/NN are/VBP likely/JJ to/TO have/VB convinced/VBN the/DT MPC/NNP that/IN rates/NNS should/MD be/VB left/VBN unchanged/JJ in/IN recent/JJ months./NN
+Inflation/NN however/RB has/VBZ been/VBN rising/VBG faster/RBR than/IN expected/VBN hitting/VBG an/DT annual/JJ rate/NN of/IN 1.6%/CD in/IN December/NNP -/: its/PRP$ highest/JJS level/NN in/IN six/CD months./NN
+Data/NNP on/IN Wednesday/NNP also/RB showed/VBD manufacturing/NN output/NN rose/VBD at/IN its/PRP$ fastest/JJS rate/NN since/IN May/NNP last/JJ month/NN reinforcing/VBG a/DT view/NN that/IN economic/JJ growth/NN was/VBD stronger/JJR than/IN forecasts./NN
+
+And/CC recent/JJ house/NN surveys/NNS from/IN the/DT Halifax/NNP and/CC Nationwide/NNP have/VBP indicated/VBN prices/NNS are/VBP still/RB rising/VBG albeit/IN at/IN a/DT slower/JJR pace/NN than/IN in/IN recent/JJ years./NN
+Philip/NNP Shaw/NNP chief/NN economist/NN at/IN Investec/NNP Securities/NNPS said/VBD he/PRP believed/VBD rates/NNS would/MD remain/VB at/IN 4.75%/CD for/IN the/DT rest/NN of/IN the/DT year/NN although/IN strong/JJ economic/JJ data/NNS could/MD lead/VB to/TO a/DT further/JJ hike./NN
+"The/JJ economic/JJ landscape/NN has/VBZ changed/VBN quite/RB considerably/RB over/IN the/DT last/JJ couple/NN of/IN months/NNS ''/'' he/PRP said./VB
+"Growth/NN appears/VBZ stronger/JJR and/CC the/DT MPC/NNP may/MD become/VB more/RBR concerned/JJ about/IN inflation/NN trends."/NN Howard/NNP Archer/NNP economist/NN at/IN Global/JJ Insight/NNP said/VBD the/DT MPC/NNP "may/NN well/RB consider/VB that/IN the/DT balance/NN of/IN risks/NNS to/TO the/DT growth/NN and/CC inflation/NN outlook/NN have/VBP moved/VBN from/IN the/DT downside/NN to/TO the/DT upside"./NN
+
+Business/NN groups/NNS welcomed/VBD the/DT MPC's/NNP widely-expected/JJ move/NN to/TO leave/VB rates/NNS on/IN hold/NN and/CC cautioned/VBD against/IN further/JJ rises./NN
+The/DT British/NNP Chambers/NNP of/IN Commerce/NNP (BCC)/NN said/VBD it/PRP was/VBD "concerned/VBN by/IN the/DT clamour/NN in/IN some/DT quarters"/NN for/IN early/JJ interest/NN rate/NN increases./NN
+"We/NN believe/VBP that/IN these/DT demands/NNS should/MD be/VB firmly/RB resisted"/NN said/VBD David/NNP Frost/NNP BCC/NNP director/NN general./NN
+"Manufacturing/VBG still/RB faces/VBZ extremely/RB serious/JJ problems/NNS and/CC is/VBZ performing/VBG poorly/RB in/IN spite/NN of/IN the/DT recent/JJ revised/VBN figures."/NN Ian/NNP McCafferty/NNP chief/NN economist/NN at/IN the/DT CBI/NNP said/VBD the/DT MPC/NNP faced/VBD an/DT "interesting"/NN challenge./NN
+"Consumers/NN appear/VBP to/TO have/VB pulled/VBN in/IN their/PRP$ horns/NNS over/IN the/DT holiday/NN period/NN and/CC exporters/NNS are/VBP struggling/VBG with/IN the/DT strength/NN of/IN sterling"/NN he/PRP said./VB
+"However/NN the/DT broader/JJR economy/NN continues/VBZ to/TO show/VB healthy/JJ growth/NN and/CC the/DT tight/JJ labour/NN market/NN and/CC buoyant/JJ commodity/NN prices/NNS are/VBP nudging/VBG inflation/NN higher."/NN

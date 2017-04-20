@@ -1,0 +1,28 @@
+S/NNP Korea/NNP spending/NN boost/NN to/TO economy/VB
+
+South/NNP Korea/NNP will/MD boost/VB state/NN spending/NN next/JJ year/NN in/IN an/DT effort/NN to/TO create/VB jobs/NNS and/CC kick/VBP start/VB its/PRP$ sputtering/VBG economy./NN
+
+It/PRP has/VBZ earmarked/VBN 100/CD trillion/CD won/VBD ($96bn)/CD for/IN the/DT first/JJ six/CD months/NNS of/IN 2005/CD 60%/CD of/IN its/PRP$ total/JJ annual/JJ budget./NN
+The/DT government's/NNS main/JJ problems/NNS are/VBP "slumping/VBG consumption/NN and/CC a/DT contraction/NN in/IN the/DT construction/NN industry"./NN
+It/PRP aims/VBZ to/TO create/VB 400000/CD jobs/NNS and/CC will/MD focus/VB on/IN infrastructure/NN and/CC home/NN building/NN as/RB well/RB as/IN providing/VBG public/JJ firms/NNS with/IN money/NN to/TO hire/VB new/JJ workers./NN
+
+The/DT government/NN has/VBZ set/VBN an/DT economic/JJ growth/NN rate/NN target/NN of/IN 5%/CD for/IN next/JJ year/NN and/CC hinted/VBD that/WDT would/MD be/VB in/IN danger/NN unless/IN it/PRP took/VBD action./NN
+"Internal/JJ and/CC external/JJ economic/JJ conditions/NNS are/VBP likely/JJ to/TO remain/VB unfavourable/JJ in/IN 2005"/CD the/DT Finance/NNP and/CC Economy/NNP Ministry/NNP said/VBD in/IN a/DT statement./NN
+
+It/PRP blamed/VBD "continuing/VBG uncertainties/NNS such/JJ as/IN fluctuating/VBG oil/NN prices/NNS and/CC foreign/JJ exchange/NN rates/NNS and/CC stagnant/JJ domestic/JJ demand/NN that/WDT has/VBZ shown/VBN few/JJ signs/NNS of/IN a/DT quick/JJ rebound"./NN
+In/IN 2004/CD growth/NN will/MD be/VB between/IN 4.7%/CD and/CC 4.8%/CD the/DT ministry/NN said./NN
+Not/RB everyone/NN is/VBZ convinced/VBN the/DT plan/NN will/MD work./VB
+"Our/NN primary/JJ worry/VBP centres/NNS on/IN the/DT what/WP we/PRP believe/VBP is/VBZ the/DT government's/NNS overly/RB optimistic/JJ view/NN that/IN its/PRP$ front/NN loading/NN of/IN the/DT budget/NN will/MD be/VB enough/RB to/TO turn/VB the/DT economy/NN around"/NN consultancy/NN 4Cast/CD said/VBD in/IN a/DT report./NN
+
+The/DT problem/NN facing/VBG South/NNP Korea/NNP is/VBZ that/IN many/JJ consumers/NNS are/VBP reeling/VBG from/IN the/DT effects/NNS of/IN a/DT credit/NN bubble/NN that/IN only/RB recently/RB burst./NN
+Millions/NNS of/IN South/NNP Koreans/NNPS are/VBP defaulting/VBG on/IN their/PRP$ credit/NN card/NN bills/NNS and/CC the/DT country's/NNS biggest/JJS card/NN lender/NN has/VBZ been/VBN hovering/VBG on/IN the/DT verge/NN of/IN bankruptcy/NN for/IN months./NN
+As/IN part/NN of/IN its/PRP$ spending/NN plans/NNS the/DT government/NN said/VBD it/PRP will/MD ask/VB firms/NNS to/TO "roll/VB over/IN mortgage/NN loans/NNS that/WDT come/NN due/JJ in/IN the/DT first/JJ half/NN of/IN 2005"/CD ./.
+It/PRP also/RB pledged/VBD to/TO look/VB at/IN ways/NNS of/IN helping/VBG families/NNS on/IN low/JJ incomes./NN
+
+The/DT government/NN voiced/VBD concern/NN about/IN the/DT effect/NN of/IN redundancies/NNS in/IN the/DT building/NN trade./NN
+"Given/NN the/DT economic/JJ spill/NN over/RB and/CC employment/NN effect/NN in/IN the/DT construction/NN sector/NN a/DT sharp/JJ downturn/NN in/IN the/DT construction/NN industry/NN could/MD have/VB other/JJ adverse/JJ effects"/NN the/DT ministry/NN said./NN
+
+As/IN a/DT result/NN South/NNP Korea/NNP will/MD give/VB private/JJ companies/NNS also/RB will/MD be/VB given/VBN the/DT chance/NN to/TO build/VB schools/NNS hospitals/NNS houses/NNS and/CC other/JJ public/JJ buildings./NN
+It/PRP also/RB will/MD look/VB at/IN real/JJ estate/NN tax/NN system./NN
+Other/JJ plans/NNS on/IN the/DT table/NN include/VBP promoting/VBG new/JJ industries/NNS such/JJ as/IN bio-technology/JJ and/CC nano-technology/JJ as/RB well/RB as/IN offering/VBG increased/VBD support/NN to/TO small/JJ and/CC medium/NN sized/VBD businesses./NN
+"The/NN focus/NN will/MD be/VB on/IN job/NN creation/NN and/CC economic/JJ recovery/NN given/VBN that/IN unfavourable/JJ domestic/JJ and/CC global/JJ conditions/NNS are/VBP likely/JJ to/TO dog/VB the/DT Korean/JJ economy/NN in/IN 2005"/CD the/DT ministry/NN said./NN

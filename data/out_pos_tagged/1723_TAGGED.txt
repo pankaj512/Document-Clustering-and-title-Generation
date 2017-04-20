@@ -1,0 +1,17 @@
+Taylor/NNP poised/VBD for/IN Scotland/NNP return/NN
+
+Simon/NNP Taylor/NNP has/VBZ been/VBN named/VBN in/IN the/DT Scotland/NNP squad/NN for/IN Saturday's/NNP Six/CD Nations/NNPS clash/NN with/IN Italy./NNP
+
+The/DT 25-year-old/JJ number/NN eight/CD made/VBD a/DT scoring/VBG return/NN for/IN Edinburgh/NNP at/IN the/DT weekend/NN -/: his/PRP$ first/JJ game/NN in/IN a/DT year/NN for/IN the/DT capital/NN side./NN
+Taylor/NNP suffered/VBD knee/NN ligament/NN damage/NN playing/VBG against/IN Ireland/NNP in/IN Dublin/NNP in/IN the/DT 2004/CD Six/CD Nations/NNPS championship./NN
+"Simon/NN is/VBZ one/CD of/IN Scotland's/NNP truly/RB world/NN class/NN players/NNS so/IN it/PRP is/VBZ a/DT huge/JJ bonus"/NN said/VBD team-mate/JJ Chris/NNP Paterson./NNP
+"He/NN brings/VBZ a/DT whole/JJ new/JJ dimension/NN to/TO us/PRP especially/RB in/IN defence/NN and/CC his/PRP$ ability/NN to/TO slow/VB the/DT opposition/NN ball/NN down/RP could/MD be/VB key/JJ against/IN Italy/NNP if/IN he/PRP is/VBZ involved."/NN Taylor/NNP has/VBZ turned/VBN out/RP for/IN English/JJ side/NN Saracens/NNP in/IN recent/JJ weeks/NNS during/IN a/DT short-term/JJ loan/NN to/TO improve/VB his/PRP$ fitness./NN
+
+Edinburgh/NNP were/VBD not/RB in/IN action/NN during/IN the/DT first/JJ two/CD weeks/NNS of/IN this/DT season's/NNS Six/CD Nations./NNP
+So/RB Taylor/NNP played/VBD the/DT last/JJ 20/CD minutes/NNS of/IN Saracens'/NNP win/VB over/IN Northampton/NNP and/CC then/RB 40/CD minutes/NNS in/IN a/DT friendly/NN against/IN South/NNP African/NNP Super/NNP 12/CD side/NN The/DT Cats./NNP
+Scotland/NNP coach/NN Matt/NNP Williams/NNP is/VBZ due/JJ to/TO name/NN his/PRP$ match-day/JJ 22/CD on/IN Thursday./NNP
+Both/DT Scotland/NNP and/CC Italy/NNP have/VBP lost/VBN their/PRP$ opening/NN two/CD Six/CD Nations/NNPS games/NNS and/CC just/RB like/IN last/JJ season's/NNS encounter/VBP which/WDT Italy/NNP won/VBD this/DT weekend's/NNS game/NN could/MD turn/VB out/RP to/TO be/VB a/DT battle/NN to/TO avoid/VB the/DT wooden/JJ spoon./NN
+
+-/: M/NNP Blair/NNP (Edinburgh)/NN A/DT Craig/NNP (Glasgow)/NN C/NNP Cusiter/NNP (Borders)/NN S/NNP Danielli/NNP (Borders)/NN M/NNP Di/NNP Rollo/NNP (Edinburgh)/NN A/DT Henderson/NNP (Glasgow)/NN B/NNP Hinshelwood/NNP (Worcester)/NN R/NN Lamont/NNP (Glasgow)/NN S/NNP Lamont/NNP (Glasgow)/NN D/NNP Parks/NNPS (Glasgow)/NN C/NNP Paterson/NNP (Edinburgh)/NN G/NNP Ross/NNP (Leeds)/NN H/NNP Southwell/NNP (Edinburgh)/NN S/NNP Webster/NNP (Edinburgh)/NN
+
+-/: R/NN Beattie/NNP (Northampton)/NN G/NNP Bulloch/NNP (Glasgow/NN capt)/NN B/NNP Douglas/NNP (Borders)/NN J/NNP Dunbar/NNP (Leeds)/NN I/PRP Fullarton/NNP (Saracens)/NN S/NNP Grimes/NNP (Newcastle)/NN N/NNP Hines/NNP (Edinburgh)/NN A/DT Hogg/NNP (Edinburgh)/NN G/NNP Kerr/NNP (Leeds)/NN N/NNP Lloyd/NNP (Saracens)/NN S/NNP Murray/NNP (Edinburgh)/NN J/NNP Petrie/NNP (Glasgow)/NN R/NN Russell/NNP (London/NN Irish)/NNP C/NNP Smith/NNP (Edinburgh)/NN T/NNP Smith/NNP (Northampton)/NN S/NNP Taylor/NNP (Edinburgh)/NN J/NNP White/NNP (Sale)./NN

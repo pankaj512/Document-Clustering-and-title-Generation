@@ -1,0 +1,34 @@
+Tories/NNS plan/NN migrant/NN health/NN checks/NNS
+
+Non-European/NNP Union/NNP citizens/NNS wanting/VBG to/TO work/VB in/IN the/DT UK/NNP will/MD have/VB to/TO undergo/VB tests/NNS for/IN Tuberculosis/NNP and/CC HIV/NNP under/IN plans/NNS unveiled/VBN by/IN the/DT Conservatives./NNP
+
+A/DT positive/JJ test/NN for/IN TB/NN would/MD mean/VB visa/NN applications/NNS being/VBG turned/VBD down/RB while/IN HIV/NNP would/MD be/VB dealt/VBN with/IN case/NN by/IN case./NN
+Leader/NNP Michael/NNP Howard/NNP said/VBD the/DT checks/NNS on/IN new/JJ arrivals/NNS would/MD help/VB protect/VB public/JJ health/NN and/CC the/DT NHS./NNP
+Labour/NNP said/VBD many/JJ tests/NNS were/VBD already/RB done./NN
+The/DT Lib/NNP Dems/NNP warned/VBD both/DT parties/NNS against/IN "pandering/VBG to/TO prejudice"./VB
+
+The/DT proposals/NNS which/WDT would/MD be/VB brought/VBN in/RP if/IN the/DT Conservatives/NNS won/VBD the/DT General/NNP Election/NNP would/MD not/RB apply/VB to/TO people/NNS coming/VBG to/TO the/DT UK/NNP for/IN less/JJR than/IN six/CD months/NNS unless/IN they/PRP intended/VBD to/TO work/VB in/IN health/NN or/CC childcare/NN or/CC teaching./NN
+Mr/NNP Howard/NNP said/VBD the/DT plans/NNS were/VBD based/VBN on/IN policies/NNS already/RB in/IN action/NN in/IN Canada/NNP New/NNP Zealand/NNP and/CC Australia./NNP
+"It's/NN very/RB important/JJ that/IN we/PRP should/MD safeguard/VB the/DT good/JJ standards/NNS of/IN public/JJ health/NN that/IN Britain/NNP enjoys"/NN he/PRP told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN programme./NN
+Government/NN figures/NNS suggest/VBP TB/NN in/IN England/NNP has/VBZ increased/VBN by/IN 25%/CD over/IN the/DT past/JJ 10/CD years./NN
+"Nearly/RB two/CD thirds/NNS of/IN people/NNS with/IN TB/NN are/VBP born/VBN abroad"/NN said/VBD Mr/NNP Howard./NNP
+
+"I/NN don't/NN think/VBP a/DT responsible/JJ government/NN can/MD stand/VB aside/RB and/CC do/VBP nothing/NN in/IN the/DT face/NN of/IN this/DT problem."/NN But/CC Mr/NNP Howard/NNP said/VBD the/DT plans/NNS would/MD not/RB affect/VB asylum/NN applicants'/NN claims./NN
+The/DT proposals/NNS include/VBP
+
+-/: People/NNS coming/VBG to/TO the/DT UK/NNP from/IN outside/IN the/DT EU/NNP for/IN between/IN six/CD and/CC 12/CD months/NNS from/IN a/DT "high/NN incidence/NN TB/NN country"/NN will/MD have/VB to/TO undergo/VB a/DT chest/NN X-ray./NNP
+
+-/: People/NNS coming/VBG to/TO settle/VB in/IN the/DT UK/NNP permanently/RB from/IN outside/IN the/DT EU/NNP will/MD have/VB to/TO "demonstrate/VB they/PRP have/VBP an/DT acceptable/JJ standard/NN of/IN health"./NN
+
+-/: They/PRP will/MD also/RB have/VB to/TO show/VB they/PRP are/VBP unlikely/JJ to/TO be/VB a/DT danger/NN to/TO public/JJ health/NN and/CC are/VBP unlikely/JJ to/TO "impose/VB significant/JJ costs/NNS or/CC demands"/NN on/IN the/DT NHS./NNP
+
+-/: The/DT tests/NNS will/MD include/VB a/DT health/NN check/NN chest/NN X-rays/NNS for/IN TB/NN (except/NN for/IN children/NNS and/CC pregnant/JJ women)/NN and/CC tests/NNS for/IN hepatitis/NN and/CC HIV/NNP for/IN over/IN 16-year-olds./JJ
+Only/RB the/DT discovery/NN of/IN TB/NN will/MD mean/VB people/NNS will/MD be/VB automatically/RB denied/VBN a/DT visa/NN other/JJ conditions/NNS will/MD be/VB dealt/VBN with/IN on/IN a/DT "case/NN by/IN case/NN basis"./NN
+
+There/EX is/VBZ already/RB some/DT screening/NN in/IN place./NN
+Last/JJ year/NN 185000/CD people/NNS were/VBD tested/VBN for/IN TB/NN at/IN Heathrow/NNP and/CC Gatwick/NNP airports/NNS only/RB about/RB 200/CD were/VBD found/VBN to/TO be/VB infected./NN
+And/CC Dr/NNP John/NNP Moore-Gillon/NNP of/IN the/DT British/JJ Lung/NN Foundation/NNP said/VBD "TB/NN is/VBZ not/RB simply/RB imported/VBN we/PRP are/VBP seeing/VBG a/DT rise/NN in/IN many/JJ sections/NNS of/IN the/DT UK-born/NNP population/NN as/IN well."/NN The/DT government/NN says/VBZ the/DT Tories/NNPS are/VBP "a/NN bit/NN late"/NN to/TO the/DT issue./NN
+Immigration/NNP minister/NN Des/NNP Browne/NNP quoted/VBD its/PRP$ five-year/JJ plan/NN for/IN immigration/NN and/CC asylum/NN as/IN saying/VBG "We/NN are/VBP implementing/VBG our/PRP$ existing/VBG powers/NNS by/IN targeted/VBN health/NN screening/NN for/IN TB/NN in/IN high-risk/JJ areas/NNS at/IN the/DT entry/NN clearance/NN stage./NN
+"Those/NN who/WP are/VBP diagnosed/VBN would/MD then/RB need/VB to/TO seek/VB treatment/NN at/IN home/NN before/IN being/VBG allowed/VBN to/TO enter/VB the/DT UK."/NNP Meanwhile/RB Mark/NNP Oaten/NNP Liberal/NNP Democrat/NNP home/NN affairs/NNS spokesman/NN said/VBD "This/NN is/VBZ another/DT worrying/VBG step/NN in/IN the/DT war/NN of/IN words/NNS over/IN asylum/NN and/CC immigration/NN between/IN Labour/NNP and/CC the/DT Conservatives./NNP
+"Michael/NNP Howard/NNP knows/VBZ perfectly/RB well/RB what/WP bigger/JJR game/NN he/PRP is/VBZ playing/VBG and/CC history/NN proves/VBZ it/PRP is/VBZ a/DT very/RB dangerous/JJ one."/NN Lisa/NNP Power/NNP head/NN of/IN policy/NN at/IN Aids/NNS charity/VBP the/DT Terrence/NNP Higgins/NNP Trust/NNP said/VBD the/DT policy/NN was/VBD prejudice-based/JJ rather/RB than/IN evidence-based./JJ
+"In/NN fact/NN it/PRP would/MD be/VB more/RBR likely/JJ to/TO drive/VB people/NNS with/IN health/NN conditions/NNS to/TO falsify/VB tests/NNS while/IN others/NNS gain/NN entry/NN by/IN simple/JJ dint/NN of/IN their/PRP$ EU/NNP status"/NN she/PRP said./VBP

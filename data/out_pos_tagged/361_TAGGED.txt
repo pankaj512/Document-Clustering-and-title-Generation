@@ -1,0 +1,15 @@
+US/PRP consumer/VBP confidence/NN up/RP
+
+Consumers'/NNP confidence/NN in/IN the/DT state/NN of/IN the/DT US/PRP economy/VBP is/VBZ at/IN its/PRP$ highest/JJS for/IN five/CD months/NNS and/CC they/PRP are/VBP optimistic/JJ about/RB 2005/CD an/DT influential/JJ survey/NN says./NN
+
+The/DT feel-good/JJ factor/NN among/IN US/PRP consumers/VBZ rose/VBD in/IN December/NNP for/IN the/DT first/JJ time/NN since/IN July/NNP according/VBG to/TO new/JJ data./NN
+The/DT Conference/NNP Board/NNP survey/NN of/IN 5000/CD households/NNS pointed/VBD to/TO renewed/VB optimism/NN about/IN job/NN creation/NN and/CC economic/JJ growth./NN
+US/PRP retailers/VBZ have/VBP reported/VBN strong/JJ sales/NNS over/IN the/DT past/JJ 10/CD days/NNS after/IN a/DT slow/JJ start/NN to/TO the/DT crucial/JJ festive/JJ season./NN
+
+According/VBG to/TO figures/NNS also/RB released/VBN on/IN Tuesday/NNP sales/NNS in/IN shopping/NN malls/NNS in/IN the/DT week/NN to/TO 25/CD December/NNP were/VBD 4.3%/CD higher/JJR than/IN in/IN 2003/CD following/VBG a/DT last/JJ minute/NN rush./NN
+Wal-Mart/VBG the/DT largest/JJS US/PRP retailer/VBP has/VBZ said/VBN its/PRP$ December/NNP sales/NNS are/VBP expected/VBN to/TO be/VB better/JJR than/IN previously/RB forecast/NN because/IN of/IN strong/JJ post-Christmas/NNS sales./NN
+
+It/PRP is/VBZ expecting/VBG annual/JJ sales/NNS growth/NN of/IN between/IN 1%/CD and/CC 3%/CD for/IN the/DT month./NN
+Consumer/NNP confidence/NN figures/NNS are/VBP considered/VBN a/DT key/JJ economic/JJ indicator/NN because/IN consumer/NN spending/NN accounts/VBZ for/IN about/IN two/CD thirds/NNS of/IN all/DT economic/JJ activity/NN in/IN the/DT United/NNP States./NNP
+"The/NN continuing/VBG economic/JJ expansion/NN combined/VBN with/IN job/NN growth/NN has/VBZ consumers/NNS ending/VBG this/DT year/NN on/IN a/DT high/JJ note"/NN said/VBD Lynn/NNP Franco/NNP director/NN of/IN the/DT Conference/NNP Board's/NNP consumer/NN research/NN centre./NN
+"And/NN consumers'/NN outlook/NN suggests/VBZ that/IN the/DT economy/NN will/MD continue/VB to/TO expand/VB in/IN the/DT first/JJ half/NN of/IN next/JJ year."/NN The/DT overall/JJ US/PRP economy/VBP has/VBZ performed/VBN strongly/RB in/IN recent/JJ months/NNS prompting/VBG the/DT Federal/NNP Reserve/NNP to/TO increase/VB interest/NN rates/NNS five/CD times/NNS since/IN June./NNP

@@ -1,0 +1,22 @@
+Qantas/NNP considers/VBZ offshore/RB option/NN
+
+Australian/JJ airline/NN Qantas/NNP could/MD transfer/VB as/RB many/JJ as/IN 7000/CD jobs/NNS out/IN of/IN its/PRP$ home/NN country/NN as/IN it/PRP seeks/VBZ to/TO save/VB costs/NNS according/VBG to/TO newspaper/NN reports./NN
+
+Chief/NNP executive/NN Geoff/NNP Dixon/NNP was/VBD quoted/VBN by/IN The/DT Australian/JJ newspaper/NN as/IN saying/VBG the/DT carrier/NN could/MD no/RB longer/RB afford/VB to/TO remain/VB "all-Australian"./JJ
+Unions/NNS criticised/VBD the/DT possible/JJ move/NN -/: which/WDT may/MD affect/VB cabin/NN and/CC maintenance/NN staff/NN -/: saying/VBG Qantas/NNP was/VBD profitable./NN
+More/JJR than/IN 90%/CD of/IN the/DT airline's/NNS staff/NN are/VBP based/VBN in/IN Australia./NNP
+
+Qantas/NNP confirmed/VBD it/PRP was/VBD looking/VBG at/IN whether/IN it/PRP might/MD recruit/VB and/CC source/NN products/NNS overseas/RB -/: potentially/RB through/IN joint/JJ ventures/NNS -/: but/CC said/VBD it/PRP would/MD continue/VB to/TO create/VB jobs/NNS in/IN Australia./NNP
+
+Despite/IN making/VBG a/DT record/NN Australian/JJ dollars/NNS 648m/CD ($492m)/CD profit/NN last/JJ year/NN Qantas/NNP has/VBZ argued/VBN that/IN it/PRP needs/VBZ to/TO make/VB considerable/JJ savings/NNS if/IN it/PRP is/VBZ to/TO remain/VB competitive./NN
+"We're/NN going/VBG to/TO have/VB to/TO get/VB the/DT lowest/JJS cost/NN structure/NN we/PRP can/MD and/CC that/DT willmean/NN sourcing/VBG things/NNS more/JJR and/CC more/JJR from/IN overseas"/NN the/DT newspaper/NN quoted/VBN Qantas/NNP chief/NN executive/NN Geoff/NNP Dixon/NNP as/IN saying./NN
+Early/RB this/DT year/NN Qantas/NNP increased/VBD the/DT number/NN of/IN flight/NN attendants/NNS based/VBN in/IN London/NNP from/IN 370/CD to/TO 870./CD
+If/IN Qantas/NNP were/VBD to/TO follow/VB the/DT lead/NN of/IN other/JJ airlines/NNS moving/VBG staff/NN 'offshore'/NN 7000/CD jobs/NNS could/MD shift/VB overseas/RB the/DT newspaper/NN reported./NN
+In/IN a/DT statement/NN Qantas/NNP said/VBD it/PRP was/VBD looking/VBG to/TO build/VB its/PRP$ operations/NNS overseas./NN
+However/RB it/PRP stressed/VBD this/DT would/MD not/RB result/VB in/IN large/JJ scale/NN redundancies/NNS in/IN its/PRP$ home/NN market/NN where/WRB most/JJS of/IN its/PRP$ 35000/CD staff/NN are/VBP employed./NN
+"We/NN are/VBP totally/RB committed/VBN to/TO continuing/VBG to/TO grow/VB jobs/NNS in/IN Australia"/NNP Mr/NNP Dixon/NNP said./NN
+"We/NN are/VBP however/RB operating/VBG in/IN a/DT global/JJ market/NN and/CC there/EX is/VBZ no/DT room/NN for/IN complacency/NN simply/RB because/IN we/PRP are/VBP currently/RB profitable/JJ and/CC successful."/NN
+
+Unions/NNS reacted/VBD angrily/RB to/TO the/DT reported/VBN disclosure/NN arguing/VBG that/IN Qantas/NNP was/VBD profitable/JJ and/CC did/VBD not/RB need/VB to/TO take/VB such/JJ action./NN
+"We/NN could/MD understand/VB if/IN Qantas/NNP was/VBD a/DT struggling/JJ airline/NN about/IN to/TO go/VB under"/NN Michael/NNP Mijatov/NNP international/JJ division/NN secretary/NN of/IN the/DT Flight/NNP Attendants/NNPS Association/NNP told/VBD Agence/NNP France/NNP Presse./NNP
+"Qantas/NN announced/VBD a/DT record/NN profit/NN last/JJ year/NN and/CC is/VBZ on/IN course/NN this/DT year/NN for/IN an/DT even/RB greater/JJR profit/NN so/IN it/PRP is/VBZ totally/RB unnecessary."/NN In/IN an/DT effort/NN to/TO meet/VB the/DT challenge/NN posed/VBN by/IN low/JJ cost/NN carriers/NNS Qantas/NNP sought/VBD a/DT tie-up/NN with/IN Air/NNP New/NNP Zealand/NNP last/JJ year/NN However/RB the/DT deal/NN was/VBD thrown/VBN out/RP by/IN the/DT New/NNP Zealand/NNP High/NNP Court/NNP on/IN competition/NN grounds./NN

@@ -1,0 +1,15 @@
+Hendrix/NNP guitar/NN fetches/VBZ £100000/CD
+
+A/DT much-loved/JJ guitar/NN belonging/VBG to/TO Jimi/NNP Hendrix/NNP has/VBZ been/VBN sold/VBN for/IN £100000/CD at/IN an/DT auction/NN in/IN London./NNP
+
+The/DT 1965/CD Fender/NN Stratocaster/NNP was/VBD one/CD of/IN a/DT number/NN of/IN guitars/NNS included/VBN in/IN the/DT sale/NN dedicated/VBN to/TO the/DT rock/NN legend./NN
+The/DT vast/JJ archive/NN of/IN instruments/NNS signed/VBD records/NNS and/CC posters/NNS were/VBD collected/VBN by/IN a/DT dedicated/VBN fan/NN who/WP had/VBD become/VBN friendly/JJ with/IN the/DT star./NN
+The/DT auction/NN was/VBD billed/VBN as/IN the/DT biggest/JJS collection/NN of/IN Hendrix/NNP memorabilia/NNS to/TO go/VB under/IN the/DT hammer./NN
+The/DT majority/NN of/IN the/DT items/NNS were/VBD collected/VBN by/IN fan/NN Bob/NNP Terry/NNP who/WP began/VBD collecting/VBG at/IN the/DT age/NN of/IN 17./CD
+He/PRP later/RB sold/VBD it/PRP on/RP to/TO another/DT collector./NN
+
+Hendrix/NNP widely/RB considered/VBD one/CD of/IN the/DT best/JJS guitarists/NNS of/IN his/PRP$ era/NN died/VBD of/IN a/DT drug/NN overdose/NN in/IN 1970/CD at/IN the/DT age/NN of/IN 27./CD
+The/DT 1965/CD Fender/NN Stratocaster/NNP was/VBD used/VBN by/IN the/DT musician/NN on/IN tour/NN and/CC in/IN his/PRP$ studio./NN
+A/DT poem/NN written/VBN by/IN Hendrix/NNP two/CD weeks/NNS after/IN his/PRP$ infamous/JJ appearance/NN at/IN the/DT Monterey/NNP Festival/NNP where/WRB he/PRP set/VBD light/JJ to/TO his/PRP$ guitar/NN went/VBD for/IN £10000./CD
+The/DT Jimi/NNP Hendrix/NNP Experience's/NNP first/JJ single/JJ Hey/NNP Joe/NNP signed/VBN by/IN all/PDT the/DT band/NN was/VBD sold/VBN for/IN £2000./CD
+The/DT sale/NN hosted/VBN by/IN auctioneers/NNS Cooper/NNP Owen/NNP was/VBD held/VBN at/IN the/DT Hard/JJ Rock/NNP Cafe/NNP in/IN London./NNP

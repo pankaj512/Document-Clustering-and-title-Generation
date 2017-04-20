@@ -1,0 +1,15 @@
+US/PRP critics/VBZ laud/NN comedy/NN Sideways/RB
+
+Road/NNP trip/NN comedy/NN Sideways/RB has/VBZ had/VBN more/JJR praise/NN heaped/VBD on/IN it/PRP by/IN two/CD US/PRP critics'/VBP associations/NNS adding/VBG to/TO honours/NNS it/PRP has/VBZ already/RB picked/VBN up./NN
+
+The/DT Chicago/NNP Film/NNP Critics/NNS Association/NNP (CFCA)/NN named/VBD it/PRP winner/NN in/IN five/CD categories/NNS including/VBG best/JJS film/NN and/CC best/JJS actor/NN for/IN Paul/NNP Giamatti./NNP
+But/CC the/DT director/NN award/NN went/VBD to/TO Clint/NNP Eastwood/NNP for/IN Million/CD Dollar/NN Baby./NNP
+The/DT Southeastern/NNP Film/NNP Critics/NNS also/RB awarded/VBD Sideways/RB its/PRP$ best/JJS film/NN of/IN the/DT year/NN accolade./NN
+Director/NNP Alexander/NNP Payne/NNP was/VBD named/VBN best/JJS director/NN and/CC he/PRP also/RB won/VBD best/RBS screenplay/NN shared/VBN with/IN Jim/NNP Taylor./NNP
+The/DT CFCA/NNP awarded/VBD Thomas/NNP Haden/NNP Church/NNP the/DT best/JJS supporting/VBG actor/NN prize/NN and/CC Virginia/NNP Madsen/NNP the/DT best/JJS supporting/VBG actress/NN award/NN for/IN their/PRP$ roles/NNS in/IN the/DT film./NN
+
+Sideways/RB has/VBZ already/RB been/VBN voted/VBN best/RBS film/NN by/IN critics/NNS associations/NNS in/IN New/NNP York/NNP and/CC Los/NNP Angeles/NNP and/CC has/VBZ been/VBN nominated/VBN for/IN a/DT Golden/NNP Globe./NNP
+British/JJ actress/NN Imelda/NNP Staunton/NNP won/VBD the/DT CFCA/NNP best/JJS actress/NN for/IN the/DT gritty/JJ abortion/NN drama/NN Vera/NNP Drake/NNP adding/VBG to/TO a/DT growing/VBG list/NN of/IN awards/NNS she/PRP has/VBZ won/VBN for/IN her/PRP$ performance/NN in/IN the/DT Mike/NNP Leigh/NNP film./NN
+Scrubs/NNP star/NN Zach/NNP Braff/NNP was/VBD named/VBN best/JJS new/JJ director/NN for/IN his/PRP$ debut/NN Garden/NNP State./NNP
+Michael/NNP Moore's/NNP controversial/JJ documentary/NN Fahrenheit/NN 9/11/CD won/VBD the/DT best/JJS documentary/NN while/IN A/DT Very/RB Long/NNP Engagement/NN won/VBD best/RBS foreign/JJ film./NN
+The/DT Chicago/NNP critics/NNS have/VBP yet/RB to/TO name/VB a/DT date/NN for/IN when/WRB their/PRP$ awards/NNS ceremony/NN will/MD be/VB held./NN

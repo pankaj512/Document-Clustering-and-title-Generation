@@ -1,0 +1,11 @@
+Candela/NNP completes/VBZ Bolton/NNP switch/VB
+
+Bolton/NNP boss/NN Sam/NNP Allardyce/NNP has/VBZ signed/VBN Roma/NNP defender/NN Vincent/NNP Candela/NNP on/IN a/DT five-month/JJ deal./NN
+
+The/DT 31-year-old/JJ former/JJ France/NNP international/NN gave/VBD his/PRP$ last/JJ press/NN conference/NN as/IN a/DT Roma/NNP player/NN on/IN Monday/NNP anouncing/VBG his/PRP$ move/NN to/TO Bolton./NNP
+"I/NN have/VBP signed/VBN a/DT five-month/JJ contract/NN with/IN Bolton"/NNP said/VBD Candela/NNP who/WP will/MD travel/VB to/TO England/NNP on/IN Tuesday./NNP
+"In/NNP June/NNP I/PRP will/MD decide/VB whether/IN to/TO continue/VB to/TO play/VB for/IN Bolton/NNP or/CC retire/VB from/IN professional/JJ football."/NN Allardyce/NNP hopes/VBZ Candela's/NNP arrival/NN will/MD relieve/VB Bolton's/NNP injury/NN crisis/NN after/IN defender/NN Nicky/NNP Hunt/NNP limped/VBD out/RP injured/VBN during/IN Oldham's/NNP 1-0/JJ win/NN against/IN Oldham/NNP in/IN the/DT FA/NNP Cup/NNP on/IN Sunday./NNP
+"In/NN light/NN of/IN what/WP has/VBZ happened/VBN to/TO Nicky/NNP Hunt/NNP with/IN his/PRP$ injury/NN it/PRP might/MD be/VB a/DT blessing/NN in/IN disguise/NN that/IN we/PRP can/MD bring/VB in/RP a/DT highly-experienced/JJ full-back/JJ to/TO help/VB with/IN our/PRP$ injuries/NNS at/IN the/DT back"/NN Allardyce/NNP said./NN
+"He/NN has/VBZ an/DT outstanding/JJ pedigree/NN in/IN the/DT game/NN and/CC has/VBZ won/VBN honours/NNS at/IN the/DT highest/JJS level/NN including/VBG the/DT World/NNP Cup/NNP in/IN 1998./CD
+"He/NN has/VBZ not/RB played/VBN regular/JJ football/NN this/DT year/NN but/CC is/VBZ eager/JJ to/TO impress/VB in/IN the/DT Premiership./NNP
+"He/NN can/MD play/VB in/IN any/DT position/NN at/IN the/DT back/NN and/CC despite/IN him/PRP being/VBG predominately/RB right-footed/JJ he/PRP has/VBZ played/VBN the/DT majority/NN of/IN his/PRP$ career/NN at/IN left-back."/JJ Candela/NNP who/WP was/VBD a/DT member/NN of/IN the/DT Roma/NNP side/NN that/WDT won/VBD the/DT title/NN in/IN 2001/CD has/VBZ made/VBN only/RB seven/CD league/NN appearances/NNS this/DT season/NN for/IN Luigi/NNP del/FW Neri's/NNP side./NN

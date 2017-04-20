@@ -1,0 +1,141 @@
+Apple/NNP laptop/NN is/VBZ 'greatest/JJ gadget'/NN
+
+The/DT Apple/NNP Powerbook/NNP 100/CD has/VBZ been/VBN chosen/VBN as/IN the/DT greatest/JJS gadget/NN of/IN all/DT time/NN by/IN US/PRP magazine/VBP Mobile/NNP PC./NNP
+
+The/DT 1991/CD laptop/NN was/VBD chosen/VBN because/IN it/PRP was/VBD one/CD of/IN the/DT first/JJ "lightweight"/NN portable/JJ computers/NNS and/CC helped/VBD define/VB the/DT layout/NN of/IN all/DT future/JJ notebook/NN PCs./NNP
+The/DT magazine/NN has/VBZ compiled/VBN an/DT all-time/JJ top/JJ 100/CD list/NN of/IN gadgets/NNS which/WDT includes/VBZ the/DT Sony/NNP Walkman/NNP at/IN number/NN three/CD and/CC the/DT 1956/CD Zenith/NNP remote/JJ control/NN at/IN two./NN
+Gadgets/NNS needed/VBD moving/VBG parts/NNS and/or/NN electronics/NNS to/TO warrant/VB inclusion./NN
+The/DT magazine/NN staff/NN compiled/VBD the/DT list/NN and/CC specified/VBN that/IN gadgets/NNS also/RB needed/VBN to/TO be/VB a/DT "self-contained/JJ apparatus/NN that/WDT can/MD be/VB used/VBN on/IN its/PRP$ own/JJ not/RB a/DT subset/NN of/IN another/DT device"./NN
+
+"In/NN general/JJ we/PRP included/VBD only/JJ items/NNS that/WDT were/VBD potentially/RB mobile"/NN said/VBD the/DT magazine./NN
+
+"In/NN the/DT end/NN we/PRP tried/VBD to/TO get/VB to/TO the/DT heart/NN of/IN what/WP really/RB makes/VBZ a/DT gadget/NN a/DT gadget"/NN it/PRP concluded./NN
+The/DT oldest/JJS "gadget"/NN in/IN the/DT top/JJ 100/CD is/VBZ the/DT abacus/NN which/WDT the/DT magazine/NN dates/NNS at/IN 190/CD A.D./NNP
+and/CC put/VBD in/IN 60th/JJ place./NN
+Other/JJ pre-electronic/JJ gadgets/NNS in/IN the/DT top/JJ 100/CD include/VBP the/DT sextant/NN from/IN 1731/CD (59th/JJ position)/NN the/DT marine/JJ chronometer/NN from/IN 1761/CD (42nd/CD position)/NN and/CC the/DT Kodak/NNP Brownie/NNP camera/NN from/IN 1900/CD (28th/JJ position)./NN
+The/DT Tivo/NNP personal/JJ video/NN recorder/NN is/VBZ the/DT newest/JJS device/NN to/TO make/VB the/DT top/JJ 10/CD which/WDT also/RB includes/VBZ the/DT first/JJ flash/NN mp3/CD player/NN (Diamond/NN Multimedia)/NNP as/RB well/RB as/IN the/DT first/JJ "successful"/NN digital/JJ camera/NN (Casio/NN QV-10)/JJ and/CC mobile/JJ phone/NN (Motorola/NN Startac)./NNP
+The/DT most/RBS popular/JJ gadget/NN of/IN the/DT moment/NN the/DT Apple/NNP iPod/NN is/VBZ at/IN number/NN 12/CD in/IN the/DT list/NN while/IN the/DT first/JJ Sony/NNP transistor/NN radio/NN is/VBZ at/IN number/NN 13./CD
+
+Sony's/NNP third/JJ entry/NN in/IN the/DT top/JJ 20/CD is/VBZ the/DT CDP-101/JJ CD/NNP player/NN from/IN 1983./CD
+"Who/NN can/MD forget/VB the/DT crystalline/JJ hiss-free/JJ blast/NN of/IN Madonna's/NNP Like/IN A/DT Virgin/NNP emanating/VBG from/IN their/PRP$ first/JJ CD/NNP player?"/NN asked/VBD the/DT magazine./NN
+Karl/NNP Elsener's/NNP knife/NN the/DT Swiss/NNP Army/NNP Knife/NNP from/IN 1891/CD is/VBZ at/IN number/NN 20/CD in/IN the/DT list./NN
+Gadgets/NNS which/WDT could/MD be/VB said/VBN to/TO feature/VB surprisingly/RB low/JJ down/RP in/IN the/DT list/NN include/VBP the/DT original/JJ telephone/NN (23rd)/CD the/DT Nintendo/NNP GameBoy/NNP (25th)/CD and/CC the/DT Pulsar/NNP quartz/NN digital/JJ watch/NN (36th)./CD
+The/DT list/NN also/RB contains/VBZ plenty/NN of/IN oddities/NNS the/DT Pez/NNP sweet/JJ dispenser/NN (98th)/CD 1990s/CD toy/NN Tamagotchi/NNP (86th)/CD and/CC the/DT bizarre/JJ Ronco/NNP inside/IN the/DT shell/NN egg/NN scrambler/NN (84th)./CD
+
+Almost/RB everyone/NN has/VBZ a/DT mobile/JJ phone/NN how/WRB many/JJ people/NNS own/VBP a/DT Powerbook?/NNP or/CC an/DT iPod?/NN The/DT findings/NNS of/IN this/DT magazine/NN are/VBP not/RB very/RB convincing./NN
+
+What/WP about/IN the/DT magnetic/JJ compass?/NN We/PRP still/RB use/VBP it/PRP 1000/CD years/NNS after/IN it/PRP was/VBD invented./NN
+
+I/PRP am/VBP amazed/VBN by/IN the/DT obsession/NN with/IN individual/JJ gadgets/NNS rather/RB than/IN genre./NN
+For/IN example/NN the/DT Sony/NNP walkman/NN was/VBD the/DT first/JJ truly/RB portable/JJ way/NN of/IN listening/VBG to/TO your/PRP$ own/JJ music/NN on/IN the/DT move/NN whereas/IN Minidisc/NNP Flash/VB MP3/CD portable/JJ CD/NNP players/NNS etc./NNP
+are/VBP really/RB just/RB improvements/NNS in/IN technology./NN
+
+My/PRP$ favourite/NN 'true'/NN gadgets/NNS are/VBP probably/RB my/PRP$ portable/JJ MiniDisc/NNP player/NN and/CC the/DT little/JJ battery/NN powered/VBD whizzy/NN thing/NN I/PRP use/VBP to/TO froth/NN up/RP my/PRP$ coffee/NN
+
+Calm/JJ down/RP it's/NNS only/RB in/IN their/PRP$ opinion/NN and/CC any/DT list/NN that/WDT includes/VBZ the/DT Taser/NNP in/IN the/DT top/JJ 100/CD gadgets/NNS has/VBZ to/TO be/VB suspect..../NN
+
+Swiss/JJ army/NN knife/NN and/CC no/DT question/NN about/IN it./NN
+How/WRB many/JJ of/IN the/DT other/JJ items/NNS are/VBP still/RB relatively/RB unchanged/JJ from/IN the/DT original/JJ idea/NN and/CC still/RB as/IN useful/popular?/NN You/PRP don't/VBP need/VBP a/DT laptop/NN or/CC even/RB a/DT pocket/NN calculator/NN to/TO work/VB that/IN one/CD out/RP
+
+This/DT list/NN merely/RB illustrates/VBZ interesting/JJ cultural/JJ divides/NNS between/IN the/DT American/JJ authors/NNS and/CC the/DT overwhelmingly/RB British/JJ responses./NN
+Brits/NNP see/VB no/DT further/JJ than/IN mobile/JJ phones/NNS and/CC the/DT over/JJ thirties/NNS Sinclair/NNP whilst/NN the/DT Americans/NNPS focus/VBP on/IN Apple/NNP TV/NN remotes/NNS and/CC TiVO/NNP (which/NN probably/RB is/VBZ rather/RB obscure/JJ in/IN Europe)./NNP
+
+What/WP about/IN the/DT Soda/NNP Stream./NNP
+This/DT gadget/NN changed/VBD my/PRP$ pre-teen/JJ life./NN
+Lap/NN tops/NNS may/MD enable/VB you/PRP to/TO "think/VB different/JJ but/CC you/PRP cant/VBP use/VB them/PRP to/TO "get/VB busy/JJ with/IN the/DT fizzy"/NN
+
+How/WRB about/IN Astro/NNP Wars/NNS one/CD of/IN the/DT pioneers/NNS for/IN computer/NN games/NNS i/FW remember/VB spending/NN many/JJ an/DT hour/NN playing/VBG this/DT and/CC it/PRP still/RB works/VBZ today/NN However/RB tried/VBD it/PRP the/DT other/JJ day/NN and/CC it/PRP was/VBD rubbish/JJ still/RB a/DT great/JJ gadget/NN of/IN its/PRP$ time./NN
+
+Why/WRB worry/VBP about/IN mobile/JJ phones./NN
+Soon/RB they/PRP will/MD be/VB subsumed/VBN into/IN the/DT PDA's/NNP //NN laptops/NNS etc./FW
+
+What/WP about/IN the/DT Marine/NNP Chronometer?/NNP Completely/RB revolutionised/VBD navigation/NN for/IN boats/NNS and/CC was/VBD in/IN use/NN for/IN centuries./NN
+For/IN it's/NNS time/VBP a/DT technological/JJ marvel/NN
+
+Sony/NNP Net/JJ Minidisc/NNP It/PRP paved/JJ the/DT way/NN for/IN more/JJR mp3/CD player/NN to/TO explode/VB onto/IN the/DT market./NN
+I/PRP always/RB used/VBD my/PRP$ NetMD/NNP and/CC could/MD not/RB go/VB anywhere/RB without/IN it./NN
+
+A/DT laptop/NN computer/NN is/VBZ not/RB a/DT gadget/NN It's/NNP a/DT working/NN tool/NN
+
+The/DT Sinclair/NNP Executive/NNP was/VBD the/DT world's/NNS first/RB pocket/NN calculator./NN
+I/PRP think/VBP this/DT should/MD be/VB there/RB as/IN well./NN
+
+How/WRB about/IN the/DT clockwork/NN radio?/NN Or/CC GPS?/NNP Or/CC a/DT pocket/NN calculator?/NN All/DT these/DT things/NNS are/VBP useful/JJ to/TO real/JJ people/NNS not/RB just/RB PC/NN magazine/NN editors./NN
+
+Are/VBP the/DT people/NNS who/WP created/VBD this/DT list/NN insane/JJ ?/. Surely/RB the/DT most/RBS important/JJ gadget/NN of/IN the/DT modern/JJ age/NN is/VBZ the/DT mobile/JJ phone?/NN It/PRP has/VBZ revolutionised/VBN communication/NN which/WDT is/VBZ more/JJR than/IN can/MD be/VB said/VBN for/IN a/DT niche/NN market/NN laptop./NN
+From/IN outside/IN the/DT modern/JJ age/NN the/DT marine/JJ chronometer/NN is/VBZ the/DT single/JJ most/RBS important/JJ gadget/NN without/IN which/WDT modern/JJ transportation/NN systems/NNS would/MD not/RB have/VB evolved/VBN so/RB quickly./NN
+
+Has/VBZ everyone/NN forgot/VBN about/IN the/DT Breville/NNP pie/NN maker??/NN
+
+An/DT interesting/JJ list./NN
+Of/IN the/DT electronic/JJ gadgets/NNS thousands/NNS of/IN journalists/NNS in/IN the/DT early/JJ 1980s/CD blessed/VBD the/DT original/JJ noteboook/NN pc/NN -/: the/DT Tandy/NNP 100./CD
+The/DT size/NN of/IN A4/CD paper/NN and/CC light/JJ three/CD weeks/NNS on/IN a/DT set/NN of/IN batteries/NNS an/DT excellent/JJ keyboard/NN a/DT modem./NN
+A/DT pity/NN Tandy/NNP did/VBD not/RB make/VB it/PRP DOS/NNP compatible./NN
+
+What's/VBG an/DT Apple/NNP Powerbook/NNP 100/CD ?/. It's/NNP out/IN of/IN date/NN -/: not/RB much/JJ of/IN a/DT "gadget"./NN
+Surely/RB it/PRP has/VBZ to/TO be/VB something/NN simple/JJ //NN timeless/JJ -/: the/DT tin/NN opener/NN Swiss/NNP Army/NNP Knife/NNP safety/NN razor/NN blade/NN wristwatch/NN or/CC the/DT thing/NN for/IN taking/VBG stones/NNS out/IN of/IN horses/NNS hooves/NNS ?/.
+
+It/PRP has/VBZ to/TO be/VB the/DT mobile/JJ phone./NN
+No/DT other/JJ single/JJ device/NN has/VBZ had/VBN such/PDT an/DT effect/NN on/IN our/PRP$ way/NN of/IN living/NN in/IN such/PDT a/DT short/JJ space/NN of/IN time./NN
+
+The/DT ball/NN point/NN pen/NN has/VBZ got/VBD to/TO be/VB one/CD of/IN the/DT most/RBS used/JJ and/CC common/JJ gadgets/NNS ever./NN
+Also/RB many/JJ might/MD be/VB grateful/JJ for/IN the/DT pocket/NN calculator/NN which/WDT was/VBD a/DT great/JJ improvement/NN over/IN the/DT slide/NN rule./NN
+
+The/DT Casio/NNP pocket/NN calculator/NN that/WDT played/VBD a/DT simple/JJ game/NN and/CC made/VBN tinny/NN noises/NNS was/VBD also/RB a/DT hot/JJ gadget/NN in/IN 1980./CD
+A/DT true/JJ gadget/NN it/PRP could/MD be/VB carried/VBN around/IN and/CC shown/VBN off./NN
+
+All/DT top/JJ 10/CD are/VBP electronic/JJ toys/NNS so/IN the/DT list/NN is/VBZ probably/RB a/DT better/JJR reflection/NN of/IN the/DT current/JJ high-tech/JJ obsession/NN than/IN anything/NN else./NN
+I/PRP say/VBP this/DT as/IN the/DT Swiss/NNP Army/NNP Knife/NNP only/RB made/VBD No/DT 20./NN
+
+Sinclair/NNP QL/NNP a/DT machine/NN far/RB ahead/RB of/IN its/PRP$ time./NN
+The/DT first/JJ home/NN machine/NN with/IN a/DT true/JJ multi-takings/NNS OS./NNP
+Shame/NN the/DT marketing/NN was/VBD so/RB bad/JJ
+
+Apple../NNP
+a/DT triumph/NN of/IN fashion/NN over.../NN
+well/RB everything/NN else./NN
+
+Utter/NNP rubbish./NN
+Yes/UH the/DT Apple/NNP laptop/NN and/CC Sony/NNP Walkman/NNP are/VBP classic/JJ gadgets./NN
+But/CC to/TO call/VB the/DT sextant/NN and/CC the/DT marine/JJ chronometer/NN 'gadgets'/NN and/CC rank/VB them/PRP as/IN less/RBR important/JJ than/IN a/DT TV/NN remote/JJ control/NN reveals/VBZ a/DT quite/RB shocking/JJ lack/NN of/IN historical/JJ perspective./NN
+The/DT former/JJ literally/RB helped/VBD change/VB the/DT world/NN by/IN vastly/RB improving/VBG navigation/NN at/IN see./NN
+The/DT latter/JJ is/VBZ the/DT seed/NN around/IN which/WDT the/DT couch/NN potato/NN culture/NN has/VBZ developed./NN
+No/DT competition./NN
+
+I'd/NNP also/RB put/VBD Apple's/NNP Newton/NNP and/CC the/DT first/JJ Palm/NNP Pilot/NN there/RB as/IN the/DT front/JJ runners/NNS for/IN portable/JJ computing/NN and/CC possibly/RB the/DT Toshiba/NNP Libretto/NNP for/IN the/DT same/JJ reason./NN
+I/PRP only/RB wish/VBP that/IN Vulcan/NNP Inc's/NNP Flipstart/NNP wasn't/NN just/RB vapourware/NN otherwise/RB it/PRP would/MD be/VB at/IN the/DT top./NN
+
+How/WRB did/VBD a/DT laptop/NN ever/RB manage/VB to/TO beat/VB off/RP the/DT challenge/NN of/IN the/DT wristwatch/NN or/CC the/DT telephone/NN (mobile/NN or/CC otherwise)?/NN What/WP about/IN radios/NNS and/CC TVs?/NNP
+
+The/DT swiss/JJ army/NN knife./NN
+By/IN far/RB the/DT most/RBS useful/JJ gadget./NN
+I/PRP got/VBD mine/NN 12/CD years/NNS ago./NN
+Still/RB wearing/VBG and/CC using/VBG it/PRP a/DT lot/NN It/PRP stood/VBD the/DT test/NN of/IN time./NN
+
+Psion/NNP Organiser/NNP series/NN 3/CD should/MD be/VB up/RP there./NN
+Had/VBD a/DT usable/JJ qwerty/NN keyboard/NN removable/JJ storage/NN good/JJ set/NN of/IN apps/NNS and/CC programmable./NN
+Case/NNP design/NN was/VBD good/JJ (batteries/NN in/IN the/DT hinge/NN -/: a/DT first/JJ I/PRP think)./VBP
+Great/NNP product/NN innovation./NN
+
+The/DT first/JJ mobile/JJ PC/NN was/VBD voted/VBN best/RBS gadget/NN by/IN readers/NNS of...err.../NN
+mobile/JJ PC?/NNP Why/WRB do/VBP you/PRP keep/VBP putting/VBG these/DT obviously/RB biased/VBN lists/NNS on/IN your/PRP$ site?/NN It's/NNP obviously/RB the/DT mobile/JJ phone/NN or/CC remote/JJ control/NN and/CC readers/NNS of/IN a/DT less/RBR partisan/JJ publication/NN would/MD tell/VB you/PRP that./VBP
+
+The/DT Motorola/NNP Startac/NNP should/MD be/VB Number/NN One./NNP
+Why?/NNP There/EX will/MD be/VB mobile/JJ phones/NNS long/RB after/IN notebook/NN computers/NNS and/CC other/JJ gadgets/NNS are/VBP either/RB gone/VBN or/CC integrated/VBN in/IN communications/NNS devices./NN
+
+The/DT Psion/NNP series/NN 3c/CD The/DT first/JJ most/RBS practical/JJ way/NN to/TO carry/VB all/DT your/PRP$ info/NN around.../NN
+
+I/PRP too/RB would/MD back/RP the/DT Sinclair/NNP Spectrum/NNP -/: without/IN this/DT little/JJ beauty/NN I/PRP would/MD never/RB have/VB moved/VBN into/IN the/DT world/NN of/IN IT/PRP and/CC earn/VB the/DT living/NN that/IN I/PRP do/VBP now./NN
+
+I'd/NNS have/VBP put/VBN the/DT mobile/JJ phone/NN high/VB up/RP the/DT list./NN
+Probably/RB a/DT Nokia/NNP model./NN
+
+Sinclair/NNP Spectrum/NNP -/: 16k./CD
+It/PRP plugged/VBD into/IN the/DT tv./NN
+Games/NNS were/VBD rubbish/JJ but/CC it/PRP gave/VBD me/PRP a/DT taste/NN for/IN programming/NN and/CC that's/NNS what/WP I/PRP do/VBP for/IN a/DT living/VBG now./NN
+
+I/PRP wish/VBP more/RBR modern/JJ notebooks/NNS --/: even/RB Apple's/NNP newest/JJS offerings/NNS --/: were/VBD more/JJR like/IN the/DT PB100./CD
+Particularly/RB disheartening/JJ is/VBZ the/DT demise/NN of/IN the/DT trackball/NN which/WDT has/VBZ given/VBN way/NN to/TO the/DT largely/RB useless/JJ "trackpad"/NN which/WDT every/DT notebook/NN on/IN the/DT market/NN today/NN uses./NN
+They're/NNP invariably/RB inaccurate/JJ uncomfortable/JJ and/CC cumbersome/JJ to/TO use./VB
+
+Congratulations/NN to/TO Apple/NNP a/DT deserved/VBN win/NN

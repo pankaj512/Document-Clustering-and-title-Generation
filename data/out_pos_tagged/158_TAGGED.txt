@@ -1,0 +1,10 @@
+Qatar/NNP and/CC Shell/NNP in/IN $6bn/CD gas/NN deal/NN
+
+Shell/NNP has/VBZ signed/VBN a/DT $6bn/CD (£3.12bn)/CD deal/NN with/IN the/DT Middle/NNP Eastern/NNP sheikhdom/NN of/IN Qatar/NNP to/TO supply/VB liquid/JJ natural/JJ gas/NN (LNG)/NN to/TO North/NNP America/NNP and/CC Europe./NNP
+
+The/DT UK-Dutch/NNP group/NN will/MD own/VB 30%/CD of/IN the/DT project/NN with/IN Qatar's/NNP state/NN oil/NN firm/NN owning/VBG the/DT rest./NN
+The/DT agreement/NN is/VBZ the/DT latest/JJS in/IN a/DT string/NN of/IN deals/NNS reached/VBN by/IN Qatar/NNP which/WDT is/VBZ trying/VBG to/TO make/VB itself/PRP a/DT regional/JJ leader/NN in/IN natural/JJ gas./NN
+US/PRP oil/VBP giant/NN ExxonMobil/NNP signed/VBD up/RP for/IN a/DT $12.8bn/CD deal/NN earlier/RBR on/IN Sunday./NNP
+France's/NNP Total/JJ is/VBZ expected/VBN to/TO join/VB the/DT ExxonMobil/NNP scheme/NN dubbed/VBD Qatargas-2/JJ on/IN Monday/NNP taking/VBG 5/CD million/CD tonnes/NNS of/IN LNG/NNP a/DT year./NN
+ExxonMobil/NNP will/MD be/VB taking/VBG some/DT 15/CD million/CD tonnes/NNS each/DT year/NN for/IN 25/CD years/NNS from/IN the/DT end/NN of/IN 2007/CD under/IN the/DT deal./NN
+Shell's/NNP agreement/NN under/IN the/DT name/NN Qatargas-4/JJ foresees/VBZ the/DT building/NN of/IN new/JJ facilities/NNS to/TO handle/VB 1.4/CD billion/CD cubic/JJ feet/NNS of/IN gas/NN and/CC 7.8/CD million/CD tonnes/NNS of/IN LNG/NNP each/DT year/NN from/IN 2011/CD onwards./NN

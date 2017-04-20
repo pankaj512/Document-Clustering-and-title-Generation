@@ -1,0 +1,32 @@
+SEC/NN to/TO rethink/VB post-Enron/JJ rules/NNS
+
+The/DT US/PRP stock/VBP market/NN watchdog's/NNS chairman/NN has/VBZ said/VBN he/PRP is/VBZ willing/JJ to/TO soften/VB tough/JJ new/NN US/PRP corporate/JJ governance/NN rules/NNS to/TO ease/VB the/DT burden/NN on/IN foreign/JJ firms./NN
+
+In/IN a/DT speech/NN at/IN the/DT London/NNP School/NNP of/IN Economics/NNP William/NNP Donaldson/NNP promised/VBD "several/JJ initiatives"./NN
+European/JJ firms/NNS have/VBP protested/VBN that/IN US/PRP laws/VBZ introduced/VBN after/IN the/DT Enron/NNP scandal/NN make/VBP Wall/NNP Street/NNP listings/NNS too/RB costly./VBP
+The/DT US/PRP regulator/VBP said/VBD foreign/JJ firms/NNS may/MD get/VB extra/JJ time/NN to/TO comply/VB with/IN a/DT key/JJ clause/NN in/IN the/DT Sarbanes-Oxley/NNP Act./NNP
+
+The/DT Act/NNP comes/VBZ into/IN force/NN in/IN mid-2005./JJ
+It/PRP obliges/VBZ all/DT firms/NNS with/IN US/PRP stock/VBP market/NN listings/NNS to/TO make/VB declarations/NNS which/WDT critics/NNS say/VBP will/MD add/VB substantially/RB to/TO the/DT cost/NN of/IN preparing/VBG their/PRP$ annual/JJ accounts./NN
+
+Firms/NNS that/WDT break/VBP the/DT new/JJ law/NN could/MD face/VB huge/JJ fines/NNS while/IN senior/JJ executives/NNS risk/NN jail/NN terms/NNS of/IN up/IN to/TO 20/CD years./NN
+Mr/NNP Donaldson/NNP said/VBD that/IN although/IN the/DT Act/NNP does/VBZ not/RB provide/VB exemptions/NNS for/IN foreign/JJ firms/NNS the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP (SEC)/NN would/MD "continue/VB to/TO be/VB sensitive/JJ to/TO the/DT need/NN to/TO accomodate/VB foreign/JJ structures/NNS and/CC requirements"./NN
+There/EX are/VBP few/JJ if/IN any/DT who/WP disagree/VBP with/IN the/DT intentions/NNS of/IN the/DT Act/NNP which/WDT obliges/VBZ chief/JJ executives/NNS to/TO sign/VB a/DT statement/NN taking/VBG responsibility/NN for/IN the/DT accuracy/NN of/IN the/DT accounts./NN
+But/CC European/JJ firms/NNS with/IN secondary/JJ listings/NNS in/IN New/NNP York/NNP have/VBP objected/VBN -/: arguing/VBG that/IN the/DT compliance/NN costs/NNS outweigh/VBP the/DT benefits/NNS of/IN a/DT dual/JJ listing./NN
+The/DT Act/NNP also/RB applies/VBZ to/TO firms/NNS with/IN more/JJR than/IN 300/CD US/PRP shareholders/VBZ a/DT situation/NN many/JJ firms/NNS without/IN US/PRP listings/VBZ could/MD find/VB themselves/PRP in./VBP
+
+The/DT 300-shareholder/JJ threshold/NN has/VBZ drawn/VBN anger/NN as/IN it/PRP effectively/RB blocks/VBZ the/DT most/RBS obvious/JJ remedy/NN a/DT delisting./NN
+Mr/NNP Donaldson/NNP said/VBD the/DT SEC/NNP would/MD "consider/VB whether/IN there/EX should/MD be/VB a/DT new/JJ approach/NN to/TO the/DT deregistration/NN process"/NN for/IN foreign/JJ firms/NNS unwilling/JJ to/TO meet/VB US/PRP requirements./VBP
+
+"We/NN should/MD seek/VB a/DT solution/NN that/WDT will/MD preserve/VB investor/NN protections"/NN without/IN turning/VBG the/DT US/PRP market/VBP into/IN "one/NN with/IN no/DT exit"/NN he/PRP said./VB
+He/PRP revealed/VBD that/IN his/PRP$ staff/NN were/VBD already/RB weighing/VBG up/RP the/DT merits/NNS of/IN delaying/VBG the/DT implementation/NN of/IN the/DT Act's/NNP least/JJS popular/JJ measure/NN -/: Section/NN 404/CD -/: for/IN foreign/JJ firms./NN
+Seen/VBN as/RB particularly/RB costly/JJ to/TO implement/VB Section/NN 404/CD obliges/VBZ chief/JJ executives/NNS to/TO take/VB responsibility/NN for/IN the/DT firm's/NNS internal/JJ controls/NNS by/IN signing/VBG a/DT compliance/NN statement/NN in/IN the/DT annual/JJ accounts./NN
+The/DT SEC/NNP has/VBZ already/RB delayed/VBN implementation/NN of/IN this/DT clause/NN for/IN smaller/JJR firms/NNS -/: including/VBG US/PRP ones/NNS -/: with/IN market/NN capitalisations/NNS below/IN $700m/CD (£374m)./CD
+
+A/DT delegation/NN of/IN European/JJ firms/NNS visited/VBD the/DT SEC/NNP in/IN December/NNP to/TO press/VB for/IN change/NN the/DT Financial/NNP Times/NNP reported./NN
+
+It/PRP was/VBD led/VBN by/IN Digby/NNP Jones/NNP director/NN general/JJ of/IN the/DT UK's/NNP Confederation/NNP of/IN British/NNP Industry/NNP (CBI)/NN and/CC included/VBD representatives/NNS of/IN BASF/NNP Siemens/NNP and/CC Cadbury/NNP Schweppes./NNP
+Compliance/NN costs/NNS are/VBP already/RB believed/VBN to/TO be/VB making/VBG firms/NNS wary/JJ of/IN US/PRP listings./VBP
+Air/NNP China/NNP picked/VBD the/DT London/NNP Stock/NNP Exchange/NNP for/IN its/PRP$ secondary/JJ listing/NN in/IN its/PRP$ $1.07bn/CD (£558m)/CD stock/NN market/NN debut/NN last/JJ month./NN
+There/EX are/VBP also/RB rumours/NNS that/IN two/CD Chinese/JJ state-run/JJ banks/NNS -/: China/NNP Construction/NN Bank/NNP and/CC Bank/NNP of/IN China/NNP -/: have/VBP abandoned/VBN plans/NNS for/IN multi-billion/JJ dollar/NN listings/NNS in/IN New/NNP York/NNP later/RB this/DT year./NN
+Instead/RB the/DT cost/NN of/IN Sarbanes-Oxley/NNP has/VBZ persuaded/VBN them/PRP to/TO stick/VB to/TO a/DT single/JJ listing/NN in/IN Hong/NNP Kong/NNP according/VBG to/TO press/NN reports/NNS in/IN China./NNP

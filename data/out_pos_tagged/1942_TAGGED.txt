@@ -1,0 +1,23 @@
+Progress/NNP on/IN new/JJ internet/JJ domains/NNS
+
+By/IN early/JJ 2005/CD the/DT net/NN could/MD have/VB two/CD new/JJ domain/NN names./NN
+
+The/DT .post/NN and/CC .travel/NN net/JJ domains/NNS have/VBP been/VBN given/VBN preliminary/JJ approval/NN by/IN the/DT net's/NNS administrative/JJ body./NN
+The/DT names/NNS are/VBP just/RB two/CD of/IN a/DT total/NN of/IN 10/CD proposed/VBN domains/NNS that/WDT are/VBP being/VBG considered/VBN by/IN the/DT Internet/NNP Corporation/NNP for/IN Assigned/VBN Names/NNS and/CC Numbers/NNS Icann./NNP
+The/DT other/JJ proposed/VBD names/NNS include/VBP a/DT domain/NN for/IN pornography/NN Asia/NNP mobile/JJ phones/NNS an/DT anti-spam/JJ domain/NN and/CC one/CD for/IN the/DT Catalan/NNP language/NN and/CC culture./NN
+
+The/DT .post/NN domain/NN is/VBZ backed/VBN by/IN the/DT Universal/NNP Postal/NNP Union/NNP that/WDT wants/VBZ to/TO use/VB it/PRP as/IN the/DT online/NN marker/NN for/IN every/DT type/NN of/IN postal/JJ service/NN and/CC to/TO help/VB co-ordinate/JJ the/DT e-commerce/JJ efforts/NNS of/IN national/JJ post/NN offices./NN
+
+The/DT .travel/NN domain/NN would/MD be/VB used/VBN by/IN hotels/NNS travel/NN firms/NNS airlines/NNS tourism/NN offices/NNS and/CC would/MD help/VB such/JJ organisations/NNS distinguish/JJ themselves/PRP online./VBP
+It/PRP is/VBZ backed/VBN by/IN a/DT New/NNP York-based/JJ trade/NN group/NN called/VBD The/DT Travel/NNP Partnership./NNP
+Icann/NNP said/VBD its/PRP$ early/JJ decision/NN on/IN the/DT two/CD domains/NNS was/VBD in/IN response/NN to/TO the/DT detailed/JJ technical/JJ and/CC commercial/JJ information/NN the/DT organisations/NNS behind/IN the/DT names/NNS had/VBD submitted./NN
+Despite/IN this/DT initial/JJ approval/NN Icann/NNP cautioned/VBD that/IN there/EX was/VBD no/DT guarantee/NN that/IN the/DT domains/NNS would/MD actually/RB go/VB into/IN service./NN
+At/IN the/DT same/JJ time/NN Icann/NNP is/VBZ considering/VBG proposals/NNS for/IN another/DT eight/CD domains./NN
+One/CD that/WDT may/MD not/RB win/VB approval/NN is/VBZ a/DT proposal/NN to/TO set/VB up/RP a/DT .xxx/NN domain/NN for/IN pornographic/JJ websites./NN
+A/DT similar/JJ proposal/NN has/VBZ been/VBN made/VBN many/JJ times/NNS in/IN the/DT past./NN
+But/CC Icann/NNP has/VBZ been/VBN reluctant/JJ to/TO approve/VB it/PRP because/IN of/IN the/DT difficulty/NN of/IN making/VBG pornographers/NNS sign/VBP up/RB and/CC use/NN it./NN
+In/IN 2000/CD Icann/NNP approved/VBN seven/CD other/JJ new/JJ domains/NNS that/WDT have/VBP had/VBN varying/VBG degrees/NNS of/IN success./NN
+Three/CD of/IN the/DT new/JJ so-called/JJ top/JJ level/NN domains/NNS were/VBD for/IN specific/JJ industries/NNS or/CC organisations/NNS such/JJ as/IN .museum/NN and/CC .aero./NN
+Others/NNS such/JJ as/IN .info/NN and/CC .biz/NN were/VBD intended/VBN to/TO be/VB more/JJR generic./NN
+In/IN total/JJ there/EX are/VBP in/IN excess/NN of/IN 200/CD domain/NN names/NNS and/CC the/DT majority/NN of/IN these/DT are/VBP for/IN nations./NN
+But/CC domains/NNS that/DT end/NN in/IN the/DT .com/NN suffix/NN are/VBP by/IN far/RB the/DT most/JJS numerous./NN

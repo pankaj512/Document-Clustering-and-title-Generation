@@ -1,0 +1,14 @@
+Hatfield/NN executives/NNS go/VBP on/IN trial/NN
+
+Engineering/NNP firm/NN Balfour/NNP Beatty/NNP and/CC five/CD railway/NN managers/NNS are/VBP to/TO go/VB on/IN trial/NN for/IN manslaughter/NN over/IN the/DT Hatfield/NNP rail/NN crash/NN in/IN 2000./CD
+
+Four/CD people/NNS died/VBD when/WRB a/DT section/NN of/IN rail/NN broke/VBD and/CC a/DT high/JJ speed/NN train/NN derailed./NN
+Balfour/NNP Beatty's/NNP railway/NN maintenance/NN arm/NN was/VBD in/IN charge/NN of/IN the/DT upkeep/NN of/IN the/DT line/NN at/IN Hatfield/NNP Hertfordshire./NNP
+Balfour/NNP Beatty/NNP managers/NNS Anthony/NNP Walker/NNP and/CC Nicholas/NNP Jeffries/NNP and/CC Railtrack/NNP managers/NNS Alistair/NNP Cook/NNP Sean/NNP Fugill/NNP and/CC Keith/NNP Lea/NNP all/DT face/NN individual/JJ charges./NN
+All/DT five/CD men/NNS along/IN with/IN four/CD others/NNS are/VBP also/RB accused/VBN of/IN breaches/NNS of/IN health/NN and/CC safety/NN laws./NN
+Balfour/NNP Beatty/NNP Rail/NNP Maintenance/NN faces/VBZ a/DT corporate/JJ manslaughter/NN charge./NN
+It/PRP is/VBZ expected/VBN the/DT trial/NN could/MD last/VB as/RB long/RB as/IN a/DT year./NN
+The/DT accident/NN on/IN 17/CD October/NNP 2000/CD happened/VBD when/WRB the/DT London/NNP to/TO Leeds/NNP express/VB came/VBD off/RP the/DT tracks/NNS at/IN 115/CD mph/NN when/WRB it/PRP was/VBD derailed/VBN by/IN a/DT cracked/VBN section/NN of/IN rail./NN
+The/DT accident/NN on/IN the/DT East/NNP Coast/NNP Main/NNP Line/NNP sparked/VBD major/JJ disruption./JJ
+The/DT overall/JJ responsibility/NN for/IN the/DT line/NN was/VBD Railtrack's/NNP -/: the/DT company/NN that/WDT has/VBZ now/RB become/VB Network/NNP Rail./NNP
+Those/DT who/WP died/VBD in/IN the/DT accident/NN were/VBD Steve/NNP Arthur/NNP 46/CD from/IN Pease/NNP Pottage/NN West/NNP Sussex/NNP Peter/NNP Monkhouse/NNP 50/CD of/IN Headingley/NNP Leeds/NNP Leslie/NNP Gray/NNP 43/CD of/IN Tuxford/NNP Nottingham/NNP and/CC Robert/NNP James/NNP Alcorn/NNP 37/CD of/IN Auckland/NNP New/NNP Zealand./NNP

@@ -1,0 +1,21 @@
+Paraguay/NNP novel/NN wins/VBZ US/PRP book/NN prize/NN
+
+A/DT novel/NN set/VBN in/IN 19th/JJ century/NN Paraguay/NNP has/VBZ won/VBN the/DT $10000/CD (£5390)/CD fiction/NN prize/NN at/IN the/DT US/PRP National/NNP Book/NNP Awards./NNP
+
+Lily/NNP Tuck's/NNP The/DT News/NNP From/IN Paraguay/NNP is/VBZ a/DT fictionalised/VBN tale/NN about/IN Paraguayan/NNP leader/NN Francisco/NNP Solano/NNP Lopez/NNP and/CC his/PRP$ Irish/JJ mistress./NN
+But/CC the/DT annual/JJ awards/NNS which/WDT were/VBD presented/VBN in/IN New/NNP York/NNP on/IN Wednesday/NNP were/VBD not/RB without/IN controversy./NN
+Children's/NNP author/NN Judy/NNP Blume/NNP who/WP was/VBD given/VBN an/DT honourary/NN medal/NN used/VBD the/DT ceremony/NN to/TO speak/VB out/RP over/IN censorship./NN
+
+Sales/NNS of/IN Blume's/NNP books/NNS have/VBP exceeded/VBN 75/CD million/CD but/CC her/PRP$ work/NN -/: which/WDT features/NNS frank/JJ narratives/NNS about/IN families/NNS religion/NN and/CC sexuality/NN -/: is/VBZ closely/RB watched/VBN by/IN the/DT censors./NN
+Blume/NNP said/VBD "The/NN urge/NN to/TO ban/VB is/VBZ contagious./NN
+It/PRP spreads/VBZ like/IN wildfire/NN from/IN community/NN to/TO community./VB
+Please/VB speak/VB out./NN
+Censors/NNS hate/VBP publicity."/NN Her/PRP$ medal/NN marks/VBZ the/DT second/JJ year/NN in/IN a/DT row/NN the/DT honourary/NN prize/NN went/VBD to/TO someone/VB as/IN notable/JJ for/IN popular/JJ success/NN as/IN literary/JJ greatness./NN
+Last/JJ year's/NNS honorary/JJ winner/NN Stephen/NNP King/NNP accused/VBD the/DT industry/NN during/IN the/DT 2003/CD ceremony/NN of/IN snobbery/NN against/IN popular/JJ writers./NN
+But/CC his/PRP$ argument/NN that/IN the/DT award/NN should/MD help/VB sell/VB books/NNS instead/RB of/IN honouring/VBG excellence/NN is/VBZ not/RB shared/VBN by/IN everyone./NN
+
+This/DT year's/VBZ fiction/NN panel/NN overlooked/VBD high-profile/JJ works/VBZ such/JJ as/IN Philip/NNP Roth's/NNP The/DT Plot/NN Against/IN America/NNP and/CC instead/RB chose/VBD five/CD little-known/JJ books/NNS all/DT by/IN New/NNP York-based/JJ women./NN
+One/CD fiction/NN judge/NN Stewart/NNP O'Nan/NNP carried/VBD around/IN a/DT note/NN written/VBN on/IN a/DT napkin/NN that/WDT said/VBD "I/NN would/MD hope/VB that/IN our/PRP$ caring/VBG more/JJR for/IN the/DT quality/NN of/IN a/DT work/NN than/IN its/PRP$ sales/NNS figures/NNS make/VBP us/PRP a/DT friend/NN of/IN books/NNS not/RB an/DT enemy."/NN The/DT National/NNP Book/NNP Awards/NNS non-fiction/JJ prize/NN was/VBD awarded/VBN to/TO Kevin/NNP Boyle's/NNP for/IN Arc/NNP of/IN Justice/NNP which/WDT focuses/VBZ on/IN a/DT black/JJ family's/NNS fight/NN to/TO live/VB in/IN a/DT white/JJ Detroit/NNP neighbourhood/NN in/IN the/DT 1920s./CD
+The/DT award/NN had/VBD created/VBN a/DT lot/NN of/IN interest/NN this/DT year/NN after/IN the/DT surprise/NN inclusion/NN of/IN the/DT of/JJ the/DT 9-11/CD Commission/NNP Report/NNP looking/VBG into/IN the/DT events/NNS of/IN the/DT 11/CD September/NNP terrorist/JJ attacks/NNS on/IN the/DT US./NNP
+Pete/NNP Hautman/NNP won/VBD the/DT young/JJ people's/NNS literature/NN prize/NN for/IN his/PRP$ novel/NN Godless./NNP
+The/DT winner/NN in/IN the/DT poetry/NN category/NN was/VBD Jean/NNP Valentine/NNP for/IN Door/NNP in/IN the/DT Mountain/NNP New/NNP and/CC Collected/VBD Poems/NNP 1965-2003./JJ

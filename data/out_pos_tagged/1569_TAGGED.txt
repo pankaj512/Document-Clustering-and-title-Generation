@@ -1,0 +1,10 @@
+Everton's/NNP Weir/NNP cools/VBZ Euro/NNP hopes/VBZ
+
+Everton/NNP defender/NN David/NNP Weir/NNP has/VBZ played/VBN down/RB talk/NN of/IN European/JJ football/NN despite/IN his/PRP$ team/NN lying/VBG in/IN second/JJ place/NN in/IN the/DT Premiership/NN after/IN beating/VBG Liverpool./NNP
+
+Weir/NNP told/VBD BBC/NNP Radio/NNP Five/CD Live/JJ "We/NN don't/NN want/VBP to/TO rest/VB on/IN our/PRP$ laurels/NNS and/CC say/VB we/PRP have/VBP achieved/VBN anything/NN yet./NN
+"I/NN think/VBP you/PRP start/VBP taking/VBG your/PRP$ eye/NN off/RP the/DT ball/NN if/IN you/PRP make/VBP statements/NNS and/CC look/VB too/RB far/RB into/IN the/DT future./NN
+"If/NN you/PRP start/VBP making/VBG predictions/NNS you/PRP soon/RB fall/VBP back/RB into/IN trouble./NN
+The/DT only/JJ thing/NN that/IN matters/VBZ is/VBZ the/DT next/JJ game."/NN He/PRP said/VBD "We/NN are/VBP looking/VBG after/IN each/DT other/JJ and/CC hard/JJ work/NN goes/VBZ a/DT long/JJ way/NN in/IN this/DT league./NN
+We/PRP have/VBP definitely/RB shown/VBN that./NN
+"Also/NN injuries/NNS and/CC suspensions/NNS haven't/NN cost/NN us/PRP too/RB badly/RB and/CC we/PRP have/VBP a/DT lot/NN of/IN self-belief/NN around/IN the/DT place."/NN

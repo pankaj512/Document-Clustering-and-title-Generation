@@ -1,0 +1,18 @@
+Wilkinson/NNP return/NN 'unlikely'/NN
+
+Jonny/NNP Wilkinson/NNP looks/VBZ set/VBN to/TO miss/VB the/DT whole/NN of/IN the/DT 2005/CD RBS/NNP Six/CD Nations./NNP
+
+England's/NNP World/NNP Cup-winning/NNP fly-half/NN said/VBD last/JJ week/NN he/PRP was/VBD hoping/VBG to/TO recover/VB from/IN his/PRP$ latest/JJS injury/NN in/IN time/NN to/TO play/VB some/DT role/NN in/IN the/DT championship./NN
+But/CC Rob/NNP Andrew/NNP coach/NN of/IN Wilkinson's/NNP club/NN side/NN Newcastle/NNP said/VBD that/IN with/IN only/RB two/CD games/NNS left/VBN to/TO play/VB Wilkinson/NNP was/VBD unlikely/JJ to/TO be/VB fit/VBN in/IN time./NN
+"It/NN would/MD be/VB irresponsible/JJ to/TO put/VB him/PRP straight/JJ into/IN a/DT Test/NNP match"/NN Andrew/NNP told/VBD the/DT Times./NNP
+Wilkinson/NNP is/VBZ recovering/VBG from/IN a/DT knee/NN injury/NN which/WDT followed/VBD long-term/JJ neck/NN and/CC arm/NN injuries./NN
+He/PRP has/VBZ not/RB played/VBN for/IN England/NNP since/IN the/DT World/NNP Cup/NNP final/JJ in/IN November/NNP 2003/CD since/IN when/WRB the/DT stuttering/VBG world/NN champions/NNS have/VBP lost/VBN nine/CD of/IN their/PRP$ 14/CD matches./NN
+Wilkinson/NNP is/VBZ aiming/VBG to/TO make/VB his/PRP$ third/JJ start/NN to/TO the/DT season/NN in/IN the/DT Zurich/NNP Premiership/NN match/NN against/IN Harlequins/NNP on/IN 13/CD March./NNP
+
+That/DT game/NN is/VBZ the/DT day/NN after/IN England/NNP play/VB Italy/NNP in/IN the/DT Six/CD Nations/NNPS and/CC six/CD days/NNS before/IN their/PRP$ final/JJ match/NN of/IN the/DT championship/NN against/IN Scotland./NNP
+"We/NN are/VBP hoping/VBG Jonny/NNP will/MD be/VB ready/JJ in/IN a/DT fortnight/NN but/CC it/PRP is/VBZ touch/NN and/CC go"/NN said/VBD Andrew./NNP
+"His/NN recovery/NN is/VBZ going/VBG very/RB well/RB and/CC the/DT key/JJ now/RB is/VBZ how/WRB he/PRP is/VBZ reintroduced/VBN to/TO playing/VBG and/CC with/IN it/PRP goal-kicking./JJ
+"He/NN will/MD probably/RB have/VB to/TO come/VB off/RP the/DT bench/NN to/TO start/VB and/CC it/PRP would/MD be/VB ridiculous/JJ and/CC irresponsible/JJ to/TO put/VB him/PRP straight/JJ back/RB into/IN a/DT Test/NNP match./NN
+"We/NN can't/NN afford/NN to/TO get/VB it/PRP wrong/JJ with/IN a/DT knee/NN injury./NN
+We/PRP are/VBP in/IN touch/NN with/IN England/NNP and/CC they/PRP are/VBP relaxed/VBN about/IN it."/NN Despite/IN not/RB playing/VBG for/IN England/NNP Wilkinson/NNP is/VBZ still/RB hoping/VBG to/TO make/VB the/DT Lions/NNP tour/NN to/TO New/NNP Zealand/NNP this/DT summer./NN
+Lions/NNP coach/NN Sir/NNP Clive/NNP Woodward/NNP has/VBZ not/RB set/VBN a/DT deadline/NN for/IN when/WRB Wilkinson/NNP has/VBZ to/TO start/VB playing/VBG again/RB in/IN order/NN to/TO be/VB considered/VBN for/IN selection./NN

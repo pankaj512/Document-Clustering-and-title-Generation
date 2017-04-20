@@ -1,0 +1,20 @@
+Hi-tech/JJ posters/NNS guide/NN commuters/NNS
+
+Interactive/JJ posters/NNS are/VBP helping/VBG Londoners/NNP get/VB around/IN the/DT city/NN during/IN the/DT festive/JJ season./NN
+
+When/WRB interrogated/VBN with/IN a/DT mobile/JJ phone/NN the/DT posters/NNS pass/VBP on/IN a/DT number/NN that/IN people/NNS can/MD call/VB to/TO get/VB information/NN about/IN the/DT safest/JJS route/NN home./NN
+Sited/NNP at/IN busy/JJ underground/JJ stations/NNS the/DT posters/NNS are/VBP fitted/VBN with/IN an/DT infra-red/JJ port/NN that/WDT can/MD beam/VB information/NN directly/RB to/TO a/DT handset./NN
+The/DT posters/NNS are/VBP part/NN of/IN Transport/NNP for/IN London's/NNP Safe/NNP Travel/NNP at/IN Night/NNP campaign./NN
+
+The/DT campaign/NN is/VBZ intended/VBN to/TO help/VB Londoners/NNP especially/RB women/VBZ avoid/VBP trouble/NN on/IN the/DT way/NN home./NN
+In/IN particular/JJ it/PRP aims/VBZ to/TO cut/VB the/DT number/NN of/IN sexual/JJ assaults/NNS by/IN drivers/NNS of/IN unlicensed/VBN minicabs./NN
+Nigel/NNP Marson/NNP head/NN of/IN group/NN marketing/NN at/IN Transport/NNP for/IN London/NNP (TfL)/NN said/VBD the/DT posters/NNS were/VBD useful/JJ because/IN they/PRP work/VBP outside/IN the/DT mobile/JJ phone/NN networks./NN
+"They/NN can/MD work/VB in/IN previously/RB inaccessible/JJ areas/NNS such/JJ as/IN underground/JJ stations/NNS which/WDT is/VBZ obviously/RB a/DT huge/JJ advantage/NN in/IN a/DT campaign/NN of/IN this/DT sort"/NN he/PRP said./VB
+
+The/DT posters/NNS will/MD automatically/RB beam/VB information/NN to/TO any/DT phone/NN equipped/VBN with/IN an/DT IR/NNP port/NN that/WDT is/VBZ held/VBN close/RB to/TO the/DT glowing/JJ red/JJ icon/NN on/IN the/DT poster./NN
+"We/NN started/VBD with/IN infra-red/JJ because/IN there/EX are/VBP a/DT huge/JJ number/NN IR/NNP phones/NNS out/RP there"/NN said/VBD Rachel/NNP Harker/NNP spokeswoman/NN for/IN Hypertag/NNP which/WDT makes/VBZ the/DT technology/NN fitted/VBN to/TO the/DT posters./NN
+"It's/NN a/DT well/RB established/VBN technology."/NN Hypertag/NNP is/VBZ also/RB now/RB making/VBG a/DT poster/NN that/WDT uses/VBZ short-range/JJ Bluetooth/NNP radio/NN technology/NN to/TO swap/VB data./NN
+Although/IN the/DT hypertags/NNS in/IN the/DT posters/NNS only/RB pass/VBP on/IN a/DT phone/NN number/NN Ms/NNP Harker/NNP said/VBD they/PRP can/MD pass/VB on/IN almost/RB any/DT form/NN of/IN data/NNS including/VBG images/NNS ring/NN tones/NNS and/CC video/NN clips./NN
+She/PRP said/VBD that/IN there/EX are/VBP no/DT figures/NNS for/IN how/WRB many/JJ people/NNS are/VBP using/VBG the/DT posters/NNS but/CC a/DT previous/JJ campaign/NN run/NN for/IN a/DT cosmetics/NNS firm/NN racked/VBD up/RP 12500/CD interactions./JJ
+"Before/NN we/PRP ran/VBD a/DT campaign/NN there/EX was/VBD a/DT big/JJ question/NN mark/NN of/IN 'If/NN we/PRP build/VBP it/PRP will/MD they/PRP come?'"/VBP she/PRP said./VBP
+"Now/NN we/PRP know/VBP that/IN yes/UH they/PRP will."/VBP The/DT TfL/NNP campaign/NN using/VBG the/DT posters/NNS will/MD run/VB until/IN Boxing/NNP Day./NNP

@@ -1,0 +1,18 @@
+UK/NN pledges/NNS £1bn/CD to/TO vaccine/VB effort/NN
+
+UK/NNP Chancellor/NNP Gordon/NNP Brown/NNP has/VBZ offered/VBN £960m/CD ($1.8bn)/CD over/IN 15/CD years/NNS to/TO an/DT international/JJ scheme/NN aiming/VBG to/TO boost/VB vaccination/NN and/CC immunisation/NN schemes./NN
+
+In/IN a/DT speech/NN he/PRP called/VBD for/IN action/NN to/TO reach/VB the/DT 2000/CD Millennium/NNP Declaration/NNP goals/NNS of/IN halving/VBG global/JJ poverty/NN and/CC tackling/VBG child/NN mortality/NN rates./NN
+Mr/NNP Brown/NNP has/VBZ just/RB returned/VBN from/IN a/DT tour/NN of/IN African/JJ nations./NN
+The/DT £1bn/CD commitment/NN is/VBZ part/NN of/IN a/DT five-point/JJ plan/NN on/IN debt/NN relief/NN trade/NN aid/NN education/NN and/CC health./NN
+
+The/DT chancellor/NN was/VBD speaking/VBG at/IN an/DT event/NN jointly/RB organised/VBN by/IN the/DT UK's/NNP Department/NNP for/IN International/NNP Development/NNP and/CC the/DT UN/NNP Development/NNP Programme/NNP on/IN Wednesday./NNP
+Mr/NNP Brown/NNP welcomed/VBD news/NN that/IN the/DT Bill/NNP Gates/NNP Foundation/NNP and/CC Norway/NNP are/VBP joining/VBG up/RP to/TO put/VB an/DT extra/JJ £0.53bn/CD ($1bn/CD )/) into/IN the/DT Global/JJ Alliance/NNP for/IN Vaccines/NNS and/CC Immunisation/NNP (Gavi)./NN
+Britain/NNP France/NNP Gavi/NNP and/CC the/DT Gates/NNP Foundation/NNP have/VBP drawn/VBN up/RP proposals/NNS to/TO apply/VB the/DT principles/NNS of/IN the/DT International/NNP Finance/NNP Facility/NN (IFF)/NN to/TO the/DT area/NN of/IN immunisation./NN
+That/DT could/MD see/VB donors/NNS making/VBG long-term/JJ legally/RB binding/JJ financial/JJ commitments/NNS which/WDT can/MD then/RB be/VB used/VBN as/IN collateral/NN for/IN raising/VBG extra/JJ funds/NNS from/IN international/JJ capital/NN markets./NN
+As/RB well/RB as/IN pledging/VBG £960m/CD over/IN 15/CD years/NNS to/TO the/DT immunisation/NN IFF/NNP Britain/NNP urged/VBD other/JJ donors/NNS to/TO contribute./VB
+
+If/IN Gavi/NNP could/MD increase/VB its/PRP$ funding/NN for/IN immunisation/NN by/IN an/DT extra/JJ £4bn/CD ($7.4bn)/CD over/IN 10/CD years/NNS then/RB an/DT extra/JJ five/CD million/CD lives/NNS could/MD have/VB been/VBN saved/VBN by/IN 2015/CD and/CC five/CD million/CD thereafter/RB Mr/NNP Brown/NNP argued./NN
+Campaign/JJ groups/NNS including/VBG Friends/NNPS of/IN the/DT Earth/NNP the/DT World/NNP Development/NNP Movement/NNP and/CC War/NNP on/IN Want/VBP said/VBD UK/NNP government/NN policy/NN on/IN free/JJ trade/NN was/VBD a/DT major/JJ barrier/NN to/TO fighting/VBG poverty./NN
+War/NNP on/IN Want's/NNP John/NNP Hilary/NNP said/VBD "Compassionate/NN rhetoric/NN cannot/NN disguise/VBP the/DT reality/NN of/IN the/DT government's/NNS neo-liberal/JJ policies./NN
+"As/NN long/RB as/IN Mr/NNP Blair/NNP and/CC Mr/NNP Brown/NNP continue/VB to/TO push/VB free/JJ trade/NN and/CC privatisation/NN on/IN developing/VBG countries/NNS more/JJR and/CC more/JJR people/NNS will/MD be/VB pushed/VBN deeper/JJR into/IN poverty/NN not/RB lifted/VBD out/IN of/IN it."/NN

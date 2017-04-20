@@ -1,0 +1,18 @@
+GE/NNP sees/VBZ 'excellent'/NN world/NN economy/NN
+
+US/PRP behemoth/VBP General/NNP Electric/NNP has/VBZ posted/VBN an/DT 18%/CD jump/NN in/IN quarterly/JJ sales/NNS and/CC in/IN profits/NNS and/CC declared/VBD itself/PRP "in/VBP great/JJ shape"./NN
+
+"We/NN are/VBP benefiting/VBG from/IN our/PRP$ growth/NN initiatives/NNS and/CC an/DT excellent/JJ global/JJ economy"/NN said/VBD GE's/NNP chief/NN executive/NN Jeff/NNP Immelt./NNP
+GE/NNP is/VBZ the/DT US'/NNP biggest/JJS firm/NN based/VBN on/IN stock/NN market/NN valuation./NN
+GE's/NNP net/JJ profits/NNS were/VBD $5.37bn/CD (£2.86bn)/CD for/IN the/DT final/JJ three/CD months/NNS of/IN 2004/CD while/IN sales/NNS came/VBD in/IN at/IN $43.7bn./CD
+The/DT group/NN whose/WP$ businesses/NNS range/VBP from/IN jet/NN engines/NNS to/TO the/DT NBC/NNP television/NN channel/NN forecast/NN sustained/VBD growth/NN at/IN between/IN 10-15%/JJ for/IN this/DT year/NN and/CC next./NN
+GE's/NNP shares/NNS rose/VBD 1%/CD on/IN the/DT news/NN before/IN ending/VBG Friday/NNP 0.24%/CD lower./NN
+
+"The/NN industries/NNS GE/NNP is/VBZ in/IN are/VBP doing/VBG very/RB well./NN
+The/DT materials/NNS financial/JJ and/CC industrial/JJ sectors/NNS are/VBP all/DT picking/VBG up"/NN said/VBD Steve/NNP Roukis/NNP an/DT analyst/NN at/IN fund/NN manager/NN Matrix/NNP Asset/NNP Advisors/NNP which/WDT has/VBZ shares/NNS in/IN GE./NNP
+GE/NNP said/VBD orders/NNS in/IN the/DT fourth/JJ quarter/NN were/VBD 15%/CD higher/JJR than/IN in/IN the/DT same/JJ period/NN of/IN 2003/CD "with/NN growth/NN across/IN the/DT board"./NN
+"In/NN the/DT fourth/JJ quarter/NN nine/CD of/IN our/PRP$ 11/CD businesses/NNS delivered/VBN at/IN least/JJS double-digit/JJ earnings/NNS growth"/NN said/VBD Mr/NNP Immelt./NNP
+Full/JJ year/NN 2004/CD gains/NNS were/VBD less/RBR spectacular/JJ but/CC still/RB respectable./NN
+Net/JJ profit/NN was/VBD up/RB 6%/CD at/IN $16.6bn./CD
+Last/JJ year/NN GE/NNP bought/VBD Vivendi/NNP Universal/NNP merging/VBG it/PRP with/IN NBC/NNP to/TO form/VB NBC/NNP Universal./NNP
+The/DT success/NN of/IN Universal/NNP Studio's/NNP film/NN 'Ray'/NN a/DT portrait/NN of/IN jazz/NN musician/NN Ray/NNP Charles/NNP has/VBZ helped/VBN boost/VB earnings/NNS at/IN the/DT unit./NN

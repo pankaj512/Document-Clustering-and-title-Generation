@@ -1,0 +1,10 @@
+Martinez/NNP sees/VBZ off/RP Vinci/NNP challenge/NN
+
+Veteran/NNP Spaniard/NNP Conchita/NNP Martinez/NNP came/VBD from/IN a/DT set/VBN down/RP to/TO beat/VB Italian/JJ Roberta/NNP Vinci/NNP at/IN the/DT Qatar/NNP Open/NNP in/IN Doha./NNP
+
+The/DT 1994/CD Wimbledon/NNP champion/NN won/VBD 5-7/JJ 6-0/JJ 6-2/JJ to/TO earn/VB a/DT second/JJ round/NN meeting/NN with/IN French/JJ Open/NNP champion/NN Anastasia/NNP Myskina./NNP
+Fifth/NNP seed/NN Patty/NNP Schnyder/NNP also/RB had/VBD a/DT battle/NN as/IN she/PRP needed/VBD three/CD sets/NNS to/TO beat/VB China's/NNP Na/TO Li/NNP 7-5/JJ 3-6/JJ 7-5./JJ
+Slovakian/NNP Daniela/NNP Hantuchova/NNP beat/VBP Bulgarian/JJ Magdaleena/NNP Maleeva/NNP 4-6/JJ 6-4/JJ 6-3/JJ to/TO set/VB up/RP a/DT second/JJ round/NN clash/NN with/IN Russian/JJ Elena/NNP Bovina./NNP
+The/DT veteran/NN Martinez/NNP found/VBD herself/PRP in/IN trouble/NN early/RB on/IN against/IN Vinci/NNP with/IN the/DT Italian/JJ clinching/NN the/DT set/VBN thanks/NNS to/TO breaks/NNS in/IN the/DT third/JJ and/CC 11th/JJ games./NN
+But/CC Vinci's/NNP game/NN fell/VBD to/TO pieces/NNS after/IN that/DT and/CC Martinez/NNP swept/VBD her/PRP$ aside/RB with/IN some/DT crisp/JJ cross-court/JJ returns/NNS and/CC deft/NN volleys./NN
+In/IN the/DT day's/NNS other/JJ matches/VBZ Japan's/NNP Ai/VBP Sugiyama/NNP defeated/VBD Australian/NNP Samantha/NNP Stosur/NNP 6-2/JJ 6-3/NN while/IN Australian/NNP Nicole/NNP Pratt/NNP beat/VB Tunisian/NNP Selima/NNP Sfar/NNP 7-5/JJ 6-2/JJ and/CC will/MD next/VB face/NN compatriot/NN Alicia/NNP Molik./NNP

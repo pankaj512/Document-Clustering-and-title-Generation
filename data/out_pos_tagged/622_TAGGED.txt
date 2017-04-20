@@ -1,0 +1,12 @@
+Elvis/NNP set/VBD to/TO top/JJ UK/NNP singles/NNS chart/NN
+
+Rock/NNP 'n'/CC roll/NN legend/NN Elvis/NNP is/VBZ set/VBN to/TO top/VB the/DT UK/NNP singles/NNS chart/NN on/IN Sunday/NNP 27/CD years/NNS after/IN his/PRP$ death./NN
+
+The/DT re-release/NN of/IN hit/VBN song/NN Jailhouse/NN Rock/NNP was/VBD out-selling/JJ X/NNP Factor/NN winner/NN Steve/NNP Brockstein's/NNP cover/VB of/IN Against/IN All/DT Odds/NNS by/IN 2000/CD copies/NNS on/IN Tuesday./NNP
+If/IN the/DT record/NN does/VBZ make/VB the/DT top/JJ spot/NN it/PRP will/MD be/VB Elvis'/NNP 19th/JJ UK/NNP number/NN one./NN
+The/DT last/JJ time/NN he/PRP topped/VBD the/DT charts/NNS was/VBD with/IN the/DT remix/NN of/IN the/DT little-known/JJ song/NN A/DT Little/NNP Less/JJR Conversation/NN which/WDT was/VBD number/NN one/CD in/IN June/NNP 2002./CD
+If/IN Jailhouse/NN Rock/NNP does/VBZ reach/VB number/NN one/CD on/IN Sunday/NNP it/PRP will/MD be/VB the/DT 999th/JJ in/IN the/DT history/NN of/IN the/DT UK/NNP pop/NN charts./NN
+The/DT song/NN first/RB topped/VBD the/DT charts/NNS in/IN 1958./CD
+Chart/NN analysts/NNS say/VBP Elvis/NNP could/MD score/VB the/DT 1000th/JJ number/NN one/CD as/IN well./NN
+His/PRP$ record/NN One/CD Night/NNP will/MD be/VB released/VBN the/DT following/JJ week/NN followed/VBD the/DT week/NN after/IN by/IN A/DT Fool/NN Such/JJ As/RB I/PRP as/IN part/NN of/IN his/PRP$ record/NN company/NN SonyBMG's/NNP new/JJ Elvis/NNP campaign./NN
+It/PRP has/VBZ called/VBN it/PRP "the/NN most/RBS ambitious/JJ singles/NNS release/NN campaign/NN in/IN the/DT history/NN of/IN the/DT UK/NNP record/NN industry"./NN

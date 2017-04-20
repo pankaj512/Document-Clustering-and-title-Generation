@@ -1,0 +1,14 @@
+UK/NNP young/JJ top/JJ Euro/NNP earnings/NNS league/NN
+
+British/JJ children/NNS enjoy/VBP the/DT highest/JJS average/NN annual/JJ income/NN in/IN Europe/NNP -/: more/RBR than/IN double/JJ that/IN of/IN Spanish/JJ or/CC Italian/JJ youngsters/NNS a/DT report/NN suggests./NN
+
+Children/NNP in/IN the/DT UK/NNP between/IN the/DT ages/NNS of/IN 10/CD and/CC 17/CD had/VBD an/DT annual/JJ income/NN of/IN £775/CD said/VBD market/NN analyst/NN Datamonitor./NNP
+They/PRP use/VBP "pester/NN power"/NN to/TO get/VB their/PRP$ parents/NNS to/TO stump/VB up/RP nearly/RB a/DT third/JJ of/IN this/DT income/NN the/DT report/NN said./NN
+As/IN for/IN how/WRB they/PRP spend/VBP their/PRP$ cash/NN the/DT bulk/NN goes/VBZ on/IN personal/JJ care/NN soft/JJ drinks/NNS and/CC food/NN Datamonitor/NNP said./NN
+
+Datamonitor/NNP adds/VBZ that/IN British/JJ teenagers/NNS are/VBP keen/JJ on/IN personal/JJ care/NN because/IN it/PRP helps/VBZ them/PRP combine/VBP two/CD seemingly/RB contradictory/JJ emotional/JJ needs/NNS -/: the/DT desire/NN to/TO fit/VB in/IN and/CC the/DT desire/NN to/TO express/VB their/PRP$ individuality./NN
+
+British/JJ teenage/JJ girls/NNS compared/VBN to/TO their/PRP$ counterparts/NNS in/IN seven/CD European/JJ countries/NNS are/VBP the/DT most/RBS keen/JJ to/TO use/VB make-up/JJ products./NN
+Nearly/RB three/CD out/IN of/IN four/CD girls/NNS said/VBD they/PRP used/VBD make-up./JJ
+According/VBG to/TO the/DT Datamonitor/NNP report/NN the/DT trend/NN marked/VBD British/JJ teenagers/NNS out/RP as/RB "particularly/RB important/JJ to/TO cosmetics/NNS manufacturers/NNS as/IN they/PRP are/VBP likely/JJ to/TO experiment/VB more/JJR with/IN brands/NNS and/CC products/NNS and/CC form/NN long-term/JJ beauty/NN routines"./NN
+And/CC the/DT good/JJ times/NNS are/VBP likely/JJ to/TO keep/VB rolling/VBG for/IN British/JJ children/NNS as/IN the/DT report/NN predicts/VBZ that/IN they/PRP will/MD still/RB be/VB topping/VBG the/DT earnings/NNS table/NN in/IN 2008./CD

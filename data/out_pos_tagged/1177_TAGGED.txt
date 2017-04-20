@@ -1,0 +1,26 @@
+Kilroy-Silk/NNP quits/VBZ 'shameful'/NN UKIP/NNP
+
+Ex-chat/NN show/NN host/NN Robert/NNP Kilroy-Silk/NNP has/VBZ quit/VBN the/DT UK/NNP Independence/NNP Party/NNP and/CC accused/VBD it/PRP of/IN betraying/VBG its/PRP$ supporters./NN
+
+The/DT MEP/NNP said/VBD he/PRP was/VBD ashamed/JJ to/TO have/VB joined/VBN the/DT party/NN which/WDT he/PRP labelled/VBD as/IN a/DT "joke"./NN
+He/PRP plans/VBZ to/TO stand/VB in/IN the/DT next/JJ general/JJ election/NN but/CC refused/VBD to/TO confirm/VB he/PRP is/VBZ setting/VBG up/RP a/DT new/JJ political/JJ party/NN called/VBN Veritas/NNP -/: Latin/NNP for/IN truth./NN
+UKIP/NNP leader/NN Roger/NNP Knapman/NNP said/VBD he/PRP would/MD "break/VB open/JJ the/DT champagne"/NN adding/VBG "It/NN was/VBD nice/JJ knowing/NN him/PRP now/RB 'goodbye'."/VBP However/RB he/PRP did/VBD say/VB the/DT ex-chat/NN show/NN host/NN had/VBD been/VBN "quite/NN useful/JJ initially"./NN
+"He/NN has/VBZ remarkable/JJ ability/NN to/TO influence/VB people/NNS but/CC sadly/RB after/IN the/DT (European)/NN election/NN it/PRP became/VBD clear/JJ that/IN he/PRP was/VBD more/RBR interested/JJ in/IN the/DT Robert/NNP Kilroy-Silk/NNP Party/NNP than/IN the/DT UK/NNP Independence/NNP Party/NNP so/IN it/PRP was/VBD nice/JJ knowing/NN him/PRP now/RB 'goodbye'"/VBP Mr/NNP Knapman/NNP told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN programme./NN
+Mr/NNP Knapman/NNP rejected/VBD the/DT idea/NN Mr/NNP Kilroy-Silk/NNP posed/VBD a/DT threat/NN to/TO UKIP/NNP and/CC queried/VBN why/WRB he/PRP had/VBD failed/VBN to/TO confirm/VB rumours/NNS he/PRP was/VBD starting/VBG a/DT new/JJ political/JJ party./NN
+
+Mr/NNP Kilroy-Silk/NNP explained/VBD his/PRP$ reasons/NNS to/TO his/PRP$ East/NNP Midlands/NNP constituents/NNS at/IN a/DT meeting/NN in/IN Hinckley/NNP Leicestershire./NNP
+His/PRP$ decision/NN came/VBD as/IN UKIP/NNP officials/NNS began/VBD a/DT process/NN which/WDT could/MD have/VB triggered/VBN Mr/NNP Kilroy-Silk's/NNP expulsion./NN
+It/PRP marks/VBZ the/DT end/NN of/IN his/PRP$ membership/NN of/IN UKIP/NNP after/IN just/RB nine/CD months./NN
+It/PRP began/VBD with/IN a/DT flood/NN of/IN publicity/NN which/WDT helped/VBD UKIP/NNP into/IN third/JJ place/NN in/IN last/JJ June's/JJ European/JJ elections/NNS but/CC became/VBD dominated/VBN by/IN rancour/NN as/IN he/PRP tried/VBD to/TO take/VB over/RP the/DT party/NN leadership./NN
+
+Mr/NNP Kilroy-Silk/NNP accused/VBD his/PRP$ fellow/JJ UKIP/NNP MEPs/NNP of/IN being/VBG content/NN with/IN growing/VBG fat/JJ "sitting/NN on/IN their/PRP$ backsides"/NN in/IN Brussels./NNP
+He/PRP told/VBD BBC/NNP News/NNP 24/CD "I/NN tried/VBD to/TO change/VB the/DT party/NN I/PRP nagged/VBD all/PDT the/DT way/NN through/IN the/DT summer/NN to/TO do/VB things/NNS to/TO get/VB moving/VBG because/IN I/PRP thought/VBD it/PRP was/VBD criminal/JJ what/WP they/PRP were/VBD doing/VBG it/PRP was/VBD a/DT betrayal."/NN Mr/NNP Kilroy-Silk/NNP also/RB told/VBD Sky/NNP News/NNP there/EX was/VBD "masses/NN of/IN support"/NN for/IN him/PRP to/TO form/VB a/DT new/JJ party/NN -/: something/NN he/PRP has/VBZ yet/RB to/TO confirm/VB will/MD happen./VB
+
+UKIP/NNP won/VBD 12/CD seats/NNS and/CC 16.1%/CD of/IN the/DT vote/NN at/IN the/DT European/JJ elections/NNS on/IN the/DT back/NN of/IN its/PRP$ call/NN for/IN the/DT UK/NNP to/TO leave/VB the/DT European/NNP Union/NNP In/IN his/PRP$ speech/NN Mr/NNP Kilroy-Silk/NNP says/VBZ the/DT result/NN offered/VBN UKIP/NNP an/DT "amazing/VBG opportunity"/NN but/CC the/DT party's/NNS leadership/NN had/VBD done/VBN nothing/NN and/CC "gone/JJ AWOL"./NNP
+There/EX were/VBD no/DT policies/NNS no/DT energy/NN no/DT vision/NN and/CC no/DT spokespeople/NN he/PRP said./VB
+"The/NN party/NN is/VBZ going/VBG nowhere/RB and/CC I'm/NNP embarrassed/JJ with/IN its/PRP$ allies/NNS in/IN Europe/NNP and/CC I'm/NNP ashamed/JJ to/TO be/VB a/DT member/NN of/IN the/DT party"/NN said/VBD Mr/NNP Kilroy-Silk./NNP
+
+He/PRP said/VBD his/PRP$ conviction/NN in/IN Britain's/NNP right/NN to/TO govern/VB itself/PRP had/VBD not/RB changed./NN
+He/PRP would/MD continue/VB that/DT campaign/NN outside/IN UKIP/NNP when/WRB he/PRP contested/VBD the/DT general/JJ election/NN in/IN an/DT East/NNP Midlands/NNP constituency./NN
+Reports/NNS of/IN his/PRP$ new/JJ party/NN plans/NNS have/VBP prompted/VBN a/DT formal/JJ complaint/NN to/TO UKIP's/NNP disciplinary/JJ committee/NN for/IN bringing/VBG the/DT party/NN into/IN "disrepute"./NN
+On/IN Thursday/NNP the/DT party/NN challenged/VBN Mr/NNP Kilroy-Silk/NNP to/TO stand/VB down/RB as/IN an/DT MEP/NNP so/RB voters/VBZ can/MD get/VB a/DT genuine/JJ UKIP/NNP candidate./NN

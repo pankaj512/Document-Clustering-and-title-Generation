@@ -1,0 +1,16 @@
+US/PRP actor/VBP 'found/NN with/IN gun/NN residue'/NN
+
+Actor/NNP Robert/NNP Blake/NNP had/VBD gunshot/NN residue/NN on/IN his/PRP$ hands/NNS and/CC clothes/VBZ the/DT night/NN his/PRP$ wife/NN was/VBD shot/VBN dead/JJ a/DT court/NN has/VBZ heard./NN
+
+But/CC it/PRP may/MD not/RB have/VB come/VBN from/IN the/DT shot/NN that/WDT killed/VBD Bonny/NNP Lee/NNP Bakley/NNP in/IN 2001/CD Mr/NNP Blake's/NNP murder/NN trial/NN was/VBD told/VBN by/IN criminalist/NN Steven/NNP Dowell./NNP
+Mr/NNP Dowell/NNP told/VBD a/DT Los/NNP Angeles/NNP court/NN the/DT residue/NN may/MD have/VB come/VBN from/IN Mr/NNP Blake's/NNP revolver/NN his/PRP$ gun/NN collection/NN his/PRP$ presence/NN at/IN the/DT crime/NN scene/NN or/CC police./NN
+The/DT 71-year-old/JJ former/JJ star/NN of/IN US/PRP TV/VBP drama/NN Baretta/NNP has/VBZ denied/VBN murder./NN
+Mr/NNP Blake/NNP said/VBD he/PRP found/VBD Ms/NNP Bakley/NNP 44/CD dead/JJ in/IN a/DT car/NN after/IN they/PRP left/VBD a/DT restaurant./NN
+
+He/PRP said/VBD he/PRP briefly/VB returned/VBD to/TO the/DT restaurant/NN to/TO collect/VB a/DT gun/NN he/PRP had/VBD left/VBN behind/IN and/CC discovered/VBD her/PRP$ body/NN when/WRB he/PRP returned./VB
+The/DT gun/NN he/PRP collected/VBD was/VBD not/RB the/DT murder/NN weapon./NN
+It/PRP could/MD also/RB have/VB been/VBN picked/VBN up/RP if/IN he/PRP touched/VBD or/CC leant/NN on/IN the/DT car/NN when/WRB he/PRP found/VBD the/DT body/NN or/CC from/IN a/DT police/NN box/NN in/IN which/WDT his/PRP$ clothes/NNS were/VBD later/RB stored./NN
+The/DT box/NN had/VBD come/VBN from/IN an/DT area/NN where/WRB officers/NNS went/VBD after/IN being/VBG on/IN the/DT firing/NN range./NN
+But/CC Mr/NNP Dowell/NNP also/RB said/VBD the/DT residue/NN would/MD have/VB been/VBN present/JJ if/IN Mr/NNP Blake/NNP fired/VBD a/DT gun/NN that/DT night./NN
+Witnesses/NNS have/VBP already/RB told/VBN the/DT trial/NN Mr/NNP Blake/NNP "stood/NN out/RP as/IN being/VBG quite/RB nervous/JJ and/CC agitated"/NN at/IN the/DT restaurant/NN before/IN the/DT murder./NN
+The/DT actor/NN who/WP won/VBD an/DT Emmy/NNP for/IN playing/VBG a/DT maverick/NN detective/NN in/IN the/DT 1970s/NNS TV/NN cop/NN drama/NN Baretta/NNP could/MD face/VB life/NN in/IN prison/NN if/IN convicted./NN

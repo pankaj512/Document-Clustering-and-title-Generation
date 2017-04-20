@@ -1,0 +1,16 @@
+Petrol/NN duties/NNS frozen/JJ Brown/NNP says/VBZ
+
+Chancellor/NNP Gordon/NNP Brown/NNP has/VBZ announced/VBN a/DT freeze/NN on/IN fuel/NN duty/NN in/IN his/PRP$ pre-budget/JJ speech/NN to/TO the/DT Commons/NNPS on/IN Thursday./NNP
+
+Mr/NNP Brown/NNP told/VBD the/DT House/NNP that/DT government/NN policy/NN is/VBZ to/TO raise/VB fuel/NN duty/NN at/IN least/JJS in/IN line/NN with/IN inflation/NN each/DT year/NN to/TO fulfil/VB environmental/JJ commitments./NN
+But/CC this/DT financial/JJ year/NN because/IN of/IN "volatility/NN in/IN the/DT oil/NN market"/NN he/PRP said/VBD the/DT duty/NN would/MD be/VB frozen./NN
+During/IN 2000/CD many/JJ motorists/NNS campaigned/VBN against/IN the/DT rises/NNS but/CC environmentalists/NNS believe/VBP less/JJR duty/NN means/VBZ more/JJR pollution./NN
+He/PRP said/VBD "It/NN is/VBZ our/PRP$ policy/NN that/IN each/DT year/NN fuel/NN duties/NNS should/MD rise/VB at/IN least/JJS in/IN line/NN with/IN inflation/NN as/IN we/PRP seek/VBP to/TO meet/VB our/PRP$ targets/NNS for/IN reducing/VBG polluting/VBG emmissions/NNS and/CC fund/VB our/PRP$ public/JJ services./NN
+"But/NN this/DT financial/JJ year/NN because/IN of/IN the/DT sustained/VBN volatility/NN in/IN the/DT oil/NN market/NN I/PRP propose/VBP to/TO match/VB the/DT freeze/NN in/IN car/NN vehicle/NN licence/NN duty/NN with/IN a/DT continuation/NN on/IN the/DT freeze/NN on/IN the/DT main/JJ road/NN fuel/NN duties."/NN
+
+The/DT RAC/NNP welcomed/VBD the/DT news/NN calling/VBG it/PRP an/DT "early/RB Christmas/NNP present"/NN for/IN motorists./NN
+But/CC the/DT organisation/NN urged/VBD drivers/NNS to/TO continue/VB to/TO shop/VB around/RP to/TO get/VB the/DT best/JJS price/NN for/IN petrol./NN
+Environmental/NNP group/NN Transport/NNP 2000/CD said/VBD the/DT freeze/NN sends/VBZ the/DT wrong/JJ message/NN to/TO motorists./VB
+"We/NN are/VBP concerned/VBN that/IN although/IN Britain/NNP leads/VBZ the/DT world/NN in/IN rhetoric/NN about/IN climate/NN change/NN it/PRP often/RB fails/VBZ in/IN practical/JJ action"/NN said/VBD a/DT spokesman./NN
+In/IN 2000/CD the/DT People's/NNP Fuel/NN Lobby/NN caused/VBD chaos/NN by/IN blocking/VBG roads/NNS with/IN slow-moving/JJ convoys/NNS after/IN Mr/NNP Brown/NNP threatened/VBD to/TO raise/VB fuel/NN taxes./NN
+The/DT chancellor/NN did/VBD not/RB raise/VB duty/NN that/DT year/NN but/CC despite/IN threats/NNS of/IN more/JJR protests/NNS in/IN 2003/CD he/PRP added/VBD 1.28p/CD per/IN litre./NN

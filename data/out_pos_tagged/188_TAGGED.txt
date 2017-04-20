@@ -1,0 +1,24 @@
+Qwest/NNP may/MD spark/VB MCI/NNP bidding/NN war/NN
+
+US/PRP phone/VBP company/NN Qwest/NNP has/VBZ said/VBN it/PRP will/MD table/VB a/DT new/JJ offer/NN for/IN MCI/NNP after/IN losing/VBG out/RP to/TO larger/JJR rival/JJ Verizon/NNP setting/VBG the/DT scene/NN for/IN a/DT possible/JJ bidding/NN war./NN
+
+MCI/NNP accepted/VBD a/DT $6.75bn/CD (£3.6bn)/CD buyout/NN from/IN telecoms/NNS giant/JJ Verizon/NNP on/IN Monday/NNP rejecting/VBG a/DT higher/JJR offer/NN from/IN Qwest./NNP
+Qwest/NNP chairman/NN Richard/NNP Notebaert/NNP sent/VBD a/DT letter/NN to/TO MCI's/NNP board/NN on/IN Thursday/NNP saying/VBG that/IN it/PRP plans/VBZ to/TO submit/VB a/DT new/JJ offer/NN after/IN examining/VBG Verizon's/NNP bid./NN
+Formerly/RB known/VBN as/IN Worldcom/NNP MCI/NNP is/VBZ a/DT long-distance/JJ and/CC corporate/JJ phone/NN firm./NN
+Snapping/VBG up/RP MCI/NNP would/MD give/VB the/DT buyer/NN access/NN to/TO a/DT global/JJ telecommunications/NNS network/NN and/CC a/DT large/JJ number/NN of/IN business-based/JJ subscribers./NN
+Shares/NNS of/IN MCI/NNP were/VBD up/RB more/JJR than/IN 4%/CD in/IN electronic/JJ trading/NN after/IN the/DT close/NN of/IN New/NNP York/NNP markets./NN
+
+Qwest/NNP said/VBD on/IN Wednesday/NNP that/IN MCI/NNP had/VBD rejected/VBN a/DT deal/NN worth/JJ $8bn./CD
+"We/NN would/MD like/VB to/TO advise/VB you/PRP that/IN once/IN we/PRP have/VBP completed/VBN our/PRP$ review/NN of/IN the/DT Verizon/NNP merger/NN agreement/NN we/PRP do/VBP intend/VB to/TO submit/VB a/DT modified/VBN offer/NN to/TO acquire/VB MCI"/NNP the/DT letter/NN from/IN Qwest/NNP said./NN
+Verizon's/NNP offer/NN is/VBZ made/VBN up/RP of/IN cash/NN shares/NNS and/CC dividends/NNS and/CC a/DT number/NN of/IN investors/NNS have/VBP said/VBN that/IN it/PRP undervalues/VBZ MCI./NNP
+Verizon/NNP plans/VBZ to/TO swap/VB 0.41/CD of/IN its/PRP$ shares/NNS and/CC $1.50/CD in/IN cash/NN for/IN each/DT MCI/NNP share/NN as/RB well/RB as/IN offering/VBG special/JJ dividends/NNS of/IN $4.50/CD a/DT share./NN
+Both/DT company/NN boards/NNS have/VBP backed/VBN the/DT deal/NN but/CC regulators/NNS will/MD still/RB need/VB to/TO give/VB their/PRP$ approval./NN
+As/RB well/RB as/IN trying/VBG to/TO lure/VB investors/NNS with/IN the/DT promise/NN of/IN better/JJR returns/NNS Qwest/NNP also/RB reckons/VBZ that/IN its/PRP$ offer/NN will/MD face/VB less/RBR regulatory/JJ scrutiny/NN than/IN Verizon's./NNP
+
+The/DT takeover/NN would/MD be/VB the/DT fifth/JJ billion-dollar/JJ telecoms/NNS deal/NN since/IN October/NNP as/IN companies/NNS look/VBP to/TO cut/VB costs/NNS and/CC boost/VB client/NN bases./NN
+Earlier/RBR this/DT month/NN SBC/NNP Communications/NNPS agreed/VBD to/TO buy/VB its/PRP$ former/JJ parent/NN and/CC phone/NN trailblazer/NN AT&T/NNP for/IN about/RB $16bn./CD
+There/EX may/MD be/VB concerns/NNS other/JJ than/IN cash/NN however/RB especially/RB as/IN MCI/NNP only/RB emerged/VBD from/IN bankruptcy/NN protection/NN last/JJ April./NNP
+Verizon/NNP is/VBZ far/RB bigger/JJR than/IN Qwest/NNP has/VBZ fewer/JJR debts/NNS and/CC has/VBZ built/VBN a/DT successful/JJ mobile/JJ division./NN
+Also/RB MCI/NNP while/IN trading/NN under/IN the/DT name/NN Worldcom/NNP became/VBD the/DT biggest/JJS corporate/JJ bankruptcy/NN in/IN US/PRP history/VBP after/IN admitting/VBG that/IN it/PRP illegally/RB booked/VBD expenses/NNS and/CC inflated/VBN profits./NN
+Former/NNP Worldcom/NNP boss/NN Bernie/NNP Ebbers/NNP is/VBZ currently/RB standing/NN trial/NN accused/VBN of/IN overseeing/VBG an/DT $11bn/CD fraud./NN
+Qwest/NNP meanwhile/RB had/VBD to/TO pay/VB the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP $250m/CD in/IN October/NNP to/TO settle/VB charges/NNS that/IN it/PRP massaged/VBD earnings/NNS to/TO keep/VB Wall/NNP Street/NNP happy./NN

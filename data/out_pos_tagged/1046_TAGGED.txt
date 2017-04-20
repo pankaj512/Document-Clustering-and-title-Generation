@@ -1,0 +1,15 @@
+Galloway/NNP plea/NN for/IN hostage/NN release/NN
+
+Ex-Labour/NNP MP/NNP George/NNP Galloway/NNP has/VBZ appealed/VBN for/IN the/DT release/NN of/IN aid/NN worker/NN Margaret/NNP Hassan/NNP kidnapped/VBD in/IN Iraq./NNP
+
+Mrs/NNP Hassan/NNP 59/CD who/WP led/VBD Care/NNP International/NNP operations/NNS in/IN Iraq/NNP was/VBD abducted/NN in/IN Baghdad/NNP on/IN 19/CD October./NNP
+Mr/NNP Galloway/NNP was/VBD expelled/VBN from/IN the/DT Labour/NNP party/NN because/IN of/IN his/PRP$ staunch/NN opposition/NN to/TO the/DT war/NN on/IN Iraq./NNP
+He/PRP denied/VBD an/DT earlier/JJR report/NN that/IN he/PRP planned/VBD to/TO make/VB a/DT direct/JJ appeal/NN to/TO the/DT kidnappers/NNS via/IN the/DT Al-Jazeera/NNP Arabic/NNP television/NN channel./NN
+
+Speaking/VBG in/IN London/NNP on/IN Saturday/NNP at/IN the/DT first/JJ annual/JJ delegate/NN conference/NN of/IN his/PRP$ newly-founded/JJ party/NN the/DT Respect/NN Coalition/NNP he/PRP said/VBD "I/NN have/VBP deliberately/RB not/RB involved/VBN myself/PRP before/IN in/IN any/DT of/IN these/DT situations./NN
+"But/NN this/DT woman/NN has/VBZ been/VBN a/DT prominent/JJ opponent/NN of/IN both/DT the/DT war/NN and/CC the/DT preceding/VBG years/NNS of/IN sanctions./NN
+"I/NN am/VBP prepared/VBN to/TO do/VB anything/NN I/PRP can/MD to/TO help/VB save/VB her/PRP$ life."/NN A/DT spokesman/NN later/RB said/VBD Mr/NNP Galloway/NNP had/VBD friends/NNS in/IN common/JJ with/IN Ms/NNP Hassan/NNP who/WP he/PRP described/VBD as/IN a/DT prominent/JJ anti-war/JJ activist/NN and/CC that/IN he/PRP was/VBD "willing/VBG to/TO do/VB anything/NN -/: go/VB to/TO Iraq/NNP or/CC be/VB an/DT intermediary/JJ or/CC anything/NN that's/NNS necessary"./NN
+Since/IN her/PRP$ abduction/NN several/JJ videos/NNS of/IN Mrs/NNP Hassan/NNP have/VBP been/VBN broadcast/VBG by/IN Al-Jazeera./NNP
+The/DT latest/JJS footage/NN showed/VBD Mrs/NNP Hassan/NNP asking/VBG for/IN British/JJ troops/NNS to/TO be/VB pulled/VBN out/IN of/IN Iraq./NNP
+She/PRP also/RB urged/VBD Care/NNP International/NNP the/DT aid/NN agency/NN she/PRP works/VBZ for/IN to/TO close/VB its/PRP$ office/NN in/IN Baghdad/NNP and/CC appealed/VBD for/IN Iraqi/JJ women/NNS prisoners/NNS to/TO be/VB freed./NN
+Care/NNP has/VBZ since/IN closed/VBN down/RP all/DT its/PRP$ operations/NNS in/IN Iraq./NNP

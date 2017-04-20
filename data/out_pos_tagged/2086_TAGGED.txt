@@ -1,0 +1,15 @@
+Broadband/NNP steams/NNS ahead/RB in/IN the/DT US/PRP
+
+More/JJR and/CC more/JJR Americans/NNS are/VBP joining/VBG the/DT internet's/NNS fast/RB lane/VBP according/VBG to/TO official/NN figures./NN
+
+The/DT number/NN of/IN people/NNS and/CC business/NN connected/VBN to/TO broadband/VB jumped/VBN by/IN 38%/CD in/IN a/DT year/NN said/VBD the/DT US/PRP Federal/NNP Communications/NNPS Commission/NNP (FCC)./NN
+In/IN a/DT report/NN it/PRP said/VBD there/EX were/VBD more/JJR than/IN 32/CD million/CD broadband/NN connections/NNS by/IN the/DT end/NN of/IN June/NNP 2004./CD
+But/CC the/DT US/PRP is/VBZ still/RB behind/IN compared/VBN to/TO other/JJ nations/NNS ranked/VBD 13th/JJ in/IN the/DT world/NN by/IN a/DT UN/NNP telecoms/NNS body./NN
+
+During/IN his/PRP$ 2004/CD re-election/NN campaign/NN President/NNP George/NNP W/NNP Bush/NNP pledge/NN to/TO ensure/VB that/IN affordable/JJ high-speed/JJ net/JJ access/NN would/MD be/VB available/JJ to/TO all/DT Americans/NNPS by/IN 2007./CD
+
+According/VBG to/TO the/DT report/NN by/IN the/DT FCC/NNP broadband/NN is/VBZ becoming/VBG increasingly/RB popular/JJ with/IN people/NNS using/VBG it/PRP for/IN research/NN and/CC shopping/NN as/RB well/RB as/IN downloading/VBG music/NN and/CC watching/VBG video./NN
+The/DT total/JJ number/NN of/IN people/NNS and/CC businesses/NNS on/IN broadband/NN rose/VBD by/IN to/TO 32.5/CD million/CD in/IN the/DT year/NN ending/VBG June/NNP 2004/CD compared/VBN to/TO 23.5/CD million/CD in/IN June/NNP 2003./CD
+Whereas/IN in/IN the/DT UK/NNP most/JJS people/NNS hook/VBP up/IN to/TO broadband/VB via/IN Asymmetric/NNP Digital/NNP Subscriber/NN Line/NNP (ADSL)/NN technology/NN which/WDT lets/VBZ ordinary/JJ copper/NN phone/NN lines/NNS support/VBP high/JJ data/NNS speeds./NN
+But/CC in/IN the/DT US/PRP cable/VBP leads/VBZ the/DT way/NN accounting/VBG for/IN 18.6/CD million/CD lines./NN
+Broadband/NNP over/IN the/DT phone/NN line/NN makes/VBZ up/RP 11.4/CD million/CD connections/NNS according/VBG to/TO the/DT FCC/NNP figures./NN

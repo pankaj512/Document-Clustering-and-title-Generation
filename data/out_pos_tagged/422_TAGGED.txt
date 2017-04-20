@@ -1,0 +1,14 @@
+News/NNP Corp/NNP makes/VBZ $5.4bn/CD Fox/NNP offer/NN
+
+News/NNP Corporation/NNP is/VBZ seeking/VBG to/TO buy/VB out/RP minority/NN investors/NNS in/IN Fox/NNP Entertainment/NNP Group/NNP its/PRP$ broadcasting/NN subsidiary/NN for/IN about/IN $5.4bn/CD (£3.7bn)./CD
+
+The/DT media/NNS giant/JJ run/VB by/IN Rupert/NNP Murdoch/NNP owns/VBZ 82%/CD of/IN the/DT shares/NNS in/IN the/DT company/NN home/NN to/TO the/DT Fox/NNP television/NN network/NN and/CC the/DT 20th/JJ Century/NNP Fox/NNP film/NN studio./NN
+The/DT move/NN follows/VBZ News/NNP Corp's/NNP decision/NN to/TO register/VB its/PRP$ business/NN in/IN the/DT US./NNP
+20th/JJ Century/NNP Fox's/NNP recent/JJ film/NN releases/NNS include/VBP I/PRP Heart/NNP Huckabees/NNP and/CC I/PRP Robot/VBP while/IN Fox/NNP puts/VBZ out/RP hit/VBD TV/NN series/NN 24./CD
+
+Under/IN the/DT terms/NNS of/IN the/DT offer/NN minority/NN Fox/NNP shareholders/NNS will/MD receive/VB 1.90/CD News/NNP Corp/NNP shares/NNS in/IN return/NN for/IN each/DT Fox/NNP share/NN they/PRP hold./VBP
+Analysts/NNS said/VBD the/DT decision/NN to/TO list/VB News/NNP Corp/NNP in/IN the/DT US/PRP -/: which/WDT will/MD result/VB in/IN the/DT firm's/NNS shares/NNS trading/VBG in/IN New/NNP York/NNP rather/RB than/IN Sydney-/NNP nullified/VBD the/DT need/NN to/TO retain/VB a/DT separate/JJ stock/NN market/NN listing/NN for/IN Fox/NNP Entertainment/NNP shares./NN
+News/NNP Corp/NNP investors/NNS voted/VBD in/IN October/NNP to/TO approve/VB the/DT transfer/NN of/IN the/DT company's/NNS corporate/JJ domicile/NN from/IN Australia/NNP to/TO the/DT US/PRP state/VBP of/IN Delaware./NNP
+The/DT move/NN is/VBZ designed/VBN to/TO help/VB News/NNP Corp/NNP attract/VB more/JJR investment/NN from/IN the/DT largest/JJS US/PRP financial/JJ institutions/NNS and/CC make/VB it/PRP easier/JJR to/TO raise/VB capital./NN
+Fox/NNP Entertainment/NNP Group/NNP generated/VBD revenues/NNS of/IN $12bn/CD last/JJ year./NN
+News/NNP Corp/NNP shares/NNS fell/VBD 25/CD cents/NNS to/TO $17.65/CD after/IN the/DT share/NN offer/NN was/VBD announced/VBN while/IN Fox/NNP shares/NNS were/VBD up/RB 19/CD cents/NNS at/IN $31.22./CD

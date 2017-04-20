@@ -1,0 +1,14 @@
+Further/RB rise/NN in/IN UK/NNP jobless/JJ total/JJ
+
+The/DT UK's/NNP jobless/JJ total/NN rose/VBD for/IN the/DT second/JJ month/NN in/IN a/DT row/NN in/IN December/NNP official/JJ figures/NNS show./NN
+
+The/DT number/NN of/IN people/NNS out/IN of/IN work/NN rose/VBD 32000/CD to/TO 1.41/CD million/CD in/IN the/DT last/JJ three/CD months/NNS of/IN 2004/CD even/RB as/IN 90000/CD more/JJR people/NNS were/VBD in/IN employment./NN
+Average/NN earnings/NNS rose/VBD by/IN 4.3%/CD in/IN the/DT year/NN to/TO December/NNP up/RP from/IN November's/NNP 4.2%/CD the/DT Office/NNP for/IN National/NNP Statistics/NNPS (ONS)/NN added./NN
+Meanwhile/RB the/DT benefit/NN claimant/NN total/NN fell/VBD 11000/CD to/TO 813200/CD last/JJ month./NN
+Throughout/IN 2004/CD the/DT number/NN of/IN people/NNS in/IN work/NN increased/VBD by/IN 296000/CD to/TO 28.52/CD million/CD -/: the/DT highest/JJS figure/NN since/IN records/NNS began/VBD in/IN 1971./CD
+
+The/DT apparent/JJ discrepancy/NN between/IN rising/VBG unemployment/NN and/CC record/NN numbers/NNS in/IN work/NN can/MD be/VB explained/VBN by/IN an/DT increase/NN in/IN the/DT working/VBG population/NN and/CC a/DT fall/NN in/IN those/DT who/WP are/VBP economically/RB inactive./NN
+While/IN the/DT UK's/NNP jobless/JJ rate/NN rose/VBD to/TO 4.7%/CD from/IN 4.6%/CD in/IN the/DT previous/JJ quarter/NN the/DT rate/NN still/RB remains/VBZ one/CD of/IN the/DT lowest/JJS in/IN the/DT world/NN compared/VBN with/IN 12.1%/CD in/IN Germany/NNP 10.4%/CD in/IN Spain/NNP and/CC 9.7%/CD in/IN France./NNP
+But/CC despite/IN more/JJR people/NNS being/VBG in/IN work/NN the/DT manufacturing/NN sector/NN continued/VBD to/TO suffer/VB with/IN 104000/CD workers/NNS axed/VBN during/IN the/DT last/JJ quarter/NN of/IN 2004/CD -/: pushing/VBG employment/NN in/IN the/DT sector/NN to/TO a/DT record/NN low/JJ of/IN 3.24/CD million/CD by/IN the/DT end/NN of/IN last/JJ year./NN
+The/DT figures/NNS prompted/VBD some/DT analysts/NNS to/TO forecast/VB that/IN the/DT Bank/NNP of/IN England/NNP will/MD almost/RB certainly/RB raise/VB rates/NNS this/DT year./NN
+Marc/NNP Ostwald/NNP a/DT strategist/NN at/IN Monument/NNP Securities/NNPS told/VBD Reuters/NNP that/IN while/IN no/DT immediate/JJ market/NN impact/NN could/MD be/VB expected/VBN "it/NN is/VBZ enough/JJ to/TO underline/VB that/IN they/PRP (the/VBP BoE)/NNP will/MD be/VB more/RBR hawkish/JJ on/IN rates"./NN

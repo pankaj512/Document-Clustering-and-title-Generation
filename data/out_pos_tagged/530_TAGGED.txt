@@ -1,0 +1,16 @@
+Public/NNP show/NN for/IN Reynolds/NNP portrait/NN
+
+Sir/NNP Joshua/NNP Reynolds'/NNP Portrait/NN of/IN Omai/NNP will/MD get/VB a/DT public/JJ airing/NN following/VBG fears/NNS it/PRP would/MD stay/VB hidden/VBN because/RB of/IN an/DT export/NN wrangle./NN
+
+The/DT Tate/NNP Gallery/NNP unsuccessfully/RB tried/VBD to/TO buy/VB the/DT picture/NN from/IN its/PRP$ anonymous/JJ owner/NN after/IN a/DT ban/NN was/VBD issued/VBN preventing/VBG the/DT painting/NN from/IN leaving/VBG the/DT UK./NNP
+The/DT 18th/JJ Century/NNP painting/NN has/VBZ remained/VBN in/IN storage/NN but/CC the/DT owner/NN has/VBZ agreed/VBN to/TO allow/VB it/PRP to/TO be/VB part/NN of/IN an/DT exhibition./NN
+The/DT exhibition/NN of/IN Reynolds'/NNP work/NN will/MD be/VB shown/VBN at/IN Tate/NNP Britain/NNP from/IN May./NNP
+Joshua/NNP Reynolds/NNP The/DT Creation/NN of/IN Celebrity/NNP will/MD feature/VB prints/NNS caricatures/NNS and/CC sculpture/NN by/IN the/DT 18th/JJ Century/NNP artist/NN who/WP painted/VBD some/DT of/IN the/DT most/RBS famous/JJ personalities/NNS of/IN his/PRP$ day./NN
+Portrait/NN of/IN Omai/NNP fetched/VBD the/DT second/JJ highest/JJS amount/NN for/IN a/DT British/JJ painting/NN when/WRB it/PRP was/VBD sold/VBN at/IN auction/NN for/IN £10.3m/CD in/IN 2001./CD
+It/PRP was/VBD bought/VBN by/IN a/DT London/NNP dealer/NN who/WP sold/VBD it/PRP on/RP to/TO a/DT collector./NN
+The/DT unnamed/JJ collector/NN wanted/VBD to/TO take/VB it/PRP out/IN of/IN the/DT country/NN but/CC was/VBD barred/VBN from/IN doing/VBG so/RB by/IN the/DT government/NN because/IN of/IN its/PRP$ historical/JJ significance./NN
+
+In/IN March/NNP 2004/CD the/DT Tate/NNP managed/VBD to/TO raise/VB £12.5m/CD funding/NN to/TO buy/VB the/DT portrait/NN but/CC the/DT owner/NN refused/VBD to/TO sell/VB and/CC it/PRP has/VBZ been/VBN held/VBN in/IN storage/NN since./NN
+The/DT portrait/NN is/VBZ of/IN a/DT young/JJ man/NN who/WP was/VBD dubbed/VBN "the/NN noble/JJ savage"/NN when/WRB he/PRP arrived/VBD in/IN London/NNP from/IN Polynesia./NNP
+He/PRP became/VBD a/DT darling/NN of/IN London/NNP society/NN and/CC was/VBD invited/VBN to/TO all/PDT the/DT best/JJS parties/NNS by/IN people/NNS who/WP were/VBD fascinated/VBN by/IN such/PDT an/DT exotic/JJ character./NN
+Sir/NNP Joshua/NNP painted/VBD him/PRP after/IN his/PRP$ arrival/NN in/IN 1774/CD and/CC it/PRP became/VBD the/DT artist's/NNS most/RBS famous/JJ work/NN after/IN it/PRP was/VBD first/RB exhibited/VBN at/IN the/DT Royal/NNP Academy/NNP in/IN 1776./CD

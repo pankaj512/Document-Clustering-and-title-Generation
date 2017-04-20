@@ -1,0 +1,17 @@
+Roddick/NNP splits/VBZ from/IN coach/NN Gilbert/NNP
+
+Andy/NNP Roddick/NNP has/VBZ ended/VBN an/DT 18-month/JJ association/NN with/IN coach/NN Brad/NNP Gilbert/NNP which/WDT yielded/VBD the/DT US/PRP Open/NNP title/NN and/CC saw/VBD the/DT American/NNP become/VB world/NN number/NN one./NN
+
+Roddick/NNP released/VBD a/DT statement/NN through/IN the/DT SFX/NNP Sports/NNP Group/NNP with/IN the/DT news/NN but/CC did/VBD not/RB give/VB a/DT reason/NN for/IN the/DT split./NN
+"The/NN decision/NN to/TO not/RB re-hire/JJ Brad/NNP Gilbert/NNP for/IN the/DT 2005/CD season/NN is/VBZ based/VBN on/IN what/WP I/PRP think/VBP is/VBZ best/JJS for/IN my/PRP$ game/NN at/IN this/DT time"/NN said/VBD Roddick./NNP
+"Any/NN more/JJR on/IN this/DT situation's/NNS a/DT private/JJ matter/NN between/IN coach/NN and/CC player."/NN Roddick/NNP won/VBD 121/CD of/IN his/PRP$ 147/CD matches/VBZ while/IN working/VBG with/IN Gilbert/NNP and/CC said/VBD he/PRP had/VBD enjoyed/VBN their/PRP$ time/NN together./NN
+He/PRP won/VBD his/PRP$ first/JJ Grand/NNP Slam/NNP event/NN at/IN Flushing/NNP Meadows/NNP last/JJ year/NN and/CC finished/VBD 2003/CD on/IN top/NN of/IN the/DT ATP/NNP Tour/NN rankings./NN
+
+But/CC Roddick/NNP slipped/VBD to/TO second/VB this/DT year/NN behind/IN Roger/NNP Federer/NNP who/WP became/VBD the/DT first/JJ man/NN since/IN 1988/CD to/TO win/VB three/CD Majors/NNS in/IN a/DT season./NN
+Federer/NNP who/WP has/VBZ not/RB had/VBD a/DT coach/NN since/IN he/PRP split/VB from/IN Peter/NNP Lundgren/NNP at/IN the/DT end/NN of/IN last/JJ year/NN beat/VB Roddick/NNP to/TO win/VB the/DT Wimbledon/NNP title/NN and/CC in/IN two/CD other/JJ tournament/NN finals./NN
+Roddick/NNP hired/VBD Gilbert/NNP after/IN deciding/VBG to/TO part/VB from/IN coach/NN Tarik/NNP Benhabiles/NNP in/IN the/DT wake/NN of/IN his/PRP$ first-round/JJ exit/NN at/IN the/DT 2003/CD French/JJ Open./NNP
+He/PRP went/VBD on/RP to/TO win/VB the/DT US/PRP Open/NNP and/CC four/CD other/JJ titles/NNS for/IN the/DT year./NN
+He/PRP has/VBZ won/VBN four/CD events/NNS this/DT season./NN
+"I/NN have/VBP enjoyed/VBN all/DT of/IN my/PRP$ time/NN with/IN Andy"/NNP Gilbert/NNP said/VBD on/IN his/PRP$ personal/JJ website./NN
+"He/NN has/VBZ been/VBN a/DT great/JJ student/NN of/IN the/DT game/NN during/IN the/DT time/NN that/IN we/PRP worked/VBD together/RB and/CC I/PRP am/VBP very/RB proud/JJ of/IN the/DT results/NNS that/WDT were/VBD achieved./NN
+"While/NN I/PRP believe/VBP that/IN there/EX is/VBZ still/RB a/DT great/JJ deal/NN of/IN work/NN to/TO be/VB done/VBN Andy/NNP clearly/RB does/VBZ not/RB feel/VB that/DT way."/NN

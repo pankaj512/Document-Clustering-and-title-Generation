@@ -1,0 +1,18 @@
+Lopez/NNP misses/VBZ UK/NNP charity/NN premiere/NN
+
+Jennifer/NNP Lopez/NNP cancelled/VBD an/DT appearance/NN at/IN the/DT UK/NNP charity/NN premiere/NN of/IN her/PRP$ new/JJ movie/NN saying/VBG she/PRP was/VBD too/RB ill/JJ to/TO fly./VB
+
+The/DT actress/NN and/CC singer/NN dropped/VBD out/RP at/IN the/DT last/JJ minute/NN and/CC has/VBZ now/RB cancelled/VBN all/DT European/JJ promotion/NN of/IN the/DT film/NN Shall/MD We/PRP Dance?/NNP and/CC her/PRP$ new/JJ album./NN
+She/PRP said/VBD "I/NN very/RB much/RB wanted/VBD to/TO be/VB in/IN London/NNP but/CC unfortunately/RB I'm/NNP not/RB well./NN
+At/IN the/DT advice/NN of/IN my/PRP$ doctors/NNS I'm/NNP unable/JJ to/TO travel."/VB Co-star/NNP Richard/NNP Gere/NNP attended/VBD the/DT event/NN held/VBN in/IN aid/NN of/IN the/DT tsunami/NN appeal./NN
+Thousands/NNS braved/VBD the/DT cold/JJ weather/NN to/TO see/VB the/DT stars/NNS in/IN London's/NNP Leicester/NNP Square./NNP
+The/DT red/JJ carpet/NN boasted/VBN waltzing/VBG dancers/NNS in/IN honour/NN of/IN the/DT film's/NNS ballroom/NN dancing/NN theme./NN
+The/DT film's/NNS director/NN Peter/NNP Chelsom/NNP said/VBD he/PRP was/VBD disappointed/VBN that/IN Lopez/NNP did/VBD not/RB attend./VB
+
+"It's/NN a/DT shame./NN
+I/PRP know/VBP it's/NNS true/JJ that/IN she's/NNS not/RB well/RB because/IN she/PRP has/VBZ also/RB cancelled/VBN her/PRP$ promotional/JJ tour./NN
+I've/NNP heard/VBD she/PRP has/VBZ swollen/JJ glands."/NN Gere/NNP 55/CD greeted/VBD the/DT crowd/NN and/CC signed/VBD autographs/NNS accompanied/VBN by/IN his/PRP$ wife/NN Carey/NNP Lowell./NNP
+Other/JJ stars/NNS who/WP turned/VBD out/RP on/IN the/DT night/NN included/VBD Honor/VB Blackman/NNP Strictly/RB Come/VBD Dancing/NN presenter/NN Tess/NNP Daly/NNP and/CC actress/NN Anita/NNP Dobson./NNP
+Lopez/NN issues/VBZ a/DT statement/NN apologising/VBG for/IN her/PRP$ absence./NN
+"I'm/NN so/RB proud/JJ of/IN Shall/MD We/PRP Dance/NNP and/CC was/VBD looking/VBG forward/RB to/TO visiting/VBG London"/NNP she/PRP said./VBP
+"This/NN film/NN was/VBD a/DT labour/NN of/IN love/NN for/IN me/PRP and/CC I/PRP want/VBP to/TO thank/VB everyone/NN involved/VBN in/IN bringing/VBG it/PRP to/TO you/PRP from/IN the/DT cast/NN to/TO the/DT film/NN director/NN to/TO the/DT crew."/NN Lopez/NNP appeared/VBD at/IN the/DT Grammy/NNP awards/NNS on/IN Sunday/NNP singing/VBG a/DT duet/NN with/IN her/PRP$ third/JJ husband/NN Marc/NNP Anthony./NNP

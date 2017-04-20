@@ -1,0 +1,28 @@
+Police/NNP probe/NN BNP/NNP mosque/NN leaflet/NN
+
+Police/NNS are/VBP investigating/VBG a/DT British/NNP National/NNP Party/NNP leaflet/NN posted/VBD to/TO homes/NNS in/IN south/JJ Wales/NNP opposing/VBG plans/NNS for/IN a/DT new/JJ mosque./NN
+
+Anti-racism/NN campaigners/NNS in/IN Swansea/NNP have/VBP handed/VBN copies/NNS to/TO South/NNP Wales/NNP Police./NNP
+Swansea's/NNP Muslim/NNP community/NN is/VBZ raising/VBG money/NN to/TO open/VB a/DT new/JJ mosque/NN and/CC community/NN centre/NN in/IN the/DT former/JJ St/NNP Andrews/NNP United/NNP Reform/NNP Church./NNP
+The/DT building/NN on/IN George/NNP Street/NNP has/VBZ been/VBN derelict/NN since/IN the/DT 1980s./CD
+
+Taha/NNP Idris/NNP director/NN of/IN the/DT Swansea/NNP Bay/NNP Race/NN Equality/NN Council/NNP said/VBD his/PRP$ organisation/NN contacted/VBD police/NNS after/IN receiving/VBG complaints/NNS from/IN the/DT public./NN
+"I'm/NN quite/RB shocked/VBD to/TO see/VB this/DT sort/NN of/IN leaflet/NN by/IN the/DT BNP/NNP in/IN Swansea"/NNP he/PRP said./VB
+
+"The/NNP BNP/NNP has/VBZ tried/VBN in/IN the/DT past/JJ to/TO get/VB into/IN Swansea/NNP and/CC this/DT is/VBZ another/DT example/NN of/IN them/PRP trying/VBG again./NN
+"I/NN am/VBP in/IN no/DT doubt/NN that/IN the/DT BNP/NNP are/VBP not/RB needed/VBN and/CC not/RB wanted/VBD here."/NN A/DT South/NNP Wales/NNP Police/NNP spokeswoman/NN confirmed/VBD that/IN they/PRP were/VBD looking/VBG at/IN the/DT contents/NNS of/IN the/DT leaflet./NN
+According/VBG to/TO the/DT BNP's/NNP website/NN they/PRP have/VBP been/VBN posted/VBN to/TO homes/NNS in/IN the/DT Castle/NNP ward./NN
+The/DT BNP/NNP website/NN carries/VBZ a/DT photograph/NN of/IN party/NN leader/NN Nick/NNP Griffin/NNP -/: who/WP lives/VBZ near/IN Welshpool/NNP mid/NN Wales/NNP -/: delivering/VBG the/DT leaflet./NN
+The/DT BNP/NNP has/VBZ denied/VBN it/PRP is/VBZ trying/VBG to/TO stir/VB up/RP hatred/NN of/IN any/DT race/NN or/CC religion/NN but/CC argues/VBZ that/IN they/PRP should/MD be/VB able/JJ to/TO debate/VB this/DT without/IN fear/NN of/IN arrest./NN
+Swansea/NNP Unite/VB Against/IN Fascism/NN (UAF)/NN is/VBZ meeting/VBG this/DT week/NN to/TO plan/VB a/DT campaign./NN
+Following/VBG the/DT death/NN earlier/RBR this/DT year/NN of/IN Kalan/NNP Kawa/NNP Karim/NNP an/DT Iraqi/JJ Kurd/NNP living/VBG in/IN Swansea/NNP it/PRP organised/VBD an/DT anti-racism/JJ march/NN in/IN the/DT city/NN that/WDT was/VBD supported/VBN by/IN more/JJR than/IN 1000/CD people./NN
+It/PRP is/VBZ planning/VBG its/PRP$ own/JJ mail/NN shot/NN campaign/NN and/CC may/MD launch/VB a/DT petition/NN in/IN support/NN of/IN the/DT plans/NNS for/IN the/DT mosque./NN
+
+Andy/NNP Richards/NNP of/IN Swansea/NNP UAF/NNP said/VBD the/DT leaflet/NN was/VBD exactly/RB what/WP he/PRP had/VBD come/VBN to/TO expect/VB from/IN the/DT BNP./NNP
+
+"The/NN people/NNS of/IN Swansea/NNP will/MD not/RB put/VB up/RP with/IN this."/NN Swansea's/NNP Muslim/NNP community/NN bought/VBD the/DT former/JJ church/NN just/RB across/IN the/DT road/NN from/IN the/DT existing/VBG mosque/NN on/IN St/NNP Helen's/NNP Road/NNP in/IN the/DT late/JJ 1990s./CD
+Mr/NNP Idris/NNP said/VBD the/DT community/NN was/VBD now/RB raising/VBG money/NN to/TO renovate/VB the/DT building./NN
+"It/NN is/VBZ a/DT landmark/NN building/NN in/IN Swansea/NNP and/CC would/MD otherwise/RB just/RB crumble"/NN he/PRP said./VB
+"It/NN is/VBZ the/DT ideal/JJ opportunity/NN for/IN the/DT building/NN to/TO be/VB restored/VBN and/CC used/VBN in/IN the/DT proper/JJ manner./NN
+"It/NN will/MD be/VB a/DT Muslim/NNP community/NN centre./NN
+It's/VBG a/DT holistic/JJ place/NN used/VBN for/IN education/NN weddings/NNS deaths/NNS and/CC births."/NN He/PRP said/VBD space/NN was/VBD limited/JJ in/IN the/DT current/JJ mosque/NN and/CC on/IN some/DT occasions/NNS Muslims/NNPS had/VBD to/TO travel/VB to/TO Llanelli/NNP for/IN cultural/JJ events./NN

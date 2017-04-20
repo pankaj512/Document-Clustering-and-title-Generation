@@ -1,0 +1,13 @@
+Manufacturing/NNP recovery/NN 'slowing'/NN
+
+UK/NNP manufacturing/NN grew/VBD at/IN its/PRP$ slowest/JJS pace/NN in/IN one-and-a-half/JJ years/NNS in/IN January/NNP according/VBG to/TO a/DT survey./NN
+
+The/DT Chartered/VBN Institute/NNP of/IN Purchasing/NNP and/CC Supply/NNP (CIPS)/NN said/VBD its/PRP$ purchasing/NN manager/NN index/NN (PMI)/NN fell/VBD to/TO 51.8/CD from/IN a/DT revised/VBN 53.3/CD in/IN December./NNP
+But/CC despite/IN missing/VBG forecasts/NNS of/IN 53.7/CD the/DT PMI/NNP number/NN remained/VBD above/IN 50/CD -/: indicating/VBG expansion/NN in/IN the/DT sector./NN
+The/DT CIPS/NNP said/VBD that/IN the/DT strong/JJ pound/NN had/VBD dented/VBN exports/NNS while/IN rising/VBG oil/NN and/CC metals/NNS prices/NNS had/VBD kept/VBN costs/NNS high./NN
+
+The/DT survey/NN added/VBD that/IN rising/VBG input/NN prices/NNS and/CC cooling/VBG demand/NN had/VBD deterred/VBN factory/NN managers/NNS from/IN hiring/VBG new/JJ workers/NNS in/IN an/DT effort/NN to/TO cut/VB costs./NN
+That/DT triggered/VBD the/DT second/JJ successive/JJ monthly/JJ fall/NN in/IN the/DT CIPS/NNP employment/NN index/NN to/TO 48.3/CD -/: its/PRP$ lowest/JJS level/NN since/IN June/NNP 2003./CD
+The/DT survey/NN is/VBZ more/RBR upbeat/JJ than/IN official/JJ figures/NNS -/: which/WDT suggest/VBP that/DT manufacturing/NN is/VBZ in/IN recession/NN -/: but/CC analysts/NNS said/VBD the/DT survey/NN did/VBD suggest/VB that/IN the/DT manufacturing/NN recovery/NN was/VBD running/VBG out/IN of/IN steam./NN
+"It/NN appears/VBZ that/IN the/DT UK/NNP is/VBZ in/IN a/DT two-tier/JJ economy/NN again"/NN said/VBD Prebon/NNP Yamane/NNP economist/NN Lena/NNP Komileva./NNP
+"You/NN have/VBP weakness/NN in/IN manufacturing/NN which/WDT I/PRP think/VBP would/MD concern/VB policymakers/NNS at/IN the/DT Bank/NNP of/IN England."/NNP

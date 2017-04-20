@@ -1,0 +1,19 @@
+Eminem/NNP secret/JJ gig/NN venue/NN revealed/VBD
+
+Rapper/NNP Eminem/NNP is/VBZ to/TO play/VB an/DT intimate/JJ gig/NN in/IN London/NNP on/IN Saturday/NNP following/VBG a/DT show/NN on/IN the/DT River/NNP Thames/NNP on/IN Friday./NNP
+
+The/DT US/PRP star/VBP will/MD play/VB just/RB two/CD songs/NNS at/IN a/DT night/NN showcasing/VBG his/PRP$ label/NN Shady/NNP Records/NNPS at/IN the/DT Islington/NNP Academy./NNP
+Eminem/NNP performed/VBD on/IN HMS/NNP Belfast/NNP on/IN Friday/NNP which/WDT is/VBZ docked/VBN on/IN the/DT River/NNP Thames/NNP where/WRB he/PRP filmed/VBD two/CD songs/NNS for/IN BBC/NNP One's/NNP Top/JJ of/IN the/DT Pops./NNP
+He/PRP arrived/VBD in/IN the/DT UK/NNP on/IN Friday/NNP following/VBG his/PRP$ appearance/NN at/IN the/DT MTV/NNP Europe/NNP Music/NNP Awards/NNS in/IN Rome./NNP
+Other/JJ rap/NN acts/NNS who/WP may/MD appear/VB at/IN the/DT Islington/NNP gig/NN include/VBP Stat/NNP Quo/NN Proof/NN DJ/NNP Green/NNP Lantern/NNP Swift/NNP and/CC Obie/NNP Trice./NNP
+
+Eminem's/NNP latest/JJS album/NN soared/VBD to/TO the/DT top/NN of/IN the/DT US/PRP chart/VBP after/IN just/RB three/CD days/NNS on/IN sale/NN in/IN record/NN shops./NN
+Encore/NN is/VBZ now/RB a/DT chart-topper/NN on/IN both/DT sides/NNS of/IN the/DT Atlantic/NNP following/VBG its/PRP$ debut/NN at/IN number/NN one/CD in/IN the/DT UK./NNP
+The/DT fourth/JJ album/NN from/IN the/DT rap/NN star/NN was/VBD on/IN sale/NN for/IN two/CD days/NNS before/IN it/PRP outsold/VBD all/DT of/IN its/PRP$ rivals./NN
+The/DT album/NN was/VBD released/VBN early/RB in/IN an/DT effort/NN to/TO combat/VB both/DT physical/JJ and/CC online/NN piracy./NN
+
+Eminem's/NNP album/NN includes/VBZ the/DT track/NN Mosh/NNP which/WDT is/VBZ a/DT tirade/NN against/IN US/PRP President/NNP Bush/NNP and/CC the/DT presence/NN of/IN US/PRP troops/VBZ in/IN Iraq./NNP
+The/DT rapper/NN was/VBD criticised/VBN earlier/RBR this/DT year/NN after/IN a/DT performance/NN on/IN BBC/NNP One's/NNP Top/JJ of/IN the/DT Pops/NNS in/IN April/NNP led/VBD 12/CD viewers/NNS to/TO complain/VB he/PRP was/VBD "lewd"/NN and/CC "offensive"./NN
+The/DT complaints/NNS about/IN the/DT star/NN grabbing/VBG his/PRP$ crotch/NN were/VBD upheld/VBN by/IN the/DT BBC./NNP
+"The/NN performer/NN had/VBD been/VBN asked/VBN to/TO tone/VB his/PRP$ act/NN down/RP after/IN rehearsal/JJ but/CC ignored/VBD this/DT request/NN during/IN the/DT live/JJ broadcast"/NN a/DT BBC/NNP statement/NN read./NN
+"Although/NN his/PRP$ gestures/NNS were/VBD part/NN of/IN the/DT rap/NN culture/NN they/PRP had/VBD gone/VBN beyond/IN what/WP is/VBZ expected."/NN

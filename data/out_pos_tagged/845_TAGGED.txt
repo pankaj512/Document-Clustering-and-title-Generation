@@ -1,0 +1,17 @@
+De/NNP Niro/NNP film/NN leads/VBZ US/PRP box/NN office/NN
+
+Film/NNP star/NN Robert/NNP De/NNP Niro/NNP has/VBZ returned/VBN to/TO the/DT top/NN of/IN the/DT North/JJ American/JJ box/NN office/NN with/IN his/PRP$ film/NN Hide/VBP and/CC Seek./NNP
+
+The/DT thriller/NN shot/NN straight/RB to/TO the/DT number/NN one/CD spot/NN after/IN taking/VBG $22m/CD (£11.7m)/CD at/IN the/DT box/NN office./NN
+De/NNP Niro/NNP recently/RB spent/VBD three/CD weeks/NNS at/IN the/DT top/JJ with/IN comedy/NN Meet/NN The/DT Fockers/NNP which/WDT was/VBD at/IN number/NN five/CD this/DT week./NN
+Oscar/JJ hopefuls/VBZ The/DT Aviator/NNP Million/CD Dollar/NN Baby/NNP and/CC Sideways/RB all/DT cashed/VBN in/RP on/IN their/PRP$ multiple/JJ nominations/NNS with/IN stronger/JJR ticket/NN sales./NN
+
+In/IN Hide/NN and/CC Seek/VBP De/NNP Niro/NNP plays/VBZ a/DT widower/NN whose/WP$ daughter/NN has/VBZ a/DT creepy/NN imaginary/JJ friend./NN
+Despite/IN lukewarm/JJ reviews/NNS from/IN critics/NNS the/DT film/NN took/VBD more/JJR than/IN the/DT expected/VBN $18m/CD (£9.5m)./CD
+"The/NN element/NN of/IN a/DT real/JJ actor/NN in/IN a/DT psychological/JJ thriller/NN certainly/RB elevated/JJ it"/NN said/VBD Bruce/NNP Snyder/NNP president/NN of/IN domestic/JJ distribution/NN at/IN 20th/JJ Century/NNP Fox./NNP
+Clint/NNP Eastwood's/NNP Million/CD Dollar/NN Baby/NNP led/VBD the/DT Oscar/NNP hopefuls/NNS with/IN $11.8m/CD (£6.3m)/CD coming/VBG in/IN at/IN number/NN three/CD during/IN its/PRP$ first/JJ weekend/NN of/IN wide/JJ release./NN
+The/DT Aviator/NNP a/DT film/NN biography/NN of/IN Howard/NNP Hughes/NNP that/WDT leads/VBZ the/DT Oscar/NNP field/NN with/IN 11/CD nominations/NNS was/VBD at/IN number/NN six/CD for/IN the/DT weekend/NN with/IN $7.5m/CD (£4m)./CD
+Oscar/NNP best-picture/JJ nominee/NN Sideways/RB entered/VBD the/DT top/JJ ten/NN for/IN the/DT first/JJ time/NN in/IN its/PRP$ 15th/JJ week/NN of/IN release./NN
+It/PRP came/VBD in/IN seventh/JJ $6.3/CD (£3.35m)./CD
+Last/JJ week's/NNS top/JJ film/NN Ice/NNP Cube's/NNP road-trip/JJ comedy/NN Are/VBP We/PRP There/EX Yet?/NNP slipped/VBD to/TO second/JJ place/NN with/IN $17m/CD (£9m)/CD while/IN Coach/NN Carter/NNP fell/VBD two/CD places/NNS to/TO number/VB four/CD taking/VBG $8m/CD (£4.25m)/CD in/IN its/PRP$ third/JJ week./NN
+Rounding/VBG out/RP the/DT top/JJ ten/NN were/VBD In/IN Good/JJ Company/NN -/: starring/VBG Dennis/NNP Quaid/NNP and/CC Scarlett/NNP Johansson/NNP -/: Racing/VBG Stripes/NNP and/CC Assault/NN on/IN Precinct/NNP 13./CD

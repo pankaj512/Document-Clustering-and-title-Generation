@@ -1,0 +1,15 @@
+Beckham/NNP rules/NNS out/RP management/NN move/NN
+
+Real/JJ Madrid/NNP midfielder/NN David/NNP Beckham/NNP has/VBZ no/DT plans/NNS to/TO become/VB a/DT manager/NN when/WRB his/PRP$ playing/VBG career/NN is/VBZ over./NN
+
+"I/NN am/VBP not/RB interested/JJ in/IN being/VBG a/DT coach/NN but/CC I/PRP would/MD like/VB to/TO have/VB football/NN schools"/NN the/DT England/NNP captain/NN said/VBD on/IN television/NN station/NN Canal/NN Plus./NNP
+"I/NN have/VBP wanted/VBN to/TO do/VB that/DT since/IN I/PRP went/VBD to/TO the/DT Bobby/NNP Charlton/NNP school./NN
+I'm/NNP going/VBG to/TO open/VB one/CD in/IN London/NNP and/CC one/CD in/IN LA./NNP
+"My/NN second/JJ passion/NN is/VBZ charity/NN work/NN -/: I/PRP am/VBP an/DT ambassador/NN for/IN Unicef/NNP and/CC it/PRP gives/VBZ me/PRP great/JJ pride."/NN But/CC Beckham/NNP revealed/VBD that/IN his/PRP$ immediate/JJ priority/NN was/VBD winning/VBG the/DT Spanish/JJ league/NN title/NN with/IN Real/JJ Madrid./NNP
+
+Real/NN slipped/VBD to/TO 13/CD points/NNS behind/IN leaders/NNS Barcelona/NNP with/IN a/DT 1-0/JJ defeat/NN at/IN the/DT hands/NNS of/IN Sevilla/NNP on/IN Wednesday./NNP
+Beckham/NNP admitted/VBD "It's/NN disappointing/JJ and/CC frustrating/JJ to/TO see/VB the/DT results/NNS considering/VBG the/DT team/NN we/PRP have./VBP
+"I/NN would/MD really/RB like/VB to/TO win/VB La/NNP Liga/NNP with/IN Real/JJ Madrid/NNP -/: I/PRP have/VBP been/VBN here/RB two/CD years/NNS and/CC we/PRP still/RB have/VBP not/RB done/VBN it."/NN In/IN a/DT wide-ranging/JJ interview/NN Beckham/NNP also/RB revealed/VBD that/IN his/PRP$ sending-off/NN against/IN Argentina/NNP -/: and/CC the/DT resulting/VBG media/NNS storm/NN -/: had/VBD been/VBN the/DT most/RBS significant/JJ moment/NN in/IN his/PRP$ career./NN
+Asked/VBN for/IN his/PRP$ worst/JJS memory/NN he/PRP said/VBD "To/NN be/VB sent/VBN off/RP against/IN Argentina/NNP -/: it/PRP was/VBD not/RB for/IN the/DT sending-off/JJ but/CC for/IN what/WP happened/VBD afterwards./NN
+"I/NN was/VBD lucky/JJ because/IN I/PRP had/VBD a/DT manager/NN Sir/NNP Alex/NNP Ferguson/NNP who/WP supported/VBD me/PRP and/CC a/DT strong/JJ family/NN behind/IN me/PRP but/CC I/PRP believe/VBP that/WDT changed/VBD me./NN
+"I/NN believe/VBP it/PRP changed/VBD me/PRP for/IN the/DT better."/NN

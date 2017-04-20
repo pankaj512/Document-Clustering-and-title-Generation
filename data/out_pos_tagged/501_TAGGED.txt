@@ -1,0 +1,32 @@
+Water/NNP firm/NN Suez/NNP in/IN Argentina/NNP row/NN
+
+A/DT conflict/NN between/IN the/DT Argentine/JJ State/NNP and/CC water/NN firm/NN Aguas/NNP Argentinas/NNP controlled/VBD by/IN France's/NNP Suez/NNP is/VBZ casting/VBG doubt/NN on/IN the/DT firm's/NNS future./NN
+
+The/DT firm/NN which/WDT serves/VBZ the/DT province/NN of/IN Buenos/NNP Aires/NNP wants/VBZ a/DT tariff/NN rise/NN of/IN 60%/CD to/TO fund/VB water-supply/JJ improvements./NN
+The/DT government/NN has/VBZ rejected/VBN the/DT 60%/CD rise/NN and/CC wants/VBZ Aguas/NNP Argentinas/NNP to/TO make/VB an/DT annual/JJ investment/NN of/IN 400m/CD pesos/NNS ($136m/CD £72.3m)/CD in/IN improvements./NN
+Planning/NNP Minister/NNP Julio/NNP De/NNP Vido/NNP has/VBZ offered/VBN State/NNP help/NN but/CC not/RB for/IN "free"./NN
+
+Mr/NNP De/NNP Vido/NNP said/VBD that/IN the/DT Argentine/JJ state/NN would/MD not/RB make/VB a/DT contribution/NN "in/NN the/DT form/NN of/IN a/DT subsidy"./NN
+
+He/PRP has/VBZ said/VBN a/DT contribution/NN could/MD be/VB made/VBN in/IN return/NN for/IN a/DT seat/NN on/IN the/DT company's/NNS board./NN
+He/PRP added/VBD that/IN the/DT government/NN is/VBZ in/IN discussions/NNS with/IN Aguas/NNP Argentinas/NNP about/IN what/WP role/NN it/PRP might/MD take/VB in/IN the/DT event/NN that/IN a/DT State/NNP contribution/NN is/VBZ agreed./NN
+However/RB Aguas/NNP Argentinas/NNP told/VBD the/DT Argentine/JJ newspaper/NN Clarin/NNP it/PRP would/MD not/RB accept/VB any/DT change/NN to/TO its/PRP$ legal/JJ structure/NN and/CC in/IN practice/NN this/DT rules/NNS out/RP State/NNP participation/NN on/IN its/PRP$ board./NN
+The/DT Planning/NNP Minister/NNP didn't/NN rule/NN out/RP the/DT possibility/NN of/IN cancelling/VBG Aguas/NNP Argentinas/NNP water/NN concession./NN
+Yet/CC he/PRP added/VBD that/IN he/PRP didn't/VB like/VB to/TO do/VB "futurology"./NN
+But/CC last/JJ week/NN Argentine/JJ Economic/NNP Minister/NNP Roberto/NNP Lavagna/NNP told/VBD the/DT French/JJ media/NNS in/IN Paris/NNP that/IN the/DT government/NN was/VBD considering/VBG allowing/VBG a/DT 16%/CD increase/NN in/IN tariffs/NNS and/CC the/DT possibility/NN of/IN a/DT State/NNP contribution/NN to/TO Aguas/NNP Argentinas/NNP infrastructure/NN investments./NN
+Speaking/VBG in/IN Buenos/NNP Aires/NNP Mr/NNP De/NNP Vido/NNP later/RB denied/VBD the/DT possibility/NN of/IN any/DT tariff/NN increase/NN and/CC insisted/VBD that/IN the/DT annual/JJ investment/NN in/IN water/NN infrastructure/NN was/VBD at/IN the/DT centre/NN of/IN the/DT discussions./JJ
+He/PRP added/VBD that/IN in/IN the/DT coming/VBG weeks/NNS the/DT future/NN of/IN Aguas/NNP Argentinas/NNP would/MD be/VB decided./NN
+Suez/NNP owns/VBZ 40%/CD of/IN Aguas/NNP Argentinas/NNP (39.9%)/CD while/IN Spain's/NNP Aguas/NNP de/IN Barcelona/NNP is/VBZ its/PRP$ second/JJ biggest/JJS shareholder/NN with/IN 25.01%./CD
+Recently/RB Suez/NNP lost/VBD a/DT water/NN concession/NN in/IN Bolivia/NNP after/IN mass/NN protests/NNS in/IN the/DT city/NN of/IN El/NNP Alto/NNP (the/NN poorest/JJS in/IN the/DT country)/NN with/IN citizens/NNS complaining/NN of/IN unfair/JJ water/NN charges./NN
+This/DT forced/VBD the/DT government/NN to/TO cancel/VB the/DT contract./NN
+
+In/IN Argentina/NNP Suez's/NNP subsidiary/NN which/WDT has/VBZ been/VBN fined/VBN for/IN cutting/VBG the/DT supply/NN of/IN water/NN during/IN a/DT recent/JJ heat/NN wave/NN and/CC allegedly/RB failing/VBG to/TO keep/VB up/RP investment/NN to/TO meet/VB the/DT demand/NN for/IN water/NN has/VBZ maintained/VBN a/DT tense/JJ relationship/NN with/IN the/DT Argentine/JJ government./NN
+During/IN the/DT last/JJ financial/JJ crisis/NN in/IN Argentina/NNP the/DT firm/NN sued/VBD the/DT state/NN alleging/VBG that/IN converting/VBG its/PRP$ tariffs/NNS from/IN US/PRP dollars/VBZ to/TO pesos/NNS and/CC then/RB freezing/VBG them/PRP during/IN devaluation/NN had/VBD affected/VBN the/DT company/NN and/CC made/VBD it/PRP difficult/JJ for/IN it/PRP to/TO meet/VB its/PRP$ contractual/JJ obligations./NN
+When/WRB President/NNP Nestor/NNP Kirchner/NNP of/IN Argentina/NNP arrived/VBD in/IN power/NN he/PRP began/VBD to/TO negotiate/VB a/DT solution/NN to/TO the/DT disagreements/NNS with/IN international/JJ utilities/NNS operating/VBG in/IN Argentina./NNP
+But/CC he/PRP has/VBZ rejected/VBN any/DT tariff/NN increases/NNS alleging/VBG this/DT will/MD impoverish/VB citizens/NNS further./NN
+He/PRP has/VBZ also/RB asked/VBN for/IN more/JJR investments/NNS to/TO meet/VB the/DT growing/VBG demand/NN for/IN water./NN
+On/IN May/NNP 2004/CD Aguas/NNP Argentinas/NNP and/CC the/DT government/NN signed/VBD an/DT agreement/NN to/TO renegotiate/VB its/PRP$ Buenos/NNP Aires/NNP water-concession/NN contract./NN
+The/DT firm/NN agreed/VBD to/TO invest/VB 242m/CD pesos./NN
+The/DT issue/NN has/VBZ attracted/VBN European/JJ interest./JJ
+Last/JJ week/NN in/IN Paris/NNP President/NNP Kirchner/NNP discussed/VBD this/DT problem/NN and/CC other/JJ issues/NNS with/IN French/JJ president/NN Jacques/NNP Chirac./NNP
+The/DT Argentine/JJ government/NN is/VBZ also/RB under/IN pressure/NN from/IN European/NNP Union/NNP countries/NNS and/CC the/DT International/NNP Monetary/NNP Fund/NNP (IMF)/NN to/TO raise/VB utilities/NNS tariffs/NNS because/IN most/JJS of/IN the/DT utilities/NNS operating/VBG in/IN Argentina/NNP are/VBP European./NNP

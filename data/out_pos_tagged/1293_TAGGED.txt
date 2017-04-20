@@ -1,0 +1,6 @@
+Blunkett/NN hints/NNS at/IN election/NN call/NN
+
+Ex-Home/NNP Secretary/NNP David/NNP Blunkett/NNP has/VBZ given/VBN fresh/JJ clues/NNS that/IN the/DT general/JJ election/NN will/MD be/VB announced/VBN on/IN Monday./NNP
+
+He/PRP told/VBD BBC/NNP Radio/NNP Five/CD Live/JJ "I'm/NN out/IN in/IN my/PRP$ constituency/NN getting/VBG ready/JJ for/IN what/WP we/PRP presume/NN will/MD be/VB an/DT announcement/NN very/RB shortly/RB at/IN the/DT weekend."/NN He/PRP clarified/VBD that/IN he/PRP meant/VBD he/PRP would/MD be/VB in/IN his/PRP$ Sheffield/NNP seat/NN this/DT weekend/NN not/RB that/IN he/PRP expected/VBD an/DT election/NN call/NN then./NN
+Tony/NNP Blair/NNP is/VBZ tipped/VBN to/TO ask/VB the/DT Queen/NNP on/IN Monday/NNP to/TO dissolve/VB Parliament/NNP ready/JJ for/IN a/DT 5/CD May/NNP poll./NN

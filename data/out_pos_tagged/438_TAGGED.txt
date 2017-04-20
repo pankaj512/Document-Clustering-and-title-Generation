@@ -1,0 +1,28 @@
+UK/NNP interest/NN rates/NNS held/VBN at/IN 4.75%/CD
+
+The/DT Bank/NNP of/IN England/NNP has/VBZ left/VBN interest/NN rates/NNS on/IN hold/NN again/RB at/IN 4.75%/CD in/IN a/DT widely-predicted/JJ move./NN
+
+Rates/NNS went/VBD up/RB five/CD times/NNS from/IN November/NNP 2003/CD -/: as/IN the/DT bank/NN sought/VBN to/TO cool/VB the/DT housing/NN market/NN and/CC consumer/NN debt/NN -/: but/CC have/VBP remained/VBN unchanged/JJ since/IN August./NNP
+Recent/JJ data/NNS has/VBZ indicated/VBN a/DT slowdown/NN in/IN manufacturing/NN and/CC consumer/NN spending/NN as/RB well/RB as/IN in/IN mortgage/NN approvals./NN
+And/CC retail/JJ sales/NNS disappointed/VBN over/IN Christmas/NNP with/IN analysts/NNS putting/VBG the/DT drop/NN down/RP to/TO less/JJR consumer/NN confidence./NN
+
+Rising/VBG interest/NN rates/NNS and/CC the/DT accompanying/VBG slowdown/NN in/IN the/DT housing/NN market/NN have/VBP knocked/VBN consumers'/NN optimism/NN causing/VBG a/DT sharp/JJ fall/NN in/IN demand/NN for/IN expensive/JJ goods/NNS according/VBG to/TO a/DT report/NN earlier/RBR this/DT week/NN from/IN the/DT British/JJ Retail/JJ Consortium./NNP
+The/DT BRC/NNP said/VBD Britain's/NNP retailers/NNS had/VBD endured/VBN their/PRP$ worst/JJS Christmas/NNP in/IN a/DT decade./NN
+
+"Today's/NN no/DT change/NN decision/NN is/VBZ correct"/NN said/VBN David/NNP Frost/NNP Director/NNP General/NNP of/IN the/DT British/NNP Chambers/NNP of/IN Commerce/NNP (BCC)./NN
+"But/NN if/IN there/EX are/VBP clear/JJ signs/NNS that/IN the/DT economy/NN slows/VBZ the/DT MPC/NNP should/MD be/VB ready/JJ to/TO take/VB quick/JJ corrective/JJ action/NN and/CC cut/VB rates./NN
+"Dismal/JJ reports/NNS from/IN the/DT retail/JJ trade/NN about/IN Christmas/NNP sales/NNS are/VBP worrying/VBG if/IN they/PRP indicate/VBP a/DT more/RBR general/JJ weakening/NN in/IN consumer/NN spending."/NN
+
+Mr/NNP Frost/NNP added/VBD "The/NN housing/NN market/NN outlook/NN remains/VBZ highly/RB uncertain./NN
+"It/NN is/VBZ widely/RB accepted/VBN that/IN if/IN house/NN prices/NNS start/VBP falling/VBG more/RBR sharply/RB the/DT risks/NNS facing/VBG the/DT economy/NN will/MD worsen/VB considerably."/NN CBI/NNP chief/NN economist/NN Ian/NNP McCafferty/NNP said/VBD the/DT economy/NN had/VBD "slowed/VBN in/IN recent/JJ months/NNS in/IN response/NN to/TO rate/VB rises"/NN but/CC that/IN it/PRP was/VBD difficult/JJ to/TO gauge/VB from/IN the/DT Christmas/NNP period/NN the/DT likely/JJ pace/NN of/IN activity/NN through/IN the/DT summer./NN
+"The/NNP Bank/NNP is/VBZ having/VBG to/TO juggle/VB the/DT emergence/NN of/IN inflationary/JJ pressures/NNS driven/VBN by/IN a/DT tight/JJ labour/NN market/NN and/CC buoyant/JJ commodity/NN prices/NNS against/IN the/DT risk/NN of/IN an/DT over-abrupt/JJ slowdown/NN in/IN consumer/NN activity"/NN he/PRP said./VB
+"Interest/JJ rates/NNS are/VBP likely/JJ to/TO remain/VB on/IN hold/NN for/IN some/DT time."/NN
+
+On/IN Thursday/NNP there/EX was/VBD more/RBR gloomy/JJ news/NN on/IN the/DT manufacturing/NN front/NN as/IN the/DT Office/NNP for/IN National/NNP (ONS)/NN statistics/NNS revealed/VBD British/JJ manufacturing/NN output/NN unexpectedly/RB fell/VBD in/IN November/NNP -/: for/IN the/DT fifth/JJ month/NN in/IN the/DT past/JJ six./NN
+The/DT ONS/NNP said/VBD manufacturing/NN output/NN dropped/VBD 0.1%/CD in/IN November/NNP matching/VBG a/DT similar/JJ unrevised/VBN fall/NN in/IN October/NNP and/CC confounding/VBG economists'/NN expectations/NNS of/IN a/DT 0.3%/CD rise./NN
+Manufacturers'/NNP organisation/NN the/DT EEF/NNP said/VBD it/PRP expected/VBD the/DT hold/NN in/IN interest/NN rates/NNS to/TO continue/VB in/IN the/DT near/JJ future./NN
+It/PRP also/RB said/VBD there/EX was/VBD evidence/NN that/DT manufacturers'/NN confidence/NN may/MD be/VB waning/VBG as/IN the/DT outlook/NN for/IN the/DT world/NN economy/NN becomes/VBZ more/JJR uncertain./NN
+
+"So/NN far/RB the/DT evidence/NN suggests/VBZ that/IN last/JJ year's/NNS rate/NN increases/NNS have/VBP helped/VBN to/TO rebalance/VB the/DT economy/NN without/IN damaging/JJ the/DT recovery/NN in/IN manufacturing"/NN said/VBD EEF/NNP chief/NN economist/NN Steve/NNP Radley./NNP
+"However/NN should/MD the/DT business/NN outlook/NN start/NN to/TO deteriorate/VB the/DT Bank/NNP should/MD stand/VB ready/JJ to/TO cut/VB rates."/NN Some/DT economists/NNS have/VBP predicted/VBN rates/NNS will/MD drop/VB later/RB in/IN the/DT year/NN although/IN others/NNS feel/VBP the/DT Bank/NNP may/MD still/RB think/VB there/EX is/VBZ a/DT need/NN for/IN a/DT rise/NN to/TO 5%/CD before/IN that/DT happens./NN
+The/DT Bank/NNP remains/VBZ concerned/VBN about/IN the/DT long-term/JJ risks/NNS posed/VBN by/IN personal/JJ debt/NN -/: which/WDT is/VBZ rising/VBG at/IN 15%/CD a/DT year/NN -/: if/IN economic/JJ conditions/NNS worsen./NN

@@ -1,0 +1,14 @@
+Japan/NNP narrowly/RB escapes/VBZ recession/NN
+
+Japan's/NNP economy/NN teetered/VBN on/IN the/DT brink/NN of/IN a/DT technical/JJ recession/NN in/IN the/DT three/CD months/NNS to/TO September/NNP figures/NNS show./NN
+
+Revised/VBN figures/NNS indicated/VBD growth/NN of/IN just/RB 0.1%/CD -/: and/CC a/DT similar-sized/JJ contraction/NN in/IN the/DT previous/JJ quarter./NN
+On/IN an/DT annual/JJ basis/NN the/DT data/NNS suggests/VBZ annual/JJ growth/NN of/IN just/RB 0.2%/CD suggesting/VBG a/DT much/RB more/JJR hesitant/NN recovery/NN than/IN had/VBD previously/RB been/VBN thought./NN
+A/DT common/JJ technical/JJ definition/NN of/IN a/DT recession/NN is/VBZ two/CD successive/JJ quarters/NNS of/IN negative/JJ growth./NN
+
+The/DT government/NN was/VBD keen/JJ to/TO play/VB down/RP the/DT worrying/VBG implications/NNS of/IN the/DT data./NN
+"I/NN maintain/VBP the/DT view/NN that/IN Japan's/NNP economy/NN remains/VBZ in/IN a/DT minor/JJ adjustment/NN phase/NN in/IN an/DT upward/JJ climb/NN and/CC we/PRP will/MD monitor/VB developments/NNS carefully"/NN said/VBD economy/NN minister/NN Heizo/NNP Takenaka./NNP
+But/CC in/IN the/DT face/NN of/IN the/DT strengthening/VBG yen/NNS making/VBG exports/NNS less/RBR competitive/JJ and/CC indications/NNS of/IN weakening/VBG economic/JJ conditions/NNS ahead/RB observers/NNS were/VBD less/JJR sanguine./NN
+"It's/NN painting/NN a/DT picture/NN of/IN a/DT recovery.../NN
+much/JJ patchier/NN than/IN previously/RB thought"/NN said/VBD Paul/NNP Sheard/NNP economist/NN at/IN Lehman/NNP Brothers/NNP in/IN Tokyo./NNP
+Improvements/NNP in/IN the/DT job/NN market/NN apparently/RB have/VBP yet/RB to/TO feed/VB through/IN to/TO domestic/JJ demand/NN with/IN private/JJ consumption/NN up/IN just/RB 0.2%/CD in/IN the/DT third/JJ quarter./NN

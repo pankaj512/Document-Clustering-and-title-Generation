@@ -1,0 +1,12 @@
+School/NNP tribute/NN for/IN TV/NN host/NN Carson/NNP
+
+More/JJR than/IN 1000/CD people/NNS turned/VBD out/RP on/IN Sunday/NNP to/TO pay/VB tribute/NN to/TO late/VB US/PRP TV/VBP presenter/NN Johnny/NNP Carson/NNP in/IN the/DT Nebraska/NNP town/NN where/WRB he/PRP grew/VBD up./NN
+
+Carson/NNP who/WP hosted/VBD the/DT Tonight/NNP Show/NNP for/IN 30/CD years/NNS died/VBD on/IN 23/CD January/NNP from/IN respiratory/NN disease/NN emphysema./NN
+He/PRP lived/VBD in/IN Norfolk/NNP Nebraska/NNP from/IN the/DT age/NN of/IN eight/CD until/IN he/PRP joined/VBD the/DT Navy/NNP but/CC returned/VBN regularly/RB and/CC donated/VBN $5m/CD (£2.7m)/CD to/TO local/JJ causes./NN
+Old/NNP school/NN friends/NNS were/VBD among/IN the/DT crowd/NN at/IN the/DT school's/NNS Johnny/NNP Carson/NNP Theater./NNP
+
+Carson/NNP who/WP was/VBD one/CD of/IN the/DT best-loved/JJ TV/NN personalities/NNS in/IN the/DT US/PRP asked/VBD not/RB to/TO have/VB a/DT public/JJ memorial/NN in/IN Los/NNP Angeles/NNP where/WRB he/PRP lived/VBD in/IN later/RB life./NN
+He/PRP began/VBD his/PRP$ showbusiness/NN career/NN in/IN Norfolk/NNP performing/VBG magic/JJ under/IN the/DT name/NN The/DT Great/NNP Carsoni/NNP from/IN the/DT age/NN of/IN 14./CD
+His/PRP$ donations/NNS included/VBD $600000/CD to/TO Norfolk/NNP High/NNP School/NNP in/IN the/DT 1980s/CD to/TO build/VB a/DT new/JJ performing/NN arts/NNS centre./NN
+When/WRB Carson/NNP died/VBD President/NNP Bush/NNP led/VBD the/DT public/JJ tributes/NNS saying/VBG the/DT presenter/NN "had/NN a/DT profound/JJ influence/NN on/IN American/JJ life/NN and/CC entertainment"./NN

@@ -1,0 +1,31 @@
+Lib/NNP Dems/NNP target/NN the/DT student/NN vote/NN
+
+Students/NNS can/MD decide/VB the/DT fate/NN of/IN MPs/NNP in/IN some/DT seats/NNS at/IN the/DT next/JJ election/NN Liberal/NNP Democrat/NNP leader/NN Charles/NNP Kennedy/NNP has/VBZ claimed./NN
+
+The/DT party/NN says/VBZ the/DT votes/NNS of/IN students/NNS can/MD win/VB it/PRP 27/CD new/JJ seats/NNS at/IN the/DT poll./NN
+The/DT figures/NNS assume/VBP all/DT students/NNS will/MD vote/VB in/IN their/PRP$ university/NN town./NN
+In/IN fact/NN some/DT may/MD vote/VB where/WRB the/DT parents/NNS live./NN
+The/DT Lib/NNP Dems/NNP say/VBP scrapping/VBG university/NN fees/NNS wins/VBZ them/PRP student/NN support./NN
+But/CC the/DT Tories/NNPS would/MD also/RB end/VB fees/NNS and/CC Labour/NNP says/VBZ both/DT would/MD cap/VB people's/NNS ambitions./NN
+
+The/DT Lib/NNP Dems/NNP have/VBP named/VBN the/DT 14/CD seats/NNS where/WRB there/EX are/VBP enough/JJ students/NNS to/TO take/VB the/DT Lib/NNP Dems/NNP from/IN second/JJ place/NN to/TO beat/VB Labour/NNP and/CC the/DT 13/CD where/WRB they/PRP could/MD go/VB from/IN second/JJ to/TO beat/VB the/DT Tories./NNP
+Launching/VBG his/PRP$ campaign/NN to/TO win/VB students'/NN votes/NNS at/IN the/DT London/NNP School/NNP of/IN Economics/NNP Mr/NNP Kennedy/NNP urged/VBD students/NNS to/TO "make/VB their/PRP$ mark"./NN
+He/PRP underlined/VBD Lib/NNP Dem/NNP plans/VBZ to/TO scrap/VB university/NN fees/NNS and/CC reintroduce/NN maintenance/NN grants/NNS of/IN up/IN to/TO £2000./CD
+He/PRP said/VBD "Top-up/JJ fees/NNS put/VBP students/NNS off/IN university/NN especially/RB those/DT from/IN a/DT poorer/JJR background./NN
+"And/NN is/VBZ it/PRP really/RB right/VBP that/IN so/RB many/JJ young/JJ people/NNS are/VBP starting/VBG out/RP in/IN life/NN with/IN mortgage-style/JJ debts/NNS hanging/VBG round/VBP their/PRP$ necks?"/NN Mr/NNP Kennedy/NNP also/RB said/VBD students/NNS want/VBP action/NN on/IN the/DT environment/NN and/CC see/VB the/DT Iraq/NNP war/NN which/WDT his/PRP$ party/NN opposed/VBN as/IN a/DT defining/JJ issue./NN
+
+Labour/NNP has/VBZ pushed/VBN through/IN plans/NNS to/TO let/VB universities/NNS charge/NN fees/NNS of/IN up/IN to/TO £3000/CD a/DT year/NN with/IN the/DT poorest/JJS students/NNS eligible/JJ for/IN non-repayable/JJ support/NN of/IN up/IN to/TO £3000./CD
+Ahead/RB of/IN Mr/NNP Kennedy's/NNP launch/VB a/DT Labour/NNP spokesperson/NN said/VBD "Like/NN the/DT Tories/NNPS the/DT Liberal/NNP Democrats/NNPS would/MD restrict/VB access/NN to/TO higher/JJR education/NN and/CC put/VBD a/DT cap/NN on/IN aspiration/NN closing/NN the/DT door/NN to/TO students/NNS with/IN good/JJ grades/NNS and/CC restricting/VBG their/PRP$ life/NN ambitions./NN
+"They/NN are/VBP committed/VBN to/TO abandoning/VBG Labour's/NNP targets/NNS of/IN getting/VBG 50%/CD of/IN 18/CD to/TO 30-year-olds/JJ going/VBG into/IN higher/JJR education/NN and/CC under/IN Lib/NNP Dem/NNP plans/VBZ students/NNS would/MD even/RB have/VB to/TO study/VB near/IN home."/NN The/DT Conservatives/NNS say/VBP they/PRP would/MD abolish/VB university/NN tuition/NN fees/NNS and/CC instead/RB offer/NN large/JJ student/NN loans/NNS at/IN commercial/JJ rates/NNS of/IN interest./JJ
+
+They/PRP say/VBP the/DT Lib/NNP Dem/NNP policy/NN would/MD leave/VB universities/NNS wholly/RB dependent/JJ for/IN their/PRP$ income/NN on/IN the/DT "goodwill"/NN of/IN the/DT chancellor./NN
+
+Shadow/NNP education/NN secretary/NN Tim/NNP Collins/NNP is/VBZ on/IN Thursday/NNP setting/VBG out/RP a/DT new/JJ scheme/NN of/IN vocational/JJ grants/NNS for/IN 14/CD to/TO 16-year-olds/NNS to/TO tackle/VB what/WP he/PRP says/NNS are/VBP "crippling/VBG skills/NNS shortages"./NN
+The/DT Lib/NNP Dem/NNP analysis/NN of/IN the/DT difference/NN students/NNS could/MD make/VB to/TO its/PRP$ election/NN chances/NNS is/VBZ based/VBN on/IN all/DT students/NNS being/VBG registered/VBN to/TO vote/VB near/IN their/PRP$ university/NN not/RB in/IN their/PRP$ home/NN towns./NN
+Although/IN the/DT expected/VBN 5/CD May/NNP election/NN would/MD be/VB during/IN term/NN time/NN students/NNS can/MD vote/VB by/IN post./NN
+The/DT Electoral/JJ Commission/NNP and/CC National/NNP Union/NNP of/IN Students/NNS are/VBP worried/VBN students/NNS in/IN halls/NNS of/IN residence/NN can/MD find/VB it/PRP hard/JJ to/TO register/VB to/TO vote./VB
+Some/DT hall/NN wardens/NNS are/VBP reluctant/JJ to/TO register/VB students/NNS because/IN of/IN data/NNS protection/NN fears/NNS -/: but/CC students/NNS can/MD get/VB themselves/PRP registered./VBP
+If/IN the/DT election/NN is/VBZ on/IN 5/CD May/NNP voters/NNS need/VBP to/TO register/VB by/IN 11/CD March./NNP
+
+
+-/: The/DT seats/NNS where/WRB the/DT Lib/NNP Dems/NNP say/VBP student/NN votes/NNS can/MD swing/VB the/DT election/NN for/IN them/PRP are/VBP Bristol/NNP West/NNP Cardiff/NNP Central/NNP Leeds/NNP North/NNP West/NNP Cambridge/NNP Manchester/NNP Gorton/NNP Sheffield/NNP Central/NNP Oxford/NNP East/NNP Newcastle-upon-Tyne/NNP Central/NNP Liverpool/NNP Riverside/NNP Holborn/NNP and/CC St/NNP Pancras/NNP Oldham/NNP East/NNP and/CC Saddleworth/NNP Manchester/NNP Withington/NNP Islington/NNP South/NNP and/CC Finsbury/NNP Birmingham/NNP Yardley/NNP Surrey/NNP South/NNP West/NNP Taunton/NNP Orpington/NNP Haltemprice/NNP and/CC Howden/NNP Eastbourne/NNP Isle/NNP of/IN Wight/NNP Dorset/NNP West/NNP Bournemouth/NNP East/NNP Wells/NNP Canterbury/NNP Cities/NNPS of/IN London/NNP and/CC Westminster/NNP Bournemouth/NNP West/NNP Westmorland/NNP and/CC Lonsdale./NNP

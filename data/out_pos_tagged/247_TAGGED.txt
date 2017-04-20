@@ -1,0 +1,19 @@
+Renault/NNP boss/NN hails/VBZ 'great/NN year'/NN
+
+Strong/JJ sales/NNS outside/IN western/JJ Europe/NNP helped/VBD Renault/NNP boost/VB its/PRP$ profits/NNS by/IN more/JJR than/IN 40%/CD in/IN 2004/CD although/IN the/DT firm/NN warned/VBD of/IN lower/JJR margins/NNS this/DT year./NN
+
+France's/NNP second/JJ largest/JJS carmaker/NN enjoyed/VBD a/DT healthy/JJ 43%/CD rise/NN in/IN net/JJ profits/NNS to/TO 2.4bn/CD euros/NNS ($3.1bn/CD £2.9bn)/CD as/IN sales/NNS rose/VBD 8%/CD to/TO 40.7bn/CD euros./NN
+The/DT firm/NN said/VBD strong/JJ demand/NN outside/IN western/JJ Europe/NNP and/CC the/DT good/JJ performance/NN of/IN its/PRP$ Megane/NNP range/NN lifted/VBD its/PRP$ results./NN
+Chairman/NNP Louis/NNP Schweitzer/NNP said/VBD 2004/CD had/VBD been/VBN a/DT "great/NN year"/NN for/IN the/DT firm./NN
+
+Renault/NNP sold/VBD more/JJR than/IN 2.4/CD million/CD vehicles/NNS in/IN 2004/CD an/DT increase/NN of/IN 4%/CD on/IN the/DT previous/JJ year./NN
+Growth/NN came/VBD mainly/RB from/IN outside/IN western/JJ Europe/NNP with/IN particularly/RB strong/JJ sales/NNS in/IN Turkey/NNP Russia/NNP and/CC North/NNP Africa./NNP
+
+In/IN total/JJ sales/NNS outside/IN western/JJ Europe/NNP -/: Renault's/NNP core/NN market/NN -/: rose/VBD 16.5%./CD
+Japanese/JJ carmaker/NN Nissan/NNP -/: in/IN which/WDT Renault/NNP owns/VBZ a/DT 44%/CD stake/NN -/: contributed/VBD 1.7bn/CD euros/NNS in/IN net/JJ income/NN over/IN the/DT year./NN
+Nissan/NNP chairman/NN Carlos/NNP Ghosn/NNP is/VBZ to/TO succeed/VB Mr/NNP Schweitzer/NNP at/IN the/DT head/NN of/IN Renault/NNP later/RB this/DT year./NN
+
+Renault/NNP said/VBD the/DT outlook/NN for/IN the/DT industry/NN in/IN Europe/NNP this/DT year/NN was/VBD "stable"/NN with/IN small/JJ growth/NN forecast/NN in/IN other/JJ regions./NN
+The/DT firm/NN will/MD benefit/VB from/IN the/DT launch/NN of/IN a/DT new/JJ Clio/NNP model/NN in/IN the/DT coming/VBG year/NN and/CC the/DT roll-out/NN of/IN the/DT Logan/NNP in/IN many/JJ markets./NN
+However/RB the/DT firm/NN said/VBD it/PRP expected/VBD operating/VBG margins/NNS to/TO be/VB lower/JJR in/IN 2005/CD at/IN 4%/CD of/IN sales/NNS as/IN opposed/VBN to/TO 5%./CD
+"In/NN a/DT sluggish/JJ market/NN and/CC an/DT environment/NN impacted/VBN by/IN the/DT rise/NN in/IN raw/JJ material/NN prices/NNS Renault/NNP intends/VBZ to/TO continue/VB to/TO grow/VB its/PRP$ global/JJ sales"/NN the/DT company/NN said/VBD in/IN a/DT statement./NN

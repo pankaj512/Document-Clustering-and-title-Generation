@@ -1,0 +1,13 @@
+Connick/NNP Jr/NNP to/TO lead/VB Broadway/NNP show/NN
+
+Singer/NNP and/CC actor/NN Harry/NNP Connick/NNP Jr/NNP is/VBZ to/TO star/VB in/IN a/DT Broadway/NNP revival/NN of/IN 1950s/CD hit/VBD musical/JJ The/DT Pajama/NN Game./NNP
+
+He/PRP will/MD play/VB the/DT supervisor/NN of/IN a/DT US/PRP pyjama/VBP factory/NN who/WP has/VBZ a/DT romance/NN with/IN a/DT union/NN activist/NN during/IN labour/NN unrest./NN
+Jeffrey/NNP Richards/NNP the/DT show's/NNS co-producer/NN said/VBD Connick/NNP was/VBD "an/NN actor/NN of/IN enormous/JJ charisma/NN and/CC skill/VB a/DT wonderful/JJ singer/NN and/CC a/DT bona/NN fide/NN star"./NN
+He/PRP has/VBZ recently/RB starred/VBN in/IN hit/VBD US/PRP comedy/VBP Will/MD and/CC Grace/NNP as/IN the/DT husband/NN of/IN Grace/NNP played/VBN by/IN Debra/NNP Messing./NNP
+The/DT musical/NN will/MD open/VB in/IN November/NNP said/VBD Mr/NNP Richards/NNP who/WP added/VBD that/IN no/DT other/JJ casting/NN had/VBD been/VBN announced/VBN yet./NN
+
+The/DT original/JJ book/NN by/IN George/NNP Abbott/NNP and/CC Richard/NNP Bissell/NNP will/MD be/VB revised/VBN by/IN playwright/NN Peter/NNP Ackerman/NNP who/WP co-wrote/JJ the/DT screenplay/NN for/IN the/DT movie/NN Ice/NNP Age./NNP
+It/PRP has/VBZ a/DT score/NN by/IN Richard/NNP Adler/NNP and/CC Jerry/NNP Ross/NNP and/CC Adler/NNP is/VBZ writing/VBG two/CD new/JJ songs/NNS for/IN the/DT score/NN which/WDT includes/VBZ numbers/NNS including/VBG Hey/NNP There/EX Small/JJ Talk/NN and/CC Steam/NN Heat./NNP
+Connick/NNP appeared/VBD with/IN his/PRP$ band/NN on/IN Broadway/NNP in/IN 1990/CD and/CC he/PRP wrote/VBD the/DT score/NN for/IN a/DT musical/JJ based/VBN on/IN Emile/NNP Zola's/NNP novel/NN Therese/NNP Raquin/NNP called/VBD Thou/NNP Shalt/NNP Not./NNP
+It/PRP had/VBD a/DT three-month/JJ run/NN on/IN Broadway/NNP in/IN 2001./CD

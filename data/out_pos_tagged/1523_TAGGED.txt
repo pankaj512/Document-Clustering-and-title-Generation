@@ -1,0 +1,39 @@
+Tevez/NNP -/: an/DT Argentine/NN in/IN Brazil/NNP
+
+Some/DT 65/CD years/NNS ago/RB Bernardo/NNP Gandulla/NNP left/VBD Boca/NNP Juniors/NNS in/IN his/PRP$ native/JJ Argentina/NNP and/CC headed/VBN for/IN Brazil./NNP
+
+He/PRP arrived/VBD at/IN the/DT Vasco/NNP da/NNP Gama/NNP club/NN with/IN considerable/JJ prestige/NN -/: which/WDT he/PRP failed/VBD to/TO live/VB up/RP to./NN
+He/PRP left/VBD an/DT impression/NN but/CC not/RB for/IN reasons/NNS he/PRP would/MD have/VB wanted./NN
+The/DT only/JJ thing/NN of/IN note/NN he/PRP did/VBD was/VBD to/TO throw/VB the/DT ball/NN back/RB when/WRB it/PRP went/VBD out/IN of/IN play./NN
+Even/RB today/NN 'gandula'/NN is/VBZ the/DT term/NN used/VBN in/IN Brazil/NNP for/IN ballboy./NN
+Brazilians/NNS delighted/JJ in/IN the/DT failure/NN of/IN Gandulla/NNP then/RB and/CC many/JJ will/MD delight/VB now/RB if/IN history/NN is/VBZ repeated./NN
+Another/DT Boca/NNP Juniors/NNS player/NN is/VBZ coming/VBG to/TO Brazil./NNP
+'The/NN new/JJ Maradona'/NNP -/: Carlos/NNP Tevez/NNP -/: is/VBZ joining/VBG Corinthians/NNPS for/IN nearly/RB $20m/CD in/IN a/DT strong/JJ candidate/NN for/IN the/DT strangest/JJ move/NN of/IN the/DT year./NN
+Corinthians/NNPS -/: or/CC the/DT London-based/JJ company/NN who/WP have/VBP just/RB entered/VBN into/IN partnership/NN with/IN them/PRP -/: appear/VB to/TO have/VB paid/VBN well/RB above/IN the/DT odds/NNS for/IN Tevez./NNP
+It/PRP is/VBZ particularly/RB strange/JJ as/IN -/: until/IN last/JJ week/NN -/: Tevez/NNP was/VBD not/RB even/RB an/DT especially/RB big/JJ name/NN in/IN Brazil/NNP where/WRB the/DT Argentine/JJ Championship/NNP is/VBZ not/RB shown./NN
+
+Presumably/RB there/EX is/VBZ some/DT financial/JJ logic/NN behind/IN the/DT move./NN
+What/WP is/VBZ harder/JJR to/TO work/VB out/RP is/VBZ why/WRB Tevez/NNP should/MD be/VB interested/JJ in/IN heading/VBG north/RB rather/RB than/IN across/IN the/DT Atlantic./NNP
+Argentina's/NNP brightest/JJS new/JJ star/NN hit/VBD top/JJ form/NN in/IN August/NNP as/IN he/PRP spearheaded/VBD the/DT charge/NN towards/IN the/DT Olympic/NNP gold/NN medal./NN
+But/CC the/DT subsequent/JJ months/NNS have/VBP not/RB been/VBN easy/JJ for/IN Tevez./NNP
+Boca/NNP re-signed/JJ Martin/NNP Palermo/NNP forcing/VBG Tevez/NNP to/TO vacate/VB his/PRP$ favoured/VBN centre/NN forward/RB role./NN
+And/CC off/RB the/DT pitch/NN he/PRP gave/VBD the/DT press/NN plenty/NN to/TO report/VB -/: Atletico/NNP Madrid/NNP gave/VBD up/RP on/IN him/PRP after/IN declaring/VBG his/PRP$ private/JJ life/NN to/TO be/VB 'disorganized.'/NN Hounded/VBN by/IN the/DT press/NN Tevez/NNP grew/VBD tired/JJ of/IN his/PRP$ life/NN in/IN Buenos/NNP Aires./NNP
+So/RB now/RB he/PRP says/VBZ that/IN he/PRP is/VBZ heading/VBG for/IN Corinthians/NNPS in/IN search/NN of/IN 'tranquillity.'/NN Anyone/NN acquainted/VBN with/IN the/DT city/NN of/IN S&#227o/CD Paulo/NNP will/MD relish/VB the/DT nonsense/NN of/IN this/DT declaration./NN
+Brazil's/NNP biggest/JJS city/NN is/VBZ a/DT sprawling/VBG ugly/JJ restless/JJ metropolis./NN
+Once/RB it/PRP shared/VBD with/IN Buenos/NNP Aires/NNP the/DT same/JJ melancholy/JJ air/NN of/IN a/DT city/NN of/IN Italian/JJ immigrants./NN
+
+But/CC that/DT world/NN now/RB lies/VBZ buried/VBN under/IN skyscrapers./NN
+The/DT most/RBS turbulent/JJ place/NN in/IN this/DT frenetic/JJ city/NN is/VBZ Sport/NNP Club/NNP Corinthians./NNP
+It/PRP is/VBZ the/DT most/RBS passionately/RB supported/VBN club/NN in/IN Brazil./NNP
+Pel&#233/CD scored/VBD reams/NNS of/IN goals/NNS against/IN them/PRP reasoning/VBP that/IN unless/IN he/PRP did/VBD something/NN special/JJ the/DT Corinthians/NNPS fans/NNS were/VBD capable/JJ of/IN winning/VBG the/DT game/NN on/IN their/PRP$ own./NN
+That/DT passion/NN can/MD also/RB be/VB turned/VBN against/IN the/DT team/NN -/: especially/RB nowadays/RB when/WRB the/DT level/NN of/IN urban/JJ violence/NN gives/VBZ a/DT hysterical/JJ edge/NN to/TO life/NN in/IN Brazil's/NNP big/JJ cities./NN
+Corinthians/NN fans/NNS have/VBP invaded/VBN the/DT dressing/VBG room/NN or/CC ambushed/VBD the/DT team/NN coach/NN to/TO attack/VB the/DT players./NN
+Tevez/NNP then/RB can/MD kiss/JJ tranquillity/NN goodbye./NN
+He/PRP can/MD also/RB say/VB farewell/NN to/TO the/DT Copa/NNP Libertadores/NNP South/NNP America's/NNP Champions/NNS League./NNP
+Corinthians/NNS have/VBP not/RB qualified./NN
+Indeed/RB he/PRP will/MD have/VB a/DT long/JJ wait/NN for/IN a/DT worthwhile/JJ match./NN
+Next/JJ year's/NNS Brazilian/JJ Championship/NNP only/RB gets/VBZ underway/NN at/IN the/DT end/NN of/IN April./NNP
+Until/IN then/RB he/PRP will/MD have/VB to/TO make/VB do/VBP with/IN the/DT foolish/JJ S&#227o/CD Paulo/NNP State/NNP Championship/NNP an/DT appalling/JJ waste/NN of/IN his/PRP$ talent./NN
+There/EX will/MD be/VB matches/VBZ in/IN small/JJ towns/NNS on/IN poor/JJ pitches/NNS with/IN plenty/NN of/IN defenders/NNS keen/JJ to/TO kick/VB him/PRP all/PDT the/DT way/NN back/RB to/TO Argentina./NNP
+Like/IN so/RB many/JJ of/IN the/DT top/JJ South/NNP American/JJ players/NNS Tevez/NNP has/VBZ the/DT gift/NN of/IN being/VBG able/JJ to/TO surprise/VB -/: to/TO feint/VB right/NN and/CC go/VB left/JJ to/TO pass/VB when/WRB he/PRP was/VBD expected/VBN to/TO dribble/VB to/TO shoot/VB and/CC catch/VB the/DT goalkeeper/NN unawares./NN
+But/CC his/PRP$ choice/NN of/IN destination/NN is/VBZ the/DT biggest/JJS surprise/NN of/IN all./NN

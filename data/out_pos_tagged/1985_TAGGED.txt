@@ -1,0 +1,46 @@
+When/WRB technology/NN gets/VBZ personal/JJ
+
+In/IN 2020/CD whipping/JJ out/RP your/PRP$ mobile/JJ phone/NN to/TO make/VB a/DT call/NN will/MD be/VB quaintly/RB pass&#233./CD
+By/IN then/RB phones/NNS will/MD be/VB printed/VBN directly/RB on/RP to/TO wrists/NNS or/CC other/JJ parts/NNS of/IN the/DT body/NN says/VBZ Ian/NNP Pearson/NNP BT's/NNP resident/NN futurologist./NN
+
+It's/VBG all/DT part/NN of/IN what's/NNS known/VBN as/IN a/DT "pervasive/JJ ambient/NN world"/NN where/WRB "chips/NN are/VBP everywhere"./NN
+Mr/NNP Pearson/NNP does/VBZ not/RB have/VB a/DT crystal/NN ball./NN
+His/PRP$ job/NN is/VBZ to/TO formulate/VB ideas/NNS based/VBN on/IN what/WP science/NN and/CC technology/NN are/VBP doing/VBG now/RB to/TO guide/VB industries/NNS into/IN the/DT future./NN
+Inanimate/NN objects/NNS will/MD start/VB to/TO interact/JJ with/IN us/PRP we/PRP will/MD be/VB surrounded/VBN -/: on/IN streets/NNS in/IN homes/NNS in/IN appliances/NNS on/IN our/PRP$ bodies/NNS and/CC possibly/RB in/IN our/PRP$ heads/NNS -/: by/IN things/NNS that/DT "think"./NN
+Forget/VB local/JJ area/NN networks/NNS -/: these/DT will/MD be/VB body/NN area/NN networks./NN
+Ideas/NNS about/IN just/RB how/WRB smart/JJ small/JJ or/CC even/RB invisible/JJ technology/NN will/MD get/VB are/VB always/RB floating/VBG around./NN
+Images/NNS of/IN devices/NNS clumsily/RB bolted/VBN on/RP to/TO heads/VBZ or/CC wrists/NNS have/VBP pervaded/VBN thinking/VBG about/IN future/JJ technology./NN
+But/CC now/RB a/DT new/JJ vision/NN is/VBZ surfacing/VBG where/WRB smart/JJ fabrics/NNS and/CC textiles/NNS will/MD be/VB exploited/VBN to/TO enhance/VB functionality/NN form/NN or/CC aesthetics./NN
+Such/JJ materials/NNS are/VBP already/RB starting/VBG to/TO change/VB how/WRB gadgets/NNS and/CC electronics/NNS are/VBP used/VBN and/CC designed./NN
+
+So/RB MP3/CD players/NNS -/: the/DT mass/NN gadget/NN of/IN the/DT moment/NN -/: will/MD disappear/VB and/CC instead/RB become/VB integrated/VBN into/IN one's/NNS clothing/NN says/VBZ Mr/NNP Pearson./NNP
+"So/NN the/DT gadgets/NNS that/WDT fill/NN up/RP your/PRP$ handbag/NN when/WRB we/PRP integrate/VBP those/DT into/IN fabric/NN we/PRP can/MD actually/RB get/VB rid/VB of/IN all/DT that/DT stuff./NN
+You/PRP won't/VBP necessarily/RB see/VB the/DT electronics."/NN Wearable/NNP technology/NN could/MD exploit/VB body/NN heat/NN to/TO charge/VB it/PRP up/RP while/IN "video/NN tattoos"/NN or/CC intelligent/JJ electronic/JJ contact/NN lenses/NNS might/MD function/VB as/IN TV/NN screens/NNS for/IN those/DT on/IN the/DT move./NN
+However/RB this/DT future/NN of/IN highly/RB personal/JJ devices/NNS where/WRB technology/NN is/VBZ worn/JJ or/CC even/RB fuses/NNS with/IN the/DT body/NN itself/PRP raises/VBZ ethical/JJ questions./NN
+If/IN technology/NN is/VBZ going/VBG to/TO be/VB increasingly/RB part/NN of/IN clothing/NN jewellery/NN and/CC skin/NN there/EX needs/VBZ to/TO be/VB some/DT serious/JJ thinking/NN about/IN what/WP it/PRP means/VBZ for/IN us/PRP as/IN humans/NNS says/VBZ Baroness/NN Susan/NNP Greenfield./NNP
+At/IN a/DT recent/JJ conference/NN for/IN technology/NN engineering/NN academic/JJ and/CC fashion/NN industry/NN experts/NNS at/IN the/DT Royal/NNP Society/NNP in/IN London/NNP neuroscientist/NN Baroness/NN Greenfield/NNP cautioned/VBD we/PRP "can't/VBP just/RB sleepwalk/NN into/IN the/DT future"./NN
+
+Yet/RB this/DT technology/NN is/VBZ already/RB upon/IN us./NN
+Researchers/NNS have/VBP developed/VBN computers/NNS and/CC sensors/NNS worn/JJ in/IN clothing./NN
+MP3/CD jackets/NNS based/VBN on/IN the/DT idea/NN that/IN electrically/RB conductive/JJ fabric/NN can/MD connect/VB to/TO keyboard/VB sewn/NN into/IN sleeves/NNS have/VBP already/RB appeared/VBN in/IN shops./NN
+
+These/DT "smart/NN fabrics"/NN have/VBP come/VBN about/IN through/IN advances/NNS in/IN nano-/JJ and/CC micro-engineering/JJ -/: the/DT ability/NN to/TO manipulate/VB and/CC exploit/VB materials/NNS at/IN micro/NN or/CC molecular/JJ scale./NN
+At/IN the/DT nanoscale/NN materials/NNS can/MD be/VB "tuned"/NN to/TO display/VB unusual/JJ properties/NNS that/WDT can/MD be/VB exploited/VBN to/TO build/VB faster/RBR lighter/JJR stronger/JJR and/CC more/RBR efficient/JJ devices/NNS and/CC systems./NN
+The/DT textile/NN and/CC clothing/NN industry/NN has/VBZ been/VBN one/CD of/IN the/DT first/JJ to/TO exploit/VB nanotechnology/NN in/IN quite/RB straightforward/JJ ways./NN
+Many/JJ developments/NNS are/VBP appearing/VBG in/IN real/JJ products/NNS in/IN the/DT fields/NNS of/IN medicine/NN defence/NN healthcare/NN sports/NNS and/CC communications./NN
+Professional/NNP swimming/NN suits/NNS reduce/VBP drag/VB by/IN incorporating/VBG tiny/JJ structures/NNS similar/JJ to/TO shark/VB skin./NN
+Nanoscale/NNP titanium/NN dioxide/NN (TiO2)/CD coatings/NNS give/VBP fabrics/NNS antibacterial/JJ and/CC anti-odour/JJ properties./NN
+These/DT have/VBP special/JJ properties/NNS which/WDT can/MD be/VB activated/VBN in/IN contact/NN with/IN the/DT air/NN or/CC UV/NNP light./NN
+Such/JJ coatings/NNS have/VBP already/RB been/VBN used/VBN to/TO stop/VB socks/NNS smelling/VBG for/IN instance/NN to/TO turn/VB airline/NN seats/NNS into/IN super/JJ stain-resistant/JJ surfaces/NNS and/CC applied/VBN to/TO windows/NNS so/IN they/PRP clean/VBP themselves./NN
+Dressings/NNP for/IN wounds/NNS can/MD now/RB incorporate/VB nanoparticles/NNS with/IN biocidal/JJ properties/NNS and/CC smart/JJ patches/NNS are/VBP being/VBG developed/VBN to/TO deliver/VB drugs/NNS through/IN the/DT skin./NN
+But/CC Baroness/NN Greenfield/NNP is/VBZ concerned/VBN about/IN how/WRB far/RB this/DT more/RBR personal/JJ contact/NN with/IN technology/NN might/MD affect/VB our/PRP$ very/JJ being./NN
+If/IN our/PRP$ clothing/NN skin/NN and/CC "personal/JJ body/NN networks"/NN do/VBP the/DT talking/VBG and/CC the/DT monitoring/NN everywhere/RB we/PRP go/VBP we/PRP have/VBP to/TO think/VB about/IN what/WP that/WDT means/VBZ for/IN our/PRP$ concept/NN of/IN privacy./NN
+Mr/NNP Pearson/NNP picks/VBZ up/RP the/DT theme/NN pointing/VBG out/IN there/RB are/VBP a/DT lot/NN of/IN issues/NNS humans/NNS have/VBP to/TO iron/VB out/RP before/IN we/PRP become/VBP "cyborgian"./NN
+His/PRP$ main/JJ concern/NN is/VBZ "privacy"./NN
+"We/NN are/VBP looking/VBG at/IN electronics/NNS which/WDT are/VBP really/RB in/IN deep/JJ contact/NN with/IN your/PRP$ body/NN and/CC a/DT lot/NN of/IN that/DT information/NN you/PRP really/RB don't/VBP want/VBP every/DT passer-by/JJ to/TO know./VB
+"So/NN we/PRP have/VBP to/TO make/VB sure/JJ we/PRP build/VBP security/NN in/IN this./NN
+If/IN you/PRP are/VBP wearing/VBG smart/JJ make-up/JJ where/WRB electronics/NNS are/VBP controlling/VBG the/DT appearance/NN you/PRP don't/VBP want/VBP people/NNS hacking/VBG in/IN and/CC writing/VBG messages/NNS on/IN your/PRP$ forehead."/NN As/IN technology/NN infiltrates/NNS our/PRP$ biology/NN how/WRB will/MD our/PRP$ brains/NNS function/NN differently?/NN "We/NN cannot/NN arrogantly/RB assume/VB that/IN the/DT human/JJ brain/NN will/MD not/RB change/VB with/IN this"/NN warns/VBZ Baroness/NN Greenfield./NNP
+There/EX have/VBP already/RB been/VBN successful/JJ experiments/NNS to/TO grow/VB human/JJ nerve/NN cells/NNS on/IN circuit/NN boards./NN
+This/DT paves/VBZ the/DT way/NN for/IN brain/NN implants/NNS to/TO help/VB paralysed/JJ people/NNS interface/JJ directly/RB with/IN computers./NN
+Clearly/RB the/DT organic/JJ carbon/NN of/IN our/PRP$ bodies/NNS and/CC silicon/NN is/VBZ increasingly/RB merging./NN
+The/DT cyborg/NN -/: a/DT very/RB familiar/JJ part-human/JJ part-inorganic/JJ science/NN fiction/NN and/CC academic/JJ idea/NN -/: is/VBZ on/IN its/PRP$ way./NN

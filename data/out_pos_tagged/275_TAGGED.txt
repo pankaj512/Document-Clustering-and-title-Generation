@@ -1,0 +1,19 @@
+Five/CD million/CD Germans/NNPS out/IN of/IN work/NN
+
+Germany's/NNP unemployment/NN figure/NN rose/VBD above/IN the/DT psychologically/RB important/JJ level/NN of/IN five/CD million/CD last/JJ month./NN
+
+On/IN Wednesday/NNP the/DT German/JJ Federal/NNP Labour/NNP Agency/NNP said/VBD the/DT jobless/JJ total/NN had/VBD reached/VBN 5.037/CD million/CD in/IN January/NNP which/WDT takes/VBZ the/DT jobless/JJ rate/NN to/TO 12.1%./CD
+"Yes/NN we/PRP have/VBP effectively/RB more/RBR than/IN five/CD million/CD people/NNS unemployed"/VBP a/DT government/NN minister/NN said/VBD earlier/RBR on/IN ZDF/NNP public/JJ television./NN
+Unemployment/NN has/VBZ not/RB been/VBN this/DT high/NN in/IN Germany/NNP since/IN the/DT 1930s./CD
+
+Changes/NNS to/TO the/DT way/NN the/DT statistics/NNS are/VBP compiled/VBN partly/RB explain/VB the/DT jump/NN of/IN 572900/CD in/IN the/DT numbers./NN
+But/CC the/DT figures/NNS are/VBP embarrassing/JJ for/IN the/DT government./NN
+"With/NN the/DT figures/NNS apparently/RB the/DT worst/JJS we've/NN seen/VBN in/IN the/DT post-war/JJ period/NN these/DT numbers/NNS are/VBP very/RB charged/VBN politically"/NN said/VBD Christian/NNP Jasperneite/NNP an/DT economist/NN with/IN MM/NNP Warburg./NNP
+"They/NN could/MD well/RB put/VB an/DT end/NN to/TO the/DT recent/JJ renaissance/NN we've/NN seen/VBN by/IN the/DT SPD/NNP [the/NN ruling/NN Social/NNP Democrats]/NNP in/IN the/DT polls/NNS and/CC with/IN state/NN elections/NNS due/JJ in/IN Schleswig-Holstein/NNP and/CC North/NNP Rhine-Westphalia/NNP they/PRP may/MD have/VB an/DT adverse/JJ effect/NN on/IN the/DT government's/NNS chances/NNS there."/NN
+
+The/DT opposition/NN also/RB made/VBD political/JJ capital/NN from/IN the/DT figures./NN
+It/PRP said/VBD there/EX are/VBP a/DT further/JJ 1.5/CD million-2/JJ million/CD people/NNS on/IN subsidised/VBN employment/NN schemes/NNS who/WP are/VBP in/IN fact/NN looking/VBG for/IN real/JJ jobs./NN
+It/PRP added/VBD that/DT government/NN reforms/NNS including/VBG unpopular/JJ benefit/NN cuts/NNS do/VBP not/RB go/VB far/RB enough./NN
+Under/IN the/DT government's/NNS controversial/JJ "Hartz/NN IV"/NNP reforms/NNS which/WDT came/VBD into/IN effect/NN at/IN the/DT beginning/NN of/IN the/DT year/NN both/DT those/DT on/IN unemployment/NN benefits/NNS and/CC welfare/NN support/NN and/CC those/DT who/WP are/VBP long-term/JJ unemployed/JJ are/VBP officially/RB classified/VBN as/IN looking/VBG for/IN work./NN
+The/DT bad/JJ winter/NN weather/NN also/RB took/VBD its/PRP$ toll/NN as/IN key/JJ sectors/NNS such/JJ as/IN the/DT construction/NN sector/NN laid/VBD off/RP workers./NN
+Adjusted/VBN for/IN the/DT seasonal/JJ factors/NNS the/DT German/JJ jobless/JJ total/NN rose/VBD by/IN 227000/CD in/IN January/NNP from/IN December./NNP

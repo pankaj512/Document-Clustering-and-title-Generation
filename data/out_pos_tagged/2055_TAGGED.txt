@@ -1,0 +1,26 @@
+Parents/NNS face/VBP video/NN game/NN lessons/NNS
+
+Ways/NNS of/IN ensuring/VBG that/IN parents/NNS know/VBP which/WDT video/NN games/NNS are/VBP suitable/JJ for/IN children/NNS are/VBP to/TO be/VB considered/VBN by/IN the/DT games/NNS industry./NN
+
+The/DT issue/NN was/VBD discussed/VBN at/IN a/DT meeting/NN between/IN UK/NNP government/NN officials/NNS industry/VBP representatives/NNS and/CC the/DT British/NNP Board/NNP of/IN Film/NNP Classification./NNP
+It/PRP follows/VBZ concerns/NNS that/IN children/NNS may/MD be/VB playing/VBG games/NNS aimed/VBN at/IN adults/NNS which/WDT include/VBP high/JJ levels/NNS of/IN violence./NN
+In/IN 2003/CD Britons/NNP spent/VBD £1152m/CD on/IN games/NNS more/RBR than/IN ever/RB before./NN
+And/CC this/DT Christmas/NNP parents/NNS are/VBP expected/VBN to/TO spend/VB millions/NNS on/IN video/NN games/NNS and/CC consoles./NN
+
+Violent/JJ games/NNS have/VBP been/VBN hit/VBN by/IN controversy/NN after/IN the/DT game/NN Manhunt/NNP was/VBD blamed/VBN by/IN the/DT parents/NNS of/IN 14-year-old/JJ Stefan/NNP Pakeerah/NNP who/WP was/VBD stabbed/VBN to/TO death/NN in/IN Leicester/NNP in/IN February./NNP
+His/PRP$ mother/NN Giselle/NNP said/VBD her/PRP$ son's/NNS killer/NN Warren/NNP Leblanc/NNP 17/CD -/: who/WP was/VBD jailed/VBN for/IN life/NN in/IN September/NNP -/: had/VBD mimicked/VBN behaviour/NN in/IN the/DT game./NN
+
+Police/NNP investigating/VBG Stefan's/NNP murder/NN dismissed/VBD its/PRP$ influence/NN and/CC said/VBD Manhunt/NNP was/VBD not/RB part/NN of/IN its/PRP$ legal/JJ case./NN
+The/DT issue/NN of/IN warnings/NNS on/IN games/NNS for/IN adults/NNS was/VBD raised/VBN on/IN Sunday/NNP by/IN Trade/NNP and/CC Industry/NNP Secretary/NNP Patricia/NNP Hewitt./NNP
+This/DT was/VBD the/DT focus/NN of/IN the/DT talks/NNS between/IN government/NN officials/NNS representatives/NNS from/IN the/DT games/NNS industry/NN and/CC the/DT British/NNP Board/NNP of/IN Film/NNP Classification./NNP
+"Adults/NN can/MD make/VB informed/JJ choices/NNS about/IN what/WP games/NNS to/TO play./VB
+Children/NNP can't/NN and/CC they/PRP deserve/VBP to/TO be/VB protected"/NN said/VBN Culture/NNP Secretary/NNP Tessa/NNP Jowell/NNP after/IN the/DT meeting./NN
+"Industry/NN will/MD consider/VB how/WRB to/TO make/VB sure/JJ parents/NNS know/VBP what/WP games/VBZ their/PRP$ children/NNS should/MD and/CC shouldn't/NN play."/NN Roger/NNP Bennett/NNP director/NN general/JJ of/IN Entertainment/NNP and/CC Leisure/NN Software/NNP Publishers/NNPS Association/NNP said/VBD "A/JJ number/NN of/IN initiatives/NNS were/VBD discussed/VBN at/IN the/DT meeting./NN
+"They/NN will/MD be/VB formulated/VBN to/TO create/VB specific/JJ proposals/NNS to/TO promote/VB greater/JJR understanding/NN recognition/NN and/CC awareness/NN of/IN the/DT games/NNS rating/NN system/NN ensuring/VBG that/IN young/JJ people/NNS are/VBP not/RB exposed/VBN to/TO inappropriate/JJ content."/NN
+
+Among/IN the/DT possible/JJ measures/NNS could/MD be/VB a/DT campaign/NN to/TO explain/VB to/TO parents/NNS that/IN many/JJ games/NNS are/VBP made/VBN for/IN an/DT adult/NN audience/NN as/RB well/RB as/IN changes/NNS to/TO the/DT labelling/NN of/IN the/DT games/NNS themselves./NN
+
+According/VBG to/TO industry/NN statistics/NNS a/DT majority/NN of/IN players/NNS are/VBP over/IN 18/CD with/IN the/DT average/JJ age/NN of/IN a/DT gamer/NN being/VBG 29./CD
+Academics/NNS point/VBP out/RP that/IN there/EX has/VBZ not/RB been/VBN any/DT definitive/JJ research/NN linking/VBG bloodthirsty/NN games/NNS such/JJ as/IN Manhunt/NNP with/IN violent/JJ responses/NNS in/IN players./NN
+In/IN a/DT report/NN published/VBD this/DT week/NN for/IN the/DT Video/NNP Standards/NNP Council/NNP Dr/NNP Guy/NNP Cumberbatch/NNP said/VBD "The/NN research/NN evidence/NN on/IN media/NNS violence/NN causing/VBG harm/NN to/TO viewers/NNS is/VBZ wildly/RB exaggerated/JJ and/CC does/VBZ not/RB stand/VB up/IN to/TO scrutiny."/VB Dr/NNP Cumberbatch/NNP head/NN of/IN the/DT social/JJ policy/NN think/VBP tank/VBG the/DT Communications/NNPS Research/NNP Group/NNP reviewed/VBD the/DT studies/NNS on/IN the/DT issue./NN
+He/PRP concluded/VBD that/IN there/EX was/VBD an/DT absence/NN of/IN convincing/JJ research/NN that/IN media/NNS violence/NN caused/VBD harm./NN

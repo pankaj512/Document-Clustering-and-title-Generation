@@ -1,0 +1,29 @@
+NHS/NNP waiting/VBG time/NN target/NN is/VBZ cut/VB
+
+Hospital/NNP waiting/VBG times/NNS for/IN patients/NNS in/IN Wales/NNP are/VBP to/TO be/VB cut/VBN but/CC not/RB to/TO the/DT same/JJ extent/NN as/IN those/DT in/IN England./NNP
+
+Welsh/NNP Health/NNP Minister/NNP Jane/NNP Hutt/NNP said/VBD no/DT patient/NN would/MD wait/VB more/JJR than/IN 12/CD months/NNS for/IN an/DT outpatient/NN appointment/NN by/IN March/NNP 2006/CD against/IN a/DT current/JJ target/NN of/IN 18/CD months./NN
+But/CC she/PRP said/VBD the/DT target/NN for/IN an/DT inpatient/NN appointment/NN would/MD remain/VB at/IN 12/CD months/NNS for/IN March/NNP 2006./CD
+The/DT announcement/NN came/VBD as/IN new/JJ monthly/JJ waiting/NN figures/NNS showed/VBD a/DT drop./NN
+This/DT current/JJ inpatient/NN target/NN was/VBD set/VBN when/WRB the/DT assembly/NN government/NN extended/VBD its/PRP$ second/JJ offer/NN guarantee/NN scheme/NN which/WDT gives/VBZ patients/NNS the/DT option/NN of/IN having/VBG their/PRP$ treatment/NN outside/IN Wales./NNP
+
+Details/NNS about/IN funding/NN to/TO resource/VB the/DT new/JJ targets/NNS are/VBP expected/VBN in/IN the/DT New/NNP Year./NNP
+In/IN England/NNP the/DT current/JJ target/NN for/IN inpatients/NNS -/: seeing/VBG a/DT consultant/NN to/TO having/VBG an/DT operation/NN -/: is/VBZ six/CD months./NN
+Dr/NNP Richard/NNP Lewis/NNP Welsh/NNP secretary/NN of/IN the/DT British/NNP Medical/NNP Association/NNP (BMA)/NN welcomed/VBD the/DT new/JJ targets/NNS "to/NN make/VBP further/RBR and/CC faster/JJR progress/NN on/IN waiting/VBG lists"./NN
+"However/NN much/JJ remains/VBZ to/TO be/VB done/VBN on/IN waiting/VBG lists/NNS and/CC waiting/VBG times/NNS because/IN Wales/NNP still/RB lags/VBZ a/DT long/JJ way/NN behind/IN England"/NNP he/PRP said./VB
+"Capacity/NN must/MD be/VB built/VBN into/IN the/DT system/NN with/IN sustained/VBN investment/NN to/TO ensure/VB that/IN Welsh/NNP patients/NNS don't/NN receive/VB a/DT worse/JJR service/NN than/IN patients/NNS over/IN the/DT border."/NN Health/NNP analyst/NN Tony/NNP Beddow/NNP from/IN the/DT Welsh/NNP Institute/NNP for/IN Health/NNP and/CC Social/NNP Care/NNP called/VBD the/DT new/JJ targets/NNS "reasonably/RB impressive"./VBP
+
+On/IN Wednesday/NNP Ms/NNP Hutt/NNP also/RB announced/VBD £264m/CD for/IN health/NN services/NNS will/MD be/VB spent/VBN reducing/VBG waiting/VBG times/NNS improving/VBG key/JJ areas/NNS and/CC modernising/VBG staff/NN pay/NN structures/NNS in/IN Wales./NNP
+
+Ms/NNP Hutt/NNP said/VBD major/JJ achievements/NNS had/VBD been/VBN made/VBN in/IN cutting/VBG "unacceptably/RB long/JJ waits/NNS for/IN treatment/NN over/IN the/DT past/JJ year"./NN
+"We/NN are/VBP turning/VBG the/DT corner/NN on/IN long/JJ waits/NNS in/IN Wales./NNP
+Now/RB we/PRP need/VBP to/TO see/VB those/DT reductions/NNS in/IN long/JJ waiters/NNS being/VBG improved/VBN again"/NN she/PRP said./VBP
+She/PRP added/VBD the/DT targets/NNS intended/VBN to/TO ensure/VB no-one/JJ waits/VBZ more/JJR than/IN a/DT year/NN for/IN treatment/NN or/CC to/TO see/VB a/DT consultant./NN
+"But/NN let/VBP us/PRP not/RB forget/VBP two/CD thirds/NNS of/IN those/DT waiting/VBG for/IN treatment/NN now/RB are/VBP waiting/VBG less/JJR than/IN six/CD months/NNS and/CC these/DT targets/NNS affect/VBP the/DT small/JJ minority/NN of/IN patients/NNS in/IN Wales/NNP that/WDT are/VBP waiting/VBG far/RB too/RB long."/NN Rhodri/NNP Glyn/NNP Thomas/NNP Plaid/NN Cymru/NNP health/NN spokesman/NN said/VBD "It's/NN exactly/RB the/DT same/JJ target/NN she/PRP set/VBD in/IN 1999/CD with/IN the/DT qualification/NN that/WDT it's/NNS dependent/JJ on/IN a/DT second/JJ offer./NN
+It's/VBG a/DT failed/VBN target/NN from/IN a/DT failed/VBN minister..with/NN a/DT failed/VBN policy."/NN For/IN the/DT Welsh/NNP Liberal/NNP Democrats/NNPS Kirsty/NNP Williams/NNP called/VBD the/DT new/JJ target/NN "hugely/RB unambitious"./NN
+"It/NN leaves/VBZ patients/NNS in/IN Wales/NNP still/RB waiting/VBG two/CD years/NNS before/IN they're/NN treated."/NN Conservative/JJ health/NN spokesman/NN Jonathan/NNP Morgan/NNP said/VBD "We're/NN spending/NN more/JJR money/NN but/CC waiting/VBG lists/NNS have/VBP gone/VBN through/IN the/DT roof./NN
+"The/NNP Audit/NNP Commission/NNP has/VBZ said/VBN that/IN the/DT money/NN is/VBZ not/RB being/VBG spent/VBD efficiently/RB or/CC effectively/RB and/CC that's/NNS quite/RB a/DT criticism."/NN Meanwhile/RB the/DT latest/JJS monthly/JJ waiting/VBG list/NN figures/NNS showed/VBD the/DT total/JJ number/NN of/IN people/NNS waiting/VBG more/JJR than/IN 18/CD months/NNS as/IN an/DT inpatient/NN in/IN Wales/NNP has/VBZ fallen/VBN by/IN 9.8%./CD
+Statistics/NNS to/TO the/DT end/NN of/IN November/NNP showed/VBD a/DT decline/NN since/IN October/NNP from/IN 785/CD to/TO 708./CD
+The/DT number/NN waiting/VBG over/IN 12/CD months/NNS also/RB fell/VBD from/IN 7613/CD to/TO 6630/CD or/CC 12.9%./CD
+Ms/NNP Hutt/NNP said/VBD they/PRP were/VBD "excellent/NN figures"./NN
+There/EX are/VBP 305775/CD people/NNS on/IN a/DT waiting/VBG list/NN of/IN some/DT kind/NN down/RP from/IN 311764/CD last/JJ month./NN

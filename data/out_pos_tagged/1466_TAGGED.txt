@@ -1,0 +1,10 @@
+Rush/NN future/NN at/IN Chester/NNP uncertain/JJ
+
+Ian/NNP Rush's/NNP future/NN as/IN Chester/NNP manager/NN is/VBZ uncertain/JJ after/IN he/PRP and/CC assistant/JJ Mark/NNP Aizlewood/NNP refused/VBD a/DT severance/NN package./NN
+
+Chester/NNS have/VBP won/VBN only/RB two/CD of/IN their/PRP$ last/JJ 10/CD League/NNP games/NNS but/CC Chairman/NNP Steve/NNP Vaughan/NNP claims/VBZ he/PRP cannot/VB afford/NN to/TO sack/VB the/DT 43-year-old/JJ Liverpool/NNP legend./NN
+Vaughan/NNP said/VBD "I/NN offered/VBD a/DT financial/JJ settlement/NN so/IN they/PRP could/MD resign/VB with/IN dignity/NN but/CC an/DT obvious/JJ action/NN is/VBZ to/TO dismiss/VB them./NN
+"I/NN haven't/NN because/IN of/IN the/DT finances/NNS so/RB technically/RB they're/NN still/RB employees."/NN Vaughan/NNP claimed/VBD that/IN Aizlewood/NNP had/VBD "verbally/RB agreed"/NN to/TO the/DT offer./NN
+But/CC the/DT Chester/NNP chairman/NN added/VBD "After/NN they/PRP discussed/VBD the/DT offer/NN with/IN their/PRP$ solicitor/NN who/WP also/RB acts/NNS as/IN their/PRP$ agent/NN they/PRP decided/VBD to/TO withdraw/VB the/DT verbal/JJ agreement/NN which/WDT was/VBD disappointing."/JJ Rush/NN was/VBD appointed/VBN at/IN the/DT end/NN of/IN August/NNP following/VBG the/DT departure/NN of/IN former/JJ Liverpool/NNP team-mate/JJ Mark/NNP Wright/NNP who/WP guided/VBD Chester/NNP to/TO the/DT Conference/NNP title/NN last/JJ season./NN
+Chester/NNP were/VBD bottom/NN of/IN League/NNP Two/CD when/WRB Rush/NN took/VBD over/RP but/CC the/DT former/JJ Liverpool/NNP striker/NN enjoyed/VBD an/DT impressive/JJ start/NN to/TO managerial/JJ life/NN taking/VBG the/DT club/NN into/IN the/DT third/JJ round/NN of/IN the/DT FA/NNP cup/NN and/CC winning/VBG the/DT manager-of-the-month/JJ award/NN for/IN October./NNP
+Chester's/NNP downturn/NN in/IN form/NN culminated/VBN in/IN a/DT 5-0/CD defeat/NN at/IN Shrewsbury/NNP that/WDT leaves/VBZ them/PRP hovering/VBG just/RB above/IN the/DT League/NNP Two/CD relegation/NN zone./NN

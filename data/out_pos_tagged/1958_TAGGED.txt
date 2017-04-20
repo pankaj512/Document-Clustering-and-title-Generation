@@ -1,0 +1,31 @@
+Gates/NNP opens/VBZ biggest/JJS gadget/NN fair/JJ
+
+Bill/NNP Gates/NNP has/VBZ opened/VBN the/DT Consumer/NNP Electronics/NNP Show/NNP (CES)/NN in/IN Las/NNP Vegas/NNP saying/VBG that/IN gadgets/NNS are/VBP working/VBG together/RB more/JJR to/TO help/VB people/NNS manage/VB multimedia/NNS content/NN around/IN the/DT home/NN and/CC on/IN the/DT move./NN
+
+Mr/NNP Gates/NNP made/VBD no/DT announcement/NN about/IN the/DT next/JJ generation/NN Xbox/NNP games/NNS console/NN which/WDT many/JJ gadget/NN lovers/NNS had/VBD been/VBN hoping/VBG for./NN
+About/IN 120000/CD people/NNS are/VBP expected/VBN to/TO attend/VB the/DT trade/NN show/NN which/WDT stretches/NNS over/IN more/JJR than/IN 1.5/CD million/CD square/JJ feet/NNS and/CC runs/VBZ from/IN 6/CD to/TO 9/CD January./NNP
+The/DT latest/JJS trends/NNS in/IN digital/JJ imaging/NN storage/NN technologies/NNS thinner/JJR flat/JJ screen/NN and/CC high-definition/JJ TVs/NNS wireless/JJ and/CC portable/JJ technologies/NNS gaming/NN and/CC broadband/NN technologies/NNS will/MD all/DT be/VB on/IN show/VBP over/IN the/DT three/CD days./NN
+
+Mr/NNP Gates/NNP said/VBD that/IN a/DT lot/NN of/IN work/NN had/VBD been/VBN done/VBN in/IN the/DT last/JJ year/NN to/TO sort/VB out/RP usability/NN and/CC compatibility/NN issues/NNS between/IN devices/NNS to/TO make/VB it/PRP easier/JJR to/TO share/VB content./NN
+
+"We/NN predicted/VBD at/IN the/DT beginning/NN of/IN the/DT decade/NN that/IN the/DT digital/JJ approach/NN would/MD be/VB taken/VBN for/IN granted/VBN -/: but/CC there/EX was/VBD a/DT lot/NN of/IN work/NN to/TO do./VB
+"What/NN is/VBZ fun/NN is/VBZ to/TO come/VB to/TO the/DT show/NN and/CC see/VB what/WP has/VBZ been/VBN done./NN
+It/PRP is/VBZ going/VBG even/RB faster/RBR than/IN we/PRP expected/VBD and/CC we/PRP are/VBP excited/VBN about/IN it."/NN He/PRP highlighted/VBD technology/NN trends/NNS over/IN the/DT last/JJ year/NN that/WDT had/VBD driven/VBN the/DT need/NN to/TO make/VB technology/NN and/CC transferring/VBG content/NN across/IN difference/NN devices/NNS "seamless"./NN
+"Gaming/VBG is/VBZ becoming/VBG more/JJR of/IN a/DT social/JJ thing/NN and/CC all/DT of/IN the/DT social/JJ genres/NNS will/MD use/VB this/DT rich/JJ communications./NN
+"And/NN if/IN we/PRP look/VBP at/IN what/WP has/VBZ been/VBN going/VBG on/IN with/IN e-mail/JJ instant/JJ messaging/NN blogging/VBG entertainment/NN -/: if/IN we/PRP can/MD make/VB this/DT seamless/VB we/PRP can/MD create/VB something/NN quite/RB phenomenal."/NN
+
+Mr/NNP Gates/NNP said/VBD the/DT PC/NN like/IN Microsoft's/NNP Media/NNP Centre/NNP had/VBD a/DT central/JJ role/NN to/TO play/VB in/IN how/WRB people/NNS would/MD be/VB making/VBG the/DT most/JJS out/IN of/IN audio/JJ video/NN and/CC images/NNS but/CC it/PRP would/MD not/RB be/VB the/DT only/JJ device./NN
+"It/NN is/VBZ the/DT way/NN all/PDT these/DT devices/NNS work/VBP together/RB which/WDT will/MD make/VB the/DT difference"/NN he/PRP said./VB
+He/PRP also/RB cited/VBD the/DT success/NN of/IN the/DT Microsoft/NNP Xbox/NNP video/NN game/NN Halo/NN 2/CD released/VBN in/IN November/NNP which/WDT pushed/VBD Xbox/NNP console/NN sales/NNS past/JJ PlayStation/NNP in/IN the/DT last/JJ two/CD months/NNS of/IN 2004/CD for/IN the/DT first/JJ time/NN in/IN 2004./CD
+The/DT game/NN which/WDT makes/VBZ use/NN of/IN the/DT Xbox/NNP Live/JJ online/NN games/NNS service/NN has/VBZ sold/VBN 6.23/CD million/CD copies/NNS since/IN its/PRP$ release./NN
+"People/NN are/VBP online/NN and/CC playing/VBG together/RB and/CC that/IN really/RB points/NNS to/TO the/DT future"/NN he/PRP said./VB
+Several/JJ partnerships/NNS with/IN device/NN and/CC hardware/NN manufacturers/NNS were/VBD highlighted/VBN during/IN Mr/NNP Gates'/NNP speech/NN but/CC there/EX were/VBD few/JJ major/JJ groundbreaking/VBG new/JJ technology/NN announcements./NN
+Although/IN most/JJS of/IN these/DT affected/VBN largely/RB US/PRP consumers/VBZ the/DT technologies/NNS highlighted/VBD the/DT kind/NN of/IN trends/NNS to/TO come./VB
+These/DT included/VBD what/WP Mr/NNP Gates/NNP called/VBD an/DT "ecosystem/NN of/IN technologies"/NN like/IN SBC's/NNP IPTV/NNP a/DT high-definition/JJ TV/NN and/CC digital/JJ video/NN recorder/NN that/WDT worked/VBD via/IN broadband/NN to/TO give/VB high-quality/JJ and/CC fast/RB TV./NNP
+There/EX were/VBD also/RB other/JJ deals/NNS announced/VBD which/WDT meant/VBD that/IN people/NNS could/MD watch/VB and/CC control/NN content/NN over/IN portable/JJ devices/NNS and/CC mobile/JJ phones./NN
+
+CES/NN features/NNS several/JJ more/RBR key/JJ speeches/NNS from/IN major/JJ technology/NN players/NNS such/JJ as/IN Intel/NNP and/CC Hewlett/NNP Packard/NNP as/RB well/RB as/IN parallel/JJ conference/NN sessions/NNS on/IN gaming/NN storage/NN broadband/NN and/CC the/DT future/NN of/IN digital/JJ music./NN
+About/IN 50000/CD new/JJ products/NNS will/MD be/VB unleashed/VBN at/IN the/DT tech-fest/JJ which/WDT is/VBZ the/DT largest/JJS yet./NN
+Consumer/NN electronics/NNS and/CC gadgets/NNS had/VBD a/DT phenomenal/JJ year/NN in/IN 2004/CD according/VBG to/TO figures/NNS released/VBN by/IN CES/NNP organisers/NNS the/DT CEA/NNP on/IN Tuesday./NNP
+The/DT gadget/NN explosion/NN signalled/VBD the/DT strongest/JJS growth/NN yet/RB in/IN the/DT US/PRP in/IN 2004./CD
+That/DT trend/NN is/VBZ predicted/VBN to/TO continue/VB with/IN wholesale/JJ shipments/NNS of/IN consumer/NN technologies/NNS expected/VBN to/TO grow/VB by/IN 11%/CD again/RB in/IN 2005./CD

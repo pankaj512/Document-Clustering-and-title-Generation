@@ -1,0 +1,30 @@
+Cup/NN holders/NNS Man/NN Utd/NNP visit/NN Everton/NNP
+
+Holders/NNS Manchester/NNP United/NNP and/CC Premiership/NN leaders/NNS Chelsea/NNP both/DT face/NN difficult/JJ away/RB ties/NNS against/IN Premiership/NN opposition/NN in/IN the/DT FA/NNP Cup/NNP fifth/JJ round./NN
+
+United/NNP were/VBD drawn/VBN against/IN Everton/NNP while/IN Chelsea/NNP face/NN a/DT trip/NN to/TO Newcastle./NNP
+Brentford/NNP and/CC Hartlepool/NNP -/: the/DT only/JJ sides/NNS left/VBN from/IN outside/IN the/DT top/JJ two/CD divisions/NNS -/: will/MD replay/VB for/IN the/DT right/NN to/TO travel/VB to/TO Southampton./NNP
+Burnley's/NNP reward/NN for/IN a/DT place/NN in/IN the/DT last/JJ 16/CD was/VBD a/DT home/NN tie/NN against/IN Lancashire/NNP rivals/NNS Blackburn./NNP
+The/DT tie/NN between/IN Manchester/NNP United/NNP and/CC Everton/NNP could/MD see/VB the/DT return/NN of/IN teenage/JJ striker/NN Wayne/NNP Rooney/NNP to/TO his/PRP$ former/JJ club/NN for/IN the/DT first/JJ time/NN since/IN his/PRP$ acrimonious/JJ £27m/CD move./NN
+
+Nottingham/NNP Forest/NNP boss/NN Gary/NNP Megson/NNP could/MD face/VB a/DT trip/NN back/RB to/TO old/JJ club/NN West/NNP Brom/NNP if/IN they/PRP come/VBP through/IN their/PRP$ fourth-round/JJ replay/NN against/IN Tottenham./NNP
+Arsenal/NN were/VBD handed/VBN a/DT potential/JJ home/NN tie/NN against/IN fellow/JJ Londoners/NNP West/NNP Ham/NN providing/VBG the/DT Hammers/NNP come/VB through/IN their/PRP$ replay/NN against/IN Sheffield/NNP United./NNP
+Charlton/NNP will/MD play/VB Leicester/NNP and/CC Bolton/NNP await/VBP the/DT winners/NNS of/IN the/DT Derby-Fulham/NNP replay./NN
+
+Bolton/NNP v/NN Derby/NNP or/CC Fulham/NNP
+
+West/NNP Bromwich/NNP Albion/NNP or/CC Tottenham/NNP v/NN Nottingham/NNP Forest/NNP
+
+Everton/NNP v/NN Manchester/NNP United/NNP
+
+Charlton/NNP Athletic/JJ v/NN Leicester/NNP City/NNP
+
+Burnley/NNP v/NN Blackburn/NNP
+
+Southampton/NNP v/NN Brentford/NNP or/CC Hartlepool/NNP
+
+Newcastle/NNP v/NN Chelsea/NNP
+
+Arsenal/NN v/NN West/NNP Ham/NN or/CC Sheffield/NNP United/NNP
+
+Ties/NNS to/TO be/VB played/VBN on/IN 19/20/CD February./NNP

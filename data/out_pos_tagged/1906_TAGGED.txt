@@ -1,0 +1,29 @@
+Games/NNS firms/NNS 'face/VBP tough/JJ future'/NN
+
+UK/NNP video/NN game/NN firms/NNS face/VBP a/DT testing/NN time/NN as/IN they/PRP prepare/VBP for/IN the/DT next/JJ round/NN of/IN games/NNS consoles/VBZ the/DT industry/NN warns./NN
+
+Fred/NNP Hasson/NNP head/NN of/IN Tiga/NNP which/WDT represents/VBZ independent/JJ developers/NNS said/VBD that/IN more/JJR UK/NNP firms/NNS would/MD go/VB under/IN due/JJ to/TO greater/JJR risks/NNS in/IN making/VBG new/JJ titles./NN
+Three/CD leading/VBG UK/NNP video/NN game/NN companies/NNS also/RB predicted/VBD that/IN more/JJR firms/NNS would/MD close/VB as/IN they/PRP struggled/VBD to/TO adapt./VB
+Microsoft/NNP Sony/NNP and/CC Nintendo/NNP are/VBP expected/VBN to/TO release/VB new/JJ consoles/NNS in/IN the/DT next/JJ 18/CD months./NN
+Microsoft/NNP has/VBZ said/VBN repeatedly/RB that/IN it/PRP wants/VBZ to/TO be/VB first/RB to/TO the/DT market/NN and/CC some/DT analysts/NNS predict/VBP that/IN Xbox/NNP 2/CD will/MD be/VB released/VBN in/IN the/DT US/PRP before/IN the/DT end/NN of/IN 2005./CD
+
+The/DT new/JJ machines/NNS will/MD all/DT have/VB much/RB greater/JJR processing/NN and/CC graphical/JJ power/NN which/WDT will/MD have/VB a/DT huge/JJ impact/NN on/IN development/NN of/IN next/JJ generation/NN games./NN
+Mr/NNP Hasson/NNP said/VBD "In/NN the/DT last/JJ four/CD years/NNS we/PRP have/VBP probably/RB lost/VBN a/DT third/NN of/IN independent/JJ developers."/NN He/PRP said/VBD there/EX were/VBD about/IN 150/CD independent/JJ developers/NNS left/VBN in/IN the/DT industry/NN and/CC more/JJR were/VBD likely/JJ to/TO close./VB
+"Once/NN the/DT cull/NN has/VBZ finished/VBN its/PRP$ likely/JJ to/TO present/VB those/DT still/JJ standing/NN with/IN great/JJ opportunities"/NN he/PRP said./VB
+
+Mr/NNP Hasson/NNP said/VBD the/DT industry/NN was/VBD predicting/VBG that/IN developments/NNS costs/NNS and/CC teams/NNS were/VBD likely/JJ to/TO need/VB to/TO double/JJ in/IN order/NN to/TO cope/VB with/IN the/DT demands/NNS of/IN the/DT new/JJ machines./NN
+That/DT figure/NN was/VBD endorsed/VBN by/IN three/CD independent/JJ companies/NNS contacted/VBN by/IN the/DT BBC/NNP News/NNP website/NN -/: Codemasters/NNP Climax/NNP and/CC Rebellion./NNP
+
+"As/NN consoles/VBZ get/VB more/RBR powerful/JJ the/DT content/NN gets/VBZ more/RBR detailed/JJ and/CC that/DT means/VBZ more/JJR cost"/NN said/VBD Gary/NNP Dunn/NNP development/NN director/NN at/IN Codemasters/NNP which/WDT develops/VBZ games/NNS in/IN house/NN and/CC also/RB publishes/VBZ titles./NN
+Jason/NNP Kingsley/NNP chief/NN executive/NN of/IN Rebellion/NN said/VBD the/DT transition/NN from/IN the/DT current/JJ generation/NN of/IN consoles/NNS to/TO the/DT new/JJ machines/NNS was/VBD difficult/JJ because/IN "the/NN production/NN quality/NN expected/VBN by/IN consumers/NNS will/MD be/VB that/IN much/JJ bigger"./NN
+He/PRP added/VBD "We/NN have/VBP been/VBN through/IN five/CD technology/NN transitions/NNS and/CC survived/VBD so/RB far./NN
+"Each/NN one/CD has/VBZ involved/VBN the/DT death/NN of/IN some/DT people./NN
+All/DT companies/NNS said/VBD they/PRP were/VBD investing/VBG in/IN new/JJ tools/NNS -/: called/VBN middleware/NN -/: in/IN order/NN to/TO try/VB and/CC avoid/VB staff/NN numbers/NNS spiralling/VBG out/IN of/IN control./NN
+
+Simon/NNP Gardner/NNP president/NN of/IN Climax's/NNP Action/NNP studio/NN said/VBD "We/NN are/VBP investing/VBG in/IN superior/JJ tools/NNS and/CC editors./NN
+We/PRP are/VBP investing/VBG upfront/NN to/TO generate/VB this/DT content/NN without/IN the/DT need/NN for/IN huge/JJ teams./NN
+"It's/NN vital/JJ we/PRP avoid/VBP huge/JJ teams."/NN He/PRP said/VBD Climax/NNP was/VBD already/RB directing/VBG about/IN 20%/CD of/IN its/PRP$ resources/NNS to/TO preparation/VB for/IN next/JJ generation/NN titles./NN
+Mr/NNP Dunn/NNP warned/VBD that/IN companies/NNS could/MD face/VB a/DT short/JJ supply/NN of/IN programming/NN development/NN and/CC artistic/JJ talent./NN
+"If/NN companies/NNS are/VBP hiring/VBG bigger/JJR and/CC bigger/JJR teams/NNS at/IN some/DT point/NN the/DT talent/NN is/VBZ going/VBG to/TO run/VB out."/NN Mr/NNP Hasson/NNP said/VBD games/NNS developers/NNS were/VBD beginning/VBG to/TO realise/VB that/IN they/PRP had/VBD to/TO be/VB more/RBR "business-like"./JJ
+"There/NN are/VBP still/RB some/DT developers/NNS who/WP were/VBD involved/VBN in/IN games/NNS from/IN the/DT bedroom/NN coding/VBG days./NN
+"Some/NN of/IN them/PRP are/VBP still/RB making/VBG games/NNS for/IN peer/NN group/NN approval/NN -/: that/WDT has/VBZ to/TO stop."/VB

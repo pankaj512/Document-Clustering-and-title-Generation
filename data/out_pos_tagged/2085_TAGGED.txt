@@ -1,0 +1,29 @@
+Speech/NN takes/VBZ on/IN search/NN engines/NNS
+
+A/DT Scottish/JJ firm/NN is/VBZ looking/VBG to/TO attract/VB web/NN surfers/NNS with/IN a/DT search/NN engine/NN that/WDT reads/VBZ out/RP results./NN
+
+Called/VBN Speegle/NNP it/PRP has/VBZ the/DT look/NN and/CC feel/VBP of/IN a/DT normal/JJ search/NN engine/NN with/IN the/DT added/JJ feature/NN of/IN being/VBG able/JJ to/TO read/VB out/RP the/DT results./NN
+Scottish/JJ speech/NN technology/NN firm/NN CEC/NNP Systems/NNPS launched/VBD the/DT site/NN in/IN November./NNP
+But/CC experts/NNS have/VBP questioned/VBN whether/IN talking/VBG search/NN engines/NNS are/VBP of/IN any/DT real/JJ benefit/NN to/TO people/NNS with/IN visual/JJ impairments./NN
+
+The/DT Edinburgh-based/JJ firm/NN CEC/NNP has/VBZ married/JJ speech/NN technology/NN with/IN ever-popular/JJ internet/JJ search./NN
+The/DT ability/NN to/TO search/VB is/VBZ becoming/VBG increasingly/RB crucial/JJ to/TO surfers/NNS baffled/VBN by/IN the/DT huge/JJ amount/NN of/IN information/NN available/JJ on/IN the/DT web./NN
+
+According/VBG to/TO search/NN engine/NN Ask/VB Jeeves/NNP around/IN 80%/CD of/IN surfers/NNS visit/NN search/NN engines/NNS as/IN their/PRP$ first/JJ port/NN of/IN call/NN on/IN the/DT net./NN
+People/NNS visiting/VBG Speegle/NNP can/MD select/VB one/CD of/IN three/CD voices/NNS to/TO read/VB the/DT results/NNS of/IN a/DT query/NN or/CC summarise/NN news/NN stories/NNS from/IN sources/NNS such/JJ as/IN the/DT BBC/NNP and/CC Reuters./NNP
+"It/NN is/VBZ still/RB a/DT bit/NN robotic/JJ and/CC can/MD make/VB a/DT few/JJ mistakes/NNS but/CC we/PRP are/VBP never/RB going/VBG to/TO have/VB completely/RB natural/JJ sounding/NN voices/NNS and/CC it/PRP is/VBZ not/RB bad"/NN said/VBD Speegle/NNP founder/NN Gordon/NNP Renton./NNP
+"The/NN system/NN is/VBZ ideal/JJ for/IN people/NNS with/IN blurred/VBD vision/NN or/CC for/IN those/DT that/DT just/RB want/VBP to/TO search/VB for/IN something/NN in/IN the/DT background/NN while/IN they/PRP do/VBP something/NN else./NN
+"We/NN are/VBP not/RB saying/VBG that/IN it/PRP will/MD be/VB suitable/JJ for/IN totally/RB blind/JJ people/NNS although/IN the/DT Royal/NNP National/NNP Institute/NNP of/IN the/DT Blind/NNP (RNIB)/NN is/VBZ looking/VBG at/IN the/DT technology"/NN he/PRP added./VB
+But/CC Julie/NNP Howell/NNP digital/JJ policy/NN manager/NN at/IN the/DT RNIB/NNP expressed/VBD doubts/NNS over/IN whether/IN Speegle/NNP and/CC similar/JJ sites/NNS added/VBD anything/NN to/TO blind/JJ people's/NNS experience/NN of/IN the/DT web./NN
+"There/NN are/VBP a/DT whole/JJ lot/NN of/IN options/NNS like/IN this/DT springing/VBG up/RP on/IN the/DT web/NN and/CC one/CD has/VBZ to/TO think/VB carefully/RB about/IN what/WP the/DT market/NN is/VBZ going/VBG to/TO be"/VB she/PRP said./VBP
+"Blind/NN people/NNS have/VBP specialised/VBN screen/NN readers/NNS available/JJ to/TO them/PRP which/WDT will/MD do/VB the/DT job/NN these/DT technologies/NNS do/VBP in/IN a/DT more/RBR sophisticated/JJ way"/NN she/PRP added./VBP
+
+The/DT site/NN uses/VBZ a/DT technology/NN dubbed/VBN PanaVox/NNP which/WDT takes/VBZ web/NN text/NN and/CC converts/VBZ it/PRP into/IN synthesised/VBN speech./NN
+In/IN the/DT past/JJ speech/NN technology/NN has/VBZ only/RB been/VBN compatible/JJ with/IN broadband/NN because/IN of/IN the/DT huge/JJ files/NNS it/PRP downloads/VBZ but/CC CEC/NNP says/VBZ its/PRP$ compression/NN technology/NN means/VBZ it/PRP will/MD also/RB work/VB on/IN slower/JJR dial-up/JJ connections./NN
+Visitors/NNS to/TO Speegle/NNP may/MD notice/VB that/IN the/DT look/NN and/CC feel/VBP of/IN the/DT site/NN bears/VBZ more/JJR than/IN a/DT passing/VBG resemblance/NN to/TO the/DT better/RBR known/VBN if/IN silent/JJ search/NN engine/NN Google./NNP
+Google/NNP has/VBZ no/DT connection/NN with/IN Speegle/NNP and/CC the/DT use/NN of/IN bright/JJ colours/NNS is/VBZ simply/RB to/TO make/VB the/DT site/NN more/RBR visible/JJ for/IN those/DT with/IN visual/JJ impairments/NNS said/VBD Mr/NNP Renton./NNP
+"It/NN is/VBZ not/RB a/DT rip-off./JJ
+We/PRP are/VBP doing/VBG something/NN that/IN Google/NNP does/VBZ not/RB do/VB and/CC is/VBZ not/RB planning/VBG to/TO do/VB and/CC there/EX is/VBZ truth/NN in/IN the/DT saying/NN that/DT imitation/NN is/VBZ the/DT sincerest/JJ form/NN of/IN flattery"/NN he/PRP said./VB
+Speegle/NNP is/VBZ proving/VBG popular/JJ with/IN those/DT learning/VBG English/NNP in/IN countries/NNS such/JJ as/IN Japan/NNP and/CC China./NNP
+"The/NN site/NN is/VBZ bombarded/VBN by/IN people/NNS just/RB listening/VBG to/TO the/DT words./NN
+The/DT repetition/NN could/MD be/VB useful/JJ although/IN they/PRP may/MD all/DT end/NN up/RP talking/VBG like/IN robots"/NN said/VBD Mr/NNP Renton./NNP

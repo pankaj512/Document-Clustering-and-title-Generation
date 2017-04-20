@@ -1,0 +1,12 @@
+TOTP/NNP turns/VBZ to/TO Elvis/NNP impersonator/NN
+
+Top/JJ of/IN the/DT Pops/NNS has/VBZ turned/VBN to/TO the/DT star/NN of/IN Elvis/NNP Presley/NNP musical/JJ Jailhouse/NN Rock/NNP after/IN the/DT late/JJ rock/NN legend/NN scooped/VBD the/DT UK's/NNP 1000th/JJ number/NN one/CD single./NN
+
+Mario/NNP Kombou/NNP who/WP plays/VBZ the/DT Presley/NNP role/NN on/IN stage/NN will/MD sing/VB One/CD Night/NNP on/IN Friday's/NNP BBC/NNP One/CD show/NN as/IN producers/NNS are/VBP unable/JJ to/TO use/VB Presley/NNP video/NN footage./NN
+It/PRP is/VBZ his/PRP$ second/JJ number/NN one/CD in/IN a/DT row./NN
+The/DT show/NN used/VBD Presley/NNP photos/NNS last/JJ week./NN
+Presley/NNP will/MD feature/VB in/IN the/DT charts/NNS for/IN several/JJ more/JJR months/NNS as/IN all/DT 18/CD of/IN his/PRP$ original/JJ UK/NNP chart-toppers/NNS are/VBP reissued./NN
+
+A/DT Top/NN of/IN the/DT Pops/NNS spokesperson/NN said/VBD "It's/NN a/DT very/RB special/JJ number/NN one/CD as/IN it's/NNS the/DT UK's/NNP 1000th./CD
+"We/NN wanted/VBD to/TO pay/VB tribute/NN to/TO Elvis/NNP in/IN the/DT best/JJS way/NN we/PRP knew/VBD how/WRB so/IN we/PRP thought/VBD getting/VBG a/DT professional/NN would/MD be/VB the/DT best/JJS way/NN for/IN Top/JJ of/IN the/DT Pops/NNS to/TO do/VB that."/NN Kombou/NNP is/VBZ likely/JJ to/TO appear/VB on/IN the/DT show/NN again/RB next/JJ week/NN as/IN the/DT next/JJ Presley/NNP re-release/VBD A/DT Fool/NN Such/JJ As/IN I/PRP is/VBZ on/IN course/NN to/TO give/VB him/PRP his/PRP$ third/JJ number/NN one/CD in/IN three/CD weeks./NN
+Kombou/NNP plays/VBZ Vince/NNP Everett/NNP in/IN Jailhouse/NN Rock/NNP -/: the/DT same/JJ role/NN Presley/NNP played/VBD in/IN the/DT 1957/CD film/NN of/IN the/DT same/JJ name./NN

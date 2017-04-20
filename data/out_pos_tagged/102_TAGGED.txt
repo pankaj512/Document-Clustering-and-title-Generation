@@ -1,0 +1,15 @@
+US/PRP company/VBP admits/VBZ Benin/NNP bribery/NN
+
+A/DT US/PRP defence/VBP and/CC telecommunications/NNS company/NN has/VBZ agreed/VBN to/TO pay/VB $28.5m/CD after/IN admitting/VBG bribery/NN in/IN the/DT West/NNP African/JJ state/NN of/IN Benin./NNP
+
+The/DT Titan/NNP corporation/NN was/VBD accused/VBN of/IN funnelling/VBG more/JJR than/IN $2m/CD into/IN the/DT 2001/CD re-election/NN campaign/NN of/IN President/NNP Mathieu/NNP Kerekou./NNP
+At/IN the/DT time/NN Titan/NNP was/VBD trying/VBG to/TO get/VB a/DT higher/JJR price/NN for/IN a/DT telecommunications/NNS project/NN in/IN Benin./NNP
+There/EX is/VBZ no/DT suggestion/NN that/IN Mr/NNP Kerekou/NNP was/VBD himself/PRP aware/JJ of/IN any/DT wrongdoing./NN
+Titan/VBG a/DT California-based/JJ company/NN pleaded/VBD guilty/JJ to/TO falsifying/VBG its/PRP$ accounts/NNS and/CC violating/VBG US/PRP anti-bribery/JJ laws./NN
+It/PRP agreed/VBD to/TO pay/VB $13m/CD in/IN criminal/JJ penalties/NNS as/RB well/RB as/IN $15.5m/CD to/TO settle/VB a/DT civil/JJ lawsuit/NN brought/VBN by/IN the/DT US/PRP financial/JJ watchdog/NN the/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP (SEC)./NN
+
+The/DT SEC/NNP had/VBD accused/VBN Titan/NNP of/IN illegally/RB paying/VBG $2.1m/CD to/TO an/DT unnamed/JJ agent/NN in/IN Benin/NNP claiming/VBG ties/NNS with/IN President/NNP Kerekou./NNP
+Some/DT of/IN the/DT money/NN was/VBD used/VBN to/TO pay/VB for/IN T-shirts/NNS with/IN campaign/NN slogans/NNS on/IN them/PRP ahead/RB of/IN the/DT 2001/CD election./NN
+Shortly/RB after/IN the/DT poll/NN which/WDT Mr/NNP Kerekou/NNP won/VBD Benin/NNP officials/NNS agreed/VBD to/TO quadruple/VB Titan's/NNP management/NN fee./NN
+Prosecuting/VBG attorney/NN Carol/NNP Lam/NNP said/VBD "All/NN US/PRP companies/VBZ should/MD take/VB note/NN that/IN attempting/VBG to/TO bribe/VB foreign/JJ officials/NNS is/VBZ criminal/JJ conduct/NN and/CC will/MD be/VB appropriately/RB prosecuted."/VB The/DT company/NN says/VBZ it/PRP no/RB longer/JJR tolerates/NNS such/JJ practices./NN
+Under/IN the/DT US/PRP Foreign/NNP Corrupt/NNP Practices/NNPS Act/NNP it/PRP is/VBZ a/DT crime/NN for/IN American/JJ firms/NNS to/TO bribe/VB foreign/JJ officials./NN

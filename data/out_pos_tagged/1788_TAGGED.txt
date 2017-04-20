@@ -1,0 +1,16 @@
+Agassi/NNP fear/NN for/IN Melbourne/NNP
+
+Andre/NNP Agassi's/NNP involvement/NN in/IN the/DT Australian/JJ Open/NNP was/VBD put/VBN in/IN doubt/NN after/IN he/PRP pulled/VBD out/IN of/IN the/DT Kooyong/NNP Classic/NNP with/IN a/DT hip/NN injury./NN
+
+Agassi/NNP was/VBD serving/VBG at/IN 5-6/JJ down/RP in/IN the/DT first/JJ set/VBN to/TO fellow/JJ American/NNP Andy/NNP Roddick/NNP when/WRB he/PRP decided/VBD to/TO bring/VB a/DT premature/JJ end/NN to/TO the/DT match./NN
+"My/NN hip/NN was/VBD cramping/VBG and/CC I/PRP just/RB could/MD not/RB continue"/VB said/VBD the/DT 34-year-old./JJ
+Agassi/NNP who/WP has/VBZ won/VBN the/DT Australian/JJ Open/NNP four/CD times/NNS will/MD have/VB an/DT MRI/NNP scan/VB to/TO discover/VB the/DT extent/NN of/IN the/DT damage./NN
+He/PRP said/VBD the/DT problem/NN was/VBD not/RB the/DT same/JJ as/IN the/DT hip/NN injury/NN which/WDT forced/VBD him/PRP to/TO miss/VB Wimbledon/NNP last/JJ year./NN
+
+"The/NN good/JJ news/NN is/VBZ that/IN it/PRP didn't/NN just/RB tear/VB it/PRP was/VBD tightening/VBG up/RB and/CC that/WDT can/MD be/VB your/PRP$ body/NN protecting/VBG itself/PRP which/WDT is/VBZ hopefully/RB more/JJR of/IN the/DT issue"/NN he/PRP added./VB
+"That/NN wasn't/NN comfortable/JJ out/IN there/RB at/IN all/DT what/WP I/PRP was/VBD feeling./NN
+"I/NN have/VBP to/TO wait/VB and/CC see/VB what/WP I'm/NNP dealing/VBG with/IN -/: it's/NNS a/DT pretty/RB scary/JJ feeling/NN out/IN there/RB when/WRB something/NN doesn't/NN feel/VBP right/JJ and/CC is/VBZ getting/VBG worse./NN
+"It's/NN very/RB disappointing/JJ and/CC I'll/NNP have/VBP to/TO do/VB my/PRP$ best/JJS to/TO deal/VB with/IN it./NN
+Time/NNP will/MD shortly/RB tell/VB if/IN it/PRP (the/NN Australian/JJ Open)/NNP is/VBZ a/DT possibility/NN or/CC not./NN
+"I/NN was/VBD not/RB counting/VBG on/IN this/DT being/VBG the/DT end/NN of/IN the/DT day/NN for/IN me./NN
+"Maybe/NN in/IN a/DT few/JJ days/NNS I'll/NNP have/VBP a/DT much/RB better/JJR sense/NN of/IN what/WP my/PRP$ hopes/NNS will/MD be."/VB

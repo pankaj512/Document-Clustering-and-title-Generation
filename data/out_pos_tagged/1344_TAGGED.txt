@@ -1,0 +1,11 @@
+Sprinter/NNP Walker/NNP quits/VBZ athletics/NNS
+
+Former/JJ European/JJ 200m/CD champion/NN Dougie/NNP Walker/NNP is/VBZ to/TO retire/VB from/IN athletics/NNS after/IN a/DT series/NN of/IN six/CD operations/NNS left/VBD him/PRP struggling/VBG for/IN fitness./NN
+
+Walker/NNP had/VBD hoped/VBN to/TO compete/VB in/IN the/DT New/NNP Year/NN Sprint/NNP which/WDT is/VBZ staged/VBN at/IN Musselburgh/NNP Racecourse/NNP near/IN Edinburgh/NNP on/IN Tuesday/NNP and/CC Wednesday./NNP
+The/DT 31-year-old/JJ Scot/NNP was/VBD suspended/VBN for/IN two/CD years/NNS in/IN 1998/CD after/IN testing/NN positive/JJ for/IN nandrolone./NN
+"I/NN had/VBD intended/VBN to/TO race/VB but/CC I'm/NNP running/VBG like/IN a/DT goon"/NN said/VBD Walker./NNP
+He/PRP told/VBD the/DT Herald/NNP newspaper/NN "I'm/NN not/RB in/IN great/JJ shape/NN after/IN missing/VBG about/IN a/DT month/NN of/IN training./NN
+"I/NN missed/VBD a/DT big/JJ chunk/NN of/IN speed/NN work/NN over/IN about/IN three/CD weeks/NNS and/CC then/RB another/DT week/NN working/VBG in/IN America./NNP
+"If/NNP I'd/NNP had/VBD a/DT half-decent/JJ mark/NN it/PRP might/MD have/VB motivated/VBN me/PRP more/JJR but/CC I/PRP won't/VBP be/VB racing./NN
+"I/NN still/RB enjoy/VB training/NN but/CC feel/VBP it's/NNS time/NN to/TO move/VB on/IN and/CC concentrate/VB on/IN a/DT career."/NN

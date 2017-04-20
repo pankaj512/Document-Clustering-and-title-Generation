@@ -1,0 +1,15 @@
+BNP/NNP leader/NN Nick/NNP Griffin/NNP arrested/VBD
+
+The/DT leader/NN of/IN the/DT British/NNP National/NNP Party/NNP has/VBZ been/VBN arrested/VBN as/IN part/NN of/IN a/DT police/NN inquiry/NN following/VBG the/DT screening/NN of/IN a/DT BBC/NNP documentary./NN
+
+A/DT party/NN spokesman/NN said/VBD Nick/NNP Griffin/NNP was/VBD arrested/VBN on/IN Tuesday/NNP morning/NN on/IN suspicion/NN of/IN incitement/NN to/TO commit/VB racial/JJ hatred./NN
+West/NNP Yorkshire/NNP police/NNS confirmed/VBD they/PRP had/VBD arrested/VBN a/DT 45-year-old/JJ man/NN from/IN outside/IN their/PRP$ area./NN
+BNP/NNP founding/NN chairman/NN John/NNP Tyndall/NNP was/VBD arrested/VBN on/IN Sunday/NNP on/IN the/DT same/JJ charge./NN
+
+In/IN July/NNP the/DT BBC/NNP documentary/NN Secret/JJ Agent/NNP featured/VBD covertly-filmed/JJ footage/NN of/IN BNP/NNP activists./NN
+Mr/NNP Griffin/NNP is/VBZ the/DT twelfth/NN man/NN to/TO be/VB arrested/VBN following/VBG the/DT documentary./NN
+Nine/CD men/NNS from/IN West/NNP Yorkshire/NNP and/CC another/DT man/NN from/IN Leicester/NNP have/VBP been/VBN arrested/VBN and/CC freed/VBN on/IN bail./NN
+Seven/CD of/IN the/DT men/NNS had/VBD been/VBN held/VBN variously/RB in/IN connection/NN with/IN suspected/VBN racially/RB aggravated/VBN public/JJ order/NN offences/NNS conspiracy/NN to/TO commit/VB criminal/JJ damage/NN and/CC possession/NN of/IN a/DT firearm./NN
+Two/CD men/NNS both/DT from/IN Keighley/NNP were/VBD arrested/VBN in/IN September/NNP on/IN suspicion/NN of/IN conspiracy/NN to/TO commit/VB criminal/JJ damage./NN
+A/DT 24-year-old/JJ man/NN from/IN Leicester/NNP was/VBD detained/VBN on/IN Monday/NNP on/IN suspicion/NN of/IN incitement/NN to/TO commit/VB racial/JJ hatred./NN
+A/DT BNP/NNP spokesperson/NN said/VBD Mr/NNP Tyndall/NNP from/IN Brighton/NNP was/VBD arrested/VBN following/VBG a/DT speech/NN he/PRP made/VBD in/IN Burnley/NNP Lancashire/NNP and/CC was/VBD released/VBN on/IN police/NN bail./NN

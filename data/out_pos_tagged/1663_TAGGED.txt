@@ -1,0 +1,13 @@
+Dal/NNP Maso/NNP in/RP to/TO replace/VB Bergamasco/NNP
+
+David/NNP dal/JJ Maso/NNP has/VBZ been/VBN handed/VBN the/DT task/NN of/IN replacing/VBG the/DT injured/VBN Mauro/NNP Bergamasco/NNP at/IN flanker/NN in/IN Italy's/NNP team/NN to/TO face/VB Scotland/NNP on/IN Saturday./NNP
+
+Alessandro/NNP Troncon/NNP continues/VBZ at/IN scrum-half/JJ despite/IN the/DT return/NN to/TO fitness/NN of/IN Paul/NNP Griffen./NNP
+The/DT experienced/VBN Cristian/NNP Stoica/NNP is/VBZ recalled/VBN at/IN centre/NN at/IN the/DT expense/NN of/IN Walter/NNP Pozzebon./NNP
+"We/NN are/VBP going/VBG to/TO Scotland/NNP for/IN the/DT first/JJ away/RB win/VB and/CC nothing/NN else"/NN said/VBD manager/NN Marco/NNP Bollesan./NNP
+"I/NN really/RB believe/VBP this/DT is/VBZ the/DT team/NN who/WP will/MD have/VB all/DT our/PRP$ faith/NN for/IN Saturday's/NNP game./NN
+"We/NN lost/VBD a/DT player/NN like/IN Mauro/NNP Bergamasco/NNP who/WP has/VBZ been/VBN important/JJ for/IN us/PRP but/CC (coach)/NN John/NNP (Kirwan)/NN has/VBZ put/VBN together/RB the/DT best/JJS team/NN at/IN present/JJ if/IN not/RB ever./NN
+
+R/NNP de/NNP Marigny/NNP (Parma)/NN Mirco/NNP Bergamasco/NNP (Stade/NN Francais)/NNP C/NNP Stoica/NNP (Montpellier)/NN A/DT Masi/NNP (Viadana)/NN L/NNP Nitoglia/NNP (Calvisano)/NN L/NNP Orquera/NNP (Padova)/NN A/DT Troncon/NNP (Treviso)/NN A/DT Lo/NNP Cicero/NNP (L'Aquilla)/NN F/NN Ongaro/NNP (Treviso)/NN M/NNP Castrogiovanni/NNP (Calvisano)/NN S/NNP Dellape/NNP (Agen)/NN M/NNP Bortolami/NNP (Narbonne/NN capt)/NN A/DT Persico/NNP (Agen)/NN D/NNP dal/JJ Maso/NNP (Treviso)/NN S/NNP Parisse/NNP (Treviso)./NN
+
+G/NNP Intoppa/NNP (Calvisano)/NN S/NNP Perugini/NNP (Calvisano)/NN CA/MD Del/NNP Fava/NNP (Parma)/NN S/NNP Orlando/NNP (Treviso)/NN P/NNP Griffen/NNP (Calvisano)/NN R/NN Pedrazzi/NNP (Viadana)/NN K/NNP Robertson/NNP (Viadana)./NN

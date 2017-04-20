@@ -1,0 +1,16 @@
+Prince/NNP crowned/VBD 'top/NN music/NN earner'/NN
+
+Prince/NNP earned/VBD more/JJR than/IN any/DT other/JJ pop/NN star/NN in/IN 2004/CD beating/VBG artists/NNS such/JJ Madonna/NNP and/CC Elton/NNP John/NNP in/IN US/PRP magazine/VBP Rolling/NNP Stone's/NNP annual/JJ list./NN
+
+The/DT singer/NN banked/VBD $56.5m/CD (£30.4m)/CD from/IN concerts/NNS album/NN and/CC publishing/NN sales/NNS with/IN his/PRP$ Musicology/NNP tour/NN and/CC album./NN
+He/PRP kept/VBD Madonna/NNP in/IN second/JJ place/NN as/IN she/PRP earned/VBD $54.9m/CD (£29.5m)/CD while/IN embarking/VBG on/IN her/PRP$ global/JJ Re-Invention/NNP Tour./NNP
+Veterans/NNP Simon/NNP and/CC Garfunkel/NNP were/VBD in/IN 10th/JJ place/VBP their/PRP$ comeback/NN tour/NN helping/VBG them/PRP earn/VBP $24.9m/CD (£13.4m)/CD last/JJ year./NN
+
+"Prince/NN returned/VBD to/TO centre/VB stage/NN after/IN a/DT decade/NN in/IN the/DT commercial/JJ wilderness"/NN the/DT magazine/NN reported./NN
+The/DT singer's/NNS 2004/CD tour/NN took/VBD $90.3m/CD (£48.5m)/CD in/IN ticket/NN sales/NNS and/CC he/PRP sold/VBD 1.9/CD million/CD copies/NNS of/IN his/PRP$ latest/JJS album/NN Musicology./NNP
+
+Although/IN she/PRP grossed/VBD more/JJR than/IN Prince/NNP last/JJ year/NN Madonna/NNP remained/VBD in/IN second/JJ place/NN because/IN of/IN the/DT "monumental"/NN production/NN costs/NNS of/IN her/PRP$ tour./NN
+Heavy/NNP metal/NN band/NN Metallica's/NNP Madly/RB in/IN Anger/NN with/IN the/DT World/NNP tour/NN helped/VBD push/VB their/PRP$ 2004/CD earnings/NNS up/IN to/TO $43.1m/CD (£23.1m)./CD
+They/PRP were/VBD ahead/RB of/IN Sir/NNP Elton/NNP John/NNP who/WP took/VBD fourth/JJ place/NN and/CC almost/RB $42.7m/CD (£23m)/CD from/IN performances/NNS including/VBG a/DT debut/NN on/IN the/DT Las/NNP Vegas/NNP Strip./NNP
+Other/JJ seasoned/JJ performers/NNS in/IN the/DT list/NN included/VBD Rod/NNP Stewart/NNP whose/WP$ sold-out/JJ shows/NNS and/CC third/JJ volume/NN of/IN The/DT Great/NNP American/NNP Songbook/NNP covers/VBZ album/NN helped/VBD net/JJ him/PRP £35m/CD (£19m)./CD
+The/DT highest-ranking/JJ rap/NN act/NN in/IN the/DT list/NN was/VBD 50/CD Cent/NN who/WP at/IN number/NN 19/CD took/VBD $24m/CD (£13m)/CD to/TO the/DT bank./NN

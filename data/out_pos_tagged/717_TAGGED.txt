@@ -1,0 +1,24 @@
+Jungle/NN TV/NN show/NN ratings/NNS drop/NN by/IN 4m/CD
+
+The/DT finale/NN of/IN ITV1's/CD I'm/NNP a/DT Celebrity.../NNP
+Get/VB Me/PRP Out/IN of/IN Here/RB drew/VBD an/DT average/NN of/IN 10.9m/CD viewers/NNS -/: about/IN four/CD million/CD fewer/JJR than/IN the/DT previous/JJ series./NN
+
+The/DT fourth/JJ series/NN of/IN the/DT show/NN peaked/VBD on/IN Monday/NNP at/IN 11.9m/CD and/CC 49.2%/CD of/IN the/DT audience/NN just/RB before/IN Joe/NNP Pasquale/NNP won./NN
+This/DT compared/VBN with/IN a/DT peak/NN of/IN 15.3m/CD at/IN and/CC a/DT record/NN 62.2%/CD of/IN the/DT TV/NN audience/NN when/WRB Kerry/NNP McFadden/NNP won/VBD in/IN February./NNP
+Comic/JJ Pasquale/NNP beat/VBP former/JJ Royal/NNP butler/NN Paul/NNP Burrell/NNP who/WP came/VBD second/JJ nightclub/NN owner/NN Fran/NNP Cosgrave/NNP who/WP was/VBD third./NN
+Pasquale/NNP follows/VBZ Kerry/NNP McFadden/NNP Phil/NNP Tufnell/NNP and/CC Tony/NNP Blackburn/NNP as/IN winners/NNS of/IN the/DT show./NN
+
+Singer/NNP and/CC TV/NN presenter/NN McFadden/NNP was/VBD the/DT show's/NNS first/RB female/JJ winner./NN
+When/WRB cricketer/NN Phil/NNP Tufnell/NNP won/VBD in/IN May/NNP 2003/CD 12.3/CD million/CD people/NNS -/: 50%/CD of/IN the/DT viewing/VBG public/NN -/: tuned/VBN in/RP to/TO watch./VB
+And/CC when/WRB Tony/NNP Blackburn/NNP won/VBD the/DT first/JJ show/NN in/IN 2002/CD 10.9/CD million/CD people/NNS saw/VBD the/DT show./NN
+Pasquale/NNP had/VBD been/VBN the/DT show's/NNS hottest/JJS ever/RB favourite/NN to/TO win/VB and/CC its/PRP$ hosts/NNS Anthony/NNP McPartlin/NNP and/CC Declan/NNP Donnelly/NNP known/VBD as/IN Ant/NNP and/CC Dec/NNP said/VBD Monday's/NNP deciding/VBG vote/NN was/VBD the/DT closest/JJS in/IN the/DT programme's/NNS history./NN
+
+Pascuale/NNP has/VBZ been/VBN flooded/VBN with/IN offers/NNS of/IN TV/NN work/NN according/VBG to/TO his/PRP$ management/NN company/NN but/CC one/CD of/IN his/PRP$ first/JJ jobs/NNS on/IN his/PRP$ return/NN is/VBZ pantomime./NN
+
+Before/IN joining/VBG I'm/NNP a/DT Celebrity/NNP he/PRP had/VBD signed/VBN up/RP to/TO play/VB Jack/NNP in/IN Jack/NNP and/CC the/DT Beanstalk/NNP in/IN Birmingham/NNP and/CC tickets/NNS for/IN the/DT show/NN have/VBP become/VBN increasingly/RB popular/JJ since/IN he/PRP joined/VBD the/DT TV/NN show./NN
+His/PRP$ manager/NN Robert/NNP Voice/NNP said/VBD "We've/NN had/VBD interest/NN from/IN different/JJ TV/NN producers./NN
+Some/DT are/VBP for/IN comedy/NN shows/VBZ some/DT are/VBP new-type/JJ projects./NN
+"There/NN are/VBP a/DT number/NN of/IN things/NNS Joe/NNP wants/VBZ to/TO do./VB
+He/PRP is/VBZ very/RB ambitious./NN
+"He/NN wants/VBZ to/TO play/VB the/DT West/NNP End/NN and/CC do/VBP different/JJ things/NNS other/JJ than/IN straightforward/JJ comedy./NN
+We/PRP are/VBP talking/VBG to/TO a/DT couple/NN of/IN West/NNP End/NN producers/NNS about/IN a/DT musical."/NN

@@ -1,0 +1,21 @@
+Ebbers/NNP denies/VBZ WorldCom/NNP fraud/NN
+
+Former/NNP WorldCom/NNP chief/NN Bernie/NNP Ebbers/NNP has/VBZ denied/VBN claims/VBZ that/IN he/PRP knew/VBD accountants/NNS were/VBD doctoring/NN the/DT books/NNS at/IN the/DT firm./NN
+
+Speaking/VBG in/IN court/NN Mr/NNP Ebbers/NNP rejected/VBD allegations/NNS he/PRP pressured/VBD ex-chief/JJ financial/JJ officer/NN Scott/NNP Sullivan/NNP to/TO falsify/VB company/NN financial/JJ statements./NN
+Mr/NNP Sullivan/NNP "made/NN accounting/NN decisions"/NN he/PRP told/VBD the/DT federal/JJ court/NN saying/VBG his/PRP$ finance/NN chief/NN had/VBD "a/NN keen/JJ command/NN of/IN the/DT numbers"./NN
+Mr/NNP Ebbers/NNP has/VBZ denied/VBN charges/NNS of/IN fraud/NN and/CC conspiracy./NN
+During/IN his/PRP$ second/JJ day/NN of/IN questioning/VBG in/IN the/DT New/NNP York/NNP trial/NN Mr/NNP Ebbers/NNP played/VBD down/RB his/PRP$ working/VBG relationship/NN with/IN Mr/NNP Sullivan/NNP and/CC denied/VBD he/PRP frequently/RB met/VBD him/PRP to/TO discuss/VB company/NN business/NN when/WRB questioned/VBN by/IN the/DT prosecution./NN
+
+"In/NN a/DT lot/NN of/IN weeks/NNS we/PRP would/MD speak/VB .../:
+three/CD or/CC four/CD times"/NN Mr/NNP Ebbers/NNP said/VBD adding/VBG that/IN conversations/NNS about/IN finances/NNS were/VBD rarely/RB one-on-one/JJ and/CC were/VBD usually/RB discussed/VBN by/IN a/DT "group/NN of/IN people"/NN instead./NN
+
+Mr/NNP Ebbers/NNP relationship/NN to/TO Mr/NNP Sullivan/NNP is/VBZ key/NN to/TO the/DT case/NN surrounding/VBG financial/JJ corruption/NN that/WDT led/VBD to/TO the/DT collapse/NN of/IN the/DT firm/NN in/IN 2002/CD following/VBG the/DT discovery/NN of/IN an/DT $11bn/CD accounting/NN fraud./NN
+The/DT prosecution's/NNS star/NN witness/NN is/VBZ Mr/NNP Sullivan/NNP one/CD of/IN six/CD WorldCom/NNP executives/NNS indicted/VBN in/IN the/DT case/NN He/PRP has/VBZ pleaded/VBN guilty/JJ to/TO fraud/VB and/CC appeared/VBD as/IN a/DT prosecution/NN witness/NN as/IN part/NN of/IN an/DT agreement/NN with/IN prosecutors./NN
+During/IN his/PRP$ time/NN on/IN the/DT witness/NN stand/VBP Mr/NNP Sullivan/NNP repeatedly/RB told/VBD jurors/NNS he/PRP met/VBD frequently/RB with/IN Mr/NNP Ebbers/NNP told/VBD him/PRP about/IN changes/NNS made/VBN to/TO WorldCom's/NNP accounts/NNS to/TO hide/VB costs/NNS and/CC had/VBD warned/VBN him/PRP such/JJ practises/NNS were/VBD improper./NN
+However/RB during/IN the/DT case/NN on/IN Tuesday/NNP Mr/NNP Ebbers/NNP denied/VBD the/DT allegations./NN
+"I/NN wasn't/NN advised/VBN by/IN Scott/NNP Sullivan/NNP of/IN anything/NN ever/RB being/VBG wrong"/NN he/PRP told/VBD the/DT court./NN
+"He's/NN never/RB told/VBD me/PRP he/PRP made/VBD an/DT entry/NN that/DT wasn't/NN right./NN
+If/IN he/PRP had/VBD we/PRP wouldn't/VBP be/VB here/RB today."/NN Mr/NNP Ebbers/NNP could/MD face/VB a/DT jail/NN sentence/NN of/IN up/IN to/TO 85/CD years/NNS if/IN convicted/VBN of/IN all/PDT the/DT charges/NNS he/PRP is/VBZ facing./NN
+Shareholders/NNS lost/VBD about/IN $180bn/CD in/IN WorldCom's/NNP collapse/NN 20000/CD workers/NNS lost/VBD their/PRP$ jobs/NNS and/CC the/DT company/NN went/VBD bankrupt./NN
+The/DT company/NN emerged/VBD from/IN bankruptcy/NN last/JJ year/NN and/CC is/VBZ now/RB known/VBN as/IN MCI./NNP

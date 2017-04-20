@@ -1,0 +1,15 @@
+Parmalat/NNP boasts/VBZ doubled/VBN profits/NNS
+
+Parmalat/VBG the/DT Italian/JJ food/NN group/NN at/IN the/DT centre/NN of/IN one/CD of/IN Europe's/NNP most/RBS painful/JJ corporate/JJ scandals/NNS has/VBZ reported/VBN a/DT doubling/NN in/IN profit./NN
+
+Its/PRP$ pre-tax/JJ earnings/NNS in/IN the/DT fourth/JJ quarter/NN were/VBD 77m/CD euros/NNS (£53m/CD $100m)/CD up/RP from/IN 38m/CD in/IN the/DT same/JJ period/NN of/IN 2003./CD
+Less/RBR welcome/VB was/VBD the/DT news/NN that/IN the/DT firm/NN had/VBD been/VBN fined/VBN 11m/CD euros/NNS for/IN having/VBG violated/VBD takeover/NN rules/NNS five/CD years/NNS ago./NN
+The/DT firm/NN sought/VBD bankruptcy/NN protection/NN in/IN December/NNP 2003/CD after/IN disclosing/VBG a/DT 4bn-euro/CD hole/NN in/IN its/PRP$ accounts./NN
+Overall/RB the/DT company's/NNS debt/NN is/VBZ close/RB to/TO 12bn/CD euros/NNS and/CC is/VBZ falling/VBG only/RB slowly./NN
+Its/PRP$ brands/NNS well-known/JJ in/IN Italy/NNP and/CC overseas/JJ have/VBP continued/VBN to/TO perform/VB strongly/RB however/RB and/CC have/VBP barely/RB lost/VBN revenue/NN since/IN the/DT scandal/NN broke./NN
+
+But/CC a/DT crucial/JJ factor/NN for/IN the/DT company's/NNS future/NN is/VBZ the/DT legal/JJ unwinding/VBG of/IN its/PRP$ intensely/RB complex/JJ financial/JJ position./NN
+On/IN Tuesday/NNP the/DT company's/NNS administrator/NN turnaround/NN expert/NN Enrico/NNP Bondi/NNP sued/VBD Morgan/NNP Stanley/NNP its/PRP$ former/JJ banker/NN to/TO return/VB 136m/CD euros/NNS relating/VBG to/TO a/DT 2003/CD bond/NN deal./NN
+That/DT brought/VBN to/TO 49/CD the/DT number/NN of/IN banks/NNS that/IN Mr/NNP Bondi/NNP has/VBZ sued/VBN a/DT mass/NN of/IN legal/JJ action/NN that/WDT could/MD bring/VB in/IN as/RB much/JJ as/IN 3bn/CD euros./NN
+The/DT company/NN has/VBZ also/RB sued/VBN former/JJ auditors/NNS and/CC financial/JJ advisors/NNS for/IN damages./NN
+And/CC criminal/JJ cases/NNS against/IN the/DT company's/NNS former/JJ management/NN are/VBP proceeding/VBG separately./NN

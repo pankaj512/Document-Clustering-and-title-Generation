@@ -1,0 +1,16 @@
+Jugnot/NNP 'tops/NN French/JJ actor/NN league'/NN
+
+Actor/NNP Gerard/NNP Jugnot/NNP -/: star/NN of/IN the/DT Oscar-nominated/NNP film/NN The/DT Chorus/NN -/: has/VBZ beaten/VBN Gerard/NNP Depardieu/NNP to/TO become/VB France's/NNP best-paid/JJ actor/NN of/IN 2004./CD
+
+Jugnot/NNP made/VBD 5.45m/CD Euros/NNP (£3.77m)/CD last/JJ year/NN according/VBG to/TO a/DT table/NN drawn/VBD up/RP by/IN France's/NNP Le/NNP Figaro/NNP newspaper./NN
+In/IN The/DT Chorus/NN (Les/NN Choristes)/NNP Jugnot/NNP plays/VBZ an/DT inspiring/JJ music/NN teacher/NN at/IN a/DT school/NN for/IN troubled/VBN boys/NNS in/IN 1949./CD
+Despite/IN starring/VBG in/IN five/CD films/NNS in/IN 2004/CD Depardieu/NNP made/VBN 3.35m/CD Euros/NNP (£2.31m)/CD putting/VBG him/PRP third/JJ place/NN in/IN the/DT chart./NN
+"His/NN name/NN [Depardieu]/NN is/VBZ no/RB longer/RB sufficient/JJ to/TO guarantee/VB the/DT success/NN of/IN a/DT film"/NN said/VBD Le/NNP Figaro/NNP newspaper./NN
+The/DT Chorus/NN which/WDT Jugnot/NNP also/RB co-produced/JJ has/VBZ drawn/VBN an/DT audience/NN of/IN nearly/RB nine/CD million/CD people/NNS since/IN its/PRP$ release/NN last/JJ year./NN
+
+Godzilla/NNP star/NN Jean/NNP Reno/NNP was/VBD France's/NNP second/JJ best-paid/JJ actor/NN in/IN 2004/CD earning/VBG 3.55m/CD Euros/NNP (£2.45m)/CD ./.
+His/PRP$ roles/NNS include/VBP a/DT recent/JJ uncredited/VBN cameo/NN in/IN the/DT Oscar-nominated/NNP Hotel/NNP Rwanda./NNP
+The/DT highest-ranking/JJ woman/NN on/IN Le/NNP Figaro's/NNP list/NN was/VBD Audrey/NNP Tautou/NNP in/IN 10th/JJ place/NN earning/VBG 885000/CD Euros/NNP (£611000)./CD
+She/PRP starred/VBD in/IN Jean-Pierre/NNP Jeunet's/NNP A/NNP Very/RB Long/NNP Engagement/NN (Un/NN Long/NNP Dimanche/NNP de/FW Fiancailles)/NNP and/CC is/VBZ also/RB lined/VBN up/IN to/TO co-star/JJ with/IN Tom/NNP Hanks/NNP in/IN Ron/NNP Howard's/NNP The/DT Da/NNP Vinci/NNP Code./NNP
+The/DT Chorus/NN is/VBZ nominated/VBN for/IN best/JJS foreign/JJ film/NN at/IN Sunday's/NNP Oscar/NNP ceremony./NN
+On/IN Saturday/NNP it/PRP will/MD compete/VB for/IN the/DT title/NN of/IN best/JJS film/NN against/IN fellow/JJ nominee/NN A/DT Very/RB Long/NNP Engagement/NN in/IN France's/NNP Cesar/NNP film/NN awards./NN

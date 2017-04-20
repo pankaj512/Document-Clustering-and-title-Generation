@@ -1,0 +1,21 @@
+McIlroy/NNP wins/VBZ 800m/CD indoor/JJ title/NN
+
+James/NNP McIlroy/NNP motored/VBD to/TO the/DT AAA's/NNP Indoor/JJ 800m/CD title/NN in/IN Sheffied/NNP on/IN Sunday/NNP in/IN a/DT time/NN of/IN one/CD minute/NN 47.97/CD seconds./NN
+
+The/DT Larne/NNP athlete/NN dominated/VBD the/DT race/NN from/IN start/NN to/TO finish/VB although/IN he/PRP had/VBD to/TO hold/VB off/RP a/DT late/JJ challenge/NN from/IN Welshman/NNP Jimmy/NNP Watkins/NNP in/IN the/DT final/JJ 100/CD metres./NN
+"I/NN had/VBD to/TO go/VB out/RB and/CC go/VB through/IN all/PDT the/DT gears/NNS before/IN the/DT Europeans/NNPS and/CC I/PRP won't/VBP run/NN again/RB until/IN then"/NN said/VBD McIlroy./NNP
+''I/NN though/IN if/IN I/PRP got/VBD lucky/JJ I'd/NNP get/VB close/RB to/TO the/DT British/JJ record/NN but/CC I/PRP blew/VBD up/RP in/IN the/DT end.''/NN McIlroy/NNP has/VBZ been/VBN in/IN superb/NN form/NN at/IN the/DT start/NN of/IN the/DT season/NN and/CC will/MD now/RB start/VB his/PRP$ build-up/NN for/IN the/DT European/NNP Indoors/NNP at/IN Madrid/NNP on/IN 4-6/JJ March./NNP
+Meanwhile/RB Paul/NNP Brizzel/NNP and/CC Anna/NNP Boyle/NNP reached/VBD the/DT semi-finals/NNS of/IN the/DT 60m/CD hurdles/NNS with/IN Boyle/NNP setting/VBG a/DT season's/NNS best/JJS of/IN 7.48./CD
+In/IN the/DT women's/NNS 60m/CD final/JJ Ailis/NNP McSweeney/NNP broke/VBD Michelle/NNP Carroll's/NNP long-standing/JJ Irish/JJ record/NN by/IN clocking/VBG 7.37/CD which/WDT left/VBD her/PRP in/IN third/JJ place./NN
+David/NNP Gillick/NNP showed/VBD that/IN he/PRP is/VBZ a/DT genuine/JJ medal/NN contender/NN in/IN the/DT European/JJ Indoor/JJ Championships/NNS by/IN claiming/VBG an/DT impressive/JJ 400m/CD victory./NN
+Gillick/NNP was/VBD more/JJR than/IN half-a-second/JJ clear/JJ when/WRB taking/VBG gold/NN in/IN 46.45/CD -/: .02/CD outside/IN his/PRP$ personal/JJ best/JJS set/VBN in/IN Saturday's/NNP semi-finals./JJ
+
+The/DT Irishman/NNP is/VBZ now/RB the/DT fastest/JJS European/JJ this/DT season./NN
+Derval/NNP O'Rourke/NNP broke/VBD her/PRP$ own/JJ Irish/JJ 60m/CD hurdles/NNS record/NN by/IN clocking/VBG 8.06/CD which/WDT left/VBD her/PRP$ third/NN behind/IN new/JJ British/JJ record/NN holder/NN Sarah/NNP Claxton/NNP (7.96)./CD
+James/NNP Nolan/NNP (346.04)/CD took/VBD second/JJ in/IN the/DT men's/NNS 1500m/CD behind/IN Neil/NNP Speaight/NNP (345.86)/CD but/CC the/DT Offaly/NNP man/NN was/VBD outside/IN the/DT European/JJ Indoor/JJ standard./NN
+Colin/NNP Costello/NNP was/VBD seventh/JJ in/IN the/DT 1500m/CD final/JJ in/IN 348.82)./CD
+Deirdre/NNP Ryan/NNP was/VBD second/JJ in/IN the/DT women's/NNS high/JJ jump/NN with/IN a/DT clearance/NN of/IN 1.87m/CD while/IN Aoife/NNP Byrne/NNP took/VBD silver/NN in/IN the/DT 800m/CD in/IN a/DT personal/JJ best/JJS of/IN 206.73./CD
+Lisburn's/NNP Kelly/NNP McNeice/NNP Reid/NNP (431.34)/CD was/VBD seventh/JJ in/IN the/DT women's/NNS 1500m/CD while/IN Gary/NNP Murray/NNP (811.22)/CD was/VBD 11th/JJ in/IN the/DT men's/NNS 3000m./CD
+Meanwhile/RB Stephen/NNP Cairns/NNP and/CC Jill/NNP Shannon/NNP claimed/VBD the/DT individual/JJ titles/NNS at/IN Saturday's/NNP Northern/NNP Ireland/NNP Cross/NNP Country/NNP Championship/NNP in/IN Coleraine./NNP
+Cairns/NNP came/VBD in/IN ahead/RB of/IN Paul/NNP Rowan/NNP and/CC Allan/NNP Bogle/NNP in/IN the/DT men's/NNS race./NN
+Willowfield/NNP claimed/VBD their/PRP$ first/JJ men's/NNS team/NN title/NN in/IN 72/CD years/NNS while/IN Shannon/NNP helped/VBD Lagan/NNP Valley/NNP win/VB the/DT women's/NNS team/NN honours./NN

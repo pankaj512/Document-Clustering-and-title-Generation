@@ -1,0 +1,23 @@
+Tories/NNS 'would/NN cut/NN number/NN of/IN MPs'/NNP
+
+The/DT Conservative/JJ Party/NNP would/MD cut/VB the/DT number/NN of/IN MPs/NNP by/IN about/RB one-fifth/JJ if/IN they/PRP were/VBD elected/VBN Tory/NNP leader/NN Michael/NNP Howard/NNP has/VBZ said./NN
+
+The/DT plan/NN forms/NNS part/NN of/IN the/DT party's/NNS "smaller/NN government/NN bill"/NN to/TO be/VB unveiled/VBN later/RB this/DT week./NN
+Mr/NNP Howard/NNP told/VBD the/DT Sunday/NNP Times/NNP the/DT party/NN would/MD also/RB reduce/VB the/DT number/NN of/IN government/NN special/JJ advisers./NN
+And/CC he/PRP said/VBD a/DT referendum/NN would/MD be/VB held/VBN in/IN Wales/NNP to/TO decide/VB whether/IN or/CC not/RB to/TO scrap/VB the/DT Welsh/NNP Assembly./NNP
+
+The/DT changes/NNS would/MD all/DT take/VB place/NN within/IN five/CD years/NNS of/IN the/DT Conservatives/NNS winning/VBG a/DT general/JJ election/NN Mr/NNP Howard/NNP told/VBD the/DT paper./NN
+
+The/DT precise/JJ number/NN of/IN MPs/NNP to/TO go/VB would/MD depend/VB on/IN the/DT result/NN of/IN the/DT Welsh/NNP referendum/NN but/CC it/PRP would/MD probably/RB mean/VB a/DT reduction/NN of/IN around/IN 120/CD from/IN the/DT current/JJ total/NN of/IN 659./CD
+If/IN Wales/NNP decided/VBD to/TO keep/VB its/PRP$ assembly/NN it/PRP would/MD stand/VB to/TO lose/VB more/JJR MPs./NNP
+Mr/NNP Howard/NNP said/VBD as/IN both/DT parties/NNS planned/VBN to/TO cut/VB the/DT number/NN of/IN civil/JJ servants/NNS at/IN Whitehall/NNP -/: Labour/NNP by/IN more/JJR than/IN 80000/CD and/CC the/DT Tories/NNPS by/IN almost/RB 100000/CD -/: they/PRP should/MD accept/VB a/DT similar/JJ drop/NN in/IN their/PRP$ own/JJ numbers./NN
+"It/NN is/VBZ all/DT very/RB well/RB saying/VBG government/NN departments/NNS should/MD be/VB reduced/VBN but/CC what/WP about/IN ministers/NNS Parliament/NNP and/CC special/JJ advisers?"/NN he/PRP said./VB
+Shadow/NNP leader/NN of/IN the/DT Commons/NNPS Oliver/NNP Heald/NNP said/VBD "This/NN will/MD be/VB part/NN of/IN our/PRP$ aim/NN to/TO reduce/VB unnecessary/JJ and/CC costly/JJ interference/NN in/IN people's/NNS lives/NNS by/IN reducing/VBG the/DT size/NN and/CC role/NN of/IN the/DT State"./NNP
+
+Mr/NNP Howard/NNP said/VBD the/DT plan/NN would/MD also/RB even/RB out/IN the/DT "great/NN unfairness"/NN of/IN there/EX being/VBG proportionately/RB more/JJR Scottish/NNP and/CC Welsh/NNP MPs/NNP at/IN Westminster/NNP than/IN those/DT from/IN England./NNP
+The/DT average/JJ size/NN of/IN an/DT English/JJ constituency/NN was/VBD 70000/CD people/NNS Mr/NNP Howard/NNP said./NN
+In/IN Northern/JJ Ireland/NNP it/PRP was/VBD just/RB over/IN 66000/CD in/IN Wales/NNP just/RB over/IN 59000/CD and/CC in/IN Scotland/NNP 53000./CD
+The/DT number/NN of/IN Welsh/NNP MPs/NNP would/MD be/VB set/VBN at/IN an/DT amount/NN that/WDT was/VBD "consistent/NN and/CC fair/JJ in/IN terms/NNS of/IN representation/NN with/IN the/DT rest/NN of/IN the/DT United/NNP Kingdom"/NNP if/IN the/DT assembly/NN was/VBD scrapped./NN
+Mr/NNP Howard/NNP said/VBD the/DT changes/NNS should/MD be/VB carried/VBN out/RP quickly/RB and/CC could/MD even/RB be/VB implemented/VBN by/IN the/DT election/NN after/IN next./NN
+"You/NN have/VBP got/VBN to/TO have/VB a/DT big/JJ bang./NN
+We/PRP don't/VBP want/VBP this/DT like/IN the/DT House/NNP of/IN Lords/NNPS reform/NN getting/VBG to/TO one/CD stage/NN and/CC then/RB not/RB having/VBG the/DT next/JJ stage."/NN

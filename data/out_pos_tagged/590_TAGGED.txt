@@ -1,0 +1,15 @@
+US/PRP TV/VBP cuts/VBZ nudity/NN from/IN BBC/NNP film/NN
+
+A/DT US/PRP TV/VBP network/NN is/VBZ editing/NN BBC/NNP Films'/NNP Dirty/JJ War/NNP to/TO avoid/VB showing/VBG the/DT front/NN of/IN a/DT nude/JJ woman/NN being/VBG scrubbed/VBN down/RP after/IN a/DT fictional/JJ chemical/NN attack./NN
+
+It/PRP is/VBZ not/RB worth/JJ showing/VBG "non-essential"/JJ nude/JJ scenes/NNS when/WRB indecency/NN complaints/NNS are/VBP "aggressively/RB pursued"/NN by/IN US/PRP TV/VBP watchdogs/NNS said/VBD PBS'/NNP Jacoba/NNP Atlas./NNP
+Dirty/JJ War/NNP -/: screened/VBD uncut/NN on/IN BBC/NNP One/CD last/JJ September/NNP -/: depicts/VBZ a/DT dirty/JJ bomb/NN attack/NN on/IN the/DT City/NNP of/IN London./NNP
+It/PRP is/VBZ also/RB being/VBG screened/VBD uncut/NN on/IN US/PRP cable/VBP channel/NN HBO/NNP on/IN 24/CD January./NNP
+PBS/NNP said/VBD it/PRP will/MD use/VB extra/JJ footage/NN for/IN its/PRP$ broadcast/NN showing/VBG the/DT woman/NN "from/NN a/DT more/RBR discreet/JJ angle"/NN instead./NN
+
+The/DT US/PRP Federal/NNP Communications/NNPS Commission/NNP fined/VBD CBS/NNP $550000/CD (£306814)/CD last/JJ autumn/NN for/IN singer/NN Janet/NNP Jackson's/NNP "wardrobe/NN malfunction"/NN during/IN which/WDT her/PRP$ breast/NN was/VBD exposed/VBN during/IN a/DT dance/NN routine/JJ with/IN Justin/NNP Timberlake./NNP
+Many/JJ US/PRP networks/VBZ and/CC broadcasters/NNS are/VBP now/RB more/RBR nervous/JJ about/IN airing/VBG nudity/NN violence/NN or/CC bad/JJ language./NN
+Ms/NNP Atlas/NNP said/VBD PBS/NNP could/MD put/VB itself/PRP financially/RB at/IN risk/NN if/IN it/PRP showed/VBD the/DT uncut/NN version/NN of/IN Dirty/JJ War/NNP and/CC it/PRP could/MD also/RB deter/VB many/JJ of/IN its/PRP$ 170/CD individual/JJ stations/NNS from/IN airing/VBG "an/NN important/JJ film"./NN
+"You/NN want/VBP to/TO pick/VB your/PRP$ battles"/NN she/PRP said./VBP
+She/PRP added/VBD that/IN PBS/NNP which/WDT is/VBZ a/DT private/JJ non-profit/JJ media/NNS enterprise/NN owned/VBN and/CC operated/VBN by/IN the/DT nation's/NNS 349/CD public/JJ television/NN stations/NNS is/VBZ bolder/JJR about/IN screening/NN non-fiction/JJ or/CC historical/JJ programming./NN
+PBS/NNP is/VBZ seen/VBN in/IN virtually/RB all/DT US/PRP homes/VBZ with/IN TV/NN and/CC describes/VBZ itself/PRP as/IN a/DT "trusted/VBN community/NN resource"/NN serving/VBG nearly/RB 100/CD million/CD people/NNS each/DT week./NN

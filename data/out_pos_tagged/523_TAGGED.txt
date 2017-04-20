@@ -1,0 +1,31 @@
+Levy/NNP takes/VBZ Whitbread/NNP novel/NN prize/NN
+
+Orange/NNP Prize/NNP winner/NN Andrea/NNP Levy/NNP has/VBZ seen/VBN her/PRP$ book/NN Small/NNP Island/NNP win/VB the/DT Whitbread/NNP Novel/NN of/IN the/DT Year/NN Award./NNP
+
+She/PRP is/VBZ now/RB favourite/NN to/TO win/VB the/DT overall/JJ prize/NN after/IN beating/VBG Booker/NNP winner/NN Alan/NNP Hollinghurst's/NNP The/DT Line/NNP of/IN Beauty./NNP
+Geraldine/NNP McCaughrean/NNP has/VBZ picked/VBN up/RP the/DT children's/NNS fiction/NN award/NN for/IN the/DT third/JJ time/NN for/IN Not/RB the/DT End/NN of/IN the/DT World./NNP
+All/PDT the/DT category/NN winners/NNS go/VBP through/IN to/TO compete/VB for/IN the/DT Whitbread/NNP Book/NNP of/IN the/DT Year/NN title/NN which/WDT carries/VBZ with/IN it/PRP a/DT £25000/CD prize./NN
+A/DT panel/NN of/IN judges/NNS including/VBG Sir/NNP Trevor/NNP McDonald/NNP actor/NN Hugh/NNP Grant/NNP and/CC writer/NN Joanne/NNP Harris/NNP will/MD meet/VB up/RP on/IN 25/CD January/NNP to/TO decide/VB the/DT overall/JJ winner/NN with/IN the/DT announcement/NN being/VBG made/VBN later/RB that/DT evening./NN
+
+Bookmaker/NNP William/NNP Hill/NNP has/VBZ placed/VBN London-based/JJ Levy's/NNP novel/NN as/IN the/DT 6/4/CD favourite/NN to/TO win./VB
+
+Small/NNP Island/NNP Levy's/NNP fourth/JJ novel/NN is/VBZ set/VBN in/IN post-war/JJ England/NNP and/CC centres/NNS on/IN a/DT landlady/NN and/CC her/PRP$ lodgers./NN
+One/CD is/VBZ a/DT Jamaican/NNP who/WP joined/VBD British/JJ troops/NNS to/TO fight/VB Hitler/NNP but/CC finds/VBZ life/NN difficult/JJ out/IN of/IN uniform/JJ when/WRB he/PRP settles/VBZ in/IN London./NNP
+The/DT judges/NNS who/WP included/VBD authors/NNS Jenny/NNP Colgan/NNP and/CC Amanda/NNP Craig/NNP were/VBD full/JJ of/IN praise/NN for/IN her/PRP$ writing./NN
+"What/NN could/MD have/VB been/VBN a/DT didactic/JJ or/CC preachy/NN prospect/NN turns/VBZ out/RP to/TO hilarious/JJ moving/VBG humane/NN and/CC eye-popping./JJ
+It's/NNP hard/JJ to/TO think/VB of/IN anybody/NN not/RB enjoying/VBG it"/NN wrote/VBD the/DT judges./NN
+The/DT first/JJ novel/NN section/NN was/VBD won/VBN by/IN Susan/NNP Fletcher/NNP for/IN Eve/NNP Green/NNP beating/VBG the/DT favourite/NN Jonathan/NNP Strange/JJ and/CC Mr/NNP Norrell/NNP by/IN Susanna/NNP Clarke./NNP
+Fletcher/NNP has/VBZ recently/RB graduated/VBN from/IN graduated/VBN from/IN the/DT University/NNP of/IN East/NNP Anglia/NNP creative/JJ writing/NN course./NN
+Waterstone's/NNP fiction/NN writer/NN buyer/NN Suzie/NNP Doore/NNP said/VBD "It/NN is/VBZ great/JJ to/TO see/VB Susan/NNP Fletcher/NNP win/VB in/IN the/DT first/JJ novel/NN category./NN
+As/IN a/DT relatively/RB unknown/JJ author/NN this/DT award/NN will/MD give/VB her/PRP$ exposure/NN to/TO a/DT wider/JJR and/CC mass/NN audience/NN that/IN she/PRP may/MD not/RB have/VB reached/VBN and/CC is/VBZ a/DT perfect/JJ example/NN of/IN the/DT influence/NN of/IN the/DT Whitbread./NNP
+"Fresh/NN out/IN of/IN university/NN she/PRP is/VBZ certainly/RB one/CD to/TO watch."/VB
+
+In/IN the/DT biography/NN category/NN it/PRP was/VBD John/NNP Guy's/NNP The/DT Life/NNP of/IN Mary/NNP Queen/NNP of/IN Scots/NNP that/WDT was/VBD picked/VBN as/IN winner./NN
+The/DT judges/NNS called/VBD it/PRP "an/VBD impressive/JJ and/CC readable/JJ piece/NN of/IN scholarship/NN which/WDT cannot/NN fail/NN but/CC leave/VB the/DT reader/NN moved/VBD and/CC intrigued/VBN by/IN this/DT most/RBS tragic/JJ and/CC likeable/JJ of/IN queens"./NN
+Guy/NNP has/VBZ published/VBN many/JJ histories/NNS including/VBG Tudor/NNP England./NNP
+He/PRP is/VBZ a/DT fellow/NN at/IN Clare/NNP College/NNP Cambridge/NNP and/CC became/VBD a/DT honorary/JJ research/NN professor/NN of/IN the/DT University/NNP of/IN St/NNP Andrews/NNP in/IN 2003./CD
+Michael/NNP Symmons/NNP Roberts'/NNP fourth/JJ collection/NN of/IN poems/NNS scooped/VBD the/DT poetry/NN award./NN
+His/PRP$ works/NNS mixes/VBZ mysticism/NN erotica/NN and/CC philosophy/NN through/IN life/NN death/NN and/CC resurrection./NN
+As/RB well/RB as/IN writing/VBG poetry/NN Symmons/NNP Roberts/NNP also/RB makes/VBZ documentary/NN films./NN
+Children's/NNP winner/NN McCaughrean/NNP who/WP went/VBD into/IN magazine/NN publishing/NN after/IN studying/VBG teaching/NN previously/RB won/VBD the/DT Whitbread/NNP Prize/NNP in/IN 1987/CD with/IN A/DT Little/NNP Lower/JJR than/IN Angels/NNPS and/CC in/IN 1994/CD with/IN Gold/NNP Dust./NNP
+She/PRP has/VBZ previously/RB been/VBN the/DT winner/NN of/IN the/DT Blue/NNP Peter/NNP Book/NNP of/IN the/DT Year./NNP

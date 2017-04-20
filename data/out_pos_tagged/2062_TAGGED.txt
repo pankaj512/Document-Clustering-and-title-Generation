@@ -1,0 +1,13 @@
+Gamers/NNS snap/VBP up/RP new/JJ Sony/NNP PSP/NNP
+
+Gamers/NNS have/VBP bought/VBN almost/RB all/DT of/IN the/DT first/JJ batch/NN of/IN Sony's/NNP new/JJ PlayStation/NNP Portable/JJ (PSP)/NN games/NNS console/NN which/WDT went/VBD on/IN sale/NN in/IN Japan/NNP on/IN Sunday./NNP
+
+Thousands/NNS of/IN people/NNS queued/VBN for/IN hours/NNS to/TO get/VB hold/VB of/IN one/CD of/IN the/DT 200000/CD PSPs/NNP which/WDT were/VBD shipped/VBN to/TO retailers./VB
+The/DT handheld/JJ console/NN can/MD play/VB games/NNS music/NN and/CC movies/NNS and/CC goes/VBZ on/IN sale/NN in/IN Europe/NNP and/CC North/NNP America/NNP next/JJ year./NN
+Despite/IN the/DT demand/NN Sony/NNP said/VBD it/PRP would/MD not/RB increase/VB the/DT 500000-strong/JJ stock/NN of/IN PSPs/NNP it/PRP plans/VBZ to/TO ship/VB by/IN year's/NNS end./NN
+
+Sony/NNP says/VBZ it/PRP intends/VBZ to/TO ship/VB three/CD million/CD of/IN the/DT consoles/NNS by/IN March/NNP 2005./CD
+The/DT company/NN is/VBZ hoping/VBG to/TO challenge/VB the/DT dominance/NN of/IN Nintendo/NNP in/IN the/DT handheld/JJ market./NN
+Nintendo/NNP released/VBD its/PRP$ new/JJ DS/NNP console/NN earlier/RBR this/DT year/NN and/CC has/VBZ already/RB raised/VBN shipment/NN targets/NNS for/IN the/DT device/NN by/IN 40%./CD
+The/DT PSP/NNP is/VBZ selling/VBG in/IN Japan/NNP for/IN 19800/CD yen/NNS ($188/CD £98)/CD while/IN Nintendo's/NNP DS/NNP console/NN sells/VBZ in/IN the/DT US/PRP and/CC Japan/NNP for/IN $150/CD (£78)./CD
+Nintendo's/NNP goal/NN is/VBZ to/TO ship/VB 5/CD million/CD of/IN its/PRP$ new/JJ Nintendo/NNP DS/NNP handheld/JJ consoles/NNS by/IN March/NNP 2005./CD

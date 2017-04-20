@@ -1,0 +1,18 @@
+Oscars/NNP race/NN enters/VBZ final/JJ furlong/NN
+
+The/DT race/NN for/IN the/DT Oscars/NNP entered/VBD its/PRP$ final/JJ stages/NNS as/IN the/DT deadline/NN for/IN voters/NNS to/TO choose/VB their/PRP$ winners/NNS passed./NN
+
+The/DT 5808/CD Academy/NNP voters/NNS had/VBD until/IN Tuesday/NNP afternoon/NN to/TO return/VB their/PRP$ ballots/NNS -/: any/DT late/JJ submissions/NNS will/MD not/RB be/VB included/VBN in/IN the/DT count./NN
+The/DT next/JJ five/CD days/NNS will/MD be/VB spent/VBN counting/VBG the/DT voting/NN forms/NNS and/CC preparing/VBG the/DT winners'/NN envelopes./NN
+Best/JJS actor/NN nominee/NN Leonardo/NNP DiCaprio/NNP is/VBZ to/TO present/VB a/DT statuette/NN for/IN the/DT first/JJ time/NN at/IN the/DT LA/NNP ceremony/NN on/IN Sunday./NNP
+
+The/DT 30-year-old/JJ actor/NN who/WP is/VBZ nominated/VBN for/IN playing/VBG Howard/NNP Hughes/NNP in/IN The/DT Aviator/NNP will/MD join/VB other/JJ hopefuls/NNS such/JJ as/IN co-star/JJ Cate/NNP Blanchett/NNP Natalie/NNP Portman/NNP and/CC Kate/NNP Winslet/NNP as/IN Oscar/NNP presenters./NN
+The/DT only/JJ people/NNS who/WP will/MD know/VB the/DT Oscar/NNP winners/NNS before/IN they/PRP are/VBP revealed/VBN at/IN the/DT ceremony/NN will/MD be/VB the/DT auditors/NNS who/WP are/VBP in/IN charge/NN of/IN looking/VBG after/IN the/DT ballot/NN count./NN
+
+After/IN collating/VBG the/DT results/NNS they/PRP are/VBP responsible/JJ for/IN sealing/VBG the/DT results/NNS in/IN the/DT famous/JJ golden/JJ envelopes/NNS which/WDT will/MD be/VB revealed/VBN by/IN a/DT host/NN of/IN celebrity/NN presenters/NNS at/IN the/DT ceremony./NN
+Former/NNP Academy/NNP Award/NN winners/NNS Gwyneth/NNP Paltrow/NNP Dustin/NNP Hoffman/NNP and/CC Halle/NNP Berry/NNP will/MD also/RB present/VB prizes./NN
+The/DT event/NN at/IN the/DT Kodak/NNP Theatre/NNP will/MD be/VB attended/VBN by/IN 3300/CD people/NNS including/VBG some/DT of/IN the/DT best-known/JJS names/NNS in/IN film/NN and/CC organisers/NNS say/VBP they/PRP expect/VBP it/PRP will/MD be/VB watched/VBN on/IN television/NN by/IN one/CD billion/CD people/NNS around/IN the/DT world./NN
+One/CD current/JJ concern/NN is/VBZ the/DT torrential/JJ rain/NN which/WDT has/VBZ lashed/VBN Los/NNP Angeles/NNP for/IN the/DT past/JJ week/NN flooding/VBG suburbs/NNS and/CC causing/VBG mudslides./NN
+It/PRP is/VBZ hoped/VBN the/DT forecast/NN for/IN Sunday/NNP for/IN cool/JJ weather/NN but/CC no/DT rain/NN will/MD prove/VB accurate./NN
+"The/NN last/JJ time/NN it/PRP rained/VBD on/IN Oscars/NNP night/NN was/VBD in/IN the/DT mid-to-late/JJ 1980s"/CD said/VBD Oscars/NNP communications/NNS director/NN John/NNP Pavlik./NNP
+"We/NN have/VBP had/VBN rain/NN up/RP until/IN the/DT day/NN before/IN the/DT show/NN many/JJ times/NNS but/CC for/IN some/DT reason/NN the/DT Oscar/NNP gods/NNS always/RB shine/VBP on/IN Sunday/NNP and/CC we/PRP hope/VBP they/PRP will/MD do/VB so/RB again/RB this/DT year"/NN he/PRP added./VB

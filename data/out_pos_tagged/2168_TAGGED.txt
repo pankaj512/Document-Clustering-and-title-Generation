@@ -1,0 +1,13 @@
+Virgin/NNP Radio/NNP offers/VBZ 3G/CD broadcast/NN
+
+UK/NNP broadcaster/NN Virgin/NNP Radio/NNP says/VBZ it/PRP will/MD become/VB the/DT first/JJ station/NN in/IN the/DT world/NN to/TO offer/VB radio/NN via/IN 3G/CD mobiles./NN
+
+The/DT radio/NN station/NN in/IN partnership/NN with/IN technology/NN firm/NN Sydus/NNP will/MD broadcast/VB on/IN selected/VBN 2G/CD and/CC high-speed/JJ 3G/CD networks./NN
+Later/RB this/DT year/NN listeners/NNS will/MD be/VB able/JJ to/TO download/VB software/NN from/IN the/DT Virgin/NNP website/NN which/WDT enables/VBZ the/DT service./NN
+James/NNP Cridland/NNP head/NN of/IN new/JJ media/NNS at/IN Virgin/NNP Radio/NNP said/VBD "It/NN places/NNS radio/NN at/IN the/DT heart/NN of/IN the/DT 3G/CD revolution."/NN Virgin/NNP Radio/NNP will/MD be/VB the/DT first/JJ station/NN made/VBD available/JJ followed/VBN by/IN two/CD digital/JJ stations/NNS Virgin/NNP Radio/NNP Classic/NNP Rock/NNP and/CC Virgin/NNP Radio/NNP Groove./NNP
+
+Mr/NNP Cridland/NNP said/VBD "This/NN application/NN will/MD enable/VB anyone/NN anywhere/RB to/TO listen/VB to/TO Virgin/NNP Radio/NNP simply/RB with/IN the/DT phone/NN in/IN their/PRP$ pocket./NN
+"This/NN allows/VBZ us/PRP to/TO tap/VB into/IN a/DT huge/JJ new/JJ audience/NN and/CC keep/VB radio/NN relevant/JJ for/IN a/DT new/JJ generation/NN of/IN listeners."/NN Saumil/NNP Nanavati/NNP president/NN of/IN Sydus/NNP said/VBD "This/NN radio/NN player/NN is/VBZ what/WP the/DT 3G/CD network/NN was/VBD built/VBN for/IN giving/VBG consumers/NNS high-quality/JJ and/CC high-data/JJ products/NNS through/IN a/DT handset/NN in/IN their/PRP$ pocket."/NN Virgin/NNP says/VBZ an/DT hour's/NNS listening/VBG to/TO the/DT station/NN via/IN mobile/JJ would/MD involve/VB about/IN 7.2MB/CD of/IN data/NNS which/WDT could/MD prove/VB expensive/JJ for/IN people/NNS using/VBG pay/NN as/IN you/PRP download/VBP GPRS/NNP or/CC 3G/CD services./NN
+Some/DT networks/NNS such/JJ as/IN Orange/NNP charge/NN up/IN to/TO £1/CD for/IN every/DT one/CD megabyte/NN of/IN data/NNS downloaded./NN
+Virgin/NNP says/VBZ radio/NN via/IN 2G/CD or/CC 3G/CD mobiles/NNS is/VBZ therefore/RB going/VBG to/TO appeal/VB to/TO people/NNS with/IN unlimited/JJ download/NN deals./NN
+There/EX are/VBP 30/CD compatible/JJ handsets/NNS available/JJ from/IN major/JJ manufacturers/NNS including/VBG Nokia/NNP and/CC Samsung/NNP while/IN Virgin/NNP said/VBD more/JJR than/IN 14.9/CD million/CD consumers/NNS across/IN the/DT globe/NN can/MD use/VB the/DT service/NN currently./NN

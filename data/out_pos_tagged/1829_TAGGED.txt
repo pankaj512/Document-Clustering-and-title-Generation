@@ -1,0 +1,42 @@
+Technology/NNP gets/VBZ the/DT creative/JJ bug/NN
+
+The/DT hi-tech/JJ and/CC the/DT arts/NNS worlds/NNS have/VBP for/IN some/DT time/NN danced/VBN around/IN each/DT other/JJ and/CC offered/VBN creative/JJ and/CC technical/JJ help/NN when/WRB required./NN
+
+Often/RB this/DT help/NN has/VBZ come/VBN in/IN the/DT form/NN of/IN corporate/JJ art/NN sponsorship/NN or/CC infrastructure/NN provision./NN
+But/CC that/DT dance/NN is/VBZ growing/VBG more/RBR intimate/JJ as/IN hi-tech/JJ firms/NNS look/VBP to/TO the/DT creative/JJ industries/NNS for/IN inspiration./NN
+And/CC vice/NN versa./NN
+UK/NNP telco/NN BT/NNP is/VBZ serious/JJ about/IN the/DT idea/NN and/CC has/VBZ launched/VBN its/PRP$ Connected/VBN World/NNP initiative./NN
+The/DT idea/NN says/VBZ BT/NNP is/VBZ to/TO shape/VB a/DT "21st/CD Century/NNP model"/NN which/WDT will/MD help/VB cement/VB the/DT art/NN technology/NN and/CC business/NN worlds/NNS together./NN
+"We/NN are/VBP hoping/VBG to/TO understand/VB the/DT creative/JJ industry/NN that/WDT has/VBZ a/DT natural/JJ thirst/NN for/IN broadband/NN technology"/NN said/VBD Frank/NNP Stone/NNP head/NN of/IN the/DT BT's/NNP business/NN sector/NN programmes./NN
+He/PRP looks/VBZ after/IN several/JJ "centres/NN of/IN excellence"/NN which/WDT the/DT telco/NN has/VBZ set/VBN up/RP with/IN other/JJ institutions/NNS and/CC organisations/NNS one/CD of/IN which/WDT is/VBZ focused/VBN on/IN creative/JJ industries./NN
+
+To/TO mark/VB the/DT initiative's/NNS launch/VBP a/DT major/JJ international/JJ art/NN installation/NN is/VBZ to/TO open/VB on/IN 15/CD April/NNP in/IN Brussels/NNP with/IN a/DT further/JJ exhibit/NN in/IN Madrid/NNP later/RB in/IN the/DT summer./NN
+They/PRP have/VBP both/DT been/VBN created/VBN using/VBG the/DT telco's/NNS technology/NN that/IN it/PRP has/VBZ been/VBN incubating/NN at/IN its/PRP$ research/NN and/CC development/NN arm/NN including/VBG a/DT sophisticated/JJ graphics/NNS rendering/NN program./NN
+Using/VBG a/DT 3D/CD graphics/NNS engine/VBP the/DT type/NN commonly/RB used/VBN in/IN gaming/NN Bafta-winning/NNP artists/NNS Langlands/NNP &/CC Bell/NNP have/VBP created/VBN a/DT virtual/JJ story-based/JJ 3D/CD model/NN of/IN Brussels'/NNP Coudenberg/NNP Cellars./NNP
+
+They/PRP have/VBP recently/RB been/VBN excavated/VBN and/CC are/VBP thought/VBN to/TO be/VB the/DT remnants/NNS of/IN Coudenberg/NNP Palace/NNP an/DT historical/JJ seat/NN of/IN European/JJ power./NN
+The/DT 3D/CD world/NN can/MD be/VB navigated/VBN using/VBG a/DT joystick/NN and/CC offers/VBZ an/DT immersive/JJ experience/NN of/IN a/DT landscape/NN that/IN historically/RB had/VBD a/DT river/NN running/VBG through/IN it/PRP until/IN it/PRP was/VBD bricked/VBN up/RP in/IN the/DT 19th/JJ Century./NNP
+"The/NN river/NN was/VBD integral/JJ to/TO the/DT city's/NNS survival/NN for/IN hundreds/NNS of/IN years/NNS and/CC it/PRP was/VBD equally/RB essential/JJ to/TO the/DT city/NN that/IN it/PRP disappeared"/NN said/VBD the/DT artists./NN
+"We/NN hope/NN that/IN by/IN uncovering/VBG the/DT river/NN we/PRP can/MD greater/JJR understand/VB the/DT connections/NNS between/IN the/DT past/JJ and/CC the/DT present/JJ and/CC appreciate/VB the/DT flow/NN of/IN modernity/NN once/RB concealing/VBG but/CC now/RB revealing/VBG the/DT River/NN Senne."/NNP In/IN their/PRP$ previous/JJ works/VBZ they/PRP used/VBD the/DT Quake/NN game/NN graphics/NNS engine./NN
+The/DT game/NN engine/NN is/VBZ the/DT core/NN component/NN of/IN a/DT video/NN game/NN because/IN it/PRP handles/VBZ graphics/NNS rendering/NN game/NN AI/VBP and/CC how/WRB objects/NNS behave/VBP and/CC relate/VBP to/TO each/DT other/JJ in/IN a/DT game./NN
+They/PRP are/VBP so/RB time-consuming/JJ and/CC expensive/JJ to/TO create/VB the/DT engines/NNS can/MD be/VB licensed/VBN out/RP to/TO handle/VB other/JJ graphics-intensive/JJ games./NN
+BT's/NNP own/JJ engine/NN Tara/NNP (Total/JJ Abstract/JJ Rendering/NN Architecture)/NNP has/VBZ been/VBN in/IN development/NN since/IN 2001/CD and/CC has/VBZ been/VBN used/VBN to/TO recreate/VB virtual/JJ interactive/JJ models/NNS of/IN buildings/NNS for/IN planners./NN
+It/PRP was/VBD also/RB used/VBN in/IN 2003/CD in/IN Encounter/VBP an/DT urban-based/JJ pervasive/JJ game/NN that/WDT combined/VBN both/DT virtual/JJ play/NN in/IN conjunction/NN with/IN physical/JJ on-the-street/JJ action./NN
+Because/IN the/DT artists/NNS wanted/VBD video/NN and/CC interactive/JJ elements/NNS in/IN their/PRP$ worlds/VBZ new/JJ features/NNS were/VBD added/VBN to/TO Tara/NNP in/IN order/NN to/TO handle/VB the/DT complex/JJ data/NN sets./NN
+But/CC collaboration/NN between/IN art/NN and/CC digital/JJ technology/NN is/VBZ by/IN no/DT means/NNS new/JJ and/CC many/JJ keen/JJ coders/NNS designers/NNS games/NNS makers/NNS and/CC animators/NNS argue/VBP that/IN what/WP they/PRP create/VBP is/VBZ art/NN itself./NN
+
+As/IN more/JJR tools/NNS for/IN self-expression/NN are/VBP given/VBN to/TO the/DT person/NN on/IN the/DT street/NN enabling/VBG people/NNS to/TO take/VB photos/NNS with/IN a/DT phone/NN and/CC upload/VB them/PRP to/TO the/DT web/NN for/IN instance/NN creativity/NN will/MD become/VB an/DT integral/JJ part/NN of/IN technology./NN
+The/DT Orange/NNP Expressionist/NNP exhibition/NN last/JJ year/NN for/IN example/NN displayed/VBN thousands/NNS of/IN picture/NN messages/NNS from/IN people/NNS all/DT over/IN the/DT UK/NNP to/TO create/VB an/DT interactive/JJ installation./NN
+
+Technology/NNP as/IN a/DT way/NN of/IN unleashing/VBG creativity/NN has/VBZ massive/JJ potential/JJ not/RB least/JJS because/IN it/PRP gives/VBZ people/NNS something/VBP to/TO do/VB with/IN their/PRP$ technology./NN
+Big/JJ businesses/NNS know/VBP it/PRP is/VBZ good/JJ for/IN them/PRP to/TO get/VB in/RP on/IN the/DT creative/JJ vein/NN too./NN
+The/DT art/NN world/NN is/VBZ "fantastically/RB rich"/NN said/VBD Mr/NNP Stone/NNP with/IN creative/JJ people/NNS and/CC ideas/NNS which/WDT means/VBZ traditional/JJ companies/NNS like/IN BT/NNP want/VBP to/TO get/VB in/IN with/IN them./NN
+Between/IN 1997/CD and/CC 2002/CD the/DT creative/JJ industry/NN brought/VBD £21/CD billion/CD to/TO London/NNP alone./NN
+It/PRP is/VBZ an/DT industry/NN that/WDT is/VBZ growing/VBG by/IN 6%/CD a/DT year/NN too./NN
+The/DT partnership/NN between/IN artists/NNS and/CC technologists/NNS is/VBZ part/NN of/IN trying/VBG to/TO understand/VB the/DT creative/JJ potential/NN of/IN technologies/NNS like/IN broadband/NN net/JJ according/NN to/TO Mr/NNP Stone./NNP
+"This/NN is/VBZ not/RB just/RB about/IN putting/VBG art/NN galleries/NNS and/CC museums/NNS online"/VBP he/PRP said./VB
+"It/NN is/VBZ about/IN how/WRB can/MD everyone/NN have/VB the/DT best/JJS seat/NN in/IN house/NN and/CC asking/VBG if/IN technology/NN has/VBZ a/DT role/NN in/IN solving/VBG that/DT problem."/NN With/IN broadband/NN penetration/NN reaching/VBG 100%/CD in/IN the/DT UK/NNP businesses/NNS with/IN a/DT stake/NN in/IN the/DT technology/NN want/VBP to/TO give/VB people/NNS reasons/NNS to/TO want/VB and/CC use/NN it./NN
+The/DT creative/JJ drive/NN is/VBZ not/RB purely/RB altruistic/JJ obviously./NN
+It/PRP is/VBZ about/IN both/DT industries/NNS borrowing/NN strategies/NNS and/CC creative/JJ ideas/NNS together/RB which/WDT can/MD result/VB in/IN better/JJR business/NN practices/NNS for/IN creative/JJ industries/NNS or/CC more/JJR patent/NN ideas/NNS for/IN tech/NN companies./NN
+"What/NN we/PRP are/VBP trying/VBG to/TO do/VB is/VBZ have/VB outside-in/JJ thinking./NN
+"We/NN are/VBP creating/VBG a/DT future/JJ cultural/JJ drive/NN for/IN the/DT economy"/NN said/VBD Mr/NNP Stone./NNP

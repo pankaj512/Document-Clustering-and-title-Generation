@@ -1,0 +1,17 @@
+Singer's/NNP film/NN to/TO show/VB at/IN festival/NN
+
+A/DT documentary/NN which/WDT takes/VBZ a/DT candid/JJ look/NN at/IN the/DT life/NN of/IN chart-topping/JJ singer/NN George/NNP Michael/NNP will/MD be/VB shown/VBN at/IN this/DT year's/NNS Berlin/NNP Film/NNP Festival./NNP
+
+A/DT Different/JJ Story/NNP will/MD screen/VB in/IN the/DT Panorama/NNP section/NN of/IN the/DT festival/NN which/WDT runs/VBZ from/IN 10-20/JJ February./NNP
+It/PRP features/VBZ the/DT singer/NN talking/VBG about/IN both/DT his/PRP$ career/NN and/CC his/PRP$ personal/JJ life/NN from/IN his/PRP$ days/NNS in/IN Wham/UH through/IN to/TO more/RBR recent/JJ events./NN
+Michael/NNP will/MD attend/VB the/DT festival/NN to/TO introduce/VB the/DT screening/NN on/IN 16/CD February./NNP
+Director/NNP Southan/NNP Morris/NNP and/CC executive/NN producer/NN Andy/NNP Stephens/NNP will/MD also/RB attend/VB the/DT festival./NN
+
+The/DT 93/CD minute/NN film/NN will/MD see/VB Michael/NNP discussing/VBG his/PRP$ early/JJ days/NNS in/IN Wham/UH along/IN with/IN his/PRP$ later/JJ career/NN including/VBG his/PRP$ legal/JJ battles/NNS with/IN record/NN label/NN Sony/NNP and/CC his/PRP$ stance/NN against/IN the/DT Iraq/NNP war/NN and/CC American/JJ politics./NN
+It/PRP will/MD also/RB touch/VB upon/IN his/PRP$ turbulent/JJ personal/JJ life/NN including/VBG his/PRP$ arrest/NN in/IN a/DT Beverly/NNP Hills/NNP park/NN toilet/NN in/IN 1998/CD for/IN "lewd/NN behaviour"/NN and/CC the/DT death/NN of/IN his/PRP$ boyfriend/NN Anselmo/NNP Feleppa/NNP from/IN Aids./NNP
+The/DT film/NN which/WDT includes/VBZ previously/RB unseen/JJ footage/NN of/IN the/DT singer/NN also/RB features/VBZ contributions/NNS from/IN Michael's/NNP former/JJ Wham/UH partner/NN Andrew/NNP Ridgeley/NNP as/RB well/RB as/IN ex-Wham/NN backing/NN singers/NNS Pepsi/NNP and/CC Shirlie./NNP
+Other/JJ contributors/NNS include/VBP Sting/NNP Mariah/NNP Carey/NNP Elton/NNP John/NNP Noel/NNP Gallagher/NNP Geri/NNP Halliwell/NNP and/CC Simon/NNP Cowell./NNP
+This/DT year's/VBZ festival/NN will/MD open/VB with/IN Man/NN To/TO Man/VB a/DT historical/JJ epic/NN starring/VBG Joseph/NNP Fiennes/NNP and/CC Kristin/NNP Scott-Thomas./NNP
+It/PRP will/MD be/VB one/CD of/IN 21/CD films/NNS competing/VBG for/IN the/DT festival's/NNS top/JJ prize/NN the/DT Golden/NNP Bear./NNP
+Other/JJ films/NNS in/IN competition/NN will/MD include/VB The/DT Life/NNP Aquatic/NNP a/DT quirky/JJ comedy/NN starring/VBG Bill/NNP Murray/NNP and/CC the/DT biopic/JJ Kinsey/NNP which/WDT features/NNS Liam/NNP Neeson./NNP
+The/DT full/JJ programme/NN will/MD be/VB announced/VBN on/IN 1/CD February./NNP

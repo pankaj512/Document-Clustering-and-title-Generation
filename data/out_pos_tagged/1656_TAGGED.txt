@@ -1,0 +1,18 @@
+England/NNP coach/NN faces/VBZ rap/NN after/IN row/NN
+
+England/NNP coach/NN Andy/NNP Robinson/NNP is/VBZ facing/VBG disciplinary/JJ action/NN after/IN criticising/VBG referee/NN Jonathan/NNP Kaplan/NNP in/IN his/PRP$ side's/NNS Six/CD Nations/NNPS defeat/NN to/TO Ireland./NNP
+
+The/DT Rugby/NNP Football/NNP Union/NNP (RFU)/NN will/MD investigate/VB Robinson/NNP after/IN deciding/VBG not/RB to/TO lodge/VB a/DT complaint/NN against/IN Kaplan./NNP
+Robinson/NNP may/MD even/RB have/VB to/TO apologise/VB for/IN his/PRP$ comments/NNS in/IN order/NN to/TO avoid/VB sanction/NN from/IN the/DT International/NNP Rugby/NNP Board./NNP
+Robinson/NNP had/VBD said/VBN he/PRP was/VBD "livid"/NN about/IN Kaplan's/NNP decisions/NNS on/IN Saturday/NNP to/TO disallow/JJ two/CD England/NNP "tries."/NN The/DT England/NNP coach/NN went/VBD on/IN to/TO claim/VB that/IN "only/RB one/CD side/NN was/VBD refereed"./NN
+
+After/IN reviewing/VBG tapes/NNS of/IN the/DT match/NN the/DT RFU/NNP decided/VBD not/RB to/TO formally/RB complain/VB to/TO the/DT IRB/NNP over/IN the/DT standard/NN of/IN Kaplan's/NNP refereeing./NN
+Instead/RB the/DT RFU/NNP said/VBD in/IN a/DT statement/NN they/PRP would/MD "set/VB out/RP any/DT concerns/NNS the/DT England/NNP team/NN management/NN may/MD have/VB in/IN a/DT confidential/JJ manner"./NN
+
+An/DT IRB/NNP spokesman/NN said/VBD on/IN the/DT matter/NN "We/NN take/NN all/DT breaches/NNS of/IN the/DT code/NN very/RB seriously./NN
+"Should/NN the/DT RFU/NNP resolve/VB the/DT issue/NN to/TO our/PRP$ satisfaction/NN as/IN happened/VBD last/JJ month/NN when/WRB the/DT Scotland/NNP coach/NN Matt/NNP Williams/NNP apologised/VBD for/IN remarks/NNS made/VBD it/PRP would/MD be/VB the/DT end/NN of/IN the/DT matter."/NN
+
+Kaplan/NNP has/VBZ vigorously/RB defended/VBN his/PRP$ performance/NN in/IN England's/NNP 19-13/JJ defeat/NN at/IN Landsdowne/NNP Road/NNP and/CC admitted/VBD he/PRP was/VBD "very/NN disappointed"/JJ with/IN Robinson's/NNP remarks./NN
+And/CC the/DT South/JJ African/JJ has/VBZ been/VBN appointed/VBN to/TO take/VB charge/NN of/IN Scotland's/NNP match/VB against/IN Wales/NNP on/IN 13/CD March./NNP
+
+The/DT RFU/NNP recently/RB fined/VBD Northampton/NNP coach/NN Budge/VB Pountney/NNP £2000/CD and/CC imposed/VBD a/DT six-week/JJ ban/NN for/IN his/PRP$ criticism/NN of/IN referee/NN Steve/NNP Lander/NNP after/IN a/DT Premiership/NN match./NN

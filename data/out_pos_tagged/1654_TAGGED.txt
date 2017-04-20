@@ -1,0 +1,14 @@
+Charvis/NNP set/VBD to/TO lose/VB fitness/NN bid/NN
+
+Flanker/NNP Colin/NNP Charvis/NNP is/VBZ unlikely/JJ to/TO play/VB any/DT part/NN in/IN Wales'/NNP final/JJ two/CD games/NNS of/IN the/DT Six/CD Nations./NNP
+
+Charvis/NNP has/VBZ missed/VBN all/DT three/CD of/IN Wales'/NNP victories/NNS with/IN an/DT ankle/NN injury/NN and/CC his/PRP$ recovery/NN has/VBZ been/VBN slower/JJR than/IN expected./NN
+"He/NN will/MD not/RB figure/VB in/IN the/DT Scotland/NNP game/NN and/CC is/VBZ now/RB thought/VBN unlikely/JJ to/TO be/VB ready/JJ for/IN the/DT final/JJ game"/NN said/VBD Wales/NNP physio/NN Mark/NNP Davies./NNP
+Sonny/NNP Parker/NNP is/VBZ continuing/VBG to/TO struggle/VB with/IN a/DT neck/NN injury/NN but/CC Hal/NNP Luscombe/NNP should/MD be/VB fit/VBN for/IN the/DT Murrayfield/NNP trip./NN
+Centre/NNP Parker/NNP has/VBZ only/RB a/DT "slim/NN chance"/NN of/IN being/VBG involved/VBN against/IN the/DT Scots/NNP on/IN 13/CD March/NNP so/RB Luscombe's/NNP return/NN to/TO fitness/NN after/IN missing/VBG the/DT France/NNP match/VB with/IN hamstring/VBG trouble/NN is/VBZ a/DT timely/JJ boost./NN
+
+Said/NNP Wales/NNP assistant/NN coach/NN Scott/NNP Johnson/NNP "We're/NN positive/JJ about/IN Hal/NNP and/CC hope/NN he'll/NN be/VB raring/JJ to/TO go./VB
+"He/NN comes/VBZ back/RB into/IN the/DT mix/NN again/RB adds/VBZ to/TO the/DT depth/NN and/CC gives/VBZ us/PRP other/JJ options./NN
+''/'' Replacement/NN hooker/NN Robin/NNP McBryde/NNP remains/VBZ a/DT doubt/NN after/IN picking/VBG up/RP knee/NN ligament/NN damage/NN in/IN Paris/NNP last/JJ Saturday./NNP
+"We're/NN getting/VBG that/WDT reviewed/VBD and/CC we/PRP should/MD know/VB more/JJR by/IN the/DT end/NN of/IN the/DT week/NN how/WRB Robin's/NNP looking"/NN added/VBD Johnson./NNP
+"We're/NN hopeful/JJ but/CC it's/NNS too/RB early/JJ to/TO say/VB at/IN this/DT stage."/NN Steve/NNP Jones/NNP from/IN the/DT Dragons/NNP is/VBZ likely/JJ to/TO be/VB drafted/VBN in/IN if/IN McBryde/NNP fails/VBZ to/TO recover./VB

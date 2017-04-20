@@ -1,0 +1,26 @@
+Protesters/NNS plan/NN airport/NN challenge/NN
+
+Campaigners/NNP against/IN the/DT expansion/NN of/IN Britain's/NNP airports/NNS have/VBP begun/VBN challenging/VBG the/DT government's/NNS plans/NNS in/IN the/DT High/NNP Court./NNP
+
+BAA's/NNP expansion/NN of/IN Stansted/NNP Airport/NNP in/IN Essex/NNP by/IN building/VBG an/DT extra/JJ runway/NN is/VBZ one/CD of/IN the/DT most/RBS fiercely/RB opposed/VBN plans./NN
+Opponents/NNS say/VBP the/DT £2bn/CD cost/NN of/IN the/DT new/JJ runway/NN could/MD not/RB be/VB met/VBN unless/IN cash/NN from/IN Heathrow/NNP and/CC Gatwick/NNP was/VBD used./NN
+They/PRP said/VBD this/DT is/VBZ illegal/JJ under/IN current/JJ rules/NNS and/CC are/VBP trying/VBG to/TO block/VB the/DT government/NN from/IN changing/VBG legislation./NN
+BAA/NNS are/VBP also/RB owners/NNS of/IN the/DT airports/NNS at/IN Heathrow/NNP and/CC Gatwick./NNP
+They/PRP have/VBP said/VBN they/PRP cannot/VBP raise/VBP the/DT money/NN needed/VBN for/IN the/DT Stansted/NNP upgrades/NNS from/IN current/JJ landing/NN charges./NN
+BAA/NNP also/RB says/VBZ it/PRP has/VBZ attempted/VBN to/TO involve/VB communities/NNS in/IN any/DT future/JJ airport/NN plans./NN
+
+Groups/NNS challenging/VBG the/DT plans/NNS include/VBP Stop/VB Stansted/NNP Expansion/NN Heathrow/NNP anti-noise/JJ campaigners/NNS HACAN/NNP Clearskies/NNP and/CC the/DT London/NNP boroughs/NNS of/IN Hillingdon/NNP and/CC Wandsworth./NNP
+Their/PRP$ opponents/NNS are/VBP also/RB likely/JJ to/TO complain/VB there/EX was/VBD no/DT public/JJ consultation/NN before/IN an/DT extra/JJ runway/NN was/VBD built/VBN at/IN Luton/NNP Airport/NNP or/CC when/WRB it/PRP changed/VBD take-off/JJ and/CC landing/NN procedures/NNS at/IN Heathrow./NNP
+If/IN the/DT group/NN wins/VBZ the/DT government's/NNS future/JJ aviation/NN plans/NNS outlined/VBN in/IN last/JJ year's/NNS transport/NN White/NNP Paper/NNP could/MD be/VB left/VBN in/IN ruins./NN
+
+The/DT campaigners/NNS will/MD say/VB the/DT government/NN did/VBD not/RB adequately/RB consider/VB the/DT building/NN of/IN new/JJ airports/NNS such/JJ as/IN one/CD planned/VBN for/IN the/DT Isle/NNP of/IN Sheppey/NNP east/JJ of/IN London./NNP
+Lord/NNP Hanningfield/NNP leader/NN of/IN Essex/NNP County/NNP Council/NNP told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN programme/NN "We/NN are/VBP going/VBG to/TO the/DT High/NNP Court/NNP because/IN we/PRP want/VBP a/DT judge/NN to/TO rule/VB there/EX should/MD be/VB a/DT proper/JJ inquiry./NN
+"We/NN want/VBP a/DT judge/NN to/TO say/VB there/EX has/VBZ been/VBN inadequate/JJ preparation/NN consultation/NN and/CC thought/VBD before/IN the/DT government/NN came/VBD out/RP with/IN its/PRP$ Green/NNP Paper./NNP
+"Then/NN there/EX could/MD be/VB a/DT proper/JJ debate/NN nationally/RB about/IN where/WRB this/DT extra/JJ capacity/NN should/MD go."/VB He/PRP added/VBD "Politicians/NN should/MD not/RB decide/VB where/WRB runways/NNS should/MD be."/VB The/DT Stansted/NNP expansion/NN apart/RB from/IN the/DT building/NN of/IN the/DT new/JJ runway/NN would/MD also/RB need/VB to/TO include/VB new/JJ terminal/NN buildings/NNS to/TO deal/VB with/IN the/DT projected/VBN 50m/CD passengers/NNS who/WP will/MD use/VB it/PRP every/DT year./NN
+
+The/DT airport/NN is/VBZ the/DT hub/NN of/IN many/JJ of/IN the/DT no-frills/JJ airlines/NNS operating/VBG in/IN the/DT UK./NNP
+But/CC BAA/NNP has/VBZ said/VBN it/PRP has/VBZ attempted/VBN to/TO involve/VB communities/NNS in/IN any/DT future/JJ airport/NN plans./NN
+At/IN Heathrow/NNP Gatwick/NNP Edinburgh/NNP and/CC Glasgow/NNP airports/NNS BAA/NNP launched/VBD a/DT series/NN of/IN consultations/NNS on/IN blight/NN to/TO properties/NNS from/IN the/DT proposed/VBN expansion/NN in/IN September/NNP 2004/CD which/WDT will/MD close/VB next/JJ week./NN
+BAA/NNP is/VBZ also/RB offering/NN to/TO buy/VB noise-hit/JJ properties/NNS for/IN an/DT index-linked/JJ unblighted/VBN price./NN
+At/IN Heathrow/NNP BAA/NNP said/VBD it/PRP was/VBD working/VBG closely/RB with/IN all/DT interested/JJ parties/NNS to/TO see/VB how/WRB the/DT strict/JJ environmental/JJ air/NN quality/NN and/CC noise/NN targets/NNS for/IN a/DT third/JJ runway/NN can/MD be/VB met./NN
+At/IN Gatwick/NNP the/DT company/NN has/VBZ written/VBN to/TO homes/NNS and/CC business/NN likely/JJ to/TO be/VB affected/VBN by/IN any/DT extra/JJ runway./NN

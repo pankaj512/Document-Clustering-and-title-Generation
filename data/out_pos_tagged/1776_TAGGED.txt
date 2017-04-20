@@ -1,0 +1,11 @@
+Prodigy/NNP Monfils/NNP blows/NNS away/RB Gaudio/NNP
+
+French/JJ prodigy/NN Gael/NNP Monfils/NNP underlined/VBD his/PRP$ huge/JJ promise/NN by/IN beating/VBG French/JJ Open/NNP champion/NN Gaston/NNP Gaudio/NNP 6-4/JJ 7-6/JJ (7-4)/NN in/IN the/DT first/JJ round/NN of/IN the/DT Qatar/NNP Open./NNP
+
+The/DT 18-year-old/JJ wild/JJ card/NN won/VBD three/CD of/IN the/DT four/CD junior/JJ Grand/NNP Slam/NNP events/NNS last/JJ year/NN including/VBG Wimbledon./NNP
+Fabrice/NNP Santoro/NNP the/DT 2000/CD champion/NN beat/VB Sweden's/NNP Thomas/NNP Johansson/NNP 6-4/JJ 6-2/JJ but/CC fourth/JJ seed/NN Mikhail/NNP Youzhny/NNP lost/VBD 6-3/JJ 7-6/JJ (7-3)/JJ to/TO Rafael/NNP Nadal./NNP
+Roger/NNP Federer/NNP plays/VBZ Greg/NNP Rusedski/NNP in/IN the/DT second/JJ round/NN on/IN Wednesday./NNP
+Monfils/NNP who/WP was/VBD given/VBN a/DT wildcard/NN into/IN the/DT tournament/NN said/VBD "This/NN is/VBZ my/PRP$ first/JJ win/NN over/IN a/DT top/JJ 10/CD player/NN and/CC I/PRP am/VBP delighted./NN
+"I/NN play/NN my/PRP$ best/JJS tennis/NN when/WRB I/PRP am/VBP fired/VBN up/RP on/IN the/DT court/NN and/CC the/DT reason/NN I/PRP won/VBD today/NN was/VBD because/IN I/PRP was/VBD able/JJ to/TO play/VB my/PRP$ natural/JJ attacking/NN game"/NN he/PRP said./VB
+"Of/NN course/NN I/PRP was/VBD a/DT bit/NN tired/JJ in/IN the/DT second/JJ set./NN
+But/CC I/PRP was/VBD confident/JJ I/PRP could/MD survive/VB had/VB there/EX been/VBN a/DT third/JJ set."/NN

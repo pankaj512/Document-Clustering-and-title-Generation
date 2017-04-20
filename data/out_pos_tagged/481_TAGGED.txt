@@ -1,0 +1,24 @@
+Christmas/NN sales/NNS worst/JJS since/IN 1981/CD
+
+UK/NNP retail/JJ sales/NNS fell/VBD in/IN December/NNP failing/VBG to/TO meet/VB expectations/NNS and/CC making/VBG it/PRP by/IN some/DT counts/VBZ the/DT worst/JJS Christmas/NNP since/IN 1981./CD
+
+Retail/JJ sales/NNS dropped/VBN by/IN 1%/CD on/IN the/DT month/NN in/IN December/NNP after/IN a/DT 0.6%/CD rise/NN in/IN November/NNP the/DT Office/NNP for/IN National/NNP Statistics/NNPS (ONS)/NN said./NN
+The/DT ONS/NNP revised/VBD the/DT annual/JJ 2004/CD rate/NN of/IN growth/NN down/RP from/IN the/DT 5.9%/CD estimated/VBN in/IN November/NNP to/TO 3.2%./CD
+A/DT number/NN of/IN retailers/NNS have/VBP already/RB reported/VBN poor/JJ figures/NNS for/IN December./NNP
+Clothing/NN retailers/NNS and/CC non-specialist/JJ stores/NNS were/VBD the/DT worst/JJS hit/VBD with/IN only/RB internet/JJ retailers/NNS showing/VBG any/DT significant/JJ growth/NN according/VBG to/TO the/DT ONS./NNP
+
+The/DT last/JJ time/NN retailers/NNS endured/VBD a/DT tougher/JJR Christmas/NNP was/VBD 23/CD years/NNS previously/RB when/WRB sales/NNS plunged/VBD 1.7%./CD
+
+The/DT ONS/NNP echoed/VBD an/DT earlier/JJR caution/NN from/IN Bank/NNP of/IN England/NNP governor/NN Mervyn/NNP King/NNP not/RB to/TO read/VB too/RB much/JJ into/IN the/DT poor/JJ December/NNP figures./NN
+Some/DT analysts/NNS put/VBP a/DT positive/JJ gloss/NN on/IN the/DT figures/NNS pointing/VBG out/RP that/IN the/DT non-seasonally-adjusted/JJ figures/NNS showed/VBD a/DT performance/NN comparable/JJ with/IN 2003./CD
+The/DT November-December/NNP jump/NN last/JJ year/NN was/VBD roughly/RB comparable/JJ with/IN recent/JJ averages/NNS although/IN some/DT way/NN below/IN the/DT serious/JJ booms/NNS seen/VBN in/IN the/DT 1990s./CD
+And/CC figures/NNS for/IN retail/JJ volume/NN outperformed/VBN measures/NNS of/IN actual/JJ spending/NN an/DT indication/NN that/IN consumers/NNS are/VBP looking/VBG for/IN bargains/NNS and/CC retailers/NNS are/VBP cutting/VBG their/PRP$ prices./NN
+
+However/RB reports/NNS from/IN some/DT High/NNP Street/NNP retailers/NNS highlight/VBP the/DT weakness/NN of/IN the/DT sector./NN
+Morrisons/NNP Woolworths/NNP House/NNP of/IN Fraser/NNP Marks/NNP &/CC Spencer/NNP and/CC Big/NNP Food/NNP all/DT said/VBD that/IN the/DT festive/JJ period/NN was/VBD disappointing./JJ
+
+And/CC a/DT British/JJ Retail/JJ Consortium/NNP survey/NN found/VBD that/IN Christmas/NNP 2004/CD was/VBD the/DT worst/JJS for/IN 10/CD years./NN
+Yet/RB other/JJ retailers/NNS -/: including/VBG HMV/NNP Monsoon/NN Jessops/NNP Body/NN Shop/NNP and/CC Tesco/NNP -/: reported/VBD that/IN festive/JJ sales/NNS were/VBD well/RB up/IN on/IN last/JJ year./NN
+Investec/NNP chief/NN economist/NN Philip/NNP Shaw/NNP said/VBD he/PRP did/VBD not/RB expect/VB the/DT poor/JJ retail/JJ figures/NNS to/TO have/VB any/DT immediate/JJ effect/NN on/IN interest/NN rates./NN
+"The/NN retail/JJ sales/NNS figures/NNS are/VBP very/RB weak/JJ but/CC as/IN Bank/NNP of/IN England/NNP governor/NN Mervyn/NNP King/NNP indicated/VBD last/JJ night/NN you/PRP don't/VBP really/RB get/VB an/DT accurate/JJ impression/NN of/IN Christmas/NNP trading/NN until/IN about/IN Easter"/NNP said/VBD Mr/NNP Shaw./NNP
+"Our/NN view/NN is/VBZ the/DT Bank/NNP of/IN England/NNP will/MD keep/VB its/PRP$ powder/NN dry/JJ and/CC wait/VB to/TO see/VB the/DT big/JJ picture."/NN

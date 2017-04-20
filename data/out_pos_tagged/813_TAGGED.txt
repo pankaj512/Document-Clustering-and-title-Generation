@@ -1,0 +1,22 @@
+Film/NN production/NN 'falls'/NN 40%/CD in/IN UK/NNP
+
+The/DT number/NN of/IN British/JJ films/NNS produced/VBN in/IN the/DT UK/NNP fell/VBD 40%/CD in/IN 2004/CD with/IN movies/NNS starring/VBG Johnny/NNP Depp/NNP and/CC Jude/NNP Law/NNP among/IN those/DT affected/VBN Screen/NN Daily/NNP has/VBZ said./NN
+
+Twenty-seven/NNP British/JJ films/NNS were/VBD made/VBN in/IN the/DT UK/NNP last/JJ year/NN following/VBG a/DT drop/NN in/IN funding/NN compared/VBN with/IN 45/CD in/IN 2003/CD according/VBG to/TO the/DT trade/NN weekly./NN
+It/PRP attributed/VBD the/DT drop/NN to/TO tighter/JJR tax/NN laws/NNS and/CC reduced/JJ funding/NN from/IN sources/NNS such/JJ as/IN the/DT National/NNP Lottery./NNP
+UK/NNP and/CC US/PRP co-productions/VBZ in/IN Britain/NNP fell/VBD from/IN 102/CD in/IN 2003/CD to/TO 81/CD last/JJ year./NN
+
+Last/JJ year/NN the/DT government/NN closed/VBD tax/NN loopholes/NNS that/IN many/JJ film/NN investors/NNS had/VBD taken/VBN advantage/NN of/IN to/TO fund/VB films/NNS in/IN the/DT UK./NNP
+Several/JJ projects/NNS were/VBD shelved/JJ as/IN they/PRP faced/VBD the/DT implications/NNS of/IN this/DT clampdown/NN coupled/VBN with/IN the/DT reduction/NN in/IN movie/NN funding/NN from/IN traditional/JJ sources/NNS including/VBG the/DT lottery/NN and/CC Miramax/NNP Films./NNP
+Shooting/VBG on/IN period/NN drama/NN Tulip/NN Fever/NN which/WDT was/VBD to/TO star/VB Jude/NNP Law/NNP and/CC Keira/NNP Knightley/NNP was/VBD postponed/VBN indefinitely/RB while/IN shooting/NN of/IN The/DT Libertine/NNP starring/VBG Johnny/NNP Depp/NNP was/VBD moved/VBN to/TO the/DT Isle/NNP of/IN Man./NNP
+
+"There/NN isn't/NN anything/NN coming/VBG in/RP to/TO replace/VB (the/NN funds)"/NN said/VBD The/DT Libertine's/NNP executive/NN producer/NN Marc/NNP Samuelson./NNP
+"We/NN are/VBP in/IN a/DT hiatus."/NN Films/NNS with/IN "medium"/NN budgets/NNS of/IN up/IN to/TO £9m/CD a/DT similar/JJ level/NN to/TO box/VB office/NN hits/NNS Vera/NNP Drake/NNP Calendar/NN Girls/NNS and/CC Enduring/VBG Love/NNP are/VBP expected/VBN to/TO be/VB worst/JJS hit/VBN by/IN the/DT tax/NN clampdown./NN
+The/DT strength/NN of/IN the/DT pound/NN against/IN the/DT dollar/NN is/VBZ expected/VBN to/TO have/VB resulted/VBN in/IN a/DT fall/NN in/IN the/DT number/NN of/IN US/PRP films/VBZ shot/NN in/IN the/DT UK/NNP during/IN 2004/CD Screen/NNP International/NNP added./NN
+Big/JJ budget/NN co-productions/NNS such/JJ as/IN the/DT Harry/NNP Potter/NNP series/NN continued/VBD to/TO be/VB shot/NN in/IN the/DT UK/NNP however./NN
+The/DT UK/NNP Film/NNP Council/NNP said/VBD the/DT drop/NN was/VBD partly/RB due/JJ to/TO 2003/CD being/VBG an/DT especially/RB good/JJ year/NN for/IN British/JJ film/NN production/NN when/WRB Bridget/NNP Jones/NNP The/DT Edge/NNP of/IN Reason/NN Wimbledon/NNP and/CC Thunderbirds/NNP were/VBD all/DT filmed/VBN in/IN the/DT UK./NNP
+
+"The/NN drop/NN was/VBD expected/VBN as/IN there/EX was/VBD no/DT way/NN 2003's/CD record/NN level/NN of/IN production/NN could/MD be/VB bettered"/NN the/DT council's/NNS spokesperson/NN said./NN
+"The/NN reduction/NN in/IN indigenous/JJ film/NN production/NN in/IN 2004/CD was/VBD due/JJ to/TO a/DT variety/NN of/IN factors/NNS including/VBG the/DT continuing/VBG long-term/JJ trend/NN towards/IN co-production/NN of/IN films/NNS in/IN more/JJR than/IN one/CD country/NN and/CC changes/NNS to/TO financing/VB arrangements."/NN It/PRP was/VBD "too/NN early"/NN to/TO predict/VB whether/IN the/DT downward/JJ trend/NN in/IN UK/NNP production/NN would/MD continue/VB throughout/IN 2005/CD the/DT UK/NNP Film/NNP Council/NNP said./NN
+In/IN September/NNP the/DT government/NN introduced/VBD subsidies/NNS worth/JJ up/IN to/TO £4m/CD per/IN film/NN for/IN medium/NN budget/NN films/NNS under/IN new/JJ Treasury/NNP measures./NN
+It/PRP is/VBZ also/RB due/JJ to/TO announce/VB a/DT replacement/NN for/IN UK/NNP film/NN tax/NN relief/NN scheme/NN Section/NN 48/CD in/IN July./NNP

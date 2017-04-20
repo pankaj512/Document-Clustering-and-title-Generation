@@ -1,0 +1,9 @@
+Curbishley/NNP delight/NN for/IN Johansson/NNP
+
+Charlton/NNP manager/NN Alan/NNP Curbishley/NNP paid/VBD tribute/NN to/TO two-goal/JJ striker/NN Jonatan/NNP Johansson/NNP after/IN beating/VBG Norwich./NNP
+
+Curbishley/NNP said/VBD after/IN the/DT 4-0/JJ win/NN "There/NN was/VBD talk/VB about/IN Norwich/NNP being/VBG interested/JJ in/IN the/DT summer/NN but/CC I/PRP have/VBP a/DT lot/NN of/IN faith/NN in/IN Jonatan./NNP
+"When/NN there/EX was/VBD talk/NN of/IN other/JJ clubs/NNS I/PRP just/RB told/VBD him/PRP he/PRP was/VBD going/VBG nowhere./NN
+"He's/NN part/NN of/IN our/PRP$ squad/NN and/CC he/PRP got/VBD us/PRP a/DT couple/NN of/IN important/JJ goals/NNS early/RB on./NN
+I'm/NNP sure/JJ he's/NNS happy/JJ here/RB but/CC I/PRP was/VBD delighted/JJ with/IN all/PDT the/DT players."/NN Curbishley/NNP was/VBD subjected/VBN to/TO criticism/NN from/IN Charlton/NNP fans/NNS recently/RB and/CC he/PRP said/VBD "The/NN thing/NN about/IN this/DT club/NN is/VBZ that/IN we/PRP have/VBP got/VBN where/WRB we/PRP are/VBP by/IN all/DT pulling/NN in/IN the/DT same/JJ direction./NN
+"That's/NN happened/VBD for/IN however/RB long/JJ I've/NNP been/VBN here/RB and/CC we/PRP don't/VBP want/VBP people/NNS taking/VBG sides."/NN

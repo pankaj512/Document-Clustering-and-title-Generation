@@ -1,0 +1,12 @@
+Applegate's/NNP Charity/NN show/NN closes/VBZ
+
+US/PRP musical/VBD Sweet/JJ Charity/NN has/VBZ cancelled/VBN its/PRP$ run/NN on/IN Broadway/NNP after/IN poor/JJ ticket/NN sales/NNS for/IN its/PRP$ early/JJ shows./NN
+
+Star/NNP Christina/NNP Applegate/NNP had/VBD to/TO pull/VB out/IN of/IN pre-Broadway/JJ performances/NNS earlier/RBR this/DT month/NN with/IN a/DT broken/VBN foot./NN
+Producer/NNP Barry/NNP Weissler/NNP said/VBD he/PRP was/VBD "deeply/RB proud"/NN of/IN the/DT show/NN but/CC said/VBD the/DT decision/NN to/TO close/VB it/PRP was/VBD "painful/JJ but/CC fiscally/RB responsible"./NN
+Applegate/NNP who/WP starred/VBD in/IN TV/NN comedy/NN Married/JJ With/IN Children/NNP had/VBD been/VBN hoping/VBG to/TO make/VB her/PRP$ Broadway/NNP debut/NN in/IN the/DT show./NN
+The/DT 33-year-old/JJ injured/VBD herself/PRP while/IN performing/VBG in/IN Chicago/NNP and/CC had/VBD been/VBN hoping/VBG to/TO recover/VB in/IN time/NN for/IN its/PRP$ official/NN New/NNP York/NNP opening/NN on/IN 21/CD April./NNP
+She/PRP had/VBD received/VBN mixed/JJ reviews/NNS for/IN performances/NNS in/IN Minneapolis/NNP and/CC Chicago./NNP
+Previews/NNS of/IN the/DT $7.5m/CD (£4m)/CD show/NN were/VBD due/JJ to/TO begin/VB on/IN 4/CD April./NNP
+Sweet/JJ Charity/NN tells/VBZ the/DT story/NN of/IN Charity/NN Hope/NNP Valentine/NNP a/DT dancer/NN who/WP always/RB falls/VBZ in/IN love/NN with/IN the/DT wrong/JJ man./NN
+It/PRP was/VBD first/RB performed/VBN on/IN Broadway/NNP in/IN 1966/CD with/IN Gwen/NNP Verdon/NNP in/IN the/DT title/NN role/NN while/IN Shirley/NNP MacLaine/NNP starred/VBD in/IN the/DT 1969/CD film/NN version./NN

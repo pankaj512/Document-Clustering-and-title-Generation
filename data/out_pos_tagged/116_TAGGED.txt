@@ -1,0 +1,15 @@
+Japan/NNP bank/NN shares/NNS up/RP on/IN link/NN talk/NN
+
+Shares/NNS of/IN Sumitomo/NNP Mitsui/NNP Financial/NNP (SMFG)/NN and/CC Daiwa/NNP Securities/NNPS jumped/VBD amid/IN speculation/NN that/IN two/CD of/IN Japan's/NNP biggest/JJS financial/JJ companies/NNS will/MD merge./VB
+
+Financial/NNP newspaper/NN Nihon/NNP Keizai/NNP Shimbun/NNP claimed/VBD that/IN the/DT firms/NNS will/MD join/VB up/RP next/JJ year/NN and/CC already/RB have/VBP held/VBN discussions/NNS with/IN Japanese/JJ regulators./NN
+The/DT firms/NNS denied/VBD that/IN they/PRP are/VBP about/IN to/TO link/VB up/RB but/CC said/VBD they/PRP are/VBP examining/VBG ways/NNS of/IN working/VBG more/RBR closely/RB together./NN
+SMFG/NNP shares/NNS climbed/VBN by/IN 2.7%/CD to/TO 717000/CD and/CC Daiwa/NNP added/VBD 5.3%/CD to/TO 740/CD yen./NN
+
+Combining/VBG SMFG/NNP Japan's/NNP third-biggest/JJ lender/NN and/CC Daiwa/NNP the/DT country's/NNS second-largest/JJ brokerage/NN firm/NN would/MD create/VB a/DT company/NN with/IN assets/NNS of/IN more/JJR than/IN $1000bn/CD (£537bn)./CD
+SMFG/NNP President/NNP Yoshifumi/NNP Nishikawa/NNP said/VBD that/IN the/DT companies/NNS needed/VBN to/TO bolster/VB their/PRP$ businesses./NN
+"Both/NN companies/NNS need/VBP to/TO strengthen/VB retail/JJ and/CC other/JJ operations"/NN he/PRP said/VBD adding/VBG that/DT "it's/NN an/DT issue/NN we/PRP have/VBP in/IN common"./NN
+Daiwa/NNP said/VBD that/WDT "although/NN it/PRP is/VBZ true/JJ that/IN the/DT two/CD groups/NNS have/VBP been/VBN engaging/VBG in/IN various/JJ discussions/NNS to/TO enhance/VB cooperation/NN there/EX are/VBP no/DT plans/NNS to/TO enter/VB into/IN negotiations/NNS to/TO consolidate/VB the/DT two/CD businesses"./NN
+Analysts/NNS said/VBD that/DT consolidation/NN in/IN Japan's/NNP financial/JJ sector/NN was/VBD likely/JJ to/TO continue/VB and/CC that/IN it/PRP was/VBD likely/JJ to/TO have/VB a/DT positive/JJ impact/NN on/IN earnings./NN
+"Cross-selling/JJ opportunities/NNS between/IN banks/NNS and/CC brokers/NNS are/VBP increasing/VBG thanks/NNS to/TO deregulation/VB so/IN we/PRP can/MD expect/VB the/DT relationship/NN to/TO get/VB even/RB stronger"/NN said/VBD Heronry/NNP Nozaki/NNP an/DT analyst/NN at/IN NikkoCitigroup./NNP
+The/DT merger/NN "would/NN be/VB a/DT good/JJ move"/NN he/PRP added./VB

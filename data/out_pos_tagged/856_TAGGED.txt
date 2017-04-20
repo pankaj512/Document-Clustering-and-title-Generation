@@ -1,0 +1,21 @@
+Abba/NNP queen/NN enters/VBZ music/NN rich/JJ list/NN
+
+The/DT woman/NN behind/IN the/DT Abba/NNP musical/JJ Mamma/NNP Mia/NNP has/VBZ joined/VBN a/DT list/NN of/IN British-based/JJ music/NN millionaires./NN
+
+Producer/NNP Judy/NNP Craymer/NNP is/VBZ the/DT highest/JJS new/JJ entry/NN in/IN the/DT Sunday/NNP Times'/NNP music/NN rich/JJ list/NN with/IN a/DT £67m/CD fortune./NN
+Ms/NNP Craymer/NNP remortgaged/VBD her/PRP$ home/NN to/TO finance/VB her/PRP$ idea/NN of/IN a/DT musical/JJ based/VBN around/IN Abba's/NNP hits/NNS which/WDT has/VBZ since/IN become/VBP a/DT global/JJ triumph./NN
+Teenage/JJ soul/NN singer/NN Joss/NNP Stone/NNP is/VBZ a/DT new/JJ entry/NN on/IN a/DT list/NN of/IN Britain's/NNP young/JJ music/NN millionaires/NNS with/IN £5m./CD
+
+Ms/NNP Craymer/NNP who/WP developed/VBD Mamma/NNP Mia/NNP with/IN playwright/NN Catherine/NNP Johnson/NNP and/CC members/NNS of/IN Abba/NNP is/VBZ at/IN number/NN 31/CD on/IN the/DT music/NN rich/JJ list./NN
+But/CC taking/VBG the/DT top/JJ spot/NN for/IN a/DT second/JJ year/NN is/VBZ former/JJ record/NN label/NN boss/NN Clive/NNP Calder/NNP whose/WP$ wealth/NN has/VBZ risen/VBN to/TO £1.3bn./CD
+Mr/NNP Calder/NNP is/VBZ the/DT man/NN behind/IN acts/NNS including/VBG Britney/NNP Spears./NNP
+He/PRP made/VBD his/PRP$ fortune/NN by/IN selling/VBG his/PRP$ independent/JJ label/NN Zomba/NNP to/TO record/VB giant/NN BMG./NNP
+Former/NNP Beatle/NNP Sir/NNP Paul/NNP McCartney/NNP is/VBZ second/JJ on/IN the/DT list/NN with/IN £800m/CD -/: up/RP £40m/CD on/IN last/JJ year./NN
+Andrew/NNP Lloyd-Webber's/NNP wealth/NN rose/VBD an/DT estimated/JJ £300m/CD on/IN last/JJ year/NN to/TO £700m/CD while/IN theatre/FW impresario/NN Sir/NNP Cameron/NNP Mackintosh's/NNP fortune/NN rose/VBD from/IN £340m/CD to/TO £400m./CD
+
+His/PRP$ recent/JJ hits/NNS have/VBP included/VBN the/DT West/NNP End/NN show/NN Mary/NNP Poppins./NNP
+But/CC Pop/NN Idol/NNP mogul/NN Simon/NNP Fuller/NNP has/VBZ seen/VBN his/PRP$ wealth/NN plummet/NN from/IN £220m/CD last/JJ year/NN to/TO £75m/CD after/IN selling/VBG his/PRP$ entertainment/NN company/NN 19/CD for/IN less/JJR than/IN expected/VBN according/VBG to/TO the/DT Sunday/NNP Times./NNP
+Joss/NNP Stone/NNP the/DT 17-year-old/JJ soul/NN singer/NN from/IN Devon/NNP was/VBD a/DT new/JJ entry/NN in/IN the/DT young/JJ music/NN millionaires/NNS list./NN
+The/DT list/NN also/RB features/VBZ Charlotte/NNP Church/NNP Coldplay/NNP Daniel/NNP Bedingfield/NNP Will/MD Young/NNP and/CC David/NNP and/CC Victoria/NNP Beckham./NNP
+At/IN number/NN one/CD is/VBZ Dhani/NNP Harrison/NNP son/NN of/IN the/DT late/JJ Beatle/NNP George/NNP Harrison/NNP who/WP has/VBZ inherited/VBN £140m./CD
+The/DT Beckhams/NNP -/: who/WP qualify/VBP thanks/NNS to/TO Victoria's/NNP former/JJ singing/NN career/NN -/: are/VBP in/IN second/JJ place/NN with/IN £75/CD million/CD between/IN them/PRP -/: up/RP £10m/CD on/IN last/JJ year./NN

@@ -1,0 +1,18 @@
+Ocean's/NNP Twelve/CD raids/NNS box/NN office/NN
+
+Ocean's/NNP Twelve/CD the/DT crime/NN caper/NN sequel/NN starring/VBG George/NNP Clooney/NNP Brad/NNP Pitt/NNP and/CC Julia/NNP Roberts/NNP has/VBZ gone/VBN straight/JJ to/TO number/VB one/CD in/IN the/DT US/PRP box/VBP office/NN chart./NN
+
+It/PRP took/VBD $40.8m/CD (£21m)/CD in/IN weekend/NN ticket/NN sales/NNS according/VBG to/TO studio/NN estimates./NN
+The/DT sequel/NN follows/VBZ the/DT master/NN criminals/NNS as/IN they/PRP try/VBP to/TO pull/VB off/RP three/CD major/JJ heists/NNS across/IN Europe./NNP
+It/PRP knocked/VBD last/JJ week's/NNS number/NN one/CD National/NNP Treasure/NNP into/IN third/JJ place./NN
+Wesley/NNP Snipes'/NNP Blade/NNP Trinity/NNP was/VBD in/IN second/JJ taking/NN $16.1m/CD (£8.4m)./CD
+Rounding/VBG out/RP the/DT top/JJ five/CD was/VBD animated/VBN fable/JJ The/DT Polar/NNP Express/NNP starring/VBG Tom/NNP Hanks/NNP and/CC festive/JJ comedy/NN Christmas/NNP with/IN the/DT Kranks./NNP
+
+Ocean's/NNP Twelve/CD box/NN office/NN triumph/NN marks/VBZ the/DT fourth-biggest/JJ opening/NN for/IN a/DT December/NNP release/NN in/IN the/DT US/PRP after/IN the/DT three/CD films/NNS in/IN the/DT Lord/NNP of/IN the/DT Rings/NNS trilogy./NN
+The/DT sequel/NN narrowly/RB beat/VB its/PRP$ 2001/CD predecessor/NN Ocean's/NNP Eleven/CD which/WDT took/VBD $38.1m/CD (£19.8m)/CD on/IN its/PRP$ opening/NN weekend/NN and/CC $184m/CD (£95.8m)/CD in/IN total./NN
+A/DT remake/NN of/IN the/DT 1960s/NNS film/NN starring/VBG Frank/NNP Sinatra/NNP and/CC the/DT Rat/NN Pack/NN Ocean's/NNP Eleven/CD was/VBD directed/VBN by/IN Oscar-winning/NNP director/NN Steven/NNP Soderbergh./NNP
+Soderbergh/NN returns/NNS to/TO direct/VB the/DT hit/NN sequel/NN which/WDT reunites/NNS Clooney/NNP Pitt/NNP and/CC Roberts/NNP with/IN Matt/NNP Damon/NNP Andy/NNP Garcia/NNP and/CC Elliott/NNP Gould./NNP
+Catherine/NNP Zeta-Jones/NNP joins/VBZ the/DT all-star/JJ cast./NN
+"It's/NN just/RB a/DT fun/NN good/JJ holiday/NN movie"/NN said/VBD Dan/NNP Fellman/NNP president/NN of/IN distribution/NN at/IN Warner/NNP Bros./NNP
+However/RB US/PRP critics/VBZ were/VBD less/JJR complimentary/NN about/IN the/DT $110m/CD (£57.2m)/CD project/NN with/IN the/DT Los/NNP Angeles/NNP Times/NNP labelling/VBG it/PRP a/DT "dispiriting/VBG vanity/NN project"./NN
+A/DT milder/NN review/NN in/IN the/DT New/NNP York/NNP Times/NNP dubbed/VBD the/DT sequel/NN "unabashedly/RB trivial"./NN

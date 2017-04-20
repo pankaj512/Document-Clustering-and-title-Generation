@@ -1,0 +1,14 @@
+Sydney/NN to/TO host/VB north/RB v/NN south/RB game/NN
+
+Sydney/NNP will/MD host/VB a/DT northern/JJ versus/CC southern/JJ hemisphere/NN charity/NN match/NN in/IN June/NNP or/CC July/NNP the/DT Australian/NNP Rugby/NNP Union/NNP (ARU)/NN said/VBD on/IN Wednesday./NNP
+
+The/DT match/NN will/MD include/VB players/NNS from/IN the/DT Lions/NNP tour/NN of/IN New/NNP Zealand./NNP
+"The/NN Australian/NNP Rugby/NNP Union/NNP has/VBZ thrown/VBN its/PRP$ support/NN behind/IN a/DT proposed/VBN North-South/JJ match/NN to/TO raise/VB funds/NNS for/IN the/DT tsunami/NN appeals"/NN the/DT ARU/NNP said./NN
+The/DT date/NN is/VBZ yet/RB to/TO be/VB decided/VBN but/CC the/DT most/RBS likely/JJ venue/NN is/VBZ Sydney's/NNP Olympic/NNP Stadium./NNP
+ARU/NNP chief/NN executive/NN Gary/NNP Flowers/NNS said/VBD the/DT world/NN cricket/NN charity/NN match/NN in/IN Melbourne/NNP earlier/RBR this/DT month/NN had/VBD inspired/VBN the/DT ARU./NNP
+"We/NN still/RB need/VBP to/TO discuss/VB the/DT options/NNS with/IN the/DT IRB/NNP (International/JJ Rugby/NNP Board)/NNP the/DT Lions/NNP and/CC our/PRP$ SANZAR/NNP (South/NN Africa/NNP New/NNP Zealand/NNP and/CC Australia/NNP Rugby)/NNP partners/NNS but/CC June/NNP or/CC July/NNP is/VBZ seen/VBN as/IN a/DT better/JJR option/NN than/IN March/NNP to/TO ensure/VB we/PRP have/VBP the/DT cream/NN of/IN southern/JJ hemisphere/NN rugby/NN available"/NN he/PRP said./VB
+Wallabies/NNP captain/NN George/NNP Gregan/NNP said/VBD the/DT charity/NN match/NN was/VBD a/DT "great/NN initiative"./NN
+Tri-Nations/NNP rivals/NNS Australia/NNP New/NNP Zealand/NNP and/CC South/NNP Africa/NNP would/MD feature/VB prominently/RB in/IN a/DT southern/JJ team/NN against/IN a/DT northern/JJ side/NN comprised/VBN of/IN Six/CD Nations/NNPS teams/NNS France/NNP Ireland/NNP England/NNP Wales/NNP Italy/NNP and/CC Scotland./NNP
+Coach/VB Clive/NNP Woodward's/NNP Lions/NNP squad/NN will/MD tour/VB New/NNP Zealand/NNP in/IN June/NNP and/CC July/NNP including/VBG Tests/NNS on/IN 25/CD June/NNP 2/CD and/CC 9/CD July./NNP
+
+Almost/RB 80000/CD fans/NNS packed/VBN into/IN Melbourne/NNP Cricket/NN Ground/NNP on/IN 10/CD January/NNP for/IN a/DT charity/NN match/NN that/WDT raised/VBD £5.9m/CD for/IN victims/NNS of/IN the/DT Asian/JJ tsunami./NN

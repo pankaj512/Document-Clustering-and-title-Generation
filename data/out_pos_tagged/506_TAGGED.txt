@@ -1,0 +1,15 @@
+Trial/NNP begins/VBZ of/IN Spain's/NNP top/JJ banker/NN
+
+The/DT trial/NN of/IN Emilio/NNP Botin/NNP the/DT chairman/NN of/IN Spain's/NNP most/RBS powerful/JJ bank/NN Santander/NNP Central/NNP Hispano/NNP has/VBZ started/VBN in/IN Madrid./NNP
+
+Mr/NNP Botin/NNP is/VBZ accused/VBN of/IN misusing/VBG the/DT bank's/NNS funds/NNS after/IN he/PRP approved/VBD the/DT payment/NN of/IN 160m/CD euros/NNS ($208m/CD £111m)/CD in/IN bonus/NN and/CC pension/NN payouts/NNS to/TO two/CD former/JJ executives./NN
+However/RB the/DT trial/NN was/VBD suspended/VBN when/WRB Mr/NNP Botin's/NNP lawyer/NN introduced/VBD a/DT new/JJ set/NN of/IN documents/NNS on/IN the/DT day/NN testimony/NN was/VBD set/VBN to/TO begin./VB
+A/DT three-judge/JJ panel/NN gave/VBD prosecution/NN lawyers/NNS until/IN Monday/NNP to/TO study/VB the/DT documents/NNS when/WRB the/DT trial/NN will/MD be/VB reconvened./NN
+
+The/DT high-profile/JJ case/NN began/VBD after/IN two/CD Santander/NNP shareholders/NNS filed/VBD a/DT criminal/JJ complaint/NN about/IN the/DT payments/NNS to/TO Jose/NNP Maria/NNP Amusategui/NNP and/CC Angel/NNP Corcostegui/NNP who/WP stepped/VBD down/RB in/IN 2001./CD
+Both/DT executives/NNS helped/VBD Mr/NNP Botin/NNP orchestrate/NN Spain's/NNP biggest/JJS bank/NN merger/NN between/IN Santander/NNP and/CC Banco/NNP Central/NNP Hispano/NNP in/IN 1999./CD
+As/IN he/PRP arrived/VBD at/IN Spain's/NNP High/NNP Court/NNP earlier/RBR on/IN Wednesday/NNP Mr/NNP Botin/NNP greeted/VBD the/DT waiting/VBG media/NNS saying/VBG "I/NN have/VBP full/JJ faith/NN in/IN justice."/NN Santander's/NNP board/NN of/IN governors/NNS strongly/RB reject/VBP the/DT charges/NNS against/IN their/PRP$ chairman/NN saying/VBG the/DT payouts/NNS were/VBD legal/JJ and/CC made/JJ with/IN their/PRP$ unanimous/JJ support./NN
+But/CC if/IN convicted/VBN Mr/NNP Botin/NNP could/MD face/VB a/DT prison/NN term/NN of/IN up/IN to/TO six/CD years./NN
+Mr/NNP Corcostegui/NNP a/DT former/JJ CEO/NNP at/IN Santander/NNP also/RB asked/VBD the/DT court/NN for/IN new/JJ evidence/NN to/TO be/VB admitted./NN
+In/IN spite/NN of/IN the/DT allegations/NNS against/IN him/PRP Mr/NNP Botin/NNP continues/VBZ to/TO lead/VB Santander/NNP and/CC was/VBD instrumental/JJ in/IN the/DT £8.5bn/CD takeover/NN last/JJ November/NNP of/IN the/DT British/JJ bank/NN Abbey/NNP National./NNP
+Since/IN taking/VBG over/RP the/DT chairmanship/NN in/IN 1986/CD he/PRP has/VBZ turned/VBN Santander/NNP into/IN one/CD of/IN the/DT top/JJ ten/NN biggest/JJS banks/NNS in/IN the/DT world./NN

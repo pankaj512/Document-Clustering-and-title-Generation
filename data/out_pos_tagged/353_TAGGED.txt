@@ -1,0 +1,53 @@
+Giant/NN waves/NNS damage/NN S/NNP Asia/NNP economy/NN
+
+Governments/NNS aid/NN agencies/NNS insurers/NNS and/CC travel/NN firms/NNS are/VBP among/IN those/DT counting/VBG the/DT cost/NN of/IN the/DT massive/JJ earthquake/NN and/CC waves/NNS that/WDT hammered/VBD southern/JJ Asia./NNP
+
+The/DT worst-hit/JJ areas/NNS are/VBP Sri/NNP Lanka/NNP India/NNP Indonesia/NNP and/CC Thailand/NNP with/IN at/IN least/JJS 23000/CD people/NNS killed./VBP
+Early/RB estimates/NNS from/IN the/DT World/NNP Bank/NNP put/VBD the/DT amount/NN of/IN aid/NN needed/VBN at/IN about/IN $5bn/CD (£2.6bn)/CD similar/JJ to/TO the/DT cash/NN offered/VBN Central/NNP America/NNP after/IN Hurricane/NNP Mitch./NNP
+Mitch/NNP killed/VBD about/IN 10000/CD people/NNS and/CC caused/VBN damage/NN of/IN about/IN $10bn/CD in/IN 1998./CD
+World/NNP Bank/NNP spokesman/NN Damien/NNP Milverton/NNP told/VBD the/DT Wall/NNP Street/NNP Journal/NNP that/IN he/PRP expected/VBD an/DT aid/NN package/NN of/IN financing/NN and/CC debt/NN relief./NN
+
+Tourism/NNP is/VBZ a/DT vital/JJ part/NN of/IN the/DT economies/NNS of/IN the/DT stricken/JJ countries/NNS providing/VBG jobs/NNS for/IN 19/CD million/CD people/NNS in/IN the/DT south/RB east/JJ Asian/JJ region/NN according/VBG to/TO the/DT World/NNP Travel/NNP and/CC Tourism/NNP Council/NNP (WTTC)./NN
+In/IN the/DT Maldives/NNP islands/NNS in/IN the/DT Indian/JJ ocean/NN two-thirds/NNS of/IN all/DT jobs/NNS depend/VBP on/IN tourism./NN
+
+But/CC the/DT damage/NN covers/VBZ fishing/NN farming/VBG and/CC businesses/NNS too/RB with/IN hundreds/NNS of/IN thousands/NNS of/IN buildings/NNS and/CC small/JJ boats/NNS destroyed/VBN by/IN the/DT waves./NN
+International/JJ agencies/NNS have/VBP pledged/VBN their/PRP$ support/NN most/JJS say/VBP it/PRP is/VBZ impossible/JJ to/TO gauge/VB the/DT extent/NN of/IN the/DT damage/NN yet./NN
+The/DT International/NNP Monetary/NNP Fund/NNP (IMF)/NN has/VBZ promised/VBN rapid/JJ action/NN to/TO help/VB the/DT governments/NNS of/IN the/DT stricken/JJ countries/NNS cope./NN
+
+"The/NNP IMF/NNP stands/VBZ ready/JJ to/TO do/VB its/PRP$ part/NN to/TO assist/VB these/DT nations/NNS with/IN appropriate/JJ support/NN in/IN their/PRP$ time/NN of/IN need"/NN said/VBD managing/VBG director/NN Rodrigo/NNP Rato./NNP
+Only/RB Sri/NNP Lanka/NNP and/CC Bangladesh/NNP currently/RB receive/VBP IMF/NNP support/NN while/IN Indonesia/NNP the/DT quake's/NNS epicentre/NN has/VBZ recently/RB graduated/VBN from/IN IMF/NNP assistance./NN
+It/PRP is/VBZ up/IN to/TO governments/NNS to/TO decide/VB if/IN they/PRP want/VBP IMF/NNP help./NN
+Other/JJ agencies/NNS such/JJ as/IN the/DT Asian/NNP Development/NNP Bank/NNP have/VBP said/VBN that/IN it/PRP is/VBZ too/RB early/JJ to/TO comment/VB on/IN the/DT amount/NN of/IN aid/NN needed./NN
+There/EX is/VBZ no/DT underestimating/VBG the/DT size/NN of/IN the/DT problem/NN however./NN
+The/DT United/NNP Nations'/NNP emergency/NN relief/NN coordinator/NN Jan/NNP Egeland/NNP said/VBD that/DT "this/NN may/MD be/VB the/DT worst/JJS national/JJ disaster/NN in/IN recent/JJ history/NN because/IN it/PRP is/VBZ affecting/VBG so/RB many/JJ heavily/RB populated/VBN coastal/JJ areas.../NN
+so/RB many/JJ vulnerable/JJ communities./NN
+"Many/NN people/NNS will/MD have/VB [had]/VBP their/PRP$ livelihoods/VBZ their/PRP$ whole/JJ future/JJ destroyed/VBN in/IN a/DT few/JJ seconds."/NN He/PRP warned/VBD that/DT "the/NN longer/RB term/NN effects/NNS many/JJ be/VB as/RB devastating/JJ as/IN the/DT tidal/JJ wave/NN or/CC the/DT tsunami/NN itself"/NN because/IN of/IN the/DT risks/NNS of/IN epidemics/NNS from/IN polluted/JJ drinking/NN water./NN
+
+Insurers/NNS are/VBP also/RB struggling/VBG to/TO assess/VB the/DT cost/NN of/IN the/DT damage/NN but/CC several/JJ big/JJ players/NNS believe/VBP the/DT final/JJ bill/NN is/VBZ likely/JJ to/TO be/VB less/JJR than/IN the/DT $27bn/CD cost/NN of/IN the/DT hurricanes/NNS that/WDT battered/VBD the/DT US/PRP earlier/RBR this/DT year./NN
+
+"The/NN region/NN that's/NNS affected/VBN is/VBZ very/RB big/JJ so/IN we/PRP have/VBP to/TO check/VB country-by-country/JJ what/WP the/DT situation/NN is"/NN said/VBD Serge/NNP Troeber/NNP deputy/NN head/NN of/IN the/DT natural/JJ disasters/NNS department/NN at/IN Swiss/NNP Re/NNP the/DT world's/NNS second/JJ biggest/JJS reinsurance/NN firm./NN
+"I/NN should/MD assume/VB however/RB that/IN the/DT overall/JJ dimension/NN of/IN insured/JJ damages/NNS is/VBZ below/IN the/DT storm/NN damages/NNS of/IN the/DT US"/NNP he/PRP said./VB
+Munich/NNP Re/NNP the/DT world's/NNS biggest/JJS reinsurer/NN said/VBD "This/NN is/VBZ primarily/RB a/DT human/JJ tragedy./NN
+It/PRP is/VBZ too/RB early/RB for/IN us/PRP to/TO state/VB what/WP our/PRP$ financial/JJ burden/NN will/MD be."/VB Allianz/NNP has/VBZ said/VBN it/PRP sees/VBZ no/DT significant/JJ impact/NN on/IN its/PRP$ profitability./NN
+However/RB a/DT low/JJ insurance/NN bill/NN may/MD simply/RB reflect/VB the/DT general/JJ poverty/NN of/IN much/JJ of/IN the/DT region/NN rather/RB than/IN the/DT level/NN of/IN economic/JJ devastation/NN for/IN those/DT who/WP live/VBP there./NN
+
+The/DT International/NNP Federation/NNP of/IN the/DT Red/NNP Cross/NNP and/CC Red/NNP Crescent/NNP Societies/NNS told/VBD the/DT Reuters/NNP news/NN agency/NN that/IN it/PRP was/VBD seeking/VBG $6.5m/CD for/IN emergency/NN aid./NN
+
+"The/NN biggest/JJS health/NN challenges/NNS we/PRP face/VBP is/VBZ the/DT spread/NN of/IN waterborne/NN diseases/NNS particularly/RB malaria/VBP and/CC diarrhoea"/VB the/DT aid/NN agency/NN was/VBD quoted/VBN as/IN saying./NN
+The/DT European/NNP Union/NNP has/VBZ said/VBD it/PRP will/MD deliver/VB 3m/CD euros/NNS (£2.1m/CD $4.1m)/CD of/IN aid/NN according/VBG to/TO the/DT Wall/NNP Street/NNP Journal./NNP
+The/DT EU's/NNP Humanitarian/JJ Aid/NNP Commissioner/NNP Louis/NNP Michel/NNP was/VBD quoted/VBN as/IN saying/VBG that/IN it/PRP was/VBD key/NN to/TO bring/VB aid/NN "in/NN those/DT vital/JJ hours/NNS and/CC days/NNS immediately/RB after/IN the/DT disaster"./JJ
+Other/JJ countries/NNS also/RB are/VBP reported/VBN to/TO have/VB pledged/VBN cash/NN while/IN the/DT US/PRP State/NNP Department/NNP said/VBD it/PRP was/VBD examining/VBG what/WP aid/NN was/VBD needed/VBN in/IN the/DT region./NN
+Getting/VBG companies/NNS and/CC business/VB up/RB and/CC running/VBG also/RB may/MD play/VB a/DT vital/JJ role/NN in/IN helping/VBG communities/NNS recover/VB from/IN the/DT weekend's/NNS events./NN
+
+Many/JJ of/IN the/DT worst-hit/JJ areas/NNS such/JJ as/IN Sri/NNP Lanka/NNP Thailand's/NNP Phuket/NNP island/NN and/CC the/DT Maldives/NNP are/VBP popular/JJ tourist/NN resorts/NNS that/WDT are/VBP key/NN to/TO local/JJ economies./NN
+
+December/NNP and/CC January/NNP are/VBP two/CD of/IN the/DT busiest/JJS months/NNS for/IN the/DT travel/NN in/IN southern/JJ Asia/NNP and/CC the/DT damage/NN will/MD be/VB even/RB more/RBR keenly/RB felt/VBD as/IN the/DT industry/NN was/VBD only/RB just/RB beginning/VBG to/TO emerge/VB from/IN a/DT post/NN 9/11/CD slump./NN
+Growth/NN has/VBZ been/VBN rapid/JJ in/IN southeast/NN Asia/NNP with/IN the/DT World/NNP Tourism/NNP Organisation/NNP figures/NNS showing/VBG a/DT 45%/CD increase/NN in/IN tourist/NN revenues/NNS in/IN the/DT region/NN during/IN the/DT first/JJ 10/CD months/NNS of/IN 2004./CD
+In/IN southern/JJ Asia/NNP that/DT expansion/NN is/VBZ 23%./CD
+"India/NN continues/VBZ to/TO post/VB excellent/JJ results/NNS thanks/NNS to/TO increased/VBN promotion/NN and/CC product/NN development/NN but/CC also/RB to/TO the/DT upsurge/NN in/IN business/NN travel/NN driven/VBN by/IN the/DT rapid/JJ economic/JJ development/NN of/IN the/DT country"/NN the/DT WTO/NNP said./NN
+"Arrivals/NN to/TO other/JJ destinations/NNS such/JJ as.../NN
+Maldives/NNP and/CC Sri/NNP Lanka/NNP also/RB thrived."/NN In/IN Thailand/NNP tourism/NN accounts/VBZ for/IN about/IN 6%/CD of/IN the/DT country's/NNS annual/JJ gross/JJ domestic/JJ product/NN or/CC about/IN $8bn./CD
+In/IN Singapore/NNP the/DT figure/NN is/VBZ close/RB to/TO 5%./CD
+Tourism/NNP also/RB brings/VBZ in/IN much/JJ needed/VBN foreign/JJ currency./NN
+In/IN the/DT short-term/JJ however/RB travel/NN companies/NNS are/VBP cancelling/VBG flights/NNS and/CC trips./NN
+That/DT has/VBZ hit/VBN shares/NNS across/IN Asia/NNP and/CC Europe/NNP with/IN investors/NNS saying/VBG that/IN earnings/NNS and/CC economic/JJ growth/NN are/VBP likely/JJ to/TO slow./VB

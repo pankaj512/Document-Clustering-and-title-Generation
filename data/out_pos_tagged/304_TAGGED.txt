@@ -1,0 +1,16 @@
+Bombardier/NNP chief/NN to/TO leave/VB company/NN
+
+Shares/NNS in/IN train/NN and/CC plane-making/JJ giant/JJ Bombardier/NNP have/VBP fallen/VBN to/TO a/DT 10-year/JJ low/JJ following/NN the/DT departure/NN of/IN its/PRP$ chief/JJ executive/NN and/CC two/CD members/NNS of/IN the/DT board./NN
+
+Paul/NNP Tellier/NNP who/WP was/VBD also/RB Bombardier's/NNP president/NN left/VBD the/DT company/NN amid/IN an/DT ongoing/JJ restructuring./NN
+Laurent/NNP Beaudoin/NNP part/NN of/IN the/DT family/NN that/WDT controls/VBZ the/DT Montreal-based/JJ firm/NN will/MD take/VB on/RP the/DT role/NN of/IN CEO/NNP under/IN a/DT newly/RB created/VBN management/NN structure./NN
+Analysts/NNS said/VBD the/DT resignations/NNS seem/VBP to/TO have/VB stemmed/VBN from/IN a/DT boardroom/NN dispute./JJ
+Under/IN Mr/NNP Tellier's/NNP tenure/NN at/IN the/DT company/NN which/WDT began/VBD in/IN January/NNP 2003/CD plans/NNS to/TO cut/VB the/DT worldwide/NN workforce/NN of/IN 75000/CD by/IN almost/RB a/DT third/JJ by/IN 2006/CD were/VBD announced./NN
+The/DT firm's/NNS snowmobile/NN division/NN and/CC defence/NN services/NNS unit/NN were/VBD also/RB sold/VBN and/CC Bombardier/NNP started/VBD the/DT development/NN of/IN a/DT new/JJ aircraft/NN seating/NN 110/CD to/TO 135/CD passengers./NN
+
+Mr/NNP Tellier/NNP had/VBD indicated/VBN he/PRP wanted/VBD to/TO stay/VB at/IN the/DT world's/NNS top/JJ train/NN maker/NN and/CC third/JJ largest/JJS manufacturer/NN of/IN civil/JJ aircraft/NN until/IN the/DT restructuring/NN was/VBD complete./NN
+But/CC Bombardier/NNP has/VBZ been/VBN faced/VBN with/IN a/DT declining/VBG share/NN price/NN and/CC profits./NN
+Earlier/RBR this/DT month/NN the/DT firm/NN said/VBD it/PRP earned/VBD $10m/CD (£19.2m)/CD in/IN the/DT third/JJ quarter/NN down/RP from/IN a/DT profit/NN of/IN $133m/CD a/DT year/NN ago./NN
+"I/NN understand/VBP the/DT board's/NNS concern/NN that/IN I/PRP would/MD not/RB be/VB there/RB for/IN the/DT long-term/JJ and/CC the/DT need/NN to/TO develop/VB and/CC execute/VB strategies/NNS and/CC the/DT need/NN to/TO reshape/VB the/DT management/NN structure/NN at/IN this/DT time"/NN Mr/NNP Tellier/NNP said/VBD in/IN a/DT statement/NN on/IN Monday./NNP
+Bombardier/NNP said/VBD restructuring/NN plans/NNS drawn/VBD up/RP by/IN Mr/NNP Tellier's/NNP would/MD continue/VB to/TO be/VB implemented./NN
+Shares/NNS in/IN Bombardier/NNP lost/VBD 65/CD Canadian/JJ cents/NNS or/CC 25%/CD on/IN the/DT news/NN to/TO 1.90/CD Canadian/JJ dollars/NNS before/IN rallying/VBG to/TO 2.20/CD Canadian/JJ dollars./NN

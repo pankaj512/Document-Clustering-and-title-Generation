@@ -1,0 +1,13 @@
+Gatlin/NNP and/CC Hayes/NNP win/VBP Owen/NNP awards/NNS
+
+American/NNP Olympic/NNP stars/NNS Justin/NNP Gatlin/NNP and/CC Joanna/NNP Hayes/NNP have/VBP been/VBN named/VBN the/DT winners/NNS of/IN the/DT 2004/CD Jesse/NNP Owens/NNP Awards/NNS USA/NNP Track/NNP &/CC Field's/NNP (USATF)/NN top/JJ honour./NN
+
+Gatlin/NNP 22/CD won/VBD the/DT closest/JJS 100m/CD final/JJ in/IN Games/NNPS history/NN with/IN a/DT career-best/JJ time/NN of/IN 9.85/CD seconds/NNS in/IN Athens./NNP
+He/PRP also/RB won/VBD bronze/NN in/IN the/DT 200m/CD and/CC silver/NN in/IN the/DT 4x100m/CD relay/NN becoming/VBG the/DT only/JJ male/JJ athlete/NN to/TO win/VB three/CD athletics/NNS medals/NNS this/DT summer./NN
+Hayes/NNP 27/CD set/VBD an/DT Olympic/NNP record/NN of/IN 12.37/CD in/IN winning/VBG the/DT 100m/CD hurdles./NN
+Established/VBN in/IN 1981/CD the/DT Jesse/NNP Owens/NNP Awards/NNS -/: named/VBN in/IN honour/NN of/IN the/DT late/JJ Olympic/NNP great/NN who/WP won/VBD four/CD gold/NN medals/NNS at/IN the/DT 1936/CD Berlin/NNP Games/NNPS -/: are/VBP presented/VBN annually/RB to/TO the/DT outstanding/JJ US/PRP male/JJ and/CC female/JJ track/NN and/CC field/NN performers./NN
+
+The/DT 2004/CD awards/NNS will/MD be/VB presented/VBN on/IN 3/CD December/NNP in/IN conjunction/NN with/IN the/DT USATF/NNP annual/JJ meeting/NN in/IN Portland./NNP
+"It/NN is/VBZ such/JJ a/DT great/JJ honour/NN to/TO win/VB the/DT Jesse/NNP Owens/NNP Award"/NNP said/VBD Gatlin./NNP
+"It/NN is/VBZ one/CD of/IN the/DT biggest/JJS honours/NNS in/IN track/NN and/CC field/NN and/CC it/PRP is/VBZ a/DT great/JJ end/NN to/TO a/DT great/JJ year./NN
+''/'' Hayes/NNP said/VBD "Knowing/VBG some/DT of/IN the/DT great/JJ people/NNS who/WP have/VBP won/VBN this/DT award/NN before/IN me/PRP and/CC knowing/VBG what/WP it/PRP represents/VBZ I/PRP feel/VBP a/DT sense/NN accomplishment/NN and/CC pride/NN which/WDT lets/VBZ me/PRP know/VBP that/DT everything/NN that/IN I/PRP have/VBP worked/VBN for/IN is/VBZ and/CC always/RB will/MD be/VB worth/JJ it."/NN

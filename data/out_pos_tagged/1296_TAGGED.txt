@@ -1,0 +1,39 @@
+Ex-PM/NNP Lord/NNP Callaghan/NNP dies/VBZ aged/VBN 92/CD
+
+Former/NNP Labour/NNP prime/JJ minister/NN Lord/NNP Callaghan/NNP has/VBZ died/VBN on/IN the/DT eve/NN of/IN his/PRP$ 93rd/CD birthday./NN
+
+He/PRP passed/VBD away/RB at/IN home/NN in/IN East/NNP Sussex/NNP just/RB 11/CD days/NNS after/IN his/PRP$ wife/NN Audrey/NNP died/VBD aged/VBN 91./CD
+Lord/NNP Callaghan/NNP who/WP leaves/VBZ a/DT son/NN and/CC two/CD daughters/NNS was/VBD the/DT longest/JJS living/VBG former/JJ British/NNP PM/NNP in/IN history./NN
+He/PRP entered/VBD Downing/NNP Street/NNP in/IN 1976/CD after/IN the/DT resignation/NN of/IN Harold/NNP Wilson./NNP
+Prime/NNP Minister/NNP Tony/NNP Blair/NNP called/VBD him/PRP a/DT "giant"/NN of/IN the/DT Labour/NNP movement./NN
+He/PRP held/VBD each/DT of/IN the/DT major/JJ offices/NNS of/IN chancellor/NN home/NN secretary/NN foreign/JJ secretary/NN and/CC prime/JJ minister/NN during/IN his/PRP$ career/NN and/CC became/VBD Lord/NNP Callaghan/NNP of/IN Cardiff/NNP in/IN 1987./CD
+
+Chancellor/NNP Gordon/NNP Brown/NNP said/VBD the/DT former/JJ PM/NNP would/MD be/VB "mourned/VBN throughout/IN the/DT world"./NN
+"It/NN was/VBD a/DT commitment/NN to/TO public/JJ service/NN that/WDT brought/VBD Jim/NNP Callaghan/NNP into/IN Parliament/NNP in/IN 1945/CD and/CC while/IN Jim/NNP rose/VBD to/TO the/DT top/JJ he/PRP never/RB forgot/VBD his/PRP$ roots."/NN Former/NNP cabinet/NN colleague/NN Lord/NNP Hattersley/NNP said/VBD his/PRP$ first/JJ reaction/NN on/IN hearing/NN the/DT news/NN was/VBD "immense/NN sadness"./NN
+
+"It/NN was/VBD not/RB a/DT major/JJ surprise/NN -/: I/PRP knew/VBD what/WP a/DT blow/NN the/DT death/NN of/IN his/PRP$ wife/NN Audrey/NNP was/VBD a/DT few/JJ days/NNS ago"/VBP he/PRP said./VB
+"He/NN was/VBD a/DT decent/JJ kindly/RB man/NN who/WP helped/VBD me/PRP and/CC my/PRP$ generation/NN of/IN politicians/NNS immensely./NN
+
+"The/NNP Labour/NNP party/NN and/CC the/DT country/NN will/MD be/VB poorer/JJR without/IN him."/NN Conservative/JJ peer/NN Lord/NNP Heseltine/NNP said/VBD that/IN despite/IN their/PRP$ political/JJ differences/NNS he/PRP and/CC Lord/NNP Callaghan/NNP became/VBD friends./NN
+"You/NN don't/NN get/NN to/TO the/DT premiership/NN unless/IN you/PRP have/VBP a/DT streak/NN of/IN determination"/NN he/PRP said./VB
+"But/NN I/PRP saw/VBD the/DT other/JJ side/NN of/IN Jim/NNP Callaghan/NNP he/PRP became/VBD a/DT personal/JJ friend/NN in/IN a/DT way/NN and/CC my/PRP$ family/NN and/CC I/PRP were/VBD very/RB fond/JJ of/IN him."/NN Tory/NNP leader/NN Michael/NNP Howard/NNP said/VBD he/PRP would/MD be/VB remembered/VBN with/IN "affection/NN and/CC respect"./NN
+Liberal/NNP Democrat/NNP leader/NN Charles/NNP Kennedy/NNP said/VBD "When/NN I/PRP was/VBD first/RB elected/VBN in/IN 1983/CD as/IN the/DT youngest/JJS MP/NNP he/PRP was/VBD the/DT "Father/NN of/IN the/DT House"/NNP and/CC as/IN such/NN took/VBD a/DT very/RB keen/JJ interest/NN in/IN my/PRP$ early/JJ days/NNS in/IN Parliament./NNP
+
+"He/NN was/VBD always/RB full/JJ of/IN warmth/NN and/CC wisdom."/NN Born/VBN in/IN 1912/CD and/CC educated/VBD at/IN Portsmouth/NNP Northern/NNP Secondary/JJ School/NNP Lord/NNP Callaghan/NNP became/VBD a/DT clerk/NN at/IN the/DT Inland/NNP Revenue./NNP
+He/PRP enlisted/VBD in/IN the/DT Royal/NNP Navy/NNP in/IN 1942/CD and/CC rose/VBD to/TO the/DT rank/NN of/IN lieutenant./NN
+Elected/VBN for/IN a/DT Cardiff/NNP constituency/NN at/IN the/DT 1945/CD general/JJ election/NN he/PRP represented/VBD Cardiff/NNP seats/NNS for/IN more/JJR than/IN 40/CD years./NN
+After/IN serving/VBG as/IN a/DT junior/JJ minister/NN in/IN the/DT Attlee/NNP government/NN he/PRP became/VBD chancellor/NN of/IN the/DT exchequer/NN when/WRB Labour/NNP returned/VBD to/TO power/VB in/IN 1964./CD
+
+With/IN sterling/NN under/IN pressure/NN he/PRP resisted/VBD devaluation/NN for/IN three/CD years/NNS before/IN being/VBG forced/VBN into/IN it/PRP in/IN 1967./CD
+His/PRP$ political/JJ career/NN was/VBD not/RB without/IN controversy./NN
+When/WRB he/PRP refused/VBD to/TO support/VB prime/JJ minister/NN Harold/NNP Wilson/NNP and/CC Dame/NNP Barbara/NNP Castle/NNP over/IN the/DT latter's/NNS trade/NN union/NN manifesto/NN In/IN Place/NN of/IN Strife/NN in/IN 1968/CD he/PRP said/VBD "I/NN am/VBP not/RB going/VBG to/TO resign./VB
+They/PRP will/MD have/VB to/TO throw/VB me/PRP out"./VBP
+When/WRB home/NN secretary/NN he/PRP ordered/VBD British/JJ troops/NNS to/TO march/VB into/IN the/DT streets/NNS of/IN Belfast/NNP to/TO protect/VB Catholic/NNP civilians/NNS amid/IN rising/VBG violence/NN -/: a/DT decision/NN that/WDT has/VBZ dominated/VBN British/JJ politics/NNS into/IN the/DT 21st/JJ century./NN
+
+As/IN foreign/JJ secretary/NN in/IN the/DT early/JJ 1970s/CD Lord/NNP Callaghan/NNP kept/VBD an/DT open/JJ mind/NN about/IN the/DT UK's/NNP entry/NN into/IN the/DT Common/NNP Market/NNP seeing/VBG the/DT advantages/NNS of/IN the/DT UK's/NNP entry./NN
+He/PRP once/RB travelled/VBD to/TO Idi/NNP Amin's/NNP Uganda/NNP in/IN 1975/CD to/TO plead/VB for/IN the/DT life/NN of/IN a/DT British/JJ lecturer/NN Dennis/NNP Hills/NNP who/WP was/VBD under/IN a/DT death/NN sentence/NN for/IN treason./NN
+
+His/PRP$ political/JJ life/NN was/VBD often/RB tempered/VBN by/IN battles/NNS against/IN the/DT hard/JJ left/VBN of/IN the/DT party./NN
+In/IN the/DT autumn/NN of/IN 1978/CD before/IN the/DT "Winter/NN of/IN Discontent"/NNP when/WRB trade/NN unions/NNS carried/VBD out/RP strikes/NNS that/WDT brought/VBD the/DT country/NN to/TO a/DT standstill/JJ Lord/NNP Callaghan/NNP refused/VBD to/TO hold/VB an/DT early/JJ election/NN which/WDT may/MD have/VB delivered/VBN a/DT Labour/NNP victory./NN
+As/IN garbage/NN lay/VBD uncollected/VBN in/IN the/DT streets/NNS and/CC hospital/NN staff/NN council/NN workers/NNS and/CC even/RB gravediggers/NNS stayed/VBD off/RP work/NN Lord/NNP Callaghan/NNP failed/VBD to/TO predict/VB the/DT mood/NN of/IN the/DT country./NN
+When/WRB Britain/NNP went/VBD to/TO the/DT polls/NNS in/IN 1979/CD Tory/NNP leader/NN Margaret/NNP Thatcher/NNP was/VBD swept/VBN into/IN power/NN in/IN a/DT landslide/NN victory/NN and/CC Lord/NNP Callaghan/NNP resigned/VBD as/IN Labour/NNP leader./NN

@@ -1,0 +1,14 @@
+Doves/NNP soar/VB to/TO UK/NNP album/NN summit/NN
+
+Manchester/NNP rock/NN band/NN Doves/NNP have/VBP entered/VBN the/DT UK/NNP album/NN chart/NN at/IN number/NN one/CD with/IN their/PRP$ new/JJ release/NN Some/DT Cities./NNP
+
+The/DT trio/NN replace/NN flamboyant/JJ US/PRP act/VBP Scissor/NNP Sisters/NNS at/IN the/DT top./NN
+The/DT album/NN follows/VBZ single/JJ Black/NNP and/CC White/NNP Town/NNP which/WDT reached/VBD number/NN six./NN
+R&B/NNP star/NN Nelly/NNP has/VBZ the/DT new/JJ number/NN one/CD single/JJ with/IN Over/IN and/CC Over/IN which/WDT sees/VBZ him/PRP team/VB up/RP with/IN Tim/NNP McGraw./NNP
+Girls/NNS Aloud/RB Akon/NNP and/CC Kaiser/NNP Chiefs/NNPS all/DT have/VBP new/JJ singles/NNS in/IN the/DT top/JJ ten/NN as/IN do/VBP Futureheads/NNP and/CC Usher./NNP
+
+The/DT latest/JJS Elvis/NNP Presley/NNP re-release/JJ (Marie's/NN The/DT Name)/NNP His/PRP$ Latest/JJS Flame/NN entered/VBD the/DT chart/NN at/IN number/NN three/CD one/CD place/NN ahead/RB of/IN Girls/NNS Aloud's/NNP Wake/NN Me/PRP Up./NNP
+Hip-hop/NNP performer/NN Akon's/NNP Locked/VBD Up/IN is/VBZ at/IN number/NN five/CD while/IN hotly-tipped/JJ Leeds/NNP band/NN Kaiser/NNP Chiefs/NNPS have/VBP their/PRP$ second/JJ chart/NN hit/VBD at/IN number/NN six/CD with/IN Oh/UH My/PRP$ God./NNP
+
+Futureheads'/NNP cover/VB of/IN Kate/NNP Bush's/NNP Hounds/NNP of/IN Love/NNP entered/VBD the/DT chart/NN at/IN number/NN eight/CD while/IN Usher's/NNP Caught/VBD Up/IN was/VBD a/DT new/JJ entry/NN at/IN number/NN nine./NN
+In/IN the/DT album/NN chart/NN operatic/JJ quartet/NN Il/NNP Divo's/NNP eponymous/JJ debut/NN rose/VBD 23/CD places/NNS to/TO number/VB six/CD while/IN crooner/NN Tony/NNP Christie's/NNP Definitive/JJ Collection/NN is/VBZ a/DT new/JJ entry/NN at/IN number/NN 10/CD making/VBG it/PRP the/DT highest-charting/JJ album/NN of/IN the/DT singer's/NNS career./NN

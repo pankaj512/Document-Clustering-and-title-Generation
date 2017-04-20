@@ -1,0 +1,21 @@
+Novartis/NN hits/NNS acquisition/NN trail/NN
+
+Swiss/JJ drugmaker/NN Novartis/NNP has/VBZ announced/VBN 5.65bn/CD euros/NNS ($7.4bn/CD £3.9bn)/CD of/IN purchases/NNS to/TO make/VB its/PRP$ Sandoz/NNP unit/NN the/DT world's/NNS biggest/JJS generic/JJ drug/NN producer./NN
+
+Novartis/NNP which/WDT last/JJ month/NN forecast/NN record/NN sales/NNS for/IN 2005/CD said/VBD it/PRP had/VBD bought/VBN all/RB of/IN Germany's/NNP Hexal./NNP
+It/PRP also/RB acquired/VBD 67.7%/CD of/IN Hexal's/NNP US/PRP affiliate/VBP Eon/NNP Labs/NNPS and/CC offered/VBN to/TO buy/VB the/DT remaining/VBG shares/NNS for/IN $31/CD each./NN
+Novartis/NNP said/VBD that/IN it/PRP would/MD be/VB able/JJ to/TO make/VB cost/NN savings/NNS of/IN about/IN $200m/CD a/DT year/NN following/VBG the/DT acquisitions./NN
+Novartis'/NNP shares/NNS rose/VBD 1%/CD to/TO 57.85/CD Swiss/JJ francs/NNS in/IN early/JJ trading./NN
+
+The/DT deal/NN will/MD see/VB Novartis'/NNP Sandoz/NNP business/NN overtake/NN Israel's/NNP Teva/NNP Pharmaceuticals/NNP as/IN the/DT world's/NNS biggest/JJS maker/NN of/IN generics./NN
+Based/VBN on/IN 2004/CD figures/NNS the/DT newly/RB merged/VBN producer/NN would/MD have/VB sales/NNS of/IN more/JJR than/IN $5bn/CD the/DT company/NN estimated./NN
+Novartis/NNP said/VBD that/IN it/PRP would/MD merge/VB a/DT number/NN of/IN departments/NNS adding/VBG that/IN there/EX may/MD be/VB job/NN cuts./NN
+
+"The/NN strong/JJ growth/NN outlook/NN for/IN Sandoz/NNP which/WDT will/MD create/VB jobs/NNS is/VBZ expected/VBN to/TO partially/RB compensate/VB for/IN necessary/JJ reductions/NNS in/IN the/DT work/NN force"/NN the/DT firm/NN said/VBD in/IN a/DT statement./NN
+Generic/JJ drugs/NNS are/VBP chemically/RB identical/JJ to/TO their/PRP$ more/RBR expensive/JJ branded/VBN rivals./NN
+Producers/NNS such/JJ as/IN Sandoz/NNP can/MD copy/VB the/DT branded/VBN products/NNS usually/RB after/IN their/PRP$ patent/NN protection/NN expires/VBZ and/CC can/MD sell/VB them/PRP more/RBR cheaply/RB as/IN they/PRP do/VBP not/RB have/VB to/TO pay/VB research/NN and/CC development/NN cost./NN
+
+There/EX are/VBP more/JJR than/IN 150/CD generic/JJ drugmakers/NNS worldwide/NN and/CC analysts/NNS have/VBP predicted/VBN consolidation/NN in/IN a/DT market/NN that/IN they/PRP call/VBP fragmented./NN
+However/RB not/RB all/DT analysts/NNS were/VBD initially/RB convinced/VBN about/IN the/DT deal./NN
+"This/NN is/VBZ a/DT very/RB expensive/JJ acquisition"/NN Birgit/NNP Kuhlhoff/NNP from/IN Sal/NNP Oppenheim/NNP investment/NN bank/NN told/VBD Reuters./NNP
+"I/NN find/VB it/PRP strange/JJ that/IN they/PRP are/VBP making/VBG acquisitions/NNS in/IN exactly/RB those/DT markets/NNS where/WRB they/PRP suffered/VBD price/NN pressure."/NN

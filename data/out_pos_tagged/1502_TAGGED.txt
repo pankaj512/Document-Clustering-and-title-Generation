@@ -1,0 +1,17 @@
+Rovers/NNP reject/VBP third/JJ Ferguson/NNP bid/NN
+
+Blackburn/NNS have/VBP rejected/VBN a/DT third/JJ bid/NN from/IN Rangers/NNPS for/IN Scotland/NNP captain/NN Barry/NNP Ferguson/NNP BBC/NNP Sport/NNP has/VBZ learnt./NN
+
+It/PRP is/VBZ thought/VBN Blackburn/NNP want/VBP £6m/CD for/IN the/DT midfielder/NN but/CC chief/JJ executive/NN John/NNP Williams/NNP has/VBZ confirmed/VBN the/DT club/NN are/VBP still/RB "in/NN dialogue"/NN with/IN Rangers./NNP
+The/DT 26-year-old/JJ has/VBZ already/RB handed/VBN in/IN a/DT transfer/NN request/NN at/IN Ewood/NNP Park/NNP as/IN he/PRP seeks/VBZ a/DT return/NN to/TO Ibrox./NNP
+But/CC the/DT clubs/NNS have/VBP been/VBN unable/JJ to/TO reach/VB agreement/NN over/IN a/DT fee/NN for/IN Ferguson/NNP who/WP moved/VBD to/TO Lancashire/NNP in/IN 2003/CD for/IN £6.5m./CD
+On/IN Thursday/NNP Rangers/NNPS said/VBD they/PRP would/MD not/RB be/VB increasing/VBG their/PRP$ offer/NN of/IN £4m./CD
+
+Blackburn/NNS have/VBP said/VBN all/DT along/IN that/IN they/PRP want/VBP £6m/CD for/IN the/DT midfielder/NN and/CC Williams/NNP has/VBZ rejected/VBN proposals/NNS from/IN Rangers/NNPS over/IN a/DT player-swap/JJ deal./NN
+Williams/NNP said/VBD "We/NN are/VBP in/IN dialogue/NN with/IN Glasgow/NNP Rangers/NNPS but/CC we/PRP have/VBP no/DT agreement."/NN The/DT negotiations/NNS will/MD have/VB to/TO be/VB concluded/VBN by/IN midnight/NN on/IN Monday/NNP when/WRB the/DT winter/NN transfer/NN window/NN shuts./NN
+Williams/NNP conceded/VBD any/DT deal/NN for/IN Ferguson/NNP was/VBD looking/VBG "unlikely"/NN before/IN the/DT close/NN of/IN the/DT transfer/NN window/NN but/CC Rangers/NNPS still/RB had/VBD a/DT chance/NN to/TO seal/VB the/DT deal./NN
+"We/NN have/VBP no/DT comment/NN to/TO make/VB other/JJ than/IN we/PRP have/VBP not/RB got/VBN an/DT agreement/NN with/IN Glasgow/NNP Rangers"/NNP he/PRP added./VB
+"The/NN way/NN things/NNS are/VBP looking/VBG I/PRP think/VBP it/PRP is/VBZ unlikely/JJ we/PRP are/VBP going/VBG to./NN
+"The/NN ball/NN is/VBZ in/IN their/PRP$ court/NN but/CC we/PRP have/VBP not/RB got/VBN an/DT offer/NN that/WDT is/VBZ acceptable/JJ at/IN this/DT moment."/NN It/PRP is/VBZ understood/VBN that/IN Blackburn/NNP accepted/VBD a/DT £5m/CD offer/NN for/IN Ferguson/NNP from/IN Everton/NNP at/IN the/DT weekend./NN
+But/CC the/DT player/NN is/VBZ determined/VBN to/TO return/VB to/TO Scotland/NNP and/CC rejected/VBD a/DT move/NN to/TO Goodison/NNP Park./NNP
+Ferguson/NNP did/VBD not/RB play/VB in/IN the/DT FA/NNP Cup/NNP win/VB over/IN Colchester/NNP on/IN Saturday/NNP despite/IN recovering/VBG from/IN a/DT groin/NN injury/NN with/IN Rovers/NNP boss/NN Mark/NNP Hughes/NNP claiming/VBG it/PRP had/VBD been/VBN an/DT "emotional/JJ and/CC difficult/JJ time"/NN for/IN the/DT player./NN

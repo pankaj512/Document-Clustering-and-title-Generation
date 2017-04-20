@@ -1,0 +1,12 @@
+South/NNP Africa/NNP sweep/NN top/JJ awards/NNS
+
+South/NNP Africa's/NNP Schalk/NNP Burger/NNP was/VBD named/VBN player/NN of/IN the/DT year/NN as/IN the/DT Tri-Nations/NNP champions/NNS swept/VBD the/DT top/JJ honours/NNS at/IN the/DT International/NNP Rugby/NNP Board's/NNP awards./NN
+
+The/DT flanker/NN topped/VBD a/DT list/NN which/WDT included/VBD Ireland/NNP star/NN Gordon/NNP D'Arcy/NNP and/CC Australian/JJ sensation/NN Matt/NNP Giteau./NNP
+Jake/NNP White/NNP claimed/VBD the/DT coaching/NN award/NN while/IN his/PRP$ side/NN held/VBD off/RP Grand/NNP Slam/NNP winners/NNS France/NNP to/TO take/VB the/DT team/NN award./NN
+England/NNP player/NN Simon/NNP Amor/NNP beat/VBP team-mate/JJ Ben/NNP Gollings/NNP and/CC Argentine/JJ Lucio/NNP Lopez/NNP Fleming/NNP to/TO win/VB the/DT sevens/NNS award./NN
+Burger's/NNP award/NN came/VBD just/RB a/DT week/NN after/IN he/PRP won/VBD the/DT equivalent/NN prize/NN from/IN his/PRP$ fellow/JJ international/JJ players/NNS and/CC White/NNP who/WP also/RB coached/VBD Burger/NNP at/IN under-21/JJ level/NN paid/VBD tribute/NN to/TO him./VB
+"Schalk's/NN emergence/NN as/IN a/DT major/JJ force/NN has/VBZ meant/VBN a/DT lot/NN to/TO South/JJ African/JJ rugby/NN but/CC has/VBZ also/RB influenced/VBN world/NN rugby"/NN said/VBD White./NNP
+"He's/NN become/VBN to/TO South/JJ African/JJ rugby/NN what/WP Jonty/NNP Rhodes/NNP was/VBD to/TO South/JJ African/JJ cricket./NN
+It's/NNP amazing/JJ what/WP he/PRP has/VBZ achieved/VBN in/IN such/PDT a/DT short/JJ time/NN so/RB far/RB in/IN his/PRP$ international/JJ career."/NN Amor/NNP who/WP will/MD captain/VB England/NNP in/IN this/DT season's/NNS opening/NN IRB/NNP Sevens/NNP tournament/NN the/DT Dubai/NNP Sevens/NNP which/WDT start/VBP on/IN Thursday/NNP was/VBD delighted/JJ with/IN his/PRP$ award./NN
+"There/NN are/VBP so/RB many/JJ great/JJ sevens/NNS players/NNS on/IN the/DT circuit/NN at/IN the/DT moment/NN that/IN this/DT is/VBZ a/DT genuine/JJ honour"/NN said/VBD the/DT Gloucester/NNP fly-half./JJ

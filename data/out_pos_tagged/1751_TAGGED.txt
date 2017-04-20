@@ -1,0 +1,16 @@
+Davenport/NN hits/NNS out/RP at/IN Wimbledon/NNP
+
+World/NNP number/NN one/CD Lindsay/NNP Davenport/NNP has/VBZ criticised/VBN Wimbledon/NNP over/IN the/DT issue/NN of/IN equal/JJ prize/NN money/NN for/IN women./NN
+
+Reacting/VBG to/TO a/DT disputed/VBN comment/NN by/IN All/DT England/NNP Club/NNP chairman/NN Tim/NNP Phillips/NNP the/DT American/NNP said/VBD "I/NN think/VBP it/PRP is/VBZ highly/RB insulting/JJ if/IN prize/NN money/NN is/VBZ taken/VBN away./NN
+"Somebody/NN I/PRP think/VBP it/PRP was/VBD Mr/NNP Phillips/NNP said/VBD they/PRP won't/VBP have/VBP money/NN for/IN flowers/NNS at/IN Wimbledon./NNP
+That's/NNP insulting."/NN An/DT All/DT England/NNP club/NN spokesperson/NN denied/VBD Phillips/NNP made/VBD the/DT remark/NN insisting/VBG "He/NN definitely/RB didn't/NN say/VBP it."/VBG The/DT statement/NN added/VBD "It/NN was/VBD said/VBN by/IN someone/NN else/RB and/CC was/VBD a/DT humorous/JJ aside/RB at/IN the/DT end/NN of/IN a/DT radio/NN interview/NN when/WRB the/DT conversation/NN had/VBD moved/VBN to/TO talking/VBG about/IN the/DT Wimbledon/NNP grounds."/NN
+
+Davenport/NNP was/VBD speaking/VBG following/VBG the/DT announcement/NN that/IN this/DT week's/NNS Dubai/NNP Duty/NN Free/NNP event/NN will/MD join/VB the/DT US/PRP and/CC Australian/JJ Opens/NNS in/IN offering/VBG equal/JJ prize/NN money/NN for/IN women./NN
+"You/NN hear/NN about/IN women/NNS playing/VBG only/RB three/CD sets/NNS while/IN men/NNS play/VBP five"/NN said/VBD Daveport./NNP
+"And/NN the/DT best/JJS women/NNS are/VBP never/RB going/VBG to/TO beat/VB the/DT best/JJS men./NN
+"But/NN it's/NNS a/DT different/JJ game/NN you/PRP go/VBP to/TO watch/VB with/IN the/DT women/NNS -/: it/PRP doesn't/NN make/VBP it/PRP better/JJR or/CC worse./NN
+"Hopefully/RB we/PRP will/MD be/VB able/JJ to/TO change/VB people's/NNS minds."/NN Serena/NNP Williams/NNP who/WP is/VBZ also/RB in/IN Dubai/NNP added/VBD "I'm/NN obviously/RB for/IN equal/JJ prize/NN money./NN
+"Women's/NN tennis/NN is/VBZ exciting./NN
+Men's/NNP tennis/NN is/VBZ exciting/JJ as/IN well/RB but/CC the/DT women/NNS have/VBP it/PRP right/RB now./NN
+"If/NN you/PRP are/VBP bringing/VBG in/IN the/DT spectators/NNS you/PRP should/MD be/VB able/JJ to/TO reap/VB what/WP everyone/NN else/RB is/VBZ able/JJ to/TO reap."/VB

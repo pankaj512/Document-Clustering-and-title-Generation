@@ -1,0 +1,13 @@
+Federer/NNP forced/VBD to/TO dig/VB deep/JJ
+
+Top/JJ seed/NN Roger/NNP Federer/NNP had/VBD to/TO save/VB two/CD match/NN points/NNS before/IN squeezing/VBG past/JJ Juan/NNP Carlos/NNP Ferrero/NNP at/IN the/DT Dubai/NNP Open./NNP
+
+The/DT world/NN number/NN one/CD took/VBD two/CD hours/NNS 15/CD minutes/NNS to/TO earn/VB his/PRP$ 4-6/JJ 6-3/JJ 7-6/JJ victory/NN saving/VBG match/NN points/NNS at/IN 6-4/JJ in/IN the/DT tiebreak/NN before/IN claiming/VBG it/PRP 8-6./JJ
+Federer/NNP made/VBD a/DT number/NN of/IN unforced/VBN errors/NNS early/RB on/IN allowing/VBG Ferrero/NNP to/TO take/VB advantage/NN and/CC claim/VB the/DT first/JJ set./NN
+But/CC the/DT Swiss/JJ star/NN hit/VBD back/RB to/TO reach/VB the/DT quarter-finals/NNS where/WRB he/PRP will/MD face/VB seventh/JJ seed/NN Russian/JJ Mikhail/NNP Youzhny./NNP
+The/DT Russian/JJ beat/NN Germany's/NNP Rainer/NNP Schuettler/NNP 7-5/JJ 6-4./JJ
+Federer/NNP was/VBD not/RB unduly/RB worried/VBN despite/IN being/VBG taken/VBN to/TO three/CD sets/NNS for/IN the/DT third/JJ consecutive/JJ match./NN
+The/DT world/NN number/NN one/CD was/VBD forced/VBN to/TO go/VB the/DT distance/NN against/IN Ivan/NNP Ljubicic/NNP in/IN the/DT Rotterdam/NNP final/JJ and/CC against/IN Ivo/NNP Minar/NNP in/IN the/DT first/JJ round/NN in/IN Dubai./NNP
+"I/NN definitely/RB had/VBD a/DT slow/JJ start/NN again/RB and/CC to/TO come/VB back/RP every/DT time/NN is/VBZ quite/RB an/DT effort"/NN he/PRP said./VB
+"I/NN haven't/NN been/VBN playing/VBG well/RB but/CC I've/NNP been/VBN coming/VBG through./NN
+I'm/NNP winning/VBG the/DT crucial/JJ points/NNS and/CC that/DT shows/NNS I'm/NNP on/IN top/NN of/IN my/PRP$ game/NN when/WRB I/PRP have/VBP to/TO be."/VB

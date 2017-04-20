@@ -1,0 +1,24 @@
+Consumers/NNS 'snub/VBP portable/JJ video'/NN
+
+Consumers/NNS want/VBP music/NN rather/RB than/IN movies/NNS while/IN on/IN the/DT move/NN says/VBZ a/DT report./NN
+
+Produced/VBN by/IN Jupiter/NNP Research/NNP the/DT analysis/NN of/IN the/DT portable/JJ media/NNS player/NN market/NN found/VBD only/RB 13%/CD of/IN Europeans/NNPS want/VBP to/TO watch/VB video/NN while/IN out/RB and/CC about./NN
+By/IN contrast/NN almost/RB a/DT third/JJ are/NN interested/JJ in/IN listening/VBG to/TO music/VB on/IN a/DT portable/JJ player/NN such/JJ as/IN an/DT iPod./NN
+The/DT firm/NN said/VBD gadget/NN makers/NNS should/MD avoid/VB hybrid/JJ devices/NNS and/CC instead/RB make/VB sure/JJ music/NN reproduction/NN was/VBD as/RB good/JJ as/IN possible./NN
+
+The/DT report/NN concluded/VBD that/IN the/DT driving/VBG force/NN behind/IN the/DT growth/NN of/IN Europe's/NNP portable/JJ player/NN market/NN was/VBD likely/JJ to/TO be/VB music/NN rather/RB than/IN films/NNS or/CC any/DT combination/NN of/IN the/DT two./NN
+Barely/RB 5%/CD of/IN those/DT questioned/VBD said/VBN they/PRP wanted/VBD a/DT player/NN that/WDT could/MD play/VB back/RP both/DT music/NN and/CC movies./NN
+Only/RB 7%/CD wanted/VBD a/DT player/NN that/WDT could/MD handle/VB games/NNS and/CC video./NN
+
+"Dedicated/VBN music/NN players/NNS are/VBP the/DT only/JJ established/VBN digital/JJ media/NNS players/NNS in/IN Europe/NNP today/NN despite/IN their/PRP$ high/JJ prices"/NN said/VBD Ian/NNP Fogg/NNP Jupiter/NNP analyst./NN
+Mr/NNP Fogg/NNP said/VBD although/IN video/NN players/NNS and/CC smartphones/NNS were/VBD trying/VBG to/TO cash/VB in/RP on/IN this/DT success/NN they/PRP faced/VBD a/DT tough/JJ job/NN because/IN of/IN the/DT compromises/NNS that/WDT had/VBD to/TO be/VB made/VBN when/WRB creating/VBG a/DT dual-purpose/JJ device./NN
+"Europeans/NN care/NN most/JJS about/IN music/NN playback"/NN he/PRP said./VB
+The/DT report/NN showed/VBD that/IN 27%/CD of/IN consumers/NNS asked/VBD are/VBP interested/JJ in/IN portable/JJ music/NN players./NN
+The/DT research/NN revealed/VBD that/IN French/JJ 39%/CD and/CC British/JJ 31%/CD consumers/NNS were/VBD most/RBS interested/JJ in/IN music/NN players./NN
+Mr/NNP Fogg/NNP said/VBD portable/JJ video/NN players/NNS were/VBD likely/JJ to/TO remain/VB a/DT niche/NN product/NN that/WDT would/MD not/RB be/VB able/JJ to/TO compete/VB with/IN devices/NNS dedicated/VBN to/TO music/VB playback./NN
+
+A/DT separate/JJ report/NN by/IN Jupiter/NNP forecasts/NNS that/IN the/DT European/JJ digital/JJ music/NN market/NN will/MD grow/VB to/TO 836m/CD euros/NNS (£581m)/CD by/IN 2009./CD
+At/IN the/DT end/NN of/IN 2003/CD the/DT market/NN was/VBD worth/JJ 10.6m/CD euros/NNS (£7.36m)./CD
+Digital/NNP music/NN players/NNS will/MD be/VB behind/IN this/DT market/NN growth/NN said/VBD Jupiter/NNP ./.
+Apple's/NNP iPod/NN was/VBD launched/VBN in/IN October/NNP 2001/CD but/CC the/DT portable/JJ music/NN player/NN market/NN has/VBZ been/VBN growing/VBG steadily/RB since/IN the/DT launch/NN of/IN the/DT Creative/JJ Nomad/NNP Jukebox/NNP in/IN mid-2000./JJ
+Now/RB consumers/NNS face/VBP an/DT almost/RB overwhelming/JJ choice/NN of/IN high-capacity/JJ portable/JJ music/NN players/NNS that/WDT let/VBP them/PRP store/VBP every/DT track/NN on/IN every/DT CD/NNP that/IN they/PRP own./VBP

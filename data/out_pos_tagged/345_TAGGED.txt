@@ -1,0 +1,29 @@
+Quake's/NNP economic/JJ costs/NNS emerging/VBG
+
+Asian/JJ governments/NNS and/CC international/JJ agencies/NNS are/VBP reeling/VBG at/IN the/DT potential/JJ economic/JJ devastation/NN left/VBN by/IN the/DT Asian/JJ tsunami/NN and/CC floods./NN
+
+World/NNP Bank/NNP president/NN James/NNP Wolfensohn/NNP has/VBZ said/VBN his/PRP$ agency/NN is/VBZ "only/RB beginning/VBG to/TO grasp/VB the/DT magnitude/NN of/IN the/DT disaster"/JJ and/CC its/PRP$ economic/JJ impact./NN
+The/DT tragedy/NN has/VBZ left/VBN at/IN least/JJS 25000/CD people/NNS dead/JJ with/IN Sri/NNP Lanka/NNP Thailand/NNP India/NNP and/CC Indonesia/NNP worst/JJS hit./NN
+Some/DT early/JJ estimates/NNS of/IN reconstruction/NN costs/NNS are/VBP starting/VBG to/TO emerge./VB
+Millions/NNS have/VBP been/VBN left/VBN homeless/JJ while/IN businesses/NNS and/CC infrastructure/NN have/VBP been/VBN washed/VBN away./NN
+
+Economists/NNS believe/VBP several/JJ of/IN the/DT 10/CD countries/NNS hit/VBN by/IN the/DT giant/JJ waves/NNS could/MD see/VB a/DT slowdown/NN in/IN growth./NN
+
+In/IN Sri/NNP Lanka/NNP some/DT observers/NNS have/VBP said/VBN that/IN as/RB much/JJ as/IN 1%/CD of/IN annual/JJ growth/NN may/MD be/VB lost./NN
+For/IN Thailand/NNP that/WDT figure/NN is/VBZ much/RB lower/JJR at/IN 0.1%./CD
+Governments/NNS are/VBP expected/VBN to/TO take/VB steps/NNS such/JJ as/IN cutting/VBG taxes/NNS and/CC increasing/VBG spending/NN to/TO facilitate/VB a/DT recovery./NN
+
+"With/NN the/DT enormous/JJ displacement/NN of/IN people...there/NN will/MD be/VB a/DT serious/JJ relaxation/NN of/IN fiscal/JJ policy"/NN Glenn/NNP Maguire/NNP chief/NN economist/NN for/IN the/DT region/NN at/IN Societe/NNP Generale/NNP told/VBD Agence/NNP France/NNP Presse./NNP
+"The/JJ economic/JJ impact/NN of/IN it/PRP will/MD certainly/RB be/VB large/JJ but/CC it/PRP should/MD not/RB be/VB enough/RB to/TO derail/VB the/DT momentum/NN of/IN the/DT region/NN in/IN 2005"/CD he/PRP said./VB
+"First/NN and/CC foremost/RB this/DT is/VBZ a/DT human/JJ tragedy."/NN India's/NNP economy/NN however/RB is/VBZ less/RBR likely/JJ to/TO slow/VB because/IN the/DT areas/NNS hit/VBD are/VBP some/DT of/IN the/DT least/JJS developed./NN
+The/DT regional/JJ giant/JJ has/VBZ enjoyed/VBN strong/JJ growth/NN in/IN 2004./CD
+But/CC India/NNP now/RB faces/VBZ other/JJ problems/NNS with/IN aid/NN workers/NNS under/IN pressure/NN to/TO ensure/VB a/DT clean/JJ supply/NN of/IN water/NN and/CC sanitation/NN to/TO prevent/VB an/DT outbreak/NN of/IN disease./JJ
+
+Thailand's/NNP Prime/NNP Minister/NNP Thaksin/NNP Shinawatra/NNP has/VBZ estimated/VBN the/DT destruction/NN at/IN 20bn/CD baht/NN ($510m)./CD
+Analysts/NNS said/VBD that/DT figure/NN is/VBZ likely/JJ to/TO rise/VB and/CC the/DT country's/NNS tourist/NN industry/NN is/VBZ likely/JJ to/TO be/VB hardest/RBS hit./NN
+Thailand's/NNP fishing/NN and/CC real/JJ estate/NN sectors/NNS also/RB will/MD be/VB affected/VBN by/IN Sunday's/NNP 9.0/CD magnitude/NN earthquake/NN which/WDT sent/VBD huge/JJ waves/NNS from/IN Malaysia/NNP to/TO Africa./NNP
+Malaysia/NNP said/VBD as/RB many/JJ as/IN 1000/CD fishermen/NNS will/MD be/VB affected/VBN and/CC that/DT damage/NN to/TO the/DT industry/NN will/MD be/VB "significant"/NN Agence/NNP France/NNP Presse/NNP reported./NN
+Rapid/NNP rebuilding/VBG will/MD be/VB key/NN to/TO limiting/VBG the/DT impact/NN of/IN the/DT tragedy./NN
+"In/NN three/CD months/NNS we/PRP should/MD rebuild/VB 70%/CD of/IN the/DT damage/NN in/IN the/DT three/CD worst/JJS hit/VBD provinces"/NN said/VBD Juthamas/NNP Siriwan/NNP governor/NN of/IN the/DT Tourism/NNP Authority/NNP of/IN Thailand./NNP
+The/DT outlook/NN for/IN Sri/NNP Lanka/NNP is/VBZ less/RBR optimistic/JJ with/IN analysts/NNS predicting/VBG that/IN the/DT country's/NNS tourist/NN industry/NN will/MD struggle/VB to/TO recovery/NN quickly./NN
+Tourism/NNP is/VBZ a/DT vital/NN to/TO many/JJ developing/VBG countries/NNS providing/VBG jobs/NNS for/IN 19/CD million/CD people/NNS in/IN the/DT south/RB east/JJ Asian/JJ region/NN according/VBG to/TO the/DT World/NNP Travel/NNP and/CC Tourism/NNP Council/NNP (WTTC)./NN

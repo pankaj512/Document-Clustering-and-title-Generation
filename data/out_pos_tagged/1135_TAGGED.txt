@@ -1,0 +1,30 @@
+Row/NN over/IN 'police'/NN power/NN for/IN CSOs/NNP
+
+The/DT Police/NNP Federation/NNP has/VBZ said/VBN it/PRP strongly/RB opposes/VBZ giving/VBG Community/NNP Support/NN Officers/NNS (CSOs)/VBP the/DT power/NN to/TO detain/VB suspects/VBZ for/IN up/IN to/TO 30/CD minutes./NN
+
+The/DT powers/NNS -/: piloted/VBN in/IN six/CD areas/NNS -/: were/VBD extended/VBN to/TO all/DT police/NN forces/NNS in/IN England/NNP and/CC Wales/NNP on/IN Thursday./NNP
+The/DT federation/NN said/VBD CSOs/NNP do/VBP not/RB have/VB the/DT experience/NN training/NN and/CC safety/NN equipment/NN to/TO deal/VB with/IN "potentially/RB confrontational"/NN situations./NN
+But/CC the/DT government/NN said/VBD the/DT move/NN would/MD help/VB police/VB "build/NN safe/JJ communities"./NN
+Police/NNP Federation/NNP chairman/NN Jan/NNP Berry/NNP said/VBD civilian/JJ officers/NNS should/MD act/VB as/IN "eyes/NN and/CC ears"/NN for/IN the/DT police./NN
+
+"They/NN should/MD not/RB be/VB placed/VBN in/IN potentially/RB confrontational/JJ situations/NNS -/: which/WDT detaining/VBG someone/NN clearly/RB is"/NN she/PRP said./VBP
+CSOs/NNP can/MD now/RB use/VB reasonable/JJ force/NN to/TO detain/VB suspects/VBZ for/IN up/IN to/TO 30/CD minutes/NNS while/IN they/PRP wait/VBP for/IN police/NN officers/NNS to/TO arrive./VB
+The/DT powers/NNS will/MD be/VB granted/VBN by/IN chief/JJ constables/NNS of/IN local/JJ forces./NN
+Ms/NNP Berry/NNP said/VBD this/DT "dramatically/RB changes"/VBP their/PRP$ original/JJ purpose/NN -/: to/TO be/VB a/DT visible/JJ presence/NN combating/VBG low-level/JJ crime/NN and/CC anti-social/JJ behaviour./NN
+She/PRP said/VBD more/JJR powers/NNS would/MD mean/VB more/JJR paperwork/NN and/CC less/JJR time/NN on/IN the/DT street./NN
+
+But/CC Home/NNP Office/NNP minister/NN Hazel/NNP Blears/NNP defended/VBD the/DT move/NN saying/VBG it/PRP would/MD give/VB the/DT civilian/JJ officers/NNS "just/NN that/IN little/JJ bit/NN of/IN edge"./NN
+She/PRP denied/VBD their/PRP$ role/NN was/VBD changing/VBG and/CC said/VBD the/DT new/JJ powers/NNS would/MD not/RB take/VB them/PRP away/RB from/IN the/DT streets./NN
+
+"The/NN powers/NNS that/IN we/PRP are/VBP bringing/VBG in/IN are/VBP things/NNS that/IN they/PRP need/VBP to/TO do/VB when/WRB they/PRP are/VBP out/RB patrolling"/NN she/PRP said./VBP
+The/DT Home/NNP Office/NNP has/VBZ produced/VBN its/PRP$ own/JJ report/NN on/IN CSOs/NNP which/WDT it/PRP describes/VBZ as/IN "encouraging"./NN
+Ms/NNP Blears/NNP said/VBD the/DT study/NN shows/VBZ CSOs/NNP are/VBP "making/VBG a/DT real/JJ difference"/NN in/IN the/DT fight/NN against/IN crime./NN
+But/CC the/DT report/NN also/RB showed/VBD that/IN the/DT public/NN is/VBZ having/VBG difficulties/NNS distinguishing/JJ between/IN a/DT civilian/JJ officer/NN and/CC a/DT proper/JJ officer./NN
+
+Shadow/NNP home/NN secretary/NN David/NNP Davis/NNP said/VBD the/DT research/NN appeared/VBD to/TO acknowledge/VB that/IN CSOs/NNP were/VBD having/VBG no/DT discernible/JJ effect/NN on/IN crime/NN figures./NN
+
+"While/NN the/DT answer/NN is/VBZ a/DT lot/NN more/RBR real/JJ police/NN the/DT government/NN wants/VBZ to/TO recruit/VB 25000/CD people/NNS who/WP can't/VBP arrest/NN anyone"/NN he/PRP said./VB
+BBC/NNP home/NN affairs/NNS correspondent/NN Danny/NNP Shaw/NNP said/VBD the/DT research/NN is/VBZ inconclusive./NN
+There/EX are/VBP about/RB 3500/CD CSOs/NNP in/IN England/NNP and/CC Wales/NNP but/CC the/DT government/NN intends/VBZ to/TO have/VB 25000/CD on/IN the/DT streets/NNS by/IN 2008/CD at/IN a/DT cost/NN of/IN £50m./CD
+They/PRP already/RB have/VBP powers/NNS to/TO hand/VB out/RP fines/NNS for/IN a/DT wide/JJ range/NN of/IN offences./NN
+The/DT Serious/NNP Organised/JJ Crime/NN and/CC Police/NNP Bill/NNP proposes/VBZ extra/JJ powers/NNS to/TO search/VB suspects/VBZ enforce/VB licensing/NN offences/NNS direct/JJ traffic/NN and/CC deter/VB begging./NN

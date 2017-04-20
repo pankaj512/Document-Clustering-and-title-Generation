@@ -1,0 +1,19 @@
+Rover/NNP deal/NN 'may/NN cost/NN 2000/CD jobs'/NN
+
+Some/DT 2000/CD jobs/NNS at/IN MG/NNP Rover's/NNP Midlands/NNP plant/NN may/MD be/VB cut/VBN if/IN investment/NN in/IN the/DT firm/NN by/IN a/DT Chinese/JJ car/NN maker/NN goes/VBZ ahead/RB the/DT Financial/NNP Times/NNP has/VBZ reported./NN
+
+Shanghai/NNP Automotive/NNP Industry/NNP Corp/NNP plans/VBZ to/TO shift/VB production/NN of/IN the/DT Rover/NNP 25/CD to/TO China/NNP and/CC export/NN it/PRP to/TO the/DT UK/NNP sources/NNS close/VBP to/TO the/DT negotiations/NNS tell/VBP the/DT FT./NN
+But/CC Rover/NNP told/VBD BBC/NNP News/NNP that/IN reports/NNS of/IN job/NN cuts/NNS were/VBD "speculation"./NN
+A/DT tie-up/NN seen/VBN as/IN Rover's/NNP last/JJ chance/NN to/TO save/VB its/PRP$ Longbridge/NNP plant/NN has/VBZ been/VBN pushed/VBN by/IN UK/NNP Chancellor/NNP Gordon/NNP Brown./NNP
+Rover/NNP confirmed/VBD the/DT tie-up/NN would/MD take/VB place/NN "not/NN very/RB far/RB away/RB from/IN this/DT time"./NN
+
+Rover/NN bosses/NNS have/VBP said/VBN they/PRP are/VBP "confident"/VBG the/DT £1bn/CD ($1.9bn)/CD investment/NN deal/NN would/MD be/VB signed/VBN in/IN March/NNP or/CC early/JJ April./NNP
+
+Transport/NNP &/CC General/NNP Worker's/NNP Union/NNP general/JJ secretary/NN Tony/NNP Woodley/NNP repeated/VBD his/PRP$ view/NN on/IN Friday/NNP that/IN all/DT mergers/NNS led/VBN to/TO some/DT job/NN cuts./NN
+He/PRP said/VBD investment/NN in/IN new/JJ models/NNS was/VBD needed/VBN to/TO ensure/VB the/DT future/NN of/IN the/DT Birmingham/NNP plant./NN
+"This/NN is/VBZ a/DT very/RB crucial/JJ and/CC delicate/JJ time/NN and/CC our/PRP$ efforts/NNS are/VBP targeted/VBN to/TO securing/VBG new/JJ models/NNS for/IN the/DT company/NN which/WDT will/MD mean/VB jobs/NNS for/IN our/PRP$ people"/NN he/PRP said./VB
+SAIC/NNP says/VBZ none/NN of/IN its/PRP$ money/NN will/MD be/VB paid/VBN to/TO the/DT four/CD owners/NNS of/IN Rover/NNP who/WP have/VBP been/VBN accused/VBN by/IN unions/NNS of/IN awarding/VBG themselves/PRP exorbitant/JJ salaries/NNS the/DT FT/NNP reports./NN
+"SAIC/NN is/VBZ extremely/RB concerned/VBN to/TO ensure/VB that/IN its/PRP$ money/NN is/VBZ used/VBN to/TO invest/VB in/IN the/DT business/NN rather/RB than/IN be/VB distributed/VBN to/TO the/DT shareholders"/NN the/DT newspaper/NN quotes/NNS a/DT source/NN close/RB to/TO the/DT Chinese/JJ firm./NN
+Meanwhile/RB according/VBG to/TO Chinese/JJ state/NN press/NN reports/NNS small/JJ state-owned/JJ carmaker/NN Nanjing/NNP Auto/NN is/VBZ in/IN negotiations/NNS with/IN Rover/NNP and/CC SAIC/NNP to/TO take/VB a/DT 20%/CD stake/NN in/IN the/DT joint/JJ venture./NN
+SAIC/NNP was/VBD unavailable/JJ for/IN comment/NN on/IN the/DT job/NN cuts/NNS when/WRB contacted/VBN by/IN BBC/NNP News./NNP
+Rover/NNP and/CC SAIC/NNP signed/VBD a/DT technology-sharing/JJ agreement/NN in/IN August./NNP

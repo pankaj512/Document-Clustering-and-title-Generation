@@ -1,0 +1,21 @@
+Shares/NNS hit/VBN by/IN MS/NNP drug/NN suspension/NN
+
+Shares/NNS in/IN Elan/NN and/CC Biogen/NNP Idec/NNP plunged/VBD on/IN Monday/NNP as/IN the/DT firms/NNS suspended/VBD sales/NNS of/IN new/JJ multiple/JJ sclerosis/NN drug/NN Tysabri/NNP after/IN a/DT patient's/NNS death/NN in/IN the/DT US./NNP
+
+On/IN the/DT New/NNP York/NNP Stock/NNP Exchange/NNP shares/NNS in/IN Ireland-based/JJ Elan/NN lost/VBD 70%/CD while/IN US/PRP partner/VBP Biogen/NNP Idec/NNP shed/VBD 43%./CD
+The/DT firms/NNS took/VBD action/NN after/IN the/DT death/NN from/IN a/DT central/JJ nervous/JJ system/NN disease/NN and/CC a/DT suspected/VBN case/NN of/IN the/DT condition./NN
+The/DT cases/NNS cited/VBD involved/VBN the/DT use/NN of/IN both/DT Tysabri/NNP and/CC Avonex/NNP Biogen/NNP Idec's/NNP existing/VBG multiple/JJ sclerosis/NN drug./NN
+The/DT companies/NNS said/VBD they/PRP have/VBP no/DT reports/NNS of/IN the/DT rare/JJ condition/NN -/: progressive/JJ multifocal/JJ leukoencephalopathy/NN (PML)/NN -/: in/IN patients/NNS taking/VBG either/CC Tysabri/NNP or/CC Avonex/NNP alone./NN
+Tysabri/NNP was/VBD approved/VBN for/IN use/NN in/IN the/DT US/PRP last/JJ November/NNP and/CC was/VBD widely/RB tipped/VBN to/TO become/VB the/DT world's/NNS leading/VBG multiple/JJ sclerosis/NN treatment./NN
+
+"The/NN companies/NNS will/MD work/VB with/IN clinical/JJ investigators/NNS to/TO evaluate/VB Tysabri-treated/NNP patients/NNS and/CC will/MD consult/VB with/IN leading/VBG experts/NNS to/TO better/RB understand/VB the/DT possible/JJ risk/NN of/IN PML"/NNP the/DT two/CD firms/NNS said/VBD in/IN a/DT statement./NN
+"The/NN outcome/NN of/IN these/DT evaluations/NNS will/MD be/VB used/VBN to/TO determine/VB possible/JJ re-initiation/NN of/IN dosing/VBG in/IN clinical/JJ trials/NNS and/CC future/JJ commercial/JJ availability."/NN
+
+Analysts/NNS had/VBD believed/VBN the/DT product/NN would/MD provide/VB a/DT new/JJ growth/NN opportunity/NN for/IN Biogen/NNP Idec/NNP which/WDT had/VBD faced/VBN increased/VBN competition/NN from/IN rivals/NNS to/TO Avonex./NNP
+Elan/NN once/RB the/DT biggest/JJS firm/NN on/IN the/DT Irish/JJ stock/NN exchange/NN was/VBD also/RB expected/VBN to/TO receive/VB a/DT boost/NN from/IN the/DT new/JJ product./NN
+An/DT inquiry/NN into/IN Elan's/NNP accounts/NNS in/IN 2002/CD brought/VBD the/DT group/NN close/NN to/TO bankruptcy/NN but/CC the/DT firm/NN has/VBZ been/VBN rebuilding/VBG itself/PRP since/IN with/IN its/PRP$ share/NN price/NN increasing/VBG by/IN almost/RB four-fold/RB last/JJ year./NN
+"Most/NN of/IN the/DT value/NN in/IN the/DT company/NN was/VBD in/IN Tysabri"/NNP said/VBD Ian/NNP Hunter/NNP at/IN Goodbody/NNP Stockbrokers/NNS in/IN Dublin./NNP
+"Now/NN there's/NNS a/DT question/NN mark/NN over/IN it."/NN Elan/NN finished/VBD down/RB $18.90/CD at/IN $8/CD while/IN Biogen/NNP fell/VBD $28.63/CD to/TO $38.65./CD
+
+-/: Shares/NNS in/IN UK/NNP pharmaceutical/JJ firm/NN Phytopharm/NNP closed/VBD down/RB 19.84%/CD at/IN 151.5/CD pence/NN on/IN the/DT London/NNP Stock/NNP Exchange/NNP on/IN Monday/NNP after/IN it/PRP said/VBD a/DT partner/NN was/VBD set/VBN to/TO pull/VB out/IN of/IN a/DT deal/NN on/IN an/DT experimental/JJ Alzheimer's/NNP disease/NN treatment./NN
+Phytopharm/NNP said/VBD Japan's/NNP Yamanouchi/NNP Pharmaceutical/NNP was/VBD likely/JJ to/TO end/VB a/DT licensing/NN agreement/NN prompting/VBG analysts/NNS to/TO raise/VB questions/NNS over/IN the/DT level/NN of/IN its/PRP$ future/JJ cash/NN reserves./NN

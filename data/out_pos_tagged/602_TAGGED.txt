@@ -1,0 +1,11 @@
+Actor/NNP Foxx/NNP sees/VBZ Globe/NNP nominations/NNS
+
+US/PRP actor/VBP Jamie/NNP Foxx/NNP has/VBZ been/VBN given/VBN two/CD nominations/NNS for/IN Golden/NNP Globe/NNP awards/NNS with/IN Meryl/NNP Streep/NNP Morgan/NNP Freeman/NNP and/CC Cate/NNP Blanchett/NNP also/RB up/IN for/IN prizes./NN
+
+The/DT stars/NNS were/VBD shortlisted/VBN on/IN Monday/NNP for/IN supporting/VBG roles/NNS with/IN the/DT main/JJ nominations/NNS still/RB to/TO come./VB
+Foxx/NNP has/VBZ starred/VBN in/IN Collateral/NN and/CC Ray./NNP
+Clive/NNP Owen/NNP David/NNP Carradine/NNP and/CC Natalie/NNP Portman/NNP are/VBP also/RB up/IN for/IN awards./NN
+The/DT Golden/NNP Globes/NNP Hollywood's/NNP second/JJ most/RBS prominent/JJ awards/NNS are/VBP the/DT first/JJ major/JJ nominations/NNS to/TO be/VB announced./NN
+Last/JJ year/NN The/DT Lord/NNP Of/IN the/DT Rings/NNS The/DT Return/NN Of/IN the/DT King/NNP was/VBD named/VBN best/JJS drama/NN movie/NN while/IN Lost/VBD In/IN Translation/NN won/VBD best/RBS musical/JJ or/CC comedy./NN
+Sean/NNP Penn/NNP Charlize/NNP Theron/NNP Tim/NNP Robbins/NNP and/CC Renee/NNP Zellweger/NNP all/DT won/VBD acting/VBG awards/NNS -/: mirroring/NN the/DT eventual/JJ Oscars/NNP outcome./NN
+The/DT Golden/NNP Globes/NNP ceremony/NN will/MD take/VB place/NN on/IN 16/CD January/NNP with/IN the/DT Oscars/NNP following/VBG on/IN 27/CD February./NNP

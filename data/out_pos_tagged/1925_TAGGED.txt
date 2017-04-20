@@ -1,0 +1,22 @@
+Bush/NNP website/NN blocked/VBN outside/IN US/PRP
+
+Surfers/NNS outside/IN the/DT US/PRP have/VBP been/VBN unable/JJ to/TO visit/VB the/DT official/JJ re-election/NN site/NN of/IN President/NNP George/NNP W/NNP Bush./NNP
+
+The/DT blocking/NN of/IN browsers/NNS sited/VBN outside/IN the/DT US/PRP began/VBD in/IN the/DT early/JJ hours/NNS of/IN Monday/NNP morning./NN
+Since/IN then/RB people/NNS outside/IN the/DT US/PRP trying/VBG to/TO browse/VB the/DT site/NN get/VB a/DT message/NN saying/VBG they/PRP are/VBP not/RB authorised/VBN to/TO view/VB it./NN
+The/DT blocking/VBG does/VBZ not/RB appear/VB to/TO be/VB due/JJ to/TO an/DT attack/NN by/IN vandals/NNS or/CC malicious/JJ hackers/NNS but/CC as/IN a/DT result/NN of/IN a/DT policy/NN decision/NN by/IN the/DT Bush/NNP camp./NN
+
+The/DT international/JJ exclusion/NN zone/NN around/IN georgewbush.com/NN was/VBD spotted/VBN by/IN net/JJ monitoring/NN firm/NN Netcraft/NNP which/WDT keeps/VBZ an/DT eye/NN on/IN traffic/NN patterns/NNS across/IN many/JJ different/JJ sites./NN
+Netcraft/NNP said/VBD that/IN since/IN the/DT early/JJ hours/NNS of/IN 25/CD October/NNP attempts/NNS to/TO view/VB the/DT site/NN through/IN its/PRP$ monitoring/NN stations/NNS in/IN London/NNP Amsterdam/NNP and/CC Sydney/NNP failed./NN
+
+By/IN contrast/NN Netcraft's/NNP four/CD monitoring/NN stations/NNS in/IN the/DT US/PRP managed/VBD to/TO view/VB the/DT site/NN with/IN no/DT problems./NN
+The/DT site/NN can/MD still/RB be/VB seen/VBN using/VBG anonymous/JJ proxy/NN services/NNS that/WDT are/VBP based/VBN in/IN the/DT US./NNP
+Some/DT web/NN users/NNS in/IN Canada/NNP also/RB report/NN that/IN they/PRP can/MD browse/VB the/DT site./NN
+The/DT pattern/NN of/IN traffic/NN to/TO the/DT website/NN suggests/VBZ that/IN the/DT blocking/VBG was/VBD not/RB due/JJ to/TO an/DT attack/NN by/IN vandals/NNS or/CC politically/RB motivated/VBN hackers./NN
+Geographic/JJ blocking/NN works/VBZ because/IN the/DT numerical/JJ addresses/NNS that/IN the/DT net/JJ uses/VBZ to/TO organise/VB itself/PRP are/VBP handed/VBN out/RP on/IN a/DT regional/JJ basis./NN
+On/IN 21/CD October/NNP the/DT George/NNP W/NNP Bush/NNP website/NN began/VBD using/VBG the/DT services/NNS of/IN a/DT company/NN called/VBN Akamai/NNP to/TO ensure/VB that/IN the/DT pages/NNS videos/NNS and/CC other/JJ content/NN on/IN its/PRP$ site/NN reaches/VBZ visitors./NN
+Mike/NNP Prettejohn/NNP president/NN of/IN Netcraft/NNP speculated/VBD that/IN the/DT blocking/VBG decision/NN might/MD have/VB been/VBN taken/VBN to/TO cut/VB costs/NNS and/CC traffic/NN in/IN the/DT run-up/NN to/TO the/DT election/NN on/IN 2/CD November./NNP
+He/PRP said/VBD the/DT site/NN may/MD see/VB no/DT reason/NN to/TO distribute/VB content/JJ to/TO people/NNS who/WP will/MD not/RB be/VB voting/NN next/JJ week./NN
+Managing/VBG traffic/NN could/MD also/RB be/VB a/DT good/JJ way/NN to/TO ensure/VB that/IN the/DT site/NN stays/VBZ working/VBG in/IN the/DT closing/NN days/NNS of/IN the/DT election/NN campaign./NN
+However/RB simply/RB blocking/VBG non-US/JJ visitors/NNS also/RB means/VBZ that/IN Americans/NNPS overseas/JJ are/VBP barred/VBN too./NN
+Akamai/NNP declined/VBD to/TO comment/VB saying/VBG it/PRP could/MD not/RB talk/VB about/IN customer/NN websites./NN

@@ -1,0 +1,10 @@
+Tulu/NN to/TO appear/VB at/IN Caledonian/NNP run/VB
+
+Two-time/NNP Olympic/NNP 10000/CD metres/NNS champion/NN Derartu/NNP Tulu/NNP has/VBZ confirmed/VBN she/PRP will/MD take/VB part/NN in/IN the/DT BUPA/NNP Great/NNP Caledonian/NNP Run/NNP in/IN Edinburgh/NNP on/IN 8/CD May./NNP
+
+The/DT 32-year-old/JJ Ethiopian/JJ is/VBZ the/DT first/JJ star/NN name/NN to/TO enter/VB the/DT event./NN
+Tulu/NNP has/VBZ won/VBN the/DT Boston/NNP London/NNP and/CC Tokyo/NNP Marathons/NNP as/RB well/RB as/IN the/DT world/NN 10000m/CD title/NN in/IN 2001./CD
+"We/NN are/VBP delighted/JJ to/TO have/VB secured/VBN the/DT services/NNS of/IN one/CD the/DT most/RBS decorated/JJ competitors/NNS the/DT sport/NN has/VBZ ever/RB seen"/NN said/VBD race/NN director/NN Matthew/NNP Turnbull./NNP
+"Her/NN record/NN speaks/VBZ for/IN herself/PRP and/CC there/EX are/VBP few/JJ other/JJ women/NNS distance/NN runners/NNS who/WP would/MD dare/MD compare/VB their/PRP$ pedigree/NN with/IN Tulu's"/NNP he/PRP added./VB
+"She/NN might/MD be/VB 33/CD next/JJ month/NN but/CC that/DT didn't/NN stop/VB her/PRP$ winning/VBG the/DT Olympic/NNP 10000m/CD bronze/NN medal/NN last/JJ summer./NN
+She's/VBG an/DT ultra-consistent/JJ championships/NNS racer."/NN

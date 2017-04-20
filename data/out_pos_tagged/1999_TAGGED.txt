@@ -1,0 +1,24 @@
+Broadband/NNP in/IN the/DT UK/NNP growing/VBG fast/RB
+
+High-speed/JJ net/JJ connections/NNS in/IN the/DT UK/NNP are/VBP proving/VBG more/RBR popular/JJ than/IN ever./NN
+
+BT/NN reports/NNS that/IN more/JJR people/NNS signed/VBD up/RP for/IN broadband/NN in/IN the/DT last/JJ three/CD months/NNS than/IN in/IN any/DT other/JJ quarter./NN
+The/DT 600000/CD connections/NNS take/VBP the/DT total/JJ number/NN of/IN people/NNS in/IN the/DT UK/NNP signing/VBG up/RP for/IN broadband/NN from/IN BT/NNP to/TO almost/RB 3.3/CD million./NN
+Nationally/RB more/JJR than/IN 5/CD million/CD browse/NN the/DT net/NN via/IN broadband./NN
+Britain/NNP now/RB has/VBZ among/IN the/DT highest/JJS number/NN of/IN broadband/NN connections/NNS throughout/IN the/DT whole/NN of/IN Europe./NNP
+
+According/VBG to/TO figures/NNS gathered/VBN by/IN industry/NN watchdog/NN Ofcom/NNP the/DT growth/NN means/VBZ that/IN the/DT UK/NNP has/VBZ now/RB surpassed/VBN Germany/NNP in/IN terms/NNS of/IN broadband/NN users/NNS per/IN 100/CD people./NN
+The/DT UK/NNP total/NN of/IN 5.3/CD million/CD translates/NNS into/IN 7.5/CD connections/NNS per/IN 100/CD people/NNS compared/VBN to/TO 6.7/CD in/IN Germany/NNP and/CC 15.8/CD in/IN the/DT Netherlands./NNP
+The/DT numbers/NNS of/IN people/NNS signing/VBG up/IN to/TO broadband/VB include/VBP those/DT that/WDT get/VBP their/PRP$ service/NN direct/JJ from/IN BT/NNP or/CC via/IN the/DT many/JJ companies/NNS that/IN re-sell/JJ BT/NNP lines/NNS under/IN their/PRP$ own/JJ name./NN
+Part/NN of/IN the/DT surge/NN in/IN people/NNS signing/VBG up/RP was/VBD due/JJ to/TO BT/NNP stretching/VBG the/DT reach/NN of/IN ADSL/NNP -/: the/DT UK's/NNP most/RBS widely/RB used/VBN way/NN of/IN getting/VBG broadband/NN -/: beyond/IN 6km./CD
+
+Asymmetric/NNP Digital/NNP Subscriber/NN Line/NNP technology/NN lets/VBZ ordinary/JJ copper/NN phone/NN lines/NNS support/VBP high/JJ data/NNS speeds./NN
+The/DT standard/JJ speed/NN is/VBZ 512kbps/CD though/IN faster/JJR connections/NNS are/VBP available./NN
+"This/NN breakthrough/NN led/VBD to/TO a/DT dramatic/JJ increase/NN in/IN orders/NNS as/IN we/PRP were/VBD suddenly/RB able/JJ to/TO satisfy/VB the/DT pent-up/JJ demand/NN that/WDT existed/VBD in/IN many/JJ areas"/NN said/VBD Paul/NNP Reynolds/NNP chief/NN executive/NN of/IN BT/NNP Wholesale/JJ which/WDT provides/VBZ phone/NN lines/NNS that/IN other/JJ firms/NNS re-sell./JJ
+BT/NNP Retail/JJ which/WDT sells/VBZ net/JJ services/NNS under/IN its/PRP$ own/JJ name/NN also/RB had/VBD a/DT good/JJ quarter/NN and/CC provided/VBN about/IN 30%/CD of/IN the/DT new/JJ broadband/NN customers./NN
+This/DT was/VBD a/DT slight/JJ increase/NN on/IN the/DT previous/JJ three/CD months./NN
+Despite/IN the/DT good/JJ news/NN about/IN growth/NN in/IN broadband/NN figures/NNS from/IN telecommunications/NNS regulator/NN Ofcom/NNP show/VBP that/IN BT/NNP faces/VBZ increasing/VBG competition/NN and/CC dwindling/VBG influence/NN in/IN other/JJ sectors./NN
+Local/JJ Loop/NN Unbundling/NNP (LLU)/NN in/IN which/WDT BT/NNP rivals/NNS install/VBP their/PRP$ hardware/NN in/IN exchanges/NNS and/CC take/VB over/RP the/DT line/NN to/TO a/DT customer's/NNS home/NN or/CC office/NN is/VBZ growing/VBG steadily./NN
+Cable/NNP &/CC Wireless/NNP and/CC NTL/NNP have/VBP announced/VBN that/IN they/PRP are/VBP investing/VBG millions/NNS to/TO start/VB offering/NN LLU/NNP services./NN
+By/IN the/DT end/NN of/IN September/NNP more/JJR than/IN 4.2/CD million/CD phone/NN lines/NNS were/VBD using/VBG so-called/JJ Carrier/NN Pre-Section/NNP (CPS)/NN services/NNS such/JJ as/IN TalkTalk/NNP and/CC One.Tel/NNP which/WDT route/NN phone/NN calls/NNS across/IN non-BT/JJ networks/NNS from/IN a/DT local/JJ exchange./NN
+There/EX are/VBP now/RB more/JJR than/IN 300/CD different/JJ firms/NNS offering/NN CPS/NNP services/NNS and/CC the/DT percentage/NN of/IN people/NNS using/VBG BT/NNP lines/NNS for/IN voice/NN calls/VBZ has/VBZ shrunk/VBN to/TO 55.4%./CD

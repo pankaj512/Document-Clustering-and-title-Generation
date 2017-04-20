@@ -1,0 +1,18 @@
+Vera/NNP Drake/NNP scoops/VBZ film/NN award/NN
+
+Oscar/NNP hopefuls/NNS Mike/NNP Leigh/NNP and/CC Imelda/NNP Staunton/NNP were/VBD both/DT winners/NNS at/IN the/DT 2004/CD Evening/NN Standard/NNP British/NNP Film/NNP Awards./NNP
+
+Vera/NNP Drake/NNP -/: Leigh's/NNP 1950s/CD drama/NN about/IN a/DT backstreet/NN abortionist/NN -/: was/VBD named/VBN best/JJS film/NN and/CC Staunton/NNP who/WP played/VBD the/DT title/NN role/NN was/VBD named/VBN best/JJS actress./NN
+Other/JJ winners/NNS included/VBD Paddy/NNP Considine/NNP who/WP was/VBD crowned/VBN best/JJS actor/NN for/IN his/PRP$ role/NN in/IN Dead/NNP Man's/NNP Shoes./NNP
+Bridget/NNP Jones/NNP The/DT Edge/NNP of/IN Reason/NN was/VBD named/VBN Evening/NN Standard/NNP Readers'/NNP Film/NNP of/IN 2004/CD at/IN the/DT central/JJ London/NNP ceremony./NN
+
+Leigh/NNP was/VBD presented/VBN with/IN his/PRP$ winner's/NNS statuette/NN by/IN Timothy/NNP Spall/NNP and/CC Staunton's/NNP award/NN was/VBD announced/VBN by/IN Patrick/NNP Stewart/NNP during/IN the/DT glittering/VBG ceremony/NN at/IN The/DT Savoy/NNP on/IN Sunday/NNP night./NN
+Evening/NNP Standard/NNP film/NN critic/NN Derek/NNP Malcolm/NNP said/VBD "He/NN [Leigh]/NN has/VBZ never/RB made/VBN a/DT film/NN that/WDT is/VBZ better/RBR controlled/VBN and/CC technically/RB more/JJR secure.../NN
+If/IN this/DT isn't/NN one/CD of/IN the/DT films/NNS of/IN the/DT year/NN I/PRP don't/VBP know/NN what/WDT is."/NN The/DT Alexander/NNP Walker/NNP Special/JJ Award/NN -/: which/WDT honours/NNS those/DT who/WP have/VBP made/VBN a/DT supreme/JJ contribution/NN to/TO British/JJ film/NN -/: went/VBD to/TO Tim/NNP Bevan/NNP and/CC Eric/NNP Fellner/NNP the/DT co-chairmen/NNS of/IN Working/VBG Title/NNP films./NN
+The/DT production/NN company/NN is/VBZ behind/IN films/NNS such/JJ as/IN My/PRP$ Beautiful/JJ Laundrette/NNP Billy/NNP Elliot/NNP About/IN A/DT Boy/NNP Shaun/NNP of/IN The/DT Dead/NNP and/CC Bridget/NNP Jones/NNP The/DT Edge/NNP of/IN Reason./NNP
+
+Simon/NNP Pegg/NNP who/WP stars/VBZ in/IN and/CC co-wrote/JJ Shaun/NNP of/IN the/DT Dead/NNP won/VBD the/DT 2004/CD Peter/NNP Sellers/NNS Award/NN For/IN Comedy./NNP
+Other/JJ winners/NNS included/VBD Emily/NNP Blunt/NNP and/CC Nathalie/NNP Press/NNP who/WP were/VBD jointly/RB named/VBN ITV/NNP London/NNP Most/JJS Promising/VBG Newcomer/NN Award/NN for/IN their/PRP$ performances/NNS in/IN Pawel/NNP Pawlikowski's/NNP rites-of-passage/JJ story/NN My/PRP$ Summer/NNPS of/IN Love./NNP
+Pawlikowski/NNP won/VBD the/DT best/JJS screenplay/NN statuette/NN while/IN Roger/NNP Deakins/NNP won/VBD the/DT Technical/NNP Achievement/NNP Award/NN for/IN his/PRP$ cinematography/NN on/IN The/DT Village/NNP and/CC The/DT Ladykillers./NNP
+Guests/NNS at/IN the/DT ceremony/NN included/VBD Dame/NNP Judi/NNP Dench/NNP Kim/NNP Cattrall/NNP Charles/NNP Dance/NNP Bill/NNP Nighy/NNP and/CC Colin/NNP Firth./NNP
+The/DT awards/NNS which/WDT were/VBD hosted/VBN by/IN Jack/NNP Dee/NNP are/VBP to/TO be/VB screened/VBN on/IN ITV/NNP London/NNP on/IN Tuesday/NNP at/IN 2300/CD GMT./NNP

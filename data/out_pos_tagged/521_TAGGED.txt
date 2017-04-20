@@ -1,0 +1,16 @@
+Artists'/NNP secret/JJ postcards/NNS on/IN sale/NN
+
+Postcards/NNS by/IN artists/NNS including/VBG Damien/NNP Hirst/NNP and/CC Tracey/NNP Emin/NNP have/VBP sold/VBN just/RB hours/NNS after/IN the/DT opening/NN of/IN the/DT Royal/NNP Academy/NNP of/IN Arts/NNS annual/JJ Secrets/NNS sale./NN
+
+The/DT identity/NN of/IN the/DT artist/NN remains/VBZ unknown/JJ until/IN each/DT work/NN is/VBZ bought/VBN and/CC the/DT signature/NN is/VBZ revealed/VBN on/IN the/DT back./NN
+"There/NN are/VBP still/RB some/DT big/JJ names/NNS left/VBD such/JJ as/IN Mario/NNP Testino"/NNP said/VBD RCA/NNP spokeswoman/NN Sue/VB Bradburn./NNP
+All/DT postcards/NNS are/VBP priced/VBN at/IN £35./CD
+The/DT sale/NN opened/VBD at/IN 8am/CD on/IN Friday/NNP and/CC will/MD close/VB at/IN 6pm/CD on/IN Saturday./NNP
+Ms/NNP Bradburn/NNP said/VBD there/EX was/VBD a/DT big/JJ queue/NN at/IN the/DT start/NN of/IN the/DT sale/NN but/CC it/PRP had/VBD now/RB gone/VBN down./NN
+
+She/PRP said/VBD the/DT people/NNS that/WDT had/VBD bought/VBN the/DT famous/JJ name/NN postcards/NNS had/VBD arrived/VBN early/JJ and/CC had/VBD spent/VBN time/NN studying/VBG each/DT work./NN
+"They/NN would/MD have/VB known/VBN what/WP to/TO look/VB for."/NN The/DT exhibition/NN has/VBZ been/VBN open/JJ for/IN viewing/VBG since/IN 19/CD November./NNP
+Film/NNP director/NN Ken/NNP Loach/NNP fashion/NN designer/NN Hussein/NNP Chalayan/NNP and/CC former/JJ Blur/NNP guitarist/NN Graham/NNP Coxon/NNP have/VBP all/DT designed/VBN postcards/NNS for/IN the/DT sale./NN
+Some/DT of/IN the/DT contributing/VBG artists/NNS are/VBP students/NNS or/CC recent/JJ graduates/NNS of/IN the/DT Royal/NNP College/NNP of/IN Art/NNP and/CC other/JJ leading/VBG art/NN colleges./NN
+Money/NN raised/VBD from/IN the/DT sale/NN will/MD go/VB towards/IN the/DT RCA's/NNP Fine/NNP Art/NNP Student/NNP Award/NN Fund/NNP which/WDT supports/VBZ students/NNS with/IN grants/NNS and/CC bursaries./NN
+The/DT famous/JJ sale/NN is/VBZ now/RB in/IN its/PRP$ 11th/JJ year./NN

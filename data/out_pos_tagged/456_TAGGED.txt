@@ -1,0 +1,13 @@
+Gazprom/NNP 'in/NN $36m/CD back-tax/JJ claim'/NN
+
+The/DT nuclear/JJ unit/NN of/IN Russian/JJ energy/NN giant/NN Gazprom/NNP is/VBZ reportedly/RB facing/VBG a/DT 1bn/CD rouble/JJ ($35.7m/CD £19.1m)/CD back-tax/JJ claim/NN for/IN the/DT 2001-2003/JJ period./NN
+
+Vedomosti/NNP newspaper/NN reported/VBD that/IN Russian/JJ authorities/NNS made/VBD the/DT demand/NN at/IN the/DT end/NN of/IN last/JJ year./NN
+The/DT paper/NN added/VBD that/IN most/JJS of/IN the/DT taxes/NNS claimed/VBD are/VBP linked/VBN to/TO the/DT company's/NNS export/NN activity./NN
+Gazprom/VBG the/DT biggest/JJS gas/NN company/NN in/IN the/DT world/NN took/VBD over/RP nuclear/JJ fuel/NN giant/NN Atomstroieksport/NNP in/IN October/NNP 2004./CD
+The/DT main/JJ project/NN of/IN Atomstroieksport/NNP is/VBZ the/DT building/NN of/IN a/DT nuclear/JJ plant/NN in/IN Iran/NNP which/WDT has/VBZ been/VBN a/DT source/NN of/IN tension/NN between/IN Russia/NNP and/CC the/DT US./NNP
+
+Gazprom/NNP is/VBZ one/CD of/IN the/DT key/JJ players/NNS in/IN the/DT complex/JJ Russian/JJ energy/NN market/NN where/WRB the/DT government/NN of/IN Vladimir/NNP Putin/NNP has/VBZ made/VBN moves/NNS to/TO regain/VB state/NN influence/NN over/IN the/DT sector./NN
+Gazprom/NNP is/VBZ set/VBN to/TO merge/VB with/IN state/NN oil/NN firm/NN Rosneft/NNP the/DT company/NN that/WDT eventually/RB acquired/VBD Yuganskneftegas/NNP the/DT main/JJ unit/NN of/IN embattled/JJ oil/NN giant/NN Yukos./NNP
+Claims/NNS for/IN back-taxes/NNS was/VBD a/DT tool/NN used/VBN against/IN Yukos/NNP and/CC led/VBN to/TO the/DT enforced/VBN sale/NN Yuganskneftegas./NNP
+Some/DT analysts/NNS fear/VBP the/DT Kremlin/NNP will/MD continue/VB to/TO use/VB these/DT sort/NN of/IN moves/NNS to/TO boost/VB the/DT efforts/NNS of/IN the/DT state/NN to/TO regain/VB control/NN over/IN strategically/RB important/JJ sectors/NNS such/JJ as/IN oil./NN

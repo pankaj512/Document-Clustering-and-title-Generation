@@ -1,0 +1,18 @@
+Jol/NNP joy/NN at/IN 'professional'/NN Cup/NNP win/VB
+
+Tottenham/NNP manager/NN Martin/NNP Jol/NNP acclaimed/JJ his/PRP$ players/NNS for/IN their/PRP$ patience/NN in/IN their/PRP$ 3-0/JJ FA/NNP Cup/NNP fifth-round/JJ victory/NN over/IN a/DT determined/VBN Nottingham/NNP Forest/NNP side./NN
+
+"We/NN had/VBD the/DT initiative/NN but/CC it/PRP wasn't/NN easy./NN
+It/PRP was/VBD a/DT professional/JJ sort/NN of/IN performance"/NN the/DT Dutchman/NNP said./NN
+"Forest/NN played/VBD with/IN a/DT lot/NN of/IN players/NNS behind/IN the/DT ball/NN in/IN the/DT first/JJ half/NN but/CC at/IN 2-0/JJ they/PRP were/VBD dead/JJ and/CC buried."/NN Looking/VBG ahead/RB to/TO the/DT quarter-final/JJ Jol/NNP said/VBD "Newcastle/NN have/VBP got/VBN a/DT very/RB good/JJ side/NN and/CC they/PRP are/VBP always/RB difficult."/VB However/RB he/PRP added/VBD that/IN his/PRP$ side/NN who/WP are/VBP four/CD places/NNS above/IN the/DT Magpies/NNP in/IN the/DT Premiership/NN were/VBD "not/NN afraid/JJ of/IN anyone"./NN
+Robbie/NNP Keane/NNP skipper/VB for/IN the/DT night/NN and/CC scorer/NN of/IN the/DT crucial/JJ second/JJ goal/NN echoed/VBD his/PRP$ manager's/NNS sentiments/NNS on/IN the/DT last-eight/JJ match./NN
+"They're/NN on/IN a/DT high/JJ but/CC we're/NN confident/JJ and/CC in/IN the/DT last/JJ few/JJ games/NNS we've/NN played/VBD well/RB and/CC hopefully/RB we/PRP can/MD go/VB there/RB and/CC get/VB the/DT win"/NN he/PRP said./VB
+
+He/PRP conceded/VBD the/DT win/NN over/IN Forest/NNP which/WDT included/VBD goals/NNS from/IN Noe/NNP Pamarot/NNP and/CC Mido/NNP was/VBD not/RB pretty/RB to/TO watch./VB
+"It/NN wasn't/NN the/DT best/JJS display/NN but/CC it's/VBZ all/DT about/IN the/DT result"/NN the/DT Irishman/NNP said./NN
+"We/NN knew/VBD it/PRP was/VBD going/VBG to/TO be/VB difficult/JJ with/IN the/DT conditions./NN
+The/DT pitch/NN wasn't/NN the/DT best/JJS but/CC we/PRP still/RB tried/VBD to/TO pass/VB it./NN
+"We/NN dug/VBD in/IN and/CC the/DT gaffer/NN said/VBD to/TO us/PRP at/IN half-time/NN to/TO keep/VB being/VBG patient/NN and/CC that/IN the/DT goal/NN will/MD come."/VB Forest/NNP manager/NN Gary/NNP Megson/NNP conceded/VBD his/PRP$ team/NN did/VBD not/RB deserve/VB anything/NN after/IN a/DT poor/JJ performance./NN
+"If/NN you/PRP play/VBP like/IN we/PRP did/VBD and/CC concede/VBP two/CD goals/NNS from/IN corners/NNS you're/NN going/VBG to/TO have/VB an/DT uphill/JJ battle/NN against/IN a/DT very/RB good/JJ team"/NN he/PRP said./VB
+"If/NN we/PRP defend/VBP in/IN the/DT Championship/NNP like/IN we/PRP did/VBD we'll/NN not/RB get/VB another/DT point./NN
+"We/NN were/VBD organised/VBN but/CC I/PRP felt/VBD at/IN times/NNS we/PRP thought/VBD the/DT system/NN would/MD be/VB enough/RB but/CC we/PRP didn't/VBP look/NN like/IN scoring."/NN

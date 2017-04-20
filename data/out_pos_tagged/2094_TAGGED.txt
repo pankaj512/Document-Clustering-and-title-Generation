@@ -1,0 +1,40 @@
+Rings/NNS of/IN steel/NN combat/NN net/JJ attacks/NNS
+
+Gambling/NN is/VBZ hugely/RB popular/JJ especially/RB with/IN tech-savvy/JJ criminals./NN
+
+Many/JJ extortionists/NNS are/VBP targeting/VBG net-based/JJ betting/NN firms/NNS and/CC threatening/VBG to/TO cripple/VB their/PRP$ websites/NNS with/IN deluges/NNS of/IN data/NNS unless/IN a/DT ransom/NN is/VBZ paid./NN
+But/CC now/RB deep/JJ defences/NNS are/VBP being/VBG put/VBN in/IN place/NN by/IN some/DT of/IN the/DT UK's/NNP biggest/JJS net/JJ firms/NNS to/TO stop/VB these/DT attacks./NN
+Increasing/VBG numbers/NNS of/IN attacks/NNS and/CC the/DT huge/JJ amounts/NNS of/IN data/NNS being/VBG used/VBN to/TO try/VB to/TO bump/VB a/DT site/NN off/RP the/DT web/NN are/VBP prompting/VBG firms/NNS to/TO adopt/VB the/DT measures./NN
+"Net/NN firms/NNS are/VBP realising/VBG that/IN it's/NNS not/RB just/RB about/IN anti-virus/JJ and/CC firewalls"/NN said/VBD Paul/NNP King/NNP chief/NN security/NN architect/NN at/IN Cisco./NNP
+"There/NN are/VBP more/JJR things/NNS that/WDT can/MD be/VB done/VBN in/IN the/DT network/NN to/TO protect/VB data/NNS centres."/NN Mr/NNP King/NNP said/VBD the/DT only/JJ way/NN to/TO properly/RB combat/VB these/DT so-called/NN Distributed/VBN Denial-of-Service/NNP attacks/NNS was/VBD with/IN intelligent/JJ net-based/JJ systems./NN
+Many/JJ of/IN the/DT gambling/NN sites/NNS suffering/VBG DDoS/NNP attacks/NNS are/VBP in/IN offshore/RB data/NNS and/CC hosting/VBG centres/NNS so/IN any/DT large/JJ scale/NN data/NNS flood/NN could/MD knock/VB out/RP access/NN to/TO many/JJ more/JJR sites/NNS than/IN just/RB the/DT one/CD the/DT criminals/NNS were/VBD targeting/VBG said/VBD Mr/NNP King./NNP
+This/DT overspill/NN effect/NN was/VBD only/RB likely/JJ to/TO grow/VB as/IN attacks/NNS grow/VBP in/IN size/NN and/CC scale./NN
+
+Malcolm/NNP Seagrave/NNP security/NN expert/NN at/IN Energis/NNP said/VBD the/DT most/RBS common/JJ types/NNS of/IN attacks/NNS hit/VBD sites/NNS with/IN 10/CD megabytes/NNS of/IN data/NNS over/IN short/JJ periods/NNS of/IN time./NN
+Bigger/JJR attacks/NNS sending/VBG down/RP 200/CD megabytes/NNS of/IN traffic/NN or/CC more/JJR were/VBD rarely/RB seen/VBN he/PRP said./VB
+"It/NN does/VBZ feel/VB like/IN they/PRP are/VBP turning/VBG the/DT dial/NN because/IN you/PRP see/VBP this/DT traffic/NN gradually/RB growing"/NN he/PRP said./VB
+
+So/RB far/RB there/EX have/VBP been/VBN no/DT attacks/NNS involving/VBG gigabytes/NNS of/IN data/NNS said/VBD Mr/NNP Seagrave./NNP
+However/RB he/PRP added/VBD that/IN it/PRP was/VBD only/RB a/DT matter/NN of/IN time/NN before/IN such/JJ large/JJ attacks/NNS were/VBD mounted./NN
+Maria/NNP Capella/NNP spokeswoman/NN for/IN net/JJ provider/NN Pipex/NNP said/VBD that/IN when/WRB DDoS/NNP attacks/NNS were/VBD at/IN their/PRP$ height/NN customers/NNS were/VBD getting/VBG hit/VBD every/DT four/CD to/TO five/CD days./NN
+The/DT defences/NNS being/VBG put/VBN in/IN place/NN constantly/RB monitor/VB the/DT streams/NNS of/IN data/NNS flowing/VBG across/IN networks/NNS and/CC pluck/VB out/RP the/DT traffic/NN destined/VBN for/IN target/NN sites./NN
+"It's/NN about/IN understanding/VBG what's/NNS genuine/JJ traffic/NN and/CC keeping/VBG attack/NN traffic/NN from/IN going/VBG to/TO the/DT site"/NN she/PRP said./VBP
+"We/NN study/NN the/DT profile/NN of/IN their/PRP$ traffic/NN and/CC as/RB soon/RB as/IN we/PRP see/VBP an/DT anomaly/RB in/IN the/DT profile/NN that's/NNS when/WRB we/PRP start/VBP to/TO get/VB the/DT backbone/NN engineering/NN boys/NNS to/TO see/VB if/IN we/PRP are/VBP going/VBG to/TO sustain/VB an/DT attack"/NN said/VBD Ms/NNP Capella./NNP
+This/DT traffic/NN can/MD be/VB hard/JJ to/TO spot/VB because/IN DDoS/NNP attacks/NNS typically/RB use/VBP thousands/NNS of/IN computers/NNS in/IN many/JJ different/JJ countries/NNS each/DT participating/VBG machine/NN only/RB sends/VBZ a/DT small/JJ part/NN of/IN the/DT entire/JJ data/NN flood./NN
+
+Typically/RB these/DT computers/NNS have/VBP been/VBN infected/JJ by/IN a/DT virus/NN or/CC worm/NN which/WDT reports/VBZ its/PRP$ success/NN and/CC the/DT net/JJ address/NN of/IN compromised/VBN machines/NNS back/RB to/TO the/DT malicious/JJ hacker/NN or/CC hi-tech/JJ criminal/NN that/WDT set/VBD off/RP the/DT virus./NN
+Hijacked/JJ computers/NNS are/VBP known/VBN as/IN zombies/NNS or/CC 'bots/NN and/CC collections/NNS of/IN them/PRP are/VBP called/VBN 'bot/NN nets./NN
+Many/JJ spammers/NNS rent/VBP out/RP 'bot/NN nets/NNS to/TO help/VB them/PRP anonymously/RB send/VBP junk/NN mail./NN
+
+Most/JJS of/IN the/DT zombies/NNS are/VBP based/VBN outside/IN the/DT country/NN that/WDT hosts/VBZ the/DT target/NN site/NN so/RB getting/VBG the/DT attacking/VBG PCs/NNS shut/VBP off/RP can/MD be/VB difficult./NN
+Often/RB Pipex/NNP and/CC other/JJ net/JJ suppliers/NNS do/VBP get/VB advance/NN notice/NN that/IN an/DT attack/NN is/VBZ about/IN to/TO happen./VB
+"The/NN serious/JJ players/NNS tend/VBP to/TO precede/VB an/DT attack/NN with/IN some/DT kind/NN of/IN ransom/NN e-mail"/NN said/VBD Ms/NNP Capella./NNP
+"We/NN ask/NN as/IN part/NN of/IN the/DT service/NN we/PRP provide/VBP that/IN customers/NNS notify/VB us/PRP of/IN anything/NN they/PRP have/VBP in/IN advance/NN that/WDT would/MD give/VB us/PRP forewarning."/VBP Once/RB an/DT attack/NN is/VBZ spotted/VBN dedicated/VBN net/JJ hardware/NN takes/VBZ over/RP to/TO remove/VB the/DT attack/NN traffic/NN and/CC ensure/VB that/IN sites/NNS stay/VBP up./NN
+Energis/NNP took/VBD a/DT similar/JJ approach/NN said/VBD Mr/NNP Seagrave./NNP
+"We/NN have/VBP technology/NN out/IN there/RB that/WDT allows/VBZ us/PRP to/TO detect/VB attacks/NNS in/IN minutes/NNS rather/RB than/IN let/NN network/NN engineers/NNS spend/VBP hours/NNS pulling/VBG the/DT information/NN together"/NN said/VBD Mr/NNP Seagrave./NNP
+Also/RB net/JJ firms/NNS were/VBD starting/VBG to/TO work/VB more/RBR closely/RB together/RB on/IN the/DT problem/NN of/IN DDoS/NNP attacks/NNS and/CC pool/NN information/NN about/IN where/WRB they/PRP are/VBP coming/VBG from./NN
+Information/NNP gathered/VBD on/IN attacks/NNS and/CC where/WRB they/PRP originated/VBD has/VBZ led/VBN to/TO some/DT arrests./NN
+He/PRP said/VBD Energis/NNP also/RB did/VBD its/PRP$ own/JJ intelligence/NN work/NN to/TO get/VB in/IN insight/NN into/IN which/WDT sites/NNS criminal/JJ gangs/NNS plan/VBP to/TO target./VB
+"We/NN have/VBP people/NNS in/IN places/NNS where/WRB they/PRP shouldn't/VBP be/VB monitoring/NN tech/NN sites"/NN he/PRP said./VB
+Sometimes/RB though/IN he/PRP said/VBD spotting/VBG the/DT next/JJ victim/NN was/VBD easy./NN
+"You/NN can/MD see/VB them/PRP going/VBG alphabetically/RB through/IN the/DT list/NN with/IN the/DT gambling/NN sites/NNS trying/VBG one/CD after/IN another"/NN said/VBD Mr/NNP Seagrave./NNP

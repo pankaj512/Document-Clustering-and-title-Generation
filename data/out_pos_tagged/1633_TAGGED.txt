@@ -1,0 +1,34 @@
+France/NNP v/NN Wales/NNP (Sat)/NN
+
+Stade/NNP de/NNP France/NNP Paris/NNP
+
+Saturday/NNP 26/CD February/NNP
+
+1600/CD GMT/NNP
+
+BBC1/CD Radio/NNP 4/CD LW/NNP and/CC this/DT website/NN
+
+France/NNP may/MD have/VB beaten/VBN Scotland/NNP and/CC England/NNP but/CC they/PRP were/VBD tedious/JJ and/CC uninspired/JJ throughout/IN both/DT matches./NN
+Wales/NNP on/IN the/DT other/JJ hand/NN have/VBP played/VBN some/DT fine/JJ rugby/NN and/CC have/VBP made/VBN their/PRP$ best/JJS start/VB since/IN they/PRP last/NN won/VBD the/DT title/NN in/IN 1994./CD
+They/PRP also/RB have/VBP a/DT good/JJ record/NN at/IN the/DT Stade/NNP de/IN France/NNP having/VBG won/VBD their/PRP$ first/JJ two/CD games/NNS there/RB in/IN 1999/CD and/CC 2001./CD
+Wales/NNS have/VBP made/VBN two/CD changes/NNS from/IN the/DT team/NN that/WDT thrashed/VBD Italy/NNP 38-8/JJ in/IN Rome./NNP
+
+Kevin/NNP Morgan/NNP takes/VBZ over/IN from/IN his/PRP$ injured/VBN Newport-Gwent/NNP Dragons/NNP colleague/NN Hal/NNP Luscombe/NNP on/IN the/DT right/JJ wing./NN
+In/IN the/DT pack/NN Neath-Swansea/NNP Ospreys/NNP forward/RB Ryan/NNP Jones/NNP bas/NNS been/VBN brought/VBN on/IN the/DT blind-side/JJ flank/NN to/TO beef/VB up/RP the/DT Wales/NNP back/RB row/NN in/IN place/NN of/IN Jonathan/NNP Thomas./NNP
+Wales/NNP coach/NN Mike/NNP Ruddock/NNP is/VBZ determined/VBN that/IN his/PRP$ team/NN will/MD not/RB go/VB into/IN their/PRP$ shells/NNS after/IN their/PRP$ promising/VBG start/NN to/TO the/DT championship./NN
+"Graham/NNP Henry/NNP (former/NN Wales/NNP coach)/NN said/VBD a/DT couple/NN of/IN years/NNS ago/IN that/IN we/PRP should/MD 'be/VB bold'/NN when/WRB going/VBG to/TO France/NNP and/CC he/PRP was/VBD proved/VBN right"/NN said/VBD Ruddock./NNP
+"That/NN is/VBZ a/DT great/JJ way/NN to/TO approach/VB the/DT game/NN and/CC something/NN we/PRP will/MD further/RBR endorse/VB with/IN the/DT players/NNS this/DT week."/NN
+
+Despite/IN their/PRP$ stuttering/VBG displays/NNS in/IN their/PRP$ first/JJ two/CD games/NNS defending/VBG champions/NNS France/NNP are/VBP also/RB unbeaten./NN
+Under-pressure/NNP coach/NN Bernard/NNP Laporte/NNP has/VBZ made/VBN four/CD changes/NNS with/IN Yannick/NNP Nyanga/NNP the/DT debutant/NN Julien/NNP Laharrague/NNP Aurelien/NNP Rougerie/NNP and/CC Yannick/NNP Jauzion/NNP coming/VBG into/IN the/DT side./NN
+France/NNS have/VBP been/VBN criticised/VBN for/IN the/DT absence/NN of/IN traditional/JJ "French/NN flair"/NN as/IN they/PRP have/VBP ground/VBP their/PRP$ way/NN to/TO victory/NN so/RB far/RB this/DT year/NN but/CC captain/NN Fabien/NNP Pelous/NNP sees/VBZ hope/NN on/IN the/DT horizon./NN
+"I/NN get/VBP the/DT impression/NN we/PRP are/VBP getting/VBG better"/NN he/PRP said./VB
+"Against/NNP Wales/NNP which/WDT is/VBZ different/JJ from/IN the/DT teams/NNS we/PRP have/VBP beaten/VBN I/PRP hope/VBP we/PRP can/MD show/VB our/PRP$ proper/JJ game."/NN
+
+J/NNP Laharrague/NNP A/NNP Rougerie/NNP Y/NNP Jauzion/NNP D/NNP Traille/NNP C/NNP Dominici/NNP Y/NNP Delaigue/NNP D/NNP Yachvili/NNP S/NNP Marconnet/NNP S/NNP Bruno/NNP N/NNP Mas/NNP F/NN Pelous/NNP (capt)/NN J/NNP Thion/NNP S/NNP Betsen/NNP Y/NNP Nyanga/NNP J/NNP Bonnaire/NNP (Bourgoin)./NN
+
+W/NNP Servat/NNP O/NNP Milloud/NNP G/NNP Lamboley/NNP I/PRP Harinordoquy/NNP P/NNP Mignoni/NNP F/NN Michalak/NNP J-P/NNP Grandclaude./NNP
+
+G/NNP Thomas/NNP (capt)/NN K/NNP Morgan/NNP T/NNP Shanklin/NNP G/NNP Henson/NNP S/NNP Williams/NNP S/NNP Jones/NNP D/NNP Peel/NNP G/NNP Jenkins/NNP M/NNP Davies/NNP A/NNP Jones/NNP B/NNP Cockbain/NNP R/NN Sidoli/NNP R/NN Jones/NNP M/NNP Williams/NNP M/NNP Owen./NNP
+
+R/NNP McBryde/NNP J/NNP Yapp/NNP J/NNP Thomas/NNP R/NN Sowden-Taylor/NNP G/NNP Cooper/NNP C/NNP Sweeney/NNP R/NN Williams./NNP

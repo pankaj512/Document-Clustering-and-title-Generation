@@ -1,0 +1,23 @@
+Anti-spam/NNP screensaver/NN scrapped/VBN
+
+A/DT contentious/JJ campaign/NN to/TO bump/VB up/RP the/DT bandwidth/NN bills/NNS of/IN spammers/NNS by/IN flooding/VBG their/PRP$ sites/NNS with/IN data/NNS has/VBZ been/VBN dropped./NN
+
+Lycos/NNP Europe's/NNP Make/VB Love/NNP Not/RB Spam/NNP campaign/NN began/VBD in/IN late/JJ November/NNP but/CC its/PRP$ tactics/NNS proved/VBD controversial./NN
+Lycos/NNP has/VBZ shut/VBN down/RP the/DT campaign/NN saying/VBG it/PRP had/VBD been/VBN started/VBN to/TO stimulate/VB debate/NN about/IN anti-spam/JJ measures/NNS and/CC had/VBD now/RB achieved/VBN this/DT aim./NN
+The/DT anti-spammer/JJ screensaver/NN came/VBD under/IN fire/NN for/IN encouraging/VBG vigilante/NN activity/NN and/CC skirting/VBG the/DT edge/NN of/IN the/DT law./NN
+
+Through/IN the/DT Make/NN Love/NNP Not/RB Spam/NNP website/NN users/NNS could/MD download/VB a/DT screensaver/NN that/WDT would/MD endlessly/RB request/VB data/NNS from/IN the/DT net/JJ sites/NNS mentioned/VBN in/IN many/JJ junk/NN mail/NN messages./NN
+More/JJR than/IN 100000/CD people/NNS are/VBP thought/VBN to/TO have/VB downloaded/VBN the/DT screensaver/NN that/IN Lycos/NNP Europe/NNP offered./NN
+
+The/DT company/NN wanted/VBD to/TO keep/VB the/DT spam/NN sites/NNS running/VBG at/IN near/IN total/JJ capacity/NN to/TO make/VB it/PRP much/RB less/RBR financially/RB attractive/JJ to/TO spammers/NNS to/TO operate/VB the/DT sites./NN
+But/CC the/DT campaign/NN was/VBD controversial/JJ from/IN the/DT moment/NN it/PRP kicked/VBD off/RP and/CC many/JJ net/JJ veterans/NNS criticised/VBD it/PRP for/IN using/VBG spamming-type/JJ tactics/NNS against/IN the/DT senders/NNS of/IN junk/NN mail./NN
+Some/DT net/JJ service/NN firms/NNS began/VBD blocking/VBG access/NN to/TO the/DT Lycos/NNP Europe/NNP site/NN in/IN protest/NN at/IN the/DT action./NN
+Monitoring/NN firm/NN Netcraft/NNP found/VBD that/IN the/DT anti-spam/JJ campaign/NN was/VBD proving/VBG a/DT little/JJ too/RB successful./NN
+According/VBG to/TO response-time/JJ figures/NNS gathered/VBN by/IN Netcraft/NNP some/DT of/IN the/DT sites/NNS that/IN the/DT screensaver/NN targeted/VBN were/VBD being/VBG knocked/VBD offline/NN by/IN the/DT constant/JJ data/NN requests./NN
+In/IN a/DT statement/NN from/IN Lycos/NNP Europe/NNP announcing/VBG the/DT scrapping/NN of/IN the/DT scheme/NN the/DT company/NN denied/VBD that/IN this/DT was/VBD its/PRP$ fault./NN
+"There/NN is/VBZ nothing/NN to/TO suggest/VB that/WDT Make/NN Love/NNP Not/RB Spam/NNP has/VBZ brought/VBN down/RP any/DT of/IN the/DT sites/NNS that/IN it/PRP has/VBZ targeted"/NN it/PRP said./NN
+"At/NN the/DT time/NN that/IN Netcraft/NNP measured/VBD the/DT sites/NNS it/PRP claims/VBZ may/MD have/VB been/VBN brought/VBN down/RP they/PRP were/VBD not/RB in/IN fact/NN part/NN of/IN the/DT Make/NN Love/NNP Not/RB Spam/NNP attack/NN cycle"/NN it/PRP added./NN
+The/DT statement/NN issued/VBD by/IN Lycos/NNP also/RB said/VBD that/IN the/DT centralised/VBN database/NN it/PRP used/VBD ensured/VBN that/DT traffic/NN to/TO the/DT target/NN sites/NNS left/VBD them/PRP with/IN 5%/CD spare/JJ capacity./NN
+"The/NN idea/NN was/VBD simply/RB to/TO slow/VB spammers'/NN sites/NNS and/CC this/DT was/VBD achieved/VBN by/IN the/DT campaign"/NN the/DT company/NN said./NN
+Many/JJ security/NN organisations/NNS said/VBD users/NNS should/MD not/RB participate/VB in/IN the/DT Lycos/NNP Europe/NNP campaign./NN
+The/DT closure/NN comes/VBZ only/JJ days/NNS after/IN the/DT campaign/NN was/VBD suspended/VBN following/VBG the/DT outbreak/NN of/IN criticism./NN

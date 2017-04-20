@@ -1,0 +1,15 @@
+MPs/NNP demand/NN 'Budget/NN leak'/NN answers/NNS
+
+Ministers/NNS have/VBP been/VBN asked/VBN to/TO explain/VB how/WRB Budget/NNP details/NNS were/VBD printed/VBN in/IN a/DT London/NNP newspaper/NN half/PDT an/DT hour/NN before/IN Gordon/NNP Brown/NNP made/VBD his/PRP$ speech./NN
+
+The/DT Tories/NNPS said/VBD a/DT large/JJ chunk/NN of/IN the/DT Budget/NNP appeared/VBD to/TO have/VB been/VBN leaked/VBN in/IN what/WP they/PRP describe/VBP as/IN a/DT "serious/JJ breach/NN of/IN Treasury/NNP confidentiality"./NN
+The/DT Lib/NNP Dems/NNP called/VBD for/IN Commons/NNPS leader/NN Peter/NNP Hain/NNP to/TO make/VB a/DT statement/NN and/CC said/VBD chancellors/NNS had/VBD resigned/VBN over/IN leaks./NN
+They/PRP were/VBD told/VBN it/PRP would/MD be/VB brought/VBN to/TO Speaker/NNP Michael/NNP Martin's/NNP attention./NN
+In/IN the/DT Commons/NNPS Tory/NNP frontbencher/NN Andrew/NNP Tyrie/NNP MP/NNP demanded/VBD an/DT immediate/JJ ministerial/JJ statement/NN about/IN how/WRB measures/NNS had/VBD been/VBN "clearly/RB or/CC at/IN least/JJS apparently/RB leaked/VBN to/TO the/DT Evening/NN Standard"./NNP
+
+Raising/VBG a/DT point/NN of/IN order/NN he/PRP said/VBD it/PRP was/VBD "the/NN latest/JJS in/IN a/DT long/JJ line/NN of/IN discourtesies/NNS to/TO this/DT House"/NNP as/RB well/RB as/IN a/DT breach/NN of/IN confidentiality./NN
+He/PRP said/VBD "I/NN can/MD only/RB hope/VB it/PRP is/VBZ unintentional./NN
+If/IN it/PRP were/VBD planned/VBN it/PRP would/MD be/VB a/DT very/RB grave/JJ matter/NN indeed./NN
+A/DT previous/JJ Labour/NNP chancellor/NN resigned/VBD after/IN he/PRP leaked/VBD the/DT Budget."/NNP Hugh/NNP Dalton/NNP resigned/VBD after/IN leaking/VBG details/NNS of/IN his/PRP$ 1947/CD budget/NN to/TO journalist/VB John/NNP Carvel/NNP who/WP published/VBD them/PRP in/IN a/DT London/NNP newspaper/NN just/RB minutes/VBZ before/IN they/PRP were/VBD announced/VBN to/TO the/DT House/NNP of/IN Commons./NNP
+Liberal/NNP Democrat/NNP David/NNP Laws/NNS said/VBD it/PRP was/VBD a/DT "very/NN serious/JJ matter"/NN and/CC said/VBD Mr/NNP Hain/NNP should/MD make/VB a/DT statement/NN on/IN Thursday./NNP
+Deputy/NNP Speaker/NNP Sylvia/NNP Heal/VB agreed/VBD it/PRP was/VBD "of/NN concern"/NN but/CC said/VBD nothing/NN could/MD be/VB done/VBN immediately/RB but/CC the/DT issue/NN would/MD be/VB brought/VBN to/TO Mr/NNP Martin's/NNP attention./NN

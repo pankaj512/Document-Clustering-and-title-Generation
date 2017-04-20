@@ -1,0 +1,12 @@
+
+Now,/VBG the/DT company/NN says/VBZ that/IN when/WRB you/PRP reply/VBP to/TO someone/VB —/NN or/CC to/TO a/DT group/NN —/NN usernames/NNS will/MD no/RB longer/RB count/NN toward/IN those/DT 140/CD characters./NN This/DT will/MD be/VB especially/RB helpful/JJ with/IN group/NN conversations,/NN where/WRB replying/VBG to/TO two,/VB three/CD or/CC more/JJR users/NNS at/IN a/DT time/NN could/MD be/VB especially/RB difficult/JJ with/IN the/DT character/NN constraints./NN
+
+When/WRB users/NNS reply,/VBP the/DT names/NNS of/IN the/DT people/NNS they/PRP are/VBP replying/VBG to/TO will/MD be/VB on/IN top/NN of/IN the/DT text/NN of/IN the/DT actual/JJ tweet,/NN rather/RB than/IN a/DT part/NN of/IN it./NN
+
+Last/JJ year,/NN Twitter/NNP said/VBD it/PRP would/MD stop/VB counting/VBG photos,/NN videos,/NN quote/NN tweets,/NN polls/NNS and/CC GIF/NNP animations/NNS toward/IN the/DT character/NN limit./NN Twitter/NNP also/RB said/VBD it/PRP would/MD stop/VB counting/VBG usernames,/NN but/CC the/DT change/NN did/VBD not/RB go/VB into/IN effect/NN until/IN now./NN
+
+Twitter,/NNP which/WDT has/VBZ been/VBN struggling/VBG to/TO attract/VB new/JJ users,/NN has/VBZ been/VBN trying/VBG to/TO appeal/VB to/TO both/DT proponents/NNS and/CC opponents/NNS by/IN sticking/VBG to/TO the/DT current/JJ limit/NN while/IN allowing/VBG more/JJR freedom/NN to/TO express/VB thoughts,/NN or/CC rants,/NN through/IN images/NNS and/CC other/JJ media./NN
+
+Twitter’s/NNP character/NN limit/NN was/VBD created/VBN so/IN that/IN tweets/NNS could/MD fit/VB into/IN a/DT single/JJ text/NN message,/NN back/RB in/IN the/DT heyday/NN of/IN SMS/NNP messaging./NN But/CC now,/NN most/JJS people/NNS use/VBP Twitter/NNP through/IN its/PRP$ mobile/JJ app./NN There/EX isn’t/NN the/DT same/JJ technical/JJ constraint,/NN just/RB a/DT desire/NN on/IN Twitter’s/NNP part/NN to/TO stay/VB true/JJ to/TO its/PRP$ roots./NN
+
+Of/IN course,/NN there/EX are/VBP ways/NNS to/TO get/VB around/IN the/DT limit/NN ,/, such/JJ as/IN sending/VBG out/RP multi-part/JJ tweets,/NN or/CC taking/VBG screenshots/NNS of/IN text/NN typed/VBD elsewhere./NN

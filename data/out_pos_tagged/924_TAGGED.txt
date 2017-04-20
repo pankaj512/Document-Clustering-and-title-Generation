@@ -1,0 +1,15 @@
+Lib/NNP Dems/NNP demand/NN new/JJ inquiry/NN
+
+A/DT judge/NN should/MD look/VB into/IN the/DT David/NNP Blunkett/NNP controversy/NN as/IN key/JJ questions/NNS remain/VBP unanswered/VBN the/DT Lib/NNP Dems/NNP say./NN
+
+Sir/NNP Alan/NNP Budd's/NNP inquiry/NN linked/VBD the/DT ex-home/NN secretary/NN to/TO the/DT speeding/VBG up/RP of/IN a/DT visa/NN claim/NN by/IN his/PRP$ ex-lover's/NN nanny./NN
+But/CC he/PRP could/MD not/RB say/VB whether/IN Mr/NNP Blunkett/NNP had/VBD treated/VBN the/DT nanny/NN as/IN a/DT special/JJ case/NN or/CC had/VBD used/VBN her/PRP as/IN an/DT example/NN of/IN immigration/NN problems./NN
+Lib/NNP Dem/NNP spokesman/NN Mark/NNP Oaten/NNP said/VBD the/DT number/NN of/IN officials/NNS who/WP had/VBD forgotten/VBN what/WP happened/VBD was/VBD worrying./NN
+He/PRP told/VBD BBC/NNP News/NNP "I'm/NN extremely/RB concerned/VBD that/IN 20/CD individuals/NNS appear/VBP to/TO have/VB forgotten/VBN what/WP happened/VBD or/CC more/RBR suspiciously/RB are/VBP not/RB prepared/JJ to/TO say/VB what/WP happened./NN
+"That/NN must/MD be/VB bad/JJ for/IN government/NN it/PRP must/MD be/VB bad/JJ for/IN public/JJ confidence/NN in/IN the/DT system."/NN
+
+Mr/NNP Oaten/NNP said/VBD people/NNS would/MD be/VB mystified/VBN why/WRB Sir/NNP Alan's/NNP inquiry/NN failed/VBD to/TO uncover/VB why/WRB processing/NN of/IN the/DT visa/NN application/NN was/VBD speeded/VBN up./NN
+He/PRP said/VBD "There/NN is/VBZ a/DT strong/JJ case/NN for/IN a/DT judge-led/JJ judicial/JJ review/NN of/IN this/DT because/IN of/IN course/NN next/JJ time/NN it/PRP happens/VBZ it/PRP may/MD not/RB be/VB about/IN a/DT nanny/NN and/CC their/PRP$ visa./NN
+It/PRP may/MD be/VB about/IN something/NN even/RB more/RBR important/JJ than/IN that./NN
+"So/NN we/PRP do/VBP need/VB to/TO understand/VB what/WP took/VBD place/NN and/CC who/WP was/VBD involved."/NN The/DT Tories/NNPS criticised/VBD the/DT Lib/NNP Dem/NNP stance/NN saying/VBG Mr/NNP Oaten/NNP had/VBD initially/RB said/VBN he/PRP accepted/VBD Mr/NNP Blunkett's/NNP word/NN unless/IN further/JJ evidence/NN emerged./NN
+But/CC Lib/NNP Dem/NNP officials/NNS say/VBP Mr/NNP Oaten/NNP was/VBD speaking/VBG when/WRB an/DT inquiry/NN was/VBD under/IN way/NN and/CC was/VBD avoiding/VBG rushing/VBG to/TO judgement./VB

@@ -1,0 +1,23 @@
+Germany/NNP calls/VBZ for/IN EU/NNP reform/NN
+
+German/JJ Chancellor/NNP Gerhard/NNP Schroeder/NNP has/VBZ called/VBN for/IN radical/JJ reform/NN of/IN the/DT EU's/NNP stability/NN pact/NN to/TO grant/VB countries/NNS more/JJR flexibility/NN over/IN their/PRP$ budget/NN deficits./NN
+
+Mr/NNP Schroeder/NNP said/VBD existing/VBG fiscal/JJ rules/NNS should/MD be/VB loosened/VBN to/TO allow/VB countries/NNS to/TO run/VB deficits/NNS above/IN the/DT current/JJ 3%/CD limit/NN if/IN they/PRP met/VBD certain/JJ criteria./NN
+Writing/VBG in/IN the/DT Financial/NNP Times/NNP Mr/NNP Schroeder/NNP also/RB said/VBD heads/VBZ of/IN government/NN should/MD have/VB a/DT greater/JJR say/NN in/IN reforms./NN
+Changes/NNS to/TO the/DT pact/NN are/VBP due/JJ to/TO be/VB agreed/VBN at/IN an/DT economic/JJ summit/NN in/IN March./NNP
+
+The/DT current/JJ EU/NNP rules/NNS limit/VBP the/DT size/NN of/IN a/DT eurozone/NN country's/NNS deficit/NN to/TO 3%/CD of/IN GDP./NNP
+Countries/NNS which/WDT exceed/VBP the/DT threshold/NN are/VBP liable/JJ to/TO heavy/JJ fines/NNS by/IN the/DT European/NNP Commission/NNP although/IN several/JJ countries/NNS including/VBG Germany/NNP have/VBP breached/VBN the/DT rules/NNS consistently/RB since/IN 2002/CD without/IN facing/VBG punishment./NN
+The/DT European/NNP Commission/NNP acknowledged/VBD last/JJ month/NN that/IN it/PRP would/MD not/RB impose/VB sanctions/NNS on/IN countries/NNS who/WP break/VBP the/DT rules./NN
+
+Mr/NNP Schroeder/NNP -/: a/DT staunch/NN supporter/NN of/IN the/DT pact/NN when/WRB it/PRP was/VBD set/VBN up/RP in/IN the/DT 1990s/CD -/: said/VBD exemptions/NNS were/VBD now/RB needed/VBN to/TO take/VB into/IN account/NN the/DT cost/NN of/IN domestic/JJ reform/NN programmes/NNS and/CC changing/VBG economic/JJ conditions./NN
+"The/NN stability/NN pact/NN will/MD work/VB better/RBR if/IN intervention/NN by/IN European/JJ institutions/NNS in/IN the/DT budgetary/JJ sovereignty/NN of/IN national/JJ parliaments/NNS is/VBZ only/RB permitted/VBN under/IN very/RB limited/JJ conditions"/NN he/PRP wrote./VB
+"Only/RB if/IN their/PRP$ competences/NNS are/VBP respected/VBN will/MD the/DT member/NN states/NNS be/VB willing/JJ to/TO align/VB their/PRP$ policies/NNS more/RBR consistently/RB with/IN the/DT economic/JJ goals/NNS of/IN the/DT EU."/NNP
+
+Deficits/NNS should/MD be/VB allowed/VBN to/TO rise/VB above/IN 3%/CD Mr/NNP Schroeder/NNP argued/VBD if/IN countries/NNS meet/VBP several/JJ "mandatory/NN criteria"./NN
+These/DT include/VBP governments/NNS which/WDT are/VBP adopting/VBG costly/JJ structural/JJ reforms/NNS countries/NNS which/WDT are/VBP suffering/VBG economic/JJ stagnation/NN and/CC nations/NNS which/WDT are/VBP shouldering/VBG "special/JJ economic/JJ burdens"./NN
+The/DT proposed/VBN changes/NNS would/MD make/VB it/PRP harder/RBR for/IN the/DT European/NNP Commission/NNP to/TO launch/VB infringement/NN action/NN against/IN any/DT state/NN which/WDT breaches/NNS the/DT pact's/NNS rules./NN
+Mr/NNP Schroeder's/NNP intervention/NN comes/VBZ ahead/RB of/IN a/DT meeting/NN of/IN the/DT 12/CD Eurozone/NNP finance/NN ministers/NNS on/IN Monday/NNP to/TO discuss/VB the/DT pact./NN
+The/DT issue/NN will/MD also/RB be/VB discussed/VBN at/IN Tuesday's/NNP Ecofin/NNP meeting/NN of/IN the/DT finance/NN ministers/NNS of/IN all/DT 25/CD EU/NNP members./NN
+Mr/NNP Schroeder/NNP also/RB called/VBD for/IN heads/VBZ of/IN government/NN to/TO play/VB a/DT larger/JJR role/NN in/IN shaping/VBG reforms/NNS to/TO the/DT pact./NN
+A/DT number/NN of/IN EU/NNP finance/NN ministers/NNS are/VBP believed/VBN to/TO favour/VB only/RB limited/JJ changes/NNS to/TO the/DT eurozone's/NNS rules./NN

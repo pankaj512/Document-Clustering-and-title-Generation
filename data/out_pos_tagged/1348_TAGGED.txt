@@ -1,0 +1,20 @@
+Collins/NNP banned/VBD in/IN landmark/NN case/NN
+
+Sprinter/NNP Michelle/NNP Collins/NNP has/VBZ received/VBN an/DT eight-year/JJ ban/NN for/IN doping/VBG offences/NNS after/IN a/DT hearing/NN at/IN the/DT North/JJ American/NNP Court/NNP of/IN Arbitration/NN for/IN Sport/NNP (CAS)./NN
+
+America's/NNP former/JJ world/NN indoor/JJ 200m/CD champion/NN is/VBZ the/DT first/JJ athlete/NN to/TO be/VB suspended/VBN without/IN a/DT positive/JJ drugs/NNS test/NN or/CC an/DT admission/NN of/IN drugs/NNS use./NN
+Collins'/NNP ban/NN is/VBZ a/DT result/NN of/IN her/PRP$ connection/NN to/TO the/DT federal/JJ inquiry/NN into/IN the/DT Balco/NNP doping/VBG scandal./NN
+The/DT 33-year-old/NN was/VBD found/VBN guilty/JJ of/IN using/VBG performance-enhancing/JJ drugs./NN
+The/DT US/PRP Anti-Doping/NNP Agency/NNP (USADA)/NN decided/VBD to/TO press/VB charges/NNS against/IN Collins/NNP in/IN the/DT summer./NN
+The/DT sprinter/NN has/VBZ consistently/RB protested/VBN her/PRP$ innocence/NN but/CC the/DT CAS/NNP has/VBZ upheld/VBN USADA's/NNP findings./NN
+"The/NNP USADA/NNP has/VBZ proved/VBN beyond/IN a/DT reasonable/JJ doubt/NN that/IN Collins/NNP took/VBD EPO/NNP the/DT testosterone/epitestosterone/NN cream/NN and/CC THG"/NNP said/VBD a/DT CAS/NNP statement./NN
+"Collins/NN used/VBD these/DT substances/NNS to/TO enhance/VB her/PRP$ performance/NN and/CC elude/VB the/DT drug/NN testing/NN that/WDT was/VBD available/JJ at/IN the/DT time."/NN So/RB far/RB a/DT total/NN of/IN 13/CD athletes/NNS have/VBP been/VBN sanctioned/VBN for/IN violations/NNS involving/VBG drugs/NNS associated/VBN with/IN the/DT Balco/NNP doping/VBG scandal./NN
+World/NNP record/NN holder/NN Tim/NNP Montgomery/NNP is/VBZ also/RB facing/VBG a/DT lifetime/NN ban/NN after/IN being/VBG charged/VBN by/IN the/DT USADA./NNP
+His/PRP$ hearing/NN before/IN the/DT CSA/NNP has/VBZ been/VBN rescheduled/VBN for/IN June/NNP next/JJ year./NN
+
+Drug/NNP enforcement/NN chiefs/NNS in/IN the/DT US/PRP have/VBP vowed/VBN to/TO crack/VB down/RP on/IN cheats./NN
+USADA/NNP chief/JJ executive/NN officer/NN Terry/NNP Madden/NNP said/VBD the/DT action/NN taken/VBN against/IN Collins/NNP was/VBD further/JJ proof/NN of/IN that./NN
+"The/NNP CAS/NNP panel's/NNS decision/NN confirms/VBZ that/IN those/DT who/WP violate/VBP the/DT rules/NNS will/MD be/VB sanctioned/VBN as/IN part/NN of/IN USADA's/NNP ongoing/JJ efforts/NNS to/TO protect/VB the/DT rights/NNS of/IN the/DT overwhelming/JJ majority/NN of/IN US/PRP athletes/VBZ that/WDT compete/NN drug-free"/NN said/VBD Madden./NNP
+The/DT USADA/NNP has/VBZ built/VBN its/PRP$ cases/NNS on/IN verbal/JJ evidence/NN given/VBN to/TO the/DT federal/JJ investigation/NN into/IN Balco/NNP rather/RB than/IN test/NN results./NN
+The/DT San/NNP Francisco-based/JJ Balco/NNP laboratory/NN faces/VBZ steroid/NN distribution/NN and/CC money/NN laundering/NN charges./NN
+The/DT trial/NN is/VBZ expected/VBN to/TO open/VB next/JJ March./NNP

@@ -1,0 +1,14 @@
+Brown/NN names/NNS 16/CD March/NNP for/IN Budget/NNP
+
+Chancellor/NNP Gordon/NNP Brown/NNP will/MD deliver/VB his/PRP$ Budget/NNP to/TO the/DT House/NNP of/IN Commons/NNPS on/IN 16/CD March/NNP the/DT Treasury/NNP has/VBZ announced./NN
+
+The/DT Budget/NNP likely/JJ to/TO be/VB the/DT last/JJ before/IN the/DT General/NNP Election/NNP will/MD be/VB at/IN 1230/CD GMT/NNP on/IN that/DT Wednesday/NNP just/RB after/IN Prime/NNP Minister's/NNP question/NN time./NN
+The/DT annual/JJ event/NN is/VBZ when/WRB the/DT chancellor/NN outlines/VBZ the/DT government's/NNS taxation/NN and/CC broader/JJR economic/JJ predictions./NN
+It/PRP is/VBZ likely/JJ to/TO set/VB out/RP much/JJ of/IN the/DT tax/NN and/CC spending/NN battleground/NN for/IN the/DT election/NN widely/RB expected/VBD on/IN 5/CD May./NNP
+
+Next/JJ month's/NNS Budget/NNP will/MD be/VB Mr/NNP Brown's/NNP eighth/JJ since/IN Labour/NNP came/VBD to/TO power/VB in/IN 1997./CD
+If/IN a/DT May/NNP election/NN is/VBZ called/VBN there/EX could/MD be/VB as/RB little/JJ as/IN 18/CD days/NNS between/IN the/DT Budget/NNP and/CC the/DT announcement/NN of/IN a/DT date/NN for/IN the/DT election./NN
+A/DT shortened/VBN Finance/NNP Bill/NNP would/MD have/VB to/TO be/VB rushed/VBN through/IN Parliament/NNP with/IN all-party/JJ support/NN to/TO allow/VB the/DT Government/NNP to/TO continue/VB collecting/VBG revenue./NN
+The/DT full/JJ Finance/NNP Bill/NNP with/IN the/DT Budget/NNP measures/NNS in/IN it/PRP would/MD then/RB be/VB returned/VBN to/TO the/DT Commons/NNPS after/IN the/DT election/NN if/IN Labour/NNP secures/VBZ another/DT term/NN in/IN office./NN
+As/IN Mr/NNP Brown/NNP announced/VBD the/DT Budget/NNP date/NN in/IN a/DT short/JJ ministerial/JJ statement/NN accountancy/NN firm/NN Ernst/NNP &/CC Young/NNP urged/VBD him/PRP to/TO put/VB politics/NNS aside/RB and/CC focus/VB on/IN the/DT long-term/JJ requirements/NNS of/IN the/DT economy./NN
+"In/NN the/DT Budgets/NNS that/WDT were/VBD given/VBN immediately/RB before/IN the/DT last/JJ six/CD elections/NNS taxes/NNS were/VBD cut/VBN by/IN the/DT incumbent/JJ chancellor/NN and/CC in/IN many/JJ cases/NNS taxes/NNS were/VBD increased/VBN soon/RB after/IN the/DT election/NN result"/NN said/VBD Aidan/NNP O'Carroll/NNP E&Y's/NNP UK/NNP head/NN of/IN tax./NN

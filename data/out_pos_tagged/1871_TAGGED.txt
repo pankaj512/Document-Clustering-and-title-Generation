@@ -1,0 +1,21 @@
+Millions/NNS buy/VBP MP3/CD players/NNS in/IN US/PRP
+
+One/CD in/IN 10/CD adult/NNP Americans/NNPS -/: equivalent/JJ to/TO 22/CD million/CD people/NNS -/: owns/VBZ an/DT MP3/CD player/NN according/VBG to/TO a/DT survey./NN
+
+A/DT study/NN by/IN the/DT Pew/NNP Internet/NNP and/CC American/NNP Life/NNP Project/NNP found/VBD that/IN MP3/CD players/NNS are/VBP the/DT gadget/NN of/IN choice/NN among/IN affluent/JJ young/JJ Americans./NNP
+The/DT survey/NN did/VBD not/RB interview/VB teenagers/NNS but/CC it/PRP is/VBZ likely/JJ that/IN millions/NNS of/IN under-18s/JJ also/RB have/VBP MP3/CD players./NN
+The/DT American/JJ love/NN affair/NN with/IN digital/JJ music/NN players/NNS has/VBZ been/VBN made/VBN possible/JJ as/IN more/JJR and/CC more/JJR homes/NNS get/VBP broadband./NN
+
+Of/IN the/DT 22/CD million/CD Americans/NNPS who/WP own/JJ MP3/CD players/NNS 59%/CD are/VBP men/NNS compared/VBN to/TO 41%/CD of/IN women./NN
+Those/DT on/IN high/JJ income/NN -/: judged/VBN to/TO be/VB $75000/CD (£39000)/CD or/CC above/IN -/: are/VBP four/CD times/NNS more/RBR likely/JJ to/TO have/VB players/NNS than/IN those/DT earning/VBG less/JJR than/IN $30/CD 000/CD (/( £15000)./CD
+Broadband/NNP access/NN plays/VBZ a/DT big/JJ part/NN in/IN ownership/NN too./NN
+Almost/RB a/DT quarter/NN of/IN those/DT with/IN broadband/NN at/IN home/NN have/VBP players/NNS compared/VBN to/TO 9%/CD of/IN those/DT who/WP have/VBP dial-up/JJ access./NN
+MP3/CD players/NNS are/VBP still/RB the/DT gadget/NN of/IN choice/NN for/IN younger/JJR adults./NN
+Almost/RB one/CD in/IN five/CD US/PRP citizens/VBZ aged/VBN under/IN 30/CD have/VBP one./NN
+This/DT compares/VBZ to/TO 14%/CD of/IN those/DT aged/VBN 30-39/JJ and/CC 14%/CD of/IN those/DT aged/VBN 40-48./JJ
+The/DT influence/NN of/IN children/NNS also/RB plays/VBZ a/DT part./NN
+Sixteen/NNP percent/NN of/IN parents/NNS living/VBG with/IN children/NNS under/IN 18/CD have/VBP digital/JJ players/NNS compared/VBN to/TO 9%/CD of/IN those/DT who/WP don't./VBP
+The/DT ease/NN of/IN use/NN and/CC growth/NN of/IN music/NN available/JJ on/IN the/DT net/JJ are/VBP the/DT main/JJ factors/NNS for/IN the/DT upsurge/NN in/IN ownership/NN the/DT survey/NN found./NN
+People/NNS are/VBP beginning/VBG to/TO use/VB them/PRP as/IN instruments/NNS of/IN social/JJ activity/NN -/: sharing/VBG songs/NNS and/CC taking/VBG part/NN in/IN podcasting/VBG -/: the/DT survey/NN found./NN
+"IPods/NN and/CC MP3/CD players/NNS are/VBP becoming/VBG a/DT mainstream/NN technology/NN for/IN consumers"/NN said/VBD Lee/NNP Rainie/NNP director/NN of/IN the/DT Pew/NNP Internet/NNP and/CC American/NNP Life/NNP Project./NNP
+"More/NN growth/NN in/IN the/DT market/NN is/VBZ inevitable/JJ as/IN new/JJ devices/NNS become/VBP available/JJ as/IN new/JJ players/NNS enter/VBP the/DT market/NN and/CC as/IN new/JJ social/JJ uses/NNS for/IN iPods/MP3/CD players/NNS become/VBP popular"/NN he/PRP added./VB

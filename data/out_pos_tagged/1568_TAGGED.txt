@@ -1,0 +1,10 @@
+Ferguson/NN rues/NNS failure/NN to/TO cut/VB gap/NN
+
+Boss/NNP Sir/NNP Alex/NNP Ferguson/NNP was/VBD left/VBN ruing/VBG Manchester/NNP United's/NNP failure/NN to/TO close/VB the/DT gap/NN on/IN Chelsea/NNP Everton/NNP and/CC Arsenal/NN after/IN his/PRP$ side's/NNS 1-1/JJ draw/NN with/IN Fulham./NNP
+
+Premiership/NN leaders/NNS Chelsea/NNP and/CC the/DT Gunners/NNS endured/VBD a/DT 2-2/JJ stalemate/NN on/IN Sunday/NNP giving/VBG United/NNP the/DT chance/NN to/TO make/VB up/RP some/DT ground/NN in/IN the/DT league./NN
+But/CC Ferguson/NNP said/VBD "I/NN think/VBP what/WP makes/VBZ it/PRP so/RB bad/JJ is/VBZ that/IN both/DT our/PRP$ rivals/NNS dropped/VBD points/NNS at/IN the/DT weekend./NN
+"It/NN was/VBD a/DT great/JJ opportunity/NN -/: and/CC we/PRP haven't/VBP delivered."/NN United/NNP went/VBD ahead/RB through/IN Alan/NNP Smith/NNP in/IN the/DT 33rd/CD minute/NN before/IN Bouba/NNP Diop's/NNP superb/NN 25-yard/JJ strike/NN cancelled/VBD out/RP the/DT visitors'/NN lead/NN in/IN the/DT 87th/JJ minute./NN
+Ferguson/NNP described/VBD the/DT result/NN as/IN an/DT "absolute/NN giveaway"/NN after/IN United/NNP had/VBD earlier/RBR missed/VBN a/DT host/NN of/IN opportunities/NNS to/TO finish/VB off/RP the/DT encounter./NN
+He/PRP said/VBD "It/NN was/VBD a/DT good/JJ performance/NN -/: some/DT of/IN the/DT football/NN was/VBD fantastic/JJ -/: but/CC we/PRP just/RB didn't/VBP finish/NN them/PRP off./VBP
+"In/NN fairness/NN it's/NNS a/DT fantastic/JJ strike/NN from/IN the/DT Fulham/NNP player."/NN The/DT result/NN leaves/VBZ Ferguson's/NNP side/NN fourth/JJ in/IN the/DT league/NN on/IN 31/CD points/NNS -/: four/CD points/NNS behind/IN Arsenal/NN and/CC a/DT further/JJ five/CD back/RB from/IN Chelsea./NNP

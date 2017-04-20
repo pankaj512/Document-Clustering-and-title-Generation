@@ -1,0 +1,18 @@
+Slovakia/NNP seal/NN Hopman/NNP Cup/NNP success/NN
+
+Slovakia/NNP clinched/VBD the/DT Hopman/NNP Cup/NNP for/IN the/DT second/JJ time/NN by/IN beating/VBG Argentina/NNP 3-0/JJ in/IN Saturday's/NNP final/JJ in/IN Perth./NNP
+
+Daniela/NNP Hantuchova/NNP put/VBD the/DT third/JJ seeds/NNS ahead/RB recovering/VBG from/IN a/DT terrible/JJ start/NN to/TO beat/VB Gisela/NNP Dulko/NNP 1-6/JJ 6-4/JJ 6-4./JJ
+Dominik/NNP Hrbaty/NNP who/WP had/VBD not/RB lost/VBN a/DT set/VBN in/IN his/PRP$ three/CD singles/NNS matches/VBZ in/IN the/DT group/NN stages/NNS then/RB upset/VBN world/NN number/NN seven/CD Guillermo/NNP Coria/NNP 6-4/JJ 6-1./JJ
+Hantuchova/NNP and/CC Hrbaty/NNP then/RB won/VBD the/DT mixed/JJ doubles/NNS after/IN Coria/NNP was/VBD forced/VBN to/TO withdraw/VB because/IN of/IN a/DT sore/JJ back./NN
+Slovakia's/NNP win/VB made/VBN up/RP for/IN last/JJ year's/NNS final/JJ defeat/NN to/TO the/DT United/NNP States./NNP
+"I/NN would/MD like/VB to/TO congratulate/VB Daniela"/NNP Hrbaty/NNP said./NN
+"I/NN was/VBD so/RB nervous/JJ watching/VBG her/PRP$ today/NN I/PRP almost/RB had/VBD a/DT heart/NN attack./NN
+"I/NN also/RB feel/VBP a/DT little/RB sorry/JJ for/IN Guillermo/NNP because/IN I/PRP get/VBP very/RB excited/VBN whenever/WRB I/PRP play/VBP for/IN my/PRP$ country./NN
+I/PRP show/VBP lots/NNS of/IN emotions/NNS and/CC played/VBD such/JJ good/JJ tennis."/NN
+
+World/NNP number/NN 31/CD Hantuchova/NNP ranked/VBD two/CD places/NNS above/IN Dulko/NNP looked/VBD nervous/JJ as/IN she/PRP dropped/VBD the/DT first/JJ four/CD games/NNS of/IN the/DT match./NN
+Dulko/NNP who/WP had/VBD lost/VBN all/RB three/CD of/IN her/PRP$ singles/NNS matches/VBZ in/IN the/DT group/NN stages/NNS grew/VBD in/IN confidence/NN and/CC took/VBD the/DT opening/NN set/VBN in/IN just/RB 27/CD minutes./NN
+But/CC Hantuchova/NNP hit/VBD back/RB to/TO take/VB the/DT next/JJ two/CD and/CC the/DT match./NN
+"I/NN was/VBD so/RB nervous/JJ because/IN I/PRP really/RB wanted/VBD to/TO win/VB for/IN the/DT team/NN and/CC for/IN Dominik/NNP as/IN he/PRP played/VBD so/RB well/RB all/DT week"/NN she/PRP said./VBP
+"I/NN didn't/NN think/VBP I/PRP was/VBD playing/VBG my/PRP$ best/JJS but/CC I/PRP just/RB tried/VBD to/TO hang/VB in/IN there/RB and/CC fight/NN hard/RB for/IN every/DT point/NN for/IN my/PRP$ country."/NN Slovakia/NNP won/VBD the/DT Cup/NNP on/IN their/PRP$ first/JJ appearance/NN in/IN 1998/CD when/WRB Karol/NNP Kucera/NNP and/CC Karina/NNP Habsudova/NNP beat/VB France./NNP

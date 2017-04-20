@@ -1,0 +1,34 @@
+Mobile/NN multimedia/NNS slow/JJ to/TO catch/VB on/IN
+
+There/EX is/VBZ no/DT doubt/NN that/IN mobile/JJ phones/NNS sporting/VBG cameras/NNS and/CC colour/NN screens/NNS are/VBP hugely/RB popular./NN
+Consumers/NNS swapping/VBG old/JJ phones/NNS for/IN slinkier/NN dinkier/NN versions/NNS are/VBP thought/VBN to/TO be/VB responsible/JJ for/IN a/DT 26%/CD increase/NN in/IN the/DT number/NN of/IN phones/NNS sold/VBN during/IN the/DT third/JJ quarter/NN of/IN 2004/CD according/VBG to/TO analysts/NNS Gartner/NNP More/JJR than/IN 167/CD million/CD handsets/NNS were/VBD sold/VBN between/IN July/NNP and/CC September/NNP 2004/CD a/DT period/NN that/IN according/VBG to/TO Gartner/NNP analyst/NN Carolina/NNP Milanesi/NNP is/VBZ "seldom/NN strong"./NN
+But/CC although/IN consumers/NNS have/VBP mobiles/NNS that/WDT can/MD take/VB and/CC send/VB snaps/VBZ sounds/VBZ and/CC video/NN clips/NNS few/JJ so/RB far/RB are/VBP taking/VBG the/DT chance/NN to/TO do/VB so./NN
+
+In/IN fact/NN the/DT numbers/NNS of/IN people/NNS not/RB taking/VBG and/CC sending/VBG pictures/NNS audio/JJ and/CC video/NN is/VBZ growing./NN
+Figures/NNS gathered/VBN by/IN Continental/NNP Research/NNP shows/VBZ that/IN 36%/CD of/IN British/JJ camera/NN phone/NN users/NNS have/VBP never/RB sent/VBN a/DT multimedia/NNS message/NN (MMS)/NN up/RP from/IN 7%/CD in/IN 2003./CD
+This/DT is/VBZ despite/IN the/DT fact/NN that/IN during/IN the/DT same/JJ period/NN the/DT numbers/NNS of/IN camera/NN phones/NNS in/IN the/DT UK/NNP more/RBR than/IN doubled/VBD to/TO 7.5/CD million./NN
+Getting/VBG mobile/JJ phone/NN users/NNS to/TO send/VB multimedia/NNS messages/NNS is/VBZ really/RB important/JJ for/IN operators/NNS keen/JJ to/TO squeeze/VB more/JJR cash/NN out/IN of/IN their/PRP$ customers/NNS and/CC offset/VBD the/DT cost/NN of/IN subsidising/VBG the/DT handsets/NNS people/NNS are/VBP buying./NN
+The/DT problem/NN they/PRP face/VBP said/VBD Shailendra/NNP Jain/NNP head/NN of/IN MMS/NNP firm/NN Adamind/NNP is/VBZ educating/VBG people/NNS in/IN how/WRB to/TO send/VB the/DT multimedia/NNS messages/NNS using/VBG their/PRP$ funky/JJ handsets./NN
+
+"Also"/NN he/PRP said/VBD "they/NN have/VBP to/TO simplify/VB the/DT interface/JJ so/RB its/PRP$ not/JJ rocket/NN science/NN in/IN terms/NNS of/IN someone/NN understanding/NN it."/NN Research/NNP bears/VBZ out/RP the/DT suspicion/NN that/IN people/NNS are/VBP not/RB sending/VBG multimedia/NNS messages/NNS because/IN they/PRP do/VBP not/RB know/VB how/WRB to./NN
+According/VBG to/TO Continental/NNP Research/NNP 29%/CD of/IN the/DT people/NNS it/PRP questioned/VBD said/VBN they/PRP were/VBD technophobes/NNS that/WDT tended/VBD to/TO shy/VB away/RB from/IN innovation./NN
+Only/RB 11%/CD regarded/VBN themselves/PRP as/RB technically/RB savvy/JJ enough/RB to/TO send/VB a/DT picture/NN or/CC video/NN message./NN
+The/DT fact/NN that/IN multimedia/NNS services/NNS are/VBP not/RB interoperable/JJ across/IN networks/NNS and/CC phones/NNS only/RB adds/VBZ to/TO people's/NNS reluctance/NN to/TO start/VB sending/VBG them/PRP said/VBD Mr/NNP Jain./NNP
+"They/NN ask/NN themselves/PRP 'If/VBP I'm/NNP streaming/VBG video/NN from/IN one/CD handset/NN to/TO another/DT will/MD it/PRP work?'"/NN he/PRP said./VB
+"There's/NN a/DT lot/NN of/IN user/NN apprehension/NN about/IN that."/NN
+
+There/EX are/VBP other/JJ deeper/JJR technical/JJ reasons/NNS why/WRB multimedia/NNS messages/NNS are/VBP not/RB being/VBG pushed/VBN as/RB strongly/RB as/IN they/PRP might./VBP
+Andrew/NNP Bud/NNP executive/JJ chairman/NN of/IN messaging/VBG firm/NN Mblox/NNP said/VBD mobile/JJ phone/NN operators/NNS cap/VBP the/DT number/NN of/IN messages/NNS that/WDT can/MD be/VB circulating/VBG at/IN any/DT one/CD time/NN for/IN fear/NN of/IN overwhelming/JJ the/DT system./NN
+"The/NN rate/NN we/PRP can/MD send/VB MMS/NNP into/IN the/DT mobile/JJ network/NN is/VBZ fairly/RB constant"/NN he/PRP said./VB
+The/DT reason/NN for/IN this/DT is/VBZ that/IN there/EX are/VBP finite/JJ capacities/NNS for/IN data/NNS traffic/NN on/IN the/DT second/JJ generation/NN networks/NNS that/WDT currently/RB have/VBP the/DT most/JJS users./NN
+
+No-one/NNP wants/VBZ to/TO take/VB the/DT risk/NN of/IN swamping/VBG these/DT relatively/RB narrow/JJ channels/NNS so/IN the/DT number/NN of/IN MMS/NNP messages/NNS is/VBZ capped/VBN said/VBN Mr/NNP Bud./NNP
+This/DT has/VBZ led/VBN to/TO operators/NNS finding/VBG other/JJ technologies/NNS particularly/RB one/CD known/VBN as/IN Wap-push/NNP to/TO get/VB multimedia/NNS to/TO their/PRP$ customers./NN
+But/CC when/WRB networks/NNS do/VBP find/VB a/DT good/JJ way/NN to/TO get/VB multimedia/NNS to/TO their/PRP$ customers/NNS the/DT results/NNS can/MD be/VB dramatic./NN
+Israeli/JJ technology/NN firm/NN Celltick/NNP has/VBZ found/VBN a/DT way/NN to/TO broadcast/VB data/NNS across/IN phone/NN networks/NNS in/IN a/DT way/NN that/WDT does/VBZ not/RB overwhelm/VB existing/VBG bandwidth./NN
+One/CD of/IN the/DT first/JJ firms/NNS to/TO use/VB the/DT Celltick/NNP service/NN is/VBZ Hutch/NNP India/NNP the/DT largest/JJS mobile/JJ firm/NN in/IN the/DT country./NN
+The/DT broadcast/NN system/NN gets/VBZ multimedia/NNS to/TO customers/NNS via/IN a/DT rolling/VBG menu/NN far/RB faster/RBR than/IN would/MD be/VB possible/JJ with/IN other/JJ systems./NN
+While/IN not/RB multimedia/NNS messaging/VBG such/PDT a/DT system/NN gets/VBZ people/NNS used/VBN to/TO seeing/VBG their/PRP$ phones/NNS as/IN a/DT device/NN that/WDT can/MD handle/VB all/DT different/JJ types/NNS of/IN content./NN
+As/IN a/DT result/NN 40%/CD of/IN the/DT subscribers/NNS to/TO the/DT Hutch/NNP Alive/JJ which/WDT uses/VBZ Celltick's/NNP broadcast/NN technology/NN regularly/RB click/NN for/IN more/JJR pictures/NNS sounds/VBZ and/CC images/NNS from/IN the/DT operator./NN
+"Operators/NN really/RB need/VBP to/TO start/VB utilising/VBG this/DT tool/NN to/TO reach/VB their/PRP$ customers"/NN said/VBD Yaron/NNP Toren/NNP spokesman/NN for/IN Celltick./NNP
+Until/IN then/RB multimedia/NNS will/MD be/VB a/DT message/NN that/WDT is/VBZ not/RB getting/VBG through./NN

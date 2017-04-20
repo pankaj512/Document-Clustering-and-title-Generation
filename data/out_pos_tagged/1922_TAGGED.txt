@@ -1,0 +1,26 @@
+Mobiles/NNP rack/NN up/RP 20/CD years/NNS of/IN use/NN
+
+Mobile/NN phones/NNS in/IN the/DT UK/NNP are/VBP celebrating/VBG their/PRP$ 20th/JJ anniversary/NN this/DT weekend./NN
+
+Britain's/NNP first/JJ mobile/JJ phone/NN call/NN was/VBD made/VBN across/IN the/DT Vodafone/NNP network/NN on/IN 1/CD January/NNP 1985/CD by/IN veteran/NN comedian/NN Ernie/NNP Wise./NNP
+In/IN the/DT 20/CD years/NNS since/IN that/DT day/NN mobile/JJ phones/NNS have/VBP become/VBN an/DT integral/JJ part/NN of/IN modern/JJ life/NN and/CC now/RB almost/RB 90%/CD of/IN Britons/NNP own/VBD a/DT handset./NN
+Mobiles/NNS have/VBP become/VBN so/RB popular/JJ that/IN many/JJ people/NNS use/VBP their/PRP$ handset/NN as/IN their/PRP$ only/JJ phone/NN and/CC rarely/RB use/VB a/DT landline./NN
+
+The/DT first/JJ ever/RB call/VB over/IN a/DT portable/JJ phone/NN was/VBD made/VBN in/IN 1973/CD in/IN New/NNP York/NNP but/CC it/PRP took/VBD 10/CD years/NNS for/IN the/DT first/JJ commercial/JJ mobile/JJ service/NN to/TO be/VB launched./NN
+The/DT UK/NNP was/VBD not/RB far/RB behind/IN the/DT rest/NN of/IN the/DT world/NN in/IN setting/VBG up/RP networks/NNS in/IN 1985/CD that/WDT let/NN people/NNS make/VB calls/VBZ while/IN they/PRP walked./VBP
+The/DT first/JJ call/NN was/VBD made/VBN from/IN St/NNP Katherine's/NNP dock/NN to/TO Vodafone's/NNP head/NN office/NN in/IN Newbury/NNP which/WDT at/IN the/DT time/NN was/VBD over/IN a/DT curry/NN house./NN
+For/IN the/DT first/JJ nine/CD days/NNS of/IN 1985/CD Vodafone/NNP was/VBD the/DT only/JJ firm/NN with/IN a/DT mobile/JJ network/NN in/IN the/DT UK./NNP
+Then/RB on/IN 10/CD January/NNP Cellnet/NNP (now/NN O2)/CD launched/VBN its/PRP$ service./NN
+Mike/NNP Caudwell/NNP spokesman/NN for/IN Vodafone/NNP said/VBD that/IN when/WRB phones/NNS were/VBD launched/VBN they/PRP were/VBD the/DT size/NN of/IN a/DT briefcase/NN cost/NN about/IN £2000/CD and/CC had/VBD a/DT battery/NN life/NN of/IN little/RB more/JJR than/IN 20/CD minutes./NN
+
+"Despite/NN that/IN they/PRP were/VBD hugely/RB popular/JJ in/IN the/DT mid-80s"/JJ he/PRP said./VB
+"They/NN became/VBD a/DT yuppy/JJ must-have/JJ and/CC a/DT status/NN symbol/NN among/IN young/JJ wealthy/JJ business/NN folk."/NN This/DT was/VBD also/RB despite/IN the/DT fact/NN that/IN the/DT phones/NNS used/VBD analogue/NN radio/NN signals/NNS to/TO communicate/VB which/WDT made/VBD them/PRP very/RB easy/JJ to/TO eavesdrop/VB on./NN
+He/PRP said/VBD it/PRP took/VBD Vodafone/NNP almost/RB nine/CD years/NNS to/TO rack/VB up/RP its/PRP$ first/JJ million/CD customers/NNS but/CC only/RB 18/CD months/NNS to/TO get/VB the/DT second/JJ million./NN
+"It's/NN very/RB easy/JJ to/TO forget/VB that/IN in/IN 1983/CD when/WRB we/PRP put/VBP the/DT bid/NN document/NN in/IN we/PRP were/VBD forecasting/NN that/IN the/DT total/JJ market/NN would/MD be/VB two/CD million/CD people"/NN he/PRP said./VB
+"Cellnet/NN was/VBD forecasting/NN half/JJ that."/NN Now/RB Vodafone/NNP has/VBZ 14m/CD customers/NNS in/IN the/DT UK/NNP alone./NN
+Cellnet/NNP and/CC Vodafone/NNP were/VBD the/DT only/JJ mobile/JJ phone/NN operators/NNS in/IN the/DT UK/NNP until/IN 1993/CD when/WRB One2One/CD (now/NN T-Mobile)/NNP was/VBD launched./NN
+Orange/NNP had/VBD its/PRP$ UK/NNP launch/VB in/IN 1994./CD
+Both/DT newcomers/NNS operated/VBD digital/JJ mobile/JJ networks/NNS and/CC now/RB all/DT operators/NNS use/VBP this/DT technology./NN
+The/DT analogue/NN spectrum/NN for/IN the/DT old/JJ phones/NNS has/VBZ been/VBN retired./NN
+Called/VBN Global/JJ System/NNP for/IN Mobiles/NNP (GSM)/NN this/DT is/VBZ now/RB the/DT most/RBS widely/RB used/VBN phone/NN technology/NN on/IN the/DT planet/NN and/CC is/VBZ used/VBN to/TO help/VB more/JJR than/IN 1.2/CD billion/CD people/NNS make/VBP calls./NN
+Mr/NNP Caudwell/NNP said/VBD the/DT advent/NN of/IN digital/JJ technology/NN also/RB helped/VBD to/TO introduce/VB all/PDT those/DT things/NNS such/JJ as/IN text/NN messaging/VBG and/CC roaming/VBG that/WDT have/VBP made/VBN mobiles/NNS so/RB popular./VBP

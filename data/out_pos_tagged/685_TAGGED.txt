@@ -1,0 +1,18 @@
+Alicia/NNP Keys/NNP to/TO open/VB US/PRP Super/NNP Bowl/NNP
+
+R&B/NNP star/NN Alicia/NNP Keys/NNP is/VBZ to/TO open/VB February's/NNP Super/NNP Bowl/NNP singing/VBG a/DT song/NN only/RB previously/RB performed/VBN there/RB by/IN Ray/NNP Charles/NNP and/CC Vicki/NNP Carr./NNP
+
+Keys/NNP who/WP will/MD sing/VB America/NNP the/DT Beautiful/NN will/MD be/VB accompanied/VBN by/IN 150/CD students/NNS from/IN the/DT Florida/NNP School/NNP for/IN the/DT Deaf/JJ and/CC the/DT Blind./NNP
+Charles/NNP who/WP died/VBD last/JJ year/NN attended/VBD the/DT school/NN as/IN a/DT child/NN in/IN 1937./CD
+Keys/NNP said/VBD she/PRP was/VBD "very/NN excited"/NN describing/VBG Charles/NNP as/IN "an/NN artist/NN I/PRP admire/VBP miss/NN and/CC respect"./NN
+"I/NN know/NN that/IN this/DT is/VBZ going/VBG to/TO be/VB a/DT very/RB touching/JJ and/CC memorable/JJ moment"/NN she/PRP said./VBP
+
+It/PRP will/MD be/VB her/PRP$ first/JJ performance/NN at/IN the/DT Super/NNP Bowl/NNP which/WDT will/MD be/VB watched/VBN by/IN millions/NNS in/IN the/DT US/PRP on/IN 6/CD February./NNP
+Sir/NNP Paul/NNP McCartney/NNP will/MD provide/VB the/DT half-time/NN entertainment/NN in/IN the/DT slot/NN filled/VBN by/IN Janet/NNP Jackson/NNP last/JJ year./NN
+Organisers/NNS have/VBP promised/VBN there/EX will/MD be/VB no/DT repeat/NN of/IN her/PRP$ nipple-baring/JJ incident/NN that/WDT sparked/VBD thousands/NNS of/IN complaints/NNS on/IN US/PRP TV's/NNP most-watched/JJ broadcast./NN
+A/DT National/NNP Football/NNP League/NNP spokesman/NN said/VBD they/PRP were/VBD "comfortable"/NN this/DT show/NN would/MD be/VB acceptable/JJ to/TO a/DT mass/NN audience./NN
+The/DT game/NN and/CC show/NN were/VBD watched/VBN by/IN 144/CD million/CD people/NNS in/IN the/DT US/PRP in/IN 2003./CD
+
+Twenty/CD CBS-owned/JJ TV/NN stations/NNS were/VBD fined/VBN $550000/CD (£300000)/CD by/IN the/DT country's/NNS TV/VBP regulatory/JJ agency/NN after/IN more/JJR than/IN 542000/CD complaints/NNS were/VBD made/VBN about/IN Janet/NNP Jackson's/NNP "wardrobe/NN malfunction"./NN
+Sir/NNP Paul/NNP said/VBD "There's/NN nothing/NN bigger/JJR than/IN being/VBG asked/VBD to/TO perform/VB at/IN the/DT Super/NNP Bowl./NNP
+"We're/NN looking/VBG forward/RB to/TO rocking/VBG the/DT millions/NNS at/IN home/NN and/CC in/IN the/DT stadium."/NN

@@ -1,0 +1,17 @@
+Singer/NNP Ian/NNP Brown/NNP 'in/NN gig/NN arrest'/NN
+
+Former/NNP Stone/NNP Roses/NNPS singer/NN Ian/NNP Brown/NNP was/VBD arrested/VBN after/IN a/DT fight/NN during/IN a/DT concert/NN in/IN San/NNP Francisco/NNP on/IN Tuesday/NNP his/PRP$ spokesman/NN has/VBZ said./NN
+
+A/DT fan/NN jumped/VBD on/IN stage/NN and/CC attacked/VBD the/DT singer/NN who/WP then/RB became/VBD involved/VBN in/IN a/DT fracas/NN with/IN a/DT security/NN guard/NN Fiction/NN Records/NNPS spokesman/NN Paul/NNP Smernicki/NNP said./NN
+He/PRP said/VBD Brown/NNP was/VBD arrested/VBN at/IN his/PRP$ hotel/NN after/IN the/DT show/NN at/IN the/DT Great/NNP American/NNP Music/NNP Hall/NNP but/CC released/VBN without/IN charge./NN
+San/NNP Francisco/NNP police/NNS said/VBD they/PRP could/MD find/VB no/DT record/NN of/IN his/PRP$ arrest./NN
+Mr/NNP Smernicki/NNP said/VBD he/PRP had/VBD been/VBN told/VBN a/DT fan/NN "rugby-tackled"/JJ the/DT singer/NN during/IN the/DT gig/NN which/WDT resulted/VBD in/IN "pushing/VBG and/CC shoving"./NN
+
+Brown/NNP then/RB got/VBD into/IN a/DT brawl/NN with/IN another/DT man/NN who/WP tried/VBD to/TO restrain/VB him/PRP -/: without/IN realising/VBG he/PRP was/VBD a/DT security/NN guard/NN Mr/NNP Smernicki/NNP added./NN
+The/DT star/NN went/VBD off/RP for/IN 15/CD minutes/NNS before/IN returning/VBG to/TO finish/VB his/PRP$ set./NN
+Police/NNP took/VBD witness/NN statements/NNS and/CC apprehended/VBD Brown/NNP at/IN his/PRP$ hotel/NN Mr/NNP Smernicki/NNP said./NN
+But/CC he/PRP was/VBD released/VBN without/IN charge/NN and/CC "as/NN far/RB as/IN we're/NN aware/JJ that's/NNS the/DT end/NN of/IN it"/NN Mr/NNP Smernicki/NNP added./NN
+A/DT spokesperson/NN for/IN the/DT San/NNP Francisco/NNP Police/NNP Department/NNP said/VBD he/PRP may/MD have/VB been/VBN detained/VBN but/CC they/PRP could/MD find/VB no/DT record/NN of/IN the/DT incident./NN
+Brown/NNP 42/CD was/VBD lead/VB singer/NN with/IN The/DT Stone/NNP Roses/NNPS one/CD of/IN the/DT most/RBS seminal/JJ bands/NNS in/IN British/JJ rock/NN until/IN they/PRP split/VBP in/IN 1996./CD
+He/PRP has/VBZ since/IN forged/VBN a/DT successful/JJ solo/NN career/NN scoring/VBG nine/CD UK/NNP top/JJ 30/CD singles/NNS since/IN 1998./CD
+In/IN 1998/CD he/PRP was/VBD sentenced/VBN to/TO four/CD months/NNS in/IN jail/NN for/IN using/VBG threatening/VBG behaviour/NN towards/IN an/DT aeroplane/NN captain/NN and/CC stewardess./NN

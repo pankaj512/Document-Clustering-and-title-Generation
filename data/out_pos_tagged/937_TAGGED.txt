@@ -1,0 +1,33 @@
+Profile/NNP David/NNP Blunkett/NNP
+
+Before/IN he/PRP resigned/VBD the/DT position/NN of/IN home/NN secretary/NN on/IN Wednesday/NNP David/NNP Blunkett/NNP had/VBD been/VBN in/IN charge/NN of/IN a/DT substantial/JJ body/NN of/IN government/NN portfolios/NNS including/VBG race/NN policing/VBG and/CC immigration./NN
+
+His/PRP$ responsibilities/NNS in/IN running/VBG the/DT Home/NNP Office/NNP included/VBD civil/JJ emergencies/NNS security/NN terrorism/NN and/CC expenditure./NN
+Named/VBN home/NN secretary/NN after/IN the/DT 2001/CD general/JJ election/NN Mr/NNP Blunkett/NNP had/VBD seen/VBN the/DT focus/NN on/IN his/PRP$ office/NN intensify./NN
+The/DT attacks/NNS on/IN the/DT World/NNP Trade/NNP Center/NNP on/IN 11/CD September/NNP 2001/CD heightened/VBN concern/NN for/IN security/NN and/CC immigration/NN in/IN particular./NN
+A/DT Labour/NNP loyalist/NN from/IN a/DT working/NN class/NN background/NN Mr/NNP Blunkett/NNP 57/CD had/VBD been/VBN unafraid/NN of/IN pushing/VBG for/IN tough/JJ changes/NNS to/TO Labour/NNP policy./NN
+
+Recently/RB the/DT issue/NN of/IN identity/NN cards/NNS had/VBD provoked/VBN controversy/NN with/IN questions/NNS raised/VBD over/IN cost/NN and/CC invasions/NNS of/IN civil/JJ liberties./NN
+Mr/NNP Blunkett/NNP was/VBD also/RB at/IN the/DT centre/NN of/IN a/DT humiliating/JJ scandal/NN involving/VBG the/DT former/JJ immigration/NN minister/NN Beverly/NNP Hughes./NNP
+Having/VBG received/VBN his/PRP$ full/JJ backing/NN Ms/NNP Hughes/NNP was/VBD forced/VBN to/TO resign/VB in/IN April/NNP over/IN abuses/NNS in/IN the/DT visa/NN processing/NN system/NN which/WDT she/PRP claimed/VBD to/TO be/VB unaware/JJ of./NN
+Mr/NNP Blunkett's/NNP own/JJ comments/NNS on/IN immigration/NN had/VBD prompted/VBN censure/NN -/: he/PRP told/VBD refugees/NNS from/IN Afghanistan/NNP and/CC Kosovo/NNP to/TO "get/VB back/RB home"/NN to/TO start/VB rebuilding/VBG their/PRP$ countries./NN
+And/CC he/PRP also/RB urged/VBD people/NNS from/IN ethnic/JJ minorities/NNS to/TO develop/VB a/DT "sense/NN of/IN belonging"/NN in/IN Britain/NNP telling/VBG them/PRP to/TO speak/VB English/NNP at/IN home./NN
+Avoiding/VBG political/JJ correctness/NN is/VBZ second/JJ nature/NN to/TO the/DT former/JJ home/NN secretary/NN who/WP spurns/VBZ a/DT metropolitan/JJ elite/NN and/CC "airy/NN fairy/NN libertarians"/NN and/CC earlier/RBR in/IN the/DT year/NN coined/VBD the/DT phrase/NN "liberati"/NN as/IN an/DT amalgam/NN of/IN "glitterati"/NN and/CC "liberal"./NN
+Yet/RB in/IN January/NNP of/IN this/DT year/NN he/PRP courted/VBD further/JJ controversy/NN over/IN his/PRP$ seemingly/RB liberal/JJ reclassification/NN of/IN cannabis/NNS from/IN a/DT Grade/NNP B/NNP to/TO Grade/NNP C/NNP status/NN drug/NN ./.
+
+Before/IN the/DT recent/JJ furore/NN Mr/NNP Blunkett/NNP had/VBD always/RB appeared/VBN more/RBR interested/JJ in/IN politics/NNS than/IN his/PRP$ personal/JJ life./NN
+Mr/NNP Blunkett/NNP told/VBD the/DT Daily/NNP Telegraph/NNP in/IN 2001/CD that/IN he/PRP continued/VBD to/TO wear/VB his/PRP$ wedding/NN ring/NN in/IN spite/NN of/IN being/VBG a/DT divorcee/NN as/IN "a/NN useful/JJ way/NN of/IN ensuring/VBG that/IN people/NNS don't/VBP casually/RB think/VBP I/PRP am/VBP available"./NN
+He/PRP added/VBD "I/NN am/VBP not/RB available/JJ because/IN I/PRP am/VBP just/RB getting/VBG on/IN with/IN the/DT job."/NN Mr/NNP Blunkett/NNP entered/VBD Parliament/NNP for/IN Sheffield/NNP Brightside/NNP in/IN 1987/CD after/IN first/JJ contesting/NN the/DT Sheffield/NNP Hallam/NNP seat/NN in/IN 1974./CD
+He/PRP is/VBZ one/CD of/IN very/RB few/JJ blind/JJ MPs/NNP and/CC was/VBD the/DT first/JJ to/TO reach/VB the/DT front/JJ bench/NN and/CC the/DT Cabinet./NNP
+His/PRP$ relaxed/VBD performances/NNS -/: with/IN his/PRP$ guide/NN dog/NN by/IN his/PRP$ side/NN -/: at/IN the/DT despatch/NN box/NN in/IN the/DT Labour/NNP Party's/NNP National/NNP Executive/NNP and/CC on/IN the/DT conference/NN platform/NN made/VBD it/PRP easy/JJ to/TO forget/VB his/PRP$ disability./JJ
+Mr/NNP Blunkett/NNP himself/PRP described/VBD not/RB being/VBG able/JJ to/TO see/VB as/IN simply/RB "an/NN inconvenience"./NN
+Using/VBG Braille/NNP for/IN speeches/NNS and/CC briefed/VBN by/IN his/PRP$ officials/NNS on/IN tape/NN he/PRP also/RB has/VBZ a/DT sharp/JJ tongue/NN at/IN times/NNS and/CC a/DT pragmatic/JJ approach/NN to/TO politics./VB
+
+Mr/NNP Blunkett/NNP was/VBD schooled/VBN in/IN Sheffield/NNP where/WRB he/PRP led/VBD the/DT city/NN council/NN for/IN seven/CD years/NNS before/IN entering/VBG the/DT Commons./NNP
+He/PRP chaired/VBD the/DT Labour/NNP Party/NNP nationally/RB and/CC was/VBD a/DT unifying/JJ force/NN in/IN the/DT 80s/CD and/CC 90s/CD shadowing/VBG health/NN and/CC education./NN
+In/IN Tony/NNP Blair's/NNP first/JJ government/NN Mr/NNP Blunkett/NNP was/VBD put/VBN in/IN charge/NN of/IN education/NN and/CC employment/NN where/WRB he/PRP won/VBD big/JJ increases/NNS in/IN funds/NNS for/IN schools/NNS while/IN insisting/VBG on/IN improved/JJ standards/NNS of/IN literacy/NN and/CC numeracy./NN
+He/PRP was/VBD prepared/VBN to/TO stand/VB up/IN to/TO the/DT teaching/NN unions/NNS -/: which/WDT sometimes/RB heckled/VBD his/PRP$ speeches/NNS -/: and/CC his/PRP$ policy/NN of/IN charging/VBG university/NN students/NNS for/IN tuition/NN fees/NNS was/VBD not/RB popular./NN
+In/IN the/DT Labour/NNP Party/NNP he/PRP has/VBZ been/VBN regarded/VBN as/IN a/DT loyal/JJ colleague/NN a/DT conciliator/NN who/WP avoids/VBZ factions/NNS and/CC a/DT man/NN whose/WP$ humour/NN and/CC determination/NN make/VBP him/PRP widely/RB popular./VBP
+There/EX have/VBP been/VBN wry/VBG smiles/VBZ as/IN well./NN
+In/IN 1999/CD his/PRP$ then/JJ guide/NN dog/NN Lucy/NNP threw/VBD up/RP in/IN the/DT Chamber/NNP during/IN the/DT speech/NN of/IN his/PRP$ Tory/NNP opponent./NN
+Lucy/NNP was/VBD replaced/VBN by/IN her/PRP$ half-sister/JJ Sadie/NNP a/DT black/JJ Labrador-curly-coated/NNP retriever/NN cross/NN in/IN 2003/CD after/IN nearly/RB a/DT decade/NN by/IN Mr/NNP Blunkett's/NNP side./NN

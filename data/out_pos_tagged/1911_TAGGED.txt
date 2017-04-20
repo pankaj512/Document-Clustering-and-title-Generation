@@ -1,0 +1,34 @@
+Net/JJ regulation/NN 'still/NN possible'/NN
+
+The/DT blurring/NN of/IN boundaries/NNS between/IN TV/NN and/CC the/DT internet/JJ raises/VBZ questions/NNS of/IN regulation/NN watchdog/NN Ofcom/NNP has/VBZ said./NN
+
+Content/NN on/IN TV/NN and/CC the/DT internet/JJ is/VBZ set/VBN to/TO move/VB closer/JJR this/DT year/NN as/IN TV-quality/NNP video/NN online/NN becomes/VBZ a/DT norm./NN
+At/IN a/DT debate/NN in/IN Westminster/NNP the/DT net/JJ industry/NN considered/VBD the/DT options./NN
+Lord/NNP Currie/NNP chairman/NN of/IN super-regulator/JJ Ofcom/NNP told/VBD the/DT panel/NN that/IN protecting/VBG audiences/NNS would/MD always/RB have/VB to/TO be/VB a/DT primary/JJ concern/NN for/IN the/DT watchdog./NN
+Despite/IN having/VBG no/DT remit/NN for/IN the/DT regulation/NN of/IN net/JJ content/NN disquiet/JJ has/VBZ increased/VBN among/IN internet/JJ service/NN providers/NNS as/IN speeches/NNS made/VBN by/IN Ofcom/NNP in/IN recent/JJ months/NNS hinted/VBD that/DT regulation/NN might/MD be/VB an/DT option./NN
+At/IN the/DT debate/NN organised/VBN by/IN the/DT Internet/NNP Service/NNP Providers'/NNP Association/NNP (ISPA)/NN Lord/NNP Currie/NNP did/VBD not/RB rule/VB out/RP the/DT possibility/NN of/IN regulation./NN
+
+"The/NN challenge/NN will/MD arise/VB when/WRB boundaries/NNS between/IN TV/NN and/CC the/DT internet/JJ truly/RB blur/NN and/CC then/RB there/EX is/VBZ a/DT balance/NN to/TO be/VB struck/VBN between/IN protecting/VBG consumers/NNS and/CC allowing/VBG them/PRP to/TO assess/VB the/DT risks/NNS themselves"/VBP he/PRP said./VB
+Adopting/VBG the/DT rules/NNS that/WDT currently/RB exist/VBP to/TO regulate/VB TV/NN content/NN or/CC self-regulation/NN which/WDT is/VBZ currently/RB the/DT practice/NN of/IN the/DT net/JJ industry/NN will/MD be/VB up/RP for/IN discussion./JJ
+
+Some/DT studies/NNS suggest/VBP that/IN as/RB many/JJ as/IN eight/CD million/CD households/NNS in/IN the/DT UK/NNP could/MD have/VB adopted/VBN broadband/NN by/IN the/DT end/NN of/IN 2005/CD and/CC the/DT technology/NN opens/VBZ the/DT door/NN to/TO TV/VB content/NN delivered/VBN over/IN the/DT net./NN
+More/JJR and/CC more/RBR internet/JJ service/NN providers/NNS and/CC media/NNS companies/NNS are/VBP streaming/VBG video/NN content/NN on/IN the/DT web./NN
+BT/NNP has/VBZ already/RB set/VBN up/RP an/DT entertainment/NN division/NN to/TO create/VB and/CC distribute/VB content/NN that/WDT could/MD come/VB from/IN sources/NNS such/JJ as/IN BSkyB/NNP ITV/NNP and/CC the/DT BBC./NNP
+Head/NNP of/IN the/DT division/NN Andrew/NNP Burke/NNP spoke/VBD about/IN the/DT possibility/NN of/IN creating/VBG content/NN for/IN all/DT platforms./NN
+"How/NN risque/NN can/MD I/PRP be/VB in/IN this/DT new/JJ age?/NN With/IN celebrity/NN chefs/NNS serving/VBG up/RP more/JJR expletives/NNS than/IN hot/JJ dinners/NNS surely/RB I/PRP can/MD push/VB it/PRP to/TO the/DT limit"/NN he/PRP said./VB
+
+In/IN fact/NN he/PRP said/VBD if/IN content/NN has/VBZ been/VBN requested/VBN by/IN consumers/NNS and/CC they/PRP have/VBP gone/VBN to/TO lengths/NNS to/TO download/VB it/PRP then/RB maybe/RB it/PRP should/MD be/VB entirely/RB regulation/NN free./NN
+Internet/NNP service/NN providers/NNS have/VBP long/RB claimed/VBN no/DT responsibility/NN for/IN the/DT content/NN they/PRP carry/VBP on/IN their/PRP$ servers/NNS since/IN the/DT Law/NNP Commission/NNP dubbed/VBD them/PRP "mere/VBP conduits"/NN back/RB in/IN 2002./CD
+This/DT defence/NN does/VBZ not/RB apply/VB if/IN they/PRP have/VBP actual/JJ knowledge/NN of/IN illegal/JJ content/NN and/CC have/VBP failed/VBN to/TO remove/VB it./NN
+The/DT level/NN of/IN responsibility/NN they/PRP have/VBP has/VBZ been/VBN tested/VBN in/IN several/JJ high-profile/JJ legal/JJ cases./NN
+Richard/NNP Ayers/NNP portal/JJ director/NN at/IN Tiscali/NNP said/VBD there/EX was/VBD little/JJ point/NN trying/VBG to/TO regulate/VB the/DT internet/NN because/IN it/PRP would/MD be/VB impossible./NN
+Huge/JJ changes/NNS are/VBP afoot/RB in/IN 2005/CD he/PRP predicted/VBD as/IN companies/NNS such/JJ as/IN the/DT BBC/NNP offer/NN TV/NN content/NN over/IN the/DT net./NN
+The/DT BBC's/NNP planned/VBD interactive/JJ media/NNS player/NN which/WDT will/MD give/VB surfers/NNS the/DT chance/NN to/TO download/VB programmes/NNS such/JJ as/IN EastEnders/NNP and/CC Top/JJ Gear/NNP will/MD make/VB net/JJ TV/NN mainstream/NN and/CC raise/VB a/DT whole/JJ new/JJ set/NN of/IN questions/NNS he/PRP said./VB
+
+One/CD of/IN these/DT will/MD be/VB about/RB the/DT vast/JJ sums/NNS of/IN money/NN involved/VBN in/IN maintaining/VBG the/DT network/NN to/TO supply/VB such/PDT a/DT huge/JJ quantity/NN of/IN data/NNS and/CC could/MD herald/VB a/DT new/JJ digital/JJ licence/NN fee/NN said/VBD Mr/NNP Ayers./NNP
+As/IN inappropriate/JJ net/JJ content/NN most/RBS obviously/RB pornography/NN viewed/VBN by/IN children/NNS continues/VBZ to/TO dominate/VB the/DT headlines/NNS internet/JJ regulation/NN remains/VBZ a/DT political/JJ issue/NN said/VBD MP/NNP Richard/NNP Allan/NNP Liberal/NNP Democrat/NNP spokesman/NN on/IN IT./NNP
+Mr/NNP Allan/NNP thinks/VBZ that/IN the/DT answer/NN could/MD lie/VB somewhere/RB between/IN the/DT cries/NNS of/IN "impossible/JJ to/TO regulate"/VB and/CC "just/NN apply/NN offline/NN laws/NNS online"./NN
+In/IN fact/NN instead/RB of/IN seeing/VBG regulation/NN brought/VBN online/NN the/DT future/NN could/MD bring/VB an/DT end/NN to/TO regulation/VB as/IN we/PRP know/VBP it/PRP for/IN all/DT TV/NN content./NN
+After/IN Lord/NNP Currie/NNP departed/VBD the/DT panel/NN agreed/VBD that/IN this/DT could/MD be/VB a/DT reality/NN and/CC that/IN for/IN the/DT internet/JJ people/NNS power/VBP is/VBZ likely/JJ to/TO reign./VB
+"If/NN content/NN is/VBZ on-demand/JJ consumers/NNS have/VBP pulled/VBN it/PRP up/RP rather/RB than/IN had/VBD pushed/VBN to/TO them/PRP then/RB it/PRP is/VBZ the/DT consumers'/NN choice/NN to/TO watch/VB it./NN
+There/EX is/VBZ no/DT watershed/NN on/IN the/DT net"/NN said/VBD Mr/NNP Burke./NNP

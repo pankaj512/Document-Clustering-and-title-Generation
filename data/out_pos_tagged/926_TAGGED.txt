@@ -1,0 +1,25 @@
+Labour/NN targets/NNS 'hardcore/NN truants'/NN
+
+A/DT fresh/JJ crackdown/NN on/IN persistent/JJ truants/NNS in/IN England/NNP has/VBZ been/VBN launched/VBN by/IN Education/NNP Secretary/NNP Ruth/NNP Kelly./NNP
+
+Serial/JJ truants/NNS make/VBP up/RP one/CD in/IN 13/CD pupils./NN
+Previous/JJ initiatives/NNS brought/VBD 40000/CD pupils/NNS back/RB to/TO school/VB since/IN 1997/CD according/VBG to/TO official/NN statistics./NN
+Parenting/NN contracts/NNS penalty/NN notices/NNS and/CC "fast/NN track"/NN prosecution/NN systems/NNS have/VBP been/VBN used/VBN to/TO tackle/VB what/WP has/VBZ been/VBN a/DT stubborn/JJ problem./NN
+It/PRP is/VBZ thought/VBN that/IN nearly/RB half/PDT a/DT million/CD children/NNS skip/VBP school/NN each/DT day./NN
+Tories/NNS say/VBP Labour's/NNP previous/JJ success/NN regarding/VBG the/DT issue/NN came/VBD because/IN it/PRP tackled/VBD the/DT easy/JJ part/NN of/IN the/DT problem/NN by/IN reducing/VBG authorised/VBN absence/NN where/WRB parents/NNS are/VBP permitted/VBN to/TO take/VB children/NNS out/IN of/IN school./NN
+Such/JJ absences/NNS are/VBP often/RB due/JJ to/TO family/NN holidays./NN
+
+However/RB serial/NN truants/NNS avoid/VBP the/DT classroom/NN despite/IN government/NN schemes/NNS costing/VBG £885m./CD
+Those/DT missing/VBG classes/NNS are/VBP more/RBR likely/JJ to/TO become/VB involved/VBN in/IN crime/NN as/RB well/RB as/IN failing/VBG academically./NN
+Measures/NNS such/JJ as/IN parenting/NN contracts/NNS and/CC penalty/NN notices/NNS were/VBD adopted/VBN by/IN most/RBS local/JJ education/NN authorities/NNS last/JJ term/NN and/CC come/VB into/IN force/NN in/IN the/DT remainder/NN this/DT term./NN
+In/IN one/CD local/JJ education/NN authority/NN alone/RB 800/CD parents/NNS were/VBD warned/VBN they/PRP would/MD receive/VB a/DT penalty/NN notice/NN unless/IN their/PRP$ child's/NNS attendance/NN improved./NN
+The/DT tough/JJ stance/NN paid/VBD off/RP with/IN just/RB 24/CD issued/VBN while/IN attendance/NN improved/VBN in/IN 776/CD cases./NN
+Truancy/NNP has/VBZ been/VBN reduced/VBN by/IN 5%/CD at/IN the/DT 128/CD worst/JJS hit/VBD schools/NNS through/IN the/DT government's/NNS Behaviour/NNP Improvement/NNP Programme./NNP
+This/DT is/VBZ the/DT equivalent/NN of/IN 200/CD pupils/NNS back/RB in/IN classes/NNS since/IN September./NNP
+
+The/DT new/JJ measures/NNS come/VBP on/IN top/NN of/IN national/JJ truancy/NN sweeps/NNS -/: the/DT sixth/NN of/IN which/WDT will/MD take/VB place/NN on/IN Monday./NNP
+Police/NNP and/CC education/NN welfare/NN officers/NNS patrol/NN problem/NN hotspots/NNS picking/VBG up/RP truants/NNS and/CC returning/VBG them/PRP to/TO school./VB
+Held/VBN twice/RB each/DT year/NN in/IN addition/NN to/TO routine/JJ local/JJ patrols/NNS previous/JJ country-wide/JJ sweeps/NNS have/VBP apprehended/VBN 31000/CD pupils/NNS dodging/VBG school./NN
+In/IN almost/RB 14000/CD of/IN those/DT cases/NNS the/DT youngsters/NNS were/VBD accompanied/VBN by/IN their/PRP$ parents./NN
+A/DT Department/NNP for/IN Education/NNP and/CC Skills/NNS source/NN said/VBD "Every/NN day/NN in/IN school/NN counts./NN
+"It/NN is/VBZ clear/JJ form/NN these/DT figures/NNS that/IN schools/NNS and/CC local/JJ education/NN authorities/NNS are/VBP now/RB seizing/VBG the/DT tools/NNS we/PRP have/VBP given/VBN them/PRP to/TO improve/VB school/NN attendance/NN and/CC crack/VB down/RP hard/RB on/IN the/DT very/RB small/JJ numbers/NNS of/IN pupils/NNS which/WDT account/VBP for/IN almost/RB half/NN of/IN the/DT nation's/NNS truancy."/NN

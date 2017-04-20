@@ -1,0 +1,15 @@
+Deutsche/NNP Boerse/NNP boosts/VBZ dividend/NN
+
+Deutsche/NNP Boerse/NNP the/DT German/JJ stock/NN exchange/NN that/WDT is/VBZ trying/VBG to/TO buy/VB its/PRP$ London/NNP rival/JJ has/VBZ said/VBN it/PRP will/MD boost/VB its/PRP$ 2004/CD dividend/NN payment/NN by/IN 27%./CD
+
+Analysts/NNS said/VBD that/IN the/DT move/NN is/VBZ aimed/VBN at/IN winning/VBG over/IN investors/NNS opposed/VBN to/TO its/PRP$ bid/NN for/IN the/DT London/NNP Stock/NNP Exchange./NNP
+Critics/NNS of/IN the/DT takeover/NN have/VBP complained/VBN that/IN the/DT money/NN could/MD be/VB better/RBR used/JJ by/IN returning/VBG cash/NN to/TO shareholders./VB
+Deutsche/NNP Boerse/NNP also/RB said/VBD profit/NN in/IN the/DT three/CD months/NNS to/TO 31/CD December/NNP was/VBD 120.7m/CD euros/NNS ($158.8m/CD £83.3m)./CD
+Sales/NNS climbed/VBD to/TO 364.4m/CD euros/NNS lifting/VBG revenue/NN for/IN the/DT year/NN to/TO a/DT record/NN 1.45bn/CD euros./NN
+
+Frankfurt-based/JJ Deutsche/NNP Boerse/NNP has/VBZ offered/VBN £1.3bn/CD ($2.48bn/CD 1.88bn/CD euros)/NN for/IN the/DT London/NNP Stock/NNP Exchange./NNP
+Rival/JJ pan-European/JJ bourse/NN Euronext/NNP is/VBZ working/VBG also/RB on/IN a/DT bid./NN
+Late/RB on/IN Monday/NNP Deutsche/NNP Boerse/NNP said/VBD it/PRP would/MD lift/VB its/PRP$ 2004/CD dividend/NN payment/NN to/TO 70/CD euro/NN cents/NNS (£0.48/CD $0.98)/CD from/IN 55/CD euro/NN cents/NNS a/DT year/NN earlier./NN
+"There/NN is/VBZ a/DT whiff/NN of/IN a/DT sweetener/NN in/IN there"/NN Anais/NNP Faraj/NNP an/DT analyst/NN at/IN Nomura/NNP told/VBD the/DT BBC's/NNP World/NNP Business/NNP Report./NNP
+"Most/NN of/IN the/DT disgruntled/JJ shareholders/NNS of/IN Deutsche/NNP Boerse/NNP are/VBP complaining/VBG that/IN the/DT money/NN that/WDT is/VBZ being/VBG used/VBN for/IN the/DT bid/NN could/MD be/VB better/RBR placed/JJ in/IN their/PRP$ hands/NNS paid/VBN out/RP in/IN dividends"/NN Mr/NNP Faraj/NNP continued./NN
+Deutsche/NNP Boerse/NNP is/VBZ "trying/VBG to/TO buy/VB them/PRP off/RP in/IN a/DT sense"/NN he/PRP said./VB

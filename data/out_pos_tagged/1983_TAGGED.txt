@@ -1,0 +1,26 @@
+Freeze/NN on/IN anti-spam/JJ campaign/NN
+
+A/DT campaign/NN by/IN Lycos/NNP Europe/NNP to/TO target/VB spam-related/JJ websites/NNS appears/VBZ to/TO have/VB been/VBN put/VBN on/IN hold./NN
+
+Earlier/RBR this/DT week/NN the/DT company/NN released/VBD a/DT screensaver/NN that/WDT bombarded/VBD the/DT sites/NNS with/IN data/NNS to/TO try/VB to/TO bump/VB up/RP the/DT running/VBG costs/NNS of/IN the/DT websites./NN
+But/CC the/DT site/NN hosting/VBG the/DT screensaver/NN now/RB displays/VBZ a/DT pink/JJ graphic/JJ and/CC the/DT words/NNS "Stay/NN tuned"./NN
+No/DT one/NN at/IN Lycos/NNP was/VBD available/JJ for/IN comment/NN on/IN latest/JJS developments/NNS in/IN its/PRP$ controversial/JJ anti-spam/JJ campaign./NN
+
+Lycos/NNP Europe's/NNP "Make/NN love/NN not/RB spam"/NN campaign/NN was/VBD intended/VBN as/IN a/DT way/NN for/IN users/NNS to/TO fight/VB back/RB against/IN the/DT mountain/NN of/IN junk/NN mail/NN flooding/VBG inboxes./NN
+People/NNS were/VBD encouraged/VBN to/TO download/VB the/DT screensaver/NN which/WDT when/WRB their/PRP$ PC/NN was/VBD idle/JJ would/MD then/RB send/VB lots/NNS of/IN data/NNS to/TO sites/NNS that/WDT peddle/VBP the/DT goods/NNS and/CC services/NNS mentioned/VBN in/IN spam/NN messages./NN
+Lycos/NNP said/VBD the/DT idea/NN was/VBD to/TO get/VB the/DT spam/NN sites/NNS running/VBG at/IN 95%/CD capacity/NN and/CC generate/VB big/JJ bandwidth/NN bills/NNS for/IN the/DT spammers/NNS behind/IN the/DT sites./NN
+But/CC the/DT plan/NN has/VBZ proved/VBN controversial./NN
+
+Monitoring/NN firm/NN Netcraft/NNP analysed/VBD response/NN times/NNS for/IN some/DT of/IN the/DT sites/NNS targeted/VBN by/IN the/DT screensaver/NN and/CC found/VBD that/IN a/DT number/NN were/VBD completely/RB knocked/VBN offline./NN
+
+The/DT downing/NN of/IN the/DT sites/NNS could/MD dent/VB Lycos/NNP claims/VBZ that/IN what/WP it/PRP is/VBZ doing/VBG does/VBZ not/RB amount/VB to/TO a/DT distributed/VBN denial/NN of/IN service/NN attack./NN
+In/IN such/JJ attacks/NNS thousands/NNS of/IN computers/NNS bombard/NN sites/NNS with/IN data/NNS in/IN an/DT attempt/NN to/TO overwhelm/VB them./NN
+Laws/NNS in/IN many/JJ countries/NNS do/VBP not/RB explicitly/RB outlaw/NN such/JJ attacks/NNS but/CC many/JJ nations/NNS are/VBP re-drafting/JJ computer/NN use/NN laws/NNS to/TO make/VB them/PRP specific/JJ offences./NN
+Lycos/NNP Europe/NNP now/RB appears/VBZ to/TO have/VB put/VBN the/DT plan/NN on/IN hold./NN
+The/DT site/NN hosting/VBG the/DT screensaver/NN currently/RB shows/VBZ a/DT holding/VBG page/NN with/IN the/DT words/NNS "Stay/NN tuned"./NN
+The/DT numerical/JJ internet/JJ address/NN of/IN the/DT site/NN has/VBZ also/RB changed./NN
+This/DT is/VBZ likely/JJ to/TO be/VB in/IN response/NN to/TO spammers/NNS who/WP have/VBP reportedly/RB redirected/VBN traffic/NN from/IN their/PRP$ sites/NNS back/RB to/TO the/DT Lycos/NNP screensaver/NN site./NN
+The/DT campaign/NN has/VBZ come/VBN under/IN fire/NN from/IN some/DT corners/NNS of/IN the/DT web./NN
+Many/JJ discussion/NN groups/NNS have/VBP said/VBN that/IN it/PRP set/VBD a/DT dangerous/JJ precedent/NN and/CC could/MD incite/VB vigilantism./NN
+"Attacking/VBG a/DT spammer's/NNS website/NN is/VBZ like/IN poking/VBG a/DT grizzly/RB bear/NN sleeping/VBG in/IN your/PRP$ back/JJ garden/NN with/IN a/DT pointy/NN stick"/NN said/VBD Graham/NNP Cluley/NNP senior/JJ technology/NN consultant/NN for/IN Sophos./NNP
+"Not/NN only/RB is/VBZ this/DT screensaver/NN similar/JJ in/IN its/PRP$ approach/NN to/TO a/DT potentially/RB illegal/JJ distributed/VBN denial/NN of/IN service/NN attack/NN but/CC it/PRP also/RB is/VBZ in/IN danger/NN of/IN turning/VBG innocent/JJ computer/NN users/NNS into/IN vigilantes/NNS who/WP may/MD not/RB be/VB prepared/VBN for/IN whatever/WDT retaliation/NN the/DT spammers/NNS care/NN to/TO dream/VB up."/NN

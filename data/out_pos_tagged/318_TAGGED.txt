@@ -1,0 +1,26 @@
+Mystery/NN surrounds/VBZ new/JJ Yukos/NNP owner/NN
+
+The/DT fate/NN of/IN Russia's/NNP Yuganskneftegas/NNP -/: the/DT oil/NN firm/NN sold/VBN to/TO a/DT little-known/JJ buyer/NN on/IN Sunday/NNP -/: is/VBZ the/DT subject/NN of/IN frantic/JJ speculation/NN in/IN Moscow./NNP
+
+Baikal/NNP Finance/NNP Group/NNP emerged/VBD as/IN the/DT auction/NN winner/NN agreeing/VBG to/TO pay/VB 260.75bn/CD roubles/NNS (£4.8bn/CD $9.4bn)./CD
+Russia's/NN newspapers/NNS claimed/VBD that/IN Baikal/NNP was/VBD a/DT front/NN for/IN gas/NN monopoly/NN Gazprom/NNP which/WDT had/VBD been/VBN expected/VBN to/TO win./VB
+The/DT sale/NN has/VBZ destroyed/VBN Yukos/NNP once/RB the/DT owner/NN of/IN Yuganskneftegas/NNP said/VBD founder/NN Mikhail/NNP Khodorkovsky./NNP
+"Yuganskneftegas/NN has/VBZ been/VBN sold/VBN in/IN the/DT best/JJS traditions/NNS of/IN the/DT 90s./CD
+The/DT authorities/NNS have/VBP made/VBN themselves/PRP a/DT wonderful/JJ Christmas/NNP present/JJ -/: Russia's/NNP most/RBS efficient/JJ oil/NN company/NN has/VBZ been/VBN destroyed"/NN the/DT Interfax/NNP news/NN agency/NN quoted/VBN Mr/NNP Khodorkovsky/NNP as/IN saying/VBG via/IN his/PRP$ lawyers./NN
+
+Gazprom/NNP had/VBD been/VBN expected/VBN to/TO win/VB the/DT auction/NN but/CC is/VBZ thought/VBN to/TO have/VB failed/VBN to/TO get/VB finance/NN for/IN the/DT deal/NN after/IN a/DT US/PRP court/VBP injunction/NN barred/VBD it/PRP from/IN taking/VBG part./NN
+Last/JJ week/NN Yukos/NNP filed/VBD for/IN Chapter/NN 11/CD bankruptcy/NN protection/NN in/IN the/DT US/PRP in/IN a/DT last-ditch/JJ attempt/NN to/TO hang/VB on/RP to/TO Yuganskneftegas/NNP which/WDT accounts/VBZ for/IN 60%/CD of/IN its/PRP$ output./NN
+A/DT US/PRP judge/VBP banned/VBN Gazprom/NNP from/IN taking/VBG part/NN in/IN the/DT auction/NN and/CC barred/VBN international/JJ banks/NNS from/IN providing/VBG the/DT firm/NN with/IN cash./NN
+"They/NN screwed/VBD up/RP the/DT financing"/NN said/VBD Ronald/NNP Smith/NNP an/DT analyst/NN at/IN Renaissance/NNP Capital/NNP in/IN Moscow./NNP
+"And/NNP Gazprom/NNP doesn't/NN have/VBP this/DT sort/NN of/IN money/NN lying/VBG around."/NN
+
+Gazprom/NNP has/VBZ denied/VBN that/IN it/PRP is/VBZ behind/IN the/DT purchase./NN
+"It/NN is/VBZ a/DT front/NN for/IN somebody/NN but/CC not/RB necessarily/RB for/IN Gazprom"/NNP said/VBD Oleg/NNP Maximov/NNP an/DT analyst/NN at/IN Troika/NNP Dialog/NNP in/IN Moscow./NNP
+"We/NN don't/NN know/NN if/IN this/DT company/NN is/VBZ linked/VBN 100%/CD to/TO Gazprom./NNP
+
+"We/NN tried/VBD to/TO find/VB it/PRP but/CC we/PRP couldn't/VBP and/CC as/RB far/RB as/IN I/PRP know/VBP the/DT papers/NNS had/VBD the/DT same/JJ result."/NN The/DT sale/NN has/VBZ however/RB bought/VBN time/NN for/IN Gazprom/NNP to/TO raise/VB the/DT money/NN needed/VBN for/IN the/DT purchase/NN analysts/NNS said./NN
+One/CD scenario/NN is/VBZ that/IN Baikal/NNP will/MD not/RB pay/VB when/WRB it/PRP is/VBZ supposed/VBN to/TO in/IN two/CD weeks/NNS time/NN putting/VBG Yuganskneftegas/NNP back/RB in/IN the/DT hands/NNS of/IN bailiffs/NNS and/CC back/RB within/IN the/DT reach/NN of/IN Gazprom./NNP
+Yukos/NNP is/VBZ not/RB planning/NN on/IN letting/VBG go/NN of/IN its/PRP$ unit/NN without/IN a/DT fight/NN and/CC has/VBZ threatened/VBN legal/JJ action/NN against/IN any/DT buyer./NN
+Menatep/NNP Yukos/NNP main/JJ shareholders'/NN group/NN has/VBZ also/RB threatened/VBN legal/JJ action./NN
+Yukos/NN claims/VBZ that/IN it/PRP is/VBZ being/VBG punished/VBN for/IN the/DT political/JJ ambitions/NNS of/IN its/PRP$ founder/NN Mikhail/NNP Khodorkovsky/NNP who/WP is/VBZ now/RB in/IN jail/NN facing/VBG separate/JJ fraud/NN charges./NN
+It/PRP has/VBZ been/VBN hit/VBN with/IN more/JJR than/IN $27bn/CD in/IN taxes/NNS and/CC fines/NNS and/CC many/JJ observers/NNS now/RB say/VBP that/IN the/DT break/NN up/RP of/IN the/DT firm/NN that/IN accounts/VBZ for/IN 20%/CD of/IN Russia's/NNP oil/NN output/NN is/VBZ inevitable./NN

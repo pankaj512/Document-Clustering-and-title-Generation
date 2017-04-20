@@ -1,0 +1,17 @@
+UK/NNP Coal/NN plunges/NNS into/IN deeper/JJR loss/NN
+
+Shares/NNS in/IN UK/NNP Coal/NN have/VBP fallen/VBN after/IN the/DT mining/NN group/NN reported/VBD losses/NNS had/VBD deepened/VBN to/TO £51.6m/CD in/IN 2004/CD from/IN £1.2m./CD
+
+The/DT UK's/NNP biggest/JJS coal/NN producer/NN blamed/VBD geological/JJ problems/NNS industrial/JJ action/NN and/CC "operating/VBG flaws"/NN at/IN its/PRP$ deep/JJ mines/NNS for/IN its/PRP$ worsening/VBG fortunes./NN
+The/DT South/NNP Yorkshire/NNP company/NN led/VBN by/IN new/JJ chief/JJ executive/NN Gerry/NNP Spindler/NNP said/VBD it/PRP hoped/VBD to/TO return/VB to/TO profit/VB in/IN 2006./CD
+In/IN early/JJ trade/NN on/IN Thursday/NNP its/PRP$ shares/NNS were/VBD down/RB 10%/CD at/IN 119/CD pence./NN
+UK/NNP Coal/NN said/VBD it/PRP was/VBD making/VBG "significant/NN progress"/NN in/IN shaking/VBG up/RP the/DT business./NN
+It/PRP had/VBD introduced/VBN new/JJ wage/NN structures/NNS a/DT new/JJ daily/JJ maintenance/NN regime/NN for/IN machinery/NN at/IN its/PRP$ mines/NNS and/CC methods/NNS to/TO continue/VB mining/NN in/IN adverse/JJ conditions./NN
+The/DT company/NN said/VBD these/DT actions/NNS should/MD "significantly/RB uplift/VB earnings"./NN
+It/PRP expected/VBD 2005/CD to/TO be/VB a/DT "transitional/JJ year"/NN and/CC to/TO return/VB to/TO profitability/NN in/IN 2006./CD
+
+The/DT recent/JJ rise/NN in/IN coal/NN prices/NNS has/VBZ failed/VBN to/TO benefit/VB the/DT company/NN as/IN most/JJS of/IN its/PRP$ output/NN had/VBD already/RB been/VBN sold/VBN it/PRP said./NN
+Total/JJ production/NN costs/NNS were/VBD £1.30/CD per/IN gigajoule/NN UK/NNP Coal/NN said/VBD but/CC the/DT average/JJ selling/NN price/NN was/VBD just/RB £1.18/CD per/IN gigajoule./NN
+"We/NN have/VBP a/DT long/JJ journey/NN ahead/RB to/TO fix/VB these/DT issues./NN
+We/PRP continue/VBP to/TO make/VB progress/NN and/CC great/JJ strides/NNS have/VBP already/RB been/VBN made"/NN said/VBD Mr/NNP Spindler./NNP
+UK/NNP Coal/NN operates/VBZ 15/CD deep/JJ and/CC surface/NN mines/NNS across/IN Nottinghamshire/NNP Derbyshire/NNP Leicestershire/NNP Yorkshire/NNP the/DT West/NNP Midlands/NNP Northumberland/NNP and/CC Durham./NNP

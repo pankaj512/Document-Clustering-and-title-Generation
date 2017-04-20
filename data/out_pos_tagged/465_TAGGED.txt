@@ -1,0 +1,15 @@
+WorldCom/NNP trial/NN starts/VBZ in/IN New/NNP York/NNP
+
+The/DT trial/NN of/IN Bernie/NNP Ebbers/NNP former/JJ chief/JJ executive/NN of/IN bankrupt/JJ US/PRP phone/VBP company/NN WorldCom/NNP has/VBZ started/VBN in/IN New/NNP York/NNP with/IN the/DT selection/NN of/IN the/DT jury./NN
+
+Mr/NNP Ebbers/NNP 63/CD is/VBZ accused/VBN of/IN being/VBG the/DT mastermind/NN behind/IN an/DT $11bn/CD (£6bn)/CD accounting/NN fraud/NN that/IN eventually/RB saw/VBD the/DT firm/JJ collapse/NN in/IN July/NNP 2002./CD
+His/PRP$ indictment/NN includes/VBZ charges/NNS of/IN securities/NNS fraud/NN conspiracy/NN and/CC filing/NN false/JJ reports/NNS with/IN regulators./NN
+If/IN found/VBN guilty/JJ Mr/NNP Ebbers/NNP could/MD face/VB a/DT substantial/JJ jail/NN sentence./NN
+He/PRP has/VBZ firmly/RB declared/VBN his/PRP$ innocence./NN
+
+Under/IN Mr/NNP Ebbers'/NNP leadership/NN WorldCom/NNP emerged/VBD from/IN Mississippi/NNP obscurity/NN to/TO become/VB a/DT $160bn/CD telecoms/NNS giant/JJ and/CC the/DT darling/NN of/IN late/JJ 1990s/NNS investors./NN
+Yet/RB as/IN competition/NN intensified/VBD and/CC the/DT telecoms/NNS boom/NN petered/VBD out/RP WorldCom/NNP found/VBD itself/PRP under/IN growing/VBG financial/JJ stress./NN
+When/WRB WorldCom/NNP finally/RB collapsed/VBD shareholders/NNS lost/VBD about/IN $180bn/CD and/CC 20000/CD workers/NNS lost/VBD their/PRP$ jobs./NN
+Mr/NNP Ebbers'/NNP trial/NN which/WDT is/VBZ expected/VBN to/TO last/VB two/CD months/NNS is/VBZ the/DT latest/JJS in/IN a/DT series/NN of/IN attempts/NNS by/IN US/PRP prosecutors/VBZ to/TO pursue/VB senior/JJ executives/NNS for/IN fraud./NN
+It/PRP will/MD coincide/VB with/IN the/DT retrial/NN of/IN former/JJ Tyco/NNP International/NNP chief/NN Dennis/NNP Kozlowski/NNP and/CC his/PRP$ top/JJ lieutenant/NN accused/VBN of/IN looting/NN the/DT industrial/JJ conglomerate/NN to/TO the/DT tune/NN of/IN $600m./CD
+Trail/NN preparations/NNS are/VBP also/RB preparing/VBG for/IN former/JJ executives/NNS of/IN shamed/VBN US/PRP energy/VBP firm/NN Enron./NNP

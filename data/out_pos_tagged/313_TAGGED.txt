@@ -1,0 +1,18 @@
+Irish/JJ company/NN hit/VBN by/IN Iraqi/JJ report/NN
+
+Shares/NNS in/IN Irish/JJ oil/NN company/NN Petrel/NNP Resources/NNPS have/VBP lost/VBN more/JJR than/IN 50%/CD of/IN their/PRP$ value/NN on/IN a/DT report/NN that/IN the/DT firm/NN has/VBZ failed/VBN to/TO win/VB a/DT contract/NN in/IN Iraq./NNP
+
+Reuters/NNP news/NN agency/NN reported/VBD that/IN Iraq's/NNP Oil/NNP Ministry/NNP has/VBZ awarded/VBN the/DT first/JJ post-war/JJ oilfield/NN contracts/NNS to/TO a/DT Canadian/JJ and/CC a/DT Turkish/JJ company./NN
+By/IN 1700/CD GMT/NNP Petrel's/NNP shares/NNS fell/VBD from/IN 97p/CD ($1.87)/CD to/TO 44p/CD ($0.85)./CD
+Petrel/NNP said/VBD that/IN it/PRP has/VBZ not/RB received/VBN any/DT information/NN from/IN Iraqi/JJ authorities/NNS to/TO confirm/VB or/CC deny/VB the/DT report./NN
+
+Iraq/NNP is/VBZ seeking/VBG to/TO award/VB contracts/NNS for/IN three/CD projects/NNS valued/VBN at/IN $500m/CD (£258.5m)./CD
+Turkey's/NNP Everasia/NNP is/VBZ reported/VBN by/IN Reuters/NNP to/TO have/VB won/VBN a/DT contract/NN to/TO develop/VB the/DT Khurmala/NNP Dome/NNP field/NN in/IN the/DT north/NN of/IN the/DT country./NN
+A/DT Canadian/JJ company/NN named/VBN IOG/NNP is/VBZ reported/VBN to/TO have/VB won/VBN the/DT contract/NN to/TO run/VB the/DT Himrin/NNP field./NN
+Ironhorse/NNP Oil/NNP and/CC Gas/NNP has/VBZ denied/VBN to/TO Reuters/NNP that/IN it/PRP is/VBZ the/DT company/NN in/IN question./NN
+These/DT two/CD projects/NNS aim/NN to/TO develop/VB Khurmala/NNP field/NN to/TO produce/VB 100000/CD barrels/NNS per/IN day/NN and/CC raise/VB the/DT output/NN of/IN Himrin./NNP
+The/DT winners/NNS of/IN the/DT contract/NN are/VBP to/TO build/VB new/JJ flow/NN lines/NNS and/CC build/VB gas/NN separation/NN stations./NN
+The/DT contract/NN to/TO develop/VB the/DT Suba-Luhais/NNP field/NN has/VBZ not/RB yet/RB been/VBN awarded/VBN as/IN Iraq's/NNP Oil/NNP Ministry/NNP is/VBZ studying/VBG the/DT offers./NN
+If/IN Iraq's/NNP cabinet/NN approves/VBZ the/DT oil/NN ministry's/NNS choice/NN of/IN companies/NNS then/RB this/DT will/MD be/VB the/DT first/JJ deal/NN that/IN Iraq/NNP has/VBZ signed/VBN with/IN a/DT foreign/JJ oil/NN company./NN
+Iraq/NNP is/VBZ still/RB trying/VBG to/TO boost/VB its/PRP$ production/NN capacity/NN to/TO match/VB levels/NNS last/RB seen/VBN in/IN the/DT eighties/NNS before/IN the/DT war/NN with/IN Iran./NNP
+Oil/NN officials/NNS hope/VBP to/TO double/JJ Iraq's/NNP output/NN by/IN the/DT end/NN of/IN the/DT decade./NN

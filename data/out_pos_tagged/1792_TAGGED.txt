@@ -1,0 +1,13 @@
+Clijsters/NNP could/MD play/VB Aussie/NNP Open/NNP
+
+Kim/NNP Clijsters/NNP has/VBZ denied/VBN reports/NNS that/IN she/PRP has/VBZ pulled/VBN out/IN of/IN January's/NNP Australian/JJ Open/NNP because/IN of/IN her/PRP$ persistent/JJ wrist/NN injury./NN
+
+Open/NNP chief/NN Paul/NNP McNamee/NNP had/VBD said/VBN "Kim's/NN wrist/NN obviously/RB isn't/NN going/VBG to/TO be/VB rehabilitated."/NN But/CC her/PRP$ spokesman/NN insisted/VBD she/PRP had/VBD simply/RB delayed/VBN submitting/VBG her/PRP$ entry./NN
+"The/NN doctors/NNS are/VBP assessing/VBG her/PRP$ injury/NN on/IN a/DT weekly/JJ basis/NN and/CC if/IN there/EX is/VBZ no/DT risk/NN she/PRP could/MD play./VB
+But/CC if/IN there's/NNS the/DT least/JJS risk/NN she/PRP will/MD stay/VB away."/NN Despite/IN being/VBG absent/JJ from/IN the/DT WTA/NNP entry/NN list/NN for/IN the/DT tournament/NN which/WDT begins/VBZ on/IN 17/CD January/NNP Clijsters/NNP would/MD be/VB certain/JJ to/TO get/VB a/DT wild/JJ card/NN if/IN she/PRP requested/VBD one./NN
+Clijsters/NNP is/VBZ still/RB ranked/VBN 22nd/JJ in/IN the/DT world/NN despite/IN only/RB playing/VBG a/DT handful/NN of/IN matches/NNS last/JJ season./NN
+The/DT Belgian/NN had/VBD an/DT operation/NN on/IN her/PRP$ left/VBN wrist/NN early/RB in/IN the/DT season/NN but/CC injured/VBD it/PRP again/RB on/IN her/PRP$ return/NN to/TO the/DT tour./NN
+Meanwhile/RB Jelena/NNP Dokic/NNP who/WP used/VBD to/TO compete/VB for/IN Australia/NNP has/VBZ opted/VBN out/IN of/IN the/DT first/JJ Grand/NNP Slam/NNP of/IN the/DT season./NN
+Dokic/NNP has/VBZ not/RB played/VBN in/IN the/DT Australian/JJ Open/NNP since/IN 2001/CD when/WRB she/PRP lost/VBD in/IN the/DT first/JJ round./NN
+But/CC the/DT 21-year-old/NN would/MD have/VB had/VBN to/TO rely/VB on/IN a/DT wild/JJ card/NN next/JJ season/NN because/IN her/PRP$ ranking/JJ has/VBZ tumbled/VBN to/TO 127th./CD
+Four-time/NNP champion/NN Monica/NNP Seles/NNP who/WP has/VBZ not/RB played/VBN since/IN last/JJ year's/NNS French/JJ Open/NNP is/VBZ another/DT absentee/NN because/IN of/IN an/DT injured/VBN left/VBN foot./NN

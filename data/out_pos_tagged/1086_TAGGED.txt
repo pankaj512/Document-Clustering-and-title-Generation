@@ -1,0 +1,20 @@
+Howard/NNP 'truanted/VBD to/TO play/VB snooker'/NN
+
+Conservative/JJ leader/NN Michael/NNP Howard/NNP has/VBZ admitted/VBN he/PRP used/VBD to/TO play/VB truant/JJ to/TO spend/VB time/NN with/IN his/PRP$ school/NN friends/NNS at/IN a/DT snooker/NN hall./NN
+
+Mr/NNP Howard/NNP said/VBD his/PRP$ time/NN at/IN Jack's/NNP Snooker/NNP Hall/NNP in/IN Llanelli/NNP in/IN the/DT 1950s/CD had/VBD not/RB done/VBN him/PRP "any/VB lasting/JJ damage"./NN
+But/CC he/PRP told/VBD the/DT Times/NNP Educational/NNP Supplement/NN that/DT truancy/NN was/VBD "very/NN bad"/NN and/CC said/VBD "firm/NN action"/NN was/VBD needed./NN
+Mr/NNP Howard/NNP also/RB called/VBD for/IN a/DT return/NN to/TO O-levels/NNP and/CC more/JJR classroom/NN discipline./JJ
+
+Mr/NNP Howard/NNP eventually/RB left/VBD Llanelli/NNP Grammar/NN School/NNP -/: and/CC the/DT snooker/NN hall/NN -/: to/TO go/VB to/TO Cambridge/NNP University./NNP
+He/PRP said/VBD "I/NN don't/NN think/VBP it's/NNS done/VBD me/PRP any/DT lasting/JJ damage./NN
+Nor/CC has/VBZ it/PRP made/VBD me/PRP a/DT snooker/NN world/NN champion./NN
+"There/NN might/MD have/VB been/VBN some/DT occasions/NNS when/WRB we/PRP left/VBD early/RB of/IN an/DT afternoon./NN
+
+"I'm/NN just/RB being/VBG honest./NN
+I/PRP think/VBP truancy/NN is/VBZ a/DT very/RB bad/JJ thing/NN and/CC that/DT firm/JJ action/NN should/MD be/VB taken/VBN to/TO deal/NN with/IN it."/NN Another/DT player/NN who/WP has/VBZ failed/VBN to/TO win/VB snooker's/NNS world/NN championship/NN -/: Jimmy/NNP "the/NN Whirlwind/JJ ''/'' White/NNP -/: has/VBZ previously/RB admitted/VBN missing/VBG lessons/NNS instead/RB spending/VBG his/PRP$ days/NNS in/IN smoky/JJ halls./NN
+"Tony/NNP Meo/NNP [another/NN player]/NN and/CC me/PRP used/VBD to/TO spend/VB all/DT of/IN our/PRP$ spare/JJ time/NN there"/NN Mr/NNP White/NNP said/VBD "We/NN loved/VBD the/DT game/NN and/CC the/DT atmosphere./NN
+"School/NN went/VBD out/IN of/IN the/DT window./NN
+I/PRP went/VBD for/IN a/DT while/NN and/CC then/RB started/VBD taking/VBG time/NN off."/NN Mr/NNP Howard's/NNP fellow/JJ Welshman/NNP Ray/NNP Reardon/NNP -/: known/VBN by/IN his/PRP$ fellow/JJ professionals/NNS as/IN "Dracula"/NN -/: won/VBD the/DT snooker/NN world/NN championship/NN six/CD times/NNS having/VBG left/VBN school/NN at/IN 14/CD to/TO work/VB as/IN a/DT miner./NN
+And/CC Terry/NNP Griffiths/NNP like/IN Mr/NNP Howard/NNP from/IN Llanelli/NNP won/VBD the/DT tournament/NN in/IN 1979./CD
+It/PRP is/VBZ not/RB known/VBN whether/IN the/DT two/CD of/IN them/PRP ever/RB clashed/VBD cues/NNS at/IN Jack's./NNP

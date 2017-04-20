@@ -1,0 +1,25 @@
+Smart/NNP search/NN lets/VBZ art/NN fans/NNS browse/NN
+
+If/IN you/PRP don't/VBP know/NN art/NN but/CC know/VB what/WP you/PRP like/IN new/JJ search/NN technology/NN could/MD prove/VB a/DT useful/JJ gateway/NN to/TO painting./VB
+
+ArtGarden/NNP developed/VBD by/IN BT's/NNP research/NN unit/NN is/VBZ being/VBG tested/VBN by/IN the/DT Tate/NNP as/IN a/DT new/JJ way/NN of/IN browsing/VBG its/PRP$ online/NN collection/NN of/IN paintings./NN
+Rather/RB than/IN search/NN by/IN the/DT name/NN of/IN an/DT artist/NN or/CC painting/NN users/NNS are/VBP shown/VBN a/DT selection/NN of/IN pictures./NN
+Clicking/NNP on/IN their/PRP$ favourite/NN will/MD change/VB the/DT gallery/NN in/IN front/NN of/IN them/PRP to/TO a/DT selection/NN of/IN similar/JJ works./NN
+
+The/DT technology/NN uses/VBZ a/DT system/NN dubbed/VBD smart/JJ serendipity/NN which/WDT is/VBZ a/DT combination/NN of/IN artificial/JJ intelligence/NN and/CC random/JJ selection./NN
+It/PRP 'chooses'/VBP a/DT selection/NN of/IN pictures/NNS by/IN scoring/VBG paintings/NNS based/VBN on/IN a/DT selection/NN of/IN keywords/NNS associated/VBN with/IN them./NN
+So/RB for/IN instance/NN a/DT Whistler/NNP painting/NN of/IN a/DT bridge/NN may/MD have/VB the/DT obvious/JJ keywords/NNS such/JJ as/IN bridge/NN and/CC Whistler/NNP associated/VBD to/TO it/PRP but/CC will/MD also/RB widen/VB the/DT search/NN net/NN with/IN terms/NNS such/JJ as/IN aesthetic/JJ movement/NN 19th/JJ century/NN and/CC water./NN
+A/DT variety/NN of/IN paintings/NNS will/MD then/RB be/VB shown/VBN to/TO the/DT user/NN based/VBN partly/RB on/IN the/DT keywords/NNS and/CC partly/RB on/IN luck./NN
+"It/NN is/VBZ much/RB more/RBR akin/JJ to/TO wandering/VBG through/IN the/DT gallery"/NN said/VBD Jemima/NNP Rellie/NNP head/NN of/IN the/DT Tate's/NNP digital/JJ programme./NN
+For/IN Richard/NNP Tateson/NNP who/WP worked/VBD on/IN the/DT ArtGarden/NNP project/NN the/DT need/NN for/IN a/DT new/JJ way/NN to/TO search/VB grew/VBD out/IN of/IN personal/JJ frustration./NN
+"I/NN went/VBD to/TO an/DT online/NN clothes/NNS store/NN to/TO find/VB something/NN to/TO buy/VB my/PRP$ wife/NN for/IN Christmas/NNP but/CC I/PRP didn't/VBP have/VBP a/DT clue/NN what/WP I/PRP wanted"/VBP he/PRP said./VB
+The/DT text-based/JJ search/NN was/VBD restricted/VBN to/TO looking/VBG either/CC by/IN type/NN of/IN garment/NN or/CC designer/VB neither/DT of/IN which/WDT he/PRP found/VBD helpful./NN
+He/PRP ended/VBD up/RP doing/VBG his/PRP$ present/JJ shopping/NN on/IN the/DT high/JJ street/NN instead./NN
+
+He/PRP thinks/VBZ the/DT dominance/NN of/IN text-based/JJ searching/NN is/VBZ not/RB necessarily/RB appealing/VBG to/TO the/DT majority/NN of/IN online/NN shoppers./NN
+Similarly/RB with/IN art/NN browsing/NN is/VBZ often/RB more/RBR important/JJ than/IN finding/VBG a/DT particular/JJ object./NN
+"You/NN don't/NN arrive/NN at/IN Tate/NNP Britain/NNP and/CC tell/VB people/NNS what/WP you/PRP want/VBP to/TO see./VB
+One/CD of/IN the/DT skills/NNS of/IN showing/VBG off/RP the/DT collection/NN is/VBZ to/TO introduce/VB people/NNS to/TO things/NNS they/PRP wouldn't/VBP have/VBP asked/VBN for"/NN he/PRP said./VB
+The/DT Tate/NNP is/VBZ committed/VBN to/TO making/VBG its/PRP$ art/NN more/RBR accessible/JJ and/CC technology/NN such/JJ as/IN ArtGarden/NNP can/MD help/VB with/IN that/DT said/VBD Ms/NNP Rellie./NNP
+She/PRP hopes/VBZ the/DT technology/NN can/MD be/VB incorporated/VBN on/RP to/TO the/DT website/NN in/IN the/DT near/JJ future./NN
+BT/NNP research/NN is/VBZ looking/VBG at/IN extending/VBG the/DT technology/NN to/TO other/JJ searching/VBG such/JJ as/IN for/IN music/NN and/CC films./NN

@@ -1,0 +1,15 @@
+Tindall/NNP wants/VBZ second/JJ opinion/NN
+
+England/NNP centre/NN Mike/NNP Tindall/NNP is/VBZ to/TO seek/VB a/DT second/JJ opinion/NN before/IN having/VBG surgery/NN on/IN a/DT foot/NN injury/NN that/WDT could/MD force/VB him/PRP to/TO miss/VB the/DT entire/JJ Six/CD Nations./NNP
+
+The/DT Bath/NN player/NN was/VBD already/RB out/IN of/IN the/DT opener/NN against/IN Wales/NNP on/IN 5/CD February/NNP because/IN of/IN a/DT hand/NN problem./NN
+"Mike/NN had/VBD a/DT specialist/NN review/NN on/IN a/DT fracture/NN in/IN his/PRP$ right/JJ mid/NN foot"/NN said/VBD England/NNP doctor/NN Simon/NNP Kemp./NNP
+"Before/NN a/DT final/JJ decision/NN is/VBZ made/VBN on/IN surgery.../NN
+medical/JJ teams/NNS have/VBP decided/VBN he/PRP should/MD see/VB a/DT second/JJ specialist."/NN
+
+England/NNP coach/NN Andy/NNP Robinson/NNP is/VBZ already/RB without/IN centre/NN Will/MD Greenwood/NNP and/CC flanker/NN Richard/NNP Hill/NNP while/IN fly-half/JJ Jonny/NNP Wilkinson/NNP is/VBZ certain/JJ to/TO miss/VB at/IN least/JJS the/DT first/JJ two/CD games./NN
+Robinson/NNP is/VBZ expected/VBN to/TO announce/VB his/PRP$ new-look/JJ England/NNP line-up/JJ on/IN Monday/NNP for/IN the/DT match/NN at/IN the/DT Millennium/NNP Stadium./NNP
+And/CC Newcastle's/NNP 18-year-old/JJ centre/NN Mathew/NNP Tait/NNP is/VBZ set/VBN to/TO stand/VB in/IN for/IN Tindall/NNP alongside/IN club/NN team-mate/JJ Jamie/NNP Noon./NNP
+
+Meanwhile/RB Tindall/NNP is/VBZ targeting/VBG a/DT return/NN to/TO action/VB before/IN the/DT end/NN of/IN the/DT regular/JJ Zurich/NNP Premiership/NN season/NN on/IN 30/CD April./NNP
+He/PRP will/MD also/RB aim/VB to/TO be/VB back/RB to/TO full/JJ fitness/NN before/IN the/DT Lions/NNP tour/NN to/TO New/NNP Zealand/NNP this/DT summer./NN

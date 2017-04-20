@@ -1,0 +1,10 @@
+No/DT election/NN TV/NN debate/NN says/VBZ Blair/NNP
+
+Tony/NNP Blair/NNP has/VBZ said/VBN he/PRP will/MD not/RB take/VB part/NN in/IN a/DT TV/NN debate/NN with/IN his/PRP$ political/JJ rivals/NNS ahead/RB of/IN the/DT next/JJ election./NN
+
+"We/NN answer/NN this/DT every/DT election/NN campaign/NN and/CC for/IN the/DT reasons/NNS I/PRP have/VBP given/VBN before/IN the/DT answer/NN is/VBZ no"/NN he/PRP said/VBD at/IN his/PRP$ monthly/JJ news/NN conference./NN
+In/IN October/NNP Tory/NNP leader/NN Michael/NNP Howard/NNP said/VBD Mr/NNP Blair/NNP would/MD be/VB running/VBG scared/VBN if/IN he/PRP refused/VBD calls/VBZ to/TO go/VB head-to-head./JJ
+In/IN recent/JJ years/NNS the/DT leader/NN of/IN the/DT opposition/NN has/VBZ always/RB called/VBN for/IN a/DT debate/NN although/IN it/PRP has/VBZ never/RB happened./NN
+Before/IN the/DT 2001/CD election/NN plans/NNS for/IN a/DT debate/NN between/IN Mr/NNP Blair/NNP William/NNP Hague/NNP and/CC Charles/NNP Kennedy/NNP collapsed./NN
+In/IN 1997/CD a/DT debate/NN between/IN Mr/NNP Blair/NNP and/CC John/NNP Major/NNP was/VBD also/RB cancelled/VBN when/WRB a/DT format/NN could/MD not/RB be/VB agreed./NN
+Televised/VBN debates/NNS have/VBP become/VBN the/DT high/JJ point/NN of/IN the/DT US/PRP presidential/JJ election/NN campaigns./NN

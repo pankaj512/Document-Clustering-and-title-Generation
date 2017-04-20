@@ -1,0 +1,31 @@
+Online/NN commons/NNS to/TO spark/VB debate/NN
+
+Online/NN communities/NNS set/VBD up/RP by/IN the/DT UK/NNP government/NN could/MD encourage/VB public/JJ debate/NN and/CC build/VB trust/NN says/VBZ the/DT Institute/NNP of/IN Public/NNP Policy/NNP Research/NNP (IPPR)./NN
+
+Existing/VBG services/NNS such/JJ as/IN eBay/NN could/MD provide/VB a/DT good/JJ blueprint/NN for/IN such/JJ services/NNS says/VBZ the/DT think-tank./JJ
+Although/IN the/DT net/JJ is/VBZ becoming/VBG part/NN of/IN local/JJ and/CC central/JJ government/NN its/PRP$ potential/JJ has/VBZ not/RB yet/RB been/VBN fully/RB exploited/VBN to/TO create/VB an/DT online/NN "commons"/NN for/IN public/JJ debate./NN
+In/IN its/PRP$ report/NN Is/VBZ Online/NNP Community/NNP A/NNP Policy/NNP Tool?/NNP the/DT IPPR/NNP also/RB asks/VBZ if/IN ID/NNP cards/NNS could/MD help/VB create/VB safer/JJR online/NN communities./NN
+Adopting/VBG an/DT eBay-type/JJ model/NN would/MD let/VB communities/NNS create/VB their/PRP$ own/JJ markets/NNS for/IN skills/NNS and/CC services/NNS and/CC help/VB foster/JJ a/DT sense/NN of/IN local/JJ identity/NN and/CC connection./NN
+"What/NN we/PRP are/VBP proposing/VBG is/VBZ a/DT civic/JJ commons"/NN Will/MD Davies/NNP senior/JJ research/NN fellow/JJ at/IN the/DT IPPR/NNP told/VBD the/DT BBC/NNP News/NNP website./NN
+"A/NN single/JJ publicly/RB funded/VBN and/CC run/VB online/NN community/NN in/IN which/WDT citizens/NNS can/MD have/VB a/DT single/JJ place/NN to/TO go/VB where/WRB you/PRP can/MD go/VB to/TO engage/VB in/IN diversity/NN and/CC in/IN a/DT way/NN that/WDT might/MD have/VB a/DT policy/NN implication/NN -/: like/IN a/DT pre-legislation/JJ discussion."/JJ
+
+The/DT idea/NN of/IN a/DT "civic/JJ commons"/NN was/VBD originally/RB proposed/VBN by/IN Stephen/NNP Coleman/NNP professor/NN of/IN e-democracy/JJ at/IN the/DT Oxford/NNP Internet/NNP Institute./NNP
+The/DT IPPR/NNP report/NN points/NNS to/TO informal/JJ small/JJ scale/NN examples/NNS of/IN such/JJ commons/NNS that/WDT already/RB exist./NN
+It/PRP mentions/VBZ good-practice/JJ public/JJ initiatives/NNS like/IN the/DT BBC's/NNP iCan/NN project/NN which/WDT connects/VBZ people/NNS locally/RB and/CC nationally/RB who/WP want/VBP to/TO take/VB action/NN around/IN important/JJ issues./NN
+
+But/CC he/PRP adds/VBZ government/NN could/MD play/VB a/DT bigger/JJR role/NN in/IN setting/VBG up/RP systems/NNS of/IN trust/NN for/IN online/NN communities/NNS too./NN
+Proposals/NNS for/IN ID/NNP cards/NNS for/IN instance/NN could/MD also/RB be/VB widened/VBN to/TO see/VB if/IN they/PRP could/MD be/VB used/VBN online./NN
+They/PRP could/MD provide/VB the/DT basis/NN for/IN a/DT secure/NN authentication/NN system/NN which/WDT could/MD have/VB value/NN for/IN peer-to-peer/JJ interaction/JJ online./NN
+"At/NN the/DT moment/NN they/PRP have/VBP been/VBN presented/VBN as/IN a/DT way/NN for/IN government/NN to/TO keep/VB tabs/NNS on/IN people/NNS and/CC ensuring/VBG access/NN to/TO public/JJ services"/NN said/VBD Mr/NNP Davies./NNP
+"But/NN what/WP has/VBZ not/RB been/VBN explored/VBN is/VBZ how/WRB authentication/NN technology/NN may/MD potentially/RB play/VB a/DT role/NN in/IN decentralised/VBN online/NN communities."/NN The/DT key/JJ idea/NN to/TO take/VB from/IN systems/NNS such/JJ as/IN eBay/NN and/CC other/JJ online/NN communities/NNS is/VBZ letting/VBG members/NNS rate/VBP each/DT other's/NNS reputation/NN by/IN how/WRB they/PRP treat/VBP other/JJ members./NN
+Using/VBG a/DT similar/JJ mechanism/NN trust/NN and/CC cooperation/NN between/IN members/NNS of/IN virtual/JJ and/CC physical/JJ communities/NNS could/MD be/VB built./NN
+This/DT could/MD mean/VB a/DT civic/JJ commons/NNS would/MD work/VB within/IN a/DT non-market/JJ system/NN which/WDT lets/VBZ people/NNS who/WP may/MD disagree/VB with/IN one/CD another/DT interact/NN within/IN publicly-recognised/JJ rules./NN
+
+E-government/NN initiatives/NNS over/IN the/DT last/JJ decade/NN have/VBP very/RB much/RB been/VBN about/IN putting/VBG basic/JJ information/NN and/CC service/NN guides/NNS online/NN as/RB well/RB as/IN letting/VBG people/NNS interact/JJ with/IN government/NN via/IN the/DT web./NN
+Many/JJ online/NN communities/NNS such/JJ as/IN chatrooms/NNS mailing/NN lists/NNS community/NN portals/NNS message/NN boards/NNS and/CC weblogs/NNS often/RB form/VBP around/IN common/JJ interests/NNS or/CC issues./NN
+
+With/IN 53%/CD of/IN UK/NNP households/NNS now/RB with/IN access/NN to/TO the/DT net/JJ the/DT government/NN suggests/VBZ Mr/NNP Davies/NNP could/MD act/VB as/IN an/DT intermediary/JJ or/CC "middleman"/NN to/TO set/VB up/RP public/JJ online/NN places/NNS of/IN debate/NN and/CC exchange/NN to/TO encourage/VB more/JJR "cosmopolitan/NN politics"/NN and/CC public/JJ trust/NN in/IN policy./NN
+"Government/NN already/RB plays/VBZ a/DT critical/JJ role/NN in/IN helping/VBG citizens/NNS trade/NN with/IN each/DT other/JJ online./NN
+"But/NN it/PRP should/MD also/RB play/VB a/DT role/NN in/IN helping/VBG citizens/NNS connect/VBP to/TO one/CD another/DT in/IN civic/JJ non-market/JJ interactions"/NN said/VBD Mr/NNP Davies./NNP
+There/EX is/VBZ a/DT role/NN for/IN public/JJ bodies/NNS like/IN the/DT BBC/NNP libraries/NNS and/CC government/NN to/TO bring/VB people/NNS back/RB into/IN public/JJ debate/NN again/RB instead/RB of/IN millions/NNS of/IN "cliques"/NN talking/VBG to/TO each/DT other/JJ he/PRP added./VB
+The/DT paper/NN is/VBZ part/NN of/IN the/DT IPPR's/NNP Digital/NNP Society/NNP initiative/NN which/WDT is/VBZ producing/VBG a/DT number/NN of/IN conferences/NNS and/CC research/NN papers/NNS leading/VBG up/IN to/TO the/DT publication/NN of/IN A/DT Manifesto/NN For/IN A/DT Digital/NNP Britain./NNP

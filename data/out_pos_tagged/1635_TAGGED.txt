@@ -1,0 +1,35 @@
+Scotland/NNP v/NN Italy/NNP (Sat)/NN
+
+Murrayfield/NNP Edinburgh/NNP
+
+Saturday/NNP 26/CD February/NNP
+
+1400/CD GMT/NNP
+
+BBC1/CD Five/CD Live/JJ and/CC this/DT website/NN
+
+Victory/NN for/IN the/DT Azzurri/NNP in/IN Rome/NNP last/JJ year/NN saw/VBD Scotland/NNP end/VBP their/PRP$ campaign/NN without/IN a/DT victory./NN
+And/CC the/DT pressure/NN is/VBZ on/IN Scotland/NNP coach/NN Matt/NNP Williams/NNP as/IN he/PRP seeks/VBZ a/DT first/JJ Six/CD Nations/NNPS victory/NN at/IN the/DT eighth/JJ attempt./NN
+Italy/NNS have/VBP lost/VBN both/DT their/PRP$ opening/NN games/NNS at/IN home/NN to/TO Ireland/NNP and/CC Wales/NNP but/CC travel/NN to/TO Edinburgh/NNP with/IN high/JJ hopes./NN
+
+Their/PRP$ coach/NN John/NNP Kirwan/NNP has/VBZ warned/VBN his/PRP$ side/NN they/PRP must/MD eradicate/VB the/DT errors/NNS that/IN blighted/VB their/PRP$ loss/NN to/TO Wales/NNP however/RB or/CC risk/NN suffering/VBG a/DT third/JJ successive/JJ defeat./NN
+"If/NN the/DT defeat/NN against/IN Wales/NNP has/VBZ taught/VBN us/PRP anything/NN it's/NNS that/IN at/IN this/DT level/NN we/PRP can't/VBP make/VBP any/DT mistakes"/NN Kirwan/NNP said./NN
+"In/NN the/DT Six/CD Nations/NNPS every/DT error/NN you/PRP make/VBP will/MD come/VB at/IN a/DT high/JJ price./NN
+"We/NN have/VBP to/TO be/VB aggressive/JJ for/IN 80/CD minutes/NNS keep/VBP calm/JJ in/IN every/DT situation/NN and/CC display/NN great/JJ maturity/NN on/IN the/DT pitch./NN
+
+"It/NN will/MD be/VB fundamental/JJ to/TO keep/VB cool/JJ in/IN the/DT difficult/JJ moments/NNS -/: in/IN the/DT key/JJ situations/NNS of/IN the/DT game."/NN Kirwan/NNP has/VBZ recalled/VBN the/DT experienced/VBN Cristian/NNP Stoica/NNP at/IN centre/NN and/CC drafted/VBN in/IN David/NNP dal/JJ Maso/NNP at/IN open-side/JJ after/IN star/NN flanker/NN Mauro/NNP Bergamasco/NNP was/VBD ruled/VBN out/RP for/IN the/DT rest/NN of/IN the/DT tournament./NN
+Scotland/NNS have/VBP also/RB made/VBN two/CD changes/NNS Simon/NNP Webster/NNP replacing/VBG Simon/NNP Danielli/NNP on/IN the/DT wing/NN and/CC Simon/NNP Taylor/NNP returning/VBG for/IN his/PRP$ first/JJ Test/NNP in/IN a/DT year/NN for/IN injured/VBN flanker/NN Jason/NNP White./NNP
+Taylor's/NNP recovery/NN from/IN a/DT serious/JJ knee/NN injury/NN is/VBZ a/DT major/JJ boost/NN to/TO Scottish/JJ hopes./NN
+"He/NN is/VBZ one/CD of/IN the/DT world-class/JJ players/NNS in/IN the/DT tournament/NN and/CC you/PRP want/VBP them/PRP in/IN your/PRP$ team"/NN acknowledged/VBD Williams./NNP
+
+Despite/IN a/DT record/NN of/IN only/RB two/CD victories/NNS from/IN 14/CD Tests/NNS Williams/NNP insists/VBZ he/PRP is/VBZ revelling/VBG in/IN the/DT pressure./NN
+"I/NN actually/RB really/RB enjoy/VB seeing/VBG how/WRB you/PRP cope/VBP with/IN such/JJ pressure/NN as/IN a/DT coach"/NN he/PRP said/VBD optimistic/JJ despite/IN opening/NN defeats/VBZ to/TO France/NNP and/CC Ireland./NNP
+"We/NN were/VBD confident/JJ for/IN those/DT two/CD first/JJ games/NNS and/CC we/PRP are/VBP confident/JJ we/PRP can/MD beat/VB Italy/NNP too"/NN he/PRP added./VB
+
+C/NNP Paterson/NNP S/NNP Webster/NNP A/NNP Craig/NNP H/NNP Southwell/NNP S/NNP Lamont/NNP D/NNP Parks/NNPS C/NNP Cusiter/NNP T/NNP Smith/NNP G/NNP Bulloch/NNP (capt)/NN G/NNP Kerr/NNP S/NNP Grimes/NNP S/NNP Murray/NNP S/NNP Taylor/NNP J/NNP Petrie/NNP A/NNP Hogg./NNP
+
+R/NNP Russell/NNP B/NNP Douglas/NNP N/NNP Hines/NNP J/NNP Dunbar/NNP M/NNP Blair/NNP G/NNP Ross/NNP B/NNP Hinshelwood./NNP
+
+R/NNP de/NNP Marigny/NNP Mirco/NNP Bergamasco/NNP C/NNP Stoica/NNP A/NNP Masi/NNP L/NNP Nitoglia/NNP L/NNP Orquera/NNP A/NNP Troncon/NNP A/NNP Lo/NNP Cicero/NNP F/NN Ongaro/NNP M/NNP Castrogiovanni/NNP S/NNP Dellape/NNP M/NNP Bortolami/NNP (capt)/NN A/DT Persico/NNP D/NNP Dal/NNP Maso/NNP S/NNP Parisse./NNP
+
+G/NNP Intoppa/NNP S/NNP Perugini/NNP CA/MD del/NNP Fava/NNP S/NNP Orlando/NNP P/NNP Griffen/NNP R/NN Pedrazzi/NNP KP/NNP Robertson./NNP

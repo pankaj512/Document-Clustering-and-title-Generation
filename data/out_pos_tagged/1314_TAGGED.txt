@@ -1,0 +1,14 @@
+Claxton/NNP hunting/NN first/RB major/JJ medal/NN
+
+British/JJ hurdler/NN Sarah/NNP Claxton/NNP is/VBZ confident/JJ she/PRP can/MD win/VB her/PRP$ first/JJ major/JJ medal/NN at/IN next/JJ month's/NNS European/JJ Indoor/JJ Championships/NNS in/IN Madrid./NNP
+
+The/DT 25-year-old/JJ has/VBZ already/RB smashed/VBN the/DT British/JJ record/NN over/IN 60m/CD hurdles/NNS twice/RB this/DT season/NN setting/VBG a/DT new/JJ mark/NN of/IN 7.96/CD seconds/NNS to/TO win/VB the/DT AAAs/NNP title./NN
+"I/NN am/VBP quite/RB confident"/NN said/VBD Claxton./NNP
+"But/NN I/PRP take/VBP each/DT race/NN as/IN it/PRP comes./NN
+"As/NN long/RB as/IN I/PRP keep/VBP up/RP my/PRP$ training/NN but/CC not/RB do/VB too/RB much/JJ I/PRP think/VBP there/EX is/VBZ a/DT chance/NN of/IN a/DT medal."/NN Claxton/NNP has/VBZ won/VBN the/DT national/JJ 60m/CD hurdles/NNS title/NN for/IN the/DT past/JJ three/CD years/NNS but/CC has/VBZ struggled/VBN to/TO translate/VB her/PRP$ domestic/JJ success/NN to/TO the/DT international/JJ stage./NN
+Now/RB the/DT Scotland-born/NNP athlete/NN owns/VBZ the/DT equal/JJ fifth-fastest/JJ time/NN in/IN the/DT world/NN this/DT year./NN
+And/CC at/IN last/JJ week's/NNS Birmingham/NNP Grand/NNP Prix/NNP Claxton/NNP left/VBD European/JJ medal/NN favourite/NN Russian/JJ Irina/NNP Shevchenko/NNP trailing/VBG in/IN sixth/JJ spot./NN
+
+For/IN the/DT first/JJ time/NN Claxton/NNP has/VBZ only/RB been/VBN preparing/VBG for/IN a/DT campaign/NN over/IN the/DT hurdles/NNS -/: which/WDT could/MD explain/VB her/PRP$ leap/NN in/IN form./NN
+In/IN previous/JJ seasons/NNS the/DT 25-year-old/JJ also/RB contested/VBD the/DT long/JJ jump/NN but/CC since/IN moving/VBG from/IN Colchester/NNP to/TO London/NNP she/PRP has/VBZ re-focused/JJ her/PRP$ attentions./NN
+Claxton/NNP will/MD see/VB if/IN her/PRP$ new/JJ training/NN regime/NN pays/VBZ dividends/NNS at/IN the/DT European/NNP Indoors/NNP which/WDT take/VBP place/NN on/IN 5-6/JJ March./NNP

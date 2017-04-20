@@ -1,0 +1,15 @@
+Metlife/NNP buys/VBZ up/RP Citigroup/NNP insurer/NN
+
+US/PRP banking/VBP giant/NN Citigroup/NNP has/VBZ sold/VBN its/PRP$ Travelers/NNPS Life/NNP &/CC Annuity/NNP insurance/NN arm/NN to/TO Metlife/NNP for/IN $11.5bn/CD (£6.1bn)./CD
+
+The/DT sale/NN is/VBZ a/DT further/JJ move/NN by/IN Citigroup/NNP away/RB from/IN its/PRP$ 1990s/CD strategy/NN of/IN offering/VBG every/DT financial/JJ service/NN -/: insurance/NN broking/VBG and/CC banking./NN
+Profit/NN growth/NN in/IN the/DT insurance/NN market/NN has/VBZ not/RB matched/VBN expansion/NN at/IN Citigroup's/NNP other/JJ businesses./NN
+For/IN Metlife/NNP the/DT US's/NNP leading/VBG insurance/NN company/NN the/DT purchase/NN gives/VBZ it/PRP access/NN to/TO a/DT much/RB larger/JJR distribution/NN network./NN
+
+Robert/NNP Benmosche/NNP Metlife's/NNP chairman/NN and/CC chief/JJ executive/NN said/VBD that/IN it/PRP was/VBD a/DT "great/NN opportunity/NN for/IN the/DT brand/NN of/IN Metlife/NNP to/TO be/VB distributed/VBN through/IN Citigroup"./NNP
+Under/IN the/DT agreement/NN Metlife/NNP will/MD be/VB able/JJ to/TO sell/VB its/PRP$ products/NNS through/IN Citigroup/NNP over/IN the/DT next/JJ 10/CD years./NN
+The/DT deal/NN includes/VBZ Smith/NNP Barney/NNP retail/JJ brokerages/NNS and/CC Citibank/NNP branches./NN
+The/DT company/NN will/MD pay/VB between/IN $1bn/CD and/CC $3bn/CD in/IN Metlife/NNP stock/NN with/IN the/DT rest/NN being/VBG made/VBN up/RP of/IN cash./NN
+Travelers/NNS had/VBD sales/NNS of/IN $5.2bn/CD in/IN 2004/CD and/CC made/VBD a/DT profit/NN of/IN $901m./CD
+It/PRP has/VBZ total/JJ net/JJ assets/NNS of/IN $96bn./CD
+"This/NN deal/NN employs/VBZ some/DT of/IN Metlife's/NNP excess/JJ capital/NN in/IN a/DT potentially/RB higher-return/JJ business/NN and/CC gives/VBZ it/PRP more/RBR distribution"/NN said/VBD Stuart/NNP Quint/NNP an/DT analyst/NN at/IN Gartmore./NNP

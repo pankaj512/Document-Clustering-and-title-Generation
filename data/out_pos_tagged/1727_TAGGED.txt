@@ -1,0 +1,43 @@
+England/NNP 17-18/JJ France/NNP
+
+England/NNP suffered/VBD an/DT eighth/JJ defeat/NN in/IN 11/CD Tests/NNS as/IN scrum-half/JJ Dimitri/NNP Yachvili/NNP booted/VBD France/NNP to/TO victory/NN at/IN Twickenham./NNP
+
+Two/CD converted/VBN tries/VBZ from/IN Olly/NNP Barkley/NNP and/CC Josh/NNP Lewsey/NNP helped/VBD the/DT world/NN champions/NNS to/TO a/DT 17-6/JJ half-time/NN lead./NN
+But/CC Charlie/NNP Hodgson/NNP and/CC Barkley/NNP missed/VBD six/CD penalties/NNS between/IN them/PRP while/IN Yachvili/NNP landed/VBD six/CD for/IN France/NNP to/TO put/VB the/DT visitors/NNS in/IN front./NN
+England/NNP could/MD have/VB won/VBN the/DT game/NN with/IN three/CD minutes/NNS left/VBN but/CC Hodgson/NNP pushed/VBD an/DT easy/JJ drop/NN goal/NN opportunity/NN wide./NN
+It/PRP was/VBD a/DT dismal/JJ defeat/NN for/IN England/NNP coming/VBG hard/RB on/IN the/DT heels/NNS of/IN an/DT opening/NN Six/CD Nations/NNPS loss/NN in/IN Wales./NNP
+They/PRP should/MD have/VB put/VBN the/DT game/NN well/RB beyond/IN France's/NNP reach/NN but/CC remarkably/RB remained/VBD scoreless/JJ for/IN the/DT entire/JJ second/JJ half./NN
+A/DT scrappy/JJ opening/NN quarter/NN saw/VBD both/DT sides/NNS betray/VBP the/DT lack/NN of/IN confidence/NN engendered/VBN by/IN poor/JJ opening/NN displays/NNS against/IN Wales/NNP and/CC Scotland/NNP respectively./NN
+Hodgson/NNP had/VBD an/DT early/JJ opportunity/NN to/TO settle/VB English/JJ nerves/NNS but/CC pushed/VBD a/DT straightforward/JJ penalty/NN attempt/NN wide./NN
+But/CC a/DT probing/VBG kick/NN from/IN France/NNP centre/NN Damien/NNP Traille/NNP saw/VBD Mark/NNP Cueto/NNP penalised/VBD for/IN holding/VBG on/RP to/TO the/DT ball/NN in/IN the/DT tackle/NN Yachvili/NNP giving/VBG France/NNP the/DT lead/NN with/IN a/DT kick/NN from/IN wide/JJ out./NN
+
+France/NNP twice/RB turned/VBD over/IN England/NNP ball/NN at/IN the/DT breakdown/NN early/RB on/IN as/IN the/DT home/NN side/NN struggled/VBD to/TO generate/VB forward/RB momentum/NN one/CD Ben/NNP Kay/NNP charge/NN apart./NN
+A/DT spell/NN of/IN tit-for-tat/JJ kicking/NN emphasised/VBN the/DT caution/NN on/IN both/DT sides/NNS until/IN England/NNP refused/VBD a/DT possible/JJ three/CD points/NNS to/TO kick/VB a/DT penalty/NN to/TO the/DT corner/NN only/RB to/TO botch/VB the/DT subsequent/JJ line-out./JJ
+But/CC England/NNP made/VBD the/DT breakthrough/NN after/IN 19/CD minutes/NNS when/WRB a/DT faltering/VBG move/NN off/RP the/DT back/NN of/IN a/DT scrum/NN led/VBD to/TO the/DT opening/NN try./NN
+Jamie/NNP Noon/NN took/VBD a/DT short/JJ pass/NN from/IN Barkley/NNP and/CC ran/VBD a/DT good/JJ angle/NN to/TO plough/VB through/IN Yann/NNP Delaigue's/NNP flimsy/JJ tackle/NN before/IN sending/VBG his/PRP$ centre/NN partner/NN through/IN to/TO score/VB at/IN the/DT posts./NN
+
+Hodgson/NNP converted/VBD and/CC added/VBD a/DT penalty/NN after/IN one/CD of/IN several/JJ French/JJ infringements/NNS on/IN the/DT floor/NN for/IN a/DT 10-3/JJ lead./NN
+The/DT fly-half/NN failed/VBD to/TO dispense/VB punishment/NN though/IN with/IN a/DT scuffed/VBN attempt/NN after/IN France/NNP full-back/JJ Pepito/NNP Elhorga/NNP scragged/VBD by/IN Lewsey/NNP threw/VBD the/DT ball/NN into/IN touch./NN
+Barkley/NNP also/RB missed/VBD two/CD longer-range/JJ efforts/NNS as/IN the/DT first/JJ half/NN drew/VBD to/TO a/DT close/NN but/CC by/IN then/RB England/NNP had/VBD scored/VBN a/DT second/JJ converted/VBN try./NN
+After/IN a/DT series/NN of/IN phases/NNS lock/VBP Danny/NNP Grewcock/NNP ran/VBD hard/RB at/IN the/DT French/JJ defence/NN and/CC off-loaded/JJ out/IN of/IN Sylvain/NNP Marconnet's/NNP tackle/VB to/TO Lewsey./NNP
+The/DT industrious/JJ wing/NN cut/NN back/RB in/RP on/IN an/DT angle/NN and/CC handed/VBN off/RP hooker/NN Sebastien/NNP Bruno/NNP to/TO sprint/VB over./NN
+After/IN a/DT dire/JJ opening/NN to/TO the/DT second/JJ half/NN France/NNP threw/VBD on/IN three/CD forward/RB replacements/NNS in/IN an/DT attempt/NN to/TO rectify/VB the/DT situation/NN wing/NN Jimmy/NNP Marlu/NNP having/VBG already/RB departed/VBD injured./NN
+Yachvili/NNP nibbled/VBD away/RB at/IN the/DT lead/NN with/IN a/DT third/JJ penalty/NN after/IN 51/CD minutes./NN
+
+And/CC when/WRB Lewis/NNP Moody/NNP was/VBD twice/RB penalised/VBN -/: for/IN handling/VBG in/IN a/DT ruck/NN and/CC then/RB straying/VBG offside/NN -/: the/DT scrum-half's/NNS unerring/VBG left/VBN boot/NN cut/VBP the/DT deficit/NN to/TO two/CD points./NN
+Barkley/NNP then/RB missed/VBD his/PRP$ third/JJ long-range/JJ effort/NN to/TO increase/VB the/DT tension./NN
+And/CC after/IN seeing/VBG another/DT attempt/NN drop/NN just/RB short/JJ Yachvili/NNP put/VBD France/NNP ahead/RB with/IN his/PRP$ sixth/JJ penalty/NN with/IN 11/CD minutes/NNS left./NN
+
+England/NNP sent/VBD on/IN Ben/NNP Cohen/NNP and/CC Matt/NNP Dawson/NNP and/CC after/IN Barkley's/NNP kick/VBP saw/VBN Christophe/NNP Dominici/NNP take/VB the/DT ball/NN over/IN his/PRP$ own/JJ line/NN the/DT stage/NN was/VBD set/VBN for/IN a/DT victory/NN platform./NN
+But/CC even/RB after/IN a/DT poor/JJ scrummage/NN Hodgson/NNP had/VBD the/DT chance/NN to/TO seal/VB victory/NN but/CC pushed/VBD his/PRP$ drop-goal/JJ attempt/NN wide./NN
+England/NNP threw/VBD everything/NN at/IN the/DT French/NN in/IN the/DT final/JJ frantic/JJ moments/NNS but/CC the/DT visitors/NNS held/VBN on/RP for/IN their/PRP$ first/JJ win/NN at/IN Twickenham/NNP since/IN 1997./CD
+
+J/NNP Robinson/NNP (capt)/NN M/NNP Cueto/NNP J/NNP Noon/NN O/NNP Barkley/NNP J/NNP Lewsey/NNP C/NNP Hodgson/NNP H/NNP Ellis/NNP G/NNP Rowntree/NNP S/NNP Thompson/NNP P/NNP Vickery/NNP D/NNP Grewcock/NNP B/NNP Kay/NNP J/NNP Worsley/NNP L/NNP Moody/NNP M/NNP Corry./NNP
+
+A/DT Titterrell/NNP A/NNP Sheridan/NNP S/NNP Borthwick/NNP A/NNP Hazell/NNP M/NNP Dawson/NNP H/NNP Paul/NNP B/NNP Cohen./NNP
+
+P/NNP Elhorga/NNP C/NNP Dominici/NNP B/NNP Liebenberg/NNP D/NNP Traille/NNP J/NNP Marlu/NNP Y/NNP Delaigue/NNP D/NNP Yachvili/NNP S/NNP Marconnet/NNP S/NNP Bruno/NNP N/NNP Mas/NNP F/NN Pelous/NNP (capt)/NN J/NNP Thion/NNP S/NNP Betsen/NNP J/NNP Bonnaire/NNP S/NNP Chabal./NNP
+
+W/NNP Servat/NNP J/NNP Milloud/NNP G/NNP Lamboley/NNP Y/NNP Nyanga/NNP P/NNP Mignoni/NNP F/NN Michalak/NNP J-P/NNP Grandclaude./NNP
+
+Paddy/NNP O'Brien/NNP (New/NN Zealand)/NNP

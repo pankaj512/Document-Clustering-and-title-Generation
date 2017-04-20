@@ -1,0 +1,24 @@
+China/NNP 'blocks/NN Google/NNP news/NN site'/NN
+
+China/NNP has/VBZ been/VBN accused/VBN of/IN blocking/VBG access/NN to/TO Google/NNP News/NNP by/IN the/DT media/NNS watchdog/NN Reporters/NNS Without/IN Borders./NNP
+
+The/DT Paris-based/JJ pressure/NN group/NN said/VBD the/DT English-language/JJ news/NN site/NN had/VBD been/VBN unavailable/JJ for/IN the/DT past/JJ 10/CD days./NN
+It/PRP said/VBD the/DT aim/NN was/VBD to/TO force/VB people/NNS to/TO use/VB a/DT Chinese/JJ edition/NN of/IN the/DT site/NN which/WDT according/VBG to/TO the/DT watchdog/NN does/VBZ not/RB include/VB critical/JJ reports./NN
+Google/NNP told/VBD the/DT BBC/NNP News/NNP website/NN it/PRP was/VBD aware/JJ of/IN the/DT problems/NNS and/CC was/VBD investigating/VBG the/DT causes./NN
+
+China/NNP is/VBZ believed/VBN to/TO extend/VB greater/JJR censorship/NN over/IN the/DT net/NN than/IN any/DT other/JJ country/NN in/IN the/DT world./NN
+
+A/DT net/JJ police/NN force/NN monitors/VBZ websites/NNS and/CC e-mails/NNS and/CC controls/NNS on/IN gateways/NNS connecting/VBG the/DT country/NN to/TO the/DT global/JJ internet/JJ are/VBP designed/VBN to/TO prevent/VB access/NN to/TO critical/JJ information./NN
+Popular/NNP Chinese/JJ portals/NNS such/JJ as/IN Sina.com/NNP and/CC Sohu.com/NNP maintain/VBP a/DT close/JJ eye/NN on/IN content/NN and/CC delete/VB politically/RB sensitive/JJ comments./NN
+And/CC all/DT 110000/CD net/JJ cafes/NNS in/IN the/DT country/NN have/VBP to/TO use/VB software/NN to/TO control/VB access/NN to/TO websites/NNS considered/VBD harmful/JJ or/CC subversive./NN
+
+"China/NN is/VBZ censoring/VBG Google/NNP News/NNP to/TO force/VB internet/JJ users/NNS to/TO use/VB the/DT Chinese/JJ version/NN of/IN the/DT site/NN which/WDT has/VBZ been/VBN purged/VBN of/IN the/DT most/RBS critical/JJ news/NN reports"/NN said/VBD the/DT group/NN in/IN a/DT statement./NN
+"By/NN agreeing/VBG to/TO launch/VB a/DT news/NN service/NN that/WDT excludes/VBZ publications/NNS disliked/JJ by/IN the/DT government/NN Google/NNP has/VBZ let/VBN itself/PRP be/VB used/VBN by/IN Beijing"/NNP it/PRP said./NN
+For/IN its/PRP$ part/NN the/DT search/NN giant/NN said/VBD it/PRP was/VBD looking/VBG into/IN the/DT issue./NN
+"It/NN appears/VBZ that/IN many/JJ users/NNS in/IN China/NNP are/VBP having/VBG difficulty/NN accessing/VBG Google/NNP News/NNP sites/NNS in/IN China/NNP and/CC we/PRP are/VBP working/VBG to/TO understand/VB and/CC resolve/VB the/DT issue"/NN said/VBD a/DT Google/NNP spokesperson./NN
+Google/NNP News/NNP gathers/NNS information/NN from/IN some/DT 4500/CD news/NN sources./NN
+Headlines/NNS are/VBP selected/VBN for/IN display/NN entirely/RB by/IN a/DT computer/NN algorithm/NN with/IN no/DT human/JJ editorial/NN intervention./JJ
+It/PRP offers/VBZ 15/CD editions/NNS of/IN the/DT service/NN including/VBG one/CD tailored/VBN for/IN China/NNP and/CC one/CD for/IN Hong/NNP Kong./NNP
+Google/NNP launched/VBD a/DT version/NN in/IN simplified/VBN Chinese/JJ in/IN September./NNP
+The/DT site/NN does/VBZ not/RB filter/VB news/NN results/NNS to/TO remove/VB politically/RB sensitive/JJ information./NN
+But/CC Google/NNP does/VBZ not/RB link/VB to/TO news/VB sources/NNS which/WDT are/VBP inaccessible/JJ from/IN within/IN China/NNP as/IN this/DT would/MD result/VB in/IN broken/VBN links./NN

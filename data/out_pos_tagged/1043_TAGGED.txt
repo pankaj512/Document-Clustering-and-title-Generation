@@ -1,0 +1,29 @@
+Labour/NNP accused/VBD of/IN broken/VBN pledge/NN
+
+Labour/NNP has/VBZ already/RB broken/VBN its/PRP$ pre-election/JJ promise/NN on/IN immigration/NN before/IN the/DT ink/NN has/VBZ dried/VBN on/IN its/PRP$ new/JJ pledge/NN card/NN the/DT Tories/NNPS have/VBP claimed./NN
+
+Home/NNP Secretary/NNP Charles/NNP Clarke/NNP has/VBZ been/VBN quoted/VBN as/IN telling/VBG Labour/NNP members/NNS he/PRP wants/VBZ more/JJR migrants/NNS to/TO come/VB to/TO the/DT UK./NNP
+Tory/NNP co-chairman/NN Liam/NNP Fox/NNP said/VBD the/DT comments/NNS were/VBD at/IN odds/NNS with/IN Tony/NNP Blair's/NNP prediction/NN of/IN a/DT net/JJ cut/NN in/IN immigration./NN
+But/CC Mr/NNP Clarke/NNP accused/VBD him/PRP of/IN trying/VBG to/TO score/VB "cheap/NN political/JJ points"/NN by/IN muddling/VBG immigration/NN with/IN asylum./NN
+
+London's/NNP Evening/NN Standard/NNP quoted/VBD Mr/NNP Clarke/NNP telling/VBG Labour/NNP activists/NNS at/IN a/DT question/NN and/CC answer/NN session/NN in/IN Gateshead/NNP that/IN he/PRP wanted/VBD Britain/NNP to/TO offer/VB refuge/NN for/IN those/DT fleeing/VBG tyranny./NN
+"That's/NN not/RB only/RB a/DT moral/JJ duty/NN and/CC a/DT legal/JJ duty/NN but/CC something/NN which/WDT is/VBZ part/NN of/IN the/DT essence/NN of/IN this/DT country"/NN he/PRP said./VB
+
+"We/NN want/VBP more/JJR migration/NN more/JJR people/NNS come/VBP to/TO study/VB and/CC to/TO work./VB
+"We/NN want/VBP more/JJR people/NNS coming/VBG to/TO look/VB for/IN refuge."/NN Mr/NNP Blair's/NNP was/VBD asked/VBN last/JJ Wednesday/NNP if/IN the/DT government's/VBZ new/JJ immigration/NN plans/NNS including/VBG a/DT point/NN system/NN for/IN economic/JJ migrants/NNS would/MD reduce/VB net/JJ migration./NN
+The/DT prime/JJ minister/NN told/VBD MPs/NNP "The/NN abusers/NNS will/MD be/VB weeded/VBN out/RB and/CC as/IN a/DT result/NN of/IN the/DT end/NN of/IN chain/NN migration/NN [where/NN families/NNS have/VBP an/DT automatic/JJ right/NN to/TO settle]/VB the/DT numbers/NNS will/MD probably/RB fall."/VB
+
+On/IN Monday/NNP Dr/NNP Fox/NNP told/VBD reporters/NNS "The/VBP prime/JJ minister/NN has/VBZ broken/VBN his/PRP$ word/NN so/RB many/JJ times/NNS in/IN the/DT past/JJ but/CC now/RB his/PRP$ promises/NNS do/VBP not/RB even/RB last/JJ a/DT week./NN
+"The/NNP Labour/NNP Party/NNP election/NN pledges/NNS even/RB when/WRB they/PRP are/VBP so/RB incredibly/RB vague/JJ do/VBP not/RB even/RB last/JJ four/CD days."/NN
+
+The/DT Tories/NNPS want/VBP quotas/NNS for/IN economic/JJ migrants/NNS and/CC refugees/NNS and/CC on/IN Tuesday/NNP will/MD outline/VB more/JJR details/NNS of/IN their/PRP$ plans/NNS for/IN health/NN checks/NNS on/IN migrants./NN
+Mr/NNP Clarke/NNP dismissed/VBD the/DT latest/JJS Tory/NNP attack./NN
+"This/NN is/VBZ simply/RB a/DT scurrilous/JJ attempt/NN by/IN the/DT Tories/NNPS to/TO score/VB cheap/JJ political/JJ points"/NN he/PRP said./VB
+"The/NNP Tories/NNPS are/VBP purposely/RB mixing/VBG together/RB two/CD separate/JJ issues/NNS of/IN immigration/NN and/CC asylum."/NN
+
+Mr/NNP Clarke/NNP said/VBD he/PRP had/VBD made/VBN clear/JJ the/DT UK/NNP would/MD welcome/VB genuine/JJ economic/JJ migrants/NNS for/IN key/JJ jobs/NNS on/IN a/DT strict/JJ points/NNS based/VBD system./NN
+And/CC only/RB asylum/NN seekers/NNS genuinely/RB fleeing/VBG death/NN or/CC persecution/NN would/MD be/VB admitted./NN
+"Under/NN our/PRP$ plans/NNS we/PRP expect/VBP unfounded/JJ applications/NNS to/TO continue/VB to/TO fall"/VB he/PRP added./VB
+Earlier/RBR Dr/NNP Fox/NNP accused/VBD Mr/NNP Blair/NNP and/CC other/JJ Cabinet/NNP ministers/NNS of/IN telling/NN lies/VBZ about/IN Tory/NNP policies/NNS and/CC then/RB attacking/VBG the/DT lies./NN
+He/PRP told/VBD BBC/NNP Radio/NNP "If/NN you/PRP are/VBP willing/JJ to/TO lie/VB about/IN the/DT reasons/NNS for/IN going/VBG to/TO war/VB I/PRP guess/VBP you/PRP are/VBP going/VBG to/TO lie/VB about/IN anything/NN at/IN all."/NN The/DT latest/JJS pre-election/JJ spats/NNS come/VBP after/IN Mr/NNP Blair/NNP told/VBD Labour/NNP members/NNS the/DT Tories/NNPS offered/VBD a/DT "hard/NN right/JJ agenda"/NN which/WDT would/MD take/VB Britain/NNP backwards./NN
+Lib/NNP Dem/NNP leader/NN Charles/NNP Kennedy/NNP accelerating/VBG Lib/NNP Dem/NNP election/NN preparations/NNS this/DT week/NN as/IN he/PRP visits/VBZ Manchester/NNP Liverpool/NNP Leicester/NNP Somerset/NNP Basingstoke/NNP Shrewsbury/NNP Dorset/NNP and/CC Torbay./NNP

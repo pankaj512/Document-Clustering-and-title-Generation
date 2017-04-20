@@ -1,0 +1,40 @@
+Man/NNP City/NNP 0-2/JJ Man/NN Utd/NNP
+
+Manchester/NNP United/NNP reduced/VBD Chelsea's/NNP Premiership/NN lead/NN to/TO nine/CD points/NNS after/IN a/DT scrappy/JJ victory/NN over/IN Manchester/NNP City./NNP
+
+Wayne/NNP Rooney/NNP met/VBD Gary/NNP Neville's/NNP cross/VB to/TO the/DT near/JJ post/NN with/IN a/DT low/JJ shot/NN which/WDT went/VBD in/IN via/IN a/DT deflection/NN off/RP Richard/NNP Dunne/NNP to/TO put/VB United/NNP ahead./NN
+Seven/CD minutes/NNS later/RB the/DT unfortunate/JJ Dunne/NNP hooked/VBD a/DT volley/NN over/IN David/NNP James'/NNP head/NN and/CC into/IN his/PRP$ own/JJ net./NN
+Steve/NNP McManaman/NNP wasted/VBD City's/NNP best/JJS chance/NN when/WRB he/PRP shot/VB wide/JJ from/IN three/CD yards/NNS in/IN the/DT first/JJ half./NN
+In/IN the/DT opening/NN 45/CD minutes/NNS United/NNP had/VBD looked/VBN unlikely/JJ to/TO earn/VB the/DT win/NN they/PRP needed/VBD to/TO maintain/VB any/DT chance/NN of/IN catching/VBG Chelsea/NNP in/IN the/DT title/NN race./NN
+Their/PRP$ approach/NN play/NN was/VBD more/RBR laboured/JJ than/IN patient/NN and/CC they/PRP managed/VBD to/TO fashion/VB just/RB one/CD chance/NN -/: a/DT Paul/NNP Scholes/NNP header/NN over/IN the/DT bar./NN
+And/CC City/NNP seemed/VBD to/TO be/VB content/JJ to/TO sit/VB back/RB and/CC try/VB and/CC hit/VBD their/PRP$ rivals/NNS on/IN the/DT break/NN as/IN the/DT game/NN settled/VBD into/IN a/DT tepid/JJ pattern./NN
+Only/RB Shaun/NNP Wright-Phillips/NNP appeared/VBD capable/JJ of/IN interrupting/VBG the/DT monotony/NN looking/VBG lively/JJ down/RP the/DT right/NN and/CC causing/VBG Gabriel/NNP Heinze/NNP problems./NN
+
+Wes/NNP Brown/NNP also/RB found/VBD Wright-Phillips/NNP to/TO be/VB a/DT difficult/JJ opponent/NN when/WRB the/DT tricky/JJ winger/NN embarrassed/JJ him/PRP near/IN the/DT touchline./NN
+Wright-Phillips'/NNP sublime/JJ skill/NN and/CC pace/NN took/VBD him/PRP past/JJ Brown/NNP and/CC he/PRP delivered/VBD a/DT pin-point/JJ centre/NN to/TO the/DT feet/NNS of/IN McManaman./NNP
+But/CC the/DT former/JJ Liverpool/NNP player/NN demonstrated/VBD why/WRB he/PRP has/VBZ never/RB scored/VBN against/IN United/NNP by/IN side-footing/JJ the/DT easy/JJ chance/NN wide./NN
+John/NNP O'Shea/NNP was/VBD forced/VBN off/RP after/IN an/DT earlier/JJR clash/NN with/IN Sylvain/NNP Distin/NNP and/CC Cristiano/NNP Ronaldo/NNP came/VBD on/RP to/TO replace/VB him./NN
+He/PRP immediately/RB caused/VBD Ben/NNP Thatcher/NNP some/DT discomfort/NN and/CC looked/VBD set/VBN to/TO inject/VB some/DT much-needed/JJ pace/NN into/IN the/DT United/NNP attack./NN
+Rooney/NNP was/VBD being/VBG well/RB marshalled/VBN by/IN Dunne/NNP -/: but/CC that/DT was/VBD all/DT about/IN to/TO change./VB
+After/IN the/DT break/NN United/NNP poured/VBD forward/RB and/CC there/EX was/VBD a/DT renewed/VBN urgency/NN about/IN their/PRP$ play./NN
+And/CC when/WRB Neville/NNP delivered/VBD a/DT cross/NN in/IN a/DT carbon/NN copy/NN of/IN City's/NNP best/JJS first-half/JJ chance/NN Rooney/NNP showed/VBD McManaman/NNP how/WRB to/TO do/VB it/PRP -/: even/RB if/IN he/PRP needed/VBD the/DT help/NN of/IN Dunne's/NNP leg./NN
+Worse/JJR was/VBD to/TO come/VB for/IN Dunne/NNP who/WP had/VBD been/VBN having/VBG a/DT fine/JJ match./NN
+On/IN 75/CD minutes/NNS he/PRP scored/VBD a/DT horrible/JJ own/JJ goal/NN when/WRB attempting/VBG to/TO volley/VB clear/JJ Rooney's/NNP cross/NN and/CC United/NNP seemed/VBD home/NN and/CC dry./NN
+However/RB City/NNP did/VBD fight/NN back/RB and/CC Fowler/NNP missed/VBD another/DT great/JJ chance/NN from/IN close/NN range./NN
+And/CC United/NNP keeper/NN Roy/NNP Carroll/NNP saved/VBD well/RB from/IN Kiki/NNP Musampa./NNP
+But/CC United/NNP could/MD have/VB a/DT had/VBN a/DT third/JJ late/RB on/IN when/WRB substitute/NN Ryan/NNP Giggs/NNP hit/VBD the/DT post./NN
+
+-/: Manchester/NNP City/NNP boss/NN Kevin/NNP Keegan/NNP "We/NN had/VBD a/DT great/JJ chance/NN to/TO take/VB the/DT lead/NN and/CC the/DT first/JJ goal/NN was/VBD always/RB going/VBG to/TO be/VB crucial./NN
+"We/NN started/VBD off/RP with/IN a/DT good/JJ tempo/NN but/CC then/RB we/PRP allowed/VBD them/PRP to/TO dictate/VB the/DT pace/NN a/DT bit/NN too/RB much./NN
+"But/NN we/PRP still/RB had/VBD four/CD good/JJ chances/NNS two/CD after/IN we'd/NN gone/VBD 2-0/JJ down/RP the/DT one/CD McManaman/NNP missed/VBN was/VBD very/RB similar/JJ to/TO the/DT one/CD Wayne/NNP Rooney/NNP scored/VBD from."/NN
+-/: Manchester/NNP United/NNP boss/NN Sir/NNP Alex/NNP Ferguson/NNP "It/NN wasn't/NN our/PRP$ best/JJS performance/NN of/IN the/DT last/JJ three/CD months/NNS but/CC I/PRP think/VBP we're/NN deserved/VBD winners./NN
+"At/NN times/NNS especially/RB in/IN the/DT first/JJ half/NN we/PRP didn't/VBP play/NN with/IN enough/JJ speed./NN
+But/CC with/IN (Cristiano)/NN Ronaldo/NNP and/CC (Ryan)/NN Giggs/NNP on/IN the/DT speed/NN improved./NN
+"Derby/NN games/NNS can/MD be/VB like/IN that/IN they/PRP can/MD be/VB scrappy/JJ dull/JJ horrible/JJ and/CC it/PRP was/VBD maybe/RB like/IN that."/NN Man/NN City/NNP James/NNP Mills/NNP (Bradley/NN Wright-Phillips/NNP 83)/CD Dunne/NNP Distin/NNP Thatcher/NNP Shaun/NNP Wright-Phillips/NNP Barton/NNP (Macken/NN 68)/CD Sibierski/NNP McManaman/NNP Musampa/NNP Fowler./NNP
+Subs/NNP Not/RB Used/VBD Weaver/NNP Onuoha/NNP Flood./NNP
+Booked/VBN Fowler/NNP Sibierski./NNP
+Man/NNP Utd/NNP Carroll/NNP Gary/NNP Neville/NNP Ferdinand/NNP Brown/NNP Heinze/NNP O'Shea/NNP (Ronaldo/NN 33)/CD Keane/NNP Fortune/NNP Fletcher/NNP (Giggs/NN 64)/CD Rooney/NNP Scholes/NNP (Phil/NN Neville/NNP 84)./CD
+Subs/NNP Not/RB Used/VBD Howard/NNP Bellion./NNP
+Booked/VBN Rooney/NNP Scholes/NNP Keane./NNP
+Goals/NNS Rooney/NNP 68/CD Dunne/NNP 75/CD og./NN
+Att/NNP 47111/CD Ref/NNP S/NNP Bennett/NNP (Kent)./NN

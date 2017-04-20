@@ -1,0 +1,18 @@
+Blair/NNP 'pressing/VBG US/PRP on/IN climate'/NN
+
+Tony/NNP Blair/NNP is/VBZ pressing/VBG the/DT US/PRP to/TO cut/VB greenhouse/NN gases/NNS despite/IN its/PRP$ unwillingness/NN to/TO sign/VB the/DT Kyoto/NNP Protocol/NNP Downing/NNP Street/NNP has/VBZ indicated./NN
+
+Officials/NNS have/VBP confirmed/VBN climate/NN change/NN was/VBD discussed/VBN when/WRB influential/JJ senator/NN John/NNP McCain/NNP recently/RB visited/VBD Mr/NNP Blair./NNP
+Climate/NN change/NN was/VBD an/DT issue/NN the/DT prime/JJ minister/NN "wanted/VBN to/TO progress"/VB during/IN the/DT UK's/NNP presidency/NN of/IN the/DT G8/CD and/CC EU/NNP in/IN 2005/CD said/VBD a/DT spokesman./NN
+But/CC he/PRP played/VBD down/RP reports/NNS Mr/NNP Blair/NNP was/VBD considering/VBG a/DT new/JJ US-friendly/NNP treaty./NN
+
+According/VBG to/TO the/DT Times/NNP the/DT UK/NNP leader/NN wants/VBZ to/TO end/VB US/PRP isolation/VBP with/IN a/DT "Kyoto-lite"/JJ agreement/NN on/IN the/DT scale/NN and/CC nature/NN of/IN the/DT threat/NN from/IN climate/NN change./NN
+He/PRP is/VBZ said/VBN to/TO have/VB discussed/VBN the/DT idea/NN with/IN Mr/NNP McCain/NNP during/IN his/PRP$ time/NN at/IN Number/NN 10./CD
+The/DT prime/JJ minister/NN is/VBZ said/VBN to/TO believe/VB the/DT United/NNP States'/NNP refusal/NN to/TO sign/VB the/DT Kyoto/NNP Protocol/NNP on/IN emissions/NNS is/VBZ undermining/VBG other/JJ countries'/NN resolve/NN to/TO cut/VB carbon/NN dioxide/NN production./NN
+So/RB far/RB the/DT US/PRP has/VBZ refused/VBN to/TO sign/VB up/IN to/TO the/DT Kyoto/NNP treaty/NN -/: which/WDT aims/VBZ to/TO cut/VB emissions/NNS -/: branding/VBG it/PRP politically/RB motivated/VBD and/CC not/RB based/VBN on/IN science./NN
+President/NNP Bush's/NNP advisers/NNS have/VBP repeatedly/RB denied/VBN global/JJ warming/NN is/VBZ taking/VBG place./NN
+
+Europe/NNP which/WDT disputes/NNS the/DT claim/NN has/VBZ also/RB signalled/VBN it/PRP wants/VBZ to/TO press/VB ahead/RB with/IN talks/NNS about/IN longer/RB term/NN climate/NN change/NN action/NN in/IN a/DT way/NN which/WDT involves/VBZ both/DT the/DT United/NNP States/NNPS and/CC developing/VBG countries./NN
+Mr/NNP Blair's/NNP reported/VBD treaty/NN would/MD also/RB establish/VB an/DT international/JJ programme/NN to/TO develop/VB technology/NN needed/VBN for/IN renewable/JJ energy/NN and/CC the/DT reduction/NN of/IN carbon/NN emissions/NNS says/VBZ the/DT Times./NNP
+But/CC there/EX is/VBZ still/RB apparently/RB "little/NN prospect"/NN of/IN America/NNP agreeing/VBG to/TO cut/VB emissions/NNS which/WDT could/MD further/RB provoke/VB environmental/JJ campaigners/NNS already/RB angry/JJ at/IN the/DT lack/NN of/IN progress./NN
+Mr/NNP Blair/NNP was/VBD left/VBN blushing/VBG on/IN Wednesday/NNP when/WRB it/PRP emerged/VBD his/PRP$ manifesto/NN target/NN of/IN a/DT 20%/CD cut/NN to/TO the/DT 1990/CD greenhouse/NN gas/NN level/NN by/IN 2010/CD was/VBD set/VBN to/TO be/VB missed./NN

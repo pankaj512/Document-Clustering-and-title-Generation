@@ -1,0 +1,30 @@
+EU/NNP rules/NNS 'won't/VBP stop/VB UK/NNP spending'/NN
+
+The/DT shape/NN of/IN the/DT UK's/NN economy/NN In/IN graphics/NNS
+
+But/CC he/PRP denied/VBD that/IN he/PRP was/VBD ruling/NN out/RP British/JJ membership/NN of/IN the/DT euro/NN despite/IN saying/VBG there/EX would/MD be/VB no/DT assessment/NN of/IN the/DT five/CD economic/JJ tests/NNS this/DT year./NN
+Mr/NNP Brown/NNP said/VBD that/IN it/PRP was/VBD vital/JJ the/DT UK/NNP continued/VBD to/TO invest/VB in/IN infrastructure/NN science/NN and/CC education/NN in/IN the/DT future./NN
+Otherwise/RB it/PRP would/MD be/VB overtaken/NN by/IN the/DT likes/NNS of/IN China/NNP he/PRP told/VBD MPs./NNP
+
+The/DT chancellor/NN said/VBD that/IN the/DT EU's/NNP planned/VBD changes/NNS in/IN the/DT growth/NN and/CC stability/NN pact/NN -/: designed/VBN to/TO ensure/VB that/IN countries/NNS in/IN the/DT euro/NN zone/NN do/VBP not/RB borrow/VB too/RB much/JJ -/: would/MD force/VB Britain/NNP to/TO run/VB a/DT budget/NN surplus/NN of/IN 1%/CD over/IN the/DT economic/JJ cycle./NN
+
+Under/IN Mr/NNP Brown's/NNP rules/VBZ the/DT UK/NNP current/JJ budget/NN must/MD be/VB in/IN balance/NN over/IN the/DT economic/JJ cycle/NN but/CC public/JJ investment/NN is/VBZ not/RB counted/VBN as/IN part/NN of/IN that/DT deficit./NN
+He/PRP told/VBD the/DT House/NNP of/IN Commons/NNPS Treasury/NNP Select/NNP Committee/NNP that/IN the/DT EU/NNP rules/NNS "make/VBP it/PRP difficult/JJ for/IN a/DT low/JJ debt/NN country/NN to/TO run/VB the/DT investment/NN programmes/NNS that/WDT are/VBP necessary/JJ to/TO improve/VB its/PRP$ infrastructure"./NN
+But/CC he/PRP argued/VBD that/IN the/DT EU/NNP was/VBD moving/VBG in/IN the/DT direction/NN of/IN the/DT UK/NNP principles/NNS and/CC would/MD eventually/RB recognise/VB the/DT need/NN to/TO consider/VB budget/NN deficits/NNS over/IN a/DT longer/JJR period/NN than/IN one/CD year/NN to/TO include/VB investment/NN and/CC to/TO take/VB more/JJR account/NN of/IN the/DT total/JJ size/NN of/IN government/NN debt/NN as/RB well/RB as/IN the/DT balance/NN each/DT year./NN
+Under/IN Mr/NNP Brown's/NNP "sustainable/JJ investment"/NN rule/NN government/NN debt/NN should/MD be/VB under/IN 40%/CD -/: in/IN contrast/NN to/TO the/DT 60%/CD allowed/VBN under/IN the/DT growth/NN and/CC stability/NN pact./NN
+
+Mr/NNP Brown/NNP vigorously/RB denied/VBD Conservative/JJ claims/VBZ that/IN he/PRP had/VBD in/IN effect/NN fiddled/VBD the/DT figures/NNS to/TO ensure/VB that/IN he/PRP met/VBD his/PRP$ own/JJ fiscal/JJ rules./NN
+In/IN March/NNP the/DT Office/NNP of/IN National/NNP Statistics/NNPS (ONS)/NN reclassified/VBD £3.4bn/CD of/IN spending/NN on/IN road/NN repairs/NNS as/IN public/JJ investment/NN -/: shortly/RB before/IN the/DT chancellor/NN announced/VBD in/IN the/DT Budget/NNP that/IN he/PRP would/MD meet/VB his/PRP$ own/JJ fiscal/JJ budget/NN rule/NN by/IN only/RB £6bn./CD
+Conservative/JJ Michael/NNP Fallon/NNP asked/VBD Mr/NNP Brown/NNP whether/IN the/DT Treasury/NNP had/VBD leaned/VBN on/IN ONS/NNP to/TO make/VB this/DT change/NN and/CC said/VBD that/IN the/DT ONS/NNP had/VBD received/VBN a/DT written/VBN paper/NN from/IN the/DT Treasury/NNP on/IN this/DT matter./NN
+But/CC the/DT chancellor/NN said/VBD Mr/NNP Fallon/NNP was/VBD "impugning/VBG the/DT integrity"/NN of/IN the/DT Office/NNP of/IN National/NNP Statistics/NNPS and/CC said/VBD the/DT decision/NN had/VBD been/VBN made/VBN completely/RB independently./NN
+Mr/NNP Brown/NNP also/RB denied/VBD that/IN he/PRP was/VBD increasing/VBG taxes/NNS to/TO fund/VB his/PRP$ spending/NN gap./NN
+He/PRP told/VBD the/DT Treasury/NNP Select/NNP Committee/NNP that/IN a/DT growing/VBG economy/NN meant/VBD more/JJR people/NNS in/IN work/NN and/CC more/JJR profits/NNS for/IN companies/NNS which/WDT would/MD boost/VB Treasury/NNP coffers./NN
+
+Earlier/JJR ex-Conservative/NN chancellor/NN Ken/NNP Clarke/NNP welcomed/VBD a/DT relaxation/NN of/IN the/DT rules/NNS governing/VBG the/DT euro/NN zone./NN
+Speaking/VBG on/IN Radio/NNP 4's/CD Today/NN programme/NN Mr/NNP Clarke/NNP said/VBD political/JJ give/NN and/CC take/VB would/MD replace/VB more/JJR "rigid"/NN rules./NN
+But/CC fellow/JJ Tory/NNP David/NNP Heathcoat-Amory/NNP said/VBD the/DT folly/NN of/IN the/DT system/NN was/VBD in/IN trying/VBG to/TO run/VB Europe's/NNP varied/VBD economies/NNS on/IN one/CD set/NN of/IN rules./NN
+"The/NN essential/JJ point/NN here/RB is/VBZ that/IN the/DT stability/NN and/CC growth/NN pact/NN has/VBZ turned/VBN out/RP to/TO be/VB a/DT fake"/NN he/PRP said./VB
+"The/NN warning/NN is/VBZ about/IN the/DT European/JJ constitution/NN which/WDT we/PRP are/VBP going/VBG to/TO have/VB a/DT vote/NN on/RP in/IN a/DT year/NN or/CC two/CD and/CC that/IN centralises/NNS and/CC entrenches/VBZ these/DT rules/NNS in/IN a/DT constitution./NN
+It/PRP gives/VBZ more/JJR powers/NNS to/TO Brussels/NNP to/TO co-ordinate/JJ things/NNS like/IN employment/NN and/CC economic/JJ policy."/NN But/CC speaking/VBG to/TO the/DT Treasury/NNP Select/NNP Committee/NNP Gordon/NNP Brown/NNP said/VBD that/IN the/DT new/JJ stability/NN pact/NN rules/NNS were/VBD not/RB part/NN of/IN a/DT binding/JJ Treaty/NNP and/CC could/MD be/VB changed/VBN again/RB the/DT future/JJ -/: potentially/RB opening/VBG the/DT way/NN for/IN future/JJ euro/NN membership./NN
+"The/NN conditions/NNS for/IN euro/NN entry/NN are/VBP unchanged/JJ by/IN this/DT new/JJ decision/NN about/IN the/DT stability/NN and/CC growth/NN pact"/NN Mr./NNP
+Brown/NNP said./NN

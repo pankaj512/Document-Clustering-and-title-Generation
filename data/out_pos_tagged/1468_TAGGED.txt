@@ -1,0 +1,21 @@
+Benitez/NNP joy/NN as/IN Reds/NNS take/VBP control/NN
+
+Liverpool/NNP boss/NN Rafael/NNP Benitez/NNP was/VBD satisfied/VBN after/IN his/PRP$ team's/NNS 3-1/JJ win/NN over/IN Bayer/NNP Leverkusen/NNP despite/IN conceding/VBG a/DT goal/NN in/IN the/DT last/JJ minute./NN
+
+"Before/NN the/DT game/NN if/IN you/PRP had/VBD said/VBN the/DT score/NN will/MD be/VB 3-1/JJ I/PRP would/MD have/VB happily/RB accepted/VBN that"/NN said/VBD Benitez./NNP
+"But/NN you/PRP must/MD realise/VB that/IN you/PRP have/VBP to/TO concentrate/VB right/JJ to/TO the/DT very/RB last/JJ seconds/NNS of/IN a/DT game/NN at/IN this/DT level./NN
+"I/NN have/VBP confidence/NN that/IN we/PRP can/MD complete/VB the/DT task/NN in/IN Germany./NNP
+I/PRP am/VBP always/RB confident/JJ and/CC we/PRP must/MD be/VB positive."/NN
+
+Benitez/NNP defended/VBD goalkeeper/NN Jerzy/NNP Dudek/NNP whose/WP$ failure/NN to/TO hold/VB on/RP to/TO Dimitar/NNP Berbatov's/NNP weak/JJ drive/NN allowed/VBN Franca/NNP to/TO score/VB with/IN the/DT last/JJ kick/VBP of/IN the/DT game/NN -/: and/CC give/VB the/DT German/JJ team/NN a/DT lifeline/NN for/IN the/DT second/JJ leg./NN
+"For/NN me/PRP it/PRP was/VBD not/RB Jerzy/NNP Dudek's/NNP fault"/NN added/VBD Benitez./NNP
+"He/NN had/VBD played/VBN a/DT very/RB good/JJ game/NN -/: and/CC had/VBD we/PRP scored/VBN our/PRP$ other/JJ chances/NNS nobody/NN would/MD be/VB talking/VBG about/IN about/IN their/PRP$ goal./NN
+It/PRP would/MD not/RB have/VB mattered./NN
+"If/NN we/PRP had/VBD scored/VBD our/PRP$ other/JJ chances/NNS it/PRP would/MD not/RB have/VB been/VBN worth/JJ remembering/NN that/IN last/JJ goal./NN
+"In/NN my/PRP$ opinion/NN Jerzy/NNP played/VBD well/RB made/VBN two/CD very/RB fine/NN saves/VBZ -/: and/CC I/PRP am/VBP happy/JJ with/IN him./NN
+"If/NN we/PRP lose/VBP 2-0/JJ we/PRP are/VBP out/RB but/CC I/PRP think/VBP we/PRP can/MD score/VB in/IN Germany/NNP -/: certainly/RB one/CD and/CC that/WDT will/MD make/VB all/PDT the/DT difference."/NN And/CC the/DT Liverpool/NNP boss/NN is/VBZ looking/VBG forward/RB to/TO having/VBG skipper/VBN Steven/NNP Gerrard/NNP who/WP was/VBD suspended/VBN for/IN the/DT Anfield/NNP leg/NN back/RB for/IN the/DT return/NN in/IN Germany./NNP
+
+"Steven/NNP Gerrard/NNP is/VBZ a/DT key/JJ player/NN for/IN us"/NN said/VBD Benitez./NNP
+"When/NN he/PRP is/VBZ on/IN the/DT pitch/NN he/PRP makes/VBZ everyone/NN else/RB play/VB better/JJR -/: and/CC the/DT opposition/NN pay/NN special/JJ attention/NN to/TO him/PRP -/: which/WDT gives/VBZ space/NN for/IN others./NN
+"Steven/NN is/VBZ one/CD of/IN the/DT best/JJS players/NNS in/IN the/DT world/NN but/CC I/PRP need/VBP a/DT team/NN that/WDT is/VBZ not/RB about/IN just/RB one/CD player./NN
+There/EX must/MD be/VB 11/CD players/NNS on/IN the/DT pitch/NN all/DT doing/VBG well."/NN

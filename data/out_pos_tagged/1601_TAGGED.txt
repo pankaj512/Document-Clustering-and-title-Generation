@@ -1,0 +1,17 @@
+Lewsey/NNP puzzle/NN over/IN disallowed/VBD try/VB
+
+England's/NNP Josh/NNP Lewsey/NNP has/VBZ claimed/VBN he/PRP was/VBD denied/VBN a/DT late/JJ try/NN in/IN his/PRP$ side's/NNS Six/CD Nations/NNPS loss/NN to/TO Ireland./NNP
+
+The/DT Wasps/NNP wing/NN insisted/VBD he/PRP grounded/VBD the/DT ball/NN when/WRB he/PRP was/VBD bundled/VBN over/IN the/DT line/NN and/CC said/VBD referee/NN Jonathan/NNP Kaplan/NNP had/VBD made/VBN a/DT wrong/JJ decision./NN
+"I'm/NN positive/JJ I/PRP touched/VBD the/DT ball/NN down/RP over/IN the/DT line"/NN Lewsey/NNP told/VBD BBC/NNP Sport./NNP
+"It/NN certainly/RB wasn't/VB a/DT turnover./NN
+"I/NN was/VBD driven/VBN over/RB and/CC I/PRP put/VBP the/DT ball/NN on/IN the/DT ground./NN
+The/DT whistle/VBP went/VBN and/CC I/PRP let/VBP go/VB of/IN the/DT ball."/NN Lewsey/NNP added/VBD "One/NN of/IN the/DT Irish/JJ players/NNS scooped/VBD it/PRP back/RB after/IN the/DT whistle/NN and/CC to/TO our/PRP$ surprise/NN the/DT referee/NN then/RB gave/VBD a/DT turnover./NN
+"As/NN far/RB as/IN I'm/NNP concerned/VBD that/DT incident/NN and/CC Mark/NNP Cueto's/NNP effort/NN from/IN Charlie/NNP Hodgson's/NNP cross-field/JJ kick/VBP that/WDT led/VBD to/TO what/WP looked/VBD like/IN a/DT good/JJ try/NN were/VBD the/DT two/CD key/JJ elements/NNS in/IN the/DT game."/NN
+
+Cueto/NNP was/VBD also/RB puzzled/VBN as/IN to/TO why/WRB his/PRP$ try/NN had/VBD been/VBN disallowed/VBN by/IN Kaplan./NNP
+"I/NN don't/NN think/VBP I/PRP could/MD have/VB been/VBN offside/VBG for/IN without/IN a/DT doubt/NN I/PRP was/VBD behind/IN the/DT ball"/NN said/VBD the/DT Sale/NNP player./NN
+"The/NN move/NN was/VBD a/DT planned/VBN technique/NN it/PRP was/VBD not/RB off/IN the/DT cuff./NN
+We/PRP rehearse/VBP it/PRP time/NN and/CC time/NN again./NN
+"I/NN wouldn't/NN say/VBP we/PRP were/VBD robbed/VBN some/DT decisions/NNS go/VBP with/IN you/PRP and/CC some/DT go/NN against/IN you./NN
+Today/NN they/PRP went/VBD against/IN us/PRP and/CC that's/NNS tough/JJ at/IN international/JJ level."/NN

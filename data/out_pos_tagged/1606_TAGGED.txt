@@ -1,0 +1,26 @@
+Newcastle/NNP 27-27/JJ Gloucester/NNP
+
+Newcastle/NNP centre/NN Mathew/NNP Tait/NNP answered/VBD his/PRP$ critics/NNS as/IN he/PRP scored/VBD one/CD try/NN and/CC made/VBD another/DT but/CC he/PRP could/MD not/RB stop/VB Gloucester/NNP grabbing/VBG a/DT draw./NN
+
+The/DT Falcons/NNPS were/VBD 22-6/JJ down/RP at/IN the/DT break/NN before/IN Tait/NNP recently/RB axed/VBN by/IN England/NNP after/IN just/RB one/CD Six/CD Nations/NNPS outing/VBG inspired/VBN his/PRP$ side/NN to/TO a/DT 27-22/JJ lead./NN
+A/DT last-gasp/JJ touchdown/NN from/IN Luke/NNP Narraway/NNP pulled/VBD the/DT visitors/NNS level./NN
+But/CC Gloucester/NNP missed/VBD out/RP on/IN victory/NN when/WRB Henry/NNP Paul/NNP fluffed/VBD the/DT conversion/NN and/CC Seti/NNP Kiole/NNP was/VBD denied/VBN a/DT late/JJ try./NN
+Newcastle/NNP had/VBD a/DT couple/NN of/IN chances/NNS at/IN the/DT start/NN of/IN the/DT second/JJ half/NN with/IN line-outs/NNS in/IN the/DT corner./NN
+But/CC they/PRP failed/VBD to/TO make/VB them/PRP count/VBP until/IN Joe/NNP Shaw/NNP found/VBD Dave/NNP Walder/NNP who/WP released/VBD Mark/NNP Mayerholfer/NNP in/IN his/PRP$ own/JJ 22./CD
+
+The/DT former/JJ All/DT Black/NNP broke/VBD clear/JJ and/CC popped/VBD the/DT ball/NN up/RP for/IN Tait/NNP on/IN halfway./NN
+He/PRP chipped/VBD ahead/RB for/IN Michael/NNP Stephenson/NNP to/TO scorch/VB through/RP for/IN the/DT try/NN which/WDT Walder/NNP converted/VBD to/TO give/VB Newcastle/NNP a/DT lifeline./NN
+They/PRP grabbed/VBD it/PRP with/IN both/DT hands/NNS Mayerhofler/NNP breaking/VBG through/IN and/CC Tait/NNP making/VBG a/DT brilliant/JJ early/JJ run/NN to/TO cut/VB inside/IN and/CC race/NN 30m/CD to/TO score./VB
+Walder/NNP converted/VBD to/TO make/VB it/PRP 22-20/JJ before/IN he/PRP was/VBD just/RB wide/JJ with/IN a/DT 40m/CD penalty/NN in/IN the/DT 70th/JJ minute./NN
+
+Mayerhofler/NNP then/RB scythed/VBD through/IN the/DT middle/NN for/IN a/DT try/NN after/IN Hall/NNP Charlton/NNP popped/VBD the/DT ball/NN up/RB and/CC Walder's/NNP conversion/NN took/VBD Newcastle/NNP 27-22/JJ ahead./NN
+With/IN three/CD minutes/NNS of/IN normal/JJ time/NN left/VBN Narraway/NNP was/VBD driven/VBN over/RP for/IN a/DT try/NN in/IN the/DT corner/NN which/WDT levelled/VBD the/DT scores/NNS at/IN 27-27./JJ
+Henry/NNP missed/VBD the/DT conversion/NN but/CC Gloucester/NNP nearly/RB won/VBD it/PRP when/WRB Kiole/NNP broke/VBD through/IN only/RB to/TO be/VB hauled/VBN down/RB by/IN Charlton/NNP and/CC Tom/NNP May./NNP
+
+Walder/NNP May/NNP Tait/NNP Mayerhofler/NNP Stephenson/NNP Wilkinson/NNP Grindal/NNP Isaacson/NNP Long/NNP Ward/NNP Gross/NNP Hamilton/NNP McCarthy/NNP Harris/NNP Dowson./NNP
+
+Replacements/NNS Peel/NNP Wilson/NNP Thompson/NNP Parling/NNP Sititi/NNP Charlton/NNP Shaw./NNP
+
+Goodridge/NNP Garvey/NNP Simpson-Daniel/NNP Fanolua/NNP Kiole/NNP Paul/NNP Gomarsall/NNP Wood/NNP Curnier/NNP Powell/NNP Eustace/NNP Brown/NNP Forrester/NNP Buxton/NNP Balding./NNP
+
+Replacements/NNS Elloway/NNP Sigley/NNP Cornwell/NNP Narraway/NNP Page/NNP Davies/NNP Mauger./NNP

@@ -1,0 +1,21 @@
+Harinordoquy/NNP suffers/VBZ France/NNP axe/NN
+
+Number/NN eight/CD Imanol/NNP Harinordoquy/NNP has/VBZ been/VBN dropped/VBN from/IN France's/NNP squad/NN for/IN the/DT Six/CD Nations/NNPS match/VBP with/IN Ireland/NNP in/IN Dublin/NNP on/IN 12/CD March./NNP
+
+Harinordoquy/NNP was/VBD a/DT second-half/JJ replacement/NN in/IN last/JJ Saturday's/NNP 24-18/JJ defeat/NN to/TO Wales./NNP
+Bourgoin/NNP lock/VB Pascal/NNP Pape/NNP who/WP has/VBZ recovered/VBN from/IN a/DT sprained/VBN ankle/NN returns/NNS to/TO the/DT 22-man/JJ squad./NN
+Wing/NNP Cedric/NNP Heymans/NNP and/CC Ludovic/NNP Valbon/NNP come/VB in/IN for/IN Aurelien/NNP Rougerie/NNP and/CC Jean-Philippe/NNP Grandclaude./NNP
+
+Rougerie/NNP hurt/VBD his/PRP$ chest/NN against/IN Wales/NNP while/IN Grandclaude/NNP was/VBD a/DT second-half/JJ replacement/NN against/IN both/DT England/NNP and/CC Wales./NNP
+Valbon/NNP capped/VBD in/IN last/JJ June's/NNP Tests/NNS against/IN the/DT United/NNP States/NNPS and/CC Canada/NNP was/VBD a/DT second/JJ half/JJ replacement/NN in/IN the/DT win/NN over/IN Scotland./NNP
+
+France/NNP coach/NN Bernard/NNP Laporte/NNP said/VBD Harinordoquy/NNP had/VBD been/VBN axed/VBN after/IN a/DT poor/JJ display/NN last/JJ weekend./NN
+"Imanol/NN has/VBZ been/VBN dropped/VBN from/IN the/DT squad/NN because/IN the/DT least/JJS I/PRP can/MD say/VB is/VBZ that/IN he/PRP didn't/VB make/VB a/DT thundering/VBG comeback/NN against/IN Wales"/NNP said/VBD Laporte./NNP
+"We/NN know/VBP the/DT Ireland/NNP game/NN will/MD be/VB fast/RB and/CC rough/JJ and/CC we/PRP also/RB want/VBP to/TO be/VB able/JJ to/TO replace/VB both/DT locks/VBZ during/IN the/DT game/NN if/IN needed/VBN and/CC Gregory/NNP Lamboley/NNP can/MD also/RB come/VB on/IN at/IN number/NN seven/CD or/CC eight./NN
+"The/NNP Grand/NNP Slam/NNP is/VBZ gone/VBN but/CC we'll/NN go/VBP to/TO Ireland/NNP to/TO win./VB
+"It/NN will/MD be/VB a/DT very/RB exciting/JJ game/NN because/IN Ireland/NNP have/VBP three/CD wins/VBZ under/IN their/PRP$ belt/NN have/VBP just/RB defeated/VBN England/NNP and/CC have/VBP their/PRP$ eyes/NNS set/VBN on/IN a/DT Grand/NNP Slam."/NNP France/NNP who/WP lost/VBD to/TO Wales/NNP last/JJ week/NN must/MD defeat/VB the/DT Irish/JJ to/TO keep/VB alive/VB their/PRP$ hopes/NNS of/IN retaining/VBG the/DT Six/CD Nations/NNPS trophy./NN
+Ireland/NNS are/VBP unbeaten/JJ in/IN this/DT year's/NNS tournament/NN and/CC have/VBP their/PRP$ sights/NNS set/VBN on/IN a/DT first/JJ Grand/NNP Slam/NNP since/IN 1948./CD
+
+Dimitri/NNP Yachvili/NNP (Biarritz)/NN Pierre/NNP Mignoni/NNP (Clermont)/NN Yann/NNP Delaigue/NNP (Castres)/NN Frederic/NNP Michalak/NNP (Stade/NN Toulousain)/NNP Damien/NNP Traille/NNP (Biarritz)/NN Yannick/NNP Jauzion/NNP (Stade/NN Toulousain)/NNP Ludovic/NNP Valbon/NNP (Biarritz)/NN Christophe/NNP Dominici/NNP (Stade/NN Francais)/NNP Cedric/NNP Heymans/NNP (Stade/NN Toulousain)/NNP Julien/NNP Laharrague/NNP (Brive)/NN
+
+Sylvain/NNP Marconnet/NNP (Stade/NN Francais)/NNP Nicolas/NNP Mas/NNP (Perpignan)/NN Olivier/NNP Milloud/NNP (Bourgoin)/NN Sebastien/NNP Bruno/NNP (Sale/ENG)/NN William/NNP Servat/NNP (Stade/NN Toulousain)/NNP Fabien/NNP Pelous/NNP (Stade/NN Toulousain/NNP capt)/NN Jerome/NNP Thion/NNP (Biarritz)/NN Pascal/NNP Pap&#233/CD (Bourgoin)/NN Gregory/NNP Lamboley/NNP (Stade/NN Toulousain)/NNP Serge/NNP Betsen/NNP (Biarritz)/NN Julien/NNP Bonnaire/NNP (Bourgoin)/NN Yannick/NNP Nyanga/NNP (B&#233ziers)/CD

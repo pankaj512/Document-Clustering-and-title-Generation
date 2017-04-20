@@ -1,0 +1,23 @@
+Air/NNP China/NNP in/IN $1bn/CD London/NNP listing/NN
+
+China's/NNP national/JJ airline/NN is/VBZ to/TO make/VB its/PRP$ overseas/JJ stock/NN market/NN debut/NN with/IN a/DT dual/JJ listing/NN in/IN London/NNP and/CC Hong/NNP Kong/NNP the/DT London/NNP Stock/NNP Exchange/NNP (LSE)/NN has/VBZ said./NN
+
+Air/NNP China/NNP plans/VBZ to/TO raise/VB $1bn/CD (£514m)/CD from/IN the/DT flotation./NN
+Share/NN trading/NN will/MD begin/VB on/IN 15/CD December/NNP the/DT LSE/NNP said./NN
+For/IN China's/NNP aviation/NN authorities/NNS the/DT listing/NN is/VBZ part/NN of/IN the/DT modernisation/NN of/IN its/PRP$ airline/NN sector/NN to/TO cope/VB with/IN soaring/VBG demand/NN for/IN air/NN travel./NN
+No/DT further/JJ details/NNS of/IN the/DT share/NN price/NN or/CC number/NN of/IN shares/NNS were/VBD given./NN
+
+The/DT LSE/NNP has/VBZ been/VBN working/VBG hard/RB to/TO woo/VB Chinese/JJ companies/NNS to/TO choose/VB London/NNP rather/RB than/IN New/NNP York/NNP for/IN their/PRP$ listings./NN
+It/PRP opened/VBD an/DT Asia-Pacific/NNP office/NN in/IN Hong/NNP Kong/NNP last/JJ month./NN
+"We/NN are/VBP delighted/JJ that/IN Air/NNP China/NNP has/VBZ chosen/VBN London/NNP for/IN its/PRP$ listing/NN outside/IN China"/NNP said/VBD LSE/NNP chief/NN executive/NN Clara/NNP Furse./NNP
+"The/NNP London/NNP Stock/NNP Exchange/NNP offers/VBZ ambitious/JJ Chinese/JJ companies/NNS access/VBP to/TO the/DT world's/NNS most/RBS international/JJ equity/NN market/NN combined/VBN with/IN high/JJ regulatory/JJ and/CC corporate/JJ governance/NN standards"/NN she/PRP said./VBP
+A/DT spokesman/NN for/IN the/DT LSE/NNP said/VBD "We've/NN been/VBN engaged/VBN with/IN them/PRP (Air/VBP China)/NNP for/IN about/RB 18/CD months/NNS two/CD years/NNS now."/NN As/IN part/NN of/IN its/PRP$ pitch/NN to/TO bring/VB listings/NNS to/TO London/NNP the/DT LSE/NNP is/VBZ thought/VBN to/TO be/VB highlighting/VBG the/DT extra/JJ costs/NNS and/CC red-tape/JJ imposed/VBN by/IN new/JJ US/PRP laws/VBZ passed/VBN since/IN the/DT Enron/NNP scandal/NN whilst/NN stressing/VBG London's/NNP strong/JJ regulatory/JJ environment./NN
+
+Germany's/NNP Chancellor/NNP Gerhard/NNP Schroeder/NNP began/VBD a/DT three-day/JJ visit/NN to/TO Beijing/NNP on/IN Monday/NNP by/IN signing/VBG a/DT deal/NN worth/JJ 1bn/CD euros/NNS ($1.3bn/CD £690m)/CD for/IN Airbus/NNP to/TO sell/VB 23/CD new/JJ planes/NNS to/TO Air/NNP China/NNP the/DT Deutsche/NNP Welle/NNP radio/NN station/NN reported./NN
+China's/NNP booming/JJ economy/NN has/VBZ created/VBN huge/JJ demand/NN for/IN air/NN travel/NN among/IN middle-class/NN Chinese/JJ turning/NN the/DT country/NN into/IN a/DT sales/NNS battleground/NN between/IN rival/JJ plane/NN makers/NNS Airbus/NNP and/CC Boeing./NNP
+Air/NNP China's/NNP long-awaited/JJ flotation/NN is/VBZ part/NN of/IN a/DT strategy/NN to/TO modernise/VB a/DT dozen/NN state-owned/JJ carriers/NNS which/WDT have/VBP been/VBN reorganised/VBN into/IN three/CD groups/NNS under/IN Air/NNP China/NNP China/NNP Southern/NNP and/CC China/NNP Eastern./NNP
+Merrill/NNP Lynch/NNP are/VBP sole/JJ bookrunners/NNS for/IN Air/NNP China's/NNP flotation/NN which/WDT will/MD take/VB the/DT form/NN of/IN a/DT share/NN placing/VBG with/IN institutional/JJ investors/NNS in/IN London/NNP though/IN retail/JJ investors/NNS may/MD be/VB able/JJ to/TO buy/VB Air/NNP China/NNP shares/NNS in/IN Hong/NNP Kong./NNP
+Air/NNP China's/NNP primary/JJ listing/NN will/MD be/VB in/IN Hong/NNP Kong/NNP with/IN a/DT secondary/JJ listing/NN in/IN London./NNP
+The/DT shares/NNS will/MD be/VB denominated/VBN in/IN Hong/NNP Kong/NNP dollars./NN
+However/RB investors/NNS may/MD be/VB wary/JJ of/IN Chinese/JJ stocks./NN
+The/DT collapse/NN last/JJ week/NN of/IN China/NNP Aviation/NNP Oil/NNP the/DT Singapore-listed/NNP arm/NN of/IN a/DT Chinese/JJ jet/NN fuel/NN trader/NN has/VBZ cast/VBN the/DT spotlight/NN on/IN corporate/JJ governance/NN shortcomings/NNS at/IN Chinese/JJ firms./NN

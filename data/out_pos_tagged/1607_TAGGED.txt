@@ -1,0 +1,30 @@
+London/NNP Irish/JJ 19-33/JJ Wasps/NNP
+
+Wasps/NNP made/VBD light/NN of/IN the/DT absence/NN of/IN several/JJ internationals/NNS to/TO sink/VB London/NNP Irish/JJ with/IN a/DT trio/NN of/IN second-half/JJ tries./NN
+
+Rob/NNP Hoadley/NNP returned/VBD to/TO haunt/VB his/PRP$ old/JJ club/NN at/IN the/DT Madejski/NNP Stadium/NNP scoring/VBG the/DT opening/NN try/NN in/IN the/DT 43rd/CD minute./NN
+Tom/NNP Voyce/NNP powered/VBD through/IN the/DT Irish/JJ defence/NN for/IN Wasps'/NNP second/JJ try/NN before/IN Richard/NNP Birkett/NNP went/VBD over/IN unchallenged./NN
+Mark/NNP van/NNP Gisbergen/NNP added/VBD 18/CD points./NN
+Irish/NN replied/VBD with/IN three/CD penalties/NNS and/CC a/DT Mark/NNP Mapletoft/NNP drop/NN goal/NN before/IN Scott/NNP Staniforth/NNP ran/VBD in/IN a/DT consolation/NN try./NN
+Barry/NNP Everitt/NNP who/WP replaced/VBD Mapletoft/NNP late/RB in/IN the/DT game/NN added/VBD the/DT conversion/NN to/TO become/VB the/DT fourth/JJ Premiership/NN player/NN to/TO reach/VB 1000/CD points./NN
+He/PRP joins/VBZ Jonny/NNP Wilkinson/NNP Tim/NNP Stimpson/NNP and/CC Paul/NNP Grayson/NNP in/IN achieving/VBG that/DT target./NN
+Wasps/NNP piled/VBD on/IN the/DT pressure/NN in/IN an/DT attempt/NN to/TO grab/VB a/DT fourth/JJ try/NN which/WDT would/MD have/VB secured/VBN them/PRP a/DT bonus/NN point/NN but/CC they/PRP were/VBD denied/VBN by/IN some/DT desperate/JJ defending/NN from/IN Irish./NNP
+Director/NNP of/IN rugby/NN Warren/NNP Gatland/NNP revealed/VBD that/IN harsh/JJ words/NNS at/IN half-time/NN inspired/VBD his/PRP$ Wasps/NNP side/NN to/TO raise/VB their/PRP$ game/NN after/IN the/DT restart./NN
+
+"They/NN got/VBD a/DT roasting/VBG and/CC it/PRP was/VBD a/DT good/JJ second-half/JJ performance/NN when/WRB they/PRP came/VBD out/RB and/CC played/VBD to/TO instructions"/VB he/PRP said./VB
+Gatland/NNP also/RB singled/VBD out/RP stand-in/JJ flankers/NNS Tom/NNP Rees/NNP and/CC John/NNP Hart/NNP for/IN special/JJ praise./NN
+"They/NN did/VBD very/RB well./NN
+The/DT back/JJ row/NN played/VBD some/DT fantastic/JJ rugby"/NN he/PRP added./VB
+London/NNP Irish/JJ coach/NN Gary/NNP Gold/NNP felt/VBD the/DT result/NN exposed/VBD his/PRP$ side's/NNS lack/NN of/IN consistency./NN
+
+Irish/NN trailed/VBD by/IN just/RB two/CD points/NNS at/IN the/DT break/NN and/CC Gold/NNP said/VBD "For/NN 55/CD minutes/NNS we/PRP lived/VBD with/IN the/DT best/JJS but/CC we/PRP have/VBP got/VBN to/TO get/VB back/RB for/IN the/DT full/JJ 80/CD minutes."/NN Gold/NNP will/MD now/RB turn/VB his/PRP$ attention/NN to/TO next/JJ week's/NNS Powergen/NNP Cup/NNP semi-final/JJ at/IN struggling/VBG Leeds./NNP
+"We've/NN got/VBD a/DT good/JJ chance/NN but/CC with/IN Leeds/NNP facing/VBG possible/JJ relegation/NN they're/NN going/VBG to/TO come/VB out/RP firing"/NN he/PRP added./VB
+
+Horak/NNP Staniforth/NNP Penney/NNP Nordt/NNP Bishop/NNP Mapletoft/NNP Edwards/NNP Hatley/NNP van/NNP der/NN Walt/NNP Hardwick/NNP Kennedy/NNP Casey/NNP Gustard/NNP Dawson/NNP Murphy./NNP
+
+Replacements/NNS Everitt/NNP for/IN Mapletoft/NNP (53)/CD Hodgson/NNP for/IN Edwards/NNP (77)/CD Wheatley/NNP for/IN Hatley/NNP (71)/CD Paice/NNP for/IN van/NNP der/NN Walt/NNP (60)/CD Strudwick/NNP for/IN Kennedy/NNP (60)/CD Danaher/NNP for/IN Gustard/NNP (66)/CD Reid/NNP for/IN Murphy/NNP (47)/CD
+
+Van/NNP Gisbergen/NNP Voyce/NNP Erinle/NNP Hoadley/NNP Roberts/NNP King/NNP Richards/NNP Payne/NNP Greening/NN Dowd/NNP Shaw/NNP Purdy/NNP Hart/NNP Rees/NNP Dallaglio./NNP
+
+Replacements/NNS Priscott/NNP for/IN Roberts/NNP (71)/CD Green/NNP for/IN Dowd/NNP (71)/CD Skivington/NNP for/IN Shaw/NNP (71)/CD Birkett/NNP for/IN Hart/NNP (57)/CD Gotting/NNP for/IN Rees/NNP (39)./CD
+Not/RB used/VBN Fury/NN Brooks/NNP

@@ -1,0 +1,9 @@
+Palace/NNP threat/NN over/IN Cantona/NNP masks/NNS
+
+Manchester/NNP United/NNP fans/NNS wearing/VBG Eric/NNP Cantona/NNP masks/NNS will/MD not/RB be/VB allowed/VBN in/IN Selhurst/NNP Park/NNP on/IN Saturday./NNP
+
+United/JJ fans/NNS are/VBP planning/VBG to/TO mark/VB the/DT 10th/JJ anniversary/NN of/IN Cantona's/NNP infamous/JJ kung-fu/JJ kick/VBP on/IN Crystal/NNP Palace/NNP fan/NN Matthew/NNP Simmons/NNP by/IN wearing/VBG the/DT masks./NN
+But/CC Palace/NNP stadium/NN manager/NN Kevin/NNP Corner/NN has/VBZ warned/VBN "If/NN they/PRP wear/VBP them/PRP inside/IN Selhurst/NNP Park/NNP they/PRP will/MD be/VB immediately/RB rejected/VBN on/IN safety/NN grounds./NN
+"And/NN no/DT fans/NNS wearing/VBG Cantona/NNP masks/NNS will/MD be/VB allowed/VBN entry/NN to/TO the/DT stadium."/NN United/NNP fans/NNS had/VBD declared/VBN Saturday/NNP as/IN 'Cantona/NN Day'/NNP and/CC had/VBD planned/VBN to/TO wear/VB masks/NNS that/WDT were/VBD popular/JJ during/IN the/DT Frenchman's/NNP time/NN as/IN a/DT player/NN at/IN the/DT Old/NNP Trafford/NNP club./NN
+Cantona/NNP received/VBD a/DT nine-month/JJ ban/NN following/VBG the/DT incident/NN and/CC Palace/NNP are/VBP keen/JJ to/TO avoid/VB an/DT incident/NN that/WDT would/MD stir/VB up/RP ill/JJ feeling/NN between/IN the/DT two/CD sets/NNS of/IN supporters./NN
+Four/CD months/NNS after/IN the/DT Cantona/NNP incident/NN a/DT Palace/NNP fan/NN Paul/NNP Nixon/NNP was/VBD killed/VBN prior/RB to/TO an/DT FA/NNP Cup/NNP semi-final/JJ at/IN Villa/NNP Park./NNP

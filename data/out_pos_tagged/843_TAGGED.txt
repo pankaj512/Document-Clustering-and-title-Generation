@@ -1,0 +1,18 @@
+Actor/NNP Scott/NNP is/VBZ new/JJ Bond/NNP favourite/NN
+
+Bookmaker/NNP William/NNP Hill/NNP has/VBZ stopped/VBN taking/VBG bets/NNS on/IN who/WP will/MD be/VB the/DT next/JJ James/NNP Bond/NNP following/VBG a/DT succession/NN of/IN large/JJ wagers/NNS on/IN actor/NN Dougray/NNP Scott./NNP
+
+The/DT firm/NN closed/VBD the/DT book/NN on/IN Friday/NNP saying/VBG "insider/NN information"/NN could/MD have/VB contributed/VBN to/TO the/DT number/NN of/IN bets./NN
+"In/NN the/DT past/JJ gambles/NNS like/IN this/DT have/VBP often/RB been/VBN right"/NN William/NNP Hill/NNP spokesman/NN Rupert/NNP Adams/NNP said./NN
+The/DT closing/NN list/NN gave/VBD Scott/NNP odds/NNS of/IN 6-9/JJ followed/VBN by/IN Oscar/NNP nominee/NN Clive/NNP Owen/NNP at/IN 5-2./JJ
+Scott/NNP first/RB found/VBD fame/NN in/IN the/DT TV/NN series/NN Soldier/JJR Soldier/JJR and/CC has/VBZ since/IN then/RB starred/VBN in/IN such/JJ films/NNS as/IN Mission/NNP Impossible/JJ II/NNP and/CC the/DT wartime/NN drama/NN Enigma./NNP
+
+Mr/NNP Adams/NNP said/VBD one/CD punter/NN had/VBD placed/VBN a/DT bet/NN of/IN £870/CD on/IN the/DT 39-year-old/JJ actor/NN at/IN odds/NNS of/IN 8-1./JJ
+"She/NN told/VBD us/PRP she/PRP had/VBD some/DT inside/IN information/NN perhaps/RB she/PRP knew/VBD he/PRP had/VBD been/VBN to/TO a/DT casting/VBG but/CC she/PRP wouldn't/VBP say"/NN he/PRP said./VB
+Others/NNS thought/VBN to/TO be/VB in/IN the/DT running/VBG include/VBP Star/NNP Wars/NNS actor/NN Ewan/NNP McGregor/NNP and/CC Australian/JJ star/NN Hugh/NNP Jackman/NNP both/DT of/IN whom/WP have/VBP odds/NNS of/IN 4-1./JJ
+Colin/NNP Farrell/NNP Jude/NNP Law/NNP and/CC Troy/NNP star/NN Eric/NNP Bana/NNP have/VBP also/RB been/VBN tipped/VBN for/IN the/DT role/NN in/IN the/DT past./NN
+
+A/DT large/JJ number/NN of/IN bets/NNS on/IN actor/NN Colin/NNP Salmon/NN to/TO become/VB the/DT first/JJ black/JJ James/NNP Bond/NNP were/VBD dismissed/VBN as/IN a/DT publicity/NN stunt/NN a/DT month/NN ago./NN
+The/DT next/JJ Bond/NNP film/NN originally/RB due/JJ for/IN release/NN in/IN 2005/CD has/VBZ been/VBN delayed/VBN until/IN 2006/CD due/JJ to/TO Sony's/NNP takeover/NN of/IN the/DT MGM/NNP studio./NN
+The/DT most/RBS recent/JJ Die/NN Another/DT Day/NNP was/VBD released/VBN in/IN late/JJ 2002/CD and/CC saw/VBD Pierce/NNP Brosnan/NNP make/VB his/PRP$ final/JJ appearance/NN as/IN the/DT secret/JJ agent./NN
+The/DT actor/NN was/VBD originally/RB due/JJ to/TO make/VB a/DT fifth/JJ appearance/NN as/IN Bond/NNP but/CC was/VBD released/VBN from/IN his/PRP$ contract/NN in/IN 2004./CD

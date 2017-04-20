@@ -1,0 +1,11 @@
+Lewis-Francis/NNP eyeing/VBG world/NN gold/NN
+
+Mark/NNP Lewis-Francis/NNP says/VBZ his/PRP$ Olympic/NNP success/NN has/VBZ made/VBN him/PRP determined/VBN to/TO bag/VB World/NNP Championship/NNP 100m/CD gold/NN in/IN 2005./CD
+
+The/DT 22-year-old/NN pipped/VBD Maurice/NNP Greene/NNP on/IN the/DT last/JJ leg/NN of/IN the/DT 4x100m/CD relay/NN in/IN Athens/NNP to/TO take/VB top/JJ honours/NNS for/IN Team/NNP GB./NNP
+But/CC individually/RB the/DT Birchfield/NNP Harrier/NNP has/VBZ yet/RB to/TO build/VB on/IN his/PRP$ World/NNP Junior/NN Championship/NNP win/VB four/CD years/NNS ago./NN
+"The/NN gold/NN medal/NN in/IN Athens/NNP has/VBZ made/VBN me/PRP realise/VBP that/IN I/PRP can/MD get/VB to/TO the/DT top/JJ level/NN and/CC I/PRP want/VBP to/TO get/VB there/EX again./NN
+It/PRP can/MD happen/VB I/PRP don't/VBP see/NN why/WRB not"/NN he/PRP said./VB
+Lewis-Francis/NNP has/VBZ still/RB to/TO decided/VB what/WP events/NNS will/MD feature/VB in/IN his/PRP$ build-up/JJ to/TO the/DT worlds/NNS -/: with/IN one/CD exception./NN
+He/PRP has/VBZ confirmed/VBN his/PRP$ participation/NN in/IN the/DT Norwich/NNP Union/NNP Grand/NNP Prix/NNP in/IN Birmingham/NNP on/IN 18/CD February/NNP where/WRB he/PRP will/MD take/VB on/RP another/DT member/NN of/IN Britain's/NNP victorious/JJ men's/NNS relay/NN team/NN -/: Jason/NNP Gardener/NN -/: over/IN 60m./CD
+He/PRP added/VBD "It's/NN a/DT bit/NN too/RB early/JJ to/TO make/VB any/DT predictions/NNS for/IN Helsinki/NNP but/CC I/PRP have/VBP my/PRP$ eyes/NNS open/JJ and/CC I/PRP know/VBP I/PRP can/MD be/VB the/DT best/JJS in/IN the/DT world."/NN

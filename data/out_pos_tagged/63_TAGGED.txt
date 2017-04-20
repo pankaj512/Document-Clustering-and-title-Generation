@@ -1,0 +1,21 @@
+Cars/NNS pull/VBP down/RP US/PRP retail/JJ figures/NNS
+
+US/PRP retail/VBD sales/NNS fell/VBD 0.3%/CD in/IN January/NNP the/DT biggest/JJS monthly/JJ decline/NN since/IN last/JJ August/NNP driven/VBN down/RP by/IN a/DT heavy/JJ fall/NN in/IN car/NN sales./NN
+
+The/DT 3.3%/CD fall/NN in/IN car/NN sales/NNS had/VBD been/VBN expected/VBN coming/VBG after/IN December's/NNP 4%/CD rise/NN in/IN car/NN sales/NNS fuelled/VBN by/IN generous/JJ pre-Christmas/JJ special/JJ offers./NN
+Excluding/VBG the/DT car/NN sector/NN US/PRP retail/JJ sales/NNS were/VBD up/RB 0.6%/CD in/IN January/NNP twice/RB what/WP some/DT analysts/NNS had/VBD been/VBN expecting./NN
+US/PRP retail/VBD spending/NN is/VBZ expected/VBN to/TO rise/VB in/IN 2005/CD but/CC not/RB as/RB quickly/RB as/IN in/IN 2004./CD
+
+Steve/NNP Gallagher/NNP US/PRP chief/JJ economist/NN at/IN SG/NNP Corporate/NNP &/CC Investment/NNP Banking/NNP said/VBD January's/NNP figures/NNS were/VBD "decent/NN numbers"./NN
+
+"We/NN are/VBP not/RB seeing/VBG the/DT numbers/NNS that/IN we/PRP saw/VBD in/IN the/DT second/JJ half/NN of/IN 2004/CD but/CC they/PRP are/VBP still/RB pretty/RB healthy"/NN he/PRP added./VB
+Sales/NNS at/IN appliance/NN and/CC electronic/JJ stores/NNS were/VBD down/RB 0.6%/CD in/IN January/NNP while/IN sales/NNS at/IN hardware/NN stores/NNS dropped/VBN by/IN 0.3%/CD and/CC furniture/NN store/NN sales/NNS dipped/VBD 0.1%./CD
+Sales/NNS at/IN clothing/NN and/CC clothing/NN accessory/JJ stores/NNS jumped/VBD 1.8%/CD while/IN sales/NNS at/IN general/JJ merchandise/NN stores/NNS a/DT category/NN that/WDT includes/VBZ department/NN stores/NNS rose/VBD by/IN 0.9%./CD
+These/DT strong/JJ gains/NNS were/VBD in/IN part/NN put/VBD down/RP to/TO consumers/NNS spending/NN gift/NN vouchers/NNS they/PRP had/VBD been/VBN given/VBN for/IN Christmas./NNP
+
+Sales/NNS at/IN restaurants/NNS bars/NNS and/CC coffee/NN houses/NNS rose/VBD by/IN 0.3%/CD while/IN grocery/NN store/NN sales/NNS were/VBD up/RB 0.5%./CD
+In/IN December/NNP overall/JJ retail/JJ sales/NNS rose/VBD by/IN 1.1%./CD
+Excluding/VBG the/DT car/NN sector/NN sales/NNS rose/VBD by/IN just/RB 0.3%./CD
+Parul/NNP Jain/NNP deputy/NN chief/NN economist/NN at/IN Nomura/NNP Securities/NNPS International/NNP said/VBD consumer/NN spending/NN would/MD continue/VB to/TO rise/VB in/IN 2005/CD only/RB at/IN a/DT slower/JJR rate/NN of/IN growth/NN than/IN in/IN 2004./CD
+"Consumers/NN continue/VBP to/TO retain/VB their/PRP$ strength/NN in/IN the/DT first/JJ quarter"/NN he/PRP said./VB
+Van/NNP Rourke/NNP a/DT bond/NN strategist/NN at/IN Popular/NNP Securities/NNPS agreed/VBD that/IN the/DT latest/JJS retail/JJ sales/NNS figures/NNS were/VBD "slightly/RB stronger/JJR than/IN expected"./NN

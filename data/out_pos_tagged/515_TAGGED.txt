@@ -1,0 +1,13 @@
+Poppins/NNP musical/JJ gets/VBZ flying/VBG start/NN
+
+The/DT stage/NN adaptation/NN of/IN children's/NNS film/NN Mary/NNP Poppins/NNP has/VBZ had/VBD its/PRP$ opening/NN night/NN in/IN London's/NNP West/NNP End./NNP
+
+Sir/NNP Cameron/NNP Mackintosh's/NNP lavish/JJ production/NN which/WDT has/VBZ cost/NN £9m/CD to/TO bring/VB to/TO the/DT stage/NN was/VBD given/VBN a/DT 10-minute/JJ standing/NN ovation./NN
+Lead/JJ actress/NN Laura/NNP Michelle/NNP Kelly/NNP soared/VBD over/IN the/DT heads/NNS of/IN the/DT audience/NN holding/VBG the/DT nanny's/NNS trademark/NN umbrella./NN
+Technical/NN hitches/NNS had/VBD prevented/VBN Mary/NNP Poppins'/NNP flight/NN into/IN the/DT auditorium/NN during/IN preview/NN performances./NN
+A/DT number/NN of/IN celebrities/NNS turned/VBD out/RP for/IN the/DT musical's/NNS premiere/NN including/VBG actress/NN Barbara/NNP Windsor/NNP comic/JJ Graham/NNP Norton/NNP and/CC Sir/NNP Richard/NNP Attenborough./NNP
+
+The/DT show's/NNS director/NN Richard/NNP Eyre/NNP issued/VBD a/DT warning/NN earlier/RBR in/IN the/DT week/NN that/IN the/DT show/NN was/VBD unsuitable/JJ for/IN children/NNS under/IN seven/CD while/IN under-threes/NNS are/VBP barred./NN
+Mary/NNP Poppins/NNP was/VBD originally/RB created/VBN by/IN author/NN Pamela/NNP Travers/NNP who/WP is/VBZ said/VBN to/TO have/VB cried/VBN when/WRB she/PRP saw/VBD Disney's/NNP 1964/CD film/NN starring/VBG Julie/NNP Andrews./NNP
+Travers/NNP had/VBD intended/VBN the/DT story/NN to/TO be/VB a/DT lot/NN darker/JJR than/IN the/DT perennial/JJ family/NN favourite./NN
+Theatre/NNP impresario/NN Sir/NNP Cameron/NNP Mackintosh/NNP has/VBZ said/VBN he/PRP hopes/VBZ the/DT musical/NN is/VBZ a/DT blend/NN of/IN the/DT sweet-natured/JJ film/NN and/CC the/DT original/JJ book./NN

@@ -1,0 +1,19 @@
+Blair/NNP Labour's/NNP longest-serving/JJ PM/NNP
+
+Tony/NNP Blair/NNP has/VBZ become/VBN the/DT Labour/NNP Party's/NNP longest-serving/JJ prime/JJ minister./NN
+
+The/DT 51-year-old/JJ premier/NN has/VBZ marked/VBN his/PRP$ 2838th/JJ day/NN in/IN the/DT post/NN overtaking/VBG the/DT combined/VBN length/NN of/IN Harold/NNP Wilson's/NNP two/CD terms/NNS during/IN the/DT 1960s/NNS and/CC 1970s./CD
+If/IN Mr/NNP Blair/NNP wins/VBZ the/DT next/JJ election/NN and/CC fulfils/VBZ his/PRP$ promise/NN to/TO serve/VB a/DT full/JJ third/JJ term/NN he/PRP will/MD surpass/VB Margaret/NNP Thatcher's/NNP 11/CD years/NNS by/IN the/DT end/NN of/IN 2008./CD
+In/IN 1997/CD Mr/NNP Blair/NNP became/VBD the/DT youngest/JJS premier/NN of/IN the/DT 20th/JJ century/NN when/WRB he/PRP came/VBD to/TO power/VB at/IN the/DT age/NN of/IN 43./CD
+The/DT last/JJ prime/JJ minister/NN to/TO be/VB installed/VBN at/IN a/DT younger/JJR age/NN was/VBD Lord/NNP Liverpool/NNP who/WP was/VBD a/DT year/NN his/PRP$ junior/NN in/IN 1812./CD
+
+Mr/NNP Blair's/NNP other/JJ political/JJ firsts/NNS include/VBP becoming/VBG the/DT first/JJ Labour/NNP leader/NN to/TO win/VB two/CD successive/JJ full/JJ terms/NNS in/IN power/NN after/IN the/DT 2001/CD Labour/NNP landslide./NN
+And/CC the/DT birth/NN of/IN the/DT Blairs'/NNP fourth/JJ child/NN Leo/NNP on/IN 20/CD May/NNP 2000/CD was/VBD the/DT first/JJ child/NN born/VBN to/TO a/DT serving/VBG prime/JJ minister/NN in/IN more/JJR than/IN 150/CD years./NN
+The/DT last/JJ "Downing/NN Street/NNP dad"/NN was/VBD Lord/NNP John/NNP Russell/NNP in/IN 1848./CD
+Labour/NNP won/VBD a/DT huge/JJ majority/NN of/IN 167/CD over/IN the/DT Conservatives/NNS in/IN 2001/CD but/CC Mr/NNP Blair/NNP has/VBZ since/IN been/VBN criticised/VBN by/IN many/JJ in/IN his/PRP$ own/JJ party./NN
+The/DT war/NN in/IN Iraq/NNP and/CC reforms/NNS of/IN the/DT health/NN service/NN and/CC education/NN system/NN have/VBP provoked/VBN dissent/NN from/IN backbenchers./NN
+
+Gordon/NNP Brown/NNP chancellor/NN of/IN the/DT exchequer/NN under/IN Mr/NNP Blair/NNP became/VBD Britain's/NNP longest-serving/JJ chancellor/NN of/IN modern/JJ times/NNS in/IN 2004./CD
+Former/NNP Labour/NNP leader/NN Lord/NNP Kinnock/NNP said/VBD the/DT chancellor/NN would/MD be/VB best/RB placed/VBN to/TO take/VB over/RP from/IN Mr/NNP Blair./NNP
+When/WRB asked/VBD about/IN the/DT future/JJ leadership/NN of/IN the/DT party/NN he/PRP told/VBD ITV/NNP Wales'/NNP Waterfront/NN programme/NN "That/NN contest/NN is/VBZ a/DT long/JJ way/NN away/RB and/CC it/PRP will/MD occur/VB only/RB when/WRB the/DT Prime/NNP Minister/NNP Tony/NNP Blair/NNP decides/VBZ he's/NNS subscribed/VBD all/DT he/PRP can/MD and/CC then/RB wants/VBZ to/TO go./VB
+"I/NN think/VBP that/IN the/DT main/JJ contender/NN will/MD be/VB Gordon/NNP Brown/NNP who/WP is/VBZ a/DT man/NN of/IN virtually/RB unmatched/JJ capability/NN and/CC now/RB great/JJ experience."/NN Both/DT Mr/NNP Brown/NNP and/CC Mr/NNP Blair/NNP rose/VBD to/TO prominence/VB when/WRB Lord/NNP Kinnock/NNP led/VBD Labour/NNP between/IN 1983/CD and/CC 1992./CD

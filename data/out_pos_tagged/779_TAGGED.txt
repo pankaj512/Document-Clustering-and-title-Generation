@@ -1,0 +1,15 @@
+Michael/NNP film/NN signals/NNS 'retirement'/NN
+
+Singer/NNP George/NNP Michael/NNP has/VBZ said/VBN that/IN a/DT new/JJ film/NN about/IN his/PRP$ life/NN is/VBZ the/DT start/NN of/IN a/DT retirement/NN from/IN public/JJ view./NN
+
+The/DT pop/NN star/NN said/VBD it/PRP would/MD be/VB a/DT much/RB more/JJR "behind/NN the/DT scenes/NNS affair"/NN and/CC called/VBD his/PRP$ own/JJ genre/NN of/IN music/NN "dead"./NN
+"I/NN thought/VBD I/PRP should/MD explain/VB myself/PRP before/IN I/PRP disappear"/NN said/VBD Michael/NNP who/WP was/VBD at/IN the/DT Berlin/NNP film/NN festival/NN to/TO launch/VB the/DT documentary./NN
+The/DT film/NN A/DT Different/JJ Story/NNP chronicles/VBZ Michael's/NNP life/NN and/CC career/NN from/IN the/DT 1980s/CD and/CC his/PRP$ personal/JJ struggles./NN
+The/DT 41-year-old/JJ chart-topper/NN told/VBD reporters/NNS in/IN the/DT German/JJ capital/NN that/IN he/PRP wanted/VBD to/TO "move/VB his/PRP$ career/NN into/IN a/DT different/JJ form"/NN but/CC added/VBD that/IN he/PRP does/VBZ not/RB know/VB what/WP it/PRP is/VBZ going/VBG to/TO be/VB yet./NN
+
+"I'm/NN still/RB going/VBG to/TO be/VB making/VBG music"/NN he/PRP said/VBD but/CC added/VBD that/IN he/PRP was/VBD "not/NN going/VBG to/TO be/VB around"./NN
+He/PRP hinted/VBD at/IN discontent/NN with/IN the/DT current/JJ state/NN of/IN music/NN industry/NN and/CC said/VBD "I/NN don't/NN really/RB think/VBP that/IN there/EX is/VBZ anyone/NN in/IN the/DT modern/JJ pop/NN business/NN who/WP I/PRP feel/VBP I/PRP want/VBP to/TO spar/VB with."/NN Michael/NNP said/VBD that/IN the/DT film/NN directed/VBN by/IN Southan/NNP Morris/NNP would/MD put/VB his/PRP$ two/CD decades/NNS of/IN fame/NN into/IN context./NN
+"It's/NN almost/RB as/IN much/RB for/IN me/PRP as/IN for/IN my/PRP$ fans/NNS in/IN terms/NNS of/IN trying/VBG to/TO make/VB sense/NN of/IN the/DT last/JJ 22/CD years/NNS and/CC bring/VB it/PRP to/TO a/DT close/NN in/IN a/DT proper/JJ way"/NN he/PRP said./VB
+The/DT documentary/NN chronicles/VBZ the/DT highs/NNS and/CC lows/NNS of/IN his/PRP$ life/NN in/IN the/DT public/JJ gaze/VBP from/IN his/PRP$ meteoric/JJ rise/NN as/IN one/CD half/NN of/IN pop/NN duo/NN Wham/UH to/TO his/PRP$ arrest/NN for/IN lewd/NN conduct/NN in/IN a/DT Los/NNP Angeles/NNP toilet/NN in/IN 1998./CD
+The/DT film/NN also/RB deals/VBZ with/IN the/DT loss/NN of/IN Michael's/NNP partner/NN Anselmo/NNP Feleppa/NNP from/IN an/DT Aids-related/NNP condition/NN in/IN 1993./CD
+A/DT Different/JJ Story/NNP which/WDT is/VBZ being/VBG shown/VBN at/IN the/DT Berlin/NNP Film/NNP Festival/NNP has/VBZ been/VBN screened/VBN by/IN BBC/NNP One./NNP

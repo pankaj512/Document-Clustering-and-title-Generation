@@ -1,0 +1,25 @@
+Apple/NNP unveils/VBZ low-cost/JJ 'Mac/NN mini'/NN
+
+Apple/NNP has/VBZ unveiled/VBN a/DT new/JJ low-cost/JJ Macintosh/NNP computer/NN for/IN the/DT masses/NNS billed/VBN as/IN the/DT Mac/NNP mini./NN
+
+Chief/NNP executive/NN Steve/NNP Jobs/NNP showed/VBD off/RP the/DT new/JJ machine/NN at/IN his/PRP$ annual/JJ MacWorld/NNP speech/NN in/IN San/NNP Francisco./NNP
+The/DT $499/CD Macintosh/NNP sold/VBN for/IN £339/CD in/IN the/DT UK/NNP was/VBD described/VBN by/IN Jobs/NNP as/IN the/DT "most/NN important/JJ Mac"/NNP made/VBN by/IN Apple./NNP
+Mr/NNP Jobs/NNP also/RB unveiled/VBD the/DT iPod/NN shuffle/NN a/DT new/JJ music/NN player/NN using/VBG cheaper/JJR flash/VB memory/NN rather/RB than/IN hard/JJ drives/NNS which/WDT are/VBP used/VBN in/IN more/RBR expensive/JJ iPods./NN
+
+The/DT new/JJ computer/NN shifts/NNS the/DT company/NN into/IN new/JJ territory/NN -/: traditionally/RB the/DT firm/NN is/VBZ known/VBN as/IN a/DT design/NN and/CC innovation-led/JJ firm/NN rather/RB than/IN as/IN a/DT mass-market/JJ manufacturer./NN
+The/DT Mac/NNP mini/NN comes/VBZ without/IN a/DT monitor/NN keyboard/NN and/CC mouse/NN and/CC a/DT second/JJ version/NN with/IN a/DT larger/JJR hard/JJ drive/NN will/MD also/RB be/VB sold/VBN for/IN $599./CD
+
+The/DT machine/NN -/: which/WDT will/MD be/VB available/JJ from/IN 22/CD January/NNP -/: was/VBD described/VBN by/IN Jobs/NNP as/IN "BYODKM.../NN
+bring/VB your/PRP$ own/JJ display/NN keyboard/NN and/CC mouse"./NN
+In/IN an/DT attempt/NN to/TO win/VB over/IN Windows/NNS PC/NN customers/NNS Mr/NNP Jobs/NNP said/VBD it/PRP would/MD appeal/VB to/TO people/NNS thinking/VBG of/IN changing/VBG operating/NN systems./NN
+"People/NN who/WP are/VBP thinking/VBG of/IN switching/VBG will/MD have/VB no/DT more/JJR excuses"/NN he/PRP said./VB
+"It's/NN the/DT newest/JJS and/CC most/RBS affordable/JJ Mac/NNP ever."/NN The/DT new/JJ computer/NN has/VBZ been/VBN the/DT subject/NN of/IN speculation/NN for/IN several/JJ weeks/NNS and/CC while/IN few/JJ people/NNS will/MD be/VB surprised/VBN by/IN the/DT announcement/NN many/JJ analysts/NNS had/VBD already/RB said/VBN it/PRP was/VBD a/DT sensible/JJ move./NN
+In/IN January/NNP Apple/NNP sued/VBD a/DT website/NN after/IN it/PRP published/VBD what/WP it/PRP said/VBD were/VBD specifications/NNS for/IN the/DT new/JJ computer./NN
+Ian/NNP Harris/NNP deputy/NN editor/NN of/IN UK/NNP magazine/NN Mac/NNP Format/NN said/VBD the/DT machine/NN would/MD appeal/VB to/TO PC-owning/NNP consumers/NNS who/WP had/VBD purchased/VBN an/DT iPod./NN
+
+"They/NN want/VBP a/DT further/JJ taste/NN of/IN Mac/NNP because/IN they/PRP like/IN what/WP they/PRP have/VBP seen/VBN with/IN iPod."/NN Harris/NNP added/VBD "Everybody/NN thought/VBD that/IN Apple/NNP was/VBD happy/JJ to/TO remain/VB a/DT niche/NN maker/NN of/IN luxury/NN computers/NNS and/CC moving/VBG into/IN a/DT market/NN dominated/VBN by/IN low/JJ margin/NN manufacturers/NNS like/IN Dell/NNP is/VBZ a/DT bold/JJ move./NN
+"But/NN it/PRP shows/VBZ that/IN Apple/NNP is/VBZ keen/JJ to/TO capitalise/VB on/IN the/DT mass/NN market/NN success/NN it's/NNS had/VBD with/IN the/DT iPod./NN
+The/DT Mac/NNP mini/NN will/MD appeal/VB to/TO PC/VB users/NNS looking/VBG for/IN an/DT attractive/JJ 'no/NN fuss'/NN computer."/NN The/DT new/JJ iPod/NN shuffle/NN comes/VBZ in/IN two/CD versions/NNS -/: one/CD offering/NN 512mb/CD of/IN storage/NN for/IN $99/CD (£69/CD in/IN the/DT Uk)/NNP and/CC a/DT second/NN with/IN one/CD gigabyte/NN of/IN storage/NN for/IN $149/CD (£99)/CD -/: and/CC went/VBD on/IN sale/NN Tuesday./NNP
+The/DT music/NN player/NN has/VBZ no/DT display/NN and/CC will/MD play/VB songs/NNS either/CC consecutively/RB or/CC shuffled./NN
+The/DT smaller/JJR iPod/NN will/MD hold/VB about/RB 120/CD songs/NNS said/VBD Mr/NNP Jobs./NNP
+Mr/NNP Jobs/NNP told/VBD the/DT delegates/NNS at/IN MacWorld/NNP that/WDT iPod/NN already/RB had/VBD a/DT 65%/CD market/NN share/NN of/IN all/DT digital/JJ music/NN players./NN

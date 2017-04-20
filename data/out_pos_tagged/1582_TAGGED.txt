@@ -1,0 +1,39 @@
+Reds/NNS sink/VBP 10-man/JJ Magpies/NNP
+
+Titus/NNP Bramble's/NNP own/JJ goal/NN put/VBD Liverpool/NNP on/IN the/DT comeback/NN trail/NN as/IN injury-hit/JJ Newcastle/NNP were/VBD well/RB beaten/VBN at/IN Anfield./NNP
+
+Patrick/NNP Kluivert's/NNP close-range/JJ finish/NN put/VB Newcastle/NNP ahead/RB after/IN 31/CD minutes/NNS but/CC they/PRP were/VBD pegged/VBN back/RB as/IN Bramble/NNP headed/VBD in/IN Steven/NNP Gerrard's/NNP corner./NN
+Neil/NNP Mellor/NNP gave/VBD Liverpool/NNP the/DT lead/NN before/IN half-time/NN from/IN Milan/NNP Baros'/NNP pass/VB before/IN the/DT Czech/NN added/VBD a/DT third/NN after/IN rounding/VBG Shay/NNP Given/VBN on/IN the/DT hour./NN
+Newcastle/NNP then/RB had/VBD Lee/NNP Bowyer/NNP sent/VBD off/RP for/IN two/CD bookable/JJ offences./NN
+Liverpool/NNP brought/VBD back/RB Luis/NNP Garcia/NNP after/IN a/DT hamstring/VBG injury/NN while/IN Newcastle/NNP were/VBD forced/VBN to/TO draft/VB in/IN Kluivert/NNP after/IN Craig/NNP Bellamy/NNP was/VBD a/DT late/JJ withdrawal/NN with/IN a/DT back/JJ injury/NN sustained/VBN in/IN the/DT warm-up./JJ
+And/CC Garcia/NNP should/MD have/VB crowned/VBN his/PRP$ return/NN with/IN a/DT goal/NN inside/IN the/DT opening/NN minute/NN when/WRB he/PRP took/VBD a/DT pass/NN from/IN Baros/NNP but/CC shot/NN wildly/RB over/IN the/DT top/NN from/IN eight/CD yards./NN
+Olivier/NNP Bernard/NNP was/VBD only/JJ inches/NNS away/RB from/IN giving/VBG Newcastle/NNP the/DT lead/NN after/IN 20/CD minutes/NNS when/WRB he/PRP fired/VBD just/RB wide/JJ from/IN a/DT free-kick/JJ 25/CD yards/NNS out./NN
+But/CC Souness's/NNP side/NN did/VBD go/VB ahead/RB 11/CD minutes/NNS later/RB in/IN highly/RB controversial/JJ circumstances./NN
+
+Kluivert/NNP looked/VBD suspiciously/RB offside/NN when/WRB Kieron/NNP Dyer/NNP set/VBD Bowyer/NNP free/JJ but/CC the/DT Dutchman/NNP was/VBD then/RB perfectly/RB placed/VBN to/TO score/VB from/IN six/CD yards./NN
+The/DT lead/NN lasted/VBD three/CD minutes/NNS with/IN Liverpool/NNP back/RB on/IN terms/NNS as/IN Bramble/NNP headed/VBD Gerrard's/NNP corner/NN into/IN his/PRP$ own/JJ net/NN under/IN pressure/NN from/IN Sami/NNP Hyypia./NNP
+And/CC Liverpool/NNP were/VBD ahead/RB after/IN 37/CD minutes/NNS when/WRB Baros/NNP slid/VBD a/DT perfect/JJ pass/NN into/IN Mellor's/NNP path/NN for/IN the/DT youngster/NN to/TO slip/VB a/DT slide-rule/JJ finish/NN into/IN Given's/NNP bottom/NN corner./NN
+Garcia's/NNP finishing/VBG was/VBD wayward/JJ and/CC he/PRP was/VBD wasteful/JJ again/RB in/IN first-half/JJ injury/NN time/NN shooting/VBG tamely/RB at/IN Given/VBN after/IN good/JJ work/NN by/IN Xabi/NNP Alonso./NNP
+Any/DT hopes/NNS of/IN a/DT Newcastle/NNP recovery/NN looked/VBD to/TO be/VB snuffed/VBN out/RP on/IN the/DT hour/NN when/WRB a/DT brilliant/JJ turn/NN and/CC pass/VB by/IN Harry/NNP Kewell/NNP set/VBD Baros/NNP free/JJ and/CC he/PRP rounded/VBD Given/VBN to/TO score./VB
+Jermaine/NNP Jenas/NNP then/RB missed/VBD a/DT glorious/JJ chance/NN to/TO throw/VB Newcastle/NNP a/DT lifeline/NN shooting/VBG over/IN from/IN just/RB eight/CD yards/NNS out/RP from/IN Shola/NNP Ameobi's/NNP cross./NN
+Then/RB Bowyer/NNP who/WP had/VBD already/RB been/VBN booked/VBN for/IN a/DT foul/NN on/IN Alonso/NNP was/VBD deservedly/RB shown/VBN the/DT red/JJ card/NN by/IN referee/NN Graham/NNP Poll/NNP for/IN a/DT wild/JJ challenge/NN on/IN Liverpool/NNP substitute/NN Florent/NNP Sinama-Pongolle./NNP
+
+Dudek/NNP Finnan/NNP Hyypia/NNP Carragher/NNP Riise/NNP Luis/NNP Garcia/NNP (Nunez/NN 73)/CD Gerrard/NNP Alonso/NNP Kewell/NNP (Traore/NN 85)/CD Baros/NNP Mellor/NNP (Sinama/NN Pongolle/NNP 75)./CD
+
+Subs/NNP not/RB used/VBD Hamann/NNP Harrison./NNP
+
+Bramble/NNP 35/CD og/NN Mellor/NNP 38/CD Baros/NNP 61./CD
+
+Given/VBN Andrew/NNP O'Brien/NNP Elliott/NNP Bramble/NNP Bernard/NNP Bowyer/NNP Dyer/NNP (Ambrose/NN 80)/CD Jenas/NNP Milner/NNP (N'Zogbia/NN 72)/CD Kluivert/NNP (Robert/NN 58)/CD Ameobi./NNP
+
+Subs/NNP not/RB used/VBD Harper./NNP
+
+Bowyer/NNP (77)./CD
+
+Bowyer/NNP Elliott/NNP Bernard./NNP
+
+Kluivert/NNP 32./CD
+
+43856./CD
+
+G/NNP Poll/NNP (Hertfordshire)./NN

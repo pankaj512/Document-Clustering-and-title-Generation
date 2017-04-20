@@ -1,0 +1,15 @@
+Huge/JJ rush/NN for/IN Jet/NNP Airways/NNPS shares/NNS
+
+Indian/JJ airline/NN Jet/NNP Airways'/NNP initial/JJ public/JJ offering/NN was/VBD oversubscribed/JJ 16.2/CD times/NNS bankers/NNS said/VBD on/IN Friday./NNP
+
+Over/IN 85%/CD of/IN the/DT bids/NNS were/VBD at/IN the/DT higher/JJR end/NN of/IN the/DT price/NN range/NN of/IN 1050-1125/JJ rupees/NNS ($24-$26)./JJ
+Jet/NNP Airways/NNPS a/DT low-fare/JJ airline/NN was/VBD founded/VBN by/IN London-based/JJ ex-travel/NN agent/NN Naresh/NNP Goya/NNP and/CC controls/NNS 45%/CD of/IN the/DT Indian/JJ domestic/JJ airline/NN market./NN
+It/PRP sold/VBD 20%/CD of/IN its/PRP$ equity/NN or/CC 17.2/CD million/CD shares/NNS in/IN a/DT bid/NN to/TO raise/VB up/IN to/TO $443m/CD (£230.8m)./CD
+The/DT price/NN at/IN which/WDT its/PRP$ shares/NNS will/MD begin/VB trading/VBG will/MD be/VB agreed/VBN over/IN the/DT weekend/NN bankers/NNS said./NN
+"The/NN demand/NN for/IN the/DT IPO/NNP was/VBD impressive./NN
+We/PRP believe/VBP that/IN over/IN the/DT next/JJ two/CD years/NNS the/DT domestic/JJ aviation/NN sector/NN promises/VBZ strong/JJ growth/NN even/RB though/IN fuel/NN prices/NNS could/MD be/VB high"/NN said/VBN Hiten/NNP Mehta/NNP manager/NN of/IN merchant/NN banking/NN firm/NN Fortune/NNP Financial/NNP Services./NNP
+India/NNP began/VBD to/TO open/VB up/RP its/PRP$ domestic/JJ airline/NN market/NN -/: previously/RB dominated/VBN by/IN state-run/JJ carrier/NN Indian/NNP Airlines/NNP -/: in/IN the/DT 1990s./CD
+Jet/NNP began/VBD flying/VBG in/IN 1993/CD and/CC now/RB has/VBZ competitors/NNS including/VBG Air/NNP Deccan/NNP and/CC Air/NNP Sahara./NNP
+Budget/NNP carriers/NNS Kingfisher/NNP Airlines/NNPS and/CC SpiceJet/NNP are/VBP planning/VBG to/TO launch/VB operations/NNS in/IN May/NNP this/DT year./NN
+Jet/NNP has/VBZ 42/CD aircraft/NN and/CC runs/VBZ 271/CD scheduled/VBN flights/NNS daily/RB within/IN India./NNP
+It/PRP recently/RB won/VBD government/NN permission/NN to/TO fly/VB to/TO London/NNP Singapore/NNP and/CC Kuala/NNP Lumpur./NNP

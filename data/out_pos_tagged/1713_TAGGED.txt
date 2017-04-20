@@ -1,0 +1,25 @@
+England/NNP given/VBN tough/JJ Sevens/NNP draw/VB
+
+England/NNP will/MD have/VB to/TO negotiate/VB their/PRP$ way/NN through/IN a/DT tough/JJ draw/NN if/IN they/PRP are/VBP to/TO win/VB the/DT Rugby/NNP World/NNP Cup/NNP Sevens/NNP in/IN Hong/NNP Kong/NNP next/JJ month./NN
+
+The/DT second/JJ seeds/NNS have/VBP been/VBN drawn/VBN against/IN Samoa/NNP France/NNP Italy/NNP Georgia/NNP and/CC Chinese/NNP Taipei./NNP
+The/DT top/JJ two/CD sides/NNS in/IN each/DT pool/NN qualify/NN but/CC England/NNP could/MD face/VB 2001/CD winners/NNS New/NNP Zealand/NNP in/IN the/DT quarter-finals/NNS if/IN they/PRP stumble/VBP against/IN Samoa./NNP
+Scotland/NNP and/CC Ireland/NNP are/VBP in/IN Pool/NNP A/NNP together/RB with/IN the/DT All/DT Blacks./NNP
+England/NNP won/VBD the/DT first/JJ event/NN of/IN the/DT International/NNP Rugby/NNP Board/NNP World/NNP Sevens/NNP series/NN in/IN Dubai/NNP but/CC have/VBP slipped/VBN to/TO fourth/JJ in/IN the/DT table/NN after/IN failing/VBG to/TO build/VB on/IN that/DT victory./NN
+
+However/RB they/PRP beat/VBP Samoa/NNP in/IN the/DT recent/JJ Los/NNP Angeles/NNP Sevens/NNP before/IN losing/VBG to/TO Argentina/NNP in/IN the/DT semi-finals./JJ
+"England/NN have/VBP the/DT ability/NN and/CC determination/NN to/TO win/VB this/DT World/NNP Cup/NNP and/CC create/VB sporting/VBG history/NN by/IN being/VBG the/DT only/JJ nation/NN to/TO hold/VB both/DT the/DT 15s/CD and/CC Sevens/NNP World/NNP Cups/NNS at/IN the/DT same/JJ time"/NN said/VBD England/NNP sevens/NNS coach/NN Mike/NNP Friday./NNP
+"England/NN have/VBP a/DT fantastic/JJ record/NN in/IN Hong/NNP Kong/NNP and/CC have/VBP won/VBN there/EX the/DT last/JJ three/CD years/NNS but/CC the/DT World/NNP Cup/NNP is/VBZ on/IN a/DT different/JJ level./NN
+"Every/NN pool/NN contains/VBZ teams/NNS who/WP have/VBP caused/VBN upsets/NNS before/IN and/CC we/PRP will/MD have/VB to/TO work/VB hard/JJ to/TO ensure/VB we/PRP progress/VBP from/IN our/PRP$ group./NN
+"We/NN have/VBP not/RB performed/VBN consistently/RB to/TO our/PRP$ true/JJ potential/JJ so/RB far/RB in/IN the/DT IRB/NNP Sevens/NNP which/WDT has/VBZ been/VBN disappointing/JJ -/: but/CC we/PRP can/MD only/RB look/VB forward."/NN England/NNP won/VBD the/DT first/JJ Rugby/NNP World/NNP Cup/NNP Sevens/NNP in/IN 1993/CD with/IN a/DT side/NN that/WDT included/VBD the/DT likes/NNS of/IN Lawrence/NNP Dallaglio/NNP and/CC Matt/NNP Dawson./NNP
+In/IN 1997/CD and/CC 2001/CD England/NNP lost/VBN in/IN the/DT quarter-finals./JJ
+
+(seeds/NN in/IN brackets)/NN
+
+New/NNP Zealand/NNP (1)/CD Scotland/NNP (8)/CD Tonga/NNP Ireland/NNP Korea/NNP USA./NNP
+
+England/NNP (2)/CD Samoa/NNP (7)/CD France/NNP Italy/NNP Georgia/NNP Chinese/NNP Taipei./NNP
+
+Fiji/NNP (3)/CD Australia/NNP (6)/CD Canada/NNP Portugal/NNP Japan/NNP Hong/NNP Kong./NNP
+
+Argentina/NNP (4)/CD South/NNP Africa/NNP (5)/CD Kenya/NNP Tunisia/NNP Russia/NNP Uruguay./NNP

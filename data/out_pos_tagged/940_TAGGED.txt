@@ -1,0 +1,15 @@
+MPs/NNP quiz/NN aides/NNS over/IN royal/NN income/NN
+
+Senior/JJ officials/NNS at/IN the/DT two/CD bodies/NNS generating/VBG private/JJ income/NN for/IN the/DT Queen/NNP and/CC Prince/NNP of/IN Wales/NNP are/VBP to/TO be/VB questioned/VBN by/IN MPs./NNP
+
+Aides/NNS from/IN the/DT Duchy/NNP of/IN Lancaster/NNP and/CC Duchy/NNP of/IN Cornwall/NNP will/MD appear/VB before/IN the/DT Commons/NNPS Public/NNP Accounts/NNPS Committee./NNP
+It/PRP has/VBZ been/VBN reported/VBN they/PRP could/MD be/VB questioned/VBN about/IN Prince/NNP Charles'/NNP spending/NN on/IN Camilla/NNP Parker/NNP Bowles./NNP
+But/CC BBC/NNP correspondent/NN Peter/NNP Hunt/NNP said/VBD they/PRP are/VBP not/RB responsible/JJ for/IN how/WRB money/NN is/VBZ spent/VBN and/CC may/MD be/VB unable/JJ to/TO answer./VB
+Duchy/NN officials/NNS who/WP will/MD appear/VB before/IN the/DT committee/NN on/IN Monday/NNP are/VBP only/RB responsible/JJ for/IN generating/VBG money./NN
+The/DT Duchy/NNP of/IN Lancaster/NNP provides/VBZ the/DT Queen's/NNP private/JJ income/NN while/IN the/DT Duchy/NNP of/IN Cornwall/NNP provides/VBZ Prince/NNP Charles'/NNP annual/JJ income./NN
+The/DT Duchy/NNP of/IN Cornwall/NNP is/VBZ a/DT 140000-acre/JJ estate/NN across/IN 25/CD counties/NNS and/CC also/RB includes/VBZ residential/JJ properties/NNS shops/NNS offices/NNS stocks/NNS and/CC shares./NN
+It/PRP was/VBD set/VBN up/RP in/IN 1337/CD by/IN King/NNP Edward/NNP III/NNP to/TO provide/VB income/NN for/IN successive/JJ heirs/NNS to/TO the/DT throne./NN
+It/PRP covers/VBZ the/DT cost/NN of/IN the/DT prince's/NNS public/NN and/CC private/JJ life/NN -/: neither/DT Charles/NNP nor/CC William/NNP and/CC Harry/NNP receive/VBP taxpayers'/NN money/NN from/IN the/DT Civil/NNP List./NNP
+However/RB the/DT Prince/NNP of/IN Wales/NNP did/VBD receive/VB over/IN £4m/CD from/IN government/NN departments/NNS and/CC grants-in-aid/JJ in/IN 2003-4./JJ
+The/DT duchy/NN last/JJ year/NN generated/VBN almost/RB £12m./CD
+The/DT prince/NN has/VBZ voluntarily/RB paid/VBN income/NN tax/NN -/: currently/RB 40%/CD -/: since/IN 1993./CD

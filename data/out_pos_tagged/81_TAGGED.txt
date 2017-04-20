@@ -1,0 +1,17 @@
+BMW/NN to/TO recall/VB faulty/JJ diesel/NN cars/NNS
+
+BMW/NNP is/VBZ to/TO recall/VB all/DT cars/NNS equipped/VBN with/IN a/DT faulty/JJ diesel/NN fuel-injection/JJ pump/NN supplied/VBN by/IN parts/NNS maker/NN Robert/NNP Bosch./NNP
+
+The/DT faulty/JJ part/NN does/VBZ not/RB represent/VB a/DT safety/NN risk/NN and/CC the/DT recall/NN only/RB affects/VBZ pumps/NNS made/VBN in/IN December/NNP and/CC January./NNP
+BMW/NNP said/VBD that/IN it/PRP was/VBD too/RB early/JJ to/TO say/VB how/WRB many/JJ cars/NNS were/VBD affected/VBN or/CC how/WRB much/JJ the/DT recall/NN would/MD cost./VB
+The/DT German/JJ company/NN is/VBZ to/TO extend/VB a/DT planned/VBN production/NN break/NN at/IN one/CD of/IN its/PRP$ plants/NNS due/JJ to/TO the/DT faulty/JJ Bosch/NNP part./NN
+The/DT Dingolfing/NNP site/NN will/MD now/RB be/VB closed/VBN all/DT next/JJ week/NN instead/RB of/IN for/IN just/RB two/CD days./NN
+The/DT additional/JJ three-day/JJ stoppage/NN will/MD mean/VB a/DT production/NN loss/NN of/IN up/IN to/TO 3600/CD vehicles/NNS BMW/NNP said/VBD adding/VBG that/IN it/PRP was/VBD confident/JJ it/PRP could/MD make/VB up/RP the/DT numbers/NNS later./NN
+
+Bosch/NNP has/VBZ stopped/VBN production/NN of/IN the/DT part/NN but/CC expects/VBZ to/TO restart/VB by/IN 2/CD February./NNP
+The/DT faulty/JJ component/NN does/VBZ not/RB represent/VB a/DT safety/NN risk/NN but/CC causes/VBZ the/DT motor/NN to/TO stall/VB after/IN a/DT significant/JJ amount/NN of/IN mileage./NN
+When/WRB asked/VBD if/IN BMW/NNP would/MD be/VB seeking/VBG compensation/NN from/IN Bosch/NNP the/DT carmaker's/NNS chief/JJ executive/NN Helmut/NNP Panke/NNP said/VBD "we/NN will/MD first/RB solve/VB the/DT problem/NN before/IN talking/VBG about/IN who/WP will/MD pay"./VB
+Audi/NNP and/CC Mercedes/NNP Benz/NNP were/VBD also/RB supplied/VBN with/IN the/DT defective/JJ diesel/NN fuel-injection/JJ pumps/NNS but/CC neither/DT of/IN them/PRP have/VBP to/TO recall/VB any/DT vehicles./NN
+A/DT spokesman/NN for/IN DaimlerChrysler/NNP parent/NN company/NN of/IN Mercedes/NNP Benz/NNP said/VBD it/PRP will/MD however/RB have/VB to/TO halt/VB some/DT production./NN
+It/PRP is/VBZ to/TO close/VB the/DT Mercedes/NNP factory/NN in/IN Sindelfingen/NNP on/IN Monday/NNP and/CC Tuesday./NNP
+Audi/NNP said/VBD it/PRP had/VBD been/VBN hit/VBN by/IN production/NN bottlenecks/NNS due/JJ to/TO a/DT shortage/NN of/IN unaffected/JJ Bosch/NNP parts./NN

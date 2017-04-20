@@ -1,0 +1,24 @@
+US/PRP retail/VBD sales/NNS surge/NN in/IN December/NNP
+
+US/PRP retail/VBD sales/NNS ended/VBD the/DT year/NN on/IN a/DT high/JJ note/NN with/IN solid/JJ gains/NNS in/IN December/NNP boosted/VBN by/IN strong/JJ car/NN sales./NN
+
+Seasonally/RB adjusted/VBN sales/NNS rose/VBD 1.2%/CD in/IN the/DT month/NN compared/VBN to/TO 0.1%/CD a/DT month/NN earlier/RBR boosted/VBN by/IN a/DT surge/NN in/IN shopping/NN just/RB before/IN and/CC after/IN Christmas./NNP
+Sales/NNS climbed/VBD 8%/CD for/IN the/DT year/NN the/DT best/JJS performance/NN since/IN an/DT 8.5%/CD rise/NN in/IN 1999/CD the/DT Commerce/NNP Department/NNP added./NN
+The/DT gains/NNS were/VBD led/VBN by/IN a/DT 4.3%/CD jump/NN in/IN auto/NN sales/NNS as/IN dealers/NNS used/VBN enhanced/VBN offers/VBZ to/TO get/VB cars/NNS out/IN of/IN showrooms./NN
+Dealers/NNS were/VBD forced/VBN to/TO cut/VB prices/NNS in/IN December/NNP to/TO maintain/VB sales/NNS growth/NN in/IN a/DT tough/JJ quarter/NN when/WRB the/DT usual/JJ end-of-year/JJ holiday/NN sales/NNS boom/NN was/VBD slow/JJ to/TO get/VB started./NN
+
+The/DT increase/NN in/IN sales/NNS during/IN December/NNP pushed/VBD total/JJ spending/NN for/IN the/DT month/NN to/TO $349.4bn/CD (£265.9bn)./CD
+Sales/NNS for/IN the/DT year/NN also/RB broke/VBD through/IN the/DT $4/CD trillion/CD mark/NN for/IN the/DT first/JJ time/NN -/: with/IN annual/JJ sales/NNS coming/VBG in/IN at/IN $4.06/CD trillion/CD However/RB if/IN automotives/NNS are/VBP excluded/VBN from/IN December's/NNP data/NNS retail/JJ sales/NNS rose/VBD just/RB 0.3%/CD on/IN the/DT month./NN
+Home/NN furnishings/NNS and/CC furniture/NN stores/NNS also/RB performed/VBN well/RB rising/VBG 2.2%./CD
+But/CC as/RB well/RB as/IN hitting/VBG the/DT shops/NNS more/JJR US/PRP consumers/VBZ were/VBD going/VBG online/NN or/CC using/VBG mail/NN order/NN for/IN their/PRP$ purchases/NNS -/: with/IN non-store/JJ retailers/NNS seeing/VBG sales/NNS rise/VBP by/IN 1.9%./CD
+However/RB analysts/NNS said/VBD that/IN the/DT strong/JJ figures/NNS were/VBD unlikely/JJ to/TO put/VB the/DT Federal/NNP Reserve/NNP Bank/NNP off/RP its/PRP$ current/JJ policy/NN of/IN measured/VBN interest/NN rate/NN rises./NN
+"Consumers/NN for/IN now/RB remain/VBP willing/JJ to/TO spend/VB freely/RB sustaining/VBG the/DT US/PRP expansion./VBP
+Given/VBN that/DT attitude/VBP the/DT Fed/NNP remains/VBZ likely/JJ to/TO continue/VB boosting/VBG the/DT Fed/NNP funds/NNS rate/NN at/IN upcoming/VBG meetings"/NN UBS/NNP economist/NN Maury/NNP Harris/NNP told/VBD Reuters./NNP
+
+Retail/JJ sales/NNS are/VBP seen/VBN as/IN a/DT major/JJ part/NN of/IN consumer/NN spending/NN -/: which/WDT in/IN turn/NN makes/VBZ up/RP two-thirds/NNS of/IN economic/JJ output/NN in/IN the/DT US./NNP
+Consumer/NNP spending/NN has/VBZ been/VBN picking/VBG up/RP in/IN recent/JJ years/NNS after/IN slumping/VBG during/IN 2001/CD and/CC 2002/CD as/IN the/DT country/NN battled/VBD to/TO recover/VB from/IN its/PRP$ first/JJ recession/NN of/IN the/DT decade/NN and/CC the/DT World/NNP Trade/NNP Centre/NNP attacks./NN
+During/IN that/DT time/NN sales/NNS grew/VBD a/DT lacklustre/NN 2.9%/CD in/IN 2001/CD and/CC 2.5%/CD a/DT year/NN later./NN
+Looking/VBG ahead/RB analysts/NNS now/RB expect/VBP improvement/NN in/IN jobs/NNS growth/NN to/TO feed/VB through/IN to/TO the/DT High/NNP Street/NNP with/IN consumer/NN spending/NN remaining/VBG strong./NN
+The/DT belief/NN comes/VBZ despite/IN the/DT latest/JJS labor/NN department/NN report/NN showing/VBG a/DT surprise/NN rise/NN in/IN unemployment./NN
+The/DT number/NN of/IN Americans/NNPS filing/NN initial/JJ jobless/JJ claims/NNS jumped/VBD to/TO 367000/CD the/DT highest/JJS rate/NN since/IN September./NNP
+However/RB long-term/JJ claims/NNS slipped/VBD to/TO their/PRP$ lowest/JJS level/NN since/IN 2001./CD

@@ -1,0 +1,27 @@
+Deutsche/NNP attacks/NNS Yukos/NNP case/NN
+
+German/JJ investment/NN bank/NN Deutsche/NNP Bank/NNP has/VBZ challenged/VBN the/DT right/NN of/IN Yukos/NNP to/TO claim/VB bankruptcy/NN protection/NN in/IN the/DT US./NNP
+
+In/IN a/DT court/NN filing/NN on/IN Tuesday/NNP it/PRP said/VBD the/DT Russian/JJ oil/NN giant/NN has/VBZ few/JJ Texas/NNP ties/NNS beyond/IN bank/NN accounts/NNS and/CC a/DT Texas-based/JJ finance/NN chief./NN
+Deutsche/NNP Bank/NNP claimed/VBD Yukos/NNP had/VBD artificially/RB manufactured/VBN a/DT legal/JJ case/NN to/TO stop/VB the/DT sale/NN of/IN its/PRP$ main/JJ asset./NN
+It/PRP had/VBD wanted/VBN to/TO help/VB fund/VB Gazprom's/NNP plans/VBZ for/IN a/DT $10bn/CD (£5.18bn)/CD bid/NN for/IN Yukos/NNP unit/NN Yuganskneftegas./NNP
+
+Deutsche/NNP Bank/NNP would/MD have/VB earned/VBN large/JJ fees/NNS from/IN the/DT deal/NN which/WDT could/MD not/RB be/VB carried/VBN out/RP because/IN US/PRP chapter/VBP 11/CD bankruptcy/NN rules/NNS made/VBD the/DT Kremlin's/NNP auction/NN of/IN Yuganskneftegas/NNP on/IN 19/CD December/NNP illegal/JJ under/IN US/PRP law./VBP
+
+But/CC the/DT US/PRP bankruptcy/VBP court/NN judge/NN in/IN Texas/NNP granted/VBD Yukos/NNP an/DT injunction/NN that/WDT barred/VBD Gazprom/NNP and/CC its/PRP$ lenders/NNS from/IN taking/VBG part./NN
+Yuganskneftegas/NNP will/MD ultimately/RB end/VB up/RP with/IN Gazprom./NNP
+The/DT winning/VBG bidder/NN at/IN the/DT auction/NN was/VBD a/DT previously/RB unknown/JJ firm/NN Baikal/NNP Finance/NNP Group/NNP which/WDT was/VBD snapped/VBN up/RP days/NNS later/RB by/IN Rosneft/NNP a/DT Russian/JJ oil/NN firm/NN that/WDT is/VBZ in/IN the/DT process/NN of/IN merging/VBG with/IN Gazprom./NNP
+The/DT effect/NN of/IN these/DT transactions/NNS is/VBZ to/TO renationalise/VB Yuganskneftegas./NNP
+Deutsche/NNP Bank/NNP contends/VBZ Yukos/NNP filed/VBD for/IN bankruptcy/NN earlier/RBR this/DT month/NN in/IN Texas/NNP in/IN a/DT desperate/JJ and/CC unsuccessful/JJ bid/NN to/TO stave/VB off/RP the/DT 19/CD December/NNP auction/NN of/IN its/PRP$ top/JJ unit/NN by/IN the/DT Russian/JJ government/NN which/WDT was/VBD in/IN a/DT tax/NN dispute/NN with/IN Yukos./NNP
+
+"This/NN blatant/JJ attempt/NN to/TO artificially/RB manufacture/VB a/DT basis/NN for/IN jurisdiction/NN constitutes/VBZ cause/VB to/TO dismiss/VB this/DT case"/NN Deutsche/NNP Bank/NNP said/VBD in/IN its/PRP$ court/NN filing./NN
+Mike/NNP Lake/NNP a/DT spokesman/NN for/IN Yukos'/NNP lawyers/NNS said/VBD on/IN Tuesday/NNP that/IN the/DT company/NN stands/VBZ by/IN its/PRP$ legal/JJ action./NN
+Yukos/NNP is/VBZ confident/JJ of/IN its/PRP$ right/NN to/TO US/PRP bankruptcy/VBP protection/NN and/CC "we/NN are/VBP prepared/VBN to/TO be/VB back/RB in/IN court/NN defending/VBG that/DT position/NN again"/NN he/PRP said./VB
+Yukos/NNP has/VBZ said/VBN it/PRP intends/VBZ to/TO seek/VB $20bn/CD in/IN damages/NNS from/IN the/DT buyer/NN of/IN Yuganskneftegas/NNP once/RB the/DT sale/NN finally/RB goes/VBZ through./NN
+In/IN its/PRP$ filing/NN Deutsche/NNP Bank/NNP said/VBD Houston/NNP was/VBD "a/NN jurisdiction/NN in/IN which/WDT Yukos/NNP owns/VBZ no/DT real/JJ or/CC personal/JJ property/NN and/CC conducts/VBZ no/DT business/NN operations."/NN
+
+It/PRP also/RB said/VBD the/DT US/PRP bankruptcy/VBP court/NN should/MD not/RB become/VB involved/VBN in/IN "a/NN tax/NN dispute/NN between/IN the/DT Federation/NNP and/CC one/CD of/IN its/PRP$ corporate/JJ citizens"./NN
+It/PRP suggested/VBD the/DT European/NNP Court/NNP or/CC an/DT international/JJ arbitration/NN tribunal/NN were/VBD more/RBR appropriate/JJ jurisdictions/NNS for/IN the/DT legal/JJ fight/NN between/IN Russia/NNP and/CC Yukos./NNP
+The/DT next/JJ hearing/NN in/IN the/DT bankruptcy/NN is/VBZ expected/VBN on/IN 6/CD January./NNP
+Analysts/NNS believe/VBP the/DT tax/NN dispute/NN between/IN the/DT Russian/JJ government/NN and/CC Yukos/NNP is/VBZ partly/RB driven/VBN by/IN Russian/JJ president/NN Vladimir/NNP Putin's/NNP hostility/NN hostility/NN to/TO the/DT political/JJ ambitions/NNS of/IN ex-Yukos/NN boss/NN Mikhail/NNP Khordokovsky./NNP
+Mr/NNP Khodorkovsky/NNP is/VBZ in/IN jail/NN and/CC on/IN trial/NN for/IN fraud/NN and/CC tax/NN evasion./NN

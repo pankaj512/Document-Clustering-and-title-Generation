@@ -1,0 +1,30 @@
+Election/NNP 'could/NN be/VB terror/NN target'/NN
+
+Terrorists/NNS might/MD try/VB to/TO target/VB the/DT UK/NNP in/IN the/DT run-up/NN to/TO the/DT election/NN London's/NNP most/RBS senior/JJ police/NN officer/NN has/VBZ said./NN
+
+Sir/NNP Ian/NNP Blair/NNP said/VBD terror/NN groups/NNS would/MD remember/VB the/DT effect/NN of/IN the/DT Madrid/NNP bomb/NN on/IN Spain's/NNP general/JJ election/NN last/JJ year./NN
+Other/JJ potential/JJ targets/NNS were/VBD the/DT royal/NN wedding/NN and/CC the/DT UK's/NNP presidency/NN of/IN the/DT European/NNP Union/NNP and/CC G8/CD he/PRP said./VB
+He/PRP refused/VBD to/TO say/VB if/IN there/EX was/VBD specific/JJ information/NN about/IN the/DT risk/NN of/IN a/DT pre-poll/JJ attack./NN
+No/DT 10/NN was/VBD similarly/RB cautious/JJ but/CC said/VBD the/DT threat/NN was/VBD real./NN
+
+The/DT comments/NNS come/VBP after/IN Tony/NNP Blair/NNP defended/VBD his/PRP$ controversial/JJ anti-terror/JJ proposals/NNS warning/VBG that/IN it/PRP would/MD be/VB wrong/JJ to/TO wait/VB for/IN an/DT attack/NN before/IN acting./NN
+Sir/NNP Ian/NNP told/VBD a/DT meeting/NN of/IN the/DT Metropolitan/NNP Police/NNP Authority/NNP it/PRP would/MD be/VB "unwise"/NN to/TO speculate/VB about/IN whether/IN there/EX was/VBD specific/JJ information/NN about/IN risks/NNS of/IN a/DT pre-election/JJ attack./NN
+But/CC he/PRP said/VBD "Terrorists/NN have/VBP long/RB memories./NN
+They/PRP understand/VBP what/WP happened/VBD in/IN Madrid/NNP and/CC know/VB what/WP the/DT impact/NN of/IN that/DT was/VBD on/IN the/DT Spanish/JJ electorate./NN
+
+"This/NN year/NN we/PRP are/VBP responsible/JJ for/IN the/DT EU/NNP presidency/NN presidency/NN of/IN the/DT G8/CD a/DT royal/NN wedding/NN and/CC a/DT general/JJ election./NN
+"There/NN are/VBP obvious/JJ and/CC enormous/JJ targets/NNS which/WDT we/PRP have/VBP to/TO deal/VB with."/NN Sir/NNP Ian/NNP said/VBD the/DT debate/NN over/IN anti-terror/JJ plans/NNS was/VBD one/CD for/IN politicians/NNS not/RB the/DT police/NN who/WP would/MD enforce/VB any/DT new/JJ powers./NN
+
+Home/NNP Secretary/NNP Charles/NNP Clarke/NNP has/VBZ also/RB warned/VBN that/IN a/DT Madrid-style/JJ pre-election/JJ bombing/NN could/MD happen/VB in/IN the/DT UK/NNP too./NN
+Asked/VBN about/IN Sir/NNP Ian's/NNP comments/VBZ the/DT prime/JJ minister's/NNS official/JJ spokesman/NN said/VBD "We/NN believe/VBP the/DT threat/NN is/VBZ real."/VBG The/DT spokesman/NN declined/VBD to/TO comment/VB on/IN whether/IN the/DT security/NN services/NNS had/VBD received/VBN specific/JJ intelligence/NN relating/VBG to/TO a/DT possible/JJ attack/NN during/IN the/DT election/NN campaign./NN
+He/PRP said/VBD No/DT 10/NN did/VBD not/RB disclose/VB any/DT security/NN advice/NN they/PRP received./VBP
+Earlier/RBR writing/VBG in/IN the/DT Daily/NNP Telegraph/NNP the/DT prime/JJ minister/NN conceded/VBD that/IN plans/NNS to/TO detain/VB suspects/VBZ under/IN house/NN arrest/NN without/IN trial/NN were/VBD "difficult/NN issues/NNS for/IN any/DT government"./NN
+The/DT Commons/NNPS has/VBZ approved/VBN the/DT measures/NNS despite/IN considerable/JJ opposition/NN with/IN the/DT government's/NNS majority/VBP more/RBR than/IN halved/VBN as/IN 32/CD Labour/NNP rebels/NNS joined/VBD Tory/NNP and/CC Lib/NNP Dem/NNP opposition./NN
+But/CC Mr/NNP Blair/NNP insisted/VBD "There/NN is/VBZ no/DT greater/JJR civil/JJ liberty/NN than/IN to/TO live/VB free/JJ from/IN terrorist/JJ attack."/NN
+
+Tory/NNP leader/NN Michael/NNP Howard/NNP has/VBZ accused/VBN Mr/NNP Blair/NNP of/IN steamrolling/VBG the/DT house/NN arrest/NN plans/NNS and/CC of/IN "using/VBG national/JJ security/NN for/IN political/JJ point/NN scoring"./NN
+Liberal/NNP Democrat/NNP leader/NN Charles/NNP Kennedy/NNP says/VBZ that/IN the/DT plan/NN is/VBZ a/DT further/JJ example/NN of/IN Labour's/NNP "authoritarian"/NN response/NN to/TO crises./VB
+The/DT Prevention/NNP of/IN Terrorism/NNP Bill/NNP proposes/VBZ "control/NN orders"/NN which/WDT as/RB well/RB as/IN house/NN arrest/NN could/MD impose/VB curfews/NNS tagging/VBG or/CC bans/NNS on/IN telephone/NN and/CC internet/JJ use./NN
+They/PRP would/MD replace/VB current/JJ powers/NNS to/TO detain/VB foreign/JJ terror/NN suspects/VBZ without/IN trial/NN which/WDT the/DT law/NN lords/NNS have/VBP ruled/VBN against./NN
+But/CC critics/NNS are/VBP concerned/VBN that/IN it/PRP would/MD be/VB the/DT home/NN secretary/NN and/CC not/RB judges/NNS who/WP decided/VBD to/TO impose/VB control/NN orders./NN
+The/DT plans/NNS face/VBP further/JJ Commons/NNPS scrutiny/NN on/IN Monday/NNP before/IN passing/VBG to/TO the/DT Lords./NNP

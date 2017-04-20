@@ -1,0 +1,15 @@
+Rock/NNP band/NN U2/CD break/NN ticket/NN record/NN
+
+U2/CD have/VBP smashed/VBN Irish/JJ box/NN office/NN records/NNS with/IN ticket/NN sales/NNS for/IN their/PRP$ Dublin/NNP concerts/NNS after/IN more/JJR than/IN 150000/CD were/VBD sold/VBN within/IN 50/CD minutes./NN
+
+Tickets/NNS for/IN the/DT two/CD concerts/NNS at/IN the/DT city's/NNS Croke/NNP Park/NNP stadium/NN were/VBD released/VBN at/IN 8am/CD on/IN Friday/NNP morning./NN
+"Nothing/VBG like/IN it/PRP has/VBZ ever/RB been/VBN seen/VBN in/IN Ireland/NNP before"/NN said/VBD Justin/NNP Green/NNP spokesman/NN for/IN organisers/NNS MCD/NNP Promoters./NNP
+"We/NN could/MD have/VB sold/VBN a/DT million/CD tickets."/NN The/DT Dublin/NNP dates/NNS on/IN June/NNP 24/CD and/CC 25/CD form/NN part/NN of/IN the/DT worldwide/NN Vertigo/NNP tour./NN
+The/DT tour/NN begins/VBZ in/IN San/NNP Diego/NNP on/IN 28/CD March/NNP and/CC will/MD cover/VB 13/CD US/PRP cities./VBP
+The/DT band/NN will/MD also/RB play/VB 24/CD European/JJ gigs/NNS finishing/VBG in/IN Lisbon/NNP in/IN August./NNP
+
+Mr/NNP Green/NNP said/VBD that/DT ticket/NN outlets/NNS had/VBD been/VBN "bombarded"/NN by/IN U2/CD fans./NN
+"Unfortunately/RB there's/NNS thousands/NNS and/CC thousands/NNS of/IN disappointed/VBN fans/NNS all/DT over/IN the/DT country/NN which/WDT is/VBZ disappointing/JJ but/CC there's/NNS only/RB two/CD dates/NNS confirmed"/VBP he/PRP said./VB
+Many/JJ fans/NNS camped/VBN on/IN the/DT streets/NNS of/IN the/DT Irish/JJ capital/NN for/IN three/CD days/NNS to/TO ensure/VB they/PRP were/VBD first/JJ in/IN line/NN at/IN Ticketmaster/NNP in/IN St/NNP Stephen's/NNP Green/NNP Shopping/NNP Centre/NNP where/WRB the/DT tickets/NNS went/VBD on/IN sale/NN on/IN Friday./NNP
+However/RB the/DT majority/NN of/IN tickets/NNS priced/VBN at/IN between/IN 59.50/CD and/CC 80/CD euro/NN each/DT were/VBD sold/VBN online./NN
+Earlier/RBR this/DT week/NN Bono/FW announced/VBD that/IN the/DT band/NN would/MD play/VB two/CD shows/VBZ at/IN the/DT venue/NN which/WDT holds/VBZ almost/RB 80000/CD people/NNS due/JJ to/TO the/DT phenomenal/JJ demand/NN for/IN tickets./NN

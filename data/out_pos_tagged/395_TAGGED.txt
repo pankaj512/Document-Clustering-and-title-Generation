@@ -1,0 +1,15 @@
+Delta/NN cuts/NNS fares/NNS in/IN survival/NN plan/NN
+
+Delta/NNP Air/NNP Lines/NNPS is/VBZ cutting/VBG domestic/JJ fares/NNS by/IN as/RB much/JJ as/RB 50%/CD as/IN part/NN of/IN a/DT plan/NN to/TO ensure/VB its/PRP$ financial/JJ survival./NN
+
+Other/JJ US/PRP carriers/VBZ including/VBG United/NNP have/VBP sought/VBN bankruptcy/NN protection/NN amid/IN high/JJ fuel/NN costs/NNS and/CC competition/NN from/IN discount/NN carriers./NN
+Delta/NNP is/VBZ restructuring/NN in/IN a/DT bid/NN to/TO fight/VB off/RP insolvency./NN
+This/DT latest/JJS move/NN to/TO boost/VB business/NN has/VBZ prompted/VBN speculation/NN other/JJ firms/NNS will/MD be/VB forced/VBN to/TO match/VB their/PRP$ fares/NNS hurting/VBG revenues/NNS in/IN the/DT sector./NN
+Delta's/NNP new/JJ SimpliFares/NNP were/VBD trialled/VBN from/IN August/NNP last/JJ year/NN on/IN tickets/NNS from/IN Cincinnati/NNP its/PRP$ second-largest/JJ hub./NN
+
+The/DT airline/NN says/VBZ no/DT one-way/JJ economy/NN fare/NN will/MD now/RB be/VB priced/VBN higher/JJR than/IN $499/CD (£264)/CD and/CC no/DT first-class/JJ fare/NN will/MD be/VB priced/VBN higher/JJR than/IN $599./CD
+It/PRP is/VBZ also/RB eliminating/VBG a/DT Saturday-night/NNP stay/NN requirement/NN on/IN discount/NN fares/NNS and/CC will/MD give/VB further/JJ reductions/NNS to/TO customers/NNS opting/VBG for/IN non-refundable/JJ tickets/NNS booking/VBG in/IN advance/NN and/CC online./NN
+Delta/NNP which/WDT lost/VBD $646m/CD in/IN the/DT three/CD months/NNS to/TO September/NNP was/VBD forced/VBN to/TO cut/VB 6900/CD jobs/NNS worldwide/NN as/IN part/NN of/IN its/PRP$ aim/NN to/TO slash/VB $5bn/CD from/IN its/PRP$ costs./NN
+In/IN October/NNP it/PRP reached/VBD a/DT crucial/JJ agreement/NN with/IN pilots/NNS on/IN pay/NN and/CC conditions/NNS and/CC it/PRP has/VBZ also/RB issued/VBN new/JJ shares/NNS to/TO staff/VB in/IN return/NN for/IN wage/NN cuts./NN
+Airline/NNP shares/NNS closed/VBD lower/RBR on/IN the/DT announcement/NN with/IN Delta/NNP Continental/NNP and/CC American/NNP Airlines/NNPS all/DT falling/NN by/IN more/JJR than/IN 7%./CD
+"We/NN believe/VBP the/DT whole/JJ airline/NN industry/NN will/MD now/RB have/VB to/TO move/VB in/IN this/DT direction/NN this/DT will/MD likely/RB hurt/VBN revenue/NN in/IN the/DT short/JJ run/NN but/CC could/MD be/VB beneficial/JJ in/IN the/DT long/JJ run"/NN said/VBD analyst/NN Ray/NNP Neidl/NNP at/IN Calyon/NNP Securities./NNP

@@ -1,0 +1,16 @@
+EU/NNP 'too/NN slow'/NN on/IN economic/JJ reforms/NNS
+
+Most/JJS EU/NNP countries/NNS have/VBP failed/VBN to/TO put/VB in/IN place/NN policies/NNS aimed/VBN at/IN making/VBG Europe/NNP the/DT world's/NNS most/RBS competitive/JJ economy/NN by/IN the/DT end/NN of/IN the/DT decade/NN a/DT report/NN says./NN
+
+The/DT study/NN undertaken/VBD by/IN the/DT European/NNP Commission/NNP sought/VBD to/TO assess/VB how/WRB far/RB the/DT EU/NNP has/VBZ moved/VBN towards/IN meeting/NN its/PRP$ economic/JJ targets./NN
+In/IN 2000/CD EU/NNP leaders/NNS at/IN a/DT summit/NN in/IN Lisbon/NNP pledged/VBD the/DT European/JJ economy/NN would/MD outstrip/VB that/IN of/IN the/DT US/PRP by/IN 2010./CD
+Their/PRP$ economic/JJ targets/NNS became/VBD known/VBN as/IN the/DT Lisbon/NNP Agenda./NNP
+But/CC the/DT Commission/NNP report/NN says/VBZ that/IN in/IN most/JJS EU/NNP countries/VBZ the/DT pace/NN of/IN economic/JJ reform/NN has/VBZ been/VBN too/RB slow/JJ and/CC fulfilling/VBG the/DT Lisbon/NNP ambitions/NNS will/MD be/VB difficult/JJ -/: if/IN not/RB impossible./NN
+
+Only/RB the/DT UK/NNP Finland/NNP Belgium/NNP Denmark/NNP Ireland/NNP and/CC the/DT Netherlands/NNP have/VBP actually/RB followed/VBN up/RP policy/NN recommendations./NN
+Among/IN the/DT biggest/JJS laggards/NNS according/VBG to/TO the/DT report/NN are/VBP Greece/NNP and/CC Italy./NNP
+The/DT Lisbon/NNP Agenda/NNP set/VBD out/RP to/TO increase/VB the/DT number/NN of/IN people/NNS employed/VBN in/IN Europe/NNP by/IN encouraging/VBG more/JJR older/JJR people/NNS and/CC women/NNS to/TO stay/VB in/IN the/DT workforce./NN
+It/PRP also/RB set/VBD out/RP to/TO raise/VB the/DT amount/NN the/DT private/JJ sector/NN spends/VBZ on/IN research/NN and/CC development/NN while/IN bringing/VBG about/IN greater/JJR discipline/NN over/IN public/JJ spending/NN and/CC debt/NN levels./NN
+Combined/VBN with/IN high/JJ environmental/JJ standards/NNS and/CC efforts/NNS to/TO level/VB the/DT playing/NN field/NN for/IN businesses/NNS throughout/IN the/DT EU/NNP the/DT plan/NN was/VBD for/IN Europe/NNP to/TO become/VB the/DT world's/NNS most/RBS dynamic/JJ economy/NN by/IN 2010./CD
+Next/JJ week/NN the/DT Commission/NNP will/MD present/VB revised/VBN proposals/NNS to/TO meet/VB the/DT Lisbon/NNP goals./NN
+Many/JJ people/NNS expect/VBP the/DT 2010/CD target/NN to/TO be/VB quietly/RB dropped./NN

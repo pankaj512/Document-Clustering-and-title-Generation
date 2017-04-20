@@ -1,0 +1,17 @@
+Hollywood/NNP hunts/VBZ hits/NNS at/IN Sundance/NNP
+
+The/DT Sundance/NNP Film/NNP Festival/NNP the/DT movie/NN industry's/NNS top/JJ destination/NN for/IN uncovering/VBG the/DT next/JJ independent/JJ hits/NNS and/CC new/JJ talent/NN opens/VBZ on/IN Thursday./NNP
+
+The/DT event/NN will/MD see/VB screen/NN executives/NNS decamp/NN from/IN Hollywood/NNP to/TO Park/NNP City/NNP Utah/NNP for/IN 11/CD days/NNS to/TO search/VB for/IN low-key/JJ movies/NNS that/WDT could/MD make/VB it/PRP big/JJ in/IN 2005./CD
+Open/NNP Water/NNP Napoleon/NNP Dynamite/NNP Garden/NNP State/NNP and/CC Super-Size/NNP Me/PRP were/VBD all/DT snapped/VBN up/RP at/IN last/JJ year's/NNS festival./NN
+But/CC stars/NNS like/IN Keanu/NNP Reeves/NNP and/CC Pierce/NNP Brosnan/NNP also/RB have/VBP films/NNS showing/VBG there./NN
+The/DT festival/NN is/VBZ being/VBG opened/VBN by/IN a/DT screening/NN of/IN quirky/JJ comedy/NN Happy/JJ Endings/NNP starring/VBG former/JJ Friends/NNPS actress/NN Lisa/NNP Kudrow/NNP and/CC Maggie/NNP Gyllenhaal/NNP on/IN Thursday./NNP
+
+Kudrow's/NNP Friends/NNPS co-star/JJ David/NNP Schwimmer/NNP plays/VBZ a/DT divorced/VBN drunkard/NN in/IN Duane/NNP Hopwood/NNP while/IN Brosnan/NNP stars/NNS as/IN a/DT hit/NN man/NN in/IN comedy/NN The/DT Matador./NNP
+Keanu/NNP Reeves/NNP appears/VBZ in/IN coming-of-age/JJ tale/NN Thumbsucker/NNP while/IN Kevin/NNP Costner/NNP and/CC Michael/NNP Keaton/NNP are/VBP among/IN the/DT other/JJ big/JJ names/NNS whose/WP$ films/NNS are/VBP involved./NN
+Robert/NNP Redford/NNP founded/VBD Sundance/NNP in/IN 1981/CD and/CC it/PRP has/VBZ gone/VBN on/IN to/TO showcase/VB future/JJ successes/NNS such/JJ as/IN Reservoir/NN Dogs/NNS The/DT Blair/NNP Witch/NN Project/NNP and/CC The/DT Full/JJ Monty./NNP
+But/CC it/PRP has/VBZ received/VBN criticism/NN that/IN it/PRP has/VBZ become/VBN more/RBR commercial/JJ and/CC mainstream/NN over/IN the/DT years./NN
+"As/NN much/JJ as/IN the/DT press/NN argues/VBZ that/IN Sundance/NNP has/VBZ completely/RB changed/VBN it/PRP hasn't/NN changed/VBD that/DT much"/NN festival/NN director/NN Geoffrey/NNP Gilmore/NNP said./NN
+"It's/NN still/RB a/DT place/NN for/IN discovery./JJ
+It's/VBG a/DT place/NN for/IN common/JJ ground/NN among/IN film-makers/NNS and/CC audiences/NNS more/JJR than/IN it/PRP is/VBZ the/DT celebrity/NN stuff."/NN Other/JJ films/NNS generating/VBG interest/NN before/IN this/DT year's/NNS festival/NN include/VBP Hustle/NNP &/CC Flow/NN about/IN an/DT aspiring/VBG rapper/NN The/DT Squid/NNP and/CC the/DT Whale/NN an/DT autobiographical/JJ film/NN by/IN writer-director/JJ Noah/NNP Baumbach/NNP and/CC comedy/drama/NN Pretty/NNP Persuasion./NNP
+It/PRP also/RB has/VBZ two/CD new/JJ international/JJ cinema/NN competitions./NN

@@ -1,0 +1,22 @@
+Jobs/NNP go/VB at/IN Oracle/NNP after/IN takeover/NN
+
+Oracle/NNP has/VBZ announced/VBN it/PRP is/VBZ cutting/VBG about/IN 5000/CD jobs/NNS following/VBG the/DT completion/NN of/IN its/PRP$ $10.3bn/CD takeover/NN of/IN its/PRP$ smaller/JJR rival/JJ Peoplesoft/NNP last/JJ week./NN
+
+The/DT company/NN said/VBD it/PRP would/MD retain/VB more/JJR than/IN 90%/CD of/IN Peoplesoft/NNP product/NN development/NN and/CC product/NN support/NN staff./NN
+The/DT cuts/NNS will/MD affect/VB about/RB 9%/CD of/IN the/DT 55000/CD staff/NN of/IN the/DT combined/VBN companies./NN
+Oracle's/NNP 18-month/JJ fight/NN to/TO acquire/VB Peoplesoft/NNP was/VBD one/CD of/IN the/DT most/RBS drawn-out/JJ and/CC hard-fought/JJ US/PRP takeover/VBP battles/NNS of/IN recent/JJ times./NN
+The/DT merged/VBN companies/NNS are/VBP set/VBN to/TO be/VB a/DT major/JJ force/NN in/IN the/DT enterprise/NN software/NN market/NN second/JJ only/RB in/IN size/NN to/TO Germany's/NNP SAP./NNP
+
+In/IN a/DT statement/NN Oracle/NNP said/VBD it/PRP began/VBD notifying/VBG staff/NN of/IN redundancies/NNS on/IN Friday/NNP and/CC the/DT process/NN would/MD continue/VB over/IN the/DT next/JJ 10/CD days./NN
+"By/NN retaining/VBG the/DT vast/JJ majority/NN of/IN Peoplesoft/NNP technical/JJ staff/NN Oracle/NNP will/MD have/VB the/DT resources/NNS to/TO deliver/VB on/IN the/DT development/NN and/CC support/NN commitments/NNS we/PRP have/VBP made/VBN to/TO Peoplesoft/NNP customers/NNS over/IN the/DT last/JJ 18/CD months"/NN Oracle's/NNP chief/NN executive/NN Larry/NNP Ellison/NNP said/VBD in/IN a/DT statement./NN
+
+Correspondents/NNS say/VBP 6000/CD job/NN losses/NNS had/VBD been/VBN expected/VBN -/: and/CC some/DT suggest/VBP more/JJR cuts/NNS may/MD be/VB announced/VBN in/IN future./NN
+They/PRP say/VBP Mr/NNP Ellison/NNP may/MD be/VB trying/VBG to/TO placate/VB Peoplesoft/NNP customers/NNS riled/VBN by/IN Oracle's/NNP determined/VBD takeover/NN strategy./NN
+Hours/NNS before/IN Friday's/NNP announcement/NN there/EX was/VBD a/DT funereal/JJ air/NN at/IN Peoplesoft's/NNP headquarters/NN reported/VBD AP/NNP news/NN agency./NN
+A/DT Peoplesoft/NNP sign/NN had/VBD been/VBN turned/VBN into/IN shrine/NN to/TO the/DT company/NN with/IN flowers/NNS candles/NNS and/CC company/NN memorabilia./NN
+"We're/NN mourning/VBG the/DT passing/NN of/IN a/DT great/JJ company"/NN the/DT agency/NN quoted/VBN Peoplesoft/NNP worker/NN David/NNP Ogden/NNP as/IN saying./NN
+Other/JJ employees/NNS said/VBD they/PRP would/MD rather/RB be/VB sacked/VBN than/IN work/NN for/IN Oracle./NNP
+"The/NN new/JJ company/NN is/VBZ going/VBG to/TO be/VB totally/RB different"/NN said/VBD Anil/NNP Aggarwal/NNP Peoplesoft's/NNP director/NN of/IN database/NN markets./NN
+"Peoplesoft/NN had/VBD an/DT easygoing/NN relaxed/VBD atmosphere./NN
+Oracle/NNP has/VBZ an/DT edgy/JJ aggressive/JJ atmosphere/NN that's/NNS not/RB conducive/JJ to/TO innovative/JJ production."/NN On/IN the/DT news/NN Oracle/NNP shares/NNS rose/VBD 15/CD cents/NNS -/: 1.1%/CD -/: on/IN Nasdaq./NNP
+In/IN after-hours/JJ trading/NN the/DT shares/NNS did/VBD not/RB move./VB

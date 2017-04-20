@@ -1,0 +1,13 @@
+George/NNP Michael/NNP to/TO perform/VB for/IN BBC/NNP
+
+George/NNP Michael/NNP is/VBZ to/TO perform/VB live/VB at/IN London's/NNP Abbey/NNP Road/NNP studios/NNS as/IN part/NN of/IN a/DT BBC/NNP Radio/NNP 2/CD special/JJ next/JJ month./NN
+
+The/DT session/NN which/WDT will/MD broadcast/VB on/IN 18/CD December/NNP will/MD also/RB see/VB him/PRP talk/VB about/IN how/WRB his/PRP$ biggest/JJS hits/NNS came/VBD about./NN
+Michael's/NNP appearance/NN is/VBZ part/NN of/IN the/DT station's/NNS Sold/VBN on/IN Song/NN initiative/NN which/WDT explores/VBZ the/DT art/NN of/IN songwriting./NN
+The/DT station/NN also/RB confirmed/VBD that/IN Chris/NNP Tarrant/NNP will/MD be/VB hosting/VBG a/DT one-off/JJ New/NNP Year's/NNP Eve/NNP programme./NN
+He/PRP left/VBD London's/NNP Capital/NNP FM/NNP this/DT year/NN after/IN 17/CD years./NN
+The/DT former/JJ breakfast/NN show/NN host/NN -/: who/WP attracted/VBD some/DT of/IN the/DT highest/JJS ratings/NNS in/IN Britain/NNP despite/IN only/RB broadcasting/NN to/TO London/NNP -/: will/MD offer/VB his/PRP$ own/JJ individual/JJ take/NN on/RP the/DT year/NN in/IN the/DT two-hour/JJ show./NN
+"This/NN should/MD be/VB great/JJ fun"/NN Tarrant/NNP said./NN
+"I've/NN had/VBD a/DT fantastic/JJ year/NN and/CC I/PRP know/VBP that/IN lots/NNS of/IN other/JJ people/NNS have/VBP as/RB well./NN
+I'm/NNP definitely/RB looking/VBG forward/RB to/TO being/VBG on/IN Radio/NNP 2."/CD Other/JJ Christmas/NNP specials/NNS from/IN Radio/NNP 2/CD include/VBP singer/NN Jamelia/NNP hosting/VBG a/DT Christmas/NNP Day/NNP concert/NN from/IN the/DT London/NNP Community/NNP Gospel/NN Choir/NN while/IN actor/NN Christopher/NNP Lee/NNP will/MD read/VB Fireside/NNP Tales/NNS from/IN the/DT likes/NNS of/IN Edgar/NNP Allan/NNP Poe/NNP E/NN Nesbit/NNP and/CC Ambrose/NNP Bierce./NNP
+Comedian/NNP Harry/NNP Hill/NNP will/MD host/VB a/DT spoof/NN nostalgia/NN show/NN on/IN Christmas/NNP Day/NNP while/IN singer/NN Jamie/NNP Cullum/NNP will/MD perform/VB a/DT live/JJ concert/NN for/IN the/DT station./NN

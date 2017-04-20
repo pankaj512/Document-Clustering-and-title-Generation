@@ -1,0 +1,9 @@
+McClaren/CD targets/NNS Champions/NNS League/NNP
+
+Middlesbrough/NNP boss/NN Steve/NNP McClaren/NNP believes/VBZ his/PRP$ side/NN can/MD clinch/VB a/DT top-four/JJ spot/NN in/IN the/DT Premiership/NN and/CC secure/VB qualification/NN for/IN the/DT Champions/NNS League./NNP
+
+After/IN their/PRP$ 3-2/JJ win/NN over/IN Manchester/NNP City/NNP McClaren/NNP said/VBD "We/NN are/VBP playing/VBG exciting/JJ football/NN it's/NNS a/DT magnificent/JJ result/NN to/TO keep/VB us/PRP in/IN the/DT top/JJ five./NN
+"But/NN how/WRB well/RB we/PRP do/VBP depends/VBZ how/WRB often/RB we/PRP can/MD get/VB our/PRP$ best/JJS team/NN out./NN
+"Once/NN we/PRP got/VBD the/DT third/JJ goal/NN it/PRP should/MD have/VB been/VBN four/CD or/CC five/CD but/CC we/PRP nearly/RB paid/VBD for/IN it/PRP in/IN the/DT end."/NN McClaren/NNP also/RB praised/VBD winger/NN Stewart/NNP Downing/NNP and/CC strikers/NNS Jimmy/NNP Floyd/NNP Hasselbaink/NNP and/CC Mark/NNP Viduka/NNP who/WP both/DT ended/VBD barren/JJ runs/NNS in/IN front/NN of/IN goal./NN
+He/PRP added/VBD "If/NN Stewart/NNP keeps/VBZ playing/VBG like/IN this/DT Sven-Goran/NNP Eriksson/NNP has/VBZ got/VBD to/TO pick/VB him./NN
+"And/NN the/DT strikers/NNS scored/VBD great/JJ goals/NNS the/DT combination/NN play/NN between/IN them/PRP shows/VBZ they/PRP want/VBP to/TO play/VB with/IN each/DT other/JJ and/CC they/PRP are/VBP trying."/NN

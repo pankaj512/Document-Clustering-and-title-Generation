@@ -1,0 +1,20 @@
+Brown/NN hits/NNS back/RB in/IN Blair/NNP rift/NN row/NN
+
+Gordon/NNP Brown/NNP has/VBZ criticised/VBN a/DT union/NN leader/NN who/WP said/VBD conflict/NN between/IN himself/PRP and/CC Tony/NNP Blair/NNP was/VBD harming/VBG the/DT workings/NNS of/IN government./NN
+
+Jonathan/NNP Baume/NNP of/IN the/DT top/JJ civil/JJ servants'/NN union/NN spoke/VBD of/IN "competing/VBG agendas"/NN between/IN Mr/NNP Brown/NNP and/CC Mr/NNP Blair./NNP
+But/CC the/DT chancellor/NN said/VBD Mr/NNP Baume/NNP was/VBD never/RB at/IN meetings/NNS between/IN himself/PRP and/CC the/DT prime/JJ minister/NN so/RB could/MD not/RB judge./VB
+He/PRP said/VBD the/DT union/NN leader/NN was/VBD trying/VBG to/TO block/VB civil/JJ service/NN reform/NN which/WDT threatened/VBD his/PRP$ members'/NN jobs./NN
+It/PRP suited/VBD the/DT purpose/NN of/IN Mr/NNP Baume's/NNP union/NN the/DT First/NNP Division/NNP Association/NNP to/TO suggest/VB there/EX were/VBD two/CD agendas/NNS battling/VBG against/IN each/DT other/JJ because/IN the/DT union/NN was/VBD trying/VBG to/TO resist/VB the/DT planned/VBN reforms/NNS Mr/NNP Brown/NNP told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN programme./NN
+
+Under/IN the/DT plans/NNS unveiled/VBD in/IN the/DT Gershon/NNP report/NN some/DT 84000/CD civil/JJ servants/NNS jobs/NNS will/MD be/VB axed/VBN or/CC changed/VBN and/CC the/DT savings/NNS ploughed/VBN back/RB into/IN frontline/NN services./NN
+Mr/NNP Brown/NNP said/VBD "To/NN be/VB honest/JJ I/PRP don't/VBP think/VBP you/PRP can/MD rely/VB on/IN his/PRP$ [Mr/NN Baume's]/NNP judgement/NN on/IN this/DT matter/NN when/WRB it/PRP comes/VBZ to/TO the/DT decisions/NNS that/IN the/DT government/NN are/VBP making./NN
+"Mr/NNP Blair/NNP and/CC I/PRP are/VBP making/VBG exactly/RB the/DT same/JJ decisions/NNS on/IN civil/JJ service/NN reforms./NN
+We/PRP are/VBP determined/VBN to/TO go/VB on/IN with/IN the/DT Gershon/NNP reforms."/NN He/PRP also/RB said/VBD that/IN as/IN Mr/NNP Baume/NNP was/VBD never/RB present/JJ at/IN meetings/NNS between/IN himself/PRP and/CC the/DT prime/JJ minister/NN he/PRP was/VBD not/RB in/IN a/DT position/NN to/TO judge./VB
+On/IN Wednesday/NNP ahead/RB of/IN the/DT Chancellor's/NNP pre-Budget/JJ report/NN Mr/NNP Baume/NNP told/VBD BBC/NNP News/NNP there/EX were/VBD sometimes/RB "conflicting/VBG and/CC competing/VBG agendas/NNS for/IN government"/NN between/IN Number/NN 10/CD and/CC the/DT Treasury./NNP
+
+What/WP the/DT chancellor/NN wanted/VBD was/VBD "not/NN by/IN any/DT means/NNS what/WP Alan/NNP Milburn/NNP and/CC the/DT prime/JJ minister/NN want/VBP to/TO see"/VB Mr/NNP Baume/NNP said./NN
+"Government/NN departments/NNS get/VBP their/PRP$ money/NN from/IN the/DT Treasury/NNP on/IN the/DT basis/NN of/IN public/JJ service/NN agreements/NNS they/PRP sign/VBP up/IN to/TO but/CC at/IN the/DT same/JJ time/NN the/DT prime/JJ minister/NN also/RB has/VBZ an/DT agenda/NN and/CC that's/NNS not/RB necessarily/RB the/DT same/JJ as/IN the/DT Treasury's/NNP and/CC the/DT prime/JJ minister/NN is/VBZ of/IN course/NN a/DT very/RB powerful/JJ figure/NN in/IN any/DT government./NN
+"He/NN also/RB sends/VBZ instructions/NNS and/CC messages/NNS and/CC directions/NNS to/TO departments/NNS about/IN how/WRB he/PRP would/MD like/VB each/DT secretary/NN of/IN state/NN and/CC each/DT department/NN to/TO implement/VB a/DT policy/NN agenda./NN
+"The/NN problem/NN is/VBZ that/IN on/IN many/JJ occasions/NNS these/DT two/CD don't/NN add/NN up/IN and/CC individual/JJ cabinet/NN ministers/NNS as/RB well/RB as/IN departments/NNS have/VBP to/TO make/VB sense/NN of/IN this/DT battle."/NN Number/NN 10/CD said/VBD ministers/NNS were/VBD interested/JJ in/IN governing/VBG and/CC not/RB a/DT "soap/NN opera"/NN about/IN Mr/NNP Blair/NNP and/CC Mr/NNP Brown./NNP
+Tory/NNP shadow/NN chancellor/NN Oliver/NNP Letwin/NNP said/VBD "The/NN battle/NN Royal/NNP that/IN the/DT top/JJ civil/JJ servants/NNS are/VBP now/RB reporting/VBG on/IN between/IN the/DT chancellor/NN and/CC Tony/NNP Blair/NNP is/VBZ preventing/VBG them/PRP both/DT from/IN getting/VBG on/IN with/IN the/DT business/NN of/IN getting/VBG taxpayers/NNS value/NN for/IN money."/NN

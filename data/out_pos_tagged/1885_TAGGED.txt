@@ -1,0 +1,22 @@
+Concern/NN over/IN RFID/NNP tags/NNS
+
+Consumers/NNS are/VBP very/RB concerned/VBN about/IN the/DT use/NN of/IN radio/NN frequency/NN ID/NNP (RFID)/NN tags/NNS in/IN shops/NNS a/DT survey/NN says./NN
+
+More/JJR than/IN half/NN of/IN 2000/CD people/NNS surveyed/VBN said/VBD they/PRP had/VBD privacy/NN worries/NNS about/IN the/DT tags/NNS which/WDT can/MD be/VB used/VBN to/TO monitor/VB stock/NN on/IN shelves/NNS or/CC in/IN warehouses./NN
+Some/DT consumer/NN groups/NNS have/VBP expressed/VBN concern/NN that/IN the/DT tags/NNS could/MD be/VB used/VBN to/TO monitor/VB shoppers/NNS once/IN they/PRP had/VBD left/VBN shops/NNS with/IN their/PRP$ purchases./NN
+The/DT survey/NN showed/VBD that/DT awareness/NN of/IN tags/NNS among/IN consumers/NNS in/IN Europe/NNP was/VBD low./NN
+The/DT survey/NN of/IN consumers/NNS in/IN the/DT UK/NNP France/NNP Germany/NNP and/CC the/DT Netherlands/NNP was/VBD carried/VBN out/RP by/IN consultancy/NN group/NN Capgemini./NNP
+The/DT firm/NN works/VBZ on/IN behalf/NN of/IN more/JJR than/IN 30/CD firms/NNS who/WP are/VBP seeking/VBG to/TO promote/VB the/DT growth/NN of/IN RFID/NNP technology./NN
+The/DT tags/NNS are/VBP a/DT combination/NN of/IN computer/NN chip/NN and/CC antenna/NN which/WDT can/MD be/VB read/VBN by/IN a/DT scanner/NN -/: each/DT item/NN contains/VBZ a/DT unique/JJ identification/NN number./NN
+
+More/JJR than/IN half/NN (55%)/CD of/IN the/DT respondents/NNS said/VBD they/PRP were/VBD either/CC concerned/VBN or/CC very/RB concerned/VBN that/IN RFID/NNP tags/NNS would/MD allow/VB businesses/NNS to/TO track/VB consumers/NNS via/IN product/NN purchases./NN
+Fifty/NNP nine/CD percent/NN of/IN people/NNS said/VBD they/PRP were/VBD worried/VBN that/IN RFID/NNP tags/NNS would/MD allow/VB data/NNS to/TO be/VB used/VBN more/RBR freely/RB by/IN third/JJ parties./NN
+Ard/NNP Jan/NNP Vetham/NNP Capgemini's/NNP principal/JJ consultant/NN on/IN RFID/NNP said/VBD the/DT survey/NN showed/VBD that/IN retailers/NNS needed/VBN to/TO inform/VB and/CC educate/VB people/NNS about/IN RFID/NNP before/IN it/PRP would/MD become/VB accepted/VB technology./NN
+"Acceptance/NN of/IN new/JJ technologies/NNS always/RB has/VBZ a/DT tipping/NN point/NN at/IN which/WDT consumers/NNS believe/VBP that/IN benefits/NNS outweigh/VBP concerns./NN
+"With/NN the/DT right/NN RFID/NNP approach/NN and/CC ongoing/JJ communication/NN with/IN consumers/NNS the/DT industry/NN can/MD reach/VB this/DT point."/NN He/PRP said/VBD that/IN the/DT survey/NN also/RB showed/VBD people/NNS would/MD accept/VB RFID/NNP if/IN they/PRP felt/VBD that/IN the/DT technology/NN could/MD mean/VB a/DT reduction/NN in/IN car/NN theft/NN or/CC faster/JJR recovery/NN of/IN stolen/VBN items./NN
+The/DT tags/NNS are/VBP currently/RB being/VBG used/VBN at/IN one/CD Tesco/NNP distribution/NN centre/NN in/IN the/DT UK/NNP -/: the/DT tags/NNS allow/VBP the/DT rapid/JJ inventory/NN of/IN bulk/JJ items./NN
+They/PRP are/VBP also/RB in/IN use/NN as/IN a/DT passcard/NN for/IN the/DT M6/CD Toll/NN in/IN the/DT Midlands/NNP in/IN the/DT UK./NNP
+Mr/NNP Vetham/NNP said/VBD the/DT majority/NN of/IN people/NNS surveyed/VBD (52%)/CD believed/VBN that/IN RFID/NNP tags/NNS could/MD be/VB read/VBN from/IN a/DT distance./JJ
+He/PRP said/VBD that/WDT was/VBD a/DT misconception/NN based/VBN on/IN a/DT lack/NN of/IN awareness/NN of/IN the/DT technology./NN
+At/IN least/JJS once/RB consumer/NN group/NN -/: Consumers/NNS Against/IN Supermarket/NNP Privacy/NN Invasion/NNP and/CC Numbering/NNP (Caspian)/NN -/: has/VBZ claimed/VBN that/IN RFID/NNP chips/NNS could/MD be/VB used/VBN to/TO secretly/RB identify/VB people/NNS and/CC the/DT things/NNS they/PRP are/VBP carrying/VBG or/CC wearing./NN
+All/DT kinds/NNS of/IN personal/JJ belongings/NNS including/VBG clothes/NNS could/MD constantly/RB broadcast/VB messages/NNS about/IN their/PRP$ whereabouts/NN and/CC their/PRP$ owners/NNS it/PRP warned./NN

@@ -1,0 +1,20 @@
+News/NNP Corp/NNP eyes/NNS video/NN games/NNS market/NN
+
+News/NNP Corp/NNP the/DT media/NNS company/NN controlled/VBN by/IN Australian/JJ billionaire/NN Rupert/NNP Murdoch/NNP is/VBZ eyeing/VBG a/DT move/NN into/IN the/DT video/NN games/NNS market./NN
+
+According/VBG to/TO the/DT Financial/NNP Times/NNP chief/NN operating/NN officer/NN Peter/NNP Chernin/NNP said/VBD that/IN News/NNP Corp/NNP is/VBZ "kicking/VBG the/DT tyres/NNS of/IN pretty/RB much/RB all/DT video/NN games/NNS companies"./NN
+Santa/NNP Monica-based/JJ Activison/NNP is/VBZ said/VBN to/TO be/VB one/CD firm/NN on/IN its/PRP$ takeover/NN list./NN
+Video/NN games/NNS are/VBP "big/NN business"/NN the/DT paper/NN quoted/VBN Mr/NNP Chernin/NNP as/IN saying./NN
+We/PRP "would/VBP like/VB to/TO get/VB into/IN it"./NN
+
+The/DT success/NN of/IN products/NNS such/JJ as/IN Sony's/NNP Playstation/NNP Microsoft's/NNP X-Box/NNP and/CC Nintendo's/NNP Game/NNP Cube/NN have/VBP boosted/VBN demand/NN for/IN video/NN games./NN
+The/DT days/NNS of/IN arcade/NN classics/NNS such/JJ as/IN Space/NNP Invaders/NNP Pac-Man/NNP and/CC Donkey/NNP Kong/NNP are/VBP long/RB gone./NN
+Today/NN games/NNS often/RB have/VBP budgets/NNS big/JJ enough/RB for/IN feature/NN films/NNS and/CC look/VB to/TO give/VB gamers/NNS as/RB real/JJ an/DT experience/NN as/IN possible./NN
+And/CC with/IN their/PRP$ price/NN tags/NNS reflecting/VBG the/DT heavy/JJ investment/NN by/IN development/NN companies/NNS video/VBP games/NNS are/VBP proving/VBG almost/RB as/RB profitable/JJ as/IN they/PRP are/VBP fun./NN
+
+Mr/NNP Chernin/NNP however/RB told/VBD the/DT FT/NNP that/IN News/NNP Corp/NNP was/VBD finding/VBG it/PRP difficult/JJ to/TO identify/VB a/DT suitable/JJ target./NN
+"We/NN are/VBP struggling/VBG with/IN the/DT gap/NN between/IN companies/NNS like/IN Electronic/NNP Arts/NNS (EA)/NN which/WDT comes/VBZ with/IN a/DT high/JJ price/NN tag/NN and/CC the/DT next/JJ tier/NN of/IN companies"/NN he/PRP explained/VBD during/IN a/DT conference/NN in/IN Phoenix/NNP Arizona./NNP
+"These/NN may/MD be/VB too/RB focused/VBN on/IN one/CD or/CC two/CD product/NN lines."/NN Activision/NNP has/VBZ a/DT stock/NN market/NN capitalisation/NN of/IN about/IN $2.95bn/CD (£1.57bn)/CD compared/VBN to/TO EA's/NNP $17.8bn./CD
+Some/DT of/IN the/DT games/NNS industry's/NNS main/JJ players/NNS have/VBP recently/RB been/VBN looking/VBG to/TO consolidate/VB their/PRP$ position/NN by/IN making/VBG acquisitions./NN
+France's/NNP Ubisoft/NNP one/CD of/IN Europe's/NNP biggest/JJS video/NN game/NN publishers/NNS has/VBZ been/VBN trying/VBG to/TO remain/VB independent/JJ since/IN Electronic/NNP Arts/NNS announced/VBD plans/NNS to/TO buy/VB 19.9%/CD of/IN the/DT firm./NN
+Analysts/NNS have/VBP said/VBN that/DT industry/NN mergers/NNS are/VBP likely/JJ in/IN the/DT future./NN

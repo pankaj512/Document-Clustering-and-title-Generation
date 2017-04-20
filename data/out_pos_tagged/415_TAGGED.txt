@@ -1,0 +1,25 @@
+UK/NNP house/NN prices/NNS dip/NN in/IN November/NNP
+
+UK/NNP house/NN prices/NNS dipped/VBD slightly/RB in/IN November/NNP the/DT Office/NNP of/IN the/DT Deputy/NNP Prime/NNP Minister/NNP (ODPM)/NN has/VBZ said./NN
+
+The/DT average/JJ house/NN price/NN fell/VBD marginally/RB to/TO £180226/CD from/IN £180444/CD in/IN October./NNP
+Recent/JJ evidence/NN has/VBZ suggested/VBN that/IN the/DT UK/NNP housing/NN market/NN is/VBZ slowing/VBG after/IN interest/NN rate/NN increases/NNS and/CC economists/NNS forecast/VBP a/DT drop/NN in/IN prices/NNS during/IN 2005./CD
+But/CC while/IN the/DT monthly/JJ figures/NNS may/MD hint/VB at/IN a/DT cooling/NN of/IN the/DT market/NN annual/JJ house/NN price/NN inflation/NN is/VBZ still/RB strong/JJ up/RP 13.8%/CD in/IN the/DT year/NN to/TO November./NNP
+Economists/NNS however/RB forecast/VBP that/IN ODPM/NNP figures/NNS are/VBP likely/JJ to/TO show/VB a/DT weakening/NN in/IN annual/JJ house/NN price/NN growth/NN in/IN coming/VBG months./NN
+"Overall/NN the/DT housing/NN market/NN activity/NN is/VBZ slowing/VBG down/RP and/CC that/DT is/VBZ backed/VBN up/RP by/IN the/DT mortgage/NN lending/NN and/CC the/DT mortgage/NN approvals/NNS data"/NN said/VBD Mark/NNP Miller/NNP at/IN HBOS/NNP Treasury/NNP Services./NNP
+"The/NNP ODPM/NNP data/NNS is/VBZ a/DT fairly/RB lagging/VBG indicator."/NN
+
+The/DT figures/NNS come/VBP after/IN the/DT Bank/NNP of/IN England/NNP said/VBD the/DT number/NN of/IN mortgages/NNS approved/VBN in/IN the/DT UK/NNP has/VBZ fallen/VBN to/TO the/DT lowest/JJS level/NN for/IN nearly/RB a/DT decade./NN
+The/DT Halifax/NNP meanwhile/RB said/VBD last/JJ week/NN that/IN house/NN prices/NNS increased/VBN by/IN 1.1%/CD in/IN December/NNP -/: the/DT first/JJ monthly/JJ rise/NN since/IN September./NNP
+
+The/DT UK's/NNP biggest/JJS mortgage/NN lender/NN said/VBD prices/NNS rose/VBD 15.1%/CD over/IN the/DT whole/NN of/IN 2004/CD but/CC by/IN only/RB 2.8%/CD in/IN the/DT second/JJ half/NN of/IN the/DT year./NN
+It/PRP is/VBZ predicting/VBG a/DT 2%/CD fall/NN in/IN overall/JJ prices/NNS in/IN 2005/CD as/IN the/DT market/NN stabilises/NNS after/IN large/JJ gains/NNS in/IN recent/JJ years./NN
+The/DT ODPM/NNP attributed/VBD the/DT monthly/JJ fall/NN of/IN prices/NNS in/IN November/NNP to/TO a/DT drop/NN in/IN the/DT value/NN of/IN detached/VBN houses/NNS and/CC flats./NN
+It/PRP said/VBD annual/JJ inflation/NN rose/VBD between/IN October/NNP and/CC November/NNP because/IN prices/NNS had/VBD fallen/VBN by/IN 1.1%/CD in/IN the/DT same/JJ period/NN in/IN 2003./CD
+
+The/DT ODPM/NNP data/NNS showed/VBD the/DT average/JJ house/NN price/NN was/VBD £192713/CD in/IN England/NNP £139544/CD in/IN Wales/NNP £116542/CD in/IN Scotland/NNP and/CC £111314/CD in/IN Northern/JJ Ireland./NNP
+
+All/DT areas/NNS saw/VBD a/DT rise/NN in/IN annual/JJ house/NN price/NN inflation/NN in/IN November/NNP except/IN for/IN Northern/JJ Ireland/NNP and/CC the/DT West/NNP Midlands/NNP where/WRB the/DT rate/NN was/VBD unchanged/JJ the/DT ODPM/NNP said./NN
+The/DT North/NNP East/NNP showed/VBD the/DT highest/JJS rate/NN of/IN inflation/NN at/IN 26.2%/CD followed/VBN by/IN Yorkshire/NNP and/CC the/DT Humber/NNP on/IN 21.7%/CD and/CC the/DT North/NNP West/NNP on/IN 21.1%./CD
+The/DT East/NNP Midlands/NNP the/DT West/NNP Midlands/NNP and/CC the/DT South/NNP West/NNP all/DT had/VBD an/DT annual/JJ inflation/NN rate/NN of/IN more/JJR than/IN 15%./CD
+In/IN London/NNP the/DT area/NN with/IN the/DT highest/JJS average/NN house/NN price/NN at/IN £262825/CD annual/JJ inflation/NN rose/VBD only/RB slightly/RB in/IN November/NNP to/TO 7.1%/CD from/IN 7%/CD the/DT previous/JJ month./NN

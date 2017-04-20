@@ -1,0 +1,17 @@
+Kennedy/NN questions/NNS trust/NN of/IN Blair/NNP
+
+Lib/NNP Dem/NNP leader/NN Charles/NNP Kennedy/NNP has/VBZ said/VBN voters/NNS now/RB have/VBP a/DT "fundamental/JJ lack/NN of/IN trust"/NN of/IN Tony/NNP Blair/NNP as/IN prime/JJ minister./NN
+
+He/PRP said/VBD backing/NN his/PRP$ party/NN was/VBD not/RB a/DT wasted/VBN vote/NN adding/VBG that/IN with/IN the/DT Lib/NNP Dems/NNP "what/NN you/PRP see/VBP is/VBZ what/WP you/PRP get"./VBP
+He/PRP made/VBD his/PRP$ comments/NNS at/IN the/DT start/NN of/IN a/DT day/NN of/IN appearances/NNS on/IN Channel/NNP Five/CD in/IN a/DT session/NN on/IN The/DT Wright/NNP Stuff/NN programme./NN
+Questions/NNS from/IN callers/NNS a/DT studio/NN audience/NN and/CC the/DT show's/NNS presenter/NN covered/VBN Lib/NNP Dem/NNP tax/NN plans/NNS anti-terror/JJ laws/NNS and/CC immigration./NN
+
+Mr/NNP Kennedy/NNP said/VBD during/IN his/PRP$ nearly/RB 22/CD years/NNS in/IN Parliament/NNP he/PRP had/VBD seen/VBN prime/JJ ministers/NNS and/CC party/NN leaders/NNS come/VBP and/CC go/VB and/CC knew/VBD the/DT pitfalls/NNS of/IN British/JJ politics./NN
+"1983/CD was/VBD when/WRB I/PRP was/VBD first/RB elected/VBN as/IN an/DT MP/NNP -/: so/RB Tony/NNP Blair/NNP Michael/NNP Howard/NNP and/CC myself/PRP were/VBD all/DT class/NN of/IN '83/CD -/: and/CC over/IN that/DT nearly/RB quarter/NN of/IN a/DT century/NN the/DT world/NN has/VBZ changed/VBN out/IN of/IN recognition"/NN he/PRP said./VB
+"We/NN don't/NN actually/RB hear/VB the/DT argument/NN any/DT longer/RB 'Lib/NN Dems/NNP good/JJ people/NNS reasonable/JJ ideas/NNS but/CC only/RB if/IN we/PRP thought/VBD they/PRP could/MD win/VB around/IN here/RB -/: it's/NNS a/DT wasted/VBN vote'./NN
+"You/NN don't/NN hear/NN that/IN because/IN the/DT evidence/NN of/IN people's/NNS senses/NNS demonstrates/VBZ that/IN it/PRP isn't/NN a/DT wasted/VBN vote."/NN But/CC he/PRP said/VBD Mr/NNP Blair/NNP had/VBD lost/VBN the/DT trust/NN of/IN the/DT British/JJ people./NN
+"There/NN is/VBZ a/DT fundamental/JJ lack/NN of/IN trust/NN in/IN Tony/NNP Blair/NNP as/IN prime/JJ minister/NN and/CC in/IN his/PRP$ government"/NN he/PRP said./VB
+
+"What/NN we've/NN got/VBD to/TO do/VB as/IN a/DT party/NN -/: what/WP I've/NNP got/VBD to/TO do/VB as/IN a/DT leader/NN of/IN this/DT party/NN -/: is/VBZ to/TO convey/VB to/TO people/NNS that/IN what/WP you/PRP see/VBP is/VBZ what/WP you/PRP get."/VBP Mr/NNP Kennedy/NNP also/RB used/VBD his/PRP$ TV/NN appearance/NN to/TO defend/VB his/PRP$ party's/NNS plans/NNS to/TO increase/VB income/NN tax/NN to/TO 50%/CD for/IN those/DT earning/VBG more/JJR than/IN £100000/CD saying/VBG it/PRP would/MD apply/VB to/TO just/RB 1%/CD of/IN the/DT population./NN
+He/PRP said/VBD the/DT extra/JJ revenue/NN would/MD allow/VB his/PRP$ party/NN to/TO get/VB rid/VB of/IN tuition/NN and/CC top-up/JJ fees/NNS introduce/VBP free/JJ personal/JJ care/NN for/IN the/DT elderly/JJ and/CC replace/VB the/DT council/NN tax/NN with/IN a/DT local/JJ income/NN tax./NN
+Mr/NNP Blair/NNP has/VBZ already/RB spent/VBN a/DT day/NN with/IN Five/CD and/CC Michael/NNP Howard/NNP is/VBZ booked/VBN for/IN a/DT similar/JJ session./NN

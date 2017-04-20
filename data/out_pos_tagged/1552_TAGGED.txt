@@ -1,0 +1,9 @@
+Beckham/NNP relief/NN as/IN Real/JJ go/NN through/IN
+
+David/NNP Beckham/NNP expressed/VBD his/PRP$ relief/NN at/IN Real/JJ Madrid's/NNP passage/NN to/TO the/DT Champions/NNS League/NNP knockout/NN phase./NN
+
+After/IN Real's/NNP 3-0/JJ win/NN at/IN Roma/NNP the/DT England/NNP skipper/VB admitted/VBN another/DT season/NN of/IN under-achievement/NN would/MD not/RB be/VB tolerated/VBN at/IN the/DT Bernabeu/NNP stadium./NN
+Beckham/NNP said/VBD "It's/NN expected/VBN of/IN Madrid/NNP to/TO get/VB through/IN but/CC it's/VBZ a/DT relief/NN for/IN the/DT club/NN and/CC players/NNS to/TO have/VB won./NN
+"We/NN lost/VBD momentum/NN last/JJ season/NN but/CC we/PRP cannot/VBP afford/NN to/TO to/TO go/VB another/DT season/NN without/IN winning/VBG anything."/NN Real's/NNP finish/VB as/IN runners-up/NNS in/IN their/PRP$ Champions/NNS League/NNP group/NN means/VBZ they/PRP cannot/NN face/NN his/PRP$ old/JJ club/NN Manchester/NNP United/NNP in/IN the/DT next/JJ round./NN
+But/CC Real/JJ could/MD be/VB drawn/VBN against/IN other/JJ Premiership/NN hopefuls/NNS Arsenal/NN or/CC Chelsea/NNP who/WP won/VBD their/PRP$ respective/JJ groups./NN
+"It's/NN going/VBG to/TO be/VB great/JJ whoever/WP we/PRP play/VBP even/RB if/IN we/PRP don't/VBP get/NN either/CC of/IN the/DT two/CD English/JJ teams."/NN

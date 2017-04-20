@@ -1,0 +1,16 @@
+Ericsson/NNP sees/VBZ earnings/NNS improve/VBP
+
+Telecoms/NNP equipment/NN supplier/NN Ericsson/NNP has/VBZ posted/VBN a/DT rise/NN in/IN fourth/JJ quarter/NN profits/NNS thanks/NNS to/TO clients/NNS like/IN Deutsche/NNP Telekom/NNP upgrade/VB their/PRP$ networks./NN
+
+Operating/NN profit/NN in/IN the/DT three/CD months/NNS to/TO 31/CD December/NNP was/VBD 9.5bn/CD kronor/NNS (£722m/CD $1.3bn)/CD against/IN 6.3bn/CD kronor/NNS last/JJ year./NN
+Shares/NNS tumbled/VBD however/RB as/IN the/DT company/NN reported/VBD a/DT profit/NN margin/NN of/IN 45.6%/CD less/JJR than/IN the/DT 47.3%/CD forecast/NN by/IN analysts/NNS and/CC down/RB from/IN 47.1%/CD in/IN the/DT third/JJ quarter./NN
+Ericsson/NNP shares/NNS dropped/VBD 5.9%/CD to/TO 20.7/CD kronor/NNS in/IN early/JJ trading/NN on/IN Thursday./NNP
+However/RB the/DT company/NN remained/VBD optimistic/JJ about/IN its/PRP$ earnings/NNS outlook/NN after/IN sales/NNS in/IN the/DT fourth/JJ quarter/NN rose/VBD 9%/CD to/TO 39.4bn/CD kronor./NN
+"Long-term/JJ growth/NN drivers/NNS of/IN the/DT industry/NN remain/VBP solid"/NN Ericsson/NNP said/VBD in/IN a/DT statement./NN
+
+Chief/NNP executive/NN Carl-Henric/NNP Svanberg/NNP explained/VBD that/IN about/IN "27%/CD of/IN the/DT world's/NNS population/NN now/RB has/VBZ access/NN to/TO mobile/JJ communications"./NN
+"This/NN is/VBZ exciting/JJ for/IN a/DT company/NN with/IN a/DT vision/NN of/IN an/DT all-communicating/JJ world"/NN he/PRP added./VB
+Mr/NNP Svanberg/NNP however/RB warned/VBD that/IN the/DT extra/JJ demand/NN that/WDT had/VBD driven/VBN 2004/CD sales/NNS had/VBD already/RB dissipated/VBN and/CC it/PRP was/VBD "business/NN as/IN usual"./NN
+He/PRP added/VBD that/IN sales/NNS in/IN the/DT first/JJ three/CD months/NNS of/IN 2005/CD would/MD be/VB subject/JJ to/TO "normal/JJ seasonality"./NN
+For/IN the/DT whole/NN of/IN 2004/CD Ericsson/NNP returned/VBN a/DT net/JJ profit/NN of/IN 19bn/CD kronor/NNS compared/VBN with/IN a/DT loss/NN of/IN 10.8bn/CD kronor/NNS in/IN 2003./CD
+Sales/NNS climbed/VBD to/TO 131.9/CD billion/CD kronor/NNS from/IN 117.7bn/CD kronor/NNS in/IN 2003./CD

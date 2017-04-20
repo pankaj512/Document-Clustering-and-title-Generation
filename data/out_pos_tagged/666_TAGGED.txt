@@ -1,0 +1,16 @@
+Usher/NNP leads/VBZ Soul/NN Train/NNP shortlist/NN
+
+Chart-topping/NNP R&B/NNP star/NN Usher/NNP is/VBZ leading/VBG the/DT field/NN at/IN this/DT year's/NNS Soul/NN Train/NNP Awards/NNS with/IN five/CD nominations./NN
+
+The/DT singer/NN whose/WP$ album/NN Confessions/NNS has/VBZ sold/VBN close/RB to/TO eight/CD million/CD copies/NNS in/IN the/DT US/PRP alone/RB is/VBZ already/RB in/IN the/DT running/NN for/IN eight/CD Grammy/NNP Awards./NNP
+Newcomer/NNP Ciara/NNP -/: who/WP recently/RB beat/VBP Elvis/NNP Presley/NNP to/TO the/DT UK/NNP number/NN one/CD spot/NN -/: has/VBZ four/CD nominations/NNS while/IN Alicia/NNP Keys/NNP has/VBZ three./NN
+The/DT Soul/NN Train/NNP Awards/NNS ceremony/NN will/MD take/VB place/NN in/IN Hollywood/NNP on/IN 28/CD February./NNP
+
+Usher/NNP has/VBZ already/RB swept/VBN the/DT board/NN at/IN the/DT American/NNP Music/NNP Awards/NNS with/IN four/CD titles/NNS including/VBG two/CD best/JJS album/NN awards./NN
+His/PRP$ Soul/NN Train/NNP nominations/NNS include/VBP best/JJS male/JJ R&B-soul/NNP album/NN and/CC best/JJS male/JJ R&B-soul/NNP single/JJ for/IN Confessions/NNS Part/NNP II./NNP
+Usher's/NNP work/NN with/IN rappers/NNS Ludacris/NNP &/CC Lil/NNP Jon/NNP won/VBD him/PRP nominations/VBZ for/IN best/JJS R&B-soul/NNP or/CC rap/NN music/NN video/NN and/CC best/JJS R&B-soul/NNP or/CC rap/NN dance/NN cut/NN for/IN the/DT song/NN Yeah/UH while/IN his/PRP$ duet/NN with/IN Keys/NNP My/PRP$ Boo/NNP earned/VBD the/DT pair/NN a/DT nod/NN for/IN best/JJS R&B-soul/NNP single./NN
+Keys'/NNP album/NN The/DT Diary/NNP of/IN Alicia/NNP Keys/NNP was/VBD also/RB up/IN for/IN best/JJS R&B-soul/NNP album/NN by/IN a/DT female./NN
+Her/PRP$ song/NN If/IN I/PRP Ain't/NNP Got/VBD You/PRP received/VBD a/DT best/JJS single/JJ nomination/NN in/IN the/DT female/JJ R&B-soul/NNP category./NN
+Newcomer/NNP Ciara's/NNP four/CD nominations/NNS include/VBP best/JJS female/JJ R&B-soul/NNP album/NN and/CC best/JJS R&B-soul/NNP or/CC rap/NN by/IN a/DT new/JJ artist./NN
+Beyonce/NNP Prince/NNP Destiny's/NNP Child/NN Jill/NNP Scott/NNP and/CC New/NNP Edition/NN all/DT received/VBD two/CD nominations/NNS each./NN
+The/DT Soul/NN Train/NNP Music/NNP Awards/NNS which/WDT started/VBD 18/CD years/NNS ago/RB celebrates/VBZ artists/NNS in/IN R&B/NNP hip-hop/JJ rap/NN and/CC gospel/NN music./NN

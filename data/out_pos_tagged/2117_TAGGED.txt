@@ -1,0 +1,42 @@
+File-swappers/NNP ready/JJ new/JJ network/NN
+
+Legal/JJ attacks/NNS on/IN websites/NNS that/WDT help/NN people/NNS swap/VBP pirated/VBN films/NNS have/VBP forced/VBN the/DT development/NN of/IN a/DT system/NN that/WDT could/MD be/VB harder/JJR to/TO shut/VB down./NN
+
+One/CD site/NN behind/IN the/DT success/NN of/IN the/DT BitTorrent/NNP file-swapping/JJ system/NN is/VBZ producing/VBG its/PRP$ own/JJ software/NN that/WDT avoids/VBZ the/DT pitfalls/NNS of/IN the/DT earlier/JJR program./NN
+A/DT test/NN version/NN of/IN the/DT new/JJ Exeem/NNP program/NN will/MD be/VB released/VBN in/IN late/JJ January./NNP
+But/CC doubts/NNS remain/VBP about/IN the/DT new/JJ networks/NNS ability/NN to/TO ensure/VB files/NNS being/VBG swapped/VBN are/VBP "quality/NN copies"./NN
+
+In/IN late/JJ December/NNP movie/NN studios/NNS launched/VBD a/DT legal/JJ campaign/NN against/IN websites/NNS that/WDT helped/VBD people/NNS swap/VBP pirated/VBN movies/NNS using/VBG the/DT BitTorrent/NNP network./NN
+The/DT legal/JJ campaign/NN worked/VBD because/IN of/IN the/DT way/NN that/IN BitTorrent/NNP is/VBZ organised./NN
+That/DT file-sharing/JJ system/NN relies/VBZ on/IN links/NNS called/VBD "trackers"/NN that/DT point/NN users/NNS to/TO others/NNS happy/JJ to/TO share/VB the/DT file/NN they/PRP are/VBP looking/VBG for./NN
+Shutting/VBG down/RP sites/NNS that/WDT listed/VBD trackers/NNS crippled/VBD the/DT BitTorrent/NNP network./NN
+One/CD of/IN the/DT sites/NNS shut/VBP down/RP by/IN the/DT legal/JJ campaign/NN was/VBD suprnova.org/NN which/WDT helped/VBD boost/VB the/DT popularity/NN of/IN the/DT BitTorrent/NNP system/NN by/IN checking/NN that/IN trackers/NNS led/VBN to/TO the/DT movies/NNS or/CC TV/NN programmes/NNS they/PRP claimed/VBD to./NN
+
+Now/RB the/DT man/NN behind/IN suprnova.org/NN who/WP goes/VBZ by/IN the/DT nickname/NN Sloncek/NNP is/VBZ preparing/VBG to/TO release/VB software/NN for/IN a/DT new/JJ file-swapping/JJ network/NN dubbed/VBN Exeem./NNP
+In/IN an/DT interview/NN with/IN Novastream/NNP web/NN radio/NN Sloncek/NNP said/VBD Exeem/NNP would/MD combine/VB ideas/NNS from/IN the/DT BitTorrent/NNP and/CC Kazaa/NNP file-sharing/JJ systems./NN
+Like/IN BitTorrent/NNP Exeem/NNP will/MD have/VB trackers/NNS that/WDT help/NN point/VB people/NNS toward/IN the/DT file/NN they/PRP want./VBP
+Like/IN Kazaa/NNP these/DT trackers/NNS will/MD be/VB held/VBN by/IN everyone./NN
+There/EX will/MD be/VB no/RB centrally/RB maintained/VBN list./NN
+This/DT said/VBD Sloncek/NNP should/MD make/VB the/DT system/NN less/RBR vulnerable/JJ to/TO legal/JJ action/NN aimed/VBN at/IN stopping/VBG people/NNS swapping/VBG pirated/VBN movies/NNS and/CC music./NN
+The/DT Exeem/NNP software/NN has/VBZ been/VBN under/IN development/NN for/IN a/DT few/JJ months/NNS and/CC is/VBZ currently/RB being/VBG tested/VBN by/IN a/DT closed/VBN group/NN of/IN users./NN
+An/DT early/JJ public/JJ version/NN of/IN the/DT software/NN should/MD be/VB available/JJ before/IN February./NNP
+Sloncek/NNP said/VBD that/IN currently/RB only/RB a/DT Windows/NNS version/NN of/IN the/DT software/NN was/VBD in/IN development./NN
+There/EX were/VBD no/DT plans/NNS for/IN a/DT Linux/NNP or/CC Mac/NNP version./NN
+He/PRP said/VBD that/IN costs/NNS of/IN writing/VBG the/DT software/NN will/MD be/VB paid/VBN for/IN by/IN adverts/NNS appearing/VBG in/IN the/DT finished/VBN version/NN of/IN the/DT program./NN
+Despite/IN Suprnova/NNP administrator/NN Sloncek's/NNP involvement/NN with/IN Exeem/NNP the/DT basic/JJ technology/NN appears/VBZ to/TO have/VB been/VBN developed/VBN by/IN a/DT firm/NN called/VBN Swarm/NNP Systems/NNPS that/WDT is/VBZ based/VBN on/IN Caribbean/NNP island/NN Saint/NNP Kitts/NNP and/CC Nevis./NNP
+
+Users/NNS of/IN the/DT Exeem/NNP system/NN will/MD be/VB able/JJ to/TO rate/VB files/NNS being/VBG swapped/VBN to/TO help/VB stop/VB the/DT spread/NN of/IN fake/JJ files/NNS Sloncek/NNP told/VBD Novastream./NNP
+
+Dr/NNP Johan/NNP Pouwelse/NNP a/DT researcher/NN at/IN the/DT Delft/NNP University/NNP of/IN Technology/NNP who/WP studies/VBZ peer-to-peer/JJ networks/NNS said/VBD Exeem/NNP was/VBD the/DT next/JJ evolution/NN in/IN file-sharing/JJ systems./NN
+But/CC he/PRP said/VBD it/PRP would/MD struggle/VB to/TO be/VB as/RB popular/JJ as/IN BitTorrent/NNP and/CC Suprnova/NNP because/IN early/JJ versions/NNS were/VBD not/RB taking/VBG enough/JJ care/NN to/TO make/VB sure/JJ good/JJ copies/NNS of/IN files/NNS were/VBD being/VBG shared./NN
+"Exeem/NN cannot/NN prevent/NN pollution"/NN he/PRP said./VB
+"The/NN rating/NN system/NN in/IN Exeem/NNP seems/VBZ flawed/VBN because/IN it/PRP is/VBZ easy/JJ to/TO insert/VB both/DT fake/JJ files/NNS and/CC fake/JJ ratings"/NN he/PRP said./VB
+Studies/NNS have/VBP shown/VBN that/IN organisations/NNS working/VBG for/IN record/NN labels/NNS and/CC movie/NN studios/NNS have/VBP worked/VBN to/TO undermine/VB Kazaa/NNP by/IN putting/VBG in/RP fakes./NN
+By/IN contrast/NN moderators/NNS on/IN Suprnova/NNP made/VBD sure/JJ files/NNS being/VBG shared/VBN were/VBD high/JJ quality./NN
+"The/NN moderators/NNS are/VBP the/DT difference/NN between/IN having/VBG a/DT system/NN that/WDT works/VBZ and/CC one/CD that's/NNS full/JJ of/IN crap/NN like/IN Kazaa"/NNP he/PRP said./VB
+"There/NN is/VBZ a/DT fundamental/JJ tension/NN between/IN distribution/NN and/CC integrity"/NN he/PRP said./VB
+Mr/NNP Pouwelse/NNP said/VBD that/IN future/JJ versions/NNS of/IN file-sharing/JJ systems/NNS are/VBP likely/JJ to/TO incorporate/VB some/DT kind/NN of/IN distributed/VBN reputation/NN system/NN that/WDT lets/VBZ moderators/NNS prove/VBP who/WP they/PRP are/VBP to/TO the/DT network/NN and/CC rate/NN which/WDT files/NNS are/VBP worth/JJ downloading./NN
+When/WRB big/JJ files/NNS were/VBD being/VBG shared/VBN moderation/NN systems/NNS were/VBD key/NN said/VBD Mr/NNP Pouwelse./NNP
+He/PRP added/VBD that/IN the/DT legal/JJ attacks/NNS on/IN BitTorrent/NNP had/VBD driven/VBN people/NNS away/RB from/IN sites/NNS such/JJ as/IN Suprnova/NNP but/CC many/JJ users/NNS had/VBD simply/RB migrated/VBN to/TO other/JJ tracker/NN listing/NN sites/NNS many/JJ of/IN which/WDT have/VBP seen/VBN huge/JJ increases/NNS in/IN traffic./NN
+"It's/NN hard/JJ to/TO compete/VB with/IN free"/NN he/PRP said./VB
+No-one/NNP from/IN the/DT Motion/NNP Picture/NNP Association/NNP of/IN America/NNP was/VBD immediately/RB available/JJ for/IN comment/NN on/IN the/DT file-sharing/JJ development./NN

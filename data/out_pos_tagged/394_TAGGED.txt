@@ -1,0 +1,11 @@
+US/PRP Airways/NNPS staff/NN agree/VBP to/TO pay/VB cut/NN
+
+A/DT union/NN representing/VBG 5200/CD flight/NN attendants/NNS at/IN bankrupt/JJ US/PRP Airways/NNPS have/VBP agreed/VBN to/TO a/DT new/JJ contract/NN that/IN cuts/NNS pay/VBP by/IN nearly/RB 10%./CD
+
+The/DT deal/NN will/MD help/VB the/DT carrier/NN trying/VBG to/TO survive/VB by/IN cutting/VBG costs/NNS by/IN nearly/RB $1bn/CD (£530m)/CD a/DT year/NN save/NN about/IN $94m./CD
+More/JJR than/IN two/CD thirds/NNS of/IN its/PRP$ 28000/CD staff/NN have/VBP now/RB accepted/VBN wage/NN cuts./NN
+But/CC talks/NNS are/VBP still/RB continuing/VBG with/IN a/DT union/NN representing/VBG mechanics/NNS baggage/NN handlers/NNS and/CC cleaners/NNS which/WDT has/VBZ so/RB far/RB failed/VBD to/TO negotiate/VB a/DT new/JJ contract./NN
+The/DT seventh/JJ largest/JJS carrier/NN in/IN the/DT US/PRP sought/VBD bankruptcy/NN protection/NN for/IN a/DT second/JJ time/NN in/IN two/CD years/NNS last/JJ September./NNP
+It/PRP had/VBD been/VBN one/CD of/IN the/DT quickest/JJS to/TO deal/VB with/IN difficulties/NNS faced/VBN by/IN the/DT aviation/NN industry/NN after/IN the/DT 9/11/CD attacks/NNS in/IN 2001./CD
+But/CC it/PRP emerged/VBD from/IN Chapter/NN 11/CD bankruptcy/NN in/IN March/NNP 2003/CD to/TO face/VB competition/NN from/IN low-cost/JJ carriers/NNS and/CC higher/JJR fuel/NN costs./NN
+US/PRP Airways/NNPS management/NN has/VBZ said/VBN it/PRP may/MD need/VB to/TO start/VB liquidating/VBG assets/NNS if/IN it/PRP does/VBZ not/RB receive/VB concessions/NNS from/IN all/DT staff/NN by/IN the/DT middle/NN of/IN this/DT month./NN

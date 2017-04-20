@@ -1,0 +1,25 @@
+Whitehall/NNP shredding/VBG increasing/VBG -/: Tories/NNS
+
+Civil/NN servants/NNS have/VBP drastically/RB stepped/VBN up/RP the/DT shredding/NN of/IN official/JJ documents/NNS figures/NNS compiled/VBN by/IN the/DT Tories/NNPS suggest./NN
+
+Some/DT government/NN departments/NNS had/VBD doubled/VBN the/DT number/NN of/IN documents/NNS being/VBG shredded/JJ ahead/RB of/IN the/DT Freedom/NNP of/IN Information/NNP Act's/NNP implementation/NN on/IN 1/CD January./NNP
+Departments/NNP for/IN defence/NN environment/NN and/CC trade/NN which/WDT had/VBD all/DT increased/VBN file/NN destruction/NN said/VBD they/PRP were/VBD following/VBG rules/NNS governing/VBG public/JJ records./NN
+But/CC the/DT Tories/NNPS want/VBP the/DT information/NN commissioner/NN to/TO investigate./VB
+The/DT Freedom/NNP of/IN Information/NNP Act/NNP will/MD for/IN the/DT first/JJ time/NN give/VBP members/NNS of/IN the/DT public/JJ access/NN to/TO government/NN records/NNS previously/RB kept/VBD secret/JJ for/IN 30/CD years./NN
+But/CC BBC/NNP Political/NNP Correspondent/NN James/NNP Hardy/NN said/VBD the/DT prospect/NN of/IN outsiders/NNS poking/VBG their/PRP$ noses/NNS into/IN the/DT inner/JJ workings/NNS of/IN Whitehall/NNP appeared/VBD to/TO be/VB causing/VBG jitters/NNS among/IN the/DT mandarins./NN
+
+Liberal/NNP Democrat/NNP Alan/NNP Beith/NNP -/: who/WP chairs/VBZ the/DT select/JJ committee/NN which/WDT monitors/VBZ the/DT Department/NNP of/IN Constitutional/NNP Affairs/NNP -/: said/VBD if/IN the/DT claims/NNS were/VBD true/JJ Whitehall/NNP was/VBD "acting/VBG entirely/RB against/IN the/DT spirit/NN of/IN the/DT new/JJ Act"./NNP
+"Both/NN the/DT information/NN commissioner/NN and/CC the/DT select/JJ committee/NN will/MD have/VB to/TO keep/VB this/DT issue/NN under/IN very/RB close/VBP scrutiny."/NN Fellow/NNP Lib/NNP Dem/NNP Norman/NNP Baker/NNP said/VBD the/DT episode/NN painted/VBD an/DT "unflattering/VBG picture/NN of/IN the/DT inner/JJ workings/NNS of/IN government"./NN
+"It/NN is/VBZ clear/JJ that/IN the/DT government's/NNS initial/JJ enthusiasm/NN for/IN open/JJ government/NN has/VBZ turned/VBN to/TO self-serving/JJ cynicism."/NN Dr/NNP Julian/NNP Lewis/NNP the/DT Conservative/JJ spokesman/NN for/IN the/DT Cabinet/NNP Office/NNP said/VBD he/PRP had/VBD discovered/VBN a/DT huge/JJ acceleration/NN in/IN shredding/VBG from/IN a/DT series/NN of/IN parliamentary/JJ answers./NN
+
+The/DT Department/NNP of/IN Work/NN and/CC Pensions/NNS destroyed/VBN nearly/RB 37000/CD files/NNS last/JJ year/NN -/: up/RP 22000/CD on/IN four/CD years/NNS ago/RB when/WRB the/DT Act/NNP was/VBD passed./NN
+The/DT number/NN of/IN files/NNS destroyed/VBN by/IN the/DT Ministry/NNP of/IN Defence/NNP and/CC the/DT departments/NNS of/IN Environment/NNP Food/NNP and/CC Rural/NNP Affairs/NNP and/CC Trade/NNP and/CC Industry/NNP has/VBZ also/RB risen/VBN dramatically./NN
+Dr/NNP Lewis/NNP has/VBZ called/VBN for/IN an/DT investigation/NN by/IN the/DT information/NN commissioner/NN Richard/NNP Thomas./NNP
+Earlier/RBR this/DT week/NN Mr/NNP Thomas/NNP said/VBD he/PRP was/VBD looking/VBG into/IN Cabinet/NNP Office/NNP orders/NNS telling/VBG staff/NN to/TO delete/VB e-mails/NNS more/JJR than/IN three/CD months/NNS old./NN
+He/PRP said/VBD he/PRP "totally/RB condemned"/VBP the/DT deletion/NN of/IN e-mails/NNS to/TO prevent/VB their/PRP$ disclosure/NN under/IN freedom/NN of/IN information/NN laws/NNS coming/VBG into/IN force/NN on/IN 1/CD January./NNP
+
+Government/NNP guidance/NN said/VBD e-mails/NNS should/MD only/RB be/VB deleted/VBN if/IN they/PRP served/VBD "no/NN current/JJ purpose"/NN Mr/NNP Thomas/NNP said./NN
+A/DT Cabinet/NNP Office/NNP spokeswoman/NN said/VBD the/DT move/NN was/VBD not/RB about/IN the/DT new/JJ laws/NNS or/CC "the/NN destruction/NN of/IN important/JJ records"./NN
+The/DT Freedom/NNP of/IN Information/NNP Act/NNP will/MD cover/VB England/NNP Wales/NNP and/CC Northern/NNP Ireland/NNP from/IN next/JJ year./NN
+Similar/JJ measures/NNS are/VBP being/VBG brought/VBN in/RP at/IN the/DT same/JJ time/NN in/IN Scotland./NNP
+It/PRP provides/VBZ the/DT public/JJ with/IN a/DT right/NN of/IN access/NN to/TO information/NN held/VBN by/IN about/IN 100000/CD public/JJ bodies/NNS subject/JJ to/TO various/JJ exemptions./NN

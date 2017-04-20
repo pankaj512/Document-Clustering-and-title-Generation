@@ -1,0 +1,13 @@
+Holmes/NNP is/VBZ hit/VBN by/IN hamstring/VBG injury/NN
+
+Kelly/NNP Holmes/NNP has/VBZ been/VBN forced/VBN out/IN of/IN this/DT weekend's/NNS European/JJ Indoor/JJ Athletics/NNP Championships/NNS after/IN picking/VBG up/RP a/DT hamstring/VBG injury/NN during/IN training./NN
+
+The/DT double/JJ Olympic/NNP champion/NN said/VBD "I/NN am/VBP very/RB disappointed/VBN that/IN I/PRP have/VBP been/VBN forced/VBN to/TO withdraw./VB
+"I/NN can/MD hardly/RB walk/VB at/IN the/DT moment/NN and/CC I/PRP won't/VBP be/VB able/JJ to/TO do/VB any/DT running/NN for/IN two/CD or/CC three/CD weeks/NNS although/IN I'll/NNP be/VB keeping/VBG fit/NN as/IN best/JJS I/PRP can."/VBP Holmes/NNP will/MD have/VB now/RB have/VBP intensive/JJ treatment/NN in/IN South/NNP Africa./NNP
+
+The/DT 34-year-old/JJ made/VBD a/DT cautious/JJ start/NN to/TO the/DT season/NN but/CC looked/VBD back/RB to/TO her/PRP$ best/JJS when/WRB she/PRP stormed/VBD to/TO the/DT 1000m/CD title/NN at/IN the/DT Birmingham/NNP Grand/NNP Prix/NNP 10/CD days/NNS ago./NN
+After/IN that/DT race/NN and/CC more/JJR progress/NN in/IN training/NN Holmes/NNP revealed/VBD she/PRP had/VBD decided/VBN to/TO compete/VB at/IN the/DT European/NNP Indoors/NNP before/IN her/PRP$ plans/NNS were/VBD wrecked/VBN last/JJ weekend./NN
+"On/NNP Saturday/NNP night/NN I/PRP pulled/VBD my/PRP$ hamstring/NN running/VBG the/DT last/JJ bend/NN on/IN my/PRP$ final/JJ 200m/CD of/IN the/DT night"/NN said/VBD Holmes./NNP
+"I/NN was/VBD going/VBG really/RB really/RB well/RB when/WRB I/PRP felt/VBD a/DT massive/JJ spasm/NN in/IN my/PRP$ left/VBN leg/NN and/CC my/PRP$ hamstring/VBG blew./NN
+"I/NN saw/VBD the/DT doctor/NN here/RB and/CC he/PRP has/VBZ said/VBN it/PRP is/VBZ not/RB serious/JJ but/CC it's/NNS frustrating/JJ missing/NN Madrid/NNP when/WRB I/PRP knew/VBD I/PRP was/VBD in/IN great/JJ shape."/NN Holmes/NNP has/VBZ now/RB been/VBN advised/VBN by/IN her/PRP$ coach/NN Margot/NNP Jennings/NNP not/RB to/TO rush/VB back/RB into/IN training/NN and/CC it/PRP is/VBZ unlikely/JJ she/PRP will/MD compete/VB again/RB until/IN the/DT summer./NN
+Helen/NNP Clitheroe/NNP now/RB goes/VBZ to/TO Madrid/NNP as/IN the/DT only/JJ British/JJ competitor/NN in/IN the/DT women's/NNS 1500m/CD while/IN there/EX will/MD be/VB no/DT representative/NN in/IN the/DT 800m./CD

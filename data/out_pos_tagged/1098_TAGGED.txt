@@ -1,0 +1,21 @@
+Tories/NNS opposing/VBG 24-hour/JJ drinking/NN
+
+The/DT Tories/NNPS say/VBP plans/NNS to/TO extend/VB pub/NN opening/NN times/NNS should/MD be/VB put/VBN on/IN hold/NN until/IN binge/NN drinking/NN is/VBZ under/IN control/NN despite/IN backing/VBG a/DT law/NN change/NN last/JJ year./NN
+
+Spokesman/NNP David/NNP Davis/NNP said/VBD ministers/NNS had/VBD failed/VBN to/TO make/VB his/PRP$ party/NN aware/JJ of/IN concern/NN among/IN senior/JJ police/NNS that/IN plans/NNS would/MD cause/VB more/RBR anti-social/JJ behaviour./NN
+Notts/NNP police/NN chief/NN Steve/NNP Green/NNP said/VBD innocent/JJ people/NNS would/MD suffer./VB
+But/CC Culture/NNP Secretary/NNP Tessa/NNP Jowell/NNP said/VBD a/DT delay/NN would/MD be/VB "disastrous"/NN and/CC she/PRP accused/VBD the/DT Tories/NNPS of/IN opportunism./NN
+The/DT government/NN would/MD go/VB ahead/RB with/IN the/DT changes/NNS which/WDT would/MD give/VB police/NN more/JJR power/NN to/TO tackle/VB excessive/JJ drinking/NN she/PRP added./VBP
+Earlier/RBR chief/JJ constable/JJ Green/NNP questioned/VBD how/WRB his/PRP$ officers/NNS would/MD be/VB able/JJ to/TO practically/RB apply/VB powers/NNS allowing/VBG them/PRP to/TO shut/VB down/RP problem/NN premises./NN
+"If/NN you/PRP look/VBP at/IN the/DT Market/NNP Square/NNP in/IN Nottingham/NNP if/IN a/DT fight/NN takes/VBZ place/NN which/WDT licensed/VBD premises/NNS do/VBP you/PRP go/VBP and/CC lay/VBD the/DT responsibilty/NN at/IN the/DT door/NN of?"/NN he/PRP asked/VBD on/IN BBC/NNP Radio/NNP 4's/CD World/NNP at/IN One/CD programme./NN
+
+He/PRP warned/VBD that/IN if/IN drinking/NN establishments/NNS were/VBD allowed/VBN to/TO open/VB until/IN three/CD or/CC four/CD in/IN the/DT morning/NN the/DT police/NN would/MD have/VB to/TO take/VB officers/NNS off/IN day/NN shifts/NNS in/IN order/NN to/TO do/VB their/PRP$ job/NN effectively/RB at/IN night./NN
+Earlier/RBR this/DT year/NN the/DT Royal/NNP College/NNP of/IN Physicians/NNPS said/VBD it/PRP opposed/VBD the/DT plan/NN to/TO extend/VB drinking/NN hours/NNS when/WRB there/EX was/VBD already/RB an/DT "epidemic"/NN of/IN binge/NN drinking./NN
+Minister/NNP Richard/NNP Caborn/NNP said/VBD the/DT government/NN was/VBD tackling/VBG the/DT causes/NNS and/CC the/DT symptoms/NNS of/IN the/DT problem/NN by/IN allowing/VBG more/JJR powers/NNS to/TO close/VB down/RP problem/NN premises./NN
+It/PRP is/VBZ hoped/VBN that/IN allowing/VBG pubs/NNS and/CC clubs/NNS to/TO stay/VB open/JJ longer/RB will/MD stagger/VB closing/NN times/NNS and/CC end/VB the/DT current/JJ situation/NN where/WRB drinkers/NNS spill/VBP on/RP to/TO the/DT streets/NNS all/DT at/IN once./NN
+Earlier/RBR Tony/NNP Blair/NNP defended/VBD the/DT plans/NNS against/IN criticism/NN from/IN one/CD of/IN his/PRP$ own/JJ backbenchers./NN
+
+"My/NN view/NN of/IN this/DT is/VBZ very/RB clear/JJ we/PRP should/MD have/VB the/DT same/JJ flexibility/NN that/IN other/JJ countries/NNS have/VBP and/CC then/RB we/PRP should/MD come/VB down/RP really/RB hard/RB on/IN those/DT who/WP abuse/VBP that/DT freedom/NN and/CC don't/NN show/NN the/DT responsibility"/NN he/PRP told/VBD MPs./NNP
+"The/NN law-abiding/JJ majority/NN who/WP want/VBP the/DT ability/NN after/IN going/VBG to/TO the/DT cinema/NN or/CC theatre/FW say/VBP to/TO have/VB a/DT drink/NN at/IN the/DT time/NN they/PRP want/VBP should/MD not/RB be/VB inconvenienced/VBN we/PRP shouldn't/VBP have/VBP to/TO have/VB restrictions/NNS that/IN no/DT other/JJ city/NN in/IN Europe/NNP has/VBZ just/RB in/IN order/NN to/TO do/VB something/NN for/IN that/DT tiny/JJ minority/NN who/WP abuse/VBP alcohol/NN who/WP go/VBP out/RB and/CC fight/NN and/CC cause/VB disturbances./JJ
+"To/NN take/NN away/RB that/DT ability/NN for/IN all/PDT the/DT population/NN -/: even/RB the/DT vast/JJ majority/NN who/WP are/VBP law/NN abiding/VBG -/: is/VBZ not/RB in/IN my/PRP$ view/NN sensible."/NN This/DT week/NN a/DT judge/NN claimed/VBD easy/JJ access/NN to/TO drink/NN was/VBD breeding/VBG "urban/NN savages"/NN and/CC turning/VBG town/NN centres/NNS into/IN no/DT go/NN areas./NN
+Judge/NNP Charles/NNP Harris/NNP QC/NNP made/VBD his/PRP$ remarks/NNS as/IN he/PRP sentenced/VBD three/CD men/NNS for/IN assaults/NNS carried/VBD out/RP while/IN drunk/JJ and/CC high/JJ on/IN drugs/NNS after/IN a/DT night/NN out./NN

@@ -1,0 +1,9 @@
+Munster/NNP Cup/NNP tie/VB switched/VBD to/TO Spain/NNP
+
+Munster's/NNP Heineken/NNP Cup/NNP quarter-final/JJ tie/NN against/IN Biarritz/NNP on/IN 3/CD April/NNP has/VBZ been/VBN switched/VBN to/TO Real/JJ Sociedad's/NNP Paseo/NNP de/IN Anoeta/NNP stadium/NN in/IN San/NNP Sebastian./NNP
+
+Real's/NNP ground/NN holds/VBZ 32000/CD whereas/IN the/DT Parc/NNP des/FW Sports/NNP Aguilera/NNP in/IN Biarritz/NNP has/VBZ a/DT capacity/NN of/IN just/RB 12667./CD
+The/DT Irish/JJ province/NN will/MD be/VB given/VBN at/IN least/JJS 8000/CD tickets./NN
+"The/NN decision/NN to/TO move/VB was/VBD a/DT difficult/JJ one/CD but/CC as/IN we/PRP considered/VBD the/DT fans/NNS as/IN one/CD of/IN our/PRP$ primary/JJ objectives"/NN said/VBD Biarritz/NNP chairman/NN Marcel/NNP Martin./NNP
+"We/NN hope/NN we/PRP will/MD be/VB rewarded/VBN as/IN a/DT huge/JJ crowd/NN behaving/VBG in/IN the/DT best/JJS rugby/NN tradition."/NN The/DT match/NN will/MD be/VB the/DT first/JJ Heineken/NNP Cup/NNP fixture/NN to/TO be/VB played/VBN in/IN Spain/NNP and/CC is/VBZ expected/VBN to/TO attract/VB the/DT biggest-ever/JJ attendance/NN for/IN a/DT rugby/NN match/NN in/IN the/DT country./NN
+Ulster/NNP were/VBD the/DT last/JJ Irish/JJ team/NN to/TO play/VB at/IN the/DT Paseo/NNP de/IN Anoeta/NNP stadium/NN where/WRB they/PRP faced/VBD a/DT Euskarians/NNPS side/NN during/IN a/DT pre-season/JJ tour/NN in/IN 1998./CD

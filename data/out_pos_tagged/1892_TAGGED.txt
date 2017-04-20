@@ -1,0 +1,24 @@
+Creator/NNP of/IN first/JJ Apple/NNP Mac/NNP dies/VBZ
+
+Jef/NNP Raskin/NNP head/NN of/IN the/DT team/NN behind/IN the/DT first/JJ Macintosh/NNP computer/NN has/VBZ died./NN
+
+Mr/NNP Raskin/NNP was/VBD one/CD of/IN the/DT first/JJ employees/NNS at/IN Apple/NNP and/CC made/VBN many/JJ of/IN the/DT design/NN decisions/NNS that/WDT made/VBD the/DT Mac/NNP so/RB distinctive/JJ when/WRB it/PRP was/VBD first/JJ released./NN
+He/PRP led/VBD the/DT team/NN that/WDT decided/VBD to/TO use/VB a/DT graphical/JJ interface/JJ and/CC mouse/NN that/WDT let/NN people/NNS navigate/VB around/IN the/DT computer/NN by/IN pointing/VBG and/CC clicking./NN
+The/DT 1984/CD release/NN of/IN the/DT Mac/NNP reflected/VBD Mr/NNP Raskin's/NNP belief/NN that/IN good/JJ design/NN should/MD make/VB computers/NNS easy/JJ to/TO use./VB
+
+Mr/NNP Raskin/NNP joined/VBD Apple/NNP in/IN 1978/CD as/IN employee/NN number/NN 31/CD initially/RB to/TO lead/VB the/DT company's/NNS publications/NNS department./NN
+However/RB in/IN 1979/CD he/PRP was/VBD put/VBN in/IN charge/NN of/IN a/DT small/JJ team/NN to/TO design/VB a/DT computer/NN that/WDT lived/VBD up/RP to/TO his/PRP$ idea/NN of/IN a/DT machine/NN that/WDT was/VBD cheap/JJ aimed/VBN at/IN consumers/NNS rather/RB than/IN computer/NN professionals/NNS and/CC was/VBD very/RB easy/JJ to/TO use./VB
+
+The/DT result/NN was/VBD the/DT 1984/CD Macintosh/NNP that/WDT did/VBD away/RB with/IN the/DT then/RB common/JJ text-based/JJ interface/NN in/IN favour/NN of/IN one/CD based/VBN around/IN graphics/NNS that/WDT resembled/VBD a/DT virtual/JJ desktop/NN and/CC used/VBN folders/NNS and/CC documents./NN
+Users/NNS navigated/VBN around/IN the/DT machine/NN using/VBG a/DT mouse/NN and/CC by/IN pointing/VBG clicking/VBG and/CC dragging./NN
+Although/IN now/RB in/IN common/JJ use/NN in/IN almost/RB all/DT computers/NNS these/DT methods/NNS were/VBD pioneering/JJ when/WRB first/RB used/VBN in/IN the/DT Macintosh./NNP
+The/DT GUI/NNP was/VBD developed/VBN by/IN Xerox/NNP PARC/NNP and/CC used/VBN in/IN its/PRP$ Star/NNP machine./NN
+But/CC the/DT acceptance/NN of/IN the/DT interface/NN did/VBD not/RB truly/RB begin/VB until/IN the/DT concept/NN was/VBD developed/VBN for/IN use/NN by/IN Apple/NNP in/IN its/PRP$ pioneering/JJ Lisa/NNP computer./NN
+"His/NN role/NN on/IN the/DT Macintosh/NNP was/VBD the/DT initiator/NN of/IN the/DT project/NN so/IN it/PRP wouldn't/NN be/VB here/RB if/IN it/PRP weren't/NN for/IN him"/NN said/VBD Andy/NNP Hertzfeld/NNP an/DT early/JJ Macintosh/NNP team/NN member./NN
+Although/IN Mr/NNP Raskin/NNP drove/VBD the/DT team/NN that/WDT created/VBD the/DT Macintosh/NNP he/PRP did/VBD not/RB stay/VB at/IN Apple/NNP to/TO see/VB it/PRP released./NN
+In/IN 1981/CD he/PRP was/VBD removed/VBN from/IN the/DT project/NN following/VBG a/DT dispute/NN with/IN Apple's/NNP mercurial/JJ boss/NN Steve/NNP Jobs./NNP
+In/IN 1982/CD Mr/NNP Raskin/NNP left/VBD Apple/NNP entirely./NN
+The/DT Macintosh/NNP was/VBD reputedly/RB named/VBN after/IN Mr/NNP Raskin's/NNP favourite/NN apple/NN though/IN the/DT name/NN was/VBD changed/VBN slightly/RB following/VBG a/DT trademark/NN dispute/NN with/IN another/DT company./NN
+After/IN leaving/VBG Apple/NNP Mr/NNP Raskin/NNP founded/VBD another/DT company/NN called/VBN Information/NNP Appliance/NN and/CC continued/VBD to/TO work/VB on/IN better/JJR ways/NNS to/TO interface/JJ with/IN computers./NN
+He/PRP was/VBD also/RB an/DT accomplished/VBN musician/NN played/VBD three/CD instruments/NNS and/CC conducted/VBD San/NNP Francisco's/NNP Chamber/NNP Opera/NNP Society./NNP
+Mr/NNP Raskin/NNP was/VBD diagnosed/VBN in/IN December/NNP 2004/CD with/IN pancreatic/JJ cancer/NN and/CC died/VBD on/IN 26/CD February/NNP at/IN his/PRP$ home/NN in/IN California./NNP

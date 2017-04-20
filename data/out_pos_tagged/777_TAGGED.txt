@@ -1,0 +1,15 @@
+T/NNP in/IN the/DT Park/NNP sells/VBZ out/RP in/IN days/NNS
+
+Tickets/NNS for/IN Scotland's/NNP biggest/JJS music/NN festival/NN have/VBP sold/VBN out/RP in/IN record/NN time/NN five/CD months/NNS before/IN the/DT event/NN is/VBZ held./NN
+
+The/DT 12th/JJ annual/JJ T/NNP in/IN the/DT Park/NNP festival/NN which/WDT takes/VBZ place/NN at/IN Balado/NNP near/IN Kinross/NNP in/IN July/NNP sold/VBD out/RP just/RB four/CD days/NNS after/IN the/DT line-up/NN was/VBD announced./NN
+Green/NNP Day/NNP the/DT Foo/NNP Fighters/NNS and/CC Keane/NNP are/VBP among/IN the/DT acts/NNS that/WDT had/VBD already/RB been/VBN lined/VBN up/RP to/TO appear/VB at/IN the/DT event./NN
+However/RB the/DT organisers/NNS have/VBP revealed/VBN Scots/NNP favourites/NNS Travis/NNP as/RB well/RB as/IN soulman/NN James/NNP Brown/NNP will/MD also/RB appear./VB
+
+Last/JJ year/NN tickets/NNS sold/VBD out/RP 10/CD weeks/NNS before/IN the/DT festival/NN but/CC organisers/NNS confirmed/VBD that/IN all/DT 130000/CD for/IN the/DT two-day/JJ event/NN had/VBD been/VBN sold./NN
+Geoff/NNP Ellis/NNP CEO/NNP of/IN festival/NN organisers/NNS Big/NNP Day/NNP Out/IN Ltd/NNP said/VBD this/DT year's/NNS event/NN promises/VBZ to/TO be/VB the/DT best/JJS yet./NN
+"After/NN last/JJ year's/NNS sell-out/JJ we/PRP did/VBD think/VB this/DT year's/NNS event/NN would/MD sell/VB slightly/RB earlier/RBR however/RB this/DT is/VBZ way/NN beyond/IN our/PRP$ expectations"/NN Mr/NNP Ellis/NNP said./NN
+
+"We/NN are/VBP extremely/RB proud/JJ that/IN fans/NNS are/VBP so/RB excited/JJ about/IN T/NNP in/IN the/DT Park/NNP that/IN they/PRP have/VBP made/VBN absolutely/RB sure/JJ that/IN their/PRP$ place/NN at/IN Balado/NNP is/VBZ booked/VBN for/IN 2005/CD and/CC we/PRP will/MD deliver/VB one/CD of/IN the/DT greatest/JJS events/NNS yet/RB for/IN them/PRP in/IN July."/NNP More/JJR than/IN 120/CD acts/NNS will/MD play/VB on/IN eight/CD stages/NNS over/IN the/DT weekend/NN of/IN 9/CD and/CC 10/CD July./NNP
+Brit/NNP Award/NN winners/NNS Keane/NNP and/CC The/DT Streets/NNPS are/VBP among/IN the/DT main/JJ attractions/NNS while/IN The/DT Killers/NNS and/CC dance/NN act/NN The/DT Prodigy/NN are/VBP also/RB on/IN the/DT bill./NN
+Both/DT Green/NNP Day/NNP and/CC The/DT Foo/NNP Fighters/NNS last/NN played/VBD at/IN the/DT festival/NN in/IN 2002/CD the/DT same/JJ year/NN Oasis/NNP and/CC Basement/NN Jaxx/NNP were/VBD among/IN the/DT headline/NN acts./NN

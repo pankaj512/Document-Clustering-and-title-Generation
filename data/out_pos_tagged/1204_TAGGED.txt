@@ -1,0 +1,13 @@
+Tory/NNP 'stalking/VBG horse'/NN Meyer/NNP dies/VBZ
+
+Sir/NNP Anthony/NNP Meyer/NNP the/DT Tory/NNP backbencher/NN who/WP challenged/VBD Margaret/NNP Thatcher/NNP for/IN the/DT party/NN leadership/NN in/IN 1989/CD has/VBZ died./NN
+
+He/PRP was/VBD 84/CD had/VBD been/VBN suffering/VBG from/IN cancer/NN for/IN many/JJ months/NNS and/CC died/VBD at/IN his/PRP$ London/NNP home./NN
+That/DT failed/VBD "stalking/VBG horse"/NN leadership/NN challenge/NN made/VBD it/PRP easier/JJR for/IN Michael/NNP Heseltine/NNP to/TO mount/VB his/PRP$ own/JJ bid./NN
+That/DT in/IN turn/NN paved/JJ the/DT way/NN for/IN John/NNP Major/NNP to/TO move/VB into/IN 10/CD Downing/NNP Street/NNP after/IN the/DT second/JJ ballot./NN
+Meyer's/NNP constituency/NN party/NN Clwyd/NNP North/NNP West/NNP which/WDT he/PRP had/VBD represented/VBN as/IN an/DT MP/NNP for/IN more/JJR than/IN 20/CD years/NNS deselected/VBD him/PRP as/IN a/DT result/NN of/IN that/DT challenge./NN
+Sir/NNP Anthony/NNP John/NNP Charles/NNP Meyer/NNP was/VBD born/VBN on/IN 27/CD October/NNP 1920./CD
+Educated/VBN at/IN Eton/NNP and/CC at/IN New/NNP College/NNP Oxford/NNP he/PRP served/VBD in/IN the/DT Scots/NNP Guards/NNS from/IN 1941/CD to/TO 1945/CD and/CC was/VBD wounded/VBN in/IN tanks/NNS in/IN Normandy./NNP
+He/PRP worked/VBD under/IN Edward/NNP Heath/NNP on/IN Europe/NNP at/IN the/DT Foreign/NNP Office/NNP and/CC subsequently/RB won/VBD the/DT Eton/NNP and/CC Slough/NNP seat/NN for/IN the/DT Tories/NNPS in/IN 1964/CD -/: by/IN 11/CD votes./NN
+Labour/NNP regained/VBD the/DT seat/NN two/CD years/NNS later/RB and/CC Meyer/NNP had/VBD to/TO wait/VB until/IN 1970/CD before/IN he/PRP could/MD re-enter/VB Parliament./NNP
+His/PRP$ prospects/NNS of/IN a/DT front/JJ bench/NN slot/NN remained/VBD remote/JJ because/IN he/PRP tended/VBD to/TO defy/VB the/DT party/NN line./NN

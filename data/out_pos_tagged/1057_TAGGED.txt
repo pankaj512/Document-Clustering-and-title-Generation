@@ -1,0 +1,20 @@
+Turkey/NNP deal/NN 'to/NN help/NN world/VB peace'/NN
+
+A/DT deal/NN bringing/VBG Turkey/NNP a/DT step/NN closer/JJR to/TO EU/NNP membership/NN is/VBZ of/IN "fundamental/JJ importance"/NN to/TO the/DT peace/NN and/CC security/NN of/IN the/DT world/NN Tony/NNP Blair/NNP has/VBZ said./NN
+
+The/DT deal/NN struck/VBD at/IN the/DT European/NNP Council/NNP last/JJ week/NN also/RB proved/VBD claims/NNS of/IN a/DT clash/NN between/IN Muslims/NNPS and/CC Christians/NNS were/VBD "wrong"/NN Mr/NNP Blair/NNP said./NN
+It/PRP represented/VBD the/DT achievement/NN of/IN an/DT "historic/JJ British/JJ objective"/NN he/PRP added./VB
+Tory/NNP leader/NN Michael/NNP Howard/NNP said/VBD the/DT deal/NN laid/VBN to/TO rest/VB any/DT suggestion/NN the/DT EU/NNP was/VBD "anti-Islamic"./JJ
+
+Turkey's/NNP involvement/NN with/IN the/DT EU/NNP would/MD provide/VB an/DT "invaluable/JJ bridge"/NN between/IN Europe/NNP and/CC the/DT rest/NN of/IN the/DT world/NN Mr/NNP Howard/NNP added./NN
+But/CC the/DT Tory/NNP leader/NN argued/VBD that/IN the/DT EU/NNP constitution/NN was/VBD not/RB designed/VBN to/TO take/VB in/IN a/DT country/NN as/RB large/JJ as/IN Turkey./NNP
+Mr/NNP Blair/NNP has/VBZ been/VBN a/DT leading/VBG advocate/NN of/IN Turkish/JJ membership/NN despite/IN controversy/NN surrounding/VBG the/DT idea./NN
+He/PRP insisted/VBD that/IN the/DT Turkish/JJ leadership/NN had/VBD made/VBN great/JJ advances/NNS in/IN improving/VBG its/PRP$ human/JJ rights/NNS records./NN
+The/DT deal/NN to/TO open/VB formal/JJ talks/NNS with/IN Ankara/NNP came/VBD despite/IN an/DT EU/NNP demand/NN for/IN Turkey/NNP to/TO recognise/VB Cyprus./NNP
+
+It/PRP was/VBD agreed/VBN the/DT issue/NN can/MD be/VB tackled/VBN at/IN a/DT later/JJ date/NN but/CC Turkish/JJ premier/NN Recep/NNP Erdogan/NNP had/VBD to/TO accept/VB negotiations/NNS did/VBD not/RB guarantee/VB his/PRP$ country/NN full/JJ EU/NNP membership./NN
+The/DT internationally/RB recognised/VBN southern/JJ part/NN of/IN Cyprus/NNP is/VBZ an/DT EU/NNP member/NN but/CC Turkey/NNP which/WDT occupies/VBZ northern/JJ Cyprus/NNP had/VBD previously/RB insisted/VBN it/PRP would/MD not/RB bow/VB to/TO demands/NNS to/TO recognise/VB the/DT country/NN calling/VBG the/DT issue/NN a/DT "red/VBN line"./NN
+It/PRP could/MD take/VB up/IN to/TO 15/CD years/NNS before/IN Turkey/NNP is/VBZ able/JJ to/TO join/VB and/CC entry/NN cannot/NN be/VB guaranteed./NN
+If/IN it/PRP joins/VBZ Turkey/NNP may/MD have/VB to/TO accept/VB restrictions/NNS to/TO limit/VB migration/NN by/IN its/PRP$ citizens./NN
+The/DT EU/NNP has/VBZ also/RB announced/VBN that/IN it/PRP will/MD start/VB accession/NN talks/NNS with/IN Croatia/NNP in/IN April/NNP 2005./CD
+However/RB talks/NNS will/MD begin/VB only/RB if/IN the/DT country/NN co-operates/NNS fully/RB with/IN the/DT UN/NNP war/NN crimes/NNS tribunal/NN for/IN the/DT former/JJ Yugoslavia./NNP

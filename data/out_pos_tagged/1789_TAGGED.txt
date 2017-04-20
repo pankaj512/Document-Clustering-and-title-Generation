@@ -1,0 +1,159 @@
+Henman/NN to/TO face/VB Saulnier/NNP test/NN
+
+British/JJ number/NN one/CD Tim/NNP Henman/NNP will/MD face/VB France's/NNP Cyril/NNP Saulnier/NNP in/IN the/DT first/JJ round/NN of/IN next/JJ week's/NNS Australian/JJ Open./NNP
+
+Greg/NNP Rusedski/NNP the/DT British/JJ number/NN two/CD is/VBZ in/IN the/DT same/JJ quarter/NN of/IN the/DT draw/NN and/CC could/MD face/VB Andy/NNP Roddick/NNP in/IN the/DT second/JJ round/NN if/IN he/PRP beats/VBZ Swede/NN Jonas/NNP Bjorkman./NNP
+Local/JJ favourite/NN Lleyton/NNP Hewitt/NNP will/MD meet/VB France's/NNP Arnaud/NNP Clement/NN while/IN defending/VBG champion/NN and/CC world/NN number/NN one/CD Roger/NNP Federer/NNP faces/VBZ Fabrice/NNP Santoro./NNP
+Women's/NNP top/JJ seed/NN Lindsay/NNP Davenport/NNP drew/VBD Spanish/JJ veteran/NN Conchita/NNP Martinez./NNP
+
+Henman/NNP came/VBD from/IN two/CD sets/NNS down/RB to/TO defeat/VB Saulnier/NNP in/IN the/DT first/JJ round/NN of/IN the/DT French/JJ Open/NNP last/JJ year/NN so/IN he/PRP knows/VBZ he/PRP faces/VBZ a/DT tough/JJ test/NN in/IN Melbourne./NNP
+The/DT seventh/JJ seed/NN who/WP has/VBZ never/RB gone/VBN beyond/IN the/DT quarter-finals/NNS in/IN the/DT year's/NNS first/RB major/JJ and/CC is/VBZ lined/VBN up/RP to/TO meet/VB Roddick/NNP in/IN the/DT last/JJ eight/CD is/VBZ looking/VBG forward/RB to/TO the/DT match./NN
+"He's/NN tough/JJ player/NN on/IN any/DT surface/NN he's/NNS got/VBD a/DT lot/NN of/IN ability"/NN he/PRP said./VB
+"We/NN had/VBD a/DT really/RB tight/JJ one/CD in/IN Paris/NNP that/WDT went/VBD my/PRP$ way/NN so/RB I'm/NNP going/VBG to/TO need/VB to/TO play/VB well/RB from/IN the/DT outset/NN because/IN he's/NNS a/DT dangerous/JJ competitor."/NN Switzerland's/NNP Federer/NNP seeded/VBD one/CD is/VBZ the/DT hot/JJ favourite/NN having/VBG won/VBD three/CD of/IN the/DT four/CD grand/JJ slam/NN titles/NNS in/IN 2004./CD
+He/PRP has/VBZ beaten/VBN Santoro/NNP in/IN five/CD of/IN their/PRP$ seven/CD previous/JJ encounters/NNS but/CC is/VBZ taking/VBG nothing/NN for/IN granted./NN
+"It's/NN a/DT tricky/JJ match"/NN Federer/NNP said./NN
+"I/NN played/VBD him/PRP at/IN the/DT US/PRP Open/NNP and/CC won/VBD quite/RB comfortably/RB then./NN
+But/CC you/PRP never/RB know/VBP if/IN the/DT rhythm/NN is/VBZ a/DT bit/NN off/RP he/PRP can/MD keep/VB you/PRP guessing/VBG and/CC make/VB it/PRP difficult./NN
+"The/NN most/RBS important/JJ thing/NN though/IN is/VBZ to/TO get/VB used/VBN to/TO playing/VBG five-set/JJ matches/NNS and/CC winning/VBG them."/NN The/DT 23-year-old/NN could/MD meet/VB four-time/JJ champion/NN Andre/NNP Agassi/NNP in/IN the/DT quarter-finals/NNS before/IN meeting/NN Russian/JJ Marat/NNP Safin/NNP the/DT player/NN he/PRP beat/VB in/IN last/JJ year's/NNS final./NN
+
+Eighth-seeded/NNP American/NNP Agassi/NNP is/VBZ set/VBN to/TO play/VB a/DT qualifier/NN in/IN round/NN one/CD if/IN he/PRP can/MD shake/VB off/RP a/DT hip/NN injury/NN which/WDT ruled/VBD him/PRP out/IN of/IN the/DT Kooyong/NNP Classic./NNP
+Second/JJ seed/NN Andy/NNP Roddick/NNP will/MD open/VB his/PRP$ campaign/NN against/IN Irakli/NNP Labadze/NNP of/IN Georgia./NNP
+The/DT American/NNP could/MD meet/VB Rusedski/NNP in/IN the/DT second/JJ round/NN seventh/JJ seed/NN Henman/NNP in/IN the/DT quarter-finals/NNS and/CC Hewitt/NNP in/IN the/DT last/JJ four./NN
+Hewitt/NNP is/VBZ hoping/VBG to/TO become/VB the/DT first/JJ Australian/JJ man/NN to/TO win/VB the/DT event/NN since/IN Mark/NNP Edmondson/NNP in/IN 1976./CD
+The/DT 23-year-old/JJ has/VBZ never/RB been/VBN beyond/IN round/NN four/CD in/IN eight/CD attempts/NNS at/IN Melbourne/NNP Park/NNP but/CC has/VBZ at/IN least/JJS secured/VBN the/DT opposite/JJ half/NN of/IN the/DT draw/NN to/TO Federer/NNP who/WP beat/VBP him/PRP in/IN the/DT Australian/NNP Open/NNP Wimbledon/NNP and/CC US/PRP Open/NNP last/JJ year./NN
+Safin/NNP seeded/VBD four/CD opens/VBZ his/PRP$ campaign/NN against/IN a/DT qualifier/NN with/IN 16th/JJ seed/NN Tommy/NNP Haas/NNP the/DT player/NN he/PRP beat/VB in/IN the/DT semi-finals/NNS in/IN 2002/CD a/DT possible/JJ fourth-round/JJ opponent./NN
+
+In/IN the/DT women's/NNS draw/VBP Davenport/NNP could/MD encounter/VB eighth-seeded/JJ Venus/NNP Williams/NNP in/IN the/DT quarter-finals/NNS and/CC third-ranked/JJ Anastasia/NNP Myskina/NNP the/DT French/JJ Open/NNP champion/NN in/IN the/DT semi-finals./JJ
+Bronchitis/NNP ruled/VBD Davenport/NNP the/DT 2000/CD Australian/JJ Open/NNP champion/NN out/IN of/IN her/PRP$ Sydney/NNP quarter-final/JJ on/IN Thursday./NNP
+Venus/NNP Williams/NNP who/WP lost/VBD to/TO younger/JJR sister/NN Serena/NNP in/IN the/DT Melbourne/NNP final/JJ two/CD years/NNS ago/RB opens/VBZ against/IN Eleni/NNP Daniilidou/NNP of/IN Greece./NNP
+Serena/NNP Williams/NNP who/WP won/VBD her/PRP$ fourth/JJ consecutive/JJ grand/JJ slam/NN at/IN the/DT 2003/CD Australian/JJ Open/NNP was/VBD drawn/VBN in/IN the/DT bottom/NN quarter/NN with/IN second/JJ seed/NN Amelie/NNP Mauresmo/NNP a/DT runner-up/NN in/IN 1999./CD
+Serena/NNP will/MD open/VB against/IN another/DT Frenchwoman/NNP Camille/NNP Pin/VB while/IN Mauresmo/NNP plays/VBZ Australia's/NNP Samantha/NNP Stosur./NNP
+Wimbledon/NNP champion/NN Maria/NNP Sharapova/NNP seeded/VBD fourth/NN drew/VBD a/DT qualifier/NN in/IN the/DT first/JJ round/NN but/CC could/MD meet/VB fellow/JJ Russian/JJ Svetlana/NNP Kuznetsova/NNP the/DT US/PRP Open/NNP winner/NN in/IN the/DT last/JJ eight/CD
+
+1/CD Roger/NNP Federer/NNP (Switzerland)/NN
+
+2/CD Andy/NNP Roddick/NNP (US)/NN
+
+3/CD Lleyton/NNP Hewitt/NNP (Australia)/NN
+
+4/CD Marat/NNP Safin/NNP (Russia)/NN
+
+5/CD Carlos/NNP Moya/NNP (Spain)/NN
+
+6/CD Guillermo/NNP Coria/NNP (Argentina)/NN
+
+7/CD Tim/NNP Henman/NNP (Britain)/NN
+
+8/CD Andre/NNP Agassi/NNP (US)/NN
+
+9/CD David/NNP Nalbandian/NNP (Argentina)/NN
+
+10/CD Gaston/NNP Gaudio/NNP (Argentina)/NN
+
+11/CD Joachim/NNP Johansson/NNP (Sweden)/NN
+
+12/CD Guillermo/NNP Canas/NNP (Argentina)/NN
+
+13/CD Tommy/NNP Robredo/NNP (Spain)/NN
+
+14/CD Sebastien/NNP Grosjean/NNP (France)/NN
+
+15/CD Mikhail/NNP Youzhny/NNP (Russia)/NN
+
+16/CD Tommy/NNP Haas/NNP (Germany)/NN
+
+17/CD Andrei/NNP Pavel/NNP (Romania)/NN
+
+18/CD Nicolas/NNP Massu/NNP (Chile)/NN
+
+19/CD Vincent/NNP Spadea/NNP (US)/NN
+
+20/CD Dominik/NNP Hrbaty/NNP (Slovakia)/NN
+
+21/CD Nicolas/NNP Kiefer/NNP (Germany)/NN
+
+22/CD Ivan/NNP Ljubicic/NNP (Croatia)/NN
+
+23/CD Fernando/NNP Gonzalez/NNP (Chile)/NN
+
+24/CD Feliciano/NNP Lopez/NNP (Spain)/NN
+
+25/CD Juan/NNP Ignacio/NNP Chela/NNP (Argentina)/NN
+
+26/CD Nikolay/NNP Davydenko/NNP (Russia)/NN
+
+27/CD Paradorn/NNP Srichaphan/NNP (Thailand)/NN
+
+28/CD Mario/NNP Ancic/NNP (Croatia)/NN
+
+29/CD Taylor/NNP Dent/NN (US)/NN
+
+30/CD Thomas/NNP Johansson/NNP (Sweden)/NN
+
+31/CD Juan/NNP Carlos/NNP Ferrero/NNP (Spain)/NN
+
+32/CD Jurgen/NNP Melzer/NNP (Austria)/NN
+
+1/CD Lindsay/NNP Davenport/NNP (US)/NN
+
+2/CD Amelie/NNP Mauresmo/NNP (France)/NN
+
+3/CD Anastasia/NNP Myskina/NNP (Russia)/NN
+
+4/CD Maria/NNP Sharapova/NNP (Russia)/NN
+
+5/CD Svetlana/NNP Kuznetsova/NNP (Russia)/NN
+
+6/CD Elena/NNP Dementieva/NNP (Russia)/NN
+
+7/CD Serena/NNP Williams/NNP (US)/NN
+
+8/CD Venus/NNP Williams/NNP (US)/NN
+
+9/CD Vera/NNP Zvonareva/NNP (Russia)/NN
+
+10/CD Alicia/NNP Molik/NNP (Australia)/NN
+
+11/CD Nadia/NNP Petrova/NNP (Russia)/NN
+
+12/CD Patty/NNP Schnyder/NNP (Switzerland)/NN
+
+13/CD Karolina/NNP Sprem/NNP (Croatia)/NN
+
+14/CD Francesca/NNP Schiavone/NNP (Italy)/NN
+
+15/CD Silvia/NNP Farina/NNP Elia/NNP (Italy)/NN
+
+16/CD Ai/VBP Sugiyama/NNP (Japan)/NN
+
+17/CD Fabiola/NNP Zuluaga/NNP (Colombia)/NN
+
+18/CD Elena/NNP Likhovtseva/NNP (Russia)/NN
+
+19/CD Nathalie/NNP Dechy/NNP (France)/NN
+
+20/CD Tatiana/NNP Golovin/NNP (France)/NN
+
+21/CD Amy/NNP Frazier/NNP (US)/NN
+
+22/CD Magdalena/NNP Maleeva/NNP (Bulgaria)/NN
+
+23/CD Jelena/NNP Jankovic/NNP (Serbia/NN and/CC Montenegro)/NNP
+
+24/CD Mary/NNP Pierce/NNP (France)/NN
+
+25/CD Lisa/NNP Raymond/NNP (US)/NN
+
+26/CD Daniela/NNP Hantuchova/NNP (Slovakia)/NN
+
+27/CD Anna/NNP Smashnova/NNP (Israel)/NN
+
+28/CD Shinobu/NNP Asagoe/NNP (Japan)/NN
+
+29/CD Gisela/NNP Dulko/NNP (Argentina)/NN
+
+30/CD Flavia/NNP Pennetta/NNP (Italy)/NN
+
+31/CD Jelena/NNP Kostanic/NNP (Croatia)/NN
+
+32/CD Iveta/NNP Benesova/NNP (Czech/NN Republic)/NNP

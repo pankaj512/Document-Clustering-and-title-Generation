@@ -1,0 +1,17 @@
+Weak/JJ dollar/NN trims/NNS Cadbury/NNP profits/NNS
+
+The/DT world's/NNS biggest/JJS confectionery/NN firm/NN Cadbury/NNP Schweppes/NNP has/VBZ reported/VBN a/DT modest/JJ rise/NN in/IN profits/NNS after/IN the/DT weak/JJ dollar/NN took/VBD a/DT bite/NN out/IN of/IN its/PRP$ results./NN
+
+Underlying/VBG pre-tax/JJ profits/NNS rose/VBD 1%/CD to/TO £933m/CD ($1.78bn)/CD in/IN 2004/CD but/CC would/MD have/VB been/VBN 8%/CD higher/JJR if/IN currency/NN movements/NNS were/VBD stripped/VBN out./NN
+The/DT owner/NN of/IN brands/NNS such/JJ as/IN Dairy/NN Milk/NN Dr/NNP Pepper/NN and/CC Snapple/NNP generates/VBZ more/JJR than/IN 80%/CD of/IN its/PRP$ sales/NNS outside/IN the/DT UK./NNP
+Cadbury/NNP said/VBD it/PRP was/VBD confident/JJ it/PRP would/MD hit/VB its/PRP$ targets/NNS for/IN 2005./CD
+"While/NN the/DT external/JJ commercial/JJ environment/NN remains/VBZ competitive/JJ we/PRP are/VBP confident/JJ that/IN we/PRP have/VBP the/DT strategy/NN brands/NNS and/CC people/NNS to/TO deliver/VB within/IN our/PRP$ goal/NN ranges/NNS in/IN 2005"/CD said/VBD chief/JJ executive/NN Todd/NNP Stitzer./NNP
+
+The/DT modest/JJ profit/NN rise/NN had/VBD been/VBN expected/VBN by/IN analysts/NNS after/IN the/DT company/NN said/VBD in/IN December/NNP that/IN the/DT poor/JJ summer/NN weather/NN had/VBD hit/VBN soft/JJ drink/NN sales/NNS in/IN Europe./NNP
+
+Cadbury/NNP said/VBD its/PRP$ underlying/NN sales/NNS were/VBD up/RB by/IN 4%/CD in/IN 2004./CD
+Growth/NN was/VBD helped/VBN by/IN its/PRP$ confectionery/NN brands/NNS -/: including/VBG Cadbury/NNP Trident/NNP and/CC Halls/NNS -/: which/WDT enjoyed/VBD a/DT "successful"/NN year/NN with/IN like-for-like/JJ sales/NNS up/RP 6%./CD
+Drinks/NNS sales/NNS were/VBD up/RB 2%/CD with/IN strong/JJ growth/NN in/IN US/PRP carbonated/VBD soft/JJ drinks/NNS led/VBN by/IN Dr/NNP Pepper/NN and/CC diet/NN drinks/NNS offset/VBN by/IN the/DT weaker/JJR sales/NNS in/IN Europe./NNP
+Cadbury/NNP added/VBD that/IN its/PRP$ Fuel/NN for/IN Growth/NN cost-cutting/JJ programme/NN had/VBD saved/VBN £75m/CD in/IN 2004/CD bringing/VBG total/JJ cost/NN savings/NNS to/TO £100m/CD since/IN the/DT scheme/NN began/VBD in/IN mid-2003./JJ
+The/DT programme/NN is/VBZ set/VBN to/TO close/VB 20%/CD of/IN the/DT group's/NNS factories/NNS and/CC shed/VBD 10%/CD of/IN the/DT workforce./NN
+Cadbury/NNP Schweppes/NNP employs/VBZ more/JJR than/IN 50000/CD people/NNS worldwide/VBP with/IN about/RB 7000/CD in/IN the/DT UK./NNP

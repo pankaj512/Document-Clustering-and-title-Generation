@@ -1,0 +1,22 @@
+Australia/NN rates/NNS at/IN four/CD year/NN high/JJ
+
+Australia/NNP is/VBZ raising/VBG its/PRP$ benchmark/NN interest/NN rate/NN to/TO its/PRP$ highest/JJS level/NN in/IN four/CD years/NNS despite/IN signs/NNS of/IN a/DT slowdown/NN in/IN the/DT country's/NNS economy./NN
+
+The/DT Reserve/NNP Bank/NNP of/IN Australia/NNP lifted/VBD interest/NN rates/NNS 0.25%/CD to/TO 5.5%/CD their/PRP$ first/JJ upwards/NNS move/VBP in/IN more/JJR than/IN a/DT year./NN
+However/RB shortly/RB after/IN the/DT Bank/NNP made/VBD its/PRP$ decision/NN new/JJ figures/NNS showed/VBD a/DT fall/NN in/IN economic/JJ growth/NN in/IN the/DT last/JJ quarter./NN
+The/DT Bank/NNP said/VBD it/PRP had/VBD acted/VBN to/TO curb/VB inflation/NN but/CC the/DT move/NN was/VBD criticised/VBN by/IN some/DT analysts./NN
+
+The/DT rate/NN hike/NN was/VBD the/DT first/JJ since/IN December/NNP 2003/CD and/CC had/VBD been/VBN well-flagged/JJ in/IN advance./NN
+However/RB opposition/NN parties/NNS and/CC some/DT analysts/NNS said/VBD the/DT move/NN was/VBD ill-timed/JJ given/VBN data/NNS showing/VBG the/DT Australian/JJ economy/NN grew/VBD just/RB 0.1%/CD between/IN October/NNP and/CC December/NNP and/CC 1.5%/CD on/IN an/DT annual/JJ basis./NN
+
+The/DT figures/NNS representing/VBG a/DT decline/NN from/IN the/DT 0.2%/CD growth/NN in/IN GDP/NNP seen/VBN between/IN July/NNP and/CC September/NNP were/VBD below/IN market/NN expectations./NN
+Consumer/NNP spending/NN remains/VBZ strong/JJ however/RB and/CC the/DT Bank/NNP is/VBZ concerned/VBN about/IN growing/VBG inflationary/JJ pressures./NN
+"Over/NN recent/JJ months/NNS it/PRP has/VBZ become/VBN increasingly/RB clear/JJ that/IN remaining/VBG spare/JJ capacity/NN in/IN the/DT labour/NN and/CC goods/NNS markets/NNS is/VBZ becoming/VBG rather/RB limited"/NN said/VBD Ian/NNP Macfarlane/NNP Governor/NNP of/IN the/DT Reserve/NNP Bank./NNP
+
+At/IN 2.6%/CD inflation/NN remains/VBZ within/IN the/DT Bank's/NNP 2-3%/JJ target/NN range./NN
+However/RB exports/NNS declined/VBD in/IN the/DT second/JJ half/NN of/IN 2004/CD fuelling/VBG a/DT rise/NN in/IN the/DT country's/NNS current/JJ account/NN deficit/NN -/: the/DT difference/NN in/IN the/DT value/NN of/IN imports/NNS compared/VBN to/TO exports/NNS -/: to/TO a/DT record/NN Australian/JJ dollar/NN 29.4bn./CD
+The/DT Australian/JJ government/NN said/VBD the/DT economy/NN remained/VBD strong/JJ with/IN unemployment/NN at/IN a/DT near/JJ 30/CD year/NN low./NN
+"The/NN economy/NN has/VBZ been/VBN strong/JJ and/CC it/PRP is/VBZ properly/RB moderating/VBG but/CC it/PRP doesn't/NN look/NN to/TO me/PRP like/IN it's/NNS slowing/VBG in/IN any/DT unreasonable/JJ way"/NN said/VBD Treasurer/NNP Peter/NNP Costello./NNP
+Stock/NN markets/NNS had/VBD factored/JJ in/IN the/DT likelihood/NN of/IN a/DT rate/NN rise/NN but/CC analysts/NNS still/RB expressed/VBD concern/NN about/IN the/DT strength/NN of/IN the/DT economy./NN
+"That/NN 1.5%/CD annual/JJ growth/NN rate/NN is/VBZ the/DT lowest/JJS we/PRP have/VBP seen/VBN since/IN the/DT post-election/JJ slump/NN we/PRP saw/VBD back/RB in/IN 2000-1"/NN said/VBD Michael/NNP Blythe/NNP chief/NN economist/NN at/IN the/DT Commonwealth/NNP Bank/NNP of/IN Australia./NNP
+"This/NN suggests/VBZ the/DT economy/NN really/RB did/VBD slow/VB very/RB sharply/RB in/IN the/DT second/JJ half/NN of/IN 2004."/CD

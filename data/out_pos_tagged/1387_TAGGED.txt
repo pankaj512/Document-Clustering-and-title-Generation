@@ -1,0 +1,8 @@
+Pavey/NNP focuses/VBZ on/IN indoor/JJ success/NN
+
+Jo/NNP Pavey/NNP will/MD miss/VB January's/NNP View/NNP From/IN Great/NNP Edinburgh/NNP International/NNP Cross/NNP Country/NNP to/TO focus/VB on/IN preparing/VBG for/IN the/DT European/JJ Indoor/JJ Championships/NNS in/IN March./NNP
+
+The/DT 31-year-old/NN was/VBD third/JJ behind/IN Hayley/NNP Yelling/VBG and/CC Justyna/NNP Bak/NNP in/IN last/JJ week's/NNS European/NNP Cross/NNP Country/NNP Championships/NNS but/CC she/PRP prefers/VBZ to/TO race/VB on/IN the/DT track./NN
+"It/NN was/VBD great/JJ winning/NN bronze/NN but/CC I'm/NNP wary/JJ of/IN injuries/NNS and/CC must/MD concentrate/VB on/IN the/DT indoor/JJ season"/NN she/PRP said./VBP
+"Because/NN of/IN previous/JJ injuries/NNS I/PRP don't/VBP even/RB run/VB up/RP hills/NNS in/IN training."/NN Pavey/NNP who/WP came/VBD fifth/JJ in/IN the/DT 5000m/CD at/IN the/DT Athens/NNP Olympics/NNPS helped/VBD the/DT British/JJ cross/NN country/NN team/NN win/VBP the/DT team/NN silver/NN medal/NN in/IN Heringsdorf/NNP last/JJ week./NN
+She/PRP is/VBZ likely/JJ to/TO start/VB her/PRP$ 3000m/CD season/NN with/IN a/DT race/NN in/IN either/CC Boston/NNP or/CC Stuttgart/NNP at/IN the/DT end/NN of/IN January./NNP

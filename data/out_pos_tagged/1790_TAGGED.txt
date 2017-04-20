@@ -1,0 +1,21 @@
+Moya/NNP suffers/VBZ shock/NN loss/NN
+
+Fifth/NNP seed/NN Carlos/NNP Moya/NNP was/VBD the/DT first/JJ big/JJ name/NN to/TO fall/VB at/IN the/DT Australian/JJ Open/NNP as/IN he/PRP went/VBD down/RB to/TO fellow/JJ Spaniard/NNP Guillermo/NNP Garcia-Lopez/NNP on/IN Monday./NNP
+
+Moya/NNP began/VBD the/DT year/NN with/IN victory/NN at/IN the/DT Chennai/NNP Open/NNP but/CC looked/VBD out/IN of/IN sorts/NNS from/IN the/DT start/NN in/IN the/DT Melbourne/NNP heat./NN
+Garcia-Lopez/NNP ranked/VBD 106/CD in/IN the/DT world/NN dominated/VBN from/IN the/DT outset/NN and/CC withstood/VBD a/DT third-set/JJ rally/NN from/IN Moya/NNP to/TO hang/VB on/IN for/IN a/DT 7-5/JJ 6-3/JJ 3-6/JJ 6-3/JJ victory./NN
+The/DT 21-year-old/JJ plays/VBZ Kevin/NNP Kim/NNP or/CC Lee/NNP Hyuung-Taik/NNP in/IN the/DT second/JJ round./NN
+Garcia-Lopez/NNP was/VBD delighted/JJ with/IN the/DT victory/NN in/IN only/RB his/PRP$ third/JJ ever/RB Grand/NNP Slam/NNP match./NN
+"I/NN think/VBP this/DT was/VBD the/DT most/RBS important/JJ win/NN of/IN my/PRP$ life/NN as/IN Carlos/NNP is/VBZ one/CD of/IN the/DT best/JJS players/NNS in/IN the/DT world"/NN he/PRP said./VB
+"This/NN has/VBZ given/VBN me/PRP a/DT lot/NN of/IN confidence./NN
+Now/RB I/PRP feel/VBP I/PRP can/MD beat/VB all/PDT these/DT players."/NN Moya/NNP said/VBD "I/NN was/VBD playing/VBG well/RB before/IN I/PRP came/VBD here./NN
+It/PRP was/VBD the/DT perfect/JJ preparation/NN but/CC something/NN was/VBD wrong/JJ today."/NN
+
+Four-time/NNP champion/NN Andre/NNP Agassi/NNP began/VBD what/WP could/MD be/VB his/PRP$ last/JJ Australian/JJ Open/NNP with/IN a/DT convincing/JJ win/NN over/IN German/JJ qualifier/NN Dieter/NNP Kindlmann./NNP
+The/DT 34-year-old/JJ American/NNP who/WP had/VBD been/VBN struggling/VBG with/IN a/DT hip/NN injury/NN earlier/RBR in/IN the/DT week/NN stormed/VBD to/TO a/DT 6-4/JJ 6-3/JJ 6-0/JJ win./NN
+Agassi/NNP will/MD play/VB France's/NNP Olivier/NNP Patience/NN or/CC Germany's/NNP Rainer/NNP Schuettler/NNP -/: the/DT man/NN he/PRP beat/VB in/IN the/DT 2003/CD final/JJ -/: in/IN the/DT next/JJ round./NN
+"No/NN one/CD was/VBD more/RBR concerned/JJ (about/NN the/DT injury)/NN than/IN myself"/NN said/VBD eighth/JJ seed/NN Agassi./NNP
+"I'd/NN worked/VBD hard/JJ to/TO be/VB down/RP here/RB and/CC ready./NN
+But/CC the/DT last/JJ few/JJ days/NNS I've/NNP pushed/VBD through/IN the/DT injury/NN and/CC it/PRP seemed/VBD to/TO do/VB pretty/RB good."/NN In/IN other/JJ matches/VBZ world/NN junior/JJ champion/NN Gael/NNP Monfils/NNP made/VBD use/NN of/IN his/PRP$ wild/JJ card/NN with/IN a/DT magnificent/JJ 1-6/JJ 6-3/JJ 6-4/JJ 7-6/JJ (8-6)/JJ win/NN over/IN American/NNP Robby/NNP Ginepri./NNP
+The/DT 2002/CD champion/NN Thomas/NNP Johansson/NNP fought/VBD back/RB to/TO beat/VB Peter/NNP Luczak/NNP 7-6/JJ (7-5)/JJ 4-6/JJ 6-3/JJ 4-6/JJ 6-0/JJ and/CC French/JJ Open/NNP champion/NN Gaston/NNP Gaudio/NNP beat/VB Justin/NNP Gimelstob/NNP 7-6/JJ (7-3)/JJ 6-4/JJ 6-3./JJ
+Seeds/NNS Dominik/NNP Hrbaty/NNP Ivan/NNP Ljubicic/NNP and/CC Mario/NNP Ancic/NNP made/VBD comfortable/JJ progress/NN but/CC former/JJ French/JJ Open/NNP champion/NN Albert/NNP Costa/NNP lost/VBD to/TO Bjorn/NNP Phau./NNP

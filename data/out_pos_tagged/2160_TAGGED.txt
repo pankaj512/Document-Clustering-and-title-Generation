@@ -1,0 +1,36 @@
+Mac/NNP Mini/NNP heralds/NNS mini/NN revolution/NN
+
+The/DT Mac/NNP Mini/NNP was/VBD launched/VBN amid/IN much/JJ fanfare/NN by/IN Apple/NNP and/CC great/JJ excitement/NN by/IN Apple/NNP watchers/NNS last/JJ month./NN
+But/CC does/VBZ the/DT latest/JJS Macintosh/NNP justify/VB the/DT hype?/NN Let/VBP us/PRP get/VB a/DT few/JJ things/NNS dealt/VBD with/IN at/IN the/DT outset/NN -/: yes/UH the/DT Mac/NNP Mini/NNP is/VBZ really/RB really/RB small/JJ and/CC yes/UH it/PRP is/VBZ another/DT piece/NN of/IN inspired/VBN Apple/NNP design./NN
+There/EX is/VBZ more/JJR to/TO be/VB said/VBN on/IN the/DT computer's/NNS size/NN and/CC design/NN but/CC it/PRP is/VBZ worth/JJ highlighting/VBG that/IN the/DT Mac/NNP Mini/NNP is/VBZ a/DT just/RB a/DT computer./NN
+Inside/IN that/DT small/JJ box/NN there/EX is/VBZ a/DT G4/CD processor/NN a/DT CD/DVD/NNP player/NN a/DT hard/JJ drive/NN some/DT other/JJ technical/JJ bits/NNS and/CC bobs/NNS and/CC an/DT operating/NN system./NN
+A/DT DVD/NNP burner/NN wireless/JJ and/CC bluetooth/NN technologies/NNS can/MD be/VB bought/VBN at/IN extra/JJ cost./NN
+And/CC if/IN you/PRP do/VBP not/RB have/VB a/DT monitor/NN keyboard/NN or/CC mouse/NN then/RB you/PRP will/MD need/VB to/TO purchase/VB those/DT also./NN
+
+It/PRP is/VBZ not/RB the/DT fastest/JJS computer/NN for/IN the/DT money/NN but/CC for/IN under/IN £400/CD you/PRP are/VBP getting/VBG something/NN more/RBR interesting/JJ than/IN mere/JJ technical/JJ specifications/NNS -/: Apple/NNP software./NN
+The/DT Mac/NNP Mini/NNP comes/VBZ bundled/VBN with/IN Mac/NNP OS/NNP X/NNP the/DT operating/VBG system/NN as/RB well/RB as/IN iLife/NN 05/CD a/DT suite/NN of/IN software/NN which/WDT includes/VBZ iTunes/NNS web/NN browser/NN Safari/NNP iPhoto/NN Garage/NN Band/NNP and/CC iDVD./NN
+I/PRP doubt/VBP many/JJ PC/NN lovers/NNS would/MD seriously/RB argue/VB that/IN Windows/NNS XP/NNP comes/VBZ with/IN a/DT better/JJR suite/NN of/IN programs/NNS than/IN Mac/NNP OS/NNP X./NNP
+
+Of/IN course/NN users/NNS of/IN open/JJ source/NN operating/NN system/NN Linux/NNP draw/VB up/RP their/PRP$ own/JJ menu/NN of/IN programs./NN
+For/IN people/NNS who/WP want/VBP to/TO do/VB interesting/JJ things/NNS with/IN their/PRP$ music/NN photos/NNS and/CC home/NN movies/NNS then/RB a/DT Mac/NNP Mini/NNP is/VBZ an/DT ideal/JJ first/JJ computer/NN or/CC companion/NN to/TO a/DT main/JJ computer./NN
+"It's/NN a/DT good/JJ little/JJ machine/NN with/IN a/DT reasonable/JJ amount/NN of/IN power/NN and/CC just/RB perfect/JJ for/IN the/DT average/JJ computer/NN user/NN who/WP wants/VBZ to/TO leave/VB the/DT tyranny/NN of/IN Window/NN and/CC viruses"/NN said/VBD Mark/NNP Sparrow/NNP technical/JJ and/CC reviews/NNS editor/NN at/IN Mac/NNP Format/NN magazine./NN
+He/PRP added/VBD "In/NN essence/NN it's/NNS a/DT laptop/NN in/IN a/DT biscuit/NN tin/NN minus/CC the/DT screen/NN and/CC the/DT keyboard./NN
+"The/NN software/NN bundle/NN that/WDT comes/VBZ with/IN the/DT mini/NN makes/VBZ your/PRP$ average/JJ budget/NN PC/NN look/VB a/DT bit/NN sick."/NN The/DT relatively/RB low/JJ price/NN of/IN the/DT machine/NN has/VBZ also/RB encouraged/VBD the/DT more/RBR technically-savvy/JJ to/TO experiment/VB with/IN their/PRP$ Macs./NNP
+One/CD user/NN has/VBZ already/RB created/VBN a/DT "dock"/NN to/TO enable/VB him/PRP to/TO plug/VB in/IN and/CC out/IN his/PRP$ Mac/NNP Mini/NNP in/IN his/PRP$ car./NN
+
+The/DT small/JJ size/NN of/IN the/DT machine/NN makes/VBZ it/PRP a/DT practical/JJ solution/NN for/IN in-car/NN entertainment/NN -/: playing/VBG movies/NNS and/CC music/NN -/: as/RB well/RB as/IN navigation./NN
+Another/DT user/NN has/VBZ mounted/VBN his/PRP$ Mac/NNP Mini/NNP to/TO the/DT back/NN of/IN his/PRP$ large/JJ plasma/NN screen/NN and/CC then/RB controls/VBZ the/DT computer/NN via/IN a/DT wireless/JJ keyboard/NN and/CC mouse./NN
+When/WRB it/PRP was/VBD first/RB announced/VBD some/DT pundits/NNS thought/VBD the/DT Mini/NNP was/VBD designed/VBN as/IN a/DT sort/NN of/IN stealth/NN media/NNS centre/NN -/: ie/NN the/DT machine/NN would/MD be/VB used/VBN to/TO serve/VB TV/NN programmes/NNS music/NN films/NNS and/CC photos/NNS -/: partly/RB due/JJ to/TO its/PRP$ small/JJ living/NN room/NN friendly/JJ design./NN
+But/CC there/EX are/VBP obvious/JJ reasons/NNS why/WRB this/DT is/VBZ not/RB the/DT case/NN -/: at/IN least/JJS not/RB in/IN the/DT here/RB and/CC now/RB The/DT hard/JJ drive/NN -/: at/IN 80GB/CD for/IN the/DT larger/JJR model/NN -/: is/VBZ too/RB small/JJ to/TO be/VB realistically/RB used/VBN as/IN media/NNS centre./NN
+
+While/IN commercial/JJ Personal/NNP Video/NNP Recorders/NNS are/VBP on/IN the/DT market/NN with/IN smaller/JJR than/IN 80GB/CD hard/JJ drives/NNS it/PRP is/VBZ worth/JJ remembering/VBG that/IN they/PRP only/JJ store/VBP TV/NN content./NN
+A/DT media/NNS centre/NN computer/NN has/VBZ to/TO store/VB music/NN files/NNS and/CC photos/NNS and/CC as/IN such/JJ 80GB/CD just/RB seems/VBZ too/RB small./NN
+Most/JJS PCs/NNS running/VBG Windows/NNS Media/NNP Center/NNP have/VBP at/IN least/JJS 120GB/CD hard/JJ disks./JJ
+Coupled/VBN with/IN the/DT lack/NN of/IN a/DT TV/NN tuner/NN card/NN a/DT digital/JJ audio/JJ out/RB and/CC any/DT kind/NN of/IN media/NNS centre/NN software/NN bundled/VBN with/IN the/DT machine/NN then/RB the/DT Mac/NNP Mini/NNP should/MD be/VB judged/VBN on/IN what/WP it/PRP is/VBZ not/RB what/WP it/PRP is/VBZ not./NN
+But/CC that/DT has/VBZ not/RB stopped/VBN more/RBR enterprising/JJ users/NNS from/IN adapting/VBG the/DT Mac/NNP Mini/NNP to/TO media/NNS centre/NN uses./NN
+So/RB -/: is/VBZ the/DT Mac/NNP Mini/NNP just/RB another/DT computer/NN or/CC a/DT revolution/NN in/IN computing?/NN Graham/NNP Barlow/NNP editor/NN of/IN Mac/NNP Format/NN understandably/RB has/VBZ a/DT rather/RB partisan/JJ viewpoint./NN
+"It's/NN just/RB a/DT Mac/NNP but/CC we/PRP should/MD be/VB very/RB excited/VBN -/: it's/NNS revolutionary/JJ in/IN its/PRP$ size/NN (smaller/NN than/IN PCs)/NNP looks/VBZ (looks/NN better/RBR than/IN PCs)/NNP and/CC the/DT fact/NN that/WDT it's/VBZ the/DT first/JJ Mac/NNP designed/VBD to/TO really/RB go/VB for/IN the/DT low-cost/JJ PC/NN market."/NN The/DT design/NN of/IN the/DT Mac/NNP Mini/NNP is/VBZ further/JJ evidence/NN of/IN a/DT future/JJ when/WRB PCs/NNS are/VBP more/JJR than/IN just/RB bland/NN bulky/JJ boxes./NN
+There/EX are/VBP a/DT number/NN of/IN companies/NNS who/WP already/RB produce/VBP miniature/JJ PCs/NNS based/VBN on/IN mini-ITX/JJ motherboards./NN
+But/CC at/IN the/DT moment/NN these/DT PCs/NNS tend/VBP to/TO be/VB either/CC for/IN the/DT home-build/JJ enthusiast/NN or/CC expensive/JJ pre-built/JJ options/NNS based/VBN around/IN Microsoft's/NNP Media/NNP Center/NNP software./NN
+But/CC for/IN the/DT value/NN the/DT Mac/NNP Mini/NNP offers/VBZ bringing/VBG some/DT of/IN the/DT best/JJS software/NN packages/NNS within/IN reach/NN of/IN more/JJR consumers/NNS than/IN ever/RB before/IN Apple/NNP is/VBZ to/TO be/VB congratulated./NN
+Let/VB us/PRP say/VBP then/RB that/IN if/IN the/DT Mac/NNP Mini/NNP is/VBZ not/RB a/DT fully/RB fledged/VBN revolution/NN -/: it/PRP is/VBZ a/DT mini/NN revolution./NN

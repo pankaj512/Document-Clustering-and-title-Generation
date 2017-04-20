@@ -1,0 +1,14 @@
+Byrds/NNP producer/NN Melcher/NNP dies/VBZ at/IN 62/CD
+
+Record/NNP producer/NN Terry/NNP Melcher/NNP who/WP was/VBD behind/IN hits/NNS by/IN the/DT Byrds/NNP Ry/NNP Cooder/NNP and/CC the/DT Beach/NNP Boys/NNPS has/VBZ died/VBN aged/VBN 62./CD
+
+The/DT son/NN of/IN actress/NN Doris/NNP Day/NNP he/PRP helped/VBD write/VB Kokomo/NNP for/IN the/DT Beach/NNP Boys/NNPS which/WDT was/VBD used/VBN in/IN the/DT movie/NN Cocktail/NN earning/VBG a/DT 1988/CD Golden/NNP Globe/NNP nomination./NN
+He/PRP also/RB produced/VBD Mr/NNP Tambourine/NNP Man/NN for/IN the/DT Byrds/NNP as/RB well/RB as/IN other/JJ his/PRP$ such/NN as/IN Turn/NN Turn/NN Turn./NNP
+Melcher/NNP died/VBD on/IN Friday/NNP night/NN at/IN his/PRP$ home/NN in/IN Beverly/NNP Hills/NNP California/NNP after/IN a/DT long/JJ battle/NN with/IN skin/NN cancer./NN
+He/PRP joined/VBD Columbia/NNP Records/NNPS as/IN a/DT producer/NN in/IN the/DT mid-1960s/JJ and/CC also/RB worked/VBD with/IN Gram/NN Parsons/NNP and/CC the/DT Mamas/NNP and/CC the/DT Papas./NNP
+
+Earlier/RBR in/IN his/PRP$ career/NN Melcher/NNP had/VBD hits/NNS as/IN part/NN of/IN duo/NN called/VBN Bruce/NNP &/CC Terry/NNP with/IN future/JJ Beach/NNP Boy/NNP Bruce/NNP Johnston/NNP which/WDT evolved/VBD into/IN the/DT Rip/NNP Chords/NNS group./NN
+Melcher/NNP also/RB worked/VBD closely/RB with/IN his/PRP$ mother/NN producing/VBG The/DT Doris/NNP Day/NNP Show/NNP and/CC helping/VBG to/TO run/VB her/PRP$ charitable/JJ activities./NN
+In/IN 1969/CD his/PRP$ name/NN became/VBD linked/VBN with/IN the/DT Charles/NNP Manson/NNP murders/NNS which/WDT saw/VBD the/DT deaths/NNS of/IN actress/NN Sharon/NNP Tate/NNP and/CC four/CD of/IN her/PRP$ friends/NNS at/IN a/DT home/NN which/WDT Melcher/NNP once/RB rented./NN
+Rumours/NNP circulated/VBD that/IN Melcher/NNP -/: who/WP knew/VBD Manson/NNP -/: was/VBD the/DT killer's/NNS real/JJ target/NN because/IN he/PRP had/VBD turned/VBN him/PRP down/RP for/IN a/DT record/NN contract./NN
+But/CC Los/NNP Angeles/NNP police/NN discounted/VBD the/DT rumours/NNS pointing/VBG out/RP Melcher/NNP had/VBD moved/VBN to/TO Malibu/NNP and/CC Manson/NNP knew/VBD of/IN his/PRP$ new/JJ address./NN

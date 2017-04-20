@@ -1,0 +1,10 @@
+Soul/NN sensation/NN ready/JJ for/IN awards/NNS
+
+South/NNP West/NNP teenage/JJ singing/NN sensation/NN Joss/NNP Stone/NNP has/VBZ been/VBN nominated/VBN in/IN three/CD categories/NNS in/IN Wednesday's/NNP Brit/NNP awards./NN
+
+The/DT 17-year-old/NN from/IN a/DT small/JJ east/JJ Devon/NNP village/NN near/IN Cullumpton/NNP received/VBD nominations/NNS for/IN Best/JJS Solo/NNP Female/JJ Best/JJS Urban/NNP Act/NNP and/CC Best/JJS Breakthrough/NN Artist./NNP
+Her/PRP$ second/JJ album/NN Mind/NN Body/NNP &/CC Soul/NN reached/VBD number/NN one/CD in/IN the/DT UK/NNP charts/NNS last/JJ October/NNP and/CC went/VBD straight/RB into/IN the/DT US/PRP charts/VBZ at/IN number/NN 11./CD
+Ms/NNP Stone/NNP is/VBZ due/JJ to/TO perform/VB at/IN the/DT 25th/JJ award/NN ceremony/NN at/IN London's/NNP Earls/NNP Court./NNP
+The/DT teenager/NN also/RB has/VBZ Grammy/NNP nominations/NNS in/IN the/DT US/PRP normally/RB dominated/VBD by/IN home-grown/JJ acts./NN
+Born/VBN Jocelyn/NNP Stoker/NNP the/DT Devon/NNP diva/NN started/VBD her/PRP$ career/NN in/IN a/DT BBC/NNP talent/NN programme/NN and/CC was/VBD then/RB discovered/VBN at/IN a/DT New/NNP York/NNP audition/VB by/IN a/DT US/PRP record/VBP executive/NN Steve/NNP Greenberg./NNP
+The/DT 17-year-old/JJ singer/NN is/VBZ hoping/VBG to/TO tour/VB in/IN Japan/NNP Australia/NNP and/CC the/DT US/PRP in/IN 2005./CD

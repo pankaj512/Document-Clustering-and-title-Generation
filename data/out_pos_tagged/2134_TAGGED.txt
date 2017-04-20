@@ -1,0 +1,23 @@
+Latest/JJS Opera/NNP browser/NN gets/VBZ vocal/JJ
+
+Net/JJ browser/NN Opera/NNP 8.0/CD due/JJ for/IN official/JJ release/NN at/IN the/DT end/NN of/IN next/JJ month/NN will/MD be/VB "the/NN most/RBS accessible/JJ browser/NN on/IN the/DT market"/NN according/VBG to/TO its/PRP$ authors./NN
+
+The/DT latest/JJS version/NN of/IN the/DT net/JJ browser/NN can/MD be/VB controlled/VBN by/IN voice/NN command/NN and/CC will/MD read/VB pages/NNS aloud./NN
+The/DT voice/NN features/NNS based/VBN on/IN IBM/NNP technology/NN are/VBP currently/RB only/RB available/JJ in/IN the/DT Windows/NNS version./NN
+Opera/NNP can/MD also/RB magnify/VB text/NN by/IN up/IN to/TO 10/CD times/NNS and/CC users/NNS can/MD create/VB "style/NN sheets"/NN its/PRP$ developers/NNS say./NN
+This/DT will/MD enable/VB them/PRP to/TO view/VB pages/NNS with/IN colours/NNS and/CC fonts/NNS that/IN they/PRP prefer./VBP
+But/CC the/DT browser/NN does/VBZ not/RB yet/RB work/NN well/RB with/IN screen/NN reader/NN software/NN often/RB used/VBN by/IN blind/JJ people/NNS so/RB its/PRP$ accessibility/NN features/NNS are/VBP more/RBR likely/JJ to/TO appeal/VB to/TO those/DT with/IN some/DT residual/JJ vision./NN
+"Our/NN mission/NN was/VBD always/RB to/TO provide/VB the/DT best/JJS internet/JJ experience/NN for/IN everyone"/NN said/VBD Opera/NNP spokeswoman/NN Berit/NNP Hanson./NNP
+"So/NN we/PRP would/MD obviously/RB not/RB want/VB to/TO exclude/VB disabled/JJ computer/NN users."/NN
+
+Another/DT feature/NN likely/JJ to/TO appeal/VB to/TO people/NNS with/IN low/JJ vision/NN is/VBZ the/DT ability/NN to/TO make/VB pages/NNS fit/VB to/TO the/DT screen/NN width/NN which/WDT eliminates/VBZ the/DT need/NN for/IN horizontal/JJ scrolling./NN
+
+The/DT company/NN points/NNS out/RP that/IN this/DT will/MD also/RB appeal/VB to/TO anyone/NN using/VBG Opera/NNP with/IN a/DT handheld/JJ device./NN
+The/DT company/NN says/VBZ that/IN features/NNS like/IN voice/NN activation/NN are/VBP not/RB solely/RB aimed/VBN at/IN visually/RB impaired/VBN people./NN
+"Our/NN idea/NN was/VBD to/TO take/VB a/DT first/JJ step/NN in/IN making/VBG human-computer/JJ interaction/JJ more/JJR natural"/NN said/VBD Ms/NNP Hanson./NNP
+"People/NN are/VBP not/RB always/RB in/IN a/DT situation/NN where/WRB they/PRP can/MD access/VB a/DT keyboard/NN so/IN this/DT makes/VBZ the/DT web/NN a/DT more/RBR hands-free/JJ experience."/NN Unlike/IN commercially/RB available/JJ voice/NN recognition/NN software/NN Opera/NNP does/VBZ not/RB have/VB to/TO be/VB "trained"/NN to/TO recognise/VB an/DT individual/JJ voice./NN
+Around/IN 50/CD voice/NN commands/NNS are/VBP available/JJ and/CC users/NNS will/MD have/VB to/TO wear/VB a/DT headset/NN which/WDT incorporates/VBZ a/DT microphone./NN
+The/DT voice/NN recognition/NN function/NN is/VBZ currently/RB only/RB available/JJ in/IN English./NNP
+Opera/NNP is/VBZ free/JJ to/TO download/VB but/CC a/DT paid-for/JJ version/NN comes/VBZ without/IN an/DT ad/NN banner/NN in/IN the/DT top/JJ right/JJ hand/NN corner/NN and/CC with/IN extra/JJ support./NN
+Opera/NNP began/VBD life/VBG as/IN a/DT research/NN project/NN -/: a/DT spin-off/NN from/IN Norwegian/JJ telecoms/NNS company/NN Telenor./NNP
+Its/PRP$ browser/NN is/VBZ used/VBN by/IN an/DT estimated/VBN 10/CD million/CD people/NNS on/IN a/DT variety/NN of/IN operating/VBG systems/NNS and/CC a/DT number/NN of/IN different/JJ platforms./NN

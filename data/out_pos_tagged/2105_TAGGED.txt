@@ -1,0 +1,44 @@
+Cyber/NNP crime/NN booms/NNS in/IN 2004/CD
+
+The/DT last/JJ 12/CD months/NNS have/VBP seen/VBN a/DT dramatic/JJ growth/NN in/IN almost/RB every/DT security/NN threat/NN that/WDT plague/NN Windows/NNS PCs./NNP
+
+The/DT count/NN of/IN known/VBN viruses/NNS broke/VBD the/DT 100000/CD barrier/NN and/CC the/DT number/NN of/IN new/JJ viruses/NNS grew/VBN by/IN more/JJR than/IN 50%./CD
+Similarly/RB phishing/VBG attempts/NNS in/IN which/WDT conmen/NNS try/NN to/TO trick/VB people/NNS into/IN handing/VBG over/IN confidential/JJ data/NNS are/VBP recording/NN growth/NN rates/NNS of/IN more/JJR than/IN 30%/CD and/CC attacks/NNS are/VBP becoming/VBG increasingly/RB sophisticated./NN
+Also/RB on/IN the/DT increase/NN are/VBP the/DT number/NN of/IN networks/NNS of/IN remotely/RB controlled/VBN computers/NNS called/VBD bot/NN nets/NNS used/VBN by/IN malicious/JJ hackers/NNS and/CC conmen/NNS to/TO carry/VB out/RP many/JJ different/JJ cyber/NN crimes./NN
+
+One/CD of/IN the/DT biggest/JJS changes/NNS of/IN 2004/CD was/VBD the/DT waning/VBG influence/NN of/IN the/DT boy/NN hackers/NNS keen/JJ to/TO make/VB a/DT name/NN by/IN writing/VBG a/DT fast-spreading/JJ virus/NN said/VBD Kevin/NNP Hogan/NNP senior/JJ manager/NN in/IN Symantec's/NNP security/NN response/NN group./NN
+Although/IN teenage/JJ virus/NN writers/NNS will/MD still/RB play/VB around/IN with/IN malicious/JJ code/NN said/VBD Mr/NNP Hogan/NNP 2004/CD saw/VBD a/DT significant/JJ rise/NN in/IN criminal/JJ use/NN of/IN malicious/JJ programs./NN
+The/DT financial/JJ incentives/NNS were/VBD driving/VBG criminal/JJ use/NN of/IN technology/NN he/PRP said./VB
+His/PRP$ comment/NN was/VBD echoed/VBN by/IN Graham/NNP Cluley/NNP senior/JJ technology/NN consultant/NN from/IN anti-virus/JJ firm/NN Sophos./NNP
+Mr/NNP Cluley/NNP said/VBD "When/NN the/DT commercial/JJ world/NN gets/VBZ involved/VBN things/NNS really/RB get/VBP nasty./NN
+Virus/NN writers/NNS and/CC hackers/NNS will/MD be/VB looking/VBG to/TO make/VB a/DT tidy/NN sum."/NN
+
+In/IN particular/JJ phishing/NN attacks/NNS which/WDT typically/RB use/NN fake/JJ versions/NNS of/IN bank/NN websites/NNS to/TO grab/VB login/NN details/NNS of/IN customers/NNS boomed/VBN during/IN 2004./CD
+Web/NN portal/JJ Lycos/NNP Europe/NNP reported/VBD a/DT 500%/CD increase/NN in/IN the/DT number/NN of/IN phishing/VBG e-mail/JJ messages/NNS it/PRP was/VBD catching./NN
+The/DT Anti-Phishing/NNP Working/NN group/NN reported/VBD that/IN the/DT number/NN of/IN phishing/VBG attacks/NNS against/IN new/JJ targets/NNS was/VBD growing/VBG at/IN a/DT rate/NN of/IN 30%/CD or/CC more/JJR per/IN month./NN
+Those/DT who/WP fall/VBP victim/NN to/TO these/DT attacks/NNS can/MD find/VB that/IN their/PRP$ bank/NN account/NN has/VBZ been/VBN cleaned/VBN out/RP or/CC that/IN their/PRP$ good/JJ name/NN has/VBZ been/VBN ruined/VBN by/IN someone/NN stealing/VBG their/PRP$ identity./NN
+This/DT change/NN in/IN the/DT ranks/NNS of/IN virus/NN writers/NNS could/MD mean/VB the/DT end/NN of/IN the/DT mass-mailing/JJ virus/NN which/WDT attempts/NNS to/TO spread/VB by/IN tricking/VBG people/NNS into/IN opening/NN infected/JJ attachments/NNS on/IN e-mail/JJ messages./NN
+"They/NN are/VBP not/RB an/DT efficient/JJ way/NN of/IN spreading/VBG viruses"/NN said/VBD Mr/NNP Hogan./NNP
+"They/NN are/VBP very/RB noisy/NN and/CC they/PRP are/VBP not/RB technically/RB challenging."/VB The/DT opening/NN months/NNS of/IN 2004/CD did/VBD see/VB the/DT appearance/NN of/IN the/DT Netsky/NNP Bagle/NNP and/CC MyDoom/NNP mass/NN mailers/NNS but/CC since/IN then/RB more/JJR surreptitious/JJ viruses/NNS or/CC worms/NNS have/VBP dominated./NN
+
+Mr/NNP Hogan/NNP said/VBD worm/NN writers/NNS were/VBD more/RBR interested/JJ in/IN recruiting/VBG PCs/NNS to/TO take/VB part/NN in/IN "bot/NN nets"/NN that/WDT can/MD be/VB used/VBN to/TO send/VB out/RP spam/NN or/CC to/TO mount/VB attacks/NNS on/IN websites./NN
+
+In/IN September/NNP Symantec/NNP released/VBD statistics/NNS which/WDT showed/VBD that/IN the/DT numbers/NNS of/IN active/JJ "bot/NN computers"/NN rose/VBD from/IN 2000/CD to/TO 30000/CD per/IN day./NN
+Thanks/NNS to/TO these/DT "bot/NN nets"/NN spam/NN continued/VBD to/TO be/VB a/DT problem/NN in/IN 2004./CD
+Anti-spam/NN firms/NNS report/NN that/IN in/IN many/JJ cases/NNS legitimate/JJ e-mail/JJ has/VBZ shrunk/VBN to/TO less/JJR than/IN 30%/CD of/IN messages./NN
+Part/NN of/IN the/DT reason/NN that/IN these/DT "bot/NN nets"/NN have/VBP become/VBN so/RB prevalent/JJ he/PRP said/VBD was/VBD due/JJ to/TO a/DT big/JJ change/NN in/IN the/DT way/NN that/IN many/JJ viruses/NNS were/VBD created./NN
+In/IN the/DT past/JJ many/JJ viruses/NNS such/JJ as/IN Netsky/NNP have/VBP been/VBN the/DT work/NN of/IN an/DT individual/JJ or/CC group./NN
+By/IN contrast/NN said/VBD Mr/NNP Hogan/NNP the/DT code/NN for/IN viruses/NNS such/JJ as/IN Gaobot/NNP Spybot/NNP and/CC Randex/NNP were/VBD commonly/RB held/VBN and/CC many/JJ groups/NNS work/VBP on/IN them/PRP to/TO produce/VB new/JJ variants/NNS at/IN the/DT same/JJ time./NN
+The/DT result/NN is/VBZ that/IN now/RB there/EX are/VBP more/JJR than/IN 3000/CD variations/NNS of/IN the/DT Spybot/NNP worm./NN
+"That's/NN unprecedented"/NN said/VBD Mr/NNP Hogan./NNP
+"What/NN makes/VBZ it/PRP difficult/RB is/VBZ that/IN they/PRP are/VBP all/DT co-existing/JJ with/IN each/DT other/JJ and/CC do/VBP not/RB exist/VB in/IN an/DT easy/JJ to/TO understand/VB chronology."/NN
+
+The/DT emergence/NN of/IN the/DT first/JJ proper/JJ virus/NN for/IN mobile/JJ phones/NNS was/VBD also/RB seen/VBN in/IN 2004./CD
+
+In/IN the/DT past/JJ threats/NNS to/TO smart/JJ phones/NNS have/VBP been/VBN largely/RB theoretical/JJ because/IN the/DT viruses/NNS created/VBN to/TO cripple/VB phones/NNS existed/VBD only/RB in/IN the/DT laboratory/NN rather/RB than/IN the/DT wild./NN
+In/IN June/NNP the/DT Cabir/NNP virus/NN was/VBD discovered/VBN that/WDT can/MD hop/VB from/IN phone/NN to/TO phone/VB using/VBG Bluetooth/NNP short-range/JJ radio/NN technology./NN
+Also/RB released/VBN this/DT year/NN was/VBD the/DT Mosquito/NNP game/NN for/IN Symbian/NNP phones/NNS which/WDT surreptitiously/RB sends/VBZ messages/NNS to/TO premium/VB rate/NN numbers/NNS and/CC in/IN November/NNP the/DT Skulls/NNP Trojan/NNP came/VBD to/TO light/JJ which/WDT can/MD cripple/VB phones./NN
+On/IN the/DT positive/JJ side/NN Finnish/JJ security/NN firm/NN F-Secure/NNP said/VBD that/IN 2004/CD was/VBD the/DT best-ever/JJ year/NN for/IN the/DT capture/NN arrest/NN and/CC sentencing/NN of/IN virus/NN writers/NNS and/CC criminally-minded/JJ hackers./NN
+In/IN total/JJ eight/CD virus/NN writers/NNS were/VBD arrested/VBN and/CC some/DT members/NNS of/IN the/DT so-called/JJ 29A/CD virus/NN writing/NN group/NN were/VBD sentenced./NN
+One/CD high-profile/JJ arrest/NN was/VBD that/IN of/IN German/JJ teenager/NN Sven/NNP Jaschen/NNP who/WP confessed/VBD to/TO be/VB behind/IN the/DT Netsky/NNP and/CC Sasser/NNP virus/NN families./NN
+Also/RB shut/VB down/RP were/VBD the/DT Carderplanet/NNP and/CC Shadowcrew/NNP websites/NNS that/WDT were/VBD used/VBN to/TO trade/VB stolen/VBN credit/NN card/NN numbers./NN

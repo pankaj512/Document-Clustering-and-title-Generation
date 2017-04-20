@@ -1,0 +1,19 @@
+Japanese/JJ growth/NN grinds/VBZ to/TO a/DT halt/NN
+
+Growth/NN in/IN Japan/NNP evaporated/VBD in/IN the/DT three/CD months/NNS to/TO September/NNP sparking/VBG renewed/VBN concern/NN about/IN an/DT economy/NN not/RB long/JJ out/IN of/IN a/DT decade-long/JJ trough./NN
+
+Output/NN in/IN the/DT period/NN grew/VBD just/RB 0.1%/CD an/DT annual/JJ rate/NN of/IN 0.3%./CD
+Exports/NNS -/: the/DT usual/JJ engine/NN of/IN recovery/NN -/: faltered/VBD while/IN domestic/JJ demand/NN stayed/VBD subdued/VBN and/CC corporate/JJ investment/NN also/RB fell/VBD short./NN
+The/DT growth/NN falls/VBZ well/RB short/JJ of/IN expectations/NNS but/CC does/VBZ mark/VBG a/DT sixth/JJ straight/JJ quarter/NN of/IN expansion./NN
+
+The/DT economy/NN had/VBD stagnated/VBN throughout/IN the/DT 1990s/CD experiencing/VBG only/RB brief/JJ spurts/NNS of/IN expansion/NN amid/IN long/JJ periods/NNS in/IN the/DT doldrums./NN
+One/CD result/NN was/VBD deflation/NN -/: prices/NNS falling/VBG rather/RB than/IN rising/VBG -/: which/WDT made/VBD Japanese/JJ shoppers/NNS cautious/JJ and/CC kept/VBD them/PRP from/IN spending./NN
+
+The/DT effect/NN was/VBD to/TO leave/VB the/DT economy/NN more/RBR dependent/JJ than/IN ever/RB on/IN exports/NNS for/IN its/PRP$ recent/JJ recovery./NN
+But/CC high/JJ oil/NN prices/NNS have/VBP knocked/VBN 0.2%/CD off/IN the/DT growth/NN rate/NN while/IN the/DT falling/VBG dollar/NN means/VBZ products/NNS shipped/VBN to/TO the/DT US/PRP are/VBP becoming/VBG relatively/RB more/JJR expensive./NN
+
+The/DT performance/NN for/IN the/DT third/JJ quarter/NN marks/NNS a/DT sharp/JJ downturn/NN from/IN earlier/RBR in/IN the/DT year./NN
+The/DT first/JJ quarter/NN showed/VBD annual/JJ growth/NN of/IN 6.3%/CD with/IN the/DT second/JJ showing/NN 1.1%/CD and/CC economists/NNS had/VBD been/VBN predicting/VBG as/RB much/JJ as/IN 2%/CD this/DT time/NN around./NN
+"Exports/NN slowed/VBD while/IN capital/NN spending/NN became/VBD weaker"/NN said/VBD Hiromichi/NNP Shirakawa/NNP chief/NN economist/NN at/IN UBS/NNP Securities/NNPS in/IN Tokyo./NNP
+"Personal/JJ consumption/NN looks/VBZ good/JJ but/CC it/PRP was/VBD mainly/RB due/JJ to/TO temporary/JJ factors/NNS such/JJ as/IN the/DT Olympics./NNP
+"The/NN amber/NN light/JJ is/VBZ flashing."/VBG The/DT government/NN may/MD now/RB find/VB it/PRP more/RBR difficult/JJ to/TO raise/VB taxes/NNS a/DT policy/NN it/PRP will/MD have/VB to/TO implement/VB when/WRB the/DT economy/NN picks/VBZ up/RP to/TO help/VB deal/VB with/IN Japan's/NNP massive/JJ public/JJ debt./NN

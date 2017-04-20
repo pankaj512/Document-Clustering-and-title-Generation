@@ -1,0 +1,14 @@
+Goodrem/NNP wins/VBZ top/JJ female/JJ MTV/NNP prize/NN
+
+Pop/NN singer/NN Delta/NNP Goodrem/NNP has/VBZ scooped/VBN one/CD of/IN the/DT top/JJ individual/JJ prizes/NNS at/IN the/DT first/JJ Australian/NNP MTV/NNP Music/NNP Awards./NNP
+
+The/DT 21-year-old/JJ singer/NN won/VBD the/DT award/NN for/IN best/JJS female/JJ artist/NN with/IN Australian/JJ Idol/NNP runner-up/JJ Shannon/NNP Noll/NNP taking/VBG the/DT title/NN of/IN best/JJS male/JJ at/IN the/DT ceremony./NN
+Goodrem/NNP known/VBD in/IN both/DT Britain/NNP and/CC Australia/NNP for/IN her/PRP$ role/NN as/IN Nina/NNP Tucker/NNP in/IN TV/NN soap/NN Neighbours/NNS also/RB performed/VBN a/DT duet/NN with/IN boyfriend/NN Brian/NNP McFadden./NNP
+Other/JJ winners/NNS included/VBD Green/NNP Day/NNP voted/VBD best/RBS group/NN and/CC the/DT Black/NNP Eyed/NNP Peas./NNP
+Goodrem/NNP Green/NNP Day/NNP and/CC the/DT Black/NNP Eyed/NNP Peas/NNS took/VBD home/NN two/CD awards/NNS each./NN
+As/RB well/RB as/IN best/JJS female/JJ Goodrem/NNP also/RB took/VBD home/NN the/DT Pepsi/NNP Viewers/NNS Choice/NN Award/NN whilst/NN Green/NNP Day/NNP bagged/VBD the/DT prize/NN for/IN best/JJS rock/NN video/NN for/IN American/NNP Idiot./NNP
+The/DT Black/NNP Eyed/NNP Peas/NNS won/VBD awards/NNS for/IN best/JJS R/NN 'n'/CC B/NNP video/NN and/CC sexiest/JJS video/NN both/DT for/IN Hey/NNP Mama./NNP
+Local/JJ singer/NN and/CC songwriter/NN Missy/NNP Higgins/NNP took/VBD the/DT title/NN of/IN breakthrough/NN artist/NN of/IN the/DT year/NN with/IN Australian/JJ Idol/NNP winner/NN Guy/NNP Sebastian/NNP taking/VBG the/DT honours/NNS for/IN best/JJS pop/NN video./NN
+The/DT VH1/CD First/NNP Music/NNP Award/NN went/VBD to/TO Cher/NNP honouring/VBG her/PRP$ achievements/NNS within/IN the/DT music/NN industry./NN
+The/DT ceremony/NN was/VBD held/VBN at/IN the/DT Luna/NNP Park/NNP fairground/NN in/IN Sydney/NNP Harbour/NNP and/CC was/VBD hosted/VBN by/IN the/DT Osbourne/NNP family./NN
+Artists/NNP including/VBG Carmen/NNP Electra/NNP Missy/NNP Higgins/NNP Kelly/NNP Osbourne/NNP Green/NNP Day/NNP Ja/NNP Rule/NNP and/CC Natalie/NNP Imbruglia/NNP gave/VBD live/VB performances/NNS at/IN the/DT event./NN

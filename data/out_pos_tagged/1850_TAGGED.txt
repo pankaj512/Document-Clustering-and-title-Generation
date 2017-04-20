@@ -1,0 +1,24 @@
+Warnings/NNS about/IN junk/NN mail/NN deluge/NN
+
+The/DT amount/NN of/IN spam/NN circulating/VBG online/NN could/MD be/VB about/IN to/TO undergo/VB a/DT massive/JJ increase/NN say/VBP experts./NN
+
+Anti-spam/NNP group/NN Spamhaus/NNP is/VBZ warning/NN about/IN a/DT novel/NN virus/NN which/WDT hides/NNS the/DT origins/NNS of/IN junk/NN mail./NN
+The/DT program/NN makes/VBZ spam/NN look/NN like/IN it/PRP is/VBZ being/VBG sent/VBN by/IN legitimate/JJ mail/NN servers/NNS making/VBG it/PRP hard/JJ to/TO spot/VB and/CC filter/NN out./NN
+Spamhaus/NNP said/VBD that/IN if/IN the/DT problem/NN went/VBD unchecked/JJ real/JJ e-mail/JJ messages/NNS could/MD get/VB drowned/VBN by/IN the/DT sheer/JJ amount/NN of/IN junk/NN being/VBG sent./NN
+
+Before/IN now/RB many/JJ spammers/NNS have/VBP recruited/VBN home/NN PCs/NNS to/TO act/VB as/IN anonymous/JJ e-mail/JJ relays/NNS in/IN an/DT attempt/NN to/TO hide/VB the/DT origins/NNS of/IN their/PRP$ junk/NN mail./NN
+The/DT PCs/NNS are/VBP recruited/VBN using/VBG viruses/NNS and/CC worms/NNS that/DT compromise/NN machines/NNS via/IN known/VBN vulnerabilities/NNS or/CC by/IN tricking/VBG people/NNS into/IN opening/VBG an/DT attachment/NN infected/JJ with/IN the/DT malicious/JJ program./NN
+Once/RB compromised/VBN the/DT machines/NNS start/VBP to/TO pump/VB out/RP junk/NN mail/NN on/IN behalf/NN of/IN spammers./NN
+Spamhaus/NNP helps/VBZ to/TO block/VB junk/NN messages/NNS from/IN these/DT machines/NNS by/IN collecting/VBG and/CC circulating/VBG blacklists/NNS of/IN net/JJ addresses/NNS known/VBN to/TO harbour/VB infected/JJ machines./NN
+But/CC the/DT novel/NN worm/NN spotted/VBD recently/RB by/IN Spamhaus/NNP routes/NNS junk/NN via/IN the/DT mail/NN servers/NNS of/IN the/DT net/JJ service/NN firm/NN that/IN infected/JJ machines/NNS used/VBN to/TO get/VB online/NN in/IN the/DT first/JJ place./NN
+In/IN this/DT way/NN the/DT junk/NN mail/NN gets/VBZ a/DT net/JJ address/NN that/WDT looks/VBZ legitimate./NN
+As/IN blocking/VBG all/DT mail/NN from/IN net/JJ firms/NNS just/RB to/TO catch/VB the/DT spam/NN is/VBZ impractical/JJ Spamhaus/NNP is/VBZ worried/VBN that/IN the/DT technique/NN will/MD give/VB junk/NN mailers/NNS the/DT ability/NN to/TO spam/VB with/IN little/JJ fear/NN of/IN being/VBG spotted/VBD and/CC stopped./NN
+Steve/NNP Linford/NNP director/NN of/IN Spamhaus/NNP predicted/VBD that/IN if/IN a/DT lot/NN of/IN spammers/NNS exploit/VBP this/DT technique/NN it/PRP could/MD trigger/VB the/DT failure/NN of/IN the/DT net's/NNS e-mail/JJ sending/NN infrastructure./NN
+David/NNP Stanley/NNP UK/NNP managing/VBG director/NN of/IN filtering/VBG firm/NN Ciphertrust/NNP said/VBD the/DT new/JJ technique/NN was/VBD the/DT next/JJ logical/JJ step/NN for/IN spammers./NN
+"They/NN are/VBP adding/VBG to/TO their/PRP$ armoury"/NN he/PRP said./VB
+The/DT amount/NN of/IN spam/NN in/IN circulation/NN was/VBD still/RB growing/VBG said/VBD Mr/NNP Stanley/NNP but/CC he/PRP did/VBD not/RB think/VB that/IN the/DT appearance/NN of/IN this/DT trick/NN would/MD mean/VB e-mail/JJ meltdown./NN
+But/CC Kevin/NNP Hogan/NNP senior/JJ manager/NN at/IN Symantec/NNP security/NN response/NN said/VBD such/JJ warnings/NNS were/VBD premature./NN
+"If/NN something/NN like/IN this/DT mean/NN the/DT end/NN of/IN e-mail/JJ then/RB e-mail/JJ would/MD have/VB stopped/VBN two-three/JJ years/NNS ago"/NN said/VBD Mr/NNP Hogan./NNP
+While/IN the/DT technique/NN of/IN routing/VBG mail/NN via/IN mail/NN servers/NNS of/IN net/JJ service/NN firms/NNS might/MD cause/VB problems/NNS for/IN those/DT that/WDT use/VBP blacklists/NNS and/CC block/VB lists/NNS it/PRP did/VBD not/RB mean/VB that/IN other/JJ techniques/NNS for/IN stopping/VBG spam/NN lost/VBD their/PRP$ efficacy/NN too./NN
+Mr/NNP Hogan/NNP said/VBD 90%/CD of/IN the/DT junk/NN mail/NN filtered/VBN by/IN Symantec/NNP subsidiary/NN Brightmail/NNP was/VBD spotted/VBN using/VBG techniques/NNS that/WDT did/VBD not/RB rely/VB on/IN looking/VBG at/IN net/JJ addresses./NN
+For/IN instance/NN said/VBD Mr/NNP Hogan/NNP filtering/VBG out/RP e-mail/JJ messages/NNS that/WDT contain/VBP a/DT web/NN link/NN can/MD stop/VB about/IN 75%/CD of/IN spam./NN

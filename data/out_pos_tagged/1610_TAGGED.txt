@@ -1,0 +1,11 @@
+Davies/NNP favours/NNS Gloucester/NNP future/JJ
+
+Wales/NNP hooker/NN Mefin/NNP Davies/NNP is/VBZ likely/JJ to/TO stay/VB with/IN English/JJ side/NN Gloucester/NNP despite/IN reported/VBD interest/NN from/IN the/DT Neath-Swansea/NNP Ospreys./NNP
+
+BBC/NNP Wales/NNP understands/VBZ the/DT Ospreys/NNP are/VBP interested/JJ in/IN the/DT 32-year-old/JJ but/CC that/IN he/PRP would/MD prefer/VB to/TO stay/VB where/WRB he/PRP is./VB
+Davies/NNP one/CD of/IN the/DT stars/NNS of/IN Saturday's/NNP RBS/NNP Six/CD Nations/NNPS win/VBP over/IN England/NNP is/VBZ only/RB on/IN a/DT year/NN contract/NN at/IN Kingsholm./NNP
+But/CC the/DT hooker/NN has/VBZ proved/VBN his/PRP$ worth/JJ to/TO the/DT Zurich/NNP Premiership/NN side/NN and/CC is/VBZ likely/JJ to/TO get/VB a/DT new/JJ deal/NN next/JJ season./NN
+The/DT summer/NN demise/NN of/IN the/DT Celtic/NNP Warriors/NNS region/NN left/VBN Davies/NNP in/IN the/DT cold/JJ and/CC forced/VBD him/PRP to/TO take/VB a/DT semi-professional/JJ contract/NN with/IN Neath/NNP RFC./NNP
+Although/IN he/PRP got/VBD match/VB time/NN with/IN the/DT Ospreys/NNP at/IN the/DT request/NN of/IN the/DT Wales/NNP management/NN he/PRP admitted/VBD before/IN his/PRP$ move/NN to/TO Gloucester/NNP that/IN he/PRP was/VBD angry/JJ with/IN the/DT way/NN he/PRP was/VBD treated./NN
+"The/NNP WRU/NNP didn't/NN give/VBP me/PRP any/DT help/NN off/RP the/DT field/NN it/PRP was/VBD very/RB disappointing"/JJ Davies/NNP said/VBD at/IN the/DT time./NN
+"It/NN was/VBD a/DT hard/JJ time/NN throughout/IN the/DT summer/NN then/RB deciding/VBG whether/IN to/TO accept/VB an/DT offer/NN from/IN Stade/NNP Francais/NNP which/WDT would/MD have/VB ended/VBN my/PRP$ Wales/NNP career."/NN

@@ -1,0 +1,14 @@
+Kennedy/NNP calls/VBZ for/IN Iraq/NNP exit/NN plans/NNS
+
+Tony/NNP Blair/NNP should/MD set/VB out/RP a/DT proper/JJ exit/NN strategy/NN from/IN Iraq/NNP in/IN the/DT wake/NN of/IN next/JJ Sunday's/NNP elections/NNS in/IN the/DT country/NN Lib/NNP Dem/NNP leader/NN Charles/NNP Kennedy/NNP has/VBZ said./NN
+
+In/IN a/DT speech/NN focusing/VBG on/IN issues/NNS arising/VBG from/IN the/DT re-election/NN of/IN George/NNP W/NNP Bush/NNP Mr/NNP Kennedy/NNP said/VBD Iraq/NNP had/VBD become/VBN a/DT "crucible/NN of/IN militant/JJ terrorism"./NN
+He/PRP wants/VBZ to/TO see/VB a/DT phased/VBN withdrawal/NN of/IN UK/NNP troops/NNS "as/NN soon/RB as/IN the/DT situation/NN allows"/NN he/PRP said/VBD in/IN London./NNP
+Any/DT exit/NN strategy/NN must/MD "augment/VB and/CC support"/VB the/DT democratic/JJ process./NN
+
+"There/NN are/VBP some/DT who/WP are/VBP of/IN the/DT opinion/NN that/IN the/DT mere/JJ presence/NN of/IN British/JJ and/CC American/JJ troops/NNS in/IN Iraq/NNP feeds/VBZ the/DT insurgency"/NN he/PRP said./VB
+"There/NN is/VBZ some/DT truth/NN in/IN that/DT especially/RB after/IN the/DT initial/JJ mistakes/NNS that/WDT were/VBD made/VBN -/: the/DT heavy-handedness/NN of/IN operations/NNS like/IN Fallujah/NNP and/CC the/DT well-publicised/JJ instances/NNS of/IN abuse/NN at/IN the/DT hands/NNS of/IN coalition/NN forces."/NN Mr/NNP Kennedy/NNP pointed/VBD out/RP that/IN the/DT Netherlands/NNP Portugal/NNP and/CC the/DT Czech/JJ Republic/NNP which/WDT all/DT have/VBP troops/NNS operating/VBG in/IN the/DT southern/JJ sector/NN of/IN Iraq/NNP have/VBP announced/VBN their/PRP$ imminent/JJ withdrawal/NN "regardless/NN of/IN the/DT situation/NN on/IN the/DT ground"./NN
+
+He/PRP accused/VBD Mr/NNP Blair's/NNP government/NN of/IN "being/VBG less/JJR than/IN straightforward"/NN over/IN its/PRP$ plans./NN
+"Next/NN week/NN the/DT prime/JJ minister/NN should/MD make/VB a/DT statement/NN regarding/VBG the/DT elections/NNS in/IN Iraq"/NNP Mr/NNP Kennedy/NNP said/VBD during/IN his/PRP$ City/NNP of/IN London/NNP speech./NN
+"He/NN should/MD set/VB out/RP a/DT proper/JJ exit/NN strategy/NN including/VBG the/DT phased/VBN withdrawal/NN of/IN British/JJ troops/NNS as/IN the/DT security/NN situation/NN allows."/NN Mr/NNP Kennedy/NNP also/RB argued/VBD that/IN British/JJ troops/NNS deployed/VBN in/IN Iraq/NNP should/MD be/VB replaced/VBN with/IN forces/NNS from/IN other/JJ countries/NNS -/: "especially/RB Islamic/NNP countries"./NN

@@ -1,0 +1,15 @@
+Orange/NNP colour/NN clash/NN set/VBN for/IN court/NN
+
+A/DT row/NN over/IN the/DT colour/NN orange/NN could/MD hit/VB the/DT courts/NNS after/IN mobile/JJ phone/NN giant/NN Orange/NNP launched/VBD action/NN against/IN a/DT new/JJ mobile/JJ venture/NN from/IN Easyjet's/NNP founder./NN
+
+Orange/NNP said/VBD it/PRP was/VBD starting/VBG proceedings/NNS against/IN the/DT Easymobile/NNP service/NN for/IN trademark/NN infringement./NN
+Easymobile/NNP uses/VBZ Easygroup's/NNP orange/NN branding./NN
+Founder/NNP Stelios/NNP Haji-Ioannou/NNP has/VBZ pledged/VBN to/TO contest/VB the/DT action./NN
+The/DT move/NN comes/VBZ after/IN the/DT two/CD sides/NNS failed/VBD to/TO come/VB to/TO an/DT agreement/NN after/IN six/CD months/NNS of/IN talks./NN
+Orange/NN claims/VBZ the/DT new/JJ low-cost/JJ mobile/JJ service/NN has/VBZ infringed/VBN its/PRP$ rights/NNS regarding/VBG the/DT use/NN of/IN the/DT colour/NN orange/NN and/CC could/MD confuse/VB customers/NNS -/: known/VBN as/IN "passing/VBG off"./NN
+
+"Our/NN brand/NN and/CC the/DT rights/NNS associated/VBN with/IN it/PRP are/VBP extremely/RB important/JJ to/TO us"/VB Orange/NNP said/VBD in/IN a/DT statement./NN
+"In/NN the/DT absence/NN of/IN any/DT firm/JJ commitment/NN from/IN Easy/NNP we/PRP have/VBP been/VBN left/VBN with/IN no/DT choice/NN but/CC to/TO start/VB an/DT action/NN for/IN trademark/NN infringement/NN and/CC passing/VBG off."/NN However/RB Mr/NNP Haji-Ioannou/NNP who/WP plans/VBZ to/TO launch/VB Easymobile/NNP next/JJ month/NN vowed/VBD to/TO fight/VB back/RB saying/VBG "We/NN have/VBP nothing/NN to/TO be/VB afraid/JJ of/IN in/IN this/DT court/NN case./NN
+"It/NN is/VBZ our/PRP$ right/NN to/TO use/VB our/PRP$ own/JJ corporate/JJ colour/NN for/IN which/WDT we/PRP have/VBP become/VBN famous/JJ during/IN the/DT last/JJ 10/CD years."/NN The/DT Easyjet/NNP founder/NN also/RB said/VBD he/PRP planned/VBD to/TO add/VB a/DT disclaimer/NN to/TO the/DT Easygroup/NNP website/NN to/TO ensure/VB customers/NNS are/VBP aware/JJ the/DT Easymobile/NNP brand/NN has/VBZ no/DT connection/NN to/TO Orange./NNP
+The/DT new/JJ service/NN is/VBZ the/DT latest/JJS venture/NN from/IN Easygroup/NNP which/WDT includes/VBZ a/DT chain/NN of/IN internet/JJ cafes/NNS budget/NN car/NN rentals/NNS and/CC an/DT intercity/JJ bus/NN service./NN
+Easymobile/NNP will/MD allow/VB customers/NNS to/TO go/VB online/NN to/TO order/VB SIM/NNP cards/NNS and/CC airtime/NN -/: which/WDT will/MD be/VB rented/VBN from/IN T-Mobile/NNP -/: for/IN their/PRP$ existing/VBG handsets./NN

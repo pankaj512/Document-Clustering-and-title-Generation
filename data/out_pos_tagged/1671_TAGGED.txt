@@ -1,0 +1,28 @@
+Saint-Andre/NNP anger/NN at/IN absent/JJ stars/NNS
+
+Sale/NN Sharks/NNS director/NN of/IN rugby/NN Philippe/NNP Saint-Andre/NNP has/VBZ re-opened/JJ rugby's/NNS club-versus-country/JJ debate./NN
+
+Sale/NNP host/NN Bath/NN in/IN the/DT Powergen/NNP Cup/NNP on/IN Friday/NNP but/CC the/DT Frenchman/NNP has/VBZ endured/VBN a/DT "difficult/NN week"/NN with/IN six/CD players/NNS away/RB on/IN England's/NNP Six/CD Nations/NNPS training/NN camp./NN
+"It's/NN an/DT important/JJ game/NN but/CC we've/NN just/RB the/DT one/CD full/JJ session./NN
+It's/VBG the/DT same/JJ for/IN everyone/NN but/CC we/PRP need/VBP to/TO manage/VB it./NN
+"If/NN five/CD players/NNS or/CC more/JJR are/VBP picked/VBN for/IN your/PRP$ country/NN they/PRP should/MD move/VB the/DT date/NN of/IN the/DT game"/NN he/PRP told/VBD BBC/NNP Sport./NNP
+Unless/IN the/DT authorities/NNS agree/VBP to/TO make/VB changes/NNS Saint-Andre/NNP believes/VBZ England's/NNP national/JJ team/NN will/MD suffer/VB as/IN clubs/NNS opt/VBP to/TO sign/VB foreigners/NNS and/CC retired/VBN internationals./JJ
+"That's/NN not/RB good/JJ for/IN the/DT politics/NNS of/IN the/DT English/JJ team/NN or/CC for/IN English/JJ rugby"/NN he/PRP argues./VB
+It/PRP is/VBZ an/DT issue/NN he/PRP has/VBZ taken/VBN up/RP before/IN most/RBS notably/RB during/IN the/DT autumn/NN internationals/NNS when/WRB Sale/NNP lost/VBD all/DT three/CD Zurich/NNP Premiership/NN matches/VBZ they/PRP played./NN
+
+Now/RB he/PRP fears/VBZ it/PRP could/MD derail/VB the/DT club's/NNS hopes/NNS of/IN cup/NN silverware/NN after/IN eight/CD players/NNS including/VBG captain/NN Jason/NNP Robinson/NNP and/CC fly-half/JJ Charlie/NNP Hodgson/NNP were/VBD away/RB with/IN their/PRP$ countries./NN
+"We're/NN in/IN the/DT quarter-finals/NNS it's/NNS always/RB better/JJR to/TO play/VB at/IN home/NN than/IN away/RB and/CC it's/VBZ a/DT great/JJ opportunity"/NN he/PRP added./VB
+"But/NN we/PRP have/VBP to/TO be/VB careful./NN
+Bath/NN have/VBP just/RB been/VBN knocked/VBN out/IN of/IN Europe/NNP and/CC will/MD make/VB it/PRP a/DT tough/JJ game./NN
+It/PRP also/RB comes/VBZ at/IN the/DT end/NN of/IN a/DT very/RB very/RB difficult/JJ week./NN
+"Sebastien/NNP Bruno's/NNP been/VBN with/IN France/NNP Jason/NNP White/NNP with/IN Scotland/NNP and/CC there/EX are/VBP six/CD with/IN England/NNP that's/NNS eight/CD players/NNS plus/CC injuries/NNS -/: 13/CD players/NNS out/IN of/IN a/DT squad/NN of/IN 31./CD
+"We'll/NN have/VBP just/RB one/CD session/NN together/RB and/CC will/MD have/VB to/TO do/VB our/PRP$ best/JJS to/TO make/VB that/IN a/DT good/JJ one/CD on/IN Thursday/NNP afternoon."/NN
+
+Gloucester/NNS have/VBP also/RB been/VBN caught/VBN in/IN a/DT club-versus-country/JJ conflict/NN after/IN England/NNP sought/VBD a/DT second/JJ medical/JJ opinion/NN on/IN James/NNP Simpson-Daniel's/NNP fitness./NN
+The/DT winger/NN is/VBZ carrying/VBG a/DT shoulder/NN injury/NN and/CC the/DT national/JJ team/NN management/NN believe/VBP he/PRP requires/VBZ time/NN on/IN the/DT sidelines./NN
+As/IN a/DT result/NN he/PRP misses/VBZ the/DT Cherry/NNP and/CC White's/NNP quarter-final/JJ at/IN home/NN to/TO Bristol./NNP
+"Under/NN the/DT Elite/NN Player/NNP Squad/NN agreement/NN England/NNP wanted/VBD a/DT second/JJ opinion/NN which/WDT they/PRP can/MD do"/VB director/NN of/IN rugby/NN Nigel/NNP Melville/NNP told/VBD the/DT Gloucester/NNP Citizen./NNP
+
+"They/NN obviously/RB want/VBP him/PRP for/IN international/JJ rugby/NN and/CC we/PRP want/VBP him/PRP for/IN club/NN rugby/NN in/IN what/WP is/VBZ a/DT very/RB important/JJ game/NN for/IN us./NN
+There/EX is/VBZ a/DT conflict/NN of/IN interests./JJ
+"The/NN surgeon/NN who/WP carried/VBD out/RP his/PRP$ operation/NN said/VBD he/PRP was/VBD fine/NN for/IN us/PRP but/CC England/NNP say/VBP he/PRP is/VBZ still/RB vulnerable/JJ to/TO be/VB damaged/VBN again/RB and/CC want/VBP him/PRP on/IN a/DT full/JJ rehab/NN programme."/NN Simpson-Daniel/NNP added/VBD "I've/NN said/VBD to/TO Nigel/NNP I/PRP want/VBP to/TO be/VB back/RB playing/VBG and/CC that/DT means/VBZ if/IN everything/NN goes/VBZ well/RB this/DT week/NN I/PRP can/MD target/VB the/DT Worcester/NNP game/NN (on/NN 29/CD January)/NNP for/IN a/DT return."/NN

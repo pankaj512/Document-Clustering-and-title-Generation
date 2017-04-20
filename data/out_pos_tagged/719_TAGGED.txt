@@ -1,0 +1,11 @@
+US/PRP show/VBP sued/VBD for/IN rat-eating/JJ stunt/NN
+
+A/DT US/PRP TV/VBP network/NN is/VBZ being/VBG sued/VBN for/IN $2.5m/CD (£1.3m)/CD by/IN a/DT viewer/NN who/WP says/VBZ he/PRP was/VBD disgusted/VBN by/IN watching/VBG contestants/NNS eat/VBP dead/JJ rats/NNS in/IN a/DT stunt/NN show./NN
+
+Austin/NNP Aitken/NNP is/VBZ taking/VBG action/NN against/IN NBC/NNP over/IN its/PRP$ programme/NN Fear/NN Factor./NNP
+He/PRP said/VBD watching/VBG the/DT show/NN caused/VBD his/PRP$ blood/NN pressure/NN to/TO rise/VB so/RB high/JJ that/IN he/PRP became/VBD dizzy/NN and/CC light-headed./JJ
+The/DT legal/JJ assistant/NN said/VBD NBC/NNP was/VBD "sending/VBG the/DT wrong/JJ message/NN to/TO viewers/NNS that/DT cash/NN can/MD make/VB or/CC have/VB people/NNS do/VBP just/RB about/IN anything/NN beyond/IN reasoning"./NN
+The/DT hand-written/JJ four-page/JJ lawsuit/NN said/VBD "To/NN have/VBP the/DT individuals/NNS on/IN the/DT show/NN eat/NN and/CC drink/NN dead/JJ rats/NNS was/VBD crazy/JJ and/CC from/IN a/DT viewer's/NNS point/NN of/IN view/NN made/VBD me/PRP throw-up/JJ as/RB well/RB as/IN another/DT in/IN the/DT house/NN at/IN the/DT same/JJ time."/NN Mr/NNP Aitken/NNP who/WP lives/VBZ in/IN Cleveland/NNP said/VBD that/IN after/IN becoming/VBG light-headed/JJ he/PRP ran/VBD towards/IN the/DT bedroom/NN and/CC knocked/VBD his/PRP$ head/NN in/IN a/DT doorway./NN
+A/DT spokesman/NN for/IN NBC/NNP said/VBD it/PRP had/VBD no/DT comment/NN on/IN the/DT lawsuit/NN but/CC confirmed/VBD the/DT stunt/NN show/NN did/VBD feature/NN a/DT rat-eating/JJ scene/NN in/IN New/NNP York's/NNP Times/NNP Square/NNP on/IN 8/CD November./NNP
+Past/JJ shows/NNS have/VBP featured/VBN viewers/NNS eating/VBG spiders/NNS and/CC live/VB worms./NN
+The/DT programme/NN has/VBZ been/VBN screened/VBN in/IN the/DT UK/NNP on/IN Sky/NNP One./NNP

@@ -1,0 +1,17 @@
+Khodorkovsky/NNP quits/VBZ Yukos/NNP shares/NNS
+
+Jailed/VBN tycoon/NN Mikhail/NNP Khodorkovsky/NNP has/VBZ transferred/VBN his/PRP$ controlling/VBG stake/NN in/IN oil/NN giant/NN Yukos/NNP to/TO a/DT business/NN partner./NN
+
+Mr/NNP Khodorkovsky/NNP handed/VBD over/IN his/PRP$ entire/JJ 59.5%/CD stake/NN in/IN holding/VBG company/NNP Group/NNP Menatep/NNP -/: which/WDT controls/NNS Yukos/NNP -/: to/TO Leonid/NNP Nevzlin./NNP
+A/DT close/NN ally/NN of/IN the/DT ex-Yukos/NN boss/NN Mr/NNP Nevzlin/NNP is/VBZ currently/RB based/VBN in/IN Israel./NNP
+Mr/NNP Khodorkovsky/NNP handed/VBD over/IN his/PRP$ stake/NN after/IN the/DT forced/VBN sale/NN of/IN Yukos'/NNP core/NN oil/NN production/NN unit/NN Yuganskneftegaz/NNP to/TO pay/VB a/DT giant/JJ tax/NN bill./NN
+
+Yuganskneftegaz/NNP was/VBD sold/VBN off/RP at/IN auction/NN in/IN December/NNP last/JJ year/NN eventually/RB falling/VBG into/IN the/DT hands/NNS of/IN state/NN oil/NN firm/NN Rosneft/NNP in/IN a/DT deal/NN worth/JJ $9.4bn/CD (£5bn)./CD
+"Since/NN the/DT sale/NN of/IN Yuganskneftegaz/NNP I/PRP have/VBP been/VBN delivered/VBN of/IN (all)/NN responsibility/NN for/IN the/DT business/NN that/WDT remains/VBZ and/CC the/DT group's/NNS money/NN as/IN a/DT whole"/NN Mr/NNP Khodorkovsky/NNP said./NN
+"It/NN is/VBZ all/DT over./NN
+As/IN before/IN I/PRP see/VBP my/PRP$ future/NN in/IN public/JJ activity/NN to/TO build/VB a/DT civil/JJ society/NN in/IN Russia."/NNP Mr/NNP Nevzlin/NNP is/VBZ Yukos'/NNP largest/JJS shareholder/NN but/CC is/VBZ living/VBG in/IN self-imposed/JJ exile/NN in/IN Israel./NNP
+Yuganskneftegaz/NN pumps/NNS around/IN 1/CD million/CD barrels/NNS of/IN oil/NN a/DT day./NN
+It/PRP was/VBD sold/VBN by/IN the/DT Russian/JJ authorities/NNS to/TO recover/VB government/NN tax/NN claims/NNS against/IN Yukos/NNP totalling/VBG over/IN $27bn./CD
+Previously/RB considered/VBN to/TO be/VB Russia's/NNP richest/JJS man/NN with/IN an/DT estimated/VBN fortune/NN of/IN $15bn/CD Mr/NNP Khodorkovsky/NNP is/VBZ currently/RB on/IN trial/NN for/IN fraud/NN and/CC tax/NN evasion/NN following/VBG his/PRP$ arrest/NN in/IN October/NNP 2003./CD
+However/RB the/DT charges/NNS are/VBP widely/RB seen/VBN as/RB politically/RB motivated/VBN and/CC part/NN of/IN a/DT drive/NN by/IN Russian/JJ President/NNP Vladimir/NNP Putin/NNP to/TO rein/VB in/RP the/DT country's/NNS super-rich/JJ business/NN leaders/NNS the/DT so-called/JJ oligarchs./NN
+It/PRP is/VBZ also/RB believed/VBN that/IN Mr/NNP Khodorkovsky/NNP was/VBD particularly/RB targeted/VBN because/IN he/PRP had/VBD started/VBN to/TO bankroll/VB political/JJ opponents/NNS of/IN Mr/NNP Putin./NNP

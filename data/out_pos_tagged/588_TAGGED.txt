@@ -1,0 +1,23 @@
+Baby/NNP becomes/VBZ new/JJ Oscar/NNP favourite/NN
+
+Clint/NNP Eastwood's/NNP boxing/VBG drama/NN Million/CD Dollar/NN Baby/NNP has/VBZ become/VBN the/DT new/JJ favourite/NN to/TO win/VB best/JJS picture/NN at/IN the/DT Oscars/NNP on/IN Sunday./NNP
+
+According/VBG to/TO pundits/NNS the/DT film/NN has/VBZ overtaken/NN previous/JJ favourite/NN The/DT Aviator/NNP with/IN Eastwood/NNP also/RB tipped/VBD to/TO take/VB the/DT best/JJS director/NN award./NN
+Its/PRP$ star/NN Hilary/NNP Swank/NNP is/VBZ favourite/NN to/TO win/VB best/JJS actress/NN while/IN Jamie/NNP Foxx/NNP is/VBZ tipped/VBN to/TO win/VB best/JJS actor/NN for/IN Ray./NNP
+Million/CD Dollar/NN Baby/NNP has/VBZ seven/CD nominations/NNS while/IN The/DT Aviator/NNP has/VBZ 11./CD
+The/DT Aviator/NNP has/VBZ scored/VBN a/DT best/JJS director/NN nomination/NN for/IN Martin/NNP Scorsese/NNP who/WP has/VBZ never/RB won/VBN an/DT Oscar/NNP while/IN stars/NNS Leonardo/NNP DiCaprio/NNP and/CC Cate/NNP Blanchett/NNP are/VBP both/DT nominated/VBN for/IN acting/VBG Oscars./NNP
+
+"If/NN you/PRP look/VBP at/IN the/DT Oscars/NNP race/NN The/DT Aviator/NNP should/MD be/VB ahead"/NN said/VBN awards/NNS pundit/NN Tom/NNP O'Neil./NNP
+"It/NN is/VBZ the/DT most/RBS nominated/JJ film/NN and/CC the/DT most/RBS nominated/JJ movie/NN has/VBZ won/VBN best/RBS picture/NN 18/CD times/NNS out/IN of/IN the/DT last/JJ 20/CD years./NN
+"But/NN the/DT reality/NN is/VBZ Million/CD Dollar/NN Baby/NNP is/VBZ the/DT dark/JJ horse./NN
+People/NNS feel/VBP emotionally/RB about/IN it/PRP and/CC Clint/NNP is/VBZ a/DT beloved/JJ Hollywood/NNP chum/NN of/IN the/DT Academy/NNP voters"/NN he/PRP said./VB
+Anne/NNP Thompson/NNP of/IN the/DT Hollywood/NNP Reporter/NN said/VBD that/IN Million/CD Dollar/NN Baby/NNP was/VBD "heart-wrenching"./JJ
+"It's/NN very/RB emotional/JJ it/PRP even/RB makes/VBZ grown/VBN men/NNS cry"/VBP she/PRP said./VBP
+"The/NNP Aviator/NNP is/VBZ a/DT gorgeous/JJ movie/NN but/CC it's/NNS colder."/NN
+
+In/IN the/DT acting/VBG categories/NNS Foxx/NNP is/VBZ regarded/VBN as/RB almost/RB unbeatable/JJ for/IN his/PRP$ performance/NN as/IN Ray/NNP Charles/NNP in/IN Ray./NNP
+"The/NN performance/NN is/VBZ based/VBN on/IN a/DT real/JJ person/NN who/WP was/VBD a/DT showbusiness/NN hero/NN with/IN a/DT handicap/NN who/WP recently/RB died"/VBP O'Neil/NNP said./NN
+"He/NN has/VBZ unstoppable/JJ momentum/NN among/IN the/DT voters."/NN Hilary/NNP Swank/NNP is/VBZ the/DT favourite/NN to/TO win/VB best/JJS actress/NN for/IN the/DT second/JJ time/NN in/IN six/CD years./NN
+She/PRP previously/RB won/VBD in/IN 1999/CD for/IN her/PRP$ performance/NN in/IN Boys/NNPS Don't/NNP Cry./NNP
+In/IN the/DT supporting/VBG categories/NNS Cate/NNP Blanchett/NNP is/VBZ tipped/VBN to/TO win/VB for/IN her/PRP$ performance/NN as/IN Katharine/NNP Hepburn/NNP in/IN The/DT Aviator/NNP while/IN Morgan/NNP Freeman/NNP is/VBZ favourite/NN to/TO take/VB home/NN his/PRP$ first/JJ ever/RB Oscar/NNP for/IN Million/CD Dollar/NN Baby./NNP
+The/DT Oscars/NNP will/MD take/VB place/NN at/IN Hollywood's/NNP Kodak/NNP Theatre/NNP on/IN 27/CD February./NNP

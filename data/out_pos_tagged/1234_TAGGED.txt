@@ -1,0 +1,23 @@
+Lib/NNP Dems/NNP highlight/VB problem/NN debt/NN
+
+People/NNS vulnerable/JJ to/TO problem/VB debts/NNS should/MD be/VB afforded/VBN greater/JJR protection/NN from/IN banks/NNS aggressively/RB promoting/VBG financial/JJ products/NNS the/DT Lib/NNP Dems/NNP say./NN
+
+Vincent/NNP Cable/NNP says/VBZ one/CD in/IN eight/CD households/NNS already/RB struggle/VBP with/IN debt/NN and/CC that/WDT will/MD worsen/VB if/IN there/EX is/VBZ a/DT hike/NN in/IN interest/NN rates/NNS or/CC unemployment./NN
+The/DT Lib/NNP Dems'/NNP Treasury/NNP spokesman/NN is/VBZ unveiling/VBG a/DT policy/NN aimed/VBN at/IN the/DT issue./NN
+He/PRP wants/VBZ to/TO see/VB "proper/NN health/NN checks"/NN when/WRB loans/NNS are/VBP marketed/VBN so/RB people/NNS know/VBP to/TO take/VB out/RP payment/NN protection./NN
+
+"Were/JJ economic/JJ conditions/NNS to/TO deteriorate/VB at/IN all/DT large/JJ numbers/NNS of/IN people/NNS could/MD be/VB affected/VBN because/IN they/PRP have/VBP borrowed/VBN to/TO the/DT limit"/NN Mr/NNP Cable/NNP told/VBD BBC/NNP News./NNP
+"Banks/NN are/VBP very/RB aggressively/RB promoting/VBG debt/NN in/IN many/JJ cases/NNS there/RB is/VBZ a/DT bigger/JJR problem/NN ahead."/NN Mr/NNP Cable/NNP said/VBD the/DT government's/NNS Consumer/NNP Credit/NNP Bill/NNP would/MD target/VB some/DT of/IN the/DT "extreme/NN problems"/NN such/JJ as/IN loan/NN sharking/VBG but/CC ministers/NNS had/VBD been/VBN "a/NN bit/NN complacent"/NN about/IN the/DT wider/JJR issue/NN of/IN debt/NN levels./NN
+He/PRP said/VBD much/JJ of/IN the/DT payment/NN protection/NN currently/RB available/JJ was/VBD "extremely/RB expensive"/NN and/CC there/EX were/VBD "lots/NN of/IN exclusions"./NN
+
+Mr/NNP Cable/NNP added/VBD that/IN the/DT Office/NNP of/IN Fair/NNP Trading/NN should/MD investigate/VB the/DT market./NN
+Lib/NNP Dem/NNP leader/NN Charles/NNP Kennedy/NNP meanwhile/RB is/VBZ in/IN the/DT middle/NN of/IN a/DT tour/NN of/IN the/DT UK/NNP aimed/VBD at/IN persuading/VBG voters/NNS his/PRP$ is/VBZ the/DT "real/JJ opposition"./NN
+Mr/NNP Kennedy/NNP is/VBZ visiting/VBG a/DT mixture/NN of/IN rural/JJ seats/NNS where/WRB his/PRP$ party/NN is/VBZ hoping/VBG to/TO make/VB gains/NNS from/IN the/DT Conservatives/NNS and/CC urban/JJ areas/NNS traditionally/RB associated/VBN with/IN Labour./NNP
+Labour/NNS say/VBP a/DT Lib/NNP Dem/NNP vote/NN could/MD "let/VB the/DT Tories/NNPS in"/NN while/IN the/DT Tories/NNPS say/VBP the/DT Lib/NNP Dems/NNP would/MD mean/VB "higher/NN taxes/NNS soft/JJ crime/NN laws/NNS more/JJR power/NN to/TO Europe"./NNP
+Mr/NNP Kennedy's/NNP tour/NN comes/VBZ as/IN he/PRP Labour/NNP leader/NN Tony/NNP Blair/NNP and/CC Conservative/JJ leader/NN Michael/NNP Howard/NNP all/DT step/NN up/RP campaigning/NN ahead/RB of/IN the/DT next/JJ General/NNP Election/NNP widely/RB expected/VBD to/TO be/VB held/VBN on/IN 5/CD May./NNP
+
+The/DT Liberal/NNP Democrats/NNPS say/VBP in/IN the/DT northern/JJ cities/NNS the/DT race/NN is/VBZ between/IN them/PRP and/CC Labour/NNP while/IN in/IN southern/JJ seats/NNS -/: particularly/RB the/DT south/JJ west/NN -/: it/PRP is/VBZ between/IN them/PRP and/CC the/DT Tories./NNP
+Speaking/VBG to/TO the/DT BBC's/NNP Westminster/NNP Hour/NN on/IN Sunday/NNP Mr/NNP Kennedy/NNP said/VBD the/DT upcoming/VBG general/JJ election/NN -/: widely/RB tipped/VBD for/IN 5/CD May/NNP -/: would/MD be/VB much/RB more/RBR unpredictable/JJ than/IN any/DT others/NNS in/IN "recent/NN experience"./NN
+And/CC he/PRP brushed/VBD off/RP Labour/NNP suggestions/VBZ a/DT vote/NN for/IN his/PRP$ party/NN would/MD mean/VB letting/VBG the/DT Tories/NNPS in/IN "by/NN the/DT back/JJ door"./NN
+"If/NN you/PRP look/VBP at/IN the/DT four/CD previous/JJ parliamentary/JJ by-elections/NNS the/DT Liberal/NNP Democrats/NNPS have/VBP demonstrated/VBN that/IN not/RB only/RB can/MD we/PRP leapfrog/VB the/DT Conservatives/NNS where/WRB we/PRP start/VBP in/IN a/DT third/JJ place/NN position/NN but/CC we/PRP can/MD go/VB on/IN to/TO defeat/VB the/DT government./NN
+"That's/NN going/VBG to/TO be/VB the/DT story/NN I/PRP think/VBP of/IN this/DT coming/VBG general/JJ election."/NN

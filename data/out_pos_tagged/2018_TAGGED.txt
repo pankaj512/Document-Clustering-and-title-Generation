@@ -1,0 +1,20 @@
+Swap/NN offer/NN for/IN pirated/VBN Windows/NNS XP/NNP
+
+Computer/NNP giant/JJ Microsoft/NNP has/VBZ launched/VBN a/DT pilot/NN scheme/NN to/TO replace/VB counterfeit/NN versions/NNS of/IN Windows/NNS XP/NNP with/IN legal/JJ ones./NN
+
+The/DT first-time/JJ initiative/NN is/VBZ restricted/VBN to/TO the/DT UK/NNP and/CC to/TO users/NNS with/IN pre-installed/JJ copies/NNS of/IN the/DT operating/VBG system/NN in/IN PCs/NNS bought/VBD before/IN November./NNP
+Until/IN December/NNP Microsoft/NNP said/VBD software/NN can/MD be/VB sent/VBN to/TO it/PRP for/IN analysis/NN if/IN there/EX are/VBP doubts/NNS about/IN its/PRP$ legitimacy./NN
+The/DT company/NN aims/VBZ to/TO detect/VB illegal/JJ traders/NNS and/CC turn/VB users/NNS of/IN fake/JJ versions/NNS of/IN Windows/NNS into/IN legitimate/JJ ones./NN
+
+The/DT Windows/NNS XP/NNP Counterfeit/NNP Project/NNP will/MD mean/VB that/DT software/NN that/WDT is/VBZ found/VBN to/TO be/VB counterfeit/NN will/MD be/VB replaced/VBN for/IN free/JJ subject/JJ to/TO certain/JJ conditions/NNS until/IN the/DT end/NN of/IN the/DT year./NN
+It/PRP is/VBZ the/DT first/JJ time/NN Microsoft/NNP has/VBZ launched/VBN a/DT counterfeit/NN product/NN replacement/NN scheme/NN in/IN the/DT world/NN the/DT company/NN told/VBD the/DT BBC/NNP News/NNP website./NN
+In/IN June/NNP the/DT software/NN giant/NN said/VBD that/IN the/DT major/JJ security/NN update/NN to/TO Windows/NNS XP/NNP Service/NNP Pack/NN 2/CD would/MD not/RB work/VB with/IN the/DT most/RBS widely/RB pirated/VBN versions/NNS of/IN its/PRP$ operating/NN system./NN
+The/DT upgrade/NN closed/VBD security/NN loopholes/NNS in/IN XP/NNP and/CC added/VBD features/NNS that/WDT made/VBD it/PRP easier/JJR to/TO keep/VB machines/NNS safe/JJ from/IN viruses/NNS and/CC other/JJ types/NNS of/IN malicious/JJ computer/NN code./NN
+
+The/DT US/PRP company/VBP invited/VBD anyone/NN who/WP had/VBD suspicions/NNS about/IN their/PRP$ version/NN of/IN Windows/NNS XP/NNP to/TO submit/VB it/PRP for/IN testing/NN as/RB soon/RB as/IN possible./NN
+The/DT procedure/NN consists/VBZ of/IN a/DT series/NN of/IN computer/NN checks/NNS collating/VBG documents/NNS and/CC filling/VBG out/RP a/DT witness/NN statement./NN
+"This/NN is/VBZ a/DT great/JJ opportunity/NN for/IN users/NNS to/TO confirm/VB the/DT authenticity/NN of/IN Windows/NNS XP/NNP software/NN whilst/NN helping/VBG gather/VB vital/JJ information/NN about/IN illegal/JJ traders"/NN said/VBD Alex/NNP Hilton/NNP licence/NN compliance/NN manager/NN at/IN Microsoft./NNP
+The/DT scheme/NN has/VBZ also/RB been/VBN welcomed/VBN by/IN the/DT technology/NN and/CC commerce/NN industry./NN
+"It/NN is/VBZ important/JJ that/IN users/NNS ensure/VBP that/IN they/PRP are/VBP legally/RB licensed/VBN to/TO avoid/VB the/DT risks/NNS of/IN purchasing/VBG and/CC using/VBG counterfeit/NN products"/NN said/VBD David/NNP Frost/NNP director/NN general/JJ of/IN the/DT British/NNP Chambers/NNP of/IN Commerce./NNP
+The/DT plan/NN would/MD enable/VB Microsoft/NNP to/TO gather/VB intelligence/NN about/IN illegal/JJ traders/NNS in/IN a/DT prompt/NN way/NN which/WDT would/MD allow/VB it/PRP to/TO take/VB action/NN against/IN software/NN pirates./NN
+Microsoft/NNP said/VBD it/PRP would/MD evaluate/VB the/DT results/NNS of/IN the/DT UK/NNP programme/NN before/IN setting/VBG up/RP similar/JJ schemes/NNS in/IN other/JJ countries./NN

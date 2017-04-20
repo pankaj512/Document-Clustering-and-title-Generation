@@ -1,0 +1,11 @@
+GB/NNP quartet/NN get/NN cross/VB country/NN call/NN
+
+Four/CD British/JJ athletes/NNS have/VBP been/VBN pre-selected/JJ to/TO compete/VB at/IN the/DT World/NNP Cross/NNP Country/NNP Championships/NNS in/IN March/NNP after/IN impressive/JJ starts/VBZ to/TO the/DT season./NN
+
+Hayley/NNP Yelling/VBG Jo/NNP Pavey/NNP Karl/NNP Keska/NNP and/CC Adam/NNP Hickey/NNP will/MD represent/VB Team/NNP GB/NNP at/IN the/DT event/NN in/IN France./NNP
+Yelling/VBG clinched/VBN the/DT women's/NNS European/JJ cross/NN country/NN title/NN last/JJ month/NN and/CC Pavey/NNP followed/VBD up/RP with/IN bronze./NN
+Keska/NNP helped/VBD the/DT men's/NNS team/NN to/TO overall/JJ third/JJ place/NN while/IN Hickey/NNP finished/VBD in/IN 10th/JJ place/NN on/IN his/PRP$ junior/JJ debut./NN
+"Winning/VBG the/DT European/JJ cross/NN country/NN title/NN meant/VBN so/RB much/RB to/TO me"/VB said/VBD Yelling./NNP
+"And/NN being/VBG pre-selected/JJ for/IN the/DT Worlds/NNS means/VBZ that/IN I/PRP can/MD focus/VB on/IN preparing/VBG in/IN the/DT best/JJS way/NN possible."/NN The/DT 32-year-old/NN will/MD race/VB alongside/IN Olympic/NNP 5000m/CD finalist/NN Pavey/NNP in/IN the/DT women's/NNS 8km/CD race/NN on/IN 19/CD March./NNP
+Keska/NNP who/WP has/VBZ made/VBN a/DT successful/JJ return/NN from/IN a/DT long-term/JJ injury/NN lay-off/JJ contests/NNS the/DT men's/NNS 12km/CD race/NN on/IN 20/CD March/NNP while/IN 16-year-old/JJ Hickey/NNP goes/VBZ in/IN the/DT junior/JJ men's/NNS 8km/CD on/IN the/DT same/JJ day./NN
+The/DT rest/NN of/IN the/DT team/NN will/MD be/VB named/VBN after/IN the/DT trials/NNS at/IN Wollaton/NNP Park/NNP in/IN Nottingham/NNP which/WDT take/VBP place/NN on/IN 5/CD March./NNP

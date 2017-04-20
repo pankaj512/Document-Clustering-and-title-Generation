@@ -1,0 +1,15 @@
+Axa/NNP Sun/NNP Life/NNP cuts/VBZ bonus/NN payments/NNS
+
+Life/NNP insurer/NN Axa/NNP Sun/NNP Life/NNP has/VBZ lowered/VBN annual/JJ bonus/NN payouts/NNS for/IN up/IN to/TO 50000/CD with-profits/NNS investors./NN
+
+Regular/JJ annual/JJ bonus/NN rates/NNS on/IN former/JJ Axa/NNP Equity/NNP &/CC Law/NNP with-profits/NNS policies/NNS are/VBP to/TO be/VB cut/VBN from/IN 2%/CD to/TO 1%/CD for/IN 2004./CD
+Axa/NNP blamed/VBD a/DT poor/JJ stock/NN market/NN performance/NN for/IN the/DT cut/NN adding/VBG that/IN recent/JJ gains/NNS have/VBP not/RB yet/RB offset/VBN the/DT market/NN falls/VBZ seen/VBN in/IN 2001/CD and/CC 2002./CD
+The/DT cut/NN will/MD hit/VB an/DT estimated/JJ 3%/CD of/IN Axa's/NNP policyholders./NN
+The/DT rest/NN will/MD know/VB their/PRP$ fate/NN in/IN March./NNP
+
+The/DT cuts/NNS on/IN Axa's/NNP policies/NNS will/MD mean/VB a/DT policyholder/NN who/WP had/VBD invested/VBN £50/CD a/DT month/NN into/IN an/DT endowment/NN policy/NN for/IN the/DT past/JJ 25/CD years/NNS would/MD see/VB a/DT final/JJ maturity/NN payout/NN of/IN £46998./CD
+This/DT equated/VBN to/TO a/DT annual/JJ investment/NN growth/NN rate/NN of/IN 8%/CD Axa/NNP said./NN
+With-profits/NN policies/NNS are/VBP designed/VBN to/TO smooth/VB out/RP the/DT peaks/NNS and/CC troughs/NNS of/IN stock/NN market/NN volatility./NN
+However/RB heavy/JJ stock/NN market/NN falls/VBZ throughout/IN 2001/CD and/CC 2002/CD forced/VBN most/JJS firms/NNS to/TO trim/VB bonus/NN rates/NNS on/IN their/PRP$ policies./NN
+"The/NN stock/NN market/NN has/VBZ grown/VBN over/IN the/DT past/JJ 18/CD months/NNS however/RB not/RB enough/RB to/TO undo/VB the/DT damage/NN that/WDT occurred/VBD during/IN 2001/CD and/CC 2002"/CD Axa/NNP spokesman/NN Mark/NNP Hamilton/NNP Axa/NNP spokesman/NN told/VBD BBC/NNP News./NNP
+Axa/NNP cut/VBD payouts/NNS for/IN the/DT same/JJ investors/NNS last/JJ January./NNP

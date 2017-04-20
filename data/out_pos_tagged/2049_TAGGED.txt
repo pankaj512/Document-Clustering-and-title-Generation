@@ -1,0 +1,37 @@
+Lifestyle/NN 'governs/NN mobile/JJ choice'/NN
+
+Faster/RBR better/JJR or/CC funkier/NN hardware/NN alone/RB is/VBZ not/RB going/VBG to/TO help/VB phone/VB firms/NNS sell/VBP more/JJR handsets/NNS research/NN suggests./NN
+
+Instead/RB phone/NN firms/NNS keen/JJ to/TO get/VB more/JJR out/IN of/IN their/PRP$ customers/NNS should/MD not/RB just/RB be/VB pushing/VBG the/DT technology/NN for/IN its/PRP$ own/JJ sake./NN
+Consumers/NNS are/VBP far/RB more/RBR interested/JJ in/IN how/WRB handsets/NNS fit/VBP in/IN with/IN their/PRP$ lifestyle/NN than/IN they/PRP are/VBP in/IN screen/NN size/NN onboard/NN memory/NN or/CC the/DT chip/NN inside/IN shows/NNS an/DT in-depth/JJ study/NN by/IN telecommunications/NNS company/NN Ericsson./NNP
+"Historically/RB in/IN the/DT industry/NN there/EX has/VBZ been/VBN too/RB much/JJ focus/NN on/IN using/VBG technology"/NN said/VBD Dr/NNP Michael/NNP Bjorn/NNP senior/JJ advisor/NN on/IN mobile/JJ media/NNS at/IN Ericsson's/NNP consumer/NN and/CC enterprise/NN lab./NN
+"We/NN have/VBP to/TO stop/VB saying/VBG that/IN these/DT technologies/NNS will/MD change/VB their/PRP$ lives"/NN he/PRP said./VB
+"We/NN should/MD try/VB to/TO speak/VB to/TO consumers/NNS in/IN their/PRP$ own/JJ language/NN and/CC help/VB them/PRP see/VB how/WRB it/PRP fits/VBZ in/IN with/IN what/WP they/PRP are/VBP doing"/NN he/PRP told/VBD the/DT BBC/NNP News/NNP website./NN
+
+For/IN the/DT study/NN Ericsson/NNP interviewed/VBD 14000/CD mobile/JJ phone/NN owners/NNS on/IN the/DT ways/NNS they/PRP use/VBP their/PRP$ phone./NN
+"People's/NN habits/NNS remain/VBP the/DT same"/NN said/VBD Dr/NNP Bjorn./NNP
+"They/NN just/RB move/VB the/DT activity/NN into/IN the/DT mobile/JJ phone/NN as/IN it's/NNS a/DT much/RB more/RBR convenient/JJ way/NN to/TO do/VB it."/NN
+
+One/CD good/JJ example/NN of/IN this/DT was/VBD diary-writing/JJ among/IN younger/JJR people/NNS he/PRP said./VB
+While/IN diaries/NNS have/VBP always/RB been/VBN popular/JJ a/DT mobile/JJ phone/NN --/: especially/RB one/CD equipped/VBN with/IN a/DT camera/NN --/: helps/VBZ them/PRP keep/VBP it/PRP in/IN a/DT different/JJ form./NN
+Youngsters'/NNP use/NN of/IN text/NN messages/NNS also/RB reflects/VBZ their/PRP$ desire/NN to/TO chat/VB and/CC keep/VB in/IN contact/NN with/IN friends/NNS and/CC again/RB just/RB lets/VBZ them/PRP do/VBP it/PRP in/IN a/DT slightly/RB changed/VBN way./NN
+Dr/NNP Bjorn/NNP said/VBD that/IN although/IN consumers/NNS do/VBP what/WP they/PRP always/RB did/VBD but/CC use/VB a/DT phone/NN to/TO do/VB it/PRP the/DT sheer/JJ variety/NN of/IN what/WP the/DT new/JJ handset/NN technologies/NNS make/VBP possible/JJ does/VBZ gradually/RB drive/NN new/JJ habits/NNS and/CC lifestyles./NN
+Ericsson's/NNP research/NN has/VBZ shown/VBN that/IN consumers/NNS divide/VBP into/IN different/JJ "tribes"/NN that/WDT use/VBP phones/NNS in/IN different/JJ ways./NN
+Dr/NNP Bjorn/NNP said/VBD groups/NNS dubbed/VBD "pioneers"/NN and/CC "materialists"/NN were/VBD most/RBS interested/JJ in/IN trying/VBG new/JJ things/NNS and/CC were/VBD behind/IN the/DT start/NN of/IN many/JJ trends/NNS in/IN phone/NN use./NN
+"For/NN instance"/NN he/PRP said/VBD "older/NN people/NNS are/VBP using/VBG SMS/NNP much/RB more/JJR than/IN they/PRP did/VBD five/CD years/NNS ago."/VBP This/DT was/VBD because/IN younger/JJR users/NNS often/RB the/DT children/NNS of/IN ageing/VBG mobile/JJ owners/NNS encouraged/VBD older/JJR people/NNS to/TO try/VB it/PRP so/IN they/PRP could/MD keep/VB in/IN touch./NN
+
+Another/DT factor/NN governing/VBG the/DT speed/NN of/IN change/NN in/IN mobile/JJ phone/NN use/NN was/VBD the/DT simple/JJ speed/NN with/IN which/WDT new/JJ devices/NNS are/VBP bought/VBN by/IN pioneers/NNS and/CC materialists./NN
+Only/RB when/WRB about/IN 25%/CD of/IN people/NNS have/VBP handsets/NNS with/IN new/JJ innovations/NNS on/IN them/PRP such/JJ as/IN cameras/NNS can/MD consumers/NNS stop/VBP worrying/VBG that/IN if/IN they/PRP send/VBP a/DT picture/NN message/NN the/DT person/NN at/IN the/DT other/JJ end/NN will/MD be/VB able/JJ to/TO see/VB it./NN
+
+Once/RB this/DT significant/JJ number/NN of/IN users/NNS is/VBZ passed/VBN use/NN of/IN new/JJ innovations/NNS tends/VBZ to/TO take/VB off./NN
+Dr/NNP Bjorn/NNP said/VBD that/IN early/JJ reports/NNS of/IN camera/NN phone/NN usage/NN in/IN Japan/NNP seemed/VBD to/TO imply/VB that/IN the/DT innovation/NN was/VBD going/VBG to/TO be/VB a/DT flop./NN
+However/RB he/PRP said/VBD now/RB 45%/CD of/IN the/DT Japanese/JJ people/NNS Ericsson/NNP questioned/VBD use/VBP their/PRP$ camera/NN phone/NN at/IN least/JJS once/RB a/DT month./NN
+In/IN 2003/CD the/DT figure/NN was/VBD 29%./CD
+Similarly/RB across/IN Europe/NNP the/DT numbers/NNS of/IN people/NNS taking/VBG snaps/VBZ with/IN cameras/NNS is/VBZ starting/VBG to/TO rise./VB
+In/IN 2003/CD only/RB 4%/CD of/IN the/DT people/NNS in/IN the/DT UK/NNP took/VBD a/DT phonecam/NN snap/NN at/IN least/JJS once/RB a/DT month./NN
+Now/RB the/DT figure/NN is/VBZ 14%./CD
+Similar/JJ rises/NNS have/VBP been/VBN seen/VBN in/IN many/JJ other/JJ European/JJ nations./NN
+Dr/NNP Bjorn/NNP said/VBD that/IN people/NNS also/RB used/VBN their/PRP$ camera/NN phones/NNS in/IN very/RB different/JJ ways/NNS to/TO film/VB and/CC even/RB digital/JJ cameras./NN
+"Usage/NN patterns/NNS for/IN digital/JJ cameras/NNS are/VBP almost/RB exactly/RB replacing/VBG usage/NN patterns/NNS for/IN analogue/NN cameras"/NN he/PRP said./VB
+Digital/NN cameras/NNS tend/VBP to/TO be/VB used/VBN on/IN significant/JJ events/NNS such/JJ as/IN weddings/NNS holidays/NNS and/CC birthdays./NN
+By/IN contrast/NN he/PRP said/VBD camera/NN phones/NNS were/VBD being/VBG used/VBN much/RB more/JJR to/TO capture/VB a/DT moment/NN and/CC were/VBD being/VBG woven/VBN into/IN everyday/JJ life./NN

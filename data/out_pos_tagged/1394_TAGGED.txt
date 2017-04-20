@@ -1,0 +1,22 @@
+IAAF/NNP will/MD contest/VB Greek/JJ decision/NN
+
+The/DT International/NNP Association/NNP of/IN Athletics/NNP Federations/NNP will/MD appeal/VB against/IN the/DT acquittal/NN of/IN Greek/JJ athletes/NNS Kostas/NNP Kenteris/NNP and/CC Katerina/NNP Thanou./NNP
+
+The/DT high-profile/JJ duo/NN were/VBD cleared/VBN of/IN doping/VBG offences/NNS by/IN the/DT Greek/JJ Athletics/NNP Federation/NNP (Segas)/NN last/JJ month./NN
+Now/RB the/DT IAAF/NNP will/MD lodge/VB an/DT appeal/NN with/IN the/DT Court/NNP of/IN Arbitration/NN for/IN Sport/NNP (CAS)/NN and/CC has/VBZ suspended/VBN both/DT athletes./NN
+An/DT IAAF/NNP statement/NN said/VBD "The/NN Doping/NNP Review/NNP Board/NNP concluded/VBD that/IN the/DT decision/NN is/VBZ erroneous."/VBG The/DT statement/NN continued/VBN "Both/NN athletes'/NN cases/NNS will/MD be/VB refered/VBN to/TO arbitration/VB before/IN the/DT CAS./NNP
+The/DT decision/NN in/IN both/DT cases/NNS will/MD be/VB final/JJ and/CC binding."/NN
+
+Segas/NNP said/VBD the/DT IAAF/NNP appeal/NN was/VBD "expected"/NN and/CC "understandable."/NN "Now/NN we/PRP are/VBP going/VBG to/TO await/VB the/DT final/JJ result/NN which/WDT we/PRP cannot/VBP prejudge"/NN said/VBD Segas/NNP chairman/NN Vassilis/NNP Sevastis./NNP
+Kenteris/NNP who/WP won/VBD Olympic/NNP 200m/CD gold/NN at/IN the/DT 2000/CD Olympics/NNPS and/CC Thanou/NNP were/VBD suspended/VBN by/IN the/DT IAAF/NNP last/JJ December/NNP after/IN failing/VBG to/TO take/VB routine/JJ drugs/NNS tests/NNS before/IN the/DT Athens/NNP Games./NNP
+However/RB the/DT independent/JJ tribunal/NN overturned/VBD those/DT bans/NNS clearing/VBG the/DT sprinters/NNS of/IN avoiding/VBG tests/NNS in/IN Tel/NNP Aviv/NNP Chicago/NNP and/CC Athens/NNP and/CC failing/VBG to/TO notify/VB anti-doping/JJ officials/NNS of/IN their/PRP$ whereabouts/NN before/IN the/DT Olympics./NNP
+
+Kenteris'/NNP lawyer/NN Gregory/NNP Ioannidis/NNP described/VBD the/DT IAAF's/NNP decision/NN as/IN "not/NN unexpected"/NN but/CC told/VBD BBC/NNP Sport/NNP he/PRP did/VBD not/RB expect/VB the/DT organisation/NN to/TO take/VB action/NN so/RB quickly./NN
+"The/NNP IAAF's/NNP timing/NN is/VBZ extremely/RB surprising/JJ and/CC it/PRP creates/VBZ concerns/NNS and/CC questions"/NN said/VBD Ioannidis./NNP
+"The/NNP IAAF/NNP has/VBZ not/RB yet/RB received/VBD the/DT complete/JJ file/NN of/IN proceedings/NNS which/WDT include/VBP statements/NNS testimonies/NNS the/DT closing/NN speeches/NNS of/IN defence/NN counsel.../NN
+and/CC nine/CD audio/JJ tapes./NN
+
+"We/NN have/VBP the/DT evidence/NN and/CC it/PRP is/VBZ time/NN the/DT world/NN discovered/VBD the/DT truth."/NN Kenteris/NNP and/CC Thanou/NNP dramatically/RB withdrew/VBD from/IN last/JJ summer's/NNS Olympics/NNPS after/IN missing/VBG a/DT drugs/NNS test/NN at/IN the/DT Olympic/NNP Village/NNP on/IN 12/CD August./NNP
+The/DT pair/NN then/RB spent/VBD four/CD days/NNS in/IN a/DT hospital/NN claiming/VBG they/PRP had/VBD been/VBN injured/VBN in/IN a/DT motorcycle/NN crash./NN
+It/PRP was/VBD the/DT International/NNP Olympic/NNP Committee/NNP who/WP demanded/VBD the/DT IAAF/NNP investigate/VB the/DT affair./NN
+Thanou/NNP and/CC Kenteris/NNP still/RB face/VB a/DT criminal/JJ trial/NN later/RB this/DT year/NN for/IN allegedly/RB avoiding/VBG the/DT test/NN and/CC then/RB faking/VBG a/DT motorcycle/NN accident/NN

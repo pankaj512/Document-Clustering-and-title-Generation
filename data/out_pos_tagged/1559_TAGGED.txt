@@ -1,0 +1,47 @@
+Chelsea/NNP hold/VB Arsenal/NN
+
+A/DT gripping/JJ game/NN between/IN Arsenal/NN and/CC Chelsea/NNP ended/VBD with/IN the/DT honours/NNS finishing/VBG even/RB at/IN Highbury./NNP
+
+Thierry/NNP Henry/NNP produced/VBD a/DT sublime/JJ strike/NN to/TO put/VB Arsenal/NN ahead/RB but/CC John/NNP Terry/NNP levelled/VBD with/IN a/DT powerful/JJ header./NN
+Henry's/NNP quickly-taken/JJ free-kick/JJ put/NN Arsenal/NN back/RB in/IN front/NN but/CC Eidur/NNP Gudjohnsen/NNP equalised/VBD with/IN a/DT header/NN from/IN William/NNP Gallas'/NNP knockback./NN
+Henry/NNP missed/VBD a/DT golden/JJ chance/NN when/WRB he/PRP blazed/VBD a/DT shot/NN high/JJ late/RB on/IN and/CC Arsenal/NN also/RB had/VBD a/DT penalty/NN appeal/NN rejected./NN
+Henry's/NNP opener/NN had/VBD given/VBN Arsenal/NN the/DT perfect/JJ start/NN and/CC set/VBN up/RP an/DT enthralling/VBG affair./NN
+The/DT French/JJ striker/NN headed/VBD a/DT long/JJ Cesc/NNP Faregas/NNP ball/NN back/RB to/TO Jose/NNP Antonio/NNP Reyes/NNP from/IN the/DT edge/NN of/IN the/DT Chelsea/NNP area/NN and/CC immediately/RB saw/VBD it/PRP headed/VBD back/RB into/IN his/PRP$ path/NN from/IN the/DT Spaniard./NNP
+And/CC with/IN his/PRP$ back/RB to/TO goal/VB Henry/NNP finished/VBD with/IN aplomb/NN when/WRB he/PRP took/VBD one/CD touch/NN turned/VBD and/CC struck/VBD an/DT angled/VBN strike/NN past/IN the/DT despairing/VBG dive/NN of/IN keeper/NN Petr/NNP Cech./NNP
+Henry/NNP epitomised/VBD a/DT determination/NN about/IN the/DT Arsenal/NN side/NN but/CC Chelsea/NNP appeared/VBD unruffled/VBN and/CC equalised/VBN after/IN 16/CD minutes./NN
+
+Gunners/NNS keeper/NN Manuel/NNP Almunia/NNP who/WP got/VBD the/DT nod/NN ahead/RB of/IN Jens/NNP Lehmann/NNP did/VBD well/RB to/TO save/VB a/DT well-struck/JJ Frank/NNP Lampard/NNP shot./NN
+But/CC he/PRP could/MD not/RB keep/VB out/RP Terry's/NNP powered/VBD header/NN from/IN the/DT resultant/NN corner/NN as/IN Arsenal's/NNP weakness/NN at/IN set-pieces/NNS was/VBD again/RB exposed./NN
+Almost/RB immediately/RB Henry/NNP went/VBD close/VB and/CC Chelsea/NNP gathered/VBD the/DT loose/JJ ball/NN before/IN going/VBG straight/RB up/RP the/DT other/JJ end/NN where/WRB Gudjohnsen/NNP fluffed/VBD an/DT effort./NN
+Gudjohnsen/NNP did/VBD not/RB make/VB the/DT same/JJ error/NN minutes/NNS later/RB when/WRB he/PRP struck/VBD a/DT sweet/JJ shot/NN only/RB for/IN Almunia/NNP to/TO be/VB equal/JJ to/TO the/DT task/NN and/CC save./NN
+The/DT homes/NNS side/NN regained/VBD the/DT lead/NN in/IN controversial/JJ fashion/NN when/WRB Robert/NNP Pires/NNP won/VBD a/DT dubious/JJ free-kick./JJ
+And/CC given/VBN the/DT option/NN to/TO take/VB the/DT 25-yard/JJ set-piece/JJ quickly/RB Henry/NNP curled/VBD in/IN a/DT shot/NN with/IN Cech/NNP still/RB organising/VBG his/PRP$ wall./NN
+
+This/DT time/NN Arsenal/NN did/VBD not/RB allow/VB Chelsea/NNP to/TO level/VB so/RB soon/RB as/IN they/PRP went/VBD into/IN the/DT break/NN ahead./NN
+Chelsea/NNP brought/VBD striker/NN Didier/NNP Drogba/NNP on/IN to/TO partner/VB Gudjohnsen/NNP up/RP front/NN after/IN the/DT interval/JJ and/CC the/DT move/NN reaped/VBD immediate/JJ reward./NN
+Lampard/NNP swung/VBD in/IN a/DT cross/NN which/WDT Gallas/NNP knocked/VBD back/RB across/IN goal/NN and/CC a/DT deft/NN header/NN from/IN Gudjohnsen/NNP levelled/VBD matters/NNS again./NN
+Chelsea's/NNP main/JJ threat/NN was/VBD coming/VBG from/IN crosses/NNS and/CC Lampard/NNP missed/VBD a/DT great/JJ opportunity/NN as/IN he/PRP headed/VBD wide/JJ when/WRB left/VBN unmarked/JJ at/IN the/DT far/JJ post./NN
+The/DT second/JJ half/NN failed/VBD to/TO live/VB up/IN to/TO the/DT thrilling/VBG pace/NN of/IN the/DT opening/NN period/NN but/CC there/EX were/VBD flashes/NNS of/IN brilliance./NN
+One/CD of/IN them/PRP came/VBD from/IN the/DT enigmatic/JJ Robben/NNP when/WRB he/PRP jinked/VBD his/PRP$ way/NN through/IN two/CD Arsenal/NN defenders/NNS only/RB to/TO see/VB his/PRP$ poked/VBN shot/VBN saved/VBN by/IN Almunia./NNP
+
+Arsenal/NN ended/VBD the/DT match/NN the/DT stronger/JJR and/CC worked/VBD a/DT excellent/JJ chance/NN for/IN Henry/NNP who/WP put/VBP a/DT left-foot/JJ shot/NN high/JJ from/IN eight/CD yards./NN
+Subtitute/NNP Robin/NNP van/NNP Persie/NNP could/MD also/RB have/VB nicked/VBN a/DT win/NN for/IN the/DT Highbury/NNP outfit/NN but/CC frustratingly/RB sidefooted/VBN just/RB wide./NN
+Matthieu/NNP Flamini/NNP had/VBD a/DT late/JJ penal/JJ appeal/NN waved/VBD away/RB before/IN the/DT final/JJ whistle/VBP which/WDT maintained/VBD Chelsea/NNP five-point/JJ Premiership/NN lead/NN over/IN Arsenal./NNP
+
+Almunia/NNP Lauren/NNP Toure/NNP Campbell/NNP Cole/NNP Pires/NNP Flamini/NNP Fabregas/NNP Reyes/NNP (Clichy/NN 82)/CD Bergkamp/NNP (Van/NN Persie/NNP 82)/CD Henry./NNP
+Subs/NNP Not/RB Used/VBD Senderos/NNP Hoyte/NNP Lehmann./NNP
+
+Cole./NNP
+
+Henry/NNP 2/CD 29./CD
+
+Cech/NNP Paulo/NNP Ferreira/NNP Ricardo/NNP Carvalho/NNP (Drogba/NN 45)/CD Terry/NNP Gallas/NNP Duff/NNP Tiago/NNP (Bridge/NN 45)/CD Makelele/NNP Lampard/NNP Robben/NNP Gudjohnsen/NNP (Parker/NN 77)./CD
+Subs/NNP Not/RB Used/VBD Kezman/NNP Cudicini./NNP
+
+Robben/NNP Drogba/NNP Lampard./NNP
+
+Terry/NNP 17/CD Gudjohnsen/NNP 46./CD
+
+38153/CD
+
+G/NNP Poll/NNP (Hertfordshire)./NN

@@ -1,0 +1,29 @@
+LSE/NN doubts/NNS boost/VBP bidders'/NN shares/NNS
+
+Shares/NNS in/IN Deutsche/NNP Boerse/NNP have/VBP risen/VBN more/JJR than/IN 3%/CD after/IN a/DT shareholder/NN fund/NN voiced/VBD opposition/NN to/TO the/DT firm's/NNS planned/VBD takeover/NN of/IN the/DT London/NNP Stock/NNP Exchange./NNP
+
+TCI/NNP which/WDT claims/NNS to/TO represent/VB owners/NNS of/IN 5%/CD of/IN Deutsche/NNP Boerse's/NNP (DB)/NN shares/NNS has/VBZ complained/VBN that/IN the/DT £1.35bn/CD ($2.5bn)/CD offer/NN for/IN the/DT LSE/NNP is/VBZ too/RB high./NN
+Opposition/NN from/IN TCI/NNP has/VBZ fuelled/VBN speculation/NN that/IN the/DT proposed/VBN takeover/NN could/MD fail./VB
+Rival/JJ exchange/NN operator/NN Euronext/NNP has/VBZ also/RB said/VBN it/PRP may/MD bid/VB for/IN the/DT LSE./NNP
+Euronext/NNP operates/VBZ the/DT Paris/NNP Amsterdam/NNP Brussels/NNP and/CC Lisbon/NNP bourses/NNS while/IN Deutsche/NNP Boerse/NNP runs/VBZ the/DT Frankfurt/NNP exchange./NN
+
+BBC/NNP News/NNP spoke/VBD to/TO a/DT number/NN of/IN analysts/NNS on/IN Monday/NNP morning/NN about/IN shareholder/NN worries/NNS over/IN Deutsche/NNP Boerse's/NNP bid/NN for/IN LSE./NNP
+Although/IN none/NN were/VBD prepared/VBN to/TO speak/VB on/IN the/DT record/NN most/JJS thought/VBD it/PRP was/VBD unlikely/JJ that/IN TCI's/NNP opposition/NN would/MD halt/VB the/DT deal/NN
+
+"Obviously/RB we'll/NN have/VBP to/TO wait/VB and/CC see/VB but/CC I/PRP don't/VBP think/VBP it/PRP will/MD make/VB much/JJ difference./NN
+Deutsche/NNP Boerse/NNP appears/VBZ very/RB committed"/NN said/VBD one/CD London-based/JJ broker./NN
+He/PRP forecast/VBP the/DT takeover/NN bid/NN would/MD succeed/VB and/CC was/VBD more/RBR concerned/JJ to/TO see/VB improvements/NNS in/IN the/DT daily/JJ running/NN of/IN the/DT LSE./NNP
+In/IN voicing/VBG its/PRP$ opposition/NN to/TO the/DT planned/VBN takeover/NN TCI/NNP said/VBD it/PRP would/MD prefer/VB to/TO see/VB Deutsche/NNP Boerse/NNP return/NN $500m/CD (£350m)/CD to/TO shareholders./VB
+The/DT Deutsche/NNP Boerse/NNP was/VBD prepared/VBN to/TO pay/VB for/IN the/DT LSE/NNP "exceeds/NN the/DT potential/JJ benefits/NNS of/IN this/DT acquisition"/NN said/VBD TCI./NNP
+
+Another/DT Deutsche/NNP Boerse/NNP shareholder/NN on/IN Monday/NNP also/RB appeared/VBD to/TO back/VB TCI's/NNP call./NN
+Another/DT investor/NN in/IN Deutsche/NNP Boerse/NNP has/VBZ supported/VBN the/DT view/NN that/IN a/DT payout/NN to/TO shareholders/NNS would/MD be/VB preferable/JJ to/TO Deutsche/NNP Boerse/NNP overpaying/VBG for/IN the/DT LSE/NNP Reuters/NNP news/NN agency/NN reported./NN
+"We/NN prefer/VB a/DT sensible/JJ entrepreneurial/JJ solution/NN at/IN a/DT price/NN that/WDT is/VBZ not/RB too/RB high"/NN said/VBD Rolf/NNP Dress/NNP a/DT spokesman/NN for/IN Union/NNP Investment./NNP
+"If/NN that/DT cannot/NN be/VB achieved/VBN then/RB we/PRP would/MD wish/VB for/IN a/DT distribution/NN of/IN liquid/JJ assets/NNS to/TO shareholders."/VB The/DT Financial/NNP Times/NNP also/RB reported/VBD a/DT third/JJ Deutsche/NNP Boerse/NNP shareholder/NN as/IN opposed/VBN to/TO the/DT deal./NN
+It/PRP quoted/VBD a/DT spokesman/NN for/IN US-based/JJ hedge/VB fund/NN Atticus/NNP Capital/NNP complaining/VBG that/IN the/DT planned/VBN takeover/NN appeared/VBD to/TO be/VB motivated/VBN by/IN "empire-building"/JJ rather/RB than/IN the/DT best/JJS interests/NNS of/IN shareholders./NN
+
+TCI/NNP has/VBZ called/VBN for/IN Deutsche/NNP Boerse/NNP to/TO hold/VB an/DT emergency/NN general/JJ meeting/NN to/TO discuss/VB the/DT bid/NN for/IN LSE./NNP
+Yet/RB under/IN German/JJ business/NN law/NN DB/NNP does/VBZ not/RB have/VB to/TO gain/VB shareholder/NN approval/NN before/IN making/VBG a/DT significant/JJ acquisition./NN
+Deutsche/NNP Boerse/NNP said/VBD TCI's/NNP opposition/NN would/MD not/RB change/VB its/PRP$ bid/NN approach./NN
+"Deutsche/NNP Boerse/NNP is/VBZ convinced/VBN that/IN its/PRP$ contemplated/VBN cash/NN acquisition/NN of/IN the/DT London/NNP Stock/NNP Exchange/NNP is/VBZ in/IN the/DT best/JJS interests/NNS of/IN its/PRP$ shareholders/NNS and/CC the/DT company"/NN it/PRP said./NN
+DB's/NNP shares/NNS were/VBD up/RB 3.4%/CD to/TO 45.25/CD euros/NNS by/IN 1030/CD GMT/NNP the/DT highest/JJS gainer/NN in/IN Frankfurt./NNP

@@ -1,0 +1,12 @@
+Ray/NNP Charles/NNP studio/NN becomes/VBZ museum/NN
+
+A/DT museum/NN dedicated/VBN to/TO the/DT career/NN of/IN the/DT late/JJ legendary/JJ singer/NN Ray/NNP Charles/NNP is/VBZ to/TO open/VB in/IN his/PRP$ former/JJ recording/NN studio/NN in/IN Los/NNP Angeles./NNP
+
+His/PRP$ longtime/JJ publicist/NN Jerry/NNP Digney/NNP said/VBD the/DT museum/NN would/MD house/VB "archive/JJ materials/NNS from/IN recordings/NNS to/TO awards/NNS to/TO ephemera/VB to/TO wardrobe"./VB
+A/DT tour/NN bus/NN used/VBN by/IN Charles/NNP and/CC his/PRP$ entourage/NN over/IN the/DT years/NNS will/MD also/RB be/VB on/IN permanent/JJ display./JJ
+It/PRP is/VBZ hoped/VBN the/DT museum/NN will/MD be/VB ready/JJ for/IN visitors/NNS in/IN late/JJ 2007./CD
+
+Mr/NNP Digney/NNP said/VBD the/DT recording/NN studio/NN and/CC offices/NNS had/VBD been/VBN used/VBN by/IN Charles/NNP for/IN many/JJ years/NNS and/CC was/VBD where/WRB he/PRP recorded/VBD much/JJ of/IN his/PRP$ last/JJ album/NN Genius/NN Loves/VBZ Company./NNP
+It/PRP is/VBZ hoped/VBN the/DT museum/NN will/MD also/RB house/VB an/DT education/NN centre./NN
+The/DT building/NN had/VBD been/VBN declared/VBN a/DT historic/JJ landmark/NN by/IN the/DT city/NN of/IN Los/NNP Angeles/NNP just/RB before/IN Charles'/NNP death/NN in/IN June/NNP 2004/CD at/IN the/DT age/NN of/IN 73./CD
+Following/VBG his/PRP$ death/NN Charles/NNP won/VBD eight/CD Grammy/NNP Awards/NNS including/VBG album/NN of/IN the/DT year/NN for/IN Genius/NN Loves/VBZ Company/VBG a/DT collection/NN of/IN duets./NN

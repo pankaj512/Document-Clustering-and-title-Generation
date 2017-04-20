@@ -1,0 +1,24 @@
+Brewers'/NN profits/NNS lose/VBP their/PRP$ fizz/NN
+
+Heineken/NNP and/CC Carlsberg/NNP two/CD of/IN the/DT world's/NNS largest/JJS brewers/NNS have/VBP reported/VBN falling/VBG profits/NNS after/IN beer/NN sales/NNS in/IN western/JJ Europe/NNP fell/VBD flat./NN
+
+Dutch/JJ firm/NN Heineken/NNP saw/VBD its/PRP$ annual/JJ profits/NNS drop/NN 33%/CD and/CC warned/VBD that/IN earnings/NNS in/IN 2005/CD may/MD also/RB slide./VB
+Danish/JJ brewer/NN Carlsberg/NNP suffered/VBD a/DT 3%/CD fall/NN in/IN profits/NNS due/JJ to/TO waning/VBG demand/NN and/CC increased/VBN marketing/NN costs./NN
+Both/DT are/VBP looking/VBG to/TO Russia/NNP and/CC China/NNP to/TO provide/VB future/JJ growth/NN as/IN western/JJ European/JJ markets/NNS are/VBP largely/RB mature./NN
+
+Heineken's/NNP net/JJ income/NN fell/VBD to/TO 537m/CD euros/NNS ($701m/CD £371m)/CD during/IN 2004/CD from/IN 798m/CD euro/NN a/DT year/NN ago./NN
+It/PRP blamed/VBD weak/JJ demand/NN in/IN western/JJ Europe/NNP and/CC currency/NN losses./NN
+It/PRP had/VBD warned/VBN in/IN September/NNP that/IN the/DT weakening/VBG US/PRP dollar/VBP which/WDT has/VBZ cut/VBN the/DT value/NN of/IN foreign/JJ sales/NNS would/MD knock/VB 125m/CD euros/NNS off/IN its/PRP$ operating/NN profits./NN
+Despite/IN the/DT dip/NN in/IN profits/NNS Heineken's/NNP sales/NNS have/VBP been/VBN improving/NN and/CC total/JJ revenue/NN for/IN the/DT year/NN was/VBD 10bn/CD euros/NNS up/RP 8.1%/CD from/IN 9.26bn/CD euros/NNS in/IN 2003./CD
+Heineken/NNP said/VBD it/PRP now/RB plans/VBZ to/TO invest/VB 100m/CD euros/NNS in/IN "aggressive"/NN and/CC "high-impact"/JJ marketing/NN in/IN Europe/NNP and/CC the/DT US/PRP in/IN 2005./CD
+Heineken/NNP which/WDT also/RB owns/VBZ the/DT Amstel/NNP and/CC Murphy's/NNP stout/NN brands/NNS said/VBD it/PRP would/MD also/RB seek/VB to/TO cut/VB costs./NN
+This/DT may/MD involve/VB closing/NN down/RP breweries./NN
+
+Heineken/NNP increased/VBD its/PRP$ dividend/NN payment/NN by/IN 25%/CD to/TO 40/CD euro/NN cents/NNS but/CC warned/VBD that/IN the/DT continued/VBN impact/NN of/IN a/DT weaker/JJR dollar/NN and/CC an/DT increased/VBN marketing/NN spend/VB may/MD lead/VB to/TO a/DT drop/NN in/IN 2005/CD net/JJ profit./NN
+
+Carlsberg/VBG the/DT world's/NNS fifth-largest/JJ brewer/NN saw/VBD annual/JJ pre-tax/JJ profits/NNS fall/VBP to/TO 3.4bn/CD Danish/JJ kroner/NN (456m/CD euros)./NN
+Its/PRP$ beer/NN sales/NNS have/VBP been/VBN affected/VBN by/IN the/DT sluggish/JJ European/JJ economy/NN and/CC by/IN the/DT banning/NN of/IN smoking/NN in/IN pubs/NNS in/IN several/JJ European/JJ countries./NN
+Nevertheless/RB total/JJ sales/NNS increased/VBD 4%/CD to/TO 36bn/CD kroner/NN thanks/NNS to/TO strong/JJ sales/NNS of/IN Carlsberg/NNP lager/NN in/IN Russia/NNP and/CC Poland./NNP
+Carlsberg/NNP is/VBZ more/RBR optimistic/JJ than/IN Heineken/NNP about/IN 2005/CD projecting/VBG a/DT 15%/CD rise/NN in/IN net/JJ profits/NNS for/IN the/DT year./NN
+However/RB it/PRP also/RB plans/VBZ to/TO cut/VB 200/CD jobs/NNS in/IN Sweden/NNP where/WRB sales/NNS have/VBP been/VBN hit/VBN by/IN demand/NN for/IN cheap/JJ imported/VBN brands./NN
+"We/NN remain/VBP cautious/JJ about/IN the/DT medium-to-long/JJ term/NN outlook/NN for/IN revenue/NN growth/NN across/IN western/JJ Europe/NNP for/IN a/DT host/NN of/IN economic/JJ social/JJ and/CC structural/JJ reasons"/NN investment/NN bank/NN Merrill/NNP Lynch/NNP said/VBD of/IN Carlsberg./NNP

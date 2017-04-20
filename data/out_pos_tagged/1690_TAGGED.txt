@@ -1,0 +1,38 @@
+Ireland/NNP 17-12/JJ South/NNP Africa/NNP
+
+Ronan/NNP O'Gara/NNP scored/VBD all/DT Ireland's/NNP points/NNS as/IN the/DT home/NN side/NN claimed/VBD only/RB their/PRP$ second/JJ ever/RB win/VB over/IN South/NNP Africa/NNP on/IN an/DT emotional/JJ day/NN at/IN Lansdowne/NNP Road./NNP
+
+O'Gara's/NNP first-half/JJ try/NN poached/VBN after/IN a/DT quick/JJ tap-penalty/NN helped/VBD the/DT Irish/JJ to/TO a/DT 8-3/JJ lead/NN at/IN half-time./JJ
+Three/CD further/JJ O'Gara/NNP penalties/NNS extended/VBD Ireland's/NNP lead/VB to/TO 17-6/JJ as/IN the/DT game/NN entered/VBD the/DT final/JJ quarter./NN
+Two/CD Percy/NNP Montgomery/NNP penalties/NNS set/VBD up/RP a/DT frantic/JJ finish/NN but/CC Ireland/NNP held/VBD out/RP to/TO claim/VB a/DT famous/JJ victory./NN
+Ireland/NNP began/VBD strongly/RB and/CC were/VBD never/RB led/VBN but/CC the/DT match/NN was/VBD tense/JJ and/CC closely/RB fought/VBD throughout./NN
+Aware/JJ of/IN the/DT threat/NN posed/VBN by/IN the/DT South/NNP Africans/NNPS Ireland/NNP pressed/VBD hard/RB from/IN the/DT outset/NN and/CC played/VBD some/DT impressive/JJ rugby/NN while/IN searching/VBG for/IN a/DT breakthrough./NN
+Early/RB on/IN Denis/NNP Hickie/NNP thought/VBD he/PRP was/VBD in/IN for/IN a/DT try/NN after/IN a/DT delightful/JJ backline/NN move/NN but/CC Shane/NNP Horgan's/NNP pass/VB was/VBD adjudged/VBN to/TO have/VB gone/VBN forward/RB by/IN referee/NN Paul/NNP Honiss./NNP
+
+Ireland/NNP continued/VBD to/TO press/VB and/CC they/PRP showed/VBD their/PRP$ intent/NN by/IN opting/VBG for/IN a/DT line-out/NN in/IN the/DT 19th/JJ minute/NN when/WRB three/CD straight-forward/JJ points/NNS were/VBD on/IN offer./NN
+Another/DT South/JJ African/JJ infringement/NN a/DT minute/NN later/RB led/VBD to/TO Ireland's/NNP first/JJ points/NNS -/: O'Gara/NNP took/VBD a/DT quick/JJ tap-penalty/NN and/CC charged/JJ over/IN the/DT opposition/NN line/NN for/IN an/DT Irish/JJ try./NN
+The/DT Springboks/NNP could/MD feel/VB hard/JJ done/VBN by/IN as/IN captain/NN John/NNP Smit/NNP had/VBD his/PRP$ back/RB to/TO the/DT play/NN when/WRB O'Gara/NNP pounced/VBD after/IN referee/NN Honiss/NNP had/VBD told/VBN the/DT skipper/NN to/TO warn/VB his/PRP$ own/JJ players/NNS after/IN consistent/JJ infringements./NN
+Stung/VBN by/IN the/DT score/NN the/DT South/NNP Africans/NNPS almost/RB replied/VBD with/IN a/DT try/NN of/IN their/PRP$ own/JJ within/IN 60/CD seconds/NNS with/IN Geordan/NNP Murphy's/NNP ankle-tap/JJ tackle/NN denying/VBG a/DT certain/JJ try/NN for/IN Percy/NNP Montgomery./NNP
+However/RB the/DT Springboks/NNP did/VBD win/VB a/DT penalty/NN a/DT minute/NN later/RB which/WDT Montgomery/NNP easily/RB slotted/VBD to/TO cut/VB Ireland's/NNP lead/VB to/TO 5-3./JJ
+
+Ireland/NNP got/VBD out/IN of/IN jail/NN when/WRB the/DT South/NNP Africans/NNPS had/VBD a/DT three-to-one/JJ overlap/NN near/IN the/DT Irish/JJ line/NN only/RB to/TO waste/VB the/DT chance./NN
+After/IN the/DT sustained/VBN Springboks/NNP pressure/NN the/DT Irish/JJ produced/VBN an/DT attack/NN of/IN their/PRP$ own/JJ in/IN the/DT 34th/JJ minute/NN which/WDT culminated/VBD with/IN O'Gara's/NNP clever/JJ drop-goal/JJ to/TO restore/VB his/PRP$ side's/NNS lead/VBP to/TO five/CD points/NNS which/WDT remained/VBD the/DT margin/NN at/IN half-time./JJ
+Sustained/VBN Irish/JJ pressure/NN immediately/RB after/IN half-time/NN was/VBD rewarded/VBN by/IN another/DT O'Gara/NNP penalty./NN
+However/RB Montgomery/NNP responded/VBD quickly/RB by/IN slotting/VBG over/IN a/DT superb/NN penalty/NN from/IN near/IN the/DT right/JJ touchline/NN to/TO cut/VB Ireland's/NNP lead/VB to/TO five/CD points/NNS again./NN
+Montgomery/NNP then/RB burst/NN through/IN the/DT Irish/JJ defence/NN in/IN the/DT 48th/JJ minute/NN and/CC it/PRP took/VBD a/DT superb/NN Girvan/NNP Dempsey/NNP tackle/VB to/TO prevent/VB a/DT try./NN
+The/DT South/NNP Africans/NNPS suffered/VBD a/DT double-blow/NN in/IN the/DT 52nd/CD minute/NN when/WRB Schalk/NNP Burger/NNP was/VBD sin-binned/JJ for/IN the/DT second/JJ week/NN in/IN a/DT row/NN after/IN killing/VBG the/DT ball/NN and/CC O'Gara/NNP punished/VBD the/DT transgression/NN by/IN notching/VBG another/DT penalty./NN
+
+In/IN the/DT 61st/CD minute/NN Hickie/NNP was/VBD left/VBN frustrated/VBN by/IN a/DT poor/JJ pass/NN from/IN Girvan/NNP Dempsey/NNP as/IN a/DT chance/NN to/TO seal/VB the/DT match/NN was/VBD wasted./NN
+However/RB a/DT late/JJ tackle/NN on/IN Brian/NNP O'Driscoll/NNP enabled/VBD O'Gara/NNP to/TO notch/VB another/DT penalty/NN in/IN the/DT 63rd/CD minute/NN which/WDT extended/VBD Ireland's/NNP lead/VB to/TO 17-6./JJ
+However/RB two/CD Montgomery/NNP penalties/NNS had/VBD Ireland's/NNP lead/VB in/IN peril/NN again/RB as/IN the/DT Springboks/NNP closed/VBD to/TO within/IN five/CD points/NNS with/IN seven/CD minutes/NNS remaining./NN
+South/NNP Africa/NNP produced/VBD a/DT huge/JJ effort/NN in/IN the/DT closing/NN minutes/NNS but/CC Ireland/NNP held/VBD on/IN to/TO claim/VB a/DT deserved/VBN victory./NN
+
+G/NNP Dempsey/NNP G/NNP Murphy/NNP B/NNP O'Driscoll/NNP (capt)/NN S/NNP Horgan/NNP D/NNP Hickie/NNP R/NN O'Gara/NNP P/NNP Stringer/NNP R/NN Corrigan/NNP S/NNP Byrne/NNP J/NNP Hayes/NNP M/NNP O'Kelly/NNP P/NNP O'Connell/NNP S/NNP Easterby/NNP J/NNP O'Connor/NNP A/NNP Foley./NNP
+
+F/NNP Sheahan/NNP M/NNP Horan/NNP D/NNP O'Callaghan/NNP E/NN Miller/NNP G/NNP Easterby/NNP D/NNP Humphreys/NNP K/NNP Maggs./NNP
+
+P/NNP Montgomery/NNP B/NNP Paulse/NNP M/NNP Joubert/NNP De/NNP Wet/NNP Barry/NNP A/NNP Willemse/NNP J/NNP van/NNP der/NN Westhuyzen/NNP F/NN Du/NNP Preez/NNP O/NNP Du/NNP Randt/NNP J/NNP Smit/NNP (captain)/NN E/NN Andrews/NNP B/NNP Botha/NNP V/NNP Matfield/NNP S/NNP Burger/NNP AJ/NNP Venter/NNP J/NNP van/NNP Niekerk./NNP
+
+H/NNP Shimange/NNP CJ/NNP van/NNP der/NN Linde/NNP G/NNP Britz/NNP D/NNP Rossouw/NNP M/NNP Claassens/NNP J/NNP de/IN Villiers/NNP G/NNP du/NNP Toit/J/NNP Fourie./NNP
+
+Paul/NNP Honiss/NNP (New/NN Zealand)/NNP

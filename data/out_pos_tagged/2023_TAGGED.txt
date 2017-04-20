@@ -1,0 +1,48 @@
+Multi-purpose/NNP TV/NN aids/NNS India/NNP
+
+Two-thirds/NNS of/IN the/DT world's/NNS population/NN 4/CD billion/CD people/NNS live/VBP on/IN $2000/CD a/DT year/NN or/CC less./NN
+
+You/PRP might/MD think/VB that/IN the/DT last/JJ thing/NN on/IN their/PRP$ minds/NNS would/MD be/VB getting/VBG a/DT television/NN set/VBN or/CC a/DT computer./NN
+But/CC that's/NNS not/RB the/DT case./NN
+Many/JJ people/NNS in/IN the/DT developing/VBG world/NN give/VBP up/RP one/CD of/IN their/PRP$ daily/JJ meals/NNS so/IN they/PRP can/MD afford/VB to/TO buy/VB a/DT TV./NNP
+And/CC now/RB an/DT Indian-born/NNP computer/NN engineer/NN thinks/VBZ he's/NNS come/VBP up/RP with/IN a/DT way/NN to/TO give/VB them/PRP cheap/JJ access/NN to/TO the/DT internet./JJ
+Carnegie/NNP Mellon/NNP Professor/NNP Raj/NNP Reddy/NNP has/VBZ spent/VBN the/DT bulk/NN of/IN his/PRP$ professional/JJ career/NN trying/VBG to/TO find/VB ways/NNS to/TO make/VB technology/NN accessible/JJ to/TO poor/JJ people./NN
+The/DT first/JJ step/NN is/VBZ to/TO figure/VB out/RP why/WRB poor/JJ people/NNS would/MD want/VB a/DT personal/JJ computer/NN and/CC Professor/NNP Reddy/NNP thinks/VBZ he/PRP has/VBZ a/DT pretty/RB good/JJ idea/NN of/IN why/WRB they/PRP might./VBP
+"I/NN come/VBN from/IN a/DT village"/NN says/VBZ Prof/NNP Reddy/NNP "I/NN know/NN what/WP the/DT population/NN is/VBZ like/IN many/JJ of/IN them/PRP are/VBP illiterate/NN and/CC many/JJ of/IN them/PRP have/VBP other/JJ concerns."/NN "There/NN nobody/NN will/MD use/VB it/PRP for/IN the/DT conventional/JJ uses/NNS of/IN a/DT PC/NN word/NN processing/NN and/CC Powerpoint"/NNP he/PRP said./VB
+"So/NN it's/NNS clear/JJ to/TO me/PRP that/IN if/IN people/NNS wanted/VBD to/TO use/VB PCs/NNS in/IN a/DT village/NN -/: it/PRP has/VBZ to/TO usable/JJ by/IN illiterate/NN people/NNS and/CC it/PRP must/MD be/VB primarily/RB for/IN entertainment/NN education/NN telemedicine/NN and/CC access/NN to/TO expert/NN advice."/NN
+
+Prof/NNP Reddy/NNP also/RB thinks/VBZ that/IN tying/VBG it/PRP into/IN some/DT kind/NN of/IN aid/NN package/NN was/VBD the/DT wrong/JJ approach./NN
+After/IN all/DT he/PRP asked/VBD --/: what/WP aid/NN group/NN could/MD possibly/RB give/VB expensive/JJ computers/NNS to/TO 250/CD million/CD less/RBR fortunate/JJ Indians/NNPS let/VBP alone/RB the/DT billions/NNS of/IN poor/JJ people/NNS around/IN the/DT world?/NN
+
+Instead/RB Prof/NNP Reddy/NNP decided/VBD to/TO think/VB of/IN those/DT 250/CD million/CD Indians/NNPS as/IN a/DT potential/JJ market./NN
+The/DT problem/NN then/RB becomes/VBZ one/CD of/IN making/VBG the/DT product/NN compelling/JJ enough./NN
+"It/NN must/MD be/VB so/RB compelling/JJ that/IN you/PRP would/MD give/VB up/RP your/PRP$ third/JJ meal/NN in/IN order/NN to/TO have/VB this"/NN Prof/NNP Reddy/NNP says./NN
+"People/NN do/VBP this/DT today/NN with/IN television/NN sets./NN
+If/IN you/PRP go/VBP to/TO India/NNP and/CC many/JJ other/JJ countries/NNS they/PRP will/MD first/RB go/VB get/VB a/DT television/NN set/VBN before/IN they/PRP worry/VBP about/IN one/CD more/JJR meal./NN
+Why?/NNP Because/IN personalized/VBN entertainment/NN has/VBZ become/VBN very/RB important."/VB This/DT hatched/VBD a/DT completely/RB new/JJ idea./NN
+He/PRP calls/VBZ it/PRP a/DT PCtvt/NNP -/: A/DT personal/JJ computer/NN television/NN and/CC telephone/NN all/DT in/IN one/CD that/WDT runs/VBZ on/IN a/DT normal/JJ desktop/NN machine./NN
+Literate/NN users/NNS can/MD surf/VB through/IN the/DT applications/NNS with/IN a/DT keyboard/NN and/CC mouse/NN but/CC illiterate/NN users/NNS can/MD use/VB what/WP looks/VBZ like/IN a/DT television/NN remote/JJ control./NN
+
+On/IN the/DT screen/NN pictures/NNS -/: not/RB words/NNS -/: designate/VB applications/NNS like/IN TV/NN voice/NN mail/NN and/CC video/NN e-mail./JJ
+This/DT dependence/NN on/IN graphics/NNS video/NN and/CC audio/JJ means/NNS that/IN a/DT computer/NN for/IN an/DT illiterate/NN person/NN needs/VBZ 100/CD times/NNS more/JJR power/NN and/CC more/JJR memory/NN than/IN one/CD for/IN a/DT PhD./NNP
+Prassana/NNP Rambathla/NNP one/CD of/IN Prof/NNP Reddy's/NNP graduate/NN students/NNS says/VBZ that/DT "when/NN you're/NN talking/VBG illiterate/NN you're/NN talking/VBG audio/JJ and/CC video/NN and/CC that/IN demands/NNS exponentially/RB high/JJ bandwidth.'/NN "It/NN can't/NN choke/NN at/IN any/DT point/NN in/IN time/NN and/CC it/PRP has/VBZ to/TO withstand/VB anything/NN no/DT matter/NN what/WP you're/NN pressing."/NN "The/NN major/JJ part/NN is/VBZ making/VBG it/PRP foolproof/NN very/RB tough/JJ so/IN that/IN it/PRP never/RB breaks"/VBP he/PRP says./VB
+The/DT Carnegie/NNP Mellon/NNP team/NN says/VBZ this/DT project/NN is/VBZ only/RB possible/JJ because/IN PCs/NNS are/VBP now/RB so/RB much/RB cheaper/JJR and/CC have/VBP built-in/JJ audio/JJ and/CC video/NN hardware/NN and/CC software./NN
+Limited/JJ trials/NNS of/IN the/DT PCtvt/NNP are/VBP due/JJ to/TO start/VB this/DT month/NN in/IN the/DT Indian/JJ state/NN of/IN Andhra/NNP Pradesh./NNP
+
+Although/IN Andhra/NNP Pradesh/NNP has/VBZ a/DT fairly/RB good/JJ infrastructure/NN but/CC work/NN has/VBZ to/TO be/VB done/VBN to/TO ensure/VB reliable/JJ connections/NNS to/TO the/DT net./NN
+Prof/NNP Reddy/NNP has/VBZ teamed/VBN up/RP with/IN Eric/NNP Brewer/NN at/IN the/DT University/NNP of/IN California/NNP at/IN Berkeley./NNP
+The/DT answer/NN says/VBZ Prof/NNP Brewer/NN is/VBZ wi-fi./JJ
+
+"We're/NN looking/VBG at/IN the/DT thing/NN you'll/NN see/NN in/IN Starbuck's/NNP or/CC many/JJ other/JJ hotspots"/NN he/PRP says./VB
+"We're/NN doing/VBG a/DT lot/NN of/IN work/NN on/IN long-distance/JJ wireless/JJ and/CC how/WRB to/TO make/VB the/DT network/NN work/NN better/RBR in/IN the/DT presence/NN of/IN intermittency/NN when/WRB the/DT power/NN goes/VBZ up/IN and/CC down/RB and/CC the/DT links/NNS go/VBP up/RB and/CC down/RB and/CC the/DT computers/NNS you're/NN connected/VBN to/TO just/RB get/VB turned/VBD off/RP for/IN no/DT reason."/NN Prof/NNP Reddy/NNP says/VBZ he/PRP hopes/VBZ to/TO lease/VB the/DT PCtvts/NNP for/IN about/RB $10/CD a/DT month/NN and/CC thinks/VBZ Indians/NNPS will/MD rent/VB the/DT units/NNS for/IN the/DT television/NN and/CC DVD/NNP capabilities./NN
+Reddy/NNP says/VBZ he/PRP can/MD then/RB introduce/VB the/DT PCtvt's/NNP other/JJ technologies/NNS -/: such/JJ as/IN video/NN mail./NN
+For/IN example/NN a/DT farmer/NN could/MD use/VB the/DT PCtvt's/NNP webcam/NN to/TO send/VB a/DT picture/NN of/IN a/DT harmful/JJ insect/NN to/TO a/DT local/JJ official/NN who/WP could/MD send/VB back/RP a/DT proposed/VBN course/NN of/IN action/NN to/TO the/DT farmer./NN
+Prof/NNP Reddy/NNP thinks/VBZ this/DT kind/NN of/IN communication/NN is/VBZ the/DT real/JJ pay-off./JJ
+"The/NN underlying/VBG problem"/NN he/PRP says/VBZ "is/NN how/WRB you/PRP can/MD increase/VB their/PRP$ wealth/NN and/CC reduce/VB their/PRP$ poverty/NN and/CC reduce/VB their/PRP$ illiteracy/NN and/CC improve/VB their/PRP$ health/NN care.'/NN "And/NN what/WP I'm/NNP postulating/NN is/VBZ that/IN this/DT is/VBZ the/DT technology/NN that/WDT will/MD enable/VB them./NN
+If/IN I/PRP didn't/VBP have/VBP it/PRP it/PRP would/MD be/VB an/DT uphill/JJ battle./NN
+Even/RB with/IN the/DT technology/NN it's/NNS an/DT uphill/JJ battle./NN
+But/CC I/PRP have/VBP a/DT tool./NN
+There/EX is/VBZ hope./NN
+I/PRP can/MD reach/VB them/PRP in/IN ways/NNS that/WDT have/VBP not/RB been/VBN possible/JJ before."/NN
+
+Clark/NNP Boyd/NNP is/VBZ technology/NN correspondent/NN for/IN The/DT World/NNP a/DT BBC/NNP World/NNP Service/NNP and/CC WGBH-Boston/NNP co-production/NN

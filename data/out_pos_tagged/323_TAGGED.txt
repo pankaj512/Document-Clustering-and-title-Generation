@@ -1,0 +1,24 @@
+No/DT seasonal/JJ lift/NN for/IN house/NN market/NN
+
+A/DT swathe/NN of/IN figures/NNS have/VBP provided/VBN further/JJ evidence/NN of/IN a/DT slowdown/NN in/IN the/DT UK/NNP property/NN market./NN
+
+The/DT Council/NNP of/IN Mortgage/NNP Lenders/NNP (CML)/NN British/JJ Bankers/NNPS Association/NNP (BBA)/NN and/CC Building/NNP Societies/NNS Association/NNP (BSA)/NN all/DT said/VBD mortgage/NN lending/NN was/VBD slowing./NN
+CML/NN figures/NNS showed/VBD gross/JJ lending/NN fell/VBD by/IN 4%/CD in/IN November/NNP as/IN the/DT number/NN of/IN people/NNS buying/VBG new/JJ homes/NNS fell./NN
+Elsewhere/RB the/DT BBA/NNP added/VBD underlying/VBG mortgage/NN lending/NN rose/VBD by/IN £4m/CD in/IN November/NNP compared/VBD to/TO October's/NNP £4.29m./CD
+The/DT CML/NNP said/VBD that/IN loans/NNS for/IN new/JJ property/NN purchases/NNS fell/VBD 25%/CD year-on-year/JJ to/TO 85000/CD -/: the/DT lowest/JJS total/NN seen/VBN since/IN February/NNP 2003./CD
+
+Data/NNP from/IN the/DT CML/NNP showed/VBD lending/NN fell/VBD to/TO just/RB over/IN £25bn/CD in/IN November/NNP from/IN £25.5bn/CD a/DT year/NN earlier./NN
+Separate/JJ figures/NNS from/IN the/DT Building/NNP Societies/NNS Association/NNP showed/VBD the/DT value/NN of/IN mortgage/NN approvals/NNS --/: loans/NNS agreed/VBD but/CC not/RB yet/RB made/VBN --/: stood/VBD 32%/CD lower/JJR than/IN at/IN the/DT same/JJ time/NN last/JJ year/NN at/IN a/DT seasonally-adjusted/JJ £2.98bn./CD
+The/DT figures/NNS come/VBP hot/JJ on/IN the/DT heels/NNS of/IN new/JJ data/NNS from/IN property/NN website/NN Rightmove/NNP which/WDT suggested/VBD owners/NNS must/MD indulge/VB in/IN a/DT "winter/NN sale"/NN and/CC slash/VB prices/NNS by/IN up/IN to/TO 8%./CD
+Miles/NNP Shipside/NNP commercial/JJ director/NN at/IN Rightmove/NNP said/VBD sellers/NNS would/MD have/VB to/TO be/VB "more/NN realistic/JJ with/IN their/PRP$ asking/VBG prices"/NN to/TO tempt/VB buyers./NN
+The/DT average/JJ asking/NN price/NN of/IN a/DT home/NN fell/VBD by/IN more/JJR than/IN £600/CD from/IN £190329/CD in/IN November/NNP to/TO £189733/CD in/IN December/NNP while/IN the/DT length/NN of/IN time/NN it/PRP takes/VBZ to/TO sell/VB a/DT home/NN rose/VBD to/TO 81/CD days/NNS from/IN 53/CD in/IN the/DT summer./NN
+
+Rightmove/NNP said/VBD estate/NN agents/NNS were/VBD set/VBN to/TO enter/VB 2005/CD with/IN a/DT third/JJ more/JJR properties/NNS on/IN their/PRP$ books/NNS than/IN a/DT year/NN ago./NN
+"Even/NN once/RB the/DT quieter/NN holiday/NN period/NN is/VBZ over/IN sellers/NNS will/MD find/VB themselves/PRP competing/VBG with/IN a/DT lot/NN of/IN other/JJ properties/NNS on/IN the/DT market./NN
+In/IN any/DT business/NN excess/JJ supply/NN and/CC low/JJ demand/NN means/VBZ one/CD thing/NN -/: cut/VB prices"/NN Mr/NNP Shipside/NNP said./NN
+
+"The/NN proof/NN is/VBZ that/IN some/DT properties/NNS that/WDT have/VBP been/VBN appropriately/RB discounted/VBN are/VBP selling/VBG even/RB in/IN the/DT current/JJ market."/NN Overall/RB asking/VBG prices/NNS have/VBP fallen/VBN 3.3%/CD from/IN their/PRP$ July/NNP peaks/NNS as/IN the/DT equivalent/NN of/IN £6500/CD has/VBZ been/VBN cut/VBN from/IN an/DT average/JJ property./NN
+A/DT host/NN of/IN mortgage/NN lenders/NNS and/CC economists/NNS have/VBP predicted/VBN that/IN property/NN prices/NNS will/MD either/DT fall/NN or/CC stagnate/NN in/IN 2005./CD
+"What/NN is/VBZ apparent/NN is/VBZ a/DT picture/NN of/IN a/DT slowing/VBG market/NN but/CC one/CD that/WDT should/MD remain/VB stable/JJ as/IN we/PRP return/VBP to/TO more/RBR normal/JJ volumes/NNS of/IN lending/NN over/IN 2005/CD as/IN a/DT whole"/NN CML/NNP director/NN general/JJ Michael/NNP Coogan/NNP said./NN
+"It's/NN a/DT fairly/RB consistent/JJ picture/NN showing/VBG that/DT mortgage/NN demand/NN has/VBZ fallen/VBN back/RB again/RB which/WDT is/VBZ consistent/JJ with/IN a/DT continuing/VBG correction/NN in/IN the/DT housing/NN market"/NN Investec/NNP economist/NN Philip/NNP Shaw/NNP said./NN
+"However/NN the/DT figures/NNS do/VBP suggest/VB only/RB a/DT modest/JJ weakening/NN and/CC we/PRP stand/VBP by/IN our/PRP$ view/NN that/IN the/DT property/NN market/NN will/MD remain/VB in/IN the/DT doldrums/NNS for/IN some/DT time/NN though/IN a/DT collapse/NN is/VBZ still/RB unlikely."/NN

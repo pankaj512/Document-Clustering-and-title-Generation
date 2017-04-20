@@ -1,0 +1,14 @@
+Bellamy/NNP under/IN new/JJ fire/NN
+
+Newcastle/NNP boss/NN Graeme/NNP Souness/NN has/VBZ reopened/VBN his/PRP$ dispute/NN with/IN Craig/NNP Bellamy/NNP after/IN claiming/VBG the/DT Welshman/NNP was/VBD "not/NN good/JJ enough"/NN for/IN the/DT Magpies./NNP
+Bellamy/NNP left/VBD Newcastle/NNP to/TO join/VB Celtic/NNP on/IN loan/NN after/IN a/DT major/JJ row/NN with/IN Souness./NNP
+Souness/NN -/: who/WP refused/VBD to/TO refer/VB to/TO the/DT 25-year-old/JJ by/IN name/NN -/: said/VBD Bellamy/NNP did/VBD not/RB score/VB enough/JJ goals/VBZ "The/NN chap/NN that's/NNS just/RB gone/VBN has/VBZ scored/VBN 9.3/CD goals/NNS a/DT season/NN in/IN his/PRP$ time/NN in/IN senior/JJ football/NN -/: half/NN of/IN those/DT weren't/NN even/RB in/IN the/DT top/JJ flight"/NN said/VBD Souness./NNP
+"That's/NN not/RB good/JJ enough/RB for/IN a/DT striker/NN at/IN a/DT club/NN like/IN this./NN
+"We/NN need/VBP to/TO have/VB two/CD strikers/NNS who/WP are/VBP near/IN 20/CD goals/NNS on/IN a/DT regular/JJ basis."/NN
+
+Bellamy/NNP turned/VBD down/RP a/DT move/NN to/TO Birmingham/NNP in/IN favour/NN of/IN joining/VBG Celtic/NNP after/IN a/DT disagreement/NN about/IN the/DT Welsh/NNP international/JJ playing/NN out/IN of/IN position/NN quickly/RB escalated./NN
+Earlier/RBR in/IN the/DT week/NN Souness/NN had/VBD said/VBN that/IN he/PRP risked/VBD losing/VBG the/DT confidence/NN of/IN the/DT players/NNS and/CC damaging/JJ his/PRP$ own/JJ reputation/NN if/IN he/PRP had/VBD not/RB taken/VBN a/DT hard/JJ line/NN after/IN Bellamy/NNP accused/VBD him/PRP of/IN lying./NN
+
+"There/NN are/VBP certain/JJ things/NNS you/PRP can/MD forgive/VB and/CC forget"/NN said/VBD Souness./NNP
+"But/NN if/IN I'd/NNP been/VBN seen/VBN to/TO be/VB weak/JJ in/IN this/DT case/NN there/EX was/VBD no/DT future/NN for/IN me/PRP with/IN the/DT players/NNS in/IN the/DT dressing/VBG room/NN or/CC any/DT job/NN I/PRP have/VBP after/IN Newcastle."/NNP He/PRP could/MD then/RB return/VB to/TO St/NNP James'/NNP Park/NNP -/: and/CC he/PRP says/VBZ that/IN he/PRP wants/VBZ to./NN
+However/RB it/PRP would/MD seem/VB unlikely/JJ he/PRP will/MD play/VB for/IN Newcastle/NNP again/RB as/RB long/RB as/IN Souness/NN remains/VBZ in/IN charge./NN

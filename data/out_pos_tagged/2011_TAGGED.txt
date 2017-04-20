@@ -1,0 +1,32 @@
+A/DT question/NN of/IN trust/NN and/CC technology/NN
+
+A/DT major/JJ government/NN department/NN is/VBZ without/IN e-mail/JJ for/IN a/DT week/NN and/CC technology/NN analyst/NN Bill/NNP Thompson/NNP wants/VBZ to/TO know/VB what/WP happened./NN
+
+A/DT couple/NN of/IN weeks/NNS ago/IN I/PRP wrote/VBD about/IN how/WRB my/PRP$ girlfriend/NN had/VBD suffered/VBN when/WRB her/PRP$ cable/NN modem/NN blew/VBD up/RP and/CC she/PRP was/VBD offline/NN for/IN several/JJ days./NN
+It/PRP seems/VBZ that/IN thousands/NNS of/IN civil/JJ servants/NNS at/IN the/DT UK's/NNP Department/NNP of/IN Work/NN and/CC Pensions/NNS went/VBD through/IN the/DT same/JJ thing/NN last/JJ week./NN
+It/PRP has/VBZ emerged/VBN that/IN the/DT internal/JJ network/NN crashed/VBD in/IN a/DT particularly/RB horrible/JJ way/NN depriving/VBG staff/NN of/IN e-mail/JJ and/CC access/NN to/TO the/DT application/NN software/NN they/PRP use/VBP to/TO calculate/VB people's/NNS benefit/NN and/CC pension/NN entitlement/NN or/CC note/NN changes/NNS in/IN personal/JJ circumstances./NN
+Senior/JJ consultants/NNS from/IN EDS/NNP the/DT computer/NN firm/NN which/WDT manage/VBP the/DT system/NN and/CC Microsoft/NNP which/WDT supplied/VBD the/DT software/NN were/VBD running/VBG around/IN trying/VBG to/TO figure/VB out/RP what/WP had/VBD to/TO be/VB done/VBN to/TO fix/VB it/PRP all/DT while/IN staff/NN resorted/VBN to/TO phone/VB fax/NN and/CC probably/RB carrier/NN pigeon/NN to/TO get/VB work/NN done./NN
+Fortunately/RB the/DT back-office/JJ systems/NNS which/WDT actually/RB pay/VBP people/VBZ their/PRP$ money/NN were/VBD still/RB working/VBG so/RB only/RB new/JJ claims/NNS and/CC updates/NNS were/VBD affected/VBN done/VBN properly./NN
+This/DT is/VBZ bad/JJ enough/RB for/IN those/DT affected/VBN but/CC it/PRP does/VBZ mean/VB that/IN the/DT impact/NN is/VBZ not/RB devastating/JJ for/IN millions/NNS of/IN pensioners./NN
+I/PRP am/VBP sure/JJ regular/JJ readers/NNS will/MD be/VB expecting/VBG one/CD of/IN my/PRP$ usual/JJ diatribes/NNS against/IN poor/JJ software/NN badly/RB specified/VBD systems/NNS and/CC inadequate/JJ disaster/NN recovery/NN plans./NN
+
+Although/IN the/DT full/JJ story/NN has/VBZ not/RB yet/RB been/VBN told/VBN it/PRP seems/VBZ that/IN the/DT problem/NN started/VBD when/WRB a/DT plan/NN to/TO upgrade/VB some/DT of/IN the/DT computers/NNS from/IN Windows/NNS 2000/CD to/TO Windows/NNS XP/NNP went/VBD wrong/JJ and/CC XP/NNP code/NN was/VBD inadvertently/RB copied/VBN to/TO thousands/NNS of/IN machines/NNS across/IN the/DT network./NN
+
+This/DT is/VBZ certainly/RB unfortunate/JJ but/CC I/PRP have/VBP a/DT lot/NN of/IN sympathy/NN for/IN the/DT network/NN managers/NNS and/CC technology/NN staff/NN involved./NN
+Today's/NNP computer/NN networks/NNS are/VBP large/JJ complex/JJ and/CC occasionally/RB fragile./NN
+The/DT interconnectedness/NN that/IN we/PRP all/DT value/NN also/RB gives/VBZ us/PRP a/DT degree/NN of/IN instability/NN and/CC unpredictability/NN that/IN we/PRP cannot/VBP design/NN out/IN of/IN the/DT systems./NN
+It/PRP is/VBZ the/DT network/NN equivalent/NN of/IN Godel's/NNP Theorem/NNP -/: any/DT system/NN sufficiently/RB complex/JJ to/TO be/VB useful/JJ is/VBZ also/RB able/JJ to/TO collapse/VB catastrophically./NN
+So/RB I/PRP will/MD reserve/VB judgment/NN on/IN the/DT technology/NN aspects/NNS until/IN we/PRP all/DT know/VBP what/WP actually/RB happened/VBD and/CC whether/IN it/PRP was/VBD a/DT consequence/NN of/IN software/NN failure/NN or/CC just/RB bad/JJ luck./NN
+What/WP is/VBZ really/RB disturbing/JJ and/CC cannot/NN be/VB excused/VBN is/VBZ the/DT fact/NN that/IN it/PRP took/VBD four/CD days/NNS for/IN news/NN of/IN this/DT systems/NNS failure/NN to/TO leak/VB out/RP into/IN the/DT technical/JJ press./NN
+
+It/PRP is/VBZ without/IN a/DT doubt/NN a/DT major/JJ story/NN and/CC was/VBD the/DT second/JJ or/CC third/JJ lead/NN item/NN on/IN BBC/NNP Radio/NNP 4's/CD Today/NN programme/NN throughout/IN Friday/NNP morning./NN
+
+So/RB why/WRB did/VBD not/RB the/DT prime/JJ minister's/NNS official/JJ spokesman/NN mention/VBP it/PRP at/IN any/DT lobby/NN briefings/NNS before/IN Friday?/NNP Why/WRB was/VBD not/RB the/DT pensions/NNS minister/NN in/IN Parliament/NNP to/TO make/VB an/DT emergency/NN statement/NN on/IN Tuesday/NNP when/WRB it/PRP was/VBD clear/JJ that/IN there/EX was/VBD a/DT serious/JJ problem?/NN If/IN there/EX had/VBD been/VBN an/DT outbreak/NN of/IN Legionnaire's/NNP disease/NN in/IN the/DT air/NN conditioning/NN system/NN we/PRP would/MD have/VB been/VBN told/VBN but/CC it/PRP seems/VBZ that/IN major/JJ technology/NN problems/NNS do/VBP not/RB merit/VB the/DT same/JJ treatment./NN
+While/IN EDS/NNP and/CC Microsoft/NNP will/MD no/DT doubt/NN be/VB looking/VBG for/IN technical/JJ lessons/NNS to/TO learn/VB from/IN their/PRP$ week/NN of/IN pain/NN we/PRP can/MD learn/VB some/DT political/JJ lessons/NNS too./NN
+And/CC the/DT most/RBS important/JJ is/VBZ that/IN in/IN this/DT digital/JJ world/NN technology/NN failures/NNS are/VBP matters/NNS of/IN public/JJ interest/NN not/RB something/NN that/WDT can/MD be/VB ignored/VBN in/IN the/DT hope/NN that/IN nobody/NN will/MD notice/VB care/NN or/CC understand./NN
+That/DT means/VBZ we/PRP need/VBP a/DT full/JJ report/NN on/IN what/WP went/VBD wrong/JJ and/CC what/WP was/VBD done/VBN to/TO fix/VB it./NN
+It/PRP would/MD be/VB unacceptable/JJ for/IN any/DT of/IN the/DT parties/NNS involved/VBN to/TO hide/VB behind/IN commercial/JJ confidentiality/NN or/CC even/RB parliamentary/JJ privilege./NN
+A/DT major/JJ system/NN has/VBZ evidently/RB collapsed/VBN and/CC we/PRP need/VBP to/TO know/VB what/WP went/VBD wrong/JJ and/CC what/WP is/VBZ being/VBG done/VBN differently./NN
+Anything/NN less/JJR is/VBZ a/DT betrayal/NN of/IN public/JJ trust./NN
+
+Bill/NNP Thompson/NNP is/VBZ a/DT regular/JJ commentator/NN on/IN the/DT BBC/NNP World/NNP Service/NNP programme/NN Go/VB Digital./NNP

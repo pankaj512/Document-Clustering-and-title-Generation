@@ -1,0 +1,55 @@
+Brentford/NNP v/NN Southampton/NNP
+
+Griffin/NNP Park/NNP
+
+Tuesday/NNP 1/CD March/NNP
+
+1945/CD GMT/NNP
+
+Barry/NNP Knight/NNP (Kent)/NN
+
+home/NN to/TO Manchester/NNP United/NNP in/IN the/DT quarter-finals/NNS
+
+Midfielder/NNP Andrew/NNP Frampton/NNP and/CC striker/NN Deon/NNP Burton/NNP are/VBP both/DT slight/JJ doubts/NNS with/IN hamstring/VBG injuries/NNS but/CC should/MD be/VB fit/VBN Saints/NNP are/VBP missing/VBG their/PRP$ entire/JJ first-choice/JJ midfield/NN of/IN Jamie/NNP Redknapp/NNP Graeme/NNP Le/NNP Saux/NNP Nigel/NNP Quashie/NNP and/CC David/NNP Prutton./NNP
+Anders/NNP Svensson/NNP and/CC Matt/NNP Oakley/NNP are/VBP likely/JJ replacements/NNS with/IN Kevin/NNP Phillips/NNP also/RB scheduled/VBD to/TO start/VB with/IN Henri/NNP Camara/NNP rested./NN
+
+-/: Brentford/NNP boss/NN Martin/NNP Allen/NNP "After/NN conceding/VBG eight/CD goals/NNS in/IN our/PRP$ last/JJ three/CD matches/VBZ I/PRP have/VBP to/TO admit/VB I'm/NNP not/RB very/RB confident./NN
+"There's/NN no/DT doubt/NN we're/NN the/DT underdogs/NNS and/CC after/IN defending/VBG so/RB poorly/RB recently/RB it's/NNS not/RB looking/VBG good./NN
+"Southampton/NN have/VBP just/RB drawn/VBN with/IN the/DT Premiership/NN champions/NNS and/CC that/DT makes/VBZ our/PRP$ task/NN harder/RBR than/IN it/PRP was/VBD already."/NN
+-/: Southampton/NNP boss/NN Harry/NNP Redknapp/NNP "We/NN know/NN they/PRP can/MD give/VB us/PRP problems./VBP
+"Brentford/NN have/VBP done/VBN well/RB but/CC we/PRP are/VBP the/DT Premiership/NN side/NN and/CC should/MD have/VB the/DT better/JJR players./NN
+"Staying/VBG in/IN the/DT Premiership/NN is/VBZ our/PRP$ priority./NN
+We/PRP want/VBP to/TO win/VB of/IN course/NN we/PRP do./VBP
+We'll/NNP battle/NN but/CC if/IN it/PRP comes/VBZ to/TO a/DT football/NN match/NN I/PRP think/VBP we'll/NN win."/NN KEY/JJ MATCH/NN STATS/NNP
+-/: BRENTFORD/NNP are/VBP the/DT lowest/JJS ranked/VBD club/NN left/VBN in/IN the/DT FA/NNP Cup./NNP
+They're/NNP on/IN their/PRP$ best/JJS run/VB in/IN the/DT competition/NN since/IN reaching/VBG the/DT quarter-finals/NNS for/IN the/DT fourth/JJ time/NN in/IN their/PRP$ history/NN 16/CD years/NNS ago./NN
+Now/RB they/PRP have/VBP the/DT carrot/NN of/IN the/DT plum/NN draw/NN in/IN the/DT last/JJ eight/CD dangling/VBG before/IN them./NN
+Victory/NN over/IN Premiership/NN strugglers/NNS Southampton/NNP would/MD bring/VB the/DT mighty/JJ Manchester/NNP United/NNP to/TO Griffin/NNP Park/NNP and/CC a/DT gigantic/JJ pay/NN day/NN for/IN the/DT sole/JJ League/NNP One/CD survivors./NN
+
+-/: Martin/NNP Allen's/NNP brave/VB side/NN came/VBD back/RB from/IN two/CD goals/NNS down/RP at/IN St/NNP Mary's/NNP to/TO earn/VB a/DT deserved/VBN replay./NN
+Southampton/NNP striker/NN Henri/NNP Camara/NNP scored/VBD twice/RB from/IN close/NN range/NN to/TO put/VB the/DT Saints/NNP in/IN command/NN but/CC Isaiah/NNP Rankin/NNP hit/VBD back/RB just/RB before/IN half/JJ time/NN and/CC Sam/NNP Sodje/NNP headed/VBD past/JJ a/DT creaky/JJ defence/NN on/IN 58/CD minutes./NN
+
+-/: The/DT Londoners/NNP have/VBP conceded/VBN six/CD goals/NNS in/IN their/PRP$ two/CD subsequent/JJ League/NNP outings/NNS -/: three/CD each/DT in/IN losing/VBG away/RB to/TO Hartlepool/NNP and/CC drawing/VBG at/IN home/NN to/TO Sheffield/NNP Wednesday./NNP
+But/CC they/PRP haven't/VBP lost/VBD in/IN six/CD League/NNP and/CC Cup/NNP games/NNS on/IN home/NN turf/NN -/: winning/VBG three/CD and/CC drawing/VBG three/CD since/IN the/DT reverse/NN to/TO Torquay/NNP on/IN Boxing/NNP Day./NNP
+
+-/: SOUTHAMPTON/NNP go/VB into/IN this/DT tie/NN on/IN the/DT back/NN of/IN an/DT eventful/JJ Premiership/NN match/NN with/IN Arsenal/NN on/IN Saturday./NNP
+An/DT angry/JJ David/NNP Prutton/NNP pushed/VBD referee/NN Alan/NNP Wiley/NNP after/IN being/VBG shown/VBN the/DT red/JJ card/NN but/CC his/PRP$ side/NN still/RB came/VBD back/RB to/TO draw/VB 1-1./JJ
+It/PRP was/VBD Saints'/NNP fourth/JJ stalemate/NN in/IN succession/NN in/IN all/DT competitions/NNS but/CC didn't/NN lift/NN them/PRP out/IN of/IN the/DT relegation/NN zone./NN
+The/DT retention/NN of/IN their/PRP$ ever/RB present/JJ Premier/NNP League/NNP status/NN must/MD be/VB the/DT number/NN one/CD priority/NN irrespective/RB of/IN the/DT rewards/NNS that/DT success/NN against/IN Brentford/NNP would/MD bring./VB
+
+-/: Victory/NN here/RB would/MD set/VB up/RP a/DT repeat/NN of/IN the/DT 1976/CD final/JJ when/WRB Saints/NNP astounded/VBD the/DT football/NN world/NN by/IN defeating/VBG Tommy/NNP Docherty's/NNP Manchester/NNP United/NNP courtesy/NN of/IN Bobby/NNP Stokes'/NNP famous/JJ winner./NN
+They/PRP also/RB knocked/VBD out/RP the/DT Red/NNP Devils/NNS in/IN 1991/CD on/IN penalties/NNS in/IN the/DT fourth/JJ round./NN
+But/CC to/TO write/VB another/DT chapter/NN in/IN their/PRP$ FA/NNP Cup/NNP history/NN the/DT Solent/NNP side/NN must/MD avoid/VB succumbing/VBG to/TO lower/VB division/NN opposition/NN for/IN the/DT first/JJ time/NN since/IN Rotherham/NNP from/IN the/DT second/JJ level/NN beat/NN them/PRP 2-1/JJ in/IN a/DT third/JJ round/NN tie/NN at/IN Millmoor/NNP on/IN 16/CD January/NNP 2002./CD
+Southampton/NNP were/VBD last/RB humbled/VBN by/IN a/DT club/NN from/IN the/DT third/JJ tier/NN six/CD years/NNS ago./NN
+Fulham/NNP were/VBD then/RB in/IN the/DT Second/NNP Division/NNP when/WRB they/PRP won/VBD a/DT third/JJ round/NN replay/NN at/IN Craven/NNP Cottage/NN 1-0/JJ on/IN 13/CD January/NNP 1999./CD
+
+-/: To/TO get/VB to/TO within/IN two/CD matches/VBZ of/IN a/DT second/JJ visit/NN to/TO the/DT Millennium/NNP Stadium/NNP in/IN three/CD years/NNS for/IN the/DT final/JJ Harry/NNP Redknapp/NNP must/MD guide/VB his/PRP$ side/NN past/IN a/DT club/NN 36/CD places/NNS inferior/JJ on/IN the/DT League/NNP ladder/NN and/CC a/DT manager/NN 19/CD years/NNS his/PRP$ junior/NN who/WP played/VBD under/IN him/PRP at/IN West/NNP Ham./NNP
+HEAD/NN TO/TO HEAD/VB
+
+10th/JJ League/NNP One/CD
+
+QUARTER-FINALS/NNP (four/NN times)/NN
+
+18th/JJ PREM/NNP
+
+WINNERS/NNS (once)/NN

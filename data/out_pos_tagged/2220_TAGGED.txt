@@ -1,0 +1,63 @@
+New/NNP consoles/VBZ promise/NN big/JJ problems/NNS
+
+Making/VBG games/NNS for/IN future/NN consoles/VBZ will/MD require/VB more/RBR graphic/JJ artists/NNS and/CC more/JJR money/NN an/DT industry/NN conference/NN has/VBZ been/VBN told./NN
+
+Sony/NNP Microsoft/NNP and/CC Nintendo/NNP will/MD debut/VB their/PRP$ new/JJ consoles/NNS at/IN the/DT annual/JJ E3/CD games/NNS Expo/NNP in/IN Los/NNP Angeles/NNP in/IN May./NNP
+These/DT so-called/JJ "next/NN generation"/NN machines/NNS will/MD be/VB faster/RBR than/IN current/JJ consoles/NNS and/CC capable/JJ of/IN displaying/VBG much/JJ higher-quality/JJ visuals./NN
+For/IN gamers/NNS this/DT should/MD make/VB for/IN better/JJR more/RBR immersive/JJ games./NN
+In/IN a/DT pre-recorded/JJ video/NN slot/NN during/IN Microsoft's/NNP keynote/NN address/NN at/IN the/DT Game/NNP Developers/NNS Conference/NNP held/VBD last/JJ week/NN in/IN San/NNP Francisco/NNP famed/JJ director/NN James/NNP Cameron/NNP revealed/VBD he/PRP is/VBZ making/VBG a/DT game/NN in/IN tandem/NN with/IN his/PRP$ next/JJ film/NN -/: believed/VBN to/TO be/VB Battle/NNP Angel/NNP Alita./NNP
+The/DT game's/NNS visual/JJ quality/NN would/MD be/VB "like/JJ a/DT lucid/JJ dream"/NN said/VBD Mr/NNP Cameron./NNP
+But/CC numerous/JJ speakers/NNS warned/VBD that/IN creating/VBG such/JJ graphics/NNS will/MD require/VB more/JJR artists/NNS and/CC so/RB next/JJ generation/NN console/NN games/NNS will/MD be/VB much/RB more/RBR expensive/JJ to/TO develop./VB
+The/DT first/JJ new/JJ console/NN Microsoft's/NNP Xbox/NNP 2/CD is/VBZ not/RB expected/VBN to/TO reach/VB the/DT shops/NNS until/IN the/DT end/NN of/IN 2005./CD
+Games/NNS typically/RB take/VBP at/IN least/JJS 18/CD months/NNS to/TO create/VB however/RB so/RB developers/NNS are/VBP grappling/VBG with/IN the/DT hardware/NN today./NN
+
+According/VBG to/TO Robert/NNP Walsh/NNP head/NN of/IN Brisbane-based/JJ game/NN developer/NN Krome/NNP Studios/NNP next/JJ generation/NN games/NNS will/MD cost/VB between/IN $10-25m/JJ to/TO make/VB with/IN teams/NNS averaging/VBG 80/CD staff/NN in/IN size/NN taking/VBG two/CD years/NNS to/TO complete/VB a/DT title./NN
+Such/JJ sums/NNS mean/VBP it/PRP will/MD be/VB difficult/JJ for/IN anyone/NN to/TO start/VB a/DT new/JJ game/NN studio/NN said/VBD Mr/NNP Walsh./NNP
+"If/NN you're/NN a/DT start-up/JJ I/PRP doubt/VBP that/IN a/DT publisher/NN is/VBZ going/VBG to/TO walk/VB in/IN and/CC give/VB you/PRP a/DT cheque/NN for/IN $10m/CD however/RB good/JJ you/PRP are"/VBP he/PRP said./VB
+Mr/NNP Walsh/NNP suggested/VBD that/IN new/JJ studios/NNS should/MD make/VB games/NNS for/IN mobile/JJ phones/NNS and/CC handheld/JJ consoles/NNS like/IN the/DT Sony/NNP PSP/NNP and/CC the/DT Nintendo/NNP DS/NNP since/IN they/PRP are/VBP cheaper/JJR and/CC easier/JJR to/TO create/VB than/IN console/NN games./NN
+
+One/CD developer/NN bucking/VBG the/DT trend/NN towards/IN big/JJ art/NN teams/NNS is/VBZ Will/MD Wright/NNP the/DT creator/NN of/IN the/DT best-selling/JJS The/DT Sims/NNP games./NN
+The/DT founder/NN of/IN California's/NNP Maxis/NNP studio/NN surprised/VBD the/DT conference/NN with/IN a/DT world/NN exclusive/JJ preview/NN of/IN his/PRP$ next/JJ game/NN Spore./NNP
+Spore/NNP will/MD allow/VB players/NNS to/TO experiment/VB with/IN the/DT evolution/NN of/IN digital/JJ creatures./NN
+Starting/VBG with/IN an/DT amoeba-sized/JJ organism/NN the/DT player/NN will/MD guide/VB the/DT physical/JJ development/NN of/IN their/PRP$ creature/NN by/IN selecting/VBG how/WRB its/PRP$ limbs/NNS jaws/NNS and/CC other/JJ body/NN parts/NNS evolve./NN
+
+Eventually/RB the/DT creature/NN will/MD become/VB capable/JJ of/IN establishing/VBG cities/NNS trading/NN and/CC fighting/VBG and/CC even/RB building/VBG space/NN ships./NN
+Advanced/JJ players/NNS will/MD visit/VB the/DT home/NN planets/NNS of/IN creatures/NNS created/VBN by/IN other/JJ Spore/NNP players./NN
+These/DT worlds/NNS will/MD be/VB automatically/RB swapped/VBN across/IN the/DT Internet./NNP
+Mr/NNP Wright/NNP said/VBD that/IN enabling/VBG players/NNS to/TO devise/VB and/CC share/VBP their/PRP$ creatures/NNS would/MD make/VB them/PRP care/VBP more/RBR about/IN the/DT game./NN
+"I/NN don't/NN want/VBP to/TO put/VB the/DT player/NN in/IN the/DT role/NN of/IN Luke/NNP Skywalker/NNP or/CC Frodo/NNP Baggins/NNP -/: I/PRP want/VBP them/PRP to/TO be/VB George/NNP Lucas/NNP or/CC Dr/NNP Seuss"/NNP explained/VBD Mr/NNP Wright./NNP
+Few/JJ games/NNS have/VBP hinted/VBN at/IN the/DT scope/NN of/IN Spore/NNP but/CC Mr/NNP Wright/NNP explained/VBD that/IN he/PRP has/VBZ nevertheless/RB kept/VBN his/PRP$ development/NN team/NN small/JJ by/IN hiring/VBG expert/NN programmers./NN
+Instead/RB of/IN employing/VBG lots/NNS of/IN artists/NNS to/TO create/VB 3D/CD models/NNS of/IN the/DT digital/JJ creatures/NNS Spore/NNP generates/VBZ and/CC displays/VBZ the/DT creatures/NNS according/VBG to/TO rules/NNS devised/VBN by/IN the/DT programmers./NN
+"The/NN thing/NN I/PRP am/VBP coming/VBG away/RB with/IN [from/NN the/DT conference]/NN is/VBZ that/IN next/JJ generation/NN content/NN is/VBZ going/VBG to/TO be/VB really/RB expensive/JJ and/CC creating/VBG it/PRP will/MD drive/VB the/DT smaller/JJR players/NNS out/IN of/IN the/DT market"/NN said/VBD Mr/NNP Wright./NNP
+"I'd/NN like/VB to/TO offer/VB an/DT alternative/NN to/TO that."/VB
+
+New/JJ development/NN tools/NNS will/MD be/VB another/DT important/JJ aid/NN in/IN making/VBG next/JJ generation/NN games/NNS and/CC dozens/NNS of/IN companies/NNS demonstrated/VBD their/PRP$ latest/JJS products/NNS at/IN the/DT conference./NN
+
+Oxford-based/JJ Natural/NNP Motion/NNP launched/VBD Endorphin/NNP v2.0/CD which/WDT enables/VBZ artists/NNS to/TO direct/VB a/DT 3D/CD 'virtual/JJ actor'./NN
+The/DT actor/NN is/VBZ realistically/RB modelled/VBN according/VBG to/TO the/DT laws/NNS of/IN physics./NN
+Endorphin/NNP simulates/VBZ how/WRB the/DT actor/NN falls/VBZ down/RB stairs/NNS for/IN instance/NN or/CC crumples/NNS up/RP after/IN a/DT gunshot./NN
+Artists/NNP can/MD blend/VB together/RB these/DT visual/JJ sequences/NNS and/CC include/VBP the/DT results/NNS in/IN their/PRP$ games./NN
+The/DT process/NN is/VBZ much/RB quicker/JJR than/IN having/VBG an/DT artist/NN animate/NN each/DT movement/NN by/IN hand/NN and/CC so/RB lessens/VBZ the/DT need/NN for/IN larger/JJR art/NN teams./NN
+Another/DT British/JJ company/NN aiming/VBG to/TO reduce/VB the/DT workload/NN of/IN artists/NNS is/VBZ Manchester/NNP start-up/JJ Genemation./NNP
+Its/PRP$ latest/JJS tool/NN GenCrowd/NNP enables/VBZ artists/NNS to/TO create/VB unique/JJ photo-realistic/JJ human/JJ faces/NNS for/IN games/NNS involving/VBG lots/NNS of/IN people./NN
+GenCrowd/NNP works/VBZ by/IN blending/NN together/RB elements/VBZ of/IN an/DT in-built/JJ supply/NN of/IN stock/NN faces/VBZ of/IN differing/VBG ages/NNS and/CC ethnicities./NN
+The/DT software/NN can/MD create/VB up/IN to/TO 2000/CD new/JJ heads/VBZ an/DT hour./NN
+
+One/CD area/NN not/RB yet/RB dominated/VBN by/IN graphical/JJ blockbusters/NNS is/VBZ mobile/JJ phone/NN games./NN
+Even/RB the/DT latest/JJS phones/NNS are/VBP not/RB as/RB powerful/JJ as/IN the/DT consoles/NNS of/IN a/DT decade/NN ago/RB so/RB smaller/JJR teams/NNS of/IN half/PDT a/DT dozen/NN people/NNS can/MD still/RB create/VB complete/JJ games/NNS for/IN the/DT devices./NN
+
+The/DT Game/NNP Developers/NNS Conference/NNP included/VBD a/DT special/JJ two-day/JJ summit/NN dedicated/VBN to/TO creating/VBG mobile/JJ games./NN
+A/DT niche/NN attraction/NN for/IN a/DT few/JJ dozen/NN conference/NN attendees/NNS when/WRB it/PRP began/VBD five/CD years/NNS ago/RB GDC's/NNP Mobile/NNP summit/NN this/DT year/NN drew/VBD several/JJ hundred/CD delegates./NN
+Mobile/NN games/NNS are/VBP a/DT fast-growing/JJ sector/NN because/IN newer/JJR phones/NNS have/VBP better/JJR graphics/NNS and/CC sound/NN and/CC are/VBP thus/RB more/RBR suitable/JJ for/IN playing/VBG games./NN
+Furthermore/RB the/DT adoption/NN of/IN mobile/JJ phones/NNS continues/VBZ to/TO spread/VB across/IN the/DT world./NN
+It's/NNP predicted/VBD that/IN by/IN 2006/CD two/CD billion/CD people/NNS will/MD own/VB a/DT mobile/JJ phone./NN
+The/DT growing/VBG importance/NN of/IN mobile/JJ gaming/NN was/VBD reflected/VBN by/IN a/DT keynote/NN given/VBN by/IN John/NNP Batter/NN general/JJ manager/NN at/IN EA/NNP Mobile./NNP
+EA/NNP Mobile/NNP is/VBZ a/DT division/NN of/IN Electronic/NNP Arts/VBZ the/DT biggest/JJS games/NNS publisher./NN
+Until/IN recently/RB Electronic/NNP Arts/NNS had/VBD been/VBN dismissive/JJ of/IN games/NNS for/IN phones./NN
+"The/NN last/JJ time/NN you/PRP checked/VBD EA/NNP wasn't/NN in/IN this/DT business"/NN Mr/NNP Batter/NN admitted./NN
+But/CC he/PRP said/VBD EA/NNP now/RB planned/VBD on/IN dominating/VBG the/DT market/NN by/IN releasing/VBG mobile/JJ versions/NNS of/IN its/PRP$ most/RBS popular/JJ franchises./NN
+EA/NNP plans/VBZ to/TO release/VB up/IN to/TO 20/CD mobile/JJ games/NNS over/IN the/DT next/JJ 12/CD months./NN
+The/DT first/NN will/MD be/VB a/DT version/NN of/IN its/PRP$ Need/NN for/IN Speed/NN racing/VBG game/NN created/VBN by/IN EA/NNP Mobile's/NNP 30-person/JJ development/NN team./NN
+Mr/NNP Batter/NN predicted/VBD that/IN by/IN 2006/CD mobile/JJ phones/NNS would/MD be/VB capable/JJ of/IN running/VBG games/NNS of/IN comparable/JJ quality/NN to/TO those/DT on/IN Sony's/NNP upcoming/VBG PSP/NNP handheld/JJ console./NN
+
+Owain/NNP Bennallack/NNP is/VBZ the/DT editor/NN of/IN Develop/NN magazine./NN

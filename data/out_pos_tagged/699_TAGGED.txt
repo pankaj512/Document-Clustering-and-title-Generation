@@ -1,0 +1,13 @@
+Holmes/NNP wins/VBZ '2004/CD top/JJ TV/NN moment'/NN
+
+Sprinter/NNP Kelly/NNP Holmes'/NNP Olympic/NNP victory/NN has/VBZ been/VBN named/VBN the/DT top/JJ television/NN moment/NN of/IN 2004/CD in/IN a/DT BBC/NNP poll./NN
+
+Holmes'/NNP 800m/CD gold/NN medal/NN victory/NN beat/NN favourite/NN moments/NNS from/IN drama/NN comedy/NN and/CC factual/JJ programmes/NNS as/IN voted/VBN by/IN television/NN viewers./NN
+Natasha/NNP Kaplinsky's/NNP Strictly/RB Come/VBD Dancing/NN win/NN was/VBD top/JJ entertainment/NN moment/NN and/CC a/DT Little/NNP Britain/NNP breast/NN feeding/VBG sketch/NN won/VBD the/DT comedy/NN prize./NN
+The/DT 2004/CD TV/NN Moments/NNS will/MD be/VB shown/VBN on/IN BBC/NNP One/CD at/IN 2000/CD GMT/NNP on/IN Wednesday./NNP
+Double/RB gold/NN medal/NN winner/NN Holmes/NNP topped/VBD the/DT best/JJS sports/NNS moment/NN category/NN beating/VBG Maria/NNP Sharapova's/NNP Wimbledon/NNP triumph/NN and/CC Matthew/NNP Pinsent's/NNP rowing/NN victory/NN at/IN the/DT Olympics./NNP
+
+She/PRP then/RB went/VBD on/RP to/TO take/VB the/DT overall/JJ prize/NN of/IN Golden/NNP TV/NN Moment./NNP
+The/DT sight/NN of/IN former/JJ royal/NN correspondent/NN Jennie/NNP Bond/NNP with/IN dozens/NNS of/IN rats/NNS crawling/VBG over/IN her/PRP in/IN ITV's/NNP I'm/NNP a/DT Celebrity/NNP Get/NN Me/PRP Out/IN of/IN Here/RB was/VBD named/VBN best/JJS factual/JJ entertainment/NN moment./NN
+Michael/NNP Buerk's/NNP return/NN to/TO Ethiopia/NNP 20/CD years/NNS after/IN originally/RB reporting/VBG its/PRP$ famine/NN topped/VBD the/DT factual/JJ category/NN for/IN BBC/NNP programme/NN This/DT World./NNP
+Long-running/JJ soap/NN EastEnders/NNP won/VBD the/DT best/JJS popular/JJ drama/NN moment/NN title/NN when/WRB character/NN Dot/VBP confided/VBN in/IN Den/NNP Watts/NNP that/IN she/PRP was/VBD unwell./NN

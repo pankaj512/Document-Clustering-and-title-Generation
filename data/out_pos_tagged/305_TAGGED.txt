@@ -1,0 +1,16 @@
+Brazil/NNP approves/VBZ bankruptcy/NN reform/NN
+
+A/DT major/JJ reform/NN of/IN Brazil's/NNP bankruptcy/NN laws/NNS has/VBZ been/VBN approved/VBN by/IN the/DT country's/NNS Congress/NNP in/IN a/DT move/NN which/WDT it/PRP is/VBZ hoped/VBN will/MD cut/VB the/DT cost/NN of/IN borrowing./NN
+
+The/DT bill/NN proposed/VBN in/IN 1993/CD has/VBZ finally/RB been/VBN approved/VBN by/IN the/DT leadership/NN of/IN President/NNP Luiz/NNP Inacio/NNP Lula/NNP da/NNP Silva./NNP
+The/DT old/JJ law/NN dating/VBG from/IN 1945/CD gave/VBD priority/NN first/RB to/TO workers/NNS second/JJ to/TO tax/VB revenue/NN and/CC finally/RB to/TO creditors./VB
+The/DT new/JJ legislation/NN changes/NNS this/DT giving/VBG priority/NN to/TO creditors/NNS and/CC limiting/VBG payments/NNS to/TO workers./VB
+The/DT new/JJ regulations/NNS will/MD limit/VB payments/NNS to/TO workers/NNS to/TO 150/CD times/NNS the/DT minimum/JJ monthly/JJ salary/NN which/WDT is/VBZ currently/RB $94./CD
+The/DT law/NN also/RB makes/VBZ it/PRP more/RBR difficult/JJ for/IN a/DT company/NN to/TO declare/VB bankruptcy./NN
+However/RB when/WRB a/DT firm/NN is/VBZ declared/VBN bankrupt/JJ it/PRP will/MD gain/VB protection/NN from/IN creditors/NNS for/IN 180/CD days/NNS while/IN a/DT recovery/NN plan/NN is/VBZ worked/VBN out./NN
+
+The/DT proposals/NNS were/VBD opposed/VBN in/IN the/DT past/JJ by/IN leftist/JJ parties/NNS including/VBG Mr/NNP Lula's/NNP Worker/NN Party./NNP
+They/PRP considered/VBD that/IN they/PRP undermined/VBD workers'/NN rights./NN
+But/CC President/NNP Lula/NNP became/VBD a/DT defender/NN of/IN the/DT reforms/NNS arguing/VBG that/IN the/DT country's/NNS bank/NN lending/NN margins/NNS were/VBD among/IN the/DT highest/JJS in/IN the/DT world/NN and/CC were/VBD damaging/JJ the/DT economy./NN
+According/VBG to/TO Andreas/NNP Adriano/NNP of/IN Latin/NNP Trade/NNP Magazine/NNP the/DT new/JJ bankruptcy/NN law/NN will/MD help/VB in/IN reducing/VBG the/DT spread/NN -/: difference/NN between/IN the/DT interest/NN rates/NNS of/IN the/DT banks/NNS and/CC federal/JJ bonds./NN
+Nevertheless/RB Mr/NNP Adriano/NNP said/VBD to/TO reduce/VB the/DT basic/JJ interest/NN rate/NN the/DT Central/NNP Bank/NNP needs/VBZ to/TO change/VB its/PRP$ policy/NN focusing/VBG not/RB only/RB on/IN inflation/NN but/CC also/RB on/IN economic/JJ growth./NN

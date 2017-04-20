@@ -1,0 +1,17 @@
+Brown's/NNP poll/NN campaign/NN move/NN denied/VBD
+
+The/DT government/NN has/VBZ denied/VBN reports/NNS that/IN Gordon/NNP Brown/NNP is/VBZ preparing/VBG to/TO oust/VB Alan/NNP Milburn/NNP as/IN Labour's/NNP election/NN supremo./NN
+
+Work/NN and/CC pensions/NNS minister/NN Alan/NNP Johnson/NNP said/VBD it/PRP was/VBD wrong/JJ to/TO suggest/VB the/DT chancellor/NN would/MD usurp/VB Mr/NNP Milburn/NNP adding/VBG they/PRP would/MD "work/VB as/IN a/DT team"./NN
+A/DT report/NN in/IN the/DT Sunday/NNP Business/NNP claimed/VBD Mr/NNP Brown/NNP has/VBZ been/VBN asked/VBN to/TO take/VB charge/NN of/IN media/NNS strategy/NN while/IN Mr/NNP Milburn/NNP would/MD move/VB to/TO a/DT behind-the-scenes/JJ role./NN
+Labour/NNP has/VBZ always/RB maintained/VBN Mr/NNP Brown/NNP would/MD have/VB a/DT central/JJ campaign/NN role./NN
+
+But/CC many/JJ Labour/NNP backbenchers/NNS are/VBP said/VBN to/TO be/VB dissatisfied/VBN with/IN the/DT way/NN election/NN campaigning/NN has/VBZ gone/VBN and/CC have/VBP said/VBN they/PRP wanted/VBD to/TO see/VB the/DT chancellor/NN take/VB a/DT bigger/JJR role./NN
+Some/DT commentators/NNS say/VBP the/DT Tories/NNPS have/VBP grasped/VBN the/DT initiative/NN putting/VBG Labour/NNP on/IN the/DT back/JJ foot/NN having/VBG to/TO respond/VB to/TO Conservative/JJ policy/NN announcements./NN
+These/DT claims/NNS follow/VBP various/JJ opinion/NN polls/NNS which/WDT suggest/VBP the/DT Tories/NNPS have/VBP been/VBN gaining/VBG on/IN Labour./NNP
+Party/NN strategists/NNS are/VBP believed/VBN to/TO want/VB to/TO bring/VB Mr/NNP Brown/NNP to/TO centre-stage/JJ having/NN seen/VBN support/NN rise/NN in/IN private/JJ polling/NN after/IN his/PRP$ Budget/NNP last/JJ week./NN
+But/CC another/DT report/NN in/IN the/DT Sunday/NNP Telegraph/NNP claims/NNS Mr/NNP Milburn/NNP is/VBZ unwilling/JJ to/TO allow/VB any/DT new/JJ role/NN for/IN the/DT chancellor/NN to/TO come/VB at/IN his/PRP$ expense./NN
+Mr/NNP Johnson/NNP told/VBD BBC/NNP News/NNP "Gordon/NN Brown/NNP will/MD play/VB a/DT central/JJ role/NN in/IN any/DT election/NN campaign./NN
+"They/NN were/VBD wrong/JJ when/WRB they/PRP said/VBD Milburn/NNP was/VBD ousting/VBG Brown/NNP and/CC they're/NN wrong/JJ now/RB if/IN they/PRP are/VBP saying/VBG Brown/NNP is/VBZ ousting/VBG Milburn./NNP
+We/PRP work/VBP as/IN a/DT team."/NN Mr/NNP Milburn/NNP has/VBZ repeatedly/RB said/VBN the/DT chancellor/NN was/VBD key/NN to/TO the/DT campaign/NN and/CC dismissed/VBN claims/NNS of/IN a/DT rift./NN
+Neither/DT Downing/NNP Street/NNP nor/CC the/DT Labour/NNP Party/NNP would/MD comment/VB directly/RB on/IN the/DT reports./NN

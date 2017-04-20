@@ -1,0 +1,18 @@
+Women/NNP in/IN film/NN 'are/NN earning/VBG less'/NN
+
+Women/NNP in/IN the/DT UK/NNP film/NN industry/NN earn/NN less/JJR than/IN their/PRP$ male/JJ counterparts/NNS despite/IN being/VBG better/RBR qualified/VBN according/VBG to/TO a/DT study/NN released/VBN on/IN Wednesday./NNP
+
+Only/RB 16%/CD of/IN women/NNS earn/VBP more/JJR than/IN £50000/CD compared/VBN with/IN 30%/CD of/IN men./NN
+Women/NNP make/VB up/RP a/DT third/JJ of/IN the/DT workforce./NN
+The/DT research/NN was/VBD carried/VBN out/RP jointly/RB by/IN the/DT UK/NNP Film/NNP Council/NNP and/CC industry/NN training/NN body/NN Skillset./NNP
+It/PRP also/RB found/VBD that/IN women/NNS in/IN the/DT industry/NN were/VBD less/RBR likely/JJ than/IN men/NNS to/TO be/VB married/JJ or/CC have/VBP dependant/NN children./NN
+
+The/DT study/NN which/WDT claims/NNS to/TO be/VB the/DT most/RBS in-depth/JJ so/RB far/RB conducted/VBN found/VBD 60%/CD of/IN women/NNS in/IN the/DT film/NN industry/NN hold/NN degrees/NNS compared/VBN with/IN 39%/CD of/IN men./NN
+Whilst/NNP 17%/CD of/IN men/NNS in/IN the/DT industry/NN had/VBD no/DT qualifications/NNS this/DT was/VBD true/JJ for/IN only/RB five/CD per/IN cent/NN of/IN women./NN
+In/IN the/DT lower/JJR salary/NN bracket/NN 35%/CD of/IN women/NNS earn/VBP less/JJR than/IN £20000/CD a/DT year/NN compared/VBN to/TO only/RB 18%/CD of/IN men./NN
+The/DT research/NN found/VBD very/RB few/JJ women/NNS worked/VBD in/IN the/DT camera/NN sound/NN electrical/JJ and/CC construction/NN departments/NNS but/CC they/PRP made/VBD up/RP a/DT majority/NN of/IN those/DT working/VBG in/IN make-up/JJ and/CC hairdressing./NN
+
+UK/NNP Film/NNP Council/NNP chief/NN executive/NN John/NNP Woodward/NNP said/VBD "Whilst/NN the/DT UK/NNP has/VBZ benefited/VBN hugely/RB from/IN its/PRP$ highly-qualified/JJ film/NN production/NN workforce/NN there/EX are/VBP still/RB many/JJ barriers/NNS facing/VBG people/NNS who/WP want/VBP to/TO get/VB in/IN and/CC stay/VB in/IN the/DT industry."/NN "Developing/VBG the/DT film/NN production/NN workforce/NN must/MD be/VB underpinned/VBN with/IN a/DT commitment/NN to/TO diversity/NN as/RB well/RB as/IN training."/NN The/DT workforce/NN is/VBZ largely/RB focused/VBN around/IN London/NNP with/IN 78%/CD in/IN the/DT industry/NN based/VBN in/IN the/DT capital/NN and/CC the/DT south/RB east/JJ of/IN England./NNP
+The/DT industry/NN depends/VBZ heavily/RB on/IN word/NN of/IN mouth/NN with/IN 81%/CD being/VBG recruited/VBN in/IN that/DT way./NN
+In/IN total/JJ only/RB five/CD percent/NN of/IN the/DT workforce/NN is/VBZ made/VBN up/RP of/IN ethnic/JJ minorities/NNS although/IN in/IN London/NNP the/DT figure/NN rises/VBZ to/TO 24%./CD
+The/DT necessity/NN of/IN completing/VBG unpaid/JJ work/NN experience/NN to/TO get/VB into/IN the/DT workforce/NN has/VBZ also/RB shot/NN up/RP from/IN 5%/CD before/IN the/DT 1980s/CD to/TO 45%/CD after/IN 2000./CD

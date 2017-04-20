@@ -1,0 +1,16 @@
+Bell/NNP set/VBD for/IN England/NNP debut/NN
+
+Bath/NN prop/VB Duncan/NNP Bell/NNP has/VBZ been/VBN added/VBN to/TO England's/NNP 30-man/JJ squad/NN to/TO face/VB Ireland/NNP in/IN the/DT RBS/NNP Six/CD Nations./NNP
+
+And/CC with/IN Phil/NNP Vickery/NNP sidelined/VBD for/IN at/IN least/JJS six/CD weeks/NNS with/IN a/DT broken/VBN arm/NN and/CC Julian/NNP White/NNP out/RP with/IN a/DT neck/NN injury/NN Bell/NNP could/MD make/VB his/PRP$ England/NNP debut./NN
+Bell/NNP 30/CD had/VBD set/VBN his/PRP$ sights/NNS on/IN an/DT international/JJ career/NN with/IN Wales./NNP
+But/CC last/JJ December/NNP the/DT International/NNP Rugby/NNP Board/NNP confirmed/VBD that/IN he/PRP could/MD only/RB be/VB eligible/JJ for/IN England/NNP as/IN he/PRP had/VBD travelled/VBN on/IN tour/NN with/IN them/PRP in/IN 1998./CD
+England/NNP coach/NN Andy/NNP Robinson/NNP could/MD take/VB a/DT gamble/NN and/CC call/VB inexperienced/JJ Sale/NNP Sharks/NNS prop/VBP Andrew/NNP Sheridan/NNP into/IN his/PRP$ front/JJ row./NN
+But/CC Sheridan/NNP favours/NNS the/DT loosehead/NN side/NN of/IN the/DT scrum/NN and/CC a/DT more/RBR likely/JJ scenario/NN is/VBZ for/IN uncapped/VBN Bell/NNP -/: who/WP was/VBD among/IN the/DT tryscorers/NNS when/WRB England/NNP A/NNP beat/NN France/NNP A/NNP 30-20/JJ nine/CD days/NNS ago/RB -/: to/TO be/VB drafted/VBN in./NN
+Robinson/NNP also/RB has/VBZ an/DT injury/NN worry/VBP over/IN centre/NN Olly/NNP Barkley/NNP who/WP withdrew/VBD from/IN Bath's/NNP starting/VBG line-up/JJ to/TO face/VB Gloucester/NNP last/JJ weekend./NN
+
+He/PRP was/VBD due/JJ to/TO have/VB a/DT hospital/NN scan/NN on/IN Monday/NNP while/IN Gloucester/NNP centre/NN Henry/NNP Paul/NNP who/WP started/VBD at/IN fly-half/JJ against/IN Bath/NN limped/VBD out/RP at/IN Kingsholm/NNP because/IN of/IN an/DT ankle/NN problem./NN
+Despite/IN Barkley's/NNP three/CD missed/VBN penalties/NNS in/IN the/DT 18-17/JJ defeat/NN against/IN France/NNP he/PRP is/VBZ expected/VBN to/TO retain/VB his/PRP$ place/NN at/IN inside/IN centre/NN although/IN Leicester's/NNP in-form/JJ prospect/NN Ollie/NNP Smith/NNP would/MD be/VB an/DT obvious/JJ replacement./NN
+Bath/NN coach/NN John/NNP Connolly/NNP rates/NNS Barkley/NNP as/IN no/DT better/JJR than/IN a/DT 50/50/CD chance/NN to/TO make/VB the/DT Dublin/NNP trip./NN
+Uncapped/NNP fly-half/JJ Andy/NNP Goode/NNP has/VBZ been/VBN named/VBN in/IN a/DT 30-man/JJ training/NN squad/NN for/IN the/DT Ireland/NNP game/NN and/CC he/PRP strengthened/VBD his/PRP$ selection/NN claims/NNS by/IN kicking/VBG 28/CD points/NNS during/IN Leicester's/NNP record/NN 83-10/JJ win/NN against/IN Newcastle/NNP on/IN Sunday./NNP
+England's/NN players/NNS are/VBP due/JJ to/TO meet/VB at/IN their/PRP$ Surrey/NNP training/NN base/NN on/IN Monday./NNP

@@ -1,0 +1,22 @@
+Former/NNP NI/NNP minister/NN Scott/NNP dies/VBZ
+
+Former/NNP Northern/NNP Ireland/NNP minister/NN Sir/NNP Nicholas/NNP Scott/NNP has/VBZ died/VBN at/IN a/DT London/NNP hospice/NN his/PRP$ family/NN has/VBZ announced./NN
+
+The/DT former/JJ Conservative/JJ MP/NNP for/IN Kensington/NNP and/CC Chelsea/NNP died/VBD after/IN a/DT long/JJ illness/NN diagnosed/VBN as/IN Alzheimer's./NNP
+The/DT 71-year-old/NN served/VBD in/IN Northern/JJ Ireland/NNP from/IN 1981/CD to/TO 1987/CD during/IN the/DT premiership/NN of/IN Margaret/NNP Thatcher./NNP
+As/IN a/DT Northern/NNP Ireland/NNP minister/NN he/PRP dealt/VBD with/IN education/NN and/CC later/RB security/NN where/WRB he/PRP rode/VBD out/RP the/DT mass/NN IRA/NNP escape/VB from/IN the/DT Maze/NN in/IN 1983./CD
+
+In/IN education/NN he/PRP encountered/VBD criticism/NN over/IN school/NN closures/NNS and/CC the/DT future/NN of/IN the/DT Catholic/NNP training/NN colleges./NN
+He/PRP also/RB merged/VBD the/DT New/NNP University/NNP of/IN Ulster/NNP and/CC the/DT Ulster/NNP Polytechnic/NNP to/TO create/VB the/DT University/NNP of/IN Ulster./NNP
+Sir/NNP Nicholas/NNP was/VBD a/DT strong/JJ defender/NN of/IN the/DT Anglo-Irish/NNP Agreement/NNP and/CC was/VBD held/VBN in/IN esteem/NN in/IN Dublin/NNP government/NN and/CC SDLP/NNP circles./NN
+But/CC he/PRP experienced/VBD hostility/NN from/IN unionists/NNS some/DT of/IN whom/WP dubbed/VBD him/PRP "Minister/NN of/IN Discord"./NNP
+After/IN leaving/VBG Northern/NNP Ireland/NNP in/IN a/DT reshuffle/NN he/PRP became/VBD a/DT UK/NNP disability/NN minister./NN
+Sir/NNP Nicholas/NNP was/VBD replaced/VBN as/IN the/DT member/NN for/IN Kensington/NNP and/CC Chelsea/NNP by/IN the/DT flamboyant/JJ Alan/NNP Clark/NNP after/IN being/VBG deselected/VBN by/IN his/PRP$ constituency/NN in/IN December/NNP 1996./CD
+His/PRP$ deselection/NN followed/VBD a/DT series/NN of/IN scandals/NNS including/VBG being/VBG found/VBD slumped/VBN in/IN the/DT street/NN by/IN police/NNS during/IN the/DT Tory/NNP Party/NNP conference/NN in/IN Bournemouth/NNP and/CC taken/VBN back/RB to/TO his/PRP$ hotel./NN
+
+Sir/NNP Nicholas/NNP claimed/VBD strong/JJ painkillers/NNS he/PRP was/VBD taking/VBG for/RP a/DT back/JJ problem/NN had/VBD reacted/VBN badly/RB with/IN a/DT small/JJ amount/NN of/IN alcohol./NN
+After/IN his/PRP$ sacking/VBG he/PRP bitterly/RB said/VBD that/IN despite/IN the/DT support/NN of/IN Cabinet/NNP ministers/NNS and/CC Tory/NNP backbenchers/NNS the/DT Eurosceptics/NNP in/IN his/PRP$ constituency/NN were/VBD "absolutely/RB determined/VBN to/TO get/VB rid/VB of/IN me"./NN
+His/PRP$ colourful/JJ career/NN also/RB included/VBD a/DT very/RB public/JJ disagreement/NN with/IN daughter/NN Victoria/NNP over/IN civil/JJ rights/NNS for/IN the/DT disabled./JJ
+Sir/NNP Nicholas/NNP admitted/VBD he/PRP misled/VBD MPs/NNP when/WRB he/PRP denied/VBD his/PRP$ department/NN had/VBD been/VBN involved/VBN in/IN wrecking/VBG tactics/NNS designed/VBN to/TO kill/VB the/DT Disability/NN Bill/NNP in/IN 1994./CD
+Victoria/VBG a/DT lobbyist/NN for/IN disabled/JJ rights/NNS denounced/VBD her/PRP$ father's/NNS actions/NNS and/CC heaped/VBD insult/NN on/IN injury/NN when/WRB she/PRP joined/VBD the/DT calls/NNS for/IN him/PRP to/TO resign./VB
+He/PRP joined/VBD the/DT backbenches/NNS two/CD months/NNS later./NN

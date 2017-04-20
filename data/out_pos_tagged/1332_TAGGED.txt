@@ -1,0 +1,9 @@
+London/NNP hope/NN over/IN Chepkemei/NNP
+
+London/NNP Marathon/NNP organisers/NNS are/VBP hoping/VBG that/WDT banned/VBD athlete/NN Susan/NNP Chepkemei/NNP will/MD still/RB take/VB part/NN in/IN this/DT year's/NNS race/NN on/IN 17/CD April./NNP
+
+Chepkemei/NNP was/VBD suspended/VBN from/IN all/DT competition/NN until/IN the/DT end/NN of/IN the/DT year/NN by/IN Athletics/NNP Kenya/NNP after/IN failing/VBG to/TO report/VB to/TO a/DT national/JJ training/NN camp./NN
+"We/NN are/VBP watching/VBG it/PRP closely"/NN said/VBD London/NNP race/NN director/NN David/NNP Bedford./NNP
+"There/NN is/VBZ a/DT long/JJ way/NN to/TO go/VB before/IN the/DT race/NN and/CC we/PRP are/VBP hoping/VBG the/DT situation/NN will/MD be/VB satisfactorily/RB resolved."/VB The/DT camp/NN in/IN Embu/NNP was/VBD to/TO prepare/VB for/IN the/DT IAAF/NNP World/NNP Cross/NNP Country/NNP Championships/NNS later/RB this/DT month./NN
+Chepkemei/NNP however/RB took/VBD part/NN and/CC finished/VBD third/JJ in/IN last/JJ Sunday's/NNP world/NN best/JJS 10K/CD race/NN in/IN Puerto/NNP Rico./NNP
+The/DT 29-year-old/JJ has/VBZ finished/VBN second/JJ to/TO Paula/NNP Radcliffe/NNP in/IN the/DT 2002/CD and/CC 2003/CD London/NNP races/NNS as/RB well/RB as/IN in/IN November's/NNP New/NNP York/NNP City/NNP marathon./NN

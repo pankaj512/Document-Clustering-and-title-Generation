@@ -1,0 +1,10 @@
+Bat/NN spit/NN drug/NN firm/NN goes/VBZ to/TO market/VB
+
+A/DT German/JJ firm/NN whose/WP$ main/JJ product/NN is/VBZ derived/VBN from/IN the/DT saliva/NN of/IN the/DT vampire/NN bat/NN is/VBZ looking/VBG to/TO raise/VB more/JJR than/IN 70m/CD euros/NNS ($91m/CD £49m)/CD on/IN the/DT stock/NN market./NN
+
+The/DT firm/NN Paion/NNP said/VBD that/IN it/PRP hoped/VBD to/TO sell/VB 5/CD million/CD shares/NNS -/: a/DT third/JJ of/IN the/DT firm/NN -/: for/IN 11-14/JJ euros/NNS a/DT share./NN
+Its/PRP$ main/JJ drug/NN desmoteplase/NN is/VBZ based/VBN on/IN a/DT protein/NN in/IN the/DT bat's/NNS saliva./NN
+The/DT protein/NN stops/VBZ blood/NN from/IN clotting/VBG -/: which/WDT helps/VBZ the/DT bat/NN to/TO drink/VB from/IN its/PRP$ victims/NNS but/CC could/MD also/RB be/VB used/VBN to/TO help/VB stroke/VB sufferers./NN
+The/DT company's/NNS shares/NNS go/VBP on/IN sale/NN later/RB this/DT week/NN and/CC are/VBP scheduled/VBN to/TO start/VB trading/VBG on/IN the/DT Frankfurt/NNP Stock/NNP Exchange/NNP on/IN 10/CD February./NNP
+If/IN the/DT final/JJ price/NN is/VBZ at/IN the/DT top/NN of/IN the/DT range/NN the/DT company/NN could/MD be/VB valued/VBN at/IN as/RB much/JJ as/IN 200m/CD euros./NN
+The/DT money/NN raised/VBD will/MD be/VB spent/VBN largely/RB on/IN developing/VBG the/DT company's/NNS other/JJ drugs/NNS since/IN desmoteplase/NN has/VBZ already/RB been/VBN licensed/VBN to/TO one/CD manufacturer/NN Forest/NNP Laboratories./NNP

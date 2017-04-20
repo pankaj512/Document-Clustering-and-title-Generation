@@ -1,0 +1,25 @@
+Jones/NNP files/NNS Conte/NNP lawsuit/NN
+
+Marion/NNP Jones/NNP has/VBZ filed/VBN a/DT lawsuit/NN for/IN defamation/NN against/IN Balco/NNP boss/NN Victor/NNP Conte/NNP following/VBG his/PRP$ allegations/NNS that/IN he/PRP gave/VBD her/PRP$ performance-enhancing/JJ drugs./NN
+
+The/DT Sydney/NNP Olympic/NNP gold/NN medallist/NN says/VBZ Conte/NNP damaged/VBD her/PRP$ reputation/NN and/CC she/PRP is/VBZ seeking/VBG $25m/CD (£13m)/CD in/IN the/DT suit./NN
+Conte/NNP whose/WP$ company/NN is/VBZ at/IN the/DT centre/NN of/IN a/DT doping/VBG investigation/NN made/VBD the/DT claims/NNS in/IN a/DT US/PRP television/VBP programme./NN
+He/PRP and/CC three/CD others/NNS were/VBD indicted/VBN in/IN February/NNP by/IN a/DT federal/JJ grand/JJ jury/NN for/IN a/DT variety/NN of/IN alleged/VBN offences./NN
+In/IN an/DT email/NN to/TO the/DT Associated/NNP Press/NNP on/IN Wednesday/NNP Conte/NNP said/VBD "I/NN stand/VBP by/IN everything/NN I/PRP said"./VBP
+Jones/NNP won/VBD three/CD gold/NN medals/NNS and/CC two/CD bronzes/NNS in/IN Sydney/NNP in/IN 2000./CD
+Her/PRP$ lawsuit/NN filed/VBN in/IN the/DT US/PRP District/NNP Court/NNP in/IN San/NNP Francisco/NNP said/VBD the/DT sprinter/NN had/VBD passed/VBN a/DT lie/NN detector/NN test/NN and/CC that/IN she/PRP "has/VBP never/RB taken/VBN banned/VBN performance-enhancing/JJ drugs"./NN
+Conte's/NN statements/VBZ the/DT suit/NN added/VBD were/VBD "false/NN and/CC malicious"./NN
+After/IN the/DT ABC/NNP television/NN program/NN earlier/RBR this/DT month/NN Jones'/NNP lawyer/NN Richard/NNP Nicholls/NNP said/VBD "Marion/NN has/VBZ steadfastly/RB maintained/VBN her/PRP$ position/NN throughout/IN she/PRP has/VBZ never/RB ever/RB used/VBN performance-enhancing/JJ drugs./NN
+"Victor/NNP Conte/NNP is/VBZ a/DT man/NN facing/VBG a/DT 42-count/JJ federal/JJ indictment/NN while/IN Marion/NNP Jones/NNP is/VBZ one/CD of/IN America's/NNP most/RBS decorated/VBN female/JJ athletes./NN
+Mr/NNP Conte's/NNP statements/NNS have/VBP been/VBN wildly/RB contradictory./NN
+"Mr/NNP Conte/NNP chose/VBD to/TO make/VB unsubstantiated/JJ allegations/NNS on/IN television/NN while/IN Marion/NNP Jones/NNP demanded/VBD to/TO take/VB and/CC then/RB passed/VBN a/DT lie/NN detector/NN examination./NN
+
+"Mr/NNP Conte/NNP is/VBZ simply/RB not/RB credible./NN
+We/PRP challenge/VBP him/PRP to/TO submit/VB to/TO the/DT same/JJ lie/NN detector/NN procedure/NN that/IN Marion/NNP Jones/NNP passed."/NN The/DT sport's/NNS ruling/NN body/NN the/DT IAAF/NNP is/VBZ taking/VBG a/DT cautious/JJ approach/NN to/TO Conte's/NNP allegations/NNS but/CC contacted/VBD the/DT US/PRP Anti-Doping/NNP Agency./NNP
+Communications/NNS director/NN Nick/NNP Davies/NNP said/VBD the/DT IAAF/NNP would/MD seek/VB to/TO contact/VB Conte/NNP "for/NN further/JJ information"./NN
+But/CC Davies/NNP stressed/VBD it/PRP would/MD be/VB up/IN to/TO the/DT American/JJ authorities/NNS to/TO decide/VB whether/IN they/PRP will/MD take/VB action/NN against/IN Jones/NNP in/IN light/NN of/IN Conte's/NNP television/NN interview/NN and/CC the/DT world/NN governing/VBG body/NN would/MD monitor/VB the/DT situation/NN closely./NN
+"If/NN it/PRP is/VBZ felt/VBN there/EX is/VBZ case/NN to/TO answer/VB it/PRP would/MD be/VB for/IN its/PRP$ national/JJ governing/NN body/NN (USA/NN Track/NNP and/CC Field)/NNP to/TO take/VB the/DT appropriate/JJ disciplinary/JJ action"/NN he/PRP added./VB
+"The/NN US/PRP Anti-Doping/NNP Agency/NNP has/VBZ proved/VBN itself/PRP to/TO be/VB very/RB diligent/NN in/IN its/PRP$ anti-doping/JJ war./NN
+"And/NN I/PRP am/VBP sure/JJ like/IN ourselves/PRP they/PRP will/MD be/VB watching/VBG the/DT television/NN programme/NN with/IN great/JJ interest."/JJ Jones/NNP who/WP is/VBZ under/IN investigation/NN for/IN steroid/NN use/NN by/IN the/DT US/PRP Anti-Doping/NNP Agency/NNP has/VBZ continually/RB denied/VBN ever/RB taking/VBG illegal/JJ substances/NNS since/IN being/VBG investigated/VBD in/IN the/DT Balco/NNP scandal/NN although/IN she/PRP praised/VBD a/DT zinc/NN supplement/NN Conte/NNP marketed./NN
+Jones/NNP who/WP did/VBD not/RB win/VB any/DT medals/NNS in/IN Athens/NNP in/IN August/NNP has/VBZ never/RB failed/VBN a/DT drugs/NNS test./NN
+Meanwhile/RB Conte/NNP who/WP has/VBZ been/VBN charged/VBN along/IN with/IN three/CD other/JJ men/NNS of/IN distributing/VBG illegal/JJ steroids/NNS and/CC money/NN laundering/NN is/VBZ due/JJ to/TO face/NN trial/NN in/IN March./NNP

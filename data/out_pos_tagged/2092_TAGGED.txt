@@ -1,0 +1,36 @@
+IBM/NNP frees/VBZ 500/CD software/NN patents/NNS
+
+Computer/NNP giant/JJ IBM/NNP says/VBZ 500/CD of/IN its/PRP$ software/NN patents/NNS will/MD be/VB released/VBN into/IN the/DT open/JJ development/NN community./NN
+
+The/DT move/NN means/VBZ developers/NNS will/MD be/VB able/JJ to/TO use/VB the/DT technologies/NNS without/IN paying/VBG for/IN a/DT licence/NN from/IN the/DT company./NN
+IBM/NNP described/VBD the/DT step/NN as/IN a/DT "new/NN era"/NN in/IN how/WRB it/PRP dealt/VBD with/IN intellectual/JJ property/NN and/CC promised/VBN further/JJ patents/NNS would/MD be/VB made/VBN freely/RB available./NN
+The/DT patents/NNS include/VBP software/NN for/IN a/DT range/NN of/IN practices/NNS including/VBG text/NN recognition/NN and/CC database/NN management./NN
+Traditional/JJ technology/NN business/NN policy/NN is/VBZ to/TO amass/VB patents/NNS and/CC despite/IN IBM's/NNP announcement/NN the/DT company/NN continues/VBZ to/TO follow/VB this/DT route./NN
+
+IBM/NNP was/VBD granted/VBN 3248/CD patents/NNS in/IN 2004/CD more/JJR than/IN any/DT other/JJ firm/NN in/IN the/DT US/PRP the/DT New/NNP York/NNP Times/NNP reports./NN
+For/IN each/DT of/IN the/DT past/JJ 12/CD years/NNS IBM/NNP has/VBZ been/VBN granted/VBN more/JJR US/PRP patents/VBZ than/IN any/DT other/JJ company./NN
+IBM/NNP has/VBZ received/VBN 25772/CD US/PRP patents/VBZ in/IN that/DT period/NN and/CC reportedly/RB has/VBZ more/JJR than/IN 40000/CD current/JJ patents./NN
+In/IN a/DT statement/NN Dr/NNP John/NNP E./NNP
+Kelly/NNP IBM/NNP senior/JJ vice/NN president/NN Technology/NNP and/CC Intellectual/NNP Property/NNP said/VBD "True/NN innovation/NN leadership/NN is/VBZ about/IN more/JJR than/IN just/RB the/DT numbers/NNS of/IN patents/NNS granted./NN
+It's/NNP about/IN innovating/VBG to/TO benefit/VB customers/NNS partners/NNS and/CC society./NN
+
+"Our/NN pledge/NN today/NN is/VBZ the/DT beginning/NN of/IN a/DT new/JJ era/NN in/IN how/WRB IBM/NNP will/MD manage/VB intellectual/JJ property."/NN In/IN the/DT past/JJ IBM/NNP has/VBZ supported/VBN the/DT non-commercial/JJ operating/NN system/NN Linux/NNP although/IN critics/NNS have/VBP said/VBN this/DT was/VBD done/VBN only/RB as/IN an/DT attempt/NN to/TO undermine/VB Microsoft./NNP
+
+The/DT company/NN said/VBD it/PRP wanted/VBD to/TO encourage/VB other/JJ firms/NNS to/TO release/VB patents/NNS into/IN what/WP it/PRP called/VBD a/DT "patent/NN commons"./NN
+Adam/NNP Jollans/NNP IBM's/NNP world-wide/JJ Linux/NNP strategy/NN manager/NN said/VBD the/DT move/NN was/VBD a/DT genuine/JJ attempt/NN to/TO encourage/VB innovation./NN
+"We/NN believe/VBP that/IN releasing/VBG these/DT patents/NNS will/MD result/VB in/IN innovation/NN moving/VBG more/JJR quickly./NN
+"This/NN is/VBZ about/IN encouraging/VBG collaboration/NN and/CC following/VBG a/DT model/NN much/JJ like/IN academia."/NN Mr/NNP Jollans/NNP likened/VBD the/DT plan/NN for/IN a/DT patent/NN commons/NNS to/TO the/DT way/NN the/DT internet/NN was/VBD developed/VBN and/CC said/VBD everyone/NN could/MD take/VB advantage/NN of/IN the/DT result/NN of/IN collaboration./NN
+"The/NN internet's/NNS impact/NN has/VBZ been/VBN on/IN everyone./NN
+The/DT benefits/NNS are/VBP there/RB for/IN everyone/NN to/TO take/VB advantage/NN of."/NN Stuart/NNP Cohen/NNP chief/NN executive/NN of/IN US/PRP firm/VBP Open/NNP Source/NN Development/NNP Labs/NNPS said/VBD the/DT move/NN could/MD mean/VB a/DT change/NN in/IN the/DT way/NN companies/NNS deal/VBP with/IN patents./NN
+
+"I/NN think/VBP other/JJ companies/NNS will/MD follow/VB suit"/NN he/PRP said./VB
+But/CC not/RB everyone/NN was/VBD as/IN supportive./NN
+Florian/NNP Mueller/NNP campaign/NN manager/NN of/IN a/DT group/NN lobbying/VBG toprevent/NN software/NN patents/NNS becoming/VBG legal/JJ in/IN the/DT European/NNP Uniondismissed/JJ IBM's/NNP move/NN as/IN insubstantial./NN
+"It's/NN just/RB diversionary/JJ tactics"/NN wrote/VBD Mr/NNP Mueller/NNP who/WP leadsnosoftwarepatents.com/VBP in/IN a/DT message/NN on/IN the/DT group's/NNS website./NN
+"Let's/NN put/VBD this/DT into/IN perspective/NN We're/NNP talking/VBG aboutroughly/RB one/CD percent/NN of/IN IBM's/NNP worldwide/NN patent/NN portfolio./NN
+They/PRP filethat/VBP number/NN of/IN patents/NNS in/IN about/IN a/DT month's/NNS time"/VBP he/PRP added./VB
+IBM/NNP will/MD continue/VB to/TO hold/VB the/DT 500/CD patents/NNS but/CC it/PRP has/VBZ pledged/VBN to/TO seek/VB no/DT royalties/NNS from/IN the/DT patents./NN
+The/DT company/NN said/VBD it/PRP would/MD not/RB place/VB any/DT restrictions/NNS on/IN companies/NNS groups/NNS or/CC individuals/NNS who/WP use/VBP them/PRP in/IN open-source/JJ projects./NN
+Open/NNP source/NN software/NN is/VBZ developed/VBN by/IN programmers/NNS who/WP offer/VBP the/DT source/NN code/NN -/: the/DT origins/NNS of/IN the/DT program/NN -/: for/IN free/JJ and/CC allow/VB others/NNS to/TO adapt/VB or/CC improve/VB the/DT software./NN
+End/NN users/NNS have/VBP the/DT right/NN to/TO modify/VB and/CC redistribute/VB the/DT software/NN as/RB well/RB as/IN the/DT right/NN to/TO package/VB and/CC sell/VB the/DT software./NN
+Other/JJ areas/NNS covered/VBN by/IN the/DT patents/NNS released/VBN by/IN IBM/NNP include/VBP storage/NN management/NN simultaneous/JJ multiprocessing/NN image/NN processing/NN networking/NN and/CC e-commerce./JJ

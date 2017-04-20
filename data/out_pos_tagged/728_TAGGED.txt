@@ -1,0 +1,16 @@
+Stern/NNP dropped/VBD from/IN radio/NN stations/NNS
+
+Controversial/JJ DJ/NNP Howard/NNP Stern/NNP has/VBZ been/VBN dropped/VBN from/IN four/CD US/PRP radio/VBP stations/NNS because/IN he/PRP keeps/VBZ promoting/VBG his/PRP$ move/NN to/TO a/DT network/NN broadcasting/NN on/IN satellite./NN
+
+Cidatel/NNP Broadcasting/NNP said/VBD Stern/NNP had/VBD transformed/VBN his/PRP$ show/NN into/IN a/DT "continuous/JJ infomercial/JJ promoting/NN Sirius/NNP his/PRP$ new/JJ satellite/NN radio/NN employer"./NN
+Stern/NNP will/MD join/VB the/DT Sirius/NNP subscription/NN service/NN which/WDT is/VBZ not/RB governed/VBN by/IN US/PRP regulators/VBZ next/IN year./NN
+Citadel/NNP pulled/VBD Stern's/NNP show/NN from/IN stations/NNS in/IN New/NNP York/NNP and/CC Pennsylvania./NNP
+Stern/NNP had/VBD been/VBN holiday/NN for/IN two/CD weeks/NNS but/CC his/PRP$ show/NN did/VBD not/RB return/VB to/TO the/DT four/CD stations/NNS as/IN expected/VBN on/IN 3/CD January./NNP
+Citadel/NNP said/VBD it/PRP did/VBD not/RB yet/RB know/VB whether/IN it/PRP would/MD return/VB to/TO its/PRP$ network./NN
+
+Stern/NNP announced/VBD in/IN October/NNP that/IN he/PRP was/VBD leaving/VBG conventional/JJ radio/NN where/WRB his/PRP$ syndicated/VBN show/NN goes/VBZ out/RP across/IN the/DT US/PRP for/IN the/DT relatively/RB restriction-free/JJ satellite/NN service./NN
+The/DT DJ's/NNP broadcasts/NNS are/VBP well/RB known/VBN for/IN landing/NN in/IN trouble/NN with/IN regulators/NNS for/IN obscene/JJ and/CC sexually/RB explicit/JJ rantings./NN
+Stern/NNP was/VBD dropped/VBN by/IN six/CD stations/NNS owned/VBN by/IN media/NNS giant/JJ Clear/JJ Channel/NNP in/IN 2004/CD after/IN it/PRP had/VBD to/TO pay/VB the/DT Federal/NNP Communications/NNPS Commission/NNP $1.75m/CD (£950000)/CD over/IN breaches/NNS indecency/NN laws./NN
+Media/NNP giant/JJ Viacom/NNP has/VBZ also/RB reportedly/RB agreed/VBD to/TO the/DT FCC's/NNP demands/NNS that/IN if/IN Stern/NNP is/VBZ issued/VBN with/IN another/DT indecency/NN violation/NN then/RB his/PRP$ show/NN must/MD be/VB pulled/VBN from/IN all/DT of/IN its/PRP$ stations./NN
+Viacom/NNP has/VBZ also/RB been/VBN hit/VBN with/IN record/NN fines/NNS of/IN $3.5m/CD (£1.8m)/CD over/IN Stern/NNP and/CC two/CD other/JJ New/NNP York/NNP DJs./NNP
+But/CC Stern/NNP continues/VBZ to/TO be/VB one/CD of/IN the/DT most/RBS popular/JJ talk/NN show/NN hosts/NNS particularly/RB in/IN the/DT 25-54/JJ age/NN category./NN

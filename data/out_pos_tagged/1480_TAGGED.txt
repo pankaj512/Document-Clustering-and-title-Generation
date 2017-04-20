@@ -1,0 +1,11 @@
+Robben/NNP plays/VBZ down/RB European/JJ return/NN
+
+Injured/VBN Chelsea/NNP winger/NN Arjen/NNP Robben/NNP has/VBZ insisted/VBN that/IN he/PRP only/RB has/VBZ a/DT 10%/CD chance/NN of/IN making/VBG a/DT return/NN against/IN Barcelona/NNP in/IN the/DT Champions/NNS League./NNP
+
+The/DT 21-year-old/JJ has/VBZ been/VBN sidelined/VBN since/IN breaking/VBG a/DT foot/NN against/IN Blackburn/NNP last/JJ month./NN
+Chelsea/NNP face/NN Barcelona/NNP at/IN home/NN on/IN 8/CD March/NNP having/VBG lost/VBD 2-1/JJ in/IN the/DT first/JJ leg./NN
+And/CC Robben/NNP told/VBD the/DT Daily/NNP Star/NNP "It/NN is/VBZ not/RB impossible/JJ that/IN I/PRP will/MD play/VB against/IN Barcelona/NNP but/CC it/PRP is/VBZ just/RB a/DT very/RB very/RB small/JJ chance/NN -/: about/IN 10%."/CD
+
+Robben/NNP has/VBZ been/VBN an/DT inspirational/JJ player/NN for/IN Chelsea/NNP this/DT season/NN following/VBG a/DT switch/NN from/IN PSV/NNP Einhoven/NNP last/JJ summer./NN
+He/PRP added/VBD "My/NN recovery/NN is/VBZ going/VBG better/RB than/IN we/PRP expected/VBD a/DT few/JJ weeks/NNS ago/RB but/CC I/PRP think/VBP the/DT Barcelona/NNP game/NN will/MD come/VB too/RB soon./NN
+"I/NN won't/NN take/NN any/DT risks/NNS and/CC come/VB back/RB too/RB soon."/NN

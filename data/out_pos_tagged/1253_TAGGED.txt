@@ -1,0 +1,22 @@
+Cabinet/NNP anger/NN at/IN Brown/NNP cash/NN raid/NN
+
+Ministers/NNS are/VBP unhappy/JJ about/IN plans/NNS to/TO use/VB Whitehall/NNP cash/NN to/TO keep/VB council/NN tax/NN bills/NNS down/RB local/JJ government/NN minister/NN Nick/NNP Raynsford/NNP has/VBZ acknowledged./NN
+
+Gordon/NNP Brown/NNP reallocated/VBD £512m/CD from/IN central/JJ to/TO local/JJ government/NN budgets/NNS in/IN his/PRP$ pre-Budget/JJ report/NN on/IN Thursday./NNP
+Mr/NNP Raynsford/NNP said/VBD he/PRP had/VBD held/VBN some/DT "pretty/NN frank/JJ discussions"/NN with/IN fellow/JJ ministers/NNS over/IN the/DT plans./NN
+But/CC he/PRP said/VBD local/JJ governments/NNS had/VBD to/TO deliver/VB good/JJ services/NNS without/IN big/JJ council/NN tax/NN rises./NN
+
+The/DT central/JJ government/NN cash/NN is/VBZ part/NN of/IN a/DT £1bn/CD package/NN to/TO help/VB local/JJ authorities/NNS in/IN England/NNP keep/VBP next/JJ year's/NNS council/NN tax/NN rises/NNS below/IN 5%/CD in/IN what/WP is/VBZ likely/JJ to/TO be/VB a/DT general/JJ election/NN year./NN
+
+Mr/NNP Raynsford/NNP said/VBD nearly/RB all/DT central/JJ government/NN departments/NNS had/VBD an/DT interest/NN in/IN well/RB run/VBP local/JJ authorities./NN
+And/CC he/PRP confirmed/VBD rows/NNS over/IN the/DT issue/NN with/IN ministerial/JJ colleagues./NN
+"Obviously/RB we/PRP had/VBD some/DT pretty/RB frank/JJ discussions/NNS about/IN this"/NN he/PRP told/VBD BBC/NNP Radio/NNP 4's/CD The/DT World/NNP at/IN One./NNP
+But/CC he/PRP said/VBD there/EX was/VBD a/DT recognition/NN that/DT "a/NN good/JJ settlement/NN for/IN local/JJ government"/NN was/VBD important/JJ to/TO health/NN education/NN and/CC "other/NN government/NN departments"./NN
+Ministers/NNS had/VBD to/TO be/VB sure/JJ local/JJ government/NN could/MD deliver/VB without/IN "unreasonable/JJ council/NN tax/NN increases"/NN he/PRP added./VB
+Mr/NNP Raynsford/NNP dismissed/VBD a/DT suggestion/NN the/DT move/NN was/VBD designed/VBN to/TO keep/VB council/NN taxes/NNS down/RB ahead/RB of/IN an/DT expected/VBN general/JJ election./NN
+
+"This/NN is/VBZ a/DT response/NN to/TO the/DT concerns/NNS that/WDT have/VBP been/VBN voiced/VBN by/IN local/JJ government/NN about/IN the/DT pressures/NNS they/PRP face."/VBP Mr/NNP Raynsford/NNP also/RB plans/VBZ to/TO make/VB savings/NNS of/IN £100m/CD by/IN making/VBG changes/NNS to/TO local/JJ government/NN pensions/NNS schemes./NN
+These/DT would/MD raise/VB the/DT age/NN from/IN which/WDT retiring/VBG workers/NNS could/MD claim/VB their/PRP$ pensions/NNS and/CC limit/NN how/WRB much/JJ they/PRP received/VBD if/IN they/PRP retired/VBD early./NN
+He/PRP insisted/VBD the/DT changes/NNS were/VBD "very/NN modest"/NN and/CC designed/VBN to/TO tackle/VB the/DT problem/NN of/IN workers/NNS retiring/VBG "very/NN early"./NN
+But/CC general/JJ secretary/NN of/IN the/DT public/JJ services/NNS union/NN Unison/NNP Dave/NNP Prentis/NNP criticised/VBD the/DT plans./NN
+"If/NN you/PRP want/VBP world/NN class/NN public/JJ services/NNS you/PRP don't/VBP get/NN that/IN by/IN hitting/VBG people/NNS as/IN they/PRP approach/VBP retirement."/NN

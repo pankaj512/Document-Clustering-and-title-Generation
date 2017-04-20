@@ -1,0 +1,10 @@
+Benitez/NNP 'to/NN launch/VB Morientes/NNP bid'/NN
+
+Liverpool/NNP may/MD launch/VB an/DT £8m/CD January/NNP bid/NN for/IN long-time/JJ target/NN Fernando/NNP Morientes/NNP according/VBG to/TO reports./NN
+
+The/DT Real/JJ Madrid/NNP striker/NN has/VBZ been/VBN linked/VBN with/IN a/DT move/NN to/TO Anfield/NNP since/IN the/DT summer/NN and/CC is/VBZ currently/RB behind/IN Raul/NNP Ronaldo/NNP and/CC Michael/NNP Owen/NNP at/IN the/DT Bernabeu./NNP
+Liverpool/NNP boss/NN Rafael/NNP Benitez/NNP is/VBZ keen/JJ to/TO bolster/VB his/PRP$ forward/RB options/NNS with/IN Djibril/NNP Cisse/NNP out/RP until/IN next/JJ season./NN
+"If/NN there/EX is/VBZ an/DT attractive/JJ propostition/NN it/PRP could/MD be/VB I/PRP would/MD be/VB keen/JJ to/TO leave"/VB admitted/VBD the/DT 28-year-old/JJ Morientes./NNP
+He/PRP added/VBD "Unfortunately/RB I'm/NNP not/RB in/IN control/NN of/IN the/DT situation./NN
+I'm/NNP under/IN contract/NN to/TO Real/JJ and/CC they/PRP will/MD make/VB any/DT decisions."/NN The/DT fee/NN could/MD put/VB Liverpool/NNP off/RP a/DT prospective/JJ deal/NN but/CC Real/JJ are/VBP keen/JJ to/TO net/VB the/DT cash/NN as/IN they/PRP are/VBP reported/VBN to/TO be/VB preparing/VBG a/DT massive/JJ summer/NN bid/NN for/IN Inter/NNP Milan/NNP striker/NN Adriano./NNP
+The/DT Reds/NNS are/VBP currently/RB sixth/JJ in/IN the/DT Premiership/NN 15/CD points/NNS behind/IN leaders/NNS Chelsea./NNP

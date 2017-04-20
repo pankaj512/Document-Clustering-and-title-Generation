@@ -1,0 +1,30 @@
+Student/NNP 'inequality'/NN exposed/VBN
+
+Teenagers/NNS from/IN well-off/JJ backgrounds/NNS are/VBP six/CD times/NNS more/RBR likely/JJ to/TO go/VB to/TO university/NN than/IN those/DT from/IN the/DT most/RBS deprived/JJ areas/NNS a/DT report/NN says./NN
+
+The/DT Higher/JJR Education/NNP Funding/NNP Council/NNP for/IN England/NNP said/VBD more/JJR people/NNS went/VBD to/TO university/NN between/IN 1994/CD and/CC 2000./CD
+But/CC the/DT percentage/NN of/IN poorer/JJR students/NNS "hardly/RB changed/VBN at/IN all"/NN said/VBD its/PRP$ chief/JJ executive/NN Sir/NNP Howard/NNP Newby./NNP
+Increasingly/RB more/JJR women/NNS than/IN men/NNS went/VBD to/TO university/NN while/IN tuition/NN fees/NNS and/CC student/NN loans/NNS made/VBD no/DT major/JJ difference./NN
+
+The/DT Hefce/NNP report/NN drawing/VBG on/IN child/NN benefits/NNS data/NNS said/VBD teenagers/NNS in/IN the/DT richest/JJS areas/NNS could/MD expect/VB a/DT better/JJR than/IN 50%/CD chance/NN of/IN going/VBG to/TO university/NN while/IN in/IN the/DT poorest/JJS neighbourhoods/NNS it/PRP was/VBD 10%./CD
+Participation/NN at/IN constituency/NN level/NN ranged/VBD from/IN 69%/CD in/IN Kensington/NNP and/CC Chelsea/NNP 65%/CD in/IN the/DT City/NNP of/IN London/NNP and/CC Westminster/NNP and/CC 62%/CD in/IN Sheffield/NNP Hallam/NNP down/RB to/TO 10%/CD in/IN Bristol/NNP South/NNP and/CC Leeds/NNP Central/NNP and/CC 8%/CD in/IN Nottingham/NNP North/NNP and/CC Sheffield/NNP Brightside./NNP
+
+Sir/NNP Howard/NNP said/VBD the/DT report/NN highlighted/VBD the/DT "entrenched/VBN divisions"/NN between/IN rich/JJ and/CC poor/JJ areas/NNS but/CC added/VBD it/PRP was/VBD a/DT social/NN as/RB much/JJ as/IN an/DT educational/JJ problem./NN
+He/PRP told/VBD BBC/NNP News/NNP "We/NN know/NN once/RB children/NNS from/IN deprived/VBN backgrounds/NNS get/VBP into/IN university/NN they/PRP do/VBP very/RB well./NN
+In/IN fact/NN surprisingly/RB more/RBR go/NN into/IN postgraduate/NN study/NN than/IN those/DT from/IN more/RBR affluent/JJ backgrounds./NN
+"The/NN issue/NN is/VBZ I/PRP think/VBP one/CD of/IN raising/VBG aspirations/NNS amongst/IN those/DT families/NNS and/CC those/DT communities/NNS that/DT university/NN is/VBZ something/NN for/IN them/PRP and/CC not/RB for/IN other/JJ people."/NN
+
+He/PRP said/VBN by/IN the/DT time/NN universities/NNS traditionally/RB dealt/VBD with/IN pupils/NNS between/IN the/DT ages/NNS of/IN 16/CD and/CC 18/CD it/PRP was/VBD too/RB late./NN
+Instead/RB they/PRP should/MD be/VB reaching/VBG out/RP to/TO communities/NNS and/CC schools/NNS much/JJ earlier/RBR even/RB down/RB to/TO primary/JJ school/NN level/NN to/TO persuade/VB them/PRP a/DT university/NN education/NN was/VBD something/NN they/PRP could/MD aspire/VB to/TO he/PRP said./VB
+But/CC while/IN the/DT report/NN revealed/VBD stark/JJ inequalities/NNS and/CC exposed/VBD the/DT extent/NN of/IN the/DT challenge/NN there/EX were/VBD some/DT encouraging/VBG findings/NNS he/PRP added./VB
+
+Tuition/NN fees/NNS and/CC student/NN loans/NNS in/IN England/NNP and/CC Wales/NNP -/: and/CC the/DT different/JJ fee/NN regime/NN in/IN Scotland/NNP -/: did/VBD not/RB seem/VB to/TO have/VB affected/VBN the/DT choices/NNS of/IN young/JJ people/NNS even/RB the/DT poorest./NN
+The/DT report/NN also/RB showed/VBD women/NNS were/VBD 18%/CD more/JJR likely/JJ than/IN men/NNS to/TO enter/VB higher/JJR education/NN in/IN 2000/CD -/: up/RP from/IN 6%/CD in/IN 1994./CD
+In/IN the/DT poorest/JJS areas/NNS the/DT gap/NN was/VBD 30%/CD in/IN women's/NNS favour/NN and/CC growing/VBG faster/RBR than/IN anywhere/RB else./NN
+The/DT Higher/JJR Education/NNP Minister/NNP Kim/NNP Howells/NNP said/VBD "We/NN are/VBP working/VBG in/IN schools/NNS to/TO raise/VB the/DT attainment/NN and/CC aspiration/NN of/IN young/JJ people/NNS in/IN disadvantaged/JJ areas."/NN Higher/JJR standards/NNS in/IN schools/NNS would/MD lead/VB to/TO greater/JJR participation/NN in/IN higher/JJR education./NN
+From/IN 2006/CD upfront/NN tuition/NN fees/NNS in/IN England/NNP would/MD be/VB removed/VBN with/IN grants/NNS for/IN the/DT less/RBR well/RB off./NN
+The/DT shadow/NN education/NN secretary/NN Tim/NNP Collins/NNP said/VBD "It/NN is/VBZ clear/JJ from/IN this/DT report/NN that/IN children/NNS from/IN disadvantaged/JJ areas/NNS are/VBP far/RB more/RBR likely/JJ to/TO have/VB encountered/VBN poor/JJ standards/NNS in/IN their/PRP$ secondary/JJ education./NN
+"Tackling/VBG these/DT must/MD be/VB the/DT top/JJ priority/NN for/IN any/DT government/NN looking/VBG to/TO improve/VB university/NN access."/NN The/DT group/NN which/WDT represents/VBZ university/NN vice-chancellors/NNS Universities/NNS UK/NNP said/VBD the/DT new/JJ system/NN of/IN deferred/VBN fees/NNS in/IN England/NNP due/JJ to/TO start/VB in/IN 2006/CD with/IN grants/NNS and/CC bursaries/NNS for/IN poorer/JJR students/NNS would/MD encourage/VB more/JJR of/IN them/PRP to/TO go/VB into/IN higher/JJR education./NN
+The/DT National/NNP Union/NNP of/IN Students/NNS argued/VBD the/DT opposite/JJ -/: that/IN the/DT situation/NN was/VBD "likely/RB to/TO get/VB much/RB worse/JJR with/IN poorer/JJR students/NNS being/VBG restricted/VBN in/IN choice/NN and/CC having/VBG to/TO make/VB decisions/NNS based/VBN on/IN their/PRP$ financial/JJ situation/NN rather/RB than/IN aspiration"./NN
+
+The/DT tables/NNS below/IN show/VBP the/DT participation/NN rate/NN for/IN each/DT Parliamentary/JJ constituency/NN in/IN Britain/NNP

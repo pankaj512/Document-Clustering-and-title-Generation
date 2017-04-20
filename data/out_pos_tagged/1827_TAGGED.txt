@@ -1,0 +1,15 @@
+Microsoft/NNP seeking/VBG spyware/NN trojan/NN
+
+Microsoft/NNP is/VBZ investigating/VBG a/DT trojan/NN program/NN that/IN attempts/NNS to/TO switch/VB off/RP the/DT firm's/NNS anti-spyware/JJ software./NN
+
+The/DT spyware/NN tool/NN was/VBD only/RB released/VBN by/IN Microsoft/NNP in/IN the/DT last/JJ few/JJ weeks/NNS and/CC has/VBZ been/VBN downloaded/VBN by/IN six/CD million/CD people./NN
+Stephen/NNP Toulouse/NNP a/DT security/NN manager/NN at/IN Microsoft/NNP said/VBD the/DT malicious/JJ program/NN was/VBD called/VBN Bankash-A/NNP Trojan/NNP and/CC was/VBD being/VBG sent/VBD as/IN an/DT e-mail/JJ attachment./NN
+Microsoft/NNP said/VBD it/PRP did/VBD not/RB believe/VB the/DT program/NN was/VBD widespread/JJ and/CC recommended/VBD users/NNS to/TO use/VB an/DT anti-virus/JJ program./NN
+The/DT program/NN attempts/VBZ to/TO disable/JJ or/CC delete/VB Microsoft's/NNP anti-spyware/JJ tool/NN and/CC suppress/VB warning/NN messages/NNS given/VBN to/TO users./VB
+
+It/PRP may/MD also/RB try/VB to/TO steal/VB online/NN banking/NN passwords/NNS or/CC other/JJ personal/JJ information/NN by/IN tracking/VBG users'/NN keystrokes./NN
+
+Microsoft/NNP said/VBD in/IN a/DT statement/NN it/PRP is/VBZ investigating/VBG what/WP it/PRP called/VBD a/DT criminal/JJ attack/NN on/IN its/PRP$ software./NN
+Earlier/RBR this/DT week/NN Microsoft/NNP said/VBD it/PRP would/MD buy/VB anti-virus/JJ software/NN maker/NN Sybari/NNP Software/NNP to/TO improve/VB its/PRP$ security/NN in/IN its/PRP$ Windows/NNS and/CC e-mail/JJ software./NN
+Microsoft/NNP has/VBZ said/VBN it/PRP plans/VBZ to/TO offer/VB its/PRP$ own/JJ paid-for/JJ anti-virus/JJ software/NN but/CC it/PRP has/VBZ not/RB yet/RB set/VBN a/DT date/NN for/IN its/PRP$ release./NN
+The/DT anti-spyware/JJ program/NN being/VBG targeted/VBN is/VBZ currently/RB only/RB in/IN beta/NN form/NN and/CC aims/VBZ to/TO help/VB users/NNS find/VB and/CC remove/VB spyware/NN -/: programs/NNS which/WDT monitor/VBP internet/JJ use/NN causes/VBZ advert/NN pop-ups/NNS and/CC slow/JJ a/DT PC's/NNP performance./NN

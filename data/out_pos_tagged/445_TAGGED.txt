@@ -1,0 +1,21 @@
+Executive/NNP trio/NN leave/VB Aer/NNP Lingus/NNP
+
+Three/CD senior/JJ executives/NNS of/IN Ireland's/NNP state-owned/JJ airline/NN Aer/NNP Lingus/NNP are/VBP set/VBN to/TO leave/VB early/RB on/IN 28/CD January/NNP after/IN accusations/NNS of/IN a/DT conflict/NN of/IN interest./JJ
+
+The/DT trio/NN are/VBP chief/JJ executive/NN Willie/NNP Walsh/NNP chief/JJ financial/JJ officer/NN Brian/NNP Dunne/NNP and/CC chief/JJ operations/NNS officer/NN Seamus/NNP Kearney./NNP
+The/DT three/CD have/VBP refused/VBN to/TO confirm/VB reports/NNS they/PRP plan/VBP to/TO launch/VB a/DT private/JJ airline/NN in/IN competition/NN with/IN Aer/NNP Lingus./NNP
+They/PRP announced/VBD in/IN November/NNP they/PRP would/MD quit/VB in/IN May/NNP but/CC did/VBD not/RB give/VB a/DT reason./NN
+That/DT decision/NN had/VBD followed/VBN an/DT announcement/NN by/IN Irish/JJ Prime/NNP Minister/NNP Bertie/NNP Ahern/NNP -/: who/WP is/VBZ still/RB considering/VBG the/DT future/NN of/IN the/DT airline/NN -/: which/WDT ruled/VBD out/RP a/DT proposed/VBN management/NN buy-out/NN of/IN Aer/NNP Lingus./NNP
+Mr/NNP Walsh/NNP denied/VBD they/PRP had/VBD been/VBN forced/VBN out/RP early/RB because/IN of/IN the/DT reports/NNS claiming/VBG they/PRP were/VBD set/VBN to/TO launch/VB a/DT competitor/NN airline./NN
+
+"What/NN I/PRP do/VBP after/IN I/PRP leave/VBP Aer/NNP Lingus/NNP is/VBZ still/RB too/RB early/JJ to/TO say"/VB Mr/NNP Walsh/NNP told/VBD AP/NNP news/NN agency/NN on/IN Wednesday./NNP
+"I/NN have/VBP opportunities/NNS open/JJ to/TO me./VB
+Brian/NNP and/CC Seamus/NNP are/VBP in/IN the/DT equally/RB fortunate/JJ position."/NN He/PRP said/VBD he/PRP had/VBD received/VBN more/JJR than/IN 40/CD business/NN proposals/NNS mostly/RB aviation-related/JJ since/IN the/DT trio/NN announced/VBD their/PRP$ resignations/NNS two/CD months/NNS ago./NN
+Mr/NNP Walsh/NNP said/VBD there/EX was/VBD no/DT conflict/NN of/IN interest/NN and/CC if/IN he/PRP was/VBD to/TO launch/VB a/DT rival/JJ airline/NN or/CC join/VB an/DT existing/VBG competitor/NN "this/NN thing/NN happens/VBZ in/IN every/DT business"./NN
+"There's/NN absolutely/RB no/DT question/NN of/IN a/DT conflict/NN of/IN interest./JJ
+I've/NNP been/VBN completely/RB focused/VBN on/IN my/PRP$ responsibilities/NNS at/IN Aer/NNP Lingus"/NNP he/PRP told/VBD AP./NNP
+
+This/DT week/NN opposition/NN politicians/NNS had/VBD called/VBN on/IN the/DT Irish/JJ government/NN to/TO make/VB an/DT urgent/NN decision/NN on/IN the/DT future/NN of/IN the/DT airline./NN
+On/IN Wednesday/NNP Irish/JJ Transport/NNP Minister/NNP Martin/NNP Cullen/NNP said/VBD in/IN a/DT statement/NN "A/NN conflict/NN of/IN interest/NN cannot/NN should/MD not/RB and/CC will/MD not/RB be/VB allowed/VBN to/TO arise/VB between/IN their/PRP$ current/JJ roles/NNS at/IN Aer/NNP Lingus/NNP and/CC their/PRP$ future/JJ career/NN intentions."/NN Last/JJ Friday/NNP the/DT minister/NN had/VBD announced/VBN he/PRP was/VBD to/TO advertise/VB for/IN three/CD senior/JJ executives/NNS for/IN Aer/NNP Lingus./NNP
+Mr/NNP Walsh/NNP who/WP took/VBD charge/NN in/IN 2000/CD and/CC his/PRP$ team/NN have/VBP earned/VBN praise/NN for/IN turning/VBG Aer/NNP Lingus/NNP around/IN by/IN cutting/VBG air/NN fares/NNS and/CC staff/NN and/CC re-positioning/JJ it/PRP as/IN a/DT low-fare/JJ airline/NN to/TO rival/JJ Ryanair./NNP
+The/DT company/NN is/VBZ 85%/CD owned/VBN by/IN the/DT government/NN and/CC 15%/CD by/IN its/PRP$ staff./NN

@@ -1,0 +1,14 @@
+Record/NNP year/NN for/IN Chilean/JJ copper/NN
+
+Chile's/NNP copper/NN industry/NN has/VBZ registered/VBN record/NN earnings/NNS of/IN $14.2bn/CD in/IN 2004/CD the/DT governmental/JJ Chilean/JJ Copper/NN Commission/NNP (Cochilco)/NN has/VBZ reported./NN
+
+Strong/JJ demand/NN from/IN China's/NNP fast-growing/JJ economy/NN and/CC high/JJ prices/NNS have/VBP fuelled/VBN production/NN said/VBD Cochilco/NNP vice/NN president/NN Patricio/NNP Cartagena./NNP
+He/PRP added/VBD that/IN the/DT boom/NN has/VBZ allowed/VBN the/DT government/NN to/TO collect/VB $950m/CD in/IN taxes./NN
+Mr/NNP Cartagena/NNP said/VBD the/DT industry/NN expects/VBZ to/TO see/VB investment/NN worth/JJ $10bn/CD over/IN the/DT next/JJ three/CD years./NN
+
+"With/NN these/DT investments/NNS clearly/RB we/PRP are/VBP going/VBG to/TO continue/VB being/VBG the/DT principle/NN actor/NN in/IN the/DT mining/NN of/IN copper./NN
+It's/VBG a/DT consolidation/NN of/IN the/DT industry/NN with/IN new/JJ projects/NNS and/CC expansions/NNS that/WDT will/MD support/VB greater/JJR production."/NN Australia's/NNP BHP/NNP Billiton/NNP -/: which/WDT operates/VBZ La/NNP Escondida/NNP the/DT world's/NNS largest/JJS open/JJ pit/NN copper/NN mine/NN -/: is/VBZ planning/VBG to/TO invest/VB $1.9bn/CD between/IN now/RB and/CC 2007/CD while/IN state-owned/JJ Codelco/NNP will/MD spend/VB about/RB $1bn/CD on/IN various/JJ projects./NN
+Chile/VBG the/DT biggest/JJS copper/NN producer/NN in/IN the/DT world/NN is/VBZ now/RB analyzing/VBG ways/NNS of/IN to/TO keep/VB prices/NNS stable/JJ at/IN their/PRP$ current/JJ high/JJ levels/NNS without/IN killing/VBG off/RP demand/NN or/CC leading/VBG customers/NNS to/TO look/VB for/IN substitutes/NNS for/IN copper./NN
+The/DT copper/NN price/NN reached/VBD a/DT 16-year/JJ high/NN in/IN October/NNP 2004./CD
+Production/NN in/IN Chile/NNP is/VBZ expected/VBN rise/NN 3.5%/CD in/IN 2005/CD to/TO 5.5/CD million/CD tonnes/NNS said/VBD Mr/NNP Cartagena./NNP
+Cochilco/NNP expects/VBZ for/IN 2005/CD a/DT slight/JJ reduction/NN on/IN copper/NN prices/NNS and/CC forecasts/NNS export/NN earnings/NNS will/MD fall/VB 10.7%./CD

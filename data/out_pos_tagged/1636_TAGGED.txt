@@ -1,0 +1,41 @@
+Preview/NNP Ireland/NNP v/NN England/NNP (Sun)/NN
+
+Lansdowne/NNP Road/NNP Dublin/NNP
+
+Sunday/NNP 27/CD February/NNP
+
+1500/CD GMT/NNP
+
+BBC1/CD Radio/NNP 4/CD LW/NNP and/CC this/DT website/NN
+
+Ireland/NNS are/VBP going/VBG for/IN their/PRP$ first/JJ Grand/NNP Slam/NNP since/IN 1948/CD after/IN two/CD opening/NN wins/VBZ and/CC England/NNP represent/VBP their/PRP$ sternest/JJ test/NN of/IN the/DT Championship/NNP so/RB far./NN
+England/NNP were/VBD sloppy/JJ and/CC leaderless/JJ in/IN the/DT defeats/NNS against/IN Wales/NNP and/CC France/NNP and/CC another/DT loss/NN would/MD be/VB unthinkable./NN
+The/DT pressure/NN is/VBZ on/IN coach/NN Andy/NNP Robinson/NNP and/CC his/PRP$ side/NN have/VBP to/TO deliver./VB
+
+Despite/IN England's/NNP dramatic/JJ dip/NN in/IN form/NN since/IN the/DT World/NNP Cup/NNP final/JJ -/: they/PRP have/VBP lost/VBN eight/CD of/IN their/PRP$ last/JJ 13/CD matches/VBZ -/: Ireland/NNP coach/NN Eddie/NNP O'Sullivan/NNP says/VBZ his/PRP$ side/NN should/MD not/RB underestimate/VB the/DT visitors./NN
+"Had/NN they/PRP kicked/VBD their/PRP$ points/NNS they/PRP would/MD have/VB beaten/VBN France/NNP and/CC that/WDT would/MD have/VB created/VBN a/DT different/JJ landscape/NN for/IN Sunday"/NNP he/PRP said./VB
+"This/NN is/VBZ England/NNP we/PRP are/VBP talking/VBG about./NN
+They/PRP have/VBP a/DT depth/NN of/IN talent/NN and/CC a/DT very/RB good/JJ record/NN against/IN Ireland./NNP
+"They/NN will/MD target/VB a/DT victory/NN in/IN Dublin/NNP as/IN the/DT turning/NN point/NN in/IN their/PRP$ Six/CD Nations."/NNP The/DT differences/NNS between/IN the/DT sides/NNS is/VBZ also/RB highlighted/VBN in/IN the/DT team/NN selections/NNS for/IN the/DT Dublin/NNP encounter./NN
+
+Ireland/NNP despite/IN having/VBG Gordon/NNP D'Arcy/NNP still/RB out/IN injured/VBN have/VBP been/VBN boosted/VBN by/IN the/DT return/NN of/IN star/NN skipper/VB Brian/NNP O'Driscoll/NNP who/WP missed/VBD the/DT Scotland/NNP game/NN with/IN a/DT hamstring/VBG injury./NN
+"The/NN knowledge/NN that/IN the/DT England/NNP game/NN was/VBD coming/VBG up/RP really/RB helped/VBD during/IN rehabilitation"/NN he/PRP said./VB
+"The/NN will/MD to/TO play/VB in/IN this/DT game/NN was/VBD enormous./NN
+It/PRP doesn't/VBP get/NN much/RB bigger/JJR than/IN England/NNP at/IN home."/NN As/RB well/RB as/IN entering/VBG the/DT tournament/NN without/IN players/NNS like/IN Jonny/NNP Wilkinson/NNP Mike/NNP Tindall/NNP and/CC Richard/NNP Hill/NNP England/NNP have/VBP now/RB lost/VBN two/CD tighthead/NN props/NNS in/IN Julian/NNP White/NNP and/CC Phil/NNP Vickery/NNP while/IN blind-side/JJ flanker/NN Lewis/NNP Moody/NNP is/VBZ a/DT major/JJ concern./NN
+Robinson/NNP who/WP received/VBD a/DT lot/NN of/IN flak/NN for/IN the/DT inclusion/NN and/CC then/RB dropping/NN of/IN centre/NN Mathew/NNP Tait/NNP has/VBZ kept/VBN faith/NN with/IN kicking/VBG fly-half/JJ Charlie/NNP Hodgson/NNP despite/IN his/PRP$ horror/NN show/NN at/IN Twickenham./NNP
+If/IN England/NNP slump/NN in/IN Dublin/NNP it/PRP will/MD be/VB their/PRP$ worst/JJS run/VB of/IN results/NNS in/IN the/DT Championship/NNP since/IN 1987./CD
+
+But/CC Robinson/NNP was/VBD bullish/JJ during/IN the/DT week/NN about/IN the/DT game/NN saying/VBG that/IN his/PRP$ side/NN "are/NN going/VBG there/RB to/TO get/VB in/IN their/PRP$ faces"/NN and/CC has/VBZ identified/VBN the/DT line-out/JJ and/CC tackle/VB area/NN as/IN the/DT key/NN to/TO England's/NNP chances./NN
+And/CC despite/IN the/DT recent/JJ results/NNS skipper/VBP Jason/NNP Robinson/NNP believes/VBZ there/EX is/VBZ nothing/NN wrong/JJ with/IN the/DT mood/NN in/IN the/DT camp./NN
+"There/NN is/VBZ no/DT lack/NN of/IN confidence/NN in/IN the/DT team"/NN said/VBD the/DT Sale/NNP full-back./JJ
+"We/NN have/VBP had/VBN a/DT good/JJ week's/NNS training/NN and/CC we/PRP are/VBP all/DT looking/VBG forward/RB to/TO the/DT challenge./NN
+"I/NN still/RB believe/VBP in/IN this/DT team./NN
+I/PRP know/VBP if/IN we/PRP get/VBP our/PRP$ game/NN right/NN we/PRP will/MD win/VB the/DT games."/NN
+
+G/NNP Murphy/NNP G/NNP Dempsey/NNP B/NNP O'Driscoll/NNP S/NNP Horgan/NNP D/NNP Hickie/NNP R/NN O'Gara/NNP P/NNP Stringer/NNP R/NN Corrigan/NNP S/NNP Byrne/NNP J/NNP Hayes/NNP M/NNP O'Kelly/NNP P/NNP O'Connell/NNP S/NNP Easterby/NNP J/NNP O'Connor/NNP A/NNP Foley./NNP
+
+F/NNP Sheahan/NNP M/NNP Horan/NNP D/NNP O'Callaghan/NNP E/NN Miller/NNP G/NNP Easterby/NNP D/NNP Humphreys/NNP K/NNP Maggs./NNP
+
+J/NNP Robinson/NNP (capt)/NN M/NNP Cueto/NNP J/NNP Noon/NN O/NNP Barkley/NNP J/NNP Lewsey/NNP C/NNP Hodgson/NNP H/NNP Ellis/NNP G/NNP Rowntree/NNP S/NNP Thompson/NNP M/NNP Stevens/NNP D/NNP Grewcock/NNP B/NNP Kay/NNP J/NNP Worsley/NNP L/NNP Moody/NNP M/NNP Corry./NNP
+
+A/DT Titterrell/NNP D/NNP Bell/NNP S/NNP Borthwick/NNP A/NNP Hazell/NNP M/NNP Dawson/NNP A/NNP Goode/NNP O/NNP Smith./NNP

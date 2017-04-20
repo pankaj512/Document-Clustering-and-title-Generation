@@ -1,0 +1,52 @@
+Be/VB careful/JJ how/WRB you/PRP code/VBP
+
+A/DT new/JJ European/JJ directive/NN could/MD put/VB software/NN writers/NNS at/IN risk/NN of/IN legal/JJ action/NN warns/VBZ former/JJ programmer/NN and/CC technology/NN analyst/NN Bill/NNP Thompson./NNP
+
+If/IN it/PRP gets/VBZ its/PRP$ way/NN the/DT Dutch/JJ government/NN will/MD conclude/VB its/PRP$ presidency/NN of/IN the/DT European/NNP Union/NNP by/IN pushing/VBG through/IN a/DT controversial/JJ measure/NN that/WDT has/VBZ been/VBN rejected/VBN by/IN the/DT European/NNP Parliament/NNP lacks/VBZ majority/NN support/NN from/IN national/JJ governments/NNS and/CC will/MD leave/VB millions/NNS of/IN European/JJ citizens/NNS in/IN legal/JJ limbo/NN and/CC facing/VBG the/DT possibility/NN of/IN court/NN cases/NNS against/IN them./NN
+If/IN the/DT new/JJ law/NN was/VBD about/IN border/NN controls/NNS defence/NN or/CC even/RB the/DT new/JJ constitution/NN then/RB our/PRP$ TV/NN screens/NNS would/MD be/VB full/JJ of/IN experts/NNS agonising/VBG over/IN the/DT impact/NN on/IN our/PRP$ daily/JJ lives./NN
+Sadly/RB for/IN those/DT who/WP will/MD be/VB directly/RB affected/VBN the/DT controversy/NN concerns/NNS the/DT patenting/NN of/IN computer/NN programs/NNS a/DT topic/NN that/WDT may/MD excite/VB the/DT bloggers/NNS campaigning/NN groups/NNS and/CC technical/JJ press/NN but/CC does/VBZ not/RB obsess/JJ Middle/NNP Britain./NNP
+After/IN all/DT how/WRB much/JJ fuss/JJ can/MD you/PRP generate/VB about/IN the/DT Directive/NN on/IN the/DT Patentability/NNP of/IN Computer-Implemented/JJ Inventions/NNS and/CC the/DT way/NN it/PRP amends/VBZ Article/NNP 52/CD of/IN the/DT 1973/CD European/JJ Patent/NN Convention?/NNP Yet/RB if/IN the/DT new/JJ directive/NN is/VBZ nodded/VBN through/RP at/IN the/DT next/JJ meeting/NN of/IN one/CD of/IN the/DT EU's/NNP ministerial/JJ councils/NNS as/IN seems/VBZ likely/JJ it/PRP will/MD allow/VB programs/NNS to/TO be/VB patented/VBN in/IN Europe/NNP just/RB as/IN they/PRP are/VBP in/IN the/DT US./NNP
+Many/JJ observers/NNS of/IN the/DT computing/NN scene/NN including/VBG myself/PRP think/VBP the/DT results/NNS will/MD be/VB disastrous/JJ for/IN small/JJ companies/NNS innovative/JJ programmers/NNS and/CC the/DT free/JJ and/CC open/JJ source/NN software/NN movement./NN
+It/PRP will/MD let/VB large/JJ companies/NNS patent/VBP all/DT sorts/NNS of/IN ideas/NNS and/CC give/VB legal/JJ force/NN to/TO those/DT who/WP want/VBP to/TO limit/VB their/PRP$ competitors'/NN use/NN of/IN really/RB obvious/JJ ideas./NN
+
+In/IN the/DT US/PRP you/PRP cannot/VBP build/VB a/DT system/NN that/IN stores/NNS customer/NN credit/NN card/NN details/NNS so/IN that/IN they/PRP can/MD pay/VB without/IN having/VBG to/TO re-enter/VB them/PRP unless/IN Amazon/NNP lets/VBZ you/PRP because/IN they/PRP hold/VBP the/DT patent/NN on/IN "one-click"/JJ online/NN purchase./NN
+It/PRP is/VBZ a/DT small/JJ invention/NN but/CC Amazon/NNP made/VBD it/PRP to/TO the/DT patent/NN office/NN first/RB and/CC now/RB owns/VBZ it./NN
+
+We/PRP are/VBP relatively/RB free/JJ from/IN this/DT sort/NN of/IN thing/NN over/IN here/RB but/CC perhaps/RB not/RB for/IN long./NN
+The/DT new/JJ proposals/NNS go/VBP back/RB to/TO 2002/CD although/IN argument/NN about/IN patentability/NN of/IN software/NN and/CC computer-implemented/JJ inventions/NNS has/VBZ been/VBN going/VBG on/IN since/IN at/IN least/JJS the/DT mid-1980s./JJ
+They/PRP have/VBP come/VBN to/TO a/DT head/NN now/RB after/IN a/DT year/NN in/IN which/WDT proposals/NNS were/VBD made/VBN endorsed/VBN by/IN the/DT Council/NNP of/IN Ministers/NNS radically/RB modified/VBN by/IN the/DT European/NNP Parliament/NNP and/CC then/RB re-presented/JJ in/IN their/PRP$ original/JJ form./NN
+Some/DT national/JJ governments/NNS seem/VBP to/TO be/VB aware/JJ of/IN the/DT problems./NN
+Poland/NNP has/VBZ rejected/VBN the/DT proposal/NN and/CC Germany's/NNP main/JJ political/JJ parties/NNS have/VBP opposed/VBN it/PRP but/CC there/EX is/VBZ not/RB enough/JJ opposition/NN to/TO guarantee/VB their/PRP$ rejection./NN
+Early/RB in/IN December/NNP the/DT British/JJ government/NN held/VBD a/DT consultation/NN meeting/NN with/IN those/DT who/WP had/VBD commented/VBN on/IN the/DT proposals./NN
+Science/NNP Minister/NNP Lord/NNP Sainsbury/NNP went/VBD along/IN to/TO listen/VB and/CC outline/VB the/DT UK/NNP position/NN but/CC according/VBG to/TO those/DT present/JJ it/PRP was/VBD embarrassing/JJ to/TO see/VB how/WRB little/JJ the/DT minister/NN and/CC his/PRP$ officials/NNS actually/RB understood/VBN the/DT issues/NNS concerned./NN
+
+The/DT draft/NN Directive/NN is/VBZ being/VBG put/VBN through/IN the/DT council/NN as/IN what/WP is/VBZ called/VBN an/DT "A"/NN item/NN and/CC can/MD only/RB be/VB approved/VBN or/CC rejected./NN
+No/DT discussion/NN or/CC amendment/NN is/VBZ allowed./NN
+So/RB why/WRB should/MD we/PRP be/VBP worried?/NN First/NNP there/EX is/VBZ the/DT abuse/NN of/IN the/DT democratic/JJ process/NN involved/VBN in/IN disregarding/JJ the/DT views/NNS of/IN the/DT parliament/NN and/CC abandoning/VBG all/DT of/IN their/PRP$ carefully/RB argued/VBD amendments./NN
+This/DT goes/VBZ to/TO the/DT heart/NN of/IN the/DT European/JJ project/NN and/CC even/RB those/DT who/WP do/VBP not/RB care/NN about/IN software/NN or/CC patents/NNS should/MD be/VB worried./NN
+If/IN coders/NNS are/VBP treated/VBN like/IN this/DT today/NN who/WP is/VBZ to/TO say/VB that/IN it/PRP will/MD not/RB be/VB you/PRP tomorrow?/VBP
+
+More/RBR directly/RB once/RB software/NN patents/NNS are/VBP granted/VBN then/RB any/DT programmer/NN will/MD have/VB to/TO worry/VB that/IN the/DT code/NN they/PRP are/VBP writing/VBG is/VBZ infringing/VBG someone/NN else's/NNS patent./NN
+This/DT is/VBZ not/RB about/IN stealing/VBG software/NN as/IN code/NN is/VBZ already/RB protected/VBN by/IN copyright./NN
+Patents/NNS are/VBP not/RB copyright/NN but/CC something/NN much/JJ stronger./NN
+A/DT patent/NN gives/VBZ the/DT owner/NN the/DT right/NN to/TO stop/VB anyone/NN else/RB using/VBG their/PRP$ invention/NN even/RB if/IN the/DT other/JJ person/NN invented/VBD it/PRP separately./NN
+I/PRP have/VBP never/RB to/TO my/PRP$ shame/NN managed/VBN to/TO read/VB Lord/NNP Byron's/NNP Childe/NNP Harold's/NNP Pilgrimage./NNP
+If/IN it/PRP was/VBD pointed/VBN out/RP that/IN one/CD of/IN my/PRP$ articles/NNS contained/VBD a/DT substantial/JJ chunk/NN of/IN the/DT poem/NN then/RB I/PRP could/MD defend/VB myself/PRP in/IN court/NN by/IN claiming/VBG that/IN I/PRP had/VBD simply/RB made/VBN it/PRP up/RP and/CC it/PRP was/VBD coincidence./NN
+The/DT same/JJ does/VBZ not/RB hold/VB for/IN a/DT patent./NN
+If/IN I/PRP sit/VBP down/RP this/DT afternoon/NN and/CC write/VB a/DT brilliant/JJ graphics/NNS compression/VBP routine/JJ and/CC it/PRP happens/VBZ to/TO be/VB the/DT same/JJ as/IN the/DT LZW/NNP algorithm/NN used/VBN in/IN GIF/NNP files/NNS then/RB I/PRP am/VBP in/IN trouble/NN under/IN patent/NN law/NN at/IN least/JJS in/IN the/DT US./NNP
+Coincidence/NN is/VBZ no/DT defence./NN
+The/DT proposed/VBN directive/NN is/VBZ supported/VBN by/IN many/JJ of/IN the/DT major/JJ software/NN companies/NNS but/CC this/DT is/VBZ hardly/RB surprising/JJ since/IN most/JJS of/IN them/PRP are/VBP US-based/JJ and/CC they/PRP have/VBP already/RB had/VBN to/TO cope/VB with/IN a/DT legal/JJ environment/NN that/WDT allows/VBZ patents./NN
+They/PRP have/VBP legal/JJ departments/NNS and/CC more/RBR crucially/RB patents/NNS of/IN their/PRP$ own/JJ which/WDT they/PRP can/MD trade/VB or/CC cross-license/JJ with/IN other/JJ patent/NN holders./NN
+
+Even/RB this/DT system/NN breaks/NNS down/RP of/IN course/NN as/IN Microsoft/NNP found/VBD out/RP last/JJ year/NN when/WRB they/PRP initially/RB lost/VBD a/DT case/NN brought/VBN by/IN Eolas/NNP which/WDT claimed/VBD that/IN Internet/NNP Explorer/NNP (and/NN other/JJ browsers)/NN infringed/VBD an/DT Eolas/NNP patent./NN
+That/DT one/CD was/VBD eventually/RB thrown/VBD out/RP but/CC only/RB after/IN months/NNS of/IN uncertainty/NN and/CC millions/NNS of/IN dollars./NN
+But/CC small/JJ companies/NNS and/CC the/DT free/JJ and/CC open/JJ software/NN movement/NN do/VBP not/RB have/VB any/DT patents/NNS to/TO trade./VB
+Much/JJ of/IN the/DT really/RB useful/JJ software/NN we/PRP use/VBP every/DT day/NN programs/NNS like/IN the/DT Apache/NNP web/NN server/NN the/DT GNU/Linux/NNP operating/NN system/NN and/CC the/DT fearsomely/RB popular/JJ Firefox/NNP browser/NN is/VBZ developed/VBN outside/JJ company/NN structures/NNS by/IN people/NNS who/WP do/VBP not/RB have/VB legal/JJ departments/NNS to/TO check/VB for/IN patent/NN infringements./NN
+The/DT damage/NN to/TO software/NN will/MD not/RB happen/VB overnight/JJ of/IN course./NN
+If/IN the/DT directive/NN goes/VBZ through/IN it/PRP has/VBZ to/TO be/VB written/VBN into/IN national/JJ laws/NNS and/CC then/RB there/EX will/MD be/VB a/DT steady/JJ stream/NN of/IN legal/JJ actions/NNS against/IN small/JJ companies/NNS and/CC open/JJ source/NN products./NN
+Eventually/RB someone/NN will/MD decide/VB to/TO attack/VB Linux/NNP directly/RB probably/RB with/IN some/DT secret/JJ funding/NN from/IN one/CD or/CC two/CD large/JJ players./NN
+The/DT new/JJ directive/NN will/MD limit/VB innovation/NN by/IN forcing/VBG programmers/NNS to/TO spend/VB time/NN checking/NN for/IN patent/NN infringements/NNS or/CC simply/RB avoiding/VBG working/VBG in/IN potentially/RB competitive/JJ areas./NN
+And/CC it/PRP will/MD damage/VB Europe's/NNP computer/NN industry./NN
+We/PRP can/MD only/RB hope/VB that/IN the/DT Council/NNP of/IN Ministers/NNS has/VBZ the/DT integrity/NN and/CC strength/NN to/TO reject/VB this/DT bad/JJ law./NN
+
+Bill/NNP Thompson/NNP is/VBZ a/DT regular/JJ commentator/NN on/IN the/DT BBC/NNP World/NNP Service/NNP programme/NN Go/VB Digital./NNP

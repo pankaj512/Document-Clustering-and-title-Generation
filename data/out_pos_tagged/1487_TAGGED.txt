@@ -1,0 +1,11 @@
+Cudicini/NNP misses/VBZ Carling/NNP Cup/NNP final/JJ
+
+Chelsea/NNP goalkeeper/NN Carlo/NNP Cudicini/NNP will/MD miss/VB Sunday's/NNP Carling/NNP Cup/NNP final/JJ after/IN the/DT club/NN dropped/VBD their/PRP$ appeal/NN against/IN his/PRP$ red/JJ card/NN against/IN Newcastle./NNP
+
+The/DT Italian/NN was/VBD sent/VBN off/RP for/IN bringing/VBG down/RP Shola/NNP Ameobi/NNP in/IN the/DT final/JJ minute/NN of/IN Sunday's/NNP match./NN
+Blues/NNS boss/NN Jose/NNP Mourinho/NNP had/VBD promised/VBN to/TO pick/VB Cudicini/NNP for/IN the/DT final/JJ instead/RB of/IN first-choice/JJ keeper/NN Petr/NNP Cech./NNP
+The/DT 31-year-old/NN will/MD now/RB serve/VB a/DT one-match/JJ suspension/NN commencing/VBG with/IN immediate/JJ effect./NN
+
+Cudicini/NNP kept/VBD a/DT club/NN record/NN 24/CD clean/JJ sheets/NNS last/JJ season/NN for/IN Chelsea/NNP but/CC Petr/NNP Cech/NNP has/VBZ established/VBN himself/PRP as/IN first/JJ choice/NN for/IN Mourinho/NNP since/IN moving/VBG to/TO Stamford/NNP Bridge/NNP in/IN summer/NN 2004./CD
+The/DT 22-year-old/JJ Czech/JJ Republic/NNP international/JJ has/VBZ set/VBN a/DT new/JJ Premiership/NN record/NN of/IN 961/CD consecutive/JJ minutes/NNS without/IN conceding/VBG a/DT goal/NN a/DT mark/NN which/WDT is/VBZ still/RB running./NN
+But/CC Mourinho/NNP has/VBZ used/VBN Cudicini/NNP regularly/RB in/IN the/DT Carling/NNP Cup/NNP and/CC the/DT Italian/JJ has/VBZ only/RB let/VB in/IN one/CD goal/NN in/IN his/PRP$ four/CD appearances/NNS during/IN Chelsea's/NNP run/VB to/TO the/DT final./NN

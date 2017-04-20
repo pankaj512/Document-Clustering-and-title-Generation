@@ -1,0 +1,14 @@
+Home/NN loan/NN approvals/NNS rising/VBG again/RB
+
+The/DT number/NN of/IN mortgages/NNS approved/VBN in/IN the/DT UK/NNP has/VBZ risen/VBN for/IN the/DT first/JJ time/NN since/IN May/NNP last/JJ year/NN according/VBG to/TO lending/NN figures/NNS from/IN the/DT Bank/NNP of/IN England./NNP
+
+New/JJ loans/NNS in/IN December/NNP rose/VBD to/TO 83000/CD slightly/RB higher/JJR than/IN November's/NNP nine-year/JJ low/JJ of/IN 77000./CD
+Mortgage/NNP lending/NN rose/VBD by/IN £7.1bn/CD in/IN December/NNP up/RP from/IN a/DT £6.4bn/CD rise/NN in/IN November./NNP
+The/DT figures/NNS contradict/VBP a/DT survey/NN from/IN the/DT British/NNP Bankers'/NNP Association/NNP which/WDT said/VBD approvals/NNS were/VBD at/IN a/DT five-year/JJ low./NN
+
+Analysts/NNS say/VBP the/DT figures/NNS show/VBP the/DT market/NN may/MD be/VB stabilising/VBG but/CC still/RB point/NN to/TO further/JJ house/NN price/NN softness./NN
+"The/NN modest/JJ rise/NN in/IN mortgage/NN approvals/NNS and/CC lending/NN in/IN December/NNP reinforces/VBZ the/DT impression/NN that/IN the/DT housing/NN market/NN is/VBZ currently/RB slowing/VBG steadily/RB rather/RB than/IN sharply"/NN said/VBD Global/JJ Insight/NNP analyst/NN Howard/NNP Archer/NNP commenting/VBG on/IN the/DT BoE's/NNP figures./NN
+The/DT BBA/NNP believes/VBZ that/IN the/DT property/NN market/NN is/VBZ continuing/VBG to/TO cool/JJ down./NN
+Changes/NNS to/TO mortgage/VB regulation/NN may/MD have/VB artificially/RB depressed/JJ figures/NNS in/IN November/NNP thus/RB flattering/JJ the/DT December/NNP figures/NNS analysts/NNS said./NN
+In/IN October/NNP last/JJ year/NN new/JJ rules/NNS came/VBD into/IN force/NN which/WDT meant/VBD some/DT lenders/NNS were/VBD forced/VBN to/TO withdraw/VB mortgage/NN products/NNS temporarily/RB in/IN November/NNP and/CC defer/VB some/DT lending/NN until/IN they/PRP had/VBD made/VBN sure/JJ they/PRP had/VBD complied/VBN with/IN the/DT rules/NNS properly./VBP
+Separately/RB the/DT Bank/NNP of/IN England/NNP said/VBD that/DT consumer/NN credit/NN rose/VBD by/IN £1.5bn/CD in/IN December/NNP more/JJR than/IN the/DT £1.4bn/CD expected/VBN and/CC above/IN the/DT £1.4bn/CD reported/VBN in/IN the/DT previous/JJ month./NN

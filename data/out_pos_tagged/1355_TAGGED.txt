@@ -1,0 +1,14 @@
+Radcliffe/NNP enjoys/VBZ winning/VBG comeback/NN
+
+Paula/NNP Radcliffe/NNP made/VBD a/DT triumphant/NN return/NN to/TO competitive/JJ running/NN with/IN victory/NN in/IN the/DT New/NNP York/NNP Marathon./NNP
+
+The/DT Briton/NNP running/VBG for/IN the/DT first/JJ time/NN since/IN dropping/VBG out/IN of/IN the/DT Olympic/NNP marathon/NN and/CC 10000m/CD held/VBN off/RP Kenyan/NNP Susan/NNP Chepkemei/NNP in/IN a/DT thrilling/VBG finish./NN
+The/DT pair/NN were/VBD locked/VBN together/RB for/IN the/DT last/JJ few/JJ miles/NNS before/IN Radcliffe/NNP finally/RB sprinted/VBD clear/JJ to/TO win/VB in/IN two/CD hours/NNS 23/CD minutes/NNS and/CC 10/CD seconds./NN
+"It's/NN a/DT good/JJ way/NN to/TO end/VB the/DT year"/NN she/PRP said./VBP
+"I'm/NN ready/JJ for/IN a/DT good/JJ rest/NN now."/NN Radcliffe/NNP decided/VBD only/RB recently/RB to/TO run/VB in/IN the/DT race/NN and/CC many/JJ had/VBD doubted/VBN whether/IN she/PRP had/VBD sufficiently/RB recovered/VBN from/IN her/PRP$ Olympic/NNP ordeal/NN just/RB 11/CD weeks/NNS ago./NN
+But/CC the/DT world/NN record-holder/NN was/VBD prominent/JJ at/IN the/DT head/NN of/IN the/DT field/NN for/IN the/DT whole/JJ race/NN as/IN her/PRP$ rivals/NNS slowly/RB dropped/VBD off/RP the/DT pace./NN
+Just/RB Chepkemei/NNP and/CC Radcliffe/NNP were/VBD left/VBN in/IN contention/NN as/IN the/DT race/NN came/VBD into/IN the/DT final/JJ few/JJ miles./NN
+The/DT Kenyan/NNP put/VBD in/IN several/JJ bursts/NNS of/IN speed/NN to/TO throw/VB off/RP Radcliffe/NNP but/CC the/DT Briton/NNP managed/VBD to/TO hang/VB in./NN
+Both/DT runners/NNS looked/VBD to/TO be/VB suffering/VBG as/IN they/PRP reached/VBD the/DT final/JJ mile/NN in/IN Central/NNP Park./NNP
+But/CC it/PRP was/VBD Radcliffe/NNP who/WP managed/VBD to/TO dredge/VB up/RP a/DT final/JJ sprint/NN to/TO see/VB off/RP Chepkemei/NNP in/IN the/DT closest/JJS finish/VB in/IN the/DT race's/NNS history/NN and/CC in/IN the/DT process/NN make/VB a/DT huge/JJ step/NN in/IN erasing/VBG the/DT disappointment/NN she/PRP suffered/VBD in/IN Athens./NNP
+

@@ -1,0 +1,9 @@
+Air/NNP Jamaica/NNP back/RB in/IN state/NN control/NN
+
+The/DT Jamaican/JJ government/NN is/VBZ regaining/VBG control/NN of/IN Air/NNP Jamaica/NNP in/IN an/DT bid/NN to/TO help/VB the/DT ailing/VBG company/NN out/IN of/IN its/PRP$ financial/JJ difficulties./NN
+
+The/DT firm/NN has/VBZ failed/VBN to/TO make/VB money/NN since/IN the/DT state/NN sold/VBD a/DT majority/NN stake/NN to/TO hotel/VB tycoon/NN Gordon/NNP Stewart/NNP in/IN 1994./CD
+In/IN common/JJ with/IN many/JJ carriers/NNS Air/NNP Jamaica/NNP with/IN debts/NNS of/IN $560m/CD (£291m)/CD has/VBZ been/VBN hit/VBN by/IN high/JJ fuel/NN costs/NNS and/CC the/DT impact/NN of/IN the/DT 11/CD September/NNP attacks./NN
+The/DT company/NN will/MD be/VB restructured/VBN with/IN the/DT aim/NN of/IN finding/VBG a/DT new/JJ buyer./NN
+"The/NN administration/NN is/VBZ committed/VBN to/TO a/DT viable/JJ national/JJ airline/NN that/WDT will/MD serve/VB as/IN a/DT major/JJ catalyst/NN for/IN our/PRP$ economy"/NN said/VBD Finance/NNP Minister/NNP Omar/NNP Davies./NNP
+The/DT 35-year-old/JJ airline/NN transports/VBZ about/IN 55%/CD of/IN all/DT passengers/NNS to/TO the/DT island/NN and/CC its/PRP$ pilots/NNS are/VBP reportedly/RB among/IN the/DT best/JJS paid/JJ in/IN the/DT industry/NN with/IN senior/JJ members/NNS of/IN staff/NN earning/VBG in/IN excess/NN of/IN $234000/CD a/DT year./NN

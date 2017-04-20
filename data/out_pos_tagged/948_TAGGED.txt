@@ -1,0 +1,27 @@
+Nuclear/NNP strike/NN 'key/NN terror/NN risk'/NN
+
+The/DT UK/NNP and/CC US/PRP must/MD realise/VB they/PRP cannot/VBP prevent/NN all/DT terror/NN attacks/NNS and/CC should/MD focus/VB on/IN making/VBG sure/JJ they/PRP are/VBP not/RB nuclear/JJ strikes/NNS says/VBZ a/DT top/JJ academic./NN
+
+Amitai/NNP Etzioni/NNP a/DT key/JJ influence/NN on/IN New/NNP Labour/NNP thinking/NN says/VBZ the/DT US/PRP emphasis/VBP on/IN an/DT "Axis/NN of/IN Evil"/NNP is/VBZ misplaced./NN
+The/DT priority/NN should/MD instead/RB be/VB on/IN "failing/VBG states"/NN including/VBG Russia/NNP and/CC Pakistan/NNP who/WP cannot/VBP properly/RB control/VBP their/PRP$ nuclear/JJ material/NN he/PRP argues./VB
+His/PRP$ report/NN demands/NNS a/DT major/JJ overhaul/NN of/IN world/NN rules/NNS on/IN nuclear/JJ technology./NN
+
+Professor/NNP Etzioni/NNP was/VBD a/DT senior/JJ adviser/NN to/TO President/NNP Carter's/NNP White/NNP House/NNP and/CC is/VBZ the/DT guru/NN behind/IN communitarian/NN ideas/NNS which/WDT influenced/VBD the/DT development/NN of/IN Blairite/NNP Third/NNP Way/NNP politics./NN
+In/IN a/DT report/NN for/IN the/DT Foreign/NNP Policy/NNP Centre/NNP think/VBP tank/NN he/PRP says/VBZ a/DT nuclear/JJ terrorist/JJ attack/NN is/VBZ the/DT main/JJ danger/NN faced/VBN by/IN many/JJ nations./NN
+
+"Attempts/NN to/TO defend/VB against/IN it/PRP by/IN hardening/VBG domestic/JJ targets/NNS cannot/NN work/NN nor/CC can/MD one/CD rely/NN on/IN pre-emption/JJ by/IN taking/VBG the/DT war/NN to/TO the/DT terrorists/NNS before/IN they/PRP attack"/VBP he/PRP says./VB
+That/DT means/VBZ there/EX is/VBZ an/DT urgent/NN need/VBP to/TO curb/VB terrorists'/NN access/NN to/TO nuclear/JJ arms/NNS and/CC the/DT materials/NNS used/VBN to/TO make/VB them./NN
+"We/NN must/MD recognise/VB that/IN we/PRP will/MD be/VB unable/JJ to/TO stop/VB all/DT attacks/NNS and/CC thus/RB ensure/VB terrorists/NNS will/MD not/RB be/VB able/JJ to/TO strike/VB with/IN weapons/NNS of/IN mass/NN destruction"/NN Prof/NNP Etzioni/NNP continues./NN
+
+He/PRP suggests/VBZ so-called/JJ rogue/NN states/NNS such/JJ as/IN Iran/NNP and/CC North/NNP Korea/NNP are/VBP less/JJR of/IN a/DT problem/NN than/IN "failed/VBN and/CC failing/VBG states"/NN which/WDT are/VBP more/RBR likely/JJ to/TO be/VB a/DT source/NN of/IN nuclear/JJ materials./NN
+He/PRP names/VBZ Russia/NNP as/IN the/DT "failing/VBG state"/NN of/IN gravest/JJS concern/NN as/IN it/PRP has/VBZ an/DT estimated/VBN 90%/CD of/IN all/DT fissile/NN material/NN outside/IN America./NNP
+And/CC he/PRP is/VBZ also/RB worried/VBN about/IN Pakistan/NNP after/IN one/CD of/IN its/PRP$ top/JJ nuclear/JJ scientists/NNS Abdul/NNP Qadeer/NNP Khan/NNP admitted/VBD leaking/VBG nuclear/JJ secrets./NN
+Prof/NNP Etzioni/NNP criticises/VBZ the/DT US/PRP for/IN overlooking/VBG those/DT reports/NNS suggesting/VBG it/PRP was/VBD done/VBN in/IN return/NN for/IN Pakistani/JJ help/NN in/IN hunting/NN Osama/NNP Bin/NN Laden./NNP
+"This/NN is/VBZ like/IN letting/VBG a/DT serial/NN killer/NN go/VBP because/IN he/PRP promised/VBD to/TO catch/VB some/DT jay-walkers"/JJ he/PRP says./VB
+
+
+-/: Upgrading/VBG security/NN at/IN nuclear/JJ arms/NNS stores/NNS as/IN a/DT temporary/JJ measure/NN
+-/: Creating/VBG a/DT new/JJ Global/JJ Safety/NNP Authority/NNP to/TO tackle/VB nuclear/JJ terrorism/NN using/VBG the/DT intelligence/NN links/NNS established/VBN in/IN the/DT wake/NN of/IN 11/CD September/NNP -/: backed/VBN by/IN the/DT United/NNP Nations'/NNP authority/NN
+-/: Encouraging/VBG pressuring/VBG and/CC using/VBG "all/NN available/JJ means"/NN to/TO persuade/VB countries/NNS to/TO switch/VB their/PRP$ highly-enriched/JJ uranium/NN for/IN less/JJR dangerous/JJ less-enriched/JJ uranium/NN
+-/: When/WRB possible/JJ taking/NN fissile/NN material/NN away/RB from/IN failing/VBG states/NNS to/TO safe/JJ havens/NNS where/WRB it/PRP can/MD be/VB blended/JJ down/RP or/CC converted/VBN
+-/: Compelling/JJ "failing/NN and/CC rogue/NN states"/NN and/CC eventually/RB all/DT states/NNS to/TO destroy/VB their/PRP$ nuclear/JJ bombs./NN

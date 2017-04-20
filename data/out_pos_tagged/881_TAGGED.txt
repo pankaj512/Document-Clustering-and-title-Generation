@@ -1,0 +1,14 @@
+Arnold/NNP congratulated/VBD on/IN Oscar/NNP win/VB
+
+Oscar-winner/NNP Andrea/NNP Arnold/NNP has/VBZ been/VBN congratulated/VBN by/IN the/DT UK/NNP Film/NNP Council/NNP the/DT organisation/NN which/WDT partly/RB funded/VBD her/PRP$ project./NN
+
+Arnold's/NNP film/NN Wasp/NNP won/VBD the/DT best/JJS live/VB action/NN short/JJ film/NN award/NN on/IN Sunday./NNP
+"The/NNP UK/NNP Film/NNP Council/NNP spends/VBZ millions/NNS of/IN pounds/NNS of/IN lottery/NN investment/NN on/IN short/JJ filmmaking/NN in/IN Britain/NNP every/DT year"/NN said/VBD chief/JJ executive/NN officer/NN John/NNP Woodward./NNP
+"It/NN certainly/RB pays/VBZ off/RP when/WRB you/PRP see/VBP new/JJ film-makers/NNS winning/VBG such/JJ prestigious/JJ awards"/NN he/PRP added./VB
+
+Wasp/NNP which/WDT was/VBD commissioned/VBN by/IN the/DT Film/NNP Council/NNP and/CC Channel/NNP 4/CD beat/NN films/NNS by/IN fellow/JJ UK/NNP nominees/NNS Gary/NNP McKendry/NNP and/CC Ashvin/NNP Kumar/NNP to/TO the/DT prize./NN
+It/PRP stars/VBZ actress/NN Nathalie/NNP Press/NNP who/WP appeared/VBD in/IN the/DT Bafta-winning/NNP drama/NN My/PRP$ Summer/NNPS Of/IN Love/NNP as/IN a/DT single/JJ mother/NN who/WP is/VBZ forced/VBN to/TO take/VB drastic/JJ action/NN when/WRB she/PRP is/VBZ invited/VBN on/IN a/DT date/NN and/CC is/VBZ unable/JJ to/TO find/VB a/DT babysitter/NN to/TO look/VB after/IN her/PRP$ four/CD daughters./NN
+The/DT film/NN has/VBZ already/RB won/VBN over/IN 30/CD other/JJ international/JJ awards/NNS including/VBG the/DT Sundance/NNP Short/JJ Film/NNP Prize./NNP
+Arnold/NNP from/IN Dartford/NNP in/IN Kent/NNP described/VBD her/PRP$ victory/NN as/IN "truly/RB overwhelming./NN
+I'm/NNP really/RB not/RB used/VBN to/TO this/DT kind/NN of/IN thing"/NN she/PRP said/VBD after/IN receiving/VBG her/PRP$ Oscar/NNP from/IN actor/NN Jeremy/NNP Irons./NNP
+"Thanks/NN to/TO everyone/NN who/WP worked/VBD on/IN this/DT -/: the/DT beers/NNS are/VBP on/IN me/PRP when/WRB we/PRP get/VBP home."/NN The/DT director/NN was/VBD one/CD of/IN only/RB two/CD British/JJ winners/NNS on/IN the/DT night/NN the/DT other/JJ being/VBG Sandy/NNP Powell/NNP who/WP won/VBD the/DT costume/NN design/NN Oscar/NNP for/IN her/PRP$ work/NN on/IN The/DT Aviator./NNP

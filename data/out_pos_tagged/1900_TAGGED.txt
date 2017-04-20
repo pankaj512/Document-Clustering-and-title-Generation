@@ -1,0 +1,23 @@
+Google/NN launches/NNS TV/NN search/NN service/NN
+
+The/DT net/JJ search/NN giant/NN Google/NNP has/VBZ launched/VBN a/DT search/NN service/NN that/WDT lets/VBZ people/NNS look/VBP for/IN TV/NN programmes./NN
+
+The/DT service/NN Google/NNP Video/NNP beta/NN searches/NNS closed/VBD caption/NN information/NN that/WDT comes/VBZ with/IN programmes./NN
+It/PRP only/JJ searches/VBZ US/PRP channel/VBP content/NN currently./NN
+Results/NNS list/NN programmes/NNS with/IN still/RB images/NNS and/CC text/NN from/IN the/DT point/NN where/WRB the/DT search/NN phrase/NN was/VBD spoken./NN
+It/PRP should/MD expand/VB over/IN time/NN to/TO include/VB content/NN from/IN more/JJR channels/NNS said/VBD a/DT Google/NNP spokesperson./NN
+The/DT first/JJ version/NN of/IN the/DT service/NN is/VBZ part/NN of/IN Google's/NNP expanding/VBG efforts/NNS to/TO be/VB a/DT ubiquitous/JJ search/NN engine/NN for/IN people/NNS to/TO find/VB what/WP they/PRP want/VBP on/IN the/DT web/NN and/CC beyond./NN
+"We/NN think/VBP TV/NN is/VBZ a/DT big/JJ part/NN of/IN people's/NNS lives"/NN said/VBD Jonathan/NNP Rosenberg/NNP Google's/NNP vice/NN president/NN of/IN product/NN management./NN
+"Ultimately/RB we/PRP would/MD like/VB to/TO have/VB all/DT TV/NN programming/NN indexed."/NN
+
+Google/NNP Video/NNP has/VBZ been/VBN indexing/NN US-based/JJ programmes/NNS from/IN PBS/NNP the/DT NBA/NNP Fox/NNP News/NNP and/CC C-SPAN/NNP since/IN December./NNP
+But/CC there/EX were/VBD few/JJ clues/NNS from/IN Google/NNP about/IN when/WRB more/RBR global/JJ broadcasters/NNS would/MD be/VB included./NN
+"Over/NN time/NN we/PRP plan/VBP to/TO increase/VB the/DT number/NN of/IN television/NN channels/NNS and/CC video/NN content/NN available/JJ via/IN Google/NNP Video/NNP but/CC don't/NN have/VBP more/JJR product/NN details/NNS to/TO share/VB with/IN you/PRP today"/VBP a/DT Google/NNP spokesperson/NN told/VBD the/DT BBC/NNP News/NNP website./NN
+
+The/DT results/NNS thrown/VBD up/RP by/IN the/DT search/NN will/MD also/RB include/VB programme/NN and/CC episode/NN information/NN like/IN channel/NN date/NN and/CC time./NN
+It/PRP also/RB lets/VBZ people/NNS find/VBP the/DT next/JJ time/NN and/CC channel/NN where/WRB a/DT programme/NN will/MD aired/VB locally/RB using/VBG a/DT US/PRP zip/VBP code/NN search/NN function./NN
+Rival/JJ search/NN engine/NN Yahoo/NNP has/VBZ been/VBN developing/VBG a/DT similar/JJ type/NN of/IN video/NN search/NN for/IN webcasts/NNS and/CC TV/NN clips/NNS which/WDT it/PRP promotes/VBZ from/IN its/PRP$ homepage./NN
+It/PRP offers/VBZ direct/JJ links/NNS to/TO websites/NNS with/IN movies/NNS or/CC other/JJ clips/NNS relevant/JJ to/TO the/DT search/NN query/NN but/CC does/VBZ not/RB pinpoint/VB when/WRB the/DT search/NN query/NN occurred./NN
+A/DT spokeswoman/NN told/VBD the/DT Financial/NNP Times/NNP on/IN Monday/NNP that/IN Yahoo/NNP was/VBD adding/VBG captioning/VBG for/IN Bloomberg/NNP BBC/NNP and/CC BSkyB/NNP broadcasts./NN
+A/DT smaller/JJR service/NN blinkx.tv/NN was/VBD launched/VBN last/JJ month./NN
+It/PRP searches/VBZ for/IN and/CC links/NNS to/TO TV/VB news/NN film/NN trailers/NNS and/CC other/JJ video/NN and/CC audio/JJ clips./NN

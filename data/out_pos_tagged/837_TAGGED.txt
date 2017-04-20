@@ -1,0 +1,16 @@
+Kidman/NNP wins/VBZ photographer/NN battle/NN
+
+Actress/NNP Nicole/NNP Kidman/NNP has/VBZ won/VBN a/DT restraining/VBG order/NN against/IN two/CD paparazzi/NN photographers/NNS who/WP she/PRP claims/VBZ left/VBD her/PRP$ fearful/NN of/IN leaving/VBG her/PRP$ Sydney/NNP mansion./NN
+
+The/DT Oscar-winning/NNP star/NN took/VBD action/NN against/IN Jamie/NNP Fawcett/NNP and/CC Ben/NNP McDonald/NNP after/IN a/DT bugging/VBG device/NN was/VBD found/VBN outside/IN her/PRP$ home/NN earlier/RBR this/DT week./NN
+Lawyers/NNS for/IN the/DT pair/NN denied/VBD allegations/NNS they/PRP had/VBD planted/VBN the/DT device./NN
+The/DT Australian/JJ actress/NN is/VBZ currently/RB in/IN Sydney/NNP to/TO film/VB her/PRP$ latest/JJS movie/NN Eucalyptus/NNP with/IN Russell/NNP Crowe./NNP
+Kidman/NNP was/VBD prompted/VBN to/TO take/VB action/NN following/VBG a/DT reported/JJ high-speed/JJ car/NN chase/NN with/IN members/NNS of/IN the/DT paparazzi/NN in/IN Sydney/NNP last/JJ weekend./NN
+
+According/VBG to/TO local/JJ newspaper/NN the/DT Daily/NNP Telegraph/NNP the/DT incident/NN involved/VBD paparazzi/NN driving/VBG through/IN red/JJ lights/NNS and/CC on/IN the/DT wrong/JJ side/NN of/IN the/DT road/NN in/IN pursuit/NN of/IN Kidman's/NNP vehicle./NN
+Lawyers/NNS for/IN Mr/NNP Fawcett/NNP and/CC Mr/NNP McDonald/NNP denied/VBD that/IN the/DT pair/NN were/VBD involved/VBN in/IN the/DT chase./NN
+Kidman/NNP sought/VBD the/DT "apprehended/VBN violence"/NN orders/NNS -/: normally/RB used/VBN in/IN Australia/NNP in/IN cases/NNS of/IN domestic/JJ violence/NN and/CC similar/JJ incidents/NNS -/: after/IN being/VBG advised/VBD to/TO do/VB so/RB by/IN local/JJ police./NN
+"Nicole/NN would/MD like/VB to/TO make/VB it/PRP clear/JJ that/IN she/PRP acknowledges/VBZ she/PRP is/VBZ a/DT public/JJ figure/NN and/CC that/IN reporters/NNS and/CC photographers/NNS have/VBP a/DT job/NN to/TO do/VB and/CC she/PRP respects/VBZ that"/NN said/VBD Kidman's/NNP publicist/NN Wendy/NN Day./NNP
+"However/NN these/DT are/VBP specific/JJ actions/NNS against/IN two/CD individuals/NNS who/WP over/IN a/DT period/NN of/IN time/NN have/VBP caused/VBN her/PRP to/TO feel/VB threatened/VBN intimidated/VBN and/CC unable/JJ to/TO leave/VB her/PRP$ home/NN without/IN fearing/VBG for/IN her/PRP$ safety."/NN Magistrate/NN Lee/NNP Gilmore/NNP who/WP issued/VBD the/DT restraining/VBG order/NN at/IN Waverley/NNP Local/JJ Court/NNP in/IN Sydney/NNP said/VBD she/PRP understood/VBD the/DT photographers/NNS were/VBD entitled/VBN to/TO earn/VB a/DT living/VBG but/CC there/EX had/VBD to/TO be/VB limits/NNS to/TO their/PRP$ behaviour./NN
+"Miss/NNP Kidman/NNP says/VBZ she's/NNS willing/JJ to/TO put/VB up/RP with/IN some/DT of/IN it/PRP but/CC it's/NNS gone/VBN beyond/IN that"/NN she/PRP said./VBP
+"I/NN do/VBP believe/VB the/DT allegation/NN in/IN relation/NN to/TO the/DT driving/VBG is/VBZ a/DT serious/JJ issue."/NN

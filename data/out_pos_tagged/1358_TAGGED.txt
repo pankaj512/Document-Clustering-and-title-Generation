@@ -1,0 +1,18 @@
+Trial/NNP date/NN is/VBZ set/VBN for/IN Balco/NNP case/NN
+
+A/DT US/PRP judge/VBP has/VBZ set/VBN a/DT preliminary/JJ trial/NN date/NN for/IN the/DT Balco/NNP steroid/NN distribution/NN case/NN which/WDT has/VBZ rocked/VBN athletics./NN
+
+US/PRP district/VBP court/NN judge/NN Susan/NNP Ilston/NNP rejected/VBD an/DT attempt/NN by/IN the/DT defence/NN team/NN to/TO have/VB the/DT case/NN dismissed/VBN at/IN a/DT pre-trial/JJ hearing/NN in/IN San/NNP Francisco./NNP
+And/CC she/PRP set/VBD a/DT March/NNP date/NN for/IN the/DT case/NN of/IN the/DT four/CD men/NNS accused/VBN of/IN distributing/VBG illegal/JJ performance-enhancing/JJ drugs/NNS to/TO elite/VB athletes/NNS to/TO be/VB heard./NN
+A/DT firm/JJ decision/NN on/IN whether/IN the/DT trial/NN takes/VBZ place/NN is/VBZ expected/VBN in/IN January./NNP
+The/DT judge/NN said/VBD that/IN she/PRP may/MD conduct/VB hearings/NNS in/IN January/NNP into/IN whether/IN federal/JJ agents/NNS illegally/RB searched/VBD the/DT Balco/NNP headquarters/NN and/CC wrongfully/RB obtained/VBN statements/NNS from/IN the/DT company's/NNS founder/NN Victor/NNP Conte/NNP and/CC its/PRP$ vice-president/NN James/NNP Valente./NNP
+The/DT two/CD men/NNS -/: along/IN with/IN personal/JJ trainer/NN Greg/NNP Anderson/NNP and/CC athletics/NNS coach/NN Remy/NNP Korchemny/NNP -/: were/VBD all/DT indicted/VBN earlier/RBR this/DT year/NN but/CC have/VBP pleaded/VBN their/PRP$ innocence./NN
+The/DT outcome/NN of/IN those/DT hearings/NNS could/MD result/VB in/IN some/DT or/CC all/DT of/IN the/DT charges/NNS being/VBG dismissed./JJ
+Conte/NNP said/VBD that/IN he/PRP would/MD be/VB telling/VBG his/PRP$ side/NN of/IN the/DT story/NN on/IN an/DT American/JJ TV/NN show/NN on/IN Friday./NNP
+
+"The/NN world/NN deserves/VBZ to/TO know/VB the/DT truth/NN about/IN performance-enhancing/JJ drugs"/NN he/PRP said./VB
+Balco/NNP (The/NN Bay/NNP Area/NNP Laboratory/NNP Cooperative)/NNP is/VBZ the/DT company/NN at/IN the/DT centre/NN of/IN the/DT scandal./NN
+The/DT company/NN has/VBZ been/VBN accused/VBN by/IN the/DT United/NNP States/NNPS Anti-Doping/NNP Agency/NNP (USADA)/NN of/IN being/VBG the/DT source/NN of/IN the/DT banned/VBN steroid/NN THG/NNP and/CC modafinil./NN
+The/DT USADA/NNP claims/VBZ that/IN 10/CD athletes/NNS have/VBP received/VBN sanctions/NNS for/IN testing/NN positive/JJ for/IN THG/NNP and/CC modafinil./NN
+Former/NNP double/JJ world/NN champion/NN Kelli/NNP White/NNP and/CC Olympic/NNP relay/NN star/NN Alvin/NNP Harrison/NNP have/VBP both/DT been/VBN banned/VBN on/IN the/DT basis/NN of/IN materials/NNS discovered/VBN during/IN the/DT Balco/NNP investigation./NN
+Britain's/NNP former/JJ European/JJ 100m/CD champion/NN Dwain/NNP Chambers/NNP is/VBZ currently/RB serving/VBG a/DT two-year/JJ ban/NN after/IN testing/NN positive/JJ for/IN THG/NNP in/IN an/DT out-of-competition/JJ test/NN in/IN 2003./CD

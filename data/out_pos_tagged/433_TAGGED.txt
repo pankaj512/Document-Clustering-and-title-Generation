@@ -1,0 +1,13 @@
+Cairn/NNP Energy/NNP in/IN Indian/JJ gas/NN find/VB
+
+Shares/NNS in/IN Cairn/NNP Energy/NNP rose/VBD 3.8%/CD to/TO 1088/CD pence/NN on/IN Tuesday/NNP after/IN the/DT UK/NNP firm/NN announced/VBD a/DT fresh/JJ gas/NN discovery/NN in/IN northern/JJ India./NNP
+
+The/DT firm/NN which/WDT last/JJ year/NN made/VBD a/DT number/NN of/IN other/JJ new/JJ finds/NNS in/IN the/DT Rajasthan/NNP area/NN said/VBD the/DT latest/JJS discovery/NN could/MD lead/VB to/TO large/JJ gas/NN volumes./NN
+However/RB chief/JJ executive/NN Bill/NNP Gammell/NNP cautioned/VBD that/IN additional/JJ evalution/NN was/VBD first/RB needed/VBN at/IN the/DT site./NN
+Cairn/NNP has/VBZ also/RB been/VBN granted/VBN approval/NN to/TO extend/VB its/PRP$ Rajasthan/NNP exploration/NN area./NN
+This/DT approval/NN has/VBZ come/VBN from/IN the/DT Indian/JJ government./NN
+
+A/DT spokesman/NN said/VBD the/DT company's/NNS decision/NN to/TO carry/VB out/RP further/JJ investigations/NNS at/IN the/DT new/JJ find/NN showed/VBD that/IN it/PRP believed/VBD there/EX was/VBD significant/JJ gas./NN
+But/CC he/PRP added/VBD "It's/NN still/RB too/RB early/JJ to/TO say/VB what/WP the/DT extent/NN of/IN it/PRP is."/NN Cairn's/NNP string/NN of/IN finds/NNS in/IN Rajasthan/NNP last/JJ year/NN saw/VBD it/PRP elevated/JJ to/TO the/DT FTSE/NNP 100/CD index/NN of/IN the/DT UK's/NNP leading/VBG listed/VBN companies./NN
+The/DT company/NN had/VBD bought/VBN the/DT rights/NNS to/TO explore/VB in/IN the/DT area/NN from/IN oil/NN giant/NN Shell./NNP
+Mr/NNP Gammell/NNP is/VBZ a/DT former/JJ Scottish/NNP international/JJ rugby/NN player./NN

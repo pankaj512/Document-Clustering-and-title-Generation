@@ -1,0 +1,17 @@
+AstraZeneca/NNP hit/VBN by/IN drug/NN failure/NN
+
+Shares/NNS in/IN Anglo-Swedish/NNP drug/NN have/VBP closed/VBN down/RB 8%/CD in/IN UK/NNP trade/NN after/IN the/DT failure/NN of/IN its/PRP$ Iressa/NNP drug/NN in/IN a/DT major/JJ clinical/JJ trial./NN
+
+The/DT lung/NN cancer/NN drug/NN did/VBD not/RB significantly/RB prolong/VB survival/NN in/IN patients/NNS with/IN the/DT disease./JJ
+This/DT setback/NN for/IN the/DT group/NN follows/VBZ the/DT rejection/NN by/IN the/DT US/PRP in/IN October/NNP of/IN its/PRP$ anti-coagulant/JJ pill/NN Exanta./NNP
+Meanwhile/RB another/DT of/IN its/PRP$ major/JJ money/NN spinners/NNS -/: cholesterol/NN drug/NN Crestor/NNP -/: is/VBZ facing/VBG mounting/VBG safety/NN concerns./NN
+"This/NN would/MD be/VB two/CD of/IN the/DT three/CD blockbuster/NN drugs/NNS that/WDT were/VBD meant/VBN to/TO power/VB the/DT company/NN forward/RB failing.../NN
+and/CC we've/NN got/VBD risks/NNS on/IN Crestor"/NNP said/VBD Nick/NNP Turner/NNP analyst/NN at/IN brokers/NNS Jefferies./NNP
+
+AstraZeneca/NNP had/VBD hoped/VBN to/TO pitch/VB its/PRP$ Iressa/NNP drug/NN against/IN rival/JJ medicine/NN Tarceva./NNP
+But/CC Iressa/NNP proved/VBD no/RB better/JJR than/IN a/DT placebo/NN in/IN extending/VBG lives/NNS in/IN the/DT trial/NN involving/VBG 1692/CD patients./NN
+Tarceva/NNP -/: made/VBN by/IN OSI/NNP Pharmaceuticals/NNP Genentech/NNP and/CC Roche/NNP -/: has/VBZ already/RB proved/VBN to/TO be/VB successful/JJ in/IN helping/VBG prolong/VB the/DT life/NN of/IN lung/NN cancer/NN patients./NN
+AztraZeneca/NNP has/VBZ now/RB appointed/VBN a/DT new/JJ executive/NN director/NN to/TO the/DT board./NN
+John/NNP Patterson/NNP will/MD be/VB in/IN charge/NN of/IN drug/NN development./NN
+The/DT company/NN said/VBD Mr/NNP Patterson/NNP would/MD make/VB "substantial/JJ changes/NNS to/TO the/DT clinical/JJ organisation/NN and/CC its/PRP$ processes"./NN
+"I/NN am/VBP determined/VBN to/TO improve/VB our/PRP$ development/NN and/CC regulatory/JJ performance/NN restore/NN confidence/NN in/IN the/DT company/NN and/CC value/NN to/TO shareholders"/VB said/VBD chief/JJ executive/NN Tom/NNP McKillop./NNP

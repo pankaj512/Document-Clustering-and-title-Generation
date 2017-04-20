@@ -1,0 +1,17 @@
+Stuart/NNP joins/VBZ Norwich/NNP from/IN Addicks/NNP
+
+Norwich/NNS have/VBP signed/VBN Charlton/NNP midfielder/NN Graham/NNP Stuart/NNP until/IN the/DT end/NN of/IN the/DT season/NN for/IN an/DT undisclosed/JJ fee./NN
+
+"It/NN was/VBD a/DT very/RB easy/JJ decision/NN to/TO make"/VB the/DT 34-year-old/NN told/VBD Norwich's/NNP website./NN
+"The/NN attraction/NN for/IN me/PRP was/VBD to/TO continue/VB to/TO play/VB in/IN the/DT Premiership."/NNP Canaries/NNP boss/NN Nigel/NNP Worthington/NNP added/VBD "I'm/NN delighted/JJ that/IN Graham/NNP will/MD be/VB joining/VBG us/PRP until/IN the/DT end/NN of/IN the/DT season./NN
+"He's/NN gives/VBZ us/PRP a/DT wealth/NN of/IN experience./NN
+Hopefully/RB he/PRP can/MD be/VB part/NN of/IN keeping/VBG us/PRP in/IN the/DT Premier/NNP League."/NNP Stuart/NNP has/VBZ extensive/JJ top-flight/JJ experience/NN with/IN Everton/NNP Chelsea/NNP and/CC Charlton/NNP and/CC can/MD play/VB across/IN the/DT midfield/NN positions./NN
+He/PRP joins/VBZ Norwich/NNP with/IN the/DT Norfolk/NNP club/NN second-from-bottom/JJ in/IN the/DT Premiership/NN but/CC Stuart/NNP is/VBZ confident/JJ that/IN the/DT Carrow/NNP Road/NNP outfit/NN have/VBP a/DT bright/JJ future./NN
+"I've/NN been/VBN very/RB impressed/VBN with/IN the/DT facilities/NNS here./NN
+It's/NNP obviously/RB a/DT very/RB well/RB run/VB football/NN club/NN with/IN excellent/JJ facilities/NNS and/CC I've/NNP always/RB enjoyed/VBD playing/VBG at/IN Carrow/NNP Road"/NNP he/PRP added./VB
+"It's/NN a/DT nice/JJ compact/JJ ground/NN with/IN a/DT good/JJ atmosphere/NN and/CC hopefully/RB I/PRP can/MD help/VB give/VB the/DT fans/NNS something/NN else/RB to/TO cheer."/VB
+
+Stuart/VBG a/DT former/JJ England/NNP Under-21/JJ international/JJ made/VBN 110/CD appearances/NNS for/IN Chelsea/NNP scoring/VBG 18/CD goals/NNS before/IN joining/VBG Everton./NNP
+He/PRP won/VBD the/DT FA/NNP Cup/NNP with/IN the/DT Toffees/NNP in/IN 1995/CD and/CC remains/VBZ a/DT hero/NN at/IN Goodison/NNP Park/NNP after/IN his/PRP$ 81st-minute/CD winner/NN against/IN Wimbledon/NNP saved/VBD Everton/NNP from/IN relegation/NN in/IN 1994./CD
+Stuart/NNP spent/VBD just/RB over/IN four/CD years/NNS at/IN Goodison/NNP Park/NNP making/VBG 125/CD senior/JJ appearances/NNS and/CC scoring/VBG 25/CD goals/NNS before/IN signing/VBG for/IN Sheffield/NNP United/NNP -/: where/WRB he/PRP scored/VBD 12/CD goals/NNS in/IN 68/CD appearances./NN
+After/IN signing/VBG for/IN Charlton/NNP he/PRP made/VBD 164/CD appearances/NNS scoring/VBG 23/CD times/NNS but/CC recently/RB he/PRP has/VBZ been/VBN battling/VBG a/DT back/JJ problem/NN and/CC had/VBD not/RB played/VBN for/IN the/DT Londoners/NNP for/IN three/CD months/NNS before/IN heading/VBG to/TO Norwich./NNP

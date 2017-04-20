@@ -1,0 +1,19 @@
+Warnings/NNS on/IN woeful/JJ wi-fi/JJ security/NN
+
+Companies/NNS are/VBP getting/VBG worse/JJR at/IN keeping/VBG their/PRP$ wireless/JJ data/NNS networks/NNS secure./NN
+
+A/DT survey/NN of/IN wi-fi/JJ networks/NNS in/IN London/NNP Frankfurt/NNP New/NNP York/NNP and/CC San/NNP Francisco/NNP by/IN RSA/NNP Security/NNP found/VBD more/JJR than/IN a/DT third/JJ had/VBD basic/JJ security/NN features/NNS turned/VBD off./NN
+By/IN contrast/NN last/JJ year's/NNS survey/NN found/VBD that/IN 15%/CD of/IN firms/NNS had/VBD failed/VBN to/TO take/VB basic/JJ steps/NNS to/TO improve/VB security./NN
+RSA/NNP warned/VBD that/IN wi-fi's/NNS growing/VBG popularity/NN made/VBD it/PRP much/RB more/RBR likely/JJ that/DT insecure/NN networks/NNS would/MD be/VB found/VBN and/CC exploited./NN
+
+Wireless/NNP or/CC wi-fi/JJ networks/NNS have/VBP become/VBN hugely/RB popular/JJ over/IN the/DT last/JJ few/JJ years/NNS in/IN offices/NNS because/IN they/PRP are/VBP easy/JJ to/TO set/VB up/RB and/CC make/VB going/VBG online/NN much/RB more/JJR convenient./NN
+This/DT popularity/NN shows/VBZ no/DT sign/NN of/IN slowing/NN reveals/VBZ the/DT annual/JJ RSA/NNP Security/NNP and/CC NetSurity/NNP survey/NN which/WDT found/VBD an/DT annual/JJ 66%/CD growth/NN rate/NN in/IN the/DT number/NN of/IN wireless/JJ nets/NNS being/VBG installed/VBN in/IN London/NNP and/CC Frankfurt./NNP
+Although/IN most/JJS firms/NNS do/VBP take/VB steps/NNS to/TO turn/VB on/IN the/DT security/NN functions/NNS built/VBN in/RP to/TO the/DT wi-fi/JJ standard/JJ and/CC protect/VB themselves/PRP from/IN attack/NN the/DT survey/NN found/VBD that/IN a/DT significant/JJ proportion/NN were/VBD taking/VBG unnecessary/JJ risks./NN
+On/IN average/JJ 33%/CD of/IN the/DT wireless/JJ networks/NNS found/VBN by/IN RSA/NNP and/CC NetSurity/NNP researchers/NNS in/IN London/NNP Frankfurt/NNP New/NNP York/NNP and/CC San/NNP Francisco/NNP had/VBD not/RB used/VBN basic/JJ security/NN systems./NN
+Many/JJ firms/NNS were/VBD simply/RB turning/VBG on/RP their/PRP$ wireless/JJ net/JJ access/NN points/NNS and/CC use/NN default/NN settings/NNS that/IN anyone/NN familiar/JJ with/IN wi-fi/JJ could/MD easily/RB find/VB out./NN
+RSA/NNP said/VBD that/IN 26%/CD of/IN wi-fi/JJ networks/NNS found/VBD London/NNP used/VBD default/NN settings/NNS compared/VBN to/TO 30%/CD in/IN Frankfurt/NNP 31%/CD in/IN New/NNP York/NNP and/CC 28%/CD in/IN San/NNP Francisco./NNP
+Many/JJ users/NNS of/IN wi-fi/JJ nets/NNS did/VBD not/RB even/RB turn/VB on/IN the/DT encryption/NN that/IN scrambles/NNS data/NNS traffic/NN between/IN users/NNS and/CC the/DT access/NN point/NN helping/VBG them/PRP go/VBP online./NN
+This/DT is/VBZ despite/IN a/DT series/NN of/IN stories/NNS warning/NN firms/NNS about/IN the/DT dangers/NNS of/IN "drive-by/JJ hacking"/NN in/IN which/WDT computer/NN criminals/NNS walk/VBP or/CC drive/NN around/IN city/NN centres/NNS using/VBG easy/JJ to/TO use/VB tools/NNS to/TO spot/VB wi-fi/JJ nets./NN
+"These/NN figures/NNS are/VBP another/DT stark/JJ warning/NN to/TO unsecured/JJ businesses/NNS to/TO get/VB their/PRP$ act/NN together"/NN said/VBD Phil/NNP Cracknell/NNP chief/JJ technology/NN officer/NN at/IN NetSurity./NNP
+As/IN more/RBR public/JJ wi-fi/JJ hotspots/NNS appear/VBP and/CC people/NNS become/VBP more/RBR familiar/JJ with/IN using/VBG them/PRP it/PRP was/VBD getting/VBG more/RBR likely/JJ that/DT insecure/NN would/MD be/VB found/VBN warned/VBN Mr/NNP Cracknell./NNP
+"Accidental/JJ or/CC intentional/JJ connection/NN to/TO a/DT corporate/JJ network/NN can/MD bring/VB with/RP it/PRP a/DT series/NN of/IN security/NN issues/NNS including/VBG loss/NN of/IN confidential/JJ data/NNS and/CC installation/NN of/IN malicious/JJ code"/NN he/PRP said./VB

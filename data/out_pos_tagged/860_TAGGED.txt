@@ -1,0 +1,12 @@
+Ray/NNP DVD/NNP beats/VBZ box/NN office/NN takings/NNS
+
+Oscar-nominated/NNP film/NN biopic/JJ Ray/NNP has/VBZ surpassed/VBN its/PRP$ US/PRP box/VBP office/NN takings/NNS with/IN a/DT combined/VBN tally/NN of/IN $80m/CD (£43m)/CD from/IN DVD/NNP and/CC video/NN sales/NNS and/CC rentals./NN
+
+Ray's/NNP success/NN on/IN DVD/NNP outstripped/VBD its/PRP$ $74m/CD (£40m)/CD US/PRP box/VBP office/NN total/JJ earning/NN more/JJR than/IN $40m/CD (£22m)/CD on/IN the/DT first/JJ day/NN of/IN the/DT DVD's/NNP release/NN alone./NN
+Ray/NNP has/VBZ been/VBN nominated/VBN in/IN six/CD Oscar/NNP categories/NNS including/VBG best/JJS film/NN and/CC best/JJS actor/NN for/IN Jamie/NNP Foxx./NNP
+The/DT film/NN recounts/VBZ the/DT life/NN of/IN blues/NNS singer/NN Ray/NNP Charles/NNP who/WP died/VBD in/IN 2004./CD
+In/IN its/PRP$ first/JJ week/NN on/IN home/NN entertainment/NN release/NN the/DT film/NN was/VBD the/DT number/NN one/CD selling/VBG DVD/NNP with/IN the/DT limited/JJ edition/NN version/NN coming/VBG in/IN at/IN number/NN 11./CD
+Sony/NNP horror/NN film/NN The/DT Grudge/NNP starring/VBG Michelle/NNP Gellar/NNP was/VBD the/DT US'/NNP second/JJ best-selling/JJS DVD/NNP with/IN Jennifer/NNP Lopez/NNP and/CC Richard/NNP Gere's/NNP romantic/JJ comedy/NN Shall/MD We/PRP Dance?/NNP at/IN number/NN three./NN
+Foxx's/NNP critically/RB acclaimed/JJ performance/NN as/IN Ray/NNP has/VBZ already/RB earned/VBN him/PRP a/DT Screen/NN Actors/NNS Guild/NNP Award/NN for/IN best/JJS actor/NN as/RB well/RB as/IN a/DT prestigious/JJ Golden/NNP Globe./NNP
+Ray/NNP director/NN Taylor/NNP Hackford/NNP responsible/JJ for/IN the/DT classic/JJ 1982/CD film/NN An/DT Officer/NNP and/CC a/DT Gentleman/NNP has/VBZ also/RB received/VBN an/DT Oscar/NNP nomination/NN in/IN the/DT best/JJS director/NN category./NN
+The/DT film's/NNS three/CD other/JJ Oscar/NNP nominations/NNS are/VBP for/IN costume/NN film/NN editing/NN and/CC sound/NN mixing./NN

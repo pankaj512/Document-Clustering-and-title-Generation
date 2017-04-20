@@ -1,0 +1,15 @@
+Tautou/NNP 'to/NN star/NN in/IN Da/NNP Vinci/NNP film'/NN
+
+French/JJ actress/NN Audrey/NNP Tautou/NNP star/NN of/IN hit/VBN film/NN Amelie/NNP will/MD play/VB the/DT female/JJ lead/NN in/IN the/DT film/NN adaptation/NN of/IN The/DT Da/NNP Vinci/NNP Code/NNP it/PRP has/VBZ been/VBN reported./NN
+
+The/DT movie/NN version/NN of/IN Dan/NNP Brown's/NNP best-selling/JJS novel/NN is/VBZ being/VBG directed/VBN by/IN Ron/NNP Howard/NNP and/CC also/RB stars/NNS Tom/NNP Hanks./NNP
+Tautou/NNP will/MD play/VB Hanks'/NNP code-cracking/JJ partner/NN according/VBG to/TO various/JJ newspapers./NN
+She/PRP is/VBZ currently/RB starring/VBG in/IN A/DT Very/RB Long/NNP Engagement/NN directed/VBN by/IN Jean-Pierre/NNP Jeunet./NNP
+Jeunet/NNP was/VBD also/RB responsible/JJ for/IN directing/VBG Tautou/NNP in/IN Amelie/NNP in/IN 2001/CD which/WDT launched/VBD the/DT actress/NN into/IN the/DT mainstream./NN
+
+She/PRP also/RB starred/VBD as/IN the/DT lead/NN role/NN in/IN critically-acclaimed/JJ film/NN Dirty/JJ Pretty/NNP Things/NNS in/IN 2002./CD
+Oscar-winning/NNP director/NN Ron/NNP Howard/NNP chose/VBD Tautou/NNP for/IN the/DT part/NN preferring/VBG a/DT French/JJ actress/NN to/TO a/DT big/JJ name/NN Hollywood/NNP star./NN
+UK/NNP actress/NN Kate/NNP Beckinsale/NNP had/VBD been/VBN widely/RB tipped/VBD as/IN a/DT possibility/NN for/IN the/DT role/NN alongside/IN Vanessa/NNP Paradis/NNP and/CC Juliette/NNP Binoche./NNP
+The/DT thriller/NN upon/IN which/WDT the/DT movie/NN is/VBZ based/VBN has/VBZ sold/VBN more/JJR than/IN 17/CD million/CD copies/NNS and/CC is/VBZ centred/VBN on/IN a/DT global/JJ conspiracy/NN surrounding/VBG the/DT Holy/NNP Grail/NNP mythology./NN
+The/DT Louvre/NNP Museum/NNP scene/NN of/IN the/DT gruesome/JJ murder/NN at/IN the/DT beginning/NN of/IN the/DT novel/NN recently/RB gave/VBD permission/NN for/IN filming/VBG to/TO take/VB place/NN there/EX showbusiness/NN newspaper/NN Variety/NNP reported./NN
+The/DT $100m/CD movie/NN will/MD be/VB produced/VBN by/IN Columbia/Sony/NNP Pictures/NNP and/CC is/VBZ due/JJ for/IN release/NN on/IN May/NNP 19/CD 2006/CD in/IN the/DT United/NNP States/NNPS and/CC France./NNP

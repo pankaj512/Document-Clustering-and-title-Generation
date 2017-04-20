@@ -1,0 +1,20 @@
+BT/NNP offers/VBZ free/JJ net/JJ phone/NN calls/NNS
+
+BT/NNP is/VBZ offering/VBG customers/NNS free/JJ internet/JJ telephone/NN calls/NNS if/IN they/PRP sign/VBP up/IN to/TO broadband/VB in/IN December./NNP
+
+The/DT Christmas/NNP give-away/JJ entitles/VBZ customers/NNS to/TO free/JJ telephone/NN calls/NNS anywhere/RB in/IN the/DT UK/NNP via/IN the/DT internet./JJ
+Users/NNS will/MD need/VB to/TO use/VB BT's/NNP internet/JJ telephony/NN software/NN known/VBN as/IN BT/NNP Communicator/NNP and/CC have/VBP a/DT microphone/NN and/CC speakers/NNS or/CC headset/NN on/IN their/PRP$ PC./NNP
+BT/NNP has/VBZ launched/VBN the/DT promotion/NN to/TO show/VB off/RP the/DT potential/NN of/IN a/DT broadband/NN connection/NN to/TO customers./VB
+
+People/NNS wanting/VBG to/TO take/VB advantage/NN of/IN the/DT offer/NN will/MD need/VB to/TO be/VB a/DT BT/NNP Together/RB fixed-line/JJ customer/NN and/CC will/MD have/VB to/TO sign/VB up/IN to/TO broadband/VB online./NN
+The/DT offer/NN will/MD be/VB limited/VBN to/TO the/DT first/JJ 50000/CD people/NNS who/WP sign/VBP up/RB and/CC there/EX are/VBP limitations/NNS -/: the/DT free/JJ calls/NNS do/VBP not/RB include/VB calls/VBZ to/TO mobiles/NNS non-geographical/JJ numbers/NNS such/JJ as/IN 0870/CD premium/NN numbers/NNS or/CC international/JJ numbers./NN
+BT/NNP is/VBZ keen/JJ to/TO provide/VB extra/JJ services/NNS to/TO its/PRP$ broadband/NN customers./NN
+"People/NN already/RB using/VBG BT/NNP Communicator/NNP have/VBP found/VBN it/PRP by/IN far/RB the/DT most/RBS convenient/JJ way/NN of/IN making/VBG a/DT call/NN if/IN they/PRP are/VBP at/IN their/PRP$ PC"/NNP said/VBD Andrew/NNP Burke/NNP director/NN of/IN value-added/JJ services/NNS at/IN BT/NNP Retail./NNP
+As/IN more/JJR homes/NNS get/VBP high-speed/JJ access/NN providers/NNS are/VBP increasingly/RB offering/VBG add-ons/NNS such/JJ as/IN cheap/JJ net/JJ calls./NN
+"Broadband/NN and/CC telephony/NN are/VBP attractive/JJ to/TO customers/NNS and/CC BT/NNP wants/VBZ to/TO make/VB sure/JJ it/PRP is/VBZ in/IN the/DT first/JJ wave/NN of/IN services"/NN said/VBD Ian/NNP Fogg/NNP an/DT analyst/NN with/IN Jupiter/NNP Research./NNP
+"BT/NNP Communicator/NNP had/VBD a/DT quiet/JJ launch/NN in/IN the/DT summer/NN and/CC now/RB BT/NNP is/VBZ waving/VBG the/DT flag/NN a/DT bit/NN more/JJR for/IN it"/NN he/PRP added./VB
+
+BT/NNP has/VBZ struggled/VBN to/TO maintain/VB its/PRP$ market/NN share/NN of/IN broadband/NN subscribers/NNS as/IN more/JJR competitors/NNS enter/VBP the/DT market./NN
+Reports/NNS say/VBP that/IN BT/NNP has/VBZ lost/VBN around/IN 10%/CD of/IN market/NN share/NN over/IN the/DT last/JJ year/NN down/RP from/IN half/NN of/IN broadband/NN users/NNS to/TO less/JJR than/IN 40%./CD
+BT/NNP is/VBZ hoping/VBG its/PRP$ latest/JJS offer/NN can/MD persuade/VB more/JJR people/NNS to/TO jump/VB on/IN the/DT broadband/NN bandwagon./NN
+It/PRP currently/RB has/VBZ 1.3/CD million/CD broadband/NN subscribers./NN

@@ -1,0 +1,23 @@
+Blair/NNP 'damaged'/NN by/IN Blunkett/NNP row/NN
+
+A/DT majority/NN of/IN voters/NNS (68%)/CD believe/VBP the/DT prime/JJ minister/NN has/VBZ been/VBN damaged/VBN by/IN the/DT row/NN over/IN David/NNP Blunkett's/NNP involvement/NN in/IN a/DT visa/NN application/NN a/DT poll/NN suggests./NN
+
+But/CC nearly/RB half/PDT those/DT surveyed/VBN said/VBD Mr/NNP Blunkett/NNP should/MD return/VB to/TO Cabinet/NNP if/IN Labour/NNP won/VBD the/DT next/JJ election./NN
+Some/DT 63%/CD of/IN respondents/NNS in/IN the/DT Sunday/NNP Times/NNP poll/NN thought/VBD his/PRP$ former/JJ lover/NN -/: Kimberly/NNP Quinn/NNP -/: acted/VBD vindictively/RB and/CC 61%/CD that/IN he/PRP had/VBD been/VBN right/NN to/TO resign./VB
+YouGov/NNP polled/VBD a/DT weighted/JJ sample/NN of/IN 1981/CD voters/NNS online/NN on/IN 16-18/JJ December./NNP
+Mr/NNP Blunkett/NNP resigned/VBD as/IN Home/NNP Secretary/NNP on/IN Wednesday/NNP after/IN an/DT inquiry/NN uncovered/VBD an/DT e-mail/JJ showing/NN a/DT visa/NN application/NN by/IN Mrs/NNP Quinn's/NNP former/JJ nanny/NN had/VBD been/VBN speeded/VBN up./NN
+Sir/NNP Alan/NNP Budd's/NNP inquiry/NN also/RB found/VBD Mr/NNP Blunkett's/NNP account/NN of/IN events/NNS had/VBD been/VBN wrong./NN
+Almost/RB a/DT quarter/NN (21%)/CD of/IN those/DT polled/VBN for/IN the/DT Sunday/NNP Times/NNP said/VBD he/PRP should/MD return/VB to/TO the/DT Cabinet/NNP straight/RB after/IN the/DT election./NN
+One/CD in/IN four/CD said/VBD he/PRP should/MD be/VB back/RB in/IN the/DT Government's/NNP top/JJ ranks/NNS within/IN a/DT year/NN or/CC two/CD while/IN 39%/CD opposed/VBD a/DT comeback./NN
+
+Three-quarters/NNS said/VBD Mr/NNP Blunkett/NNP was/VBD right/JJ to/TO go/VB to/TO court/VB for/IN the/DT right/NN to/TO see/VB Mrs/NNP Quinn's/NNP son/NN -/: whom/WP he/PRP says/VBZ he/PRP fathered/VBD -/: and/CC just/RB 14%/CD voiced/VBN sympathy/NN for/IN Mrs/NNP Quinn./NNP
+A/DT total/NN of/IN 53%/CD of/IN those/DT polled/VBN said/VBD they/PRP had/VBD sympathy/NN for/IN Mr/NNP Blunkett/NNP with/IN 40%/CD saying/VBG they/PRP did/VBD not./NN
+Forty-three/NNP per/FW cent/NN thought/VBD Mr/NNP Blunkett/NNP had/VBD done/VBN a/DT good/JJ job/NN as/IN home/NN secretary/NN and/CC 17%/CD disagreed./JJ
+Meantime/RB 32%/CD said/VBD Mr/NNP Blair/NNP was/VBD a/DT good/JJ prime/JJ minister/NN and/CC 38%/CD disagreed./JJ
+A/DT majority/NN 52%/CD said/VBD Chancellor/NNP Gordon/NNP Brown/NNP had/VBD done/VBN a/DT good/JJ job/NN and/CC just/RB 16%/CD disagreed./JJ
+
+A/DT second/JJ poll/NN for/IN the/DT Independent/NNP on/IN Sunday/NNP found/VBD that/IN support/NN for/IN all/DT political/JJ parties/NNS remained/VBD largely/RB unchanged/JJ after/IN the/DT Blunkett/NNP controversy./NN
+Labour/NNP lead/VB the/DT Conservatives/NNS by/IN 39%/CD to/TO 34%/CD with/IN the/DT Liberal/NNP Democrats/NNPS on/IN 19%./CD
+CommunicateResearch/NNP interviewed/VBD 401/CD people/NNS before/IN David/NNP Blunkett's/NNP resignation/NN and/CC 601/CD afterwards./NN
+Some/DT 82%/CD said/VBD Mr/NNP Blunkett/NNP had/VBD set/VBN a/DT good/JJ example/NN by/IN wanting/VBG to/TO take/VB responsibility/NN for/IN the/DT child/NN he/PRP says/VBZ is/VBZ his/PRP$ but/CC 42%/CD backed/VBN his/PRP$ legal/JJ action/NN compared/VBN to/TO 45%/CD who/WP thought/VBD it/PRP was/VBD unbecoming./NN
+Thirty/CD per/IN cent/NN said/VBD the/DT affair/NN showed/VBD Mr/NNP Blunkett/NNP could/MD not/RB be/VB trusted/VBN as/IN a/DT minister/NN while/IN 63%/CD disagreed./JJ

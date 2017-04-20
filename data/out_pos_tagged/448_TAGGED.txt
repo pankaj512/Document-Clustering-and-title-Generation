@@ -1,0 +1,25 @@
+US/PRP Ahold/NNP suppliers/NNS face/VBP charges/NNS
+
+US/PRP prosecutors/VBZ have/VBP charged/VBN nine/CD food/NN suppliers/NNS with/IN helping/VBG Dutch/JJ retailer/NN Ahold/NNP inflate/VBP earnings/NNS by/IN more/JJR than/IN $800m/CD (£428m)./CD
+
+The/DT charges/NNS have/VBP been/VBN brought/VBN against/IN individuals/NNS as/RB well/RB as/IN companies/NNS alleging/VBG they/PRP created/VBD false/JJ accounts./NN
+Ahold/NNP hit/VBD the/DT headlines/NNS in/IN February/NNP 2003/CD after/IN it/PRP emerged/VBD that/IN there/EX were/VBD accounting/NN irregularities/NNS at/IN its/PRP$ US/PRP subsidiary/VBP Foodservice./NNP
+Three/CD former/JJ Ahold/NNP top/JJ executives/NNS last/JJ year/NN agreed/VBD to/TO settle/VB fraud/NN charges./NN
+
+Ahold/NNP has/VBZ admitted/VBN that/IN it/PRP fraudulently/RB inflated/VBD promotional/JJ allowances/NNS at/IN Foodservice/NNP improperly/RB consolidated/JJ joint/JJ ventures/NNS and/CC also/RB committed/VBN other/JJ accounting/NN errors/NNS and/CC irregularities./NN
+
+The/DT nine/CD now/RB charged/VBN who/WP worked/VBD as/IN suppliers/NNS to/TO Ahold/NNP are/VBP accused/VBN of/IN signing/VBG false/JJ documents/NNS relating/VBG to/TO the/DT amount/NN of/IN money/NN they/PRP paid/VBD the/DT retailer/NN for/IN promoting/VBG their/PRP$ products/NNS in/IN its/PRP$ stores./NN
+Food/NN companies/NNS pay/VBP supermarkets/NNS and/CC retailers/NNS for/IN prime/JJ shelf/NN space./NN
+The/DT suppliers/NNS in/IN question/NN are/VBP said/VBN to/TO have/VB inflated/VBN the/DT amount/NN of/IN money/NN they/PRP paid/VBD providing/VBG auditors/NNS with/IN signed/VBD letters/NNS that/WDT allowed/VBD Ahold/NNP to/TO inflate/VB its/PRP$ earnings./NN
+US/PRP Attorney/NNP David/NNP Kelley/NNP said/VBD he/PRP expects/VBZ the/DT nine/CD vendors/NNS will/MD plead/VB guilty/JJ to/TO the/DT charges./NN
+He/PRP added/VBD that/IN there/EX may/MD be/VB more/JJR court/NN actions/NNS in/IN the/DT future./NN
+"I/NN don't/NN want/VBP to/TO leave/VB you/PRP with/IN the/DT impression/NN that/IN these/DT were/VBD the/DT only/JJ ones/NNS involved"/VBP he/PRP said./VB
+Among/IN those/DT facing/VBG charges/NNS are/VBP John/NNP Nettle/NNP a/DT former/JJ employee/NN of/IN General/NNP Mills/NNP Mark/NNP Bailin/NNP of/IN Rymer/NNP International/NNP Seafood/NN Tim/NNP Daly/NNP of/IN Michael/NNP Foods/NNP and/CC Kenneth/NNP Bowman/NNP who/WP worked/VBD as/IN an/DT independent/JJ contractor/NN for/IN Total/JJ Foods./NNP
+
+Others/NNS include/VBP Michael/NNP Hannigan/NNP of/IN Sugar/NNP Foods/NNP Peter/NNP Marion/NNP of/IN Maritime/NNP Seafood/NN Processors/NNS and/CC First/NNP Choice/NN Foods/NNP Gordon/NNP Redgate/NNP of/IN Commodity/NNP Manager/NNP and/CC Private/JJ Label/NN Distribution/NN Bruce/NNP Robinson/NNP of/IN Basic/JJ American/NNP Foods/NNP and/CC Michael/NNP Rogers/NNP formerly/RB of/IN Tyson/NNP Foods./NNP
+Pasquale/NNP D'Amuro/NNP of/IN the/DT FBI/NNP called/VBD the/DT nine/CD vendors/NNS the/DT key/JJ ingredients/NNS in/IN "the/NN process/NN of/IN cooking/NN the/DT books"/NN at/IN Ahold./NNP
+At/IN the/DT time/NN of/IN the/DT scandal/NN Ahold/NNP was/VBD seen/VBN by/IN many/JJ as/IN Europe's/NNP Enron./NNP
+Ahold/NNP shares/NNS tumbled/VBD on/IN the/DT news/NN and/CC many/JJ market/NN observers/NNS predicted/VBD that/IN the/DT fall/NN out/RP could/MD damage/VB investor/NN confidence/NN across/IN Europe./NNP
+It/PRP was/VBD less/RBR severe/JJ than/IN many/JJ had/VBD envisaged/VBN however/RB and/CC since/IN then/RB Ahold/NNP has/VBZ worked/VBN hard/RB at/IN rebuilding/VBG its/PRP$ reputation/NN and/CC investor/NN confidence./NN
+Ahold/NNP is/VBZ the/DT world's/NNS fourth-largest/JJ supermarket/NN chain./NN
+Its/PRP$ other/JJ US/PRP businesses/VBZ include/VBP Stop/VB &/CC Shop/NNP and/CC Giant/NNP Food./NNP

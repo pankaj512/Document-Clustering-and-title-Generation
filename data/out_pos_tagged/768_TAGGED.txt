@@ -1,0 +1,29 @@
+No/DT jail/NN for/IN singer/NN Courtney/NNP Love/NNP
+
+Singer/NNP Courtney/NNP Love/NNP has/VBZ been/VBN spared/VBN jail/NN for/IN assault/NN and/CC drug/NN offences/NNS but/CC must/MD serve/VB three/CD years/NNS probation./NN
+
+She/PRP had/VBD back-to-back/JJ court/NN appearances/NNS in/IN two/CD separate/JJ cases/NNS in/IN Los/NNP Angeles/NNP first/JJ pleading/NN no/DT contest/NN to/TO attacking/VBG a/DT woman/NN with/IN a/DT whisky/JJ bottle./NN
+In/IN the/DT second/JJ Ms/NNP Love/NNP 40/CD pleaded/VBD guilty/JJ to/TO possessing/VBG a/DT forged/VBN prescription/NN and/CC painkiller/NN oxycodone./NN
+She/PRP must/MD also/RB do/VB 100/CD hours/NNS community/NN service/NN have/VBP drug/NN treatment/NN attend/VB Narcotics/NNP Anonymous/JJ and/CC pay/VB a/DT fine./NN
+The/DT ex-Hole/NN singer's/NNS lawyer/NN Howard/NNP Weitzman/NNP said/VBD Ms/NNP Love/NNP had/VBD "turned/VBN her/PRP$ life/NN around"/NN and/CC she/PRP was/VBD "clean/NN and/CC sober"./NN
+
+The/DT assault/NN charge/NN stemmed/VBD from/IN April/NNP 2004/CD when/WRB Ms/NNP Love/NNP found/VBD musician/NN Kristin/NNP King/NNP in/IN her/PRP$ boyfriend's/NNS home./NN
+Ms/NNP King/NNP said/VBD the/DT singer/NN "threw/NN the/DT bottle/NN at/IN the/DT left/NN side/NN of/IN my/PRP$ face"/NN in/IN an/DT "angry/NN vicious/JJ and/CC erratic"/NN attack./NN
+Ms/NNP Love/NNP was/VBD originally/RB charged/VBN with/IN the/DT more/RBR serious/JJ offence/NN of/IN assault/NN with/IN a/DT deadly/JJ weapon/NN but/CC that/DT was/VBD reduced/VBN to/TO assault./VB
+Judge/NNP Rand/NNP Rubin/NNP said/VBD she/PRP must/MD
+
+-/: Spend/VB three/CD years/NNS on/IN probation/NN
+-/: Have/VBP one/CD year's/NNS anger/NN management/NN counselling/VBG
+-/: Have/VBP one/CD year's/NNS drug/NN rehabilitation/NN
+-/: Do/VBP 100/CD hours/NNS community/NN service/NN
+-/: Pay/VB $1000/CD (£535)/CD fine/NN
+-/: Have/VBP random/JJ drug/NN tests/NNS
+-/: Go/VB to/TO three/CD Narcotics/NNP Anonymous/JJ meetings/NNS per/IN week/NN
+
+In/IN the/DT drugs/NNS case/VBP she/PRP was/VBD sentenced/VBN to/TO 18/CD months/NNS probation/NN to/TO run/VB concurrently/RB with/IN the/DT probation/NN for/IN the/DT assault./NN
+That/DT offence/NN stemmed/VBD from/IN October/NNP 2003/CD when/WRB she/PRP suffered/VBD an/DT overdose/NN after/IN breaking/VBG a/DT window/NN at/IN her/PRP$ boyfriend's/NNS home./NN
+In/IN a/DT separate/JJ case/NN relating/VBG to/TO the/DT same/JJ incident/NN Ms/NNP Love/NNP was/VBD sentenced/VBN to/TO 18/CD months/NNS in/IN drug/NN rehabilitation/NN for/IN being/VBG under/IN the/DT influence/NN of/IN cocaine/NN and/CC opiates./NN
+In/IN another/DT case/NN last/JJ October/NNP she/PRP pleaded/VBD guilty/JJ to/TO disorderly/JJ conduct/VB for/IN hitting/VBG a/DT man/NN on/IN the/DT head/NN with/IN a/DT microphone/NN stand/NN at/IN a/DT New/NNP York/NNP City/NNP nightclub./NN
+Last/JJ month/NN her/PRP$ lawyers/NNS said/VBD she/PRP had/VBD won/VBN back/RB custody/NN of/IN Frances/NNP Bean/NNP her/PRP$ 12-year-old/JJ daughter/NN with/IN former/JJ Nirvana/NNP frontman/NN Kurt/NNP Cobain./NNP
+The/DT girl/NN was/VBD removed/VBN from/IN her/PRP$ care/NN following/VBG her/PRP$ double/JJ arrest/NN in/IN October/NNP 2003./CD
+Cobain/NNP committed/VBD suicide/NN in/IN 1994./CD

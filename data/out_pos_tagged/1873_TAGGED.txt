@@ -1,0 +1,27 @@
+Domain/NN system/NN scam/NN fear/NN
+
+A/DT system/NN to/TO make/VB it/PRP easier/JJR to/TO create/VB website/NN addresses/NNS using/VBG alphabets/NNS like/IN Cyrillic/NNP could/MD open/VB a/DT back/JJ door/NN for/IN scammers/NNS a/DT trade/NN body/NN has/VBZ warned./NN
+
+The/DT Internationalised/JJ Domain/NN Names/NNS system/NN has/VBZ been/VBN a/DT work/NN in/IN progress/NN for/IN years/NNS and/CC has/VBZ recently/RB been/VBN approved/VBN by/IN the/DT Internet/NNP Electronic/NNP Task/NNP Force./NNP
+But/CC the/DT UK/NNP Internet/NNP Forum/NNP (UKIF)/NN is/VBZ concerned/VBN that/IN the/DT system/NN will/MD let/VB scammers/NNS create/VB fake/JJ sites/NNS more/JJR easily./NN
+The/DT problem/NN lies/VBZ in/IN the/DT computer/NN codes/NNS used/VBN to/TO represent/VB language./NN
+
+Registering/VBG names/NNS that/WDT look/VBP like/IN that/DT of/IN legitimate/JJ companies/NNS but/CC lead/VB users/NNS to/TO fake/JJ sites/NNS designed/VBN to/TO steal/VB passwords/NNS and/CC credit/NN card/NN details/NNS could/MD become/VB a/DT whole/JJ lot/NN easier/JJR for/IN determined/VBN scammers/NNS says/VBZ Stephen/NNP Dyer/NNP director/NN of/IN UKIF./NNP
+Domain/NN names/NNS are/VBP the/DT "real/JJ language"/NN addresses/NNS of/IN websites/NNS rather/RB than/IN their/PRP$ internet/JJ protocol/NN address/NN which/WDT is/VBZ a/DT series/NN of/IN numbers./NN
+They/PRP are/VBP used/VBN so/RB people/NNS can/MD more/RBR easily/RB navigate/VB the/DT web./NN
+So-called/JJ ASCII/NNP codes/NNS are/VBP used/VBN to/TO represent/VB European/JJ languages/NNS but/CC for/IN other/JJ languages/NNS a/DT hybrid/NN of/IN a/DT system/NN called/VBN Unicode/NNP is/VBZ used./NN
+So/RB for/IN example/NN website/NN PayPal/NNP could/MD now/RB be/VB coded/VBN using/VBG a/DT mixture/NN of/IN the/DT Latin/NNP alphabet/NN and/CC the/DT Russian/JJ alphabet./NN
+The/DT resulting/VBG domain/NN as/IN displayed/VBN to/TO the/DT users/NNS would/MD look/VB identical/JJ to/TO the/DT real/JJ site/NN as/IN a/DT Russian/JJ 'a'/NN look/NN just/RB like/IN an/DT English/JJ 'a'./NN
+But/CC the/DT computer/NN code/NN would/MD be/VB different/JJ and/CC the/DT site/NN it/PRP would/MD lead/VB users/NNS to/TO could/MD be/VB a/DT fake./NN
+This/DT is/VBZ more/JJR than/IN just/RB a/DT theory./NN
+A/DT fake/JJ Paypal.com/NNP has/VBZ already/RB been/VBN registered/VBN with/IN net/JJ domain/NN giant/NN Verisign/NNP by/IN someone/NN who/WP has/VBZ followed/VBN the/DT debate/NN around/IN the/DT Internationalised/JJ Domain/NN Name/NN (IDN)/NN system/NN said/VBD Mr/NNP Dyer./NNP
+As/IN the/DT idea/NN was/VBD to/TO prove/VB a/DT point/NN rather/RB than/IN be/VB malicious/JJ the/DT fake/JJ domain/NN has/VBZ now/RB been/VBN handed/VBN back/RB to/TO Paypal/NNP but/CC it/PRP sets/VBZ a/DT worrying/VBG precedent/NN Mr/NNP Dyer/NNP said./NN
+"Although/NN the/DT IDN/NNP problem/NN is/VBZ well/RB known/VBN in/IN technical/JJ circles/NNS the/DT commercial/JJ world/NN is/VBZ totally/RB unaware/JJ how/WRB easily/RB their/PRP$ websites/NNS can/MD be/VB faked"/NN said/VBN Mr/NNP Dyer./NNP
+
+"It/NN is/VBZ important/JJ to/TO alert/VB users/NNS that/IN there/EX is/VBZ a/DT new/JJ and/CC invisible/JJ and/CC almost/RB undetectable/JJ way/NN of/IN diverting/VBG them/PRP to/TO what/WP looks/VBZ like/IN a/DT perfectly/RB genuine/JJ site"/NN he/PRP added./VB
+There/EX are/VBP solutions./NN
+For/IN instance/NN browsers/NNS could/MD spot/VB domains/NNS that/WDT use/VBP mixed/JJ characters/NNS and/CC display/VB them/PRP in/IN different/JJ colours/NNS as/IN a/DT warning/NN to/TO users./VB
+Mr/NNP Dyer/NNP acknowledged/VBD that/IN it/PRP would/MD be/VB a/DT huge/JJ undertaking/NN to/TO update/VB all/PDT the/DT world's/NNS browsers./NN
+Another/DT solution/NN to/TO introduce/VB IDN-disabled/JJ browsers/NNS could/MD be/VB a/DT case/NN of/IN "throwing/VBG out/RP the/DT baby/NN with/IN the/DT bath/NN water"/NN he/PRP said./VB
+CENTR/VBG the/DT Council/NNP of/IN European/NNP National/NNP Top/JJ Level/NNP Domain/NN Registries/NNP agrees./NN
+"A/NN rush/NN to/TO introduce/VB IDN-disabled/JJ browsers/NNS into/IN the/DT marketplace/NN is/VBZ an/DT overly-zealous/JJ step/NN that/WDT will/MD harm/VB public/JJ confidence/NN in/IN IDNs/NNP -/: a/DT technology/NN that/WDT is/VBZ desperately/RB needed/VBN in/IN the/DT non-English/JJ speaking/NN world"/NN the/DT organisation/NN said/VBD in/IN a/DT statement./NN

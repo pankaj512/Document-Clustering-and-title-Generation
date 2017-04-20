@@ -1,0 +1,15 @@
+Malaysia/NNP lifts/NNS Islamic/NNP bank/NN limit/NN
+
+Malaysia's/NNP central/JJ bank/NN is/VBZ to/TO relax/VB restrictions/NNS on/IN foreign/JJ ownership/NN to/TO encourage/VB Islamic/NNP banking./NN
+
+Banks/NNS in/IN Malaysia/NNP will/MD now/RB be/VB able/JJ to/TO sell/VB up/IN to/TO 49%/CD of/IN their/PRP$ Islamic/NNP banking/NN units/NNS while/IN the/DT limit/NN on/IN other/JJ kinds/NNS of/IN bank/NN remains/VBZ at/IN 30%./CD
+RHB/NNP Malaysia's/NNP third-biggest/JJ lender/NN is/VBZ already/RB scouting/VBG for/IN a/DT foreign/JJ partner/NN for/IN its/PRP$ new/JJ Islamic/NNP banking/NN unit/NN the/DT firm/NN told/VBD Reuters./NNP
+The/DT moves/NNS put/VBP Malaysia/NNP ahead/RB of/IN a/DT 2007/CD deadline/NN to/TO open/VB up/RP the/DT sector./NN
+The/DT country's/NNS deal/NN to/TO join/VB the/DT World/NNP Trade/NNP Organisation/NNP set/VBD that/DT year/NN as/IN a/DT deadline/NN for/IN liberalisation/NN of/IN Islamic/NNP banking./NN
+Also/RB on/IN Tuesday/NNP the/DT central/JJ bank/NN released/VBD growth/NN figures/NNS showing/VBG Malaysia's/NNP economy/NN expanded/VBD 7.1%/CD in/IN 2004./CD
+But/CC growth/NN slowed/VBD sharply/RB in/IN the/DT fourth/JJ quarter/NN to/TO 5.6%/CD and/CC the/DT central/JJ bank/NN said/VBD it/PRP expected/VBD 6%/CD expansion/NN in/IN 2005./CD
+
+Malaysia/NNP changed/VBD the/DT law/NN to/TO allow/VB Islamic/NNP banking/NN in/IN 1983./CD
+It/PRP has/VBZ granted/VBN licences/NNS to/TO three/CD Middle/NNP Eastern/NNP groups/NNS which/WDT -/: along/IN with/IN local/JJ players/NNS -/: mean/VB there/EX are/VBP eight/CD fully-operational/JJ Islamic/NNP banking/NN groups/NNS in/IN the/DT country./NN
+Islamic/NN banks/NNS offer/VBP services/NNS which/WDT permit/VBP modern/JJ banking/NN principles/NNS while/IN sticking/VBG to/TO Islamic/NNP law's/NNS ban/NN on/IN the/DT payment/NN of/IN interest./JJ
+Most/JJS of/IN the/DT Malays/NNP which/WDT make/VBP up/RP half/PDT the/DT country's/NNS population/NN are/VBP Muslims./NNP

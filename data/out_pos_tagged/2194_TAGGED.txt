@@ -1,0 +1,33 @@
+Court/NN mulls/NNS file-sharing/JJ future/JJ
+
+Judges/NNS at/IN the/DT US/PRP Supreme/NNP Court/NNP have/VBP been/VBN hearing/VBG evidence/NN for/IN and/CC against/IN file-sharing/JJ networks./NN
+
+The/DT court/NN will/MD decide/VB whether/IN producers/NNS of/IN file-sharing/JJ software/NN can/MD ultimately/RB be/VB held/VBN responsible/JJ for/IN copyright/NN infringement./NN
+They/PRP questioned/VBD if/IN opening/VBG the/DT way/NN for/IN the/DT entertainment/NN industry/NN to/TO sue/VB file-sharers/NNS could/MD deter/VB innovation./NN
+They/PRP also/RB said/VBD that/IN file-trading/JJ firms/NNS had/VBD some/DT responsibility/NN for/IN inducing/VBG people/NNS to/TO piracy./VB
+
+The/DT lawsuit/NN brought/VBN by/IN 28/CD of/IN the/DT world's/NNS largest/JJS entertainment/NN firms/NNS has/VBZ raged/VBN for/IN several/JJ years./NN
+Legal/JJ experts/NNS agree/VBP that/IN if/IN the/DT Supreme/NNP Court/NNP finds/VBZ in/IN favour/NN of/IN the/DT music/NN and/CC movie/NN industry/NN they/PRP would/MD be/VB able/JJ to/TO sue/VB file-trading/JJ firms/NNS into/IN bankruptcy./NN
+But/CC if/IN the/DT judge/NN rules/NNS that/IN Grokster/NNP and/CC Morpheus/NNP -/: the/DT file-sharers/NNS at/IN the/DT centre/NN of/IN the/DT case/NN -/: are/VBP merely/RB providers/NNS of/IN technology/NN that/WDT can/MD have/VB legitimate/JJ as/RB well/RB as/IN illegitimate/JJ uses/VBZ then/RB the/DT music/NN and/CC movie/NN industry/NN would/MD be/VB forced/VBN to/TO abandon/VB its/PRP$ pursuit/NN of/IN file-sharing/JJ providers./NN
+Instead/RB they/PRP would/MD have/VB to/TO pursue/VB individuals/NNS who/WP use/VBP peer-to-peer/JJ networks/NNS to/TO get/VB their/PRP$ hands/NNS on/IN free/JJ music/NN and/CC movies./NN
+The/DT hi-tech/JJ and/CC entertainment/NN industries/NNS have/VBP been/VBN divided/VBN on/IN the/DT issue./NN
+Intel/NNP filed/VBD a/DT document/NN with/IN the/DT Supreme/NNP Court/NNP earlier/RBR this/DT month/NN in/IN defence/NN of/IN Grokster/NNP and/CC others/NNS despite/IN misgivings/NNS about/IN some/DT aspects/NNS of/IN the/DT file-sharing/JJ community./NN
+It/PRP summed/VBD up/RP the/DT attitude/NN of/IN many/JJ tech/NN firms/NNS in/IN its/PRP$ submission/NN which/WDT states/NNS that/IN its/PRP$ products/NNS "are/NN essentially/RB tools/VBZ that/IN like/IN any/DT other/JJ tools/NNS capable/JJ of/IN being/VBG used/VBN by/IN consumers/NNS and/CC businesses/NNS for/IN unlawful/JJ purposes"./NN
+
+Asking/VBG firms/NNS to/TO second-guess/JJ the/DT uses/NNS that/IN its/PRP$ technologies/NNS would/MD be/VB put/VBN to/TO and/CC to/TO build/VB in/IN ways/NNS of/IN preventing/VBG illegitimate/JJ use/NN would/MD stifle/VB innovation/NN it/PRP said./NN
+The/DT Electronic/NNP Frontier/NNP Foundation/NNP a/DT civil/JJ rights/NNS watchdog/NN is/VBZ also/RB defending/VBG StreamCast/NNP Networks/NNP the/DT company/NN behind/IN the/DT Morpheus/NNP file-sharing/JJ software./NN
+The/DT case/NN raises/VBZ a/DT question/NN of/IN critical/JJ importance/NN at/IN the/DT border/NN between/IN copyright/NN and/CC innovation/NN it/PRP said./NN
+It/PRP cites/VBZ as/IN do/VBP many/JJ the/DT landmark/NN ruling/NN in/IN 1984/CD which/WDT found/VBD that/IN Sony/NNP should/MD not/RB be/VB held/VBN responsible/JJ for/IN the/DT fact/NN that/IN its/PRP$ Betamax/NNP video/NN recorder/NN could/MD be/VB used/VBN for/IN piracy./NN
+Defenders/NNS remain/VBP optimistic/JJ that/IN the/DT judges/NNS will/MD rule/VB in/IN favour/NN of/IN the/DT peer-to-peer/JJ networks/NNS upholding/VBG the/DT precedent/NN set/VBN by/IN the/DT Sony/NNP Betamax/NNP case./NN
+A/DT small/JJ band/NN of/IN supporters/NNS were/VBD outside/IN the/DT court/NN as/IN the/DT lawyers/NNS entered/VBD wearing/VBG "Save/NN Betamax"/NNP t-shirts./JJ
+"The/NNP Betamax/NNP principles/NNS stand/VBP as/IN the/DT Magna/NNP Carta/NNP for/IN the/DT technology/NN industry/NN and/CC are/VBP responsible/JJ for/IN the/DT explosion/NN in/IN innovation/NN that/WDT has/VBZ occurred/VBN in/IN the/DT US/PRP over/IN the/DT past/JJ 20/CD years"/NN said/VBD Gary/NNP Shapiro/NNP chief/NN executive/NN of/IN the/DT Consumer/NNP Electronics/NNP Association./NNP
+Supreme/NNP Court/NNP Justice/NNP Stephen/NNP Breyer/NNP said/VBD that/IN inventions/NNS from/IN printing/NN to/TO Apple's/NNP iPod/NN could/MD be/VB used/VBN to/TO illegally/RB duplicate/VB copyrighted/JJ materials/NNS but/CC had/VBD on/IN balance/NN been/VBN beneficial/JJ to/TO society./VB
+He/PRP said/VBD that/IN while/IN file-trading/JJ software/NN can/MD be/VB used/VBN to/TO illegally/RB trade/VB movies/NNS and/CC music/NN conceptually/RB the/DT technology/NN had/VBD "some/NN really/RB excellent/JJ uses"./NN
+
+Based/VBN on/IN Tuesday's/NNP hearing/NN it/PRP seems/VBZ unlikely/JJ that/IN the/DT Betamax/NNP ruling/NN will/MD be/VB overturned/VBN but/CC file-sharing/JJ firms/NNS might/MD still/RB be/VB held/VBN responsible/JJ for/IN encouraging/VBG or/CC inducing/VBG piracy./NN
+Grokster's/NNP lawyer/NN argued/VBD that/IN the/DT company/NN should/MD be/VB judged/VBN by/IN its/PRP$ current/JJ behaviour/NN rather/RB than/IN what/WP it/PRP did/VBD when/WRB it/PRP first/RB set/VBN up./NN
+But/CC this/DT argument/NN was/VBD dismissed/VBN as/IN "ridiculous"/NN by/IN Justice/NNP David/NNP Souter./NNP
+CEA/NNP boss/NN Mr/NNP Shapiro/NNP thinks/VBZ the/DT case/NN is/VBZ the/DT most/RBS important/JJ that/IN the/DT Supreme/NNP Court/NNP will/MD hear/VB this/DT year./NN
+"It's/NN about/IN preserving/VBG America's/NNP proud/JJ history/NN of/IN technological/JJ innovation/NN and/CC protecting/VBG the/DT ability/NN of/IN consumers/NNS to/TO access/VB and/CC utilise/NN technology"/NN he/PRP said./VB
+The/DT case/NN has/VBZ already/RB been/VBN heard/VBN by/IN two/CD lower/JJR courts/NNS and/CC both/DT found/VBN in/IN favour/NN of/IN the/DT peer-to-peer/JJ networks./NN
+They/PRP ruled/VBD that/IN despite/IN being/VBG used/VBN to/TO distribute/VB millions/NNS of/IN illegal/JJ songs/NNS file-sharing/JJ could/MD also/RB be/VB used/VBN to/TO cheaply/RB distribute/VB software/NN government/NN documents/NNS and/CC promotional/JJ copies/NNS of/IN music./NN

@@ -1,0 +1,16 @@
+US/PRP bank/VBP 'loses'/NN customer/NN details/NNS
+
+The/DT Bank/NNP of/IN America/NNP has/VBZ revealed/VBN it/PRP has/VBZ lost/VBN computer/NN tapes/NNS containing/VBG account/NN details/NNS of/IN more/JJR than/IN one/CD million/CD customers/NNS who/WP are/VBP US/PRP federal/JJ employees./NN
+
+Several/JJ members/NNS of/IN the/DT US/PRP Senate/NNP are/VBP among/IN those/DT affected/VBN who/WP could/MD now/RB be/VB vulnerable/JJ to/TO identity/NN theft./NN
+Senate/NNP sources/NNS say/VBP the/DT missing/VBG tapes/NNS may/MD have/VB been/VBN stolen/VBN from/IN a/DT plane/NN by/IN baggage/NN handlers./NN
+The/DT bank/NN gave/VBD no/DT details/NNS of/IN how/WRB the/DT records/NNS disappeared/VBD but/CC said/VBD they/PRP had/VBD probably/RB not/RB been/VBN misused./NN
+Customers'/NN accounts/NNS were/VBD being/VBG monitoring/NN and/CC account/NN holders/NNS would/MD be/VB notified/VBN if/IN any/DT "unusual/JJ activity"/NN was/VBD detected/VBN bank/NN officials/NNS said./VBP
+
+Bank/NNP of/IN America/NNP said/VBD the/DT tapes/NNS went/VBD missing/VBG in/IN December/NNP while/IN being/VBG shipped/VBN to/TO a/DT back-up/JJ data/NN centre./NN
+"We/NN with/IN federal/JJ law/NN authorities/NNS have/VBP done/VBN a/DT very/RB robust/JJ thorough/JJ investigation/NN on/IN this/DT and/CC neither/DT we/PRP nor/CC they/PRP would/MD make/VB the/DT statement/NN lightly/RB that/IN we/PRP believe/VBP those/DT tapes/NNS to/TO be/VB lost"/NN Alexandra/NNP Tower/NNP a/DT spokeswoman/NN for/IN the/DT North/NNP Carolina-based/JJ bank/NN told/VBD Time/NNP magazine./NN
+But/CC although/IN there/EX was/VBD no/DT evidence/NN of/IN criminal/JJ activity/NN the/DT bank/NN said/VBD the/DT Secret/JJ Service/NNP -/: a/DT federal/JJ agency/NN whose/WP$ brief/JJ includes/VBZ investigations/NNS of/IN serious/JJ financial/JJ crime/NN -/: is/VBZ said/VBN to/TO be/VB looking/VBG into/IN the/DT loss./NN
+New/NNP York/NNP Senator/NNP Charles/NNP Schumer/NNP said/VBD he/PRP was/VBD told/VBN by/IN the/DT Senate/NNP Rules/NNPS Committee/NNP that/IN the/DT tapes/NNS were/VBD probably/RB stolen/VBN from/IN a/DT commercial/JJ plane./NN
+"Whether/NN it/PRP is/VBZ identity/NN theft/NN terrorism/NN or/CC other/JJ theft/NN in/IN this/DT new/JJ complicated/VBN world/NN baggage/NN handlers/NNS should/MD have/VB background/NN checks/NNS and/CC more/JJR care/NN should/MD be/VB taken/VBN for/IN who/WP is/VBZ hired/VBN for/IN these/DT increasingly/RB sensitive/JJ positions"/NN the/DT Democrat/NNP senator/NN said./NN
+Details/NNS of/IN his/PRP$ Vermont/NNP colleague/NN Pat/NNP Leahy's/NNP credit/NN card/NN account/NN are/VBP among/IN those/DT missing/VBG Senator/NNP Leahy's/NNP spokeswoman/NN Tracy/NNP Schmaler/NNP said./NN
+About/IN 900000/CD military/JJ and/CC civilian/JJ staff/NN at/IN the/DT defence/NN department/NN are/VBP among/IN the/DT 1.2/CD million/CD affected/VBN according/VBG to/TO a/DT Pentagon/NNP spokesman./NN

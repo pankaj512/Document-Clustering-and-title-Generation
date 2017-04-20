@@ -1,0 +1,24 @@
+Net/JJ fingerprints/NNS combat/NN attacks/NNS
+
+Eighty/NNP large/JJ net/JJ service/NN firms/NNS have/VBP switched/VBN on/IN software/NN to/TO spot/VB and/CC stop/VB net/JJ attacks/NNS automatically./NN
+
+The/DT system/NN creates/VBZ digital/JJ fingerprints/NNS of/IN ongoing/JJ incidents/NNS that/WDT are/VBP sent/VBN to/TO every/DT network/NN affected./NN
+Firms/NNS involved/VBN in/IN the/DT smart/JJ sensing/NN system/NN believe/VBP it/PRP will/MD help/VB trace/VB attacks/NNS back/RB to/TO their/PRP$ source./NN
+Data/NNP gathered/VBD will/MD be/VB passed/VBN to/TO police/VB to/TO help/VB build/VB up/RP intelligence/NN about/IN who/WP is/VBZ behind/IN worm/NN outbreaks/NNS and/CC denial/NN of/IN service/NN attacks./NN
+
+Firms/NNS signing/VBG up/RP for/IN the/DT sensing/VBG system/NN include/VBP MCI/NNP BT/NNP Deutsche/NNP Telekom/NNP Energis/NNP NTT/NNP Bell/NNP Canada/NNP and/CC many/JJ others./NN
+The/DT creation/NN of/IN the/DT fingerprinting/VBG system/NN has/VBZ been/VBN brokered/VBN by/IN US/PRP firm/VBP Arbor/NNP Networks/NNP and/CC signatures/NNS of/IN attacks/NNS will/MD be/VB passed/VBN to/TO anyone/NN suffering/VBG under/IN the/DT weight/NN of/IN an/DT attack./NN
+Increasingly/RB computer/NN criminals/NNS are/VBP using/VBG swarms/NNS of/IN remotely/RB controlled/VBN computers/NNS to/TO carry/VB out/RP denial/NN of/IN service/NN attacks/NNS on/IN websites/NNS launch/VBP worms/NNS and/CC relay/NN spam/NN around/IN the/DT net./NN
+"We/NN have/VBP seen/VBN attacks/NNS involving/VBG five/CD and/CC ten/NN gigabytes/NNS of/IN traffic"/NN said/VBD Rob/NNP Pollard/NNP sales/NNS director/NN for/IN Arbor/NNP Networks/NNP which/WDT is/VBZ behind/IN the/DT fingerprinting/VBG system./NN
+"Attacks/NN of/IN that/DT size/NN cause/VB collateral/NN damage/NN as/IN they/PRP cross/VBP the/DT internet/NN before/IN they/PRP get/VBP to/TO their/PRP$ destination"/NN he/PRP said./VB
+Once/RB an/DT attack/NN is/VBZ spotted/VBN and/CC its/PRP$ signature/NN defined/VBD the/DT information/NN will/MD be/VB passed/VBN back/RB down/RP the/DT chain/NN of/IN networks/NNS affected/VBN to/TO help/VB every/DT unwitting/JJ player/NN tackle/VBP the/DT problem./NN
+
+Mr/NNP Pollard/NNP said/VBD Arbor/NNP was/VBD not/RB charging/VBG for/IN the/DT service/NN and/CC it/PRP would/MD pass/VB on/IN fingerprint/NN data/NNS to/TO every/DT network/NN affected./NN
+"What/NN we/PRP want/VBP to/TO do/VB is/VBZ help/VB net/JJ service/NN firms/NNS communicate/VBP with/IN each/DT other/JJ and/CC then/RB push/VB the/DT attacks/NNS further/RBR and/CC further/JJ back/RB around/IN the/DT world/NN to/TO their/PRP$ source"/NN said/VBD Mr/NNP Pollard./NNP
+Arbor/NNP Network's/NNP technology/NN works/VBZ by/IN building/NN up/RP a/DT detailed/JJ history/NN of/IN traffic/NN on/IN a/DT network./NN
+It/PRP spots/VBZ which/WDT computers/NNS or/CC groups/NNS of/IN users/NNS regularly/RB talk/VBP to/TO each/DT other/JJ and/CC what/WP types/NNS of/IN traffic/NN passes/VBZ between/IN machines/NNS or/CC workgroups./NN
+Any/DT anomaly/RB to/TO this/DT usual/JJ pattern/NN is/VBZ spotted/VBN and/CC flagged/VBN to/TO network/VB administrators/NNS who/WP can/MD take/VB action/NN if/IN the/DT traffic/NN is/VBZ due/JJ to/TO a/DT net-based/JJ attack/NN of/IN some/DT kind./NN
+This/DT type/NN of/IN close/NN analysis/NN has/VBZ become/VBN very/RB useful/JJ as/IN net/JJ attacks/NNS are/VBP increasingly/RB launched/VBN using/VBG several/JJ hundred/CD or/CC thousand/CD different/JJ machines./NN
+Anyone/NN looking/VBG at/IN the/DT traffic/NN on/IN a/DT machine/NN by/IN machine/NN basis/NN would/MD be/VB unlikely/JJ to/TO spot/VB that/IN they/PRP were/VBD all/DT part/NN of/IN a/DT concerted/JJ attack./NN
+"Attacks/NN are/VBP getting/VBG more/JJR diffuse/NN and/CC more/JJR sophisticated"/NN said/VBD Malcolm/NNP Seagrave/NNP security/NN expert/NN at/IN Energis./NNP
+"In/NN the/DT last/JJ 12/CD months/NNS it/PRP started/VBD getting/VBG noticeable/JJ that/IN criminals/NNS were/VBD taking/VBG to/TO it/PRP and/CC we've/NN seen/VBD massive/JJ growth."/NN He/PRP said/VBD that/IN although/IN informal/JJ systems/NNS exist/VBP to/TO pass/VB on/IN information/NN about/IN attacks/NNS often/RB commercial/JJ confidentiality/NN got/VBD in/IN the/DT way/NN of/IN sharing/VBG enough/JJ information/NN to/TO properly/RB combat/VB attacks./NN

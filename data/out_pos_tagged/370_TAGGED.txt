@@ -1,0 +1,15 @@
+US/PRP manufacturing/VBP expands/VBZ
+
+US/PRP industrial/VBD production/NN increased/VBD in/IN December/NNP according/VBG to/TO the/DT latest/JJS survey/NN from/IN the/DT Institute/NNP for/IN Supply/NNP Management/NNP (ISM)./NN
+
+Its/PRP$ index/NN of/IN national/JJ manufacturing/NN activity/NN rose/VBD to/TO 58.6/CD last/JJ month/NN from/IN 57.8/CD in/IN November./NNP
+A/DT reading/NN above/IN 50/CD indicates/VBZ a/DT level/NN of/IN growth./NN
+The/DT result/NN for/IN December/NNP was/VBD slightly/RB better/JJR than/IN analysts'/NN expectations/NNS and/CC the/DT 19th/JJ consecutive/JJ expansion./NN
+The/DT ISM/NNP said/VBD the/DT growth/NN was/VBD driven/VBN by/IN a/DT "significant"/NN rise/NN in/IN the/DT new/JJ orders./NN
+"This/NN completes/VBZ a/DT strong/JJ year/NN for/IN manufacturing/NN based/VBN on/IN the/DT ISM/NNP data"/NN said/VBD chairman/NN of/IN the/DT ISM's/NNP survey/NN committee./NN
+"While/NN there/EX is/VBZ continuing/VBG upward/JJ pressure/NN on/IN prices/NNS the/DT rate/NN of/IN increase/NN is/VBZ slowing/VBG and/CC definitely/RB trending/VBG in/IN the/DT right/JJ direction."/NN
+
+The/DT ISM's/NNP index/NN of/IN national/JJ manufacturing/NN activity/NN is/VBZ compiled/VBN from/IN monthly/JJ responses/NNS of/IN purchasing/VBG executives/NNS at/IN more/JJR than/IN 400/CD industrial/JJ companies/NNS ranging/VBG from/IN textiles/NNS to/TO chemicals/NNS to/TO paper/NN and/CC has/VBZ now/RB been/VBN above/IN 50/CD since/IN June/NNP 2003./CD
+Analysts/NNS expected/VBD December's/NNP figure/NN to/TO come/VB in/IN at/IN 58.1./CD
+The/DT ISM/NNP manufacturing/NN index's/NNS main/JJ sister/NN survey/NN -/: the/DT employment/NN index/NN -/: eased/VBD to/TO 52.7/CD in/IN December/NNP from/IN 57.6/CD in/IN November/NNP while/IN its/PRP$ "prices/NN paid"/NN index/NN measuring/VBG the/DT cost/NN to/TO businesses/NNS of/IN their/PRP$ inputs/NNS also/RB eased/VBD to/TO 72.0/CD from/IN 74.0./CD
+The/DT ISM's/NNP "new/NN orders"/NN index/NN rose/VBD to/TO 67.4/CD from/IN 61.5./CD

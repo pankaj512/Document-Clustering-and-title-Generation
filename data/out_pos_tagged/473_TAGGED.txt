@@ -1,0 +1,10 @@
+Two/CD Nigerian/NNP banks/NNS set/VBN to/TO merge/VB
+
+Nigerian/NNP banks/NNS United/NNP Bank/NNP of/IN Africa/NNP and/CC Standard/NNP Trust/NNP Bank/NNP have/VBP agreed/VBN plans/NNS to/TO merge/VB and/CC create/VB the/DT biggest/JJS bank/NN in/IN West/NNP Africa./NNP
+
+The/DT deal/NN is/VBZ also/RB in/IN line/NN with/IN a/DT 2004/CD directive/NN from/IN the/DT Nigerian/NNP central/JJ bank/NN that/WDT called/VBD for/IN more/JJR consolidation/NN in/IN the/DT nation's/NNS crowded/VBD banking/NN sector./NN
+The/DT merger/NN was/VBD announced/VBN in/IN a/DT statement/NN on/IN Standard/NNP Trust's/NNP website/NN on/IN Tuesday/NNP but/CC no/DT financial/JJ details/NNS were/VBD revealed./NN
+United/NNP Bank/NNP is/VBZ the/DT third/JJ biggest/JJS in/IN Nigeria/NNP in/IN terms/NNS of/IN number/NN of/IN branches./NN
+Standard/NNP Trust/NNP is/VBZ smaller/JJR but/CC more/JJR profitable./NN
+"The/NN boards/NNS of/IN United/NNP Bank/NNP and/CC Standard/NNP Trust/NNP at/IN separate/JJ meetings/NNS yesterday/NN approved/VBD arrangements/NNS to/TO merge/VB both/DT institutions"/NN Standard/NNP Trust/NNP said./NN
+Standard/NNP Trust/NNP is/VBZ 100%/CD Nigerian-owned/JJ but/CC United/NNP Bank/NNP has/VBZ some/DT foreign/JJ investors/NNS including/VBG New/NNP York-based/JJ Global/JJ Depository/NNP Receipts/NNPS (32.8%)/CD and/CC Banca/NNP Nazionale/NNP del/FW Lavoro/NNP and/CC Monte/NNP del/FW Paschi/NNP di/FW Siena/NNP both/DT from/IN Italy/NNP who/WP each/DT have/VBP a/DT 2.4%/CD stake./NN

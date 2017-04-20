@@ -1,0 +1,18 @@
+Stevens/NNP named/VBD in/IN England/NNP line-up/JJ
+
+England/NNS have/VBP named/VBN Bath/NN prop/VB Matt/NNP Stevens/NNP in/IN the/DT starting/VBG line-up/JJ for/IN their/PRP$ Six/CD Nations/NNPS match/VBP against/IN Ireland/NNP at/IN Lansdowne/NNP Road/NNP on/IN Sunday./NNP
+
+Fellow/NNP Bath/NN prop/VB Duncan/NNP Bell/NNP will/MD start/VB on/IN the/DT bench/NN as/IN coach/NN Andy/NNP Robinson/NNP makes/VBZ just/RB one/CD change/NN to/TO the/DT team/NN that/WDT was/VBD beaten/VBN by/IN France./NNP
+It/PRP will/MD be/VB Stevens'/NNP first/JJ start/NN after/IN two/CD caps/NNS as/IN a/DT replacement/NN against/IN the/DT All/DT Blacks/NNPS last/JJ year./NN
+Leicester/NNP duo/NN Ollie/NNP Smith/NNP and/CC Andy/NNP Goode/NNP have/VBP been/VBN drafted/VBN onto/IN the/DT bench./NN
+Stevens/NNP takes/VBZ over/IN from/IN Phil/NNP Vickery/NNP who/WP suffered/VBD a/DT broken/VBN arm/NN playing/VBG for/IN Gloucester/NNP last/JJ weekend./NN
+"I'm/NN confident/JJ Matt/NNP will/MD grasp/VB this/DT opportunity/NN and/CC make/VB his/PRP$ mark/NN against/IN Ireland"/NNP said/VBD Robinson./NNP
+
+"All/NN three/CD players/NNS have/VBP shown/VBN outstanding/JJ form/NN of/IN late/JJ most/RBS recently/RB in/IN the/DT England/NNP A/NNP win/NN against/IN France/NNP A/NNP and/CC for/IN their/PRP$ club"/NN added/VBD Robinson./NNP
+"Selection/NN beckons/NNS when/WRB players/NNS demonstrate/VBP such/JJ consistent/JJ ability./NN
+"This/NN game/NN against/IN Ireland/NNP will/MD be/VB massive./NN
+We/PRP recognise/VBP it's/NNS a/DT must-win/JJ game/NN for/IN us/PRP this/DT season."/NN England/NNP confirmed/VBD that/IN Sale/NNP Sharks/NNS prop/VBP Andrew/NNP Sheridan/NNP was/VBD not/RB considered/VBN for/IN selection/NN because/IN of/IN an/DT injury/NN he/PRP picked/VBD up/IN to/TO the/DT back/NN of/IN his/PRP$ ankle/NN during/IN last/JJ Friday's/NNP match/VB against/IN Leeds./NNP
+
+J/NNP Robinson/NNP (Sale/NN Sharks/NNS capt)/NN M/NNP Cueto/NNP (Sale/NN Sharks)/NNP J/NNP Noon/NN (Newcastle)/NN O/NNP Barkley/NNP (Bath)/NN J/NNP Lewsey/NNP (Wasps)/NN C/NNP Hodgson/NNP (Sale/NN Sharks)/NNP H/NNP Ellis/NNP (Leicester)/NN G/NNP Rowntree/NNP (Leicester)/NN S/NNP Thompson/NNP (Northampton)/NN M/NNP Stevens/NNP (Bath)/NN D/NNP Grewcock/NNP (Bath)/NN B/NNP Kay/NNP (Leicester)/NN J/NNP Worsley/NNP (Wasps)/NN L/NNP Moody/NNP (Leicester)/NN M/NNP Corry/NNP (Leicester)./NN
+
+A/DT Titterrell/NNP (Sale/NN Sharks)/NNP D/NNP Bell/NNP (Bath)/NN S/NNP Borthwick/NNP (Bath)/NN A/DT Hazell/NNP (Gloucester)/NN M/NNP Dawson/NNP (Wasps)/NN A/DT Goode/NNP (Leicester)/NN O/NNP Smith/NNP (Leicester)./NN

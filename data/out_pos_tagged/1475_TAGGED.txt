@@ -1,0 +1,9 @@
+Cole/NNP faces/VBZ lengthy/JJ injury/NN lay-off/JJ
+
+Aston/NNP Villa's/NNP Carlton/NNP Cole/NNP could/MD be/VB out/RP for/IN six/CD weeks/NNS with/IN a/DT knee/NN injury./NN
+
+The/DT striker/NN who/WP is/VBZ on/IN a/DT season-long/JJ loan/NN from/IN Chelsea/NNP picked/VBD up/RP the/DT knock/NN in/IN an/DT England/NNP Under-21/JJ match/NN against/IN Holland/NNP earlier/RBR this/DT month./NN
+"Carlton/NN will/MD be/VB out/IN of/IN action/NN for/IN four/CD to/TO six/CD weeks/NNS after/IN a/DT bad/JJ challenge"/NN said/VBD Villa/NNP boss/NN David/NNP O'Leary./NNP
+"I/NN won't/NN be/VB able/JJ to/TO tell/VB you/PRP whether/IN he/PRP will/MD need/VB an/DT operation/NN until/IN maybe/RB next/JJ week./NN
+Whether/IN he/PRP has/VBZ an/DT operation/NN has/VBZ got/VBD to/TO be/VB left/VBN to/TO Chelsea."/NNP Cole/NNP who/WP also/RB struggled/VBD with/IN an/DT ankle/NN problem/NN earlier/RBR in/IN the/DT season/NN was/VBD unable/JJ to/TO rest/VB because/IN O'Leary/NNP had/VBD a/DT shortage/NN of/IN strikers./NN
+The/DT return/NN to/TO fitness/NN of/IN Darius/NNP Vassell/NNP after/IN four/CD months/NNS out/RP with/IN a/DT broken/VBN ankle/NN and/CC the/DT emergence/NN of/IN Luke/NNP Moore/NNP has/VBZ alleviated/VBN some/DT of/IN the/DT Villa's/NNP manager's/NNS problems/NNS in/IN that/DT department./NN

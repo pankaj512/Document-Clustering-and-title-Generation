@@ -1,0 +1,13 @@
+Brookside/NNP actress/NN Keaveney/NNP dies/VBZ
+
+Actress/NNP Anna/NNP Keaveney/NNP who/WP appeared/VBD in/IN Brookside/NNP My/PRP$ Family/NNP and/CC A/DT Touch/NN of/IN Frost/NNP has/VBZ died/VBN of/IN lung/NN cancer/NN aged/VBD 55./CD
+
+Keaveney/NNP who/WP played/VBD Brookside's/NNP Marie/NNP Jackson/NNP when/WRB the/DT Channel/NNP 4/CD soap/NN began/VBD in/IN 1982/CD died/VBD on/IN Saturday./NNP
+Born/VBN in/IN Runcorn/NNP Cheshire/NNP she/PRP also/RB starred/VBD in/IN numerous/JJ films/NNS including/VBG 1989's/CD Shirley/NNP Valentine./NNP
+She/PRP played/VBD Nellie/NNP in/IN Mike/NNP Leigh's/NNP latest/JJS film/NN Vera/NNP Drake/NNP which/WDT won/VBD the/DT Golden/NNP Lion/NNP prize/NN for/IN best/JJS film/NN at/IN this/DT year's/NNS Venice/NNP Film/NNP Festival./NNP
+
+And/CC most/RBS recently/RB she/PRP appeared/VBD alongside/IN Richard/NNP Wilson/NNP in/IN ITV's/NNP King/NNP of/IN Fridges/NNP and/CC with/IN Martin/NNP Clunes/NNP in/IN Doc/NNP Martin./NNP
+Other/JJ TV/NN appearances/NNS included/VBD the/DT part/NN of/IN Matron/NN in/IN ITV/NNP drama/NN Footballers'/NNP Wives/NNS and/CC a/DT cameo/NN role/NN as/IN Tom/NNP Farrell's/NNP mother/NN Sheila/NNP in/IN BBC/NNP comedy/NN Gimme/NNP Gimme/NNP Gimme./NNP
+Keaveney's/NNP career/NN also/RB included/VBD stage/NN performances/NNS in/IN Neaptide/NNP for/IN the/DT National/NNP Theatre/NNP Private/JJ Lives/NNS and/CC The/DT Rise/NN and/CC Fall/NN of/IN Little/NNP Voice./NNP
+The/DT actress/NN died/VBD in/IN hospital./NN
+Her/PRP$ agent/NN Barry/NNP Brown/NNP said/VBD "Anna/NN was/VBD due/JJ to/TO have/VB had/VBN another/DT operation/NN on/IN Friday/NNP but/CC unfortunately/RB she/PRP was/VBD too/RB weak."/NN

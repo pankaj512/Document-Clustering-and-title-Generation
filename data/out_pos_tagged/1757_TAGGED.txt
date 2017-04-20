@@ -1,0 +1,11 @@
+Hewitt/NNP falls/VBZ to/TO Dent/VB
+
+Lleyton/NNP Hewitt/NNP suffered/VBD a/DT shock/NN defeat/NN to/TO Taylor/NNP Dent/NN in/IN the/DT quarter-finals/NNS of/IN the/DT Australian/JJ Hardcourt/NNP Championships/NNS in/IN Adelaide/NNP on/IN Friday./NNP
+
+The/DT top/JJ seed/NN was/VBD a/DT strong/JJ favourite/NN for/IN the/DT title/NN but/CC went/VBD down/RB 7-6/JJ (7-4)/JJ 6-3/JJ to/TO the/DT American./NNP
+Dent/NN will/MD face/VB Juan/NNP Ignacio/NNP Chela/NNP next/JJ after/IN the/DT fourth/JJ seed/NN was/VBD too/RB strong/JJ for/IN Jurgen/NNP Melzer./NNP
+Olivier/NNP Rochus/NNP beat/VBP third/JJ seed/NN Nicolas/NNP Kiefer/NNP 6-7/JJ (4-7)/JJ 7-6/JJ (8-6)/JJ 7-5/JJ and/CC will/MD take/VB on/RP second/JJ seed/NN Joachim/NNP Johansson./NNP
+The/DT Swede/NN reached/VBD the/DT last/JJ four/CD by/IN beating/VBG compatriot/NN Thomas/NNP Enqvist/NNP 6-3/JJ 4-6/JJ 6-1./JJ
+"I/NN felt/VBD like/IN I/PRP was/VBD striking/VBG the/DT ball/NN much/JJ better"/NN said/VBD Johansson./NNP
+"I/NN felt/VBD like/IN I/PRP had/VBD a/DT lot/NN of/IN break/VB chances/NNS I/PRP didn't/VBP take/NN care/NN of/IN them/PRP all/DT but/CC I/PRP broke/VBD him/PRP four/CD times/NNS and/CC he/PRP only/RB broke/VBD me/PRP once./VBP
+"I/NN felt/VBD that/DT was/VBD the/DT key/NN to/TO get/VB up/RP in/IN the/DT set/VBN early."/NN

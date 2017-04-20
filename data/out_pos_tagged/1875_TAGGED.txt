@@ -1,0 +1,19 @@
+Blind/NNP student/NN 'hears/NN in/IN colour'/NN
+
+A/DT blind/JJ student/NN has/VBZ developed/VBN software/NN that/WDT turns/VBZ colours/NNS into/IN musical/JJ notes/NNS so/IN that/IN he/PRP can/MD read/VB weather/NN maps./NN
+
+Victor/NNP Wong/NNP a/DT graduate/NN student/NN from/IN Hong/NNP Kong/NNP studying/VBG at/IN Cornell/NNP University/NNP in/IN New/NNP York/NNP State/NNP had/VBD to/TO read/VB coloured/VBN maps/NNS of/IN the/DT upper/JJ atmosphere/NN as/IN part/NN of/IN his/PRP$ research./NN
+To/TO study/VB "space/NN weather"/NN Mr/NNP Wong/NNP needed/VBD to/TO explore/VB minute/NN fluctuations/NNS in/IN order/NN to/TO create/VB mathematical/JJ models./NN
+A/DT number/NN of/IN solutions/NNS were/VBD tried/VBN including/VBG having/VBG a/DT colleague/NN describe/VBP the/DT maps/NNS and/CC attempting/VBG to/TO print/VB them/PRP in/IN Braille./NNP
+Mr/NNP Wong/NNP eventually/RB hit/VBD upon/IN the/DT idea/NN of/IN translating/VBG individual/JJ colours/NNS into/IN music/NN and/CC enlisted/VBD the/DT help/NN of/IN a/DT computer/NN graphics/NNS specialist/NN and/CC another/DT student/NN to/TO do/VB the/DT programming/NN work./NN
+
+"The/NN images/NNS have/VBP three/CD dimensions/NNS and/CC I/PRP had/VBD to/TO find/VB a/DT way/NN of/IN reading/VBG them/PRP myself"/VBP Mr/NNP Wong/NNP told/VBD the/DT BBC/NNP News/NNP website./NN
+"For/NN the/DT sake/NN of/IN my/PRP$ own/JJ study/NN -/: and/CC for/IN the/DT sake/NN of/IN blind/JJ scientists/NNS generally/RB -/: I/PRP felt/VBD it/PRP would/MD be/VB good/JJ to/TO develop/VB software/NN that/WDT could/MD help/VB us/PRP to/TO read/VB colour/NN images."/NN He/PRP tried/VBD a/DT prototype/NN version/NN of/IN the/DT software/NN to/TO explore/VB a/DT photograph/NN of/IN a/DT parrot./NN
+In/IN order/NN to/TO have/VB an/DT exact/JJ reference/NN to/TO the/DT screen/NN a/DT pen/NN and/CC tablet/NN device/NN is/VBZ used./NN
+The/DT software/NN then/RB assigns/VBZ one/CD of/IN 88/CD piano/NN notes/NNS to/TO individually/RB coloured/VBN pixels/NNS -/: ranging/VBG from/IN blue/JJ at/IN the/DT lower/JJR end/NN of/IN this/DT scale/NN to/TO red/JJ at/IN the/DT upper/JJ end./NN
+Mr/NNP Wong/NNP says/VBZ the/DT application/NN is/VBZ still/RB very/RB much/RB in/IN its/PRP$ infancy/NN and/CC is/VBZ only/RB useful/JJ for/IN reading/VBG images/NNS that/WDT have/VBP been/VBN created/VBN digitally./NN
+"If/NN I/PRP took/VBD a/DT random/JJ picture/NN and/CC scanned/VBD it/PRP and/CC then/RB used/VBN my/PRP$ software/NN to/TO recognise/VB it/PRP it/PRP wouldn't/NN work/NN that/DT well."/NN
+
+Mr/NNP Wong/NNP has/VBZ been/VBN blind/JJ from/IN the/DT age/NN of/IN seven/CD and/CC he/PRP thinks/VBZ that/IN having/VBG a/DT "colour/NN memory"/NN makes/VBZ the/DT software/NN more/RBR useful/JJ than/IN it/PRP would/MD be/VB to/TO a/DT scientist/NN who/WP had/VBD never/RB had/VBN any/DT vision./NN
+"As/NN the/DT notes/NNS increase/NN in/IN pitch/NN I/PRP know/VBP the/DT colour's/NNS getting/VBG redder/JJR and/CC redder/JJR and/CC in/IN my/PRP$ mind's/NNS eye/VBP a/DT patch/NN of/IN red/JJ appears."/NN The/DT colour/NN to/TO music/VB software/NN has/VBZ not/RB yet/RB been/VBN made/VBN available/JJ commercially/RB and/CC Mr/NNP Wong/NNP believes/VBZ that/IN several/JJ people/NNS would/MD have/VB to/TO work/VB together/RB to/TO make/VB it/PRP viable./NN
+But/CC he/PRP hopes/NNS that/IN one/CD day/NN it/PRP can/MD be/VB developed/VBN to/TO give/VB blind/JJ people/NNS access/VBP to/TO photographs/NNS and/CC other/JJ images./NN

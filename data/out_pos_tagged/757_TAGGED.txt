@@ -1,0 +1,14 @@
+Spears/NNP seeks/VBZ aborted/JJ tour/NN payment/NN
+
+Singer/NNP Britney/NNP Spears/NNP is/VBZ suing/VBG eight/CD insurance/NN companies/NNS that/WDT have/VBP refused/VBN to/TO reimburse/VB her/PRP for/IN cancelling/VBG her/PRP$ 2004/CD world/NN tour./NN
+
+The/DT pop/NN star/NN cancelled/VBD her/PRP$ Onyx/NNP Hotel/NNP tour/NN last/JJ June/NNP after/IN suffering/VBG a/DT knee/NN injury/NN during/IN a/DT video/NN shoot./NN
+She/PRP is/VBZ now/RB seeking/VBG to/TO be/VB reimbursed/VBN for/IN the/DT tour's/NNS £5m/CD ($9.3m)/CD costs/NNS in/IN a/DT claim/NN filed/VBN at/IN New/NNP York/NNP State/NNP Supreme/NNP Court./NNP
+Seven/CD London-based/JJ companies/NNS and/CC an/DT eighth/JJ Paris/NNP firm/NN have/VBP been/VBN given/VBN up/IN to/TO 30/CD days/NNS to/TO respond/VB to/TO the/DT complaint./NN
+
+The/DT 22-year-old/JJ star/NN initially/RB missed/VBD a/DT number/NN of/IN shows/NNS on/IN the/DT 82-date/JJ tour/NN after/IN injuring/VBG her/PRP$ knee/NN during/IN a/DT show/NN in/IN Illinois/NNP last/JJ March./NNP
+But/CC she/PRP was/VBD rushed/VBN to/TO hospital/VB and/CC needed/VBN surgery/NN after/IN a/DT later/JJ incident/NN while/IN filming/VBG a/DT video/NN for/IN her/PRP$ song/NN Outrageous/JJ leading/VBG her/PRP to/TO cancel/VB the/DT rest/NN of/IN the/DT tour/NN including/VBG dates/NNS in/IN China./NNP
+"She/NN obviously/RB took/VBD a/DT wrong/JJ step/NN and/CC blew/VBD out/RP her/PRP$ knee"/NN a/DT Jive/NNP spokeswoman/NN said/VBD at/IN the/DT time./NN
+"It/NN was/VBD an/DT old/JJ dance/NN injury."/NN The/DT legal/JJ submission/NN described/VBD Spears/NNP as/IN "one/NN of/IN the/DT most/RBS recognised/JJ performers/NNS in/IN her/PRP$ industry"./NN
+The/DT Onyx/NNP Hotel/NNP tour/NN was/VBD cited/VBN as/IN "a/NN highly/RB crafted/VBD production/NN which/WDT included/VBD the/DT well-known/JJ music/NN and/CC dancing/NN of/IN Spears/NNP supported/VBD by/IN elaborate/NN costumes/NNS complex/JJ choreography/NN as/RB well/RB as/IN cutting-edge/JJ video/NN production/NN lighting/NN and/CC other/JJ effects"./NN
+In/IN September/NNP Spears/NNP married/JJ Kevin/NNP Federline/NNP who/WP had/VBD been/VBN a/DT dancer/NN on/IN the/DT aborted/JJ tour./NN

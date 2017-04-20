@@ -1,0 +1,24 @@
+Trade/NNP gap/NN narrows/VBZ as/IN exports/NNS rise/VBP
+
+The/DT UK's/NNP trade/NN gap/NN narrowed/VBN in/IN November/NNP helped/VBN by/IN a/DT 7.5%/CD rise/NN in/IN exports/NNS outside/IN the/DT European/NNP Union./NNP
+
+According/VBG to/TO the/DT Office/NNP for/IN National/NNP Statistics/NNPS the/DT difference/NN between/IN what/WP the/DT UK/NNP exported/VBD and/CC imported/VBN was/VBD £3.1bn/CD ($5.8bn)/CD down/RB from/IN October's/NNP £3.6bn./CD
+Overall/RB UK/NNP exports/NNS -/: including/VBG both/DT goods/NNS and/CC services/NNS -/: rose/VBD by/IN more/JJR than/IN 3.2%/CD to/TO £24.8bn/CD although/IN total/JJ imports/NNS rose/VBD again/RB to/TO a/DT new/JJ record/NN of/IN £27.9bn./CD
+The/DT deficit/NN for/IN goods/NNS alone/RB was/VBD £4.6bn/CD down/RB from/IN October's/NNP £5bn./CD
+During/IN November/NNP the/DT UK/NNP exported/VBD £16.9bn/CD worth/NN of/IN goods/NNS but/CC imported/VBN £21.5bn./CD
+The/DT cumulative/JJ deficit/NN for/IN the/DT first/JJ eleven/NN months/NNS of/IN 2004/CD now/RB stands/VBZ at/IN £36.3bn/CD £4.5bn/CD higher/JJR than/IN the/DT same/JJ period/NN in/IN 2003./CD
+
+November/NNP saw/VBD an/DT improvement/NN in/IN export/NN levels/NNS to/TO both/DT the/DT European/NNP Union/NNP and/CC the/DT rest/NN of/IN the/DT world/NN the/DT Office/NNP for/IN National/NNP Statistics/NNPS (ONS)/NN said./NN
+EU/NN exports/NNS rose/VBD 2%/CD fuelled/VBN by/IN an/DT increase/NN in/IN sales/NNS of/IN chemicals./NN
+Non-EU/NN exports/NNS shot/VBD up/RP 7.5%/CD with/IN growth/NN seen/VBN across/IN a/DT range/NN of/IN manufacturing/NN sectors/NNS including/VBG cars/NNS consumer/NN durables/NNS and/CC chemicals./NN
+The/DT export/NN boost/NN offset/VBN a/DT 1%/CD rise/NN in/IN imports./NN
+Non-EU/NN imports/NNS rose/VBD 3%/CD but/CC the/DT growth/NN in/IN goods/NNS entering/VBG the/DT UK/NNP from/IN the/DT EU/NNP slowed/VBD to/TO 0.5%./CD
+
+The/DT UK's/NNP deficit/NN with/IN the/DT EU/NNP fell/VBD to/TO £1.9bn/CD from/IN £2.1bn/CD while/IN its/PRP$ non-EU/JJ shortfall/NN dropped/VBD to/TO £2.7bn/CD from/IN £2.9bn/CD in/IN October./NNP
+
+The/DT country's/NNS surplus/NN on/IN trade-in-services/NNS remained/VBD steady/JJ at/IN £1.5bn/CD for/IN the/DT fifth/JJ month/NN in/IN a/DT row./NN
+Paul/NNP Dales/NNP UK/NNP economist/NN for/IN Capital/NNP Economics/NNP said/VBD the/DT figures/NNS represented/VBD an/DT improvement/NN on/IN recent/JJ months./NN
+However/RB he/PRP stressed/VBD that/IN the/DT long-term/JJ prognosis/NN for/IN exports/NNS was/VBD still/RB uncertain./NN
+"The/NN figures/NNS are/VBP a/DT lot/NN better/RBR than/IN expected/VBN but/CC the/DT trend/NN still/RB remains/VBZ poor"/NN he/PRP said./VB
+"There/NN have/VBP been/VBN some/DT very/RB encouraging/JJ signs/NNS that/IN the/DT UK/NNP export/NN recovery/NN is/VBZ starting/VBG to/TO take/VB hold./NN
+But/CC there/EX is/VBZ a/DT danger/NN that/IN this/DT could/MD be/VB held/VBN back/RB by/IN the/DT ongoing/JJ weakness/NN of/IN domestic/JJ demand/NN on/IN the/DT continent."/NN

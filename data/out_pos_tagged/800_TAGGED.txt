@@ -1,0 +1,13 @@
+Angels/NNS 'favourite/NN funeral/JJ song'/NN
+
+Angels/NNS by/IN Robbie/NNP Williams/NNP is/VBZ the/DT song/NN Britons/NNP would/MD most/JJS like/IN played/VBD at/IN their/PRP$ funeral/JJ a/DT survey/NN has/VBZ suggested./NN
+
+While/IN the/DT melancholy/JJ hit/NN topped/VBN the/DT UK/NNP poll/NNP Europeans/NNPS favoured/VBD Queen's/NNP more/RBR upbeat/JJ anthem/NN The/DT Show/NNP Must/MD Go/VB On/IN as/IN their/PRP$ first/JJ choice./NN
+Frank/NNP Sinatra's/NNP My/PRP$ Way/NNP was/VBD second/JJ in/IN the/DT UK/NNP vote/NN with/IN Monty/NNP Python's/NNP Always/RB Look/VBP on/IN the/DT Bright/NNP Side/NN of/IN Life/NNP in/IN third/JJ place./NN
+More/JJR than/IN 45000/CD people/NNS were/VBD surveyed/VBN by/IN digital/JJ TV/NN station/NN Music/NNP Choice./NNP
+
+The/DT European/JJ chart/NN which/WDT included/VBD Denmark/NNP France/NNP and/CC Germany/NNP put/VBP Led/VBN Zeppelin's/NNP Stairway/NNP to/TO Heaven/VB in/IN second/JJ and/CC AC/DC's/NNP Highway/NNP to/TO Hell/VB in/IN third./NN
+Queen's/NNP Who/WP Wants/VBZ to/TO Live/JJ Forever/RB was/VBD highly/RB favoured/VBN by/IN both/DT UK/NNP and/CC European/JJ voters./NN
+
+Both/DT lists/NNS featured/VBD only/RB one/CD traditional/JJ or/CC classic/JJ song/NN each/DT with/IN Britons/NNP requesting/VBG the/DT Royal/NNP Scots/NNP Dragoon/NNP Guards'/NNP Amazing/JJ Grace/NNP and/CC their/PRP$ continental/JJ counterparts/NNS opting/VBG for/IN Mozart's/NNP Requiem./NNP
+"Wanting/VBG to/TO share/VB your/PRP$ most/RBS treasured/JJ musical/JJ gem/NN with/IN those/DT you're/NN leaving/VBG behind/IN is/VBZ the/DT perfect/JJ way/NN to/TO sign/VB off/RP and/CC leave/VB a/DT lasting/JJ impression"/NN Music/NNP Choice/NN music/NN and/CC marketing/NN manager/NN Simon/NNP George/NNP said./NN

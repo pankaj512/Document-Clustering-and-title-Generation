@@ -1,0 +1,20 @@
+Spark/VB heads/VBZ world/NN Booker/NNP list/NN
+
+Dame/NNP Muriel/NNP Spark/VB is/VBZ among/IN three/CD British/JJ authors/NNS who/WP have/VBP made/VBN the/DT shortlist/NN for/IN the/DT inaugural/JJ international/JJ Booker/NNP Prize./NNP
+
+Doris/NNP Lessing/NNP and/CC Ian/NNP McEwan/NNP have/VBP also/RB been/VBN nominated./NN
+McEwan/NNP and/CC Margaret/NNP Atwood/NNP are/VBP the/DT only/JJ nominees/NNS to/TO have/VB previously/RB won/VBN the/DT main/JJ Booker/NNP Prize./NNP
+The/DT new/JJ £60000/CD award/NN is/VBZ open/JJ to/TO writers/NNS of/IN all/DT nationalities/NNS who/WP write/VBP in/IN English/NNP or/CC are/VBP widely/RB translated./NN
+The/DT prize/NN commends/VBZ an/DT author/NN for/IN their/PRP$ body/NN of/IN work/NN instead/RB of/IN one/CD book./NN
+
+Gabriel/NNP Garcia/NNP Marquez/NNP Saul/NNP Bellow/NNP Milan/NNP Kundera/NNP and/CC John/NNP Updike/NNP also/RB feature/NN on/IN the/DT 18-strong/JJ list/NN of/IN world/NN literary/JJ figures./NN
+
+But/CC other/JJ past/NN winners/NNS of/IN the/DT regular/JJ Booker/NNP Prize/NNP such/JJ as/IN Salman/NNP Rushdie/NNP JM/NNP Coetzee/NNP and/CC Kazuo/NNP Ishiguro/NNP have/VBP failed/VBN to/TO make/VB the/DT shortlist./NN
+The/DT prize/NN which/WDT will/MD be/VB awarded/VBN in/IN London/NNP in/IN June/NNP will/MD be/VB given/VBN once/RB every/DT two/CD years./NN
+It/PRP will/MD reward/VB an/DT author/NN -/: who/WP must/MD be/VB living/VBG -/: for/IN "continued/VBN creativity/NN development/NN and/CC overall/JJ contribution/NN to/TO fiction/VB on/IN the/DT world/NN stage"./NN
+An/DT author/NN can/MD only/RB win/VB once./NN
+The/DT international/JJ award/NN was/VBD started/VBN in/IN response/NN to/TO criticisms/NNS that/IN the/DT Booker/NNP Prize/NNP is/VBZ only/RB open/JJ to/TO British/JJ and/CC Commonwealth/NNP authors./NN
+
+
+
+Margaret/NNP Atwood/NNP (Canada)/NN Saul/NNP Bellow/NNP (Canada)/NN Gabriel/NNP Garcia/NNP Marquez/NNP (Colombia)/NN Gunter/NNP Grass/NN (Germany)/NN Ismail/NNP Kadare/NNP (Albania)/NN Milan/NNP Kundera/NNP (Czech/NN Republic)/NNP Stanislaw/NNP Lem/NNP (Poland)/NN Doris/NNP Lessing/NNP (UK)/NN Ian/NNP McEwan/NNP (UK)/NN Naguib/NNP Mahfouz/NNP (Egypt)/NN Tomas/NNP Eloy/NNP Martinez/NNP (Argentina)/NN Kenzaburo/NNP Oe/NNP (Japan)/NN Cynthia/NNP Ozick/NNP (US)/NN Philip/NNP Roth/NNP (US)/NN Muriel/NNP Spark/VB (UK)/NN Antonio/NNP Tabucchi/NNP (Italy)/NN John/NNP Updike/NNP (US)/NN Abraham/NNP B/NNP Yehoshua/NNP (Israel)/NN

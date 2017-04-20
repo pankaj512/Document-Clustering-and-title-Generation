@@ -1,0 +1,24 @@
+Cheaper/JJR chip/NN for/IN mobiles/NNS
+
+A/DT mobile/JJ phone/NN chip/NN which/WDT combines/VBZ a/DT modem/NN and/CC a/DT computer/NN processor/NN on/IN one/CD bit/NN of/IN silicon/NN instead/RB of/IN two/CD could/MD make/VB phones/NNS cheaper/JJR and/CC more/JJR powerful./NN
+
+The/DT specially-designed/JJ chip/NN developed/VBN by/IN Texas/NNP Instruments/NNP could/MD drive/VB down/RP the/DT cost/NN of/IN making/VBG mobiles/NNS capable/JJ of/IN 3D/CD gaming/NN and/CC 30-frame-a-second/JJ video./NN
+Currently/RB rich/JJ multimedia/NNS features/NNS tend/VBP to/TO be/VB on/IN more/RBR expensive/JJ handsets./NN
+The/DT technology/NN OMAP-Vox/NNP is/VBZ being/VBG tested/VBN by/IN firms/NNS in/IN Europe/NNP and/CC Asia/NNP and/CC could/MD appear/VB by/IN the/DT end/NN of/IN the/DT year./NN
+Texas/NNP which/WDT makes/VBZ computer/NN chips/NNS for/IN more/JJR than/IN half/PDT the/DT world's/NNS mobile/JJ phones/NNS said/VBD it/PRP was/VBD keen/JJ to/TO make/VB multimedia/NNS functions/NNS like/IN video/NN and/CC gaming/NN more/JJR affordable./NN
+"We're/NN going/VBG to/TO drive/VB them/PRP down/RP into/IN meat-and-potatoes/NNS phones/NNS that/WDT have/VBP the/DT largest/JJS market/NN share"/NN said/VBD Doug/NNP Rasor/NNP a/DT marketing/NN vice/NN president/NN at/IN Texas./NNP
+The/DT chip/NN also/RB uses/VBZ much/RB less/JJR power/NN than/IN conventional/JJ chips/NNS said/VBD Texas/NNP which/WDT means/VBZ less/JJR strain/NN on/IN mobile/JJ battery/NN life./NN
+
+More/JJR than/IN 50/CD million/CD people/NNS own/VBP a/DT mobile/NN in/IN the/DT UK/NNP but/CC mobile/JJ operators/NNS are/VBP keen/JJ to/TO encourage/VB people/NNS to/TO move/VB onto/IN more/RBR sophisticated/JJ handsets/NNS that/WDT can/MD do/VB more./NN
+Texas/NNP is/VBZ keen/JJ to/TO cash/VB in/RP on/IN the/DT third/JJ generation/NN (3G)/CD of/IN mobile/JJ technology/NN which/WDT offers/VBZ high-speed/JJ networks/NNS for/IN video/NN streaming/NN and/CC other/JJ multimedia/NNS functions./NN
+But/CC it/PRP faces/VBZ stiff/JJ competition/NN from/IN the/DT likes/NNS of/IN Intel/NNP which/WDT is/VBZ also/RB looking/VBG to/TO provide/VB better/JJR chips/NNS for/IN high-end/JJ mobiles./NN
+
+Competition/NN to/TO get/VB people/NNS using/VBG 3G/CD mobiles/NNS will/MD grow/VB in/IN the/DT next/JJ year/NN as/IN almost/RB all/DT of/IN the/DT UK's/NNP operators/NNS have/VBP now/RB launched/VBN third/JJ generation/NN networks./NN
+A/DT recent/JJ survey/NN by/IN Sony/NNP Ericsson/NNP predicted/VBD that/IN the/DT number/NN of/IN 3G/CD handsets/NNS sold/VBN in/IN 2005/CD would/MD double/VB from/IN 2004/CD to/TO account/VB for/IN 10%/CD of/IN all/DT phones/NNS sold./NN
+Many/JJ consumers/NNS are/VBP still/RB to/TO be/VB convinced/VBN though./NN
+A/DT further/JJ recent/JJ survey/NN said/VBD that/IN only/RB 4%/CD of/IN mobile/JJ owners/NNS were/VBD thinking/VBG of/IN upgrading/VBG to/TO 3G/CD phones./NN
+Many/JJ said/VBD they/PRP were/VBD confused/JJ about/IN the/DT different/JJ ways/NNS to/TO pay/VB for/IN phones/NNS and/CC the/DT vast/JJ array/NN of/IN features/NNS most/JJS have/VBP onboard./NN
+
+But/CC there/EX will/MD be/VB continued/VBN demand/NN for/IN better/JJR chips/NNS as/IN the/DT industry/NN continues/VBZ to/TO develop/VB new/JJ standards/NNS and/CC future/JJ networks./NN
+Earlier/RBR in/IN January/NNP NTT/NNP DoCoMo/NNP and/CC Vodafone/NNP joined/VBD forces/NNS to/TO develop/VB the/DT next/JJ generation/NN of/IN high-speed/JJ networks/NNS known/VBN as/IN "super/NN 3G"/CD intended/VBN to/TO be/VB 10/CD times/NNS faster/RBR than/IN 3G/CD services./NN
+The/DT first/JJ stage/NN of/IN development/NN is/VBZ to/TO be/VB completed/VBN by/IN 2007/CD but/CC no/DT date/NN has/VBZ been/VBN set/VBN for/IN a/DT commercial/JJ launch/NN The/DT newly-designed/JJ OMAP-Vox/NNP chip/NN set/VBN was/VBD announced/VBN ahead/RB of/IN the/DT start/NN of/IN a/DT major/JJ mobile/JJ industry/NN conference/NN 3GSM/CD which/WDT takes/VBZ place/NN in/IN Cannes/NNP France/NNP this/DT week./NN

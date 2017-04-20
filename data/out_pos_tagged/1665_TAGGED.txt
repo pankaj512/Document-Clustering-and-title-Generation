@@ -1,0 +1,16 @@
+Wood/NNP -/: Ireland/NNP can/MD win/VB Grand/NNP Slam/NNP
+
+Former/NNP captain/NN Keith/NNP Wood/NNP believes/VBZ Ireland/NNP can/MD win/VB only/RB their/PRP$ second/JJ Grand/NNP Slam/NNP -/: and/CC first/JJ since/IN 1948/CD -/: in/IN this/DT year's/NNS RBS/NNP Six/CD Nations/NNPS Championship./NNP
+
+After/IN claiming/VBG their/PRP$ first/JJ Triple/JJ Crown/NNP for/IN 19/CD years/NNS last/JJ season/NN Wood/NNP tips/VBZ his/PRP$ former/JJ team-mates/NNS to/TO go/VB one/CD better./NN
+"Things/NN have/VBP been/VBN building/VBG up/RP over/IN the/DT past/JJ few/JJ years/NNS and/CC I/PRP think/VBP this/DT is/VBZ the/DT year/NN for/IN Ireland"/NNP he/PRP told/VBD BBC/NNP Sport./NNP
+"There/NN is/VBZ a/DT great/JJ chance/NN to/TO win/VB a/DT Grand/NNP Slam./NNP
+A/DT lot/NN of/IN things/NNS are/VBP in/IN our/PRP$ favour/NN with/IN England/NNP and/CC France/NNP at/IN home."/NN Ireland/NNP have/VBP finished/VBN runners-up/NNS three/CD times/NNS including/VBG last/JJ year/NN since/IN the/DT old/JJ Five/CD Nations/NNPS became/VBD Six/CD in/IN 2000/CD and/CC not/RB finished/VBD outside/IN the/DT top/JJ three/CD in/IN the/DT past/JJ five/CD years./NN
+
+Despite/IN being/VBG without/IN flanker/NN Keith/NNP Gleeson/NNP coach/NN Eddie/NNP O'Sullivan/NNP has/VBZ not/RB had/VBN to/TO contend/VB with/IN the/DT sort/NN of/IN casualty/NN lists/NNS that/WDT have/VBP hit/VBN England/NNP and/CC Scotland/NNP in/IN particular/JJ prior/RB to/TO the/DT tournament./NN
+"For/NNP Ireland/NNP to/TO win/VB it/PRP we/PRP need/VBP to/TO stay/VB relatively/RB injury/NN free/JJ and/CC fortunately/RB we/PRP are/VBP one/CD of/IN the/DT few/JJ teams/NNS that/WDT have/VBP done/VBN that/IN so/RB far"/NN Wood/NNP added./NN
+"It/NN is/VBZ going/VBG to/TO be/VB tough/JJ and/CC we/PRP need/VBP to/TO take/VB all/PDT the/DT luck/NN and/CC opportunities/NNS that/WDT come/VBP our/PRP$ way."/NN Ireland's/NNP last/JJ game/NN of/IN the/DT tournament/NN is/VBZ against/IN Wales/NNP in/IN Cardiff/NNP -/: a/DT fixture/NN they/PRP have/VBP not/RB lost/VBN since/IN 1983./CD
+
+But/CC despite/IN their/PRP$ traditional/JJ hospitality/NN when/WRB the/DT Irish/JJ are/VBP visiting/VBG Wood/NNP believes/VBZ Wales/NNP might/MD end/VB their/PRP$ four-match/JJ losing/NN run/NN against/IN England/NNP in/IN Cardiff./NNP
+"So/NN many/JJ of/IN the/DT major/JJ England/NNP players/NNS have/VBP either/RB retired/VBN in/IN the/DT last/JJ year/NN or/CC are/VBP injured/VBN that/IN I/PRP think/VBP it/PRP will/MD be/VB very/RB hard/RB for/IN them/PRP down/RP in/IN Cardiff"/NNP Wood/NNP added./NN
+"Wales/NN have/VBP had/VBN four/CD brilliant/JJ games/NNS in/IN the/DT last/JJ year/NN or/CC so/RB and/CC lost/VBD all/DT four/CD so/IN the/DT time/NN is/VBZ right/JJ for/IN them/PRP now/RB to/TO beat/VB one/CD of/IN the/DT major/JJ teams."/NN

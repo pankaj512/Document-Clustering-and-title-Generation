@@ -1,0 +1,14 @@
+Lee/NN to/TO create/VB new/JJ film/NN superhero/NN
+
+Comic/JJ book/NN veteran/NN Stan/NNP Lee/NNP is/VBZ to/TO team/VB up/RP with/IN producer/NN Robert/NNP Evans/NNP to/TO create/VB a/DT movie/NN featuring/VBG a/DT new/JJ superhero./NN
+
+Foreverman/NNP will/MD focus/VB on/IN a/DT character/NN who/WP has/VBZ to/TO face/VB problems/NNS in/IN everyday/JJ life/NN as/RB well/RB as/IN using/VBG his/PRP$ special/JJ powers/NNS to/TO save/VB the/DT world./NN
+Paramount/NNP Pictures/NNP the/DT studio/NN behind/IN the/DT film/NN have/VBP revealed/VBN few/JJ details/NNS about/IN the/DT project/NN but/CC say/VBP it/PRP has/VBZ the/DT potential/NN to/TO spawn/VB a/DT series/NN of/IN films./NN
+Lee/NNP is/VBZ best/JJS known/VBN for/IN his/PRP$ work/NN on/IN Spider-Man/NNP and/CC The/DT Incredible/JJ Hulk./NNP
+
+He/PRP is/VBZ collaborating/VBG on/IN the/DT script/NN with/IN screenwriter/NN Peter/NNP Briggs/NNP who/WP penned/VBD the/DT recent/JJ comic/JJ book/NN adaptation/NN Hellboy./NNP
+"We/NN believe/VBP it/PRP to/TO be/VB truly/RB a/DT whole/JJ new/JJ franchise"/NN said/VBD Gill/NNP Champion/NNP president/NN and/CC chief/JJ executive/NN of/IN Lee's/NNP POW/NNP Entertainment./NNP
+"In/NN this/DT world/NN where/WRB people/NNS are/VBP looking/VBG for/IN something/NN different/JJ Stan's/NNP idea/NN was/VBD to/TO create/VB a/DT concept/NN not/RB seen/VBN before/IN to/TO become/VB an/DT evergreen/NN franchise/NN for/IN Paramount."/NNP Many/JJ of/IN Lee's/NNP other/JJ creations/NNS including/VBG X-Men/NNP and/CC Daredevil/NNP have/VBP been/VBN turned/VBN into/IN films/NNS in/IN the/DT past/JJ five/CD years./NN
+However/RB the/DT Spider-Man/NNP series/NN has/VBZ been/VBN the/DT biggest/JJS box/NN office/NN hit/VBD with/IN the/DT 2002/CD original/JJ and/CC its/PRP$ 2004/CD sequel/NN taking/VBG almost/RB $1.6bn/CD (£857m)/CD worldwide./NN
+A/DT third/JJ Spider-Man/NNP film/NN is/VBZ scheduled/VBN for/IN release/NN in/IN 2007./CD
+Another/DT Marvel/NN Comics/NNPS adaptation/VBP The/DT Fantastic/JJ Four/CD will/MD be/VB released/VBN in/IN cinemas/NNS this/DT summer./NN

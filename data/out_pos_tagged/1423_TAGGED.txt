@@ -1,0 +1,13 @@
+Kenyon/NNP denies/VBZ Robben/NNP Barca/NNP return/NN
+
+Chelsea/NNP chief/NN executive/NN Peter/NNP Kenyon/NNP has/VBZ played/VBN down/RP reports/NNS that/IN Arjen/NNP Robben/NNP will/MD return/VB for/IN the/DT Champions/NNS League/NNP match/VB against/IN Barcelona./NNP
+
+"He's/NN been/VBN responding/VBG well/RB to/TO treatment/VB and/CC started/VBD running/VBG on/IN Friday/NNP but/CC we'll/NN have/VBP to/TO wait/VB and/CC see"/NN he/PRP told/VBD BBC/NNP Five/CD Live's/NNP Sportsweek./NNP
+"We're/NN looking/VBG to/TO getting/VBG him/PRP back/RB as/RB soon/RB as/IN possible/JJ but/CC he'll/NN be/VB back/RB when/WRB it's/NNS right/VBP for/IN him/PRP and/CC for/IN us./NN
+"There's/NN no/DT plans/NNS at/IN the/DT moment/NN around/IN the/DT Barcelona/NNP game."/NN His/PRP$ comments/NNS contradict/VBP those/DT of/IN chiropractor/NN Jean/NNP Pierre/NNP Meersseman/NNP who/WP treated/VBD the/DT Dutchman/NNP after/IN he/PRP fractured/JJ his/PRP$ foot/NN at/IN the/DT start/NN of/IN February./NNP
+Robben/NNP had/VBD been/VBN expected/VBN to/TO be/VB out/RP for/IN six/CD weeks/NNS but/CC Meersseman/NNP hinted/VBD that/IN the/DT winger/NN could/MD be/VB fit/VBN for/IN the/DT vital/JJ Stamford/NNP Bridge/NNP game/NN on/IN 8/CD March./NNP
+"I/NN hope/NN he/PRP can/MD be/VB back/RB and/CC I/PRP will/MD try/VB to/TO help/VB him/PRP make/VB that/DT happen"/NN Meersseman/NNP told/VBD the/DT Mail/NNP on/IN Sunday./NNP
+"I/NN put/VBD everything/NN right/NN with/IN Arjen's/NNP foot/NN the/DT last/JJ time/NN I/PRP saw/VBD him/PRP 12/CD days/NNS ago./NN
+It/PRP was/VBD an/DT obvious/JJ correction/NN and/CC easy/JJ to/TO perform./VB
+"I/NN know/NN he/PRP was/VBD pleased/JJ with/IN what/WP I/PRP did/VBD and/CC now/RB that/IN he/PRP is/VBZ running/VBG again./NN
+I/PRP am/VBP due/JJ to/TO see/VB him/PRP one/CD more/JJR time/NN again/RB in/IN the/DT next/JJ few/JJ days."/NN Meersseman/NNP is/VBZ the/DT medical/JJ co-ordinator/NN at/IN Italian/JJ side/NN AC/NNP Milan./NNP

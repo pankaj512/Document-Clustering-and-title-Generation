@@ -1,0 +1,16 @@
+Deadline/NN nears/VBZ for/IN Fiat-GM/NNP deal/NN
+
+Fiat/NNP and/CC General/NNP Motors/NNPS (GM)/NN have/VBP until/IN midnight/NN on/IN 1/CD February/NNP to/TO settle/VB a/DT disagreement/NN over/IN a/DT potential/JJ takeover./NN
+
+The/DT deadline/NN marks/VBZ the/DT point/NN at/IN which/WDT Fiat/NNP will/MD gain/VB the/DT right/NN to/TO sell/VB its/PRP$ car/NN division/NN to/TO GM/NNP part/NN of/IN an/DT alliance/NN agreed/VBD in/IN 2000./CD
+GM/NNP whose/WP$ own/JJ European/JJ operations/NNS are/VBP losing/VBG money/NN no/RB longer/RB wants/VBZ to/TO own/VB the/DT unprofitable/JJ Fiat/NNP unit./NN
+Reports/NNS of/IN deadlocked/VBN talks/NNS sent/VBD Fiat/NNP shares/NNS down/RB 1.2%/CD on/IN Tuesday/NNP after/IN Monday's/NNP 4%/CD gain/NN on/IN hopes/NNS of/IN a/DT payoff./NN
+The/DT US/PRP firm/VBP is/VBZ thought/VBN to/TO be/VB offering/NN about/IN $2bn/CD (£1.06bn)/CD to/TO extricate/VB itself/PRP from/IN the/DT arrangement./NN
+It/PRP has/VBZ argued/VBN the/DT deal/NN was/VBD voided/VBN by/IN Fiat's/NNP decision/NN to/TO sell/VB off/RP Fiat's/NNP finance/NN arm/NN and/CC halve/VB GM's/NNP stake/NN via/IN a/DT capital-raising/JJ effort./NN
+
+The/DT 2000/CD deal/NN resulted/VBD from/IN a/DT race/NN between/IN GM/NNP and/CC DaimlerChrysler/NNP to/TO ally/VB with/IN Fiat./NNP
+The/DT German/JJ firm/NN wanted/VBD to/TO buy/VB Fiat/NNP outright./NN
+But/CC Gianni/NNP Agnelli/NNP the/DT godfather/NN of/IN the/DT group/NN wanted/VBD to/TO keep/VB control/NN and/CC preferred/JJ GM's/NNP offer/NN to/TO buy/VB a/DT 20%/CD stake/NN and/CC give/VB Fiat/NNP the/DT right/NN to/TO sell/VB in/IN the/DT future/JJ known/VBN as/IN a/DT "put/NN option"./NN
+Since/IN then/RB however/RB Fiat/NNP cars/NNS have/VBP lost/VBN market/NN share/NN and/CC the/DT firm/NN has/VBZ piled/VBN up/RP losses/NNS while/IN a/DT plan/NN to/TO raise/VB new/JJ money/NN in/IN 2003/CD cut/NN GM's/NNP stake/NN in/IN half/NN to/TO 10%./CD
+For/IN its/PRP$ part/NN GM's/JJ European/JJ units/NNS Opel/NNP and/CC Saab/NNP have/VBP both/DT had/VBN trouble/NN with/IN Opel/NNP management/NN threatening/VBG to/TO cut/VB 12000/CD jobs./NN
+"The/NN last/JJ thing/NN they/PRP need/VBP is/VBZ additional/JJ production/NN capacity/NN in/IN Europe"/NNP said/VBD Patrick/NNP Juchemich/NNP auto/NN analyst/NN at/IN Sal/NNP Oppenheim/NNP Bank./NNP

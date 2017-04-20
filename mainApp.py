@@ -1,11 +1,12 @@
 # This file contain code for GUI of application and function calling
 # TODO list
-# 1. Create GUI for this that take input and classify that as one of mention category.
+# 1. Create GUI for this that take text and input and classify that as one of mention category.
 # 2. Output should be shown at GUI itself.
 import tkinter as tk
+
 import pygubu
-from processing import SVM
-import os
+
+from classification.processing import SVM
 
 
 class Application:
@@ -35,7 +36,7 @@ class Application:
             error_label.set('')
 
             if selected_classifier == 'Support_Vector_Machine(SVM)':
-                accuracy =  SVM.perform(isStopCheck,selected_size)
+                accuracy =  SVM.perform(isStopCheck, selected_size)
 
             out_classifier_label = self.builder.get_variable('classifier_ans')
             out_classifier_label.set(selected_classifier)

@@ -1,0 +1,10 @@
+Oscar/NNP nominee/NN Dan/NNP O'Herlihy/NNP dies/VBZ
+
+Irish/JJ actor/NN Dan/NNP O'Herlihy/NNP who/WP was/VBD nominated/VBN for/IN best/JJS actor/NN at/IN the/DT 1955/CD Oscars/NNP has/VBZ died/VBN at/IN the/DT age/NN of/IN 85./CD
+
+O'Herlihy/NNP whose/WP$ Oscar/NNP nomination/NN was/VBD for/IN Luis/NNP Bunuel's/NNP The/DT Adventures/NNP of/IN Robinson/NNP Crusoe/NNP died/VBD at/IN his/PRP$ home/NN in/IN Malibu/NNP California/NNP a/DT spokesman/NN said./NN
+The/DT actor/NN began/VBD his/PRP$ film/NN career/NN in/IN the/DT 1940s/NNS playing/VBG Macduff/NNP to/TO Orson/NNP Welles'/NNP Macbeth/NNP in/IN 1948/CD and/CC was/VBD also/RB a/DT regular/NN in/RP on/IN the/DT Dublin/NNP stage./NN
+He/PRP later/RB appeared/VBD in/IN Robocop/NNP and/CC its/PRP$ sequel/NN and/CC cult/NN TV/NN show/NN Twin/JJ Peaks./NNP
+He/PRP played/VBD the/DT CEO/NNP of/IN Omni/NNP Consumer/NNP Products/NNPS in/IN 1987's/CD Robocop/NNP and/CC Robocop/NNP 2/CD three/CD years/NNS later/RB and/CC was/VBD saw/VBN mill/NN owner/NN Andrew/NNP Packard/NNP in/IN Twin/JJ Peaks/NNS also/RB in/IN 1990./CD
+Despite/IN his/PRP$ Oscar/NNP nomination/NN he/PRP had/VBD few/JJ other/JJ lead/NN roles/NNS and/CC became/VBD a/DT familiar/JJ supporting/NN actor/NN on/IN TV/NN and/CC in/IN film./NN
+The/DT year/NN he/PRP was/VBD nominated/VBN the/DT Academy/NNP Award/NN was/VBD won/VBN by/IN Marlon/NNP Brando/NNP for/IN On/IN the/DT Waterfront./NNP

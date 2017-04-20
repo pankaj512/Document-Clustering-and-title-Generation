@@ -1,0 +1,22 @@
+IMF/NNP agrees/VBZ fresh/JJ Turkey/NNP funding/NN
+
+Turkey/NNP has/VBZ agreed/VBN a/DT draft/NN proposal/NN with/IN the/DT International/NNP Monetary/NNP Fund/NNP to/TO borrow/VB $10bn/CD (£5.19bn)/CD extending/VBG its/PRP$ ongoing/JJ financial/JJ support/NN until/IN 2007./CD
+
+Turkey's/NNP current/JJ $18.6bn/CD loan/NN agreement/NN with/IN the/DT IMF/NNP expires/VBZ in/IN February/NNP and/CC the/DT new/JJ deal/NN would/MD see/VB it/PRP receive/VB added/VBD support/NN between/IN 2005/CD and/CC 2007./CD
+In/IN return/NN for/IN the/DT funding/NN Turkey/NNP would/MD be/VB expected/VBN to/TO keep/VB inflation/NN under/IN control/NN and/CC introduce/VB market/NN reforms./NN
+Turkey's/NNP economy/NN has/VBZ steadily/RB recovered/VBN from/IN a/DT severe/JJ crisis/NN in/IN 2001./CD
+
+Economic/NNP growth/NN has/VBZ average/JJ 6-7%/NN in/IN the/DT past/JJ three/CD years/NNS ahead/RB of/IN IMF/NNP forecasts/NNS while/IN inflation/NN fell/VBD below/IN 10%/CD this/DT year/NN for/IN the/DT first/JJ time/NN in/IN 30/CD years./NN
+However/RB Turkey/NNP has/VBZ a/DT huge/JJ debt/NN burden/NN -/: already/RB owing/VBG $23bn/CD to/TO the/DT IMF/NNP -/: while/IN its/PRP$ current/JJ account/NN deficit/NN has/VBZ swelled/VBN to/TO $10.7bn/CD this/DT year./NN
+
+The/DT Turkish/JJ economics/NNS minister/NN Ali/NNP Babacan/NNP said/VBD the/DT two/CD sides/NNS had/VBD reached/VBN general/JJ agreement/NN on/IN a/DT new/JJ three/CD year/NN funding/NN program./NN
+Rodrigo/NNP de/NNP Rato/NNP the/DT IMF's/NNP managing/VBG director/NN said/VBD the/DT loan/NN agreement/NN would/MD help/VB to/TO improve/VB Turkish/JJ economic/JJ prospects/NNS by/IN cutting/VBG its/PRP$ debt/NN and/CC stimulating/VBG growth./NN
+"I/NN believe/VBP the/DT new/JJ programme/NN if/IN implemented/VBN successfully/RB will/MD help/VB Turkey/NNP create/VB the/DT conditions/NNS for/IN sustained/VBN growth/NN and/CC employment/NN creation/NN reduce/NN inflation/NN toward/IN European/JJ level/NN and/CC enhance/VB the/DT economy's/NNS resilience"/VBP he/PRP said./VB
+The/DT agreement/NN must/MD still/RB be/VB ratified/VBN by/IN IMF/NNP directors/NNS at/IN a/DT meeting/NN expected/VBN to/TO take/VB place/NN next/JJ month./NN
+
+The/DT agreement/NN would/MD also/RB enable/VB Turkey/NNP to/TO defer/VB payments/NNS on/IN previous/JJ loans/NNS worth/JJ $3.7m/CD until/IN 2006./CD
+
+As/IN part/NN of/IN the/DT draft/NN agreement/NN Turkey/NNP has/VBZ signed/VBN a/DT "letter/NN of/IN intent"/NN stating/VBG its/PRP$ determination/NN to/TO push/VB through/IN far-reaching/JJ reforms/NNS to/TO its/PRP$ tax/NN and/CC benefits/NNS system/NN and/CC its/PRP$ banking/NN sector./NN
+Such/JJ reforms/NNS are/VBP considered/VBN vital/JJ for/IN Turkey/NNP if/IN it/PRP is/VBZ to/TO fulfil/VB its/PRP$ ambition/NN of/IN joining/VBG the/DT European/NNP Union./NNP
+The/DT EU/NNP will/MD decide/VB on/IN 17/CD December/NNP whether/IN to/TO begin/VB entry/NN talks/NNS with/IN Turkey./NNP
+The/DT US/PRP the/DT largest/JJS of/IN the/DT IMF's/NNP 184/CD members/NNS is/VBZ a/DT strong/JJ supporter/NN of/IN continued/JJ financial/JJ support/NN for/IN Turkey./NNP

@@ -1,0 +1,19 @@
+Tory/NNP leader/NN urges/VBZ Harry/NNP apology/NN
+
+Prince/NNP Harry/NNP should/MD personally/RB make/VB clear/JJ how/WRB sorry/JJ he/PRP is/VBZ about/IN wearing/VBG a/DT Nazi/JJ uniform/JJ to/TO a/DT friend's/NNS fancy/JJ dress/NN party/NN says/VBZ Tory/NNP leader/NN Michael/NNP Howard./NNP
+
+Mr/NNP Howard/NNP whose/WP$ grandmother/NN died/VBD in/IN Auschwitz/NNP said/VBD many/JJ people/NNS would/MD be/VB offended/VBN by/IN the/DT prince's/NNS actions/NNS Clarence/NNP House/NNP has/VBZ issued/VBN a/DT statement/NN saying/VBG the/DT prince/NN has/VBZ apologised/VBN and/CC realised/VBD it/PRP had/VBD been/VBN a/DT poor/JJ costume./NN
+Number/NN 10/CD said/VBD an/DT error/NN was/VBD made/VBN but/CC now/RB Harry/NNP had/VBD apologised/VBN the/DT matter/NN should/MD be/VB left/VBN to/TO the/DT palace./NN
+That/DT was/VBD a/DT message/NN repeated/VBN by/IN Home/NNP Secretary/NNP Charles/NNP Clarke/NNP who/WP said/VBD the/DT matter/NN should/MD now/RB be/VB left/VBN to/TO lie./VB
+
+But/CC Lib/NNP Dem/NNP leader/NN Charles/NNP Kennedy/NNP said/VBD Harry/NNP was/VBD in/IN a/DT privileged/JJ position/NN and/CC said/VBD he/PRP should/MD apologise/VB in/IN person./NN
+"There/NN is/VBZ a/DT reservoir/NN of/IN goodwill/NN for/IN Prince/NNP Harry/NNP and/CC Prince/NNP William/NNP with/IN him/PRP in/IN this/DT country/NN but/CC I/PRP think/VBP he/PRP needs/VBZ to/TO remember/VB that/IN it/PRP can't/NN last/JJ forever."/NN He/PRP added/VBD that/IN Sandhurst/NNP would/MD probably/RB be/VB good/JJ for/IN Harry/NNP as/IN it/PRP would/MD teach/VB him/PRP some/DT self/NN discipline./JJ
+Former/NNP Labour/NNP MP/NNP Lord/NNP Janner/NNP who/WP is/VBZ a/DT high/JJ profile/NN member/NN of/IN Britain's/NNP Jewish/JJ community/NN branded/VBN Harry's/NNP action's/NNS "stupid/NN and/CC evil"./NN
+He/PRP told/VBD ITV/NNP "The/NN time/NN has/VBZ come/VBN for/IN him/PRP to/TO make/VB a/DT public/JJ apology./NN
+It/PRP is/VBZ about/IN common/JJ decency/NN of/IN respect/NN to/TO the/DT people/NNS who/WP fought/VBD the/DT Nazis/NNPS to/TO the/DT families/NNS of/IN those/DT who/WP were/VBD killed/VBN by/IN the/DT Nazis/NNPS and/CC to/TO people/NNS who/WP suffered/VBD during/IN the/DT Holocaust."/NNP He/PRP added/VBD "I/NN would/MD send/VB him/PRP in/IN the/DT army/NN as/RB fast/RB as/IN possible./NN
+I/PRP hope/VBP that/WDT would/MD teach/VB him/PRP not/RB to/TO behave/VB like/IN that."/NN
+
+A/DT photograph/NN of/IN Prince/NNP Harry/NNP wearing/VBG a/DT swastika/NN armband/NN and/CC German/JJ desert/NN uniform/JJ at/IN the/DT party/NN appears/VBZ in/IN Thursday's/NNP Sun/NNP newspaper/NN under/IN the/DT headline/NN "Harry/NN the/DT Nazi."/NNP Mr/NNP Howard/NNP acknowledged/VBD the/DT prince's/NNS apology/NN and/CC said/VBD he/PRP had/VBD no/DT doubt/NN the/DT prince's/NNS father/NN and/CC family/NN would/MD have/VB much/JJ to/TO say/VB to/TO him/PRP privately/RB about/IN the/DT incident./NN
+But/CC he/PRP told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN programme/NN "It/NN might/MD be/VB appropriate/JJ to/TO tell/VB us/PRP himself/PRP just/RB how/WRB contrite/NN he/PRP is."/VB Mr/NNP Howard/NNP declined/VBD to/TO say/VB what/WDT form/NN the/DT statement/NN should/MD take./VB
+But/CC former/JJ Buckingham/NNP Palace/NNP press/NN spokesman/NN Dicky/NNP Arbiter/NNP said/VBD the/DT prince/NN should/MD make/VB a/DT personal/JJ broadcast/NN apology./NN
+Mr/NNP Clarke/NNP said/VBD he/PRP recognised/VBD people's/NNS concerns/NNS about/IN the/DT costume/NN but/CC argued/VBD "He/NN has/VBZ apologised/VBN and/CC I/PRP think/VBP we/PRP should/MD leave/VB the/DT matter/NN there."/NN

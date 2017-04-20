@@ -1,0 +1,30 @@
+Jackson/NNP film/NN 'absolute/NN disaster'/JJ
+
+A/DT PR/NNP expert/NN has/VBZ told/VBN the/DT Michael/NNP Jackson/NNP child/NN abuse/NN trial/NN that/IN the/DT TV/NN documentary/NN at/IN the/DT heart/NN of/IN the/DT case/NN was/VBD an/DT "absolute/NN disaster"./JJ
+
+Ann/NNP Kite/NNP told/VBD the/DT court/NN in/IN the/DT Californian/NN town/NN of/IN Santa/NNP Maria/NNP she/PRP was/VBD hired/VBN to/TO "crisis/VB manage"/NN the/DT fallout/NN after/IN the/DT programme/NN had/VBD aired/VBN in/IN 2003./CD
+Jurors/NNP saw/VBD the/DT film/NN in/IN which/WDT the/DT pop/NN star/NN held/VBN hands/NNS with/IN the/DT alleged/VBN victim/NN on/IN Tuesday./NNP
+Mr/NNP Jackson/NNP denies/VBZ 10/CD charges/NNS of/IN child/NN abuse/NN and/CC false/JJ imprisonment./NN
+If/IN convicted/VBN he/PRP could/MD face/VB up/IN to/TO 21/CD years/NNS in/IN prison./NN
+
+Ms/NNP Kite/NNP suggested/VBD Jackson's/NNP associates/NNS had/VBD been/VBN intent/NN on/IN launching/VBG a/DT smear/NN campaign/NN against/IN the/DT accuser's/NNS family/NN after/IN the/DT airing/NN of/IN Martin/NNP Bashir's/NNP film/NN Living/VBG with/IN Michael/NNP Jackson./NNP
+She/PRP told/VBD the/DT court/NN that/IN in/IN the/DT aftermath/NN of/IN the/DT broadcast/NN a/DT Jackson/NNP lawyer/NN had/VBD told/VBN her/PRP the/DT boy's/NNS mother/NN would/MD be/VB made/VBN to/TO look/VB like/IN a/DT "crack/NN whore"./NN
+Jackson's/NNP defence/NN questioned/VBD Ms/NNP Kite's/NNP credibility/NN pointing/VBG that/IN she/PRP worked/VBD for/IN the/DT singer's/NNS team/NN for/IN less/JJR than/IN a/DT week/NN before/IN being/VBG fired/VBN and/CC had/VBD never/RB met/VBN or/CC spoken/VBN to/TO the/DT star./NN
+
+Ms/NNP Kite/NNP said/VBD she/PRP received/VBD a/DT phone/NN call/NN on/IN 13/CD February/NNP 2003/CD from/IN a/DT Jackson/NNP associate/JJ Marc/NNP Schaffel/NNP who/WP said/VBD the/DT boy/NN and/CC his/PRP$ family/NN had/VBD left/VBN the/DT Neverland/NNP ranch/NN where/WRB they/PRP had/VBD been/VBN staying./NN
+
+Ms/NNP Kite/NNP told/VBD the/DT court/NN she/PRP had/VBD later/RB asked/VBN Jackson's/NNP lawyer/NN David/NNP LeGrand/NNP what/WP had/VBD happened./NN
+"I/NN said/VBD `Don't/NN make/VBP me/PRP believe/VB that/IN these/DT people/NNS were/VBD hunted/VBN down/RP like/IN dogs/NNS and/CC brought/VBN back/RB to/TO the/DT ranch'"/NN she/PRP said./VBP
+Ms/NNP Kite/NNP began/VBD to/TO work/VB for/IN Mr/NNP Jackson/NNP in/IN February/NNP 2003/CD after/IN the/DT controversial/JJ film/NN was/VBD televised/VBN in/IN the/DT US/PRP and/CC Europe./NNP
+The/DT documentary/NN sparked/VBD a/DT media/NNS storm/NN and/CC the/DT subsequent/JJ investigation/NN into/IN Mr/NNP Jackson's/NNP relationship/NN with/IN the/DT boy./NN
+In/IN the/DT film/NN the/DT singer/NN said/VBD he/PRP did/VBD not/RB see/VB anything/NN wrong/JJ with/IN sharing/VBG a/DT bed/NN with/IN a/DT child./NN
+
+Questioned/VBN by/IN the/DT prosecution/NN Ms/NNP Kite/NNP said/VBD her/PRP$ plan/NN had/VBD been/VBN to/TO move/VB media/NNS coverage/NN of/IN the/DT star/NN away/RB from/IN a/DT focus/NN on/IN his/PRP$ human/JJ frailties/NNS to/TO concentrate/VB more/JJR on/IN his/PRP$ musical/JJ genius./NN
+Ms/NNP Kite/NNP said/VBD that/IN an/DT additional/JJ problem/NN was/VBD the/DT release/NN of/IN documents/NNS relating/VBG to/TO a/DT previous/JJ allegation/NN of/IN child/NN abuse/NN against/IN Mr/NNP Jackson./NNP
+The/DT Smoking/NN Gun/NN website/NN publication/NN was/VBD "beyond/NN disaster"/JJ Ms/NNP Kite/NNP said./NN
+Correspondents/NNS say/VBP the/DT reference/NN is/VBZ important/JJ because/IN it/PRP was/VBD unclear/JJ whether/IN the/DT prosecution/NN would/MD be/VB able/JJ to/TO bring/VB up/RP the/DT previous/JJ case/NN in/IN front/NN of/IN the/DT jury./NN
+
+The/DT judge/NN is/VBZ studying/VBG whether/IN the/DT prosecution's/NNS first/RB witness/NN reporter/NN Martin/NNP Bashir/NNP is/VBZ in/IN contempt/NN of/IN court./NN
+The/DT defence/NN protested/VBD after/IN Mr/NNP Bashir/NNP who/WP interviewed/VBD Jackson/NNP for/IN the/DT TV/NN documentary/NN refused/VBD to/TO answer/VB nearly/RB all/DT their/PRP$ questions/NNS citing/VBG a/DT California/NNP "shield"/NN law/NN intended/VBN to/TO allow/VB journalists/NNS to/TO protect/VB their/PRP$ sources./NN
+In/IN the/DT prosecution's/NNS opening/NN statement/NN on/IN Monday/NNP Tom/NNP Sneddon/NNP told/VBD the/DT court/NN that/IN Mr/NNP Jackson/NNP had/VBD shown/VBN the/DT boy/NN porn/NN and/CC plied/VBD him/PRP with/IN wine/NN in/IN order/NN to/TO molest/JJ him./NN
+He/PRP said/VBD the/DT singer/NN had/VBD visited/VBN sexually/RB explicit/JJ websites/NNS and/CC showed/VBD the/DT boy/NN -/: who/WP was/VBD 13/CD at/IN the/DT time/NN -/: and/CC his/PRP$ younger/JJR brother/NN pornography/NN at/IN his/PRP$ ranch./NN

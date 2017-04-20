@@ -1,0 +1,18 @@
+Crossrail/NNP link/NN 'to/NN get/NN go-ahead'/JJ
+
+The/DT £10bn/CD Crossrail/NNP transport/NN plan/NN backed/VBN by/IN business/NN groups/NNS is/VBZ to/TO get/VB the/DT go-ahead/NN this/DT month/NN according/VBG to/TO The/DT Mail/NNP on/IN Sunday./NNP
+
+It/PRP says/VBZ the/DT UK/NNP Treasury/NNP has/VBZ allocated/VBN £7.5bn/CD ($13.99bn)/CD for/IN the/DT project/NN and/CC that/IN talks/NNS with/IN business/NN groups/NNS on/IN raising/VBG the/DT rest/NN will/MD begin/VB shortly./VBG
+The/DT much/NN delayed/VBD Crossrail/NNP Link/NN Bill/NNP would/MD provide/VB for/IN a/DT fast/RB cross-London/JJ rail/NN link./NN
+The/DT paper/NN says/VBZ it/PRP will/MD go/VB before/IN the/DT House/NNP of/IN Commons/NNPS on/IN 23/CD February./NNP
+
+A/DT second/JJ reading/NN could/MD follow/VB on/IN 16/CD or/CC 17/CD March./NNP
+"We've/NN always/RB said/VBD we/PRP are/VBP going/VBG to/TO introduce/VB a/DT hybrid/JJ Bill/NNP for/IN Crossrail/NNP in/IN the/DT Spring/NNP and/CC this/DT remains/VBZ the/DT case"/NN the/DT Department/NNP for/IN Transport/NNP said/VBD on/IN Sunday./NNP
+Jeremy/NNP de/NNP Souza/NNP a/DT spokesman/NN for/IN Crossrail/NNP said/VBD on/IN Sunday/NNP he/PRP could/MD not/RB confirm/VB whether/IN the/DT Treasury/NNP was/VBD planning/VBG to/TO invest/VB £7.5bn/CD or/CC when/WRB the/DT bill/NN would/MD go/VB before/IN Parliament./NNP
+
+However/RB he/PRP said/VBD some/DT impetus/NN may/MD have/VB been/VBN provided/VBN by/IN the/DT proximity/NN of/IN an/DT election./NN
+
+The/DT new/JJ line/NN would/MD go/VB out/RP as/RB far/RB as/IN Maidenhead/NNP Berkshire/NNP to/TO the/DT west/NN of/IN London/NNP and/CC link/NN Heathrow/NNP to/TO Canary/NNP Wharf/NNP via/IN the/DT City./NNP
+Heathrow/NN to/TO the/DT City/NNP would/MD take/VB 40/CD minutes/NNS dramatically/RB cutting/VBG journey/NN times/NNS for/IN business/NN travellers/NNS and/CC reducing/VBG overcrowding/NN on/IN the/DT tube./NN
+The/DT line/NN has/VBZ the/DT support/NN of/IN the/DT Mayor/NNP of/IN London/NNP Ken/NNP Livingstone/NNP business/NN groups/NNS and/CC the/DT government/NN but/CC there/EX have/VBP been/VBN three/CD years/NNS of/IN arguments/NNS over/IN how/WRB it/PRP should/MD be/VB funded./NN
+The/DT Mail/NNP on/IN Sunday's/NNP Financial/NNP Mail/NNP said/VBD the/DT £7.5bn/CD of/IN Treasury/NNP money/NN was/VBD earmarked/VBN for/IN spending/NN in/IN £2.5bn/CD instalments/NNS in/IN 2010/CD 2011/CD and/CC 2012./CD

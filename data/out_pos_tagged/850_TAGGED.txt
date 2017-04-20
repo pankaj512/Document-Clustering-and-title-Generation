@@ -1,0 +1,15 @@
+De/NNP Niro/NNP completes/VBZ box/NN office/NN coup/NN
+
+Robert/NNP De/NNP Niro/NNP has/VBZ completed/VBN a/DT transatlantic/NN box/NN office/NN double/JJ by/IN topping/VBG the/DT UK/NNP and/CC US/PRP film/VBP charts/NNS with/IN two/CD different/JJ films/NNS at/IN the/DT same/JJ time./NN
+
+Comedy/NNP sequel/NN Meet/VBP the/DT Fockers/NNP in/IN which/WDT he/PRP stars/VBZ with/IN Ben/NNP Stiller/NNP Dustin/NNP Hoffman/NNP and/CC Barbra/NNP Streisand/NNP shot/NN to/TO the/DT top/NN of/IN the/DT UK/NNP chart/NN at/IN the/DT weekend./NN
+It/PRP took/VBD £7.2m/CD in/IN three/CD days/NNS -/: eight/CD times/NNS more/JJR than/IN the/DT number/NN two/CD Closer./NNP
+Assault/NN on/IN Precinct/NNP 13/CD was/VBD in/IN third./NN
+At/IN the/DT same/JJ time/NN US/PRP audiences/VBZ were/VBD won/VBN over/IN by/IN his/PRP$ new/JJ thriller/NN Hide/VBP and/CC Seek./NNP
+In/IN Meet/VBP the/DT Fockers/NNP he/PRP picks/VBZ up/RP the/DT role/NN of/IN an/DT uptight/JJ father/NN and/CC ex-CIA/NN agent/NN from/IN 2000/CD hit/VBD comedy/NN Meet/VBP the/DT Parents./NNP
+
+It/PRP is/VBZ a/DT big/JJ leap/NN to/TO his/PRP$ role/NN in/IN Hide/NN and/CC Seek/VBP a/DT supernatural/JJ horror/NN in/IN which/WDT he/PRP plays/VBZ a/DT widower/NN whose/WP$ daughter's/NNS imaginary/JJ friend/NN turns/VBZ nasty./NN
+In/IN the/DT UK/NNP box/NN office/NN chart/NN Meet/VBP the/DT Fockers/NNP pushed/VBD Closer/RBR off/RP the/DT top/JJ spot/NN while/IN police/NN action/NN movie/NN Assault/NN On/IN Precinct/NNP 13/CD starring/VBG rapper/NN Ja/NNP Rule/NNP made/VBD £750000/CD in/IN its/PRP$ first/JJ weekend./NN
+London/NNP Underground/JJ thriller/NN Creep/NNP was/VBD another/DT new/JJ entry/NN at/IN six/CD while/IN quirky/JJ comedy/NN Sideways/RB which/WDT got/VBD five/CD Oscar/NNP nominations/NNS last/JJ week/NN entered/VBD in/IN eighth/JJ place./NN
+The/DT Oscar/NNP nominations/NNS do/VBP not/RB seem/VB to/TO have/VB had/VBN an/DT impact/NN on/IN fans'/NN choices/NNS at/IN cinemas./NN
+Leading/VBG contenders/NNS The/DT Aviator/NNP Million/CD Dollar/NN Baby/NNP and/CC Ray/NNP all/DT suffered/VBD substantial/JJ drops/NNS in/IN takings/NNS compared/VBN with/IN the/DT previous/JJ weekend./NN

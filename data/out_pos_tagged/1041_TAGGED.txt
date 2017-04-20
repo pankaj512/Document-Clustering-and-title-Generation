@@ -1,0 +1,12 @@
+Candidate/NN resigns/NNS over/IN BNP/NNP link/NN
+
+A/DT prospective/JJ candidate/NN for/IN the/DT UK/NNP Independence/NNP Party/NNP (UKIP)/NN has/VBZ resigned/VBN after/IN admitting/VBG a/DT "brief/NN attachment"/NN to/TO the/DT British/NNP National/NNP Party(BNP)./NNP
+
+Nicholas/NNP Betts-Green/NNP who/WP had/VBD been/VBN selected/VBN to/TO fight/VB the/DT Suffolk/NNP Coastal/NNP seat/NN quit/VBD after/IN reports/NNS in/IN a/DT newspaper/NN that/IN he/PRP attended/VBD a/DT BNP/NNP meeting./NN
+The/DT former/JJ teacher/NN confirmed/VBD he/PRP had/VBD attended/VBN the/DT meeting/NN but/CC said/VBD that/DT was/VBD the/DT only/JJ contact/NN he/PRP had/VBD with/IN the/DT group./NN
+Mr/NNP Betts-Green/NNP resigned/VBD after/IN being/VBG questioned/VBD by/IN the/DT party's/NNS leadership./NN
+A/DT UKIP/NNP spokesman/NN said/VBD Mr/NNP Betts-Green's/NNP resignation/NN followed/VBD disclosures/NNS in/IN the/DT East/NNP Anglian/JJ Daily/NNP Times/NNP last/JJ month/NN about/IN his/PRP$ attendance/NN at/IN a/DT BNP/NNP meeting./NN
+"He/NN did/VBD once/RB attend/VB a/DT BNP/NNP meeting./NN
+He/PRP did/VBD not/RB like/IN what/WP he/PRP saw/VBD and/CC heard/VBN and/CC will/MD take/VB no/DT further/JJ part/NN of/IN it"/NN the/DT spokesman/NN added./NN
+A/DT meeting/NN of/IN Suffolk/NNP Coastal/NNP UKIP/NNP members/NNS is/VBZ due/JJ to/TO be/VB held/VBN next/JJ week/NN to/TO discuss/VB a/DT replacement./NN
+Mr/NNP Betts-Green/NNP of/IN Woodbridge/NNP Suffolk/NNP has/VBZ also/RB resigned/VBN as/IN UKIP's/NNP branch/NN chairman./NN

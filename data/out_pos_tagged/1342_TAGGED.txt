@@ -1,0 +1,10 @@
+Isinbayeva/NNP heads/VBZ for/IN Birmingham/NNP
+
+Olympic/NNP pole/NN vault/NN champion/NN Yelena/NNP Isinbayeva/NNP has/VBZ confirmed/VBN she/PRP will/MD take/VB part/NN in/IN the/DT 2005/CD Norwich/NNP Union/NNP Grand/NNP Prix/NNP in/IN Birmingham/NNP on/IN 18/CD February./NNP
+
+"Everybody/NN knows/VBZ how/WRB much/JJ I/PRP enjoy/VBP competing/VBG in/IN Britain./NNP
+I/PRP always/RB seem/VBP to/TO break/VB records/NNS there"/NN said/VBD Isinbayeva./NNP
+"As/NNP Olympic/NNP champion/NN there/EX will/MD be/VB more/JJR attention/NN on/IN me/PRP this/DT year/NN but/CC hopefully/RB I/PRP can/MD respond/VB with/IN another/DT record/NN in/IN Birmingham."/NNP Kelly/NNP Holmes/NNP and/CC Carolina/NNP Kluft/NNP are/VBP among/IN other/JJ Athens/NNP winners/NNS competing./NN
+The/DT organisers/NNS are/VBP hoping/VBG that/IN Isinbayeva's/NNP main/JJ rival/JJ fellow/JJ Russian/JJ Svetlana/NNP Feofanova/NNP will/MD also/RB take/VB part/NN in/IN the/DT event./NN
+The/DT pair/NN had/VBD a/DT thrilling/VBG battle/NN in/IN Athens/NNP which/WDT ended/VBD with/IN Isinbayeva/NNP finally/RB jumping/VBG a/DT world/NN record/NN of/IN 4.91m/CD to/TO claim/VB the/DT gold/NN medal./NN
+Isinbayeva/NNP 22/CD has/VBZ set/VBN 10/CD world/NN records/NNS in/IN the/DT pole/NN vault/NN three/CD of/IN which/WDT have/VBP come/VBN on/IN British/JJ soil./NN

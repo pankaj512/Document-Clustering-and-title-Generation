@@ -1,0 +1,21 @@
+FBI/NNP agent/NN colludes/NNS with/IN analyst/NN
+
+A/DT former/JJ FBI/NNP agent/NN and/CC an/DT internet/JJ stock/NN picker/NN have/VBP been/VBN found/VBN guilty/JJ of/IN using/VBG confidential/JJ US/PRP government/VBP information/NN to/TO manipulate/VB stock/NN prices./NN
+
+A/DT New/NNP York/NNP court/NN ruled/VBD that/IN former/JJ FBI/NNP man/NN Jeffrey/NNP Royer/NNP 41/CD fed/VBN damaging/JJ information/NN to/TO Anthony/NNP Elgindy/NNP 36./CD
+Mr/NNP Elgindy/NNP then/RB drove/VBD share/NN prices/NNS lower/JJR by/IN spreading/VBG negative/JJ publicity/NN via/IN his/PRP$ newsletter./NN
+The/DT Egyptian-born/NNP analyst/NN would/MD extort/VB money/NN from/IN his/PRP$ targets/NNS in/IN return/NN for/IN stopping/VBG the/DT attacks/NNS prosecutors/NNS said./NN
+"Under/NN the/DT guise/NN of/IN protecting/VBG investors/NNS from/IN fraud/NN Royer/NNP and/CC Elgindy/NNP used/VBD the/DT FBI's/NNP crime-fighting/JJ tools/NNS and/CC resources/NNS actually/RB to/TO defraud/VB the/DT public"/NN said/VBD US/PRP Attorney/NNP Roslynn/NNP Mauskopf./NNP
+
+Mr/NNP Royer/NNP was/VBD convicted/VBN of/IN racketeering/NN securities/NNS fraud/NN obstruction/NN of/IN justice/NN and/CC witness/NN tampering./NN
+Mr/NNP Elgindy/NNP was/VBD convicted/VBN of/IN racketeering/NN securities/NNS fraud/NN and/CC extortion./NN
+
+The/DT charges/NNS carry/VBP sentences/NNS of/IN up/IN to/TO 20/CD years./NN
+When/WRB the/DT guilty/JJ verdict/NN was/VBD announced/VBN by/IN the/DT jury/NN foreman/NN Mr/NNP Elgindy/NNP dropped/VBD his/PRP$ face/NN into/IN his/PRP$ hands/NNS and/CC sobbed/VBD the/DT Associated/NNP Press/NNP news/NN agency/NN reported./NN
+He/PRP was/VBD led/VBN weeping/VBG from/IN the/DT court/NN room/NN by/IN US/PRP marshals/VBZ AP/NNP said./NN
+Defense/NN lawyers/NNS contended/VBD that/IN Mr/NNP Royer/NNP had/VBD been/VBN feeding/VBG information/NN to/TO Mr/NNP Elgindy/NNP and/CC another/DT trader/NN in/IN an/DT attempt/NN to/TO expose/VB corporate/JJ fraud./NN
+Mr/NNP Elgindy's/NNP team/NN claimed/VBD that/IN he/PRP also/RB was/VBD fighting/VBG against/IN corporate/JJ wrongdoing./NN
+"Elgindy's/NN conviction/NN marks/VBZ the/DT end/NN of/IN his/PRP$ public/JJ charade/NN as/IN a/DT crusader/NN against/IN fraud/NN in/IN the/DT market"/NN said/VBD Ms/NNP Mauskopf./NNP
+One/CD of/IN the/DT more/RBR bizarre/JJ aspects/NNS of/IN the/DT trial/NN focused/VBN on/IN the/DT claims/VBZ that/IN Mr/NNP Elgindy/NNP may/MD have/VB had/VBN foreknowledge/NN of/IN the/DT 11/CD September/NNP terrorist/JJ attacks/NNS in/IN New/NNP York/NNP and/CC Washington./NNP
+Mr/NNP Elgindy/NNP had/VBD been/VBN trying/VBG to/TO sell/VB stock/NN prior/RB to/TO the/DT attack/NN and/CC had/VBD predicted/VBN a/DT slump/NN in/IN the/DT market./NN
+No/DT charges/NNS were/VBD brought/VBN in/RP relation/NN to/TO these/DT allegations./NN

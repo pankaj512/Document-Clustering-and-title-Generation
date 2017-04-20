@@ -1,0 +1,32 @@
+Blair/NNP looks/VBZ to/TO election/VB campaign/NN
+
+Tony/NNP Blair's/NNP big/JJ speech/NN will/MD be/VB looked/VBN back/RB on/IN as/IN the/DT performance/NN that/WDT kicked/VBD off/RP the/DT election/NN campaign./NN
+
+That/DT poll/NN may/MD still/RB be/VB about/IN 16/CD weeks/NNS away/RB but/CC there/EX can/MD be/VB little/JJ doubt/NN left/VBN that/IN the/DT campaign/NN is/VBZ now/RB in/IN full/JJ swing./NN
+The/DT prime/JJ minister/NN used/VBD his/PRP$ speech/NN to/TO a/DT selected/VBN audience/NN in/IN the/DT south/RB east/JJ to/TO set/VB out/RP his/PRP$ broad/JJ brush/NN election/NN manifesto./NN
+There/EX was/VBD a/DT detailed/JJ account/NN of/IN the/DT government's/NNS past/JJ record/NN with/IN a/DT major/JJ emphasis/NN on/IN the/DT economy/NN and/CC public/JJ services./NN
+There/EX was/VBD an/DT attempt/NN to/TO draw/VB the/DT line/NN under/IN the/DT gossip/NN surrounding/VBG his/PRP$ rift/NN with/IN Chancellor/NNP Gordon/NNP Brown./NNP
+And/CC there/EX was/VBD an/DT insistence/NN on/IN the/DT importance/NN of/IN the/DT party/NN continuing/VBG to/TO operate/VB as/IN unremittingly/RB "New"/NN Labour/NNP -/: although/IN that/WDT may/MD continue/VB to/TO irritate/VB his/PRP$ chancellor./NN
+
+There/EX was/VBD little/RB in/IN terms/NNS of/IN concrete/JJ proposals/NNS or/CC what/WP might/MD form/VB manifesto/NN pledges/NNS although/IN the/DT prime/JJ minister/NN talked/VBD about/IN a/DT "New/NN Labour/NNP manifesto/NN that/WDT will/MD be/VB aimed/VBN at/IN all/DT sections/NNS of/IN society"./NN
+His/PRP$ was/VBD more/JJR a/DT speech/NN designed/VBN to/TO remind/VB people/NNS and/CC some/DT in/IN his/PRP$ own/JJ party/NN precisely/RB what/WP New/NNP Labour/NNP stood/VBD for/IN and/CC to/TO leave/VB them/PRP in/IN no/DT doubt/NN there/EX would/MD not/RB be/VB any/DT shrinking/VBG away/RB from/IN that/DT approach./NN
+And/CC for/IN some/DT that/WDT means/VBZ showing/VBG that/IN New/NNP Labour/NNP actually/RB does/VBZ stand/VB for/IN something/NN -/: that/IN it/PRP is/VBZ as/RB he/PRP said/VBD more/JJR than/IN "an/NN electoral/JJ device"./NN
+
+To/TO that/WDT end/NN he/PRP set/VBD out/RP a/DT broad/JJ programme/NN aimed/VBN to/TO appeal/VB to/TO both/DT middle/NN England/NNP voters/NNS who/WP switched/VBD to/TO the/DT party/NN in/IN 1997/CD and/CC stuck/VBN with/IN it/PRP possibly/RB through/IN some/DT gritted/VBN teeth/NNS in/IN 2001/CD and/CC to/TO more/RBR traditional/JJ lower/JJR income/NN old/JJ Labour/NNP supporters./NN
+In/IN a/DT key/JJ section/NN he/PRP declared/VBD "In/NN our/PRP$ third/JJ term/NN we/PRP can/MD achieve/VB an/DT unprecedented/JJ widening/NN of/IN opportunity/NN and/CC prosperity./NN
+"For/NN the/DT first/JJ time/NN ever/RB a/DT whole/JJ generation/NN growing/VBG up/RP with/IN unbroken/JJ economic/JJ stability./NN
+Every/DT family/NN -/: not/RB just/RB the/DT fortunate/JJ few/JJ -/: knowing/VBG their/PRP$ children/NNS will/MD have/VB an/DT inheritance/NN at/IN adulthood./NN
+"Every/NN pupil/NN in/IN every/DT secondary/JJ school/NN guaranteed/VBD a/DT place/NN in/IN university/NN or/CC a/DT quality/NN apprenticeship./NN
+Every/DT adult/NN -/: including/VBG those/DT who/WP missed/VBD out/RP at/IN school/NN -/: able/JJ to/TO get/VB the/DT skills/NNS then/RB need/VBP to/TO advance./VB
+"Home/NN ownership/NN extended/VBN to/TO its/PRP$ highest/JJS ever/RB level/NN and/CC to/TO families/NNS who/WP have/VBP never/RB before/IN been/VBN able/JJ to/TO afford/VB it./NN
+"The/NN highest/JJS ever/RB level/NN of/IN employment/NN with/IN everyone/NN in/IN work/NN guaranteed/VBD a/DT decent/JJ wage/NN and/CC decent/JJ conditions"./NN
+
+Under/IN what/WP is/VBZ to/TO be/VB the/DT general/JJ election/NN slogan/NN "Britain/NN is/VBZ working"/VBG the/DT prime/JJ minister/NN time/NN and/CC again/RB insisted/VBD the/DT future/JJ direction/NN would/MD be/VB unremittingly/RB New/NNP Labour./NNP
+That/DT might/MD get/VB under/IN the/DT skin/NN of/IN Mr/NNP Brown/NNP but/CC he/PRP also/RB heaped/VBD praise/NN on/IN him/PRP as/IN the/DT most/RBS successful/JJ post-war/JJ chancellor/NN Britain/NNP has/VBZ had./NN
+Probably/RB the/DT greatest/JJS ideological/JJ divide/VBP between/IN the/DT two/CD men/NNS in/IN so/RB far/RB as/IN there/EX is/VBZ one/CD is/VBZ about/IN the/DT degree/NN of/IN private/JJ finance/NN allowed/VBN into/IN the/DT public/JJ services./NN
+
+An/DT unremittingly/RB "New"/NN Labour/NNP manifesto/NN as/IN the/DT prime/JJ minister/NN is/VBZ happy/JJ to/TO make/VB plain/JJ will/MD stress/VB the/DT importance/NN of/IN that/DT -/: the/DT belief/NN patients/NNS and/CC parents/NNS for/IN example/NN want/VBP a/DT choice/NN of/IN good/JJ services/NNS before/IN they/PRP start/VBP worrying/VBG about/IN who/WP has/VBZ provided/VBN them./NN
+The/DT chancellor/NN is/VBZ said/VBN to/TO be/VB far/RB more/RBR sceptical/JJ about/IN private/JJ finance/NN although/IN there/EX is/VBZ no/DT suggestion/NN he/PRP opposes/VBZ it/PRP in/IN principle./NN
+With/IN an/DT election/NN looming/VBG the/DT next/JJ big/JJ speech/NN from/IN Gordon/NNP Brown/NNP will/MD be/VB closely/RB examined/VBN for/IN any/DT signs/NNS of/IN divisions/NNS and/CC in/IN particular/JJ the/DT use/NN of/IN that/DT little/JJ three/CD letter/NN word./NN
+But/CC for/IN now/RB all/DT eyes/NNS have/VBP been/VBN focused/VBN on/IN the/DT next/JJ general/JJ election./NN
+And/CC for/IN many/JJ in/IN Westminster/NNP Mr/NNP Blair's/NNP performance/NN has/VBZ only/RB succeeded/VBN in/IN hardening/VBG the/DT belief/NN that/WDT will/MD be/VB on/IN 5/CD May./NNP

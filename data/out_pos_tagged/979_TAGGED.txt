@@ -1,0 +1,16 @@
+Hague/NNP 'given/NN up'/NN his/PRP$ PM/NNP ambition/NN
+
+Former/NNP Conservative/JJ leader/NN William/NNP Hague/NNP says/VBZ he/PRP will/MD not/RB stand/VB for/IN the/DT leadership/NN again/RB having/VBG given/VBN up/RP his/PRP$ ambition/NN to/TO be/VB prime/JJ minister./NN
+
+Mr/NNP Hague/NNP 43/CD told/VBD the/DT Daily/NNP Telegraph/NNP he/PRP would/MD now/RB find/VB a/DT life/NN dominated/VBN by/IN politics/NNS too/RB "boring"/VBP and/CC unfulfilling./NN
+Mr/NNP Hague/NNP who/WP stepped/VBD down/RB after/IN his/PRP$ party's/NNS 2001/CD election/NN defeat/NN does/VBZ not/RB rule/VB out/RP a/DT return/NN to/TO the/DT front/JJ bench./NN
+He/PRP also/RB told/VBD the/DT paper/NN he/PRP hopes/VBZ to/TO remain/VB MP/NNP for/IN Richmond/NNP North/NNP Yorks/NNP and/CC start/VB a/DT family/NN with/IN wife/NN Ffion./NNP
+Mr/NNP Hague/NNP who/WP recently/RB had/VBD published/VBN the/DT biography/NN of/IN William/NNP Pitt/NNP the/DT Younger/JJR also/RB said/VBD he/PRP wanted/VBD to/TO continue/VB writing/VBG books/NNS and/CC speech-writing./JJ
+
+He/PRP told/VBD the/DT newspaper/NN "I/NN don't/NN know/NN whether/IN I/PRP will/MD ever/RB go/VB back/RB on/RP to/TO the/DT front/NN but/CC don't/NN rush/NN me."/NN Asked/VBN if/IN he/PRP would/MD stand/VB for/IN the/DT leadership/NN again/RB Mr/NNP Hague/NNP replied/VBD "No./NN
+Definitely/RB not."/NN His/PRP$ determination/NN to/TO stay/VB away/RB from/IN a/DT central/JJ role/NN will/MD disappoint/VB some/DT senior/JJ Conservative/JJ members/NNS who/WP say/VBP the/DT party/NN needs/VBZ him./NN
+Tim/NNP Collins/NNP the/DT shadow/NN education/NN secretary/NN said/VBD last/JJ week/NN it/PRP would/MD be/VB a/DT "huge/NN boost"/NN to/TO the/DT party/NN if/IN Mr/NNP Hague/NNP returned/VBD to/TO the/DT front/JJ bench./NN
+Mr/NNP Hague/NNP became/VBD an/DT MP/NNP at/IN 27/CD and/CC Leader/NNP of/IN the/DT Opposition/NN at/IN 36./CD
+He/PRP said/VBD "I/NN feel/VBP fortunate/JJ that/IN by/IN the/DT age/NN of/IN 40/CD I/PRP had/VBD crammed/VBN in/IN an/DT entire/JJ political/JJ career./NN
+"I/NN had/VBD been/VBN in/IN the/DT Cabinet/NNP and/CC been/VBN leader/NN of/IN the/DT party/NN so/RB now/RB I/PRP can/MD branch/VB out/RP into/IN other/JJ things...it/NN is/VBZ a/DT very/RB liberating/JJ feeling."/NN Mr/NNP Hague/NNP added/VBD that/IN he/PRP may/MD have/VB misjudged/VBN his/PRP$ own/JJ ambition/NN to/TO be/VB prime/JJ minister./NN
+"Maybe/NN I/PRP wasn't/VBP as/IN driven/VBN by/IN politics/NNS as/IN I/PRP thought/VBD I/PRP was"/VBP he/PRP said./VB

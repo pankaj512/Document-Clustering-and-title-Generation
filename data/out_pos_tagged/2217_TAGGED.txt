@@ -1,0 +1,24 @@
+Savvy/JJ searchers/NNS fail/VBP to/TO spot/VB ads/NNS
+
+Internet/NNP search/NN engine/NN users/NNS are/VBP an/DT odd/JJ mix/NN of/IN naive/JJ and/CC sophisticated/JJ suggests/VBZ a/DT report/NN into/IN search/NN habits./NN
+
+The/DT report/NN by/IN the/DT US/PRP Pew/NNP Research/NNP Center/NNP reveals/VBZ that/IN 87%/CD of/IN searchers/NNS usually/RB find/VBP what/WP they/PRP were/VBD looking/VBG for/IN when/WRB using/VBG a/DT search/NN engine./NN
+It/PRP also/RB shows/VBZ that/IN few/JJ can/MD spot/VB the/DT difference/NN between/IN paid-for/JJ results/NNS and/CC organic/JJ ones./NN
+The/DT report/NN reveals/VBZ that/IN 84%/CD of/IN net/JJ users/NNS say/VBP they/PRP regularly/RB use/VBP Google/NNP Ask/VB Jeeves/NNP MSN/NNP and/CC Yahoo/NNP when/WRB online./NN
+
+Almost/RB 50%/CD of/IN those/DT questioned/VBD said/VBN they/PRP would/MD trust/VB search/NN engines/NNS much/RB less/JJR if/IN they/PRP knew/VBD information/NN about/IN who/WP paid/VBD for/IN results/NNS was/VBD being/VBG hidden./NN
+According/VBG to/TO figures/NNS gathered/VBN by/IN the/DT Pew/NNP researchers/NNS the/DT average/JJ users/NNS spends/VBZ about/IN 43/CD minutes/NNS per/IN month/NN carrying/VBG out/RP 34/CD separate/JJ searches/NNS and/CC looks/VBZ at/IN 1.9/CD webpages/NNS for/IN each/DT hunt./NN
+A/DT significant/JJ chunk/NN of/IN net/JJ users/NNS 36%/CD carry/NN out/RP a/DT search/NN at/IN least/JJS weekly/JJ and/CC 29%/CD of/IN those/DT asked/VBD only/RB look/VB every/DT few/JJ weeks./NN
+For/IN 44%/CD of/IN those/DT questioned/VBD the/DT information/NN they/PRP are/VBP looking/VBG for/IN is/VBZ critical/JJ to/TO what/WP they/PRP are/VBP doing/VBG and/CC is/VBZ information/NN they/PRP simply/RB have/VBP to/TO find./VB
+
+Search/NN engine/NN users/NNS also/RB tend/VBP to/TO be/VB very/RB loyal/JJ and/CC once/IN they/PRP have/VBP found/VBN a/DT site/NN they/PRP feel/VBP they/PRP can/MD trust/VB tend/VB to/TO stick/VB with/IN it./NN
+According/VBG to/TO Pew/NNP Research/NNP 44%/CD of/IN searchers/NNS use/VBP just/RB a/DT single/JJ search/NN engine/NN 48%/CD use/NN two/CD or/CC three/CD and/CC a/DT small/JJ number/NN 7%/CD consult/NN more/JJR than/IN three/CD sites./NN
+Tony/NNP Macklin/NNP spokesman/NN for/IN Ask/NN Jeeves/NNP said/VBD the/DT results/NNS reflected/VBD its/PRP$ own/JJ research/NN which/WDT showed/VBD that/IN people/NNS use/VBP different/JJ search/NN engines/NNS because/IN the/DT way/NN the/DT sites/NNS gather/VBP information/NN means/VBZ they/PRP can/MD provide/VB different/JJ results/NNS for/IN the/DT same/JJ query./NN
+Despite/IN this/DT liking/NN for/IN search/NN sites/NNS half/NN of/IN those/DT questioned/VBD said/VBN they/PRP could/MD get/VB the/DT same/JJ information/NN via/IN other/JJ routes./NN
+A/DT small/JJ number/NN 17%/CD said/VBD they/PRP wouldn't/VBP really/RB miss/VB search/NN engines/NNS if/IN they/PRP did/VBD not/RB exist./VB
+The/DT remaining/VBG 33%/CD said/VBD they/PRP could/MD not/RB live/VB without/IN search/NN sites./NN
+More/JJR than/IN two-thirds/NNS of/IN those/DT questioned/VBD 68%/CD said/VBD they/PRP thought/VBD that/IN the/DT results/NNS they/PRP were/VBD presented/VBN with/IN were/VBD a/DT fair/JJ and/CC unbiased/JJ selection/NN of/IN the/DT information/NN on/IN a/DT topic/NN that/WDT can/MD be/VB found/VBN on/IN the/DT net./NN
+Alongside/IN the/DT growing/VBG sophistication/NN of/IN net/JJ users/NNS is/VBZ a/DT lack/NN of/IN awareness/NN about/IN paid-for/JJ results/NNS that/IN many/JJ search/NN engines/NNS provide/VBP alongside/IN lists/NNS of/IN websites/NNS found/VBN by/IN indexing/NN the/DT web./NN
+Of/IN those/DT asked/VBD 62%/CD were/VBD unaware/JJ that/IN someone/NN has/VBZ paid/VBN for/IN some/DT of/IN the/DT results/NNS they/PRP see/VBP when/WRB they/PRP carry/VBP out/RP a/DT search./NN
+Only/RB 18%/CD of/IN all/DT searchers/NNS say/VBP they/PRP can/MD tell/VB which/WDT results/NNS are/VBP paid/VBN for/IN and/CC which/WDT are/VBP not./NN
+Said/VBG the/DT Pew/NNP report/NN "This/NN finding/NN is/VBZ ironic/JJ since/IN nearly/RB half/NN of/IN all/DT users/NNS say/VBP they/PRP would/MD stop/VB using/VBG search/NN engines/NNS if/IN they/PRP thought/VBD engines/NNS were/VBD not/RB being/VBG clear/JJ about/IN how/WRB they/PRP presented/VBD paid/VBN results."/NN Commenting/VBG Mr/NNP Macklin/NNP said/VBD sponsored/VBN results/NNS must/MD be/VB clearly/RB marked/VBD and/CC though/IN they/PRP might/MD help/VB with/IN some/DT queries/NNS user/NN testing/NN showed/VBD that/IN people/NNS need/VBP to/TO be/VB able/JJ to/TO spot/VB the/DT difference./NN

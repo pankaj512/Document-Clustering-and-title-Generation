@@ -1,0 +1,37 @@
+Putin/NNP backs/VBZ state/NN grab/NN for/IN Yukos/NNP
+
+Russia's/NNP president/NN has/VBZ defended/VBN the/DT purchase/NN of/IN Yukos'/NNP key/JJ production/NN unit/NN by/IN state-owned/JJ oil/NN firm/NN Rosneft/NNP saying/VBG it/PRP followed/VBD free/JJ market/NN principles./NN
+
+Vladimir/NNP Putin/NNP said/VBD it/PRP was/VBD quite/RB within/IN the/DT rights/NNS of/IN a/DT state-owned/JJ company/NN to/TO ensure/VB its/PRP$ interests/NNS were/VBD met./NN
+Rosneft/NNP bought/VBD 100%/CD of/IN Baikal/NNP Finance/NNP Group/NNP in/IN a/DT move/NN that/IN amounts/VBZ to/TO the/DT renationalisation/NN of/IN a/DT major/JJ chunk/NN of/IN Russia's/NNP booming/JJ oil/NN industry./NN
+Rosneft/NNP will/MD now/RB control/VB about/IN 16%/CD of/IN Russia's/NNP total/JJ crude/JJ oil/NN output./NN
+Yukos/NNP share/NN jumped/VBD in/IN Moscow/NNP climbing/VBG as/RB much/JJ as/IN 50%/CD before/IN being/VBG suspended./NN
+
+Rosneft/NNP is/VBZ already/RB in/IN the/DT process/NN of/IN merging/VBG with/IN Gazprom/NNP the/DT world's/NNS biggest/JJS gas/NN company/NN a/DT move/NN that/WDT will/MD see/VB Gazprom/NNP return/NN to/TO majority/NN state-ownership./JJ
+
+Baikal/NNP was/VBD the/DT surprise/NN buyer/NN of/IN oil/NN and/CC gas/NN giant/NN Yukos's/NNP main/JJ production/NN division/NN at/IN a/DT forced/VBN auction/NN on/IN Sunday./NNP
+"Everything/VBG was/VBD done/VBN by/IN market/NN methods"/NN Mr/NNP Putin/NNP said/VBD at/IN his/PRP$ year-end/NN press/NN conference/NN in/IN Moscow./NNP
+Shedding/VBG some/DT light/NN on/IN the/DT Kremlin's/NNP motivation/NN Mr/NNP Putin/NNP referred/VBD to/TO a/DT period/NN of/IN so-called/JJ "cowboy/NN capitalism"/NN that/WDT followed/VBD the/DT collapse/NN of/IN the/DT Soviet/NNP Union./NNP
+
+He/PRP said/VBD privatisations/NNS carried/VBD out/RP in/IN the/DT early/JJ 1990s/NNS had/VBD involved/VBN trickery/NN including/VBG law/NN breaking/VBG by/IN people/NNS seeking/VBG to/TO acquire/VB valuable/JJ state/NN property./NN
+"Now/NN the/DT state/NN using/VBG market/NN methods/NNS is/VBZ safeguarding/VBG its/PRP$ interests./JJ
+I/PRP think/VBP this/DT is/VBZ quite/RB normal"/VB the/DT Russian/JJ president/NN said./NN
+A/DT Rosneft/NNP spokesman/NN has/VBZ said/VBD the/DT acquisition/NN is/VBZ part/NN of/IN its/PRP$ plan/NN to/TO build/VB a/DT "balanced/VBN national/JJ energy/NN corporation."/NN
+
+The/DT latest/JJS announcement/NN comes/VBZ after/IN more/JJR than/IN a/DT year/NN of/IN wrangling/VBG that/WDT has/VBZ pushed/VBN Yukos/NNP one/CD of/IN Russia's/NNP biggest/JJS companies/NNS to/TO the/DT brink/NN of/IN collapse./NN
+The/DT Russian/JJ government/NN put/VBD Yukos's/NNP Yuganskneftegas/NNP subsidiary/NN up/RP for/IN sale/NN last/JJ week/NN after/IN hitting/VBG the/DT company/NN with/IN a/DT $27bn/CD (£14bn)/CD bill/NN for/IN back/JJ taxes/NNS and/CC fines./NN
+
+Analysts/NNS say/VBP that/IN Yukos's/NNP legal/JJ attempts/NNS to/TO block/VB the/DT auction/NN by/IN filing/VBG for/IN bankruptcy/NN protection/NN in/IN the/DT US/PRP are/VBP probably/RB what/WP caused/VBD this/DT week's/NNS cloak-and-dagger/JJ dealings./NN
+Gazprom/VBG the/DT company/NN originally/RB tipped/VBD to/TO buy/VB Yuganskneftegas/NNP was/VBD banned/VBN from/IN taking/VBG part/NN in/IN the/DT auction/NN by/IN a/DT US/PRP court/VBP injunction./NN
+By/IN selling/VBG the/DT Yukos/NNP unit/NN to/TO little-known/JJ Baikal/NNP and/CC then/RB to/TO Rosneft/NNP Russia/NNP is/VBZ able/JJ to/TO circumvent/VB a/DT host/NN of/IN tricky/JJ legal/JJ landmines/NNS analysts/NNS said./NN
+"You/NN cannot/NN sue/VBP the/DT Russian/JJ government"/NN said/VBD Eric/NNP Kraus/NNP a/DT strategist/NN at/IN Moscow's/NNP Sovlink/NNP Securities./NNP
+"The/NN Russian/JJ government/NN has/VBZ sovereign/JJ immunity."/NN "The/NN government/NN is/VBZ renationalising/VBG Yuganskneftegas."/NNP
+
+Even/RB so/RB analysts/NNS reckon/VBP that/IN the/DT saga/NN still/RB has/VBZ a/DT long/JJ way/NN to/TO go./VB
+The/DT Rosneft/NNP announcement/NN came/VBD just/RB hours/NNS after/IN Yukos/NNP accused/VBD Gazprom/NNP of/IN illegally/RB taking/VBG part/NN in/IN Sunday's/NNP auction./NN
+It/PRP has/VBZ said/VBN it/PRP will/MD be/VB seeking/VBG damages/NNS of/IN $20bn./CD
+The/DT claim/NN was/VBD made/VBN at/IN the/DT latest/JJS hearing/NN in/IN the/DT US/PRP bankruptcy/VBP court/NN in/IN Houston/NNP Texas/NNP where/WRB Yukos/NNP had/VBD filed/VBD for/IN Chapter/NN 11/CD bankruptcy/NN protection./NN
+If/IN found/VBN in/IN contempt/NN of/IN the/DT US/PRP court/VBP order/NN blocking/VBG the/DT auction/NN Gazprom/NNP could/MD face/VB having/VBG foreign/JJ assets/NNS seized./NN
+Yukos'/NN lawyers/NNS had/VBD also/RB been/VBN expected/VBN to/TO try/VB to/TO have/VB Baikal's/NNP assets/NNS frozen./NN
+Lawyers/NNS claimed/VBD the/DT auction/NN was/VBD illegal/JJ because/IN Yukos/NNP -/: with/IN an/DT office/NN in/IN Houston/NNP -/: had/VBD filed/VBD for/IN bankruptcy/NN and/CC therefore/RB its/PRP$ assets/NNS were/VBD under/IN the/DT protection/NN of/IN US/PRP law/VBP which/WDT has/VBZ worldwide/NN jurisdiction./NN
+Further/RB muddying/VBG the/DT waters/NNS is/VBZ a/DT merger/NN between/IN Rosneft/NNP and/CC Gazprom/NNP which/WDT authorities/NNS have/VBP said/VBN will/MD go/VB ahead/RB as/IN planned./NN

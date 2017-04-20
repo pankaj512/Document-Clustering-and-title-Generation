@@ -1,0 +1,10 @@
+Uefa/NNP approves/VBZ fake/JJ grass/NN
+
+Uefa/NNP says/VBZ it/PRP will/MD allow/VB European/JJ matches/VBZ to/TO be/VB played/VBN on/IN artificial/JJ pitches/NNS from/IN the/DT start/NN of/IN next/JJ season./NN
+
+European/JJ football's/NNS governing/VBG body/NN made/VBD the/DT decision/NN at/IN a/DT meeting/NN of/IN its/PRP$ Executive/NNP Committee/NNP on/IN Wednesday./NNP
+Uefa/NNP explained/VBD that/IN the/DT move/NN "follows/NN comprehensive/JJ studies/NNS into/IN the/DT sporting/NN and/CC medical/JJ aspects/NNS of/IN using/VBG artificial/JJ playing/NN surfaces."/NN They/PRP can/MD be/VB used/VBN subject/JJ to/TO complying/VBG with/IN Uefa/NNP quality/NN criteria/NNS but/CC there/EX use/NN will/MD not/RB be/VB made/VBN obligatory./NN
+Luton/NNP Preston/NNP Queens/NNP Park/NNP Rangers/NNPS and/CC other/JJ clubs/NNS used/VBN to/TO have/VB plastic/NN pitches/NNS during/IN the/DT the/DT 1980s/CD but/CC after/IN a/DT two-year/JJ study/NN Uefa/NNP insists/VBZ the/DT surfaces/NNS have/VBP moved/VBN on./NN
+International/NNP matches/VBZ can/MD also/RB be/VB played/VBN on/IN such/JJ pitches/NNS although/IN games/NNS at/IN major/JJ tournaments/NNS have/VBP to/TO be/VB contested/VBN on/IN grass./NN
+Uefa/NNP spokesman/NN Rob/NNP Faulkner/NNP said/VBD "People/NN in/IN England/NNP have/VBP bad/JJ memories/NNS of/IN the/DT artificial/JJ pitches/NNS of/IN Luton/NNP and/CC QPR/NNP in/IN the/DT 1980s/CD but/CC the/DT latest/JJS generation/NN are/VBP completely/RB different/JJ and/CC are/VBP much/RB more/JJR like/IN grass./NN
+"We/NN have/VBP sanctioned/VBN its/PRP$ use/NN from/IN the/DT start/NN of/IN next/JJ season/NN but/CC only/RB as/RB long/RB as/IN it/PRP is/VBZ the/DT latest/JJS generation/NN of/IN artificial/JJ turf/NN and/CC meets/VBZ a/DT whole/JJ series/NN of/IN standards."/NN Several/JJ leading/VBG clubs/NNS from/IN Scandinavia/NNP Russia/NNP and/CC eastern/JJ Europe/NNP -/: especially/RB those/DT who/WP only/RB play/VBP Champions/NNS League/NNP or/CC Uefa/NNP Cup/NNP matches/VBZ in/IN winter/NN -/: are/VBP now/RB expected/VBN to/TO instal/VB artificial/JJ pitches./NN

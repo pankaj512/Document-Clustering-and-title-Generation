@@ -1,0 +1,18 @@
+MG/NNP Rover/NNP China/NNP tie-up/NN 'delayed'/NN
+
+MG/NNP Rover's/NNP proposed/VBD tie-up/NN with/IN China's/NNP top/JJ carmaker/NN has/VBZ been/VBN delayed/VBN due/JJ to/TO concerns/NNS by/IN Chinese/JJ regulators/NNS according/VBG to/TO the/DT Financial/NNP Times./NNP
+
+The/DT paper/NN said/VBD Chinese/JJ officials/NNS had/VBD been/VBN irritated/JJ by/IN Rover's/NNP disclosure/NN of/IN its/PRP$ talks/NNS with/IN Shanghai/NNP Automotive/NNP Industry/NNP Corp/NNP in/IN October./NNP
+The/DT proposed/VBN deal/NN was/VBD seen/VBN as/RB crucial/JJ to/TO safeguarding/VBG the/DT future/NN of/IN Rover's/NNP Longbridge/NNP plant/NN in/IN the/DT West/NNP Midlands./NNP
+However/RB there/EX are/VBP growing/VBG fears/NNS that/IN the/DT deal/NN could/MD result/VB in/IN job/NN losses./NN
+The/DT Observer/NNP reported/VBD on/IN Sunday/NNP that/IN nearly/RB half/PDT the/DT workforce/NN at/IN Longbridge/NNP could/MD be/VB under/IN threat/NN if/IN the/DT deal/NN goes/VBZ ahead./NN
+
+Shanghai/NNP Automotive's/NNP proposed/VBD £1bn/CD investment/NN in/IN Rover/NNP is/VBZ awaiting/VBG approval/NN by/IN its/PRP$ owner/NN the/DT Shanghai/NNP city/NN government/NN and/CC by/IN the/DT National/NNP Development/NNP and/CC Reform/NNP Commission/NNP which/WDT oversees/VBZ foreign/JJ investment/NN by/IN Chinese/JJ firms./NN
+According/VBG to/TO the/DT FT/NNP the/DT regulator/NN has/VBZ been/VBN annoyed/JJ by/IN Rover's/NNP decision/NN to/TO talk/VB publicly/RB about/IN the/DT deal/NN and/CC the/DT intense/JJ speculation/NN which/WDT has/VBZ ensued/VBN about/IN what/WP it/PRP will/MD mean/VB for/IN Rover's/NNP future./NN
+As/IN a/DT result/NN hopes/NNS that/DT approval/NN of/IN the/DT deal/NN may/MD be/VB fast-tracked/JJ have/VBP disappeared/VBN the/DT paper/NN said./NN
+There/EX has/VBZ been/VBN continued/VBN speculation/NN about/IN the/DT viability/NN of/IN Rover's/NNP Longbridge/NNP plant/NN because/IN of/IN falling/VBG sales/NNS and/CC unfashionable/JJ models./NN
+
+According/VBG to/TO the/DT Observer/NNP 3000/CD jobs/NNS -/: out/IN of/IN a/DT total/JJ workforce/NN of/IN 6500/CD -/: could/MD be/VB lost/VBN if/IN the/DT deal/NN goes/VBZ ahead./NN
+The/DT paper/NN said/VBD that/IN Chinese/JJ officials/NNS believe/VBP cutbacks/NNS will/MD be/VB required/VBN to/TO keep/VB the/DT MG/NNP Rover's/NNP costs/NNS in/IN line/NN with/IN revenues./NN
+It/PRP also/RB said/VBD that/IN the/DT production/NN of/IN new/JJ models/NNS through/IN the/DT joint/JJ venture/NN would/MD take/VB at/IN least/JJS eighteen/NN months./NN
+Neither/DT Rover/NNP nor/CC Shanghai/NNP Automotive/NNP commented/VBD on/IN the/DT reports./NN

@@ -1,0 +1,19 @@
+US/PRP interest/VBP rate/NN rise/NN expected/VBN
+
+US/PRP interest/VBP rates/NNS are/VBP expected/VBN to/TO rise/VB for/IN the/DT fifth/JJ time/NN since/IN June/NNP following/VBG the/DT US/PRP Federal/NNP Reserve's/NNP latest/JJS rate-setting/JJ meeting/NN later/RB on/IN Tuesday./NNP
+
+Borrowing/NN costs/NNS are/VBP tipped/VBN to/TO rise/VB by/IN a/DT quarter/NN of/IN a/DT percentage/NN point/NN to/TO 2.25%./CD
+The/DT move/NN comes/VBZ as/IN a/DT recovery/NN in/IN the/DT US/PRP economy/VBP the/DT world's/NNS biggest/JJS shows/VBZ signs/NNS of/IN robustness/NN and/CC sustainability./NN
+The/DT dollar's/NNS record-breaking/JJ decline/NN meanwhile/RB has/VBZ spooked/VBN markets/NNS and/CC along/IN with/IN high/JJ oil/NN prices/NNS has/VBZ raised/VBN concerns/NNS about/IN the/DT pace/NN of/IN inflation./NN
+"We/NN are/VBP seeing/VBG evidence/NN that/DT inflation/NN is/VBZ moving/VBG higher"/NN said/VBD Ken/NNP Kim/NNP an/DT analyst/NN at/IN Stone/NNP &/CC McCarthy/NNP Research./NNP
+"It's/NN not/RB a/DT risk/NN it's/NNS actually/RB happening."/VBP Mr/NNP Kim/NNP added/VBD that/IN borrowing/NN costs/NNS could/MD rise/VB further./NN
+
+The/DT Fed/NNP has/VBZ said/VBN that/IN it/PRP will/MD move/VB in/IN a/DT "measured"/NN way/NN to/TO combat/VB price/NN growth/NN and/CC lift/VB interest/NN rates/NNS from/IN their/PRP$ 40-year/JJ lows/NNS that/WDT were/VBD prompted/VBN by/IN sluggish/JJ US/PRP and/CC global/JJ growth./NN
+
+With/IN the/DT economic/JJ picture/NN now/RB looking/VBG more/RBR rosy/JJ the/DT Fed/NNP has/VBZ implemented/VBN quarter/NN percentage/NN point/NN rises/NNS in/IN June/NNP August/NNP September/NNP and/CC November./NNP
+Although/IN the/DT US/PRP economy/VBP grew/VBD at/IN an/DT annual/JJ rate/NN of/IN 3.9%/CD in/IN the/DT three/CD months/NNS to/TO September/NNP analysts/NNS warn/VBP that/IN Fed/NNP has/VBZ to/TO be/VB careful/JJ not/RB to/TO move/VB too/RB aggressively/RB and/CC take/VB the/DT wind/NN out/IN of/IN the/DT recovery's/NNS sails./NN
+Earlier/RBR this/DT month/NN figures/NNS showed/VBD that/DT job/NN creation/NN is/VBZ still/RB weak/JJ while/IN consumer/NN confidence/NN is/VBZ subdued./NN
+"I/NN think/VBP the/DT Fed/NNP feels/VBZ it/PRP has/VBZ a/DT fair/JJ amount/NN of/IN flexibility"/NN said/VBD David/NNP Berson/NNP chief/NN economist/NN at/IN Fannie/NNP Mae./NNP
+"While/NN inflation/NN has/VBZ moved/VBN up/RP it/PRP hasn't/NN moved/VBD up/RP a/DT lot."/NN "If/JJ economic/JJ growth/NN should/MD subside.../VB
+the/DT Fed/NNP would/MD feel/VB it/PRP has/VBZ the/DT flexibility/NN to/TO pause/VB in/IN its/PRP$ tightening./NN
+"But/NN if/IN economic/JJ growth/NN picked/VBD up/IN and/CC caused/VBN core/NN inflation/NN to/TO rise/VB a/DT little/RB more/RBR quickly/RB I/PRP think/VBP the/DT Fed/NNP would/MD be/VB prepared/VBN to/TO tighten/VB more/RBR quickly/RB as/IN well."/NN

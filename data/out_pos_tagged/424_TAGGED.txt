@@ -1,0 +1,20 @@
+EU-US/NNP seeking/VBG deal/NN on/IN air/NN dispute/NN
+
+The/DT EU/NNP and/CC US/PRP have/VBP agreed/VBN to/TO begin/VB talks/NNS on/IN ending/VBG subsidies/NNS given/VBN to/TO aircraft/VB makers/NNS EU/NNP Trade/NNP Commissioner/NNP Peter/NNP Mandelson/NNP has/VBZ announced./NN
+
+Both/DT sides/NNS hope/VBP to/TO reach/VB a/DT negotiated/VBN deal/NN over/IN state/NN aid/NN received/VBN by/IN European/JJ aircraft/NN maker/NN Airbus/NNP and/CC its/PRP$ US/PRP rival/JJ Boeing/NNP Mr/NNP Mandelson/NNP said./NN
+Airbus/NNP and/CC Boeing/NNP accuse/VBP each/DT other/JJ of/IN benefiting/VBG from/IN illegal/JJ subsidies./NN
+Mr/NNP Mandelson/NNP said/VBD the/DT EU/NNP and/CC US/PRP hoped/VBD to/TO avoid/VB having/VBG to/TO resolve/VB the/DT dispute/NN at/IN the/DT World/NNP Trade/NNP Organisation/NNP (WTO)./NN
+
+"With/NN this/DT agreement/NN the/DT EU/NNP and/CC US/PRP have/VBP confirmed/VBN their/PRP$ willingness/NN to/TO resolve/VB the/DT dispute/NN which/WDT has/VBZ arisen/VBN between/IN them"/NN Mr/NNP Mandelson/NNP said./NN
+"I/NN hope/NN our/PRP$ negotiations/NNS in/IN the/DT next/JJ three/CD months/NNS will/MD lead/VB to/TO an/DT agreement/NN ending/VBG subsidies/NNS to/TO development/VB and/CC production/NN of/IN large/JJ civil/JJ aircraft."/NN Last/JJ year/NN the/DT US/PRP terminated/VBD an/DT agreement/NN with/IN the/DT EU/NNP reached/VBD in/IN 1992/CD which/WDT limits/NNS the/DT subsidies/NNS countries/NNS can/MD hand/VB over/RP to/TO civil/JJ aircraft/NN makers./NN
+The/DT US/PRP filed/VBD a/DT complaint/NN against/IN Brussels/NNP with/IN the/DT WTO/NNP over/IN state/NN aid/NN to/TO Airbus/NNP prompting/VBG a/DT retaliatory/NN EU/NNP complaint/NN over/IN US/PRP support/VBP for/IN Boeing./NNP
+However/RB both/DT sides/NNS agreed/VBD to/TO suspend/VB their/PRP$ requests/NNS for/IN WTO/NNP arbitration/NN at/IN the/DT beginning/NN of/IN December/NNP to/TO allow/VB bilateral/JJ talks/NNS to/TO continue./VB
+EADS/NNP and/CC BAE/NNP Systems/NNPS the/DT European/JJ defence/NN and/CC aerospace/NN firms/NNS which/WDT own/JJ Airbus/NNP welcomed/VBD Mr/NNP Mandelson's/NNP announcement./NN
+"It/NN has/VBZ always/RB been/VBN preferable/JJ that/IN any/DT differences/NNS between/IN the/DT US/PRP and/CC Europe/NNP on/IN this/DT matter/NN be/VB overcome/VBN through/IN constructive/JJ discussion/NN rather/RB than/IN through/IN legal/JJ recourse"/NN the/DT companies/NNS said/VBD in/IN a/DT joint/JJ statement./NN
+
+Separately/RB the/DT world's/NNS largest/JJS package/NN delivery/NN company/NN UPS/NNP said/VBD it/PRP had/VBD placed/VBN an/DT order/NN for/IN 10/CD Airbus/NNP A380/CD superjumbo/NN freight-carrying/JJ jets/NNS with/IN an/DT option/NN to/TO buy/VB 10/CD more/JJR of/IN the/DT triple-decker/JJ aircraft./NN
+The/DT US/PRP company/VBP said/VBD it/PRP needed/VBD to/TO expand/VB its/PRP$ air/NN freight/NN capacity/NN following/VBG strong/JJ international/JJ growth/NN and/CC would/MD begin/VB receiving/VBG deliveries/NNS of/IN the/DT A380s/CD from/IN 2009./CD
+However/RB UPS/NNP said/VBD it/PRP was/VBD cutting/VBG a/DT previous/JJ order/NN for/IN smaller/JJR Airbus/NNP A300s/CD from/IN 90/CD planes/NNS to/TO 53./CD
+So/RB far/RB Airbus/NNP has/VBZ delivered/VBN 40/CD A300s/CD to/TO UPS./NNP
+Airbus/NNP overtook/NN Boeing/NNP as/IN the/DT world's/NNS largest/JJS manufacturer/NN of/IN commercial/JJ airliners/NNS in/IN 2003./CD

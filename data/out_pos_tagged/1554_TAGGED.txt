@@ -1,0 +1,12 @@
+Hamm/NN bows/NNS out/RP for/IN US/PRP
+
+Women's/NNP football/NN legend/NN Mia/NNP Hamm/NNP has/VBZ played/VBN her/PRP$ final/JJ game./NN
+
+Hamm/NNP 32/CD who/WP officially/RB retired/VBD after/IN this/DT year's/NNS Athens/NNP Olympics/NNPS took/VBD to/TO the/DT field/NN for/IN the/DT last/JJ time/NN to/TO help/VB the/DT US/PRP claim/VBP a/DT 5-0/CD win/NN over/IN Mexico./NNP
+Hamm/NNP ends/VBZ her/PRP$ career/NN as/IN the/DT most/RBS prolific/JJ scorer/NN -/: male/JJ or/CC female/JJ -/: in/IN international/JJ football/NN with/IN 158/CD goals/NNS in/IN 276/CD games/NNS for/IN the/DT US./NNP
+She/PRP was/VBD twice/RB Fifa/NNP women's/NNS player/NN of/IN the/DT year/NN and/CC won/VBD the/DT World/NNP Cup/NNP in/IN 1991/CD and/CC 1999/CD and/CC two/CD Olympic/NNP golds./NN
+On/IN her/PRP$ retirement/NN Hamm/NNP said/VBD "There/NN are/VBP mixed/JJ emotions./NN
+There/EX are/VBP things/NNS in/IN your/PRP$ life/NN that/IN you/PRP have/VBP had/VBN to/TO put/VB on/IN the/DT back-burner/JJ and/CC you/PRP can/MD focus/VB more/JJR time/NN and/CC energy/NN on/IN that/DT now./NN
+"I/NN have/VBP to/TO see/VB what/WP is/VBZ out/IN there/RB and/CC not/RB commit/VB to/TO everything/NN at/IN the/DT beginning."/NN The/DT friendly/JJ also/RB saw/VBD the/DT end/NN of/IN Julie/NNP Foudy/NNP and/CC Joy/NNP Fawcett's/NNP US/PRP careers./VBP
+Hamm/NNP will/MD now/RB embark/VB on/IN a/DT new/JJ life/NN with/IN husband/NN Chicago/NNP Cubs/NNP shortstop/NN Nomar/NNP Garciaparra/NNP who/WP was/VBD in/IN the/DT stands/NNS to/TO watch/VB her/PRP$ final/JJ game./NN
+He/PRP has/VBZ just/RB agreed/VBN a/DT new/JJ deal/NN with/IN the/DT Cubs/NNP after/IN joining/VBG them/PRP in/IN July./NNP

@@ -1,0 +1,13 @@
+Glaxo/NNP aims/VBZ high/JJ after/IN profit/NN fall/NN
+
+GlaxoSmithKline/NNP saw/VBD its/PRP$ profits/NNS fall/VBP 9%/CD last/JJ year/NN to/TO £6.2bn/CD ($11.5bn)/CD but/CC Europe's/NNP biggest/JJS drugmaker/NN says/VBZ a/DT recovery/NN during/IN 2005/CD is/VBZ on/IN the/DT way./NN
+
+Cheap/JJ copies/NNS of/IN its/PRP$ drugs/NNS particularly/RB anti-depressants/NNS Paxil/NNP and/CC Wellbutrin/NNP and/CC a/DT weak/JJ dollar/NN had/VBD hit/VBN profits/NNS but/CC global/JJ sales/NNS were/VBD up/RB 1%/CD in/IN 2004./CD
+The/DT firm/NN is/VBZ confident/JJ its/PRP$ new/JJ drug/NN pipeline/NN will/MD deliver/VB profits/NNS despite/IN the/DT failure/NN of/IN an/DT obesity/NN drug./NN
+Chief/NNP executive/NN Jean-Pierre/NNP Garnier/NNP said/VBD it/PRP had/VBD been/VBN a/DT "difficult/NN year"./NN
+
+In/IN early/JJ afternoon/NN trade/NN in/IN London/NNP the/DT company/NN share/NN price/NN was/VBD down/RB 1%/CD at/IN 1218/CD pence./NN
+Mr/NNP Garnier/NNP said/VBD the/DT company/NN had/VBD absorbed/VBN over/IN £1.5bn/CD of/IN lost/JJ sales/NNS to/TO generics/NNS but/CC still/RB managing/VBG to/TO grow/VB the/DT business./NN
+"The/NN continuing/VBG success/NN of/IN our/PRP$ key/JJ products/NNS means/VBZ we/PRP can/MD now/RB look/VB forward/RB to/TO a/DT good/JJ performance/NN in/IN 2005"/CD he/PRP said./VB
+"2005/CD will/MD also/RB be/VB an/DT important/JJ year/NN in/IN terms/NNS of/IN research/NN and/CC development/NN pipeline/NN progress."/NN However/RB the/DT firm/NN discontinued/VBD development/NN of/IN an/DT experimental/JJ treatment/NN for/IN obesity/NN known/VBN as/IN '771/CD after/IN disappointing/JJ clinical/JJ trial/NN results./NN
+Glaxo/NNP is/VBZ relying/VBG on/IN new/JJ treatments/NNS for/IN conditions/NNS such/JJ as/IN cancer/NN diabetes/NN depression/NN HIV/AIDS/NNP and/CC allergies/NNS to/TO lift/VB the/DT pace/NN of/IN sales/NNS growth/NN after/IN several/JJ disappointing/JJ years./NN

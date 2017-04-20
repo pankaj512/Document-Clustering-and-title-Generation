@@ -1,0 +1,16 @@
+Branson/NNP show/NN flops/NNS on/IN US/PRP screens/VBZ
+
+Entrepreneur/NNP Sir/NNP Richard/NNP Branson's/NNP US/PRP TV/VBP show/NN The/DT Rebel/NN Billionaire/NN is/VBZ proving/VBG a/DT flop/NN in/IN the/DT ratings./NN
+
+The/DT programme/NN suffered/VBD poor/JJ viewing/NN figures/NNS on/IN its/PRP$ debut/NN on/IN the/DT Fox/NNP network/NN three/CD weeks/NNS ago/RB and/CC has/VBZ lost/VBN one/CD in/IN five/CD of/IN its/PRP$ viewers/NNS since/IN then./NN
+The/DT show/NN is/VBZ seen/VBN as/IN Fox's/NNP answer/NN to/TO The/DT Apprentice/NNP featuring/VBG tycoon/NN Donald/NNP Trump/NNP a/DT ratings/NNS hit/VBD for/IN rivals/NNS NBC./NNP
+Sir/NNP Richard's/NNP show/NN sees/VBZ a/DT group/NN of/IN young/JJ entrepreneurs/NNS compete/VBP to/TO become/VB the/DT president/NN of/IN his/PRP$ business/NN empire./NN
+The/DT Rebel/NN Billionaire/NN has/VBZ averaged/VBN five/CD million/CD viewers/NNS and/CC is/VBZ 91st/CD in/IN the/DT rankings/NNS of/IN all/DT prime-time/JJ shows./NN
+The/DT Apprentice/NNP which/WDT has/VBZ already/RB completed/VBN its/PRP$ first/JJ season/NN is/VBZ still/RB managing/VBG to/TO pull/VB in/IN 16/CD million/CD viewers/NNS while/IN its/PRP$ prime-time/JJ ranking/JJ is/VBZ number/NN four./NN
+
+But/CC Fox/NNP has/VBZ said/VBN it/PRP plans/VBZ to/TO stick/VB with/IN Branson's/NNP show/NN throughout/IN its/PRP$ 12-episode/JJ run./NN
+"It's/NN going/VBG to/TO remain/VB on/IN the/DT air"/NN said/VBD the/DT network's/NNS spokesman/NN Scott/NNP Grogin./NNP
+"Creatively/RB we're/NN extremely/RB pleased/VBN with/IN the/DT show/NN and/CC hope/VB the/DT audience/NN will/MD find/VB it"/NN he/PRP added./VB
+Contestants/NNS on/IN Sir/NNP Richard's/NNP show/NN are/VBP confronted/VBN with/IN business/NN tasks/NNS to/TO solve/VB similar/JJ to/TO The/DT Apprentice./NNP
+They/PRP are/VBP also/RB subjected/VBN to/TO stunts/NNS like/IN walking/VBG a/DT plank/NN suspended/VBN in/IN mid-air./JJ
+The/DT Rebel/NN Billionaire/NN has/VBZ marketed/VBN itself/PRP as/IN a/DT less/RBR materialistic/JJ version/NN of/IN The/DT Apprentice/NNP with/IN Sir/NNP Richard/NNP shown/VBD jumping/VBG out/IN of/IN a/DT taxi/NN while/IN Trump/NNP is/VBZ seen/VBN in/IN a/DT limousine./NN

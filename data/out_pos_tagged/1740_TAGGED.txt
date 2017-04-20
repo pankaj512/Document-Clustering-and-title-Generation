@@ -1,0 +1,18 @@
+Melzer/NNP shocks/NNS Agassi/NNP
+
+Second/JJ seed/NN Andre/NNP Agassi/NNP suffered/VBD a/DT comprehensive/JJ defeat/NN by/IN Jurgen/NNP Melzer/NNP in/IN the/DT quarter-finals/NNS of/IN the/DT SAP/NN Open./NNP
+
+Agassi/NNP was/VBD often/RB bamboozled/VBN by/IN the/DT Austrian's/NNP drop/NN shots/NNS in/IN San/NNP Jose/NNP losing/VBG 6-3/JJ 6-1./JJ
+Defending/VBG champion/NN and/CC top/JJ seed/NN Andy/NNP Roddick/NNP rallied/VBD to/TO beat/VB Sweden's/NNP Thomas/NNP Enqvist/NNP 3-6/JJ 7-6/JJ (8-6)/JJ 7-5./JJ
+But/CC unseeded/VBD Cyril/NNP Saulnier/NNP beat/VB the/DT fourth/JJ seed/NN Vincent/NNP Spadea/NNP 6-2/JJ 6-4/JJ and/CC Tommy/NNP Haas/NNP overcame/NN eighth/JJ seed/NN Max/NNP Mirnyi/NNP 6-7/JJ (2-7)/JJ 7-6/JJ (7-3)/JJ 6-2./JJ
+Melzer/NNP has/VBZ now/RB beaten/VBN Agassi/NNP in/IN two/CD of/IN their/PRP$ three/CD meetings./NN
+
+"I/NN had/VBD a/DT good/JJ game/NN plan/NN and/CC I/PRP executed/VBD it/PRP perfectly"/NN he/PRP said./VB
+"It's/NN always/RB tough/JJ to/TO come/VB out/RP to/TO play/VB Andre./NNP
+"I/NN didn't/NN want/VBP him/PRP to/TO play/VB his/PRP$ game./NN
+He/PRP makes/VBZ you/PRP run/VBP like/IN a/DT dog/NN all/DT over/IN the/DT court."/NN And/CC Agassi/NNP who/WP was/VBD more/RBR than/IN matched/VBN for/IN power/NN by/IN his/PRP$ opponent's/NNS two-handed/JJ backhand/NN said/VBD Melzer/NNP was/VBD an/DT example/NN of/IN several/JJ players/NNS on/IN the/DT tour/NN willing/JJ to/TO take/VB their/PRP$ chances/NNS against/IN him./NN
+"A/NN lot/NN more/JJR guys/NNS are/VBP capable/JJ of/IN it/PRP now"/NN said/VBD the/DT American./NNP
+"He/NN played/VBD much/RB better/JJR than/IN me./NN
+That's/NNP what/WP he/PRP did/VBD both/DT times./NN
+"I/NN had/VBD opportunities/NNS to/TO loosen/VB myself/PRP up"/VBP Agassi/NNP added./NN
+"But/NN I/PRP didn't/VBP convert/NN on/IN the/DT big/JJ points."/NN

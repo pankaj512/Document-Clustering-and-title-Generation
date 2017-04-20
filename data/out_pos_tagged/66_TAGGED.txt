@@ -1,0 +1,19 @@
+German/JJ business/NN confidence/NN slides/VBZ
+
+German/JJ business/NN confidence/NN fell/VBD in/IN February/NNP knocking/NN hopes/NNS of/IN a/DT speedy/JJ recovery/NN in/IN Europe's/NNP largest/JJS economy./NN
+
+Munich-based/JJ research/NN institute/NN Ifo/NNP said/VBD that/IN its/PRP$ confidence/NN index/NN fell/VBD to/TO 95.5/CD in/IN February/NNP from/IN 97.5/CD in/IN January/NNP its/PRP$ first/JJ decline/NN in/IN three/CD months./NN
+The/DT study/NN found/VBD that/IN the/DT outlook/NN in/IN both/DT the/DT manufacturing/NN and/CC retail/JJ sectors/NNS had/VBD worsened./NN
+Observers/NNS had/VBD been/VBN hoping/VBG that/IN a/DT more/RBR confident/JJ business/NN sector/NN would/MD signal/VB that/IN economic/JJ activity/NN was/VBD picking/VBG up./NN
+
+"We're/NN surprised/VBN that/IN the/DT Ifo/NNP index/NN has/VBZ taken/VBN such/PDT a/DT knock"/NN said/VBD DZ/NNP bank/NN economist/NN Bernd/NNP Weidensteiner./NNP
+"The/NN main/JJ reason/NN is/VBZ probably/RB that/IN the/DT domestic/JJ economy/NN is/VBZ still/RB weak/JJ particularly/RB in/IN the/DT retail/JJ trade."/NN Economy/NNP and/CC Labour/NNP Minister/NNP Wolfgang/NNP Clement/NN called/VBD the/DT dip/NN in/IN February's/NNP Ifo/NNP confidence/NN figure/NN "a/NN very/RB mild/JJ decline"./NN
+He/PRP said/VBD that/IN despite/IN the/DT retreat/NN the/DT index/NN remained/VBD at/IN a/DT relatively/RB high/JJ level/NN and/CC that/IN he/PRP expected/VBD "a/NN modest/JJ economic/JJ upswing"/NN to/TO continue./VB
+
+Germany's/NNP economy/NN grew/VBD 1.6%/CD last/JJ year/NN after/IN shrinking/VBG in/IN 2003./CD
+However/RB the/DT economy/NN contracted/VBN by/IN 0.2%/CD during/IN the/DT last/JJ three/CD months/NNS of/IN 2004/CD mainly/RB due/JJ to/TO the/DT reluctance/NN of/IN consumers/NNS to/TO spend./VB
+Latest/JJS indications/NNS are/VBP that/DT growth/NN is/VBZ still/RB proving/VBG elusive/JJ and/CC Ifo/NNP president/NN Hans-Werner/NNP Sinn/NNP said/VBD any/DT improvement/NN in/IN German/JJ domestic/JJ demand/NN was/VBD sluggish./NN
+Exports/NNS had/VBD kept/VBN things/NNS going/VBG during/IN the/DT first/JJ half/NN of/IN 2004/CD but/CC demand/NN for/IN exports/NNS was/VBD then/RB hit/VBN as/IN the/DT value/NN of/IN the/DT euro/NN hit/VBD record/NN levels/NNS making/VBG German/JJ products/NNS less/RBR competitive/JJ overseas./NN
+On/IN top/NN of/IN that/IN the/DT unemployment/NN rate/NN has/VBZ been/VBN stuck/VBN at/IN close/NN to/TO 10%/CD and/CC manufacturing/NN firms/NNS including/VBG DaimlerChrysler/NNP Siemens/NNP and/CC Volkswagen/NNP have/VBP been/VBN negotiating/VBG with/IN unions/NNS over/IN cost/NN cutting/VBG measures./NN
+Analysts/NNS said/VBD that/IN the/DT Ifo/NNP figures/NNS and/CC Germany's/NNP continuing/VBG problems/NNS may/MD delay/VB an/DT interest/NN rate/NN rise/NN by/IN the/DT European/NNP Central/NNP Bank./NNP
+Eurozone/NNP interest/NN rates/NNS are/VBP at/IN 2%/CD but/CC comments/NNS from/IN senior/JJ officials/NNS have/VBP recently/RB focused/VBN on/IN the/DT threat/NN of/IN inflation/NN prompting/VBG fears/NNS that/IN interest/NN rates/NNS may/MD rise./VB

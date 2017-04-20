@@ -1,0 +1,14 @@
+Deutsche/NNP Telekom/NNP sees/VBZ mobile/JJ gain/NN
+
+German/JJ telecoms/NNS firm/NN Deutsche/NNP Telekom/NNP saw/VBD strong/JJ fourth/JJ quarter/NN profits/NNS on/IN the/DT back/NN of/IN upbeat/JJ US/PRP mobile/JJ earnings/NNS and/CC better-than-expected/JJ asset/NN sales./NN
+
+Net/JJ profit/NN came/VBD in/IN at/IN 1.4bn/CD euros/NNS (£960m/CD $1.85bn)/CD a/DT dramatic/JJ change/NN from/IN the/DT loss/NN of/IN 364m/CD euros/NNS in/IN 2003./CD
+Sales/NNS rose/VBD 2.8%/CD to/TO 14.96bn/CD euros./NN
+Sales/NNS of/IN stakes/NNS in/IN firms/NNS including/VBG Russia's/NNP OAO/NNP Mobile/NNP Telesystems/NNS raised/VBD 1.17bn/CD euros./NN
+This/DT was/VBD more/RBR than/IN expected/VBN and/CC helped/VBD to/TO bring/VB debt/NN down/RP to/TO 35.8bn/CD euros./NN
+
+A/DT year/NN ago/RB debt/NN was/VBD more/JJR than/IN 11bn/CD euros/NNS higher./NN
+T-Mobile/NNP USA/NNP the/DT company's/NNS American/JJ mobile/JJ business/NN made/VBD a/DT strong/JJ contribution/NN to/TO profits./VB
+"It's/NN a/DT seminal/JJ achievement/NN that/IN they/PRP cut/VBP debt/NN so/RB low./NN
+That/DT gives/VBZ them/PRP some/DT head/NN room/NN to/TO invest/VB in/IN growth/NN now"/NN said/VBD Hannes/NNP Wittig/NNP telecoms/NNS analyst/NN at/IN Dresdner/NNP Kleinwort/NNP Wasserstein./NNP
+The/DT company/NN also/RB said/VBD it/PRP would/MD resume/VB paying/VBG a/DT dividend/NN after/IN two/CD years/NNS in/IN which/WDT it/PRP focused/VBD on/IN cutting/VBG debt./NN

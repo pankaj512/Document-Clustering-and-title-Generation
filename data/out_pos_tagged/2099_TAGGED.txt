@@ -1,0 +1,30 @@
+Souped-up/JJ wi-fi/JJ is/VBZ on/IN the/DT horizon/NN
+
+Super/NNP high-speed/JJ wireless/JJ data/NNS networks/NNS could/MD soon/RB be/VB in/IN use/NN in/IN the/DT UK./NNP
+
+The/DT government's/NNS wireless/JJ watchdog/NN is/VBZ seeking/VBG help/NN on/IN the/DT best/JJS way/NN to/TO regulate/VB the/DT technology/NN behind/IN such/JJ networks/NNS called/VBN Ultra/NNP Wideband/NNP (UWB)./NN
+Ofcom/NNP wants/VBZ to/TO ensure/VB that/IN the/DT arrival/NN of/IN UWB-using/NNP devices/NNS does/VBZ not/RB cause/VB problems/NNS for/IN those/DT that/DT already/RB use/VB the/DT same/JJ part/NN of/IN the/DT radio/NN spectrum./NN
+UWB/NNP makes/VBZ it/PRP possible/JJ to/TO stream/VB huge/JJ amounts/NNS of/IN data/NNS through/IN the/DT air/NN over/IN short/JJ distances./JJ
+One/CD of/IN the/DT more/RBR likely/JJ uses/NNS of/IN UWB/NNP is/VBZ to/TO make/VB it/PRP possible/JJ to/TO send/VB DVD/NNP quality/NN video/NN images/NNS wirelessly/RB to/TO TV/VB screens/NNS or/CC to/TO let/VB people/NNS beam/VBP music/NN to/TO media/NNS players/NNS around/IN their/PRP$ home./NN
+The/DT technology/NN has/VBZ the/DT potential/NN to/TO transmit/VB hundreds/NNS of/IN megabits/NNS of/IN data/NNS per/IN second./NN
+UWB/NNP could/MD also/RB be/VB used/VBN to/TO create/VB so-called/JJ Personal/NNP Area/NNP Networks/NNP that/WDT let/VBP a/DT person's/NNS gadgets/NNS quickly/RB and/CC easily/RB swap/NN data/NNS amongst/IN themselves./NN
+The/DT technology/NN works/VBZ over/IN a/DT range/NN up/IN to/TO 10/CD metres/NNS and/CC uses/VBZ billions/NNS of/IN short/JJ radio/NN pulses/NNS every/DT second/JJ to/TO carry/VB data./NN
+At/IN the/DT recent/JJ Consumer/NNP Electronics/NNP Show/NNP in/IN Las/NNP Vegas/NNP products/NNS with/IN UWB/NNP chips/NNS built-in/NN got/VBD their/PRP$ first/JJ public/JJ airing./NN
+
+Currently/RB use/NN of/IN UWB/NNP is/VBZ only/RB allowed/VBN in/IN the/DT UK/NNP under/IN a/DT strict/JJ licencing/NN scheme./NN
+"We're/NN seeking/VBG opinion/NN from/IN industry/NN to/TO find/VB out/RP whether/IN or/CC not/RB we/PRP should/MD allow/VB UWB/NNP on/IN a/DT licence-exempt/JJ basis"/NN said/VBD a/DT spokesman/NN for/IN Ofcom./NNP
+
+Companies/NNS have/VBP until/IN 24/CD March/NNP to/TO respond./VB
+In/IN April/NNP the/DT EC/NNP is/VBZ due/JJ to/TO start/VB its/PRP$ own/JJ consultation/NN on/IN Europe-wide/NNP adoption/NN of/IN UWB./NNP
+The/DT cross-Europe/JJ body/NN for/IN radio/NN regulators/NNS known/VBN as/IN the/DT European/NNP Conference/NNP of/IN Postal/NNP and/CC Telecommunications/NNPS Administrations/NNS (CEPT)/NN is/VBZ carrying/VBG out/RP research/NN for/IN this/DT harmonisation/NN programme./NN
+Early/RB sight/NN of/IN the/DT CEPT/NNP work/NN has/VBZ caused/VBN controversy/NN as/IN some/DT think/VBP it/PRP over-emphasises/VBZ UWB's/NNP potential/NN to/TO interfere/VB with/IN existing/VBG users./NN
+By/IN contrast/NN a/DT preliminary/JJ Ofcom/NNP report/NN found/VBD that/IN it/PRP would/MD be/VB quite/RB straight-forward/JJ to/TO deploy/VB UWB/NNP without/IN causing/VBG problems/NNS for/IN those/DT that/DT already/RB use/NN it./NN
+The/DT Ofcom/NNP spokesman/NN said/VBD it/PRP was/VBD considering/VBG imposing/VBG a/DT "mask"/NN or/CC set/NN of/IN technical/JJ restrictions/NNS on/IN UWB-using/NNP devices./NN
+"We/NN would/MD want/VB these/DT devices/NNS to/TO have/VB very/RB strict/JJ controls/NNS on/IN power/NN levels/NNS so/IN they/PRP can/MD not/RB transmit/VB a/DT long/JJ way/NN or/CC over/IN a/DT wide/JJ area"/NN he/PRP said./VB
+Despite/IN the/DT current/JJ restrictions/NNS the/DT technology/NN is/VBZ already/RB being/VBG used./NN
+Cambridge-based/JJ Ubisense/NNP has/VBZ about/RB 40/CD customers/NNS around/IN the/DT world/NN using/VBG the/DT short-range/JJ radio/NN technology/NN said/VBD David/NNP Theriault/NNP standards/NNS and/CC regulatory/JJ liaison/NN for/IN Ubisense./NNP
+He/PRP said/VBD that/IN UWB/NNP was/VBD driving/VBG novel/NN ways/NNS to/TO interact/JJ with/IN computers./NN
+"It's/NN like/IN having/VBG a/DT 3D/CD mouse/NN all/PDT the/DT time"/NN he/PRP said./VB
+He/PRP said/VBD that/IN European/JJ decisions/NNS on/IN what/WP to/TO do/VB with/IN UWB/NNP allied/VBD with/IN IEEE/NNP decisions/NNS on/IN the/DT exact/JJ specifications/NNS for/IN it/PRP would/MD help/VB drive/VB adoption./NN
+Prior/RB to/TO its/PRP$ adoption/NN as/IN a/DT way/NN for/IN gadgets/NNS and/CC computers/NNS to/TO communicate/VB UWB/NNP was/VBD used/VBN as/IN a/DT sensing/JJ technology./NN
+It/PRP is/VBZ used/VBN to/TO spot/VB such/JJ things/NNS as/IN cracks/NNS under/IN the/DT surface/NN of/IN runways/NNS or/CC to/TO help/VB firemen/NNS detect/VB people/NNS through/IN walls./NN

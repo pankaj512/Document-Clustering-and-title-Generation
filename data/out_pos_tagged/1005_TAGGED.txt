@@ -1,0 +1,17 @@
+UK/NN firms/NNS 'embracing/VBG e-commerce'/JJ
+
+UK/NN firms/NNS are/VBP embracing/VBG internet/JJ trading/NN opportunities/NNS as/RB never/RB before/IN e-commerce/JJ minister/NN Mike/NNP O'Brien/NNP says./NN
+
+A/DT government-commissioned/JJ study/NN ranked/VBD the/DT UK/NNP third/JJ in/IN its/PRP$ world/NN index/NN of/IN use/NN of/IN information/NN and/CC communication/NN technology/NN (ICT)./NN
+The/DT report/NN suggests/VBZ 69%/CD of/IN UK/NNP firms/NNS are/VBP now/RB using/VBG broadband/NN and/CC that/IN 30%/CD of/IN micro/NN businesses/NNS are/VBP trading/NN online./NN
+Mr/NNP O'Brien/NNP said/VBD UK/NNP businesses/NNS were/VBD sprinting/VBG forward/RB in/IN ICT/NNP use/NN but/CC that/IN there/EX were/VBD more/JJR challenges/NNS ahead./NN
+The/DT report/NN carried/VBD out/RP independently/RB by/IN consultants/NNS Booz/NNP Allen/NNP Hamilton/NNP and/CC HI/NNP Europe/NNP placed/VBD the/DT UK/NNP third/JJ behind/IN Sweden/NNP and/CC Ireland/NNP for/IN business/NN use/NN of/IN ICT./NNP
+
+It/PRP showed/VBD British/JJ business/NN brought/VBD greater/JJR maturity/NN to/TO their/PRP$ ICT/NNP use/NN by/IN using/VBG broadband/NN in/IN increased/VBN numbers/NNS bringing/VBG ICT/NNP into/IN their/PRP$ business/NN plans/NNS and/CC using/VBG new/JJ technologies/NNS such/JJ as/IN voice/NN activated/VBN programmes/NNS and/CC desktop/NN video/NN conferences./NN
+Mr/NNP O'Brien/NNP said/VBD "The/NN increase/NN in/IN the/DT proportion/NN of/IN business/NN connected/VBN by/IN broadband/NN shows/VBZ that/IN UK/NNP companies/NNS are/VBP embracing/VBG the/DT opportunities/NNS that/IN ICT/NNP can/MD bring./VB
+"It/NN is/VBZ particularly/RB encouraging/VBG to/TO see/VB that/IN small/JJ businesses/NNS are/VBP beginning/VBG to/TO narrow/VB the/DT digital/JJ divide/VBP that/DT appeared/VBD to/TO have/VB opened/VBN up/RP in/IN recent/JJ years."/NN The/DT government/NN would/MD play/VB its/PRP$ part/NN in/IN "cultivating/VBG an/DT environment/NN where/WRB information/NN and/CC communication/NN technologies/NNS can/MD flourish"/VB Mr/NNP O'Brien/NNP said./NN
+The/DT "clear/NN message"/NN the/DT report/NN sends/VBZ is/VBZ that/IN effective/JJ use/NN of/IN ICT/NNP can/MD bring/VB real/JJ improvements/NNS in/IN business/NN performance/NN for/IN all/DT business./NN
+
+"However/NN we/PRP are/VBP not/RB at/IN the/DT finishing/VBG line/NN yet/RB and/CC many/JJ challenges/NNS remain/VBP if/IN the/DT UK/NNP is/VBZ to/TO reach/VB its/PRP$ aim/NN of/IN becoming/VBG a/DT world-leading/JJ e-economy"/NN he/PRP added./VB
+The/DT International/NNP Benchmarking/NNP Study/NNP was/VBD based/VBN on/IN 8000/CD telephone/NN interviews/NNS with/IN businesses/NNS of/IN which/WDT more/JJR than/IN 2700/CD were/VBD UK/NNP businesses./NN
+It/PRP is/VBZ the/DT eighth/NN in/IN a/DT series/NN of/IN examining/VBG the/DT adoption/NN and/CC deployment/NN of/IN ICT/NNP in/IN the/DT world's/NNS most/RBS industrialised/VBN nations./NN

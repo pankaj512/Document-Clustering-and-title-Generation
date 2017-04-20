@@ -1,0 +1,19 @@
+Speak/VB easy/JJ plan/NN for/IN media/NNS players/NNS
+
+Music/NNP and/CC film/NN fans/NNS will/MD be/VB able/JJ to/TO control/VB their/PRP$ digital/JJ media/NNS players/NNS just/RB by/IN speaking/VBG to/TO them/PRP under/IN plans/NNS in/IN development/NN by/IN two/CD US/PRP firms./VBP
+
+ScanSoft/NNP and/CC Gracenote/NNP are/VBP developing/VBG technology/NN to/TO give/VB people/NNS access/VBP to/TO their/PRP$ film/NN and/CC music/NN libraries/NNS simply/RB by/IN voice/NN control./NN
+They/PRP want/VBP to/TO give/VB people/NNS hands-free/JJ access/NN to/TO digital/JJ music/NN and/CC films/NNS in/IN the/DT car/NN or/CC at/IN home/NN or/CC on/IN the/DT move./NN
+Huge/JJ media/NNS libraries/NNS on/IN some/DT players/NNS can/MD make/VB finding/VBG single/JJ songs/NNS hard./NN
+"Voice/NN command-and-control/JJ unlocks/VBZ the/DT potential/NN of/IN devices/NNS that/WDT can/MD store/VB large/JJ digital/JJ music/NN collections"/NN said/VBD Ross/NNP Blanchard/NNP vice/NN president/NN of/IN business/NN development/NN for/IN Gracenote./NNP
+"These/NN applications/NNS will/MD radically/RB change/VB the/DT car/NN entertainment/NN experience/NN allowing/VBG drivers/NNS to/TO enjoy/VB their/PRP$ entire/JJ music/NN collections/NNS without/IN ever/RB taking/VBG their/PRP$ hands/NNS off/IN the/DT steering/VBG wheel"/NN he/PRP added./VB
+
+Gracenote/NNP provides/VBZ music/NN library/NN information/NN for/IN millions/NNS of/IN different/JJ albums/NNS for/IN jukeboxes/NNS such/JJ as/IN Apple's/NNP iTunes./NN
+The/DT new/JJ technology/NN will/MD be/VB designed/VBN so/IN that/IN people/NNS can/MD play/VB any/DT individual/JJ song/NN or/CC movie/VB out/IN of/IN a/DT collection/NN just/RB by/IN saying/VBG its/PRP$ name./NN
+Users/NNS will/MD also/RB be/VB able/JJ to/TO request/VB music/NN that/WDT fits/VBZ a/DT mood/NN or/CC an/DT occasion/NN or/CC a/DT film/NN just/RB by/IN saying/VBG the/DT actor's/NNS name./NN
+"Speech/NN is/VBZ a/DT natural/JJ fit/NN for/IN today's/NNS consumer/NN devices/NNS particularly/RB in/IN mobile/JJ environments"/NN said/VBD Alan/NNP Schwartz/NNP vice/NN president/NN of/IN SpeechWorks/NNP a/DT division/NN of/IN ScanSoft./NNP
+"Pairing/VBG our/PRP$ voice/NN technologies/NNS with/IN Gracenote's/NNP vast/JJ music/NN database/NN will/MD bring/VB the/DT benefits/NNS of/IN speech/NN technologies/NNS to/TO a/DT host/NN of/IN consumer/NN devices/NNS and/CC enable/VB people/NNS to/TO access/VB their/PRP$ media/NNS in/IN ways/NNS they've/NN never/RB imagined."/VB The/DT two/CD firms/NNS did/VBD not/RB say/VB if/IN they/PRP were/VBD developing/VBG the/DT technology/NN for/IN languages/NNS other/JJ than/IN English./NNP
+Users/NNS will/MD also/RB be/VB able/JJ to/TO get/VB more/JJR information/NN on/IN a/DT favourite/NN song/NN they/PRP have/VBP been/VBN listening/VBG to/TO by/IN asking/VBG "What/NN is/VBZ this?"/NN Portable/JJ players/NNS are/VBP becoming/VBG popular/JJ in/IN cars/NNS and/CC a/DT number/NN of/IN auto/NN firms/NNS are/VBP working/VBG with/IN Apple/NNP to/TO device/VB interfaces/NNS to/TO control/VB the/DT firm's/NNS iPod/NN music/NN player./NN
+But/CC with/IN tens/NNS of/IN thousands/NNS of/IN songs/NNS able/JJ to/TO be/VB stored/VBN on/IN one/CD player/NN voice/NN control/NN would/MD make/VB finding/VBG that/IN elusive/JJ track/NN by/IN Elvis/NNP Presley/NNP much/JJ easier./NN
+The/DT firms/NNS gave/VBD no/DT indication/NN about/IN whether/IN the/DT iPod/NN or/CC any/DT other/JJ media/NNS player/NN were/VBD in/IN mind/NN for/IN the/DT use/NN of/IN the/DT voice/NN control/NN technology./NN
+The/DT companies/NNS estimate/VBP that/IN the/DT technology/NN will/MD be/VB available/JJ in/IN the/DT fourth/JJ quarter/NN of/IN 2005./CD

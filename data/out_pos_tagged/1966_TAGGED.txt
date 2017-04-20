@@ -1,0 +1,43 @@
+Text/NN messages/NNS aid/NN disaster/NN recovery/NN
+
+Text/NN messaging/VBG technology/NN was/VBD a/DT valuable/JJ communication/NN tool/NN in/IN the/DT aftermath/NN of/IN the/DT tsunami/NN disaster/NN in/IN Asia./NNP
+
+The/DT messages/NNS can/MD get/VB through/IN even/RB when/WRB the/DT cell/NN phone/NN signal/NN is/VBZ too/RB weak/JJ to/TO sustain/VB a/DT spoken/VBN conversation./NN
+Now/RB some/DT are/VBP studying/VBG how/WRB the/DT technology/NN behind/IN SMS/NNP could/MD be/VB better/RBR used/JJ during/IN an/DT emergency./NN
+Sanjaya/NNP Senanayake/NNP works/VBZ for/IN Sri/NNP Lankan/NNP television./NN
+The/DT blogging/VBG world/NN though/IN might/MD know/VB him/PRP better/JJR by/IN his/PRP$ online/NN name/NN Morquendi./NNP
+He/PRP was/VBD one/CD of/IN the/DT first/JJ on/IN the/DT scene/NN after/IN the/DT tsunami/NN destroyed/VBD much/JJ of/IN the/DT Sri/NNP Lankan/NNP coast./NN
+Cell/NN phone/NN signals/NNS were/VBD weak./NN
+Land/NNP lines/NNS were/VBD unreliable./NN
+So/RB Mr/NNP Senanayake/NNP started/VBD sending/VBG out/RP text/NN messages./NN
+The/DT messages/NNS were/VBD not/RB just/RB the/DT latest/JJS news/NN they/PRP were/VBD also/RB an/DT on-the-ground/JJ assessment/NN of/IN "who/NN needs/VBZ what/WP and/CC where"./NN
+Blogging/NN friends/NNS in/IN India/NNP took/VBD Mr/NNP Senanayake's/NNP text/NN messages/NNS and/CC posted/VBD them/PRP on/IN a/DT weblog/NN called/VBN Dogs/NNS without/IN Borders./NNP
+Thousands/NNS around/IN the/DT world/NN followed/VBD the/DT story/NN that/WDT unfolded/VBD in/IN the/DT text/NN messages/NNS that/IN he/PRP sent./VB
+
+And/CC that's/NNS when/WRB Mr/NNP Senanayake/NNP started/VBD to/TO wonder/VB if/IN SMS/NNP might/MD be/VB put/VBN to/TO more/RBR practical/JJ use./NN
+"SMS/NN networks/NNS can/MD handle/VB so/RB much/RB more/JJR traffic/NN than/IN the/DT standard/JJ mobile/JJ phone/NN call/NN or/CC the/DT land/NN line/NN call"/NN he/PRP says./VB
+
+"In/NN every/DT rural/JJ community/NN there's/NNS at/IN least/JJS one/CD person/NN who/WP has/VBZ access/NN to/TO a/DT mobile/JJ phone/NN or/CC has/VBZ a/DT mobile/JJ phone/NN and/CC can/MD receive/VB messages."/NN Half/NN a/DT world/NN away/RB in/IN the/DT Caribbean/NNP nation/NN of/IN Trinidad/NNP and/CC Tobago/NNP Taran/NNP Rampersad/NNP read/VB Morquendi's/NNP messages./NN
+Mr/NNP Rampersad/NNP who/WP used/VBD to/TO work/VB in/IN the/DT military/NN knew/VBD how/WRB important/JJ on/IN the/DT ground/NN communication/NN can/MD be/VB in/IN times/NNS of/IN disaster./JJ
+He/PRP wondered/VBD if/IN there/EX might/MD be/VB a/DT way/NN to/TO automatically/RB centralise/VB text/NN messages/NNS and/CC then/RB redistribute/VB them/PRP to/TO agencies/NNS and/CC people/NNS who/WP might/MD be/VB able/JJ to/TO help./VB
+Mr/NNP Rampersad/NNP said/VBD "Imagine/NN if/IN an/DT aid/NN worker/NN in/IN the/DT field/NN spotted/VBD a/DT need/NN for/IN water/NN purification/NN tablets/NNS and/CC had/VBD a/DT central/JJ place/NN to/TO send/VB a/DT text/NN message/NN to/TO that/DT effect./NN
+"He/NN can/MD message/VB the/DT server/NN so/IN the/DT server/NN can/MD send/VB out/RP an/DT e-mail/JJ message/NN and/CC human/JJ or/CC machine/NN moderators/NNS can/MD e-mail/VB aid/NN agencies/NNS and/CC get/VB it/PRP out/RP in/IN the/DT field."/NN He/PRP added/VBD "Or/NN send/VB it/PRP at/IN the/DT same/JJ time/NN to/TO other/JJ people/NNS who/WP are/VBP using/VBG SMS/NNP in/IN the/DT region/NN and/CC they/PRP might/MD have/VB an/DT excess/NN of/IN it/PRP and/CC be/VB able/JJ to/TO shift/VB supplies/NNS to/TO the/DT right/JJ places."/NN
+
+Mr/NNP Rampersad/NNP and/CC others/NNS had/VBD actually/RB been/VBN thinking/VBG about/IN such/PDT a/DT system/NN since/IN Hurricane/NNP Ivan/NNP ravaged/VBD the/DT Caribbean/NNP and/CC the/DT southern/JJ United/NNP States/NNPS last/JJ September./NNP
+Last/JJ week/NN he/PRP sent/VBD out/RP e-mail/JJ messages/NNS asking/VBG for/IN help/NN in/IN creating/VBG such/PDT a/DT system/NN for/IN Asia./NNP
+
+In/IN only/RB 72/CD hours/NNS he/PRP found/VBD Dan/NNP Lane/NNP a/DT text/NN message/NN guru/NN living/VBG in/IN Britain./NNP
+The/DT pair/NN along/IN with/IN a/DT group/NN of/IN dedicated/VBN techies/NNS are/VBP creating/VBG what/WP they/PRP call/VBP the/DT Alert/NNP Retrieval/NN Cache./NNP
+The/DT idea/NN is/VBZ to/TO use/VB open-source/JJ software/NN -/: software/NN can/MD be/VB used/VBN by/IN anyone/NN without/IN commercial/JJ restraint/NN -/: and/CC a/DT far-flung/JJ network/NN of/IN talent/NN to/TO create/VB a/DT system/NN that/WDT links/NNS those/DT in/IN need/NN with/IN those/DT who/WP can/MD help./VB
+"This/NN is/VBZ a/DT classic/JJ smart/JJ mobs/NNS situation/NN where/WRB you/PRP have/VBP people/NNS self-organizing/VBP into/IN a/DT larger/JJR enterprise/NN to/TO do/VB things/NNS that/DT benefit/NN other/JJ people"/NN says/VBZ Paul/NNP Saffo/NNP a/DT director/NN at/IN the/DT California-based/JJ Institute/NNP for/IN the/DT Future./NNP
+"You/NN may/MD be/VB halfway/NN around/IN the/DT world/NN from/IN someone/NN but/CC in/IN cyberspace/NN you're/NN just/RB one/CD click/NN or/CC one/CD e-mail/JJ away"/NN he/PRP said/VBD "That's/NN put/VBD a/DT whole/JJ new/JJ dimension/NN on/IN disaster/NN relief/NN and/CC recovery/NN where/WRB often/RB people/NNS halfway/VBP around/IN the/DT world/NN can/MD be/VB more/RBR effective/JJ in/IN making/VBG something/NN happen/VB precisely/RB because/IN they're/NN not/RB right/NN on/IN top/NN of/IN the/DT tragedy."/NN It/PRP is/VBZ still/RB very/RB early/JJ days/NNS for/IN the/DT project/NN though./NN
+In/IN an/DT e-mail/JJ Dan/NNP Lane/NNP calls/VBZ it/PRP "an/VBD early/RB proof/NN of/IN concept."/NN Right/RB now/RB the/DT Alert/NNP Retrieval/NN Cache/NNP can/MD only/RB take/VB a/DT text/NN message/NN and/CC automatically/RB upload/NN it/PRP to/TO a/DT web-page/JJ or/CC distribute/VB it/PRP to/TO an/DT e-mail/JJ list./NN
+In/IN the/DT near/JJ future/JJ the/DT group/NN says/VBZ it/PRP hopes/VBZ to/TO take/VB in/IN messages/NNS from/IN people/NNS in/IN affected/VBN areas/NNS and/CC use/NN human/JJ moderators/NNS to/TO take/VB actions/NNS based/VBN on/IN the/DT content/NN of/IN those/DT messages./NN
+But/CC there's/NNS still/RB another/DT challenge./NN
+You/PRP have/VBP to/TO get/VB people/NNS to/TO know/VB that/IN the/DT system/NN is/VBZ there/RB for/IN them/PRP to/TO use./VB
+"It's/NN amazing/JJ how/WRB difficult/JJ it/PRP is/VBZ to/TO find/VB someone/NN to/TO pass/VB it/PRP along/IN to/TO and/CC say/VB look/VB this/DT is/VBZ what/WP we're/NN trying/VBG to/TO do/VB and/CC everything/NN like/IN that"/NN says/VBZ Mr/NNP Rampersad./NNP
+"So/NN the/DT big/JJ problem/NN right/RB now/RB is/VBZ the/DT same/JJ problem/NN we're/NN trying/VBG to/TO solve/VB -/: human/JJ communication."/NN He/PRP is/VBZ optimistic/JJ however./NN
+He/PRP thinks/VBZ that/IN the/DT Alert/NNP Retrieval/NN Cache/NNP is/VBZ an/DT idea/NN whose/WP$ time/NN has/VBZ come/VBN and/CC he/PRP hopes/VBZ governments/NNS too/RB will/MD sit/VB up/RB and/CC take/VB notice./NN
+And/CC he/PRP stands/VBZ by/IN his/PRP$ motto/NN courtesy/NN of/IN Michelangelo/NNP criticise/NN by/IN creating./NN
+
+Clark/NNP Boyd/NNP is/VBZ technology/NN correspondent/NN for/IN The/DT World/NNP a/DT BBC/NNP World/NNP Service/NNP and/CC WGBH-Boston/NNP co-production./JJ

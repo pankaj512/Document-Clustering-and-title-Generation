@@ -1,0 +1,15 @@
+Rock/NNP star/NN sued/VBN by/IN ex-girlfriend/NN
+
+Motley/NNP Crue/NNP guitarist/NN Mick/NNP Mars/NNP is/VBZ being/VBG sued/VBN by/IN his/PRP$ ex-girlfriend/NN for/IN $10/CD million/CD (£5.4/CD million)/NN claiming/VBG he/PRP broke/VBD a/DT promise/NN to/TO take/VB care/NN of/IN her./NN
+
+The/DT woman/NN Robin/NNP Mantooth/NNP said/VBD Mars/NNP promised/VBD her/PRP$ repeatedly/RB that/IN he/PRP would/MD provide/VB financial/JJ support/NN in/IN the/DT event/NN of/IN the/DT couple/NN breaking/VBG up./NN
+When/WRB they/PRP split/VBP in/IN December/NNP Mantooth/NNP says/VBZ Mars/NNP denied/VBD any/DT such/JJ agreement./NN
+She/PRP is/VBZ asking/VBG a/DT Los/NNP Angeles/NNP court/NN to/TO award/VB her/PRP$ half/PDT the/DT musician's/NNS property/VBP a/DT monthly/JJ allowance/NN and/CC damages./NN
+Mantooth/NNP added/VBD that/IN the/DT pair/NN became/VBD lovers/NNS in/IN 1990/CD after/IN which/WDT she/PRP abandoned/VBD her/PRP$ career/NN as/IN a/DT documentary/NN film-maker/NN to/TO move/VB in/IN with/IN the/DT guitarist/NN at/IN his/PRP$ Malibu/NNP home./NN
+
+She/PRP is/VBZ also/RB claiming/VBG that/IN Mars/NNP 53/CD has/VBZ failed/VBN to/TO provide/VB her/PRP with/IN any/DT material/NN support/NN since/IN they/PRP ceased/VBD to/TO be/VB a/DT couple./NN
+Motley/NNP Crue/NNP recently/RB reunited/VBD after/IN being/VBG apart/RB for/IN a/DT period/NN of/IN five/CD years./NN
+They/PRP originally/RB formed/VBD in/IN the/DT early/JJ 1980s/CD and/CC scored/VBD six/CD hits/NNS in/IN the/DT UK/NNP including/VBG Girls/NNS Girls/NNS Girls/NNS in/IN 1987./CD
+They/PRP are/VBP embarking/VBG on/IN a/DT world/NN tour/NN later/RB this/DT year/NN which/WDT will/MD take/VB in/IN 60/CD cities/NNS across/IN the/DT US/PRP Europe/NNP Asia/NNP and/CC Australia./NNP
+Mars/NNP -/: real/JJ name/NN Bob/NNP Allen/NNP Deal/NNP -/: underwent/VBD hip/NN replacement/NN surgery/NN in/IN October./NNP
+He/PRP suffers/VBZ from/IN a/DT degenerative/JJ rheumatic/JJ disease/NN which/WDT causes/VBZ ligaments/NNS and/CC tendons/NNS to/TO attach/VB to/TO the/DT bone./NN

@@ -1,0 +1,20 @@
+German/JJ jobless/JJ rate/NN at/IN new/JJ record/NN
+
+More/JJR than/IN 5.2/CD million/CD Germans/NNPS were/VBD out/IN of/IN work/NN in/IN February/NNP new/JJ figures/NNS show./NN
+
+The/DT figure/NN of/IN 5.216/CD million/CD people/NNS or/CC 12.6%/CD of/IN the/DT working-age/JJ population/NN is/VBZ the/DT highest/JJS jobless/JJ rate/NN in/IN Europe's/NNP biggest/JJS economy/NN since/IN the/DT 1930s./CD
+The/DT news/NN comes/VBZ as/IN the/DT head/NN of/IN Germany's/NNP panel/NN of/IN government/JJ economic/JJ advisers/NNS predicted/VBD growth/NN would/MD again/RB stagnate./VB
+Speaking/VBG on/IN German/JJ TV/NN Bert/NNP Ruerup/NNP said/VBD the/DT panel's/NNS earlier/JJR forecast/NN of/IN 1.4%/CD was/VBD too/RB optimistic/JJ and/CC warned/VBD growth/NN would/MD be/VB just/RB 1%/CD in/IN 2005./CD
+
+The/DT German/JJ government/NN is/VBZ trying/VBG to/TO tackle/VB the/DT stubbornly-high/JJ levels/NNS of/IN joblessness/NN with/IN a/DT range/NN of/IN labour/NN market/NN reforms./NN
+At/IN their/PRP$ centre/NN is/VBZ the/DT "Hartz-IV"/JJ programme/NN introduced/VBN in/IN January/NNP to/TO shake/VB up/RP welfare/NN benefits/NNS and/CC push/VB people/NNS back/RB into/IN work/NN -/: even/RB if/IN some/DT of/IN the/DT jobs/NNS are/VBP heavily/RB subsidised./NN
+The/DT latest/JJS unemployment/NN figures/NNS look/VBP set/VBN to/TO increase/VB the/DT pressure/NN on/IN the/DT government./NN
+Widely/RB leaked/VBN to/TO the/DT German/JJ newspapers/NNS a/DT day/NN in/IN advance/NN they/PRP produced/VBD screaming/VBG headlines/NNS criticising/VBG Chancellor/NNP Gerhard/NNP Schroeder's/NNP Social/NNP Democrat-Green/NNP Party/NNP administration./NN
+Mr/NNP Schroeder/NNP had/VBD originally/RB come/VB into/IN office/NN promising/VBG to/TO halve/VB unemployment./NN
+
+Still/RB some/DT measures/NNS suggest/VBP the/DT picture/NN is/VBZ not/RB quite/RB so/RB bleak./NN
+The/DT soaring/VBG official/JJ unemployment/NN figure/NN follows/VBZ a/DT change/NN in/IN the/DT methodology/NN which/WDT pushed/VBD up/RP the/DT jobless/JJ rate/NN by/IN more/JJR than/IN 500000/CD in/IN January./NNP
+Adjusted/VBN for/IN seasonal/JJ changes/NNS the/DT overall/JJ unemployment/NN rate/NN is/VBZ 4.875/CD million/CD people/NNS or/CC 11.7%/CD up/RP 0.3/CD percentage/NN points/NNS from/IN the/DT previous/JJ month./NN
+Using/VBG the/DT most/RBS internationally-accepted/JJ methodology/NN of/IN the/DT International/NNP Labour/NNP Organisation/NNP (ILO)/NN Germany/NNP had/VBD 3.97/CD million/CD people/NNS out/IN of/IN work/NN in/IN January./NNP
+And/CC ILO-based/JJ figures/NNS also/RB suggest/VBP that/IN 14000/CD new/JJ net/JJ jobs/NNS were/VBD created/VBN that/DT month/NN taking/VBG the/DT number/NN of/IN people/NNS employed/VBN to/TO 38.9/CD million./NN
+The/DT ILO/NNP defines/VBZ an/DT unemployed/JJ person/NN as/IN someone/NN who/WP in/IN the/DT previous/JJ four/CD weeks/NNS had/VBD actively/RB looked/VBN for/IN work/NN they/PRP could/MD take/VB up/RP immediately./NN

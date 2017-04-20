@@ -1,0 +1,10 @@
+Wilkinson/NNP fit/VB to/TO face/VB Edinburgh/NNP
+
+England/NNP captain/NN Jonny/NNP Wilkinson/NNP will/MD make/VB his/PRP$ long-awaited/JJ return/NN from/IN injury/NN against/IN Edinburgh/NNP on/IN Saturday./NNP
+
+Wilkinson/NNP who/WP has/VBZ not/RB played/VBN since/IN injuring/VBG his/PRP$ bicep/NN on/IN 17/CD October/NNP took/VBD part/NN in/IN full-contact/JJ training/NN with/IN Newcastle/NNP Falcons/NNPS on/IN Wednesday./NNP
+And/CC the/DT 25-year-old/JJ fly-half/JJ will/MD start/VB Saturday's/NNP Heineken/NNP Cup/NNP match/VB at/IN Murrayfield/NNP on/IN the/DT bench./NN
+But/CC Newcastle/NNP director/NN of/IN rugby/NN Rob/NNP Andrew/NNP said/VBD "He's/NN fine/NN and/CC we/PRP hope/VBP to/TO get/VB him/PRP into/IN the/DT game/NN at/IN some/DT stage."/NN The/DT 25-year-old/NN missed/VBD England's/NNP autumn/NN internationals/NNS after/IN aggravating/VBG the/DT haematoma/NN in/IN his/PRP$ upper/JJ right/JJ arm/NN against/IN Saracens./NNP
+He/PRP was/VBD subsequently/RB replaced/VBN as/IN England/NNP captain/NN by/IN full-back/JJ Jason/NNP Robinson./NNP
+Sale's/NNP Charlie/NNP Hodgson/NNP took/VBD over/RP the/DT number/NN 10/CD shirt/NN in/IN the/DT internationals/NNS against/IN Canada/NNP South/NNP Africa/NNP and/CC Australia./NNP
+Wilkinson's/NNP year/NN has/VBZ been/VBN disrupted/VBN by/IN injury/NN as/IN his/PRP$ muscle/NN problem/NN followed/VBD eight/CD months/NNS on/IN the/DT sidelines/NNS with/IN a/DT shoulder/NN injury/NN sustained/VBN in/IN the/DT World/NNP Cup/NNP final./NN

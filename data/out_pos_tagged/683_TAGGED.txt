@@ -1,0 +1,14 @@
+UK/NNP TV/NN channel/NN rapped/VBN for/IN CSI/NNP ad/NN
+
+TV/NN channel/NN Five/CD has/VBZ been/VBN criticised/VBN for/IN sending/VBG "offensive"/NN and/CC "threatening"/NN advertising/NN material/NN to/TO viewers/NNS for/IN a/DT new/JJ show/NN about/IN murder/NN scene/NN scientists./NN
+
+Five/CD mailed/VBN thousands/NNS of/IN fake/JJ dossiers/NNS including/VBG photos/NNS of/IN murder/NN victims/NNS and/CC an/DT e-mail/JJ suggesting/NN the/DT recipient/NN was/VBD being/VBG stalked/VBN by/IN a/DT serial/NN killer./NN
+Following/VBG complaints/NNS the/DT Advertising/NNP Standards/NNP Authority/NNP contacted/VBD Five/CD to/TO cease/VB promotion/NN of/IN crime/NN show/NN CSINY./NNP
+Five/CD admitted/VBN it/PRP had/VBD sent/VBN out/RB 55000/CD promotion/NN packs/VBZ but/CC had/VBD now/RB stopped./NN
+The/DT promotion/NN material/NN was/VBD sent/VBN in/IN brown/JJ envelope/NN of/IN the/DT type/NN used/VBN by/IN investigators/NNS in/IN the/DT series/NN a/DT spin-off/NN from/IN the/DT highly/RB successful/JJ CSI/NNP Crime/NN Scene/NN Investigation/NNP series/NN which/WDT also/RB runs/VBZ on/IN Five./NNP
+The/DT pack/NN also/RB features/VBZ pictures/NNS of/IN forensic/JJ evidence/NN from/IN a/DT crime/NN scene/NN and/CC a/DT wanted/VBN poster/NN which/WDT did/VBD have/VB a/DT CSINY/NNP logo/NN printed/VBN in/IN large/JJ at/IN the/DT bottom./NN
+
+Five/CD said/VBD it/PRP had/VBD received/VBN 100/CD complaints/NNS but/CC that/IN it/PRP had/VBD been/VBN surprised/VBN at/IN the/DT reaction/NN because/IN it/PRP was/VBD "obvious/JJ this/DT material/NN is/VBZ promoting/VBG a/DT drama"./NN
+A/DT Five/CD spokesman/NN said/VBD "In/NN light/NN of/IN the/DT efforts/NNS we/PRP have/VBP made/VBN to/TO make/VB the/DT nature/NN of/IN the/DT contents/NNS so/RB transparent/JJ we/PRP are/VBP surprised/VBN a/DT very/RB small/JJ minority/NN of/IN recipients/NNS have/VBP mistaken/VBN it/PRP as/IN anything/NN else./NN
+"Everyone/NN who/WP was/VBD sent/VBN this/DT promotion/NN has/VBZ expressed/VBN an/DT interest/NN in/IN receiving/VBG details/NNS about/IN this/DT particular/JJ genre/NN of/IN programming/NN on/IN various/JJ websites./NN
+"We/NN have/VBP also/RB received/VBN emails/NNS and/CC calls/VBZ from/IN recipients/NNS praising/VBG the/DT originality/NN and/CC imagination/NN of/IN the/DT campaign."/NN

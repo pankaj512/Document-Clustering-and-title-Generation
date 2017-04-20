@@ -1,0 +1,16 @@
+Brando/NNP 'rejected/VBD Godfather/NNP role'/NN
+
+Late/RB film/NN star/NN Marlon/NNP Brando/NNP is/VBZ said/VBN to/TO have/VB repeatedly/RB turned/VBN down/RB his/PRP$ Oscar-winning/NNP role/NN in/IN The/DT Godfather./NNP
+
+The/DT actor's/NNS friend/NN Budd/NNP Schulberg/NNP told/VBD Vanity/NNP Fair/NNP magazine/NN that/IN Brando's/NNP assistant/NN suggested/VBD he/PRP read/VB the/DT novel./NN
+The/DT actor/NN repeatedly/RB refused/VBD throwing/VBG the/DT book/NN at/IN her/PRP and/CC saying/VBG "For/NN the/DT last/JJ time/NN I/PRP won't/VBP glorify/JJ the/DT mafia"./NN
+But/CC Brando/NNP who/WP died/VBD last/JJ July/NNP at/IN the/DT age/NN of/IN 80/CD eventually/RB took/VBD the/DT role/NN of/IN Don/NNP Corleone/NNP winning/VBG him/PRP an/DT Oscar/NNP in/IN 1973/CD which/WDT he/PRP notoriously/RB refused./VBP
+The/DT actor/NN sent/VBD a/DT young/JJ woman/NN dressed/VBN in/IN Native/JJ American/JJ costume/NN to/TO refuse/VB the/DT award/NN on/IN his/PRP$ behalf/NN and/CC to/TO draw/VB attention/NN to/TO the/DT plight/NN of/IN Native/JJ Americans./NNP
+
+Schulberg/NNP told/VBD the/DT magazine/NN that/IN Brando's/NNP assistant/NN realised/VBD the/DT film/NN star/NN had/VBD warmed/VBN to/TO the/DT idea/NN of/IN The/DT Godfather/NNP role/NN when/WRB he/PRP sported/VBD a/DT drawn-on/JJ pencil/NN moustache/NN and/CC asked/VBD "How/NN do/VBP I/PRP look?"/VBP His/PRP$ assistant/JJ Alice/NNP Marchak/NNP said/VBD that/IN he/PRP looked/VBD like/IN George/NNP Raft/NN an/DT actor/NN famed/JJ for/IN playing/VBG gangsters/NNS on/IN the/DT silver/NN screen./NN
+Every/DT time/NN she/PRP went/VBD to/TO see/VB Brando/NNP from/IN then/RB on/IN she/PRP added/VBD he/PRP was/VBD wearing/VBG a/DT different/JJ gangster-style/JJ moustache./NN
+Brando/NNP was/VBD asked/VBN to/TO screen/VB test/NN for/IN the/DT role/NN in/IN The/DT Godfather/NNP as/IN studio/NN executives/NNS were/VBD said/VBN to/TO be/VB reluctant/JJ for/IN the/DT actor/NN to/TO play/VB the/DT part/NN following/VBG problems/NNS on/IN the/DT set/NN of/IN Brando's/NNP previous/JJ film/NN Mutiny/NNP on/IN the/DT Bounty/NN ./.
+In/IN fact/NN Brando's/NNP Academy/NNP Award/NN triumph/NN revived/VBD his/PRP$ career./NN
+The/DT actor/NN was/VBD nominated/VBN for/IN an/DT Oscar/NNP the/DT following/JJ year/NN for/IN his/PRP$ role/NN in/IN Bernardo/NNP Bertolucci's/NNP Last/JJ Tango/NNP in/IN Paris./NNP
+Before/IN his/PRP$ death/NN Brando/NNP granted/VBD gaming/NN company/NN Electronic/NNP Arts/VBZ the/DT rights/NNS to/TO use/VB his/PRP$ voice/NN and/CC image/NN in/IN a/DT video/NN game/NN based/VBN on/IN the/DT Godfather/NNP film/NN and/CC book/NN and/CC recorded/VBN voice-overs/NNS which/WDT closely/RB resembled/VBD his/PRP$ role/NN as/IN Don/NNP Corleone./NNP
+Brando's/NN co-stars/NNS from/IN The/DT Godfather/NNP James/NNP Caan/NNP and/CC Robert/NNP Duvall/NNP will/MD also/RB reprise/VB their/PRP$ roles/NNS for/IN the/DT video/NN game/NN it/PRP was/VBD confirmed/VBN on/IN Wednesday./NNP

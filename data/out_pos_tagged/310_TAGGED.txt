@@ -1,0 +1,12 @@
+Strong/JJ quarterly/JJ growth/NN for/IN Nike/NNP
+
+Nike/NNP has/VBZ reported/VBN its/PRP$ best/JJS second-quarter/JJ earnings/NNS helped/VBN by/IN strong/JJ demand/NN for/IN its/PRP$ athletic/JJ shoes/NNS and/CC Converse/NNP sneakers./NN
+
+The/DT global/JJ sports/NNS giant/NN said/VBD it/PRP posted/VBD a/DT profit/NN of/IN $261.9m/CD (£135.6m)/CD for/IN the/DT three/CD months/NNS to/TO 30/CD November/NNP up/RP from/IN $179.1m/CD in/IN the/DT same/JJ period/NN last/JJ year./NN
+Revenues/NNS increased/VBD 11%/CD to/TO $3.1bn/CD from/IN $2.8bn/CD for/IN the/DT same/JJ period/NN in/IN 2003./CD
+Nike/NNP whose/WP$ products/NNS are/VBP endorsed/VBN by/IN Tiger/NNP Woods/NNP among/IN other/JJ sports/NNS stars/NNS said/VBD "demand/NN continues/VBZ to/TO grow"./VB
+The/DT results/NNS came/VBD after/IN a/DT strong/JJ first/JJ quarter/NN of/IN the/DT year/NN for/IN the/DT firm/NN based/VBN in/IN Beaverton/NNP Oregon./NNP
+
+Philip/NNP Knight/NNP chairman/NN and/CC chief/JJ executive/NN said/VBD "Nike's/NN second-quarter/JJ revenues/NNS and/CC earnings/NNS per/IN share/NN reached/VBD all-time/JJ high/JJ levels/NNS as/IN a/DT result/NN of/IN solid/JJ performance/NN across/IN our/PRP$ global/JJ portfolio./NN
+"Our/NN businesses/NNS in/IN the/DT United/NNP States/NNPS and/CC emerging/VBG markets/NNS such/JJ as/IN China/NNP Russia/NNP and/CC Turkey/NNP combined/VBD with/IN favourable/JJ European/JJ exchange/NN rates/NNS helped/VBD drive/NN much/JJ of/IN this/DT growth."/NN He/PRP added/VBD "With/NN the/DT first/JJ half/NN of/IN our/PRP$ fiscal/JJ year/NN in/IN the/DT books/NNS we/PRP remain/VBP confident/JJ that/IN our/PRP$ business/NN strategy/NN and/CC consistent/JJ execution/NN will/MD allow/VB us/PRP to/TO deliver/VB on/IN our/PRP$ goals/NNS of/IN healthy/JJ profitable/JJ growth."/NN The/DT firm/NN reported/VBD worldwide/NN futures/NNS orders/NNS for/IN athletic/JJ footwear/NN and/CC gear/NN scheduled/VBN for/IN delivery/NN from/IN December/NNP 2004/CD to/TO April/NNP 2005/CD of/IN $4.9bn./CD
+That/DT is/VBZ 9.1%/CD higher/JJR than/IN such/JJ orders/NNS reported/VBN for/IN the/DT same/JJ period/NN last/JJ year./NN

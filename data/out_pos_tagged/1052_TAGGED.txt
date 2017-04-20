@@ -1,0 +1,24 @@
+Visa/NNP row/NN mandarin/NN made/VBN Sir/NNP John/NNP
+
+The/DT top/JJ civil/JJ servant/NN at/IN the/DT centre/NN of/IN the/DT David/NNP Blunkett/NNP visa/NN affair/NN has/VBZ been/VBN knighted/VBN in/IN the/DT New/NNP Year/NN Honours./NNP
+
+Sir/NNP John/NNP Gieve/NNP was/VBD Home/NNP Office/NNP permanent/JJ secretary/NN during/IN the/DT saga/NN which/WDT ended/VBD with/IN Mr/NNP Blunkett/NNP quitting./NN
+He/PRP and/CC other/JJ civil/JJ servants/NNS were/VBD criticised/VBN for/IN failing/VBG to/TO recall/VB how/WRB the/DT visa/NN for/IN Mr/NNP Blunkett's/NNP ex-lover's/NN nanny/NN came/VBD to/TO be/VB fast-tracked./JJ
+The/DT outgoing/JJ head/NN of/IN the/DT troubled/JJ Child/NN Support/NN Agency/NNP Doug/NNP Smith/NNP also/RB earns/VBZ an/DT honour/NN in/IN the/DT New/NNP Year's/NNP list./NN
+Mr/NNP Smith/NNP 57/CD whose/WP$ retirement/NN was/VBD announced/VBN by/IN Work/NN and/CC Pensions/NNS Secretary/NNP Alan/NNP Smith/NNP in/IN November/NNP is/VBZ made/VBN a/DT Commander/NNP of/IN the/DT Order/NNP of/IN Bath./NNP
+
+Both/DT men/NNS were/VBD giving/VBG evidence/NN to/TO a/DT Commons/NNPS committee/NN on/IN the/DT computer/NN difficulties/NNS facing/VBG the/DT agency/NN which/WDT left/VBD thousands/NNS of/IN single/JJ parents/NNS without/IN any/DT maintenance/NN payments/NNS when/WRB the/DT announcement/NN was/VBD made./NN
+The/DT knighting/NN of/IN Sir/NNP John/NNP 54/CD will/MD be/VB received/VBN with/IN astonishment/NN by/IN opposition/NN politicians./NN
+
+The/DT Liberal/NNP Democrats/NNPS said/VBD it/PRP "beggared/VBD belief"/NN he/PRP and/CC fellow/JJ officials/NNS could/MD not/RB remember/VB how/WRB Leoncia/NNP Casalme's/NNP application/NN for/IN indefinite/JJ leave/NN to/TO remain/VB went/VBD from/IN Mr/NNP Blunkett's/NNP office/NN to/TO the/DT head/NN of/IN the/DT Immigration/NNP and/CC Nationality/NNP Department./NNP
+Meanwhile/RB the/DT Conservatives/NNS accused/VBD officials/NNS of/IN a/DT "collective/JJ failure"/NN of/IN memory./NN
+But/CC Sir/NNP Alan/NNP Budd/NNP who/WP led/VBD an/DT inquiry/NN into/IN the/DT affair/NN said/VBD he/PRP had/VBD no/DT reason/NN to/TO believe/VB anyone/NN involved/VBN had/VBD deliberately/RB withheld/VBN information./NN
+
+Downing/NNP Street/NNP defended/VBD the/DT decision/NN to/TO honour/VB both/DT men/NNS with/IN a/DT spokesperson/NN saying/VBG "You/NN have/VBP to/TO look/VB at/IN their/PRP$ whole/JJ career."/NN Sir/NNP John/NNP was/VBD made/VBN permanent/JJ secretary/NN in/IN April/NNP 2001/CD following/VBG a/DT Civil/NNP Service/NNP career/NN which/WDT dates/NNS back/RB to/TO 1974./CD
+He/PRP has/VBZ also/RB worked/VBN in/IN the/DT Treasury/NNP and/CC the/DT Department/NNP of/IN Employment./NNP
+A/DT Department/NNP for/IN Work/NN and/CC Pensions/NNS spokeswoman/NN said/VBD of/IN Mr/NNP Smith's/NNP honour/NN "The/NN award/NN reflects/VBZ all/DT that/DT he/PRP has/VBZ achieved/VBN in/IN a/DT Civil/NNP Service/NNP career/NN principally/RB in/IN the/DT Inland/NNP Revenue/NN spanning/VBG over/IN 40/CD years/NNS -/: not/RB just/RB his/PRP$ role/NN as/IN chief/JJ executive/NN of/IN the/DT Child/NN Support/NN Agency./NNP
+
+"In/NN his/PRP$ career/NN he/PRP has/VBZ personally/RB led/VBN a/DT number/NN of/IN successful/JJ major/JJ change/NN programmes."/NN Mr/NNP Smith/NNP is/VBZ set/VBN to/TO stay/VB on/IN at/IN the/DT CSA/NNP until/IN March./NNP
+Less/RBR controversial/JJ will/MD be/VB the/DT knighthoods/NNS for/IN Derek/NNP Wanless/NNP and/CC Mike/NNP Tomlinson/NNP who/WP undertook/VBD major/JJ government/NN reviews/NNS on/IN health/NN and/CC education/NN respectively./NN
+Former/NNP NatWest/NNP chief/NN executive/NN Mr/NNP Wanless/NNP 57/CD has/VBZ delivered/VBN not/RB one/CD but/CC two/CD major/JJ reports/NNS on/IN the/DT NHS./NNP
+Ex-chief/JJ inspector/NN of/IN schools/NNS Mr/NNP Tomlinson/NNP 62/CD has/VBZ recommended/VBN replacing/VBG A-Levels/NNP and/CC GCSEs/NNP with/IN a/DT new/JJ diploma/NN system/NN in/IN a/DT shake-up/NN of/IN the/DT exams/NNS system./NN

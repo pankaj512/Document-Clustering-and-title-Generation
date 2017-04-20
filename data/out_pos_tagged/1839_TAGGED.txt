@@ -1,0 +1,17 @@
+Xbox/NNP power/NN cable/NN 'fire/NN fear'/NN
+
+Microsoft/NNP has/VBZ said/VBN it/PRP will/MD replace/VB more/JJR than/IN 14/CD million/CD power/NN cables/NNS for/IN its/PRP$ Xbox/NNP consoles/VBZ due/JJ to/TO safety/NN concerns./NN
+
+The/DT company/NN said/VBD the/DT move/NN was/VBD a/DT "preventative/JJ step"/NN after/IN reports/NNS of/IN fire/NN hazard/NN problems/NNS with/IN the/DT cables./NN
+It/PRP affects/VBZ Xboxes/NNP made/VBN before/IN 23/CD October/NNP 2003/CD for/IN all/DT regions/NNS but/CC mainland/JJ Europe/NNP -/: and/CC consoles/VBZ in/IN that/DT region/NN made/VBN before/IN 13/CD January/NNP 2004./CD
+Microsoft/NNP said/VBD it/PRP had/VBD received/VBN 30/CD reports/NNS of/IN minor/JJ injury/NN or/CC property/NN damage/NN due/JJ to/TO faulty/JJ cables./NN
+The/DT firm/NN said/VBD fewer/JJR than/IN one/CD in/IN 10000/CD consoles/VBZ had/VBN experienced/VBN component/NN failures./NN
+The/DT recall/NN affects/VBZ almost/RB three/CD quarters/NNS of/IN all/DT Xboxes/NNP sold/VBD around/IN the/DT world/NN since/IN its/PRP$ launch/NN in/IN 2001./CD
+
+In/IN a/DT statement/NN it/PRP added/VBD "In/NN almost/RB all/DT instances/NNS any/DT damage/NN caused/VBN by/IN these/DT failures/NNS was/VBD contained/VBN within/IN the/DT console/NN itself/PRP or/CC limited/VBN to/TO the/DT tip/NN of/IN the/DT power/NN cord/NN at/IN the/DT back/NN of/IN the/DT console."/NN But/CC in/IN seven/CD cases/NNS customers/NNS reported/VBD sustaining/VBG a/DT minor/JJ burn/NN to/TO their/PRP$ hand./NN
+In/IN 23/CD cases/NNS customers/NNS reported/VBD smoke/NN damage/NN or/CC minor/JJ damage/NN to/TO a/DT carpet/NN or/CC entertainment/NN centre./NN
+"This/NN is/VBZ a/DT preventative/JJ step/NN we're/NN choosing/VBG to/TO take/VB despite/IN the/DT rarity/NN of/IN these/DT incidents"/NN said/VBD Robbie/NNP Bach/NNP senior/JJ vice/NN president/NN Microsoft/NNP home/NN and/CC entertainment/NN division./NN
+"We/NN regret/NN the/DT inconvenience/NN but/CC believe/VBP offering/VBG consumers/NNS a/DT free/JJ replacement/NN cord/NN is/VBZ the/DT responsible/JJ thing/NN to/TO do."/VB Consumers/NNS can/MD order/VB a/DT new/JJ cable/NN from/IN the/DT Xbox/NNP website/NN or/CC by/IN telephoning/VBG 0800/CD 028/CD 9276/CD in/IN the/DT UK./NNP
+Microsoft/NNP said/VBD customers/NNS would/MD get/VB replacement/NN cords/NNS within/IN two/CD to/TO four/CD weeks/NNS from/IN the/DT time/NN of/IN order./NN
+It/PRP advised/VBD users/NNS to/TO turn/VB off/RP their/PRP$ Xboxes/NNP when/WRB not/RB in/IN use./NN
+A/DT follow-up/JJ to/TO Xbox/NNP is/VBZ expected/VBN to/TO released/VBN at/IN the/DT end/NN of/IN this/DT year/NN or/CC the/DT beginning/NN of/IN 2006./CD

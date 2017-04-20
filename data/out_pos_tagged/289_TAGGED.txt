@@ -1,0 +1,21 @@
+UK/NNP economy/NN facing/VBG 'major/NN risks'/NN
+
+The/DT UK/NNP manufacturing/NN sector/NN will/MD continue/VB to/TO face/VB "serious/JJ challenges"/NN over/IN the/DT next/JJ two/CD years/NNS the/DT British/NNP Chamber/NNP of/IN Commerce/NNP (BCC)/NN has/VBZ said./NN
+
+The/DT group's/NNS quarterly/JJ survey/NN of/IN companies/NNS found/VBD exports/NNS had/VBD picked/VBN up/RP in/IN the/DT last/JJ three/CD months/NNS of/IN 2004/CD to/TO their/PRP$ best/JJS levels/NNS in/IN eight/CD years./NN
+The/DT rise/NN came/VBD despite/IN exchange/NN rates/NNS being/VBG cited/VBD as/IN a/DT major/JJ concern./NN
+However/RB the/DT BCC/NNP found/VBD the/DT whole/JJ UK/NNP economy/NN still/RB faced/VBD "major/NN risks"/NN and/CC warned/VBD that/DT growth/NN is/VBZ set/VBN to/TO slow./VB
+It/PRP recently/RB forecast/VBP economic/JJ growth/NN will/MD slow/VB from/IN more/JJR than/IN 3%/CD in/IN 2004/CD to/TO a/DT little/JJ below/IN 2.5%/CD in/IN both/DT 2005/CD and/CC 2006./CD
+
+Manufacturers'/NNP domestic/JJ sales/NNS growth/NN fell/VBD back/RB slightly/RB in/IN the/DT quarter/NN the/DT survey/NN of/IN 5196/CD firms/NNS found./NN
+Employment/NNP in/IN manufacturing/NN also/RB fell/VBD and/CC job/NN expectations/NNS were/VBD at/IN their/PRP$ lowest/JJS level/NN for/IN a/DT year./NN
+
+"Despite/NN some/DT positive/JJ news/NN for/IN the/DT export/NN sector/NN there/EX are/VBP worrying/VBG signs/NNS for/IN manufacturing"/NN the/DT BCC/NNP said./NN
+"These/NN results/NNS reinforce/VBP our/PRP$ concern/NN over/IN the/DT sector's/NNS persistent/JJ inability/NN to/TO sustain/VB recovery."/NN The/DT outlook/NN for/IN the/DT service/NN sector/NN was/VBD "uncertain"/NN despite/IN an/DT increase/NN in/IN exports/NNS and/CC orders/NNS over/IN the/DT quarter/NN the/DT BCC/NNP noted./NN
+
+The/DT BCC/NNP found/VBD confidence/NN increased/VBD in/IN the/DT quarter/NN across/IN both/DT the/DT manufacturing/NN and/CC service/NN sectors/NNS although/IN overall/JJ it/PRP failed/VBD to/TO reach/VB the/DT levels/NNS at/IN the/DT start/NN of/IN 2004./CD
+The/DT reduced/VBN threat/NN of/IN interest/NN rate/NN increases/NNS had/VBD contributed/VBN to/TO improved/VBN confidence/NN it/PRP said./NN
+The/DT Bank/NNP of/IN England/NNP raised/VBD interest/NN rates/NNS five/CD times/NNS between/IN November/NNP 2003/CD and/CC August/NNP last/JJ year./NN
+But/CC rates/NNS have/VBP been/VBN kept/VBN on/IN hold/NN since/IN then/RB amid/IN signs/NNS of/IN falling/VBG consumer/NN confidence/NN and/CC a/DT slowdown/NN in/IN output./NN
+"The/NN pressure/NN on/IN costs/NNS and/CC margins/VBZ the/DT relentless/JJ increase/NN in/IN regulations/NNS and/CC the/DT threat/NN of/IN higher/JJR taxes/NNS remain/VBP serious/JJ problems"/NN BCC/NNP director/NN general/JJ David/NNP Frost/NNP said./NN
+"While/NN consumer/NN spending/NN is/VBZ set/VBN to/TO decelerate/VB significantly/RB over/IN the/DT next/JJ 12-18/JJ months/NNS it/PRP is/VBZ unlikely/JJ that/DT investment/NN and/CC exports/NNS will/MD rise/VB sufficiently/RB strongly/RB to/TO pick/VB up/RP the/DT slack."/NN

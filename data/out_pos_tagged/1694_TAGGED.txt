@@ -1,0 +1,13 @@
+England/NNP claim/NN Dubai/NNP Sevens/NNP glory/NN
+
+England/NNP beat/VB Fiji/NNP 26-21/JJ in/IN a/DT dramatic/JJ final/NN in/IN Dubai/NNP to/TO win/VB the/DT first/JJ IRB/NNP Sevens/NNP event/NN of/IN the/DT season./NN
+
+Having/VBG beaten/VBN Australia/NNP and/CC South/NNP Africa/NNP to/TO reach/VB the/DT final/JJ England/NNP fell/VBD behind/IN to/TO an/DT early/JJ try/NN against/IN Fiji./NNP
+They/PRP then/RB took/VBD charge/NN with/IN scores/NNS from/IN Pat/NNP Sanderson/NNP Kai/NNP Horstman/NNP Mathew/NNP Tait/NNP and/CC Rob/NNP Thirlby/NNP but/CC Fiji/NNP rallied/VBD to/TO force/VB a/DT tense/JJ finale./NN
+Scotland/NNP were/VBD beaten/VBN 33-15/JJ by/IN Samoa/NNP in/IN the/DT plate/NN semi-final/JJ and/CC Ireland/NNP lost/VBD 17-5/JJ to/TO Tunisia/NNP in/IN the/DT shield/NN final./NN
+Mike/NNP Friday's/NNP England/NNP side/NN matched/VBD their/PRP$ opponents/NNS for/IN pace/NN power/NN and/CC skill/NN in/IN the/DT final/JJ and/CC led/JJ 19-7/JJ at/IN half-time./JJ
+But/CC Neumi/NNP Nanuku/NNP and/CC Marika/NNP Vakacegu/NNP touched/VBD down/RP for/IN Fiji/NNP only/RB for/IN a/DT needless/JJ trip/NN by/IN Tuidriva/NNP Bainivalu/NNP on/IN Geoff/NNP Appleford/NNP to/TO allow/VB England/NNP to/TO run/VB down/RP the/DT clock./NN
+"To/NN be/VB honest/JJ England/NNP have/VBP wanted/VBN to/TO win/VB in/IN Dubai/NNP for/IN a/DT very/RB long/JJ time/NN now/RB and/CC the/DT people/NNS here/RB have/VBP wanted/VBN us/PRP to/TO win/VB for/IN just/RB as/IN long"/NN said/VBD Friday./NNP
+
+"We/NN didn't/NN want/VBP to/TO put/VB pressure/NN on/IN ourselves/PRP but/CC we/PRP are/VBP thankful/JJ we/PRP have/VBP achieved/VBN that/IN and/CC brought/VBN through/IN some/DT young/JJ talent/NN at/IN the/DT same/JJ time/NN that/WDT can/MD hopefully/RB play/VB for/IN the/DT England/NNP '15s'/CD in/IN a/DT few/JJ years."/NN Portugal/NNP confirmed/VBD their/PRP$ impressive/JJ progress/NN in/IN Sevens/NNP rugby/NN by/IN recording/NN a/DT sudden-death/JJ win/NN over/IN France/NNP in/IN the/DT bowl/NN final./NN
+Samoa/NNP won/VBD the/DT plate/NN title/NN by/IN edging/VBG out/RP Argentina/NNP 21-19./JJ

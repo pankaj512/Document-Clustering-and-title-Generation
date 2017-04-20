@@ -1,0 +1,15 @@
+Scots/NNP suffer/VB another/DT injury/NN blow/NN
+
+Scotland's/NNP back/RB row/NN crisis/NN has/VBZ worsened/VBN ahead/RB of/IN the/DT RBS/NNP Six/CD Nations/NNPS with/IN news/NN that/IN Scott/NNP Gray/NNP will/MD miss/VB out/RP on/IN the/DT opening/NN matches./NN
+
+The/DT Borders/NNS flanker/NN has/VBZ a/DT knee/NN injury/NN and/CC joins/VBZ Donnie/NNP Macfadyen/NNP and/CC Allister/NNP Hogg/NNP on/IN the/DT sidelines./NN
+Star/NNP number/NN eight/CD Simon/NNP Taylor/NNP will/MD miss/VB at/IN least/JJS the/DT first/JJ two/CD games/NNS after/IN damaging/JJ an/DT ankle/NN during/IN his/PRP$ comeback./NN
+Scott/NNP MacLeod/NNP (ankle/NN ligaments)/NN and/CC Jon/NNP Petrie/NNP (cartilage)/NN are/VBP also/RB doubtful/JJ for/IN the/DT opener/NN in/IN Paris/NNP on/IN 5/CD February./NNP
+Gray/NNP 26/CD who/WP won/VBD his/PRP$ first/JJ cap/NN against/IN Australia/NNP at/IN Murrayfield/NNP last/JJ year/NN was/VBD hurt/VBN in/IN club/NN action/NN at/IN the/DT weekend./NN
+Scotland/NNP doctor/NN James/NNP Robson/NNP said/VBD "A/NN scan/NN has/VBZ shown/VBN damage/NN to/TO the/DT medial/JJ ligaments/NNS of/IN Scott's/NNP right/JJ knee/NN ruling/NN him/PRP out/IN of/IN the/DT first/JJ part/NN of/IN the/DT Championship./NNP
+"We/NN will/MD seek/VB further/JJ specialist/NN advice/NN in/IN due/JJ course/NN to/TO determine/VB just/RB how/WRB long/JJ Scott/NNP may/MD be/VB out/RP for."/NN Another/DT potential/JJ option/NN Glasgow/NNP flanker/NN Andrew/NNP Wilson/NNP has/VBZ been/VBN ruled/VBN out/RP for/IN a/DT month/NN after/IN damaging/JJ ligaments/NNS in/IN both/DT knees/NNS against/IN Northampton/NNP recently./NN
+
+Flanker/NNP Jason/NNP White/NNP and/CC prop/VB Tom/NNP Smith/NNP have/VBP also/RB been/VBN suffering/VBG from/IN flu/NN and/CC missed/VBD this/DT week's/NNS training/NN sessions./NN
+"We/NN have/VBP got/VBN plenty/NN of/IN good/JJ young/JJ players/NNS coming/VBG through/IN and/CC we/PRP have/VBP got/VBN to/TO look/VB at/IN the/DT opportunities/NNS it/PRP represents/VBZ for/IN them/PRP rather/RB than/IN the/DT negatives"/NN Williams/NNP added./NN
+Williams/NNP could/MD now/RB turn/VB to/TO Edinburgh/NNP pair/NN Alasdair/NNP Strokosch/NNP and/CC Simon/NNP Cross./NNP
+Leeds/NNP Tykes/NNP flanker/NN Jon/NNP Dunbar/NNP also/RB trained/VBD with/IN the/DT squad/NN but/CC is/VBZ still/RB awaiting/VBG verification/NN of/IN his/PRP$ eligibility/NN to/TO qualify/VB for/IN Scotland./NNP

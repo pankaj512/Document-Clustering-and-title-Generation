@@ -1,0 +1,17 @@
+Troubled/JJ Marsh/NNP under/IN SEC/NNP scrutiny/NN
+
+The/DT US/PRP stock/VBP market/NN regulator/NN is/VBZ investigating/VBG troubled/JJ insurance/NN broker/NN Marsh/NNP &/CC McLennan's/NNP shareholder/NN transactions/NNS the/DT firm/NN has/VBZ said./NN
+
+The/DT Securities/NNPS and/CC Exchange/NNP Commission/NNP has/VBZ asked/VBN for/IN information/NN about/IN transactions/NNS involving/VBG holders/NNS of/IN 5%/CD or/CC more/JJR of/IN the/DT firm's/NNS shares./NN
+Marsh/NNP has/VBZ said/VBN it/PRP is/VBZ co-operating/JJ fully/RB with/IN the/DT SEC/NNP investigation./NN
+Marsh/NNP is/VBZ also/RB the/DT focus/NN of/IN an/DT inquiry/NN the/DT New/NNP York/NNP attorney-general/JJ into/IN whether/IN insurers/NNS rigged/VBD the/DT market./NN
+Since/IN that/DT inquiry/NN was/VBD launched/VBN in/IN October/NNP Marsh/NNP has/VBZ replaced/VBN its/PRP$ chief/JJ executive/NN and/CC held/VBD a/DT boardroom/NN shake-out/JJ to/TO meet/VB criticism/NN by/IN lessening/VBG the/DT number/NN of/IN company/NN executives/NNS on/IN the/DT board./NN
+Prosecutors/NNS allege/VBP that/IN Marsh/NNP -/: the/DT world's/NNS biggest/JJS insurance/NN broker/NN -/: and/CC other/JJ US/PRP insurance/VBP firms/NNS may/MD have/VB fixed/VBN bids/NNS for/IN corporate/JJ cover./NN
+This/DT is/VBZ the/DT issue/NN at/IN the/DT heart/NN of/IN the/DT inquiry/NN by/IN New/NNP York's/NNP top/JJ law/NN officer/NN Eliot/NNP Spitzer/NNP and/CC a/DT separate/JJ prosecution/NN of/IN five/CD insurers/NNS by/IN the/DT State/NNP of/IN California./NNP
+The/DT SEC's/NNP investigation/NN into/IN so-called/JJ related/VBN party/NN transactions/NNS includes/VBZ dealings/NNS in/IN the/DT Trident/NNP Funds/NNS managed/VBN by/IN MMC/NNP Capital/NNP the/DT company's/NNS private/JJ equity/NN firm./NN
+Marsh's/NNP new/JJ chief/JJ executive/NN Michael/NNP Cherkasky/NNP is/VBZ trying/VBG to/TO negotiate/VB a/DT settlement/NN with/IN Mr/NNP Spitzer./NNP
+Mr/NNP Spitzer/NNP has/VBZ built/VBN up/RP a/DT reputation/NN as/IN a/DT fierce/JJ critic/NN and/CC campaigner/NN against/IN corporate/JJ America's/NNP misdeeds./NN
+
+The/DT uncertainty/NN unleashed/VBD by/IN the/DT scandal/NN has/VBZ prompted/VBN three/CD credit/NN rating/NN agencies/NNS -/: Standard/NNP &/CC Poor's/NNP Moody's/NNP and/CC Fitch/NNP -/: to/TO downgrade/VB Marsh/NNP in/IN recent/JJ weeks./NN
+According/VBG to/TO the/DT Financial/NNP Times/NNP insurance/NN analysts/NNS are/VBP now/RB questioning/VBG whether/IN Marsh/NNP will/MD be/VB able/JJ to/TO maintain/VB its/PRP$ strong/JJ record/NN of/IN earning/VBG growth/NN as/IN they/PRP draw/VBP up/RP forecasts/NNS for/IN the/DT first/JJ quarter/NN of/IN next/JJ year./NN
+Doubts/NNS also/RB exist/VBP over/IN how/WRB much/JJ the/DT company/NN may/MD have/VB to/TO pay/VB regulators/NNS and/CC lawyers/NNS to/TO put/VB the/DT scandal/NN behind./NN

@@ -1,0 +1,12 @@
+Teens/NNS 'know/NN little'/NN of/IN politics/NNS
+
+Teenagers/NNS questioned/VBD for/IN a/DT survey/NN have/NN shown/VBN little/JJ interest/NN in/IN politics/NNS -/: and/CC have/VBP little/JJ knowledge./NN
+
+Only/RB a/DT quarter/NN of/IN 14-16/JJ year/NN olds/NNS knew/VBD that/IN Labour/NNP was/VBD the/DT government/NN the/DT Tories/NNPS were/VBD the/DT official/JJ Opposition/NN and/CC the/DT Lib/NNP Dems/NNP were/VBD the/DT third/JJ party./NN
+Almost/RB all/DT could/MD identify/VB Tony/NNP Blair/NNP but/CC only/RB one/CD in/IN six/CD knew/VBD who/WP Michael/NNP Howard/NNP was/VBD and/CC just/RB one/CD in/IN 10/CD recognised/VBN Charles/NNP Kennedy./NNP
+The/DT ICM/NNP survey/NN interviewed/VBD 110/CD pupils/NNS for/IN education/NN watchdog/NN Ofsted./NNP
+Nearly/RB half/PDT those/DT pupils/NNS polled/VBN said/VBD it/PRP was/VBD not/RB important/JJ for/IN them/PRP to/TO know/VB more/JJR about/IN what/WP the/DT political/JJ parties/NNS stand/VBP for./NN
+And/CC 4%/CD of/IN those/DT questioned/VBD thought/VBN the/DT Conservatives/NNS were/VBD in/IN power/NN -/: while/IN 2%/CD of/IN them/PRP believed/VBN the/DT Lib/NNP Dems/NNP were./NN
+The/DT survey/NN also/RB looked/VBD at/IN issues/NNS of/IN nationality./NN
+It/PRP found/VBD the/DT Union/NNP flag/NN and/CC fish/NN and/CC chips/NNS topped/VBD the/DT list/NN of/IN symbols/NNS and/CC foods/NNS associated/VBN with/IN being/VBG British./NNP
+Many/JJ of/IN the/DT pupils/NNS also/RB looked/VBD on/IN themselves/PRP as/IN English/NNP Scottish/NNP or/CC Welsh/NNP rather/RB than/IN British/JJ while/IN the/DT notion/NN of/IN being/VBG European/JJ hardly/RB occurred/VBD to/TO anyone./VB

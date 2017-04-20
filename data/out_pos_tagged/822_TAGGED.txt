@@ -1,0 +1,17 @@
+Smith/NNP loses/VBZ US/PRP box/NN office/NN crown/NN
+
+New/JJ comedy/NN Diary/NNP of/IN a/DT Mad/NNP Black/NNP Woman/NNP has/VBZ ended/VBN Will/MD Smith's/NNP reign/NN at/IN the/DT top/NN of/IN the/DT North/JJ American/JJ box/NN office./NN
+
+Based/VBN on/IN a/DT play/NN by/IN Tyler/NNP Perry/NNP who/WP also/RB stars/NNS as/IN a/DT gun-toting/JJ grandmother/NN the/DT film/NN took/VBD $22.7m/CD (£11.8m)/CD in/IN its/PRP$ first/JJ three/CD days/NNS of/IN release./NN
+After/IN topping/VBG the/DT chart/NN for/IN two/CD consecutive/JJ weeks/NNS Smith's/NNP romantic/JJ comedy/NN Hitch/NN dropped/VBD to/TO second/JJ place/NN with/IN takings/NNS of/IN $21m/CD (£10.9m)./CD
+Keanu/NNP Reeves'/NNP supernatural/JJ thriller/NN Constantine/NNP dropped/VBD a/DT place/NN to/TO three./VB
+Based/VBN on/IN the/DT Hellblazer/NNP comics/VBZ the/DT film/NN took/VBD $11.8m/CD (£6.1m)/CD on/IN its/PRP$ second/JJ week/NN of/IN release./NN
+Two/CD new/JJ entries/NNS came/VBD next/JJ in/IN the/DT chart/NN with/IN Wes/NNP Craven's/NNP horror/NN movie/NN Cursed/JJ about/IN a/DT werewolf/NN loose/JJ in/IN Los/NNP Angeles/NNP in/IN fourth/JJ position/NN with/IN $9.5m/CD (£4.9m)./CD
+
+Action/NNP comedy/NN Man/NN of/IN the/DT House/NNP starring/VBG Tommy/NNP Lee/NNP Jones/NNP as/IN a/DT Texas/NNP ranger/NN assigned/VBN to/TO protect/VB a/DT cheerleader/NN squad/NN came/VBD in/IN at/IN fifth/JJ with/IN $9m/CD (£4.6m)./CD
+Clint/NNP Eastwood's/NNP boxing/VBG drama/NN Million/CD Dollar/NN Baby/NNP -/: recipient/JJ of/IN four/CD Academy/NNP Awards/NNS including/VBG best/JJS picture/NN -/: continued/VBD to/TO perform/VB well/RB in/IN sixth/JJ place/NN with/IN takings/NNS of/IN $7.2m/CD (£3.74m)./CD
+Martin/NNP Scorsese's/NNP Hollywood/NNP biopic/VBD The/DT Aviator/NNP -/: which/WDT won/VBD five/CD Oscars/NNP all/DT in/IN minor/JJ categories/NNS -/: held/VBN on/RP in/IN ninth/JJ place./NN
+The/DT low-budget/JJ feature/NN Diary/NNP of/IN a/DT Mad/NNP Black/NNP Woman/NNP stars/NNS Kimberly/NNP Elise/NNP as/IN a/DT woman/NN thrown/VBD out/RP on/IN the/DT streets/NNS by/IN her/PRP$ philandering/VBG husband./NN
+With/IN the/DT help/NN of/IN her/PRP$ grandmother/NN Madea/NNP (one/NN of/IN three/CD roles/NNS played/VBN by/IN Perry)/NNP she/PRP plots/VBZ revenge./NN
+Perry/NNP 34/CD is/VBZ one/CD of/IN America's/NNP best-known/JJS black/JJ playwrights/NNS but/CC is/VBZ a/DT newcomer/NN to/TO film./VB
+Once/RB made/VBN homeless/JJ after/IN investing/VBG his/PRP$ own/JJ money/NN in/IN unsuccessful/JJ productions/NNS of/IN his/PRP$ work/NN he/PRP now/RB lives/VBZ in/IN the/DT mansion/NN in/IN which/WDT Diary/NNP of/IN a/DT Mad/NNP Black/NNP Woman/NNP was/VBD filmed./NN

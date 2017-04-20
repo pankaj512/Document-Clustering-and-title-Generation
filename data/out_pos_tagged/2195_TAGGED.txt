@@ -1,0 +1,38 @@
+France/NNP starts/VBZ digital/JJ terrestrial/JJ
+
+France/NNP has/VBZ become/VBN the/DT last/JJ big/JJ European/JJ country/NN to/TO launch/VB a/DT digital/JJ terrestrial/JJ TV/NN (DTT)/NN service./NN
+
+Initially/RB more/JJR than/IN a/DT third/JJ of/IN the/DT population/NN will/MD be/VB able/JJ to/TO receive/VB 14/CD free-to-air/JJ channels./NN
+Despite/IN the/DT long/JJ wait/NN for/IN a/DT French/JJ DTT/NNP roll-out/NN the/DT new/JJ platform's/NNS backers/NNS hope/VBP to/TO emulate/VB the/DT success/NN of/IN its/PRP$ UK/NNP free-to-air/JJ counterpart/NN Freeview./NNP
+Recent/JJ figures/NNS from/IN the/DT UK's/NNP regulator/NN Ofcom/NNP showed/VBD Freeview/NNP was/VBD more/RBR popular/JJ than/IN the/DT Sky/NNP digital/JJ satellite/NN service./NN
+In/IN the/DT three/CD months/NNS to/TO September/NNP 2004/CD almost/RB five/CD times/NNS as/IN many/JJ people/NNS signed/VBD up/IN to/TO the/DT UK's/NNP free-to-air/JJ DTT/NNP service/NN compared/VBN with/IN Sky./NNP
+Almost/RB 60%/CD of/IN UK/NNP households/NNS have/VBP gone/VBN digital/JJ on/IN at/IN least/JJS one/CD television/NN set/VBN through/IN cable/NN satellite/NN or/CC Freeview./NNP
+
+The/DT French/JJ DTT/NNP platform/NN is/VBZ known/VBN as/IN TNT/NNP which/WDT stands/VBZ for/IN TV/NN numerique/NN terrestre/NN or/CC digital/JJ terrestrial/JJ television./NN
+But/CC it/PRP is/VBZ being/VBG branded/VBN as/IN Television/NNP Numerique/NNP pour/VB Tous/NNP or/CC "digital/JJ television/NN for/IN all"./NN
+TNT/NNP is/VBZ a/DT joint/JJ venture/NN between/IN public/JJ broadcaster/NN France/NNP Televisions/NNS and/CC a/DT handful/NN of/IN cable/NN and/CC satellite/NN operators./NN
+Digital/NNP terrestrial/JJ TV/NN will/MD launch/VB as/IN a/DT free-to-air/JJ platform/NN to/TO start/VB with/IN adding/VBG pay-TV/NN channels/NNS later./NN
+Thirty-five/NN contenders/NNS have/VBP bid/NN for/IN an/DT additional/JJ eight/CD frequencies/NNS on/IN top/NN of/IN the/DT 14/CD already/RB allocated./NN
+"A/NN couple/NN of/IN years/NNS ago/IN DTT/NNP had/VBD a/DT bad/JJ image"/NN said/VBD Olivier/NNP Gerolami/NNP chief/NN operating/NN officer/NN of/IN TNT./NNP
+
+"But/NN everyone's/NNS impressed/VBN with/IN DTT/NNP in/IN the/DT UK/NNP Italy/NNP and/CC Germany/NNP and/CC they/PRP realise/VBP it/PRP is/VBZ a/DT very/RB good/JJ idea./NN
+"France/NN is/VBZ the/DT poorest/JJS market/NN in/IN Europe/NNP in/IN terms/NNS of/IN free-to-air/JJ national/JJ channels/NNS so/IN it/PRP has/VBZ the/DT potential/NN to/TO be/VB one/CD of/IN the/DT biggest/JJS DTT/NNP markets"/NN Mr/NNP Gerolami/NNP added/VBD in/IN remarks/NNS quoted/VBN by/IN the/DT US/PRP entertainment/VBP industry/NN paper/NN Variety./NNP
+TNT/NNP aims/VBZ to/TO reach/VB 35%/CD of/IN France's/NNP population/NN at/IN launch/NN from/IN 17/CD transmission/NN sites./NN
+The/DT transmission/NN area/NN will/MD initially/RB include/VB Paris/NNP Lille/NNP Lyon/NNP and/CC Toulouse./NNP
+Eventually/RB there/EX will/MD be/VB 115/CD sites/NNS reaching/VBG over/IN 80%/CD of/IN homes./NN
+Digital/NNP terrestrial/JJ set-top/JJ boxes/NNS are/VBP available/JJ from/IN as/RB little/JJ as/IN 70/CD euros/NNS (£50)./CD
+A/DT recent/JJ survey/NN by/IN Mediametrie/NNP found/VBD that/IN 70%/CD of/IN people/NNS interviewed/VBD were/VBD aware/JJ of/IN DTT/NNP and/CC 25%/CD were/VBD planning/VBG to/TO buy/VB a/DT digital/JJ receiver./NN
+Consumer/NN electronics/NNS companies/NNS such/JJ as/IN Nokia/NNP Sagem/NNP Sony/NNP and/CC Thomson/NNP are/VBP gearing/VBG up/RP for/IN production./NN
+The/DT Conseil/NNP Superieur/NNP de/FW l'Audiovisuel/NN (CSA)/NN the/DT French/JJ broadcasting/NN regulator/NN said/VBD "Following/VBG the/DT recent/JJ success/NN of/IN Freeview/NNP in/IN the/DT UK/NNP some/DT manufacturers/NNS are/VBP optimistic/JJ about/IN sales/NNS prospects"./NN
+Media/NN analysts/NNS believe/VBP that/IN initially/RB the/DT majority/NN of/IN viewers/NNS will/MD buy/VB inexpensive/JJ set-top/JJ boxes/NNS that/WDT are/VBP unable/JJ to/TO support/VB interactive/JJ services./NN
+The/DT CSA/NNP said/VBD the/DT current/JJ aim/NN of/IN reaching/VBG 85%/CD of/IN the/DT population/NN by/IN 2007/CD was/VBD achievable/JJ but/CC the/DT future/NN of/IN the/DT remaining/VBG TV/NN viewers/NNS required/VBD action/NN by/IN the/DT public/JJ sector./NN
+For/IN the/DT most/JJS part/NN they/PRP are/VBP people/NNS living/VBG in/IN mountainous/JJ or/CC border/NN areas/NNS which/WDT will/MD remain/VB beyond/IN the/DT reach/NN of/IN digital/JJ terrestrial/JJ TV/NN for/IN years./NN
+
+Up/IN to/TO 15/CD pay-TV/NN channels/NNS will/MD launch/VB on/IN DTT/NNP between/IN September/NNP 2005/CD and/CC March/NNP 2006./CD
+Leading/VBG pay-TV/NN operators/NNS Canal/NN Plus/NNP and/CC TPS/NNP have/VBP submitted/VBN bids/NNS to/TO market/NN bouquets/NNS of/IN channels./NN
+Free-to-air/NN services/NNS will/MD be/VB broadcast/NN in/IN MPEG-2/JJ format./NN
+But/CC pay-TV/NN operators/NNS will/MD be/VB allowed/VBN to/TO broadcast/VB in/IN MPEG-4/JJ -/: a/DT much/RB better/JJR compression/NN technology/NN -/: which/WDT will/MD potentially/RB allow/VB for/IN high-definition/JJ (HD)/NN subscription/NN services/NNS in/IN the/DT future./NN
+TNT/NNP expects/VBZ between/IN 700000/CD and/CC one/CD million/CD DTT/NNP set-top/JJ boxes/NNS to/TO be/VB sold/VBN in/IN 2005./CD
+"It/NN is/VBZ difficult/JJ to/TO tell/VB how/WRB quickly/RB it/PRP will/MD take/VB off"/NN said/VBD Mr/NNP Gerolami/NNP "but/NN we're/NN optimistic/JJ that/IN it/PRP will/MD revolutionise/VB television/NN in/IN France."/NNP Other/JJ analysts/NNS were/VBD less/RBR optimistic/JJ predicting/NN consumers/NNS would/MD now/RB be/VB less/RBR likely/JJ to/TO sign/VB up/RP for/IN pay-TV/NN subscriptions./NN
+"We/NN think/VBP free/JJ DTT/NNP could/MD put/VB brakes/NNS on/IN the/DT underlying/VBG growth/NN of/IN pay-TV/NN in/IN France"/NNP said/VBD Henri/NNP de/NNP Bodinat/NNP vice-president/NN of/IN the/DT Arthur/NNP D./NNP
+Little/JJ consultancy./NN

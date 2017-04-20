@@ -1,0 +1,15 @@
+Junk/NN e-mails/NNS on/IN relentless/JJ rise/NN
+
+Spam/NNP traffic/NN is/VBZ up/IN by/IN 40%/CD putting/VBG the/DT total/JJ amount/NN of/IN e-mail/JJ that/WDT is/VBZ junk/NN up/IN to/TO an/DT astonishing/JJ 90%./CD
+
+The/DT figures/NNS from/IN e-mail/JJ management/NN firm/NN Email/NNP Systems/NNPS will/MD alarm/VB firms/NNS attempting/VBG to/TO cope/VB with/IN the/DT amount/NN of/IN spam/NN in/IN their/PRP$ in-boxes./JJ
+While/IN virus/NN traffic/NN has/VBZ slowed/VBN down/RB denial/NN of/IN service/NN attacks/NNS are/VBP on/IN the/DT increase/NN according/VBG to/TO the/DT firm./NN
+Virus/NN mail/NN accounts/VBZ for/IN just/RB over/IN 15%/CD of/IN all/DT e-mail/JJ traffic/NN analysis/NN by/IN the/DT firm/NN has/VBZ found./NN
+
+It/PRP is/VBZ no/RB longer/RB just/RB multi-nationals/NNS that/WDT are/VBP in/IN danger/NN of/IN so-called/JJ denial/NN of/IN service/NN attacks/NNS in/IN which/WDT websites/NNS are/VBP bombarded/VBN by/IN requests/NNS for/IN information/NN and/CC rendered/VBN inaccessible./NN
+Email/NNP Systems/NNPS refers/VBZ to/TO a/DT small/JJ UK-based/JJ engineering/NN firm/NN which/WDT received/VBD a/DT staggering/JJ 12/CD million/CD e-mails/NNS in/IN January./NNP
+The/DT type/NN of/IN spam/NN currently/RB being/VBG sent/VBD has/VBZ subtlety/NN altered/VBN in/IN the/DT last/JJ few/JJ months/NNS according/VBG to/TO Email/NNP Systems/NNPS analysis./NN
+Half/NN of/IN spam/NN received/VBD since/IN Christmas/NNP has/VBZ been/VBN health-related/JJ with/IN gambling/NN and/CC porn/NN also/RB on/IN the/DT increase./NN
+Scam/NN mails/NNS offering/VBG ways/NNS to/TO make/VB a/DT quick/JJ buck/NN have/VBP declined/VBN by/IN 40%./CD
+"January/NN is/VBZ clearly/RB a/DT month/NN when/WRB consumers/NNS are/VBP less/RBR motivated/VBN to/TO purchase/VB financial/JJ products/NNS or/CC put/VBD money/NN into/IN dubious/JJ financial/JJ opportunities"/NN said/VBD Neil/NNP Hammerton/NNP managing/VBG director/NN of/IN Email/NNP Systems./NNP
+"Spammers/NN seem/VBP to/TO have/VB adapted/VBN their/PRP$ output/NN to/TO reflect/VB this/DT focussing/VBG instead/RB on/IN medically/RB motivated/VBN and/CC pornographic/JJ offers/VBZ presumably/RB intentionally/RB intended/VBN to/TO coincide/VB with/IN what/WP is/VBZ traditionally/RB considered/VBN to/TO be/VB the/DT bleakest/JJ month/NN in/IN the/DT calendar"/NN he/PRP said./VB

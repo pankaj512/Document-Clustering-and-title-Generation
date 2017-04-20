@@ -1,0 +1,91 @@
+Call/VB for/IN action/NN on/IN internet/JJ scam/NN
+
+Phone/NN companies/NNS are/VBP not/RB doing/VBG enough/RB to/TO warn/VB customers/NNS about/IN internet/JJ "rogue-dialling"/JJ scams/NNS according/VBG to/TO premium/NN phone/NN line/NN regulator/NN Icstis./NNP
+
+It/PRP has/VBZ received/VBN 45000/CD complaints/NNS in/IN recent/JJ months/NNS about/IN dial-up/JJ internet/JJ connections/NNS diverting/VBG to/TO premium/VB rate/NN numbers/NNS without/IN users'/NN knowledge./NN
+Phone/NN companies/NNS refuse/VBP to/TO pay/VB compensation/NN because/IN they/PRP say/VBP calls/VBZ must/MD be/VB paid/VBN for./NN
+They/PRP must/MD warn/VB people/NNS earlier/RBR about/IN possible/JJ fraud/NN Icstis/NNP said./NN
+
+People/NNS who/WP use/VBP dial-up/JJ connections/NNS can/MD be/VB affected/VBN by/IN the/DT scams./NN
+Without/IN realising/VBG a/DT program/NN can/MD be/VB downloaded/VBN which/WDT diverts/NNS internet/JJ calls/NNS via/IN a/DT premium/NN phone/NN line./NN
+Victims/NNS often/RB fail/VBP to/TO notice/VB until/IN they/PRP receive/VBP an/DT unusually/RB high/JJ bill./NN
+Icstis/NNP spokesman/NN Rob/NNP Dwight/NNP said/VBD "Phone/NN companies/NNS should/MD get/VB in/IN touch/NN with/IN their/PRP$ customers/NNS sooner./NN
+"If/NN my/PRP$ bill/NN goes/VBZ over/IN the/DT usual/JJ £50/CD a/DT month/NN I/PRP want/VBP to/TO know/VB about/IN it/PRP straight/JJ away/RB -/: I/PRP don't/VBP want/VBP to/TO be/VB told/VBN when/WRB it's/NNS hit/VBD £750."/CD
+
+Phone/NN companies/NNS had/VBD the/DT systems/NNS in/IN place/NN to/TO spot/VB fraudulent/JJ activity/NN and/CC artificially-inflated/JJ traffic/NN he/PRP said./VB
+"We/NN alert/NN them/PRP to/TO the/DT numbers/NNS that/IN we/PRP have/VBP under/IN investigation/NN and/CC they/PRP should/MD be/VB looking/VBG out/RP for/IN these/DT numbers"/NN he/PRP added./VB
+
+Telecoms/NNP ombudsman/NN Elizabeth/NNP France/NNP said/VBD "Certainly/RB I/PRP would/MD not/RB be/VB surprised/VBN to/TO find/VB my/PRP$ credit/NN card/NN company/NN phoning/VBG me/PRP if/IN I/PRP do/VBP something/NN out/IN of/IN the/DT ordinary./NN
+"So/NN I/PRP would/MD expect/VB phone/NN companies/NNS to/TO be/VB looking/VBG to/TO see/VB if/IN they/PRP can/MD have/VB a/DT similar/JJ approach."/NN The/DT biggest/JJS phone/NN company/NN BT/NNP says/VBZ it/PRP is/VBZ doing/VBG what/WP it/PRP can/MD to/TO monitor/VB fraud/NN and/CC warn/VBP people/NNS about/IN rogue/NN dialling./NN
+Its/PRP$ advice/NN to/TO customers/NNS is/VBZ to/TO use/VB call/NN barring/VBG if/IN they/PRP want/VBP to/TO prevent/VB calls/VBZ to/TO premium/VB lines/NNS because/IN under/IN the/DT current/JJ system/NN once/RB the/DT call/NN has/VBZ been/VBN made/VBN there's/NNS little/JJ that/WDT can/MD be/VB done./NN
+
+Gavin/NNP Patterson/NNP group/NN managing/VBG director/NN for/IN BT/NNP Consumer/NNP said/VBD "We/NN do/VBP look/VB at/IN customer's/NNS calling/VBG patterns/NNS and/CC we/PRP do/VBP make/VB interventions/NNS when/WRB they/PRP are/VBP out/IN of/IN the/DT ordinary./NN
+"We're/NN looking/VBG at/IN the/DT moment/NN at/IN whether/IN we/PRP can/MD improve/VB this."/NN But/CC as/IN BT/NNP handled/VBD 180/CD million/CD calls/VBZ a/DT day/NN monitoring/NN was/VBD "quite/NN a/DT task/NN in/IN itself"/NN he/PRP added./VB
+The/DT government/NN has/VBZ ordered/VBN a/DT review/NN of/IN premium/NN line/NN services/NNS and/CC is/VBZ likely/JJ to/TO say/VB Icstis/NNP should/MD have/VB more/JJR power/NN to/TO deal/VB with/IN rogue/NN diallers/NNS in/IN future./NN
+At/IN the/DT moment/NN it/PRP cannot/NN demand/NN pay-outs/NNS on/IN the/DT behalf/NN of/IN customer/NN -/: it/PRP can/MD only/RB close/VB illegal/JJ services/NNS down./NN
+
+I/PRP use/VBP free/JJ anti-virus/JJ software/NN (AVG)/NN and/CC free/JJ firewall/NN protection/NN (ZoneAlarm)./NN
+Both/DT of/IN these/DT tools/NNS have/VBP prevented/VBN unauthorised/VBN access/NN and/CC outgoing/JJ calls/VBZ inadvertently/RB and/CC innocently/RB caused/VBN by/IN my/PRP$ daughter's/NNS love/NN of/IN music/NN sites./NN
+How/WRB about/IN ISPs/NNP informing/VBG all/DT customers/NNS of/IN such/JJ facilities?/NN The/DT responsibility/NN clearly/RB falls/VBZ with/IN the/DT customer/NN but/CC many/JJ fall/NN prey/VBP through/IN simply/RB not/RB knowing/VBG how/WRB to/TO avoid/VB these/DT issues./NN
+
+Ignorance/NN is/VBZ and/CC always/RB has/VBZ been/VBN an/DT expensive/JJ business./NN
+
+Does/VBZ any/DT one/CD know/NN what/WP happens/VBZ once/RB this/DT fraud/NN has/VBZ been/VBN committed/VBN and/CC recognised?/VB The/DT phone/NN companies/NNS pay/VBP the/DT people/NNS who/WP obtaining/VBG money/NN fraudulently/RB so/RB are/VBP these/DT people/NNS followed/VBD up/RB and/CC prosecuted/VBN ?/.
+
+These/DT diallers/NNS are/VBP mainly/RB downloaded/VBN from/IN sites/NNS offering/VBG illegal/JJ MP3s/CD porn/NN and/CC pirated/VBN software./NN
+If/IN people/NNS didn't/VBP visit/NN such/JJ sites/NNS they'd/NN be/VB considerably/RB less/JJR at/IN risk./NN
+Whatever/WDT happened/VBD to/TO personal/JJ responsibility?/NN It/PRP seems/VBZ everyone/NN has/VBZ to/TO be/VB a/DT 'victim'/NN these/DT days/NNS
+
+Part/NN of/IN the/DT blame/NN has/VBZ to/TO rest/VB with/IN the/DT manufacturers/NNS of/IN home/NN computer/NN operating/NN systems./NN
+A/DT secure/NN system/NN should/MD not/RB allow/VB a/DT web/NN page/NN or/CC email/NN to/TO download/VB and/CC install/VB anything/NN without/IN the/DT user's/NNS knowledge./NN
+
+These/DT scams/NNS are/VBP illegal/JJ and/CC telephone/NN companies/NNS should/MD have/VB nothing/NN to/TO do/VB with/IN them./NN
+They/PRP should/MD refuse/VB to/TO pay/VB money/NN over/RP to/TO the/DT perpetrators./NN
+Or/CC are/VBP they/PRP themselves/PRP receiving/VBG such/JJ good/JJ returns/NNS that/IN it/PRP is/VBZ in/IN their/PRP$ interest/NN to/TO keep/VB the/DT scam/NN going?/NN
+
+Why/WRB don't/NN BT/NNP et/CC al/JJ block/NN all/DT premium/NN numbers/NNS by/IN default/NN and/CC only/RB turn/VB it/PRP off/RP at/IN the/DT customer's/NNS request?/NN To/TO anyone/NN who/WP falls/VBZ foul/JJ of/IN this/DT scam/NN -/: refuse/VBP to/TO pay/VB your/PRP$ telephone/NN provider/NN for/IN these/DT calls./NN
+After/IN you/PRP notify/VBP your/PRP$ telephone/NN provider/NN of/IN these/DT fraudulent/JJ transactions/NNS they/PRP cannot/VBP insist/VBP on/IN you/PRP paying/VBG the/DT bill./NN
+To/TO do/VB so/RB would/MD be/VB to/TO knowingly/RB assist/VB the/DT fraudsters/NNS to/TO commit/VB the/DT fraud./NN
+No/DT customers/NNS have/VBP yet/RB been/VBN taken/VBN to/TO court/NN for/IN refusing/VBG to/TO pay/VB these/DT bills./NN
+
+Disable/NNP or/CC remove/VB your/PRP$ modem/NN and/CC use/NN broadband/NN instead/RB -/: then/RB you/PRP have/VBP nothing/NN to/TO worry/VB about./NN
+Or/CC buy/VB some/DT decent/JJ firewall/NN software/NN and/CC anti-virus./JJ
+You/PRP would/MD not/RB walk/VB out/RP in/IN the/DT freezing/NN cold/JJ without/IN a/DT coat/NN -/: you/PRP would/MD not/RB drive/VB your/PRP$ car/NN without/IN any/DT insurance/NN -/: so/RB why/WRB not/RB protect/VB your/PRP$ PC?/NNP Stop/VB blaming/VBG the/DT phone/NN companies/NNS -/: it's/NNS not/RB their/PRP$ fault/NN
+
+I/PRP was/VBD very/RB impressed/VBN with/IN our/PRP$ phone/NN company/NN recently./NN
+I/PRP had/VBD kept/VBN ringing/VBG a/DT hotline/NN number/NN for/IN Kylie/NNP tickets/NNS and/CC next/JJ day/NN they/PRP rang/VBD back/RB to/TO ask/VB if/IN I/PRP was/VBD aware/JJ there/EX were/VBD 40-odd/JJ calls/VBZ to/TO the/DT same/JJ number./NN
+Great/NNP service./NN
+And/CC I/PRP got/VBD the/DT tickets/NNS as/IN well/RB
+
+I/PRP have/VBP a/DT colleague/NN who/WP has/VBZ fallen/VBN victim/NN to/TO this/DT kind/NN of/IN scam./NN
+He/PRP informed/VBD the/DT phone/NN company/NN about/IN it/PRP they/PRP subsequently/RB put/VBP a/DT block/NN on/IN premium/NN rate/NN numbers./NN
+Three/CD months/NNS later/RB another/DT huge/JJ bill/NN of/IN over/IN £1000/CD came/VBD in/IN -/: the/DT block/NN apparently/RB didn't/NN work/NN and/CC he/PRP still/RB has/VBZ to/TO pay/VB for/IN it/PRP even/RB though/IN a/DT block/NN was/VBD in/IN place./NN
+Phone/NN companies/NNS are/VBP probably/RB quite/RB happy/JJ for/IN their/PRP$ customers/NNS to/TO be/VB hit/VBN with/IN a/DT huge/JJ bill/NN otherwise/RB they'd/NN be/VB taking/VBG extra/JJ steps/NNS to/TO prevent/VB this/DT kind/NN of/IN problem./NN
+
+I/PRP have/VBP been/VBN scammed/VBN of/IN £139./CD
+The/DT operator/NN will/MD do/VB nothing/NN about/IN this/DT and/CC to/TO add/VB insult/NN to/TO injury/VB I/PRP was/VBD charged/VBN VAT/NNP by/IN the/DT government./NN
+
+Premium/NNP rate/NN numbers/NNS have/VBP been/VBN subject/JJ to/TO various/JJ scams/NNS ever/RB since/IN they/PRP were/VBD invented./NN
+One/CD example/NN was/VBD where/WRB thieves/NNS would/MD set/VB up/RP a/DT premium/NN rate/NN number/NN and/CC then/RB dial/NN it/PRP day/VBD and/CC night/NN from/IN phones/NNS whose/WP$ quarterly/JJ bills/NNS were/VBD never/RB paid./NN
+The/DT telephone/NN company/NN was/VBD the/DT victim/NN here/RB and/CC you/PRP can/MD bet/VB that/DT loophole/NN was/VBD blocked/VBN very/RB quickly./NN
+
+I/PRP know/VBP people/NNS who/WP have/VBP run/VBN up/RP large/JJ bills/NNS despite/IN being/VBG IT-literate./NNP
+From/IN talking/VBG to/TO BT/NNP in/IN Belfast/NNP I/PRP believe/VBP that/IN they/PRP will/MD shortly/RB be/VB giving/VBG out/RP a/DT free/JJ application/NN that/WDT can/MD stop/VB you/PRP dialling/VBG expensive/JJ numbers/NNS without/IN knowing./NN
+It's/NNP not/RB the/DT fault/NN of/IN phone/NN companies/NNS and/CC at/IN last/JJ they/PRP are/VBP doing/VBG something/NN about/IN it./NN
+
+It's/NNP about/IN time/NN that/IN the/DT profiteering/NN by/IN the/DT 'legitimate'/NN phone/NN companies/NNS came/VBD to/TO an/DT end/NN mainly/RB by/IN doing/VBG away/RB with/IN dial-up/JJ altogether/RB and/CC bring/VB broadband/NN down/RP to/TO the/DT same/JJ price/NN as/IN dial-up/JJ Not/RB only/RB will/MD this/DT ruin/VB things/NNS for/IN the/DT dialler/NN scammers/NNS but/CC also/RB allow/VB people/NNS to/TO update/VB and/CC upgrade/VB their/PRP$ security/NN more/RBR easily/RB and/CC quickly./NN
+
+I/PRP haven't/VBP "fallen/NN victim/NN to/TO a/DT rogue-dialling/JJ scam"/NN but/CC I/PRP think/VBP you're/NN seriously/RB remiss/JJ in/IN not/RB pointing/VBG out/RP that/IN the/DT vast/JJ majority/NN of/IN these/DT scams/NNS arise/VBP from/IN people/NNS trying/VBG to/TO access/VB services/NNS purporting/VBG to/TO provide/VB free/JJ pornography./NN
+In/IN most/JJS cases/NNS the/DT user/NN is/VBZ entirely/RB at/IN fault/NN which/WDT is/VBZ probably/RB why/WRB the/DT telephone/NN companies/NNS are/VBP rightly/RB unwilling/JJ to/TO refund/VB them./NN
+
+My/PRP$ telephone/NN supplier/NN did/VBD not/RB inform/VB me/PRP that/IN my/PRP$ monthly/JJ bill/NN had/VBD risen/VBN from/IN its/PRP$ normal/JJ £3/CD to/TO £5/CD to/TO £320./CD
+This/DT was/VBD because/IN of/IN the/DT scam./NN
+They/PRP simply/RB billed/VBD me./NN
+What/WP particularly/RB galls/VBZ me/PRP over/RB and/CC above/IN having/VBG over/IN £300/CD stolen/VBN is/VBZ that/IN the/DT supplier/NN and/CC the/DT government/NN (through/NN VAT)/NNP are/VBP profiting/VBG from/IN this/DT crime/NN and/CC will/MD not/RB reimburse/VB me/PRP their/PRP$ portion/NN of/IN my/PRP$ losses./NN
+
+How/WRB about/IN an/DT automatic/JJ monthly/JJ cap/NN of/IN say/VBP £20/CD on/IN premium/NN rate/NN calls/VBZ that/IN you/PRP would/MD have/VB to/TO contact/VB your/PRP$ provider/NN to/TO have/VB lifted?/VBN That/DT way/NN you/PRP could/MD use/VB legitimate/JJ premium/NN rate/NN numbers/NNS while/IN limiting/VBG fraudulent/JJ usage./NN
+At/IN least/JJS any/DT disputed/VBN amount/NN would/MD be/VB limited/JJ far/RB easier/JJR for/IN a/DT telecoms/NNS operator/NN to/TO write/VB off/RP £20/CD than/IN it/PRP is/VBZ £750./CD
+
+A/DT few/JJ years/NNS back/RB I/PRP was/VBD also/RB the/DT target/NN of/IN such/JJ scams/NNS but/CC thank/VB God/NNP I/PRP have/VBP already/RB upgraded/VBN to/TO broadband/VB and/CC nothing/NN was/VBD connected/VBN to/TO my/PRP$ modem/NN so/IN all/DT I/PRP heard/VBD was/VBD the/DT sound/NN of/IN an/DT attempted/VBN connection./NN
+
+How/WRB about/IN home/NN users/NNS take/VBP some/DT responsibility/NN and/CC ensure/VB their/PRP$ anti-virus/JJ and/CC firewall/NN software/NN is/VBZ up/IN to/TO date?/VB That/DT should/MD prevent/VB the/DT vast/JJ majority/NN of/IN these/DT scams./NN

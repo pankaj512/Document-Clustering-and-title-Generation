@@ -1,0 +1,24 @@
+Robinson/NNP ready/JJ for/IN difficult/JJ task/NN
+
+England/NNP coach/NN Andy/NNP Robinson/NNP faces/VBZ the/DT first/JJ major/JJ test/NN of/IN his/PRP$ tenure/NN as/IN he/PRP tries/VBZ to/TO get/VB back/RB to/TO winning/VBG ways/NNS after/IN the/DT Six/CD Nations/NNPS defeat/NN by/IN Wales./NNP
+
+Robinson/NNP is/VBZ likely/JJ to/TO make/VB changes/NNS in/IN the/DT back/JJ row/NN and/CC centre/NN after/IN the/DT 11-9/JJ loss/NN as/IN he/PRP contemplates/VBZ Sunday's/NNP set-to/JJ with/IN France/NNP at/IN Twickenham./NNP
+Lewis/NNP Moody/NNP and/CC Martin/NNP Corry/NNP could/MD both/DT return/NN after/IN missing/VBG the/DT game/NN with/IN hamstring/VBG and/CC shoulder/NN problems./NN
+And/CC the/DT midfield/NN pairing/NN of/IN Mathew/NNP Tait/NNP and/CC Jamie/NNP Noon/NN is/VBZ also/RB under/IN threat./NN
+Olly/NNP Barkley/NNP immediately/RB allowed/VBD England/NNP to/TO generate/VB better/JJR field/NN position/NN with/IN his/PRP$ kicking/VBG game/NN after/IN replacing/VBG debutant/NN Tait/NNP just/RB before/IN the/DT hour./NN
+The/DT Bath/NN fly-half-cum-centre/JJ is/VBZ likely/JJ to/TO start/VB against/IN France/NNP with/IN either/CC Tait/NNP or/CC Noon/NN dropping/VBG out./NN
+
+Tait/NNP given/VBN little/JJ opportunity/NN to/TO shine/VB in/IN attack/NN received/VBD praise/NN from/IN Robinson/NNP afterwards/RB even/RB if/IN the/DT coach/NN admitted/VBN Cardiff/NNP was/VBD an/DT "unforgiving/VBG place"/NN for/IN the/DT teenage/JJ prodigy./NN
+Robinson/NNP now/RB has/VBZ a/DT tricky/JJ decision/NN over/IN whether/IN to/TO withdraw/VB from/IN the/DT firing/NN line/NN after/IN just/RB one/CD outing/VBG a/DT player/NN he/PRP regards/VBZ as/RB central/JJ to/TO England's/NNP future./NN
+Tait/NNP himself/PRP at/IN least/JJS outwardly/RB appeared/VBD unaffected/JJ by/IN the/DT punishing/VBG treatment/NN dished/JJ out/RP to/TO him/PRP by/IN Gavin/NNP Henson/NNP in/IN particular./NN
+"I/NN want/VBP more/JJR of/IN that/DT definitely"/NN he/PRP said./VB
+"Hopefully/RB I/PRP can/MD train/VB hard/JJ this/DT week/NN and/CC get/VB selected/VBN for/IN next/JJ week/NN but/CC we'll/NN have/VBP to/TO look/VB at/IN the/DT video/NN and/CC wait/VB and/CC see./NN
+"We/NN were/VBD playing/VBG on/IN our/PRP$ own/JJ 22/CD for/IN a/DT lot/NN of/IN the/DT first/JJ half/NN so/IN it/PRP was/VBD quite/RB difficult./NN
+I/PRP thought/VBD we/PRP defended/VBD reasonably/RB well/RB but/CC we've/NN just/RB got/VBD to/TO pick/VB it/PRP up/RP for/IN France."/NNP
+
+His/PRP$ Newcastle/NNP team-mate/JJ Noon/NN hardly/RB covered/VBD himself/PRP in/IN glory/NN in/IN his/PRP$ first/JJ major/JJ Test./NNP
+He/PRP missed/VBD a/DT tackle/NN on/IN Michael/NNP Owen/NNP in/IN the/DT build-up/JJ to/TO Wales'/NNP try/VB conceded/VBD a/DT penalty/NN at/IN the/DT breakdown/NN was/VBD turned/VBN over/IN in/IN another/DT tackle/NN and/CC fumbled/VBD Gavin/NNP Henson's/NNP cross-kick/JJ into/IN touch/NN all/DT inside/IN the/DT first/JJ quarter./NN
+His/PRP$ contribution/NN improved/VBN in/IN the/DT second/JJ half/NN but/CC England/NNP clearly/RB need/VBP more/JJR of/IN a/DT playmaker/NN in/IN the/DT inside/JJ centre/NN role./NN
+Up/IN front/NN the/DT line-out/JJ remains/VBZ fallible/JJ despite/IN a/DT superb/NN performance/NN from/IN Chris/NNP Jones/NNP whose/WP$ athleticism/NN came/VBD to/TO the/DT fore/NN after/IN stepping/VBG into/IN the/DT side/NN for/IN Moody./NNP
+It/PRP is/VBZ more/RBR likely/JJ the/DT Leicester/NNP flanker/NN will/MD return/VB on/IN the/DT open/JJ side/NN for/IN the/DT more/RBR physical/JJ challenge/NN posed/VBN by/IN the/DT French/JJ forwards/RB with/IN Andy/NNP Hazell/NNP likely/JJ to/TO make/VB way./NN
+Lock/NNP Ben/NNP Kay/NNP also/RB justified/VBD his/PRP$ recall/NN with/IN an/DT impressive/JJ all-round/JJ display/NN on/IN his/PRP$ return/NN to/TO the/DT side/NN but/CC elsewhere/RB England/NNP positives/NNS were/VBD thin/JJ on/IN the/DT ground./NN

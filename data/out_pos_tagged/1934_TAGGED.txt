@@ -1,0 +1,60 @@
+Podcasts/NNP mark/NN rise/NN of/IN DIY/NNP radio/NN
+
+An/DT Apple/NNP iPod/NN or/CC other/JJ digital/JJ music/NN players/NNS can/MD hold/VB anything/NN up/IN to/TO 10000/CD songs/NNS which/WDT is/VBZ a/DT lot/NN of/IN space/NN to/TO fill./VB
+
+But/CC more/JJR and/CC more/JJR iPod/NN owners/NNS are/VBP filling/VBG that/DT space/NN with/IN audio/JJ content/NN created/VBN by/IN an/DT unpredictable/JJ assortment/NN of/IN producers./NN
+It/PRP is/VBZ called/VBN "podcasting"/NN and/CC its/PRP$ strongest/JJS proponent/NN is/VBZ former/JJ MTV/NNP host/NN and/CC VJ/NNP (video/NN jockey)/NN Adam/NNP Curry./NNP
+Podcasting/NNP takes/VBZ its/PRP$ name/NN from/IN the/DT Apple/NNP iPod/NN although/IN you/PRP do/VBP not/RB need/VB an/DT iPod/NN to/TO create/VB one/CD or/CC to/TO listen/VB to/TO a/DT podcast./NN
+A/DT podcast/NN is/VBZ basically/RB an/DT internet-based/JJ radio/NN show/NN which/WDT podcasters/NNS create/VBP usually/RB in/IN the/DT comfort/NN of/IN their/PRP$ own/JJ home./NN
+They/PRP need/VBP only/RB a/DT microphone/NN a/DT PC/NN and/CC some/DT editing/NN software./NN
+They/PRP then/RB upload/VBP their/PRP$ shows/NNS to/TO the/DT internet/JJ and/CC others/NNS can/MD download/VB and/CC listen/VB to/TO them/PRP all/DT for/IN free./NN
+Using/VBG technology/NN based/VBN on/IN XML/NNP computer/NN code/NN and/CC RSS/NNP -/: Really/RB Simple/NN Syndication/NN -/: listeners/NNS can/MD subscribe/VB to/TO podcasts/NNS collected/VBN automatically/RB in/IN a/DT bit/NN of/IN software/NN which/WDT Mr/NNP Curry/NNP has/VBZ pioneered./NN
+The/DT latest/JJS MP3/CD files/NNS of/IN shows/NNS can/MD then/RB be/VB picked/VBN up/RP by/IN a/DT music/NN playing/VBG device/NN automatically./NN
+
+Mr/NNP Curry/NNP records/NNS hosts/NNS edits/NNS and/CC produce/VB a/DT daily/JJ 40/CD minute/NN podcast/NN called/VBD The/DT Daily/NNP Source/NN Code./NNP
+He/PRP wants/VBZ to/TO make/VB podcasting/VBG "the/NN Next/JJ Big/NNP Thing"/NNP and/CC says/VBZ it/PRP is/VBZ an/DT extension/NN of/IN his/PRP$ childhood/NN love/NN of/IN radio/NN gadgetry./NN
+"I/NN was/VBD always/RB into/IN technologies/NNS and/CC wires"/NN he/PRP explains./VB
+"My/NN parents/NNS gave/VBD me/PRP the/DT Radio/NNP Shack/NNP 101/CD project/NN kit/NN which/WDT allows/VBZ you/PRP to/TO build/VB an/DT AM/NNP transmitter/NN and/CC subsequently/RB an/DT FM/NNP transmitter./NN
+"I/NN had/VBD my/PRP$ mom/NN drive/NN me/PRP around/IN the/DT block/NN see/VB how/WRB far/RB it/PRP would/MD reach/VB on/IN the/DT car/NN radio."/NN
+
+Mr/NNP Curry/NNP is/VBZ American/JJ but/CC he/PRP grew/VBD up/RP in/IN the/DT Netherlands/NNP where/WRB he/PRP hosted/VBD illegal/JJ pirate/NN radio/NN shows/VBZ in/IN the/DT Dutch/JJ capital./NN
+He/PRP tried/VBD university/NN in/IN the/DT US/PRP and/CC ended/VBD up/RP back/RB in/IN Holland/NNP where/WRB he/PRP hosted/VBD a/DT music/NN video/NN show./NN
+He/PRP spent/VBD the/DT next/JJ seven/CD years/NNS in/IN New/NNP York/NNP where/WRB he/PRP worked/VBD at/IN MTV/NNP hosting/VBG the/DT Top/JJ 20/CD Video/NNP Countdown/NNP but/CC spent/VBD most/JJS of/IN his/PRP$ hours/NNS tinkering/VBG with/IN this/DT new/JJ thing/NN called/VBD the/DT internet./JJ
+"At/NN a/DT certain/JJ point/NN in/IN 1995/CD I/PRP was/VBD driving/VBG in/RP on/IN a/DT Friday/NNP afternoon/NN beautiful/JJ blue/JJ sky/NN one/CD of/IN those/DT beautiful/JJ days/NNS thinking/VBG this/DT is/VBZ so/RB stupid./NN
+"You/NN know/VB I'm/NNP going/VBG do/VBP the/DT Top/JJ 20/CD Countdown/NNP take/VB the/DT cheque/NN go/VBP home/NN and/CC sit/VB on/IN the/DT internet/NN until/IN three/CD in/IN the/DT morning./NN
+"So/NN after/IN I/PRP finished/VBD the/DT show/NN I/PRP quit./VBP
+I/PRP said/VBD on/IN air/NN it's/NNS been/VBN great/JJ I've/NNP been/VBN here/RB for/IN seven/CD years/NNS at/IN that/DT point/NN there's/NNS something/NN on/IN the/DT internet/JJ I've/NNP got/VBD to/TO go/VB find/VB it/PRP and/CC I'll/NNP see/VBP you/PRP later."/VBP
+
+But/CC Mr/NNP Curry's/NNP technology/NN and/CC broadcast/NN interests/NNS started/VBD to/TO gel/VB a/DT couple/NN of/IN years/NNS ago/IN when/WRB computer/NN storage/NN was/VBD growing/VBG exponentially/RB and/CC high-speed/JJ internet/JJ connections/NNS were/VBD becoming/VBG more/RBR widely/RB available./NN
+The/DT MP3/CD format/NN also/RB meant/VBD that/IN people/NNS could/MD create/VB and/CC upload/NN audio/JJ more/RBR cheaply/RB and/CC efficiently/RB than/IN ever/RB before./NN
+
+Most/JJS importantly/RB Mr/NNP Curry/NNP says/VBZ people/NNS across/IN the/DT globe/NN were/VBD bored/VBN with/IN the/DT radio/NN they/PRP were/VBD hearing./NN
+"Listen/JJ to/TO 99%/CD of/IN the/DT radio/NN that/IN you/PRP hear/VBP today/NN it's/NNS radio/NN voices/NNS and/CC it's/NNS fake/JJ it's/NNS just/RB fake."/VBP He/PRP wanted/VBD to/TO make/VB it/PRP easier/JJR for/IN people/NNS to/TO find/VB "real/JJ voices"/NN on/IN the/DT internet./JJ
+He/PRP wanted/VBD software/NN that/WDT would/MD automatically/RB download/VB new/JJ audio/JJ content/NN directly/RB onto/IN players/NNS like/IN iPods./NN
+Mr/NNP Curry/NNP is/VBZ not/RB a/DT computer/NN programmer/NN so/IN he/PRP asked/VBD others/NNS to/TO create/VB one/CD for/IN him./NN
+No/DT one/NN did/VBD so/IN he/PRP tried/VBD to/TO write/VB one/CD himself./NN
+He/PRP finished/VBD it/PRP a/DT few/JJ months/NNS ago/RB and/CC says/VBZ it/PRP "totally/RB sucked."/VBP He/PRP put/VBD it/PRP up/RP on/IN the/DT net/NN as/IN open/JJ source/NN software/NN and/CC now/RB dozens/VBZ of/IN coders/NNS and/CC audio/JJ junkies/NNS are/VBP refining/NN it/PRP the/DT result/NN is/VBZ a/DT work/NN in/IN progress/NN called/VBD "ipodder"./NN
+Doug/NNP Kaye/NNP a/DT California-based/JJ podcaster/NN praises/VBZ the/DT former/JJ MTV/NNP VJ/NNP for/IN what/WP he/PRP has/VBZ done./NN
+"Adam/NN created/VBD a/DT simple/JJ script/NN that/WDT solved/VBD what/WP we/PRP call/VBP the/DT last/JJ mile/NN problem./NN
+Ipodder/NNP takes/VBZ audio/JJ from/IN the/DT web/NN and/CC brings/VBZ it/PRP all/PDT the/DT way/NN down/IN to/TO the/DT MP3/CD player"/NN he/PRP explains./VB
+"People/NN can/MD wake/VB up/RP in/IN the/DT morning/NN pick/VB up/RP their/PRP$ iPods/NNS as/IN they/PRP go/VBP to/TO work/VB or/CC before/IN they/PRP go/VBP exercise/NN and/CC discover/VB that/WDT there's/NNS all/PDT this/DT new/JJ content/NN automatically/RB put/VBD onto/IN their/PRP$ players."/NN It/PRP is/VBZ created/VBN an/DT explosion/NN in/IN podcasting/VBG content/NN and/CC podcasters/NNS are/VBP springing/VBG up/RP in/IN Australia/NNP Finland/NNP Brazil/NNP even/RB Malaysia./NNP
+One/CD couple/NN broadcasts/NNS theirs/PRP The/DT Dawn/NN and/CC Drew/NNP Show/NNP from/IN Wisconsin/NNP in/IN the/DT US/PRP sometimes/RB even/RB from/IN the/DT comfort/NN of/IN their/PRP$ own/JJ bed./NN
+Topics/NNS range/VBP from/IN the/DT comfort/NN of/IN their/PRP$ bed/NN to/TO the/DT latest/JJS films/NNS or/CC music/NN and/CC have/VBP thousands/NNS of/IN listeners./NN
+
+Already/RB websites/NNS are/VBP springing/VBG up/RP that/DT point/NN listeners/NNS in/IN the/DT right/JJ direction/NN of/IN good/JJ podcasts./NN
+
+Chris/NNP McIntyre/NNP runs/VBZ Podcast/NNP Alley/NNP and/CC says/VBZ that/IN there/EX are/VBP good/JJ sites/NNS out/IN there/RB but/CC that/IN not/RB everyone/NN has/VBZ the/DT technological/JJ know-how/NN to/TO simply/RB listen./VB
+"If/NN I/PRP were/VBD to/TO tell/VB my/PRP$ mom/NN or/CC my/PRP$ mother-in-law/NN to/TO copy/VB an/DT XML/NNP or/CC RSS/NNP file/VBP to/TO their/PRP$ podcast/NN aggregator/NN they/PRP would/MD think/VB I/PRP was/VBD speaking/VBG a/DT foreign/JJ language"/NN Mr/NNP McIntyre/NNP says./NN
+Along/IN with/IN technical/JJ challenges/NNS there/RB may/MD be/VB legal/JJ challenges/NNS to/TO podcasters/NNS who/WP air/VBP their/PRP$ favourite/NN albeit/IN copyrighted/VBN music./NN
+Some/DT in/IN podcasting/VBG also/RB worry/VBP that/IN too/RB much/JJ attention/NN may/MD turn/VB what/WP they/PRP see/VBP as/IN the/DT "anti-radio"/NN into/IN something/NN that/WDT is/VBZ more/JJR like/IN conventional/JJ broadcasting./NN
+Already/RB there/EX is/VBZ interest/NN in/IN podcasting/VBG from/IN the/DT corporate/JJ world./NN
+Heineken/NNP is/VBZ doing/VBG its/PRP$ own/JJ podcast/NN now/RB and/CC so/RB is/VBZ Playboy./NNP
+For/IN his/PRP$ part/NN Adam/NNP Curry's/NNP pressing/VBG ahead/RB with/IN his/PRP$ own/JJ vision/NN of/IN what/WP podcasting/VBG should/MD be./VB
+He/PRP loves/VBZ doing/VBG The/DT Daily/NNP Source/NN Code/NNP because/IN it/PRP is/VBZ about/IN introducing/VBG good/JJ music/NN and/CC cool/JJ ideas/NNS to/TO new/JJ audiences./NN
+He/PRP has/VBZ even/RB been/VBN called/VBN the/DT Ed/NNP Sullivan/NNP or/CC Johnny/NNP Carson/NNP of/IN podcasting/VBG which/WDT he/PRP says/VBZ "is/NN a/DT badge/NN I'll/NNP wear/VB with/IN great/JJ honour./NN
+"To/NN be/VB the/DT Johnny/NNP Carson/NNP or/CC Ed/NNP Sullivan/NNP of/IN anything/NN is/VBZ wonderful./NN
+And/CC you/PRP know/VBP what?/NN You/PRP don't/VBP need/VBP a/DT hell/NN of/IN a/DT lot/NN of/IN talent./NN
+"You/NN just/RB have/VBP to/TO be/VB nice/JJ have/VBP your/PRP$ ears/NNS open/JJ and/CC let/VB people/NNS shine./VBP
+And/CC that's/NNS good/JJ for/IN me."/NN
+
+Clark/NNP Boyd/NNP is/VBZ technology/NN correspondent/NN for/IN The/DT World/NNP a/DT BBC/NNP World/NNP Service/NNP and/CC WGBH-Boston/NNP co-production./JJ

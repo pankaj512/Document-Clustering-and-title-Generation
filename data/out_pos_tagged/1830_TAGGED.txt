@@ -1,0 +1,34 @@
+Wi-fi/NNP web/NN reaches/VBZ farmers/NNS in/IN Peru/NNP
+
+A/DT network/NN of/IN community/NN computer/NN centres/NNS linked/VBN by/IN wireless/JJ technology/NN is/VBZ providing/VBG a/DT helping/VBG hand/NN for/IN poor/JJ farmers/NNS in/IN Peru./NNP
+
+The/DT pilot/NN scheme/NN in/IN the/DT Huaral/NNP Valley/NNP 80/CD kilometres/NNS north/RB of/IN the/DT capital/NN Lima/NNP aims/VBZ to/TO offer/VB the/DT 6000-strong/JJ community/NN up-to-date/JJ information/NN on/IN agricultural/JJ market/NN prices/NNS and/CC trends./NN
+The/DT Agricultural/NNP Information/NNP Project/NNP for/IN Farmers/NNP of/IN the/DT Chancay-Huaral/NNP Valley/NNP also/RB provides/VBZ vital/JJ links/NNS between/IN local/JJ organisations/NNS in/IN charge/NN of/IN water/NN irrigation/NN enabling/VBG them/PRP to/TO coordinate/VB their/PRP$ actions./NN
+More/JJR than/IN 13000/CD rural/JJ inhabitants/NNS as/RB well/RB as/IN 18000/CD students/NNS in/IN the/DT region/NN will/MD also/RB benefit/VB from/IN the/DT telecoms/NNS infrastructure./NN
+
+The/DT 14/CD telecentres/NNS uses/VBZ only/RB free/JJ open/JJ source/NN software/NN and/CC affordable/JJ computer/NN equipment./NN
+The/DT network/NN has/VBZ been/VBN three/CD years/NNS in/IN the/DT making/VBG and/CC was/VBD officially/RB inaugurated/VBN in/IN September./NNP
+
+The/DT non-government/NN organisation/NN Cepes/NNP (Peruvian/NN Centre/NNP for/IN Social/NNP Studies)/NNP led/VBD the/DT $200000/CD project/NN also/RB backed/VBN by/IN local/JJ institutions/NNS the/DT Education/NNP and/CC Agriculture/NNP ministries/NNS and/CC European/JJ development/NN organisations./NN
+"The/NN plan/NN includes/VBZ training/NN on/IN computers/NNS and/CC internet/JJ skills/NNS for/IN both/DT operators/NNS and/CC users/NNS of/IN the/DT system"/NN said/VBD Carlos/NNP Saldarriaga/NNP technical/JJ coordinator/NN at/IN Cepes./NNP
+Farmers/NNS are/VBP also/RB taking/VBG extra/JJ lessons/NNS on/IN how/WRB to/TO apply/VB the/DT new/JJ information/NN to/TO make/VB the/DT most/JJS of/IN their/PRP$ plots/NNS of/IN land./NN
+The/DT Board/NNP of/IN Irrigation/NNP Users/NNS which/WDT runs/VBZ the/DT computer/NN centres/NNS aims/VBZ to/TO make/VB the/DT network/NN self-sustainable/NN within/IN three/CD years/NNS through/IN the/DT cash/NN generated/VBN by/IN using/VBG the/DT telecentres/NNS as/IN internet/JJ cafes./NN
+
+One/CD of/IN the/DT key/JJ elements/NNS of/IN the/DT project/NN is/VBZ the/DT Agricultural/NNP Information/NNP System/NNP with/IN its/PRP$ flagship/NN huaral.org/NN website./NN
+There/EX farmers/NNS can/MD find/VB the/DT prices/NNS for/IN local/JJ produce/NN as/RB well/RB as/IN information/NN on/IN topics/NNS ranging/VBG from/IN plague/NN prevention/NN to/TO the/DT latest/JJS farming/VBG techniques./NN
+The/DT system/NN also/RB helps/VBZ the/DT inhabitants/NNS of/IN the/DT Chancay-Huaral/NNP Valley/NNP to/TO organise/VB their/PRP$ vital/JJ irrigation/NN systems./NN
+"Water/NN is/VBZ the/DT main/JJ element/NN that/IN unites/NNS them/PRP all./VBP
+It/PRP is/VBZ a/DT precious/JJ element/NN in/IN Peru's/NNP coastal/JJ areas/NNS because/IN it/PRP is/VBZ so/RB scarce/JJ and/CC therefore/RB it/PRP is/VBZ necessary/JJ to/TO have/VB proper/JJ irrigation/NN systems/NNS to/TO make/VB the/DT most/JJS of/IN it"/NN Mr/NNP Saldarriaga/NNP told/VBD the/DT BBC/NNP News/NNP website./NN
+The/DT information/NN network/NN also/RB allows/VBZ farmers/NNS to/TO look/VB beyond/IN their/PRP$ own/JJ region/NN and/CC share/NN experiences/NNS with/IN other/JJ colleagues/NNS from/IN the/DT rest/NN of/IN Peru/NNP and/CC even/RB around/IN the/DT world./NN
+
+Cepes/NNP says/VBZ the/DT involvement/NN of/IN the/DT farmers/NNS has/VBZ been/VBN key/JJ in/IN the/DT project's/NNS success./NN
+"Throughout/NN the/DT last/JJ three/CD years/NNS the/DT people/NNS have/VBP provided/VBN a/DT vital/JJ thrust/NN to/TO the/DT project/NN they/PRP feel/VBP it/PRP belongs/VBZ to/TO them"/VB said/VBD Mr/NNP Saldarriaga./NNP
+The/DT community/NN training/NN sessions/NNS attended/VBN by/IN an/DT equal/JJ number/NN of/IN men/NNS and/CC women/NNS have/VBP been/VBN the/DT perfect/JJ showcase/NN for/IN their/PRP$ enthusiasm./NN
+"We/NN have/VBP had/VBN an/DT excellent/JJ response/NN mainly/RB from/IN young/JJ people./NN
+But/CC we/PRP have/VBP also/RB had/VBN a/DT great/JJ feedback/NN when/WRB we/PRP trained/VBD 40/CD or/CC 50-year/JJ old/JJ women/NNS who/WP were/VBD seeing/VBG a/DT computer/NN for/IN the/DT first/JJ time/NN in/IN their/PRP$ lives."/NN So/RB far/RB the/DT Huaral/NNP programme/NN promoters/NNS say/VBP the/DT experience/NN has/VBZ been/VBN very/RB positive/JJ and/CC are/VBP already/RB planning/NN on/IN spreading/VBG the/DT model/NN among/IN other/JJ farmers'/NN organisations/NNS in/IN Peru./NNP
+"This/NN is/VBZ a/DT pilot/NN project/NN and/CC we/PRP have/VBP been/VBN very/RB keen/JJ on/IN its/PRP$ cloning/VBG potential/NN in/IN other/JJ places"/NN underlined/VBD Mr/NNP Saldarriaga./NNP
+
+The/DT Cepes/NNP researcher/NN recalls/VBZ what/WP happened/VBD in/IN Cuyo/NNP a/DT 50-family/JJ community/NN with/IN no/DT electricity/NN during/IN the/DT construction/NN of/IN the/DT local/JJ telecentre/NN site./NN
+There/EX it/PRP was/VBD necessary/JJ to/TO build/VB a/DT mini-hydraulic/JJ dam/NN in/IN order/NN to/TO generate/VB 2kW/CD worth/NN of/IN power/NN for/IN the/DT computers/NNS the/DT communications/NNS equipment/NN and/CC the/DT cabin/NN lights./NN
+"It/NN was/VBD already/RB dark/JJ when/WRB the/DT technicians/NNS realised/VBD they/PRP didn't/VBP have/VBP any/DT light/JJ bulbs/NNS to/TO test/VB the/DT generator/NN so/IN they/PRP turned/VBD up/IN to/TO the/DT local/JJ store/NN to/TO buy/VB light/JJ bulbs"/NN recalls/VBZ Carlos/NNP Saldarriaga./NNP
+"The/NN logical/JJ answer/NN was/VBD 'we/NN don't/NN sell/NN any'/NN so/IN they/PRP had/VBD to/TO wait/VB until/IN the/DT next/JJ morning/NN to/TO do/VB the/DT testing."/NN Now/RB with/IN the/DT wireless/JJ network/NN Cuyo/NNP as/RB well/RB as/IN the/DT other/JJ communities/NNS is/VBZ no/RB longer/RB isolated./NN

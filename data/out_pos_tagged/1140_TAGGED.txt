@@ -1,0 +1,26 @@
+Research/NN fears/NNS over/IN Kelly's/NNP views/NNS
+
+Scientists/NNS have/VBP expressed/VBN concerns/NNS that/IN new/JJ education/NN secretary/NN Ruth/NNP Kelly's/NNP religious/JJ views/NNS could/MD hamper/VB vital/JJ scientific/JJ research./NN
+
+Ms/NNP Kelly/NNP who/WP is/VBZ Catholic/NNP is/VBZ reported/VBN to/TO be/VB "pro-life"/JJ and/CC has/VBZ opposed/VBN embryo/NN research./NN
+Medical/NNP Research/NNP Council/NNP Professor/NNP Nancy/NNP Rothwell/NNP said/VBD Ms/NNP Kelly's/NNP views/NNS mattered/VBN as/IN she/PRP was/VBD responsible/JJ for/IN training/NN future/JJ scientists./NN
+The/DT Department/NNP for/IN Education/NNP and/CC Skills/NNS would/MD not/RB comment/VB on/IN the/DT concerns./NN
+
+A/DT spokeswoman/NN said/VBD "It/NN is/VBZ not/RB news/NN that/IN Ms/NNP Kelly/NNP is/VBZ a/DT Catholic/NNP but/CC we/PRP are/VBP not/RB going/VBG into/IN any/DT details/NNS on/IN this."/NN But/CC she/PRP added/VBD that/IN claims/NNS Ms/NNP Kelly/NNP was/VBD in/IN charge/NN of/IN a/DT £1bn/CD university/NN research/NN budget/NN were/VBD not/RB true./NN
+It/PRP was/VBD down/RB to/TO the/DT Higher/JJR Education/NNP Funding/NNP Council/NNP and/CC the/DT research/NN councils/NNS to/TO decide/VB on/IN universities'/NN research/NN allocations./NN
+British/JJ law/NN is/VBZ open/JJ to/TO the/DT cloning/NN of/IN human/JJ embryos/NNS to/TO create/VB stem/VB cells/NNS master/NN cells/NNS that/WDT can/MD develop/VB into/IN all/PDT the/DT body's/NNS tissue/NN types./NN
+This/DT cloning/VBG activity/NN is/VBZ not/RB permitted/VBN for/IN reproductive/JJ purposes/NNS -/: only/RB for/IN research/NN into/IN new/JJ disease/NN treatments./NN
+However/RB it/PRP is/VBZ controversial/JJ because/IN it/PRP involves/VBZ the/DT destruction/NN of/IN embryos./NN
+
+Professor/NNP Rothwell/NNP who/WP is/VBZ also/RB vice-president/NN of/IN research/NN at/IN Manchester/NNP University/NNP told/VBD the/DT Times/NNP Higher/JJR Education/NNP Supplement/NN it/PRP would/MD worry/VB her/PRP$ "a/NN great/JJ deal"/NN if/IN ministers/NNS were/VBD anti-stem/JJ cell./NN
+She/PRP said/VBD "The/NN views/NNS of/IN ministers/NNS in/IN the/DT DfES/NNP do/VBP matter/NN as/IN they/PRP are/VBP responsible/JJ for/IN training/NN the/DT next/JJ generation/NN of/IN scientists./NN
+"You/NN can't/NN have/VBP a/DT higher/JJR education/NN policy/NN that/WDT is/VBZ at/IN odds/NNS with/IN the/DT government's/NNS science/NN policy."/NN Head/NNP of/IN developmental/JJ genetics/NNS at/IN the/DT National/NNP Institute/NNP of/IN Medical/NNP Research/NNP Professor/NNP Robin/NNP Lovell-Badge/NNP said/VBD he/PRP had/VBD witnessed/VBN the/DT confused/JJ situation/NN in/IN the/DT US/PRP where/WRB many/JJ religious/JJ groups/NNS opposed/VBD the/DT practice./NN
+He/PRP said/VBD "If/NN someone/NN as/RB senior/JJ as/IN Ruth/NNP Kelly/NNP is/VBZ not/RB going/VBG to/TO favour/VB stem/NN cell/NN research/NN we/PRP will/MD end/VB up/RP with/IN a/DT similarly/RB schizophrenic/JJ system/NN in/IN this/DT country./NN
+It/PRP is/VBZ very/RB worrying."/NN But/CC fertility/NN expert/NN Lord/NNP Winston/NNP said/VBD he/PRP thought/VBD it/PRP was/VBD "rather/NN good"/NN ministers/NNS held/VBD ethical/JJ views./NN
+Concerns/NNS have/VBP also/RB been/VBN raised/VBN by/IN "pro-choice"/JJ organisations/NNS that/IN Ms/NNP Kelly's/NNP views/NNS might/MD affect/VB sex/NN education/NN policy/NN in/IN schools./NN
+
+Family/NNP Planning/NNP Association/NNP chief/NN executive/NN Anne/NNP Weyman/NNP said/VBD teaching/NN pupils/NNS about/IN contraception/NN and/CC abortion/NN were/VBD key./NN
+"Young/NN people/NNS must/MD be/VB informed/VBN about/IN all/PDT the/DT issues/NNS within/IN sexual/JJ health/NN which/WDT include/VBP contraception/NN and/CC abortion./NN
+"I/NN think/VBP it/PRP is/VBZ very/RB important/JJ that/IN the/DT government/NN maintains/VBZ its/PRP$ commitment/NN to/TO the/DT teenage/JJ pregnancy/NN strategy."/NN Currently/RB individual/JJ schools/NNS devise/VBP their/PRP$ own/JJ sex/NN education/NN policies/NNS based/VBN on/IN a/DT framework/NN provided/VBN by/IN the/DT DfES./NNP
+Ms/NNP Kelly/NNP has/VBZ not/RB set/VBN out/RP her/PRP$ detailed/JJ views/NNS on/IN either/DT issue/NN yet/RB but/CC has/VBZ said/VBN she/PRP intends/VBZ to/TO put/VB parents/NNS first/RB in/IN education/NN policy./NN
+This/DT would/MD include/VB the/DT quality/NN of/IN teaching/NN classroom/NN discipline/NN and/CC academic/JJ standards/NNS in/IN schools/NNS she/PRP said./VBP

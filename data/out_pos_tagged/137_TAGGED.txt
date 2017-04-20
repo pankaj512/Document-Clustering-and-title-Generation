@@ -1,0 +1,15 @@
+Bank/NNP set/VBD to/TO leave/VB rates/NNS on/IN hold/NN
+
+UK/NNP interest/NN rates/NNS are/VBP set/VBN to/TO remain/VB on/IN hold/NN at/IN 4.75%/CD following/VBG the/DT latest/JJS meeting/NN of/IN the/DT Bank/NNP of/IN England./NNP
+
+The/DT Bank's/NNP rate-setting/JJ committee/NN has/VBZ put/VBN up/RP rates/NNS five/CD times/NNS in/IN the/DT past/JJ year/NN but/CC rates/NNS have/VBP been/VBN on/IN hold/NN since/IN September/NNP amid/IN signs/NNS of/IN a/DT slowdown./NN
+Economic/NNP growth/NN slowed/VBD in/IN the/DT previous/JJ quarter/NN as/IN manufacturing/NN output/NN fell/VBD while/IN consumer/NN confidence/NN has/VBZ slipped./NN
+There/EX is/VBZ also/RB growing/VBG evidence/NN that/IN the/DT previously/RB booming/JJ UK/NNP housing/NN market/NN is/VBZ now/RB cooling./NN
+
+House/NN prices/NNS fell/VBD 0.4%/CD in/IN October/NNP according/VBG to/TO the/DT Nationwide/NNP their/PRP$ biggest/JJS monthly/JJ fall/NN since/IN February/NNP 2001./CD
+Last/JJ month/NN Bank/NNP of/IN England/NNP governor/NN Mervyn/NNP King/NNP said/VBD that/IN the/DT economy/NN had/VBD hit/VBN a/DT "softer/NN patch"/NN after/IN rapid/JJ economic/JJ growth/NN in/IN the/DT first/JJ half/NN of/IN 2004./CD
+Richard/NNP Jeffrey/NNP chief/NN economist/NN at/IN Bridgewell/NNP Securities/NNPS said/VBD it/PRP was/VBD very/RB unlikely/JJ that/IN the/DT Bank/NNP of/IN England/NNP would/MD put/VB rates/NNS up/RP again/RB this/DT time/NN around./NN
+"There/NN have/VBP been/VBN sufficient/JJ signs/NNS in/IN the/DT economy/NN of/IN a/DT slowdown/NN to/TO stay/VB the/DT Bank/NNP of/IN England's/NNP hand"/NN he/PRP told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN programme./NN
+However/RB Mr/NNP Jeffrey/NNP said/VBD he/PRP believed/VBD the/DT slowdown/NN in/IN economic/JJ activity/NN was/VBD temporary/JJ and/CC it/PRP was/VBD dangerous/JJ to/TO assume/VB that/IN rates/NNS had/VBD peaked./NN
+"I/NN still/RB think/VBP interest/NN rates/NNS are/VBP going/VBG up"/NN he/PRP said./VB
+"We/NN are/VBP not/RB out/IN of/IN the/DT woods."/NN

@@ -1,0 +1,14 @@
+HealthSouth/NNP ex-boss/NN goes/VBZ on/IN trial/NN
+
+The/DT former/JJ head/NN of/IN US/PRP medical/JJ services/NNS firm/NN HealthSouth/NNP overstated/VBD earnings/NNS and/CC assets/NNS to/TO boost/VB the/DT company's/NNS share/NN price/NN it/PRP was/VBD claimed/VBN in/IN court./NN
+
+Richard/NNP Scrushy/NNP 52/CD is/VBZ accused/VBN of/IN "directing"/NN a/DT $2.7bn/CD (£1.4bn)/CD accounting/NN fraud/NN at/IN the/DT company/NN he/PRP co-founded/VBD in/IN Alabama/NNP in/IN 1984./CD
+Prosecutors/NNS said/VBD he/PRP was/VBD motivated/VBN by/IN wealth/NN -/: spending/NN about/IN $200m/CD between/IN 1996/CD and/CC 2002/CD while/IN earning/VBG much/JJ less./NN
+Defence/NN lawyers/NNS said/VBD Mr/NNP Scrushy/NNP had/VBD been/VBN deceived/VBN by/IN other/JJ executives./NN
+Several/JJ former/JJ HealthSouth/NNP employees/NNS have/VBP already/RB pleaded/VBN guilty/JJ to/TO fraud/VB and/CC are/VBP expected/VBN to/TO give/VB evidence/NN against/IN Mr/NNP Scrushy./NNP
+
+"We/NN will/MD present/VB evidence/NN that/IN Richard/NNP Scrushy/NNP knew/VBD about/IN the/DT conspiracy/NN that/IN he/PRP participated/VBD in/IN the/DT conspiracy/NN and/CC that/IN he/PRP profited"/VB prosecutor/NN Alice/NNP Martin/NNP told/VBD the/DT court./NN
+Mr/NNP Scrushy/NNP is/VBZ the/DT first/JJ chief/JJ executive/NN to/TO be/VB tried/VBN for/IN breaching/VBG the/DT Sarbanes/NNP Oxley/NNP Act/NNP -/: a/DT law/NN introduced/VBN in/IN the/DT wake/NN of/IN the/DT Enron/NNP and/CC WorldCom/NNP frauds/NNS which/WDT obliges/VBZ corporate/JJ bosses/NNS to/TO vouch/VB for/IN the/DT accuracy/NN of/IN their/PRP$ companies'/NN results./NN
+Among/IN the/DT charges/NNS he/PRP faces/NNS are/VBP conspiracy/NN to/TO commit/VB fraud/NN filing/NN false/JJ statements/NNS and/CC money/NN laundering./NN
+After/IN federal/JJ agents/NNS raided/VBD HealthSouth's/NNP offices/NNS in/IN March/NNP 2003/CD the/DT company/NN said/VBD none/NN of/IN its/PRP$ past/JJ financial/JJ statements/NNS could/MD be/VB relied/VBN on./NN
+The/DT firm/NN has/VBZ since/IN reorganised/VBN its/PRP$ board/NN and/CC management/NN team/NN and/CC currently/RB operates/VBZ about/IN 1400/CD health/NN clinics./NN

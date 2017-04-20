@@ -1,0 +1,12 @@
+Dibaba/NN breaks/NNS 5000m/CD world/NN record/NN
+
+Ethiopia's/NNP Tirunesh/NNP Dibaba/NNP set/VBD a/DT new/JJ world/NN record/NN in/IN winning/VBG the/DT women's/NNS 5000m/CD at/IN the/DT Boston/NNP Indoor/JJ Games./NNP
+
+Dibaba/NNP won/VBD in/IN 14/CD minutes/NNS 32.93/CD seconds/NNS to/TO erase/VB the/DT previous/JJ world/NN indoor/JJ mark/NN of/IN 1439.29/CD set/VBN by/IN another/DT Ethiopian/JJ Berhane/NNP Adera/NNP in/IN Stuttgart/NNP last/JJ year./NN
+But/CC compatriot/NN Kenenisa/NNP Bekele's/NNP record/NN hopes/VBZ were/VBD dashed/VBN when/WRB he/PRP miscounted/VBD his/PRP$ laps/NNS in/IN the/DT men's/NNS 3000m/CD and/CC staged/VBD his/PRP$ sprint/NN finish/VB a/DT lap/NN too/RB soon./NN
+Ireland's/NNP Alistair/NNP Cragg/NNP won/VBD in/IN 739.89/CD as/IN Bekele/NNP battled/VBD to/TO second/JJ in/IN 741.42./CD
+"I/NN didn't/NN want/VBP to/TO sit/VB back/RB and/CC get/VB out-kicked"/NN said/VBD Cragg./NNP
+"So/NN I/PRP kept/VBD on/IN the/DT pace./NN
+The/DT plan/NN was/VBD to/TO go/VB with/IN 500m/CD to/TO go/VB no/DT matter/NN what/WP but/CC when/WRB Bekele/NNP made/VBD the/DT mistake/NN that/WDT was/VBD it./NN
+The/DT race/NN was/VBD mine."/NN Sweden's/NNP Carolina/NNP Kluft/NNP the/DT Olympic/NNP heptathlon/NN champion/NN and/CC Slovenia's/NNP Jolanda/NNP Ceplak/NNP had/VBD winning/VBG performances/NNS too./NN
+Kluft/NNP took/VBD the/DT long/JJ jump/NN at/IN 6.63m/CD while/IN Ceplak/NNP easily/RB won/VBD the/DT women's/NNS 800m/CD in/IN 201.52./CD

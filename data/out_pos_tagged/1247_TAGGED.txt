@@ -1,0 +1,25 @@
+Fox/NNP attacks/NNS Blair's/NNP Tory/NNP 'lies'/NN
+
+Tony/NNP Blair/NNP lied/VBD when/WRB he/PRP took/VBD the/DT UK/NNP to/TO war/VB so/RB has/VBZ no/DT qualms/NNS about/IN lying/VBG in/IN the/DT election/NN campaign/NN say/VBP the/DT Tories./NNP
+
+Tory/NNP co-chairman/NN Liam/NNP Fox/NNP was/VBD speaking/VBG after/IN Mr/NNP Blair/NNP told/VBD Labour/NNP members/NNS the/DT Tories/NNPS offered/VBD a/DT "hard/NN right/JJ agenda"./NN
+Dr/NNP Fox/NNP told/VBD BBC/NNP Radio/NNP "If/NN you/PRP are/VBP willing/JJ to/TO lie/VB about/IN the/DT reasons/NNS for/IN going/VBG to/TO war/VB I/PRP guess/VBP you/PRP are/VBP going/VBG to/TO lie/VB about/IN anything/NN at/IN all."/NN He/PRP would/MD not/RB discuss/VB reports/NNS the/DT party/NN repaid/VBD £500000/CD to/TO Lord/NNP Ashcroft/NNP after/IN he/PRP predicted/VBD an/DT election/NN defeat./NN
+
+The/DT prime/JJ minister/NN ratcheted/VBD up/RP Labour's/NNP pre-election/JJ campaigning/NN at/IN the/DT weekend/NN with/IN a/DT helicopter/NN tour/NN of/IN the/DT country/NN and/CC his/PRP$ speech/NN at/IN the/DT party's/NNS spring/NN conference./NN
+He/PRP insisted/VBD he/PRP did/VBD not/RB know/VB the/DT poll/NN date/NN but/CC it/PRP is/VBZ widely/RB expected/VBN to/TO be/VB 5/CD May./NNP
+
+In/IN what/WP was/VBD seen/VBN as/IN a/DT highly/RB personal/JJ speech/NN in/IN Gateshead/NNP on/IN Sunday/NNP Mr/NNP Blair/NNP said/VBD "I/NN have/VBP the/DT same/JJ passion/NN and/CC hunger/NN as/IN when/WRB I/PRP first/RB walked/VBD through/IN the/DT door/NN of/IN 10/CD Downing/NNP Street."/NNP He/PRP described/VBD his/PRP$ relationship/NN with/IN the/DT public/NN as/IN starting/VBG euphoric/JJ then/RB struggling/VBG to/TO live/VB up/IN to/TO the/DT expectations/NNS and/CC reaching/VBG the/DT point/NN of/IN raised/JJ voices/NNS and/CC "throwing/VBG crockery"./NN
+He/PRP warned/VBD his/PRP$ supporters/NNS against/IN complacency/NN saying/VBG "It's/NN a/DT fight/NN for/IN the/DT future/NN of/IN our/PRP$ country/NN it's/NNS a/DT fight/NN that/IN for/IN Britain/NNP and/CC the/DT people/NNS of/IN Britain/NNP we/PRP have/VBP to/TO win."/VB
+
+Mr/NNP Blair/NNP said/VBD that/IN whether/IN the/DT public/NN chose/VBD Michael/NNP Howard/NNP or/CC Mr/NNP Kennedy/NNP it/PRP would/MD result/VB in/IN "a/NN Tory/NNP government/NN not/RB a/DT Labour/NNP government/NN and/CC a/DT country/NN that/WDT goes/VBZ back/RB and/CC does/VBZ not/RB move/VB forward"./NN
+Dr/NNP Fox/NNP accused/VBD Mr/NNP Blair/NNP and/CC other/JJ Cabinet/NNP ministers/NNS of/IN telling/NN lies/VBZ about/IN their/PRP$ opponents'/NN policies/NNS and/CC then/RB attacking/VBG the/DT lies./NN
+"What/NN we/PRP learned/VBD at/IN the/DT weekend/NN is/VBZ what/WP Labour/NNP tactics/NNS are/VBP going/VBG to/TO be/VB and/CC it's/NNS going/VBG to/TO be/VB fear/NN and/CC smear"/NN he/PRP told/VBD BBC/NNP News./NNP
+The/DT Tory/NNP co-chairman/NN attacked/VBN Labour's/NNP six/CD new/JJ pledges/NNS as/IN "vacuous"/NN and/CC said/VBD Mr/NNP Blair/NNP was/VBD very/RB worried/VBN voters/NNS would/MD take/VB revenge/NN for/IN his/PRP$ failure/NN to/TO deliver./VB
+Dr/NNP Fox/NNP refused/VBD to/TO discuss/VB weekend/NN newspaper/NN reports/NNS that/IN the/DT party/NN had/VBD repaid/VBN £500000/CD to/TO former/JJ Tory/NNP Treasurer/NNP Lord/NNP Ashcroft/NNP after/IN he/PRP said/VBD the/DT party/NN could/MD not/RB win/VB the/DT election./NN
+"We/NN repay/NN loans/NNS when/WRB they/PRP are/VBP due/JJ but/CC do/VBP not/RB comment/VB to/TO individual/JJ financial/JJ matters"/NN he/PRP said/VBD insisting/VBG he/PRP enjoyed/VBD a/DT "warm/NN and/CC constructive"/NN relationship/NN to/TO Lord/NNP Ashcroft./NNP
+
+Meanwhile/RB Lib/NNP Dem/NNP leader/NN Charles/NNP Kennedy/NNP is/VBZ expected/VBN to/TO attack/VB Mr/NNP Blair's/NNP words/NNS as/IN he/PRP begins/VBZ a/DT nationwide/JJ tour/NN on/IN Monday./NNP
+Mr/NNP Kennedy/NNP is/VBZ accelerating/VBG Lib/NNP Dem/NNP election/NN preparations/NNS this/DT week/NN as/IN he/PRP visits/VBZ Manchester/NNP Liverpool/NNP Leicester/NNP Somerset/NNP Basingstoke/NNP Shrewsbury/NNP Dorset/NNP and/CC Torbay./NNP
+He/PRP said/VBD "This/NN is/VBZ three-party/JJ politics./NN
+In/IN the/DT northern/JJ cities/NNS the/DT contest/NN is/VBZ between/IN Labour/NNP and/CC the/DT Liberal/NNP Democrats./NNP
+"In/NN southern/JJ and/CC rural/JJ seats/NNS -/: especially/RB in/IN the/DT South/NNP West/NNP -/: the/DT principal/JJ contenders/NNS are/VBP the/DT Liberal/NNP Democrats/NNPS and/CC the/DT Conservatives/NNS who/WP are/VBP out/IN of/IN the/DT running/NN in/IN Scotland/NNP and/CC Wales."/NNP The/DT Lib/NNP Dems/NNP accuse/VBP Mr/NNP Blair/NNP of/IN making/VBG a/DT "touchy-feely"/JJ speech/NN to/TO Labour/NNP delegates/NNS which/WDT will/MD not/RB help/VB him/PRP regain/VB public/JJ trust./NN

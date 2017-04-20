@@ -1,0 +1,12 @@
+Amex/NNP shares/NNS up/RP on/IN spin-off/NN news/NN
+
+Shares/NNS in/IN American/NNP Express/NNP surged/VBD more/JJR than/IN 8%/CD on/IN Tuesday/NNP after/IN it/PRP said/VBD it/PRP was/VBD to/TO spin/VB off/RP its/PRP$ less/RBR profitable/JJ financial/JJ advisory/JJ subsidiary./NN
+
+The/DT US/PRP credit/VBP card/NN to/TO travel/VB services/NNS giant/NN said/VBD off-loading/JJ American/NNP Express/NNP Financial/NNP Advisors/NNP (AEFA)/NN would/MD boost/VB its/PRP$ profitability./NN
+AEFA/NNP has/VBZ more/JJR than/IN 12000/CD advisers/NNS selling/VBG financial/JJ advice/NN funds/NNS and/CC insurance/NN to/TO 2.5/CD million/CD customers./NN
+Over/IN the/DT years/NNS it/PRP has/VBZ delivered/VBN poor/JJ profits/NNS and/CC even/RB some/DT losses./NN
+
+"This/NN is/VBZ an/DT excellent/JJ move/NN by/IN American/NNP Express/NNP to/TO focus/VB on/IN its/PRP$ core/NN businesses/NNS and/CC sell/VB off/RP a/DT laggard/JJ division/NN which/WDT has/VBZ been/VBN a/DT problem/NN for/IN quite/RB some/DT time"/NN said/VBD Marquis/NNP Investment/NNP Research/NNP analyst/NN Phil/NNP Kain./NNP
+Analysts/NNS estimate/VBP that/IN a/DT stand-alone/JJ AEFA/NNP could/MD have/VB a/DT market/NN value/NN of/IN $10bn/CD (£5.3bn)./CD
+The/DT unit/NN was/VBD acquired/VBN by/IN American/NNP Express/NNP 20/CD years/NNS ago/RB as/IN Investors/NNPS Diversified/NNP Service/NNP of/IN Minneapolis/NNP at/IN a/DT time/NN when/WRB firms/NNS were/VBD amassing/VBG one-stop/JJ financial/JJ empires./NN
+However/RB the/DT business/NN of/IN selling/VBG investments/NNS was/VBD never/RB integrated/VBN with/IN the/DT rest/NN of/IN the/DT group./NN

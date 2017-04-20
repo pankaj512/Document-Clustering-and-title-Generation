@@ -1,0 +1,25 @@
+CSI/NNP shows/VBZ give/VB 'unrealistic/JJ view'/NN
+
+People/NNS have/VBP unrealistic/JJ expectations/NNS of/IN forensic/JJ science/NN thanks/NNS to/TO the/DT success/NN of/IN the/DT CSI/NNP TV/NN shows/VBZ real/JJ experts/NNS say./NN
+
+Evidence/NN submitted/VBN to/TO forensic/JJ labs/NNS has/VBZ shot/NN up/RP as/IN a/DT result/NN of/IN the/DT programmes/NNS at/IN a/DT time/NN when/WRB many/JJ have/VBP large/JJ backlogs/NNS science/NN investigators/NNS claim./NN
+Lawyers/NNS also/RB fear/VBP the/DT effect/NN because/IN jurors/NNS have/VBP a/DT distorted/VBN view/NN of/IN how/WRB forensic/JJ evidence/NN is/VBZ used./NN
+The/DT issue/NN was/VBD discussed/VBN at/IN a/DT major/JJ science/NN conference/NN in/IN Washington/NNP DC./NNP
+Crime/NN Scene/NN Investigation/NNP (CSI)/NN and/CC its/PRP$ spin-offs/NNS CSI/NNP Miami/NNP and/CC CSI/NNP New/NNP York/NNP have/VBP proven/VBN exceptionally/RB popular/JJ with/IN audiences/NNS on/IN both/DT sides/NNS of/IN the/DT Atlantic./NNP
+
+Each/DT episode/NN a/DT team/NN of/IN forensic/JJ investigators/NNS goes/VBZ about/IN solving/VBG a/DT crime/NN through/IN the/DT ingenious/JJ appliance/NN of/IN science/NN -/: and/CC the/DT extensive/JJ resources/NNS at/IN their/PRP$ disposal./JJ
+"The/NNP CSI/NNP effect/NN is/VBZ basically/RB the/DT perception/NN of/IN the/DT near-infallibility/NN of/IN forensic/JJ science/NN in/IN response/NN to/TO the/DT TV/NN show"/NN said/VBD Max/NNP Houck/NNP who/WP runs/VBZ a/DT forensic/JJ science/NN graduate/NN course/NN at/IN West/NNP Virginia/NNP University/NNP US./NNP
+"This/NN TV/NN show/NN comes/VBZ on/IN and/CC everyone/NN starts/VBZ watching/VBG it/PRP -/: including/VBG the/DT cops/NNS and/CC prosecutors/NNS -/: and/CC submissions/NNS to/TO forensic/JJ laboratories/NNS go/VBP through/IN the/DT roof"/NN he/PRP told/VBD the/DT annual/JJ meeting/NN of/IN the/DT American/NNP Association/NNP for/IN the/DT Advancement/NNP of/IN Science/NNP (AAAS)./NN
+The/DT American/JJ forensics/NNS expert/NN said/VBD there/EX were/VBD roughly/RB 200000-300000/CD backlogged/VBN DNA/NNP samples/NNS in/IN US/PRP labs./VBP
+Yet/RB these/DT constituted/VBD just/RB 10%/CD of/IN the/DT total/JJ test/NN backlog/NN said/VBD Dr/NNP Houck./NNP
+Forensic/JJ pathologist/NN Dr/NNP Patricia/NNP McFeeley/NNP said/VBD she/PRP had/VBD started/VBN to/TO see/VB the/DT show's/NNS influence/NN in/IN dealing/VBG with/IN the/DT families/NNS of/IN victims./NN
+"What/NN I/PRP find/VBP is/VBZ that/IN families/NNS now/RB are/VBP more/RBR dissatisfied/VBN with/IN the/DT investigation/NN than/IN was/VBD previously/RB the/DT case"/NN she/PRP explained./VBP
+"For/NN example/NN on/IN television/NN the/DT toxicology/NN results/NNS are/VBP available/JJ almost/RB instantaneously./NN
+But/CC when/WRB people/NNS find/VBP out/RP that/IN it/PRP can/MD take/VB several/JJ months/NNS they/PRP can/MD find/VB that/IN very/RB difficult."/NN
+
+Dr/NNP McFeeley/NNP added/VBD that/IN the/DT accuracy/NN with/IN which/WDT forensic/JJ investigators/NNS can/MD determine/VB time/NN of/IN death/NN was/VBD far/RB lower/JJR than/IN most/JJS people's/NNS perceptions./NN
+The/DT show's/NNS influence/NN can/MD follow/VB forensic/JJ investigators/NNS all/PDT the/DT way/NN into/IN the/DT courtroom/NN making/VBG lawyers/NNS jittery./NN
+"Prosecutors/NN fear/NN the/DT CSI/NNP effect/NN with/IN juries/NNS because/IN for/IN example/NN they/PRP wonder/VBP 'why/NN wasn't/NN everything/NN tested?'/NN Well/RB in/IN fact/NN not/RB everything/NN needs/VBZ to/TO be/VB tested"/NN Dr/NNP Houck/NNP explained./NN
+"Defence/NN attorneys/NNS also/RB worry/VBP about/IN the/DT CSI/NNP effect/NN because/IN they/PRP think/VBP that/IN jurors/NNS come/VBP in/IN and/CC have/VBP this/DT view/NN of/IN science/NN as/IN a/DT juggernaut/NN this/DT objective/NN method/NN that's/NNS always/RB accurate."/VBP However/RB he/PRP admitted/VBD the/DT show/NN had/VBD had/VBN positive/JJ as/RB well/RB as/IN negative/JJ effects/NNS on/IN the/DT field./NN
+"My/NN university/NN course/NN started/VBD with/IN four/CD graduates/VBZ in/IN 1999/CD we're/NN now/RB the/DT largest/JJS major/JJ on/IN campus/NN -/: with/IN 400/CD students"/NN he/PRP said./VB
+Dr/NNP Houck/NNP added/VBD that/IN there/EX was/VBD an/DT urgent/NN need/NN for/IN better/JJR funding/NN of/IN forensic/JJ science/NN at/IN the/DT university/NN level/NN "There's/NN more/JJR money/NN spent/VBD in/IN this/DT country/NN on/IN holistic/JJ medicine/NN than/IN there/EX is/VBZ on/IN forensic/JJ science/NN research."/NN

@@ -1,0 +1,32 @@
+MPs/NNP tout/VB Lords/NNPS replacement/NN plan/NN
+
+A/DT group/NN of/IN MPs/NNP has/VBZ tried/VBN to/TO raise/VB the/DT pressure/NN on/IN Tony/NNP Blair/NNP over/IN reform/NN to/TO the/DT House/NNP of/IN Lords/NNPS by/IN publishing/NN a/DT detailed/JJ blueprint/NN for/IN change./NN
+
+The/DT cross-party/JJ group/NN has/VBZ unveiled/VBN a/DT draft/NN bill/NN proposing/VBG a/DT smaller/JJR second/JJ chamber/NN in/IN which/WDT 70%/CD of/IN members/NNS would/MD be/VB elected./NN
+MPs/NNP and/CC peers/VBZ have/VBP failed/VBN to/TO agree/VB on/IN reform/NN since/IN 1999/CD when/WRB 600/CD hereditaries/NNS lost/VBD their/PRP$ seats./NN
+The/DT group/NN says/VBZ it/PRP can/MD win/VB support/NN for/IN removing/VBG the/DT last/JJ 92/CD hereditaries./NN
+The/DT government/NN postponed/VBD plans/NNS to/TO remove/VB the/DT remaining/VBG hereditary/JJ peers/NNS because/IN they/PRP said/VBD they/PRP were/VBD unlikely/JJ to/TO succeed/VB after/IN opposition/NN in/IN the/DT Lords./NNP
+Tony/NNP Blair/NNP has/VBZ argued./NN
+there/EX needs/VBZ to/TO be/VB consensus/NN on/IN reforms./NN
+There/EX have/VBP been/VBN suggestions/NNS there/RB will/MD be/VB proposals/NNS for/IN changing/VBG at/IN least/JJS the/DT powers/NNS of/IN the/DT Lords/NNPS in/IN Labour's/NNP manifesto./NN
+
+But/CC the/DT all-party/JJ group/NN including/VBG Tories/NNPS Ken/NNP Clarke/NNP and/CC Sir/NNP George/NNP Young/NNP Labour's/NNP Robin/NNP Cook/NNP and/CC Tony/NNP Wright/NNP and/CC Liberal/NNP Democrat/NNP Paul/NNP Tyler/NNP is/VBZ confident/JJ its/PRP$ plan/NN would/MD win/VB support/NN from/IN a/DT "large/NN majority"./NN
+And/CC they/PRP list/VBP former/JJ Conservative/JJ leader/NN William/NNP Hague/NNP and/CC former/JJ Labour/NNP leader/NN Neil/NNP Kinnock/NNP as/IN supporters/NNS of/IN the/DT plans./NN
+The/DT group/NN says/VBZ the/DT British/JJ public/NN and/CC a/DT clear/JJ majority/NN of/IN MPs/NNP support/NN replacing/VBG the/DT Lords/NNPS with/IN a/DT largely-elected/JJ second/JJ chamber./NN
+Their/PRP$ plan/NN would/MD see/VB the/DT House/NNP of/IN Lords/NNPS being/VBG renamed/VBN the/DT Second/NNP Chamber/NNP of/IN Parliament/NNP and/CC its/PRP$ members/NNS would/MD be/VB known/VBN as/IN MSCPs./NNP
+
+There/EX would/MD be/VB 385/CD MSCPs/NNP including/VBG 270/CD elected/VBN members/NNS 87/CD appointed/VBN members/NNS and/CC 16/CD bishops./NN
+They/PRP would/MD serve/VB for/IN between/IN 12/CD and/CC 14/CD years./NN
+Mr/NNP Cook/NNP said/VBD holding/VBG elections/NNS for/IN MSCPs/NNP on/IN the/DT same/JJ day/NN as/IN those/DT for/IN MPs/NNP might/MD help/VB motivate/VB the/DT electorate/NN and/CC increase/NN voter/NN turnout./NN
+He/PRP added/VBD "Over/NN the/DT last/JJ year/NN I/PRP have/VBP seen/VBN many/JJ statements/NNS from/IN senior/JJ figures/NNS of/IN this/DT government/NN insisting/VBG the/DT public/NN must/MD have/VB the/DT right/NN of/IN choice./NN
+"What/NN could/MD be/VB more/RBR important/JJ than/IN a/DT choice/NN of/IN the/DT people/NNS who/WP sit/VBP in/IN our/PRP$ Parliament?"/NNP
+
+The/DT group/NN believes/VBZ pressure/NN is/VBZ growing/VBG for/IN change/NN and/CC the/DT government's/NNS current/JJ position/NN is/VBZ unsustainable./NN
+It/PRP wants/VBZ all/DT three/CD main/JJ parties/NNS to/TO include/VB a/DT commitment/NN to/TO a/DT "largely/JJ democratic"/NN second/JJ chamber/NN in/IN their/PRP$ manifestos./NN
+Mr/NNP Clarke/NNP said/VBD the/DT issue/NN "went/NN to/TO the/DT heart/NN of/IN reforming/VBG the/DT health/NN of/IN the/DT British/JJ political/JJ system"./NN
+And/CC Mr/NNP Tyler/NNP said/VBD the/DT prime/JJ minister's/NNS view/NN that/IN there/EX was/VBD no/DT agreement/NN on/IN the/DT shape/NN of/IN the/DT future/NN of/IN the/DT Lords/NNPS was/VBD flawed./NN
+"The/NN problem/NN I/PRP think/VBP in/IN the/DT prime/JJ minister's/NNS mind/NN is/VBZ there/EX doesn't/NN appear/VBP to/TO be/VB a/DT consensus/NN that/WDT includes/VBZ him"/NN he/PRP said./VB
+"We/NN are/VBP providing/VBG a/DT consensus"./NN
+The/DT Elect/JJ the/DT Lords/NNPS Campaign/NNP said/VBD the/DT draft/NN bill/NN was/VBD an/DT important/JJ contribution/NN to/TO the/DT debate./NN
+"We/NN believe/VBP this/DT draft/NN bill/NN is/VBZ detailed/JJ enough/RB to/TO form/VB the/DT basis/NN of/IN closer/JJR parliamentary/JJ scrutiny"/NN said/VBD co-ordinator/JJ Peter/NNP Facey./NNP
+"In/NN lieu/NN of/IN any/DT other/JJ such/JJ clear/JJ proposals/NNS the/DT government/NN must/MD permit/VB that/IN to/TO happen."/VB

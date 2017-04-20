@@ -1,0 +1,11 @@
+Hitzlsperger/NNP waiting/VBG on/IN O'Leary/NNP
+
+Aston/NNP Villa's/NNP Thomas/NNP Hitzlsperger/NNP is/VBZ waiting/VBG to/TO learn/VB the/DT future/NN of/IN manager/NN David/NNP O'Leary/NNP before/IN committing/VBG himself/PRP to/TO a/DT new/JJ contract/NN with/IN the/DT club./NN
+
+O'Leary/NNP has/VBZ been/VBN in/IN talks/NNS over/IN a/DT new/JJ deal/NN and/CC he/PRP said/VBD "I/NN had/VBD a/DT message/NN from/IN Thomas'/NNP agent/NN asking/VBG me/PRP what/WP the/DT news/NN was/VBD on/IN myself./NN
+"He/NN wants/VBZ to/TO find/VB out/RP before/IN he/PRP goes/VBZ into/IN discussions/NNS over/IN Thomas./NNP
+"The/NN reason/NN Thomas/NNP is/VBZ not/RB speaking/VBG to/TO the/DT club/NN is/VBZ because/IN the/DT agent/NN wants/VBZ to/TO see/VB the/DT outcome/NN of/IN what/WP happens/VBZ to/TO me."/VB Hitzlsperger's/NNP current/JJ deal/NN expires/VBZ in/IN the/DT summer/NN and/CC he/PRP has/VBZ been/VBN offered/VBN a/DT new/JJ deal/NN by/IN the/DT Midlands/NNP club./NN
+The/DT German/JJ international/JJ is/VBZ understood/VBN to/TO be/VB keen/JJ to/TO remain/VB at/IN Villa/NNP despite/IN interest/NN in/IN his/PRP$ native/JJ country/NN from/IN Hamburg./NNP
+But/CC he/PRP wants/VBZ assurances/NNS that/IN O'Leary/NNP will/MD also/RB be/VB committing/VBG himself/PRP long-term/JJ because/IN negotiations/NNS over/IN a/DT new/JJ three-and-a-half-year/JJ contract/NN appear/VBP to/TO have/VB stalled./NN
+
+O'Leary/NNP wants/VBZ his/PRP$ backroom/NN staff/NN -/: assistant/NN manager/NN Roy/NNP Aitken/NNP and/CC fitness/NN coach/NN Steve/NNP McGregor/NNP -/: to/TO also/RB be/VB given/VBN satisfactory/JJ deals/NNS which/WDT will/MD tie/VB them/PRP to/TO Villa/NNP until/IN the/DT summer/NN of/IN 2008./CD

@@ -1,0 +1,16 @@
+Yukos/NNP unit/NN buyer/NN faces/VBZ loan/NN claim/NN
+
+The/DT owners/NNS of/IN embattled/JJ Russian/JJ oil/NN giant/NN Yukos/NNP are/VBP to/TO ask/VB the/DT buyer/NN of/IN its/PRP$ former/JJ production/NN unit/NN to/TO pay/VB back/RP a/DT $900m/CD (£479m)/CD loan./NN
+
+State-owned/JJ Rosneft/NNP bought/VBD the/DT Yugansk/NNP unit/NN for/IN $9.3bn/CD in/IN a/DT sale/NN forced/VBN by/IN Russia/NNP to/TO part/VB settle/VB a/DT $27.5bn/CD tax/NN claim/NN against/IN Yukos./NNP
+Yukos'/NNP owner/NN Menatep/NNP Group/NNP says/VBZ it/PRP will/MD ask/VB Rosneft/NNP to/TO repay/VB a/DT loan/NN that/IN Yugansk/NNP had/VBD secured/VBN on/IN its/PRP$ assets./NN
+Rosneft/NNP already/RB faces/VBZ a/DT similar/JJ $540m/CD repayment/NN demand/NN from/IN foreign/JJ banks./NN
+Legal/JJ experts/NNS said/VBD Rosneft's/NNP purchase/NN of/IN Yugansk/NNP would/MD include/VB such/JJ obligations./NN
+"The/NN pledged/VBD assets/NNS are/VBP with/IN Rosneft/NNP so/IN it/PRP will/MD have/VB to/TO pay/VB real/JJ money/NN to/TO the/DT creditors/NNS to/TO avoid/VB seizure/NN of/IN Yugansk/NNP assets"/NN said/VBD Moscow-based/JJ US/PRP lawyer/VBP Jamie/NNP Firestone/NNP who/WP is/VBZ not/RB connected/VBN to/TO the/DT case./NN
+Menatep/NNP Group's/NNP managing/VBG director/NN Tim/NNP Osborne/NNP told/VBD the/DT Reuters/NNP news/NN agency/NN "If/NN they/PRP default/VBP we/PRP will/MD fight/VB them/PRP where/WRB the/DT rule/NN of/IN law/NN exists/VBZ under/IN the/DT international/JJ arbitration/NN clauses/NNS of/IN the/DT credit."/NN
+
+Rosneft/NN officials/NNS were/VBD unavailable/JJ for/IN comment./NN
+But/CC the/DT company/NN has/VBZ said/VBN it/PRP intends/VBZ to/TO take/VB action/NN against/IN Menatep/NNP to/TO recover/VB some/DT of/IN the/DT tax/NN claims/NNS and/CC debts/NNS owed/VBN by/IN Yugansk./NNP
+Yukos/NNP had/VBD filed/VBD for/IN bankruptcy/NN protection/NN in/IN a/DT US/PRP court/VBP in/IN an/DT attempt/NN to/TO prevent/VB the/DT forced/VBN sale/NN of/IN its/PRP$ main/JJ production/NN arm./NN
+The/DT sale/NN went/VBD ahead/RB in/IN December/NNP and/CC Yugansk/NNP was/VBD sold/VBN to/TO a/DT little-known/JJ shell/NN company/NN which/WDT in/IN turn/NN was/VBD bought/VBN by/IN Rosneft./NNP
+Yukos/NN claims/VBZ its/PRP$ downfall/NN was/VBD punishment/NN for/IN the/DT political/JJ ambitions/NNS of/IN its/PRP$ founder/NN Mikhail/NNP Khodorkovsky/NNP and/CC has/VBZ vowed/VBN to/TO sue/VB any/DT participant/NN in/IN the/DT sale./NN

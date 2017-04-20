@@ -1,0 +1,20 @@
+Wenger/NNP shock/NN at/IN Newcastle/NNP dip/NN
+
+Arsenal/NN manager/NN Arsene/NNP Wenger/NNP has/VBZ admitted/VBN he/PRP is/VBZ at/IN a/DT loss/NN to/TO explain/VB why/WRB Newcastle/NNP are/VBP languishing/VBG in/IN the/DT bottom/NN half/NN of/IN the/DT table./NN
+
+The/DT Gunners/NNS travel/NN to/TO St/NNP James'/NNP Park/NNP on/IN Wednesday/NNP with/IN Newcastle/NNP 14th/JJ in/IN the/DT Premiership/NN after/IN a/DT troubled/JJ season./NN
+And/CC Wenger/NNP said/VBD "At/NN the/DT beginning/NN of/IN the/DT season/NN you/PRP would/MD expect/VB them/PRP to/TO be/VB fighting/VBG for/IN the/DT top/JJ four./NN
+"I/NN don't/NN know/NN how/WRB they/PRP got/VBD to/TO be/VB where/WRB they/PRP are./VBP
+It/PRP looks/VBZ to/TO me/PRP from/IN the/DT outside/NN that/IN they/PRP have/VBP many/JJ injuries."/NN
+
+Arsenal/NN go/VBP into/IN the/DT game/NN on/IN the/DT back/NN of/IN a/DT 2-0/JJ victory/NN over/IN Fulham/NNP on/IN Sunday./NNP
+And/CC Wenger/NNP added/VBD "The/NN best/JJS way/NN to/TO prepare/VB for/IN a/DT game/NN is/VBZ to/TO win/VB the/DT previous/JJ one./NN
+We/PRP will/MD go/VB to/TO Newcastle/NNP in/IN good/JJ shape./NN
+"Fatigue/NN won't/NN play/NN too/RB big/JJ a/DT part/NN in/IN the/DT next/JJ few/JJ weeks/NNS as/IN we/PRP have/VBP players/NNS coming/VBG back/RB so/IN I/PRP can/MD rotate/VB a/DT bit/NN more./NN
+"We/NN do/VBP not/RB play/VB a/DT season/NN with/IN 11/CD players/NNS and/CC I/PRP believe/VBP that/IN all/DT of/IN our/PRP$ squad/NN deserve/VBP a/DT chance/NN in/IN the/DT team."/NN Striker/NNP Thierry/NNP Henry/NNP along/IN with/IN Robert/NNP Pires/NNP scored/VBD against/IN Fulham./NNP
+And/CC Henry/NNP afterwards/RB described/VBD the/DT display/NN as/RB "beautiful/JJ to/TO watch"./VB
+He/PRP said/VBD "What/NN matters/VBZ is/VBZ winning/VBG and/CC the/DT three/CD points/NNS of/IN course./NN
+That/DT is/VBZ the/DT only/JJ thing/NN that/IN really/RB matters./NN
+But/CC it/PRP is/VBZ more/RBR enjoyable/JJ when/WRB you/PRP play/VBP like/IN we/PRP did/VBD against/IN Fulham./NNP
+"We/NN are/VBP playing/VBG as/IN a/DT team/NN and/CC that/DT is/VBZ important/JJ because/IN there/EX were/VBD some/DT games/NNS when/WRB we/PRP maybe/RB were/VBD not/RB there/RB as/IN a/DT team/NN and/CC suffered/VBD for/IN that./NN
+Those/DT were/VBD games/NNS we/PRP lost."/VBP

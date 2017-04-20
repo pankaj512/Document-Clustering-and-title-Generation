@@ -1,0 +1,18 @@
+Watchdog/NN probes/NNS Vivendi/NNP bond/NN sale/NN
+
+French/JJ stock/NN market/NN regulator/NN AMF/NNP has/VBZ filed/VBN complaints/NNS against/IN media/NNS giant/JJ Vivendi/NNP Universal/NNP its/PRP$ boss/NN and/CC another/DT top/JJ executive./NN
+
+It/PRP believes/VBZ the/DT prospectus/NN for/IN a/DT bond/NN issue/NN was/VBD unclear/JJ and/CC that/IN executives/NNS may/MD have/VB had/VBN privileged/JJ information./NN
+AMF/NNP has/VBZ begun/VBN proceedings/NNS against/IN Vivendi/NNP its/PRP$ chief/JJ executive/NN Jean-Rene/NNP Fourtou/NNP and/CC chief/NN operating/NN officer/NN Jean-Bernard/NNP Levy./NNP
+Vivendi/NNP advisor/NN Deutsche/NNP Bank/NNP was/VBD also/RB the/DT subject/NN of/IN a/DT complaint/NN filing./NN
+Deutsche/NNP Bank/NNP which/WDT was/VBD responsible/JJ for/IN selling/VBG the/DT convertible/JJ bonds/NNS to/TO investors/NNS could/MD face/VB penalties/NNS if/IN the/DT complaint/NN is/VBZ upheld./NN
+
+Vivendi/NNP has/VBZ said/VBN it/PRP believes/VBZ there/EX is/VBZ "no/NN legal/JJ basis"/NN for/IN the/DT complaints./NN
+The/DT watchdog/NN is/VBZ said/VBN to/TO believe/VB the/DT executive/JJ pair/NN were/VBD party/NN to/TO "privileged/VB information"/NN surrounding/VBG the/DT issue/NN of/IN the/DT bonds./NN
+Both/DT men/NNS bought/VBD some/DT of/IN the/DT bonds/NNS the/DT Associated/NNP Press/NNP news/NN agency/NN reported./NN
+AMF/NNP is/VBZ investigating/VBG claims/VBZ that/IN the/DT duo/NN were/VBD aware/JJ of/IN an/DT interest/NN in/IN Vivendi's/NNP US/PRP assets/VBZ from/IN investor/NN Marvin/NNP Davis/NNP at/IN the/DT time/NN of/IN the/DT bond/NN sale./NN
+Vivendi/NNP however/RB has/VBZ said/VBN that/IN the/DT information/NN was/VBD public/JJ knowledge/NN as/IN Mr/NNP Davis'/NNP offer/NN for/IN the/DT US/PRP assets/VBZ had/VBD already/RB been/VBN rejected/VBN by/IN Vivendi's/NNP board./NN
+AMF/NNP is/VBZ also/RB looking/VBG into/IN whether/IN the/DT executives/NNS knew/VBD that/IN Vivendi/NNP was/VBD considering/VBG exercising/VBG its/PRP$ right/NN to/TO buy/VB British/NNP Telecom's/NNP shares/NNS in/IN Cegetel./NNP
+Vivendi/NNP has/VBZ rejected/VBN the/DT charge/NN saying/VBG the/DT decision/NN to/TO buy/VB the/DT Cegetel/NNP shares/NNS was/VBD "no/NN more/JJR than/IN a/DT possibility/NN of/IN which/WDT the/DT public/NN was/VBD perfectly/RB aware"/NN at/IN the/DT time/NN of/IN the/DT bond/NN issue./NN
+Back/RB in/IN December/NNP Vivendi/NNP and/CC its/PRP$ former/JJ chief/JJ executive/NN Jean-Marie/NNP Messier/NNP were/VBD each/DT fined/VBN 1m/CD euros/NNS ($1.3m/CD £690000)/CD by/IN AMF./NNP
+The/DT fines/NNS came/VBD after/IN a/DT 15-month/JJ probe/NN into/IN allegations/NNS that/IN the/DT media/NNS giant/NN misled/VBD investors/NNS after/IN a/DT costly/JJ acquisition/NN programme/NN went/VBD wrong./NN

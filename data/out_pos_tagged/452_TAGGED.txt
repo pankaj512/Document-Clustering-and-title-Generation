@@ -1,0 +1,20 @@
+McDonald's/NNP boss/NN Bell/NNP dies/VBZ aged/VBN 44/CD
+
+Charlie/NNP Bell/NNP the/DT straight-talking/JJ former/JJ head/NN of/IN fast-food/NN giant/NN McDonald's/NNP has/VBZ died/VBN of/IN cancer/NN aged/VBD 44./CD
+
+Mr/NNP Bell/NNP was/VBD diagnosed/VBN with/IN colorectal/JJ cancer/NN in/IN May/NNP last/JJ year/NN a/DT month/NN after/IN taking/VBG over/RP the/DT top/JJ job./NN
+He/PRP resigned/VBD in/IN November/NNP to/TO fight/VB the/DT illness./NN
+Joining/VBG the/DT company/NN as/IN a/DT 15-year-old/JJ part-time/JJ worker/NN Mr/NNP Bell/NNP quickly/RB moved/VBD through/IN its/PRP$ ranks/NNS becoming/VBG Australia's/NNP youngest/JJS store/NN manager/NN at/IN 19./CD
+A/DT popular/JJ go-getter/NN he/PRP is/VBZ credited/VBN with/IN helping/VBG revive/VB McDonald's/NNP sales./NN
+Mr/NNP Bell/NNP leaves/VBZ a/DT wife/NN and/CC daughter./NN
+"As/NN we/PRP mourn/VBP his/PRP$ passing/VBG I/PRP ask/VBP you/PRP to/TO keep/VB Charlie's/NNP family/NN in/IN your/PRP$ hearts/NNS and/CC prayers"/NN chief/NN executive/NN James/NNP Skinner/NNP said/VBD in/IN a/DT statement./NN
+"And/NN remember/NN that/IN in/IN his/PRP$ abbreviated/VBN time/NN on/IN this/DT earth/NN Charlie/NNP lived/VBD life/NN to/TO the/DT fullest."/NN "No/NN matter/NN what/WP cards/NNS life/NN dealt/VBD Charlie/NNP stayed/VBD centred/VBN on/IN his/PRP$ love/NN for/IN his/PRP$ family/NN and/CC for/IN McDonald's."/NNP
+
+After/IN running/VBG the/DT company's/NNS Australian/JJ business/NN in/IN the/DT 1990s/CD Mr/NNP Bell/NNP moved/VBD to/TO the/DT US/PRP in/IN 1999/CD to/TO run/VB operations/NNS in/IN Asia/NNP Africa/NNP and/CC the/DT Middle/NNP East./NNP
+In/IN 2001/CD he/PRP took/VBD over/RP the/DT reins/NNS in/IN Europe/NNP McDonald's/NNP second/JJ most/RBS important/JJ market./NN
+He/PRP became/VBD chief/NN operating/NN officer/NN and/CC president/NN in/IN 2002./CD
+Mr/NNP Bell/NNP took/VBD over/RP as/RB chief/JJ executive/NN after/IN his/PRP$ predecessor/NN as/IN CEO/NNP Jim/NNP Cantalupo/NNP died/VBD suddenly/RB of/IN a/DT heart/NN attack/NN in/IN April./NNP
+Having/VBG worked/VBN closely/RB with/IN Mr/NNP Cantalupo/NNP who/WP came/VBD out/IN of/IN retirement/NN to/TO turn/VB McDonald's/NNP around/IN Mr/NNP Bell/NNP focused/VBD on/IN boosting/VBG demand/NN at/IN existing/VBG restaurants/NNS rather/RB than/IN follow/VB a/DT policy/NN of/IN rapid/JJ expansion./NN
+He/PRP had/VBD promised/VBN not/RB to/TO let/VB the/DT company/NN get/NN "fat/NN dumb/JJ and/CC happy"/NN and/CC according/VBG to/TO Reuters/NNP once/RB told/VBD analysts/NNS that/IN he/PRP would/MD shove/VB a/DT fire/NN hose/NN down/RP the/DT throat/NN of/IN competitors/NNS if/IN he/PRP saw/VBD them/PRP drowning./VBP
+Mr/NNP Bell/NNP oversaw/VBD McDonald's/NNP "I'm/NN lovin'/NN it"/NN advertising/NN campaign/NN and/CC introduced/VBN successes/NNS such/JJ as/IN McCafe/NNP now/RB the/DT biggest/JJS coffee/NN shop/NN brand/NN in/IN Australia/NNP and/CC New/NNP Zealand./NNP
+Colleagues/NNS said/VBD that/IN Mr/NNP Bell/NNP was/VBD proud/JJ of/IN his/PRP$ humble/JJ beginnings/NNS helping/VBG out/RP behind/IN cash/NN tills/NNS and/CC clearing/NN tables/NNS when/WRB visiting/VBG restaurants./NN

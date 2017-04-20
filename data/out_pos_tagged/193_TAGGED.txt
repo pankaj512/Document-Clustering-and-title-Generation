@@ -1,0 +1,19 @@
+Borussia/NNP Dortmund/NNP near/IN bust/NN
+
+German/JJ football/NN club/NN and/CC former/JJ European/JJ champion/NN Borussia/NNP Dortmund/NNP has/VBZ warned/VBN it/PRP will/MD go/VB bankrupt/JJ if/IN rescue/NN talks/NNS with/IN creditors/NNS fail./NN
+
+The/DT company's/NNS shares/NNS tumbled/VBD after/IN it/PRP said/VBD it/PRP has/VBZ "entered/VBN a/DT life-threatening/JJ profitability/NN and/CC financial/JJ situation"./NN
+Borussia/NNP Dortmund/NNP has/VBZ posted/VBN record/NN losses/NNS and/CC missed/VBN rent/NN payments/NNS on/IN its/PRP$ Westfallen/NNP stadium./NN
+Chief/NNP executive/NN Gerd/NNP Niebaum/NNP stepped/VBD down/RB last/JJ week/NN and/CC creditors/NNS are/VBP now/RB pushing/VBG for/IN greater/JJR control./NN
+Shares/NNS in/IN Borussia/NNP Dortmund/NNP Germany's/NNP only/RB stock-market/NN listed/VBD football/NN club/NN dropped/VBD by/IN almost/RB 23%/CD to/TO 2.05/CD euros/NNS during/IN early/JJ afternoon/NN trading./NN
+
+Fund/NNP manager/NN Florian/NNP Hamm/NNP -/: Borussia/NNP Dortmund's/NNP largest/JJS investor/NN -/: said/VBD he/PRP would/MD only/RB invest/VB more/JJR money/NN in/IN the/DT company/NN if/IN he/PRP got/VBD a/DT greater/JJR say/NN in/IN how/WRB it/PRP is/VBZ run./NN
+"I/NN demand/NN better/RBR transparency"/NN he/PRP is/VBZ quoted/VBN as/IN saying/VBG by/IN Germany's/NNP Manger/NNP Magazin./NNP
+The/DT club/NN has/VBZ also/RB faced/VBN calls/VBZ to/TO appoint/VB executives/NNS from/IN outside/IN the/DT club./NN
+
+Borussia/NNP Dortmund/NNP posted/VBD a/DT record/NN loss/NN of/IN 68m/CD euros/NNS ($89m/CD £47m)/CD in/IN the/DT 12/CD months/NNS through/IN June./NNP
+It/PRP made/VBD a/DT loss/NN of/IN 27.2m/CD euros/NNS in/IN the/DT first/JJ half/NN of/IN the/DT current/JJ fiscal/JJ year/NN and/CC said/VBD that/IN total/JJ debts/NNS will/MD increase/VB to/TO 134.7m/CD euros/NNS by/IN the/DT middle/NN of/IN 2006/CD unless/IN a/DT restructuring/NN plan/NN is/VBZ pushed/VBN through./NN
+"This/NN is/VBZ the/DT bill/NN for/IN their/PRP$ mismanagement/NN over/IN the/DT past/JJ years"/NN said/VBD HVB/NNP analyst/NN Peter-Thilo/NNP Halser./NNP
+The/DT club/NN appointed/VBD an/DT auditor/NN who/WP has/VBZ recommended/VBN a/DT number/NN of/IN steps/NNS including/VBG deferring/VBG the/DT rent/NN due/JJ on/IN the/DT stadium/NN and/CC suspending/VBG debt/NN repayments/NNS until/IN at/IN least/JJS the/DT 2006-2007/JJ fiscal/JJ year./NN
+Stephen/NNP Schechter/NNP a/DT UK/NNP investment/NN banker/NN who/WP has/VBZ held/VBN talks/NNS with/IN Borussia/NNP Dortmund/NNP over/IN a/DT possible/JJ bond/NN sale/NN said/VBD the/DT club/NN needs/VBZ a/DT capital/NN injection/NN of/IN 35m/CD euros./NN
+"They/NN need/VBP strong/JJ people/NNS on/IN the/DT board/NN who/WP do/VBP not/RB have/VB a/DT history/NN with/IN the/DT club"/NN he/PRP said./VB

@@ -1,0 +1,14 @@
+Singer/NNP Christina/NNP Aguilera/NNP to/TO wed/VB
+
+Pop/NN star/NN Christina/NNP Aguilera/NNP is/VBZ to/TO marry/VB music/NN executive/NN Jordan/NNP Bratman/NNP the/DT singer's/NNS agent/NN has/VBZ confirmed./NN
+
+Bratman/NNP 26/CD proposed/VBN to/TO Grammy-winning/NNP singer/NN Aguilera/NNP 23/CD on/IN holiday/NN at/IN an/DT undisclosed/JJ location./NN
+The/DT pair/NN have/VBP been/VBN together/RB for/IN more/JJR than/IN two/CD years./NN
+"No/NN wedding/NN plans/NNS have/VBP been/VBN set/VBN yet"/NN said/VBD Aguilera's/NNP agent/NN Meghan/NNP Prophet./NNP
+Aguilera/NNP burst/NN onto/IN the/DT pop/NN scene/NN in/IN 1999/CD winning/VBG a/DT best/JJS new/JJ artist/NN Grammy/NNP in/IN 2000./CD
+Her/PRP$ hits/NNS include/VBP What/WP a/DT Girl/NNP Wants/VBZ Dirrty/NNP and/CC Beautiful./NNP
+Bratman/NNP presented/VBD his/PRP$ fiancee/NN with/IN a/DT diamond/NN ring/NN designed/VBN by/IN jeweller/NN Stephen/NNP Webster/NNP on/IN Friday/NNP said/VBD Ms/NNP Prophet./NNP
+New/NNP York-born/NNP Aguilera/NNP reached/VBD number/NN one/CD in/IN the/DT UK/NNP with/IN her/PRP$ debut/NN hit/VBD Genie/NNP in/IN a/DT Bottle/NN in/IN October/NNP 1999./CD
+Her/PRP$ early/JJ success/NN was/VBD cemented/VBN by/IN two/CD further/JJ Grammys/NNP in/IN subsequent/JJ years./NN
+In/IN 2002/CD Aguilera/NNP won/VBD best/RBS pop/NN collaboration/NN for/IN the/DT hit/NN track/NN Lady/NNP Marmalade/NNP with/IN Lil'/NNP Kim/NNP Maya/NNP and/CC Pink/JJ and/CC last/JJ year/NN she/PRP picked/VBD up/RP the/DT award/NN for/IN best/JJS female/JJ pop/NN vocal/JJ performance/NN for/IN Beautiful./NNP
+Her/PRP$ most/RBS recent/JJ single/JJ Car/NNP Wash/NNP featuring/VBG Missy/NNP Elliott/NNP reached/VBD number/NN four/CD in/IN the/DT UK/NNP charts/NNS last/JJ November./NNP

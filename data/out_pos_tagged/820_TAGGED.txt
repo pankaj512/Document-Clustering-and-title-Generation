@@ -1,0 +1,13 @@
+BBC/NNP denies/VBZ Blackadder/NNP TV/NN comeback/NN
+
+The/DT BBC/NNP has/VBZ said/VBN there/EX are/VBP no/DT plans/NNS in/IN the/DT pipeline/NN for/IN a/DT new/JJ series/NN of/IN hit/VBN comedy/NN Blackadder/NNP which/WDT ended/VBD in/IN 1989./CD
+
+Tony/NNP Robinson/NNP who/WP played/VBD the/DT servant/NN Baldrick/NNP told/VBD ITV1's/CD This/DT Morning/NN the/DT show's/NNS star/NN Rowan/NNP Atkinson/NNP was/VBD "more/NN keen/JJ than/IN he/PRP has/VBZ been/VBN in/IN the/DT past"./NN
+Robinson/NNP added/VBD he/PRP would/MD "love"/VB to/TO do/VB another/DT series/NN each/DT of/IN which/WDT was/VBD set/VBN in/IN a/DT different/JJ era/NN ranging/VBG from/IN the/DT 15th/JJ century/NN to/TO World/NNP War/NNP I./NNP
+But/CC the/DT BBC/NNP said/VBD on/IN Thursday/NNP there/EX were/VBD no/DT plans/NNS for/IN a/DT comeback./NN
+
+In/IN the/DT final/JJ series/NN all/PDT the/DT main/JJ characters/NNS were/VBD killed/VBN off/RP charging/VBG towards/IN German/JJ lines/NNS after/IN being/VBG ordered/VBD out/IN of/IN their/PRP$ trench./NN
+The/DT poignant/JJ finale/NN was/VBD later/RB voted/VBN the/DT best/JJS farewell/NN episode/NN of/IN a/DT TV/NN series./NN
+A/DT host/NN of/IN other/JJ UK/NNP actors/NNS including/VBG Hugh/NNP Laurie/NNP Stephen/NNP Fry/NN and/CC Miranda/NNP Richardson/NNP also/RB appeared/VBD in/IN the/DT show./NN
+Blackadder/NNP returned/VBD for/IN a/DT one-off/JJ special/JJ filmed/VBN to/TO celebrate/VB the/DT arrival/NN of/IN the/DT millennium/NN in/IN 1999./CD
+It/PRP was/VBD shown/VBN at/IN the/DT Millennium/NNP Dome/NNP in/IN Greenwich/NNP before/IN being/VBG screened/VBD on/IN BSkyB./NNP

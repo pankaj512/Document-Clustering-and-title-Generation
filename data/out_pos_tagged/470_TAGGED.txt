@@ -1,0 +1,10 @@
+Saudi/JJ investor/NN picks/VBZ up/RP the/DT Savoy/NNP
+
+London's/NNP famous/JJ Savoy/NNP hotel/NN has/VBZ been/VBN sold/VBN to/TO a/DT group/NN combining/VBG Saudi/JJ billionaire/NN investor/NN Prince/NNP Alwaleed/NNP bin/NN Talal/NNP and/CC a/DT unit/NN of/IN HBOS/NNP bank./NN
+
+Financial/JJ details/NNS of/IN the/DT deal/NN which/WDT includes/VBZ the/DT nearby/JJ Simpson's/NNP in/IN the/DT Strand/NNP restaurant/NN were/VBD not/RB disclosed./JJ
+The/DT seller/NN -/: Irish-based/JJ property/NN firm/NN Quinlan/NNP Private/JJ -/: bought/VBD the/DT Savoy/NNP along/IN with/IN the/DT Berkeley/NNP Claridge's/NNP and/CC the/DT Connaught/NNP for/IN £750m/CD last/JJ year./NN
+Prince/NNP Alwaleed's/NNP hotel/NN investments/NNS include/VBP the/DT luxury/NN George/NNP V/NNP in/IN Paris./NNP
+He/PRP also/RB has/VBZ substantial/JJ stakes/NNS in/IN Fairmont/NNP Hotels/NNPS &/CC Resorts/NNP which/WDT will/MD manage/VB the/DT Savoy/NNP and/CC Simpson's/NNP in/IN the/DT Strand/NNP and/CC Four/CD Seasons./NNP
+Fairmont/NNP said/VBD it/PRP planned/VBD to/TO invest/VB $48m/CD (£26m)/CD in/IN renovating/VBG parts/NNS of/IN the/DT Savoy/NNP including/VBG the/DT River/NNP Room/NN and/CC suites/NNS with/IN views/NNS over/IN the/DT River/NNP Thames./NNP
+Work/NN was/VBD expected/VBN to/TO be/VB completed/VBN by/IN summer/NN 2006/CD Fairmont/NNP said./NN

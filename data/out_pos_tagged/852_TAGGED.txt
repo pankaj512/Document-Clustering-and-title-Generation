@@ -1,0 +1,16 @@
+US/PRP composer/VBP recreates/NNS Bach/NNP score/NN
+
+A/DT US/PRP musicologist/VBP has/VBZ recreated/VBN a/DT lost/NN musical/JJ score/NN by/IN German/JJ composer/NN Johann/NNP Sebastian/NNP Bach./NNP
+
+The/DT 1728/CD composition/NN called/VBD Wedding/NN Cantata/NNP BWV/NNP 216/CD was/VBD found/VBN among/IN the/DT papers/NNS of/IN Japanese/JJ pianist/NN Chieko/NNP Hara/NNP who/WP died/VBD in/IN Japan/NNP in/IN 2001/CD aged/VBN 86./CD
+The/DT work/NN written/VBD for/IN the/DT wedding/NN of/IN a/DT daughter/NN of/IN a/DT German/JJ customs/NNS official/NN was/VBD missing/VBG for/IN 80/CD years./NN
+Joshua/NNP Rifkin/NNP -/: a/DT composer/NN and/CC leading/VBG interpreter/NN of/IN Bach/NNP -/: has/VBZ recreated/VBN the/DT missing/VBG instrumental/JJ parts./NN
+
+He/PRP said/VBD he/PRP originally/RB wanted/VBD to/TO let/VB the/DT lost/JJ cantata/NN lie/NN in/IN rest./NN
+"Maybe/NN a/DT fragment/NN should/MD stay/VB a/DT fragment"/NN said/VBD Rifkin./NNP
+"Then/NN I/PRP thought/VBD of/IN palaeontologists/NNS from/IN one/CD bone/NN they/PRP figure/VBP the/DT entire/JJ dinosaur./NN
+This/DT is/VBZ my/PRP$ dinosaur."/NN The/DT eight/CD rediscovered/VBD pages/NNS consist/VBP of/IN vocal/JJ pieces/NNS in/IN German/JJ for/IN soprano/NN and/CC alto/NN with/IN the/DT seven/CD movements/NNS lasting/JJ for/IN a/DT total/NN of/IN between/IN 20/CD and/CC 25/CD minutes./NN
+The/DT instrumental/JJ parts/NNS were/VBD entirely/RB lost/VBN except/IN for/IN two/CD recycled/JJ movements/NNS a/DT duet/NN and/CC an/DT aria/NN which/WDT had/VBD been/VBN used/VBN elsewhere/RB in/IN Bach's/NNP work./NN
+Rifkin/NNP likened/VBD the/DT challenge/NN to/TO a/DT "musical/JJ Rubik's/NNP cube"./NN
+"I/NN could/MD not/RB reconstruct/VB what/WP Bach/NNP wrote/VBD but/CC I/PRP could/MD give/VB the/DT people/NNS of/IN today/NN an/DT idea/NN of/IN what/WP his/PRP$ music/NN was/VBD like"/NN he/PRP said./VB
+"It/NN sounds/VBZ like/IN Bach's/NNP music/NN but/CC the/DT listener/NN should/MD not/RB know/VB which/WDT part/NN is/VBZ Bach's/NNP and/CC which/WDT part/NN is/VBZ mine."/NN

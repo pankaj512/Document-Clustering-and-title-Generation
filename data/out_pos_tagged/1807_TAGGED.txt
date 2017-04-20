@@ -1,0 +1,12 @@
+Roche/NNP 'turns/NN down/RP Federer/NNP offer'/NN
+
+Australian/JJ tennis/NN coach/NN Tony/NNP Roche/NNP has/VBZ turned/VBN down/RP an/DT approach/NN from/IN Roger/NNP Federer/NNP to/TO be/VB the/DT world/NN number/NN one's/VBZ new/JJ full-time/JJ coach/NN say/VBP reports./NN
+
+Melbourne's/NNP Herald-Sun/NNP said/VBD Roche/NNP troubled/JJ by/IN a/DT hip/NN complaint/NN did/VBD not/RB want/VB to/TO travel/VB full-time/JJ again./NN
+However/RB Roche/NNP is/VBZ happy/JJ to/TO work/VB with/IN the/DT Swiss/JJ star/NN on/IN a/DT casual/JJ basis/NN and/CC is/VBZ helping/VBG him/PRP prepare/VB for/IN next/JJ month's/NNS defence/NN of/IN his/PRP$ Australian/JJ Open/NNP crown./NN
+Federer/NNP has/VBZ been/VBN without/IN a/DT coach/NN since/IN splitting/NN with/IN Peter/NNP Lundgren/NNP in/IN 2003./CD
+Roche/VBG a/DT former/JJ Davis/NNP Cup/NNP player/NN for/IN Australia/NNP won/VBD the/DT French/JJ Open/NNP reached/VBD the/DT Wimbledon/NNP and/CC US/PRP Open/NNP finals/NNS and/CC won/VBD five/CD Wimbledon/NNP doubles/VBZ titles/NNS with/IN John/NNP Newcombe./NNP
+
+He/PRP also/RB coached/VBD former/JJ number/NN one/CD Ivan/NNP Lendl/NNP and/CC Pat/NNP Rafter/NNP to/TO Grand/NNP Slam/NNP victories/NNS and/CC has/VBZ worked/VBN with/IN Australia's/NNP Lleyton/NNP Hewitt./NNP
+Some/DT reports/NNS claim/VBP Federer/NNP initially/RB wanted/VBD Andre/NNP Agassi's/NNP Australian/JJ coach/NN Darren/NNP Cahill/NNP before/IN Agassi/NNP confirmed/VBD he/PRP would/MD play/VB on/RP in/IN 2005./CD
+Federer/NNP was/VBD named/VBN Swiss/JJ sportsman/NN of/IN the/DT year/NN on/IN Saturday/NNP to/TO add/VB to/TO the/DT BBC/NNP overseas/JJ sportsman/NN and/CC European/NNP Sports/NNP Journalists/NNS Association/NNP awards/NNS he/PRP has/VBZ already/RB won./NN

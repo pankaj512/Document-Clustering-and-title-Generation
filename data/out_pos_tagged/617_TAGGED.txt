@@ -1,0 +1,13 @@
+Manics/NNP in/IN charge/NN of/IN BBC/NNP 6/CD Music/NNP
+
+The/DT Manic/NNP Street/NNP Preachers/NNP are/VBP to/TO take/VB over/RP the/DT helm/NN of/IN BBC/NNP digital/JJ radio/NN station/NN 6/CD Music/NNP for/IN a/DT week/NN in/IN December./NNP
+
+The/DT Welsh/NNP band/NN whose/WP$ hits/NNS include/VBP Design/NNP For/IN Life/NNP and/CC If/IN You/PRP Tolerate/VBP This/DT have/VBP already/RB chosen/VBN which/WDT records/NNS to/TO play/VB between/IN 6/CD and/CC 12/CD December./NNP
+Their/PRP$ albums/NNS of/IN the/DT day/NN include/VBP Who's/NNP Next/JJ by/IN The/DT Who/WP and/CC U2's/CD Joshua/NNP Tree./NNP
+The/DT group/NN will/MD also/RB perform/VB their/PRP$ own/JJ live/NN session./NN
+They/PRP follow/VBP in/IN the/DT footsteps/NNS of/IN Radiohead/NNP who/WP took/VBD over/RP the/DT station/NN for/IN a/DT week/NN last/JJ year./NN
+
+Bass/NNP player/NN Nicky/NNP Wire/NN will/MD join/VB Phil/NNP Jupitus/NNP on/IN his/PRP$ morning/NN show/NN on/IN Monday/NNP 6/CD December/NNP while/IN vocalist/NN and/CC guitarist/NN James/NNP Dean/NNP Bradfield/NNP will/MD appear/VB on/IN Andrew/NNP Collins'/NNP afternoon/NN show/NN on/IN Thursday/NNP 9./CD
+The/DT group/NN have/VBP also/RB chosen/VBN documentaries/NNS to/TO air/VB such/JJ as/IN The/DT Leonard/NNP Cohen/NNP Story/NNP and/CC Guitar/NNP Greats/NNS -/: Jimmy/NNP Page./NNP
+The/DT live/JJ concert/NN session/NN tracks/VBZ they/PRP have/VBP picked/VBN include/VBP The/DT Specials'/NNP Rat/NN Race/NN recorded/VBN at/IN Hammersmith/NNP Odeon/NNP in/IN London/NNP and/CC Public/NNP Enemy's/NNP Fight/VB The/DT Power/NNP and/CC Rebel/NN Without/IN A/DT Pause./NNP
+The/DT band/NN will/MD also/RB answer/VB questions/NNS e-mailed/JJ in/IN by/IN 6/CD Music/NNP listeners./NN

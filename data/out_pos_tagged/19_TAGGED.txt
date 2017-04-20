@@ -1,0 +1,16 @@
+India/NNP widens/VBZ access/NN to/TO telecoms/NNS
+
+India/NNP has/VBZ raised/VBN the/DT limit/NN for/IN foreign/JJ direct/JJ investment/NN in/IN telecoms/NNS companies/NNS from/IN 49%/CD to/TO 74%./CD
+
+Communications/NNPS Minister/NNP Dayanidhi/NNP Maran/NNP said/VBD that/IN there/EX is/VBZ a/DT need/NN to/TO fund/VB the/DT fast-growing/JJ mobile/JJ market./NN
+The/DT government/NN hopes/VBZ to/TO increase/VB the/DT number/NN of/IN mobile/JJ users/NNS from/IN 95/CD million/CD to/TO between/IN 200/CD and/CC 250/CD million/CD by/IN 2007./CD
+"We/NN need/NN at/IN least/JJS $20bn/CD (£10.6bn)/CD in/IN investment/NN and/CC part/NN of/IN this/DT has/VBZ to/TO come/VB as/IN foreign/JJ direct/JJ investment"/NN said/VBD Mr/NNP Maran./NNP
+The/DT decision/NN to/TO raise/VB the/DT limit/NN for/IN foreign/JJ investors/NNS faced/VBD considerable/JJ opposition/NN from/IN the/DT communist/JJ parties/NNS which/WDT give/VBP crucial/JJ support/NN to/TO the/DT coalition/NN headed/VBN by/IN Prime/NNP Minister/NNP Manmohan/NNP Singh./NNP
+Potential/JJ foreign/JJ investors/NNS will/MD however/RB need/VB government/NN approval/NN before/IN they/PRP increase/VBP their/PRP$ stake/NN beyond/IN 49%/CD Mr/NNP Maran/NNP said./NN
+Key/NN positions/NNS such/JJ as/IN those/DT of/IN chief/JJ executive/NN chief/NN technology/NN officer/NN and/CC chief/JJ financial/JJ officer/NN are/VBP to/TO be/VB held/VBN by/IN Indians/NNPS he/PRP added./VB
+
+Analysts/NNS and/CC investors/NNS have/VBP welcomed/VBN the/DT government/NN decision./NN
+"It/NN is/VBZ a/DT positive/JJ development/NN for/IN carriers/NNS and/CC the/DT investment/NN community/NN looking/VBG to/TO take/VB a/DT longer-term/JJ view/NN of/IN the/DT huge/JJ growth/NN in/IN the/DT Indian/JJ telecoms/NNS market"/NN said/VBD Gartner's/NNP principal/JJ analyst/NN Kobita/NNP Desai./NNP
+"The/NNP FDI/NNP relaxation/NN coupled/VBN with/IN rapid/JJ local/JJ market/NN growth/NN could/MD really/RB ignite/VB interest/NN in/IN the/DT Indian/JJ telecommunication/NN industry"/NN added/VBD Ernst/NNP and/CC Young's/NNP Sanjay/NNP Mehta./NNP
+Investment/NN bank/NN Morgan/NNP Stanley/NNP has/VBZ forecast/NN that/IN India's/NNP mobile/JJ market/NN is/VBZ likely/JJ to/TO grow/VB by/IN about/IN 40%/CD a/DT year/NN until/IN 2007./CD
+The/DT Indian/JJ mobile/JJ market/NN is/VBZ currently/RB dominated/VBN by/IN four/CD companies/NNS Bharti/NNP Televentures/NNP which/WDT has/VBZ allied/VBN itself/PRP with/IN Singapore/NNP Telecom/NNP Essar/NNP which/WDT is/VBZ linked/VBN with/IN Hong/NNP Kong-based/JJ Hutchison/NNP Whampoa/NNP the/DT Sterling/NNP group/NN and/CC the/DT Tata/NNP group./NN

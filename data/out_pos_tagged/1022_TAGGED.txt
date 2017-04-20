@@ -1,0 +1,31 @@
+End/NNP Bush/NNP 'denial'/NN Blair/NNP tells/VBZ EU/NNP
+
+Tony/NNP Blair/NNP is/VBZ urging/VBG European/JJ leaders/NNS to/TO wake/VB up/RP from/IN their/PRP$ "state/NN of/IN denial"/NN over/IN President/NNP Bush's/NNP re-election./JJ
+
+"America/NN has/VBZ spoken./NN
+The/DT rest/NN of/IN the/DT world/NN should/MD listen"/VB the/DT prime/JJ minister/NN said/VBD in/IN an/DT interview/NN with/IN The/DT Times/NNP newspaper/NN published/VBN on/IN Friday./NNP
+Mr/NNP Blair/NNP is/VBZ at/IN a/DT summit/NN in/IN Brussels/NNP where/WRB Iraq/NNP and/CC European/JJ justice/NN and/CC immigration/NN plans/NNS are/VBP on/IN the/DT agenda./NN
+French/JJ President/NNP Jacques/NNP Chirac/NNP reacted/VBD to/TO his/PRP$ warning/NN by/IN saying/VBG Europe/NNP instead/RB needed/VBD to/TO reinforce/VB its/PRP$ own/JJ unity./NN
+Mr/NNP Blair/NNP has/VBZ probably/RB been/VBN closer/JJR to/TO President/NNP Bush/NNP than/IN any/DT other/JJ European/JJ leader./NN
+
+He/PRP said/VBD some/DT people/NNS were/VBD in/IN "a/NN sort/NN of/IN state/NN of/IN denial"/NN about/IN the/DT US/PRP election/VBP result/NN but/CC predicted/VBD a/DT more/RBR "receptive/JJ mood"/NN would/MD emerge/VB soon./NN
+America/NNP needed/VBD to/TO listen/VB to/TO the/DT world/NN too/RB he/PRP said./VB
+"The/NN fact/NN is/VBZ that/IN President/NNP Bush/NNP is/VBZ there/RB for/IN four/CD years./NN
+He/PRP is/VBZ there/RB because/IN the/DT American/JJ people/NNS have/VBP chosen/VBN him"/NN he/PRP argued./VB
+He/PRP also/RB made/VBD clear/JJ he/PRP intended/VBD to/TO take/VB seriously/RB what/WP he/PRP perceives/VBZ as/IN his/PRP$ role/NN in/IN bringing/VBG the/DT two/CD continents/NNS together./NN
+
+Britain/NNP was/VBD "uniquely/RB placed"/NN to/TO make/VB out/RP the/DT common/JJ ground/NN because/IN of/IN its/PRP$ strong/JJ alliance/NN with/IN the/DT US/PRP he/PRP suggested./VB
+He/PRP admitted/VBD he/PRP had/VBD gone/VBN to/TO bed/VB at/IN 2230GMT/CD well/RB before/IN the/DT American/JJ polls/NNS closed/VBD thinking/VBG Mr/NNP Kerry/NNP might/MD have/VB won./NN
+He/PRP woke/VBD up/RP at/IN 0530GMT/CD to/TO discover/VB Mr/NNP Bush/NNP had/VBD won/VBN but/CC declined/VBD to/TO say/VB if/IN he/PRP was/VBD pleased/VBN with/IN the/DT eventual/JJ result./NN
+His/PRP$ words/NNS about/IN President/NNP Bush/NNP met/VBD a/DT cool/JJ reception/NN from/IN Jacques/NNP Chirac./NNP
+The/DT French/JJ president/NN told/VBD reporters/NNS "Europe/NN today/NN has/VBZ more/RBR than/IN ever/RB the/DT need/NN the/DT necessity/NN to/TO reinforce/VB itself/PRP and/CC its/PRP$ dynamism/NN and/CC unity./NN
+"That/NN is/VBZ the/DT goal/NN of/IN the/DT constitution/NN in/IN a/DT world/NN that/WDT is/VBZ more/RBR multi-polar/JJ than/IN ever."/NN
+
+Mr/NNP Chirac/NNP will/MD miss/VB an/DT address/NN to/TO the/DT summit/NN from/IN Iraqi/JJ interim/JJ leader/NN Iyad/NNP Allawi/NNP who/WP this/DT week/NN criticised/VBN nations/NNS which/WDT took/VBD a/DT "spectator"/NN role/NN to/TO Iraq's/NNP reconstruction./NN
+Mr/NNP Chirac/NNP denied/VBD there/EX was/VBD any/DT snub/NN -/: he/PRP is/VBZ going/VBG to/TO a/DT memorial/NN service/NN for/IN the/DT United/NNP Arab/NNP Emirates'/NNP late/JJ leader/NN and/CC says/VBZ he/PRP would/MD be/VB happy/JJ to/TO meet/VB Mr/NNP Allawi./NNP
+He/PRP also/RB signed/VBD a/DT communiqu&#233/CD stressing/VBG the/DT EU's/NNP commitment/NN to/TO securing/VBG a/DT stable/JJ and/CC unified/VBD Iraq./NNP
+The/DT EU/NNP also/RB confirmed/VBD a/DT new/JJ $21m/CD aid/NN package./NN
+The/DT communiqu&#233/CD congratulated/VBD President/NNP Bush/NNP on/IN his/PRP$ victory/NN and/CC stressed/VBD the/DT importance/NN of/IN good/JJ transatlantic/NN relations./NN
+The/DT summit/NN is/VBZ also/RB expected/VBN to/TO agree/VB changes/NNS to/TO streamline/VB European/JJ asylum/NN and/CC immigration/NN decisions./NN
+Mr/NNP Blair/NNP recently/RB said/VBD the/DT UK/NNP would/MD only/RB participate/VB in/IN EU-wide/NNP measures/NNS where/WRB it/PRP was/VBD in/IN UK/NNP interests/NNS but/CC the/DT Tories/NNPS say/VBP he/PRP is/VBZ surrendering/VBG a/DT key/JJ veto./NN
+The/DT meeting/NN will/MD also/RB assess/VB progress/NN on/IN the/DT economic/JJ reform/NN plans/NNS agreed/VBD in/IN Lisbon/NNP in/IN 2000/CD to/TO make/VB Europe/NNP more/JJR competitive./NN

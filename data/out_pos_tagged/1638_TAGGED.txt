@@ -1,0 +1,19 @@
+Worcester/NNP v/NN Sale/NNP (Fri)/NN
+
+Sixways/NNP
+
+Friday/NNP 25/CD February/NNP
+
+2000/CD GMT/NNP
+
+They/PRP make/VBP just/RB one/CD change/NN with/IN Tim/NNP Collier/NNP replacing/VBG Phil/NNP Murphy/NNP in/IN the/DT second/JJ row./NN
+In/IN contrast/NN Sale/NNP are/VBP missing/VBG 14/CD players/NNS due/JJ to/TO a/DT combination/NN of/IN international/JJ call-ups/NNS and/CC injuries./NN
+John/NNP Payne/NNP and/CC Chris/NNP Rhys/NNP Jones/NNP come/VB into/IN the/DT centres/NNS while/IN scrum-half/JJ Richard/NNP Wigglesworth/NNP looks/VBZ set/VBN to/TO play/VB on/IN the/DT wing./NN
+
+Delport/NNP Pieters/NNP Rasmussen/NNP Lombard/NNP O'Leary/NNP Brown/NNP Powell/NNP Windo/NNP Van/NNP Niekerk/NNP Horsman/NNP Collier/NNP Gillies/NNP Hickey/NNP Sanderson/NNP MacLeod-/NNP Henderson./NNP
+
+Replacements/NNS Fortey/NNP Murphy/NNP Daly/NNP Vaili/NNP Cole/NNP Hayes/NNP Trueman./NNP
+
+Hanley/NNP Mayor/NNP Payne/NNP Rhys/NNP Jones/NNP Wigglesworth/NNP Hercus/NNP Redpath/NNP (capt)/NN Turner/NNP Roddam/NNP Stewart/NNP Day/NNP Schofield/NNP Caillet/NNP Carter/NNP Chabal./NNP
+
+Replacements/NNS (from)/NN Bozzi/NNP Coutts/NNP Anglesea/NNP Lund/NNP Martens/NNP Riley/NNP Duffy/NNP C/NNP Jones./NNP

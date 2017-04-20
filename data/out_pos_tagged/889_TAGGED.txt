@@ -1,0 +1,13 @@
+Tarantino/NNP 'to/NN make/VBP Friday/NNP sequel'/NN
+
+Director/NNP Quentin/NNP Tarantino/NNP is/VBZ in/IN talks/NNS to/TO write/VB and/CC direct/JJ a/DT new/JJ instalment/NN in/IN the/DT Friday/NNP the/DT 13th/JJ horror/NN franchise/NN according/VBG to/TO the/DT Hollywood/NNP Reporter./NNP
+
+The/DT film-maker/NN will/MD reportedly/RB meet/VB executives/NNS from/IN New/NNP Line/NNP Cinema/NNP this/DT week/NN to/TO discuss/VB the/DT 12th/JJ film/NN in/IN the/DT long-running/JJ 'stalk/NN and/CC slash'/NN series./NN
+The/DT original/JJ film/NN released/VBN in/IN 1980/CD has/VBZ spawned/VBN ten/NN sequels/NNS based/VBN around/IN mask-wearing/JJ murderer/NN Jason/NNP Voorhees./NNP
+The/DT most/RBS recent/JJ Freddy/NNP Vs/NNP Jason/NNP was/VBD released/VBN in/IN summer/NN 2003./CD
+That/DT film/NN saw/VBD Jason/NNP battle/NN Freddy/NNP Krueger/NNP star/NN of/IN the/DT Nightmare/NN on/IN Elm/NNP Street/NNP franchise./NN
+According/VBG to/TO the/DT industry/NN newspaper/NN New/NNP Line/NNP had/VBD been/VBN trying/VBG to/TO make/VB another/DT sequel/NN involving/VBG Ash/NNP the/DT hero/NN of/IN the/DT Evil/NNP Dead/NNP movies/NNS but/CC was/VBD unable/JJ to/TO agree/VB terms/NNS with/IN director/NN Sam/NNP Raimi./NNP
+Tarantino/NNP is/VBZ said/VBN to/TO be/VB intrigued/VBN by/IN the/DT prospect/NN of/IN building/VBG a/DT new/JJ film/NN around/IN one/CD of/IN the/DT horror/NN genre's/NNS most/RBS recognised/VBN figures./NN
+First/NNP however/RB he/PRP is/VBZ scheduled/VBN to/TO direct/VB the/DT season/NN finale/NN of/IN US/PRP television/VBP series/NN CSI/NNP Crime/NN Scene/NN Investigation./NNP
+Filming/VBG is/VBZ due/JJ to/TO start/VB in/IN early/JJ April./NNP
+Tarantino's/NNP episode/NN for/IN which/WDT he/PRP also/RB wrote/VBD the/DT original/JJ story/NN will/MD be/VB broadcast/NN in/IN the/DT US/PRP on/IN 19/CD May./NNP

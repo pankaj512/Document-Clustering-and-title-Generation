@@ -1,0 +1,19 @@
+EU/NNP fraud/NN clampdown/NN urged/VBD
+
+EU/NNP member/NN states/NNS are/VBP failing/VBG to/TO report/VB fraud/NN and/CC irregularities/NNS in/IN EU/NNP funds/NNS on/IN a/DT consistent/JJ basis/NN the/DT UK's/NNP public/JJ spending/NN watchdog/NN has/VBZ said./NN
+
+The/DT National/NNP Audit/NNP Office/NNP said/VBD although/IN the/DT latest/JJS figures/NNS showed/VBD reported/VBN fraud/NN was/VBD falling/VBG the/DT EU/NNP still/RB had/VBD no/DT common/JJ definition/NN of/IN fraud./NN
+It/PRP also/RB expressed/VBD concern/NN that/IN for/IN the/DT 10th/JJ year/NN the/DT European/NNP Court/NNP of/IN Auditors/NNS had/VBD qualified/VBN the/DT EU/NNP accounts./NN
+The/DT NAO/NNP urged/VBD the/DT government/NN to/TO push/VB for/IN improvements/NNS in/IN reporting/VBG fraud./NN
+It/PRP said/VBD member/NN states/NNS needed/VBN to/TO be/VB more/RBR accountable/JJ on/IN how/WRB money/NN was/VBD spent./NN
+The/DT report/NN said/VBD "Member/NN states/NNS still/RB do/VBP not/RB report/NN fraud/NN and/CC other/JJ irregularities/NNS to/TO the/DT European/JJ Anti-Fraud/JJ Office/NNP on/IN a/DT consistent/JJ basis./NN
+
+"As/NN the/DT court/NN has/VBZ now/RB qualified/VBN its/PRP$ opinion/NN on/IN the/DT Community/NNP accounts/VBZ for/IN a/DT decade/NN it/PRP is/VBZ essential/JJ for/IN all/PDT the/DT authorities/NNS involved/VBN to/TO contribute/VB to/TO the/DT strengthening/NN of/IN the/DT audit/NN of/IN EU/NNP revenue/NN and/CC expenditure/NN and/CC improving/VBG accountability/NN for/IN the/DT financial/JJ management/NN and/CC use/NN of/IN EU/NNP resources."/NN It/PRP said/VBD there/EX were/VBD 922/CD cases/NNS of/IN reported/VBN fraud/NN or/CC irregularities/NNS in/IN EU/NNP funds/NNS in/IN the/DT UK/NNP in/IN 2003/CD worth/JJ £38.5m/CD (52m/CD euros)/NN up/RP from/IN 831/CD cases/NNS worth/JJ £35.7m/CD in/IN 2002./CD
+At/IN the/DT same/JJ time/NN reported/VBD fraud/NN throughout/IN the/DT EU/NNP dropped/VBD from/IN 10276/CD cases/NNS worth/JJ £808m/CD to/TO 8177/CD cases/NNS worth/JJ £644m./CD
+Edward/NNP Leigh/NNP chairman/NN of/IN the/DT Commons/NNPS public/JJ accounts/NNS committee/NN said/VBD Britain/NNP had/VBD to/TO set/VB an/DT example/NN when/WRB it/PRP assumed/VBD the/DT EU/NNP presidency./NN
+
+"Any/NN fraud/NN in/IN other/JJ member/NN states/NNS is/VBZ potentially/RB fraud/NN against/IN the/DT UK/NNP taxpayer/NN given/VBN that/IN we/PRP are/VBP the/DT second/JJ largest/JJS net/JJ contributor/NN to/TO the/DT Community"/NNP he/PRP said./VB
+"Departments/NN responsible/JJ for/IN administering/VBG EU/NNP funds/NNS need/VBP to/TO make/VB sure/JJ that/DT they're/NN doing/VBG everything/NN possible/JJ to/TO weed/VB out/RP improper/JJ spending./NN
+"The/NN government/NN must/MD take/VB the/DT opportunity/NN afforded/VBN by/IN the/DT UK/NNP presidency/NN of/IN the/DT EU/NNP to/TO press/VB the/DT Commission/NNP and/CC other/JJ member/NN states/NNS to/TO take/VB an/DT equally/RB robust/JJ stance/NN against/IN fraud/NN and/CC irregularity/NN and/CC raise/VB overall/JJ standards/NNS of/IN financial/JJ management."/NN A/DT spokesman/NN for/IN the/DT European/JJ Anti-Fraud/JJ Office/NNP said/VBD the/DT organisation/NN agreed/VBD with/IN the/DT NAO's/NNP assessment/NN of/IN fraud/NN reporting./NN
+"The/NN quality/NN of/IN reporting/NN does/VBZ differ/VB from/IN member/NN state/NN to/TO member/VB state/NN and/CC there/EX is/VBZ room/NN for/IN improvement"/NN spokesman/NN Jorg/NNP Wojahn/NNP said./NN
+He/PRP added/VBD that/IN there/EX is/VBZ generally/RB good/JJ co-operation/NN with/IN member/NN states/NNS and/CC the/DT anti-fraud/JJ office/NN on/IN specific/JJ cases/NNS of/IN fraud/NN with/IN the/DT statistics/NNS studied/VBN by/IN NAO/NNP providing/VBG a/DT "good/NN overview/NN for/IN planning/NN strategic/JJ ways/NNS of/IN detecting/VBG fraud"./NN

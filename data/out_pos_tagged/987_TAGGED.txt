@@ -1,0 +1,10 @@
+Vouchers/NNS 'to/NN cut/NN winter/NN deaths'/NN
+
+Pensioners/NNS are/VBP being/VBG promised/VBN energy/NN savings/NNS by/IN the/DT Liberal/NNP Democrats/NNPS as/IN snow/NN and/CC cold/JJ temperatures/NNS continue./NN
+
+The/DT party/NN says/VBZ the/DT plans/NNS could/MD save/VB the/DT average/JJ pensioner/NN £100/CD every/DT year/NN and/CC cut/VB winter/NN deaths./NN
+The/DT government/NN gives/VBZ £200/CD for/IN winter/NN fuel/NN to/TO households/NNS with/IN people/NNS over/IN 60/CD or/CC £300/CD where/WRB people/NNS are/VBP over/IN 80./CD
+The/DT Tories/NNPS promise/NN to/TO keep/VB the/DT payments./NN
+The/DT Lib/NNP Dems/NNP would/MD allow/VB people/NNS to/TO swap/VB these/DT winter/NN fuel/NN payments/NNS for/IN discounts/NNS on/IN home/NN insulation./NN
+Shadow/NNP local/JJ government/NN secretary/NN Ed/NNP Davey/NNP said/VBD "The/NN current/JJ scheme/NN has/VBZ helped/VBN some/DT older/JJR people/NNS but/CC this/DT new/JJ Liberal/NNP Democrat/NNP approach/NN will/MD go/VB much/JJ further/JJ to/TO end/VB the/DT scandal/NN of/IN tens/NNS of/IN thousands/NNS of/IN old/JJ people/NNS dying/VBG from/IN the/DT winter/NN cold/JJ every/DT year."/NN The/DT vouchers/NNS are/VBP designed/VBN to/TO let/VB pensioners/NNS choose/VB from/IN a/DT list/NN of/IN approved/VBN energy/NN supplies/NNS who/WP would/MD compete/VB for/IN business/NN by/IN offering/VBG discounts/NNS on/IN home/NN insulation/NN schemes./NN
+The/DT plan/NN would/MD boost/VB energy/NN conservation/NN says/VBZ the/DT party/NN -/: and/CC insulation/NN could/MD save/VB £100/CD every/DT year/NN for/IN pensioner/NN households/NNS so/RB using/VBG the/DT money/NN more/JJR "intelligently"/NN than/IN at/IN present./NN

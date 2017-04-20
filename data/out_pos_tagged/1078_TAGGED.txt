@@ -1,0 +1,33 @@
+Anti-terror/NNP plan/NN faces/VBZ first/JJ test/NN
+
+Plans/NNS to/TO allow/VB Home/NNP Secretary/NNP Charles/NNP Clarke/NNP to/TO place/VB terror/NN suspects/VBZ under/IN house/NN arrest/NN without/IN trial/NN are/VBP set/VBN for/IN their/PRP$ first/JJ real/JJ test/NN in/IN Parliament./NNP
+
+Tories/NNPS Lib/NNP Dems/NNP and/CC some/DT Labour/NNP MPs/NNP are/VBP poised/VBN to/TO vote/VB against/IN the/DT plans./NN
+Mr/NNP Clarke/NNP says/VBZ the/DT powers/NNS are/VBP needed/VBN to/TO counter/VB terror/NN threats./NN
+Opponents/NNS say/VBP only/JJ judges/NNS not/RB politicians/NNS should/MD be/VB able/JJ to/TO order/VB detention/NN of/IN UK/NNP citizens./NN
+The/DT government/NN is/VBZ expected/VBN to/TO win/VB Wednesday's/NNP vote/NN in/IN the/DT Commons/NNPS but/CC faces/VBZ a/DT battle/NN in/IN the/DT House/NNP of/IN Lords./NNP
+
+The/DT Prevention/NNP of/IN Terrorism/NNP Bill/NNP was/VBD published/VBN on/IN Tuesday./NNP
+It/PRP proposes/VBZ "control/NN orders"/NN which/WDT would/MD mean/VB house/NN arrest/NN in/IN the/DT most/RBS serious/JJ cases/NNS and/CC curfews/NNS electronic/JJ tagging/NN and/CC limits/NNS on/IN telephone/NN and/CC internet/JJ access/NN for/IN other/JJ suspects./NN
+
+The/DT two/CD opposition/NN parties/NNS are/VBP particularly/RB worried/VBN that/IN the/DT control/NN orders/NNS would/MD initially/RB be/VB imposed/VBN on/IN the/DT say-so/NN of/IN the/DT home/NN secretary/NN rather/RB than/IN a/DT judge./NN
+Tory/NNP shadow/NN home/NN secretary/NN David/NNP Davis/NNP warned/VBD of/IN the/DT potential/NN for/IN miscarriages/NNS of/IN justice/NN like/IN the/DT Guildford/NNP Four/CD -/: for/IN which/WDT Tony/NNP Blair/NNP recently/RB apologised/VBD -/: as/IN a/DT result/NN of/IN the/DT pressure/NN on/IN politicians/NNS to/TO lock/VB up/RP terror/NN suspects./NN
+"Those/NN pressures/NNS would/MD be/VB much/RB more/JJR for/IN a/DT politician/NN than/IN they/PRP would/MD on/IN a/DT judge/NN and/CC that's/NNS why/WRB we/PRP have/VBP serious/JJ concerns/NNS abut/NN that/WDT approach"/NN he/PRP told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN programme./NN
+
+Mr/NNP Clarke/NNP says/VBZ he/PRP does/VBZ not/RB intend/VB to/TO use/VB the/DT house/NN arrest/NN powers/NNS now/RB -/: even/RB for/IN the/DT 11/CD current/JJ terror/NN detainees./NN
+He/PRP also/RB said/VBD that/IN any/DT decision/NN he/PRP made/VBD would/MD be/VB reviewed/VBN by/IN a/DT judge/NN within/IN seven/CD days./NN
+The/DT foreign/JJ terror/NN suspects/VBZ currently/RB detained/VBD are/VBP mostly/RB held/VBN at/IN London's/NNP Belmarsh/NNP prison./NN
+They/PRP are/VBP held/VBN under/IN laws/NNS which/WDT the/DT Law/NNP Lords/NNPS have/VBP ruled/VBN break/VB human/JJ rights/NNS rules/NNS -/: and/CC which/WDT are/VBP due/JJ to/TO expire/VB on/IN 14/CD March./NNP
+
+The/DT new/JJ powers/NNS designed/VBN to/TO replace/VB the/DT existing/VBG laws/NNS and/CC meet/VB the/DT Law/NNP Lords'/NNP concerns/NNS would/MD apply/VB to/TO British/JJ as/RB well/RB as/IN foreign/JJ terror/NN suspects./NN
+Critics/NNS say/VBP that/IN giving/VBG politicians/NNS the/DT power/NN to/TO deprive/VB UK/NNP citizens/NNS of/IN their/PRP$ freedom/NN is/VBZ the/DT biggest/JJS attack/NN on/IN civil/JJ liberties/NNS for/IN 300/CD years./NN
+Opposition/NNP MPs/NNP are/VBP also/RB angry/JJ they/PRP will/MD have/VB only/RB two/CD days/NNS -/: Wednesday/NNP and/CC next/JJ Monday/NNP -/: to/TO debate/VB the/DT new/JJ plans/NNS before/IN they/PRP pass/VBP to/TO the/DT House/NNP of/IN Lords./NNP
+But/CC the/DT government/NN says/VBZ the/DT existing/VBG powers/NNS run/VBP out/RP soon/RB so/RB must/MD be/VB replaced/VBN urgently./NN
+
+In/IN a/DT rare/JJ move/NN the/DT Tories/NNPS and/CC Lib/NNP Dems/NNP have/VBP jointly/RB tabled/VBN a/DT motion/NN opposing/VBG the/DT new/JJ bill/NN saying/VBG the/DT house/NN arrest/NN plans/NNS are/VBP "excessive"./NN
+It/PRP argues/VBZ decisions/NNS should/MD be/VB taken/VBN on/IN a/DT higher/JJR standard/JJ of/IN proof/NN and/CC the/DT plan/NN "wrongly/RB infringes/VBZ the/DT right/NN to/TO liberty"/VB by/IN failing/VBG to/TO bring/VB terrorists/NNS to/TO trial/NN where/WRB there/EX is/VBZ evidence./NN
+Mr/NNP Davis/NNP told/VBD Today/NN "It/NN gives/VBZ a/DT minister/NN for/IN the/DT first/JJ time/NN in/IN modern/JJ history/NN the/DT right/NN to/TO detain/VB without/IN trial/NN without/IN showing/VBG the/DT evidence/NN and/CC indeed/RB in/IN some/DT respects/VBZ almost/RB the/DT allegation/NN against/IN the/DT individual/JJ concerned."/NN
+
+He/PRP questioned/VBD why/WRB there/EX was/VBD "such/NN a/DT rush"/NN to/TO introduce/VB the/DT legislation/NN when/WRB Mr/NNP Clarke/NNP had/VBD indicated/VBN he/PRP was/VBD not/RB planning/VBG to/TO use/VB the/DT house/NN arrest/NN powers/NNS straight/JJ away./NN
+Liberal/NNP Democrat/NNP home/NN affairs/NNS spokesman/NN Mark/NNP Oaten/NNP said/VBD "We/NN believe/VBP it/PRP should/MD be/VB the/DT judge/NN that/WDT takes/VBZ decisions/NNS not/RB politicians."/VBP Mr/NNP Clarke/NNP said/VBD the/DT security/NN services/NNS and/CC police/NN backed/VBD his/PRP$ measures/NNS and/CC it/PRP would/MD be/VB "rash/NN and/CC negligent"/NN to/TO ignore/VB their/PRP$ advice./NN
+Nobody/NN should/MD doubt/VB that/IN terrorists/NNS at/IN home/NN and/CC abroad/RB wanted/VBD to/TO attack/VB the/DT UK/NNP and/CC its/PRP$ interests/NNS he/PRP argued./VB

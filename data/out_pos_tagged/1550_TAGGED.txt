@@ -1,0 +1,27 @@
+English/NN clubs/NNS make/VBP Euro/NNP history/NN
+
+All/DT four/CD of/IN England's/NNP Champions/NNS League/NNP representatives/NNS have/VBP reached/VBN the/DT knockout/NN stages/NNS for/IN the/DT first/JJ time./NN
+
+Arsenal/NN and/CC Chelsea/NNP are/VBP seeded/VBN as/IN group/NN winners/NNS while/IN runners-up/NNS Manchester/NNP United/NNP and/CC Liverpool/NNP are/VBP not./NN
+Rules/NNS stipulate/VBP that/IN teams/NNS from/IN the/DT same/JJ country/NN or/CC group/NN will/MD be/VB kept/VBN apart/RB in/IN the/DT draw/NN on/IN 17/CD December./NNP
+The/DT favourites/NNS are/VBP Chelsea/NNP and/CC Barcelona/NNP and/CC Real/JJ Madrid/NNP the/DT two/CD Milan/NNP sides/NNS Juventus/NNP and/CC Bayern/NNP Munich/NNP are/VBP among/IN the/DT 16/CD still/RB in/IN the/DT hat./NN
+
+Steven/NNP Gerrard's/NNP last-gasp/JJ wonder-strike/JJ secured/VBN qualification/NN for/IN
+
+against/IN Olympiakos/NNP on/IN Wednesday/NNP evening./NN
+
+AC/NNP Milan/NNP Bayer/NNP Leverkusen/NNP Internazionale/NNP Juventus/NNP Lyon./NNP
+
+who/WP had/VBD already/RB qualified/VBN fielded/VBD a/DT second-string/JJ side/NN and/CC went/VBD down/RB 3-0/JJ to/TO Fenerbahce./NNP
+
+AC/NNP Milan/NNP Bayer/NNP Leverkusen/NNP Internazionale/NNP Juventus/NNP Monaco./NNP
+
+On/IN Tuesday/NNP
+
+finished/VBD top/NN of/IN their/PRP$ group/NN with/IN a/DT 5-1/CD win/NN over/IN the/DT Rosenborg/NNP after/IN drawing/VBG four/CD of/IN their/PRP$ first/JJ five/CD matches./NN
+
+Barcelona/NNP Bayern/NNP Munich/NNP Porto/NNP Real/JJ Madrid/NNP Werder/NNP Bremen/NNP
+
+who/WP had/VBD already/RB qualified/VBN lost/VBD 2-1/JJ to/TO Porto/NNP as/IN Jose/NNP Mourinho/NNP made/VBD an/DT unhappy/JJ return/NN to/TO his/PRP$ former/JJ club./NN
+
+Barcelona/NNP Bayern/NNP Munich/NNP PSV/NNP Eindhoven/NNP Real/JJ Madrid/NNP Werder/NNP Bremen./NNP

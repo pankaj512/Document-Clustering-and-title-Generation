@@ -1,0 +1,16 @@
+Hotspot/NN users/NNS gain/VBP free/JJ net/JJ calls/VBZ
+
+People/NNS using/VBG wireless/JJ net/JJ hotspots/NNS will/MD soon/RB be/VB able/JJ to/TO make/VB free/JJ phone/NN calls/NNS as/RB well/RB as/IN surf/NN the/DT net./NN
+
+Wireless/NNP provider/NN Broadreach/NNP and/CC net/JJ telephony/NN firm/NN Skype/JJ are/VBP rolling/VBG out/RP a/DT service/NN at/IN 350/CD hotspots/NNS around/IN the/DT UK/NNP this/DT week./NN
+Users/NNS will/MD need/VB a/DT Skype/JJ account/NN -/: downloadable/JJ for/IN free/JJ -/: and/CC they/PRP will/MD then/RB be/VB able/JJ to/TO make/VB net/JJ calls/NNS via/IN wi-fi/JJ without/IN paying/VBG for/IN net/JJ access./NN
+Skype/JJ allows/VBZ people/NNS to/TO make/VB free/JJ PC-based/JJ calls/VBZ to/TO other/JJ Skype/JJ users./NN
+
+Users/NNS of/IN the/DT system/NN can/MD also/RB make/VB calls/VBZ to/TO landlines/NNS and/CC mobiles/NNS for/IN a/DT fee./NN
+The/DT system/NN is/VBZ gaining/VBG in/IN popularity/NN and/CC now/RB has/VBZ 28/CD million/CD users/NNS around/IN the/DT world./NN
+Its/PRP$ paid/VBN service/NN -/: dubbed/VBN Skype/JJ Out/IN -/: has/VBZ so/RB far/RB attracted/VBN 940000/CD users./NN
+It/PRP plans/VBZ to/TO add/VB more/RBR paid/JJ services/NNS with/IN forthcoming/JJ launches/NNS of/IN video/NN conferencing/VBG voice/NN mail/NN and/CC Skype/JJ In/IN a/DT service/NN which/WDT would/MD allow/VB users/NNS to/TO receive/VB phone/NN calls/NNS from/IN landlines/NNS and/CC mobiles./NN
+London-based/JJ software/NN developer/NN Connectotel/NNP has/VBZ unveiled/VBN software/NN that/WDT will/MD expand/VB the/DT SMS/NNP functions/NNS of/IN Skype/JJ allowing/VBG users/NNS to/TO send/VB text/NN messages/NNS to/TO mobile/JJ phones/NNS from/IN the/DT service./NN
+Broadreach/NNP Networks/NNP has/VBZ around/IN two/CD million/CD users/NNS and/CC hotspots/NNS in/IN places/NNS such/JJ as/IN Virgin/NNP Megastores/NNP the/DT Travelodge/NNP chain/NN of/IN hotels/NNS and/CC all/DT London's/NNP major/JJ rail/NN terminals./NN
+The/DT company/NN is/VBZ due/JJ to/TO launch/VB wi-fi/JJ on/IN Virgin/NNP Trains/NNS later/RB in/IN the/DT year./NN
+"Skype's/NN success/NN at/IN spreading/VBG the/DT world/NN about/IN internet/JJ telephony/NN is/VBZ well-known/JJ and/CC we/PRP are/VBP delighted/JJ to/TO be/VB offering/VBG free/JJ access/NN to/TO Skype/JJ users/NNS in/IN our/PRP$ hotspots"/NN commented/VBD Broadreach/NNP chief/NN executive/NN Magnus/NNP McEwen-King./NNP

@@ -1,0 +1,34 @@
+Borders/NNS 19-20/JJ Ulster/NNP
+
+Ulster/NNP clung/NN on/IN for/IN a/DT morale-boosting/JJ Celtic/NNP League/NNP win/VB over/IN bottom/NN club/NN Borders/NNS at/IN Netherdale/NNP on/IN Friday/NNP night./NN
+
+A/DT late/JJ try/NN by/IN Borders/NNS substitute/NN Jonny/NNP Weston/NNP had/VBD set/VBN up/RP a/DT dramatic/JJ finish/NN but/CC the/DT Scottish/JJ side/NN could/MD not/RB complete/VB the/DT fightback./NN
+Ulster/NNP had/VBD led/VBN 20-6/JJ with/IN tries/VBZ from/IN Paul/NNP Steinmetz/NNP and/CC Bryn/NNP Cunningham./NNP
+But/CC the/DT Irish/JJ province/NN failed/VBD to/TO add/VB to/TO the/DT tally/NN in/IN the/DT second/JJ half/NN and/CC ended/VBD up/RP relieved/VBN to/TO get/VB the/DT win/NN to/TO lift/VB them/PRP to/TO eighth/JJ place/NN in/IN the/DT table./NN
+Borders/NNS had/VBD edged/VBN ahead/RB with/IN a/DT sixth-minute/JJ penalty/NN by/IN Charlie/NNP Hore/NNP -/: only/RB to/TO hand/VB the/DT visitors/NNS the/DT initiative/NN via/IN a/DT gift/NN try./NN
+Calum/NNP MacRae/NNP surrendered/VBD possession/NN before/IN centre/NN Steinmetz/NNP sent/VBD a/DT chip/NN into/IN the/DT danger/NN zone./NN
+Substitute/NNP Joe/NNP Pattison/NNP -/: who/WP had/VBD come/VBN on/IN for/IN the/DT injured/VBN Gareth/NNP Morton/NNP -/: wrongly/RB thought/VBD the/DT ball/NN was/VBD trickling/VBG out/IN of/IN play/NN and/CC eased/VBD up/RP on/IN the/DT chase./NN
+
+The/DT speedy/JJ Steinmetz/NNP had/VBD other/JJ ideas/NNS and/CC he/PRP raced/VBD up/RP to/TO get/VB the/DT vital/JJ touch/NN in/IN the/DT nick/NN of/IN time/NN giving/VBG Adam/NNP Larkin/NNP an/DT easy/JJ conversion./NN
+Ally/NNP Warnock/NNP clawed/VBD back/RB three/CD points/NNS for/IN Borders/NNS but/CC they/PRP were/VBD soon/RB hit/VBN by/IN another/DT double-blow./JJ
+First/NNP Mark/NNP Blair/NNP was/VBD yellow/JJ carded/VBN for/IN killing/VBG the/DT ball/NN on/IN the/DT ground/NN and/CC then/RB full-back/JJ Cunningham/NNP bagged/VBD the/DT second/JJ touchdown/NN in/IN the/DT wake/NN of/IN fine/JJ work/NN by/IN skipper/NN Andy/NNP Ward./NNP
+Larkin/NNP again/RB added/VBD the/DT extras./NN
+Even/RB worse/JJR was/VBD to/TO come/VB for/IN Borders/NNS when/WRB Larkin/NNP kicked/VBD two/CD more/JJR penalties/NNS just/RB before/IN the/DT break/NN the/DT second/NN of/IN which/WDT also/RB led/VBD to/TO Kelly/NNP Brown/NNP being/VBG sin-binned./JJ
+The/DT hosts/NNS gave/VBD themselves/PRP a/DT glimmer/NN of/IN hope/NN immediately/RB after/IN the/DT restart/NN however/RB when/WRB Warnock/NNP struck/VBD a/DT penalty/NN at/IN the/DT other/JJ end./NN
+And/CC he/PRP repeated/VBD the/DT feat/NN to/TO set/VB up/RP the/DT tense/JJ finale./NN
+Ulster/NNP coach/NN mark/NN McCall/NNP said/VBD he/PRP was/VBD delighted/JJ to/TO get/VB the/DT victory./NN
+"Borders/NN are/VBP a/DT tougher/JJR proposition/NN this/DT year/NN in/IN spite/NN of/IN the/DT fact/NN that/IN they/PRP have/VBP not/RB had/VBN a/DT victory/NN in/IN some/DT time"/NN said/VBD McCall./NNP
+"In/NN the/DT first/JJ 20/CD minutes/NNS we/PRP were/VBD edgy/JJ but/CC in/IN the/DT second/JJ 20/CD minutes/NNS we/PRP played/VBD some/DT of/IN our/PRP$ best/JJS rugby/NN this/DT season/NN and/CC scored/VBD two/CD good/JJ tries."/NN
+
+Morton/NNP Moffat/NNP MacRae/NNP Hore/NNP Berthinussen/NNP Warnock/NNP Moore/NNP Thomson/NNP Ford/NNP Douglas/NNP Blair/NNP Stewart/NNP Gray/NNP Brown/NNP McEntee./NNP
+
+Kay/NNP Parr/NNP McGee/NNP Rennick/NNP Weston/NNP Millar/NNP Pattison./NNP
+
+Cunningham/NNP Maxwell/NNP Bell/NNP Steinmetz/NNP Howe/NNP Larkin/NNP Campbell/NNP S./NNP
+Best/JJS Shields/NNP Moore/NNP Frost/NNP McCullough/NNP Ward/NNP Feather/NNP N./NNP
+Best./NNP
+
+Brady/NNP McCormick/NNP Longwell/NNP Browne/NNP Doak/NNP S./NNP
+Young/NNP Bowe./NNP
+
+Phil/NNP Fear/NN (WRU)/NN

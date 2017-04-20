@@ -1,0 +1,48 @@
+Chelsea/NNP clinch/NN cup/NN in/IN extra-time/JJ
+
+(after/NN extra-time/JJ -/: score/NN at/IN 90/CD mins/NNS 1-1)/JJ
+
+John/NNP Arne/NNP Riise/NNP volleyed/VBD Liverpool/NNP ahead/RB after/IN 45/CD seconds/NNS but/CC Steven/NNP Gerrard/NNP scored/VBD a/DT 79th-minute/CD own/JJ goal./NN
+Blues/NNS boss/NN Jose/NNP Mourinho/NNP was/VBD sent/VBN off/RP for/IN taunting/VBG Liverpool/NNP fans/NNS after/IN the/DT goal/NN and/CC he/PRP watched/VBD on/IN television/NN as/IN his/PRP$ side/NN went/VBD on/RP to/TO win/VB the/DT game./NN
+Drogba/NNP and/CC Kezman/NNP scored/VBD from/IN close/NN range/NN before/IN Antonio/NNP Nunez's/NNP header/NN made/VBN for/IN a/DT tense/JJ finale./NN
+It/PRP was/VBD an/DT amazing/JJ climax/NN which/WDT gave/VBD Mourinho/NNP his/PRP$ first/JJ silverware/NN as/IN Chelsea/NNP manager./NN
+Yet/CC it/PRP was/VBD controversial/JJ too/RB after/IN Mourinho's/NNP sending/VBG off/RP apparently/RB for/IN putting/VBG his/PRP$ finger/NN to/TO his/PRP$ lips/NNS to/TO hush/VB the/DT Liverpool/NNP fans./NN
+There/EX was/VBD no/DT hushing/VBG them/PRP after/IN the/DT extraordinary/JJ opening/NN in/IN which/WDT the/DT Reds/NNS took/VBD a/DT stunning/JJ lead/NN inside/IN the/DT first/JJ minute./NN
+
+Riise/NNP could/MD not/RB have/VB connected/VBN any/RB better/RBR with/IN Morientes'/NNP cross/VB as/IN he/PRP smashed/VBD a/DT left-foot/JJ volley/NN past/IN Petr/NNP Cech./NNP
+The/DT goal/NN the/DT quickest-ever/NN in/IN a/DT League/NNP Cup/NNP final/NN stunned/VBD a/DT Blues/NNPS side/NN whose/WP$ previously/RB rock-solid/JJ confidence/NN had/VBD been/VBN shaken/VBN by/IN consecutive/JJ losses/NNS to/TO Newcastle/NNP and/CC Barcelona/NNP in/IN the/DT previous/JJ week./NN
+The/DT Blues'/NNP attacking/VBG chances/NNS were/VBD limited/JJ and/CC Jerzy/NNP Dudek/NNP was/VBD equal/JJ to/TO Frank/NNP Lampard's/NNP powerfully-struck/JJ drive/NN and/CC Drogba's/NNP low/JJ shot./NN
+Despite/IN their/PRP$ frustration/NN Chelsea/NNP began/VBD to/TO dominate/VB midfield/NN without/IN seriously/RB threatening/VBG to/TO break/VB Liverpool's/NNP well-organised/JJ defence./NN
+
+Joe/NNP Cole/NNP had/VBD a/DT shot/NN blocked/VBN and/CC a/DT promising/VBG Damien/NNP Duff/NNP break/VB was/VBD halted/VBN by/IN a/DT good/JJ tackle/NN from/IN Djimi/NNP Traore/NNP but/CC the/DT Reds/NNS reached/VBD half-time/NN without/IN any/DT major/JJ scares./NN
+The/DT Blues/NNPS began/VBD the/DT second/JJ half/NN with/IN more/JJR urgency/NN and/CC pegged/VBD Liverpool/NNP back./NN
+Nevertheless/RB Liverpool/NNP were/VBD living/VBG dangerously/RB and/CC they/PRP needed/VBD a/DT fantastic/JJ double/JJ save/NN from/IN Dudek/NNP on/IN 54/CD minutes/NNS first/RB at/IN full/JJ stretch/NN from/IN Gudjohnsen's/NNP header/NN then/RB to/TO smother/VB William/NNP Gallas'/NNP follow-up./JJ
+And/CC despite/IN Chelsea's/NNP possession/NN it/PRP was/VBD Liverpool/NNP who/WP fashioned/VBD the/DT next/JJ clear/JJ opportunity/NN as/IN Luis/NNP Garcia/NNP fed/VBD Dietmar/NNP Hamann/NNP whose/WP$ shot/NN forced/VBD a/DT superb/NN save/NN from/IN Cech./NNP
+And/CC the/DT Blues'/NNP increasingly/RB adventurous/JJ approach/VBP saw/VBD Liverpool/NNP earn/VB another/DT chance/NN on/IN the/DT break/NN on/IN 75/CD minutes/NNS as/IN Paulo/NNP Ferreira/NNP denied/VBD Gerrard/NNP with/IN a/DT last-ditch/JJ tackle./NN
+But/CC Gerrard/NNP was/VBD on/IN the/DT scoresheet/NN minutes/NNS later/RB -/: in/IN the/DT most/RBS unfortunate/JJ fashion/NN -/: as/IN he/PRP inadvertently/RB deflected/VBD Ferrerira's/NNP free-kick/JJ past/NN his/PRP$ own/JJ keeper/NN and/CC in/IN off/RP the/DT post/NN to/TO bring/VB Chelsea/NNP level./NN
+That/DT prompted/VBD Mourinho's/NNP reaction/NN which/WDT saw/VBD him/PRP sent/VBD off/RP but/CC Chelsea/NNP still/RB pressed/VBD and/CC Duff/NNP had/VBD a/DT chance/NN to/TO win/VB the/DT game/NN with/IN seven/CD minutes/NNS remaining./NN
+Dudek/NNP saved/VBD bravely/RB at/IN the/DT Irishman's/NNP feet/NNS while/IN Milan/NNP Baros/NNP shot/NN wildly/RB at/IN the/DT other/JJ end/NN to/TO ensure/VB extra/JJ time./NN
+Drogba/NNP almost/RB headed/VBD Chelsea/NNP in/IN front/NN two/CD minutes/NNS into/IN extra-time/JJ but/CC the/DT striker/NN saw/VBD the/DT ball/NN rebound/NN off/IN the/DT post./NN
+But/CC seconds/NNS after/IN the/DT half-time/NN interval/JJ Drogba/NNP made/VBD no/DT mistake/NN picking/VBG the/DT ball/NN up/RP from/IN Glen/NNP Johnson's/NNP long/JJ throw/VBP inside/RP the/DT six-yard/JJ box/NN and/CC sidefooting/VBG home./NN
+And/CC Kezman/NNP appeared/VBD to/TO have/VB made/VBN the/DT game/NN safe/JJ as/IN he/PRP netted/VBD from/IN close/NN range/NN after/IN Gudjohnsen's/NNP cross/VB in/IN the/DT 110th/JJ minute./NN
+There/EX was/VBD still/RB drama/NN as/IN Nunez/NNP beat/VB Cech/NNP to/TO a/DT high/JJ ball/NN with/IN six/CD minutes/NNS remaining/VBG to/TO head/VB his/PRP$ side/NN level/NN but/CC despite/IN Liverpool's/NNP desperate/JJ attacks/NNS Chelsea/NNP clung/NN on/IN to/TO win./VB
+
+Dudek/NNP Finnan/NNP Carragher/NNP Hyypia/NNP Traore/NNP (Biscan/NN 67)/CD Luis/NNP Garcia/NNP Gerrard/NNP Hamann/NNP Riise/NNP Kewell/NNP (Nunez/NN 56)/CD Morientes/NNP (Baros/NN 74)./CD
+
+Subs/NNP Not/RB Used/VBD Pellegrino/NNP Carson./NNP
+
+Hyypia/NNP Traore/NNP Hamann/NNP Carragher./NNP
+
+Riise/NNP 1/CD Nunez/NNP 113./CD
+
+Cech/NNP Paulo/NNP Ferreira/NNP Ricardo/NNP Carvalho/NNP Terry/NNP Gallas/NNP (Kezman/NN 74)/CD Jarosik/NNP (Gudjohnsen/NN 45)/CD Lampard/NNP Makelele/NNP Cole/NNP (Johnson/NN 81)/CD Drogba/NNP Duff./NNP
+
+Subs/NNP Not/RB Used/VBD Pidgeley/NNP Tiago./NNP
+
+Lampard/NNP Kezman/NNP Drogba/NNP Duff./NNP
+
+Gerrard/NNP 79/CD og/NN Drogba/NNP 107/CD Kezman/NNP 112./CD
+
+78000/CD
+
+S/NNP Bennett/NNP (Kent)./NN

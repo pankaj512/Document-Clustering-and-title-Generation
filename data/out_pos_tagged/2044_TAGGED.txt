@@ -1,0 +1,29 @@
+Britons/NNP growing/VBG 'digitally/RB obese'/NN
+
+Gadget/NN lovers/NNS are/VBP so/RB hungry/JJ for/IN digital/JJ data/NNS many/JJ are/VBP carrying/VBG the/DT equivalent/NN of/IN 10/CD trucks/NNS full/JJ of/IN paper/NN in/IN "weight"./NN
+
+Music/NN images/NNS e-mails/NNS and/CC texts/NNS are/VBP being/VBG hoarded/VBN on/IN mobiles/NNS cameras/NNS laptops/NNS and/CC PDAs/NNP (Personal/JJ Digital/NNP Assistants)/NNP a/DT Toshiba/NNP study/NN found./NN
+It/PRP found/VBD that/IN more/JJR than/IN 60%/CD kept/VBD 1000/CD to/TO 2000/CD music/NN files/NNS on/IN their/PRP$ devices/NNS making/VBG the/DT UK/NNP "digitally/RB fat"./NN
+"Virtual/JJ weight"/NN measurements/NNS are/VBP based/VBN on/IN research/NN by/IN California/NNP Institute/NNP of/IN Technology/NNP professor/NN Roy/NNP Williams./NNP
+He/PRP calculated/VBD physical/JJ comparisons/NNS for/IN digital/JJ data/NNS in/IN the/DT mid-1990s./JJ
+He/PRP worked/VBD out/RP that/IN one/CD gigabyte/NN (1000000000/CD bytes)/NN was/VBD the/DT equivalent/NN of/IN a/DT pick-up/JJ truck/NN filled/VBN with/IN paper./NN
+The/DT amount/NN of/IN data/NNS people/NNS are/VBP squirreling/VBG away/RB on/IN their/PRP$ gadgets/NNS is/VBZ clearly/RB a/DT sign/NN that/IN people/NNS are/VBP finding/VBG more/JJR things/NNS to/TO do/VB with/IN their/PRP$ shiny/JJ things./NN
+
+If/IN digital/JJ hoarding/NN habits/NNS continue/VBP on/IN this/DT scale/NN people/NNS could/MD be/VB carrying/VBG around/IN a/DT "digitally/RB obese"/NN 20/CD gigabytes/NNS by/IN next/JJ year./NN
+"Britain/NN has/VBZ become/VBN a/DT nation/NN of/IN information/NN hoarders/NNS with/IN a/DT ferocious/JJ appetite/NN for/IN data"/NN said/VBD Martin/NNP Larsson/NNP general/JJ manager/NN of/IN Toshiba's/JJ European/JJ storage/NN device/NN division./NN
+
+"As/NN storage/NN capabilities/NNS increase/NN and/CC the/DT features/NNS and/CC functionalities/NNS of/IN mobile/JJ devices/NNS expand/VBP to/TO support/VB movie/NN files/NNS and/CC entire/JJ libraries/NNS of/IN multi-media/JJ content/NN we/PRP will/MD all/DT become/JJ virtually/RB obese"/NN he/PRP told/VBD the/DT BBC/NNP News/NNP website./NN
+The/DT survey/NN reflects/VBZ the/DT increasing/VBG trend/NN for/IN portable/JJ devices/NNS with/IN built-in/JJ hard/JJ drives/NNS like/IN music/NN and/CC media/NNS players/NNS from/IN Apple/NNP Creative/NNP Labs/NNPS Archos/NNP iRiver/NN and/CC others./NN
+This/DT trend/NN is/VBZ set/VBN to/TO grow/VB according/VBG to/TO analysts./NN
+They/PRP suggest/VBP the/DT number/NN of/IN hard/JJ drives/NNS in/IN consumer/NN electronics/NNS gadgets/NNS could/MD grow/VB from/IN 17/CD million/CD last/JJ year/NN to/TO 55/CD million/CD in/IN 2006./CD
+"Consumers/NN are/VBP driving/VBG the/DT move/NN towards/IN smaller/JJR devices/NNS that/WDT have/VBP greater/JJR functionality/NN and/CC industry/NN is/VBZ trying/VBG to/TO keep/VB up"/NN said/VBD Mr/NNP Larsson./NNP
+"People/NN are/VBP looking/VBG for/IN more/JJR than/IN just/RB phone/NN calls/NNS and/CC text/NN messages/NNS on/IN the/DT move/NN they/PRP want/VBP things/NNS like/IN web/NN browsing/VBG e-mailing/JJ music/NN photos/NNS and/CC more."/NN
+
+Many/JJ are/VBP finding/VBG memory/NN keys/NNS and/CC memory/NN sticks/NNS are/VBP simply/RB not/RB big/JJ enough/RB to/TO hold/VB everything./NN
+
+"Floppies/NN and/CC memory/NN keys/NNS have/VBP their/PRP$ place/NN but/CC they/PRP don't/VBP have/VBP anything/NN like/IN the/DT capacity/NN or/CC flexibility/NN of/IN a/DT hard/JJ drive/NN so/RB are/VBP unable/JJ to/TO meet/VB the/DT demand/NN for/IN more/JJR and/CC more/JJR storage/NN capacity/NN in/IN consumer/NN devices"/NN said/VBD Mr/NNP Larsson./NNP
+The/DT cost/NN of/IN making/VBG hard/RB drives/NNS has/VBZ dropped/VBN and/CC is/VBZ continuing/VBG to/TO do/VB so/RB because/IN of/IN improved/JJ technologies/NNS so/IN they/PRP are/VBP proving/VBG to/TO be/VB more/RBR cost-effective/JJ than/IN other/JJ forms/NNS of/IN memory/NN he/PRP added./VB
+The/DT amount/NN of/IN data/NNS that/WDT can/MD be/VB stored/VBN has/VBZ grown/VBN by/IN 400%/CD in/IN the/DT last/JJ three/CD years/NNS while/IN the/DT cost/NN for/IN every/DT gigabyte/NN has/VBZ fallen/VBN by/IN 80%./CD
+It/PRP is/VBZ also/RB getting/VBG easier/JJR to/TO transfer/VB files/NNS from/IN one/CD device/NN to/TO another/DT which/WDT has/VBZ traditionally/RB been/VBN a/DT slow/JJ and/CC problematic/JJ area./NN
+"Transfer/NN of/IN data/NNS between/IN different/JJ memory/NN types/NNS has/VBZ improved/VBN significantly/RB in/IN recent/JJ times/NNS and/CC will/MD be/VB further/RB helped/VBN by/IN the/DT standards/NNS for/IN hard/JJ drives/NNS which/WDT are/VBP currently/RB being/VBG developed/VBN by/IN the/DT major/JJ manufacturers"/NN said/VBD Mr/NNP Larsson./NNP
+According/VBG to/TO technology/NN analysts/NNS IDC/NNP a/DT fifth/NN of/IN all/DT hard/JJ drives/NNS produced/VBN will/MD be/VB used/VBN in/IN consumer/NN electronics/NNS by/IN 2007./CD

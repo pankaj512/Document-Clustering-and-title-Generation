@@ -1,0 +1,9 @@
+Tottenham/NNP bid/NN &#1638m/CD for/IN Forest/NNP duo/NN
+
+Nottingham/NNP Forest/NNP have/VBP confirmed/VBN they/PRP have/VBP received/VBN an/DT £8m/CD bid/NN from/IN Tottenham/NNP for/IN Andy/NNP Reid/NNP and/CC Michael/NNP Dawson./NNP
+
+Reid/NNP rejected/VBD a/DT move/NN to/TO Southampton/NNP after/IN Forest/NNP accepted/VBD a/DT cash-plus-players/NNS offer/VBP while/IN Spurs/VBZ had/VBN made/VBN previous/JJ bids/NNS for/IN the/DT 22-year-old./JJ
+Spurs/VBZ had/VBN also/RB made/VBN an/DT undisclosed/JJ offer/NN for/IN 21-year-old/JJ defender/NN Dawson./NNP
+Forest/NNP chief/NN executive/NN Mark/NNP Arthur/NNP said/VBD "We've/NN received/VBD an/DT £8m/CD bid/NN from/IN Spurs/VBZ for/IN the/DT two/CD players/NNS and/CC we're/NN considering/VBG the/DT offer."/NN Southampton's/NNP offer/NN for/IN Republic/NNP of/IN Ireland/NNP international/JJ Reid/NNP comprised/VBD £3m-plus/CD and/CC two/CD players/NNS -/: Brett/NNP Ormerod/NNP and/CC Darren/NNP Kenton./NNP
+
+Spurs/VBZ had/VBN seen/VBN previous/JJ bids/NNS of/IN £3m/CD £4m/CD and/CC £5m/CD for/IN Reid/NNP rejected/VBN by/IN the/DT Championship/NNP club./NN

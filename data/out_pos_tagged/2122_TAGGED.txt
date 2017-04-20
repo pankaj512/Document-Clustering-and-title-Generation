@@ -1,0 +1,24 @@
+Napster/NNP offers/VBZ rented/VBN music/NN to/TO go/VB
+
+Music/NNP downloading/VBG for/IN those/DT that/WDT have/VBP rejected/VBN the/DT free/JJ peer/NN to/TO peer/VB services/NNS can/MD be/VB a/DT costly/JJ business./NN
+
+The/DT cost/NN of/IN paying/VBG even/RB as/RB little/JJ as/IN 70p/CD per/IN track/NN can/MD add/VB up/RP particularly/RB for/IN those/DT people/NNS who/WP own/JJ one/CD of/IN the/DT new/JJ generation/NN of/IN players/NNS that/WDT can/MD store/VB thousands/NNS of/IN songs./NN
+Paying/VBG per/IN track/NN for/IN music/NN is/VBZ becoming/VBG as/RB outmoded/JJ as/IN paying/VBG per/IN minute/NN for/IN internet/JJ access/NN and/CC alternative/NN monthly/JJ or/CC yearly/JJ subscription/NN models/NNS are/VBP springing/VBG up/RP as/IN a/DT more/RBR convenient/JJ and/CC ultimately/RB cheaper/JJR way/NN of/IN owning/VBG music./NN
+
+"Music/JJ fans/NNS are/VBP moving/VBG away/RB from/IN buying/VBG the/DT traditional/JJ bundled/VBN package/NN of/IN a/DT dozen/NN or/CC more/JJR songs/NNS that/IN we/PRP used/VBD to/TO call/VB an/DT album/NN to/TO newer/JJR ways/NNS that/WDT fit/VBP their/PRP$ lifestyle/NN either/CC single/JJ tracks/NNS or/CC subscriptions/NNS services"/NN said/VBD Paul/NNP Myers/NNP chief/NN executive/NN of/IN Wippit/NNP a/DT UK-based/JJ music/NN download/NN service./NN
+While/IN iTunes/NNS is/VBZ doing/VBG good/JJ business/NN with/IN its/PRP$ sales/NNS of/IN individual/JJ tracks/VBZ to/TO iPod/NN owners/NNS others/NNS are/VBP questioning/VBG whether/IN the/DT concept/NN of/IN owning/VBG music/NN is/VBZ even/RB valid/JJ in/IN the/DT digital/JJ age./NN
+Napster/NNP is/VBZ due/JJ to/TO launch/VB a/DT new/JJ rental/JJ subscription/NN service/NN -/: dubbed/VBN Napster/NNP to/TO Go/VB in/IN the/DT UK/NNP in/IN the/DT next/JJ few/JJ months./NN
+The/DT service/NN can/MD be/VB used/VBN on/IN players/NNS that/DT support/NN Microsoft/NNP Windows/NNS latest/JJS Digital/NNP Rights/NNP Management/NNP technology/NN known/VBN as/IN Janus./NNP
+This/DT includes/VBZ players/NNS made/VBN by/IN Samsung/NNP Rio/NNP and/CC Creative./NNP
+
+Currently/RB on/IN offer/NN in/IN beta-version/NN in/IN the/DT US/PRP the/DT service/NN costs/NNS $15/CD per/IN month/NN for/IN unlimited/JJ downloads./NN
+The/DT technology/NN ensures/VBZ that/DT music/NN downloaded/VBN to/TO the/DT player/NN only/RB remains/VBZ playable/JJ while/IN the/DT user/NN subscribes/VBZ to/TO the/DT service./NN
+Users/NNS need/VBP to/TO update/VB their/PRP$ license/NN on/IN a/DT monthly/JJ basis/NN or/CC the/DT tunes/NNS will/MD no/RB longer/RB play./NN
+
+This/DT has/VBZ outraged/JJ some/DT digital/JJ music/NN lovers/NNS especially/RB as/IN Napster/NNP already/RB offers/VBZ a/DT cheaper/JJR service/NN for/IN downloading/VBG music/NN to/TO the/DT PC./NNP
+Napster/NN claims/VBZ the/DT higher/JJR price/NN is/VBZ a/DT result/NN of/IN record/NN labels/NNS charging/VBG more/JJR for/IN the/DT to-go/JJ service/NN and/CC says/VBZ it/PRP also/RB offers/VBZ "greater/NN value"/NN for/IN customers./NN
+Mr/NNP Myers/NNP is/VBZ not/RB convinced/VBN a/DT rental/JJ model/NN will/MD work/VB for/IN consumers./NN
+"We've/NN been/VBD offering/NN our/PRP$ unlimited/JJ music/NN subscription/NN service/NN for/IN more/JJR than/IN three/CD years/NNS now/RB and/CC our/PRP$ customers/NNS know/VBP what/WP they/PRP want./VBP
+Format/NN interoperability/JJ excellent/JJ value/NN and/CC the/DT reassurance/NN that/DT music/NN purchased/VBN from/IN Wippit/NNP is/VBZ theirs/PRP to/TO keep/VB and/CC enjoy/VB on/IN whatever/WDT device/NN they/PRP choose"/VBP he/PRP said./VB
+"Who/NN wants/VBZ to/TO download/VB a/DT track/NN that/DT won't/NN play/VB next/JJ month/NN if/IN you/PRP decide/VBP to/TO unsubscribe/VB to/TO the/DT service/NN or/CC change/NN portable/JJ player/NN for/IN an/DT iPod/NN or/CC the/DT latest/JJS mobile/JJ phone?"/NN Wippit/NNP offers/VBZ a/DT download/NN subscription/NN service/NN for/IN £4.99/CD per/IN month/NN or/CC £50/CD per/IN year./NN
+It/PRP has/VBZ a/DT catalogue/NN of/IN around/IN 60000/CD songs./NN

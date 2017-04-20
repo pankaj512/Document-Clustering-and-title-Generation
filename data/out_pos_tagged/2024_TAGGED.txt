@@ -1,0 +1,21 @@
+Computer/NNP grid/NN to/TO help/VB the/DT world/NN
+
+Your/PRP$ computer/NN can/MD now/RB help/VB solve/VB the/DT world's/NNS most/RBS difficult/JJ health/NN and/CC social/JJ problems./NN
+
+Launched/VBN this/DT week/NN the/DT World/NNP Community/NNP Grid/NNP will/MD use/VB idle/JJ computer/NN time/NN to/TO test/VB solutions/NNS to/TO these/DT problems./NN
+The/DT donated/VBN processor/NN cycles/NNS will/MD help/VB the/DT WCG/NNP create/VBP virtual/JJ supercomputers/NNS via/IN the/DT net./NN
+The/DT idea/NN follows/VBZ the/DT success/NN of/IN other/JJ similar/JJ projects/NNS that/WDT have/VBP used/VBN the/DT untapped/JJ processing/NN power/NN of/IN millions/NNS of/IN desktop/NN PCs./NNP
+One/CD of/IN the/DT most/RBS successful/JJ collaboration/NN projects/NNS was/VBD Seti@home/NNP run/VBN by/IN the/DT Search/NN for/IN Extra/JJ Terrestrial/NNP Life/NNP project/NN which/WDT sorted/VBD through/IN radio/NN signals/NNS looking/VBG for/IN signs/NNS of/IN alien/JJ communication./NN
+
+Anyone/NN can/MD volunteer/VB to/TO donate/VB the/DT spare/JJ time/NN of/IN their/PRP$ computers/NNS by/IN downloading/VBG a/DT special/JJ screensaver/NN from/IN the/DT WGC/NNP website./NN
+Once/RB installed/VBN the/DT virtual/JJ terminal/NN gets/VBZ a/DT chunk/NN of/IN the/DT computational/JJ task/NN to/TO process/NN and/CC reports/NNS back/RB after/IN completing/VBG that/DT task./NN
+The/DT first/JJ WCG/NNP problem/NN being/VBG tackled/VBN will/MD be/VB the/DT Human/NNP Proteome/NNP Folding/JJ Project/NNP which/WDT hopes/VBZ to/TO identify/VB the/DT ways/NNS that/IN the/DT proteins/NNS in/IN our/PRP$ body/NN fold./NN
+
+The/DT subjects/NNS of/IN study/NN are/VBP being/VBG selected/VBN by/IN an/DT international/JJ advisory/JJ board/NN of/IN experts/NNS specializing/VBG in/IN health/NN sciences/NNS and/CC technology./NN
+The/DT body/NN will/MD evaluate/VB proposals/NNS from/IN leading/VBG research/NN public/NN and/CC not-for-profit/JJ organizations/NNS and/CC is/VBZ expected/VBN to/TO oversee/VB up/IN to/TO six/CD projects/NNS a/DT year./NN
+Organisations/NNP also/RB represented/VBD on/IN the/DT board/NN include/VBP the/DT United/NNP Nations/NNPS Development/NNP Programme/NNP and/CC the/DT World/NNP Health/NNP Organisation./NNP
+
+"The/NNP World/NNP Community/NNP Grid/NNP will/MD enable/VB researchers/NNS around/IN the/DT globe/NN to/TO gather/VB and/CC analyze/VB unprecedented/JJ quantities/NNS of/IN data/NNS to/TO help/VB address/VB important/JJ global/JJ issues"/NN said/VBD Elain/NNP Gallin/NNP program/NN director/NN for/IN medical/JJ research/NN at/IN the/DT Doris/NNP Duke/NNP Charitable/JJ Foundation./NNP
+"[It]/NN will/MD inspire/VB us/PRP to/TO look/VB beyond/IN the/DT technological/JJ limitations/NNS that/WDT have/VBP historically/RB restricted/VBN us/PRP from/IN addressing/VBG some/DT of/IN our/PRP$ most/RBS intractable/JJ problems"/NN she/PRP added./VBP
+IBM/NNP has/VBZ donated/VBN the/DT hardware/NN software/NN technical/JJ services/NNS and/CC expertise/NN to/TO build/VB the/DT basic/JJ infrastructure/NN for/IN the/DT grid./NN
+The/DT computer/NN company/NN working/VBG with/IN United/NNP Devices/NNPS previously/RB developed/VBN the/DT Smallpox/NNP Research/NNP Grid/NNP which/WDT linked/VBD together/RB more/JJR than/IN two/CD million/CD volunteers/NNS from/IN 226/CD countries/NNS to/TO speed/VB the/DT analysis/NN of/IN some/DT 35/CD million/CD drug/NN molecules/NNS in/IN the/DT search/NN for/IN a/DT treatment/NN for/IN Smallpox./NNP

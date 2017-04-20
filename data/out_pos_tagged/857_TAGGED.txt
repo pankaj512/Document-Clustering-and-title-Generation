@@ -1,0 +1,23 @@
+Casino/NNP Royale/NNP is/VBZ next/JJ Bond/NNP movie/NN
+
+Casino/NNP Royale/NNP author/NN Ian/NNP Fleming's/NNP first/JJ James/NNP Bond/NNP book/NN is/VBZ to/TO be/VB the/DT next/JJ Bond/NNP film/NN with/IN Goldeneye/NNP director/NN Martin/NNP Campbell/NNP behind/IN the/DT camera./NN
+
+It/PRP will/MD be/VB the/DT 21st/JJ James/NNP Bond/NNP film/NN to/TO hit/VB the/DT big/JJ screen/NN and/CC speculation/NN has/VBZ been/VBN rife/JJ over/IN who/WP will/MD play/VB the/DT lead./NN
+Casino/NNP Royale/NNP was/VBD turned/VBN into/IN a/DT spoof/NN spy/NN movie/NN by/IN John/NNP Huston/NNP in/IN 1967/CD with/IN David/NNP Niven/NNP in/IN the/DT lead/NN role./NN
+Pierce/NNP Brosnan/NNP led/VBD the/DT past/JJ four/CD Bond/NNP films/NNS but/CC said/VBD producers/NNS axed/VBD him/PRP after/IN offering/VBG him/PRP the/DT chance/NN to/TO return./VB
+Among/IN the/DT favourites/NNS to/TO take/VB over/RP the/DT coveted/JJ role/NN are/VBP Scottish/JJ actor/NN Dougray/NNP Scott/NNP Oscar/NNP nominee/NN Clive/NNP Owen/NNP and/CC Australian/JJ star/NN Hugh/NNP Jackman./NNP
+Producers/NNS say/VBP no/DT decision/NN has/VBZ yet/RB been/VBN made/VBN on/IN who/WP will/MD become/VB the/DT seventh/JJ actor/NN including/VBG Niven/NNP to/TO play/VB Bond/NNP on/IN film./NN
+Kill/VB Bill/NNP director/NN Quentin/NNP Tarantino/NNP had/VBD talked/VBN of/IN wanting/VBG to/TO take/VB on/RP the/DT Casino/NN Royale/NNP project/NN and/CC said/VBD he/PRP had/VBD spoken/VBN to/TO Brosnan/NNP about/IN it./NN
+
+Shooting/VBG on/IN Casino/NN Royale/NNP is/VBZ expected/VBN to/TO begin/VB once/RB Campbell/NNP has/VBZ finished/VBN work/NN on/IN The/DT Legend/NNP of/IN Zorro/NNP a/DT sequel/NN to/TO The/DT Mask/NN of/IN Zorro/NNP starring/VBG Catherine/NNP Zeta/NNP Jones/NNP and/CC Antonio/NNP Banderas./NNP
+Producers/NNPS Barbara/NNP Broccoli/NNP and/CC Michael/NNP G/NNP Wilson/NNP expect/VBP the/DT film/NN to/TO be/VB released/VBN in/IN 2006./CD
+
+The/DT script/NN will/MD once/RB again/RB be/VB developed/VBN by/IN Neal/NNP Purvis/NNP and/CC Robert/NNP Wade/NNP who/WP have/VBP both/DT worked/VBN on/IN two/CD previous/JJ Bond/NNP movies./NN
+Fleming's/NNP book/NN saw/VBD the/DT introduction/NN of/IN Bond/NNP pitted/VBD against/IN a/DT Russian/JJ spy/NN in/IN a/DT game/NN of/IN baccarat./NN
+Simultaneously/RB a/DT woman/NN arrives/VBZ on/IN the/DT scene/NN to/TO take/VB his/PRP$ eye/NN off/RP the/DT game./NN
+The/DT novel/NN is/VBZ one/CD of/IN Fleming's/NNP most/RBS violent/JJ and/CC sadistic/JJ stories/NNS with/IN 007/CD suffering/VBG a/DT savage/NN beating/VBG from/IN his/PRP$ nemesis/NN Le/NNP Chiffre./NNP
+In/IN addition/NN to/TO the/DT 1967/CD film/NN it/PRP was/VBD also/RB adapted/VBN for/IN television/NN in/IN 1954/CD with/IN actor/NN Barry/NNP Nelson/NNP as/IN an/DT Americanised/JJ "Jimmy"/NN Bond./NNP
+MGM/NNP Vice/NNP Chairman/NNP Chris/NNP McGurk/NNP said/VBD "Martin/NN (Campbell)/NN is/VBZ an/DT incredibly/RB exciting/JJ film-maker./JJ
+Goldeneye/NNP was/VBD a/DT wonderful/JJ movie/NN and/CC helped/VBD reinvigorate/VB the/DT Bond/NNP franchise./NN
+We're/NNP thrilled/VBD to/TO have/VB him/PRP back/RB to/TO direct/VB the/DT newest/JJS Bond."/NNP New/NNP Zealand-born/NNP Campbell/NNP moved/VBD to/TO the/DT UK/NNP in/IN 1966/CD and/CC directed/VBN TV/NN series/NN such/JJ as/IN The/DT Professionals/NNS Minder/NNP and/CC Bergerac./NNP
+His/PRP$ film/NN credits/NNS include/VBP Edge/NNP of/IN Darkness/NN Vertical/JJ Limit/NN and/CC Beyond/IN Borders/NNS which/WDT starred/VBD Angelina/NNP Jolie/NNP and/CC Clive/NNP Owen./NNP

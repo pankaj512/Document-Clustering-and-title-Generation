@@ -1,0 +1,15 @@
+Reliance/NNP unit/NN loses/VBZ Anil/NNP Ambani/NNP
+
+Anil/NNP Ambani/NNP the/DT younger/JJR of/IN the/DT two/CD brothers/NNS in/IN charge/NN of/IN India's/NNP largest/JJS private/JJ company/NN has/VBZ resigned/VBN from/IN running/VBG its/PRP$ petrochemicals/NNS subsidiary./NN
+
+The/DT move/NN is/VBZ likely/JJ to/TO be/VB seen/VBN as/IN the/DT latest/JJS twist/NN in/IN a/DT feud/NN between/IN Mr/NNP Ambani/NNP and/CC his/PRP$ brother/NN Mukesh./NNP
+Anil/NNP 45/CD has/VBZ stepped/VBN down/RB as/IN director/NN and/CC vice-chairman/JJ of/IN Indian/JJ Petrochemicals/NNS Corporation/NNP (IPC)./NN
+The/DT company/NN was/VBD not/RB available/JJ for/IN comment./NN
+IPC/NNP is/VBZ 46%-owned/JJ by/IN Reliance/NNP Industries/NNP which/WDT in/IN turn/NN is/VBZ run/VBN by/IN Mukesh./NNP
+Mukesh/NNP has/VBZ spoken/VBN of/IN ownership/NN issues/NNS between/IN the/DT two/CD brothers/NNS who/WP took/VBD over/RP control/NN of/IN the/DT Reliance/NNP empire/NN following/VBG the/DT death/NN of/IN their/PRP$ father/NN in/IN July/NNP 2002./CD
+
+Reliance's/NN operations/NNS have/VBP massive/JJ reach/NN covering/VBG textiles/NNS telecommunications/NNS petrochemicals/NNS petroleum/NN refining/NN and/CC marketing/NN as/RB well/RB as/IN oil/NN and/CC gas/NN exploration/NN insurance/NN and/CC financial/JJ services./NN
+The/DT brothers'/NN spat/NN has/VBZ hogged/VBN headlines/NNS in/IN India/NNP during/IN recent/JJ weeks/NNS despite/IN a/DT denial/NN from/IN the/DT family/NN that/IN there/EX was/VBD anything/NN wrong./NN
+Speculation/NN has/VBZ been/VBN rife/JJ about/IN what/WP has/VBZ triggered/VBN the/DT stand-off/JJ with/IN some/DT observers/NNS blaming/VBG Anil's/NNP political/JJ ambitions/NNS others/NNS the/DT heavy/JJ investment/NN by/IN Mukesh/NNP and/CC Reliance/NNP in/IN a/DT mobile/JJ phone/NN venture./NN
+Shares/NNS of/IN IPC/NNP dipped/VBD on/IN the/DT news/NN in/IN Mumbai/NNP but/CC recovered/VBD to/TO trade/VB almost/RB 6%/CD higher./NN
+Reliance/NNP shares/NNS added/VBD 1.7%/CD while/IN Reliance/NNP Energy/NNP headed/VBD by/IN Anil/NNP jumped/VBD 7%./CD

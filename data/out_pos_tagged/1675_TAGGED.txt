@@ -1,0 +1,12 @@
+Funding/NNP cut/VBD hits/NNS Wales/NNP Students/NNS
+
+The/DT Wales/NNP Students/NNS rugby/NN side/NN has/VBZ become/VBN a/DT casualty/NN of/IN the/DT Welsh/NNP Rugby/NNP Union's/NNP reorganisation/NN at/IN youth/NN level./NN
+
+An/DT amalgamated/VBN Under-18/JJ side/NN formed/VBN from/IN separate/JJ schools/NNS and/CC national/JJ youth/NN teams/NNS plays/VBZ its/PRP$ first/JJ match/NN on/IN Thursday/NNP against/IN Italy/NNP at/IN the/DT Gnoll./NNP
+But/CC that/DT move/NN has/VBZ seen/VBN the/DT WRU/NNP decide/VB to/TO end/VB its/PRP$ funding/NN of/IN representative/JJ sides/NNS such/JJ as/IN Wales/NNP Students./NNP
+As/IN a/DT result/NN traditional/JJ international/JJ fixtures/NNS against/IN England/NNP and/CC France/NNP in/IN the/DT New/NNP Year/NN have/VBP been/VBN cancelled./VBG
+The/DT Welsh/NNP Students/NNS Rugby/NNP Football/NNP Union/NNP feels/VBZ that/IN it/PRP is/VBZ unable/JJ to/TO properly/RB prepare/VB for/IN or/CC stage/VB the/DT matches./NN
+The/DT secretary/NN of/IN the/DT Welsh/NNP Students/NNS Rugby/NNP Football/NNP Union/NNP Reverend/NNP Eldon/NNP Phillips/NNP said/VBD "It/NN is/VBZ a/DT shame/NN that/IN fixtures/NNS cannot/NN be/VB maintained/VBN this/DT year./NN
+"The/NN competition/NN provided/VBN by/IN the/DT strong/JJ English/NNP and/CC French/JJ teams/NNS has/VBZ enabled/VBN the/DT Welsh/NNP Students/NNS to/TO test/VB themselves/PRP in/IN high/JJ quality/NN matches./NN
+"The/NN increasing/VBG number/NN of/IN young/JJ rugby/NN players/NNS entering/VBG Higher/JJR Education/NNP look/VB for/IN the/DT biggest/JJS challenge/NN that/WDT is/VBZ representative/NN rugby/NN but/CC this/DT year/NN that/DT opportunity/NN will/MD be/VB denied/VBN them./NN
+Players/NNS who/WP have/VBP played/VBN for/IN Wales/NNP Students/NNS before/IN going/VBG on/RP to/TO win/VB full/JJ senior/JJ representative/JJ honours/NNS include/VBP Robert/NNP Jones/NNP Rob/NNP Howley/NNP Jon/NNP Humphreys/NNP Darren/NNP Morris/NNP Martyn/NNP Williams/NNP and/CC Ceri/NNP Sweeney./NNP

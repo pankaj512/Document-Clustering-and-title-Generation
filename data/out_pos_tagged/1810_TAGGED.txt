@@ -1,0 +1,16 @@
+Slovakia/NNP reach/VB Hopman/NNP Cup/NNP final/JJ
+
+Slovakia/NNP will/MD play/VB Argentina/NNP in/IN the/DT final/NN of/IN the/DT Hopman/NNP Cup/NNP after/IN beating/VBG Group/NNP B/NNP rivals/VBZ the/DT Netherlands/NNP 3-0./JJ
+
+Daniela/NNP Hantuchova/NNP defeated/VBD Michaella/NNP Krajicek/NNP 6-4/JJ 6-2/JJ to/TO give/VB the/DT Slovaks/NNP the/DT perfect/JJ start/NN before/IN Dutchman/NNP Peter/NNP Wessels/NNP retired/VBD against/IN Dominik/NNP Hrbaty./NNP
+Wessels/NNP was/VBD unable/JJ to/TO compete/VB in/IN the/DT mixed/JJ doubles/NNS but/CC Slovakia/NNP had/VBD already/RB booked/VBN their/PRP$ place/NN in/IN the/DT final/NN for/IN the/DT second/JJ year/NN running./NN
+Argentina/NNP claimed/VBD top/JJ spot/NN in/IN Group/NNP A/NNP with/IN three/CD wins/VBZ from/IN three/CD matches./NN
+In/IN the/DT other/JJ Group/NNP B/NNP match/VB the/DT United/NNP States/NNPS defeated/VBD Australia/NNP 2-1./JJ
+
+Meghann/NNP Shaughnessy/NNP lost/VBD the/DT opening/NN match/NN against/IN Alicia/NNP Molik/NNP but/CC James/NNP Blake/NNP levelled/VBD the/DT tie/NN with/IN a/DT 6-3/JJ 6-4/JJ win/NN over/IN Paul/NNP Baccanello/NNP who/WP came/VBD in/IN as/IN a/DT replacement/NN for/IN the/DT injured/VBN Mark/NNP Philippoussis./NNP
+Blake/NNP and/CC Shaughnessy/NNP then/RB beat/VBP Molik/NNP and/CC Baccanello/NNP in/IN a/DT tense/JJ mixed/JJ doubles/VBZ contest/NN to/TO take/VB the/DT win./NN
+Hantuchova/NNP who/WP did/VBD not/RB win/VB a/DT Hopman/NNP Cup/NNP singles/NNS match/VBP in/IN 2004/CD has/VBZ been/VBN in/IN good/JJ form/NN during/IN this/DT year's/NNS event/NN and/CC has/VBZ won/VBN two/CD of/IN her/PRP$ three/CD matches./NN
+"I/NN feel/VBP like/IN it's/NNS really/RB deserved/VBD this/DT time/NN as/IN I've/NNP helped/VBD Dominik/NNP to/TO get/VB through"/NN she/PRP said./VBP
+"I/NN think/VBP if/IN I/PRP keep/VBP going/VBG the/DT way/NN I/PRP have/VBP been/VBN in/IN the/DT past/JJ few/JJ matches/VBZ then/RB I/PRP will/MD be/VB okay./NN
+"I/NN was/VBD really/RB pleased/JJ with/IN my/PRP$ last/JJ two/CD singles/NNS even/RB the/DT first/JJ one/CD which/WDT was/VBD a/DT really/RB high/JJ standard./NN
+"You/NN can't/NN ask/NN for/IN a/DT better/JJR preparation/NN than/IN to/TO play/VB a/DT few/JJ matches/VBZ here/RB for/IN the/DT Australian/JJ Open."/NNP

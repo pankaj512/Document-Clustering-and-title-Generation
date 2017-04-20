@@ -1,0 +1,41 @@
+Newcastle/NNP 2-1/JJ Bolton/NNP
+
+Kieron/NNP Dyer/NNP smashed/VBD home/NN the/DT winner/NN to/TO end/VB Bolton's/NNP 10-game/JJ unbeaten/JJ run./NN
+
+Lee/NNP Bowyer/NNP put/VBD Newcastle/NNP ahead/RB when/WRB he/PRP fed/VBD Stephen/NNP Carr/NNP on/IN the/DT right/JJ flank/NN then/RB sprinted/VBD into/IN the/DT area/NN to/TO power/VB home/NN a/DT header/NN from/IN the/DT resultant/NN cross./NN
+Wanderers/NNP hit/VBD back/RB through/IN Stelios/NNP Giannakopoulos/NNP who/WP ended/VBD a/DT fluid/JJ passing/NN move/NN with/IN a/DT well-struck/JJ volley./NN
+But/CC Dyer/NNP had/VBD the/DT last/JJ word/NN in/IN a/DT game/NN of/IN few/JJ chances/NNS pouncing/VBG on/IN a/DT loose/JJ ball/NN after/IN Alan/NNP Shearer's/NNP shot/NN was/VBD blocked/VBN and/CC firing/NN into/IN the/DT top/JJ corner./NN
+Neither/DT side/NN lacked/VBD urgency/NN in/IN the/DT early/JJ stages/NNS of/IN the/DT game/NN with/IN plenty/NN of/IN tackles/NNS flying/VBG in/IN but/CC opportunities/NNS in/IN front/NN of/IN goal/NN were/VBD harder/JJR to/TO come/VB by./NN
+Bolton/NNP keeper/NN Jussi/NNP Jaaskelainen/NNP had/VBD to/TO make/VB two/CD saves/VBZ in/IN quick/JJ succession/NN midway/NN through/IN the/DT first-half/JJ -/: keeping/VBG out/RP Shearer's/NNP low/JJ shot/NN and/CC Dyer's/NNP close-range/JJ header/NN -/: but/CC that/DT was/VBD the/DT only/JJ goalmouth/NN action/NN of/IN note./NN
+And/CC it/PRP was/VBD almost/RB out/IN of/IN nothing/NN that/IN the/DT Magpies/NNP took/VBD the/DT lead/NN on/IN 35/CD minutes./NN
+Bowyer/NNP found/VBD space/NN with/IN a/DT neat/JJ turn/NN on/IN the/DT half-way/JJ line/NN and/CC striding/VBG forward/RB picked/VBD out/RP Carr/NNP to/TO his/PRP$ right./NN
+He/PRP then/RB continued/VBD his/PRP$ run/JJ and/CC with/IN perfect/JJ timing/NN made/VBD his/PRP$ way/NN into/IN the/DT box/NN where/WRB he/PRP met/VBD Carr's/NNP cross/VB with/IN a/DT downward/JJ header/NN into/IN the/DT far/JJ corner./NN
+Bolton/NNP had/VBD produced/VBD little/JJ going/VBG forward/RB at/IN this/DT point/NN but/CC they/PRP responded/VBD well./NN
+
+They/PRP were/VBD level/NN within/IN six/CD minutes/NNS thanks/NNS to/TO a/DT smart/JJ finish/NN from/IN Giannakopoulos./NNP
+Jay-Jay/NNP Okocha/NNP twisted/JJ and/CC turned/VBD on/IN the/DT edge/NN of/IN the/DT area/NN and/CC after/IN a/DT neat/JJ exchange/NN of/IN passes/NNS involving/VBG Kevin/NNP Davies/NNP and/CC Gary/NNP Speed/VBP the/DT Greek/JJ striker/NN found/VBD the/DT bottom/NN corner/NN with/IN a/DT first-time/JJ strike./NN
+The/DT Magpies/NNP were/VBD opened/VBN up/RP again/RB before/IN half-time/NN as/IN Davies/NNP set/VBD Giannakopoulos/NNP in/IN space/NN and/CC Given/VBN had/VBD to/TO block/VB at/IN his/PRP near/IN post./NN
+But/CC the/DT home/NN side/NN survived/VBD and/CC they/PRP should/MD have/VB re-taken/JJ the/DT lead/NN with/IN the/DT first/JJ meaningful/JJ attack/NN of/IN the/DT second/JJ half./NN
+Fernando/NNP Hierro/NNP cynically/RB chopped/VBD down/RP Dyer/NNP on/IN the/DT edge/NN of/IN the/DT area/NN with/IN the/DT midfielder/NN clean/JJ through./NN
+But/CC the/DT veteran/NN defender/NN escaped/VBD with/IN a/DT booking/NN as/IN there/EX were/VBD other/JJ defenders/NNS nearby/JJ and/CC from/IN the/DT resultant/NN free-kick/JJ Laurent/NNP Robert/NNP curled/VBD the/DT ball/NN just/RB wide./NN
+Bolton/NNP were/VBD creating/VBG little/JJ going/VBG forward/RB and/CC they/PRP seemed/VBD content/JJ to/TO frustrate/VB the/DT Magpies./NNP
+Their/PRP$ strategy/NN seemed/VBD to/TO be/VB working/VBG until/IN the/DT 69th/JJ minute./NN
+Alan/NNP Shearer's/NNP snap-shot/NN was/VBD charged/VBN down/RP and/CC Dyer/NNP reacted/VBD first/JJ to/TO smash/VB the/DT ball/NN past/IN the/DT despairing/VBG Jaaskelainen/NNP from/IN six/CD yards./NN
+
+-/: Bolton/NNP boss/NN Sam/NNP Allardyce/NNP "I/NN am/VBP bitterly/RB disappointed/VBN with/IN the/DT result/NN but/CC I/PRP am/VBP probably/RB more/RBR disappointed/JJ with/IN the/DT second-half/JJ performance./NN
+"In/NN the/DT first/JJ half/NN we/PRP had/VBD put/VBN them/PRP under/IN a/DT lot/NN of/IN pressure/NN and/CC our/PRP$ goal/NN matched/VBD theirs/PRP in/IN quality./NN
+"I/NN thought/VBD it/PRP would/MD lift/VB us/PRP and/CC that/IN they/PRP might/MD be/VB tired/JJ after/IN playing/VBG a/DT lot/NN of/IN games/NNS but/CC unfortunately/RB we/PRP were/VBD not/RB up/IN for/IN the/DT battle/NN in/IN the/DT second/JJ half./NN
+"We/NN allowed/VBD them/PRP to/TO heap/VB too/RB much/JJ pressure/NN on/IN us/PRP and/CC in/IN the/DT end/NN we/PRP cracked."/VBP
+-/: Newcastle/NNP boss/NN Graeme/NNP Souness/NN "We/NN deserved/VBD the/DT win./NN
+We/PRP had/VBD a/DT really/RB good/JJ second/JJ half./NN
+"Bolton/NN are/VBP a/DT difficult/JJ side/NN to/TO play./VB
+You/PRP have/VBP to/TO match/VB them/PRP physically/RB first/JJ but/CC we/PRP did/VBD that/IN and/CC then/RB we/PRP played/VBD some/DT football./NN
+"We/NN had/VBD a/DT slow/JJ first/JJ 45/CD minutes/NNS when/WRB we/PRP looked/VBD a/DT bit/NN tired/JJ but/CC we/PRP got/VBD going/VBG after/IN that./NN
+The/DT scoreline/NN flattered/VBD them/PRP and/CC we/PRP could/MD have/VB had/VBN one/CD or/CC two/CD more/JJR goals."/NN Newcastle/NNP Given/VBN Carr/NNP Boumsong/NNP Bramble/NNP Babayaro/NNP Dyer/NNP Faye/NNP Bowyer/NNP Robert/NNP (Jenas/NN 77)/CD Ameobi/NNP Shearer./NNP
+Subs/NNP Not/RB Used/VBD Butt/NN Harper/NNP Milner/NNP Hughes./NNP
+Goals/NNS Bowyer/NNP 35/CD Dyer/NNP 69./CD
+Bolton/NNP Jaaskelainen/NNP Hunt/NNP (Fadiga/NN 14)/CD N'Gotty/NNP Ben/NNP Haim/NNP Candela/NNP Giannakopoulos/NNP Okocha/NNP (Vaz/NN Te/NNP 77)/CD Hierro/NNP (Campo/NN 64)/CD Speed/NN Gardner/NNP Davies./NNP
+Subs/NNP Not/RB Used/VBD Jaidi/NNP Poole./NNP
+Booked/VBN Ben/NNP Haim/NNP Hierro./NNP
+Goals/NNS Giannakopoulos/NNP 41./CD
+Att/NNP 50430/CD Ref/NNP S/NNP Dunn/NNP (Gloucestershire)./NN

@@ -1,0 +1,18 @@
+Sayeed/NN to/TO stand/VB down/RB as/IN Tory/NNP MP/NNP
+
+Tory/NNP MP/NNP Jonathan/NNP Sayeed/NNP is/VBZ to/TO stand/VB down/RB on/IN the/DT grounds/NNS of/IN ill/JJ health./NN
+
+The/DT decision/NN comes/VBZ after/IN Mr/NNP Sayeed/NNP survived/VBD an/DT attempt/NN to/TO de-select/VB him/PRP in/IN a/DT row/NN over/IN allegations/NNS he/PRP had/VBD profited/VBN from/IN private/JJ tours/NNS of/IN Parliament./NNP
+The/DT Mid-Bedfordshire/NNP MP/NNP had/VBD denied/VBN a/DT claim/NN that/IN he/PRP was/VBD paid/VBN for/IN guiding/VBG visitors/NNS around/IN the/DT Palace/NNP of/IN Westminster./NNP
+Conservative/JJ leader/NN Michael/NNP Howard/NNP has/VBZ now/RB accepted/VBN the/DT MP's/NNP resignation/NN it/PRP has/VBZ been/VBN announced./NN
+
+Mr/NNP Sayeed/NNP was/VBD suspended/VBN from/IN Parliament/NNP for/IN two/CD weeks/NNS last/JJ month/NN after/IN the/DT Commons/NNPS standards/NNS and/CC privileges/NNS committee/NN said/VBD his/PRP$ conduct/NN had/VBD fallen/VBN "well/NN below/IN the/DT standards/NNS expected"./NN
+The/DT Conservative/JJ Party/NNP had/VBD already/RB been/VBN withdrawn/VBN the/DT whip/NN for/IN a/DT month./NN
+But/CC his/PRP$ constituency/NN association/NN voted/VBD against/IN a/DT move/NN to/TO deselect/VB him/PRP with/IN Mr/NNP Sayeed/NNP winning/VBG 173/CD of/IN the/DT 299/CD votes./NN
+After/IN the/DT vote/NN Mr/NNP Sayeed/NNP said/VBD only/RB a/DT fifth/NN of/IN association/NN members/NNS had/VBD voted/VBN against/IN him/PRP and/CC he/PRP intended/VBD to/TO get/VB on/IN with/IN winning/VBG the/DT election./NN
+But/CC the/DT vote/NN prompted/VBD constituency/NN association/NN president/NN Sir/NNP Stanley/NNP Odell/NNP to/TO resign/VB in/IN protest./NN
+The/DT Standards/NNP and/CC Privileges/NNS Committee/NNP inquiry/NN was/VBD launched/VBN after/IN the/DT Sunday/NNP Times/NNP alleged/VBD English/JJ Manner/NN Limited/NNP charged/VBD clients/NNS for/IN access/NN to/TO Westminster/NNP through/IN Mr/NNP Sayeed./NNP
+Mr/NNP Sayeed/NNP had/VBD denied/VBN the/DT claims/NNS saying/VBG the/DT suspension/NN was/VBD "unjust/NN and/CC wrong"/NN but/CC he/PRP made/VBD an/DT "unreserved"/NN apology/NN to/TO MPs/NNP in/IN the/DT Commons/NNPS chamber./NN
+He/PRP insisted/VBD that/IN the/DT committee's/NNS report/NN had/VBD contained/VBN a/DT "few/NN errors/NNS of/IN fact"./NN
+Mr/NNP Sayeed/NNP has/VBZ been/VBN MP/NNP for/IN Mid-Bedfordshire/NNP since/IN 1997./CD
+He/PRP represented/VBD Bristol/NNP East/NNP from/IN 1983/CD to/TO 1992./CD

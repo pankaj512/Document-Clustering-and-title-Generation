@@ -1,0 +1,27 @@
+House/NN prices/NNS show/VBP slight/JJ increase/NN
+
+Prices/NNS of/IN homes/NNS in/IN the/DT UK/NNP rose/VBD a/DT seasonally/RB adjusted/VBN 0.5%/CD in/IN February/NNP says/VBZ the/DT Nationwide/NNP building/NN society./NN
+
+The/DT figure/NN means/VBZ the/DT annual/JJ rate/NN of/IN increase/NN in/IN the/DT UK/NNP is/VBZ down/RB to/TO 10.2%/CD the/DT lowest/JJS rate/NN since/IN June/NNP 2001./CD
+The/DT annual/JJ rate/NN has/VBZ halved/VBN since/IN August/NNP last/JJ year/NN as/IN interest/NN rises/NNS have/VBP cooled/VBN the/DT housing/NN market./NN
+At/IN the/DT same/JJ time/NN the/DT number/NN of/IN mortgage/NN approvals/NNS fell/VBD in/IN January/NNP to/TO a/DT near/JJ 10-year/JJ low/JJ official/NN Bank/NNP of/IN England/NNP figures/NNS have/VBP shown./NN
+
+Nationwide/NNP said/VBD that/IN in/IN January/NNP house/NN prices/NNS went/VBD up/RP by/IN 0.4%/CD on/IN the/DT month/NN and/CC by/IN 12.6%/CD on/IN a/DT year/NN earlier./NN
+"We/NN are/VBP not/RB seeing/VBG the/DT market/NN collapsing/VBG in/IN the/DT way/NN some/DT had/VBD feared"/NN said/VBN Nationwide/NNP economist/NN Alex/NNP Bannister./NNP
+There/EX have/VBP been/VBN a/DT number/NN of/IN warnings/NNS that/IN the/DT UK/NNP housing/NN market/NN may/MD be/VB heading/VBG for/IN a/DT downturn/NN after/IN four/CD years/NNS of/IN strong/JJ growth/NN to/TO 2004./CD
+In/IN November/NNP Barclays/NNP which/WDT owns/VBZ former/JJ building/NN society/NN the/DT Woolwich/NNP forecast/NN an/DT 8%/CD fall/NN in/IN property/NN prices/NNS in/IN 2005/CD followed/VBN by/IN further/JJ declines/NNS in/IN 2006/CD and/CC 2007./CD
+And/CC last/JJ summer/NN economists/NNS at/IN PricewaterhouseCoopers/NNP (PWC)/NN warned/VBD house/NN prices/NNS were/VBD overvalued/VBN and/CC could/MD fall/VB by/IN between/IN 10%/CD and/CC 15%/CD by/IN 2009./CD
+
+The/DT price/NN of/IN an/DT average/JJ UK/NNP property/NN now/RB stands/VBZ at/IN £152879./CD
+Homeowners/NNS now/RB expect/VBP house/NN prices/NNS to/TO rise/VB by/IN 1%/CD over/IN the/DT next/JJ six/CD months/NNS Mr/NNP Bannister/NNP said./NN
+He/PRP said/VBD if/IN the/DT growth/NN continued/VBD at/IN this/DT level/NN then/RB the/DT Bank/NNP of/IN England/NNP may/MD increase/VB interest/NN rates/NNS from/IN their/PRP$ current/JJ 4.75%./CD
+
+"I/NN think/VBP the/DT key/JJ is/VBZ what/WP the/DT Bank/NNP expects/VBZ to/TO happen/VB to/TO the/DT housing/NN market./NN
+We/PRP always/RB thought/VBD we/PRP would/MD see/VB a/DT small/JJ rise/NN they/PRP thought/VBD they/PRP would/MD see/VB a/DT small/JJ decline."/NN House/NNP prices/NNS have/VBP risen/VBN 0.9%/CD this/DT year/NN Nationwide/NNP said/VBD and/CC if/IN this/DT pace/NN of/IN increase/NN persists/VBZ prices/NNS would/MD rise/VB by/IN just/RB under/IN 6%/CD in/IN the/DT year/NN to/TO December./NNP
+This/DT is/VBZ slightly/RB above/IN the/DT 0-5%/JJ range/NN Nationwide/NNP predicts./NN
+
+Further/RB evidence/NN of/IN a/DT slowdown/NN in/IN the/DT housing/NN market/NN emerged/VBD from/IN Bank/NNP of/IN England/NNP lending/NN figures/NNS released/VBN on/IN Tuesday./NNP
+New/JJ mortgage/NN loans/NNS in/IN January/NNP fell/VBD to/TO 79000/CD from/IN 82000/CD in/IN December/NNP the/DT bank/NN said./NN
+The/DT past/JJ few/JJ months/NNS have/VBP seen/VBN approvals/NNS fall/VBP to/TO levels/NNS last/RB seen/VBN in/IN 1995./CD
+The/DT Bank/NNP revealed/VBD that/IN 48000/CD fewer/JJR mortgages/NNS were/VBD approved/VBN in/IN January/NNP than/IN for/IN the/DT same/JJ month/NN in/IN 2004./CD
+Overall/RB mortgage/NN lending/NN rose/VBD by/IN £7.2bn/CD in/IN January/NNP marginally/RB up/IN on/IN the/DT £7.1bn/CD rise/NN in/IN December./NNP

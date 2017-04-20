@@ -1,0 +1,25 @@
+Iranian/JJ MPs/NNP threaten/VBP mobile/JJ deal/NN
+
+Turkey's/NNP biggest/JJS private/JJ mobile/JJ firm/NN could/MD bail/VB out/IN of/IN a/DT $3bn/CD ($1.6bn)/CD deal/NN to/TO build/VB a/DT network/NN in/IN Iran/NNP after/IN MPs/NNP there/EX slashed/VBD its/PRP$ stake/NN in/IN the/DT project./NN
+
+Conservatives/NNS in/IN parliament/NN say/VBP Turkcell's/NNP stake/NN in/IN Irancell/NNP the/DT new/JJ network/NN should/MD be/VB cut/VBN from/IN 70%/CD to/TO 49%./CD
+They/PRP have/VBP already/RB given/VBN themselves/PRP a/DT veto/NN over/IN all/DT foreign/JJ investment/NN deals/NNS following/VBG allegations/NNS about/IN Turkish/JJ firms'/NN involvement/NN in/IN Israel./NNP
+Turkcell/NNP now/RB says/VBZ it/PRP may/MD give/VB up/RP on/IN the/DT deal/NN altogether./NN
+
+Iran/NNP currently/RB has/VBZ only/RB one/CD heavily/RB congested/VBN mobile/JJ network/NN with/IN long/JJ waiting/NN lists/NNS for/IN new/JJ subscribers./NN
+Turkcell/NNP signed/VBD a/DT contract/NN for/IN the/DT new/JJ network/NN in/IN September./NNP
+The/DT new/JJ operator/NN planned/VBN to/TO offer/VB subscriptions/NNS for/IN about/IN $180/CD well/RB below/IN the/DT existing/VBG firm's/NNS $500/CD price/NN tag./NN
+But/CC a/DT parliamentary/JJ commission/NN has/VBZ now/RB ruled/VBN that/IN Turkcell's/NNP 70%/CD controlling/VBG stake/NN is/VBZ too/RB high./NN
+They/PRP say/VBP that/IN Turkcell/NNP is/VBZ a/DT security/NN risk/NN because/IN of/IN alleged/JJ business/NN ties/NNS with/IN Israel./NNP
+Parliament/NNP as/IN a/DT whole/NN -/: dominated/VBN by/IN religious/JJ conservatives/NNS -/: will/MD vote/VB on/IN the/DT ruling/NN on/IN Tuesday./NNP
+
+Turkcell/NNP said/VBD the/DT ruling/NN would/MD "make/VB more/JJR difficult.../NN
+Turkcell's/NNP financial/JJ consolidation/NN of/IN Irancell"/NNP because/IN its/PRP$ stake/NN would/MD be/VB reduced/VBN to/TO less/JJR than/IN 50%./CD
+"If/NN management/NN control/NN and/CC financial/JJ consolidation/NN of/IN Irancell/NNP cannot/NN be/VB achieved.../NN
+the/DT realisation/NN of/IN the/DT project/NN will/MD become/VB risky"/NN it/PRP warned/VBD in/IN a/DT statement./NN
+The/DT firm/NN has/VBZ refused/VBN to/TO comment/VB on/IN whether/IN it/PRP has/VBZ business/NN dealings/NNS in/IN Israel/NNP although/IN like/IN almost/RB all/DT GSM/NNP operators/NNS worldwide/VBP it/PRP has/VBZ an/DT interconnection/JJ deal/NN with/IN Israeli/JJ networks/NNS so/IN that/IN its/PRP$ customers/NNS can/MD use/VB their/PRP$ phones/NNS there./NN
+The/DT two/CD countries/NNS strengthened/VBD ties/NNS in/IN both/DT defence/NN and/CC economic/JJ issues/NNS in/IN 2004./CD
+Israeli/JJ industry/NN minister/NN Ehud/NNP Olmert/NNP was/VBD reported/VBN in/IN June/NNP to/TO have/VB attended/VBN a/DT meeting/NN between/IN Ruhi/NNP Dogusoy/NNP Turkcell's/NNP chief/NN operating/NN officer/NN and/CC executives/NNS from/IN Israeli/JJ telecoms/NNS firms./NN
+Telecoms/NNP is/VBZ one/CD of/IN two/CD areas/NNS specifically/RB targeted/VBN by/IN the/DT new/JJ veto/NN law/NN on/IN foreign/JJ investments/NNS passed/VBN earlier/RBR in/IN September./NNP
+The/DT other/JJ is/VBZ airports/NNS a/DT source/NN of/IN controversy/NN after/IN the/DT army/NN closed/VBD Tehran's/NNP new/JJ Imam/NNP Khomeini/NNP International/NNP Airport/NNP on/IN its/PRP$ opening/NN day/NN in/IN May/NNP 2004./CD
+Again/RB the/DT allegation/NN was/VBD that/IN the/DT part-Turkish/JJ TAV/NNP consortium/NN which/WDT built/VBD and/CC ran/VBD it/PRP had/VBD links/NNS with/IN Israel./NNP

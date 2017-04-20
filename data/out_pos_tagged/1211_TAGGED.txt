@@ -1,0 +1,33 @@
+CSA/NNP chief/NN who/WP 'quit'/VBP still/RB in/IN job/NN
+
+The/DT head/NN of/IN the/DT "failing"/NN Child/NN Support/NN Agency/NNP widely/RB reported/VBD to/TO have/VB resigned/VBN three/CD months/NNS ago/RB is/VBZ still/RB at/IN the/DT helm/NN of/IN the/DT troubled/JJ organisation./NN
+
+Doug/NNP Smith's/NNP departure/NN was/VBD announced/VBN by/IN Work/NN Secretary/NNP Alan/NNP Johnson/NNP on/IN 17/CD November/NNP as/IN MPs/NNP grilled/JJ him/PRP over/IN the/DT agency's/NNS poor/JJ performance./NN
+His/PRP$ "resignation"/NN was/VBD referred/VBN to/TO by/IN both/DT Tory/NNP and/CC Lib/NNP Dem/NNP leaders/NNS during/IN that/DT day's/NNS prime/JJ ministers/NNS questions./NN
+Officials/NNS now/RB say/VBP he/PRP did/VBD not/RB resign/VB but/CC will/MD move/VB on/IN under/IN civil/JJ service/NN rules./NN
+
+Mr/NNP Smith's/NNP departure/NN was/VBD reported/VBN widely/RB at/IN the/DT time/NN as/IN his/PRP$ shouldering/VBG the/DT blame/NN for/IN the/DT failings/NNS of/IN the/DT Child/NN Support/NN Agency./NNP
+In/IN January/NNP the/DT MPs/NNP who/WP make/VBP up/RP the/DT Commons/NNPS Work/NN and/CC Pensions/NNS Committee/NNP published/VBD a/DT highly/RB critical/JJ report/NN into/IN the/DT "failing"/NN agency/NN noting/VBG the/DT chief/JJ executive/NN "has/NN now/RB left"/NN and/CC hoping/VBG "the/NN new/JJ leadership/NN will/MD bring/VB a/DT fresh/JJ approach/NN to/TO what/WP is/VBZ a/DT failing/VBG organisation"./NN
+
+On/IN that/DT day's/NNS Today/NN programme/NN Mr/NNP Johnson/NNP was/VBD asked/VBN why/WRB Mr/NNP Smith/NNP had/VBD been/VBN allowed/VBN to/TO resign/VB rather/RB than/IN be/VB sacked./NN
+He/PRP replied/VBD "The/NN chief/NN executive/NN decided/VBD it/PRP was/VBD time/NN to/TO move/VB on/IN there/EX is/VBZ a/DT new/JJ chief/JJ executive/NN coming/VBG in."/NN It/PRP now/RB emerges/VBZ that/IN the/DT widespread/JJ belief/NN Mr/NNP Smith/NNP made/VBD Commander/NNP of/IN the/DT Order/NNP of/IN the/DT Bath/NN in/IN the/DT New/NNP Year/NN honours/NNS had/VBD left/VBN was/VBN wrong./NN
+A/DT Department/NNP for/IN Work/NN and/CC Pensions/NNS spokeswoman/NN confirmed/VBD Mr/NNP Smith/NNP was/VBD still/RB in/IN post/NN and/CC that/IN he/PRP would/MD continue/VB in/IN the/DT job/NN until/IN a/DT replacement/NN was/VBD found./NN
+"No/NN date/NN was/VBD ever/RB given/VBN for/IN Doug/NNP Smith's/NNP departure"/NN she/PRP said/VBD adding/VBG that/IN the/DT post/NN had/VBD been/VBN advertised./NN
+
+Tory/NNP work/NN and/CC pensions/NNS spokesman/NN David/NNP Willetts/NNP said/VBD families/NNS affected/VBN by/IN CSA/NNP failings/NNS would/MD wonder/VB why/WRB Mr/NNP Smith/NNP was/VBD still/RB in/IN his/PRP$ job/NN three/CD months/NNS after/IN his/PRP$ departure/NN was/VBD announced./NN
+The/DT CSA/NNP has/VBZ been/VBN surrounded/VBN by/IN controversy/NN since/IN its/PRP$ introduction/NN in/IN 1993/CD to/TO assess/VB and/CC enforce/VB child/NN support/NN payments/NNS by/IN absent/JJ parents./NN
+
+The/DT work/NN and/CC pensions/NNS committee/NN launched/VBD their/PRP$ inquiry/NN into/IN the/DT CSA's/NNP performance/NN after/IN it/PRP became/VBD clear/JJ that/IN despite/IN the/DT introduction/NN of/IN a/DT simpler/JJR system/NN of/IN calculating/VBG maintenance/NN payments/NNS for/IN new/JJ cases/NNS in/IN 2003/CD a/DT backlog/NN of/IN claims/NNS was/VBD still/RB building/VBG up./NN
+It/PRP is/VBZ currently/RB chasing/VBG outstanding/JJ payments/NNS of/IN more/JJR than/IN £720m/CD while/IN a/DT further/JJ £947m/CD has/VBZ been/VBN designated/VBN as/IN "unrecoverable"./NN
+The/DT MPs/NNP found/VBD American/NNP IT/PRP giant/JJ EDS'/NNP £456m/CD system/NN was/VBD "nowhere/NN near/IN being/VBG fully/RB functional/JJ and/CC the/DT number/NN of/IN dissatisfied/VBN disenchanted/VBN and/CC angry/JJ customers/NNS continues/VBZ to/TO escalate"./VB
+
+In/IN November/NNP when/WRB he/PRP surprised/VBD MPs/NNP and/CC the/DT watching/VBG media/NNS by/IN announcing/VBG Mr/NNP Smith's/NNP departure/NN Mr/NNP Johnson/NNP said/VBD "I/NN should/MD tell/VB you/PRP that/IN Doug/NNP has/VBZ decided/VBN that/WDT now/RB is/VBZ the/DT time/NN to/TO stand/VB aside/RB and/CC to/TO allow/VB a/DT new/JJ chief/JJ executive/NN to/TO tackle/VB the/DT challenges/NNS ahead./NN
+"Doug/NN has/VBZ exceeded/VBN the/DT four/CD years/NNS that/IN senior/JJ civil/JJ servants/NNS are/VBP now/RB expected/VBN to/TO remain/VB in/IN a/DT particular/JJ post./NN
+"So/NNP Doug/NNP believes/VBZ that/IN we/PRP have/VBP reached/VBN the/DT natural/JJ breakpoint/NN at/IN which/WDT he/PRP can/MD hand/VB over/IN the/DT reins."/NN Lib/NNP Dem/NNP Sir/NNP Archy/NNP Kirkwood/NNP who/WP chairs/VBZ the/DT Commons/NNPS work/NN and/CC pensions/NNS committee/NN said/VBD that/IN when/WRB Mr/NNP Johnson/NNP had/VBD announced/VBN Mr/NNP Smith/NNP was/VBD going/VBG he/PRP got/VBD the/DT "clear/NN impression"/NN the/DT CSA/NNP chief/NN was/VBD retiring/VBG though/IN it/PRP had/VBD since/IN emerged/VBN that/WDT was/VBD not/RB the/DT case/NN and/CC he/PRP may/MD be/VB seeking/VBG new/JJ employment/NN opportunities./NN
+
+He/PRP added/VBD his/PRP$ committee/NN was/VBD "duty/NN bound"/NN to/TO allow/VB the/DT work/NN and/CC pensions/NNS secretary/NN to/TO get/VB new/JJ management/NN into/IN place/NN in/IN the/DT CSA/NNP and/CC it/PRP would/MD be/VB "premature"/NN to/TO say/VB anything/NN further/RBR on/IN the/DT issue/NN at/IN the/DT moment./NN
+But/CC committee/NN member/NN and/CC Tory/NNP MP/NNP Nigel/NNP Waterson/NNP said/VBD he/PRP was/VBD "amazed"/NN Mr/NNP Smith/NNP was/VBD still/RB in/IN his/PRP$ job./NN
+"When/NNP Mr/NNP Smith/NNP and/CC the/DT secretary/NN of/IN state/NN came/VBD to/TO give/VB evidence/NN we/PRP were/VBD led/VBN to/TO believe/VB he/PRP was/VBD going/VBG shortly"/NN he/PRP said./VB
+"Even/NN if/IN he/PRP was/VBD working/VBG out/RP three/CD months/NNS notice/VBP he/PRP should/MD have/VB been/VBN clearing/VBG his/PRP$ desk/NN by/IN now."/NN Asked/VBN on/IN Thursday/NNP about/IN Mr/NNP Smith's/NNP position/NN Mr/NNP Johnson/NNP told/VBD BBC/NNP Radio/NNP 4's/CD World/NNP at/IN One/CD he/PRP thought/VBD it/PRP was/VBD a/DT "non-story"./JJ
+He/PRP added/VBD that/IN he/PRP had/VBD been/VBN absolutely/RB open/JJ when/WRB he/PRP announced/VBD Mr/NNP Smith's/NNP departure/NN to/TO the/DT select/JJ committee/NN and/CC how/WRB people/NNS chose/VBD to/TO interpret/VB it/PRP was/VBD a/DT "different/NN thing"./NN
+"The/NN major/JJ issue/NN is/VBZ have/JJ we/PRP got/VBN a/DT new/JJ chief/JJ executive/NN coming/VBG into/IN this/DT very/RB important/JJ agency/NN as/RB quickly/RB as/IN possible/JJ and/CC have/VBP we/PRP gone/VBD through/IN the/DT right/JJ selection/NN process/NN to/TO make/VB sure/JJ we've/NN got/VBD the/DT right/JJ people"/NN he/PRP added./VB

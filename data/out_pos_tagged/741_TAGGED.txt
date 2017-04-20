@@ -1,0 +1,22 @@
+Three/CD DJs/NNP replace/VB Peel/NNP radio/NN show/NN
+
+The/DT late/JJ John/NNP Peel's/NNP BBC/NNP Radio/NNP 1/CD show/NN is/VBZ to/TO be/VB succeeded/VBN in/IN February/NNP by/IN three/CD shows/VBZ hosted/VBN by/IN three/CD DJs/NNP focusing/VBG on/IN diverse/JJ non-commercial/JJ music./NN
+
+Huw/NNP Stephens/NNP Ras/NNP Kwame/NNP and/CC Rob/NNP Da/NNP Bank/NNP will/MD each/DT host/NN the/DT mid-week/NN late-night/JJ timeslot/NN showcasing/VBG UK/NNP talent./NN
+Radio/NNP 1/CD said/VBD the/DT show/NN would/MD not/RB try/VB to/TO replace/VB Peel/NNP but/CC would/MD rise/VB to/TO the/DT "challenge"/NN of/IN "keeping/VBG his/PRP$ legacy/NN alive"/NN with/IN unpredictable/JJ music./NN
+Peel/NNP died/VBD after/IN suffering/VBG a/DT heart/NN attack/NN in/IN Peru/NNP in/IN October./NNP
+Radio/NNP 1/CD said/VBD the/DT three/CD DJs/NNP had/VBD been/VBN chosen/VBN for/IN their/PRP$ "in-depth/JJ musical/JJ knowledge/NN across/IN a/DT variety/NN of/IN musical/JJ genres"./NN
+Rob/NNP Da/NNP Bank/NNP has/VBZ been/VBN hosting/VBG The/DT John/NNP Peel/NNP Show/NNP since/IN the/DT DJ's/NNP death./NN
+He/PRP is/VBZ also/RB one/CD of/IN the/DT hosts/NNS of/IN The/DT Blue/NNP Room/NN an/DT early/JJ morning/NN weekend/NN show/VBP that/WDT plays/VBZ a/DT mix/NN of/IN old/JJ and/CC new/JJ electronic/JJ and/CC dance/NN music./NN
+Huw/NNP Stephens/NNP is/VBZ currently/RB one/CD half/NN of/IN the/DT Radio/NNP 1/CD Thursday/NNP night/NN show/NN Bethan/NNP and/CC Huw/NNP in/IN Wales/NNP which/WDT explores/VBZ new/JJ music/NN especially/RB up/IN and/CC coming/VBG acts/NNS breaking/VBG through/IN in/IN Wales./NNP
+And/CC Ras/NNP Kwame/NNP is/VBZ the/DT host/NN of/IN 100%/CD Homegrown/NNP on/IN Radio/NNP 1's/CD digital/JJ station/NN 1Xtra./CD
+His/PRP$ show/NN is/VBZ dedicated/VBN to/TO showcasing/VBG the/DT best/JJS of/IN UK/NNP black/JJ music/NN and/CC broadcasts/NNS live/VBP sessions/NNS often/RB giving/VBG new/JJ artists/VBZ their/PRP$ first/JJ chance/NN to/TO perform/VB on/IN live/JJ national/JJ radio./NN
+
+All/DT of/IN the/DT three/CD DJs/NNP will/MD continue/VB to/TO host/VB their/PRP$ current/JJ shows/NNS on/IN Radio/NNP 1./CD
+"It/NN is/VBZ widely/RB accepted/VBN that/IN John/NNP Peel/NNP can/MD never/RB be/VB replaced"/NN said/VBN the/DT radio/NN station./NN
+It/PRP added/VBD that/IN One/CD Music/NNP would/MD support/VB both/DT signed/VBD and/CC unsigned/JJ talent/NN and/CC said/VBD "It/NN will/MD seek/VB out/RP those/DT making/VBG music/NN for/IN music's/NNS sake/NN rather/RB than/IN for/IN commercial/JJ success./NN
+"Above/NN all/DT it/PRP will/MD provide/VB support/NN to/TO emerging/VBG genres/NNS of/IN music/NN and/CC styles/NNS that/WDT have/VBP not/RB yet/RB and/CC may/MD never/RB reach/VB the/DT mainstream."/NN
+
+One/CD Music/NNP is/VBZ not/RB new/JJ to/TO Radio/NNP 1/CD as/IN it/PRP already/RB exists/VBZ as/IN a/DT website/NN offering/NN advice/NN on/IN aspects/NNS of/IN the/DT music/NN industry/NN such/JJ as/IN recording/NN a/DT demo/NN and/CC signing/VBG a/DT record/NN contract./NN
+Radio/NNP 1's/CD controller/NN Andy/NNP Parfitt/NNP said/VBD "We/NN believe/VBP that/IN by/IN having/VBG a/DT series/NN of/IN DJs/NNP hosting/VBG a/DT selection/NN of/IN shows/NNS under/IN the/DT One/CD Music/NNP title/NN we/PRP will/MD ensure/VB that/IN his/PRP$ legacy/NN lives/NNS on."/NN Stephens/NNP said/VBD he/PRP grew/VBD up/RP "listening/VBG to/TO John"/NNP and/CC that/IN it/PRP was/VBD a/DT "massive/JJ honour"/NN to/TO continue/VB Peel's/NNP work/NN championing/VBG new/JJ music./NN
+The/DT show/NN will/MD be/VB broadcast/NN from/IN 1/CD February/NNP on/IN Tuesdays/NNPS Wednesdays/NNS and/CC Thursdays/NNPS from/IN 2300/CD GMT/NNP -/: 0100/CD GMT./NNP

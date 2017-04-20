@@ -1,0 +1,12 @@
+Stock/NNP market/NN eyes/NNS Japan/NNP recovery/NN
+
+Japanese/JJ shares/NNS have/VBP ended/VBN the/DT year/NN at/IN their/PRP$ highest/JJS level/NN since/IN 13/CD July/NNP amidst/NN hopes/NNS of/IN an/DT economic/JJ recovery/NN during/IN 2005./CD
+
+The/DT Nikkei/NNP index/NN of/IN leading/VBG shares/NNS gained/VBD 7.6%/CD during/IN the/DT year/NN to/TO close/VB at/IN 11488.76/CD points./NN
+In/IN 2005/CD it/PRP "will/NN rise/NN toward/IN 13000"/CD predicted/VBD Morgan/NNP Stanley/NNP equity/NN strategist/NN Naoki/NNP Kamiyama./NNP
+The/DT optimism/NN in/IN the/DT financial/JJ markets/NNS contrast/NN sharply/RB with/IN pessimism/NN in/IN the/DT Japanese/JJ business/NN community./NN
+Earlier/RBR this/DT month/NN the/DT quarterly/JJ Tankan/NNP survey/NN of/IN Japanese/JJ manufacturers/NNS found/VBD that/IN business/NN confidence/NN had/VBD weakened/VBN for/IN the/DT first/JJ time/NN since/IN March/NNP 2003./CD
+
+Slower/JJR economic/JJ growth/NN rising/VBG oil/NN prices/NNS a/DT stronger/JJR yen/NNS and/CC weaker/JJR exports/NNS were/VBD blamed/VBN for/IN the/DT fall/NN in/IN confidence./NN
+Despite/IN this/DT traders/NNS expect/VBP strength/NN in/IN the/DT global/JJ economy/NN to/TO benefit/VB Japan/NNP which/WDT has/VBZ been/VBN close/RB to/TO sliding/VBG into/IN recession/NN in/IN recent/JJ months./NN
+Structural/NNP reform/NN within/IN Japan/NNP and/CC an/DT anticipated/VBN end/NN to/TO the/DT banking/NN sector's/NNS bad/JJ debt/NN problems/NNS should/MD also/RB help/VB they/PRP say./VBP

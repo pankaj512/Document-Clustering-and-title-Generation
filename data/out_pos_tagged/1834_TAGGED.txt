@@ -1,0 +1,27 @@
+Google's/NNP toolbar/NN sparks/VBZ concern/NN
+
+Search/NN engine/NN firm/NN Google/NNP has/VBZ released/VBN a/DT trial/NN tool/NN which/WDT is/VBZ concerning/VBG some/DT net/JJ users/NNS because/IN it/PRP directs/VBZ people/NNS to/TO pre-selected/JJ commercial/JJ websites./NN
+
+The/DT AutoLink/NNP feature/NN comes/VBZ with/IN Google's/NNP latest/JJS toolbar/NN and/CC provides/VBZ links/NNS in/IN a/DT webpage/NN to/TO Amazon.com/NNP if/IN it/PRP finds/VBZ a/DT book's/NNS ISBN/NNP number/NN on/IN the/DT site./NN
+It/PRP also/RB links/VBZ to/TO Google's/NNP map/NN service/NN if/IN there/EX is/VBZ an/DT address/NN or/CC to/TO car/VB firm/NN Carfax/NNP if/IN there/EX is/VBZ a/DT licence/NN plate./NN
+Google/NNP said/VBD the/DT feature/NN available/JJ only/RB in/IN the/DT US/PRP "adds/VBP useful/JJ links"./NN
+But/CC some/DT users/NNS are/VBP concerned/VBN that/IN Google's/NNP dominant/JJ position/NN in/IN the/DT search/NN engine/NN market/NN place/NN could/MD mean/VB it/PRP would/MD be/VB giving/VBG a/DT competitive/JJ edge/NN to/TO firms/NNS like/IN Amazon./NNP
+
+AutoLink/NNP works/VBZ by/IN creating/VBG a/DT link/NN to/TO a/DT website/NN based/VBN on/IN information/NN contained/VBN in/IN a/DT webpage/NN -/: even/RB if/IN there/EX is/VBZ no/DT link/NN specified/VBN and/CC whether/IN or/CC not/RB the/DT publisher/NN of/IN the/DT page/NN has/VBZ given/VBN permission./NN
+
+If/IN a/DT user/NN clicks/NNS the/DT AutoLink/NNP feature/NN in/IN the/DT Google/NNP toolbar/NN then/RB a/DT webpage/NN with/IN a/DT book's/NNS unique/JJ ISBN/NNP number/NN would/MD link/VB directly/RB to/TO Amazon's/NNP website./NN
+It/PRP could/MD mean/VB online/NN libraries/NNS that/DT list/NN ISBN/NNP book/NN numbers/NNS find/VBP they/PRP are/VBP directing/VBG users/NNS to/TO Amazon.com/NNP whether/IN they/PRP like/IN it/PRP or/CC not./NN
+Websites/NNP which/WDT have/VBP paid/VBN for/IN advertising/NN on/IN their/PRP$ pages/NNS may/MD also/RB be/VB directing/VBG people/NNS to/TO rival/JJ services./NN
+Dan/NNP Gillmor/NNP founder/NN of/IN Grassroots/NNS Media/NNP which/WDT supports/VBZ citizen-based/JJ media/NNS said/VBD the/DT tool/NN was/VBD a/DT "bad/NN idea/NN and/CC an/DT unfortunate/JJ move/NN by/IN a/DT company/NN that/WDT is/VBZ looking/VBG to/TO continue/VB its/PRP$ hypergrowth"./NN
+In/IN a/DT statement/NN Google/NNP said/VBD the/DT feature/NN was/VBD still/RB only/RB in/IN beta/NN ie/NN trial/NN stage/NN and/CC that/IN the/DT company/NN welcomed/VBD feedback/NN from/IN users./NN
+It/PRP said/VBD "The/NN user/NN can/MD choose/VB never/RB to/TO click/VB on/IN the/DT AutoLink/NNP button/NN and/CC web/NN pages/NNS she/PRP views/VBZ will/MD never/RB be/VB modified./NN
+"In/NN addition/NN the/DT user/NN can/MD choose/VB to/TO disable/VB the/DT AutoLink/NNP feature/NN entirely/RB at/IN any/DT time."/NN
+
+The/DT new/JJ tool/NN has/VBZ been/VBN compared/VBN to/TO the/DT Smart/NNP Tags/NNS feature/NN from/IN Microsoft/NNP by/IN some/DT users./NN
+It/PRP was/VBD widely/RB criticised/VBN by/IN net/JJ users/NNS and/CC later/RB dropped/VBN by/IN Microsoft/NNP after/IN concerns/NNS over/IN trademark/NN use/NN were/VBD raised./NN
+Smart/NN Tags/NNS allowed/VBD Microsoft/NNP to/TO link/VB any/DT word/NN on/IN a/DT web/NN page/NN to/TO another/DT site/NN chosen/VBN by/IN the/DT company./NN
+Google/NNP said/VBD none/NN of/IN the/DT companies/NNS which/WDT received/VBD AutoLinks/NNP had/VBD paid/VBN for/IN the/DT service./NN
+Some/DT users/NNS said/VBD AutoLink/NNP would/MD only/RB be/VB fair/JJ if/IN websites/NNS had/VBD to/TO sign/VB up/RP to/TO allow/VB the/DT feature/NN to/TO work/VB on/IN their/PRP$ pages/NNS or/CC if/IN they/PRP received/VBD revenue/NN for/IN any/DT "click/NN through"/NN to/TO a/DT commercial/JJ site./NN
+Cory/NNP Doctorow/JJ European/JJ outreach/NN coordinator/NN for/IN digital/JJ civil/JJ liberties/NNS group/NN Electronic/NNP Fronter/NNP Foundation/NNP said/VBD that/IN Google/NNP should/MD not/RB be/VB penalised/VBN for/IN its/PRP$ market/NN dominance./NN
+"Of/NN course/NN Google/NNP should/MD be/VB allowed/VBN to/TO direct/JJ people/NNS to/TO whatever/WDT proxies/NNS it/PRP chooses./NN
+"But/NN as/IN an/DT end/NN user/NN I/PRP would/MD want/VB to/TO know/VB -/: 'Can/NN I/PRP choose/VBP to/TO use/VB this/DT service?/NN 'How/NN much/JJ is/VBZ Google/NNP being/VBG paid?'/NN 'Can/NN I/PRP substitute/VBP my/PRP$ own/JJ companies/NNS for/IN the/DT ones/NNS chosen/VBN by/IN Google?'."/NNP Mr/NNP Doctorow/NNP said/VBD the/DT only/JJ objection/NN would/MD be/VB if/IN users/NNS were/VBD forced/VBN into/IN using/VBG AutoLink/NNP or/CC "tricked/VBN into/IN using/VBG the/DT service"./NN

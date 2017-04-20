@@ -1,0 +1,22 @@
+US/PRP bank/VBP boss/NN hails/VBZ 'genius'/NN Smith/NNP
+
+US/PRP Federal/NNP Reserve/NNP chairman/NN Alan/NNP Greenspan/NNP has/VBZ given/VBN a/DT speech/NN at/IN a/DT Scottish/JJ church/NN in/IN honour/NN of/IN the/DT pioneering/JJ economist/NN Adam/NNP Smith./NNP
+
+He/PRP delivered/VBD the/DT 14th/JJ Adam/NNP Smith/NNP Lecture/VB in/IN Kirkcaldy/NNP Fife./NNP
+The/DT Adam/NNP Smith/NNP Lecture/VB celebrates/VBZ the/DT author/NN of/IN 1776's/CD Wealth/NN of/IN Nations/NNPS which/WDT became/VBD a/DT bible/NN of/IN capitalism./NN
+Dr/NNP Greenspan/NNP was/VBD invited/VBN by/IN Chancellor/NNP Gordon/NNP Brown/NNP whose/WP$ minister/NN father/NN John/NNP used/VBD to/TO preach/VB at/IN the/DT St/NNP Bryce/NNP Kirk/NNP church./NN
+Mr/NNP Brown/NNP introduced/VBD Dr/NNP Greenspan/NNP to/TO the/DT 400/CD invited/VBN guests/NNS as/IN the/DT "the/NN world's/NNS greatest/JJS economist"./NN
+Dr/NNP Greenspan/NNP 79/CD who/WP has/VBZ been/VBN in/IN the/DT UK/NNP to/TO attend/VB the/DT G7/CD meeting/NN in/IN London/NNP said/VBD the/DT world/NN could/MD never/RB repay/VB the/DT debt/NN of/IN gratitude/NN it/PRP owed/VBD to/TO Smith/NNP whose/WP$ genius/NN he/PRP compared/VBD to/TO that/DT of/IN Mozart./NNP
+
+He/PRP said/VBD the/DT philosopher/NN was/VBD a/DT "towering/JJ contributor/NN to/TO the/DT modern/JJ world"./NN
+"Kirkcaldy/NN the/DT birthplace/NN in/IN 1723/CD of/IN Adam/NNP Smith/NNP and/CC by/IN extension/NN of/IN modern/JJ economics/NNS is/VBZ also/RB of/IN course/NN where/WRB your/PRP$ chancellor/NN was/VBD reared./NN
+"I/NN am/VBP led/VBN to/TO ponder/VB to/TO what/WDT extent/NN the/DT chancellor's/NNS renowned/JJ economic/JJ and/CC financial/JJ skills/NNS are/VBP the/DT result/NN of/IN exposure/NN to/TO the/DT subliminal/JJ intellect-enhancing/JJ emanation/NN in/IN this/DT area."/NN He/PRP continued/JJ "Smith/NN reached/VBN far/RB beyond/IN the/DT insights/NNS of/IN his/PRP$ predecessors/NNS to/TO frame/VB a/DT global/JJ view/NN of/IN how/WRB market/NN economics/NNS just/RB then/RB emerging/VBG worked./NN
+"In/NN so/RB doing/VBG he/PRP supported/VBD changes/NNS in/IN societal/JJ organisation/NN that/WDT were/VBD to/TO measurably/RB enhance/VB standards/NNS of/IN living."/NN
+
+Dr/NNP Greenspan/NNP said/VBD Smith's/NNP revolutionary/JJ philosophy/NN on/IN human/JJ self-interest/NN laissez-faire/FW economics/NNS and/CC competition/NN had/VBD been/VBN a/DT force/NN for/IN good/JJ in/IN the/DT world./NN
+"The/NN incredible/JJ insights/NNS of/IN a/DT handful/NN of/IN intellectuals/NNS of/IN the/DT Enlightenment/NN -/: especially/RB with/IN Smith/NNP toiling/NN in/IN the/DT environs/NNS of/IN Kirkcaldy/NNP -/: created/VBN the/DT modern/JJ vision/NN of/IN people/NNS free/JJ to/TO choose/VB and/CC to/TO act/VB according/VBG to/TO their/PRP$ individual/JJ self-interest"/NN he/PRP said./VB
+Following/VBG his/PRP$ lecture/NN Dr/NNP Greenspan/NNP -/: who/WP received/VBD an/DT honorary/JJ knighthood/NN from/IN the/DT Queen/NNP at/IN Balmoral/NNP in/IN 2002/CD -/: was/VBD awarded/VBN an/DT honorary/JJ fellowship/NN of/IN the/DT Royal/NNP Society/NNP of/IN Edinburgh./NNP
+He/PRP later/RB opened/VBD an/DT exhibition/NN dedicated/VBN to/TO Smith/NNP in/IN the/DT atrium/NN of/IN Fife/NNP College/NNP of/IN Further/RB and/CC Higher/JJR Education./NNP
+Joyce/NNP Johnston/NNP principal/JJ of/IN the/DT college/NN said/VBD "It/NN is/VBZ very/RB fitting/JJ that/IN the/DT world's/NNS premier/NN economist/NN delivered/VBD this/DT lecture/NN in/IN tribute/NN to/TO the/DT world's/NNS first/RB economist."/NN Dr/NNP Greenspan/NNP -/: who/WP became/VBD chairman/NN of/IN the/DT Federal/NNP Reserve/NNP for/IN an/DT unprecedented/JJ fifth/JJ term/NN in/IN June/NNP 2004/CD -/: will/MD step/VB down/RP in/IN January/NNP next/JJ year./NN
+He/PRP has/VBZ served/VBN under/IN Presidents/NNS George/NNP W/NNP Bush/NNP Bill/NNP Clinton/NNP George/NNP Bush/NNP and/CC Ronald/NNP Reagan./NNP
+He/PRP was/VBD also/RB chairman/NN of/IN the/DT council/NN of/IN economic/JJ advisors/NNS to/TO Gerald/NNP Ford./NNP

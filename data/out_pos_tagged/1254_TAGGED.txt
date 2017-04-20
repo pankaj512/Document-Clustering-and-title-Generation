@@ -1,0 +1,16 @@
+'UK/NN will/MD stand/VB firm/NN on/IN EU/NNP rebate'/NN
+
+Britain's/NNP £3bn/CD EU/NNP rebate/NN is/VBZ not/RB up/IN for/IN renegotiation/NN at/IN next/JJ week's/NNS European/NNP Council/NNP summit/NN Jack/NNP Straw/NNP said./NN
+
+The/DT foreign/JJ secretary/NN told/VBD MPs/NNP the/DT rebate/NN secured/VBN by/IN Margaret/NNP Thatcher/NNP in/IN 1984/CD was/VBD "entirely/RB justified"./NN
+New/JJ European/JJ commission/NN president/NN Jose/NNP Manuel/NNP Barroso/NNP has/VBZ suggested/VBN the/DT cash/NN could/MD be/VB shared/VBN out/RP among/IN net/JJ contributors/NNS to/TO the/DT EU/NNP budget./NN
+Mr/NNP Straw/NNP acknowledged/VBD some/DT countries/NNS in/IN the/DT newly/RB enlarged/JJ 25/CD nation/NN EU/NNP still/RB had/VBD to/TO "see/VB the/DT light"/NN on/IN the/DT rebate./NN
+
+But/CC the/DT foreign/JJ secretary/NN told/VBD the/DT Commons/NNPS foreign/JJ affairs/NNS committee/NN "Our/NN position/NN is/VBZ very/RB clear/JJ it/PRP is/VBZ entirely/RB justified/VBN and/CC it/PRP is/VBZ not/RB for/IN negotiation."/NN He/PRP added/VBD that/IN he/PRP did/VBD not/RB think/VB there/EX would/MD be/VB a/DT political/JJ price/NN to/TO pay/VB for/IN the/DT UK's/NNP stance/NN -/: Britain/NNP contributed/VBD more/JJR and/CC received/VBD less/JJR than/IN other/JJ EU/NNP states./NN
+The/DT two-day/JJ European/NNP Council/NNP summit/NN in/IN Brussels/NNP begins/VBZ on/IN 16/CD December/NNP and/CC is/VBZ widely/RB expected/VBN to/TO mark/VB the/DT beginning/NN of/IN a/DT lengthy/JJ negotiating/NN period/NN over/IN the/DT EU's/NNP budget/NN for/IN 2007-13./JJ
+The/DT wrangling/VBG could/MD stretch/VB into/IN 2005/CD even/RB 2006./CD
+
+The/DT UK/NNP France/NNP Germany/NNP Austria/NNP the/DT Netherlands/NNP and/CC Sweden/NNP want/VBP the/DT EU/NNP budget/NN to/TO be/VB capped/VBN at/IN 1%/CD of/IN member/NN states'/NN combined/VBD national/JJ incomes/NNS -/: the/DT Commission/NNP wants/VBZ it/PRP to/TO be/VB 1.26%./CD
+Mr/NNP Straw/NNP said/VBD the/DT EU/NNP commission's/NNS proposal/NN would/MD mean/VB a/DT 35%/CD hike/NN in/IN the/DT budget./NN
+"I/NN don't/NN know/NN of/IN any/DT national/JJ government/NN thinking/VBG of/IN increasing/VBG its/PRP$ budget/NN by/IN that/DT amount"/NN he/PRP added./VB
+The/DT foreign/JJ secretary/NN said/VBD he/PRP hoped/VBD the/DT talks/NNS next/IN week/NN could/MD produce/VB a/DT date/NN in/IN 2005/CD for/IN the/DT beginning/NN of/IN negotiations/NNS with/IN Turkey/NNP about/IN possible/JJ EU/NNP membership/NN although/IN that/DT there/EX would/MD be/VB no/DT prospect/NN of/IN a/DT date/NN for/IN joining/VBG for/IN some/DT time./NN

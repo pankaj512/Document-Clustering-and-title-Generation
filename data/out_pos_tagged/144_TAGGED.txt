@@ -1,0 +1,12 @@
+Oil/NN prices/NNS fall/VBP back/RB from/IN highs/NNS
+
+Oil/NN prices/NNS retreated/VBD from/IN four-month/JJ highs/NNS in/IN early/JJ trading/NN on/IN Tuesday/NNP after/IN producers'/NN cartel/NN Opec/NNP said/VBD it/PRP was/VBD now/RB unlikely/JJ to/TO cut/VB production./NN
+
+Following/VBG the/DT comments/NNS by/IN acting/VBG Opec/NNP secretary/NN general/JJ Adnan/NNP Shihab-Eldin/NNP US/PRP light/JJ crude/NN fell/VBD 32/CD cents/NNS to/TO $51.43/CD a/DT barrel./NN
+He/PRP said/VBD that/IN high/JJ oil/NN prices/NNS meant/VBD Opec/NNP was/VBD unlikely/JJ to/TO stick/VB to/TO its/PRP$ plan/NN to/TO cut/VB output/NN in/IN the/DT second/JJ quarter./NN
+In/IN London/NNP Brent/NNP crude/NN fell/VBD 32/CD cents/NNS to/TO $49.74/CD a/DT barrel./NN
+
+Opec/NN members/NNS are/VBP next/JJ meeting/NN to/TO discuss/VB production/NN levels/NNS on/IN 16/CD March./NNP
+On/IN Monday/NNP oil/NN prices/NNS rose/VBD for/IN a/DT sixth/JJ straight/JJ session/NN reaching/VBG a/DT four-month/JJ high/NN as/IN cold/JJ weather/NN in/IN the/DT US/PRP threatened/VBD stocks/NNS of/IN heating/NN oil./NN
+US/PRP demand/VBP for/IN heating/NN oil/NN was/VBD predicted/VBN to/TO be/VB about/IN 14%/CD above/IN normal/JJ this/DT week/NN while/IN stocks/NNS were/VBD currently/RB about/IN 7.5%/CD below/IN the/DT levels/NNS of/IN a/DT year/NN ago./NN
+Cold/NNP weather/NN across/IN Europe/NNP has/VBZ also/RB put/VB upward/JJ pressure/NN on/IN crude/JJ prices./NN

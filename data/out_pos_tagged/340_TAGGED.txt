@@ -1,0 +1,20 @@
+Venezuela/NNP and/CC China/NNP sign/NN oil/NN deal/NN
+
+Venezuelan/JJ president/NN Hugo/NNP Chavez/NNP has/VBZ offered/VBN China/NNP wide-ranging/JJ access/NN to/TO the/DT country's/NNS oil/NN reserves./NN
+
+The/DT offer/NN made/VBD as/IN part/NN of/IN a/DT trade/NN deal/NN between/IN the/DT two/CD countries/NNS will/MD allow/VB China/NNP to/TO operate/VB oil/NN fields/NNS in/IN Venezuela/NNP and/CC invest/VB in/IN new/JJ refineries./NN
+Venezuela/NNP has/VBZ also/RB offered/VBN to/TO supply/VB 120000/CD barrels/NNS of/IN fuel/NN oil/NN a/DT month/NN to/TO China./NNP
+Venezuela/NNP -/: the/DT world's/NNS fifth/JJ largest/JJS oil/NN exporter/NN -/: sells/VBZ about/IN 60%/CD of/IN its/PRP$ output/NN to/TO the/DT United/NNP States./NNP
+Mr/NNP Chavez's/NNP administration/NN which/WDT has/VBZ a/DT strained/VBN relationship/NN with/IN the/DT US/PRP is/VBZ trying/VBG to/TO diversify/VB sales/NNS to/TO reduce/VB its/PRP$ dependence/NN on/IN its/PRP$ largest/JJS export/NN market./NN
+
+China's/NNP quick-growing/JJ economy's/NNS need/NN for/IN oil/NN has/VBZ contributed/VBN to/TO record-high/JJ oil/NN prices/NNS this/DT year/NN along/IN with/IN political/JJ unrest/NN in/IN the/DT Middle/NNP East/NNP and/CC supply/NN bottlenecks./NN
+Oil/NN prices/NNS are/VBP finishing/VBG the/DT year/NN roughly/RB 30%/CD higher/JJR than/IN they/PRP were/VBD in/IN January/NNP 2004./CD
+
+In/IN 2004/CD according/VBG to/TO forecasts/NNS from/IN the/DT Ministry/NNP of/IN Commerce/NNP China's/NNP oil/NN imports/NNS will/MD be/VB 110m/CD tons/NNS up/RP 21%/CD on/IN the/DT previous/JJ year./NN
+China/NNP has/VBZ been/VBN a/DT net/JJ importer/NN of/IN oil/NN since/IN the/DT mid/NN 1990's/CD with/IN more/JJR than/IN a/DT third/JJ of/IN the/DT oil/NN and/CC gas/NN it/PRP consumes/VBZ coming/VBG from/IN abroad./NN
+A/DT lack/NN of/IN sufficient/JJ domestic/JJ production/NN and/CC the/DT need/NN to/TO lessen/VB its/PRP$ dependence/NN on/IN imports/NNS from/IN the/DT Middle/NNP East/NNP has/VBZ meant/VBN that/IN China/NNP is/VBZ looking/VBG to/TO invest/VB in/IN other/JJ potential/JJ markets/NNS such/JJ as/IN Latin/NNP America./NNP
+Mr/NNP Chavez/NNP who/WP is/VBZ visiting/VBG China/NNP said/VBD his/PRP$ country/NN would/MD put/VB its/PRP$ many/NN of/IN its/PRP$ oil/NN facilities/NNS at/IN the/DT disposal/NN of/IN China./NNP
+Chinese/JJ firms/NNS would/MD be/VB allowed/VBN to/TO operate/VB 15/CD mature/VBP oil/NN fields/NNS in/IN the/DT east/NN of/IN Venezuela/NNP which/WDT could/MD produce/VB more/JJR than/IN one/CD billion/CD barrels/NNS he/PRP confirmed./VB
+The/DT two/CD countries/NNS will/MD also/RB continue/VB a/DT joint/JJ venture/NN agreement/NN to/TO produce/VB stocks/NNS of/IN the/DT boiler/NN fuel/NN orimulsion./NN
+Mr/NNP Chavez/NNP has/VBZ also/RB invited/VBN Chinese/JJ firms/NNS to/TO bid/VB for/IN gas/NN exploration/NN contracts/NNS which/WDT his/PRP$ government/NN will/MD offer/VB next/JJ year/NN in/IN the/DT western/JJ Gulf/NNP of/IN Venezuela./NNP
+The/DT two/CD countries/NNS also/RB signed/VBD a/DT number/NN of/IN other/JJ agreements/NNS covering/VBG other/JJ industries/NNS including/VBG mining./NN

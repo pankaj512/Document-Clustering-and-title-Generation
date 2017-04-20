@@ -1,0 +1,21 @@
+Smartphones/NNP suffer/VB Skulls/NNP attack/NN
+
+Owners/NNS of/IN some/DT Nokia/NNP smartphones/NNS are/VBP being/VBG warned/VBD to/TO watch/VB out/RP for/IN malicious/JJ wallpaper./NN
+
+Those/DT downloading/VBG the/DT software/NN could/MD find/VB all/PDT the/DT icons/NNS on/IN their/PRP$ 7610/CD phone/NN swapped/VBN for/IN images/NNS of/IN skulls./NN
+When/WRB installed/VBN the/DT malicious/JJ program/NN also/RB locks/VBZ many/JJ of/IN the/DT 7610's/CD functions/NNS making/VBG it/PRP hard/JJ to/TO use/VB and/CC harder/JJR to/TO repair./VB
+The/DT program/NN is/VBZ only/RB the/DT latest/JJS in/IN a/DT series/NN of/IN viruses/NNS produced/VBN to/TO attack/VB mobile/JJ phones./NN
+
+The/DT file/NN nicknamed/VBD Skulls/NNP is/VBZ thought/VBN to/TO have/VB surfaced/VBN on/IN shareware/NN sites/NNS where/WRB people/NNS can/MD pick/VB up/RP free/JJ add-ons/NNS such/JJ as/IN wallpaper/NN games/NNS and/CC ringtones/NNS for/IN their/PRP$ phones/NNS Symbian/NNP said/VBD that/IN it/PRP was/VBD not/RB sure/JJ if/IN the/DT damage/NN Skulls/NNP does/VBZ was/VBD intentional/JJ or/CC simply/RB a/DT result/NN of/IN bad/JJ programming./NN
+Soon/RB after/IN being/VBG discovered/VBN the/DT file/NN is/VBZ thought/VBN to/TO have/VB been/VBN removed/VBN from/IN the/DT sites/NNS that/WDT were/VBD unwittingly/RB harbouring/VBG it./NN
+The/DT program/NN is/VBZ masquerading/VBG as/IN software/NN that/WDT creates/VBZ new/JJ background/NN images/NNS and/CC themes/NNS for/IN the/DT main/JJ screen/NN of/IN the/DT 7610/CD phone./NN
+The/DT Skulls/NNP program/NN is/VBZ labelled/VBN as/IN a/DT file/NN called/VBN 7610.extended.theme.manager.zip./CD
+
+Once/RB installed/VBN the/DT program/NN replaces/VBZ all/PDT the/DT icons/NNS on/IN the/DT main/JJ page/NN with/IN skulls/NNS and/CC replaces/VBZ all/PDT the/DT working/VBG applications/NNS such/JJ as/IN contacts/NNS calendar/NN notebook/NN etc/FW with/IN non-working/JJ versions/NNS so/IN the/DT phone/NN becomes/VBZ almost/RB useless./NN
+The/DT only/JJ thing/NN the/DT phone/NN can/MD do/VB is/VBZ make/VB and/CC take/VB calls./NN
+A/DT statement/NN by/IN Symbian/NNP played/VBD down/RP the/DT significance/NN of/IN the/DT malicious/JJ program/NN and/CC said/VBD few/JJ people/NNS would/MD fall/VB victim/NN to/TO it/PRP as/IN users/NNS have/VBP to/TO go/VB through/IN several/JJ steps/NNS to/TO install/VB it/PRP one/CD of/IN which/WDT includes/VBZ ignoring/VBG a/DT security/NN warning./NN
+Symbian/NNP said/VBD that/IN the/DT spread/NN of/IN the/DT Skulls/NNP program/NN was/VBD likely/JJ to/TO be/VB limited/JJ as/IN the/DT program/NN cannot/NN travel/NN from/IN one/CD phone/NN to/TO another/DT by/IN itself./NN
+Despite/IN this/DT Finnish/JJ anti-virus/JJ lab/NN F-Secure/NNP said/VBD it/PRP had/VBD sporadic/JJ reports/NNS of/IN 7610/CD owners/NNS being/VBG caught/VBN out/RP by/IN it./NN
+The/DT firm/NN has/VBZ produced/VBN guidance/NN for/IN users/NNS caught/VBD out/RP to/TO help/VB them/PRP remove/VB the/DT program/NN and/CC get/VB their/PRP$ phone/NN working/VBG again./NN
+The/DT Skulls/NNP program/NN is/VBZ thought/VBN to/TO have/VB been/VBN written/VBN by/IN a/DT malicious/JJ hacker/NN using/VBG the/DT alias/NNS Tee-222./JJ
+Symbian/NN phones/NNS produced/VBN by/IN Sony/NNP Ericsson/NNP Motorola/NNP BenQ/NNP Arima/NNP and/CC Fujitsu/NNP are/VBP unaffected/JJ by/IN the/DT Skulls/NNP program./NN

@@ -1,0 +1,10 @@
+Fear/NN will/MD help/VB France/NNP -/: Laporte/NNP
+
+France/NNP coach/NN Bernard/NNP Laporte/NNP believes/VBZ his/PRP$ team/NN will/MD be/VB scared/VBN going/VBG into/IN their/PRP$ game/NN with/IN England/NNP on/IN Sunday/NNP but/CC claims/NNS it/PRP will/MD work/VB in/IN their/PRP$ favour./NN
+
+The/DT French/NNP turned/VBD in/RP a/DT stuttering/VBG performance/NN as/IN they/PRP limped/VBD to/TO a/DT 16-9/JJ win/NN against/IN Scotland/NNP in/IN the/DT opening/NN match/NN of/IN the/DT Six/CD Nations/NNPS on/IN Saturday./NNP
+"We/NN will/MD go/VB to/TO Twickenham/NNP with/IN a/DT little/JJ fear/NN and/CC it'll/NN give/VBP us/PRP a/DT boost"/NN said/VBD the/DT French/JJ coach./NN
+He/PRP added/VBD "We/NN are/VBP never/RB good/JJ enough/RB when/WRB we/PRP are/VBP favourites."/NN Meanwhile/RB Perpignan/NNP centre/NN Jean-Philippe/NNP Granclaude/NNP is/VBZ delighted/JJ to/TO have/VB received/VBN his/PRP$ first/JJ call-up/JJ to/TO the/DT France/NNP squad./NN
+"It's/NN incredible"/NN the/DT youngster/NN said./NN
+"I/NN was/VBD not/RB expecting/VBG it/PRP at/IN all./NN
+"Playing/VBG with/IN the/DT France/NNP team/NN has/VBZ always/RB been/VBN a/DT dream/NN and/CC now/RB it/PRP has/VBZ come/VBN true/JJ and/CC I/PRP am/VBP about/IN to/TO face/VB England/NNP at/IN Twickenham/NNP in/IN the/DT Six/CD Nations."/NNP Laporte/NNP will/MD announce/VB his/PRP$ starting/VBG line-up/JJ on/IN Wednesday/NNP at/IN the/DT French/JJ team's/NNS training/NN centre/NN in/IN Marcoussis/NNP near/IN Paris./NNP

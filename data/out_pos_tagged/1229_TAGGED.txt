@@ -1,0 +1,28 @@
+Kilroy/NN names/NNS election/NN seat/NN target/NN
+
+Ex-chat/NN show/NN host/NN Robert/NNP Kilroy-Silk/NNP is/VBZ to/TO contest/VB the/DT Derbyshire/NNP seat/NN of/IN Erewash/NNP at/IN the/DT next/JJ general/JJ election./NN
+
+Labour's/NNP Elizabeth/NNP Blackman/NNP won/VBD the/DT seat/NN in/IN 1997/CD and/CC has/VBZ a/DT 6932/CD majority./NN
+She/PRP says/VBZ she/PRP will/MD fight/VB on/IN her/PRP$ record/NN "as/NN a/DT hard-working/JJ constituency/NN MP"./NNP
+Mr/NNP Kilroy-Silk/NNP announced/VBD his/PRP$ plans/NNS a/DT day/NN after/IN launching/VBG his/PRP$ new/JJ party/NN Veritas/NNP the/DT Latin/NNP for/IN truth./NN
+The/DT East/NNP Midlands/NNP MEP/NNP who/WP quit/VBD the/DT UK/NNP Independence/NNP Party/NNP wants/VBZ his/PRP$ new/JJ group/NN to/TO "change/VB the/DT face"/NN of/IN UK/NNP politics./NN
+His/PRP$ choice/NN of/IN election/NN constituency/NN quashes/NNS speculation/NN that/IN he/PRP would/MD stand/VB against/IN Defence/NNP Secretary/NNP Geoff/NNP Hoon/NNP in/IN Ashfield/NNP Nottinghamshire./NNP
+UKIP/NNP won/VBD 31%/CD of/IN the/DT vote/NN in/IN Erewash/NNP in/IN last/JJ June's/JJ European/JJ elections/NNS -/: with/IN Mr/NNP Kilroy-Silk/NNP among/IN their/PRP$ candidates/NNS for/IN the/DT region./NN
+Until/IN 1997/CD Erewash/NNP had/VBD been/VBN held/VBN by/IN the/DT Tories/NNPS since/IN 1970./CD
+Ms/NNP Blackman/NNP said/VBD she/PRP was/VBD proud/JJ of/IN the/DT government's/NNS achievements/NNS in/IN the/DT area./NN
+She/PRP declined/VBD to/TO give/VB her/PRP$ view/NN of/IN Mr/NNP Kilroy-Silk/NNP at/IN this/DT point./NN
+
+On/IN Thursday/NNP he/PRP told/VBD a/DT London/NNP news/NN conference/NN that/IN Veritas/NNP would/MD avoid/VB the/DT old/JJ parties'/NN "lies/NN and/CC spin"./NN
+He/PRP said/VBD "our/NN country"/NN was/VBD being/VBG "stolen/NN from/IN us"/NN by/IN mass/NN immigration/NN and/CC promised/VBD a/DT "firm/NN but/CC fair"/NN policy/NN on/IN immigration./NN
+Veritas/NNP says/VBZ it/PRP hopes/VBZ to/TO contest/VB most/JJS seats/NNS at/IN the/DT forthcoming/JJ general/JJ election/NN but/CC plans/VBZ to/TO announce/VB detailed/JJ policies/NNS on/IN crime/NN tax/NN pensions/NNS health/NN and/CC defence/NN over/IN the/DT next/JJ few/JJ weeks./NN
+
+UKIP/NNP leader/NN Roger/NNP Knapman/NNP says/VBZ he/PRP is/VBZ glad/JJ to/TO see/VB the/DT back/NN of/IN Mr/NNP Kilroy-Silk./NNP
+Labour/NNP campaign/NN spokesman/NN Fraser/NNP Kemp/NNP said/VBD Veritas/NNP was/VBD joining/VBG "an/NN already/RB crowded/VBD field/NN on/IN the/DT right/NN of/IN British/JJ politics"./NN
+Mr/NNP Kilroy-Silk/NNP was/VBD joined/VBN in/IN the/DT new/JJ venture/NN by/IN one/CD of/IN UKIP's/NNP two/CD London/NNP Assembly/NNP members/NNS Damien/NNP Hockney/NNP who/WP is/VBZ now/RB Veritas'/NNP deputy/NN leader./NN
+
+UKIP's/NNP chairman/NN Petrina/NNP Holdsworth/NNP has/VBZ said/VBD the/DT group/NN will/MD just/RB be/VB a/DT parody/NN of/IN the/DT party/NN the/DT men/NNS have/VBP left./NN
+Mr/NNP Kilroy-Silk/NNP quit/VBD UKIP/NNP last/JJ week/NN after/IN months/NNS of/IN tension/NN as/IN he/PRP vied/VBD unsuccessfully/RB for/IN the/DT leadership/NN of/IN that/DT party./NN
+He/PRP said/VBD he/PRP was/VBD ashamed/JJ to/TO be/VB a/DT member/NN of/IN a/DT UKIP/NNP whose/WP$ leadership/NN had/VBD "gone/JJ AWOL"/NNP after/IN the/DT great/JJ opportunity/NN offered/VBN by/IN its/PRP$ third/JJ place/NN at/IN last/JJ June's/JJ European/JJ elections./NN
+UKIP's/NNP leader/NN Roger/NNP Knapman/NNP has/VBZ said/VBN he/PRP is/VBZ glad/JJ to/TO see/VB the/DT back/NN of/IN Mr/NNP Kilroy-Silk./NNP
+"He/NN has/VBZ remarkable/JJ ability/NN to/TO influence/VB people/NNS but/CC sadly/RB after/IN the/DT [European]/NN election/NN it/PRP became/VBD clear/JJ that/IN he/PRP was/VBD more/RBR interested/JJ in/IN the/DT Robert/NNP Kilroy-Silk/NNP Party/NNP than/IN the/DT UK/NNP Independence/NNP Party/NNP so/IN it/PRP was/VBD nice/JJ knowing/NN him/PRP now/RB 'goodbye'"/VBP he/PRP said./VB
+UKIP/NN officials/NNS also/RB argue/VBP Mr/NNP Kilroy-Silk/NNP has/VBZ not/RB been/VBN "straightforward"/NN in/IN attacking/VBG the/DT party/NN he/PRP once/RB wanted/VBD to/TO lead./VB

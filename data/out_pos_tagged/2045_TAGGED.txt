@@ -1,0 +1,22 @@
+Halo/NN 2/CD heralds/NNS traffic/NN explosion/NN
+
+The/DT growing/VBG popularity/NN of/IN online/NN gaming/NN could/MD spell/VB problems/NNS for/IN net/JJ service/NN firms/NNS warns/VBZ network/NN monitoring/NN company/NN Sandvine./NNP
+
+It/PRP issued/VBD the/DT warning/NN following/VBG analysis/NN which/WDT shows/VBZ that/IN traffic/NN on/IN the/DT Xbox/NNP game/NN network/NN increased/VBD fourfold/NN on/IN the/DT launch/NN day/NN of/IN Halo/NN 2./CD
+The/DT 9/CD November/NNP traffic/NN explosion/NN has/VBZ continued/VBN into/IN December/NNP said/VBD Sandvine./NNP
+Service/NN providers/NNS now/RB need/VBP to/TO make/VB sure/JJ that/IN their/PRP$ networks/NNS can/MD cope/VB with/IN the/DT increasing/VBG demands/NNS for/IN bandwidth./NN
+As/RB well/RB as/IN being/VBG a/DT popular/JJ single-player/JJ title/NN Halo/NN 2/CD can/MD be/VB connected/VBN to/TO Microsoft's/NNP subscription-based/JJ broadband/NN network/NN Xbox/NNP Live./NNP
+Gamers/NNP who/WP want/VBP to/TO play/VB online/NN can/MD create/VB their/PRP$ own/JJ clan/NN or/CC team/NN and/CC take/VB on/RP others/NNS to/TO see/VB how/WRB well/RB they/PRP compare./VBP
+
+But/CC the/DT surge/NN in/IN numbers/NNS and/CC huge/JJ demands/NNS for/IN bandwidth/NN should/MD be/VB a/DT wake-up/JJ call/NN to/TO the/DT industry/NN which/WDT must/MD ensure/VB that/IN their/PRP$ networks/NNS can/MD cope/VB with/IN the/DT increases/NNS in/IN traffic/NN said/VBD Sandvine's/NNP chief/JJ technology/NN officer/NN Marc/NNP Morin./NNP
+
+In/IN a/DT bid/NN to/TO cope/VB and/CC ease/VB congestion/NN providers/NNS are/VBP increasingly/RB making/VBG their/PRP$ networks/NNS intelligent/JJ finding/NN out/RP who/WP is/VBZ using/VBG bandwidth/NN and/CC for/IN what./NN
+It/PRP could/MD become/VB common/JJ to/TO charge/VB people/NNS for/IN the/DT amount/NN of/IN bandwidth/NN they/PRP use./VBP
+"The/NN explosion/NN in/IN Xbox/NNP Live/JJ traffic/NN attributed/VBN to/TO Halo/VB 2/CD should/MD be/VB seen/VBN as/IN a/DT clarion/NN call"/NN he/PRP said./VB
+"ISPs/NN need/VBP to/TO enhance/VB the/DT broadband/NN experience/NN for/IN these/DT high-end/JJ users/NNS by/IN prioritising/VBG or/CC reserving/VBG bandwidth/NN for/IN games"/NN he/PRP added./VB
+
+One/CD of/IN the/DT main/JJ factors/NNS that/IN spoils/NNS online/NN gaming/NN is/VBZ "lag"/NN in/IN which/WDT there/EX is/VBZ a/DT noticeable/JJ delay/NN between/IN a/DT gamer/NN clicking/VBG on/IN a/DT mouse/NN or/CC keyboard/NN and/CC what/WP happens/VBZ in/IN the/DT online/NN gaming/NN world./NN
+Gamers/NNS tend/VBP to/TO migrate/VB toward/IN networks/NNS with/IN the/DT lowest/JJS "lag"./NN
+Analysing/NNP traffic/NN will/MD become/VB increasingly/RB important/JJ for/IN service/NN providers/NNS if/IN they/PRP are/VBP to/TO hold/VB on/RP to/TO bandwidth-hungry/JJ gamers/NNS said/VBD Lindsay/NNP Schroth/NNP an/DT analyst/NN with/IN research/NN firm/NN The/DT Yankee/NNP Group./NNP
+"In/NN the/DT competitive/JJ broadband/NN environment/NN operators/NNS need/VBP to/TO differentiate/VB the/DT way/NN they/PRP offer/VBP access/NN to/TO services/NNS like/IN live-play/JJ gaming"/NN she/PRP said./VBP
+In/IN countries/NNS such/JJ as/IN Korea/NNP which/WDT has/VBZ high/JJ levels/NNS of/IN fast/RB net/JJ connections/NNS to/TO homes/NNS online/NN gaming/NN is/VBZ hugely/RB popular./NN

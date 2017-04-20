@@ -1,0 +1,19 @@
+GM/NNP issues/NNS 2005/CD profits/NNS warning/NN
+
+General/NNP Motors/NNPS has/VBZ warned/VBN that/IN it/PRP expects/VBZ earnings/NNS this/DT year/NN be/VB lower/JJR than/IN in/IN 2004./CD
+
+The/DT world's/NNS biggest/JJS car/NN maker/NN is/VBZ grappling/VBG with/IN losses/NNS in/IN its/PRP$ European/JJ business/NN and/CC weak/JJ US/PRP sales./VBP
+GM/NNP said/VBD higher/JJR healthcare/NN costs/NNS in/IN North/NNP America/NNP and/CC lower/JJR profits/NNS at/IN its/PRP$ financial/JJ services/NNS subsidiary/NN would/MD hurt/VB its/PRP$ performance/NN in/IN 2005./CD
+GM/NNP said/VBD it/PRP expects/VBZ to/TO meet/VB its/PRP$ 2004/CD earnings/NNS targets/NNS "despite/VBP a/DT tough/JJ competitive/JJ environment"./NN
+
+GM/NNP whose/WP$ brands/NNS include/VBP Buick/NNP Cadillac/NNP and/CC Chevrolet/NNP in/IN the/DT US/PRP and/CC Opel/NNP Saab/NNP and/CC Vauxhall/NNP in/IN Europe/NNP is/VBZ due/JJ to/TO reveal/VB 2004/CD earnings/NNS on/IN 19/CD January./NNP
+
+It/PRP said/VBD it/PRP would/MD deliver/VB a/DT shareholder/NN payout/NN of/IN $6.0-$6.5/JJ per/IN share/NN this/DT year/NN as/IN promised/VBN but/CC that/IN next/JJ year's/NNS earnings/NNS per/IN share/NN would/MD be/VB lower/JJR at/IN between/IN $4.0-$5.0./JJ
+"We're/NN following/VBG a/DT roadmap/NN that/IN we/PRP believe/VBP will/MD deliver/VB strong/JJ results"/NN said/VBD GM/NNP chief/NN executive/NN Rick/NNP Waggoner./NNP
+GM/NNP said/VBD it/PRP was/VBD expecting/VBG "reduced/VBN financial/JJ losses"/NN in/IN Europe/NNP in/IN 2005./CD
+It/PRP is/VBZ in/IN the/DT midst/NN of/IN cutting/VBG 12000/CD jobs/NNS -/: one/CD fifth/JJ of/IN the/DT European/JJ total/NN -/: in/IN a/DT bid/NN to/TO cut/VB costs./NN
+The/DT biggest/JJS job/NN losses/NNS are/VBP in/IN Germany./NNP
+Its/PRP$ vehicle/NN businesses/NNS have/VBP gained/VBN market/NN share/NN in/IN three/CD out/IN of/IN four/CD regions/NNS in/IN 2004/CD achieving/VBG record/NN profitability/NN in/IN Asia/NNP Pacific/NNP and/CC returning/VBG to/TO profit/VB in/IN Latin/NNP America/NNP the/DT Middle/NNP East/NNP and/CC Africa./NNP
+The/DT car/NN maker/NN has/VBZ diversified/JJ into/IN financial/JJ services/NNS and/CC is/VBZ extending/VBG the/DT reach/NN of/IN General/NNP Motors/NNPS Acceptance/NNP Corp/NNP (GMAC)/NN which/WDT has/VBZ said/VBN it/PRP may/MD enter/VB the/DT home/NN loans/NNS market./NN
+GMAC/NNP has/VBZ been/VBN a/DT strong/JJ contributor/NN to/TO profits/NNS in/IN 2004/CD but/CC GM/NNP said/VBD it/PRP will/MD do/VB less/RBR well/RB this/DT year/NN delivering/VBG net/JJ income/NN of/IN $2.5bn./CD
+"Attaining/VBG earnings/NNS of/IN $10/CD a/DT share/NN remains/VBZ GM's/NNP goal"/NN the/DT company/NN said/VBD adding/VBG it/PRP believes/VBZ it/PRP can/MD achieve/VB this/DT in/IN 2007./CD

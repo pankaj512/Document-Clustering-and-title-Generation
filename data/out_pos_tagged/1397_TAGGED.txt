@@ -1,0 +1,8 @@
+Holmes/NNP starts/VBZ 2005/CD with/IN GB/NNP events/NNS
+
+Kelly/NNP Holmes/NNP will/MD start/VB 2005/CD with/IN a/DT series/NN of/IN races/NNS in/IN Britain./NNP
+
+Holmes/NNP will/MD make/VB her/PRP$ first/JJ track/NN appearance/NN on/IN home/NN soil/NN since/IN winning/VBG double/JJ Olympic/NNP gold/NN in/IN January's/NNP Norwich/NNP Union/NNP International/NNP in/IN Glasgow./NNP
+She/PRP will/MD also/RB run/VB in/IN the/DT Grand/NNP Prix/NNP in/IN Birmingham/NNP in/IN February/NNP and/CC may/MD defend/VB her/PRP$ indoor/JJ AAA/NNP 800m/CD title/NN in/IN Sheffield/NNP earlier/RBR that/DT month./NN
+"I/NN am/VBP still/RB competitive/JJ and/CC still/RB want/VBP to/TO win"/VB she/PRP said./VBP
+"I'm/NN an/DT athlete/NN and/CC I/PRP can't/VBP wait/NN to/TO get/VB back/RB on/IN the/DT track."/NN She/PRP added/VBD "These/NN events/NNS are/VBP also/RB a/DT great/JJ opportunity/NN to/TO thank/VB the/DT British/JJ public/NN for/IN the/DT enormous/JJ levels/NNS of/IN support/NN they/PRP have/VBP given/VBN me/PRP from/IN the/DT moment/NN I/PRP stepped/VBD off/RP that/IN plane/NN from/IN Greece."/NNP The/DT Glasgow/NNP meeting/NN will/MD see/VB Holmes/NNP compete/VB over/IN 1500m/CD in/IN a/DT five-way/JJ match/NN against/IN Sweden/NNP France/NNP Russia/NNP and/CC Italy./NNP

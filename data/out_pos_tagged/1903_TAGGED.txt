@@ -1,0 +1,23 @@
+Software/NNP watching/VBG while/IN you/PRP work/VBP
+
+Software/NNP that/WDT can/MD not/RB only/RB monitor/VB every/DT keystroke/NN and/CC action/NN performed/VBN at/IN a/DT PC/NN but/CC also/RB be/VB used/VBN as/RB legally/RB binding/JJ evidence/NN of/IN wrong-doing/JJ has/VBZ been/VBN unveiled./NN
+
+Worries/NNS about/IN cyber-crime/JJ and/CC sabotage/VB have/VBP prompted/VBN many/JJ employers/NNS to/TO consider/VB monitoring/NN employees./NN
+The/DT developers/NNS behind/IN the/DT system/NN claim/NN it/PRP is/VBZ a/DT break-through/NN in/IN the/DT way/NN data/NNS is/VBZ monitored/VBN and/CC stored./NN
+But/CC privacy/NN advocates/NNS are/VBP concerned/VBN by/IN the/DT invasive/JJ nature/NN of/IN such/JJ software./NN
+
+The/DT system/NN is/VBZ a/DT joint/JJ venture/NN between/IN security/NN firm/NN 3ami/CD and/CC storage/NN specialists/NNS BridgeHead/NNP Software./NNP
+They/PRP have/VBP joined/VBN forces/NNS to/TO create/VB a/DT system/NN which/WDT can/MD monitor/VB computer/NN activity/NN store/NN it/PRP and/CC retrieve/VB disputed/JJ files/NNS within/IN minutes./NN
+More/JJR and/CC more/JJR firms/NNS are/VBP finding/VBG themselves/PRP in/IN deep/JJ water/NN as/IN a/DT result/NN of/IN data/NNS misuse./NN
+Sabotage/VB and/CC data/NNS theft/NN are/VBP most/RBS commonly/RB committed/VBN from/IN within/IN an/DT organisation/NN according/VBG to/TO the/DT National/NNP Hi-Tech/JJ Crime/NN Unit/NNP (NHTCU)/NN A/DT survey/NN conducted/VBN on/IN its/PRP$ behalf/NN by/IN NOP/NNP found/VBD evidence/NN that/IN more/JJR than/IN 80%/CD of/IN medium/NN and/CC large/JJ companies/NNS have/VBP been/VBN victims/NNS of/IN some/DT form/NN of/IN cyber-crime./JJ
+BridgeHead/NNP Software/NNP has/VBZ come/VBN up/RP with/IN techniques/NNS to/TO prove/VB to/TO a/DT legal/JJ standard/NN that/IN any/DT stored/VBD file/VB on/IN a/DT PC/NN has/VBZ not/RB been/VBN tampered/VBN with./NN
+Ironically/RB the/DT impetus/NN for/IN developing/VBG the/DT system/NN came/VBD as/IN a/DT result/NN of/IN the/DT Freedom/NNP of/IN Information/NNP Act/NNP which/WDT requires/VBZ companies/NNS to/TO store/VB all/DT data/NNS for/IN a/DT certain/JJ amount/NN of/IN time./NN
+
+The/DT storage/NN system/NN has/VBZ been/VBN incorporated/VBN into/IN an/DT application/NN developed/VBN by/IN security/NN firm/NN 3ami/CD which/WDT allows/VBZ every/DT action/NN on/IN a/DT computer/NN to/TO be/VB logged./NN
+Potentially/RB it/PRP could/MD help/VB employers/NNS to/TO follow/VB the/DT trail/NN of/IN stolen/VBN files/NNS and/CC pinpoint/VB whether/IN they/PRP had/VBD been/VBN emailed/VBN to/TO a/DT third/JJ party/NN copied/VBN printed/VBN deleted/VBN or/CC saved/VBN to/TO CD/NNP floppy/JJ disk/NN memory/NN stick/VB or/CC flash/VB card./NN
+Other/JJ activities/NNS the/DT system/NN can/MD monitor/VB include/VB the/DT downloading/NN of/IN pornography/NN the/DT use/NN of/IN racist/JJ or/CC bullying/VBG language/NN or/CC the/DT copying/NN of/IN applications/NNS for/IN personal/JJ use./NN
+Increasingly/RB organisations/NNS that/WDT handle/VBP sensitive/JJ data/NNS such/JJ as/IN governments/NNS are/VBP using/VBG biometric/JJ log-ins/NNS such/JJ as/IN fingerprinting/VBG to/TO provide/VB conclusive/JJ proof/NN of/IN who/WP was/VBD using/VBG a/DT particular/JJ machine/NN at/IN any/DT given/VBN time./NN
+Privacy/NN advocates/NNS are/VBP concerned/VBN that/IN monitoring/NN at/IN work/NN is/VBZ not/RB only/RB damaging/JJ to/TO employee's/NNS privacy/NN but/CC also/RB to/TO the/DT relationship/NN between/IN employers/NNS and/CC their/PRP$ staff./NN
+"That/NN is/VBZ not/RB the/DT case"/NN said/VBD Tim/NNP Ellsmore/NNP managing/VBG director/NN of/IN 3ami./CD
+"It/NN is/VBZ not/RB about/IN replacing/VBG dialogue/NN but/CC there/EX are/VBP issues/NNS that/IN you/PRP can/MD talk/VB through/IN but/CC you/PRP still/RB need/VBP proof"/NN he/PRP said./VB
+"People/NN need/VBP to/TO recognise/VB that/IN you/PRP are/VBP using/VBG a/DT PC/NN as/IN a/DT representative/NN of/IN a/DT company/NN and/CC that/IN employers/NNS have/VBP a/DT legal/JJ requirement/NN to/TO store/VB data"/NN he/PRP added./VB

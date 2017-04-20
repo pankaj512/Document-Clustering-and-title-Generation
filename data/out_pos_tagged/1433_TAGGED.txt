@@ -1,0 +1,13 @@
+Barcelona/NNP title/NN hopes/VBZ hit/VBN by/IN loss/NN
+
+Barcelona's/NNP pursuit/NN of/IN the/DT Spanish/JJ title/NN took/VBD a/DT blow/NN on/IN Sunday/NNP as/IN they/PRP fell/VBD to/TO a/DT 2-0/JJ defeat/NN at/IN home/NN to/TO Atletico/NNP Madrid./NNP
+
+Fernando/NNP Torres/NNP gave/VBD Athletico/NNP an/DT ideal/JJ start/NN with/IN a/DT goal/NN in/IN the/DT first/JJ minute./NN
+Ronaldino/NNP wasted/VBD a/DT second-half/JJ chance/NN to/TO equalise/VB for/IN Barca/NNP when/WRB he/PRP put/VB a/DT penalty/NN wide/JJ but/CC Torres/NNP made/VBD no/DT such/JJ mistake/NN with/IN a/DT last-minute/JJ spot-kick./JJ
+The/DT defeat/NN coupled/VBD with/IN Real/JJ Madrid's/NNP 4-0/JJ win/NN over/IN Espanyol/NNP on/IN Saturday/NNP reduces/VBZ Barca's/NNP lead/VB to/TO four/CD points./NN
+Former/NNP Everton/NNP midfielder/NN Thomas/NNP Gravesen/NNP scored/VBD his/PRP$ first/JJ goal/NN for/IN Real/JJ in/IN the/DT comfortable/JJ victory/NN at/IN the/DT Bernabeu./NNP
+Zinedine/NNP Zidane/NNP had/VBD opened/VBN the/DT scoring/NN before/IN Raul/NNP bagged/VBD a/DT brace./NN
+Gravesen/NNP who/WP replaced/VBD Zidane/NNP completed/VBD the/DT scoring/NN in/IN the/DT 84th/JJ minute/NN with/IN a/DT low/JJ shot./NN
+David/NNP Beckham/NNP watched/VBD by/IN Sven-Goran/NNP Eriksson/NNP came/VBD off/RP in/IN the/DT 67th/JJ minute/NN with/IN a/DT shoulder/NN injury/NN but/CC should/MD be/VB fit/VBN for/IN England's/NNP game/NN against/IN Holland./NNP
+England/NNP team-mate/JJ Michael/NNP Owen/NNP came/VBD on/IN for/IN Raul/NNP after/IN 76/CD minutes/NNS with/IN the/DT game/NN already/RB won./NN
+Real/JJ have/VBP now/RB won/VBN six/CD consecutive/JJ Primera/NNP Liga/NNP games/NNS since/IN coach/NN Wanderley/NNP Luxemburgo/NNP took/VBD charge./NN

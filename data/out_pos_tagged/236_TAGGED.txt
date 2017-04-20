@@ -1,0 +1,25 @@
+Card/NN fraudsters/NNS 'targeting/VBG web'/NN
+
+New/JJ safeguards/NNS on/IN credit/NN and/CC debit/NN card/NN payments/NNS in/IN shops/NNS has/VBZ led/VBN fraudsters/NNS to/TO focus/VB on/IN internet/JJ and/CC phone/NN payments/NNS an/DT anti-fraud/JJ agency/NN has/VBZ said./NN
+
+Anti-fraud/JJ consultancy/NN Retail/JJ Decisions/NNS says/VBZ 'card-not-present'/JJ fraud/NN where/WRB goods/NNS are/VBP paid/VBN for/IN online/NN or/CC by/IN phone/NN has/VBZ risen/VBN since/IN the/DT start/NN of/IN 2005./CD
+The/DT introduction/NN of/IN 'chip/NN and/CC pin'/NN cards/NNS has/VBZ tightened/VBN security/NN for/IN transactions/NNS on/IN the/DT High/NNP Street./NNP
+But/CC the/DT clampdown/NN has/VBZ caused/VBN fraudsters/NNS to/TO change/VB tack/NN Retail/JJ Decisions/NNS said./NN
+
+The/DT introduction/NN of/IN chip/NN and/CC pin/VB cards/NNS aimed/VBN to/TO cut/VB down/RP on/IN credit/NN card/NN fraud/NN in/IN stores/NNS by/IN asking/VBG shoppers/NNS to/TO verify/VB their/PRP$ identity/NN with/IN a/DT confidential/JJ personal/JJ pin/NN number/NN instead/RB of/IN a/DT signature./NN
+Retail/JJ Decisions/NNS chief/JJ executive/NN Carl/NNP Clump/NN told/VBD the/DT BBC/NNP that/IN there/EX was/VBD "no/NN doubt"/NN that/DT chip/NN and/CC pin/VB would/MD "reduce/VB card/NN fraud/NN in/IN the/DT card-present/JJ environment"./NN
+"However/NN it/PRP is/VBZ important/JJ to/TO monitor/VB what/WP happens/VBZ in/IN the/DT card-not-present/JJ environment/NN as/IN fraudsters/NNS will/MD turn/VB their/PRP$ attention/NN to/TO the/DT internet/JJ mail/NN order/NN telephone/NN order/NN and/CC interactive/JJ TV"/NNP he/PRP said./VB
+"We/NN have/VBP seen/VBN a/DT 22%/CD uplift/NN in/IN card-not-present/JJ fraud/NN here/RB in/IN the/DT UK.../NNP
+since/IN the/DT start/NN of/IN the/DT year./NN
+"Fraud/NN doesn't/NN just/RB disappear/VB it/PRP mutates/NNS to/TO the/DT next/JJ weakest/JJS link/NN in/IN the/DT chain"/NN he/PRP said./VB
+
+Retail/JJ Decisions'/NNP survey/NN on/IN the/DT implementation/NN of/IN chip/NN and/CC pin/VB found/VBD that/IN shoppers/NNS had/VBD adapted/VBN easily/RB to/TO the/DT new/JJ system/NN but/CC that/DT banks'/NN performance/NN in/IN distributing/VBG the/DT new/JJ cards/NNS had/VBD been/VBN patchy/NN at/IN best./NN
+"The/NN main/JJ issue/NN is/VBZ that/IN not/RB everyone/NN has/VBZ the/DT pins/NNS they/PRP need"/VBP said/VBD Mr/NNP Clump./NNP
+Nearly/RB two/CD thirds/NNS -/: 65%/CD -/: of/IN the/DT 1000/CD people/NNS interviewed/VBD said/VBN they/PRP had/VBD used/VBN chip/NN and/CC pin/VB to/TO make/VB payments./NN
+Of/IN these/DT 83%/CD were/VBD happy/JJ with/IN the/DT experience/NN though/IN nearly/RB a/DT quarter/NN said/VBD they/PRP struggled/VBD to/TO remember/VB their/PRP$ pin/NN number./NN
+However/RB only/RB 34%/CD said/VBD they/PRP had/VBD received/VBN replacement/NN cards/NNS with/IN the/DT necessary/JJ 'chip'/NN technology/NN from/IN all/DT their/PRP$ card/NN providers./NN
+Furthermore/RB 16%/CD said/VBD that/IN none/NN of/IN their/PRP$ cards/NNS had/VBD been/VBN replaced/VBN while/IN 30%/CD said/VBD only/RB some/DT had./NN
+UK/NN shoppers/NNS spent/VBD £5.3bn/CD on/IN plastic/JJ cards/NNS in/IN 2003/CD the/DT last/JJ full/JJ year/NN for/IN which/WDT figures/NNS are/VBP available/JJ from/IN the/DT Association/NNP of/IN Payment/NN Clearing/NNP Services/NNPS (Apacs)./NN
+Altogether/RB card/NN scams/NNS on/IN UK-issued/NNP cards/NNS totalled/VBD £402.4m/CD in/IN 2003./CD
+Card-not-present/NNP fraud/NN rose/VBD an/DT annual/JJ 6%/CD to/TO £116.4m/CD making/VBG it/PRP the/DT biggest/JJS category/NN even/RB then./NN
+Within/IN this/DT internet/JJ fraud/NN totalled/VBD £43m/CD Apacs'/NNP figures/NNS show./NN

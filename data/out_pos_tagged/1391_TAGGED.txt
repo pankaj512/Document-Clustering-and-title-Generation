@@ -1,0 +1,10 @@
+Butler/NN strikes/NNS gold/NN in/IN Spain/NNP
+
+Britain's/NNP Kathy/NNP Butler/NNP continued/VBD her/PRP$ impressive/JJ year/NN with/IN victory/NN in/IN Sunday's/NNP 25th/JJ Cross/NNP Internacional/NNP de/IN Venta/NNP de/IN Banos/NNP in/IN Spain./NNP
+
+The/DT Scot/NNP who/WP led/VBD GB/NNP to/TO World/NNP Cross/NNP Country/NNP bronze/NN earlier/RBR this/DT year/NN moved/VBD away/RB from/IN the/DT field/NN with/IN Ines/NNP Monteiro/NNP halfway/NN into/IN the/DT 6.6km/CD race./NN
+She/PRP then/RB shrugged/VBD off/RP her/PRP$ Portuguese/NNP rival/JJ to/TO win/VB in/IN 20/CD minutes/NNS 38/CD seconds./NN
+Meanwhile/RB Briton/NNP Karl/NNP Keska/NNP battled/VBD bravely/RB to/TO finish/VB seventh/JJ in/IN the/DT men's/NNS 10.6km/CD race/NN in/IN a/DT time/NN of/IN 3141./CD
+Kenenisa/NNP Bekele/NNP of/IN Ethiopia/NNP -/: the/DT reigning/VBG world/NN long/JJ and/CC short/JJ course/NN champion/NN -/: was/VBD never/RB troubled/JJ by/IN any/DT of/IN the/DT opposition/NN winning/VBG leisurely/JJ in/IN 30.26./CD
+Butler/NNP said/VBD of/IN her/PRP$ success/NN "I/NN felt/VBD great/JJ throughout/IN the/DT race/NN and/CC hope/VB this/DT is/VBZ a/DT good/JJ beginning/NN for/IN a/DT marvellous/JJ 2005/CD season/NN for/IN me."/NN Elsewhere/RB Abebe/NNP Dinkessa/NNP of/IN Ethiopia/NNP won/VBD the/DT Brussels/NNP IAAF/NNP cross-country/JJ race/NN on/IN Sunday/NNP completing/VBG the/DT 10500m/CD course/NN in/IN 33.22./CD
+Gelete/NNP Burka/NNP then/RB crowned/VBD a/DT great/JJ day/NN for/IN Ethiopia/NNP by/IN claiming/VBG victory/NN in/IN the/DT women's/NNS race./NN

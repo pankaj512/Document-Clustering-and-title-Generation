@@ -1,0 +1,19 @@
+Mansfield/NNP 0-1/JJ Leyton/NNP Orient/NNP
+
+An/DT second-half/JJ goal/NN from/IN Andy/NNP Scott/NNP condemned/VBD Mansfield/NNP to/TO a/DT ninth/JJ successive/JJ game/NN without/IN a/DT win./NN
+
+Early/RB in/IN the/DT second/JJ half/NN Wayne/NNP Carlisle's/NNP cross/VB was/VBD met/VBN by/IN Scott/NNP and/CC he/PRP blasted/VBD the/DT ball/NN home/NN from/IN just/RB outside/IN the/DT penalty/NN area./NN
+As/IN Orient/NNP chased/VBD a/DT second/JJ Mansfield/NNP had/VBD to/TO clear/JJ Alan/NNP White's/NNP header/NN off/RP the/DT line/NN and/CC Kevin/NNP Pilkington/NNP saved/VBD well/RB from/IN Michael/NNP Simpson./NNP
+By/IN the/DT end/NN Mansfield/NNP fans/NNS were/VBD chanting/VBG for/IN the/DT head/NN of/IN chairman/NN Keith/NNP Haslam./NNP
+
+Pilkington/NNP Talbot/NNP Buxton/NNP Dimech/NNP Artell/NNP Corden/NNP Murray/NNP Curtis/NNP Neil/NNP Warne/NNP Barker./NNP
+Subs/NNP Not/RB Used/VBD White/NNP McIntosh/NNP Wood/NNP Lloyd/NNP Herron./NNP
+
+Harrison/NNP Lockwood/NNP Donny/NNP Barnard/NNP WhiteMackie/NNP Scott/NNP Saah/NNP Simpson/NNP Carlisle/NNP Lee/NNP Barnard/NNP Ibehre./NNP
+Subs/NNP Not/RB Used/VBD Morris/NNP Wardley/NNP Newey/NNP Zakuani/NNP McMahon./NNP
+
+Scott/NNP 51./CD
+
+3803/CD
+
+S/NNP Mathieson/NNP (Cheshire)./NN

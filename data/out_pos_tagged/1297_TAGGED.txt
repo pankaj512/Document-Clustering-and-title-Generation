@@ -1,0 +1,15 @@
+Blair/NNP prepares/VBZ to/TO name/VB poll/NN date/NN
+
+Tony/NNP Blair/NNP is/VBZ likely/JJ to/TO name/VB 5/CD May/NNP as/IN election/NN day/NN when/WRB Parliament/NNP returns/NNS from/IN its/PRP$ Easter/NNP break/VB the/DT BBC's/NNP political/JJ editor/NN has/VBZ learned./NN
+
+Andrew/NNP Marr/NNP says/VBZ Mr/NNP Blair/NNP will/MD ask/VB the/DT Queen/NNP on/IN 4/CD or/CC 5/CD April/NNP to/TO dissolve/VB Parliament/NNP at/IN the/DT end/NN of/IN that/DT week./NN
+Mr/NNP Blair/NNP has/VBZ so/RB far/RB resisted/VBN calls/VBZ for/IN him/PRP to/TO name/VB the/DT day/NN but/CC all/DT parties/NNS have/VBP stepped/VBN up/RP campaigning/NN recently./NN
+Downing/NNP Street/NNP would/MD not/RB be/VB drawn/VBN on/IN the/DT claim/NN saying/VBG election/NN timing/NN was/VBD a/DT matter/NN for/IN the/DT prime/JJ minister./NN
+
+A/DT Number/NN 10/CD spokeswoman/NN would/MD only/RB say/VB "He/NN will/MD announce/VB an/DT election/NN when/WRB he/PRP wants/VBZ to/TO announce/VB an/DT election."/NN The/DT move/NN will/MD signal/VB a/DT frantic/JJ week/NN at/IN Westminster/NNP as/IN the/DT government/NN is/VBZ likely/JJ to/TO try/VB to/TO get/VB key/JJ legislation/NN through/IN Parliament./NNP
+The/DT government/NN needs/VBZ its/PRP$ finance/NN bill/NN covering/VBG the/DT Budget/NNP plans/VBZ to/TO be/VB passed/VBN before/IN the/DT Commons/NNPS closes/VBZ for/IN business/NN at/IN the/DT end/NN of/IN the/DT session/NN on/IN 7/CD April./NNP
+
+But/CC it/PRP will/MD also/RB seek/VB to/TO push/VB through/IN its/PRP$ Serious/NNP and/CC Organised/JJ Crime/NN Bill/NNP and/CC ID/NNP cards/NNS Bill./NNP
+Mr/NNP Marr/NNP said/VBD on/IN Wednesday's/NNP Today/NN programme/NN "There's/NN almost/RB nobody/NN at/IN a/DT senior/JJ level/NN inside/IN the/DT government/NN or/CC in/IN Parliament/NNP itself/PRP who/WP doesn't/VBP expect/VBP the/DT election/NN to/TO be/VB called/VBN on/IN 4/CD or/CC 5/CD April./NNP
+"As/NN soon/RB as/IN the/DT Commons/NNPS is/VBZ back/RB after/IN the/DT short/JJ Easter/NNP recess/NN Tony/NNP Blair/NNP whips/VBZ up/IN to/TO the/DT Palace/NNP asks/VBZ the/DT Queen/NNP to/TO dissolve/VB Parliament/NNP .../:
+and/CC we're/NN going."/NN The/DT Labour/NNP government/NN officially/RB has/VBZ until/IN June/NNP 2006/CD to/TO hold/VB general/JJ election/NN but/CC in/IN recent/JJ years/NNS governments/NNS have/VBP favoured/VBN four-year/JJ terms./NN

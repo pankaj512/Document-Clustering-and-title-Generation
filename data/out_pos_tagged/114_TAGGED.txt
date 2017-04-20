@@ -1,0 +1,25 @@
+WorldCom/NNP director/NN admits/VBZ lying/VBG
+
+The/DT former/JJ chief/JJ financial/JJ officer/NN at/IN US/PRP telecoms/VBZ firm/NN WorldCom/NNP has/VBZ admitted/VBN before/IN a/DT New/NNP York/NNP court/NN that/IN he/PRP used/VBD to/TO lie/VB to/TO fellow/JJ board/NN members./NN
+
+Speaking/VBG at/IN the/DT trial/NN of/IN his/PRP$ former/JJ boss/NN Bernard/NNP Ebbers/NNP Scott/NNP Sullivan/NNP said/VBD he/PRP lied/VBD to/TO the/DT board/NN to/TO cover/VB up/RP the/DT hole/NN in/IN WorldCom's/NNP finances./NN
+Mr/NNP Ebbers/NNP is/VBZ on/IN trial/NN for/IN fraud/NN and/CC conspiracy/NN in/IN relation/NN to/TO WorldCom's/NNP collapse/NN in/IN 2002./CD
+He/PRP pleads/VBZ not/RB guilty./VBP
+The/DT firm/NN had/VBD been/VBN overstating/VBG its/PRP$ accounts/NNS by/IN $11bn/CD (£8.5bn)./CD
+Mr/NNP Sullivan/NNP 42/CD has/VBZ already/RB pleaded/VBN guilty/JJ to/TO fraud/VB and/CC will/MD be/VB sentenced/VBN following/VBG Mr/NNP Ebbers'/NNP trial/NN where/WRB he/PRP is/VBZ appearing/VBG as/IN a/DT prosecution/NN witness./NN
+Mr/NNP Ebbers/NNP 63/CD has/VBZ always/RB insisted/VBN that/IN he/PRP was/VBD unaware/JJ of/IN any/DT hidden/VBN shortfalls/NNS in/IN WorldCom's/NNP finances./NN
+
+In/IN the/DT New/NNP York/NNP court/NN on/IN Wednesday/NNP Mr/NNP Ebbers'/NNP lawyer/NN Reid/NNP Weingarten/NNP asked/VBD Mr/NNP Sullivan/NNP "If/NN you/PRP believe/VBP something/NN is/VBZ in/IN your/PRP$ interest/NN you/PRP are/VBP willing/JJ and/CC able/JJ to/TO lie/VB to/TO accomplish/VB it/PRP isn't/NN that/DT right?"/NN
+
+"On/NN that/DT date/NN yes./NN
+I/PRP was/VBD lying"/NN replied/VBD Mr/NNP Sullivan./NNP
+Mr/NNP Weingarten/NNP has/VBZ suggested/VBN that/IN Mr/NNP Sullivan/NNP is/VBZ implicating/VBG Mr/NNP Ebbers/NNP only/RB to/TO win/VB a/DT lighter/JJR sentence/NN something/NN Mr/NNP Sullivan/NNP denies./NN
+Mr/NNP Sullivan/NNP also/RB rejects/VBZ a/DT suggestion/NN that/IN he/PRP had/VBD once/RB told/VBN fellow/JJ WorldCom/NNP board/NN member/NN Bert/NNP Roberts/NNP that/IN Mr/NNP Ebbers/NNP was/VBD unaware/JJ of/IN the/DT accounting/NN fraud/NN at/IN WorldCom./NNP
+The/DT trial/NN of/IN Mr/NNP Ebbers/NNP is/VBZ now/RB into/IN its/PRP$ third/JJ week./NN
+
+Under/IN 23/CD hours/NNS of/IN questioning/VBG from/IN a/DT federal/JJ prosecutor/NN Mr/NNP Sullivan/NNP has/VBZ previously/RB told/VBN the/DT court/NN that/IN he/PRP repeatedly/RB warned/VBD Mr/NNP Ebbers/NNP that/IN falsifying/VBG the/DT books/NNS would/MD be/VB the/DT only/JJ way/NN to/TO meet/VB Wall/NNP Street/NNP revenue/NN and/CC earnings/NNS expectations./NN
+Mr/NNP Sullivan/NNP claims/VBZ that/IN Mr/NNP Ebbers/NNP refused/VBD to/TO stop/VB the/DT fraud./NN
+Mr/NNP Ebbers/NNP could/MD face/VB a/DT sentence/NN of/IN 85/CD years/NNS if/IN convicted/VBN of/IN all/PDT the/DT charges/NNS he/PRP is/VBZ facing./NN
+WorldCom's/NN problems/NNS appear/VBP to/TO have/VB begun/VBN with/IN the/DT collapse/NN of/IN the/DT dotcom/NN boom/NN which/WDT cut/VBP its/PRP$ business/NN from/IN internet/JJ companies./NN
+Prosecutors/NNS allege/VBP that/IN the/DT company's/NNS top/JJ executives/NNS responded/VBD by/IN orchestrating/VBG massive/JJ fraud/NN over/IN a/DT two-year/JJ period./NN
+WorldCom/NNP emerged/VBD from/IN bankruptcy/NN protection/NN in/IN 2004/CD and/CC is/VBZ now/RB known/VBN as/IN MCI./NNP

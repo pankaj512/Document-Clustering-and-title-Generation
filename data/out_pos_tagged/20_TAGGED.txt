@@ -1,0 +1,38 @@
+Call/VB centre/NN users/NNS 'lose/NN patience'/NN
+
+Customers/NNS trying/VBG to/TO get/VB through/IN to/TO call/VB centres/NNS are/VBP getting/VBG impatient/JJ and/CC quicker/JJR to/TO hang/VB up/RP a/DT survey/NN suggests./NN
+
+Once/RB past/JJ the/DT welcome/JJ message/NN callers/NNS on/IN average/NN hang/NN up/RP after/IN just/RB 65/CD seconds/NNS of/IN listening/VBG to/TO canned/VBN music./NN
+The/DT drop/NN in/IN patience/NN comes/VBZ as/IN the/DT number/NN of/IN calls/NNS to/TO call/VB centres/NNS is/VBZ growing/VBG at/IN a/DT rate/NN of/IN 20%/CD every/DT year./NN
+"Customers/NN are/VBP getting/VBG used/VBN to/TO the/DT idea/NN of/IN an/DT 'always/NN available'/NN society"/NN says/VBZ Cara/NNP Diemont/NNP of/IN IT/PRP firm/VBP Dimension/NN Data/NNP which/WDT commissioned/VBD the/DT survey./NN
+However/RB call/VB centres/NNS also/RB saw/VBD a/DT sharp/JJ increase/NN of/IN customers/NNS simply/RB abandoning/VBG calls/NNS she/PRP says/VBZ from/IN just/RB over/IN 5%/CD in/IN 2003/CD to/TO a/DT record/NN 13.3%/CD during/IN last/JJ year./NN
+When/WRB automated/VBN phone/NN message/NN systems/NNS are/VBP taken/VBN out/IN of/IN the/DT equation/NN where/WRB customers/NNS have/VBP to/TO pick/VB their/PRP$ way/NN through/IN multiple/JJ options/NNS and/CC messages/VBZ the/DT number/NN of/IN abandoned/VBN calls/VBZ is/VBZ even/RB higher/JJR -/: a/DT sixth/NN of/IN all/DT callers/NNS give/VBP up/RP rather/RB than/IN wait./NN
+One/CD possible/JJ reason/NN for/IN the/DT lack/NN in/IN patience/NN Ms/NNP Diemont/NNP says/VBZ is/VBZ the/DT fact/NN that/IN more/JJR customers/NNS are/VBP calling/VBG 'on/NN the/DT move'/NN using/VBG their/PRP$ mobile/JJ phones./NN
+
+The/DT surge/NN in/IN customers/NNS trying/VBG to/TO get/VB through/IN to/TO call/VB centres/NNS is/VBZ also/RB a/DT reflection/NN of/IN the/DT centres'/NN growing/VBG range/NN of/IN tasks./NN
+"Once/NN a/DT call/NN centre/NN may/MD have/VB looked/VBN after/IN mortgages/NNS now/RB its/PRP$ agents/NNS may/MD also/RB be/VB responsible/JJ for/IN credit/NN cards/NNS insurance/NN and/CC current/JJ accounts"/NN Ms/NNP Diemont/NNP says./NN
+Problems/NNS are/VBP occurring/VBG because/IN increased/VBN responsibility/NN is/VBZ not/RB going/VBG hand-in-hand/JJ with/IN more/JJR training/NN the/DT survey/NN found./NN
+
+In/IN what/WP Dimension/NN Data/NNP calls/VBZ an/DT "alarming/VBG development"/NN the/DT average/JJ induction/NN time/NN for/IN a/DT call/NN centre/NN worker/NN fell/VBD last/JJ year/NN from/IN 36/CD to/TO just/RB 21/CD days/NNS leaving/VBG "agents/NN not/RB equipped/VBD to/TO deal/VB with/IN customers"./NN
+This/DT Ms/NNP Diemont/NNP warns/VBZ is/VBZ "scary"/NN and/CC not/RB good/JJ for/IN the/DT bottom/JJ line/NN either./NN
+Poor/NNP training/NN frustrates/NNS both/DT call/VBP centre/NN workers/NNS and/CC customers./NN
+As/IN a/DT result/NN call/NN centres/NNS have/VBP a/DT high/JJ "churn/NN rate"/NN with/IN nearly/RB a/DT quarter/NN of/IN workers/NNS throwing/VBG in/IN the/DT towel/NN every/DT year/NN which/WDT in/IN turn/NN forces/NNS companies/NNS to/TO pay/VB for/IN training/NN new/JJ staff./NN
+Resolution/NN rates/NNS -/: the/DT number/NN of/IN calls/NNS where/WRB a/DT customer's/NNS query/NN is/VBZ resolved/VBN to/TO mutual/JJ satisfaction/NN -/: are/VBP running/VBG at/IN just/RB 50%./CD
+When/WRB the/DT query/NN is/VBZ passed/VBN on/RP to/TO a/DT second/JJ or/CC third/JJ person/NN -/: a/DT specialist/NN or/CC manager/NN -/: rates/NNS rise/VBP to/TO about/IN 70%/CD but/CC that/DT is/VBZ still/RB well/RB below/IN the/DT industry/NN target/NN of/IN an/DT 85%/CD resolution/NN rate./NN
+
+Suggestions/NNS that/DT "outsourcing"/NN -/: relocating/VBG call/NN centres/NNS to/TO low-cost/JJ countries/NNS like/IN India/NNP or/CC South/NNP Africa/NNP -/: is/VBZ to/TO blame/VB are/VBP wrong/JJ Ms/NNP Diemont/NNP says./NN
+
+There/EX are/VBP "no/NN big/JJ differences/NNS in/IN wait/NN time/NN and/CC call/VB resolution"/NN between/IN call/NN centres/NNS based/VBN in/IN Europe/NNP or/CC North/NNP America/NNP and/CC those/DT in/IN developing/VBG countries/NNS around/IN the/DT world./NN
+"You/NN can/MD make/VB call/VB centres/NNS perform/VBP anywhere/RB if/IN you/PRP have/VBP good/JJ management/NN and/CC the/DT right/NN processes/VBZ in/IN place"/NN she/PRP says./VBP
+However/RB companies/NNS that/WDT decide/VBP to/TO "offshore"/VB their/PRP$ operations/NNS are/VBP driven/VBN not/RB just/RB by/IN cost/NN considerations./NN
+Only/RB 42%/CD of/IN them/PRP say/VBP that/IN saving/VBG money/NN is/VBZ the/DT main/JJ consideration/NN when/WRB closing/NN domestic/JJ call/NN centre/NN operations./NN
+Half/NN of/IN them/PRP argue/VBP that/IN workers/NNS in/IN other/JJ countries/NNS offer/VBP better/RBR skills/NNS for/IN the/DT money./NN
+But/CC not/RB everybody/NN believes/VBZ that/IN outsourcing/VBG and/CC offshoring/VBG are/VBP the/DT solution./NN
+Nearly/RB two-thirds/NNS of/IN all/DT firms/NNS polled/VBN for/IN the/DT survey/NN have/VBP no/DT plans/NNS to/TO offshore/RB their/PRP$ call/NN centres./NN
+They/PRP give/VBP three/CD key/JJ reasons/NNS for/IN not/RB making/VBG the/DT move/NN
+
+-/: call/VB centre/NN operations/NNS are/VBP part/NN of/IN their/PRP$ business/NN "core/NN function"/NN
+-/: they/PRP are/VBP worried/JJ about/IN the/DT risk/NN of/IN going/VBG abroad/RB
+-/: they/PRP fear/VBP that/IN they/PRP will/MD damage/VB their/PRP$ brand/NN if/IN they/PRP join/VBP the/DT offshoring/VBG drive./NN
+The/DT survey/NN was/VBD conducted/VBN by/IN Sunovate/NNP on/IN behalf/NN of/IN Dimension/NN Data/NNP and/CC is/VBZ based/VBN on/IN in-depth/JJ questionnaires/NNS of/IN 166/CD call/NN centres/NNS in/IN 24/CD countries/NNS and/CC five/CD continents./NN
+What/WP are/VBP your/PRP$ experiences/NNS with/IN call/NN centres?/NN Are/VBP you/PRP happy/JJ to/TO listen/VB to/TO Vivaldi/NNP or/CC Greensleeves/NNP or/CC do/VBP you/PRP want/VB an/DT immediate/JJ response?/NN And/CC if/IN you/PRP work/VBP in/IN a/DT call/NN centre/NN did/VBD your/PRP$ training/NN prepare/VBD you/PRP for/IN your/PRP$ job?/NN

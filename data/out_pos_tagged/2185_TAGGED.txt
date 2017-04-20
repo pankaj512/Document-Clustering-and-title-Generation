@@ -1,0 +1,33 @@
+Digital/NNP UK/NNP driven/VBN by/IN net/JJ and/CC TV/NN
+
+The/DT UK's/NNP adoption/NN of/IN digital/JJ TV/NN and/CC broadband/NN has/VBZ helped/VBN make/VB it/PRP the/DT fourth/JJ most/RBS digitally-savvy/JJ nation/NN in/IN Europe/NNP according/VBG a/DT report/NN by/IN Jupiter/NNP Research./NNP
+
+But/CC the/DT UK/NNP still/RB lags/VBZ in/IN terms/NNS of/IN broadband/NN speeds/NNS compared/VBN to/TO others./VB
+The/DT most/RBS digitally/RB sophisticated/JJ Europeans/NNPS in/IN terms/NNS of/IN use/NN of/IN digital/JJ goods/NNS such/JJ as/IN mobiles/NNS TV/VBP net/JJ and/CC cameras/NNS are/VBP the/DT Scandinavians./NNP
+About/IN 14/CD million/CD households/NNS in/IN the/DT UK/NNP 60%/CD have/VBP digital/JJ TV/NN according/VBG to/TO the/DT communications/NNS regulator/NN Ofcom./NNP
+The/DT least/JJS digital/JJ of/IN the/DT European/JJ nations/NNS was/VBD Greece/NNP in/IN 17th/JJ position/NN according/VBG to/TO the/DT Digital/NNP Life/NNP Index./NNP
+
+Scandinavian/JJ countries/NNS Sweden/NNP Denmark/NNP and/CC Norway/NNP came/VBD out/RP top/NN in/IN the/DT report/NN but/CC there/EX were/VBD some/DT differences/NNS in/IN technology/NN trends./NN
+"The/NN European/NNP Digital/NNP Life/NNP Index/NNP demonstrates/VBZ that/IN digital/JJ lifestyles/NNS are/VBP common/JJ today/NN but/CC across/IN Europe/NNP there/EX is/VBZ no/DT single/JJ digital/JJ lifestyle"/NN said/VBD Nate/NNP Elliott/NNP Jupiter/NNP analyst./NN
+"Consumers/NN adopt/NN different/JJ digital/JJ products/NNS and/CC services/NNS in/IN different/JJ countries."/NN
+
+Although/IN there/EX are/VBP differences/NNS between/IN different/JJ European/JJ nations/NNS the/DT gap/NN between/IN them/PRP is/VBZ closing/NN the/DT report/NN concluded./NN
+The/DT trend/NN for/IN gadgets/NNS and/CC technologies/NNS such/JJ as/IN digital/JJ video/NN recorders/NNS (DVR)/NN broadband/NN and/CC video-on-demand/JJ will/MD continue/VB across/IN Europe/NNP he/PRP added./VB
+More/JJR than/IN six/CD million/CD UK/NNP households/NNS now/RB have/VBP broadband/NN net./NN
+By/IN the/DT middle/NN of/IN 2005/CD it/PRP is/VBZ estimated/VBN that/IN 50%/CD of/IN all/DT UK/NNP net/JJ users/NNS will/MD be/VB on/IN broadband./NN
+Cable/NNP company/NN NTL/NNP is/VBZ trialling/VBG faster/RBR ADSL/NNP (Asymmetric/JJ Digital/NNP Subscriber/NN Line)/NNP broadband/NN technology/NN using/VBG ADSL2+/CD which/WDT can/MD give/VB speeds/NNS of/IN 18Mbps/CD compared/VBN to/TO current/JJ speeds/NNS which/WDT are/VBP usually/RB around/IN 1Mbps/CD or/CC 2Mbps./CD
+BT/NNP is/VBZ set/VBN to/TO trial/NN the/DT technology/NN later/RB in/IN the/DT year./NN
+Super-fast/JJ broadband/NN will/MD be/VB necessary/JJ to/TO the/DT delivery/NN of/IN services/NNS such/JJ as/IN high-definition/JJ TV/NN (HDTV)/NN and/CC video-on-demand/JJ already/RB very/RB popular/JJ in/IN France/NNP and/CC other/JJ European/JJ countries./NN
+
+A/DT separate/JJ survey/NN by/IN GMIPoll/NNP last/JJ week/NN found/VBD that/IN globally/RB people's/NNS appetite/NN for/IN technology/NN and/CC gadgets/NNS continues/VBZ unabated./NN
+The/DT poll/NN of/IN 20000/CD people/NNS in/IN 20/CD countries/NNS found/VBD that/IN 59%/CD wanted/VBD more/JJR technology./NN
+
+The/DT computer/NN was/VBD the/DT "must-have"/JJ gadget/NN for/IN most/JJS people/NNS (75%)./CD
+The/DT TV/NN took/VBD second/JJ place/NN (67%)/CD while/IN the/DT mobile/NN was/VBD ranked/VBN in/IN third/JJ position/NN with/IN 54%./CD
+Digital/NN cameras/NNS were/VBD the/DT most/RBS popular/JJ choice/NN of/IN gadget/NN for/IN 2005/CD said/VBD the/DT survey/NN with/IN nearly/RB 40%/CD choosing/VBG this/DT over/IN wireless/JJ home/NN printing/NN and/CC DVR/NNP technologies./NN
+However/RB only/RB 25%/CD of/IN Britons/NNP said/VBD a/DT digital/JJ camera/NN would/MD be/VB their/PRP$ top/JJ gadget/NN purchase/NN of/IN the/DT year./NN
+Almost/RB a/DT quarter/NN 22%/CD said/VBD they/PRP would/MD be/VB buying/VBG some/DT sort/NN of/IN wireless/JJ device./NN
+Forty-four/NNP percent/NN said/VBD they/PRP would/MD be/VB buying/VBG something/NN "other"./NN
+This/DT might/MD include/VB digital/JJ music/NN players/NNS or/CC gaming/NN devices./NN
+The/DT Nintendo/NNP DS/NNP Sony's/NNP PSP/NNP and/CC Gizmondo/NNP all/DT hit/VBD the/DT shops/NNS in/IN 2005/CD and/CC the/DT first/JJ of/IN the/DT next/JJ generation/NN of/IN games/NNS consoles/VBZ Xbox/NNP 2/CD is/VBZ set/VBN to/TO launch/VB later/RB this/DT year./NN
+Jupiter/NNP Research's/NNP index/NN is/VBZ calculated/VBN using/VBG 40/CD different/JJ variables/NNS across/IN net/JJ users/NNS digital/JJ TV/NN adoption/NN wireless/JJ and/CC mobile/JJ online/NN activity/NN and/CC digital/JJ devices./NN

@@ -1,0 +1,10 @@
+Clijsters/NNP set/VBD for/IN February/NNP return/NN
+
+Tennis/NN star/NN Kim/NNP Clijsters/NNP will/MD make/VB her/PRP$ return/NN from/IN a/DT career-threatening/JJ injury/NN at/IN the/DT Antwerp/NNP WTA/NNP event/NN in/IN February./NNP
+
+"Kim/NN had/VBD considered/VBN returning/VBG to/TO action/VB in/IN Paris/NNP on/IN 7/CD February"/NNP a/DT statement/NN on/IN her/PRP$ website/NN said./NN
+"She's/NN decided/VBD against/IN this/DT so/RB that/IN she/PRP does/VBZ not/RB risk/VB the/DT final/JJ phase/NN of/IN her/PRP$ recovery./NN
+If/IN all/DT goes/VBZ well/RB Kim/NNP will/MD make/VB her/PRP$ return/NN on/IN February/NNP 15."/CD The/DT 21-year-old/JJ has/VBZ not/RB played/VBN since/IN last/JJ October/NNP after/IN aggravating/VBG a/DT wrist/NN injury/NN at/IN the/DT Belgian/JJ Open./NNP
+Back/RB then/RB a/DT doctor/NN treating/VBG the/DT Belgian/JJ feared/VBN that/IN her/PRP$ career/NN may/MD be/VB over/IN with/IN the/DT player/NN having/VBG already/RB endured/VBD an/DT operation/NN earlier/RBR in/IN the/DT season/NN to/TO cure/VB her/PRP$ wrist/NN problem./NN
+"I/NN hope/NN she/PRP comes/VBZ back/RB but/CC I'm/NNP pessimistic"/NN said/VBD Bruno/NNP Willems./NNP
+Clijsters/NNP was/VBD also/RB due/JJ to/TO marry/VB fellow/JJ tennis/NN star/NN Lleyton/NNP Hewitt/NNP in/IN February/NNP but/CC the/DT pair/NN split/NN "for/NN private/JJ reasons"/NN back/RB in/IN October./NNP

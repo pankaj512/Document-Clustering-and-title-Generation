@@ -1,0 +1,21 @@
+Qantas/NNP sees/VBZ profits/NNS fly/VBP to/TO record/VB
+
+Australian/JJ airline/NN Qantas/NNP has/VBZ posted/VBN a/DT record/NN fiscal/JJ first-half/JJ profit/NN thanks/NNS to/TO cost-cutting/JJ measures./NN
+
+Net/JJ profit/NN in/IN the/DT six/CD months/NNS ending/VBG 31/CD December/NNP rose/VBD 28%/CD to/TO A$458.4m/CD ($357.6m/CD £191m)/CD from/IN a/DT year/NN earlier./NN
+Analysts/NNS expected/VBD a/DT figure/NN closer/JJR to/TO A$431m./CD
+Qantas/NNP shares/NNS fell/VBD almost/RB 3%/CD however/RB after/IN it/PRP warned/VBD that/IN earnings/NNS growth/NN would/MD slow/VB in/IN the/DT second/JJ half./NN
+Sales/NNS will/MD dip/VB by/IN at/IN least/JJS A$30m/CD after/IN the/DT Indian/JJ ocean/NN tsunami/NN devastated/VBD many/JJ holiday/NN destinations/NNS Qantas/NNP said./NN
+
+"The/NN tsunami/NN affected/VBD travel/NN patterns/NNS in/IN ways/NNS that/IN we/PRP were/VBD a/DT bit/NN surprised/VBD about"/NN chief/NN executive/NN Geoff/NNP Dixon/NNP explained./NN
+"It/NN certainly/RB affected/VBD Japanese/JJ travel/NN into/IN Australia./NNP
+As/RB soon/RB as/IN the/DT tsunami/NN hit/VBD we/PRP saw/VBD .../:
+a/DT lessening/NN with/IN bookings/NNS for/IN Australia."/NNP Higher/JJR fuel/NN costs/NNS also/RB are/VBP expected/VBN to/TO eat/VB into/IN earnings/NNS in/IN coming/VBG months./NN
+"We/NN don't/NN have/VBP as/RB much/JJ hedging/NN benefit/NN in/IN the/DT second/JJ half/NN as/IN we/PRP had/VBD in/IN the/DT first"/NN said/VBD chief/JJ financial/JJ officer/NN Peter/NNP Gregg./NNP
+Qantas/NNP is/VBZ facing/VBG increased/VBN pressure/NN from/IN rivals/NNS such/JJ as/IN low-cost/JJ carrier/NN Virgin/NNP Blue/NNP and/CC the/DT Australian/JJ government/NN is/VBZ in/IN talks/NNS about/IN whether/IN to/TO allow/VB Singapore/NNP Airlines/NNPS to/TO fly/VB between/IN the/DT Australia/NNP and/CC the/DT US/PRP -/: one/CD of/IN Qantas'/NNP key/JJ routes./NN
+
+Even/RB so/IN the/DT firm/NN is/VBZ predicting/VBG that/IN full-year/JJ earnings/NNS will/MD increase/VB from/IN the/DT previous/JJ 12/CD months./NN
+Analysts/NNS have/VBP forecast/NN full-year/JJ profit/NN will/MD rise/VB about/RB 11%/CD to/TO around/IN A$720/CD million/CD ($563/CD million)./NN
+Qantas/NNP boss/NN Mr/NNP Dixon/NNP also/RB said/VBD he/PRP would/MD be/VB reviewing/VBG the/DT group's/NNS cost-cutting/JJ measures./NN
+During/IN the/DT first/JJ six/CD months/NNS of/IN the/DT fiscal/JJ year/NN Qantas/NNP made/VBD savings/NNS of/IN A$245m/CD and/CC is/VBZ on/IN track/NN to/TO top/VB its/PRP$ target/NN of/IN A$500m/CD for/IN the/DT full/JJ year./NN
+Last/JJ month/NN the/DT company/NN warned/VBD it/PRP may/MD transfer/VB as/RB many/JJ as/IN 7000/CD jobs/NNS out/RP Australia/NNP with/IN Mr/NNP Dixon/NNP quoted/VBD as/IN saying/VBG that/IN the/DT carrier/NN could/MD no/RB longer/RB afford/VB to/TO remain/VB "all-Australian"./JJ

@@ -1,0 +1,33 @@
+Putting/VBG a/DT face/NN to/TO 'Big/VB Brother'/NNP
+
+Literally/RB putting/VBG a/DT face/NN on/IN technology/NN could/MD be/VB one/CD of/IN the/DT keys/NNS to/TO improving/VBG our/PRP$ interaction/NN with/IN hi-tech/JJ gadgets./NN
+
+Imagine/VB a/DT surveillance/NN system/NN that/WDT also/RB presents/VBZ a/DT virtual/JJ embodiment/NN of/IN a/DT person/NN on/IN a/DT screen/NN who/WP can/MD react/VB to/TO your/PRP$ behaviour/NN and/CC perhaps/RB even/RB alert/VB you/PRP to/TO new/JJ e-mails./JJ
+Basic/JJ versions/NNS of/IN these/DT so-called/JJ avatars/NNS already/RB exist./VBP
+Together/RB with/IN speech/NN and/CC voice/NN recognition/NN systems/NNS they/PRP could/MD replace/VB the/DT keyboard/NN and/CC mouse/NN in/IN the/DT near/JJ future./NN
+Some/DT of/IN these/DT ideas/NNS have/VBP been/VBN showcased/VBN at/IN the/DT London's/NNP Science/NNP Museum/NNP as/IN part/NN of/IN its/PRP$ Future/JJ Face/NNP exhibition./NN
+
+One/CD such/JJ avatar/NN is/VBZ Jeremiah./NNP
+It/PRP is/VBZ a/DT virtual/JJ man/NN which/WDT you/PRP can/MD download/VB for/IN free/JJ and/CC install/VB in/IN your/PRP$ computer./NN
+
+His/PRP$ creator/NN Richard/NNP Bowden/NNP lecturer/NN at/IN the/DT Centre/NNP for/IN Vision/NNP Speech/NN and/CC Signal/NNP Processing/NNP at/IN the/DT University/NNP of/IN Surrey/NNP refers/VBZ to/TO Jeremiah/NNP as/IN "him"/NN rather/RB than/IN it./NN
+"Jeremiah/NN is/VBZ a/DT virtual/JJ face/NN that/IN attempts/NNS to/TO emulate/VB humans/NNS in/IN the/DT way/NN it/PRP responds/VBZ to/TO activity./VB
+He/PRP is/VBZ very/RB childlike/JJ he/PRP likes/VBZ visual/JJ stimulus"/NN he/PRP told/VBD the/DT BBC/NNP News/NNP website./NN
+"When/NN he/PRP sees/VBZ children/NNS running/VBG and/CC laughing/VBG and/CC waving/VBG at/IN him/PRP he/PRP smiles/VBZ at/IN them./NN
+If/IN you/PRP ignore/VBP him/PRP he/PRP gets/VBZ angry./NN
+If/IN you/PRP leave/VBP he/PRP gets/VBZ sad./NN
+And/CC you/PRP can/MD also/RB even/RB surprise/NN him."/NN Jeremiah/NNP is/VBZ not/RB actually/RB intelligent./NN
+It/PRP works/VBZ on/IN vision/NN reacting/VBG in/IN a/DT preset/JJ way/NN to/TO the/DT information/NN provided/VBN by/IN a/DT surveillance/NN tracker/NN system./NN
+It/PRP is/VBZ not/RB able/JJ to/TO talk/VB or/CC to/TO hear/VB you/PRP at/IN least/JJS not/RB yet./NN
+The/DT Surrey/NNP team/NN is/VBZ already/RB working/VBG on/IN Jeremiah's/NNP next/JJ version/NN that/WDT will/MD replace/VB the/DT human/JJ face/NN with/IN an/DT underwater/JJ and/CC more/RBR interactive/JJ creature/NN Finn/NNP the/DT fish./NN
+"I/NN am/VBP interested/JJ in/IN the/DT interaction/JJ providing/NN the/DT ability/NN of/IN a/DT system/NN to/TO watch/VB what's/NNS going/VBG on/IN and/CC make/VB decisions/NNS based/VBN on/IN that"/NN explained/VBD Dr/NNP Bowden./NNP
+
+The/DT research/NN comes/VBZ at/IN a/DT time/NN when/WRB people/NNS are/VBP having/VBG to/TO cope/VB with/IN an/DT increasing/VBG number/NN of/IN hi-tech/JJ gadgets./NN
+
+Experts/NNS say/VBP a/DT much/RB more/RBR natural/JJ way/NN to/TO interact/JJ with/IN these/DT devices/NNS such/JJ as/IN a/DT virtual/JJ human/JJ could/MD make/VB it/PRP much/RB easier/JJR to/TO make/VB the/DT most/JJS of/IN all/PDT those/DT new/JJ gizmos./NN
+"If/NN you/PRP get/VBP up/RP at/IN three/CD o'clock/RB in/IN the/DT morning/NN and/CC you/PRP go/VBP downstairs/NNS there/RB are/VBP probably/RB two/CD things/NNS you/PRP are/VBP going/VBG to/TO do/VB either/CC going/VBG to/TO the/DT bathroom/NN or/CC maybe/RB you/PRP are/VBP going/VBG to/TO make/VB a/DT cup/NN of/IN tea"/NN said/VBD Dr/NNP Bowden./NNP
+"Now/NN if/IN the/DT system/NN can/MD watch/VB your/PRP$ behaviour/NN over/IN time/NN it/PRP can/MD learn/VB this/DT so/IN it/PRP would/MD predict/VB what/WP you/PRP are/VBP going/VBG to/TO do/VB turn/VB on/IN the/DT lights/NNS for/IN you/PRP or/CC before/IN you/PRP even/RB get/VBP to/TO the/DT kettle/NN it/PRP could/MD have/VB switched/VBN it/PRP on."/NN You/PRP might/MD even/RB be/VB able/JJ to/TO tell/VB your/PRP$ home/NN surveillance/NN system/NN that/IN you/PRP will/MD be/VB going/VBG away/RB on/IN holiday/NN and/CC ask/VB if/IN it/PRP could/MD make/VB sure/JJ that/IN the/DT house/NN is/VBZ secure/VB once/IN you/PRP have/VBP left./NN
+This/DT might/MD sound/VB like/IN a/DT scary/JJ vision/NN of/IN an/DT Orwellian/NNP future./NN
+But/CC it/PRP might/MD all/DT depend/VB on/IN the/DT face/NN that/WDT is/VBZ watching/VBG you./NN
+"When/NN we/PRP put/VBP the/DT surveillance/NN cameras/NNS in/IN our/PRP$ centre/NN a/DT lot/NN of/IN people/NNS were/VBD very/RB unhappy/JJ about/IN the/DT fact/NN that/IN there/EX was/VBD a/DT system/NN watching/VBG them"/NN said/VBD Dr/NNP Bowden./NNP
+"But/NN when/WRB Jeremiah's/NNP camera/NN went/VBD in/IN nobody/NN minded/VBN because/RB although/IN it's/NNS still/RB watching/VBG them/PRP they/PRP could/MD see/VB what/WP it/PRP was/VBD watching."/NN

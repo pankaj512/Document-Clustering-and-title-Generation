@@ -1,0 +1,14 @@
+Train/NNP strike/NN grips/NNS Buenos/NNP Aires/NNP
+
+A/DT strike/NN on/IN the/DT Buenos/NNP Aires/NNP underground/JJ has/VBZ caused/VBN traffic/NN chaos/NN and/CC large/JJ queues/NNS at/IN bus/NN stops/VBZ in/IN the/DT Argentine/JJ capital./NN
+
+Tube/NN workers/NNS walked/VBD out/RP last/JJ week/NN demanding/VBG a/DT 53%/CD pay/NN rise/NN and/CC in/IN protest/NN against/IN the/DT installation/NN of/IN automatic/JJ ticket/NN machines./NN
+Metrovias/VBG the/DT private/JJ firm/NN which/WDT runs/VBZ the/DT five/CD tube/NN lines/NNS in/IN the/DT city/NN has/VBZ offered/VBN an/DT 8%/CD increase/NN in/IN wages./NN
+The/DT firm/NN promised/VBD no/DT jobs/NNS would/MD be/VB lost/VBN as/IN a/DT result/NN of/IN new/JJ ticket/NN machines./NN
+It/PRP said/VBD it/PRP would/MD put/VB this/DT commitment/NN on/IN paper./NN
+
+Underground/JJ staff/NN have/VBP warned/VBN they/PRP will/MD continue/VB with/IN the/DT protests/NNS until/IN the/DT management/NN put/VBD an/DT acceptable/JJ offer/NN on/IN the/DT table./NN
+The/DT Argentine/JJ Work/NN Ministry/NNP has/VBZ been/VBN mediating/VBG in/IN the/DT conflict/NN and/CC it/PRP could/MD call/VB an/DT "obligatory/NN conciliation"/NN which/WDT would/MD force/VB both/DT sides/NNS to/TO find/VB a/DT solution/NN and/CC put/VBD an/DT end/NN to/TO the/DT conflict./NN
+Some/DT tube/NN commuters/NNS have/VBP not/RB hidden/VBN their/PRP$ frustration/NN at/IN the/DT ongoing/JJ strike/NN and/CC have/VBP broken/VBN the/DT windows/NNS of/IN the/DT underground/JJ trains/NNS according/VBG to/TO the/DT local/JJ press./NN
+"We/NN are/VBP taken/VBN as/IN hostages./NN
+I/PRP don't/VBP know/NN who/WP is/VBZ right/JJ but/CC the/DT harm/NN ones/NNS are/VBP us"/NN said/VBD accountant/NN Jose/NNP Lopez./NNP

@@ -1,0 +1,19 @@
+Iran/NNP budget/NN seeks/VBZ state/NN sell-offs/NNS
+
+Iran's/NNP president/NN Mohammad/NNP Khatami/NNP has/VBZ unveiled/VBN a/DT budget/NN designed/VBN to/TO expand/VB public/JJ spending/NN by/IN 30%/CD but/CC loosen/VB the/DT Islamic/NNP republic's/NNS dependence/NN on/IN oil./NN
+
+The/DT budget/NN for/IN the/DT fiscal/JJ year/NN starting/VBG on/IN 21/CD March/NNP calls/VBZ for/IN the/DT sell-off/NN of/IN 20%/CD of/IN the/DT state's/NNS corporate/JJ holdings./NN
+Mr/NNP Khatami's/NNP second/JJ term/NN as/IN president/NN ends/VBZ on/IN 1/CD August/NNP making/VBG this/DT his/PRP$ last/JJ budget./NN
+But/CC opposition/NN from/IN members/NNS of/IN parliament/NN who/WP have/VBP attacked/VBN previous/JJ privatisations/NNS could/MD block/VB his/PRP$ plans./NN
+Elections/NNS in/IN May/NNP 2004/CD ousted/VBN many/JJ of/IN Mr/NNP Khatami's/NNP supporters/NNS in/IN parliament/NN in/IN favour/NN of/IN more/RBR hard-line/JJ religious/JJ conservatives./NN
+Late/RB last/JJ year/NN they/PRP backed/VBD a/DT law/NN which/WDT would/MD give/VB parliament/NN a/DT veto/NN over/IN foreign/JJ investment./NN
+The/DT ruling/NN was/VBD a/DT response/NN to/TO the/DT involvement/NN in/IN telecoms/NNS and/CC airport/NN projects/NNS by/IN Turkish/JJ companies/NNS which/WDT hardliners/NNS accused/VBN of/IN doing/VBG business/NN with/IN Israel./NNP
+It/PRP came/VBD not/RB long/RB after/IN the/DT Expediency/NNP Council/NNP -/: Iran's/NNP ultimate/JJ decision-maker/JJ -/: blessed/VBN Mr/NNP Khatami's/NNP policy/NN of/IN selling/VBG stakes/NNS in/IN sectors/NNS protected/VBN by/IN the/DT constitution/NN such/JJ as/IN energy/NN transport/NN telecoms/NNS and/CC banking./NN
+Continued/VBN obstruction/NN of/IN foreign/JJ investment/NN could/MD get/VB in/IN the/DT way/NN not/RB only/RB of/IN privatisation/NN plans/NNS but/CC also/RB of/IN Mr/NNP Khatami's/NNP hope/NN of/IN modestly/RB reducing/VBG the/DT government's/NNS reliance/NN on/IN oil/NN revenues./NN
+
+In/IN an/DT address/NN to/TO the/DT Majlis/NNP Mr/NNP Khatami/NNP predicted/VBD economic/JJ growth/NN of/IN 7.1%/CD in/IN 2005-6/JJ up/RP from/IN 6.7%/CD in/IN the/DT current/JJ year./NN
+He/PRP said/VBD he/PRP wanted/VBD to/TO increase/VB the/DT 2005-6/JJ budget/NN to/TO 1546/CD trillion/CD rials/NNS ($175.6bn/CD £93.6bn)/CD from/IN the/DT previous/JJ year's/NNS 1070/CD trillion./NN
+Within/IN that/DT figure/NN taxation/NN would/MD rise/VB to/TO $14.3bn/CD a/DT rise/NN of/IN over/IN 40%/CD from/IN what/WP is/VBZ expected/VBN from/IN the/DT current/JJ year./NN
+In/IN contrast/NN oil/NN revenues/NNS were/VBD expected/VBN to/TO fall/VB to/TO $14.1bn/CD from/IN $16bn/CD in/IN the/DT year/NN to/TO March/NNP 2005./CD
+"Current/NN government/NN expenditure/NN should/MD come/VB from/IN tax/NN revenues"/NN Mr/NNP Khatami/NNP said./NN
+"Oil/NN revenues/NNS should/MD be/VB used/VBN for/IN productive/JJ investment."/NN Mr/NNP Khatami/NNP has/VBZ already/RB been/VBN blocked/VBN by/IN parliament/NN from/IN reducing/VBG the/DT subsidies/NNS on/IN many/JJ products/NNS including/VBG bread/NN and/CC petrol/NN reducing/VBG his/PRP$ room/NN to/TO manoeuvre./VB

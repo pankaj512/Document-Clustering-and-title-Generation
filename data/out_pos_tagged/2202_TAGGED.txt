@@ -1,0 +1,33 @@
+Mobile/NNP TV/NN tipped/VBD as/IN one/CD to/TO watch/VB
+
+Scandinavians/NNPS and/CC Koreans/NNPS two/CD of/IN the/DT most/JJS adventurous/JJ groups/NNS of/IN mobile/JJ users/NNS are/VBP betting/VBG on/IN mobile/JJ TV./NNP
+
+Anders/NNP Igels/NNP chief/NN executive/NN of/IN Nordic/NNP operator/NN Teliasonera/NNP tipped/VBD it/PRP as/IN the/DT next/JJ big/JJ thing/NN in/IN mobile/JJ in/IN a/DT speech/NN at/IN the/DT 3GSM/CD World/NNP Congress/NNP a/DT mobile/JJ trade/NN fair/JJ in/IN Cannes/NNP this/DT week./NN
+Nokia/VBG the/DT Finnish/JJ handset/NN maker/NN is/VBZ planning/VBG a/DT party/NN in/IN Singapore/NNP this/DT spring/NN to/TO launch/VB its/PRP$ TV/NN to/TO mobile/JJ activities/NNS in/IN the/DT region./NN
+Consultancy/NNP Strategy/NN Analytics/NNP of/IN Boston/NNP estimates/VBZ that/IN mobile/JJ broadcast/NN networks/NNS will/MD have/VB acquired/VBN around/IN 51/CD million/CD users/NNS worldwide/NN by/IN 2009/CD producing/VBG around/IN $6.6bn/CD (£3.5bn)/CD in/IN revenue./NN
+
+SK/NNP Telecom/NNP of/IN South/NNP Korea/NNP which/WDT is/VBZ launching/VBG a/DT TV/NN to/TO mobile/JJ service/NN (via/NN satellite)/NN in/IN May/NNP plans/VBZ to/TO charge/VB a/DT flat/JJ fee/NN of/IN $12/CD a/DT month/NN for/IN its/PRP$ 12/CD channels/NNS of/IN video/NN and/CC 12/CD channels/NNS of/IN audio./NN
+It/PRP will/MD be/VB able/JJ to/TO offer/VB an/DT additional/JJ two/CD pay/NN TV/NN channels/NNS using/VBG conditional/JJ access/NN technology./NN
+Mr/NNP Shin-Bae/NNP Kim/NNP chief/NN executive/NN of/IN SK/NNP Telecom/NNP also/RB at/IN 3GSM/CD said/VBD "We/NN have/VBP plans/NNS to/TO integrate/VB TV/NN with/IN mobile/JJ internet/JJ services./NN
+
+"This/NN will/MD enable/VB viewers/NNS to/TO access/VB the/DT mobile/JJ internet/JJ to/TO get/VB more/JJR information/NN on/IN adverts/NNS they/PRP see/VBP on/IN TV."/NNP There/EX will/MD be/VB 12/CD handsets/NNS available/JJ for/IN the/DT launch/NN of/IN the/DT Korean/JJ service./NN
+LG/NNP Electronics/NNP of/IN South/NNP Korea/NNP was/VBD demonstrating/VBG one/CD at/IN 3GSM/CD that/WDT could/MD display/VB video/NN at/IN 30/CD frames/NNS a/DT second./NN
+Footage/NN shown/VBN on/IN the/DT handset/NN was/VBD clear/JJ and/CC watchable./NN
+A/DT speech/NN on/IN mobile/JJ TV/NN by/IN Angel/NNP Gambino/NNP of/IN the/DT BBC/NNP also/RB drew/VBD a/DT large/JJ crowd/NN suggesting/VBG that/IN even/RB those/DT mobile/JJ operators/NNS and/CC equipment/NN vendors/NNS which/WDT are/VBP not/RB particularly/RB active/JJ in/IN mobile/JJ TV/NN yet/RB are/VBP starting/VBG to/TO look/VB into/IN it./NN
+
+But/CC all/DT is/VBZ not/RB simple/JJ and/CC straightforward/JJ in/IN the/DT mobile/JJ TV/NN arena./NN
+There/EX is/VBZ a/DT battle/NN for/IN supremacy/NN between/IN two/CD competing/VBG standards/NNS DVB-H/NNP for/IN Digital/NNP Video/NNP Broadcasting/NNP for/IN Handsets/NNPS and/CC DMB/NNP for/IN Digital/NNP Multimedia/NNP Broadcasting./NNP
+Dr/NNP Chan/NNP Yeob/NNP Yeun/NNP vice/NN president/NN and/CC research/NN fellow/JJ in/IN charge/NN of/IN mobile/JJ TV/NN at/IN LG/NNP Electronics/NNP said/VBD "DMB/NN offers/VBZ twice/RB the/DT number/NN of/IN frames/NNS a/DT minute/NN as/IN DVB-H/NNP and/CC does/VBZ not/RB drain/VB mobile/JJ batteries/NNS as/IN quickly."/NN The/DT Japanese/JJ Koreans/NNPS and/CC Ericsson/NNP of/IN Sweden/NNP are/VBP backing/NN DMB./NNP
+
+Samsung/NNP of/IN South/NNP Korea/NNP has/VBZ a/DT DMB/NNP phone/NN too/RB that/WDT will/MD be/VB one/CD of/IN those/DT offered/VBN to/TO users/NNS of/IN the/DT TU/NNP Media/NNP satellite/NN mobile/JJ TV/NN service/NN to/TO be/VB launched/VBN in/IN Korea/NNP in/IN May./NNP
+Nokia/NNP by/IN contrast/NN is/VBZ backing/NN DVB-H/NNP and/CC is/VBZ involved/VBN in/IN mobile/JJ TV/NN trials/NNS that/WDT use/VBP its/PRP$ art-deco/JJ style/NN media/NNS phone/NN which/WDT has/VBZ a/DT larger/JJR than/IN usual/JJ screen/NN for/IN TV/NN or/CC visual/JJ radio/NN (a/NN way/NN of/IN accompanying/VBG a/DT radio/NN programme/NN with/IN related/VBN text/NN and/CC pictures)./NN
+Mobile/NN operators/NNS O2/CD and/CC Vodafone/NNP are/VBP among/IN the/DT operators/NNS trialling/VBG mobile/JJ TV./NNP
+But/CC even/RB if/IN the/DT standards/NNS battle/NN is/VBZ resolved/VBN there/EX is/VBZ the/DT thorny/NN issue/NN of/IN broadcasting/NN rights./NN
+Ms/NNP Gambino/NNP says/VBZ the/DT BBC/NNP now/RB negotiates/VBZ mobile/JJ rights/NNS when/WRB it/PRP is/VBZ negotiating/VBG content./NN
+
+For/IN those/DT not/RB convinced/VBN mobile/JJ users/NNS will/MD want/VB to/TO watch/VB TV/NN on/IN their/PRP$ handsets/NNS Digital/NNP Audio/JJ Broadcasting/NNP may/MD provide/VB a/DT good/JJ compromise/NN and/CC better/JJR sound/NN quality/NN than/IN conventional/JJ radio./NN
+Developments/NNS in/IN this/DT area/NN are/VBP continuing./NN
+At/IN a/DT DAB/NNP conference/NN in/IN Cannes/NNP several/JJ makers/NNS of/IN DAB/NNP chips/NNS for/IN mobiles/NNS announced/VBD smaller/JJR lower-/JJ cost/NN chips/NNS which/WDT consume/VBP less/JJR power./NN
+Among/IN the/DT chip/NN companies/NNS present/NN were/VBD Frontier/NNP Silicon/NNP and/CC Radioscape./NNP
+The/DT jury/NN is/VBZ still/RB out/IN on/IN whether/IN TV/NN and/CC digital/JJ radio/NN on/IN mobiles/NNS will/MD make/VB much/JJ money/NN for/IN anyone./NN
+But/CC with/IN many/JJ new/JJ services/NNS going/VBG live/NN soon/RB it/PRP won't/NN be/VB long/RB before/IN the/DT industry/NN finds/VBZ out./NN

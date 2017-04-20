@@ -1,0 +1,16 @@
+Tsunami/NN cost/NN hits/NNS Jakarta/NNP shares/NNS
+
+The/DT stock/NN market/NN in/IN Jakarta/NNP has/VBZ seen/VBN its/PRP$ biggest/JJS slide/NN in/IN a/DT month/NN after/IN the/DT country/NN doubled/VBD the/DT likely/JJ cost/NN of/IN rebuilding/VBG from/IN the/DT Asian/JJ tsunami./NN
+
+The/DT fall/NN came/VBD as/IN Indonesia/NNP said/VBD it/PRP expected/VBD debt/NN repayments/NNS of/IN up/IN to/TO 30/CD trillion/CD rupiah/NN ($3.2bn/CD £1.7bn)/CD to/TO be/VB frozen/JJ to/TO help/VB pay/VB for/IN the/DT recovery./NN
+By/IN Monday's/NNP close/VB the/DT Jakarta/NNP Stock/NNP Exchange/NNP was/VBD down/RB 2.1%/CD at/IN 1011.15./CD
+Bar/VBG a/DT slight/JJ dip/NN at/IN the/DT New/NNP Year/NN The/DT JSE/NNP had/VBD risen/VBN steadily/RB by/IN 4.7%/CD since/IN the/DT tsunami/NN hit/VBD on/IN 26/CD December./NNP
+Construction/NN and/CC property/NN companies/NNS in/IN particular/JJ have/VBP gained/VBN ground/NN although/IN banks/NNS were/VBD among/IN the/DT main/JJ fallers/NNS on/IN Monday./NNP
+
+So/RB far/RB more/JJR than/IN 100000/CD people/NNS are/VBP believed/VBN to/TO have/VB been/VBN killed/VBN in/IN Indonesia/NNP the/DT country/NN closest/JJS to/TO the/DT earthquake/NN which/WDT triggered/VBD the/DT great/JJ wave./NN
+
+On/IN Friday/NNP the/DT government/NN said/VBD its/PRP$ five-year/JJ estimate/NN of/IN rebuilding/VBG costs/NNS for/IN Banda/NNP Aceh/NNP province/NN -/: much/JJ of/IN which/WDT was/VBD flattened/VBN by/IN the/DT quake/NN and/CC the/DT tsunami/NN -/: was/VBD 20/CD trillion/CD rupiah/NN ($2.2bn/CD £1.1bn)/CD twice/RB what/WP it/PRP had/VBD previously/RB estimated./NN
+That/DT cost/NN could/MD be/VB defrayed/VBN by/IN temporary/JJ debt/NN relief./NN
+On/IN Monday/NNP Indonesian/NNP economy/NN minister/NN Aburizal/NNP Bakrie/NNP told/VBD reporters/NNS that/IN the/DT Paris/NNP Club/NNP group/NN of/IN creditor/NN countries/NNS was/VBD expected/VBN to/TO freeze/VB 20-30bn/JJ rupiah/NN in/IN payments/NNS due/JJ in/IN 2005/CD and/CC 2006./CD
+"We/NN hope/NN we/PRP can/MD resume/VB the/DT repayments/NNS at/IN least/JJS from/IN 2007"/CD Mr/NNP Bakrie/NNP said./NN
+French/JJ finance/NN minister/NN Herve/NNP Gaymard/NNP said/VBD on/IN Sunday/NNP that/IN the/DT Paris/NNP Club/NNP had/VBD already/RB agreed/VBN to/TO a/DT moratorium/NN on/IN repayments/NNS for/IN tsunami-hit/JJ countries/NNS ahead/RB of/IN its/PRP$ meeting/NN on/IN 12/CD January./NNP

@@ -1,0 +1,15 @@
+Blair/NN sets/NNS date/NN for/IN Africa/NNP report/NN
+
+The/DT Commission/NNP for/IN Africa's/NNP report/NN will/MD be/VB released/VBN on/IN 11/CD March/NNP -/: Comic/JJ Relief/NNP day/NN Tony/NNP Blair/NNP has/VBZ said./NN
+
+July's/NNP G8/CD summit/NN in/IN Gleneagles/NNP in/IN Perthshire/NNP -/: chaired/VBN by/IN the/DT prime/JJ minister/NN -/: will/MD use/VB the/DT report/NN as/IN the/DT basis/NN for/IN talks/NNS on/IN Africa./NNP
+The/DT announcement/NN followed/VBD the/DT final/JJ meeting/NN of/IN the/DT commission/NN -/: which/WDT includes/VBZ singer/NN Bob/NNP Geldof/NNP -/: in/IN London./NNP
+As/RB well/RB as/IN more/JJR aid/NN fairer/JJR trade/NN and/CC less/JJR debt/NN the/DT commission/NN is/VBZ likely/JJ to/TO demand/VB action/NN on/IN corruption/NN in/IN Africa./NNP
+Mr/NNP Blair/NNP told/VBD a/DT news/NN conference/NN "It/NN will/MD be/VB a/DT report/NN that's/NNS brutally/RB frank/JJ about/IN the/DT reality/NN but/CC I/PRP hope/VBP idealistic/JJ about/IN what/WP can/MD be/VB done/VBN if/IN the/DT will/NN is/VBZ there./NN
+"It's/NN an/DT ambitious/JJ project/NN we/PRP have/VBP set/VBN ourselves/PRP and/CC you/PRP will/MD have/VB to/TO judge/VB on/IN its/PRP$ outcome/NN when/WRB we/PRP publish/VBP it."/NN
+
+Mr/NNP Blair/NNP has/VBZ vowed/VBN to/TO put/VB Africa/NNP at/IN the/DT top/NN of/IN his/PRP$ agenda/NN during/IN his/PRP$ time/NN at/IN the/DT helm/NN of/IN the/DT G8./CD
+He/PRP acknowledged/VBD he/PRP would/MD have/VB a/DT "a/NN job/NN of/IN persuading/VBG to/TO do"/VB on/IN other/JJ nations/NNS to/TO get/VB the/DT necessary/JJ commitment/NN to/TO debt/VB relief./NN
+Bob/NNP Geldof/NNP in/IN characteristically/RB blunt/VBP style/NN promised/VBN that/IN the/DT commission/NN would/MD not/RB just/RB be/VB a/DT talking/VBG shop/NN but/CC would/MD deliver/VB radical/JJ new/JJ thinking/NN to/TO change/VB direction/NN for/IN Africa./NNP
+The/DT former/JJ rock/NN star's/NNS presence/NN on/IN the/DT commission/NN has/VBZ been/VBN interpreted/VBN as/IN a/DT sign/NN that/IN it/PRP will/MD be/VB uncompromising/VBG in/IN its/PRP$ demands./NN
+The/DT people/NNS involved/VBD include/VBP two/CD African/JJ government/NN leaders/NNS and/CC a/DT range/NN of/IN other/JJ African/JJ politicians/NNS as/RB well/RB as/IN experts/NNS from/IN some/DT other/JJ developed/VBN countries./NN

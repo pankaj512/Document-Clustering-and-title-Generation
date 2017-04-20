@@ -1,0 +1,11 @@
+Holmes/NNP feted/VBD with/IN further/JJ honour/NN
+
+Double/RB Olympic/NNP champion/NN Kelly/NNP Holmes/NNP has/VBZ been/VBN voted/VBN European/NNP Athletics/NNP (EAA)/NN woman/NN athlete/NN of/IN 2004/CD in/IN the/DT governing/VBG body's/NNS annual/JJ poll./NN
+
+The/DT Briton/NNP made/VBD a/DT dame/NN in/IN the/DT New/NNP Year/NN Honours/NNP List/NN for/IN taking/VBG 800m/CD and/CC 1500m/CD gold/NN won/VBD vital/JJ votes/NNS from/IN the/DT public/JJ press/NN and/CC EAA/NNP member/NN federations./NN
+She/PRP is/VBZ only/RB the/DT second/JJ British/JJ woman/NN to/TO land/VB the/DT title/NN after-/JJ Sally/NNP Gunnell/NNP won/VBD for/IN her/PRP$ world/NN 400m/CD hurdles/NNS win/VBP in/IN 1993./CD
+Swedish/JJ triple/JJ jumper/NN Christian/NNP Olsson/NNP was/VBD voted/VBN male/JJ athlete/NN of/IN the/DT year./NN
+The/DT accolade/NN is/VBZ the/DT latest/JJS in/IN a/DT long/JJ list/NN of/IN awards/NNS that/IN Holmes/NNP has/VBZ received/VBN since/IN her/PRP$ success/NN in/IN Athens./NNP
+In/IN addition/NN to/TO becoming/VBG a/DT dame/NN she/PRP was/VBD also/RB named/VBD the/DT BBC/NNP Sports/NNP Personality/NN of/IN the/DT Year/NN in/IN December./NNP
+Her/PRP$ gutsy/JJ victory/NN in/IN the/DT 800m/CD also/RB earned/VBD her/PRP the/DT International/NNP Association/NNP of/IN Athletics/NNP Federations'/NNP award/NN for/IN the/DT best/JJS women's/NNS performance/NN in/IN the/DT world/NN for/IN 2004./CD
+And/CC she/PRP scooped/VBD two/CD awards/NNS at/IN the/DT British/NNP Athletics/NNP Writers'/NNP Association/NNP annual/JJ dinner/NN in/IN October./NNP

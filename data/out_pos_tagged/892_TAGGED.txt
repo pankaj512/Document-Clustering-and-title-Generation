@@ -1,0 +1,16 @@
+Last/JJ Star/NNP Wars/NNS 'not/NN for/IN children'/NN
+
+The/DT sixth/JJ and/CC final/JJ Star/NNP Wars/NNS movie/NN may/MD not/RB be/VB suitable/JJ for/IN young/JJ children/NNS film-maker/NN George/NNP Lucas/NNP has/VBZ said./NN
+
+He/PRP told/VBD US/PRP TV/VBP show/NN 60/CD Minutes/NNPS that/DT Revenge/NN of/IN the/DT Sith/NNP would/MD be/VB the/DT darkest/JJ and/CC most/RBS violent/JJ of/IN the/DT series./NN
+"I/NN don't/NN think/VBP I/PRP would/MD take/VB a/DT five/CD or/CC six-year-old/JJ to/TO this"/VB he/PRP told/VBD the/DT CBS/NNP programme/NN to/TO be/VB aired/VBN on/IN Sunday./NNP
+Lucas/NNP predicted/VBD the/DT film/NN would/MD get/VB a/DT US/PRP rating/VBP advising/VBG parents/NNS some/DT scenes/NNS may/MD be/VB unsuitable/JJ for/IN under-13s./JJ
+It/PRP opens/VBZ in/IN the/DT UK/NNP and/CC US/PRP on/IN 19/CD May./NNP
+He/PRP said/VBD he/PRP expected/VBD the/DT film/NN would/MD be/VB classified/VBN PG-13/NN -/: roughly/RB equivalent/JJ to/TO a/DT British/JJ 12A/CD rating./NN
+
+The/DT five/CD previous/JJ Star/NNP Wars/NNS films/NNS have/VBP all/DT carried/VBN less/RBR restrictive/JJ PG/NNP -/: parental/JJ guidance/NN -/: ratings/NNS in/IN the/DT US./NNP
+In/IN the/DT UK/NNP they/PRP have/VBP all/DT been/VBN passed/VBN U/NNP -/: suitable/JJ for/IN all/DT -/: with/IN the/DT exception/NN of/IN Attack/NN of/IN The/DT Clones/NNS which/WDT got/VBD a/DT PG/NNP rating/NN in/IN 2002./CD
+Revenge/NN of/IN the/DT Sith/NNP -/: the/DT third/JJ prequel/NN to/TO the/DT original/JJ 1977/CD Star/NNP Wars/NNS film/NN -/: chronicles/VBZ the/DT transformation/NN of/IN the/DT heroic/JJ Anakin/NNP Skywalker/NNP into/IN the/DT evil/JJ Darth/NNP Vader/NNP as/IN he/PRP travels/VBZ to/TO a/DT Hell-like/JJ planet/NN composed/VBN of/IN erupting/VBG volcanoes/NNS and/CC molten/JJ lava./NN
+"We're/NN going/VBG to/TO watch/VB him/PRP make/VB a/DT pact/NN with/IN the/DT devil"/NN Lucas/NNP said./NN
+"The/NN film/NN is/VBZ much/RB more/RBR dark/JJ more/JJR emotional./NN
+It's/NNP much/RB more/JJR of/IN a/DT tragedy."/NN

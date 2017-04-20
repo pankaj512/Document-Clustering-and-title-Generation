@@ -1,0 +1,30 @@
+Fosters/NNP buys/VBZ stake/NN in/IN winemaker/NN
+
+Australian/JJ brewer/NN Fosters/NNP has/VBZ bought/VBN a/DT large/JJ stake/NN in/IN Australian/JJ winemaker/NN Southcorp/NNP sparking/VBG rumours/NNS of/IN a/DT possible/JJ takeover./NN
+
+Fosters/NNP bought/VBD 18.8%/CD of/IN Southcorp/NNP the/DT global/JJ winemaker/NN behind/IN the/DT Penfolds/NNP Lindemans/NNP and/CC Rosemount/NNP brands/NNS for/IN 4.17/CD Australian/JJ dollars/NNS per/IN share./NN
+A/DT bid/NN at/IN that/DT price/NN would/MD value/VB the/DT company/NN at/IN A$3.1bn/CD ($2.4bn/CD £1.25bn/CD )./NN
+Fosters/NNP said/VBD it/PRP was/VBD currently/RB in/IN discussions/NNS "which/NN may/MD lead/VB to/TO a/DT major/JJ corporate/JJ announcement"./NN
+
+In/IN a/DT separate/JJ statement/NN Southcorp/NNP confirmed/VBD the/DT brewer/NN had/VBD asked/VBN for/IN talks./NN
+Both/DT firms/NNS asked/VBD the/DT Sydney/NNP stock/NN market/NN to/TO suspend/VB trading/VBG in/IN their/PRP$ shares/NNS until/IN Monday./NNP
+Southcorp's/NNP shares/NNS were/VBD suspended/VBN at/IN A$4.25./CD
+
+Fosters/NNP bought/VBD the/DT 18.8%/CD stake/NN from/IN Reline/NNP Investments/NNP the/DT family/NN investment/NN firm/NN for/IN the/DT Oatleys/NNP who/WP founded/VBD the/DT Rosemount/NNP Estates/NNP label/NN and/CC sold/VBD it/PRP to/TO Southcorp/NNP in/IN 2001./CD
+Robert/NNP Oatley/NNP and/CC his/PRP$ son/NN Sandy/NNP Oatley/NNP have/VBP both/DT resigned/VBN from/IN Southcorp's/NNP board/NN following/VBG the/DT share/NN deal./NN
+Southcorp/NNP employs/VBZ 2700/CD people/NNS and/CC is/VBZ the/DT largest/JJS single/JJ investor/NN in/IN rural/JJ Australia/NNP according/VBG to/TO its/PRP$ website./NN
+The/DT prospect/NN of/IN Fosters/NNP launching/VBG a/DT major/JJ acquisition/NN startled/VBN investors/NNS as/IN the/DT brewer/NN said/VBD last/JJ summer/NN that/IN it/PRP was/VBD not/RB looking/VBG to/TO expand/VB through/IN a/DT big/JJ buy/NN in/IN the/DT near/JJ future./NN
+It/PRP has/VBZ cash/NN available/JJ after/IN getting/VBG A$846m/CD from/IN selling/VBG property/NN business/NN Lensworth/NNP but/CC it/PRP has/VBZ been/VBN widely/RB expected/VBN to/TO return/VB cash/NN to/TO shareholders./VB
+
+"People/NN will/MD scratching/VBG their/PRP$ heads/NNS over/IN this/DT one./NN
+Fosters/NNP has/VBZ done/VBN a/DT back-flip"/JJ said/VBD Shawn/NNP Burns/NNP a/DT fund/NN manger/NN at/IN Deutsche/NNP Asset/NNP Management./NNP
+Southcorp's/NNP shares/NNS have/VBP risen/VBN in/IN recent/JJ months/NNS on/IN speculation/NN that/IN it/PRP could/MD become/VB a/DT takeover/NN target./NN
+It/PRP spent/VBD two/CD years/NNS in/IN the/DT red/NN returning/NN to/TO profit/VB in/IN 2004./CD
+Consolidation/NN in/IN the/DT wine/NN industry/NN is/VBZ being/VBG driven/VBN by/IN Constellation/NNP the/DT world's/NNS biggest/JJS winemaker./NN
+It/PRP seized/VBD the/DT top/JJ spot/NN when/WRB it/PRP bought/VBD Australian/JJ firm/NN BRL/NNP Hardy/JJ for/IN just/RB over/IN $1bn/CD in/IN 2003./CD
+Since/IN then/RB it/PRP has/VBZ paid/VBN $1bn/CD for/IN US/PRP wine/VBP maker/NN Robert/NNP Mondavi/NNP bought/VBD last/JJ month./NN
+Fosters'/NNP main/JJ wine/NN business/NN is/VBZ Beringer/NNP Blass/NNP Wine/NNP Estate./NNP
+Its/PRP$ best/JJS known/VBN brand/NN is/VBZ Fosters/NNP lager/NN though/IN it/PRP makes/VBZ a/DT clutch/NN of/IN beer/NN brands/NNS and/CC spirits./NN
+Analysts/NNS were/VBD divided/VBN on/IN Thursday/NNP about/IN whether/IN Fosters/NNP was/VBD more/RBR likely/JJ to/TO go/VB for/IN a/DT takeover/NN or/CC merely/RB wanted/VBD to/TO take/VB a/DT big/JJ enough/JJ chunk/NN of/IN Southcorp/NNP to/TO prevent/VB it/PRP falling/VBG to/TO a/DT rival./NN
+"Currently/RB I/PRP think/VBP the/DT strategic/JJ position/NN is/VBZ more/RBR sensible/JJ rather/RB than/IN an/DT outright/JJ takeover"/NN said/VBD one/CD analyst/NN quoted/VBN by/IN the/DT Agence/NNP France/NNP Presse/NNP news/NN agency./NN
+However/RB Matt/NNP Williams/NNP a/DT fund/NN manager/NN at/IN Perpetual/JJ Trustees/NNS said/VBD taking/VBG the/DT stake/NN "is/NN definitely/RB a/DT precursor/NN to/TO a/DT takeover"./NN

@@ -1,0 +1,40 @@
+Scots/NNP smoking/NN ban/NN details/NNS set/VBD out/RP
+
+Smoke-free/NN areas/NNS will/MD save/VB lives/NNS and/CC improve/VB Scotland's/NNP health/NN First/NNP Minister/NNP Jack/NNP McConnell/NNP has/VBZ insisted./NN
+
+He/PRP told/VBD the/DT Scottish/NNP Parliament/NNP on/IN Wednesday/NNP that/IN a/DT "comprehensive/JJ ban"/NN on/IN smoking/NN in/IN public/JJ places/NNS would/MD be/VB introduced/VBN by/IN the/DT spring/NN of/IN 2006./CD
+Mr/NNP McConnell/NNP said/VBD the/DT country's/NNS health/NN rates/NNS were/VBD "lamentable"/NN not/RB least/JJS because/IN of/IN smoking./NN
+He/PRP said/VBD fines/NNS of/IN up/IN to/TO £2500/CD would/MD be/VB levied/VBN on/IN employers/NNS and/CC licences/NNS would/MD be/VB removed/VBN for/IN non-compliance./JJ
+Earlier/RBR the/DT Scottish/NNP Executive/NNP considered/VBD a/DT range/NN of/IN options/NNS but/CC agreed/VBD unanimously/RB to/TO introduce/VB an/DT all-out/JJ ban/NN on/IN smoking/NN in/IN public/JJ places./NN
+In/IN a/DT statement/NN to/TO parliament/VB Mr/NNP McConnell/NNP said/VBD that/IN the/DT licensed/VBN trade/NN would/MD be/VB asked/VBN to/TO join/VB an/DT expert/NN committee/NN prior/RB to/TO the/DT ban/NN coming/VBG into/IN force./NN
+
+The/DT health/NN arguments/NNS far/RB outweighed/VBN lingering/VBG public/JJ disquiet/NN about/IN a/DT complete/JJ ban/NN and/CC claims/NNS by/IN the/DT licensed/VBN trade/NN that/IN jobs/NNS would/MD be/VB lost/VBN he/PRP told/VBD MSPs./NNP
+He/PRP said/VBD there/EX would/MD be/VB an/DT international/JJ marketing/NN campaign/NN whereby/WRB "tourists/NN can/MD enjoy/VB smoke/NN free/JJ environment/NN and/CC the/DT sick/JJ man/NN of/IN Europe/NNP image/NN becomes/VBZ a/DT thing/NN of/IN the/DT past"./NN
+"There/NN are/VBP still/RB national/JJ habits/NNS which/WDT hold/VBP us/PRP back/RB -/: the/DT time/NN has/VBZ come/VBN for/IN this/DT parliament/NN to/TO accelerate/VB improvements/NNS in/IN health"/NN he/PRP declared./VB
+"Health/NN rates/NNS are/VBP lamentable/JJ because/IN of/IN a/DT lack/NN of/IN exercise/NN drugs/NNS abuse/VBP excessive/JJ drinking/NN and/CC over-eating./JJ
+"They/NN all/DT make/NN us/PRP one/CD of/IN the/DT most/RBS unhealthy/JJ countries/NNS in/IN Europe/NNP and/CC too/RB many/JJ smoke./NN
+"It/NN is/VBZ clear/JJ that/IN Scotland/NNP must/MD not/RB be/VB held/VBN back/RB by/IN poor/JJ public/JJ health/NN -/: the/DT single/JJ biggest/JJS contribution/NN devolved/VBD government/NN can/MD make/VB is/VBZ to/TO reduce/VB the/DT toll/NN of/IN preventable/JJ death/NN caused/VBN by/IN smoking."/NN The/DT legislation/NN will/MD be/VB introduced/VBN as/IN part/NN of/IN the/DT Health/NNP Service/NNP (Miscellaneous/JJ Provisions)/NNP Bill/NNP which/WDT will/MD be/VB considered/VBN by/IN parliament/NN before/IN Christmas./NNP
+Main/NN points/NNS of/IN the/DT plan/NN
+
+
+-/: A/DT comprehensive/JJ ban/NN on/IN smoking/NN in/IN all/DT enclosed/VBN public/JJ places/NNS in/IN Scotland/NNP
+-/: The/DT legislation/NN will/MD be/VB enforced/VBN by/IN environmental/JJ health/NN and/CC local/JJ licensing/NN officers/NNS
+-/: Licensees/NNP or/CC employers/NNS who/WP fail/VBP to/TO enforce/VB the/DT law/NN will/MD face/VB fines/NNS up/IN to/TO a/DT maximum/NN of/IN £2500/CD
+-/: Licensees/NNP who/WP persistently/RB refuse/VBP to/TO comply/VB with/IN the/DT law/NN will/MD face/VB the/DT ultimate/JJ sanction/NN of/IN losing/VBG their/PRP$ liquor/NN licence/NN
+-/: A/DT system/NN of/IN issuing/VBG fixed/VBN penalty/NN notices/NNS for/IN those/DT individuals/NNS who/WP break/VBP the/DT law/NN will/MD be/VB examined/VBN
+-/: Individuals/NNS who/WP persistently/RB break/VBP the/DT law/NN will/MD face/VB a/DT maximum/NN fine/NN of/IN £1000./CD
+
+
+
+Mr/NNP McConnell/NNP claimed/VBD there/EX was/VBD evidence/NN that/DT smoking/NN bans/NNS had/VBD helped/VBN smokers/NNS to/TO either/CC give/VB up/RP quicker/JJR or/CC smoke/NN less./NN
+He/PRP said/VBD there/EX had/VBD been/VBN falling/VBG cigarette/NN sales/NNS of/IN 13%/CD in/IN New/NNP York/NNP and/CC 16%/CD in/IN Ireland./NNP
+Mr/NNP McConnell/NNP added/VBD that/IN there/EX had/VBD been/VBN a/DT near/JJ nine/CD per/IN cent/NN rise/NN in/IN tax/NN revenues/NNS from/IN New/NNP York/NNP bars/NNS and/CC restaurants/NNS and/CC in/IN Ireland/NNP only/RB a/DT one/CD point/NN three/CD per/IN cent/NN volume/NN sales/NNS fall/VBP where/WRB they/PRP were/VBD declining/VBG before/IN the/DT ban./NN
+The/DT afternoon/NN announcement/NN following/VBG a/DT cabinet/NN meeting/NN on/IN Wednesday/NNP morning/NN won/VBD broad/JJ support/NN from/IN opposition/NN parties./NN
+
+The/DT Scottish/NNP National/NNP Party's/NNP Holyrood/NNP leader/NN Nicola/NNP Sturgeon/NNP welcomed/VBD the/DT move/NN but/CC added/VBD that/IN the/DT public/NN should/MD be/VB consulted/VBN as/IN the/DT clock/NN ticked/VBN towards/IN the/DT ban/NN date./NN
+She/PRP said/VBD "The/NN time/NN has/VBZ come/VBN for/IN a/DT ban/NN on/IN smoking/NN in/IN public/JJ places./NN
+"There/NN is/VBZ evidence/VBG a/DT ban/NN can/MD cut/VB deaths/NNS from/IN passive/JJ smoking/NN and/CC makes/VBZ it/PRP easier/JJR for/IN the/DT 70%/CD of/IN smokers/NNS who/WP desperately/RB want/VBP to/TO give/VB up/RP the/DT habit./NN
+"But/NN we/PRP must/MD also/RB recognise/VB that/IN some/DT people/NNS have/VBP concerns/NNS and/CC reservations/NNS -/: there/EX are/VBP people/NNS who/WP are/VBP yet/RB to/TO be/VB persuaded."/NN The/DT Scottish/NNP Conservative/JJ Party/NNP leader/NN David/NNP McLetchie/NNP questioned/VBD what/WP would/MD be/VB exempted/VBN from/IN the/DT ban./NN
+He/PRP was/VBD keen/JJ to/TO know/VB if/IN inmates/NNS in/IN Scottish/NNP prisons/NNS would/MD continue/VB to/TO be/VB allowed/VBN to/TO smoke./VB
+Mr/NNP McLetchie/NNP asked/VBD "Would/NN it/PRP not/RB be/VBP ironic/JJ and/CC perhaps/RB entirely/RB typical/JJ of/IN the/DT first/JJ minister's/NNS brave/VBP new/JJ Scotland/NNP that/IN the/DT criminals/NNS can/MD be/VB smokers/NNS but/CC the/DT smokers/NNS will/MD become/VB criminals?"/NN The/DT Scottish/NNP Green/NNP Party's/NNP health/NN spokeswoman/NN Eleanor/NNP Scott/NNP said/VBD she/PRP was/VBD pleased/JJ Scotland/NNP would/MD be/VB following/VBG the/DT "success/NN stories/NNS of/IN New/NNP York/NNP and/CC Ireland"./NNP
+She/PRP believed/VBD the/DT majority/NN of/IN people/NNS in/IN Scotland/NNP wanted/VBD to/TO go/VB out/RP without/IN having/VBG to/TO breathe/VB in/IN harmful/JJ tobacco/NN smoke./NN

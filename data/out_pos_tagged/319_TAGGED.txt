@@ -1,0 +1,19 @@
+Euronext/NNP joins/VBZ bid/NN battle/NN for/IN LSE/NNP
+
+Pan-European/NNP stock/NN market/NN Euronext/NNP has/VBZ approached/VBN the/DT London/NNP Stock/NNP Exchange/NNP (LSE)/NN about/IN a/DT possible/JJ takeover/NN bid./NN
+
+"The/NN approach/NN is/VBZ at/IN an/DT early/JJ stage/NN and/CC therefore/RB does/VBZ not/RB require/VB a/DT response/NN at/IN this/DT point"/NN LSE/NNP said./NN
+Talks/NNS with/IN the/DT European/JJ stock/NN market/NN and/CC with/IN rival/JJ bidder/NN Deutsche/NNP Boerse/NNP will/MD continue/VB the/DT LSE/NNP said./NN
+Last/JJ week/NN the/DT group/NN rejected/VBD a/DT £1.3bn/CD ($2.5bn)/CD takeover/NN offer/NN from/IN Deutsche/NNP Boerse/NNP claiming/VBG that/IN it/PRP undervalued/VBD the/DT business./NN
+LSE/NNP saw/VBD its/PRP$ shares/NNS surge/NN 4.9%/CD to/TO a/DT new/JJ high/NN of/IN 583p/CD in/IN early/JJ trade/NN following/VBG the/DT announcement/NN on/IN Monday./NNP
+
+The/DT offer/NN follows/VBZ widespread/JJ media/NNS speculation/NN that/IN Euronext/NNP would/MD make/VB an/DT offer/NN for/IN LSE./NNP
+Experts/NNS now/RB widely/RB expect/VBP a/DT bidding/NN war/NN for/IN Europe's/NNP biggest/JJS stock/NN market/NN which/WDT lists/NNS stocks/NNS with/IN a/DT total/JJ capitalisation/NN of/IN £1.4/CD trillion/CD to/TO break/VB out./NN
+Commentators/NNS say/VBP that/IN a/DT deal/NN with/IN Euronext/NNP which/WDT owns/VBZ the/DT Liffe/NNP derivatives/NNS exchange/NN in/IN London/NNP and/CC combines/VBZ the/DT Paris/NNP Amsterdam/NNP and/CC Lisbon/NNP stock/NN exchanges/NNS could/MD potentially/RB offer/VB the/DT LSE/NNP more/JJR cost/NN savings/NNS than/IN a/DT deal/NN with/IN Deutsche/NNP Boerse./NNP
+
+A/DT weekend/NN report/NN in/IN the/DT Telegraph/NNP had/VBD quoted/VBN an/DT unnamed/JJ executive/NN at/IN Euronext/NNP as/IN saying/VBG the/DT group/NN would/MD make/VB a/DT cash/NN bid/NN to/TO trump/VB Deutsche/NNP Boerse's/NNP offer./NN
+"Because/NN we/PRP already/RB own/VB Liffe/NNP in/IN London/NNP the/DT cost/NN savings/NNS available/JJ to/TO us/PRP from/IN a/DT merger/NN are/VBP far/RB greater/JJR than/IN for/IN Deutsche/NNP Boerse"/NNP the/DT newspaper/NN quoted/VBD the/DT executive/NN as/IN saying./NN
+Euronext/NNP chief/NN executive/NN Jean-Francois/NNP Theodore/NNP is/VBZ reported/VBN to/TO have/VB already/RB held/VBN private/JJ talks/NNS with/IN LSE's/NNP chief/NN executive/NN Clara/NNP Furse./NNP
+Further/RB reports/NNS had/VBD suggested/VBN that/IN Euronext/NNP could/MD make/VB an/DT offer/NN in/IN excess/NN of/IN the/DT LSE's/NNP 533p/CD a/DT share/NN closing/NN price/NN on/IN Friday./NNP
+However/RB Euronext/NNP said/VBD it/PRP could/MD not/RB guarantee/VB "at/NN this/DT stage"/NN that/IN a/DT firm/JJ offer/NN would/MD be/VB made/VBN for/IN LSE./NNP
+There/EX has/VBZ been/VBN extensive/JJ speculation/NN about/IN a/DT possible/JJ takeover/NN of/IN the/DT company/NN since/IN an/DT attempted/VBN merger/NN with/IN Deutsche/NNP Boerse/NNP failed/VBD in/IN 2000./CD

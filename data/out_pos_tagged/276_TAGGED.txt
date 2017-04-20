@@ -1,0 +1,12 @@
+India/NNP power/NN shares/NNS jump/NN on/IN debut/NN
+
+Shares/NNS in/IN India's/NNP largest/JJS power/NN producer/NN National/NNP Thermal/JJ Power/NNP Corp/NNP (NTPC)/NN have/VBP risen/VBN 13%/CD on/IN their/PRP$ stock/NN market/NN debut./NN
+
+The/DT government's/NNS partial/JJ sell-off/NN of/IN NTPC/NNP is/VBZ part/NN of/IN a/DT controversial/JJ programme/NN to/TO privatise/VB state-run/JJ firms./NN
+The/DT 865/CD million/CD share/NN offer/NN a/DT mix/NN of/IN new/JJ shares/NNS and/CC sales/NNS by/IN the/DT government/NN raised/VBD 54bn/CD rupees($1.2bn)./CD
+It/PRP was/VBD India's/NNP second/JJ $1bn/CD stock/NN debut/NN in/IN three/CD months/NNS coming/VBG after/IN the/DT flotation/NN by/IN software/NN firm/NN Tata./NNP
+The/DT share/NN offer/NN was/VBD eleven/NN times/NNS oversubscribed./NN
+"It/NN is/VBZ a/DT good/JJ investment/NN bet"/NN said/VBD Suhas/NNP Naik/NNP an/DT investment/NN analyst/NN from/IN ING/NNP Mutual/NNP Fund./NNP
+"Power/NN needs/VBZ in/IN India/NNP are/VBP set/VBN to/TO rise/VB and/CC NTPC/NNP will/MD benefit/VB from/IN that."/NN Analysts/NNS say/VBP the/DT success/NN of/IN the/DT NTPC/NNP flotation/NN would/MD encourage/VB the/DT government/NN to/TO reduce/VB stakes/NNS in/IN more/JJR power/NN companies./NN
+NTPC/NNP has/VBZ said/VBN it/PRP will/MD use/VB the/DT money/NN from/IN the/DT share/NN sale/NN to/TO feed/VB the/DT growing/VBG needs/VBZ of/IN the/DT country's/NNS energy-starved/JJ economy./NN
+The/DT firm/NN is/VBZ the/DT largest/JJS utility/NN company/NN in/IN India/NNP and/CC the/DT sixth/JJ largest/JJS power/NN producer/NN in/IN the/DT world./NN

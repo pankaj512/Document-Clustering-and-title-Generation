@@ -1,0 +1,12 @@
+MPs/NNP issued/VBD with/IN Blackberry/NNP threat/NN
+
+MPs/NNP will/MD be/VB thrown/VBN out/IN of/IN the/DT Commons/NNPS if/IN they/PRP use/VBP Blackberries/NNP in/IN the/DT chamber/NN Speaker/NNP Michael/NNP Martin/NNP has/VBZ ruled./NN
+
+The/DT £200/CD handheld/JJ computers/NNS can/MD be/VB used/VBN as/IN a/DT phone/NN pager/NN or/CC to/TO send/VB e-mails./JJ
+The/DT devices/NNS gained/VBD new/JJ prominence/NN this/DT week/NN after/IN Alastair/NNP Campbell/NNP used/VBD his/PRP$ to/TO accidentally/RB send/VB an/DT expletive-laden/JJ message/NN to/TO a/DT Newsnight/NNP journalist./NN
+Mr/NNP Martin/NNP revealed/VBD some/DT MPs/NNP had/VBD been/VBN using/VBG their/PRP$ Blackberries/NNP during/IN debates/NNS and/CC he/PRP also/RB cautioned/VBD members/NNS against/IN using/VBG hidden/JJ earpieces./NN
+
+The/DT use/NN of/IN electronic/JJ devices/NNS in/IN the/DT Commons/NNPS chamber/NN has/VBZ long/RB been/VBN frowned/VBN on./NN
+The/DT sound/NN of/IN a/DT mobile/JJ phone/NN or/CC a/DT pager/NN can/MD result/VB in/IN a/DT strong/JJ rebuke/NN from/IN either/CC the/DT Speaker/NNP or/CC his/PRP$ deputies./NN
+The/DT Speaker/NNP chairs/NNS debates/NNS in/IN the/DT Commons/NNPS and/CC is/VBZ charged/VBN with/IN ensuring/VBG order/NN in/IN the/DT chamber/NN and/CC enforcing/VBG rules/NNS and/CC conventions/NNS of/IN the/DT House./NNP
+He/PRP or/CC she/PRP is/VBZ always/RB an/DT MP/NNP chosen/VBN by/IN colleagues/NNS who/WP once/RB nominated/VBD gives/VBZ up/RP all/DT party/NN political/JJ allegiances./NN

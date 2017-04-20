@@ -1,0 +1,25 @@
+Cyber/NNP criminals/NNS step/VBP up/RP the/DT pace/NN
+
+So-called/JJ phishing/NN attacks/NNS that/WDT try/VBP to/TO trick/VB people/NNS into/IN handing/VBG over/IN confidential/JJ details/NNS have/VBP boomed/VBN in/IN 2004/CD say/VBP security/NN experts./NN
+
+The/DT number/NN of/IN phishing/VBG e-mail/JJ messages/NNS stopped/VBD by/IN security/NN firm/NN MessageLabs/NNP has/VBZ risen/VBN more/JJR than/IN tenfold/RB in/IN less/JJR than/IN 12/CD months./NN
+In/IN 2004/CD it/PRP detected/VBD more/JJR than/IN 18/CD million/CD phishing/VBG e-mail/JJ messages./NN
+Other/JJ statistics/NNS show/VBP that/IN in/IN 2004/CD 73%/CD of/IN all/DT e-mail/NN was/VBD spam/NN and/CC one/CD in/IN 16/CD messages/NNS were/VBD infected/JJ with/IN a/DT virus./NN
+
+In/IN its/PRP$ end-of-year/JJ report/NN MessageLabs/NNP said/VBD that/IN phishing/VBG had/VBD become/VBN the/DT top/JJ security/NN threat/NN and/CC most/RBS popular/JJ form/NN of/IN attack/NN among/IN cyber/NN criminals./NN
+In/IN September/NNP 2003/CD MessageLabs/NNP caught/VBN only/RB 273/CD phishing/VBG e-mails/NNS that/WDT tried/VBD to/TO make/VB people/NNS visit/VBP fake/JJ versions/NNS of/IN the/DT websites/NNS run/VBP by/IN real/JJ banks/NNS and/CC financial/JJ organisations./NN
+But/CC by/IN September/NNP 2004/CD it/PRP was/VBD stopping/VBG more/JJR than/IN two/CD million/CD phishing/VBG related/VBN e-mail/JJ messages/NNS per/IN month./NN
+Worryingly/NNP said/VBD the/DT firm/NN phishing/VBG gangs/NNS were/VBD using/VBG increasingly/RB sophisticated/JJ techniques/NNS to/TO harvest/VB useful/JJ information/NN such/JJ as/IN login/NN details/NNS or/CC personal/JJ data./NN
+
+Older/JJR attacks/NNS relied/VBN on/IN users/NNS not/RB spotting/VBG the/DT fact/NN that/IN the/DT site/NN they/PRP were/VBD visiting/VBG was/VBD fake/JJ but/CC more/RBR recent/JJ phishing/NN e-mails/NNS simply/RB try/VBP to/TO steal/VB details/NNS as/RB soon/RB as/IN a/DT message/NN is/VBZ opened./NN
+Other/JJ phishing/NN scams/NNS try/VBP to/TO recruit/VB innocent/JJ people/NNS into/IN acting/VBG as/IN middlemen/NNS for/IN laundering/NN money/NN or/CC goods/NNS bought/VBD with/IN stolen/VBN credit/NN cards./NN
+"E-mail/JJ security/NN attacks/NNS remain/VBP unabated/JJ in/IN their/PRP$ persistence/NN and/CC ferocity"/NN said/VBD Mark/NNP Sunner/NNP chief/JJ technology/NN officer/NN at/IN MessageLabs./NNP
+"In/NN just/RB 12/CD months/NNS phishing/VBG has/VBZ firmly/RB established/VBN itself/PRP as/IN a/DT threat/NN to/TO any/DT organisation/NN or/CC individual/JJ conducting/NN business/NN online"/NN he/PRP said./VB
+Mr/NNP Sunner/NNP said/VBD MessageLabs/NNP was/VBD starting/VBG to/TO see/VB some/DT phishing/VBG attacks/NNS become/VBP very/RB focused/VBN on/IN one/CD company/NN or/CC organisation./NN
+"Already/NN particular/JJ businesses/NNS are/VBP threatened/VBN and/CC blackmailed/VBN indicating/VBG a/DT shift/NN from/IN the/DT random/JJ scattergun/NN approach/NN to/TO customised/VBN attacks/NNS designed/VBN to/TO take/VB advantage/NN of/IN the/DT perceived/VBN weaknesses/NNS of/IN some/DT businesses"/NN he/PRP said./VB
+Although/IN phishing/VBG attacks/NNS grew/VBD substantially/RB throughout/IN 2004/CD viruses/NNS and/CC spam/NN remain/VBP popular/JJ with/IN cyber-criminals/NNS and/CC vandals./NN
+One/CD of/IN the/DT biggest/JJS outbreaks/NNS took/VBD place/NN in/IN January/NNP when/WRB the/DT MyDoom/NNP virus/NN started/VBD circulating./NN
+To/TO date/VB the/DT company/NN has/VBZ caught/VBN more/JJR than/IN 60/CD million/CD copies/NNS of/IN the/DT virus./NN
+Also/RB up/IN this/DT year/NN was/VBD the/DT amount/NN of/IN spam/NN in/IN circulation./NN
+In/IN 2003/CD only/RB 40%/CD of/IN messages/NNS were/VBD spam./NN
+But/CC by/IN the/DT end/NN of/IN 2004/CD almost/RB three-quarters/NNS of/IN messages/NNS were/VBD junk./NN

@@ -1,0 +1,25 @@
+T-Mobile/NN bets/NNS on/IN 'pocket/NN office'/NN
+
+T-Mobile/NNP has/VBZ launched/VBN its/PRP$ latest/JJS "pocket/NN office"/NN third-generation/JJ (3G)/CD device/NN which/WDT also/RB has/VBZ built-in/JJ wi-fi/JJ -/: high-speed/JJ wireless/JJ net/JJ access./NN
+
+Unlike/IN other/JJ devices/NNS where/WRB the/DT user/NN has/VBZ to/TO check/VB which/WDT high-speed/JJ network/NN is/VBZ available/JJ to/TO transfer/VB data/NNS the/DT device/NN selects/VBZ the/DT fastest/JJS one/CD itself./NN
+The/DT MDA/NNP IV/NNP released/VBD in/IN the/DT summer/NN is/VBZ an/DT upgrade/NN to/TO the/DT company's/NNS existing/VBG smartphone/NN the/DT 2.5G/wi-fi/CD MDA/NNP III./NNP
+It/PRP reflects/VBZ the/DT push/NN by/IN mobile/JJ firms/NNS for/IN devices/NNS that/WDT are/VBP like/IN mini/NN laptops./NN
+The/DT device/NN has/VBZ a/DT display/NN that/WDT can/MD be/VB swivelled/VBN and/CC angled/VBN so/IN it/PRP can/MD be/VB used/VBN like/IN a/DT small/JJ computer/NN or/CC as/IN a/DT conventional/JJ clamshell/NN phone./NN
+The/DT Microsoft/NNP Mobile/NNP phone/NN with/IN two/CD cameras/NNS and/CC a/DT Qwerty/NNP keyboard/NN reflects/VBZ the/DT design/NN of/IN similar/JJ all-in-one/JJ models/NNS released/VBD this/DT year/NN such/JJ as/IN Motorola's/NNP MPx./NNP
+"One/NN in/IN five/CD European/JJ workers/NNS are/VBP already/RB mobile/JJ -/: meaning/VBG they/PRP spend/VBP significant/JJ time/NN travelling/VBG and/CC out/IN of/IN the/DT office"/NN Rene/NNP Obermann/NNP T-Mobile's/NNP chief/NN executive/NN told/VBD a/DT press/NN conference/NN at/IN the/DT 3GSM/CD trade/NN show/NN in/IN Cannes./NNP
+He/PRP added/VBD "What/NN they/PRP need/VBP is/VBZ their/PRP$ office/NN when/WRB they/PRP are/VBP out/IN of/IN the/DT office."/NN T-Mobile/NNP said/VBD it/PRP was/VBD seeing/VBG increasing/VBG take/NN up/RP for/IN what/WP it/PRP calls/VBZ "Office/NN in/IN a/DT Pocket"/NNP devices/NNS with/IN 100000/CD MDAs/NNP sold/VBN in/IN Europe/NNP already./NN
+
+In/IN response/NN to/TO demand/VB T-Mobile/NNP also/RB said/VBD it/PRP would/MD be/VB adding/VBG the/DT latest/JJS phone-shaped/JJ Blackberry/NNP to/TO its/PRP$ mobile/JJ range./NN
+Reflecting/VBG the/DT growing/VBG need/VBP to/TO be/VB connected/VBN outside/IN the/DT office/NN it/PRP announced/VBD it/PRP would/MD introduce/VB a/DT flat-fee/JJ £20/CD ($38)/CD a/DT month/NN wi-fi/JJ tariff/NN for/IN people/NNS in/IN the/DT UK/NNP using/VBG its/PRP$ wi-fi/JJ hotspots./NN
+It/PRP said/VBD it/PRP would/MD nearly/RB double/VB the/DT number/NN of/IN its/PRP$ hotspots/NNS -/: places/NNS where/WRB wi-fi/JJ access/NN is/VBZ available/JJ -/: globally/RB from/IN 12300/CD to/TO 20000./CD
+
+It/PRP also/RB announced/VBD it/PRP was/VBD installing/VBG high-speed/JJ wi-fi/NN on/IN certain/JJ train/NN services/NNS such/JJ as/IN the/DT UK's/NNP London/NNP to/TO Brighton/NNP service/NN to/TO provide/VB commuters/NNS a/DT fast/RB net/JJ connection/NN too./NN
+The/DT service/NN which/WDT has/VBZ been/VBN developed/VBN with/IN Southern/NNP trains/NNS Nomad/NNP Digital/NNP (who/NN provide/VBP the/DT technology)/NN begins/VBZ with/IN a/DT free/JJ trial/NN on/IN 16/CD trains/NNS on/IN the/DT route/NN from/IN early/JJ March/NNP to/TO the/DT end/NN of/IN April./NNP
+A/DT full/JJ service/NN is/VBZ set/VBN to/TO follow/VB in/IN the/DT summer./NN
+Wi-fi/NNP access/NN points/NNS will/MD be/VB connected/VBN to/TO a/DT Wimax/NNP wireless/JJ network/NN -/: faster/RBR than/IN wi-fi/JJ -/: running/VBG alongside/IN the/DT train/NN tracks./NN
+Brian/NNP McBride/NNP managing/VBG director/NN of/IN T-Mobile/NNP in/IN the/DT UK/NNP said/VBD "We/NN see/VB a/DT growing/VBG trend/NN for/IN business/NN users/NNS needing/VBG to/TO access/VB e-mail/JJ securely/RB on/IN the/DT move./NN
+
+"We/NN are/VBP able/JJ to/TO offer/VB this/DT by/IN maintaining/VBG a/DT constant/JJ data/NN session/NN for/IN the/DT entire/JJ journey."/NN He/PRP said/VBD this/DT was/VBD something/NN other/JJ similar/JJ in-train/JJ wi-fi/JJ services/NNS such/JJ as/IN that/DT offered/VBD on/IN GNER/NNP trains/NNS did/VBD not/RB offer/VB yet./NN
+Mr/NNP Obermann/NNP added/VBD that/IN the/DT mobile/JJ industry/NN in/IN general/JJ was/VBD still/RB growing/VBG with/IN many/JJ more/JJR opportunities/NNS for/IN more/JJR services/NNS which/WDT would/MD bear/VB fruit/NN for/IN mobile/JJ companies/NNS in/IN future./NN
+Thousands/NNS of/IN mobile/JJ industry/NN experts/NNS are/VBP gathered/VBN in/IN Cannes/NNP France/NNP for/IN the/DT 3GSM/CD which/WDT runs/VBZ from/IN 14/CD to/TO 17/CD February./NNP

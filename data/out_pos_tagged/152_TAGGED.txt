@@ -1,0 +1,23 @@
+Crude/JJ oil/NN prices/NNS back/RB above/IN $50/CD
+
+Cold/NNP weather/NN across/IN parts/NNS of/IN the/DT United/NNP States/NNPS and/CC much/JJ of/IN Europe/NNP has/VBZ pushed/VBN US/PRP crude/VBP oil/NN prices/NNS above/IN $50/CD a/DT barrel/NN for/IN the/DT first/JJ time/NN in/IN almost/RB three/CD months./NN
+
+Freezing/NN temperatures/NNS and/CC heavy/JJ snowfall/NN have/VBP increased/VBN demand/NN for/IN heating/NN fuel/NN in/IN the/DT US/PRP where/WRB stocks/NNS are/VBP low./NN
+Fresh/JJ falls/NNS in/IN the/DT value/NN of/IN the/DT dollar/NN helped/VBD carry/VB prices/NNS above/IN the/DT $50/CD mark/NN for/IN the/DT first/JJ time/NN since/IN November./NNP
+A/DT barrel/NN of/IN US/PRP crude/VBP oil/NN closed/VBD up/RB $2.80/CD to/TO $51.15/CD in/IN New/NNP York/NNP on/IN Tuesday./NNP
+Opec/NN members/NNS said/VBD on/IN Tuesday/NNP that/IN it/PRP saw/VBD no/DT reason/NN to/TO cut/VB its/PRP$ output./NN
+
+Although/IN below/IN last/JJ year's/NNS peak/NN of/IN $55.67/CD a/DT barrel/NN which/WDT was/VBD reached/VBN in/IN October/NNP prices/NNS are/VBP now/RB well/RB above/IN 2004's/CD average/NN of/IN $41.48./CD
+
+Brent/NNP crude/NN also/RB rose/VBD in/IN London/NNP trading/NN adding/VBG $1.89/CD to/TO $48.62/CD at/IN the/DT close./NN
+Much/JJ of/IN western/JJ Europe/NNP and/CC the/DT north/RB east/JJ of/IN America/NNP has/VBZ been/VBN shivering/VBG under/IN unseasonably/RB low/JJ temperatures/NNS in/IN recent/JJ days./NN
+The/DT decline/NN in/IN the/DT US/PRP dollar/VBP to/TO a/DT five-week/JJ low/NN against/IN the/DT euro/NN has/VBZ also/RB served/VBN to/TO inflate/VB prices./NN
+"The/NN dollar/NN moved/VBD sharply/RB overnight/JJ and/CC oil/NN is/VBZ following/VBG it"/NN said/VBD Chris/NNP Furness/NN senior/JJ market/NN strategist/NN at/IN 4Cast./CD
+"If/NN the/DT dollar/NN continues/VBZ to/TO weaken/VB oil/NN will/MD be/VB obviously/RB higher."/NN
+
+Several/JJ Opec/NNP members/NNS said/VBD a/DT cut/NN in/IN production/NN was/VBD unlikely/JJ citing/NN rising/VBG prices/NNS and/CC strong/JJ demand/NN for/IN oil/NN from/IN Asia./NNP
+"I/NN agree/VBP that/IN we/PRP do/VBP not/RB need/VB to/TO cut/VB supply/NN if/IN the/DT prices/NNS are/VBP as/RB much/RB as/IN this"/NN Fathi/NNP Bin/NN Shatwan/NNP Libya's/NNP oil/NN minister/NN told/VBD Reuters./NNP
+"I/NN do/VBP not/RB think/VB we/PRP need/VBP to/TO cut/VB unless/IN the/DT prices/NNS are/VBP falling/VBG below/IN $35/CD a/DT barrel"/NN he/PRP added./VB
+Opec/NNP closely/RB watches/VBZ global/JJ stocks/NNS to/TO ensure/VB that/IN there/EX is/VBZ not/RB an/DT excessive/JJ supply/NN in/IN the/DT market./NN
+The/DT arrival/NN of/IN spring/NN in/IN the/DT northern/JJ hemisphere/NN will/MD focus/VB attention/NN on/IN stockpiles/NNS of/IN US/PRP crude/VBP and/CC gasoline/NN which/WDT are/VBP up/IN to/TO 9%/CD higher/JJR than/IN at/IN this/DT time/NN last/JJ year./NN
+Heavy/NN stockpiles/NNS could/MD help/VB force/VB prices/NNS lower/JJR when/WRB demand/NN eases./NN

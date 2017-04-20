@@ -1,0 +1,12 @@
+Wales/NNS want/VBP rugby/NN league/NN training/NN
+
+Wales/NNP could/MD follow/VB England's/NNP lead/VB by/IN training/NN with/IN a/DT rugby/NN league/NN club./NN
+
+England/NNS have/VBP already/RB had/VBN a/DT three-day/JJ session/NN with/IN Leeds/NNP Rhinos/NNP and/CC Wales/NNP are/VBP thought/VBN to/TO be/VB interested/JJ in/IN a/DT similar/JJ clinic/NN with/IN rivals/NNS St/NNP Helens./NNP
+Saints/NNP coach/NN Ian/NNP Millward/NNP has/VBZ given/VBN his/PRP$ approval/NN but/CC if/IN it/PRP does/VBZ happen/VB it/PRP is/VBZ unlikely/JJ to/TO be/VB this/DT season./NN
+Saints/NNS have/VBP a/DT week's/NNS training/NN in/IN Portugal/NNP next/JJ week/NN while/IN Wales/NNP will/MD play/VB England/NNP in/IN the/DT opening/NN Six/CD Nations/NNPS match/VBP on/IN 5/CD February./NNP
+"We/NN have/VBP had/VBN an/DT approach/NN from/IN Wales"/NNP confirmed/VBD a/DT Saints/NNP spokesman./NN
+"It's/NN in/IN the/DT very/RB early/JJ stages/NNS but/CC it/PRP is/VBZ something/NN we/PRP are/VBP giving/VBG serious/JJ consideration/NN to."/NN St/NNP Helens/NNP who/WP are/VBP proud/JJ of/IN their/PRP$ Welsh/NNP connections/NNS are/VBP obvious/JJ partners/NNS for/IN the/DT Welsh/NNP Rugby/NNP Union/NNP despite/IN a/DT spat/NN in/IN 2001/CD over/IN the/DT collapse/NN of/IN Kieron/NNP Cunningham's/NNP proposed/VBD £500000/CD move/NN to/TO union/VB side/NN Swansea./NNP
+A/DT similar/JJ cross-code/JJ deal/NN that/WDT took/VBD Iestyn/NNP Harris/NNP from/IN Leeds/NNP to/TO Cardiff/NNP in/IN 2001/CD did/VBD go/VB through/RP before/IN the/DT talented/VBN stand-off/JJ returned/VBN to/TO the/DT 13-man/JJ code/NN with/IN Bradford/NNP Bulls./NNP
+Kel/NNP Coslett/NNP who/WP famously/RB moved/VBD from/IN Wales/NNP to/TO league/VB in/IN the/DT 1960s/NNS is/VBZ currently/RB Saints'/NNP football/NN manager/NN while/IN Clive/NNP Griffiths/NNP -/: Wales'/NNP defensive/JJ coach/NN -/: is/VBZ a/DT former/JJ St/NNP Helens/NNP player/NN and/CC is/VBZ thought/VBN to/TO be/VB the/DT man/NN behind/IN the/DT latest/JJS initiative./NN
+Scott/NNP Gibbs/NNP the/DT former/JJ Wales/NNP and/CC Lions/NNP centre/NN played/VBD for/IN St/NNP Helens/NNP from/IN 1994-96/JJ and/CC was/VBD in/IN the/DT Challenge/NNP Cup-winning/NNP team/NN at/IN Wembley/NNP in/IN 1996./CD

@@ -1,0 +1,16 @@
+Apple/NN sues/NNS to/TO stop/VB product/NN leaks/NNS
+
+Computer/NNP firm/NN Apple/NNP has/VBZ issued/VBN a/DT lawsuit/NN to/TO prevent/VB online/NN leaks/NNS of/IN information/NN about/IN future/JJ products./NN
+
+The/DT lawsuit/NN against/IN an/DT unidentified/JJ individual/JJ comes/VBZ just/RB weeks/NNS before/IN the/DT MacWorld/NNP conference/NN in/IN San/NNP Francisco/NNP used/VBD to/TO showcase/VB new/JJ products./NN
+The/DT complaint/NN said/VBD an/DT "unidentified/VBN individual.../NN
+has/VBZ recently/RB misappropriated/VBN and/CC disseminated/VBN confidential/JJ information"./NN
+The/DT lawsuit/NN was/VBD filed/VBN with/IN the/DT Santa/NNP Clara/NNP California/NNP Superior/NNP Court./NNP
+Apple/NNP is/VBZ famously/RB secretive/JJ about/IN its/PRP$ future/JJ product/NN launches/NNS while/IN Apple/NNP users/NNS are/VBP equally/RB famous/JJ for/IN speculating/VBG about/IN new/JJ technology/NN from/IN the/DT company./NN
+Fans/NNS have/VBP speculated/VBN in/IN recent/JJ weeks/NNS about/IN the/DT possibility/NN of/IN a/DT new/JJ type/NN of/IN iPod/NN being/VBG announced/VBD at/IN the/DT MacWorld/NNP conference./NN
+
+Apple/NNP said/VBD in/IN the/DT seven-page/JJ complaint/NN filed/VBN on/IN 13/CD December/NNP that/IN it/PRP did/VBD not/RB know/VB the/DT "true/NN names/NNS or/CC capacities/NNS whether/IN individual/JJ associate/JJ corporate/JJ or/CC otherwise"/NN of/IN the/DT defendants./NN
+The/DT company/NN said/VBD it/PRP would/MD amend/VB the/DT complaint/NN once/IN they/PRP had/VBD discovered/VBN the/DT names/NNS of/IN those/DT who/WP had/VBD allegedly/RB leaked/VBN information./NN
+It/PRP is/VBZ not/RB the/DT first/JJ time/NN Apple/NNP has/VBZ sued/VBN people/NNS who/WP have/VBP posted/VBN information/NN about/IN future/JJ products/NNS on/IN the/DT internet./JJ
+In/IN December/NNP 2002/CD Apple/NNP sued/VBD a/DT former/JJ contractor/NN who/WP allegedly/RB posted/VBD online/NN drawings/NNS images/NNS and/CC engineering/NN details/NNS of/IN the/DT company's/NNS PowerMac/NNP G4/CD computer./NN
+In/IN a/DT statement/NN Apple/NNP said/VBD of/IN the/DT current/JJ lawsuit/NN "Apple/NN has/VBZ filed/VBN a/DT civil/JJ complaint/NN against/IN unnamed/JJ individuals/NNS who/WP we/PRP believe/VBP stole/VBN our/PRP$ trade/NN secrets/NNS and/CC posted/VBD detailed/JJ information/NN about/IN an/DT unannounced/VBN Apple/NNP product/NN on/IN the/DT internet."/JJ

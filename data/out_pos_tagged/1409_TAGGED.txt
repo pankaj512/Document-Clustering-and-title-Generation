@@ -1,0 +1,13 @@
+Van/NNP Nistelrooy/NNP set/VBD to/TO return/VB
+
+Manchester/NNP United/NNP striker/NN Ruud/NNP van/NNP Nistelrooy/NNP may/MD make/VB his/PRP$ comeback/NN after/IN an/DT Achilles/NNP tendon/NN injury/NN in/IN the/DT FA/NNP Cup/NNP fifth/JJ round/NN tie/NN at/IN Everton/NNP on/IN Saturday./NNP
+
+He/PRP has/VBZ been/VBN out/IN of/IN action/NN for/IN nearly/RB three/CD months/NNS and/CC had/VBD targeted/VBN a/DT return/NN in/IN the/DT Champions/NNS League/NNP tie/VB with/IN AC/NNP Milan/NNP on/IN 23/CD February./NNP
+But/CC Manchester/NNP United/NNP manager/NN Sir/NNP Alex/NNP Ferguson/NNP hinted/VBD he/PRP may/MD be/VB back/RB early./NN
+He/PRP said/VBD "There/NN is/VBZ a/DT chance/NN he/PRP could/MD be/VB involved/VBN at/IN Everton/NNP but/CC we'll/NN just/RB have/VBP to/TO see/VB how/WRB he/PRP comes/VBZ through/IN training."/NN The/DT 28-year-old/JJ has/VBZ been/VBN training/NN in/IN Holland/NNP and/CC Ferguson/NNP said/VBD "Ruud/NN comes/VBZ back/RB on/IN Tuesday/NNP and/CC we/PRP need/VBP to/TO assess/VB how/WRB far/RB on/IN he/PRP is./VB
+"The/NN training/NN he/PRP has/VBZ been/VBN doing/VBG in/IN Holland/NNP has/VBZ been/VBN perfect/JJ and/CC I/PRP am/VBP very/RB satisfied/VBN with/IN it."/NN Even/RB without/IN Van/NNP Nistelrooy/NNP United/NNP made/VBD it/PRP 13/CD wins/VBZ in/IN 15/CD league/NN games/NNS with/IN a/DT 2-0/JJ derby/NN victory/NN at/IN Manchester/NNP City/NNP on/IN Sunday./NNP
+But/CC they/PRP will/MD be/VB boosted/VBN by/IN the/DT return/NN of/IN the/DT Dutch/JJ international/JJ who/WP is/VBZ the/DT club's/NNS top/JJ scorer/NN this/DT season/NN with/IN 12/CD goals./NN
+He/PRP has/VBZ not/RB played/VBN since/IN aggravating/VBG the/DT injury/NN in/IN the/DT 3-0/JJ win/NN against/IN West/NNP Brom/NNP on/IN 27/CD November./NNP
+Ferguson/NNP was/VBD unhappy/JJ with/IN Van/NNP Nistelrooy/NNP for/IN not/RB revealing/VBG he/PRP was/VBD carrying/VBG an/DT injury./NN
+United/NNS have/VBP also/RB been/VBN hit/VBN by/IN injuries/NNS to/TO both/DT Alan/NNP Smith/NNP and/CC Louis/NNP Saha/NNP during/IN Van/NNP Nistelrooy's/NNP absence/NN meaning/VBG Wayne/NNP Rooney/NNP has/VBZ sometimes/RB had/VBN to/TO play/VB in/IN a/DT lone/JJ role/NN up/IN front./NN
+The/DT teenager/NN has/VBZ responded/VBN with/IN six/CD goals/NNS in/IN nine/CD games/NNS including/VBG the/DT first/JJ goal/NN against/IN City/NNP on/IN Sunday./NNP

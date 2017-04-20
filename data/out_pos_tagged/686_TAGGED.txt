@@ -1,0 +1,15 @@
+'Comeback'/NN show/NN for/IN Friends/NNPS star/NN
+
+Friends/NNS actress/NN Lisa/NNP Kudrow/NNP is/VBZ to/TO play/VB the/DT lead/NN role/NN in/IN a/DT new/JJ series/NN about/IN a/DT one-time/JJ sitcom/NN star/NN according/VBG to/TO the/DT Hollywood/NNP reporter./NN
+
+Thirteen/CD episodes/NNS of/IN Comeback/NN have/VBP been/VBN commissioned/VBN by/IN cable/NN channel/NN HBO/NNP home/NN of/IN hits/NNS such/JJ as/IN Sex/NN And/CC The/DT City./NNP
+Kudrow/NNP who/WP played/VBD Phoebe/NNP in/IN Friends/NNPS co-wrote/JJ the/DT pilot/NN episode/NN and/CC will/MD also/RB act/VB as/IN executive/NN producer./NN
+HBO/NNP has/VBZ been/VBN looking/VBG for/IN its/PRP$ next/JJ big/JJ comedy/NN hit/VBD since/IN Sex/NN And/CC The/DT City/NNP drew/VBD to/TO a/DT close/NN in/IN the/DT US/PRP in/IN February./NNP
+Comeback/NN is/VBZ the/DT first/JJ 30-minute/JJ comedy/NN series/NN that/IN the/DT channel/NN has/VBZ picked/VBN up/RP since/IN the/DT Sex/NN And/CC The/DT City/NNP drew/VBD to/TO the/DT end/NN of/IN its/PRP$ six-year-run./JJ
+Friends/NNS ended/VBD its/PRP$ 10-year/JJ run/NN on/IN the/DT NBC/NNP network/NN in/IN May/NNP and/CC attentions/NNS have/VBP turned/VBN to/TO which/WDT projects/VBZ its/PRP$ six/CD individual/JJ stars/NNS would/MD pursue./VB
+
+Matt/NNP LeBlanc/NNP is/VBZ starring/VBG in/IN a/DT Friends/NNPS spin-off/NN sitcom/NN charting/VBG Joey's/NNP fortunes/NNS in/IN Los/NNP Angeles/NNP as/IN he/PRP pursues/VBZ his/PRP$ acting/JJ career./NN
+Jennifer/NNP Aniston/NNP who/WP was/VBD Rachel/NNP in/IN the/DT long-running/JJ show/NN has/VBZ enjoyed/VBN a/DT series/NN of/IN successful/JJ film/NN appearances/NNS with/IN further/JJ projects/NNS in/IN the/DT pipeline./NN
+Courteney/NNP Cox/NNP Arquette/NNP (Monica)/NN has/VBZ been/VBN working/VBG on/IN a/DT drama/NN project/NN along/IN with/IN husband/NN David/NNP Arquette/NNP for/IN HBO/NNP called/VBD The/DT Rise/NN And/CC Fall/NN Of/IN Taylor/NNP Kennedy./NNP
+Matthew/NNP Perry/NNP who/WP played/VBD Chandler/NNP has/VBZ appeared/VBN on/IN the/DT West/NNP End/NN stage/NN and/CC has/VBZ a/DT film/NN The/DT Beginning/NN Of/IN Wisdom/NN currently/RB in/IN production./NN
+And/CC David/NNP Schwimmer/NNP (Ross)/NN directed/VBN during/IN his/PRP$ time/NN on/IN Friends/NNPS and/CC has/VBZ also/RB worked/VBN on/IN Joey./NNP

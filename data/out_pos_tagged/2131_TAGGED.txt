@@ -1,0 +1,36 @@
+How/WRB to/TO make/VB a/DT greener/JJR computer/NN
+
+The/DT hi-tech/JJ industry/NN is/VBZ starting/VBG to/TO get/VB more/RBR environmentally/RB aware./NN
+Bill/NNP Thompson/NNP thinks/VBZ it's/NNS about/IN time./NN
+
+My/PRP$ first/JJ car/NN ran/VBD on/IN four/CD star/NN petrol/NN and/CC pumped/VBN vast/JJ quantities/NNS of/IN lead/NN into/IN the/DT atmosphere/NN as/IN I/PRP drove/VBD around/IN Cambridge./NNP
+Now/RB you/PRP can't/VBP buy/NN petrol/NN with/IN lead/NN additives/NNS and/CC we're/NN all/DT better/JJR off/RP as/IN a/DT result./NN
+Chip/NN giant/NN Intel/NNP recently/RB began/VBD shipping/VBG computer/NN circuit/NN boards/NNS that/WDT are/VBP lead/VBN free/JJ too/RB reflecting/VBG a/DT growing/VBG awareness/NN on/IN the/DT part/NN of/IN the/DT technology/NN industry/NN that/IN products/NNS have/VBP to/TO be/VB designed/VBN and/CC built/VBN in/IN more/RBR environmentally/RB friendly/JJ ways./NN
+
+Apart/RB from/IN reducing/VBG the/DT use/NN of/IN toxic/JJ materials/NNS like/IN arsenic/NN mercury/NN cadmium/NN and/CC other/JJ heavy/JJ metals/NNS in/IN the/DT products/NNS themselves/PRP the/DT manufacturing/NN process/NN is/VBZ also/RB being/VBG cleaned/VBN up/RP with/IN fewer/JJR complex/JJ and/CC potentially/RB damaging/JJ organic/JJ chemicals/NNS used/VBN as/IN solvents./NN
+And/CC work/NN is/VBZ going/VBG into/IN making/VBG power/NN supplies/NNS that/WDT are/VBP more/JJR energy/NN efficient/JJ since/IN current/JJ transformers/NNS are/VBP astonishingly/RB wasteful/JJ as/IN they/PRP charge/VBP our/PRP$ laptops/NNS mobiles/NNS and/CC music/NN players./NN
+
+One/CD of/IN the/DT key/JJ aspects/NNS of/IN the/DT new/JJ approach/NN is/VBZ to/TO design/VB products/NNS that/WDT are/VBP easier/JJR to/TO recycle./VB
+If/IN you/PRP have/VBP got/VBN a/DT phone/NN or/CC a/DT computer/NN with/IN toxic/JJ chemicals/NNS or/CC heavy/JJ metals/NNS in/IN it/PRP then/RB extracting/VBG them/PRP can/MD be/VB tricky/JJ and/CC expensive./NN
+A/DT well-designed/JJ electronic/JJ component/NN is/VBZ able/JJ to/TO be/VB recycled/JJ at/IN low/JJ cost./NN
+This/DT is/VBZ going/VBG to/TO be/VB very/RB important/JJ to/TO hardware/VB manufacturers/NNS in/IN Europe/NNP since/IN from/IN August/NNP the/DT new/JJ Waste/NNP Electronic/NNP and/CC Electrical/JJ Equipment/NNP directive/NN will/MD oblige/VB them/PRP to/TO accept/VB returned/JJ products/NNS for/IN recycling./NN
+
+They/PRP will/MD end/VB up/RP paying/VBG if/IN they/PRP build/VBP things/NNS that/WDT are/VBP expensive/JJ or/CC impossible/JJ to/TO take/VB apart/RB and/CC will/MD find/VB their/PRP$ profits/NNS hit/VBD something/NN which/WDT is/VBZ likely/JJ to/TO motivate/VB them/PRP where/WRB appeals/NNS to/TO the/DT wider/JJR public/JJ interest/NN might/MD fall/VB on/IN deaf/JJ ears./NN
+It/PRP is/VBZ as/RB they/PRP say/VBP about/IN time./NN
+We/PRP have/VBP a/DT long/JJ and/CC depressing/VBG history/NN of/IN developing/VBG new/JJ technologies/NNS with/IN complete/JJ disregard/NN for/IN their/PRP$ potential/JJ impact/NN on/IN the/DT environment/NN and/CC waiting/VBG until/IN there/EX is/VBZ a/DT crisis/NN looming/VBG before/IN we/PRP try/VBP to/TO redesign/VB them/PRP to/TO cause/VB less/JJR damage./NN
+The/DT car/NN engine/NN is/VBZ a/DT case/NN in/IN point/NN lead/NN additives/NNS helped/VBD stop/VB petrol/NN vapour/NN exploding/VBG too/RB early/RB in/IN the/DT cylinder/NN a/DT phenomenon/NN called/VBN 'knocking'/NN so/IN they/PRP were/VBD simply/RB used/VBN without/IN any/DT real/JJ thought/NN for/IN the/DT fact/NN that/IN the/DT lead/NN would/MD end/VB up/RP in/IN the/DT atmosphere./NN
+Redesigning/NN engines/NNS and/CC making/VBG petrol/NN slightly/RB different/JJ was/VBD a/DT lot/NN more/JJR work/NN so/IN it/PRP took/VBD decades/NNS before/IN it/PRP was/VBD done./NN
+We're/NNP seeing/VBG the/DT same/JJ thing/NN in/IN the/DT technology/NN industry/NN and/CC as/IN a/DT result/NN there/EX are/VBP billions/NNS of/IN devices/NNS from/IN old/JJ mobile/JJ phones/NNS to/TO antique/VB handhelds/NNS that/WDT will/MD have/VB to/TO be/VB recycled/JJ in/IN years/NNS to/TO come./VB
+If/IN Apple/NNP gets/VBZ its/PRP$ way/NN then/RB a/DT lot/NN of/IN people/NNS are/VBP going/VBG to/TO be/VB buying/VBG a/DT new/JJ Mac/NNP Mini/NNP and/CC throwing/VBG away/RP their/PRP$ old/JJ PC/NN keeping/VBG the/DT monitor/NN and/CC other/JJ peripherals./NN
+
+Even/RB if/IN Apple/NNP does/VBZ not/RB get/VB its/PRP$ way/NN four/CD or/CC five-year-old/JJ computers/NNS are/VBP not/RB good/JJ enough/RB to/TO run/VB modern/JJ programs/NNS and/CC it's/NNS not/RB unreasonable/JJ to/TO replace/VB them./NN
+But/CC what/WP do/VBP we/PRP do/VB with/IN the/DT old/JJ ones?/NN
+
+I've/NNP just/RB looked/VBD around/IN my/PRP$ office/NN and/CC I/PRP find/VBP two/CD monitors/VBZ an/DT old/JJ 386/CD PC/NN two/CD old/JJ handhelds/NNS three/CD ancient/JJ laptops/NNS four/CD antique/NN mobile/JJ phones/NNS a/DT collection/NN of/IN rechargeable/JJ batteries/NNS and/CC even/RB a/DT Sun/NNP workstation/NN that/WDT is/VBZ no/RB longer/RB really/RB much/JJ use./NN
+They/PRP are/VBP all/DT old/JJ enough/RB to/TO be/VB hazardous/JJ waste/NN -/: the/DT monitors/NNS alone/RB will/MD be/VB full/JJ of/IN arsenic/NN and/CC lead/VB -/: but/CC it's/NNS possible/JJ that/IN some/DT of/IN the/DT components/NNS could/MD be/VB useful./NN
+I/PRP could/MD take/VB them/PRP up/RP the/DT to/TO the/DT council/NN recycling/VBG centre/NN but/CC it's/VBZ a/DT 10-mile/JJ drive/NN away/RB across/IN town/NN and/CC like/IN many/JJ other/JJ people/NNS my/PRP$ commitment/NN to/TO recycling/VBG is/VBZ shallow/JJ at/IN best./NN
+Here/RB in/IN Cambridge/NNP we/PRP have/VBP green/JJ bins/NNS for/IN compostable/JJ waste/NN a/DT box/NN for/IN glass/NN cans/NNS and/CC paper/NN that/WDT can/MD be/VB recycled/JJ and/CC a/DT black/JJ bin/NN for/IN the/DT rest./NN
+There/EX are/VBP bottle/NN banks/NNS and/CC clothing/NN banks/NNS scattered/VBN around/IN town/NN and/CC in/IN supermarket/NN car/NN parks./NN
+Would/MD it/PRP be/VB too/RB much/JJ to/TO ask/VB for/IN an/DT electronics/NNS recycling/VBG box/NN too?/NN I'd/NNP probably/RB remember/VBP to/TO take/VB my/PRP$ old/JJ mobile/NN with/IN me/PRP to/TO the/DT supermarket/NN and/CC drop/NN it/PRP in/IN a/DT box/NN -/: at/IN least/JJS eventually./NN
+
+Bill/NNP Thompson/NNP is/VBZ a/DT regular/JJ commentator/NN on/IN the/DT BBC/NNP World/NNP Service/NNP programme/NN Go/VB Digital./NNP

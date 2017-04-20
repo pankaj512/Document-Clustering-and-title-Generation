@@ -1,0 +1,12 @@
+India's/NNP rupee/NN hits/NNS five-year/JJ high/JJ
+
+India's/NNP rupee/NN has/VBZ hit/VBN a/DT five-year/JJ high/NN after/IN Standard/NNP &/CC Poor's/NNP (S&P)/NN raised/VBD the/DT country's/NNS foreign/JJ currency/NN rating./NN
+
+The/DT rupee/NN climbed/VBD to/TO 43.305/CD per/IN US/PRP dollar/VBP on/IN Thursday/NNP up/RP from/IN a/DT close/NN of/IN 43.41./CD
+The/DT currency/NN has/VBZ gained/VBN almost/RB 1%/CD in/IN the/DT past/JJ three/CD sessions./NN
+S&P/NNP which/WDT rates/NNS borrowers'/VBP creditworthiness/NN lifted/VBN India's/NNP rating/NN by/IN one/CD notch/NN to/TO 'BB+'./VB
+With/IN Indian/JJ assets/NNS now/RB seen/VBN as/IN less/JJR of/IN a/DT gamble/NN more/JJR cash/NN is/VBZ expected/VBN to/TO flow/VB into/IN its/PRP$ markets/NNS buoying/VBG the/DT rupee./NN
+
+"The/NN upgrade/VBP is/VBZ positive/JJ and/CC basically/RB people/NNS will/MD use/VB it/PRP as/IN an/DT excuse/NN to/TO come/VB back/RB to/TO India"/NNP said/VBD Bhanu/NNP Baweja/NNP a/DT strategist/NN at/IN UBS./NNP
+"Money/NN has/VBZ moved/VBN out/RP from/IN India/NNP in/IN the/DT first/JJ two/CD or/CC three/CD weeks/NNS of/IN January/NNP into/IN other/JJ markets/NNS like/IN Korea/NNP and/CC Thailand/NNP and/CC this/DT upgrade/NN should/MD lead/VB to/TO a/DT reversal."/NN India's/NNP foreign/JJ currency/NN rating/NN is/VBZ now/RB one/CD notch/NN below/IN investment/NN grade/NN which/WDT starts/VBZ at/IN 'BBB-'./JJ
+The/DT increase/NN has/VBZ put/VBN it/PRP on/IN the/DT same/JJ level/NN as/IN Romania/NNP Egypt/NNP and/CC El/NNP Salvador/NNP and/CC one/CD level/NN below/IN Russia./NNP

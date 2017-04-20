@@ -1,0 +1,17 @@
+Fantasy/NNP book/NN wins/VBZ Hollywood/NNP deal/NN
+
+A/DT British/JJ author/NN has/VBZ had/VBN the/DT film/NN rights/NNS to/TO her/PRP$ children's/NNS bestseller/NN snapped/VBN up/RP for/IN a/DT seven-figure/JJ sum/NN with/IN Ridley/NNP Scott/NNP set/VBD to/TO direct./VB
+
+Michelle/NNP Paver's/NNP Wolf/NNP Brother/NN a/DT fantasy/NN set/VBD 6000/CD years/NNS ago/RB is/VBZ the/DT first/JJ in/IN a/DT planned/VBN series/NN of/IN six/CD books./NN
+Film/NNP studio/NN Fox/NNP has/VBZ bought/VBN the/DT rights/NNS for/IN around/IN $4m/CD (£2.13m)/CD for/IN Scott's/NNP company/NN Scott/NNP Free/NNP to/TO develop./VB
+The/DT director/NN said/VBD he/PRP was/VBD "thrilled"/NN with/IN the/DT project./NN
+"Wolf/NN Brother/NN is/VBZ an/DT enchanting/VBG book"/NN he/PRP said./VB
+Paver/NNP who/WP lives/VBZ in/IN London/NNP and/CC previously/RB worked/VBD as/IN a/DT lawyer/NN began/VBD writing/VBG the/DT book/NN in/IN 1982/CD while/IN studying/VBG biochemistry/NN at/IN Oxford/NNP University./NNP
+
+She/PRP was/VBD an/DT established/VBN author/NN of/IN love/NN stories/NNS when/WRB she/PRP turned/VBD the/DT work-in-progress/JJ into/IN a/DT children's/NNS novel./NN
+It/PRP was/VBD published/VBN in/IN 2004/CD with/IN Paver/NNP earning/VBG an/DT advance/NN of/IN $5m/CD (£2.8m)/CD -/: the/DT highest/JJS sum/NN ever/RB paid/VBN for/IN a/DT debut/NN children's/NNS book./NN
+Wolf/NNP Brother/NN tells/VBZ the/DT story/NN of/IN Torak/NNP a/DT 12-year-old/JJ hunter/NN who/WP lives/VBZ in/IN the/DT forest./NN
+After/IN his/PRP$ father/NN is/VBZ killed/VBN he/PRP teams/VBZ up/RP with/IN a/DT wolf/NN cub/NN and/CC sets/VBZ out/RP to/TO rid/VB the/DT forest/NN of/IN an/DT evil/JJ force./NN
+Paver/NNP is/VBZ currently/RB writing/VBG the/DT second/JJ book/NN in/IN the/DT series./NN
+"Michelle/NNP Paver/NNP lives/NNS and/CC breathes/VBZ the/DT worlds/NNS she/PRP writes/VBZ about"/NN said/VBD a/DT spokesman/NN for/IN the/DT author./NN
+"I've/NN told/VBD her/PRP about/IN the/DT film/NN deal/NN but/CC at/IN the/DT moment/NN she/PRP is/VBZ writing/VBG the/DT second/JJ book/NN and/CC her/PRP$ mind/NN is/VBZ 6000/CD years/NNS away/RB deep/JJ in/IN the/DT primeval/JJ forest."/NN

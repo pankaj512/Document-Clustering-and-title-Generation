@@ -1,0 +1,13 @@
+Baywatch/NNP dubbed/VBD 'worst/NN TV/NN import'/NN
+
+Surf/NN show/NN Baywatch/NNP has/VBZ won/VBN the/DT title/NN of/IN worst/JJS TV/NN import/NN of/IN all/DT time/NN in/IN a/DT poll/NN of/IN UK/NNP television/NN executives./NN
+
+The/DT programme/NN which/WDT starred/VBD David/NNP Hasselhoff/NNP and/CC Pamela/NNP Anderson/NNP during/IN its/PRP$ 12-year/JJ run/NN was/VBD shown/VBN in/IN 140/CD countries/NNS at/IN its/PRP$ height./NN
+Model/NNP Anna/NNP Nicole/NNP Smith's/NNP reality/NN show/NN and/CC The/DT Dukes/NNP of/IN Hazzard/NNP were/VBD runners-up/NNS in/IN the/DT Broadcast/NNP magazine/NN survey./NN
+The/DT Simpsons/NNP and/CC Dallas/NNP and/CC 24/CD were/VBD among/IN the/DT magazine's/NNS list/NN of/IN the/DT best/JJS all-time/JJ imports/NNS from/IN the/DT US./NNP
+Soap/NN operas/NNS Knots/NNS Landing/NN Falcon/NNP Crest/NNP plus/CC The/DT Bold/JJ And/CC The/DT Beautiful/JJ all/DT made/VBD the/DT top/JJ 10/CD of/IN Transatlantic/NNP TV/NN howlers./NN
+The/DT Jerry/NNP Springer/NNP Show/NNP which/WDT came/VBD in/IN at/IN sixth/JJ on/IN the/DT list/NN did/VBD not/RB fare/VB well./NN
+
+Broadcast/NNP magazine/NN said/VBD "British/JJ TV/NN never/RB realised/VBD how/WRB low/JJ it/PRP could/MD go/VB before/IN Jerry/NNP showed/VBD the/DT way."/NN Baywatch/NNP rose/VBD to/TO the/DT top/NN of/IN the/DT list/NN for/IN having/VBG "mind-numbingly/JJ predictable/JJ scripts/NNS beachgoer/NN is/VBZ saved/VBN from/IN drowning"/NN according/VBG to/TO the/DT magazine./NN
+Just/RB inside/IN the/DT all-time/JJ worst/JJS top/JJ 10/CD came/VBD Extreme/JJ Makeover/NNP which/WDT sees/VBZ members/NNS of/IN the/DT public/NN given/VBN thousands/NNS of/IN pounds/NNS worth/NN of/IN plastic/JJ surgery./NN
+Other/JJ American/NNP shows/VBZ which/WDT won/VBD praise/NN were/VBD The/DT X-Files/NNP I/PRP Love/NNP Lucy/NNP Twin/JJ Peaks/NNS and/CC Star/NNP Trek./NNP

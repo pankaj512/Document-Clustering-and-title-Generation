@@ -1,0 +1,27 @@
+BBC/NNP poll/NN indicates/VBZ economic/JJ gloom/NN
+
+Citizens/NNS in/IN a/DT majority/NN of/IN nations/NNS surveyed/VBN in/IN a/DT BBC/NNP World/NNP Service/NNP poll/NN believe/VBP the/DT world/NN economy/NN is/VBZ worsening./NN
+
+Most/JJS respondents/NNS also/RB said/VBD their/PRP$ national/JJ economy/NN was/VBD getting/VBG worse./NN
+But/CC when/WRB asked/VBD about/IN their/PRP$ own/JJ family's/NNS financial/JJ outlook/NN a/DT majority/NN in/IN 14/CD countries/NNS said/VBD they/PRP were/VBD positive/JJ about/IN the/DT future./NN
+Almost/RB 23000/CD people/NNS in/IN 22/CD countries/NNS were/VBD questioned/VBN for/IN the/DT poll/NN which/WDT was/VBD mostly/RB conducted/VBN before/IN the/DT Asian/JJ tsunami/NN disaster./JJ
+The/DT poll/NN found/VBD that/IN a/DT majority/NN or/CC plurality/NN of/IN people/NNS in/IN 13/CD countries/NNS believed/VBD the/DT economy/NN was/VBD going/VBG downhill/RB compared/VBN with/IN respondents/NNS in/IN nine/CD countries/NNS who/WP believed/VBD it/PRP was/VBD improving./NN
+Those/DT surveyed/VBN in/IN three/CD countries/NNS were/VBD split./NN
+In/IN percentage/NN terms/NNS an/DT average/NN of/IN 44%/CD of/IN respondents/NNS in/IN each/DT country/NN said/VBD the/DT world/NN economy/NN was/VBD getting/VBG worse/RBR compared/VBN to/TO 34%/CD who/WP said/VBD it/PRP was/VBD improving./NN
+Similarly/RB 48%/CD were/VBD pessimistic/JJ about/IN their/PRP$ national/JJ economy/NN while/IN 41%/CD were/VBD optimistic./NN
+And/CC 47%/CD saw/VBD their/PRP$ family's/NNS economic/JJ conditions/NNS improving/VBG as/IN against/IN 36%/CD who/WP said/VBD they/PRP were/VBD getting/VBG worse./NN
+
+The/DT poll/NN of/IN 22953/CD people/NNS was/VBD conducted/VBN by/IN the/DT international/JJ polling/NN firm/NN GlobeScan/NNP together/RB with/IN the/DT Program/NN on/IN International/NNP Policy/NNP Attitudes/NNS (Pipa)/NN at/IN the/DT University/NNP of/IN Maryland./NNP
+"While/NN the/DT world/NN economy/NN has/VBZ picked/VBN up/RP from/IN difficult/JJ times/NNS just/RB a/DT few/JJ years/NNS ago/RB people/NNS seem/VBP to/TO not/RB have/VB fully/RB absorbed/VBN this/DT development/NN though/IN they/PRP are/VBP personally/RB experiencing/VBG its/PRP$ effects"/NN said/VBD Pipa/NNP director/NN Steven/NNP Kull./NNP
+"People/NN around/IN the/DT world/NN are/VBP saying/VBG 'I'm/NN OK/JJ but/CC the/DT world/NN isn't'."/NN There/EX may/MD be/VB a/DT perception/NN that/DT war/NN terrorism/NN and/CC religious/JJ and/CC political/JJ divisions/NNS are/VBP making/VBG the/DT world/NN a/DT worse/JJR place/NN even/RB though/IN that/DT has/VBZ not/RB so/RB far/RB been/VBN reflected/VBN in/IN global/JJ economic/JJ performance/NN says/VBZ the/DT BBC's/NNP Elizabeth/NNP Blunt./NNP
+
+The/DT countries/NNS where/WRB people/NNS were/VBD most/RBS optimistic/JJ both/DT for/IN the/DT world/NN and/CC for/IN their/PRP$ own/JJ families/NNS were/VBD two/CD fast-growing/JJ developing/NN economies/NNS China/NNP and/CC India/NNP followed/VBD by/IN Indonesia./NNP
+China/NNP has/VBZ seen/VBN two/CD decades/NNS of/IN blistering/VBG economic/JJ growth/NN which/WDT has/VBZ led/VBN to/TO wealth/NN creation/NN on/IN a/DT huge/JJ scale/NN says/VBZ the/DT BBC's/NNP Louisa/NNP Lim/NNP in/IN Beijing./NNP
+But/CC the/DT results/NNS also/RB may/MD reflect/VB the/DT untrammelled/VBN confidence/NN of/IN people/NNS who/WP are/VBP subject/JJ to/TO endless/JJ government/NN propaganda/NN about/IN their/PRP$ country's/NNS rosy/JJ economic/JJ future/JJ our/PRP$ correspondent/NN says./NN
+South/NNP Korea/NNP was/VBD the/DT most/RBS pessimistic/JJ while/IN respondents/NNS in/IN Italy/NNP and/CC Mexico/NNP were/VBD also/RB quite/RB gloomy./NN
+The/DT BBC's/NNP David/NNP Willey/NNP in/IN Rome/NNP says/VBZ one/CD reason/NN for/IN that/DT result/NN is/VBZ the/DT changeover/NN from/IN the/DT lira/NN to/TO the/DT euro/NN in/IN 2001/CD which/WDT is/VBZ widely/RB viewed/VBN as/IN the/DT biggest/JJS reason/NN why/WRB their/PRP$ wages/NNS and/CC salaries/NNS are/VBP worth/JJ less/JJR than/IN they/PRP used/VBD to/TO be./VB
+The/DT Philippines/NNPS was/VBD among/IN the/DT most/RBS upbeat/JJ countries/NNS on/IN prospects/NNS for/IN respondents'/NN families/NNS but/CC one/CD of/IN the/DT most/RBS pessimistic/JJ about/IN the/DT world/NN economy./NN
+Pipa/NNP conducted/VBD the/DT poll/NN from/IN 15/CD November/NNP 2004/CD to/TO 3/CD January/NNP 2005/CD across/IN 22/CD countries/NNS in/IN face-to-face/JJ or/CC telephone/NN interviews./JJ
+The/DT interviews/NNS took/VBD place/NN between/IN 15/CD November/NNP 2004/CD and/CC 5/CD January/NNP 2005./CD
+The/DT margin/NN of/IN error/NN is/VBZ between/IN 2.5/CD and/CC 4/CD points/NNS depending/VBG on/IN the/DT country./NN
+In/IN eight/CD of/IN the/DT countries/NNS the/DT sample/NN was/VBD limited/VBN to/TO major/JJ metropolitan/JJ areas./NN

@@ -1,0 +1,13 @@
+Fockers/NNP keeps/VBZ US/PRP box/NN office/NN lead/NN
+
+Film/NNP comedy/NN Meet/NN The/DT Fockers/NNP sequel/NN to/TO Meet/VB The/DT Parents/NNS has/VBZ topped/VBN the/DT US/PRP box/VBP office/NN for/IN a/DT third/JJ week./NN
+
+The/DT movie/NN which/WDT stars/NNS Ben/NNP Stiller/NNP Robert/NNP De/NNP Niro/NNP Dustin/NNP Hoffman/NNP and/CC Barbra/NNP Streisand/NNP took/VBD $28.5m/CD (£15.2m)/CD making/VBG a/DT total/NN of/IN 204.3m/CD (£109m)./CD
+Michael/NNP Keaton/NNP thriller/NN White/NNP Noise/NN was/VBD second/JJ with/IN $24m/CD (£12.8m)/CD despite/IN negative/JJ reviews./NN
+Martin/NNP Scorsese's/NNP Howard/NNP Hughes/NNP biopic/VBD The/DT Aviator/NNP came/VBD third/JJ with/IN $7.6m/CD (£4m)/CD and/CC a/DT total/NN of/IN $42.9m/CD (£22.8m)./CD
+Children's/NNP adventure/NN Lemony/NNP Snicket's/NNP A/NNP Series/NNP of/IN Unfortunate/JJ Events/NNS starring/VBG Jim/NNP Carrey/NNP and/CC Meryl/NNP Streep/NNP fell/VBD two/CD places/NNS to/TO fourth/JJ position/NN with/IN $7.4m/CD (£3.9m)./CD
+
+It/PRP is/VBZ also/RB the/DT ninth/JJ Jim/NNP Carrey/NNP film/NN to/TO hit/VB the/DT $100m/CD (£53.2m)/CD mark/NN according/VBG to/TO Exhibitor/NNP Relations./NNP
+And/CC Fat/NNP Albert/NNP a/DT live-action/JJ adaptation/NN of/IN Bill/NNP Cosby's/NNP TV/NN cartoon/NN fell/VBD one/CD place/NN to/TO number/VB five/CD with/IN takings/NNS over/IN the/DT three/CD days/NNS beginning/VBG on/IN Friday/NNP of/IN $5m/CD (£2.6m)./CD
+Ocean's/NNP Twelve/CD took/VBD sixth/JJ place/NN in/IN the/DT US/PRP chart/VBP with/IN $5.4m/CD (£2.8m)/CD but/CC it/PRP led/VBD the/DT non-US/JJ chart/NN at/IN the/DT weekend/NN according/VBG to/TO Hollywood/NNP Reporter/NN with/IN an/DT estimated/VBN $17.7m/CD (£9.4m)/CD and/CC total/JJ takings/NNS of/IN $137m/CD (£73m)./CD
+The/DT Incredibles/NNP took/VBD $300m/CD (£160m)/CD outside/IN the/DT US/PRP while/IN Meet/VBP the/DT Fockers/NNP topped/VBD box/NN office/NN charts/NNS in/IN Australia/NNP and/CC Mexico/NNP with/IN non-US/JJ takings/NNS of/IN $19.35m/CD (£10.2m)./CD

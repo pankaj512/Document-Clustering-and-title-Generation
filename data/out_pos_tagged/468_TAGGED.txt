@@ -1,0 +1,20 @@
+EU/NN to/TO probe/VB Alitalia/NNP 'state/NN aid'/NN
+
+The/DT European/NNP Commission/NNP has/VBZ officially/RB launched/VBN an/DT in-depth/JJ investigation/NN into/IN whether/IN Italian/JJ airline/NN Alitalia/NNP is/VBZ receiving/VBG illegal/JJ state/NN aid./NN
+
+Commission/NN officials/NNS are/VBP to/TO look/VB at/IN Rome's/NNP provision/NN of/IN a/DT 400m/CD euro/NN ($495m/CD £275m)/CD loan/NN to/TO the/DT carrier./NN
+Both/DT the/DT Italian/JJ government/NN and/CC Alitalia/NNP have/VBP repeatedly/RB denied/VBN that/IN the/DT money/NN -/: part/NN of/IN a/DT vital/JJ restructuring/NN plan/NN -/: is/VBZ state/NN aid./NN
+The/DT investigation/NN could/MD take/VB up/IN to/TO 18/CD months./NN
+However/RB Transport/NNP Commissioner/NNP Jacques/NNP Barrot/NNP said/VBD he/PRP wanted/VBD it/PRP to/TO be/VB carried/VBN out/RP as/RB swiftly/RB as/IN possible./NN
+"The/NN Italian/JJ authorities/NNS have/VBP presented/VBN a/DT serious/JJ industrial/JJ plan"/NN said/VBD Mr/NNP Barot./NNP
+"We/NN now/RB have/VBP to/TO verify/VB certain/JJ aspects/NNS to/TO confirm/VB that/IN this/DT plan/NN contains/VBZ no/DT state/NN aid./NN
+I/PRP would/MD like/VB our/PRP$ analysis/NN to/TO be/VB completed/VBN swiftly."/NN
+
+The/DT matter/NN of/IN possible/JJ state/NN aid/NN was/VBD brought/VBN to/TO the/DT Commission's/NNP attention/NN by/IN eight/CD of/IN Alitalia's/NNP rivals/NNS including/VBG Germany's/NNP Lufthansa/NNP British/NNP Airways/NNPS and/CC Spain's/NNP Iberia./NNP
+While/IN Alitalia/NNP needs/VBZ to/TO restructure/VB to/TO bring/VB itself/PRP back/RB to/TO profitability/NN the/DT rival/JJ carriers/NNS say/VBP it/PRP has/VBZ both/DT violated/VBN state/NN aid/NN rules/NNS and/CC threatened/VBN competition./NN
+Alitalia/NNP lost/VBD 330m/CD euros/NNS in/IN 2003/CD as/IN it/PRP struggled/VBD to/TO get/VB to/TO grips/NNS with/IN high/JJ costs/NNS spiralling/VBG oil/NN prices/NNS competition/NN from/IN budget/NN carriers/NNS and/CC reduced/JJ demand./NN
+It/PRP plans/VBZ to/TO split/VB into/IN AZ/NNP Fly/NN and/CC AZ/NNP Services/NNPS which/WDT will/MD handle/VB air/NN and/CC ground/NN services/NNS respectively./NN
+Alitalia/NNP already/RB enjoyed/VBD state/NN aid/NN in/IN 1997./CD
+EU/NNP rules/NNS prevent/VBP that/IN from/IN happening/VBG again/RB in/IN what/WP is/VBZ known/VBN as/IN the/DT "one/NN time/NN last/JJ time"/NN rule/NN for/IN airlines./NN
+Otherwise/RB EU/NNP regulations/NNS on/IN state/NN aid/NN stipulate/NN that/IN governments/NNS may/MD help/VB companies/NNS financially/RB but/CC only/RB on/IN the/DT same/JJ terms/NNS as/IN a/DT commercial/JJ investor./NN
+The/DT airline/NN declined/VBD to/TO comment/VB on/IN the/DT Commission/NNP decision./NN

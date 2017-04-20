@@ -1,0 +1,11 @@
+Klinsmann/NNP issues/NNS Lehmann/NNP warning/NN
+
+Germany/NNP coach/NN Jurgen/NNP Klinsmann/NNP has/VBZ warned/VBN goalkeeper/NN Jens/NNP Lehmann/NNP he/PRP may/MD have/VB to/TO quit/VBN Arsenal/NN to/TO keep/VB his/PRP$ World/NNP Cup/NNP dreams/NNS alive./NN
+
+Lehmann/NNP is/VBZ understudy/NN to/TO Oliver/NNP Kahn/NNP in/IN the/DT German/JJ squad/NN but/CC has/VBZ lost/VBN his/PRP$ place/NN to/TO Manuel/NNP Alumnia/NNP at/IN Highbury./NNP
+Klinsmann/NNP said/VBD "It/NN will/MD be/VB difficult/JJ for/IN any/DT of/IN our/PRP$ players/NNS if/IN he/PRP is/VBZ not/RB a/DT first-choice/NN at/IN his/PRP$ club./NN
+"If/NNP Jens/NNP is/VBZ not/RB Arsenal's/NNP number/NN one/CD keeper/NN that/WDT is/VBZ a/DT problem/NN for/IN me./NN
+He/PRP must/MD be/VB playing/VBG regularly."/NN Lehmann/NNP is/VBZ desperate/JJ to/TO keep/VB his/PRP$ place/NN in/IN the/DT Germany/NNP squad/NN when/WRB the/DT country/NN hosts/NNS the/DT World/NNP Cup/NNP in/IN 2006./CD
+Klinsmann/NNP added/VBD "If/NN he/PRP is/VBZ not/RB playing/VBG regularly/RB he/PRP cannot/VB be/VB Germany's/NNP number/NN one/CD keeper/NN or/CC even/RB number/NN two/CD keeper./NN
+"The/NN situation/NN for/IN Jens/NNP is/VBZ that/IN he/PRP is/VBZ currently/RB the/DT number/NN two/CD keeper/NN at/IN Arsenal./NNP
+This/DT could/MD be/VB critical/JJ if/IN it/PRP remains/VBZ the/DT same/JJ during/IN next/JJ season."/NN

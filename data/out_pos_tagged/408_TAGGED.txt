@@ -1,0 +1,11 @@
+South/JJ African/JJ car/NN demand/NN surges/VBZ
+
+Car/NN manufacturers/NNS with/IN plants/NNS in/IN South/NNP Africa/NNP including/VBG BMW/NNP General/NNP Motors/NNPS Toyota/NNP and/CC Volkswagen/NNP have/VBP seen/VBN a/DT surge/NN in/IN demand/NN during/IN 2004./CD
+
+New/JJ vehicle/NN sales/NNS jumped/VBD 22%/CD to/TO 449603/CD from/IN a/DT year/NN earlier/RBR the/DT National/NNP Association/NNP of/IN Automobile/NNP Manufacturers/NNP of/IN South/NNP Africa/NNP (NAAMSA)/NN said./NN
+Strong/JJ economic/JJ growth/NN and/CC low/JJ interest/NN rates/NNS have/VBP driven/VBN demand/NN and/CC analysts/NNS expect/VBP the/DT trend/NN to/TO continue./VB
+NAAMSA/NNP said/VBD it/PRP expects/VBZ sales/NNS to/TO top/JJ 500000/CD in/IN 2005./CD
+During/IN 2004/CD "South/NN Africa/NNP was/VBD one/CD of/IN the/DT best/JJS performing/VBG markets/NNS internationally"/JJ for/IN car/NN sales/NNS NAAMSA/NNP said./NN
+While/IN domestic/JJ demand/NN is/VBZ set/VBN to/TO continue/VB to/TO enjoy/VB rapid/JJ growth/NN foreign/JJ sales/NNS could/MD come/VB under/IN pressure/NN analysts/NNS said./NN
+The/DT vehicle/NN industry/NN accounts/VBZ for/IN about/IN 13%/CD of/IN South/NNP Africa's/NNP total/JJ exports./NN
+However/RB the/DT world/NN auto/NN market/NN has/VBZ its/PRP$ problems/NNS and/CC analysts/NNS warn/VBP that/DT overcapacity/NN and/CC the/DT strength/NN of/IN the/DT rand/NNS could/MD hit/VB exports./NN

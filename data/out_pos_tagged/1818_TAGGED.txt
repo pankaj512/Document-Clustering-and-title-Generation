@@ -1,0 +1,8 @@
+Soderling/NNP wins/VBZ tense/JJ Milan/NNP final/JJ
+
+Fifth/NNP seed/NN Robin/NNP Soderling/NNP took/VBD the/DT Milan/NNP Indoors/NNP title/NN with/IN a/DT dramatic/JJ win/NN over/IN Radek/NNP Stepanek/NNP in/IN Sunday's/NNP final./NN
+
+The/DT 20-year-old/JJ Swede/NN edged/VBD the/DT final/JJ set/VBN tie-break/JJ for/IN a/DT 6-3/JJ 6-7/JJ (2-7)/JJ 7-6/JJ (7-5)/JJ victory/NN and/CC his/PRP$ second/JJ tour/NN title/NN after/IN winning/VBG in/IN Lyon/NNP last/JJ year./NN
+"I'm/NN delighted/JJ to/TO have/VB won/VBN against/IN such/PDT a/DT good/JJ opponent/NN in/IN a/DT tournament/NN of/IN this/DT importance"/NN said/VBD Soderling./NNP
+"I/NN was/VBD really/RB on/IN form/NN my/PRP$ service/NN was/VBD good/JJ and/CC I/PRP really/RB liked/VBD playing/VBG on/IN the/DT synthetic/JJ surface."/NN Soderling/NNP the/DT world/NN number/NN 37/CD shrugged/VBD off/RP a/DT nervous/JJ start/NN to/TO take/VB the/DT opening/NN set/VBN on/IN his/PRP$ first/RB set/VBN point./NN
+A/DT change/NN in/IN approach/NN from/IN fourth/JJ seed/NN Stepanek/NNP in/IN the/DT second/JJ set/VBN paid/VBN dividends/NNS as/IN he/PRP took/VBD it/PRP on/IN a/DT tie-break/JJ but/CC Soderling's/NNP superior/JJ power/NN proved/VBD too/RB much/JJ in/IN the/DT third./NN

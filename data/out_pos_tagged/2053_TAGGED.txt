@@ -1,0 +1,41 @@
+Robotic/JJ pods/NNS take/VBP on/RP car/NN design/NN
+
+A/DT new/JJ breed/NN of/IN wearable/JJ robotic/JJ vehicles/NNS that/DT envelop/NN drivers/NNS are/VBP being/VBG developed/VBN by/IN Japanese/JJ car/NN giant/NN Toyota./NNP
+
+The/DT company's/NNS vision/NN for/IN the/DT single/JJ passenger/NN in/IN the/DT 21st/JJ Century/NNP involves/VBZ the/DT driver/NN cruising/VBG by/IN in/IN a/DT four-wheeled/JJ leaf-like/JJ device/NN or/CC strolling/VBG along/RB encased/VBN in/IN an/DT egg-shaped/JJ cocoon/NN that/WDT walks/VBZ upright/NN on/IN two/CD feet./NN
+Both/DT these/DT prototypes/NNS will/MD be/VB demonstrated/VBN along/IN with/IN other/JJ concept/NN vehicles/NNS and/CC helper/NN robots/NNS at/IN the/DT Toyota/NNP stand/VBP at/IN the/DT Expo/NNP 2005/CD in/IN Aichi/NNP Japan/NNP in/IN March/NNP 2005./CD
+The/DT models/NNS are/VBP being/VBG positioned/VBN as/IN so-called/JJ personal/JJ mobility/NN devices/NNS which/WDT have/VBP few/JJ limits./NN
+The/DT open/JJ leaf-like/JJ "i-unit"/JJ vehicle/NN is/VBZ the/DT latest/JJS version/NN of/IN the/DT concept/NN which/WDT the/DT company/NN introduced/VBD last/JJ year./NN
+Built/VBN using/VBG environmentally/RB friendly/JJ plant-based/JJ materials/NNS the/DT single/JJ passenger/NN unit/NN is/VBZ equipped/VBN with/IN intelligent/JJ transport/NN system/NN technologies/NNS that/WDT allow/VBP for/IN safe/JJ autopilot/NN driving/VBG in/IN specially/RB equipped/VBN lanes./NN
+The/DT model/NN allows/VBZ the/DT user/NN to/TO make/VB tight/JJ on-the-spot/JJ turns/VBZ move/NN upright/NN amongst/IN other/JJ people/NNS at/IN low/JJ speeds/NNS and/CC can/MD be/VB easily/RB switched/VBN into/IN a/DT reclining/VBG position/NN at/IN higher/JJR speeds./NN
+Body/NN colours/NNS can/MD be/VB customized/VBN to/TO suit/VB individual/JJ preferences/NNS and/CC a/DT personal/JJ recognition/NN system/NN offers/VBZ both/DT information/NN and/CC music./NN
+
+Also/RB on/IN display/NN at/IN the/DT show/NN will/MD be/VB the/DT egg-shaped/JJ "i-foot"./JJ
+This/DT is/VBZ a/DT two-legged/JJ mountable/JJ robot/NN like/IN device/NN that/WDT can/MD be/VB controlled/VBN with/IN a/DT joystick./NN
+
+Standing/VBG at/IN a/DT height/NN of/IN well/RB over/IN seven/CD feet/NNS (2.1/CD metres)/NN the/DT unit/NN can/MD walk/VB along/RP at/IN a/DT speed/NN of/IN about/IN 1.35km/h/CD (0.83mph)/CD and/CC navigate/VB staircases/NNS into/IN the/DT bargain./NN
+Mounting/NN and/CC dismounting/JJ is/VBZ accomplished/VBN with/IN the/DT aid/NN of/IN the/DT bird-like/JJ legs/NNS that/WDT bend/NN over/IN backwards./NN
+"They/NN are/VBP clearly/RB what/WP we/PRP call/VBP concept/NN vehicles/NNS innovative/JJ ideas/NNS which/WDT have/VBP yet/RB to/TO be/VB transformed/VBN into/IN potential/JJ products/NNS and/CC which/WDT are/VBP a/DT few/JJ years/NNS away/RB from/IN actual/JJ production"/NN said/VBD Dr/NNP David/NNP Gillingwater/NNP from/IN the/DT Transport/NNP Studies/NNPS Group/NNP at/IN Loughborough/NNP University./NNP
+"They/NN clearly/RB have/VBP eye-catching/JJ appeal/NN which/WDT is/VBZ in/IN part/NN the/DT name/NN of/IN the/DT game/NN here/RB and/CC are/VBP linked/VBN to/TO the/DT iMac/NN and/CC iPod-type/JJ niche/NN which/WDT Apple/NNP have/VBP been/VBN responsible/JJ for/IN developing/VBG and/CC leading/VBG in/IN recent/JJ years/NNS -/: new/JJ different/JJ hi-tech/JJ image/NN conscious/JJ products./NN
+"As/NN always/RB with/IN these/DT concept/NN vehicles/NNS it/PRP is/VBZ difficult/JJ to/TO see/VB 'who'/NN they/PRP would/MD appeal/VB to/TO and/CC what/WP their/PRP$ role/NN would/MD be/VB in/IN the/DT 'personal/JJ transport'/NN marketplace."/NN
+
+The/DT personal/JJ transport/NN arena/NN is/VBZ taking/VBG on/RP a/DT new/JJ dimension/NN though/IN with/IN futuristic/JJ devices/NNS that/WDT augment/NN human/JJ capabilities./NN
+Toyota's/NN prototypes/NNS represent/VBP the/DT latest/JJS incarnation/NN of/IN wearable/JJ exoskeletons/NNS in/IN a/DT vehicular/JJ form/NN that/WDT is/VBZ specially/RB focused/VBN on/IN transport./NN
+Powered/VBN robotic/JJ exoskeletons/NNS have/VBP been/VBN the/DT focus/NN of/IN much/JJ US/PRP military/JJ research/NN over/IN the/DT years/NNS and/CC Japan/NNP seems/VBZ to/TO have/VB jumped/VBN onto/IN the/DT bandwagon/NN with/IN a/DT wave/NN of/IN products/NNS being/VBG developed/VBN for/IN specific/JJ applications./NN
+With/IN an/DT emerging/VBG range/NN of/IN devices/NNS targeted/VBN towards/IN the/DT ageing/VBG world/NN population/NN care/NN giving/VBG and/CC the/DT military/JJ wearable/JJ exoskeletons/NNS seem/VBP to/TO represent/VB a/DT new/JJ line/NN of/IN future/JJ technologies/NNS that/WDT meet/VBP an/DT individual's/NNS particular/JJ mobility/NN needs./NN
+While/IN Toyota's/NNP prototypes/NNS are/VBP geared/VBN towards/IN mass/NN transport/NN the/DT company/NN says/VBZ that/IN the/DT vehicles/NNS will/MD allow/VB the/DT elderly/JJ and/CC the/DT disabled/JJ to/TO achieve/VB independent/JJ mobility./NN
+
+Experts/NNS though/RB are/VBP a/DT bit/NN sceptical/JJ of/IN their/PRP$ acceptance/NN in/IN this/DT area./NN
+
+"Those/NN with/IN arguably/RB the/DT greatest/JJS needs/VBZ for/IN this/DT sort/NN of/IN assistance/NN now/RB and/CC certainly/RB in/IN the/DT future/JJ are/VBP the/DT elderly/JJ and/CC infirm/NN people"/NN Dr/NNP Gillingwater/NNP told/VBD the/DT BBC/NNP News/NNP website./NN
+"You/NN have/VBP to/TO ask/VB whether/IN these/DT sorts/NNS of/IN vehicles/NNS will/MD appeal/VB to/TO these/DT groups."/NN Design/NNP considerations/NNS also/RB exist./VBP
+Dr/NNP Erel/NNP Avineri/NNP of/IN the/DT Centre/NNP for/IN Transport/NNP and/CC Society/NNP at/IN the/DT University/NNP of/IN the/DT West/NNP of/IN England/NNP in/IN Bristol/NNP said/VBD "The/NN design/NN of/IN the/DT introduced/VBN mobility/NN devices/NNS is/VBZ not/RB completely/RB adjusted/VBN to/TO the/DT specific/JJ needs/NNS of/IN the/DT elderly/JJ and/CC the/DT disabled./JJ
+"For/NN example/NN one/CD problem/NN that/IN many/JJ older/JJR passengers/NNS experience/NN is/VBZ limited/JJ ability/NN to/TO rotate/VB the/DT neck/NN and/CC upper/JJ body/NN making/VBG it/PRP difficult/JJ to/TO look/VB to/TO the/DT side/NN and/CC back/RB when/WRB backing/NN up./NN
+"It/NN looks/VBZ like/IN the/DT visual/JJ design/NN of/IN the/DT device/NN interior/JJ does/VBZ not/RB consider/VB this/DT need./NN
+This/DT and/CC other/JJ human-factors/NNS related/VBD issues/NNS in/IN the/DT design/NN of/IN such/JJ devices/NNS are/VBP not/RB the/DT only/JJ issues/NNS that/WDT should/MD be/VB considered"/NN said/VBN Dr/NNP Avineri./NNP
+"In/NN general/JJ introducing/NN a/DT new/JJ technology/NN requires/VBZ the/DT passenger/NN to/TO change/VB behaviour/NN patterns/NNS that/WDT have/VBP served/VBN the/DT older/JJR passenger/NN for/IN decades./NN
+Elderly/JJ users/NNS might/MD not/RB necessarily/RB accept/VB such/JJ innovation./NN
+"This/NN may/MD be/VB another/DT barrier/NN to/TO the/DT commercial/JJ success/NN of/IN such/PDT a/DT vehicle."/NN Such/JJ single-person/JJ vehicles/NNS may/MD find/VB a/DT relatively/RB small/JJ market/NN niche/NN and/CC may/MD be/VB more/RBR suited/JJ towards/IN specialised/VBN applications/NNS rather/RB than/IN revolutionising/VBG the/DT face/NN of/IN mass/NN transport./NN
+"The/NN concept/NN of/IN personal/JJ mobility/NN behind/IN these/DT sorts/NNS of/IN innovations/NNS is/VBZ great/JJ but/CC they/PRP beg/VBP a/DT huge/JJ number/NN of/IN questions"/NN said/VBD Dr/NNP Gillingwater./NNP
+"What's/VBP their/PRP$ range?/NN How/WRB user-friendly/JJ will/MD they/PRP really/RB be?/VBP What/WP infrastructure/NN will/MD be/VB required/VBN to/TO allow/VB these/DT vehicles/NNS to/TO be/VB used./NN
+"Overall/NN I/PRP think/VBP these/DT vehicles/NNS pose/VBP a/DT number/NN of/IN important/JJ questions/NNS than/IN provide/NN answers/NNS or/CC solutions."/NN

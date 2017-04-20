@@ -1,0 +1,17 @@
+Jowell/NNP rejects/VBZ 'Las/NN Vegas'/NNP jibe/NN
+
+The/DT Secretary/NNP of/IN State/NNP for/IN Culture/NNP Media/NNP and/CC Sport/NNP Tessa/NNP Jowell/NNP has/VBZ hit/VBN out/RP at/IN critics/NNS of/IN the/DT Gambling/NN Bill./NNP
+
+She/PRP told/VBD the/DT Guardian/NNP newspaper/NN there/EX would/MD be/VB no/DT "Las/NN Vegas-style"/NNP super-casinos/NNS as/IN rumoured/VBN in/IN the/DT press./NN
+Meanwhile/RB Labour/NNP backbencher/NN Stephen/NNP Pound/NNP labelled/VBD casino-related/JJ regeneration/NN schemes/NNS "a/NN pile/NN of/IN pants"./NN
+The/DT MP/NNP for/IN Ealing/NNP North/NNP claimed/VBD the/DT legislation/NN would/MD encourage/VB a/DT mafia-like/JJ culture/NN of/IN vice/NN and/CC corruption/NN in/IN an/DT interview/NN on/IN BBC/NNP Radio/NNP 4./CD
+"You/NN look/NN at/IN some/DT of/IN the/DT people/NNS who/WP are/VBP involved...they/NN aren't/NN in/IN there/RB to/TO regenerate/VB Blackpool./NNP
+They/PRP are/VBP in/IN it/PRP to/TO fill/VB their/PRP$ boots"/NN Mr/NNP Pound/NNP told/VBD the/DT Today/NN programme./NN
+"I/NN just/RB really/RB think/VBP that/IN we/PRP have/VBP made/VBN a/DT terrible/JJ mistake/NN here./NN
+And/CC over/IN all/DT of/IN it/PRP hangs/VBZ the/DT shadow/NN of/IN the/DT men/NNS in/IN the/DT chalk-stripe/JJ suits/NNS with/IN names/NNS that/DT rhyme/NN with/IN spaghetti"/NN he/PRP said./VB
+
+Ms/NNP Jowell/NNP complained/VBD of/IN the/DT "scale/NN of/IN misrepresentation"/NN in/IN the/DT media/NNS over/IN the/DT bill/NN in/IN her/PRP$ interview/NN with/IN the/DT newspaper/NN her/PRP$ first/NN since/IN the/DT bill/NN was/VBD launched./NN
+The/DT culture/NN secretary/NN said/VBD a/DT four/CD year/NN consultation/NN period/NN had/VBD produced/VBN a/DT consensus/NN on/IN the/DT need/NN to/TO "protect/VB children/NNS and/CC the/DT vulnerable"/NN in/IN a/DT swiftly/RB changing/VBG sector./NN
+Ms/NNP Jowell/NNP insisted/VBD "We/NN have/VBP a/DT good/JJ track/NN record/NN for/IN extracting/VBG planning/NN gain/NN in/IN this/DT country/NN for/IN instance/NN in/IN social/JJ housing."/NN And/CC continued/JJ "We/NN can/MD be/VB proud/JJ to/TO have/VB one/CD of/IN the/DT lowest/JJS rates/NNS of/IN problem/NN gambling/NN in/IN the/DT world./NN
+I/PRP intend/VBP to/TO keep/VB it/PRP that/DT way."/NN Ms/NNP Jowell/NNP will/MD set/VB out/RP her/PRP$ position/NN when/WRB the/DT Bill/NNP is/VBZ debated/VBN in/IN the/DT Commons/NNPS on/IN Monday./NNP
+In/IN prime/JJ minister's/NNS questions/NNS last/JJ week/NN Tony/NNP Blair/NNP assured/VBD Parliament/NNP that/IN 90%/CD of/IN the/DT bill/NN was/VBD about/IN tightening/VBG up/RP the/DT regulation/NN of/IN the/DT gambling/NN industry./NN

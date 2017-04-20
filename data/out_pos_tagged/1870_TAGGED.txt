@@ -1,0 +1,23 @@
+BBC/NNP leads/VBZ interactive/JJ Bafta/NNP wins/VBZ
+
+The/DT BBC/NNP and/CC the/DT National/NNP Theatre/NNP have/VBP led/VBN the/DT field/NN at/IN this/DT year's/NNS Interactive/JJ Bafta/NNP awards./NN
+
+The/DT National/NNP Theatre's/NNP Stagework/NNP website/NN picked/VBD up/RP the/DT prize/NN for/IN best/JJS learning/VBG as/RB well/RB as/IN top/JJ factual/JJ site./NN
+The/DT BBC/NNP collected/VBD three/CD awards/NNS including/VBG best/JJS online/NN entertainment/NN for/IN the/DT Hitchhiker's/NNP Guide/NNP to/TO the/DT Galaxy/NNP Adventure/NN Game./NNP
+Spooks/NNS Interactive/NN took/VBD the/DT best/JJS interactive/JJ TV/NN prize./NN
+The/DT annual/JJ awards/NNS recognise/VBP the/DT best/JJS in/IN digital/JJ media./NN
+BBC/NNP Sport/NNP Interactive/NN fought/VBD off/RP competition/NN from/IN CBBC/NNP Newsround/NNP and/CC the/DT Guardian/NNP to/TO take/VB home/NN the/DT best/JJS news/NN and/CC sport/NN trophy/NN for/IN its/PRP$ coverage/NN of/IN England's/NNP exit/NN from/IN Euro/NNP 2004./CD
+It/PRP was/VBD recognised/VBN for/IN its/PRP$ "groundbreaking"/NN use/NN of/IN animation./NN
+Bafta's/NNP Grant/NNP Dean/NNP chair/NN of/IN Bafta's/NNP Interactive/JJ Entertainment/NNP committee/NN said/VBD all/PDT the/DT entrants/NNS had/VBD been/VBN of/IN "outstanding/VBG quality"/NN and/CC that/IN judging/VBG had/VBD been/VBN "enormously/RB difficult"./NN
+"Without/NN a/DT doubt/NN 2005/CD has/VBZ been/VBN a/DT landmark/NN year/NN for/IN the/DT Bafta/NNP Interactive/JJ Awards"/NNP he/PRP added./VB
+
+"Many/NN of/IN the/DT top/JJ awards/NNS this/DT year/NN have/VBP gone/VBN to/TO the/DT companies/NNS we/PRP most/RBS commonly/RB associate/JJ with/IN traditional/JJ entertainment/NN showing/VBG how/WRB the/DT gap/NN between/IN new/JJ media/NNS film/NN and/CC television/NN is/VBZ closing."/NN
+
+Awards/NNS were/VBD given/VBN out/RP in/IN 12/CD different/JJ categories/NNS including/VBG interactive/JJ TV/NN film/NN music/NN design/NN as/RB well/RB as/IN technical/JJ and/CC social/JJ innovation/NN at/IN a/DT London/NNP ceremony./NN
+The/DT top/JJ music/NN award/NN was/VBD given/VBN to/TO SSEYO/NNP miniMIXA/NN a/DT mobile/JJ music/NN sequencer/NN designed/VBN to/TO let/VB people/NNS write/VB edit/NN and/CC share/NN compositions./NN
+Warner/NNP Bros/NNP was/VBD given/VBN two/CD prizes/NNS for/IN its/PRP$ "inspiring"/NN efforts/NNS in/IN film/NN and/CC DVD/NNP interactivity./JJ
+The/DT Chaplin/NNP Collection/NN beat/VB Oasis/NNP Really/RB Bend/VBP It/PRP Like/IN Beckham/NNP Shaun/NNP of/IN the/DT Dead/NNP and/CC The/DT Day/NNP Today/NN in/IN the/DT DVD/NNP category/NN and/CC Trauma/NNP won/VBD best/RBS film./NN
+Elsewhere/RB fashionista/NN and/CC clothes/NNS designer/NN Alexander/NNP McQueen/NNP took/VBD the/DT accolade/NN for/IN the/DT best-designed/JJ website./NN
+The/DT awards/NNS have/VBP been/VBN running/VBG since/IN 1997/CD but/CC in/IN 2002/CD the/DT British/NNP Academy/NNP of/IN Film/NNP and/CC Television/NNP decided/VBD to/TO split/VB them/PRP into/IN separate/JJ games/NNS and/CC interactive/JJ ceremonies./NN
+On/IN Tuesday/NNP Half-Life/NN 2/CD dominated/VBD the/DT games/NNS prizes./NN
+It/PRP collected/VBD six/CD Baftas/NNP including/VBG best/JJS game/NN and/CC best/JJS online/NN game./NN

@@ -1,0 +1,15 @@
+Celebrities/NNS get/VBP their/PRP$ skates/NNS on/IN
+
+Former/NNP England/NNP footballer/NN Paul/NNP Gascoigne/NNP will/MD join/VB EastEnders'/NNP actress/NN Scarlett/NNP Johnson/NNP on/IN BBC/NNP One's/NNP Strictly/RB Ice/NNP Dancing./NNP
+
+The/DT one-off/JJ Christmas/NNP special/JJ will/MD also/RB star/VB television/NN presenter/NN Carol/NNP Smillie/NNP and/CC Jessica/NNP Taylor/NNP from/IN Liberty-X./NNP
+Each/DT celebrity/NN will/MD be/VB paired/VBN with/IN a/DT professional/JJ skater/NN to/TO impress/VB a/DT panel/NN of/IN judges/NNS and/CC win/VB the/DT audience/NN vote./NN
+The/DT BBC/NNP is/VBZ yet/RB to/TO confirm/VB the/DT final/JJ two/CD stars/NNS who/WP will/MD battle/VB it/PRP out/RP to/TO become/VB Ice/NNP King/NNP or/CC Queen./NNP
+
+Veteran/NN presenter/NN Bruce/NNP Forsyth/NNP and/CC Tess/NNP Daly/NNP will/MD host/VB the/DT programme/NN which/WDT follows/VBZ hot/JJ on/IN the/DT heels/NNS of/IN the/DT current/JJ Saturday/NNP night/NN series/NN Strictly/RB Come/VBD Dancing./NNP
+The/DT celebrities/NNS will/MD have/VB to/TO practise/VB a/DT stipulated/VBN ice/NN dance/NN and/CC perform/VB it/PRP at/IN an/DT ice/NN rink/NN with/IN their/PRP$ partner./NN
+The/DT judges/NNS will/MD have/VB 50%/CD of/IN the/DT vote/NN to/TO decide/VB who/WP wins/VBZ the/DT contest/NN with/IN the/DT ice/NN rink/NN audience/NN making/VBG up/RP the/DT rest/NN of/IN the/DT vote./NN
+The/DT show/NN forms/NNS part/NN of/IN the/DT BBC's/NNP festive/JJ schedule./NN
+Ice/NNP skating/VBG duo/NN Jayne/NNP Torvill/NNP and/CC Christopher/NNP Dean/NNP are/VBP to/TO front/VB a/DT similar/JJ celebrity/NN ice/NN dance/NN show/NN for/IN ITV/NNP titled/VBD Stars/NNP on/IN Thin/JJ Ice./NNP
+The/DT contestants/NNS on/IN Stars/NNP on/IN Thin/JJ Ice/NNP will/MD each/DT be/VB paired/VBN up/RP with/IN a/DT professional/JJ skater/NN and/CC will/MD learn/VB a/DT new/JJ routine/JJ every/DT week./NN
+At/IN the/DT end/NN of/IN the/DT series/NN one/CD celebrity/NN will/MD be/VB crowned/VBN the/DT winner./NN

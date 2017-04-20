@@ -1,0 +1,14 @@
+Nortel/NNP in/IN $300m/CD profit/NN revision/NN
+
+Telecoms/NNP equipment/NN maker/NN Nortel/NNP Networks/NNP has/VBZ sharply/RB revised/VBN downwards/VBZ its/PRP$ profits/NNS for/IN the/DT 2003/CD fiscal/JJ year./NN
+
+In/IN a/DT long-awaited/JJ filing/NN Nortel/NNP said/VBD it/PRP had/VBD made/VBN $434m/CD (£231m)/CD compared/VBN to/TO the/DT previously/RB reported/VBN $732m./CD
+But/CC the/DT figures/NNS -/: revised/VBN after/IN an/DT audit/NN which/WDT led/VBD to/TO the/DT sacking/NN of/IN the/DT Canadian/JJ firm's/NNS chief/JJ -/: showed/VBD revenue/NN was/VBD about/IN 4%/CD higher/JJR than/IN first/JJ thought./NN
+Nortel/NNP shares/NNS which/WDT have/VBP lost/VBN nearly/RB 50%/CD of/IN their/PRP$ value/NN since/IN last/JJ year/NN climbed/VBD 1.46%/CD in/IN Toronto/NNP on/IN Tuesday./NNP
+Nortel's/NNP head/NN Frank/NNP Dunn/NNP and/CC two/CD other/JJ executives/NNS were/VBD fired/VBN in/IN January/NNP last/JJ year/NN after/IN the/DT company/NN announced/VBD it/PRP had/VBD conducted/VBN the/DT internal/JJ audit./NN
+Securities/NNS and/CC police/NN authorities/NNS in/IN both/DT the/DT US/PRP and/CC Canada/NNP are/VBP still/RB conducting/VBG inquiries/NNS into/IN the/DT accounts./NN
+
+Nortel/NNP also/RB issued/VBD new/JJ figures/NNS for/IN the/DT 2001-2002/JJ period/NN which/WDT they/PRP had/VBD previously/RB indicated/VBN had/VBN understated/VBN losses./NN
+"With/NN the/DT completion/NN of/IN our/PRP$ restatements/NNS we/PRP have/VBP a/DT solid/JJ foundation/NN on/IN which/WDT to/TO move/VB forward/RB with/IN our/PRP$ business"/NN said/VBD Nortel/NNP president/NN and/CC chief/JJ executive/NN Bill/NNP Owens./NNP
+"The/NN restatement/NN has/VBZ been/VBN a/DT monumental/JJ task/NN both/DT complex/JJ and/CC demanding."/VB The/DT company/NN also/RB said/VBD 12/CD senior/JJ executives/NNS -/: none/NN of/IN whom/WP were/VBD involved/VBN directly/RB in/IN the/DT accounting/NN of/IN the/DT revised/VBN figures/NNS -/: have/VBP voluntarily/RB agreed/VBN to/TO repay/VB to/TO bonuses/NNS awarded/VBD in/IN 2003/CD totalling/VBG $8.6m./CD
+Nortel/NNP added/VBD "these/NN members/NNS of/IN the/DT core/NN executive/NN team/NN share/NN the/DT board's/NNS deep/JJ disappointment/NN over/IN the/DT circumstances/NNS that/WDT led/VBD to/TO the/DT restatement."/NN

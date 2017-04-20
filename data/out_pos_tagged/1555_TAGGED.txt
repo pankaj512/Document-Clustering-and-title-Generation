@@ -1,0 +1,15 @@
+Wenger/NNP rules/NNS out/RP new/JJ keeper/NN
+
+Arsenal/NN boss/NN Arsene/NNP Wenger/NNP says/VBZ he/PRP has/VBZ no/DT plans/NNS to/TO sign/VB a/DT new/JJ goalkeeper/NN during/IN the/DT January/NNP transfer/VB window./NN
+
+Wenger/NNP has/VBZ brought/VBN in/RP Manuel/NNP Almunia/NNP for/IN the/DT last/JJ three/CD games/NNS for/IN the/DT out-of-form/JJ Jens/NNP Lehmann/NNP -/: but/CC the/DT Spaniard/NNP himself/PRP has/VBZ been/VBN prone/JJ to/TO mistakes./VB
+There/EX have/VBP been/VBN suggestions/NNS that/IN Wenger/NNP will/MD swoop/VB for/IN a/DT high-quality/JJ shot-stopper/NN in/IN the/DT New/NNP Year./NNP
+But/CC he/PRP told/VBD the/DT Evening/NN Standard/NNP "I/NN don't/NN feel/VBP it/PRP will/MD be/VB necessary/JJ to/TO bring/VB in/RP a/DT new/JJ goalkeeper/NN in/IN January."/NNP The/DT Gunners/NNS manager/NN refused/VBD to/TO comment/VB on/IN the/DT difficult/JJ start/NN that/IN 27-year-old/JJ Almunia/NNP has/VBZ made/VBN to/TO his/PRP$ career/NN at/IN Highbury./NNP
+And/CC he/PRP would/MD not/RB be/VB drawn/VBN on/RP whether/IN Lehmann/NNP would/MD return/VB for/IN the/DT top-of-the/JJ table/NN clash/NN with/IN Chelsea/NNP on/IN Sunday./NNP
+
+Almunia/NNP was/VBD at/IN fault/NN for/IN Rosenborg's/NNP goal/NN in/IN Arsenal's/NNP 5-1/CD Champions/NNS League/NNP win/VB on/IN Tuesday/NNP and/CC had/VBD some/DT hairy/JJ moments/NNS in/IN last/JJ week's/NNS win/VBP over/IN Birmingham./NNP
+But/CC Wenger/NNP said/VBD earlier/RBR this/DT week/NN that/IN his/PRP$ indifferent/JJ form/NN was/VBD down/RB to/TO pressure/VB caused/VBN by/IN being/VBG under/IN scrutiny/NN from/IN the/DT media./NN
+"The/NN debate/NN has/VBZ gone/VBN on/IN too/RB long./NN
+Everyone/NN has/VBZ an/DT opinion/NN and/CC I/PRP do/VBP not/RB have/VB to/TO add/VB to/TO it"/VB Wenger/NNP added./NN
+Arsenal/NN have/VBP been/VBN linked/VBN with/IN Middlesbrough/NNP keeper/NN Mark/NNP Schwarzer/NNP Fulham's/NNP Edwin/NNP van/NNP der/NN Sar/NNP and/CC Parma's/NNP Sebastien/NNP Frey./NNP
+And/CC Wenger/NNP has/VBZ no/DT immediate/JJ plans/NNS to/TO recall/VB former/JJ England/NNP Under-21/JJ international/JJ Stuart/NNP Taylor/NNP from/IN his/PRP$ loan/NN spell/NN at/IN Leicester./NNP

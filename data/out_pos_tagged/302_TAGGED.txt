@@ -1,0 +1,15 @@
+Cactus/NNP diet/NN deal/NN for/IN Phytopharm/NNP
+
+A/DT slimming/VBG aid/NN made/VBN from/IN a/DT southern/JJ African/JJ cactus/JJ is/VBZ set/VBN to/TO be/VB developed/VBN by/IN UK/NNP firm/NN Phytopharm/NNP and/CC Unilever./NNP
+
+Anglo-Dutch/NNP food/NN giant/NN Unilever/NNP will/MD help/VB the/DT pharmaceutical/JJ firm/NN develop/VBP the/DT snacks/NNS containing/VBG Hoodia/NNP extract./NN
+Phytopharm/NNP shares/NNS jumped/VBD 10.7%/CD on/IN the/DT news/NN with/IN analysts/NNS saying/VBG sales/NNS of/IN $600m/CD (£309m)/CD a/DT year/NN were/VBD possible./NN
+The/DT plant/NN licensed/VBD to/TO Phytopharm/NNP in/IN 1997/CD has/VBZ been/VBN used/VBN for/IN thousands/NNS of/IN years/NNS by/IN the/DT Sans/NNP bushmen/NNS of/IN the/DT Kalahari/NNP desert/NN to/TO stave/VB off/RP hunger./NN
+Studies/NNS have/VBP reportedly/RB shown/VBN the/DT plant/NN curbs/NNS appetite/NN instead/RB of/IN reducing/VBG calorific/JJ intake/NN like/IN many/JJ existing/VBG products./NN
+
+Phytopharm/NNP will/MD receive/VB an/DT initial/JJ fee/NN of/IN £6.5m/CD from/IN Unilever/NNP -/: out/IN of/IN a/DT potential/JJ total/NN of/IN £21m/CD -/: as/RB well/RB as/IN future/JJ royalties/NNS on/IN product/NN sales./NN
+Under/IN the/DT deal/NN production/NN of/IN the/DT Hoodia/NNP cactus/JJ at/IN Phytopharm's/NNP nursery/NN in/IN South/NNP Africa/NNP will/MD also/RB rise/VB from/IN eight/CD million/CD plants/NNS to/TO potentially/RB hundreds/NNS of/IN millions/NNS said/VBD Phytopharm/NNP chief/NN executive/NN Richard/NNP Dixey./NNP
+The/DT firm/NN had/VBD initially/RB hoped/VBN to/TO market/VB a/DT slimming/VBG drug/NN from/IN Hoodia/NNP with/IN Pfizer./NNP
+But/CC the/DT research/NN collaboration/NN came/VBD to/TO an/DT end/NN in/IN 2003./CD
+Analysts/NNS said/VBD Unilever/NNP could/MD launch/VB the/DT new/JJ products/NNS in/IN 2007./CD
+"This/NN deal/NN goes/VBZ a/DT long/JJ way/NN to/TO restoring/VBG the/DT market/NN faith/NN in/IN Phytopharm's/NNP pipeline/NN after/IN the/DT Pfizer/NNP exit"/NN said/VBD analyst/NN Erling/NNP Refsum/NNP at/IN Nomura./NNP

@@ -1,0 +1,14 @@
+Ethnic/JJ producers/NNS 'face/NN barriers'/NN
+
+Minority/NNP ethnic/JJ led/VBD (Mel)/NN production/NN companies/NNS face/VBP barriers/NNS in/IN succeeding/VBG in/IN the/DT film/NN and/CC television/NN industries/NNS research/NN has/VBZ suggested./NN
+
+The/DT study/NN commissioned/VBD by/IN Pact/NNP and/CC the/DT UK/NNP Film/NNP Council/NNP included/VBD interviews/NNS with/IN industry/NN experts/NNS and/CC individuals./NN
+They/PRP indicated/VBD that/IN career/NN progression/NN and/CC a/DT lack/NN of/IN role/NN models/NNS are/VBP among/IN the/DT main/JJ problems/NNS within/IN such/JJ companies./NN
+The/DT research/NN indicated/VBD that/IN about/IN 10%/CD of/IN independent/JJ production/NN companies/NNS in/IN the/DT UK/NNP are/VBP minority/NN ethnic/JJ led./NN
+
+A/DT minority/NN ethnic/JJ led/VBN company/NN is/VBZ defined/VBN as/IN one/CD in/IN which/WDT the/DT majority/NN of/IN decision-making/JJ power/NN rests/VBZ with/IN an/DT individual/JJ or/CC individuals/NNS from/IN a/DT minority/NN ethnic/JJ group./NN
+The/DT report/NN also/RB explored/VBD the/DT problems/NNS faced/VBN by/IN such/JJ companies/NNS when/WRB attempting/VBG to/TO compete/VB within/IN the/DT film/NN and/CC TV/NN industries./NN
+It/PRP said/VBD they/PRP are/VBP often/RB smaller/JJR than/IN other/JJ companies/NNS and/CC lack/VB the/DT resources/NNS so/RB are/VBP often/RB squeezed/VBN out/IN of/IN the/DT market/NN by/IN bigger/JJR firms./NN
+The/DT research/NN recommended/VBD that/DT minority/NN ethnic/JJ led/VBN companies/NNS could/MD benefit/VB from/IN such/JJ positive/JJ actions/NNS as/IN career/NN training/NN and/CC business/NN advice/NN plus/CC improved/VBN communication/NN within/IN the/DT film/NN and/CC TV/NN sectors./NN
+"The/NNP UK/NNP has/VBZ a/DT rich/JJ and/CC diverse/JJ culture/NN and/CC it/PRP is/VBZ essential/JJ that/IN it/PRP is/VBZ reflected/VBN on/IN film/NN and/CC television"/NN said/VBD Arts/NNS minister/NN Estelle/NNP Morris/NNP of/IN the/DT findings./NN
+"I/NN welcome/VBN this/DT report/NN which/WDT I/PRP hope/VBP will/MD lead/VB to/TO more/JJR doors/NNS being/VBG opened/VBD and/CC all/DT businesses/NNS in/IN our/PRP$ film/NN and/CC television/NN industries/NNS being/VBG given/VBN the/DT same/JJ opportunities."/NN

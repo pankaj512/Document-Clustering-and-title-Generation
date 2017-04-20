@@ -1,0 +1,13 @@
+Teenager/NNP Tait/NNP picked/VBD for/IN England/NNP
+
+Newcastle's/NNP teenage/JJ centre/NN Mathew/NNP Tait/NNP has/VBZ been/VBN named/VBN as/IN a/DT centre/NN in/IN England's/NNP team/NN to/TO face/VB Wales/NNP in/IN the/DT Six/CD Nations/NNPS opener/NN in/IN Cardiff/NNP on/IN Saturday./NNP
+
+The/DT 18-year-old/NN will/MD play/VB alongside/IN Falcons'/NNP team-mate/JJ Jamie/NNP Noon/NN in/IN England's/NNP midfield./NN
+Scrum-half/NNP Matt/NNP Dawson/NNP is/VBZ also/RB recalled/VBN despite/IN been/VBN left/VBN out/IN of/IN the/DT initial/JJ squad/NN after/IN a/DT row/NN over/IN clashing/VBG TV/NN and/CC training/NN commitments./NN
+Bath/NN lock/VB Danny/NNP Grewcock/NNP will/MD also/RB start/VB pending/VBG a/DT possible/JJ citing./NN
+England/NNP coach/NN Andy/NNP Robinson/NNP has/VBZ also/RB awarded/VBN Gloucester/NNP flanker/NN Andy/NNP Hazell/NNP his/PRP$ first/JJ Six/CD Nations/NNPS start./NN
+In/IN another/DT change/NN to/TO the/DT side/NN that/WDT lost/VBD to/TO Australia/NNP in/IN November/NNP Leicester/NNP lock/VB Ben/NNP Kay/NNP replaces/VBZ Bath/NN second/JJ row/NN Steve/NNP Borthwick./NNP
+Robinson/NNP was/VBD already/RB without/IN Jonny/NNP Wilkinson/NNP Mike/NNP Tindall/NNP Stuart/NNP Abbott/NNP Richard/NNP Hill/NNP and/CC Will/MD Greenwood/NNP while/IN Mike/NNP Catt/NNP had/VBD been/VBN left/VBN out/IN of/IN England's/NNP squad./NN
+
+J/NNP Robinson/NNP (Sale/NN Sharks/NNS capt)/NN M/NNP Cueto/NNP (Sale/NN Sharks)/NNP M/NNP Tait/NNP (Newcastle)/NN J/NNP Noon/NN (Newcastle)/NN J/NNP Lewsey/NNP (Wasps)/NN C/NNP Hodgson/NNP (Sale/NN Sharks)/NNP M/NNP Dawson/NNP (Wasps)/NN G/NNP Rowntree/NNP (Leicester)/NN S/NNP Thompson/NNP (Northampton)/NN J/NNP White/NNP (Leicester)/NN D/NNP Grewcock/NNP (Bath)/NN B/NNP Kay/NNP (Leicester)/NN L/NNP Moody/NNP (Leicester)/NN A/DT Hazell/NNP (Gloucester)/NN J/NNP Worsley/NNP (Wasps)./NN
+Replacements/NNS A/DT Titterrell/NNP (Sale/NN Sharks)/NNP P/NNP Vickery/NNP (Gloucester)/NN S/NNP Borthwick/NNP (Bath)/NN J/NNP Forrester/NNP (Gloucester)/NN H/NNP Ellis/NNP (Leicester)/NN O/NNP Barkley/NNP (Bath)/NN B/NNP Cohen/NNP (Northampton)./NN

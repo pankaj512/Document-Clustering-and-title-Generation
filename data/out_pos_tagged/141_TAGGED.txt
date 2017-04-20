@@ -1,0 +1,18 @@
+BMW/NNP reveals/VBZ new/JJ models/NNS pipeline/NN
+
+BMW/NNP is/VBZ preparing/VBG to/TO enter/VB the/DT market/NN for/IN car-style/JJ people/NNS carriers/NNS the/DT firm's/NNS chief/JJ has/VBZ told/VBN BBC/NNP News./NNP
+
+Speaking/VBG at/IN a/DT BMW/NNP event/NN ahead/RB of/IN the/DT Geneva/NNP motor/NN show/NN Helmut/NNP Panke/NNP predicted/VBD demand/NN for/IN such/JJ crossover/NN vehicles/NNS would/MD soar/VB in/IN Europe./NNP
+In/IN contrast/NN he/PRP said/VBD the/DT popularity/NN of/IN van-style/JJ seven-seat/JJ vehicles/NNS and/CC traditional/JJ saloon/NN cars/NNS would/MD fade./VB
+"Customers/NN are/VBP moving/VBG out/IN of/IN the/DT mini-van/JJ (and)/NN traditional/JJ concepts/NNS are/VBP not/RB as/IN attractive/JJ anymore"/NN he/PRP said./VB
+"We/NN have/VBP decided/VBN that/IN BMW/NNP will/MD enter/VB the/DT [crossover]/NN segment"/NN he/PRP said/VBD in/IN the/DT clearest/JJ indication/NN yet/RB about/IN the/DT car/NN maker's/NNS intentions./NN
+
+Mr/NNP Panke/NNP praised/VBD the/DT Honda/NNP Accura/NNP as/IN the/DT "best/JJ execution"/NN yet/RB of/IN a/DT crossover/NN vehicle./NN
+"We/NN have/VBP decided/VBN that/IN the/DT BMW/NNP brand/NN will/MD enter/VB the/DT segment"/NN he/PRP said./VB
+
+A/DT decision/NN on/IN just/RB how/WRB BMW/NNP will/MD manage/VB its/PRP$ entry/NN into/IN the/DT new/JJ market/NN is/VBZ due/JJ in/IN the/DT first/JJ half/NN of/IN 2005./CD
+Typically/RB it/PRP takes/VBZ about/IN three/CD years/NNS from/IN when/WRB a/DT decision/NN is/VBZ taken/VBN before/IN a/DT new/JJ model/NN hits/NNS the/DT streets/NNS Mr/NNP Panke/NNP said/VBD implying/VBG that/IN a/DT BMW/NNP crossover/NN could/MD be/VB on/IN the/DT market/NN by/IN 2008./CD
+The/DT coming/VBG switch/NN is/VBZ driven/VBN in/IN part/NN by/IN the/DT need/NN for/IN successful/JJ carmakers/NNS to/TO stay/VB aware/JJ of/IN trans-Atlantic/JJ differences/NNS in/IN the/DT car/NN market/NN Mr/NNP Panke/NNP insisted./NN
+While/IN in/IN the/DT US/PRP drivers/VBZ tend/VBP to/TO prefer/VB sports/NNS utility/NN vehicles/NNS (SUVs)/VBP such/JJ as/IN the/DT BMW/NNP X5/CD and/CC its/PRP$ sibling/VBG X3/CD in/IN Europe/NNP demand/NN for/IN crossover/NN vehicles/NNS is/VBZ likely/JJ to/TO be/VB considerable/JJ Mr/NNP Panke/NNP said./NN
+"There's/NN a/DT growing/VBG market/NN here"/NN he/PRP said./VB
+"We/NN are/VBP going/VBG to/TO go/VB that/DT way."/NN

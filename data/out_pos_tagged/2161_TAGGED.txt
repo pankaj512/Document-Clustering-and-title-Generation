@@ -1,0 +1,36 @@
+Can/MD Yahoo/NNP dominate/VBP next/JJ decade?/NN
+
+Yahoo/NNP has/VBZ reached/VBN the/DT grand/JJ old/JJ age/NN of/IN 10/CD and/CC in/IN internet/JJ years/NNS that/WDT is/VBZ a/DT long/RB time./NN
+
+For/IN many/JJ Yahoo/NNP remains/VBZ synonymous/JJ with/IN the/DT internet/JJ -/: a/DT veteran/NN that/WDT managed/VBD to/TO ride/VB the/DT dot-com/JJ wave/NN and/CC the/DT subsequent/JJ crash/NN and/CC maintain/VB itself/PRP as/IN one/CD of/IN the/DT web's/NNS top/JJ brands./NN
+But/CC for/IN others/NNS there/RB is/VBZ another/DT newer/JJR net/JJ icon/NN threatening/VBG to/TO overshadow/VB Yahoo/NNP in/IN the/DT post/NN dot-com/JJ world/NN -/: Google./NNP
+
+The/DT veteran/NN and/CC the/DT upstart/NN have/VBP plenty/NN in/IN common/JJ -/: Yahoo/NNP was/VBD the/DT first/JJ internet/JJ firm/NN to/TO offer/VB initial/JJ public/JJ shares/NNS and/CC Google/NNP was/VBD arguably/RB the/DT most/RBS watched/JJ IPO/NNP (Initial/JJ Public/NNP Offering)/NNP of/IN the/DT post-dot-com/JJ era./NN
+Both/DT began/VBD life/VBG as/IN search/NN engines/NNS although/IN in/IN 2000/CD when/WRB Yahoo/NNP chose/VBD Google/NNP to/TO power/VB its/PRP$ search/NN facility/NN while/IN it/PRP concentrated/VBD on/IN its/PRP$ web/NN portal/JJ business/NN it/PRP was/VBD very/RB much/RB Yahoo/NNP that/WDT commanded/VBD press/NN attention./NN
+In/IN recent/JJ years/NNS the/DT column/NN inches/NNS have/VBP stacked/VBN up/RP in/IN Google's/NNP favour/NN as/IN the/DT search/NN engine/NN also/RB diversifies/VBZ with/IN the/DT launch/NN of/IN services/NNS such/JJ as/IN Gmail/NNP its/PRP$ shopping/NN channel/NN Froogle/NNP and/CC Google/NNP News./NNP
+
+For/IN Jupiter/NNP analyst/NN Olivier/NNP Beauvillain/NNP Yahoo's/NNP initial/JJ decision/NN to/TO put/VB its/PRP$ investment/NN on/IN search/NN on/IN hold/NN was/VBD an/DT error./NN
+"Yahoo/NN was/VBD busy/JJ building/VBG a/DT portal/JJ and/CC while/IN it/PRP was/VBD good/JJ to/TO diversify/VB they/PRP made/VBD a/DT big/JJ mistake/NN in/IN outsourcing/VBG search/NN to/TO Google"/NNP he/PRP said/VBD "They/NN thought/VBD Google/NNP would/MD just/RB be/VB a/DT technology/NN provider/NN but/CC it/PRP has/VBZ become/VBN a/DT portal/NN in/IN its/PRP$ own/JJ right/NN and/CC a/DT direct/JJ competitor"/NN he/PRP added./VB
+He/PRP believes/VBZ Yahoo/NNP failed/VBD to/TO see/VB how/WRB crucial/JJ search/NN would/MD become/VB to/TO internet/JJ users/NNS something/VBP it/PRP has/VBZ rediscovered/VBN in/IN recent/JJ years./NN
+"It/NN is/VBZ interesting/JJ that/IN in/IN these/DT last/JJ few/JJ years/NNS it/PRP has/VBZ refocused/VBN on/IN search/NN following/VBG the/DT success/NN of/IN Google"/NNP he/PRP said./VB
+But/CC for/IN Allen/NNP Weiner/NNP a/DT research/NN director/NN at/IN analyst/NN firm/NN Gartner/NNP and/CC someone/NN who/WP has/VBZ followed/VBN Yahoo's/NNP progress/NN since/IN the/DT early/JJ years/NNS the/DT future/NN of/IN search/NN is/VBZ not/RB going/VBG to/TO be/VB purely/RB about/IN the/DT technology/NN powering/VBG it./NN
+"Search/NN technology/NN is/VBZ valuable/JJ but/CC the/DT next/JJ generation/NN of/IN search/NN is/VBZ going/VBG to/TO be/VB about/IN premium/NN content/NN and/CC the/DT interface/NN that/IN users/NNS have/VBP to/TO that/WDT content"/NN he/PRP said./VB
+He/PRP believes/VBZ the/DT rivalry/NN between/IN Google/NNP and/CC Yahoo/NNP is/VBZ overblown/JJ and/CC instead/RB thinks/VBZ the/DT real/JJ battle/NN is/VBZ going/VBG to/TO be/VB between/IN Yahoo/NNP and/CC MSN./NNP
+It/PRP is/VBZ a/DT battle/NN that/IN Yahoo/NNP is/VBZ currently/RB winning/VBG he/PRP believes./VB
+"Microsoft/NN has/VBZ amazing/JJ assets/NNS including/VBG software/NN capability/NN and/CC a/DT global/JJ name/NN but/CC it/PRP has/VBZ yet/RB to/TO show/VB me/PRP it/PRP can/MD create/VB a/DT rival/JJ product/NN to/TO Yahoo"/NNP he/PRP said./VB
+
+He/PRP is/VBZ convinced/VBN Yahoo/NNP remains/VBZ the/DT single/JJ most/RBS important/JJ brand/NN on/IN the/DT world/NN wide/JJ web./NN
+
+"I/NN believe/VBP Yahoo/NNP is/VBZ the/DT seminal/JJ brand/NN on/IN the/DT web./NN
+If/IN you/PRP are/VBP looking/VBG for/IN a/DT text/NN book/NN definition/NN of/IN web/NN portal/JJ then/RB Yahoo/NNP is/VBZ it"/NN he/PRP said./VB
+It/PRP has/VBZ achieved/VBN this/DT dominance/NN Mr/NNP Weiner/NNP believes/VBZ by/IN a/DT canny/JJ combination/NN of/IN acquisitions/NNS such/JJ as/IN that/DT of/IN Inktomi/NNP and/CC Overture/NNP and/CC by/IN avoiding/VBG direct/JJ involvement/NN in/IN either/DT content/NN creation/NN or/CC internet/JJ access./NN
+That/DT is/VBZ not/RB to/TO say/VB that/IN Yahoo/NNP hasn't/NN had/VBD its/PRP$ dark/JJ days./NN
+When/WRB the/DT dot-com/JJ bubble/NN burst/NN it/PRP lost/VBD one-third/NN of/IN its/PRP$ revenue/NN in/IN a/DT single/JJ year/NN bore/VBD a/DT succession/NN of/IN losses/NNS and/CC saw/VBD its/PRP$ market/NN value/NN fall/NN from/IN a/DT peak/NN of/IN $120bn/CD to/TO $4.6bn/CD at/IN one/CD point./NN
+Crucial/JJ to/TO its/PRP$ survival/NN was/VBD the/DT decision/NN to/TO replace/VB chief/JJ executive/NN Tim/NNP Koogle/NNP with/IN Terry/NNP Semel/NNP in/IN May/NNP 2001/CD thinks/VBZ Mr/NNP Weiner./NNP
+His/PRP$ business/NN savvy/JJ coupled/VBN with/IN the/DT technical/JJ genius/NN of/IN founder/NN Jerry/NNP Yang/NNP has/VBZ proved/VBN a/DT winning/VBG combination/NN he/PRP says./VB
+
+So/RB as/IN the/DT internet/JJ giant/JJ emerges/NNS from/IN its/PRP$ first/JJ decade/NN as/IN a/DT survivor/NN how/WRB will/MD it/PRP fare/NN as/IN it/PRP enters/VBZ its/PRP$ teenage/JJ years?/NN "The/NN game/NN is/VBZ theirs/PRP to/TO lose/VB and/CC MSN/NNP is/VBZ the/DT only/JJ one/CD that/WDT stands/VBZ in/IN the/DT way/NN of/IN Yahoo's/NNP domination"/NN predicted/VBD Mr/NNP Weiner./NNP
+Nick/NNP Hazel/NNP Yahoo's/NNP head/NN of/IN consumer/NN services/NNS in/IN the/DT UK/NNP thinks/VBZ the/DT fact/NN that/IN Yahoo/NNP has/VBZ grown/VBN up/RP with/IN the/DT first/JJ wave/NN of/IN the/DT internet/JJ generation/NN will/MD stand/VB it/PRP in/IN good/JJ stead./NN
+Search/NN will/MD be/VB a/DT key/JJ focus/NN as/IN will/MD making/VBG Yahoo/NNP Messenger/NN available/JJ on/IN mobiles/NNS forging/VBG new/JJ broadband/NN partnerships/NNS such/JJ as/IN that/DT with/IN BT/NNP in/IN the/DT UK/NNP and/CC continuing/VBG to/TO provide/VB a/DT range/NN of/IN services/NNS beyond/IN the/DT desktop/NN he/PRP says./VB
+Mr/NNP Weiner/NNP thinks/VBZ Yahoo's/NNP vision/NN of/IN becoming/VBG the/DT ultimate/JJ gateway/NN to/TO the/DT web/NN will/MD move/VB increasing/VBG towards/IN movies/NNS and/CC television/NN as/IN more/JJR and/CC more/JJR people/NNS get/VBP broadband/NN access./NN
+"It/NN will/MD spread/VB its/PRP$ portal/JJ wings/NNS to/TO expand/VB into/IN rich/JJ media"/NN he/PRP predicts./VB

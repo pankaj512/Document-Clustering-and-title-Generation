@@ -1,0 +1,18 @@
+Peers/VBZ debate/NN Crown/NNP succession/NN law/NN
+
+Peers/NNS are/VBP debating/VBG proposals/NNS to/TO change/VB the/DT rules/NNS governing/VBG the/DT succession/NN to/TO the/DT throne./NN
+
+Labour/NNP peer/VB Lord/NNP Dubs'/NNP Succession/NN to/TO the/DT Crown/NNP Bill/NNP aims/VBZ to/TO end/VB the/DT right/NN of/IN male/JJ heirs/NNS to/TO succeed/VB to/TO the/DT crown/NN even/RB if/IN they/PRP have/VBP an/DT older/JJR sister./NN
+The/DT private/JJ member's/NNS bill/NN would/MD also/RB abolish/VB the/DT ban/NN on/IN heirs/NNS to/TO the/DT throne/NN marrying/VBG Roman/NNP Catholics./NNP
+The/DT Fabian/NNP Society's/NNP Sundar/NNP Katwala/NNP said/VBD the/DT change/NN was/VBD "long/NN overdue"/NN and/CC that/IN he/PRP expected/VBD a/DT "warm/NN response"./NN
+The/DT political/JJ reform/NN group's/NNS general/JJ secretary/NN told/VBD BBC/NNP Radio/NNP 4's/CD Today/NN Programme/NNP there/EX were/VBD some/DT "very/NN out-dated/JJ features"/NN at/IN the/DT heart/NN of/IN Britain's/NNP constitution./NN
+
+"In/NN 1998/CD the/DT government/NN said/VBD in/IN principle/NN it/PRP supported/VBD the/DT idea/NN of/IN ending/VBG gender/NN discrimination/NN and/CC that/IN it/PRP would/MD consult/VB on/IN how/WRB to/TO come/VB forward/RB with/IN its/PRP$ own/JJ measures./NN
+"We/NN hope/NN they/PRP are/VBP warm/JJ towards/IN it/PRP and/CC don't/NN say/VBP this/DT is/VBZ the/DT wrong/JJ time."/NN He/PRP pointed/VBD out/RP that/IN it/PRP was/VBD 30/CD years/NNS since/IN the/DT sex/NN discrimination/NN act/NN and/CC urged/VBD politicians/NNS on/IN all/DT sides/NNS to/TO back/VB the/DT bill./NN
+Mr/NNP Katwala/NNP added/VBD "This/NN is/VBZ long/RB overdue./NN
+Parliament/NNP will/MD have/VB to/TO do/VB it/PRP eventually/RB the/DT government/NN and/CC I/PRP hope/VBP all/DT of/IN the/DT political/JJ parties/NNS might/MD think/VB this/DT is/VBZ a/DT very/RB simple/JJ thing/NN to/TO have/VB in/IN their/PRP$ manifestos."/NN
+
+But/CC he/PRP acknowledged/VBD that/IN even/RB if/IN the/DT bill/NN did/VBD win/VB support/NN it/PRP was/VBD unlikely/JJ to/TO become/VB law/NN because/IN the/DT legislative/JJ programme/NN is/VBZ likely/JJ to/TO be/VB squeezed/VBN by/IN the/DT coming/VBG general/JJ election./NN
+He/PRP said/VBD he/PRP hoped/VBD the/DT bill/NN would/MD be/VB a/DT "gentle/NN nudge"/NN to/TO the/DT government/NN and/CC suggested/VBD it/PRP would/MD "demand/VB a/DT response"./NN
+The/DT bill/NN which/WDT is/VBZ in/IN the/DT Lords/NNPS for/IN its/PRP$ second/JJ reading/NN has/VBZ been/VBN adopted/VBN by/IN former/JJ chief/JJ whip/NN Ann/NNP Taylor/NNP in/IN the/DT Commons./NNP
+The/DT rule/NN of/IN succession/NN is/VBZ regulated/VBN not/RB only/RB through/IN descent/NN and/CC tradition/NN but/CC also/RB by/IN the/DT Act/NNP of/IN Settlement/NNP which/WDT confirmed/VBD in/IN 1701/CD that/IN it/PRP was/VBD for/IN Parliament/NNP to/TO determine/VB the/DT title/NN to/TO the/DT throne./NN

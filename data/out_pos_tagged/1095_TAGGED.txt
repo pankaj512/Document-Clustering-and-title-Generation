@@ -1,0 +1,25 @@
+Game/NN warnings/NNS 'must/NN be/VB clearer'/NN
+
+Violent/JJ video/NN games/NNS should/MD carry/VB larger/JJR warnings/NNS so/IN parents/NNS can/MD understand/VB what/WP their/PRP$ children/NNS are/VBP playing/VBG the/DT trade/NN and/CC industry/NN secretary/NN has/VBZ said./NN
+
+Patricia/NNP Hewitt/NNP is/VBZ expected/VBN to/TO call/VB for/IN the/DT law/NN banning/VBG the/DT sale/NN of/IN 18-rated/JJ games/NNS to/TO children/NNS to/TO be/VB enforced/VBN better/JJR at/IN a/DT games/NNS industry/NN meeting/NN on/IN Sunday./NNP
+She/PRP is/VBZ concerned/VBN too/RB many/JJ children/NNS are/VBP playing/VBG games/NNS aimed/VBN at/IN adults/NNS which/WDT include/VBP "high/NN levels/NNS of/IN violence"./NN
+Parents/NNS are/VBP expected/VBN to/TO spend/VB millions/NNS on/IN video/NN games/NNS as/IN Christmas/NNP presents./NN
+
+Violent/JJ games/NNS have/VBP been/VBN hit/VBN by/IN controversy/NN after/IN the/DT game/NN Manhunt/NNP was/VBD blamed/VBN by/IN the/DT parents/NNS of/IN 14-year-old/JJ Stefan/NNP Pakeerah/NNP who/WP was/VBD stabbed/VBN to/TO death/NN in/IN Leicester/NNP in/IN February./NNP
+His/PRP$ mother/NN Giselle/NNP said/VBD her/PRP$ son's/NNS killer/NN Warren/NNP Leblanc/NNP 17/CD -/: who/WP was/VBD jailed/VBN for/IN life/NN in/IN September/NNP -/: had/VBD mimicked/VBN behaviour/NN in/IN the/DT game./NN
+Police/NNP investigating/VBG the/DT Stefan's/NNP murder/NN dismissed/VBD its/PRP$ influence/NN and/CC Manhunt/NNP was/VBD not/RB part/NN of/IN its/PRP$ legal/JJ case./NN
+Ahead/RB of/IN Sunday's/NNP meeting/NN in/IN London/NNP Ms/NNP Hewitt/NNP said/VBD she/PRP was/VBD proud/JJ of/IN the/DT UK's/NNP "vibrant/NN games/NNS industry"/NN but/CC was/VBD concerned/VBN too/RB many/JJ children/NNS were/VBD playing/VBG games/NNS which/WDT should/MD only/RB be/VB sold/VBN to/TO adults./VB
+Roger/NNP Bennett/NNP head/NN of/IN gaming/NN industry/NN body/NN ELSPA/NNP said/VBD banning/VBG violent/JJ games/NNS would/MD be/VB wrong./NN
+He/PRP said/VBD "We/NN don't/NN want/VBP to/TO go/VB down/RP that/DT route./NN
+We/PRP have/VBP seen/VBN that/IN the/DT government/NN is/VBZ supportive/JJ of/IN the/DT industry."/NN The/DT government/NN is/VBZ holding/VBG a/DT further/JJ meeting/NN on/IN Friday/NNP with/IN industry/NN and/CC retail/JJ representatives/NNS as/RB well/RB as/IN the/DT British/NNP Board/NNP of/IN Film/NNP Classification/NN to/TO discuss/VB how/WRB labelling/VBG can/MD be/VB made/VBN clearer./NN
+Ms/NNP Hewitt/NNP said/VBD "Adults/NN should/MD be/VB treated/VBN as/IN adults/NNS and/CC children/NNS as/IN children./NN
+It/PRP is/VBZ important/JJ that/IN retailers/NNS respect/VBP the/DT classifications/NNS and/CC do/VBP not/RB sell/VB games/NNS with/IN high/JJ levels/NNS of/IN violence/NN to/TO minors./VB
+
+"Equally/RB parents/NNS need/VBP to/TO know/VB what/WP they/PRP might/MD be/VB buying/NN for/IN their/PRP$ children./NN
+"Video/NN games/NNS are/VBP different/JJ to/TO films/NNS or/CC videos/NNS and/CC not/RB all/DT parents/NNS have/VBP grown/VBN up/RP playing/VBG games/NNS in/IN the/DT way/NN our/PRP$ children/NNS do./NN
+"We/NN need/VBP to/TO look/VB carefully/RB at/IN how/WRB we/PRP improve/VBP content/NN warnings/NNS and/CC strengthen/VB sales/NNS enforcement."/NN Her/PRP$ call/NN was/VBD backed/VBN by/IN Culture/NNP Media/NNP and/CC Sport/NNP Secretary/NNP Tessa/NNP Jowell/NNP who/WP said/VBD "You/NN wouldn't/NN let/NN your/PRP$ child/NN watch/VBP the/DT Texas/NNP Chainsaw/NNP Massacre./NNP
+You/PRP wouldn't/VBP let/NN them/PRP go/VB to/TO a/DT strip/NN club./NN
+"So/NN you/PRP shouldn't/VBP let/NN them/PRP play/VB an/DT 18-rated/JJ game./NN
+It's/VBG the/DT same/JJ principle/NN -/: adults/NNS can/MD make/VB their/PRP$ own/JJ informed/VBN choices/NNS but/CC children/NNS can't/NN always/RB and/CC need/VBP to/TO be/VB protected."/NN Anyone/NN convicted/VBN of/IN selling/VBG an/DT 18-rated/JJ game/NN to/TO a/DT child/NN can/MD be/VB jailed/VBN for/IN six/CD months/NNS and/CC fined/VBN up/IN to/TO £5000./CD
+Rockstar/NNP Games/NNPS the/DT makers/NNS of/IN Manhunt/NNP has/VBZ said/VBN in/IN the/DT past/JJ it/PRP markets/VBZ its/PRP$ games/NNS responsibly/RB and/CC only/JJ targets/VBZ its/PRP$ adverts/NNS at/IN adults./NN

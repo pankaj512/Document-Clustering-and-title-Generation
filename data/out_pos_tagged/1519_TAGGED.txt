@@ -1,0 +1,17 @@
+Anelka/NNP 'eyes/NN Man/NN City/NNP departure'/NN
+
+Striker/NNP Nicolas/NNP Anelka/NNP reportedly/RB wants/VBZ to/TO leave/VB Manchester/NNP City/NNP in/IN search/NN of/IN Champions/NNS League/NNP football./NN
+
+Anelka/NNP 25/CD is/VBZ in/IN talks/NNS over/IN a/DT contract/NN extension/NN beyond/IN 2007/CD with/IN City/NNP but/CC is/VBZ believed/VBN to/TO fear/VB his/PRP$ career/NN will/MD go/VB stale/JJ if/IN he/PRP stays/VBZ at/IN the/DT club./NN
+The/DT News/NNP of/IN the/DT World/NNP reports/NNS that/IN Anelka/NNP told/VBD a/DT French/JJ magazine/NN "I/NN either/CC decide/VB to/TO win/VB titles/NNS or/CC to/TO have/VB an/DT easy/JJ life./NN
+"I/NN think/VBP I/PRP will/MD always/RB choose/VB football/NN if/IN a/DT great/JJ club/NN makes/VBZ me/PRP an/DT offer."/NN He/PRP added/VBD "To/NN win/NN titles/NNS you/PRP need/VBP players/NNS who/WP have/VBP the/DT capability/NN of/IN doing/VBG so./NN
+If/IN we/PRP stagnate/VBP between/IN eighth/JJ and/CC 15th/JJ place/NN it's/NNS impossible/JJ to/TO progress./VB
+"If/NN I/PRP am/VBP going/VBG to/TO score/VB goals/NNS and/CC not/RB win/VB there/EX is/VBZ a/DT risk/NN it/PRP is/VBZ going/VBG to/TO create/VB a/DT feeling/NN of/IN being/VBG fed/VBN up."/NN Anelka/NNP has/VBZ earned/VBN a/DT reputation/NN for/IN being/VBG a/DT difficult/JJ character/NN to/TO handle/VB after/IN spells/NNS at/IN Arsenal/NN Real/JJ Madrid/NNP and/CC Paris/NNP St/NNP Germain/NNP and/CC he/PRP feels/VBZ that/DT is/VBZ now/RB coming/VBG back/RB to/TO haunt/VB him./NN
+
+"I/NN am/VBP in/IN talks/NNS to/TO sign/VB an/DT extension/NN to/TO my/PRP$ contract"/NN he/PRP said./VB
+"I/NN am/VBP well/RB here/RB but/CC the/DT sporting/VBG aspect/NN also/RB comes/VBZ into/IN account./NN
+"Playing/VBG for/IN eighth/JJ place/NN is/VBZ good/JJ but/CC I/PRP miss/VBP the/DT Champions/NNS League./NNP
+"I/NN won/VBD it/PRP with/IN Real/JJ Madrid/NNP in/IN 2000/CD and/CC I/PRP need/VBP to/TO be/VB playing/VBG in/IN it/PRP -/: and/CC I/PRP should/MD be/VB playing/VBG in/IN it./NN
+"I'm/NN not/RB in/IN it/PRP because/IN of/IN things/NNS that/WDT have/VBP happened/VBN in/IN the/DT past/JJ and/CC had/VBD nothing/NN to/TO do/VB with/IN football./NN
+"But/NN I/PRP don't/VBP blame/NN anyone./NN
+It's/VBG a/DT bit/NN my/PRP$ fault."/NN

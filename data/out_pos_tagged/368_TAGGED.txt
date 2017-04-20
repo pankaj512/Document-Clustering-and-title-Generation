@@ -1,0 +1,16 @@
+Warning/NN over/IN US/PRP pensions/VBZ deficit/NN
+
+Taxpayers/NNS may/MD have/VB to/TO bail/VB out/RP the/DT US/PRP agency/VBP that/DT protects/VBZ workers'/NN pension/NN funds/NNS leading/VBG economists/NNS have/VBP warned./NN
+
+With/IN the/DT Pension/NNP Benefit/NNP Guaranty/NNP Corporation/NNP (PBGC)/NN some/DT £23bn/CD (£12m)/CD in/IN deficit/NN the/DT Financial/NNP Economists/NNS Roundtable/NNP (FER)/NN wants/VBZ Congress/NNP to/TO act./VB
+Instead/RB of/IN taxpayers/NNS having/VBG to/TO pick/VB up/RP the/DT bill/NN the/DT FER/NNP wants/VBZ Congressmen/NNS to/TO change/VB the/DT PBGC's/NNP funding/NN rules./NN
+The/DT FER/NNP says/VBZ firms/NNS should/MD not/RB have/VB been/VBN allowed/VBN to/TO reduce/VB the/DT insurance/NN premiums/NNS they/PRP pay/VBP into/IN the/DT PBGC/NNP fund./NN
+The/DT FER/NNP blames/VBZ this/DT on/IN a/DT 2004/CD law/NN in/IN a/DT statement/NN signed/VBN by/IN several/JJ members/NNS who/WP include/VBP Nobel/NNP economics/NNS laureate/NN William/NNP Sharpe./NNP
+It/PRP said/VBD it/PRP was/VBD "dismayed"/NN at/IN the/DT situation/NN and/CC wants/VBZ Congress/NNP to/TO overturn/VB the/DT legislation./NN
+
+Cash-strapped/JJ US/PRP companies/VBZ including/VBG those/DT in/IN the/DT airline/NN car-making/JJ and/CC steel/NN industries/NNS had/VBD argued/VBN in/IN favour/NN of/IN the/DT 2004/CD rule/NN change/NN claiming/VBG that/DT funding/VBP the/DT insurance/NN premiums/NNS adequately/RB would/MD force/VB them/PRP to/TO have/VB to/TO cut/VB jobs./NN
+"With/NN a/DT little/JJ firmer/JJR hand/NN on/IN the/DT pensions/NNS issues/NNS in/IN the/DT US/PRP I/PRP think/VBP that/IN Congress/NNP could/MD avoid/VB having/VBG to/TO turn/VB to/TO the/DT taxpayer/NN and/CC instead/RB turn/VB the/DT obligations/NNS back/RB onto/IN the/DT companies/NNS that/WDT deserve/VBP to/TO pay/VB them"/NN said/VBD Professor/NNP Dennis/NNP Logue/NNP dean/NN of/IN Price/NNP College/NNP of/IN Business/NNP at/IN the/DT University/NNP of/IN Oklahoma./NNP
+The/DT PBGC/NNP was/VBD founded/VBN in/IN 1974/CD to/TO protect/VB workers'/NN retirement/NN rights./NN
+Its/PRP$ most/RBS recent/JJ action/NN came/VBD last/JJ week/NN when/WRB it/PRP took/VBD control/NN of/IN the/DT pilots'/NN pension/NN scheme/NN at/IN United/NNP Airlines./NNP
+With/IN United/NNP battling/VBG bankruptcy/NN the/DT carrier/NN had/VBD wanted/VBN to/TO use/VB the/DT money/NN set/VBN aside/RB for/IN pensions/NNS to/TO finance/VB running/VBG costs./NN
+The/DT company/NN has/VBZ an/DT estimated/VBN $2.9bn/CD hole/NN in/IN its/PRP$ pilots'/NN pension/NN scheme/NN which/WDT the/DT PBGC/NNP will/MD now/RB guarantee./VB

@@ -1,0 +1,28 @@
+Ebbers/NNP 'aware'/NN of/IN WorldCom/NNP fraud/NN
+
+Former/NNP WorldCom/NNP boss/NN Bernie/NNP Ebbers/NNP was/VBD directly/RB involved/VBN in/IN the/DT $11bn/CD financial/JJ fraud/NN at/IN the/DT firm/NN his/PRP$ closest/JJS associate/JJ has/VBZ told/VBN a/DT US/PRP court./VBP
+
+Giving/VBG evidence/NN in/IN the/DT criminal/JJ trial/NN of/IN Mr/NNP Ebbers/NNP ex-finance/NN chief/NN Scott/NNP Sullivan/NNP implicated/VBD his/PRP$ colleague/NN in/IN the/DT accounting/NN scandal/NN at/IN the/DT firm./NN
+Mr/NNP Sullivan/NNP WorldCom's/NNP former/JJ number/NN two/CD is/VBZ the/DT government's/NNS chief/JJ witness/NN in/IN its/PRP$ case/NN against/IN Mr/NNP Ebbers./NNP
+Mr/NNP Ebbers/NNP has/VBZ denied/VBN multiple/JJ charges/NNS of/IN conspiracy/NN and/CC fraud./NN
+
+Senior/NNP WorldCom/NNP executives/NNS are/VBP accused/VBN of/IN orchestrating/VBG a/DT huge/JJ fraud/NN at/IN the/DT former/JJ telecoms/NNS company/NN in/IN which/WDT they/PRP exaggerated/VBD revenues/NNS and/CC hid/VBD the/DT cost/NN of/IN expenses./NN
+The/DT firm/NN was/VBD forced/VBN into/IN bankruptcy/NN the/DT largest/JJS in/IN US/PRP history./VBP
+Mr/NNP Sullivan/NNP 42/CD pleaded/VBD guilty/JJ to/TO fraud/VB last/JJ year/NN and/CC agreed/VBD to/TO assist/VB the/DT government/NN with/IN its/PRP$ case/NN against/IN Mr/NNP Ebbers./NNP
+
+Prosecutors/NNS have/VBP alleged/VBN that/IN Mr/NNP Ebbers/NNP 63/CD directed/VBN Mr/NNP Sullivan/NNP to/TO hide/VB the/DT true/JJ state/NN of/IN the/DT company's/NNS finances/NNS by/IN providing/VBG false/JJ information/NN to/TO the/DT firm's/NNS accountants./NN
+Mr/NNP Ebbers/NNP has/VBZ denied/VBN all/PDT the/DT charges/NNS saying/VBG he/PRP was/VBD unaware/JJ of/IN the/DT fraud./NN
+His/PRP$ lawyers/NNS claim/VBP that/IN their/PRP$ client/NN was/VBD unfamiliar/JJ with/IN detailed/JJ accounting/NN practices/NNS and/CC left/VBN that/DT side/NN of/IN the/DT business/NN to/TO Mr/NNP Sullivan./NNP
+
+However/RB on/IN Monday/NNP Mr/NNP Sullivan/NNP named/VBD Mr/NNP Ebbers/NNP as/IN one/CD of/IN five/CD executives/NNS who/WP participated/VBD in/IN the/DT accounting/NN fraud./NN
+"He/NN [Ebbers]/NN has/VBZ got/VBD a/DT hands-on/JJ grasp/NN of/IN financial/JJ information"/NN Mr/NNP Sullivan/NNP told/VBD a/DT New/NNP York/NNP court./NN
+On/IN his/PRP$ first/JJ day/NN of/IN questioning/VBG Mr/NNP Sullivan/NNP admitted/VBD to/TO falsifying/VBG the/DT company's/NNS financial/JJ statements./NN
+
+"We/NN did/VBD not/RB disclose/VB these/DT adjustments"/NN he/PRP said./VB
+"We/NN did/VBD not/RB talk/VB about/IN these/DT adjustments/NNS and/CC the/DT information/NN was/VBD false."/NN Mr/NNP Sullivan/NNP said/VBD his/PRP$ former/JJ boss/NN knew/VBD more/JJR about/IN accounting/NN matters/NNS than/IN many/JJ chief/JJ financial/JJ officers/NNS and/CC described/VBD him/PRP as/IN "detail-oriented"./JJ
+
+He/PRP portrayed/VBD Mr/NNP Ebbers/NNP a/DT charismatic/JJ businessman/NN who/WP built/VBD up/RP WorldCom/NNP from/IN a/DT small/JJ regional/JJ operator/NN into/IN one/CD of/IN America's/NNP largest/JJS telecoms/NNS firms/NNS as/IN obsessed/VBN with/IN costs./NN
+"He/NN would/MD talk/VB about/IN that/DT there/EX were/VBD more/JJR coffee/NN filters/NNS than/IN coffee/NN bags/NNS and/CC that/DT means/VBZ employees/NNS are/VBP taking/VBG coffee/NN home"/NN he/PRP said./VB
+"We/NN needed/VBN to/TO cut/VB expenses./NN
+We/PRP needed/VBD to/TO cut/VB a/DT lot/NN more/JJR than/IN coffee/NN expenses."/NN Mr/NNP Sullivan/NNP is/VBZ at/IN the/DT centre/NN of/IN the/DT government's/NNS case/NN against/IN Mr/NNP Ebbers./NNP
+Mr/NNP Ebbers/NNP could/MD face/VB a/DT sentence/NN of/IN 85/CD years/NNS if/IN convicted/VBN of/IN all/PDT the/DT charges/NNS he/PRP is/VBZ facing./NN

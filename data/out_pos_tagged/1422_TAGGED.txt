@@ -1,0 +1,43 @@
+Hearts/NNS 2-1/JJ Livingston/NNP
+
+Hearts/NNS wrapped/VBD up/RP their/PRP$ Scottish/NNP Cup/NNP quarter-final/JJ tie/NN against/IN Livingston/NNP with/IN two/CD goals/NNS in/IN the/DT first/JJ 10/CD minutes./NN
+
+Lee/NNP Miller/NNP scored/VBD inside/IN the/DT opening/NN 60/CD seconds/NNS heading/VBG over/IN Colin/NNP Meldrum/NNP and/CC into/IN the/DT net/NN from/IN a/DT Jamie/NNP McAllister/NNP free/JJ kick./NN
+McAllister/NNP himself/PRP scored/VBD the/DT second/JJ when/WRB he/PRP met/VBD Saul/NNP Mikoliunas'/NNP cross/VB at/IN the/DT back/JJ post/NN to/TO put/VB the/DT game/NN beyond/IN the/DT visitors./NN
+Craig/NNP Easton/NNP headed/VBD in/IN a/DT controversial/JJ goal/NN after/IN an/DT hour/NN but/CC Hearts/NNPS held/VBD on./NN
+The/DT opening/NN goal/NN came/VBD after/IN Gus/NNP Bahoken/NNP had/VBD clumsily/RB fouled/VBN Miller/NNP 35/CD yards/NNS from/IN goal./NN
+McAllister/NNP floated/VBD the/DT free/JJ kick/VBP into/IN the/DT Livi/NNP box/NN and/CC Miller/NNP outjumped/VBD the/DT static/JJ visiting/NN defence/NN to/TO loop/VB his/PRP$ header/NN from/IN 10/CD yards/NNS over/IN Meldrum./NNP
+With/IN just/RB 10/CD minutes/NNS on/IN the/DT clock/NN the/DT home/NN side/NN doubled/VBD their/PRP$ lead./NN
+Mikoliunas/NNP sprinted/VBD down/RP the/DT right/NN crossed/VBN to/TO the/DT back/JJ post/NN where/WRB McAllister/NNP raced/VBD in/RP to/TO head/VB past/IN Meldrum./NNP
+Moments/NNS later/RB Miller/NNP came/VBD close/RB to/TO grabbing/VBG his/PRP$ second/NN with/IN a/DT first-time/JJ drive/NN from/IN 16/CD yards/NNS which/WDT skimmed/VBD the/DT bar./NN
+
+Then/RB McAllister/NNP picked/VBD up/RP a/DT pass/NN from/IN Stephen/NNP Simmons/NNP and/CC drove/VBD an/DT angled/VBN shot/NN from/IN 20/CD yards/NNS narrowly/RB past/JJ Meldrum's/NNP far/RB post./NN
+The/DT impressive/JJ Mikoliunas/NNP twice/RB went/VBD close/VB before/IN half/JJ time/NN -/: a/DT low/JJ drive/NN was/VBD comfortably/RB gathered/VBN by/IN Meldrum/NNP and/CC then/RB he/PRP curled/VBD a/DT left-footed/JJ shot/NN past/IN the/DT keeper's/NNS right-hand/JJ post./NN
+Livi/NNP manager/NN Richard/NNP Gough/NNP made/VBD three/CD changes/NNS at/IN the/DT interval/JJ bringing/NN on/IN defender/NN Goran/NNP Stanic/NNP midfielder/NN Gabor/NNP Vincze/NNP and/CC striker/NN Ferenc/NNP Horvath/NNP for/IN Bahoken/NNP Derek/NNP Lilley/NNP and/CC Mark/NNP Wilson./NNP
+But/CC in/IN the/DT opening/NN stages/NNS of/IN the/DT second/JJ period/NN little/JJ changed./NN
+However/RB the/DT West/NNP Lothian/NNP side/NN gave/VBD themselves/PRP a/DT lifeline/NN with/IN a/DT controversial/JJ goal./NN
+Eric/NNP Deloumeaux/NNP sent/VBD Jason/NNP Dair/NNP away/RB on/IN the/DT right/NN and/CC he/PRP tried/VBD to/TO give/VB the/DT ball/NN to/TO McPake/NNP who/WP looked/VBD to/TO be/VB in/IN an/DT offside/NN position./NN
+The/DT Livi/NNP striker/NN ignored/VBD the/DT pass/NN however/RB and/CC Dair/NNP ran/VBD on/RP to/TO it/PRP and/CC played/VBD Easton/NNP in/IN at/IN the/DT back/JJ post/NN and/CC he/PRP headed/VBD home/NN from/IN close/NN range./NN
+The/DT home/NN side/NN called/VBN for/IN offside/NN against/IN McPake/NNP but/CC referee/NN Alan/NNP Freeland/NNP ignored/VBD their/PRP$ claims/NNS and/CC pointed/VBD to/TO the/DT centre-circle./JJ
+Livi/NNP went/VBD all/DT out/RP for/IN the/DT equaliser./NN
+In/IN the/DT 87th/JJ minute/NN Burton/NNP O'Brien/NNP was/VBD hauled/VBN back/RB at/IN the/DT edge/NN of/IN the/DT box/NN by/IN Neil/NNP MacFarlane/NNP but/CC Dair/NNP sent/VBD his/PRP$ shot/NN just/RB inches/VBZ wide./NN
+
+Gordon/NNP Webster/NNP Miller/NNP Hartley/NNP Neilson/NNP McAllister/NNP Simmons/NNP (MacFarlane/NN 64)/CD Berra/NNP Burchill/NNP (Wyness/NN 82)/CD Mikoliunas/NNP (Cesnauskis/NN 77)/CD Wallace./NNP
+
+Moilanen/NNP Kizys./NNP
+
+Berra/NNP Webster./NNP
+
+Miller/NNP 1/CD McAllister/NNP 10./CD
+
+Meldrum/NNP McNamee/NNP Bahoken/NNP (Stanic/JJ 45)/CD Deloumeaux/NNP Strong/JJ Dair/NNP Easton/NNP Mark/NNP Wilson/NNP (Vincze/NN 45)/CD Lilley/NNP (Horvath/NN 45)/CD O'Brien/NNP McPake./NNP
+
+McKenzie/NNP Hand./NNP
+
+Vincze/NNP Horvath./NNP
+
+Easton/NNP 60./CD
+
+9796/CD
+
+A/DT Freeland/NNP

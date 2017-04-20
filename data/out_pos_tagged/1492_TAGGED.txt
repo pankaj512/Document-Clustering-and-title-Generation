@@ -1,0 +1,55 @@
+Blackburn/NNP v/NN Burnley/NNP
+
+Ewood/NNP Park/NNP
+
+Tuesday/NNP 1/CD March/NNP
+
+2000/CD GMT/NNP
+
+Howard/NNP Webb/NNP (South/NN Yorkshire)/NNP
+
+home/NN to/TO Leicester/NNP in/IN the/DT quarter-finals/NNS
+
+But/CC defender/NN Andy/NNP Todd/NNP is/VBZ suspended/VBN and/CC could/MD be/VB replaced/VBN by/IN Dominic/NNP Matteo/NNP -/: if/IN he/PRP recovers/VBZ from/IN a/DT hamstring/VBG injury./NN
+Burnley/NNS have/VBP major/JJ injury/NN concerns/NNS over/IN Frank/NNP Sinclair/NNP and/CC John/NNP McGreal./NNP
+Michael/NNP Duff/NNP looks/VBZ set/VBN to/TO continue/VB at/IN right-back/JJ with/IN John/NNP Oster/NNP in/IN midfield/NN and/CC Micah/NNP Hyde/NNP is/VBZ expected/VBN to/TO recover/VB from/IN a/DT knee/NN injury./NN
+
+-/: Blackburn/NNP boss/NN Mark/NNP Hughes/NNP "Burnley/NN are/VBP resolute/NN and/CC have/VBP individual/JJ talent/NN but/CC I/PRP fully/RB expect/VBP us/PRP to/TO progress./VB
+"I/NN thought/VBD we/PRP were/VBD comfortable/JJ in/IN the/DT first/JJ game/NN and/CC never/RB thought/VBD we/PRP were/VBD under/IN pressure./NN
+"It's/NN a/DT competition/NN we/PRP want/VBP to/TO progress/VB in/IN and/CC we/PRP are/VBP doing/VBG okay./NN
+If/IN we/PRP beat/VBP Burnley/NNP we/PRP have/VBP a/DT home/NN tie/NN against/IN another/DT lower/JJR league/NN club/NN (Leicester)."/NN
+-/: Burnley/NNP boss/NN Steve/NNP Cotterill/NNP "They/NN will/MD be/VB fresh/JJ and/CC we'll/NN be/VB tired./NN
+That/DT is/VBZ an/DT honest/JJ opinion/NN but/CC our/PRP$ lads/NNS just/RB might/MD be/VB able/JJ to/TO get/VB themselves/PRP up/RP for/IN one/CD more/JJR big/JJ game./NN
+"The/NN atmosphere/NN at/IN the/DT last/JJ game/NN was/VBD very/RB hot/JJ -/: a/DT good/JJ verbal/JJ contest./NN
+"Our/NN fans/NNS will/MD not/RB need/VB whipping/JJ up/RP for/IN this/DT game./NN
+I/PRP just/RB want/VBP them/PRP to/TO help/VB us/PRP as/RB much/RB as/IN they/PRP can/MD in/IN a/DT positive/JJ way."/NN KEY/JJ MATCH/NN STATS/NNP
+-/: BLACKBURN/NNP ROVERS/NNP against/IN Bolton/NNP is/VBZ part/NN two/CD of/IN an/DT East/NNP Lancashire/NNP hotpot/NN that/DT didn't/NN turn/VB out/RP to/TO be/VB that/DT spicy/NN when/WRB first/RB staged/VBD on/IN a/DT Sunday/NNP lunchtime/NN the/DT weekend/NN before/IN last/JJ and/CC resulted/VBD in/IN a/DT scrappy/JJ goalless/JJ draw./NN
+
+-/: Rovers/NNP who/WP are/VBP aiming/VBG to/TO win/VB the/DT Cup/NNP for/IN a/DT seventh/JJ time/NN in/IN their/PRP$ history/NN and/CC first/JJ time/NN in/IN 77/CD years/NNS face/VBP another/DT replay/NN against/IN Championship/NNP opposition/NN after/IN eventually/RB disposing/VBG of/IN Cardiff/NNP at/IN Ewood/NNP Park/NNP in/IN the/DT third/JJ round./NN
+But/CC they've/NN not/RB been/VBN beaten/VBN in/IN the/DT competition/NN by/IN a/DT club/NN outside/IN the/DT Premiership/NN for/IN nine/CD years/NNS since/IN Ipswich/NNP -/: then/RB in/IN the/DT second/JJ tier/NN -/: defeated/VBN them/PRP 0-1/JJ after/IN extra/JJ time/NN in/IN a/DT third/JJ round/NN replay/NN at/IN Ewood/NNP Park/NNP on/IN 16/CD January/NNP 1996./CD
+History/NN is/VBZ on/IN Rovers/NNP side./NN
+When/WRB they/PRP last/NN met/VBD their/PRP near/IN neighbours/NNS in/IN the/DT FA/NNP Cup/NNP 45/CD years/NNS ago/RB it/PRP also/RB required/VBD an/DT Ewood/NNP Park/NNP replay/NN which/WDT the/DT home/NN side/NN won/VBD 2-0/JJ and/CC when/WRB they/PRP last/NN met/VBD in/IN the/DT League/NNP Rovers/NNP did/VBD the/DT double./NN
+They/PRP first/RB won/VBD their/PRP$ Nationwide/NNP Division/NNP One/CD trip/NN to/TO Turf/VB Moor/NNP 0-2/JJ four/CD seasons/NNS ago/RB and/CC then/RB thrashed/VBN the/DT Clarets/NNPS on/IN home/NN soil/NN 5-0./JJ
+
+-/: Manager/NNP Mark/NNP Hughes/NNP who/WP won/VBD the/DT Cup/NNP four/CD times/NNS as/IN a/DT player/NN is/VBZ aiming/VBG to/TO steer/VB Rovers/NNP into/IN the/DT quarter-finals/NNS for/IN the/DT second/JJ time/NN in/IN 12/CD years/NNS and/CC first/JJ time/NN since/IN the/DT 2000/2001/CD season./NN
+Success/NN here/RB and/CC victory/NN home/NN to/TO Leicester/NNP in/IN the/DT next/JJ round/NN could/MD see/VB Rovers/NNP in/IN the/DT semi-finals/NNS without/IN having/VBG played/VBD Premiership/NN opposition./NN
+
+-/: BURNLEY/NNP make/VB the/DT eight/CD mile/NN journey/NN to/TO their/PRP$ fierce/JJ rivals/NNS determined/VBN to/TO send/VB Blackburn/NNP the/DT same/JJ way/NN as/IN Liverpool/NNP in/IN the/DT third/JJ round./NN
+But/CC having/VBG failed/VBD to/TO pull/VB off/RP another/DT shock/NN at/IN Turf/NN Moor/NNP it/PRP could/MD be/VB that/IN the/DT Championship/NNP outfit/NN -/: 17/CD places/NNS inferior/JJ on/IN the/DT League/NNP ladder/NN -/: have/VBP missed/VBN their/PRP$ best/JJS opportunity./NN
+Having/VBG said/VBN that/IN Burnley/NNP are/VBP yet/RB to/TO concede/VB a/DT goal/NN in/IN this/DT Cup/NNP run./NN
+
+-/: Steve/NNP Cotterills'/NNP Clarets/NNPS have/VBP been/VBN knocked/VBN out/RP in/IN the/DT fifth/JJ round/NN four/CD times/NNS in/IN the/DT last/JJ seven/CD years/NNS and/CC have/VBP made/VBN only/RB one/CD appearance/NN in/IN the/DT sixth/JJ round/NN in/IN 21/CD years./NN
+That/DT was/VBD in/IN the/DT season/NN before/IN last/JJ when/WRB they/PRP disposed/VBD of/IN Premiership/NN Fulham/NNP at/IN this/DT fifth/JJ round/NN stage./NN
+
+-/: While/IN Blackburn/NNP have/VBP not/RB played/VBN since/IN the/DT fifth/JJ round/NN tie/VB Burnley/NNP have/VBP had/VBN two/CD League/NNP outings/NNS away/RB from/IN home/NN drawing/VBG 1-1/JJ at/IN Derby/NNP and/CC losing/VBG 1-0/JJ at/IN Preston./NNP
+That/DT takes/VBZ their/PRP$ winless/JJ run/VBP to/TO four/CD games./NN
+The/DT combatants/NNS from/IN one-time/JJ prosperous/JJ mill/NN towns/NNS are/VBP both/DT founder/NN members/NNS of/IN the/DT Football/NNP League./NNP
+HEAD/NN TO/TO HEAD/VB
+
+16th/JJ PREM/NNP
+
+WINNERS/NNS (six/NN times)/NN
+
+13th/JJ Championship/NNP
+
+WINNERS/NNS (once)/NN

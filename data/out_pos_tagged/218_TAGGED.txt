@@ -1,0 +1,14 @@
+Absa/NNP and/CC Barclays/NNP talks/NNS continue/VBP
+
+South/NNP Africa/NNP biggest/JJS retail/JJ bank/NN Absa/NNP has/VBZ said/VBN it/PRP is/VBZ still/RB in/IN talks/NNS with/IN UK/NNP bank/NN Barclays/NNP over/IN the/DT sale/NN of/IN majority/NN stake/NN in/IN the/DT group./NN
+
+In/IN November/NNP Absa/NNP said/VBD it/PRP was/VBD close/RB to/TO striking/VB a/DT deal/NN with/IN Barclays./NNP
+But/CC the/DT group/NN said/VBD Barclays/NNP is/VBZ still/RB waiting/VBG for/IN the/DT approval/NN of/IN South/NNP Africa's/NNP banking/NN and/CC competition/NN authorities/NNS to/TO make/VB a/DT formal/JJ offer./NN
+Absa/NNP also/RB announced/VBD that/IN it/PRP expects/VBZ to/TO see/VB earnings/NNS grow/VBP by/IN 20-25%/JJ in/IN its/PRP$ current/JJ financial/JJ year./NN
+
+"Discussions/NN with/IN Barclays/NNP are/VBP continuing/VBG but/CC shareholders/NNS are/VBP advised/VBN that/IN no/DT agreement/NN has/VBZ been/VBN reached/VBN as/IN to/TO any/DT offer/NN being/VBG made/VBN by/IN Barclays/NNP to/TO acquire/VB a/DT majority/NN stake/NN in/IN Absa"/NNP Absa/NNP said/VBD in/IN a/DT statement./NN
+If/IN Barclays/NNP buys/VBZ a/DT stake/NN in/IN Absa/NNP it/PRP will/MD be/VB one/CD of/IN the/DT largest/JJS foreign/JJ investments/NNS in/IN South/NNP Africa/NNP in/IN recent/JJ years./NN
+Absa/NNP currently/RB has/VBZ a/DT market/NN value/NN of/IN about/IN $8.5bn/CD (£4.4bn)./CD
+Analysts/NNS said/VBD Absa's/NNP earnings/NNS forecast/NN was/VBD better/RBR than/IN expected./NN
+However/RB the/DT company/NN warned/VBD that/DT headline/NN earnings/NNS growth/NN would/MD be/VB trimmed/VBN by/IN about/IN four/CD percentage/NN points/NNS because/IN of/IN share/NN options/NNS for/IN a/DT black/JJ economic/JJ empowerment/NN transaction/NN and/CC a/DT staff/NN share/NN incentive/NN scheme./NN
+The/DT South/JJ African/JJ group/NN will/MD release/VB its/PRP$ results/NNS for/IN the/DT year/NN to/TO 31/CD March/NNP on/IN 30/CD May./NNP

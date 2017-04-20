@@ -1,0 +1,49 @@
+What/WP price/NN for/IN 'trusted/VBN PC/NN security'?/NN
+
+You/PRP can/MD now/RB buy/VB "trusted/VBN computers"/NN but/CC can/MD we/PRP really/RB trust/VBP the/DT PC/NN vendors/NNS asks/VBZ technology/NN analyst/NN Bill/NNP Thompson./NNP
+
+If/IN you/PRP have/VBP recently/RB bought/VBN an/DT IBM/NNP ThinkVantage/NNP computer/NN a/DT Dell/NNP Optiplex/NNP or/CC one/CD of/IN a/DT whole/JJ range/NN of/IN laptops/NNS from/IN Toshiba/NNP HP/Compaq/NNP or/CC Samsung/NNP then/RB you/PRP may/MD have/VB got/VBN more/JJR for/IN your/PRP$ money/NN than/IN you/PRP realised./VBP
+Inside/IN your/PRP$ shiny/JJ new/JJ PC/NN is/VBZ an/DT extra/JJ chip/NN called/VBD the/DT trusted/VBN platform/NN module/NN (TPM)/NN that/WDT can/MD be/VB used/VBN for/IN a/DT range/NN of/IN hardware-based/JJ security/NN features./NN
+Eventually/RB the/DT TPM/NNP will/MD be/VB built/VBN into/IN the/DT main/JJ processor/NN itself/PRP and/CC if/IN the/DT trusted/VBN computing/NN group/NN has/VBZ its/PRP$ way/NN then/RB you/PRP will/MD find/VB one/CD in/IN every/DT piece/NN of/IN hardware/NN you/PRP own/JJ from/IN mobile/JJ phones/NNS to/TO TV/VB set/VBD top/JJ boxes/NNS to/TO children's/NNS toys./NN
+But/CC for/IN the/DT moment/NN it/PRP is/VBZ a/DT separate/JJ piece/NN of/IN hardware/NN providing/VBG enhanced/VBN security/NN features/NNS to/TO programs/NNS that/WDT know/NN how/WRB to/TO use/VB them./NN
+And/CC as/IN part/NN of/IN a/DT well-designed/JJ network/NN system/NN it/PRP can/MD provide/VB a/DT lot/NN more/JJR security/NN than/IN we/PRP enjoy/VBP today./NN
+A/DT big/JJ advantage/NN of/IN the/DT TPM/NNP is/VBZ that/IN it/PRP is/VBZ hardware-based./JJ
+
+At/IN the/DT moment/NN most/JJS of/IN us/PRP rely/VBP on/IN software/NN to/TO keep/VB our/PRP$ information/NN safe/JJ and/CC secure./NN
+It/PRP might/MD be/VB password-protected/JJ user/NN accounts/NNS data/NNS encryption/NN programs/NNS or/CC a/DT firewall/NN but/CC it/PRP all/DT relies/VBZ on/IN program/NN code/NN running/VBG on/IN an/DT inherently/JJ insecure/NN processor./NN
+
+Hardware/NN security/NN is/VBZ less/RBR common/JJ even/RB if/IN it/PRP is/VBZ a/DT lot/NN safer./NN
+This/DT is/VBZ partly/RB because/IN it/PRP is/VBZ more/RBR expensive/JJ to/TO give/VB someone/NN a/DT smartcard/NN than/IN a/DT password/NN but/CC also/RB because/IN its/PRP$ more/JJR work/NN for/IN users/NNS systems/NNS administrators/NNS and/CC managers./NN
+As/IN a/DT result/NN we/PRP settle/VBP for/IN second/JJ best./NN
+So/RB when/WRB it/PRP comes/VBZ to/TO computer/NN security/NN trusted/VBN systems/NNS could/MD be/VB a/DT major/JJ step/NN forward./NN
+After/IN all/DT if/IN you/PRP have/VBP a/DT laptop/NN that/WDT will/MD only/RB run/VB programs/NNS that/WDT have/VBP been/VBN digitally/RB signed/VBD then/RB it/PRP will/MD be/VB a/DT lot/NN harder/RBR for/IN virus/NN writers/NNS to/TO get/VB their/PRP$ malicious/JJ code/NN to/TO run./VB
+And/CC if/IN all/DT your/PRP$ files/NNS are/VBP locked/VBN automatically/RB then/RB even/RB if/IN you/PRP get/VBP your/PRP$ computer/NN stolen/VBD your/PRP$ personal/JJ data/NNS will/MD be/VB safeguarded./NN
+At/IN the/DT moment/NN support/NN for/IN trusted/VBN hardware/NN is/VBZ not/RB built/VBN into/IN major/JJ operating/NN systems./NN
+Instead/RB you/PRP have/VBP to/TO use/VB special/JJ software/NN like/IN HP's/NNP ProtectTools/NNP or/CC Wave/NN Systems'/NNP Embassy./NNP
+This/DT provides/VBZ file/VB encryption/NN password/NN management/NN and/CC identity/NN protection/NN usually/RB for/IN business/NN users/NNS who/WP connect/VBP to/TO company/NN networks./NN
+Full/JJ support/NN for/IN the/DT trusted/VBN computing/NN specification/NN will/MD not/RB be/VB available/JJ from/IN Microsoft/NNP until/IN the/DT next/JJ release/NN of/IN Windows/NNS "Longhorn"./NN
+This/DT will/MD include/VB what/WP Microsoft/NNP in/IN a/DT typical/JJ act/NN of/IN obscurantism/NN calls/VBZ the/DT "Next/NN Generation/NNP Secure/VB Computing/NNP Base"/NNP and/CC it/PRP will/MD give/VB user-level/JJ programs/NNS access/NN to/TO the/DT trusted/VBN computing/NN hardware./NN
+When/WRB that/DT happens/VBZ we/PRP can/MD expect/VB to/TO see/VB a/DT lot/NN of/IN publicity/NN around/IN the/DT new/JJ capabilities/NNS and/CC no/DT doubt/NN the/DT Windows/NNS security/NN centre/NN will/MD encourage/VB users/NNS to/TO turn/VB on/IN their/PRP$ trusted/VBN computing/NN capability/NN just/RB as/IN they/PRP turn/VBP on/IN their/PRP$ firewall./NN
+However/RB there/EX is/VBZ a/DT downside/NN to/TO the/DT increased/VBN security/NN from/IN viruses/NNS spyware/NN and/CC data/NNS theft/NN that/IN this/DT will/MD provide./VB
+
+Because/IN the/DT trusted/VBN computing/NN base/NN is/VBZ also/RB used/VBN to/TO make/VB digital/JJ rights/NNS management/NN (DRM)/NN systems/NNS more/JJR secure/NN this/DT will/MD give/VB content/NN providers/NNS a/DT lot/NN more/JJR control/NN over/IN what/WP we/PRP can/MD do/VB with/IN music/NN movies/NNS and/CC books/NNS that/IN we/PRP have/VBP bought/VBN from/IN them./NN
+We/PRP have/VBP seen/VBN recently/RB how/WRB allowing/VBG digital/JJ rights/NNS management/NN services/NNS into/IN our/PRP$ lives/NNS can/MD lead/VB to/TO unwelcome/JJ consequences./NN
+Users/NNS of/IN Apple's/NNP iTunes/NNS used/VBN to/TO be/VB able/JJ to/TO stream/VB the/DT music/NN they/PRP had/VBD brought/VBN to/TO up/IN to/TO five/CD other/JJ iTunes/NNS users/NNS a/DT great/JJ way/NN of/IN letting/VBG your/PRP$ mates/NNS discover/VBP your/PRP$ music/NN collection./NN
+
+But/CC the/DT latest/JJS version/NN of/IN iTunes/NNS limits/NNS this/DT capability/NN just/RB as/IN an/DT earlier/JJR upgrade/VB reduced/VBN the/DT number/NN of/IN times/NNS you/PRP could/MD burn/VB a/DT selected/VBN playlist/NN of/IN purchased/VBN songs/NNS to/TO a/DT CD./NNP
+Another/DT took/VBD away/RB the/DT ability/NN to/TO play/VB songs/NNS downloaded/VBN from/IN Real's/NNP Harmony/NN service/NN on/IN your/PRP$ iPod./NN
+Apple/NNP can/MD do/VB this/DT because/IN they/PRP wrote/VBD the/DT software/NN and/CC they/PRP control/VBP the/DT rights/NNS management./NN
+Once/RB it/PRP is/VBZ embedded/VBN in/IN trusted/VBN hardware/NN it/PRP will/MD be/VB even/RB harder/RBR for/IN dedicated/VBN programmers/NNS to/TO find/VB their/PRP$ way/NN around/IN these/DT restrictions/NNS and/CC give/VB us/PRP back/RP the/DT fair/JJ use/NN rights/NNS that/WDT should/MD be/VB guaranteed/VBN under/IN copyright/NN law./NN
+Similarly/RB users/NNS of/IN TiVo/NNP digital/JJ video/NN recorders/NNS have/VBP found/VBN that/IN they/PRP cannot/VBP record/NN some/DT shows/NNS and/CC other/JJ programmes/NNS that/IN they/PRP have/VBP recorded/VBN are/VBP automatically/RB deleted/VBN after/IN a/DT day./NN
+This/DT happens/VBZ because/IN of/IN changes/NNS that/IN TiVo/NNP have/VBP made/VBN to/TO their/PRP$ software/NN and/CC the/DT users/NNS cannot/NN control/NN it./NN
+One/CD wonders/VBZ whether/IN hardware-based/JJ DRM/NNP will/MD work/VB for/IN those/DT who/WP believe/VBP that/IN locking-down/JJ digital/JJ content/NN is/VBZ a/DT bad/JJ idea/NN and/CC that/IN the/DT flexibility/NN of/IN copyright/NN law/NN is/VBZ something/NN that/WDT should/MD be/VB embraced/VBN and/CC not/RB taken/VBN away./NN
+It/PRP will/MD not/RB work/VB because/IN of/IN the/DT fundamental/JJ flaw/NN at/IN the/DT heart/NN of/IN the/DT system/NN in/IN order/NN for/IN the/DT purchaser/NN to/TO view/VB the/DT content/NN it/PRP has/VBZ to/TO be/VB unlocked./NN
+Once/RB it/PRP is/VBZ unlocked/VBN then/RB someone/NN somewhere/RB will/MD figure/VB out/RP a/DT way/NN to/TO make/VB a/DT copy/NN of/IN the/DT unlocked/VBN version./NN
+And/CC once/RB an/DT unlocked/JJ version/NN leaks/NNS onto/IN the/DT network/NN it/PRP will/MD be/VB uncontrollable./NN
+The/DT efforts/NNS going/VBG into/IN DRM/NNP would/MD be/VB much/RB better/JJR spent/VBD building/NN efficient/JJ distribution/NN services/NNS finding/VBG business/NN models/NNS that/WDT are/VBP based/VBN on/IN trusting/VBG your/PRP$ customers/NNS and/CC offering/VBG high/JJ quality/NN downloads/NNS at/IN fair/JJ prices./NN
+What/WP we/PRP want/VBP is/VBZ not/RB so/RB much/JJ a/DT trusted/VBN computing/NN platform/NN as/IN a/DT trusted/VBN customer/NN platform./NN
+The/DT record/NN companies/NNS and/CC the/DT film/NN industry/NN need/VBP to/TO recognise/VB that/IN most/JJS of/IN us/PRP most/JJS of/IN the/DT time/NN will/MD pay/VB a/DT reasonable/JJ amount/NN for/IN good/JJ quality/NN material./NN
+They/PRP will/MD benefit/VB more/JJR by/IN building/VBG a/DT market/NN in/IN which/WDT I/PRP can/MD share/VB songs/NNS with/IN my/PRP$ friends/NNS record/NN shows/VBZ I/PRP want/VBP to/TO watch/VB later/RB and/CC burn/VB CDs/NNS for/IN my/PRP$ kids/NNS a/DT market/NN which/WDT respects/VBZ the/DT spirit/NN of/IN copyright/NN law/NN and/CC does/VBZ not/RB seek/VB to/TO replace/VB it/PRP by/IN restrictive/JJ contracts/NNS or/CC end/NN user/NN agreements./NN
+We/PRP need/VBP to/TO ensure/VB that/IN trusted/VBD computing/NN remains/VBZ under/IN the/DT control/NN of/IN the/DT users/NNS and/CC is/VBZ not/RB used/VBN to/TO take/VB away/RB the/DT freedoms/NNS we/PRP enjoy/VBP today./NN
+
+Bill/NNP Thompson/NNP is/VBZ a/DT regular/JJ commentator/NN on/IN the/DT BBC/NNP World/NNP Service/NNP programme/NN Go/VB Digital./NNP

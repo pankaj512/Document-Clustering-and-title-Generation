@@ -1,0 +1,13 @@
+Wenger/NNP handed/VBD summer/NN war/NN chest/NN
+
+Arsenal/NN boss/NN Arsene/NNP Wenger/NNP has/VBZ been/VBN guaranteed/VBN transfer/NN funds/NNS to/TO boost/VB his/PRP$ squad/NN the/DT summer./NN
+
+The/DT club's/NNS managing/VBG director/NN Keith/NNP Edelman/NNP stressed/VBD that/IN the/DT development/NN of/IN their/PRP$ new/JJ £350m/CD stadium/NN had/VBD no/DT affect/JJ on/IN Wenger's/NNP spending/NN power./NN
+"The/NN money/NN is/VBZ there./NN
+Don't/NNS worry/VBP we've/NN got/VBD it"/NN Edelman/NNP told/VBD BBC/NNP Sport./NNP
+"Hopefully/RB we'll/NN spend/VBP it/PRP this/DT summer/NN and/CC in/IN the/DT coming/VBG years./NN
+Arsene/NNP attends/VBZ all/DT our/PRP$ board/NN meetings/NNS and/CC he/PRP knows/VBZ our/PRP$ finances/NNS are/VBP very/RB strong."/NN
+
+Edelman/NNP added/VBD that/IN it/PRP was/VBD pointless/JJ having/NN a/DT brand/NN new/JJ stadium/NN if/IN the/DT team/NN did/VBD not/RB match/VB the/DT surroundings./NN
+"Its/NN great/JJ to/TO have/VB nice/JJ new/JJ surroundings/NNS but/CC if/IN the/DT team/NN aren't/NN performing/VBG on/IN the/DT pitch/NN then/RB there/EX isn't/NN great/JJ respect/NN in/IN having/VBG a/DT fabulous/JJ stadium"/NN he/PRP said./VB
+"It's/NN important/JJ that/IN we/PRP had/VBD sufficient/JJ funds/NNS for/IN our/PRP$ team/NN in/IN place/NN before/IN we/PRP began/VBD on/IN the/DT stadium."/NN

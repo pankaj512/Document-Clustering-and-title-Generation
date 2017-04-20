@@ -1,0 +1,76 @@
+Franz/NNP man/NN seeks/VBZ government/NN help/NN
+
+Franz/NNP Ferdinand/NNP frontman/NN Alex/NNP Kapranos/NNP has/VBZ called/VBN for/IN more/JJR government/NN help/NN for/IN musicians/NNS while/IN taking/VBG part/NN in/IN an/DT Edinburgh/NNP Lectures/VBZ discussion./JJ
+
+"For/NN any/DT cultural/JJ output/NN to/TO thrive/VB there/EX needs/VBZ to/TO be/VB some/DT kind/NN of/IN state/NN input/NN to/TO that/DT as/IN well"/NN he/PRP said./VB
+But/CC Kapranos/NNP warned/VBD against/IN musicians/NNS being/VBG too/RB closely/RB linked/VBN with/IN MPs/NNP at/IN the/DT University/NNP of/IN Edinburgh/NNP event./NN
+"I/NN think/VBP the/DT role/NN of/IN musicians/NNS is/VBZ to/TO question/VB politicians/NNS rather/RB than/IN to/TO go/VB to/TO bed/VB with/IN them"/NN he/PRP said./VB
+
+Kapranos/NNP joined/VBD the/DT prestigious/JJ lecture/NN series/NN to/TO discuss/VB Scotland's/NNP role/NN in/IN making/VBG 21st/JJ Century/NNP music./NN
+"There/NN are/VBP elements/NNS of/IN our/PRP$ musical/JJ output/NN which/WDT require/VBP sustenance/NN because/IN they/PRP aren't/VBP self-sufficient"/NN he/PRP said./VB
+"But/NN so-called/JJ commercial/JJ music/NN would/MD benefit/VB from/IN investment/NN as/IN well."/NN He/PRP warned/VBD musicians/NNS against/IN being/VBG allied/VBD to/TO a/DT particular/JJ party/NN however./NN
+"I/NN don't/NN know/NN if/IN having/VBG tea/NN with/IN politicians/NNS is/VBZ always/RB a/DT good/JJ idea."/NN
+
+Kapranos/NNP and/CC his/PRP$ Glasgow/NNP four-piece/JJ band/NN have/VBP been/VBN nominated/VBN for/IN five/CD prizes/NNS at/IN next/JJ week's/NNS Brit/NNP Awards/NNS including/VBG best/JJS group/NN and/CC best/JJS album./NN
+Their/PRP$ self-titled/NN debut/NN album/NN won/VBD last/JJ year's/NNS Mercury/NNP Music/NNP Prize/NNP and/CC spawned/VBN three/CD top/JJ 20/CD singles./NN
+He/PRP told/VBD the/DT 300-strong/JJ audience/NN at/IN the/DT University's/NNP Reid/NNP Hall/NNP that/IN musicians/NNS should/MD listen/VB to/TO a/DT wide/JJ range/NN of/IN music/NN and/CC should/MD not/RB be/VB restricted/VBN by/IN stereotypes./NN
+"We/NN say/VBP 'I/NN like/IN this'./NN
+Because/IN I/PRP listen/VBP to/TO Nirvana/NNP and/CC Korn/NNP I/PRP am/VBP a/DT troubled/JJ individual/JJ I'm/NNP riddled/JJ with/IN angst/NN because/IN I/PRP listen/VBP to/TO Chopin/NNP and/CC Debussy/NNP I/PRP listen/VBP to/TO Kylie/NNP Minogue/NNP and/CC Scissor/NNP Sisters/NNS because/IN I'm/NNP upbeat/JJ and/CC I/PRP like/VB to/TO party/VB I/PRP listen/VBP to/TO Wagner/NNP because/IN I/PRP like/VBP the/DT smell/NN of/IN napalm/NN in/IN the/DT morning."/NN Kapranos/NNP said/VBD there/EX was/VBD a/DT general/JJ "hostility"/NN towards/IN classical/JJ music/NN adding/VBG "There/NN is/VBZ very/RB little/JJ done/VBN to/TO break/VB that/DT hostility/NN other/JJ than/IN Classic/NNP FM."/NNP
+
+He/PRP concluded/VBD "We/NN define/VBP ourselves/PRP as/IN a/DT nation/NN by/IN the/DT way/NN we/PRP encourage/VBP our/PRP$ creativity."/NN Fellow/NNP speaker/NN and/CC classical/JJ composer/NN James/NNP MacMillan/NNP agreed/VBD "We/NN need/VBP to/TO rediscover/VB our/PRP$ ability/NN to/TO listen."/VB Previous/JJ speakers/NNS at/IN the/DT Edinburgh/NNP Lectures/VBZ series/NN have/VBP included/VBN former/JJ Soviet/JJ leader/NN Mikhail/NNP Gorbachev/NNP and/CC author/NN Professor/NNP Stephen/NNP Hawking./NNP
+Kapranos/NNP described/VBD his/PRP$ appearance/NN on/IN Wednesday/NNP as/IN "more/NN daunting/JJ by/IN a/DT long/JJ way"/NN than/IN their/PRP$ upcoming/VBG Brits/NNP performance./NN
+"I/NN don't/NN really/RB care/NN about/IN the/DT Brits"/NNP he/PRP said./VB
+"It's/NN going/VBG to/TO be/VB great/JJ to/TO go/VB down/RP but/CC I/PRP have/VBP actually/RB had/VBN to/TO exercise/VB part/NN of/IN my/PRP$ brain/NN tonight."/NN
+
+I/PRP think/VBP the/DT government/NN should/MD do/VB more/JJR to/TO help/VB up-and-coming/JJ artists/NNS be/VB discovered/VBN by/IN scrapping/VBG the/DT entertainment/NN licences/NNS for/IN live/JJ venues./NN
+Also/RB they/PRP should/MD do/VB more/JJR to/TO help/VB independent/JJ record/NN labels/NNS have/VBP a/DT louder/JJR voice/NN within/IN an/DT industry/NN dominated/VBN by/IN commercialised/VBN major/JJ labels./NN
+
+Rather/RB than/IN expecting/VBG the/DT government/NN -/: i.e./FW
+the/DT taxpayer/NN -/: to/TO fork/VB out/RP why/WRB don't/NN some/DT of/IN the/DT megastars/NNS put/VBP something/NN back/RB in?/VB Some/DT of/IN Britain's/NNP wealthiest/JJS people/NNS are/VBP musicians/NNS who/WP have/VBP raked/VBN it/PRP in/IN from/IN albums/NNS concerts/NNS etc./FW
+There/EX are/VBP far/RB more/RBR important/JJ demands/NNS on/IN government/NN funds./NN
+
+If/IN they/PRP can/MD fund/VB football/NN why/WRB not/RB fund/NN music?/NN
+
+Areas/NNS of/IN the/DT arts/NNS are/VBP funded/VBN by/IN government/NN and/CC lottery/NN grants/NNS so/RB why/WRB not/RB music?/NN We/PRP already/RB have/VBP the/DT opera/NN receiving/VBG huge/JJ grants/NNS and/CC it/PRP would/MD clearly/RB be/VB beneficial/JJ for/IN diversity/NN in/IN music/NN to/TO have/VB the/DT same/JJ opportunities/NNS in/IN other/JJ areas/NNS of/IN the/DT music./NN
+The/DT only/JJ problem/NN would/MD be/VB how/WRB to/TO judge/VB what/WP merits/NNS state/NN cash./NN
+
+The/DT government/NN has/VBZ enough/JJ problems/NNS funding/NN schools/NNS and/CC health/NN services./NN
+If/IN Alex/NNP Kapranos/NNP genuinely/RB thinks/VBZ a/DT multi-billion/JJ pound/NN industry/NN should/MD also/RB have/VB government/NN funding/NN then/RB his/PRP$ own/JJ education/NN was/VBD seriously/RB lacking/VBG and/CC more/JJR money/NN should/MD be/VB put/VBN into/IN that./NN
+
+As/IN a/DT Scot/NNP living/VBG in/IN England/NNP I/PRP appreciate/VBP the/DT value/NN of/IN Scottish/JJ music/NN and/CC culture/NN being/VBG a/DT success/NN so/IN I/PRP can/MD see/VB no/DT problem/NN with/IN it/PRP Franz/NNP Ferdinand/NNP Travis/NNP and/CC Snow/NNP Patrol/NNP are/VBP just/RB recent/JJ examples/NNS of/IN the/DT success/NN Scottish/JJ music/NN can/MD have/VB in/IN the/DT world/NN so/IN we/PRP should/MD do/VB what/WP we/PRP Scots/NNP are/VBP good/JJ at/IN and/CC support/VB our/PRP$ own/JJ goods/NNS
+
+I/PRP think/VBP the/DT issue/NN is/VBZ more/RBR fundamental/JJ should/MD the/DT government/NN be/VB spending/NN money/NN on/IN subsidising/VBG a/DT multi-million/JJ pound/NN industry/NN when/WRB health/NN and/CC education/NN are/VBP in/IN such/PDT a/DT sorry/JJ state?/NN The/DT answer/NN is/VBZ most/RBS definitely/RB no./NN
+Those/DT people/NNS who/WP are/VBP lucky/JJ enough/RB to/TO pursue/VB their/PRP$ passion/NN to/TO get/VB their/PRP$ pay/NN cheque/NN shouldn't/NN be/VB looking/VBG for/IN government/NN subsidies./NN
+I/PRP know/VBP that/IN if/IN I/PRP was/VBD lucky/JJ enough/RB to/TO be/VB able/JJ to/TO pursue/VB my/PRP$ dream/NN of/IN show/VBP jumping/VBG I/PRP would/MD want/VB to/TO finance/VB myself/PRP until/IN I/PRP was/VBD in/IN a/DT position/NN to/TO pursue/VB corporate/JJ sponsorship./NN
+
+Yes/UH the/DT government/NN should/MD fund/VB music/NN -/: it/PRP brings/VBZ joy/NN to/TO the/DT masses./NN
+
+There/EX are/VBP already/RB thousands/NNS of/IN state-funded/JJ musicians/NNS out/IN there/EX sitting/VBG around/IN twiddling/VBG their/PRP$ thumbs/NNS on/IN the/DT "new/NN deal"./NN
+Getting/VBG the/DT government/NN even/RB more/RBR involved/JJ would/MD only/JJ waste/VB money/NN that/WDT could/MD be/VB put/VBN to/TO better/JJR use./NN
+
+As/RB long/RB as/IN the/DT Government/NNP was/VBD funding/NN real/JJ talent/NN it/PRP would/MD be/VB a/DT great/JJ move./NN
+I/PRP would/MD hate/VB to/TO see/VB more/JJR Pop/NN Idol-type/JJ funding/NN of/IN music/NN though/IN as/IN it/PRP would/MD only/RB serve/VB to/TO reinforce/VB the/DT stereotypes/NNS that/IN Alex/NNP talked/VBD about./NN
+
+Only/RB if/IN the/DT proposals/NNS make/VBP financial/JJ sense./NN
+Franz/NNP Ferdinand/NNP must/MD be/VB paying/VBG serious/JJ amounts/NNS of/IN tax/NN on/IN their/PRP$ record/NN sales/NNS -/: if/IN they'd/NN had/VBD a/DT government/NN grant/NN to/TO get/VB started/VBD they'd/NN have/VBP more/RBR than/IN paid/VBN it/PRP back/RB by/IN now/RB so/IN the/DT Treasury/NNP would/MD be/VB making/VBG far/RB more/JJR than/IN it/PRP paid/VBD out./NN
+However/RB the/DT government/NN has/VBZ better/JJR things/NNS to/TO spend/VB its/PRP$ money/NN on/IN than/IN to/TO give/VB charity/NN to/TO everyone/NN who/WP decides/VBZ they're/VBG a/DT musician./NN
+The/DT government/NN shouldn't/NN "fund"/NN music/NN -/: it/PRP should/MD "invest"/VB in/IN music/NN and/CC those/DT investments/NNS should/MD be/VB treated/VBN like/IN any/DT other/JJ investment./NN
+
+I/PRP think/VBP the/DT government/NN needs/VBZ to/TO provide/VB facilities/NNS and/CC for/IN young/JJ groups/NNS and/CC bands/NNS to/TO form/VB and/CC practise./NN
+The/DT equipment/NN is/VBZ not/RB cheap/JJ and/CC can/MD be/VB well/RB beyond/IN the/DT means/NNS of/IN many/JJ people./NN
+However/RB I/PRP do/VBP feel/VB this/DT should/MD be/VB the/DT extent/NN of/IN their/PRP$ role/NN to/TO provide/VB the/DT conditions/NNS for/IN the/DT talent/NN to/TO flourish/VB and/CC let/VB it/PRP go/VB from/IN there./NN
+
+I/PRP do/VBP agree/VB that/IN the/DT government/NN should/MD help/VB to/TO fund/VB music/NN but/CC there/EX is/VBZ also/RB a/DT responsibility/NN held/VBN by/IN record/NN companies/NNS They/PRP generally/RB always/RB opt/VB for/IN the/DT tried/VBN and/CC tested/VBN and/CC tend/VBP not/RB to/TO want/VB to/TO break/VB any/DT moulds/NNS or/CC risk/NN losing/VBG any/DT money/NN which/WDT ultimately/RB the/DT directors/NNS are/VBP in/IN the/DT business/NN for/IN If/IN labels/NNS were/VBD more/RBR willing/JJ to/TO put/VB money/NN forward/RB towards/IN smaller/JJR breakthrough/NN acts/NNS then/RB the/DT government/NN wouldn't/NN have/VBP to/TO fork/VB out/RP a/DT great/JJ deal./NN
+
+Yeah/UH why/WRB not?/NN Music/NNP should/MD be/VB government/NN funded/VBD particularly/RB the/DT work/NN of/IN modern/JJ composers/NNS and/CC veteran/NN bands/artists/NNS and/CC stuff./NN
+Pop/NN music/NN pretty/RB much/RB rules/NNS the/DT earth/NN so/RB more/JJR attention/NN should/MD go/VB to/TO the/DT other/JJ fraternities/NNS
+
+I/PRP agree/VBP with/IN funding/VBG the/DT arts/NNS to/TO make/VB it/PRP more/RBR accessible/JJ to/TO the/DT public/NN but/CC I/PRP am/VBP not/RB convinced/VBN that/DT pop/NN music/NN requires/VBZ financial/JJ support/NN from/IN the/DT taxpayer./NN
+There/EX is/VBZ a/DT great/JJ deal/NN of/IN money/NN generated/VBN through/IN pop/NN music/NN -/: perhaps/RB a/DT tax/NN on/IN pop/NN could/MD be/VB ploughed/VBN into/IN the/DT public/JJ performance/NN of/IN other/JJ forms/NNS of/IN music/NN for/IN everyone/NN to/TO enjoy./VB
+Perhaps/RB we/PRP could/MD financially/RB penalise/VB really/RB bad/JJ Pop/NN Idol-style/JJ music/NN -/: that/WDT is/VBZ the/DT music/NN industry/NN sector/NN without/IN any/DT artistic/JJ merit/NN or/CC originality/NN whatsoever/RB and/CC that/IN which/WDT is/VBZ specifically/RB designed/VBN to/TO line/VB the/DT pockets/NNS of/IN music/NN producers./NN
+Call/VB it/PRP a/DT tax/NN on/IN music/NN "pollution"/NN if/IN you/PRP like./VBP
+
+Though/IN I/PRP really/RB like/IN Franz/NNP Ferdinand/NNP I/PRP have/VBP to/TO disagree/VB with/IN Mr/NNP Kapranos./NNP
+Once/RB government/NN gets/VBZ their/PRP$ hand/NN into/IN the/DT private/JJ sector/NN it/PRP will/MD destroy/VB the/DT creative/JJ and/CC possibly/RB controversial/JJ avenues/NNS the/DT artist/NN pursues./NN
+Many/JJ years/NNS ago/RB this/DT was/VBD the/DT case/NN with/IN the/DT US/PRP NEA/NNP when/WRB the/DT government/NN started/VBD to/TO question/VB what/WP was/VBD considered/VBN art/NN for/IN the/DT money/NN they/PRP were/VBD allotting./NN
+The/DT solution/NN Mr/NNP Kapranos/NNP should/MD pursue/VB would/MD be/VB privately-funded/JJ organizations/NNS like/IN Save/NNP the/DT Music/NNP in/IN the/DT US./NNP

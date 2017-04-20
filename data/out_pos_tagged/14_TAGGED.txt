@@ -1,0 +1,30 @@
+Telegraph/NN newspapers/NNS axe/NN 90/CD jobs/NNS
+
+The/DT Daily/NNP and/CC Sunday/NNP Telegraph/NNP newspapers/NNS are/VBP axing/VBG 90/CD journalist/NN jobs/NNS -/: 17%/CD of/IN their/PRP$ editorial/NN staff./NN
+
+The/DT Telegraph/NNP Group/NNP says/VBZ the/DT cuts/NNS are/VBP needed/VBN to/TO fund/VB an/DT £150m/CD investment/NN in/IN new/JJ printing/NN facilities./NN
+Journalists/NNS at/IN the/DT firm/NN met/VBD on/IN Friday/NNP afternoon/NN to/TO discuss/VB how/WRB to/TO react/VB to/TO the/DT surprise/NN announcement./NN
+The/DT cuts/NNS come/VBP against/IN a/DT background/NN of/IN fierce/JJ competition/NN for/IN readers/NNS and/CC sluggish/JJ advertising/NN revenues/NNS amid/IN competition/NN from/IN online/NN advertising./NN
+The/DT National/NNP Union/NNP of/IN Journalists/NNS has/VBZ called/VBN on/IN the/DT management/NN to/TO recall/VB the/DT notice/NN of/IN redundancy/NN by/IN midday/NN on/IN Monday/NNP or/CC face/VB a/DT strike/NN ballot./NN
+
+Pearson's/NNP Financial/NNP Times/NNP said/VBD last/JJ week/NN it/PRP was/VBD offering/VBG voluntary/JJ redundancy/NN to/TO about/IN 30/CD reporters./NN
+
+The/DT National/NNP Union/NNP of/IN Journalists/NNS said/VBD it/PRP stood/VBD strongly/RB behind/IN the/DT journalists/NNS and/CC did/VBD not/RB rule/VB out/RP a/DT strike./NN
+"Managers/NN have/VBP torn/VBN up/RP agreed/VBD procedures/NNS and/CC kicked/VBD staff/NN in/IN the/DT teeth/NNS by/IN sacking/VBG people/NNS to/TO pay/VB for/IN printing/NN facilities"/NN said/VBD Jeremy/NNP Dear/RB NUJ/NNP General/NNP Secretary./NNP
+NUJ/NNP official/NN Barry/NNP Fitzpatrick/NNP said/VBD the/DT company/NN had/VBD ignored/VBN the/DT 90-day/JJ consultation/NN period/NN required/VBN for/IN companies/NNS planning/VBP more/JJR than/IN 10/CD redundancies./NN
+"They/NN have/VBP shown/VBN a/DT complete/JJ disregard/NN for/IN the/DT consultative/JJ rights/NNS of/IN our/PRP$ members"/NN said/VBD Mr/NNP Fitzpatrick/NNP who/WP added/VBD that/IN the/DT company/NN now/RB planned/VBD to/TO observe/VB the/DT consultation/NN procedures./NN
+The/DT two/CD Telegraph/NNP titles/NNS currently/RB employ/VBP 521/CD journalists./NN
+
+Some/DT broadsheet/NN newspapers/NNS -/: especially/RB those/DT which/WDT have/VBP not/RB moved/VBN to/TO a/DT tabloid/JJ format/NN -/: have/VBP suffered/VBN circulation/NN declines/NNS which/WDT are/VBP hitting/VBG revenues./NN
+The/DT Telegraph/NNP has/VBZ announced/VBN no/DT plans/NNS to/TO go/VB tabloid/JJ although/IN both/DT The/DT Independent/NNP and/CC The/DT Times/NNP have/VBP seen/VBN circulation/NN rise/NN since/IN shrinking/VBG in/IN size./NN
+
+The/DT Guardian/NNP is/VBZ hedging/VBG its/PRP$ bets/NNS planning/VBG a/DT larger/JJR tabloid/JJ format/NN like/IN those/DT popular/JJ in/IN continental/JJ Europe./NNP
+The/DT Telegraph/NNP Group/NNP was/VBD bought/VBN by/IN the/DT Barclay/NNP twins/NNS -/: Frederick/NNP and/CC David/NNP -/: last/JJ year/NN having/VBG previously/RB been/VBN owned/VBN by/IN Lord/NNP Conrad/NNP Black's/NNP Hollinger/NNP International./NNP
+The/DT brothers/NNS are/VBP currently/RB mulling/VBG the/DT sale/NN of/IN another/DT of/IN their/PRP$ businesses/NNS retailer/NN Littlewoods./NNP
+
+Telegraph/NNP executive/NN Murdoch/NNP MacLennan/NNP said/VBD the/DT two/CD newspapers/NNS would/MD add/VB eight/CD colour/NN pages/NNS in/IN the/DT coming/VBG months./NN
+
+"Journalists/NN are/VBP the/DT lifeblood/NN of/IN any/DT newspaper/NN and/CC maintaining/VBG the/DT quality/NN of/IN The/DT Daily/NNP Telegraph/NNP and/CC The/DT Sunday/NNP Telegraph/NNP for/IN our/PRP$ readers/NNS is/VBZ vital"/NN he/PRP said./VB
+"However/NN action/NN to/TO improve/VB our/PRP$ production/NN capability/NN and/CC secure/VB our/PRP$ titles/NNS against/IN the/DT competition/NN is/VBZ also/RB vital."/NN Many/JJ newspapers/NNS are/VBP investing/VBG in/IN new/JJ printing/NN machinery/NN that/WDT enables/VBZ them/PRP to/TO print/VB more/JJR colour/NN pages/NNS or/CC in/IN some/DT cases/NNS have/VBP colour/NN on/IN every/DT page./NN
+They/PRP are/VBP hoping/VBG that/IN by/IN boosting/VBG colour/NN it/PRP will/MD make/VB their/PRP$ publications/NNS more/RBR attractive/JJ to/TO advertisers/NNS and/CC readers/NNS alike./NN
+In/IN recent/JJ months/NNS News/NNP Corp's/NNP News/NNP International/NNP unit/NN which/WDT publishes/VBZ The/DT Sun/NNP and/CC the/DT News/NNP of/IN the/DT World/NNP the/DT Guardian/NNP Media/NNP Group/NNP Trinity/NNP Mirror/NNP and/CC the/DT Daily/NNP Mail/NNP &/CC General/NNP Trust/NNP have/VBP all/DT announced/VBN substantial/JJ investments/NNS in/IN new/JJ printing/NN plants./NN

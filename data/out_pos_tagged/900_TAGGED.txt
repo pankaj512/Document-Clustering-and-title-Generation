@@ -1,0 +1,17 @@
+Labour/NNP chooses/VBZ Manchester/NNP
+
+The/DT Labour/NNP Party/NNP will/MD hold/VB its/PRP$ 2006/CD autumn/NN conference/NN in/IN Manchester/NNP and/CC not/RB Blackpool/NNP it/PRP has/VBZ been/VBN confirmed./NN
+
+The/DT much/NN trailed/VBD decision/NN was/VBD ratified/VBN by/IN Labour's/NNP ruling/NN National/NNP Executive/NNP Committee/NNP in/IN a/DT break/NN with/IN the/DT traditional/JJ choice/NN of/IN a/DT seaside/NN venue./NN
+It/PRP will/MD be/VB the/DT first/JJ time/NN since/IN 1917/CD that/IN the/DT party/NN has/VBZ chosen/VBN Manchester/NNP to/TO host/VB the/DT annual/JJ event./NN
+Blackpool/NNP will/MD get/VB the/DT much/RB smaller/JJR February/NNP spring/NN conference/NN instead/RB in/IN what/WP will/MD be/VB seen/VBN as/IN a/DT placatory/NN move./NN
+
+For/IN years/NNS the/DT main/JJ political/JJ parties/NNS have/VBP rotated/VBN between/IN Blackpool/NNP Bournemouth/NNP and/CC Brighton./NNP
+And/CC the/DT news/NN the/DT much/RB larger/JJR annual/JJ conference/NN is/VBZ not/RB to/TO gather/VB in/IN Blackpool/NNP will/MD be/VB seen/VBN as/IN a/DT blow/NN in/IN the/DT coastal/JJ resort./NN
+In/IN 1998/CD the/DT party/NN said/VBD it/PRP would/MD not/RB return/VB to/TO Blackpool/NNP but/CC did/VBD so/RB in/IN 2002./CD
+The/DT following/JJ year/NN Bournemouth/NNP hosted/VBD the/DT event/NN before/IN the/DT party/NN signed/VBD a/DT two/CD year/NN deal/NN for/IN Brighton/NNP to/TO host/VB the/DT autumn/NN conference./NN
+
+Colin/NNP Asplin/NNP Blackpool/NNP Hotel/NNP Association/NNP said/VBD "We/NN have/VBP tried/VBN very/RB hard/JJ to/TO make/VB sure/JJ they/PRP come/VBP back/RB to/TO Blackpool./NNP
+"Obviously/RB we/PRP have/VBP failed/VBN in/IN that./NN
+I/PRP just/RB hope/VBP Manchester/NNP can/MD handle/VB the/DT crowds./NN
+"It/NN amazes/VBZ me/PRP that/IN the/DT Labour/NNP Party/NNP which/WDT is/VBZ a/DT working/NN class/NN party/NN doesn't/NN want/VBP to/TO come/VB to/TO the/DT main/JJ working/JJ class/NN resort/NN in/IN the/DT country."/NN The/DT exact/JJ cost/NN to/TO Blackpool/NNP in/IN terms/NNS of/IN lost/VBN revenue/NN for/IN hotel/NN accommodation/NN is/VBZ not/RB yet/RB known/VBN but/CC it/PRP is/VBZ thought/VBN that/WDT block/NN bookings/NNS will/MD be/VB taken/VBN at/IN the/DT major/JJ Manchester/NNP hotels/NNS after/IN the/DT official/JJ announcement./NN

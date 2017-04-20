@@ -1,0 +1,13 @@
+Strong/JJ demand/NN triggers/VBZ oil/NN rally/NN
+
+Crude/JJ oil/NN prices/NNS surged/VBD back/RB above/IN the/DT $47/CD a/DT barrel/NN mark/NN on/IN Thursday/NNP after/IN an/DT energy/NN market/NN watchdog/NN raised/VBD its/PRP$ forecasts/NNS for/IN global/JJ demand./NN
+
+The/DT International/NNP Energy/NNP Agency/NNP (IEA)/NN warned/VBD demand/NN for/IN Opec's/NNP crude/NN in/IN the/DT first/JJ quarter/NN would/MD outstrip/VB supply./NN
+The/DT IEA/NNP raised/VBD its/PRP$ estimate/NN of/IN 2005/CD oil/NN demand/NN growth/NN by/IN 80000/CD barrels/NNS a/DT day/NN to/TO 84/CD million/CD barrels/NNS a/DT day./NN
+US/PRP light/VBD crude/NN rose/VBD $1.64/CD to/TO $47.10/CD while/IN Brent/NNP crude/NN in/IN London/NNP gained/VBD $1.32/CD to/TO $44.45./CD
+
+The/DT Paris-based/JJ IEA/NNP watchdog/NN which/WDT advises/VBZ industrialized/VBN nations/NNS on/IN energy/NN policy/NN said/VBD the/DT upward/JJ revision/NN was/VBD due/JJ to/TO stronger/JJR demand/NN from/IN China/NNP and/CC other/JJ Asian/JJ countries./NN
+The/DT fresh/JJ rally/NN in/IN crude/NN prices/NNS followed/VBD gains/NNS on/IN Wednesday/NNP which/WDT were/VBD triggered/VBN by/IN large/JJ falls/NNS in/IN US/PRP crude/VBP supplies/NNS following/VBG a/DT cold/JJ spell/NN in/IN North/NNP America/NNP in/IN January./NNP
+The/DT US/PRP Department/NNP of/IN Energy/NNP reported/VBD that/DT crude/NN stockpiles/NNS had/VBD fallen/VBN 1m/CD barrels/NNS to/TO 294.3m./CD
+On/IN top/NN of/IN that/DT ongoing/JJ problems/NNS for/IN beleaguered/JJ Russian/JJ oil/NN giant/NN Yukos/NNP have/VBP also/RB prompted/VBN the/DT IEA/NNP to/TO revise/VB its/PRP$ output/NN estimates/NNS from/IN Russia/NNP -/: a/DT major/JJ non-Opec/JJ supplier./NN
+"I/NN think/VBP that/IN prices/NNS are/VBP now/RB beginning/VBG to/TO set/VB a/DT new/JJ range/NN and/CC it/PRP looks/VBZ like/IN the/DT $40/CD to/TO $50/CD level"/NN said/VBD energy/NN analyst/NN Orin/NNP Middleton/NNP of/IN Barclays/NNP Capital./NNP

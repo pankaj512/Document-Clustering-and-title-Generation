@@ -1,0 +1,30 @@
+Long/NNP life/NN promised/VBN for/IN laptop/NN PCs/NNS
+
+Scientists/NNS are/VBP working/VBG on/IN ways/NNS to/TO ensure/VB laptops/NNS can/MD stay/VB powered/VBN for/IN an/DT entire/JJ working/JJ day./NN
+
+Building/NN batteries/NNS from/IN new/JJ chemical/NN mixes/VBZ could/MD boost/VB power/NN significantly/RB say/VBP industry/NN experts./NN
+The/DT changes/NNS include/VBP everything/NN from/IN the/DT way/NN chips/NNS for/IN laptops/NNS are/VBP made/VBN to/TO tricks/NNS that/WDT reduce/VBP the/DT power/NN consumption/NN of/IN displays./JJ
+Ever/RB since/IN laptops/NNS appeared/VBD the/DT amount/NN of/IN time/NN they/PRP last/VBP between/IN recharges/NNS has/VBZ been/VBN a/DT frustration/NN for/IN users./NN
+
+A/DT survey/NN carried/VBD out/RP in/IN 2000/CD by/IN Forrester/NNP Research/NNP found/VBD that/IN the/DT shortness/NN of/IN battery/NN life/NN was/VBD the/DT most/JJS complained/VBD about/IN feature/NN of/IN laptops./NN
+"The/NN focus/NN back/RB then/RB was/VBD more/JJR on/IN performance/NN and/CC features"/NN said/VBD Mike/NNP Trainor/NNP chief/NN mobile/JJ technology/NN evangelist/NN for/IN chip/NN giant/NN Intel./NNP
+
+"For/NN most/JJS of/IN the/DT 90s/CD battery/NN life/NN was/VBD stuck/VBN on/IN two/CD to/TO 2.5/CD hours."/NN But/CC now/RB he/PRP said/VBD laptops/NNS can/MD last/VB much/JJ longer./NN
+It/PRP was/VBD not/RB just/RB a/DT case/NN of/IN improving/VBG battery/NN life/NN by/IN squeezing/VBG more/JJR out/IN of/IN the/DT lithium/NN ion/NN power/NN packs/VBZ he/PRP explained./VB
+Other/JJ changes/NNS are/VBP needed/VBN to/TO get/VB to/TO the/DT holy/JJ grail/NN of/IN a/DT laptop/NN running/VBG for/IN about/IN eight/CD hours/NNS before/IN needing/VBG a/DT recharge./NN
+"Lithium/NN ion/NN is/VBZ never/RB going/VBG to/TO get/VB there/RB by/IN itself"/NN he/PRP said./VB
+"The/NN industry/NN has/VBZ done/VBN a/DT great/JJ job/NN of/IN wringing/VBG all/DT possible/JJ energy/NN storage/NN out/IN of/IN that/DT technology/NN that/IN they/PRP can."/VBP Some/DT new/JJ battery/NN chemistries/NNS promise/NN to/TO cram/VB more/JJR power/NN into/IN the/DT same/JJ space/NN said/VBD Mr/NNP Trainor/NNP though/IN work/NN still/RB needed/VBD to/TO be/VB done/VBN to/TO get/VB them/PRP successfully/RB from/IN the/DT lab/NN to/TO manufacturing./VB
+He/PRP was/VBD sceptical/JJ that/DT fuel/NN cells/NNS would/MD develop/VB quick/JJ enough/RB to/TO take/VB over/RP from/IN solid/JJ batteries/NNS even/RB though/IN they/PRP have/VBP the/DT potential/NN to/TO produce/VB several/JJ times/NNS more/JJR energy/NN than/IN lithium/NN ion/NN power/NN packs./NN
+"In/NN fuel/NN cells/NNS you/PRP need/VBP to/TO have/VB pumps/NNS and/CC separators/NNS and/CC evaporation/NN chambers"/NN he/PRP said./VB
+"It's/NN a/DT mini/NN energy/NN plant/NN that/WDT needs/VBZ to/TO be/VB shrunk/VBN and/CC shrunk/VBN and/CC shrunk."/NN
+
+Intel/NNP has/VBZ been/VBN working/VBG with/IN component/NN makers/NNS to/TO test/VB energy/NN consumption/NN on/IN all/PDT the/DT parts/NNS inside/IN a/DT laptop/NN and/CC find/VB ways/NNS to/TO make/VB them/PRP less/JJR power/NN hungry./NN
+
+This/DT work/NN has/VBZ led/VBN to/TO the/DT creation/NN of/IN the/DT Mobile/NNP PC/NN Extended/VBN Battery/NNP Life/NNP (EBL)/NN Working/VBG Group/NNP that/IN shares/NNS information/NN about/IN building/NN notebooks/NNS that/WDT are/VBP more/JJR parsimonious/JJ with/IN power./NN
+Some/DT of/IN the/DT improvements/NNS in/IN power/NN use/NN come/VBN simply/RB because/IN components/NNS on/IN chips/NNS are/VBP shrinking/VBG said/VBD Mr/NNP Trainor./NNP
+Intel/NNP has/VBZ also/RB changed/VBD the/DT way/NN it/PRP creates/VBZ transistors/NNS on/IN silicon/NN to/TO reduce/VB the/DT power/NN they/PRP need./VBP
+On/IN a/DT larger/JJR scale/NN said/VBD Mr/NNP Trainor/NNP improvements/NNS in/IN the/DT way/NN that/DT voltage/NN regulators/NNS are/VBP made/VBN can/MD reduce/VB the/DT amount/NN of/IN power/NN lost/VBD as/IN heat/NN and/CC make/VB a/DT notebook/NN more/JJR energy/NN efficient./NN
+Also/RB said/VBD Mr/NNP Trainor/NNP research/NN is/VBZ being/VBG done/VBN on/IN ways/NNS to/TO cut/VB energy/NN consumption/NN on/IN displays/NNS -/: currently/RB the/DT biggest/JJS power/NN guzzler/NN on/IN a/DT laptop./NN
+Many/JJ laptop/NN makers/NNS have/VBP committed/VBN to/TO creating/VBG 14/CD and/CC 15/CD inch/NN screens/NNS that/WDT draw/NN only/RB three/CD watts/NNS of/IN power./NN
+This/DT is/VBZ far/RB below/IN the/DT power/NN consumption/NN levels/NNS of/IN screens/NNS in/IN current/JJ notebooks./NN
+"If/NN we/PRP can/MD get/VB close/RB to/TO eight/CD hours/NNS that's/NNS a/DT place/NN that/IN people/NNS see/VBP as/RB extraordinarily/RB valuable/JJ that's/NNS what/WP the/DT industry/NN has/VBZ to/TO deliver"/VB Mr/NNP Trainor/NNP said./NN

@@ -1,0 +1,28 @@
+Wasps/NNP 31-37/JJ Leicester/NNP
+
+Leicester/NNP withstood/VBD a/DT stunning/JJ Wasps/NNP comeback/NN to/TO win/VB a/DT pulsating/VBG Heineken/NNP Cup/NNP encounter/VB at/IN the/DT Causeway/NNP Stadium./NNP
+
+The/DT Tigers/NNP stormed/VBD 22-6/JJ ahead/RB within/IN 18/CD minutes/NNS through/IN tries/VBZ from/IN Lewis/NNP Moody/NNP Geordan/NNP Murphy/NNP and/CC Martin/NNP Corry./NNP
+European/JJ champions/NNS Wasps/NNP fought/VBD back/RB through/IN a/DT Josh/NNP Lewsey/NNP try/NN and/CC Mark/NNP van/NNP Gisbergen's/NNP boot/NN and/CC they/PRP were/VBD level/NN at/IN 31-31/JJ with/IN five/CD minutes/NNS remaining./NN
+But/CC it/PRP was/VBD the/DT visitors/NNS who/WP kept/VBD their/PRP$ cool/NN as/IN Andy/NNP Goode/NNP kicked/VBD the/DT Tigers/NNP to/TO victory/NN with/IN a/DT penalty/NN and/CC a/DT drop/NN goal./NN
+The/DT closing/NN moments/NNS saw/VBD desperate/JJ defence/NN from/IN Leicester/NNP as/IN Wasps/NNP turned/VBD down/RB several/JJ penalties/NNS to/TO go/VB for/IN the/DT try/NN they/PRP needed./VBP
+Wasps/NNP pounded/VBD the/DT line/NN and/CC a/DT penalty/NN try/NN looked/VBD likely/JJ before/IN referee/NN Nigel/NNP Williams/NNP controversially/RB blew/VBD for/IN full-time./JJ
+Fly-half/NNP Goode/NNP was/VBD the/DT Tigers/NNP hero/NN kicking/VBG 22/CD points/NNS in/IN total/JJ while/IN Leicester's/NNP overwhelming/JJ domination/NN in/IN the/DT scrums/NNS ultimately/RB told./VBP
+Even/RB their/PRP$ lack/NN of/IN discipline/NN in/IN defence/NN -/: which/WDT presented/VBD the/DT admirable/JJ Van/NNP Ginsberg/NNP with/IN 26/CD points/NNS -/: could/MD not/RB undo/VB them/PRP as/IN they/PRP held/VBD out/RP for/IN a/DT famous/JJ win./NN
+
+Lawrence/NNP Dallaglio's/NNP team/NN have/VBP now/RB got/VBN it/PRP all/DT to/TO do/VB in/IN the/DT quest/NN for/IN a/DT quarter-final/JJ place/NN given/VBN that/IN two/CD of/IN their/PRP$ last/JJ three/CD games/NNS are/VBP away/RB -/: against/IN Leicester/NNP and/CC Biarritz./NNP
+However/RB Wasps/NNP rugby/NN director/NN Warren/NNP Gatland/NNP warned/VBD his/PRP$ side/NN will/MD will/MD not/RB relinquish/VB their/PRP$ European/JJ title/NN without/IN a/DT fight./NN
+"If/NN we/PRP lose/VBP next/JJ week/NN then/RB we/PRP are/VBP struggling"/NN said/VBD Gatland./NNP
+"But/NN we/PRP don't/VBP want/VBP to/TO give/VB this/DT trophy/NN away./NN
+We/PRP worked/VBD so/RB hard/JJ to/TO win/VB it/PRP last/JJ season/NN we/PRP will/MD go/VB down/RP fighting./NN
+"We/NN have/VBP got/VBN to/TO get/VB our/PRP$ scrum/NN right/NN next/JJ week/NN it/PRP is/VBZ the/DT biggest/JJS cause/VB for/IN concern."/NN Leicester/NNP coach/NN John/NNP Wells/NNP saluted/VBD the/DT outstanding/JJ work/NN of/IN Graham/NNP Rowntree/NNP and/CC Julian/NNP White/NNP who/WP were/VBD magnificent/JJ up/RP front./NN
+"They/NN were/VBD the/DT backbone/NN of/IN our/PRP$ performance/NN today"/NN said/VBD Wells./NNP
+"And/NN to/TO score/VB three/CD tries/VBZ against/IN the/DT European/JJ champions/NNS at/IN home/NN was/VBD also/RB something/NN I/PRP am/VBP pleased/JJ about."/NN
+
+Van/NNP Gisbergen/NNP Lewsey/NNP Erinle/NNP Abbott/NNP Voyce/NNP King/NNP Dawson/NNP Dowd/NNP Greening/NN Green/NNP Shaw/NNP Birkett/NNP Worsley/NNP O'Connor/NNP Dallaglio/NNP (capt)./NN
+
+Replacements/NNS Gotting/NNP McKenzie/NNP Lock/NNP Hart/NNP Biljon/NNP Brooks/NNP Hoadley./NNP
+
+Murphy/NNP Rabeni/NNP Smith/NNP Gibson/NNP Healey/NNP Goode/NNP Ellis/NNP Rowntree/NNP Chuter/NNP White/NNP M/NNP Johnson/NNP (capt)/NN L/NNP Deacon/NNP Moody/NNP Back/RB Corry./NNP
+
+Replacements/NNS (from)/NN Buckland/Cockerill/NNP Morris/NNP Kay/NNP W/NNP Johnson/B/NNP Deacon/NNP H/NNP Tuilagi/NNP Bemand/NNP A/NNP Tuiliagi/NNP Lloyd/NNP Vesty./NNP

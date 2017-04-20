@@ -1,0 +1,19 @@
+Seamen/NNP sail/NN into/IN biometric/JJ future/JJ
+
+The/DT luxury/NN cruise/NN liner/NN Crystal/NNP Harmony/NN currently/RB in/IN the/DT Gulf/NNP of/IN Mexico/NNP is/VBZ the/DT unlikely/JJ setting/NN for/IN tests/NNS of/IN biometric/JJ technology./NN
+
+As/IN holidaymakers/NNS enjoy/VBP balmy/NN breezes/VBZ their/PRP$ ship's/NNS crew/NN is/VBZ testing/NN prototype/NN versions/NNS of/IN the/DT world's/NNS first/RB internationally/RB issued/VBN biometric/JJ ID/NNP cards/VBZ the/DT seafarer's/NNS equivalent/NN of/IN a/DT passport./NN
+Along/IN with/IN the/DT owner's/NNS picture/NN name/NN and/CC personal/JJ details/NNS the/DT new/JJ Seafarers'/NNP Identity/NN Document/NNP incorporates/VBZ a/DT barcode/NN representing/VBG unique/JJ features/NNS of/IN its/PRP$ holder's/NNS fingerprints./NN
+The/DT cards/NNS are/VBP due/JJ to/TO be/VB issued/VBN in/IN February/NNP next/JJ year/NN in/IN line/NN with/IN the/DT revised/VBN UN/NNP Convention/NNP on/IN Seafarers'/NNP Identity/NN Documents/NNS of/IN June/NNP 2003./CD
+Tests/NNS currently/RB under/IN way/NN in/IN the/DT Caribbean/NNP are/VBP designed/VBN to/TO ensure/VB that/IN new/JJ cards/NNS and/CC their/PRP$ machine/NN readers/NNS produced/VBN by/IN different/JJ companies/NNS in/IN different/JJ countries/NNS are/VBP working/VBG to/TO interoperable/JJ standards./NN
+Results/NNS of/IN the/DT current/JJ tests/NNS which/WDT involve/VBP seafarers/NNS from/IN a/DT wide/JJ range/NN of/IN occupations/NNS and/CC nationalities/NNS will/MD be/VB published/VBN by/IN the/DT International/NNP Labour/NNP Organisation/NNP (ILO)/NN by/IN the/DT end/NN of/IN November./NNP
+Crystal/NNP Cruises/NNP which/WDT operates/VBZ the/DT Crystal/NNP Harmony/NN is/VBZ exploring/VBG the/DT use/NN of/IN biometrics/NNS but/CC has/VBZ not/RB yet/RB committed/VBN to/TO the/DT technology./NN
+
+Authenti-corp/VBG the/DT US/PRP technology/VBP consultancy/NN has/VBZ been/VBN working/VBG with/IN the/DT ILO/NNP on/IN its/PRP$ technical/JJ specifications/NNS for/IN the/DT cards./NN
+
+"If/NN you're/NN issued/VBD a/DT seafarer's/NNS ID/NNP in/IN your/PRP$ country/NN you/PRP want/VBP to/TO be/VB sure/JJ that/IN when/WRB the/DT ship/NN lands/NNS in/IN a/DT port/NN in/IN say/VBP my/PRP$ country/NN you/PRP can/MD validate/VB yourself/PRP using/VBG whatever/WDT equipment/NN we/PRP have/VBP installed"/NN Authenti-corp's/NNP CEO/NNP Cynthia/NNP Musselman/NNP told/VBD the/DT BBC's/NNP Go/VB Digital/NNP programme./NN
+She/PRP said/VBD French/JJ Jordanian/NNP and/CC Nigerian/NNP nationals/NNS would/MD be/VB the/DT first/JJ seafarers/NNS to/TO get/VB the/DT new/JJ ID/NNP cards/NNS since/IN their/PRP$ countries/NNS have/VBP already/RB ratified/VBN the/DT convention./NN
+It/PRP aims/VBZ to/TO combat/VB international/JJ terrorism/NN whilst/NN guaranteeing/VBG the/DT welfare/NN the/DT one/CD million/CD seafarers/NNS estimated/VBN to/TO be/VB at/IN sea./NN
+The/DT convention/NN highlights/VBZ the/DT importance/NN of/IN access/NN to/TO shore/VB facilities/NNS and/CC shore/VB leave/VB as/IN vital/JJ elements/NNS to/TO a/DT sailor's/NNS wellbeing/VBG and/CC therefore/RB it/PRP says/VBZ to/TO safer/JJR shipping/VBG and/CC cleaner/JJR oceans./NN
+"By/NN increasing/VBG security/NN on/IN the/DT seas/NNS as/RB well/RB as/IN border/NN control/NN and/CC protection/VB the/DT cards/NNS will/MD hopefully/RB reduce/VB the/DT number/NN of/IN piracy/NN problems/NNS around/IN the/DT world"/NN said/VBD Ms/NNP Musselman./NNP
+"It/NN should/MD be/VB a/DT safer/JJR environment/NN for/IN seafarers/NNS to/TO work/VB in/IN and/CC will/MD allow/VB people/NNS protecting/VBG their/PRP$ borders/NNS to/TO have/VB confidence/NN that/IN the/DT people/NNS getting/VBG off/RP the/DT ship/NN are/VBP in/IN fact/NN seafarers."/NN

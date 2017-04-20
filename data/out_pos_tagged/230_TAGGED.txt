@@ -1,0 +1,16 @@
+Yukos/NN drops/NNS banks/NNS from/IN court/NN bid/NN
+
+Russian/JJ oil/NN company/NN Yukos/NNP has/VBZ dropped/VBN the/DT threat/NN of/IN legal/JJ action/NN against/IN five/CD banks/NNS it/PRP had/VBD accused/VBN of/IN involvement/NN in/IN the/DT sale/NN of/IN its/PRP$ key/JJ Yugansk/NNP unit./NN
+
+State-owned/JJ Rosneft/NNP bought/VBD the/DT unit/NN for/IN $9.3bn/CD (£5bn)/CD after/IN Yukos/NNP was/VBD forced/VBN to/TO sell/VB assets/NNS to/TO meet/VB a/DT $27.5bn/CD tax/NN bill./NN
+Yukos/NNP says/VBZ the/DT sale/NN was/VBD illegal/JJ and/CC is/VBZ pursuing/VBG damages/NNS in/IN a/DT US/PRP court./VBP
+Its/PRP$ lawyers/NNS now/RB accept/VBP ABN/NNP Amro/NNP BNP/NNP Paribas/NNP Calyon/NNP JP/NNP Morgan/NNP Chase/NNP Bank/NNP and/CC Dresdner/NNP Kleinwort/NNP Wasserstein/NNP were/VBD not/RB involved/VBN in/IN the/DT sale/NN financing./NN
+However/RB Yukos/NNP still/RB has/VBZ an/DT outstanding/JJ complaint/NN against/IN Deutsche/NNP Bank/NNP which/WDT it/PRP alleges/VBZ to/TO be/VB the/DT leader/NN of/IN a/DT consortium/NN that/WDT was/VBD behind/IN a/DT bid/NN for/IN Yugansk/NNP by/IN state/NN gas/NN monopoly/NN Gazprom./NNP
+The/DT company/NN has/VBZ also/RB accused/VBN Gazprom/NNP the/DT Russian/JJ Federation/NNP and/CC two/CD other/JJ Russian/JJ firms./NN
+
+Gazprom/NNP had/VBD been/VBN expected/VBN to/TO win/VB the/DT December/NNP auction/NN but/CC ended/VBD up/RP not/RB bidding./NN
+Yugansk/NNP was/VBD sold/VBN to/TO a/DT little-known/JJ shell/NN company/NN which/WDT in/IN turn/NN was/VBD bought/VBN by/IN Rosneft./NNP
+Yukos/NN claims/VBZ its/PRP$ downfall/NN was/VBD punishment/NN for/IN the/DT political/JJ ambitions/NNS of/IN its/PRP$ founder/NN Mikhail/NNP Khodorkovsky./NNP
+The/DT firm/NN whose/WP$ finance/NN chief/NN is/VBZ now/RB based/VBN in/IN the/DT US/PRP filed/VBD for/IN bankruptcy/NN in/IN Houston/NNP Texas/NNP and/CC sought/VBD a/DT court/NN injunction/NN against/IN the/DT sale./NN
+But/CC Deutsche/NNP Bank/NNP has/VBZ suggested/VBN Yukos/NNP artificially/RB manufactured/VBD a/DT legal/JJ case/NN to/TO stop/VB the/DT sale/NN of/IN its/PRP$ main/JJ asset./NN
+A/DT hearing/NN scheduled/VBN for/IN February/NNP 16/CD and/CC 17/CD will/MD rule/VB on/IN whether/IN the/DT US/PRP court/VBP has/VBZ jurisdiction/NN in/IN the/DT case./NN
