@@ -1,0 +1,14 @@
+Incredibles/NNP win/VB animation/NN awards/NNS
+
+The/DT Incredibles/NNP movie/NN has/VBZ beaten/VBN Shrek/NNP 2/CD to/TO the/DT main/JJ prizes/NNS at/IN Hollywood's/NNP animation/NN awards/NNS the/DT Annies./NNP
+
+The/DT superhero/NN film/NN was/VBD named/VBN best/JJS animated/VBN feature/NN while/IN Brad/NNP Bird/NN won/VBD best/RBS director/NN writer/NN and/CC voice/NN actor/NN for/IN his/PRP$ role/NN as/IN designer/NN Edna/NNP Mode./NNP
+The/DT Incredibles/NNP won/VBD a/DT total/NN of/IN 10/CD awards/NNS -/: but/CC Shrek/NNP 2/CD which/WDT had/VBD seven/CD nominations/NNS went/VBD home/NN empty-handed./JJ
+The/DT two/CD movies/NNS will/MD compete/VB with/IN Shark/NN Tale/NNP in/IN the/DT best/JJS animated/VBN film/NN category/NN of/IN the/DT Oscars/NNP at/IN the/DT end/NN of/IN February./NNP
+
+The/DT Incredibles'/NNP awards/NNS came/VBD despite/IN Shrek/NNP 2's/CD greater/JJR box/NN office/NN success./NN
+Shrek/NNP 2/CD took/VBD $881m/CD (£468m)/CD around/IN the/DT world/NN compared/VBN with/IN $576m/CD (£306m)/CD for/IN The/DT Incredibles./NNP
+SpongeBob/NNP SquarePants/NNP was/VBD named/VBN best/JJS animated/VBN TV/NN show/NN while/IN TV/NN comedy/NN King/NNP of/IN the/DT Hill/NNP picked/VBD up/RB two/CD prizes/NNS including/VBG one/CD for/IN actress/NN Brittany/NNP Murphy's/NNP voice/NN work./NN
+Tom/NNP Kenny/NNP who/WP provides/VBZ the/DT voice/NN for/IN SpongeBob/NNP SquarePants/NNP hosted/VBD Sunday's/NNP ceremony/NN at/IN the/DT Alex/NNP Theater/NNP Los/NNP Angeles./NNP
+The/DT awards/NNS are/VBP handed/VBN out/RP by/IN the/DT International/NNP Animated/NNP Film/NNP Society./NNP
+Finding/VBG Nemo/NNP won/VBD nine/CD Annies/NNP last/JJ year./NN

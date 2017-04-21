@@ -1,0 +1,18 @@
+Jobs/NNP growth/NN still/RB slow/JJ in/IN the/DT US/PRP
+
+The/DT US/PRP created/VBD fewer/JJR jobs/NNS than/IN expected/VBN in/IN January/NNP but/CC a/DT fall/NN in/IN jobseekers/NNS pushed/VBD the/DT unemployment/NN rate/NN to/TO its/PRP$ lowest/JJS level/NN in/IN three/CD years./NN
+
+According/VBG to/TO Labor/NNP Department/NNP figures/VBZ US/PRP firms/VBZ added/VBD only/RB 146000/CD jobs/NNS in/IN January./NNP
+The/DT gain/NN in/IN non-farm/JJ payrolls/NNS was/VBD below/IN market/NN expectations/NNS of/IN 190000/CD new/JJ jobs./NN
+Nevertheless/RB it/PRP was/VBD enough/RB to/TO push/VB down/RP the/DT unemployment/NN rate/NN to/TO 5.2%/CD its/PRP$ lowest/JJS level/NN since/IN September/NNP 2001./CD
+The/DT job/NN gains/NNS mean/VBP that/IN President/NNP Bush/NNP can/MD celebrate/VB -/: albeit/IN by/IN a/DT very/JJ fine/JJ margin/NN -/: a/DT net/JJ growth/NN in/IN jobs/NNS in/IN the/DT US/PRP economy/VBP in/IN his/PRP$ first/JJ term/NN in/IN office./NN
+He/PRP presided/VBD over/IN a/DT net/JJ fall/NN in/IN jobs/NNS up/IN to/TO last/JJ November's/NNP Presidential/JJ election/NN -/: the/DT first/JJ President/NNP to/TO do/VB so/RB since/IN Herbert/NNP Hoover./NNP
+As/IN a/DT result/NN job/NN creation/NN became/VBD a/DT key/JJ issue/NN in/IN last/JJ year's/NNS election./NN
+However/RB when/WRB adding/VBG December/NNP and/CC January's/NNP figures/VBZ the/DT administration's/NNS first/RB term/NN jobs/NNS record/NN ended/VBD in/IN positive/JJ territory./NN
+
+The/DT Labor/NNP Department/NNP also/RB said/VBD it/PRP had/VBD revised/VBD down/RP the/DT jobs/NNS gains/NNS in/IN December/NNP 2004/CD from/IN 157000/CD to/TO 133000./CD
+
+Analysts/NNS said/VBD the/DT growth/NN in/IN new/JJ jobs/NNS was/VBD not/RB as/RB strong/JJ as/IN could/MD be/VB expected/VBN given/VBN the/DT favourable/JJ economic/JJ conditions./NN
+"It/NN suggests/VBZ that/DT employment/NN is/VBZ continuing/VBG to/TO expand/VB at/IN a/DT moderate/JJ pace"/NN said/VBD Rick/NNP Egelton/NNP deputy/NN chief/NN economist/NN at/IN BMO/NNP Financial/NNP Group./NNP
+"We/NN are/VBP not/RB getting/VBG the/DT boost/NN to/TO employment/VB that/IN we/PRP would/MD have/VB got/VBN given/VBN the/DT low/JJ value/NN of/IN the/DT dollar/NN and/CC the/DT still/RB relatively/RB low/JJ interest/NN rate/NN environment."/NN "The/NN economy/NN is/VBZ producing/VBG a/DT moderate/JJ but/CC not/RB a/DT satisfying/VBG amount/NN of/IN job/NN growth"/NN said/VBD Ken/NNP Mayland/NNP president/NN of/IN ClearView/NNP Economics./NNP
+"That/NN means/VBZ there/EX are/VBP a/DT limited/VBN number/NN of/IN new/JJ opportunities/NNS for/IN workers."/NN

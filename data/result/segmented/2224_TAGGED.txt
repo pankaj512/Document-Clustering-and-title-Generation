@@ -1,0 +1,21 @@
+US/PRP cyber/VBP security/NN chief/NN resigns/NNS
+
+The/DT man/NN making/VBG sure/JJ US/PRP computer/VBP networks/NNS are/VBP safe/JJ and/CC secure/VB has/VBZ resigned/VBN after/IN only/RB a/DT year/NN in/IN his/PRP$ post./NN
+
+Amit/NNP Yoran/NNP was/VBD director/NN of/IN the/DT National/NNP Cyber/NNP Security/NNP Division/NNP within/IN the/DT US/PRP Department/NNP of/IN Homeland/NN Security/NNP created/VBD following/VBG the/DT 9/11/CD attacks./NN
+The/DT division/NN was/VBD tasked/VBN with/IN improving/VBG US/PRP defences/NNS against/IN malicious/JJ hackers/NNS viruses/NNS and/CC other/JJ net-based/JJ threats./NN
+Reports/NNS suggest/VBP he/PRP left/VBD because/IN his/PRP$ division/NN was/VBD not/RB given/VBN enough/JJ clout/NN within/IN the/DT larger/JJR organisation./NN
+
+Mr/NNP Yoran/NNP took/VBD up/RP his/PRP$ post/NN in/IN September/NNP 2003/CD and/CC his/PRP$ first/JJ task/NN was/VBD to/TO get/VB the/DT Cyber/NNP Security/NNP Division/NNP up/RB and/CC running./NN
+The/DT organisation/NN had/VBD a/DT staff/NN of/IN about/IN 60/CD people/NNS and/CC a/DT budget/NN of/IN about/IN $80m/CD (£44.54m)./CD
+The/DT division/NN was/VBD charged/VBN with/IN thinking/VBG up/RB and/CC carrying/VBG out/RP action/NN to/TO make/VB US/PRP networks/NNS more/RBR impervious/JJ to/TO attack/VB and/CC disruption/NN by/IN the/DT viruses/NNS worms/NNS and/CC hack/VB attacks/NNS that/WDT have/VBP become/VBN commonplace./NN
+
+In/IN the/DT last/JJ 12/CD months/NNS Mr/NNP Yoran/NNP oversaw/VBD the/DT creation/NN of/IN a/DT cyber/NN alert/NN system/NN that/WDT sends/VBZ out/RP warnings/NNS about/IN big/JJ hitting/NN viruses/NNS and/CC net/JJ attacks/NNS as/IN they/PRP occur./VBP
+The/DT warnings/NNS also/RB contained/VBD information/NN about/IN how/WRB firms/NNS and/CC organisations/NNS could/MD protect/VB themselves/PRP against/IN these/DT attacks./NN
+The/DT Cyber/NNP Security/NNP Division/NNP also/RB audited/VBD US/PRP government/VBP networks/NNS to/TO discover/VB exactly/RB what/WP was/VBD sitting/VBG on/IN which/WDT network./NN
+The/DT next/JJ step/NN was/VBD to/TO be/VB the/DT creation/NN of/IN a/DT scanning/VBG system/NN to/TO identify/VB vulnerabilities/NNS that/WDT made/VBD federal/JJ networks/NNS and/CC machines/NNS susceptible/JJ to/TO attack/VB by/IN malicious/JJ hackers/NNS and/CC virus/NN writers./NN
+Mr/NNP Yoran's/NNP division/NN was/VBD also/RB doing/VBG work/NN to/TO identify/VB the/DT networks/NNS and/CC machines/NNS that/WDT had/VBD been/VBN broken/VBN into/IN by/IN cyber/NN criminals./NN
+Despite/IN this/DT success/NN Mr/NNP Yoran/NNP left/VBD his/PRP$ post/NN abruptly/RB at/IN the/DT end/NN of/IN last/JJ week/NN reportedly/RB only/RB giving/VBG one/CD day's/NNS notice/NN to/TO bosses/NNS at/IN the/DT Department/NNP of/IN Homeland/NN Security./NNP
+"Amit/NNP Yoran/NNP has/VBZ been/VBN a/DT valuable/JJ contributor/NN on/IN cyber/NN security/NN issues/NNS over/IN the/DT past/JJ year/NN and/CC we/PRP appreciate/VBP his/PRP$ efforts/NNS in/IN starting/VBG the/DT department's/NNS cybersecurity/NN program"/NN said/VBD a/DT Department/NNP of/IN Homeland/NN Security/NNP spokeswoman./NN
+Some/DT reports/NNS have/VBP suggested/VBN that/IN Mr/NNP Yoran/NNP felt/VBD frustrated/VBN by/IN the/DT lack/NN of/IN prominence/NN given/VBN to/TO work/VB to/TO protect/VB against/IN net-based/JJ threats/NNS in/IN the/DT wider/JJR homeland/NN organisation./NN
+An/DT attempt/NN by/IN US/PRP politicians/VBZ to/TO pass/VB a/DT law/NN to/TO promote/VB Mr/NNP Yoran/NNP and/CC raise/VB the/DT profile/NN of/IN his/PRP$ department's/NNS work/VBP is/VBZ now/RB mired/VBN in/IN Congress./NNP
