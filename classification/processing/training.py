@@ -1,6 +1,5 @@
 # this is Support vector machine classifier
 from sklearn import svm
-
 def train_machine(stories_train,labels_train):
     # three parameter is used of SVM
     # 1. C

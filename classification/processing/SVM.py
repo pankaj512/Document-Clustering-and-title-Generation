@@ -1,9 +1,9 @@
-from processing import prediction
-from processing import training
-from processing import vector
+from classification.processing import prediction
+from classification.processing import training
+from classification.processing import vector
 
 from classification.processing import split_train_test
-
+from sklearn.metrics import classification_report
 
 def perform(stopword,size):
 
@@ -18,6 +18,7 @@ def perform(stopword,size):
     #now get accuracy
     accuracy = prediction.accuracy_score(pred, labels_test)
     #return accuracy
+    print(classification_report(labels_test, pred))
     return accuracy
 
 
