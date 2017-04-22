@@ -17,6 +17,8 @@ def initialise_all():
     headline_synthesis_initialise()
     logger = open(LOG_FILE_LOCATION, 'w', encoding='utf-8')
 
+# file path is temp location where only story of file exist
+
 def get_file_headings(file_path, headline_length=8):
     """
     Creates the actual headings by parsing the passed file and generating sequences.
@@ -26,17 +28,17 @@ def get_file_headings(file_path, headline_length=8):
     with open(file_path,'r') as file:
         text = file.read()
 
-    top_20_words = classify_new_file(file_path)
+    top_25_words = classify_new_file(file_path)
 
     heap, next_heap = [], []
-    for word in top_20_words:
+    for word in top_25_words:
         heappush(heap, (0, [word]))
 
     index = 0
-    max_length = 20
+    max_length = 25
     while index < max_length:
         if index < 1:
-            max_range = 21
+            max_range = 25
         elif index < 3:
             max_range = 3
         else:
@@ -50,7 +52,7 @@ def get_file_headings(file_path, headline_length=8):
                 probability_list.append(prob)
 
             index2 += 1
-            for all_word in top_20_words:
+            for all_word in top_25_words:
                 if all_word not in word:
                     word_copy = copy.deepcopy(word)
                     existing_words = [word1.rsplit('/', 1)[0] for word1 in word_copy]
@@ -58,7 +60,7 @@ def get_file_headings(file_path, headline_length=8):
                         continue
                     word_copy.append(all_word)
                     word_str = ' '.join(word_copy)
-                    probab_value = get_headline_synthesis_score(word_str, top_20_words, text)
+                    probab_value = get_headline_synthesis_score(word_str, top_25_words, text)
                     logger.write('%s- %s\n' %(word_str, probab_value))
                     heappush(next_heap, (-1*probab_value, word_copy))
         heap = next_heap

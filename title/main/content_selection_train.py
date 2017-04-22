@@ -16,7 +16,6 @@ stop_word_list = stopwords.words('english')
 
 TFIDF_LOCATION = 'model/tfidf.pickle'    # this file is missing -- resolved
 
-#nltk.config_megam()
 
 
 def initialise():

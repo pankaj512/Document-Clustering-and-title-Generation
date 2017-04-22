@@ -2,7 +2,7 @@ import os
 
 from title.main.decoding import initialise_all, get_file_headings
 from title.main.Utils import remove_tags_from_line
-from title.POSTagger import pos_tagger
+#from title.POSTagger import pos_tagger
 
 
 def get_file_path(input_path):
@@ -30,15 +30,15 @@ def process_directory(input_dir, output_dir):
     """
     for file_name in os.listdir(input_dir):
         output_file = os.path.join(output_dir, '%s_processed.txt' % file_name.split('.')[0])
-        with open(output_file, 'w', encoding='utf-8') as out_file:
+        with open(output_file, 'w') as out_file:
             headline, file_path = get_file_path(os.path.join(input_dir, file_name))
             top_sentences = get_file_headings(file_path, len(headline.split()))
-            out_file.write('%s\n' % headline.strip())
-            sentences = '\n'.join(top_sentences)
+            out_file.write('%s\n' % headline.strip()) # actual title
+            sentences = '\n'.join(top_sentences)      # generated title
             out_file.write(sentences)
 
-if __name__ == '__main__':
-    os.chdir('../../title/main/')
+def generate_tilte():
+    os.chdir('title/main/')
     initialise_all()
     #os.chdir("../../RDRPOSTagger")
     #in_path = 'C:/Users/Pankaj Kumar/Desktop/Project/major/major_project/data/result/test_input/'

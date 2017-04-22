@@ -151,14 +151,14 @@ def classify_new_file(file_path):
 
     dict_unique_words = {}
     sorted_headline_words = sorted(all_potential_headline_words.items(), key=operator.itemgetter(1), reverse=True)
-    top_20_words= {}
+    top_25_words= {}
     for entry in sorted_headline_words:
         word_with_tag, value = entry
         word = word_with_tag.rsplit('/', 1)[0]
         if word not in dict_unique_words:
             dict_unique_words[word] = 1
-        top_20_words[word_with_tag] = value
-        if len(dict_unique_words) > 20:
+        top_25_words[word_with_tag] = value
+        if len(dict_unique_words) > 25:
             break
 
-    return top_20_words
+    return top_25_words
