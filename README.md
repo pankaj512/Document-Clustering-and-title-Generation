@@ -1,5 +1,5 @@
-# Document-Clustering-and-classification
-A news Document classifier with supervised learning algorithm.
+# Document Clustering and Title generation
+A news Document classifier with supervised learning algorithm and title generation with machine learning.
 
 Needed python libraries:
 
