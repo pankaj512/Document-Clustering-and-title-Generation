@@ -106,7 +106,8 @@ def save():
 
 if __name__ == '__main__':
     initialise()  # content_selection_classify.
-    path = 'C:/Users/Pankaj Kumar/Desktop/Project/major/major_project/data/out_pos_tagged/'
+    base = os.path.abspath("../../")
+    path = base+'/data/out_pos_tagged/'
     process_directory(path)
     train()
     save()

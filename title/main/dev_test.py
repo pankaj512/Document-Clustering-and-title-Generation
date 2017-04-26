@@ -37,13 +37,17 @@ def process_directory(input_dir, output_dir):
             sentences = '\n'.join(top_sentences)      # generated title
             out_file.write(sentences)
 
-def generate_tilte():
+def generate_tilte(base):
     os.chdir('title/main/')
     initialise_all()
-    #os.chdir("../../RDRPOSTagger")
-    #in_path = 'C:/Users/Pankaj Kumar/Desktop/Project/major/major_project/data/result/test_input/'
-    seg_out_path = 'C:/Users/Pankaj Kumar/Desktop/Project/major/major_project/data/result/segmented/'
-    out_path = 'C:/Users/Pankaj Kumar/Desktop/Project/major/major_project/data/result/test_output/'
+
+    #os.chdir("../../")
+    #in_path = base+'/data/result/test_input/'
+
+    seg_out_path = base + '/data/result/segmented/'
+    out_path = base + '/data/result/test_output/'
+
     #pos_tagger.parse_directory(in_path,seg_out_path)
     #os.chdir('../title/main/')
+
     process_directory(seg_out_path,out_path)

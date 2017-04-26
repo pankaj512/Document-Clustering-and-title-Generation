@@ -153,7 +153,8 @@ def save_classifier():
 
 if __name__ == '__main__':
     initialise()
-    path= 'C:/Users/Pankaj Kumar/Desktop/Project/major/major_project/data/out_pos_tagged/'
+    base = os.path.abspath("../../")
+    path= base +'/data/out_pos_tagged/'
     process_input_directory(path)
     train_model()
     save_classifier()

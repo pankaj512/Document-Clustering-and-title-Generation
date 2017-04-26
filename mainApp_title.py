@@ -22,9 +22,10 @@ def get_best_title(file,in_path,out_path):
     return
 
 if __name__ == '__main__':
-    dev_test.generate_tilte()
-    in_path = 'C:/Users/Pankaj Kumar/Desktop/Project/major/major_project/data/result/test_output/'
-    out_path = 'C:/Users/Pankaj Kumar/Desktop/Project/major/major_project/data/result/best_tilte_with_cosine/'
+    base = os.path.abspath("")
+    dev_test.generate_tilte(base)
+    in_path = base+'/data/result/test_output/'
+    out_path = base +'/data/result/best_tilte_with_cosine/'
     for file_name in os.listdir(in_path):
         try:
             get_best_title(file_name,in_path,out_path)
