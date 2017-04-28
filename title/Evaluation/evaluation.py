@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*
-import os
-import sys
 import numpy as np
 
 '''
@@ -8,12 +6,14 @@ Added a parser file which loops over all the files in a directory and generates 
 
 '''
 
+
 def evaluation_cosine(s1, s2):
     '''
     Returns cosine and tf idf evaluation for two given sentences
     '''
     words = {}
     i = 0
+
     # loop through each list, find distinct words and map them to a
     # unique number starting at zero
 
@@ -45,26 +45,26 @@ def evaluation_cosine(s1, s2):
     # use numpy's dot product to calculate the cosine similarity
     sim = np.dot(a, b) / np.sqrt(np.dot(a, a) * np.dot(b, b))
     # print "cosine value is "+str(sim)
-    return sim   # similarity score of to title
+    return sim  # similarity score of to title
 
-def evaluate_headline(actual,generated):
+
+def evaluate_headline(actual, generated):
     cosine = 0.0
     max_cosine = 0.0
     max_cosine_file = 0
     max_cosine = 0
-    for i in  range(len(generated)):
+    for i in range(len(generated)):
         current = generated[i]
         cosine = evaluation_cosine(actual, current)
-        if (max_cosine < cosine):
+        if max_cosine < cosine:
             max_cosine = cosine
             max_cosine_file = i
-    return max_cosine_file,max_cosine
+    return max_cosine_file, max_cosine
 
 
 # main
 if __name__ == '__main__':
-
-    path = "" #path to title directory
+    path = ""  # path to title directory
     evaluate_headline()
     print(cosine_list)
     # sorted_names = sorted(cosine_list.iteritems(), key=lambda (k,v): (-v, k))[:50]

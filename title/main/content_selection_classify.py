@@ -164,3 +164,6 @@ def classify_new_file(file_path):
             break
 
     return top_25_words
+    """
+    top_25_words = a dictionary of word with tag and its value
+    """

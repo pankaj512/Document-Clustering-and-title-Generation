@@ -2,7 +2,9 @@ import os
 
 from title.main.decoding import initialise_all, get_file_headings
 from title.main.Utils import remove_tags_from_line
-#from title.POSTagger import pos_tagger
+
+
+# from title.POSTagger import pos_tagger
 
 
 def get_file_path(input_path):
@@ -13,10 +15,9 @@ def get_file_path(input_path):
     with open(temp_location, 'w') as file:
         out_file = file
         with open(input_path, 'r') as in_file:
-
             lines = in_file.readlines()
-            headline = lines[0] # actual headline
-            data  = lines[1:]
+            headline = lines[0]  # actual headline
+            data = lines[1:]
             out_file.writelines(data)
 
     headline = remove_tags_from_line(headline.split())
@@ -33,21 +34,22 @@ def process_directory(input_dir, output_dir):
         with open(output_file, 'w') as out_file:
             headline, file_path = get_file_path(os.path.join(input_dir, file_name))
             top_sentences = get_file_headings(file_path, len(headline.split()))
-            out_file.write('%s\n' % headline.strip()) # actual title
-            sentences = '\n'.join(top_sentences)      # generated title
+            out_file.write('%s\n' % headline.strip())  # actual title
+            sentences = '\n'.join(top_sentences)  # generated title
             out_file.write(sentences)
+
 
 def generate_tilte(base):
     os.chdir('title/main/')
     initialise_all()
 
-    #os.chdir("../../")
-    #in_path = base+'/data/result/test_input/'
+    # os.chdir("../../")
+    # in_path = base+'/data/result/test_input/'
 
-    seg_out_path = base + '/data/result/segmented/'
+    seg_out_path = base + '/data/result/segmented/'  # files with tags in text
     out_path = base + '/data/result/test_output/'
 
-    #pos_tagger.parse_directory(in_path,seg_out_path)
-    #os.chdir('../title/main/')
+    # pos_tagger.parse_directory(in_path,seg_out_path)
+    # os.chdir('../title/main/')
 
-    process_directory(seg_out_path,out_path)
+    process_directory(seg_out_path, out_path)
