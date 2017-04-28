@@ -1,14 +1,11 @@
 # -*- coding: utf-8 -*-
-import nltk
 import os
-import pickle
-import sys
-import re
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-TFIDF_LOCATION = '../model/tfidf.pickle'    #this file is genetrated here
+TFIDF_LOCATION = '../model/tfidf.pickle'    # this file contain (word and it's tf-idf score) one in each row
 
-# TODO need fixing
+# it return text from all the files in the segmented data folder
 
 def process_input_directory(input_directory):
     all_text = []
@@ -30,6 +27,7 @@ def generate_tf_idf_values(all_text):
     tfidf = TfidfVectorizer(stop_words='english', smooth_idf=True, encoding='utf-8')
     response = tfidf.fit_transform(all_text)
     feature_names = tfidf.get_feature_names()
+
     with open(TFIDF_LOCATION,'w') as out_file:
         for col in response.nonzero()[1]:
             out_file.write('%s %s\n' %( feature_names[col], response[0, col]))

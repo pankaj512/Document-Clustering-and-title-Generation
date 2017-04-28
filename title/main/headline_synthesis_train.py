@@ -1,12 +1,8 @@
-import codecs
 import os
-import pickle
-import sys
 
-import nltk
 from nltk.classify import maxent
+
 from title.main.content_selection_classify import *
-from title.main.featureFunctions.headline_model_features import get_headline_synthesis_features
 from title.main.featureFunctions.BLEU_comparison import get_bleu_score
 from title.main.featureFunctions.generate_language_model_features import get_feature_values
 

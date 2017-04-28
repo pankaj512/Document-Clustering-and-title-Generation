@@ -2,9 +2,10 @@ import math
 import operator
 import pickle
 
+from nltk.corpus import stopwords
+
 from title.main.Utils import get_start_end_indices
 from title.main.featureFunctions.features import get_feature_dict
-from nltk.corpus import stopwords
 from title.main.featureFunctions.file_level_features import get_word_range
 
 classifier = None
@@ -13,7 +14,7 @@ stop_word_list = []
 
 TFIDF_LOCATION = 'model/tfidf.pickle'  # this file is missing  --resolved
 
-import os
+
 def initialise():
     """Initialises the globally declared variables.
 
@@ -92,15 +93,9 @@ def process_sentence(sentence, file_level_dict, word_dict):
 
     for index in range(0, len(words)):
         start_index, end_index = get_start_end_indices(index, len(words))
-        feature_dict = get_feature_dict(words[start_index: end_index], index-start_index)
+        feature_dict = get_feature_dict(words[start_index: end_index],file_level_dict,word_dict,index-start_index)
 
         word = words[index].rsplit('/', 1)[0]
-        feature_dict['tfidf'] = word_dict.get(word, '90_100')
-
-        feature_dict['lead_sentence'] = file_level_dict[word]['lead_sentence']
-        feature_dict['first_occurance'] = file_level_dict[word]['first_occurance']
-        feature_dict['range'] = ','.join(str(x) for x in file_level_dict[word]['range'])
-
         feature_dict['stop_word'] = 1 if word in stop_word_list else 0
 
         output = classifier.prob_classify(feature_dict)

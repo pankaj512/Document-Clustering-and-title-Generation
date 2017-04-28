@@ -3,7 +3,7 @@ import os
 import pickle
 import sys
 
-from title.main.featureFunctions.features import get_feature_dict, get_outcome
+from title.main.featureFunctions.features import get_feature_dict, is_word_in_headline
 from title.main.featureFunctions.file_level_features import get_word_range
 from nltk.classify import maxent
 from nltk.corpus import stopwords
@@ -20,7 +20,7 @@ TFIDF_LOCATION = 'model/tfidf.pickle'    # this file is missing -- resolved
 
 def initialise():
     """Initialises the globally declared variables.
-
+        a dictionary is created where key= word and value= tf-idf score
     These variables are used throughout the file.
     """
     global tfidf_dict
@@ -50,16 +50,16 @@ def get_tfidf_score(all_lines):
     all_values.sort()
 
     length = len(all_values) - 1
-    first_range_boundary = all_values[int(math.floor(0.9*length))]
-    second_range_boundary = all_values[int(math.floor(0.1*length))]
+    first_range_boundary = all_values[int(math.floor(0.9*length))]  # lowest 90% score
+    second_range_boundary = all_values[int(math.floor(0.1*length))] # lowest 10% score
 
     for (key, value) in word_dict.items():
         if value >= first_range_boundary:
-            word_dict[key] = '1_10'
+            word_dict[key] = '1_10'  # in 10% lowest score range
         elif value >= second_range_boundary:
-            word_dict[key] = '10_90'
+            word_dict[key] = '10_90' # in 10-90% score range
         else:
-            word_dict[key] = '90_100'
+            word_dict[key] = '90_100' # in top 10% score range
     return word_dict
 
 
@@ -72,11 +72,22 @@ def get_file_level_details(file_path):
         lines = file.readlines()
         all_lines = lines[1:]
         file_level_dict = get_word_range(all_lines)
-        word_dict = get_tfidf_score(all_lines)
-    return file_level_dict, word_dict
+        """
+        file_level_dict is a dictionary containing information about the position of word in the file like
+        1. is first sentence word
+        2. in what range it is occurring (top 10%, 10-90%, last 10%)
+        """
+        word_score_dict = get_tfidf_score(all_lines)
+        """
+        word_dict is a dictionary containing information about  in which range score(tf-idf) of word lies
+        1. lowest 10%
+        2. between 10-90%
+        3. top 10%
+        """
+    return file_level_dict, word_score_dict
 
 
-def process_sentence(sentence, headline, file_level_dict, word_dict):
+def process_sentence(sentence, actual_headline, file_level_dict, word_dict):
     """
     For the sentence passed, generates the feature sets for all the words present in the sentence.
     The generated feature set is used to train the model.
@@ -86,18 +97,20 @@ def process_sentence(sentence, headline, file_level_dict, word_dict):
         return
     words = sentence.strip().split()
     for index in range(0, len(words)):
+        """
+        consider total five word 2 before the index, 1 index itself, 2 after the index (except corner cases)
+        """
         start_index, end_index = get_start_end_indices(index, len(words))
-        outcome = get_outcome(words[index], headline)
-        feature_dict = get_feature_dict(words[start_index: end_index], index-start_index)
-
-        # additional fields
+        outcome = is_word_in_headline(words[index], actual_headline)
+        """
+         outcome is 1 or zero based on if word present in headline or not
+        """
+        feature_dict = get_feature_dict(words[start_index: end_index],file_level_dict,word_dict,index-start_index)
+        """
+         feature_dict is dictionary with all the features to be used
+        """
+        # stop word feature
         word = words[index].rsplit('/', 1)[0]
-        feature_dict['tfidf'] = word_dict.get(word, '90_100')
-
-        feature_dict['lead_sentence'] = file_level_dict[word]['lead_sentence']
-        feature_dict['first_occurance'] = file_level_dict[word]['first_occurance']
-        feature_dict['range'] = ','.join(str(x) for x in file_level_dict[word]['range'])
-
         feature_dict['stop_word'] = 1 if word in stop_word_list else 0
         # add this to set of all features
         feature_set.append((feature_dict, outcome))
@@ -116,13 +129,16 @@ def process_input_directory(directory):
             try:
                 file_path = os.path.join(directory, file_name)
                 file_level_dict, word_dict = get_file_level_details(file_path)
-
+                """
+                file_level_dict contain info about the position of word in file 10% 10-90% 90-100%
+                word_dict contain info about in which range each word's if-idf score lies lower 10% 10-90% top 10%
+                """
                 with open(file_path, 'r',) as file:
                     sentences = file.readlines()
-                    headline = sentences[0]
-                    sentences = sentences[1:]
+                    actual_headline = sentences[0]   # actual headline
+                    sentences = sentences[1:] # story of news
                     for sentence in sentences:
-                        process_sentence(sentence, headline, file_level_dict, word_dict)
+                        process_sentence(sentence, actual_headline, file_level_dict, word_dict)
             except:
                 error.write('filename : %s\n' % file_name)
                 import traceback
@@ -138,7 +154,6 @@ def train_model():
     global classifier, feature_set
     #print(feature_set)
     classifier = maxent.MaxentClassifier.train(feature_set,max_iter=10)
-    #classifier = MaxentClassifier.train(feature_set, "megam")
 
 
 def save_classifier():
