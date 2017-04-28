@@ -13,7 +13,7 @@ List of features used:
 """
 
 
-def is_word_in_headline(word, heading):
+def is_word_in_title(word, heading):
     """
     Returns if the word is present in heading or not.
     """

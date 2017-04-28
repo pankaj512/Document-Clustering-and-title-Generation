@@ -80,7 +80,7 @@ def get_file_level_details(file_path, headers_present=True):
 
 
 def process_sentence(sentence, file_level_dict, word_dict):
-    """For the sentence passed, returns the words along with the probabilities of each word to be present in headline.
+    """For the sentence passed, returns the words along with the probabilities of each word to be present in title.
 
     Uses the content generation model trained before to get the probability.
     """
@@ -89,7 +89,7 @@ def process_sentence(sentence, file_level_dict, word_dict):
         return
     words = sentence.strip().split()
 
-    headline_words = {}
+    title_words = {}
 
     for index in range(0, len(words)):
         start_index, end_index = get_start_end_indices(index, len(words))
@@ -101,36 +101,36 @@ def process_sentence(sentence, file_level_dict, word_dict):
         output = classifier.prob_classify(feature_dict)
 
         if output.prob(1) > 0.0:
-            headline_words[words[index]] = max(output.prob(1), headline_words.get(words[index], 0)) # if present then value else 0
+            title_words[words[index]] = max(output.prob(1), title_words.get(words[index], 0)) # if present then value else 0
 
-    return headline_words
+    return title_words
 
 
 def classify_dev_file(file_location):
     """For given file path, returns a dictionary of all the words along with the probability value.
 
-    This function is called by headline synthesis process during training and so return value consists of all the words.
+    This function is called by title synthesis process during training and so return value consists of all the words.
     """
     global classifier
     file_level_dict, word_dict = get_file_level_details(file_location)
     with open(file_location, 'r') as file:
         sentences = file.readlines()
-        actual_headline = sentences[0]
-        all_potential_headline_words = {}
+        actual_title = sentences[0]
+        all_potential_title_words = {}
         sentences = sentences[1:]
         for sentence in sentences:
-            headline_words = process_sentence(sentence, file_level_dict, word_dict)
+            title_words = process_sentence(sentence, file_level_dict, word_dict)
             """
-            words with probability to be included in headline
+            words with probability to be included in title
             """
-            if headline_words:
-                for (key, value) in headline_words.items():
-                    all_potential_headline_words[key] = max(value, all_potential_headline_words.get(key, 0))
+            if title_words:
+                for (key, value) in title_words.items():
+                    all_potential_title_words[key] = max(value, all_potential_title_words.get(key, 0))
 
-    return actual_headline, all_potential_headline_words
+    return actual_title, all_potential_title_words
     """
-    actual_headline = given headline of file
-    all_potential_headline_words = words with heighest probability
+    actual_title = given title of file
+    all_potential_title_words = words with heighest probability
     """
 
 
@@ -138,23 +138,23 @@ def classify_new_file(file_path):
     """
     This function is called by decoding algorithm.
     For given input file, it returns a dictionary of 20 words along with their associated probability which are most
-    suitable to be included in the headline.
+    suitable to be included in the title.
     """
     file_level_dict, word_dict = get_file_level_details(file_path, False)
-    all_potential_headline_words = {}
+    all_potential_title_words = {}
 
     with open(file_path, 'r') as file:
         sentences = file.readlines()
         for sentence in sentences:
-            headline_words = process_sentence(sentence, file_level_dict, word_dict)
-            if headline_words:
-                for (key, value) in headline_words.items():
-                    all_potential_headline_words[key] = max(value, all_potential_headline_words.get(key, 0))
+            title_words = process_sentence(sentence, file_level_dict, word_dict)
+            if title_words:
+                for (key, value) in title_words.items():
+                    all_potential_title_words[key] = max(value, all_potential_title_words.get(key, 0))
 
     dict_unique_words = {}
-    sorted_headline_words = sorted(all_potential_headline_words.items(), key=operator.itemgetter(1), reverse=True)
+    sorted_title_words = sorted(all_potential_title_words.items(), key=operator.itemgetter(1), reverse=True)
     top_25_words= {}
-    for entry in sorted_headline_words:
+    for entry in sorted_title_words:
         word_with_tag, value = entry
         word = word_with_tag.rsplit('/', 1)[0]
         if word not in dict_unique_words:

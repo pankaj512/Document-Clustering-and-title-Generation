@@ -7,7 +7,7 @@ from heapq import heappush, heappop
 
 from title.main.Utils import remove_tags_from_line
 from title.main.content_selection_classify import *
-from title.main.headline_synthesis_classify import *
+from title.main.title_synthesis_classify import *
 
 logger = None
 LOG_FILE_LOCATION = 'temp/parse_log.log'  # this file is missing  --resolved
@@ -15,16 +15,16 @@ LOG_FILE_LOCATION = 'temp/parse_log.log'  # this file is missing  --resolved
 
 def initialise_all():
     """
-    Initialise the content selection and headline synthesis models
+    Initialise the content selection and title synthesis models
     """
     global logger
     initialise()  # content_selection_classify.initialise()
-    headline_synthesis_initialise()  # headline_synthesis_classify.initialise()
+    title_synthesis_initialise()  # title_synthesis_classify.initialise()
     logger = open(LOG_FILE_LOCATION, 'w', encoding='utf-8')  # log file never mind
 
 
 # file path is temp location where only story of file exist
-def get_file_headings(file_path, headline_length=8):
+def get_file_headings(file_path, title_length=8):
     """
     Creates the actual headings by parsing the passed file and generating sequences.
     """
@@ -71,13 +71,13 @@ def get_file_headings(file_path, headline_length=8):
                         continue
                     word_copy.append(all_word)
                     word_str = ' '.join(word_copy)
-                    probab_value = get_headline_synthesis_score(word_str, top_25_words, text)
+                    probab_value = get_title_synthesis_score(word_str, top_25_words, text)
                     logger.write('%s- %s\n' % (word_str, probab_value))
                     heappush(next_heap, (-1 * probab_value, word_copy))
         heap = next_heap
         next_heap = heap
         index += 1
-        max_length = headline_length  # change headline length if needed
+        max_length = title_length  # change title length if needed
 
     count = 0
     while heap and count < 10:

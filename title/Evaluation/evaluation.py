@@ -48,7 +48,7 @@ def evaluation_cosine(s1, s2):
     return sim  # similarity score of to title
 
 
-def evaluate_headline(actual, generated):
+def evaluate_title(actual, generated):
     cosine = 0.0
     max_cosine = 0.0
     max_cosine_file = 0
@@ -65,7 +65,6 @@ def evaluate_headline(actual, generated):
 # main
 if __name__ == '__main__':
     path = ""  # path to title directory
-    evaluate_headline()
-    print(cosine_list)
+    evaluate_title()
     # sorted_names = sorted(cosine_list.iteritems(), key=lambda (k,v): (-v, k))[:50]
     # print(sorted_names)

@@ -3,7 +3,7 @@ import os
 import pickle
 import sys
 
-from title.main.featureFunctions.features import get_feature_dict, is_word_in_headline
+from title.main.featureFunctions.features import get_feature_dict, is_word_in_title
 from title.main.featureFunctions.file_level_features import get_word_range
 from nltk.classify import maxent
 from nltk.corpus import stopwords
@@ -87,7 +87,7 @@ def get_file_level_details(file_path):
     return file_level_dict, word_score_dict
 
 
-def process_sentence(sentence, actual_headline, file_level_dict, word_dict):
+def process_sentence(sentence, actual_title, file_level_dict, word_dict):
     """
     For the sentence passed, generates the feature sets for all the words present in the sentence.
     The generated feature set is used to train the model.
@@ -101,9 +101,9 @@ def process_sentence(sentence, actual_headline, file_level_dict, word_dict):
         consider total five word 2 before the index, 1 index itself, 2 after the index (except corner cases)
         """
         start_index, end_index = get_start_end_indices(index, len(words))
-        outcome = is_word_in_headline(words[index], actual_headline)
+        outcome = is_word_in_title(words[index], actual_title)
         """
-         outcome is 1 or zero based on if word present in headline or not
+         outcome is 1 or zero based on if word present in title or not
         """
         feature_dict = get_feature_dict(words[start_index: end_index],file_level_dict,word_dict,index-start_index)
         """
@@ -135,10 +135,10 @@ def process_input_directory(directory):
                 """
                 with open(file_path, 'r',) as file:
                     sentences = file.readlines()
-                    actual_headline = sentences[0]   # actual headline
+                    actual_title = sentences[0]   # actual title
                     sentences = sentences[1:] # story of news
                     for sentence in sentences:
-                        process_sentence(sentence, actual_headline, file_level_dict, word_dict)
+                        process_sentence(sentence, actual_title, file_level_dict, word_dict)
             except:
                 error.write('filename : %s\n' % file_name)
                 import traceback

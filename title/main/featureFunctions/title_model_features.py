@@ -2,7 +2,7 @@
 """
 List of features used:
 1. Language model features
-2. Headline Length feature
+2. title Length feature
 3. Part of Speech Language Model Feature
 4. N-Gram Match feature
 5. Content selection feature
@@ -13,76 +13,76 @@ import math
 # model feature tuple
 feature_values = []
 
-# structures for headline length feature
+# structures for title length feature
 Unique_length_count = 0  # range considered is 3 to 15(13 values )
-headline_length_count = {}
-headline_length_probability = {}
+title_length_count = {}
+title_length_probability = {}
 # structures for language model feature
 unique_bigram_count = 0
 language_model_count = {}
 language_model_probability = {}
 word_count = {}
-# structure for pos headline bigram feature
+# structure for pos title bigram feature
 unique_bigram_pos_count = 0
 bigram_model_count = {}
 
-# structure for pos headline trigram feature
+# structure for pos title trigram feature
 unique_trigram_pos_count = 0
 trigram_model_count = {}
 trigram_model_probability = {}
 
 
-def compute_headline_length_counts(headline_word_tag_list):
+def compute_title_length_counts(title_word_tag_list):
     """
-    Input: A list with each entry having headline from input corpus
-    operation: computes the headline length for each article headline  and stores the probability 
-    for each headline length in a length dictionary
+    Input: A list with each entry having title from input corpus
+    operation: computes the title length for each article title  and stores the probability 
+    for each title length in a length dictionary
     """
-    global headline_length_count, Unique_length_count  # range considered is 3 to 15(13)
+    global title_length_count, Unique_length_count  # range considered is 3 to 15(13)
 
-    for headline in headline_word_tag_list:
+    for title in title_word_tag_list:
         count = 0
-        tokens = headline.split(" ")
+        tokens = title.split(" ")
         for entry in tokens:
             word, tag = entry.rsplit('/', 1)
             count += 1
 
-        if count in headline_length_count:
-            headline_length_count[count] += 1
+        if count in title_length_count:
+            title_length_count[count] += 1
         else:
-            headline_length_count[count] = 1
+            title_length_count[count] = 1
             Unique_length_count += 1
 
 
-def compute_headline_length_probability(headline_word_tag_list):
+def compute_title_length_probability(title_word_tag_list):
     """
-    Input: A list with each entry having headline from input corpus
-    operation: computes the headline length for each article headline  and stores the probability
-     for each headline length in a length dictionary
+    Input: A list with each entry having title from input corpus
+    operation: computes the title length for each article title  and stores the probability
+     for each title length in a length dictionary
     """
-    global headline_length_count, Unique_length_count, headline_length_probability  # range considered is 3 to 15(13)
+    global title_length_count, Unique_length_count, title_length_probability  # range considered is 3 to 15(13)
 
-    headline_length_probability = headline_length_count.copy()
-    # computing total headline count
-    total_no_of_headlines = len(headline_word_tag_list)
-    compute_headline_length_counts(headline_word_tag_list)
+    title_length_probability = title_length_count.copy()
+    # computing total title count
+    total_no_of_titles = len(title_word_tag_list)
+    compute_title_length_counts(title_word_tag_list)
 
-    for i in headline_length_count:
-        # print "key:"+str(i)+" val:"+str(headline_length_count[i])
-        temp = (headline_length_count[i]) / float(total_no_of_headlines)
+    for i in title_length_count:
+        # print "key:"+str(i)+" val:"+str(title_length_count[i])
+        temp = (title_length_count[i]) / float(total_no_of_titles)
         # print "temp:"+str(temp)
-        headline_length_probability[i] = temp
+        title_length_probability[i] = temp
 
 
-def compute_word_count(headline_word_tag_list):
+def compute_word_count(title_word_tag_list):
     """
-    Input: A list with each entry having headline from input corpus
+    Input: A list with each entry having title from input corpus
     operation: computes the word count of each word in dataset
     """
 
     global word_count
-    for headline in headline_word_tag_list:
-        tokens = headline.split(" ")
+    for title in title_word_tag_list:
+        tokens = title.split(" ")
         for entry in tokens:
             word, tag = entry.rsplit('/', 1)
             if word in word_count:
@@ -91,15 +91,15 @@ def compute_word_count(headline_word_tag_list):
                 word_count[word] = 1
 
 
-def compute_language_model_counts(headline_word_tag_list):
+def compute_language_model_counts(title_word_tag_list):
     """
-    Input: A list with each entry having headline from input corpus
+    Input: A list with each entry having title from input corpus
     operation: computes the language model counts for each article bigram  and stores the probability for each bigram in dictionary
     """
     global language_model_count, unique_bigram_count
 
-    for headline in headline_word_tag_list:
-        tokens = headline.split(" ")
+    for title in title_word_tag_list:
+        tokens = title.split(" ")
         prev = "start"
         cur = "start"
         for entry in tokens:
@@ -120,20 +120,20 @@ def compute_language_model_counts(headline_word_tag_list):
                     language_model_count[prev][cur] = 1
 
 
-def compute_language_model_probability(headline_word_tag_list):
+def compute_language_model_probability(title_word_tag_list):
     """
-    Input: A list with each entry having headline from input corpus
+    Input: A list with each entry having title from input corpus
     operation: computes the language model probability for each article bigram  and stores the probability for each bigram in  dictionary
     """
     global language_model_count, unique_bigram_count, language_model_probability, word_count
 
-    compute_word_count(headline_word_tag_list)
-    compute_language_model_counts(headline_word_tag_list)
+    compute_word_count(title_word_tag_list)
+    compute_language_model_counts(title_word_tag_list)
     language_model_probability = dict(language_model_count)
 
-    for headline in headline_word_tag_list:
+    for title in title_word_tag_list:
 
-        tokens = headline.split(" ")
+        tokens = title.split(" ")
         prev = "start"
         cur = "start"
         mycount = 0
@@ -157,16 +157,16 @@ def compute_language_model_probability(headline_word_tag_list):
                     language_model_probability[prev][cur] = (1) / float(word_count[prev])
 
 
-def compute_bigram_counts(headline_word_tag_list):
+def compute_bigram_counts(title_word_tag_list):
     """
-    Input: A list with each entry having headline from input corpus
+    Input: A list with each entry having title from input corpus
     operation: computes the language model counts for each article bigram  and stores the probability for each bigram POSin  dictionary
     """
 
     global bigram_model_count, unique_bigram_pos_count
 
-    for headline in headline_word_tag_list:
-        tokens = headline.split(" ")
+    for title in title_word_tag_list:
+        tokens = title.split(" ")
         prev = "start"
         cur = "start"
         for entry in tokens:
@@ -187,25 +187,25 @@ def compute_bigram_counts(headline_word_tag_list):
                     bigram_model_count[prev][cur] = 1
 
 
-def compute_trigram_counts(headline_word_tag_list):
+def compute_trigram_counts(title_word_tag_list):
     """
-    Input: A list with each entry having headline from input corpus
+    Input: A list with each entry having title from input corpus
     operation: computes the language model counts for each article trigram  and stores the probability for each trigram POS in  dictionary
     """
 
     global trigram_model_count, unique_trigram_pos_count
     local_trigram_count = 0
     lc = 0
-    # print headline_word_tag_list
-    for headline in headline_word_tag_list:
+    # print title_word_tag_list
+    for title in title_word_tag_list:
         local_trigram_count += 1
-        # print str(local_trigram_count)+")current line:"+headline
+        # print str(local_trigram_count)+")current line:"+title
 
-        tokens = headline.split(" ")
+        tokens = title.split(" ")
         prev = "start"
         cur = "start"
         next = "start"
-        # print "line:"+headline
+        # print "line:"+title
         for entry in tokens:
             word, tag = entry.rsplit('/', 1)
             prev = cur
@@ -249,22 +249,22 @@ def compute_trigram_counts(headline_word_tag_list):
 
 
 
-def compute_pos_language_model(headline_word_tag_list):
-    """ Input: A list with each entry having headline from input corpus
+def compute_pos_language_model(title_word_tag_list):
+    """ Input: A list with each entry having title from input corpus
     operation: computes the language model probability for each trigrams of POS  and stores the probability for each trigram POS in  dictionary
 
     """
     global trigram_model_probability, trigram_model_count, trigram_model_probability, bigram_model_count
-    compute_trigram_counts(headline_word_tag_list)
-    compute_bigram_counts(headline_word_tag_list)
+    compute_trigram_counts(title_word_tag_list)
+    compute_bigram_counts(title_word_tag_list)
 
     trigram_model_probability = dict(trigram_model_count)
     # computes POS language model probability
-    for headline in headline_word_tag_list:
+    for title in title_word_tag_list:
         prev = "start"
         cur = "start"
         next = "start"
-        tokens = headline.split(" ")
+        tokens = title.split(" ")
         mycount = 0
         for entry in tokens:
             word, tag = entry.rsplit('/', 1)
@@ -286,8 +286,8 @@ def compute_pos_language_model(headline_word_tag_list):
             mycount += 1
 
 
-def compute_POS_language_feature(headline_word_tag_list):
-    """ Returns POS language model feature value for the headline
+def compute_POS_language_feature(title_word_tag_list):
+    """ Returns POS language model feature value for the title
     """
     global trigram_model_probability
     POSLM_feature = 0
@@ -297,7 +297,7 @@ def compute_POS_language_feature(headline_word_tag_list):
     count = 1
 
     # initialization of dictionary
-    tokens = headline_word_tag_list.split(" ")
+    tokens = title_word_tag_list.split(" ")
     for entry in tokens:
         word, tag = entry.rsplit('/', 1)
         prev = cur
@@ -315,31 +315,31 @@ def compute_POS_language_feature(headline_word_tag_list):
     return POSLM_feature
 
 
-def compute_headline_length_feature(headline_word_tag_list):
+def compute_title_length_feature(title_word_tag_list):
     """
-    computes the log probability of particular headline length and returns the value
+    computes the log probability of particular title length and returns the value
     """
-    global headline_length_probability
+    global title_length_probability
     Length_feature = 0
     count = 0
-    total_no_of_headlines = 0
-    for i in headline_length_count:
-        total_no_of_headlines = total_no_of_headlines + headline_length_count[i]
+    total_no_of_titles = 0
+    for i in title_length_count:
+        total_no_of_titles = total_no_of_titles + title_length_count[i]
 
-    tokens = headline_word_tag_list.split(" ")
+    tokens = title_word_tag_list.split(" ")
     for entry in tokens:
         word, tag = entry.rsplit('/', 1)
         count = count + 1
 
-    if count in headline_length_probability:
-        Length_feature = math.log(headline_length_probability[count], 10)
+    if count in title_length_probability:
+        Length_feature = math.log(title_length_probability[count], 10)
     else:
-        temp = 1 / float(total_no_of_headlines)
+        temp = 1 / float(total_no_of_titles)
         Length_feature = math.log(temp, 10)
     return Length_feature
 
 
-def compute_language_model_feature(headline):
+def compute_language_model_feature(title):
     """Returns the language model feature value
     """
     global language_model_probability, word_count
@@ -352,11 +352,11 @@ def compute_language_model_feature(headline):
     prev = "start"
     cur = "start"
 
-    headline = headline.strip()
-    WordOfLine = headline.split()
+    title = title.strip()
+    WordOfLine = title.split()
     mycount = 0
     LM_value = 0
-    tokens = headline.split(" ")
+    tokens = title.split(" ")
     for entry in tokens:
         word, tag = entry.rsplit('/', 1)
         prev = cur
@@ -382,19 +382,19 @@ def compute_language_model_feature(headline):
     return LM_value
 
 
-def get_headline_synthesis_features(headline_word_tag_list):
+def get_title_synthesis_features(title_word_tag_list):
     '''
     calls the feature functions and stores feature values for the model in a tuple in the format
-    ({POSLM:"NN VB NN"},outcome,{headline_len,len_val},outcome,
+    ({POSLM:"NN VB NN"},outcome,{title_len,len_val},outcome,
     '''
-    global headline_length_probability, language_model_probability, trigram_model_probability, feature_values
-    compute_pos_language_model(headline_word_tag_list)
-    compute_language_model_probability(headline_word_tag_list)
-    compute_headline_length_probability(headline_word_tag_list)
-    # adding all features of one headline
+    global title_length_probability, language_model_probability, trigram_model_probability, feature_values
+    compute_pos_language_model(title_word_tag_list)
+    compute_language_model_probability(title_word_tag_list)
+    compute_title_length_probability(title_word_tag_list)
+    # adding all features of one title
 
 
-    for head in headline_word_tag_list:
+    for head in title_word_tag_list:
         # print "####################################################################################"
         # print "line:"+head
         count = 0
@@ -403,9 +403,9 @@ def get_headline_synthesis_features(headline_word_tag_list):
         for entry in tokens:
             word, tag = entry.rsplit('/', 1)
             count += 1
-        temp_dict = {'headline_len': count}
+        temp_dict = {'title_len': count}
 
-        feature1 = (temp_dict, headline_length_probability[count])
+        feature1 = (temp_dict, title_length_probability[count])
         # print "current f1 value:"+str(feature1)
 
         feature_values.append(feature1)
@@ -455,18 +455,18 @@ def get_headline_synthesis_features(headline_word_tag_list):
     return feature_values
 
 
-def get_classification_dictionary(headline_word_tag_list):
+def get_classification_dictionary(title_word_tag_list):
     '''
     returns the list of the form
-    {'headline_len': 3}, ({'pos_LM': 'NN VV MM '},'{'LM': ' start-a a-b b-c'},
+    {'title_len': 3}, ({'pos_LM': 'NN VV MM '},'{'LM': ' start-a a-b b-c'},
     '''
     local_dict = {}
     count = 0
-    tokens = headline_word_tag_list.split(" ")
+    tokens = title_word_tag_list.split(" ")
     # adding feature 1
     for entry in tokens:
         count += 1
-    local_dict['headline_len'] = count
+    local_dict['title_len'] = count
 
     # adding feature 2
 

@@ -1,9 +1,9 @@
 """
-Features from headline:
+Features from title:
 added in this file:
 1. Pos tri-gram and probability
 
-added in headline-synthesis_train file
+added in title-synthesis_train file
 
 3. content score and its probability of occurrence
 4. bleu score and its probability of occurrence
@@ -19,7 +19,7 @@ def increment_key(dict_obj, key):
 
 
 """
-all_sentences = all headline present in training data set
+all_sentences = all title present in training data set
 """
 
 
@@ -30,10 +30,10 @@ def get_feature_values(all_sentences):
     dict_word = {}
 
     for sentence in all_sentences:
-        sentence = 'start/start %s' % sentence  # append 'start/start' in each headline
-        words = sentence.split()  # split each headline into word-tag format
-        tag_list = []  # list of all the tag in one headline
-        word_list = []  # list of all the word in one headline
+        sentence = 'start/start %s' % sentence  # append 'start/start' in each title
+        words = sentence.split()  # split each title into word-tag format
+        tag_list = []  # list of all the tag in one title
+        word_list = []  # list of all the word in one title
         for entry in words:
             word, tag = entry.rsplit('/', 1)
             tag_list.append(tag)
@@ -41,8 +41,8 @@ def get_feature_values(all_sentences):
                 word_list.append(word)
                 increment_key(dict_word, word)
 
-        all_tag_sequence.append(tag_list)  # add all the tags into tags list of all headline
-        all_word_sequence.append(word_list)  # add all words into words of all the headline
+        all_tag_sequence.append(tag_list)  # add all the tags into tags list of all title
+        all_word_sequence.append(word_list)  # add all words into words of all the title
 
     # all_tag_sequence now has a list of tags corresponding to different sentences
 

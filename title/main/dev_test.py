@@ -16,12 +16,12 @@ def get_file_path(input_path):
         out_file = file
         with open(input_path, 'r') as in_file:
             lines = in_file.readlines()
-            headline = lines[0]  # actual headline
+            title = lines[0]  # actual title
             data = lines[1:]
             out_file.writelines(data)
 
-    headline = remove_tags_from_line(headline.split())
-    return headline, temp_location
+    title = remove_tags_from_line(title.split())
+    return title, temp_location
 
 
 def process_directory(input_dir, output_dir):
@@ -33,9 +33,9 @@ def process_directory(input_dir, output_dir):
         print('\tGenerating Title for '+file_name)
         output_file = os.path.join(output_dir, '%s_processed.txt' % file_name.split('.')[0])
         with open(output_file, 'w') as out_file:
-            headline, file_path = get_file_path(os.path.join(input_dir, file_name))
-            top_sentences = get_file_headings(file_path, len(headline.split()))
-            out_file.write('%s\n' % headline.strip())  # actual title
+            title, file_path = get_file_path(os.path.join(input_dir, file_name))
+            top_sentences = get_file_headings(file_path, len(title.split()))
+            out_file.write('%s\n' % title.strip())  # actual title
             sentences = '\n'.join(top_sentences)  # generated title
             out_file.write(sentences)
         print('\t\tAll top 10 Title written in file')
