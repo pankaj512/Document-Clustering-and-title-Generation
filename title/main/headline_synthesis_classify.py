@@ -29,13 +29,16 @@ def get_headline_synthesis_score(headline_seq, dict_content_score, file_text):
 
     headline_words = headline_seq.split()
     feature_list = get_features(headline_seq)
+    """
+    features_list =  pos trigram features list now add remaining features like 'content_score' and 'bleu_score'
+    """
 
     # handle the case of start tag for trigram
-    start_feature = feature_list.pop(0)
+    start_feature = feature_list.pop(0)  # remove 'start/start'  from features
     start_feature['content_score'] = dict_content_score[headline_words[0]] + dict_content_score[headline_words[1]]
     start_feature['bleu_score'] = 0.0
 
-    probability = headline_synthesis_classifier.classify(start_feature)
+    probability = headline_synthesis_classifier.classify(start_feature) # predict the probability with classifier
     if probability == 1.0:
         probability = 0
 

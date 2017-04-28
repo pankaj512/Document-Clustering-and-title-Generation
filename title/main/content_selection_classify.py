@@ -101,7 +101,7 @@ def process_sentence(sentence, file_level_dict, word_dict):
         output = classifier.prob_classify(feature_dict)
 
         if output.prob(1) > 0.0:
-            headline_words[words[index]] = max(output.prob(1), headline_words.get(words[index], 0))
+            headline_words[words[index]] = max(output.prob(1), headline_words.get(words[index], 0)) # if present then value else 0
 
     return headline_words
 
@@ -120,11 +120,18 @@ def classify_dev_file(file_location):
         sentences = sentences[1:]
         for sentence in sentences:
             headline_words = process_sentence(sentence, file_level_dict, word_dict)
+            """
+            words with probability to be included in headline
+            """
             if headline_words:
                 for (key, value) in headline_words.items():
                     all_potential_headline_words[key] = max(value, all_potential_headline_words.get(key, 0))
 
     return actual_headline, all_potential_headline_words
+    """
+    actual_headline = given headline of file
+    all_potential_headline_words = words with heighest probability
+    """
 
 
 def classify_new_file(file_path):

@@ -20,6 +20,9 @@ def get_bleu_score_probability(file_location):
         all_lines = all_lines[1:]
         bleu_score = get_bleu_score(actual_headline, all_lines)
         return bleu_score
+        """
+        return value is bleu_score that is how much readable actual headline is
+        """
 
 
 def process_directory(input_directory):
@@ -35,11 +38,14 @@ def process_directory(input_directory):
         try:
             file_path = os.path.join(input_directory, file_name)
             headline, word_dict = classify_dev_file(file_path)
-
+            """
+            headline : actual headline of given file
+            word_dict : words can be included in headline with max probability
+            """
             content_score = 0
             for word in headline.split():
-                # todo: recheck this, what if word is present in headline but not in text?
-                content_score += word_dict.get(word, 0)
+                # recheck this, what if word is present in actual headline but not in text?
+                content_score += word_dict.get(word, 0)  # if in headline but not in text then 0 else probability
 
             if content_score in dict_content_score:
                 dict_content_score[content_score] += 1
@@ -48,12 +54,15 @@ def process_directory(input_directory):
 
             # get bleu score
             bleu_score = get_bleu_score_probability(file_path)
+            """
+             bleu score of actual headline with respect to given story of news
+            """
             if bleu_score in dict_bleu:
                 dict_bleu[bleu_score] += 1
             else:
                 dict_bleu[bleu_score] = 1
 
-            all_headlines.append(headline)
+            all_headlines.append(headline) # list of all the actual headlines
         except:
             error_file.write('filename : %s\n' % file_name)
             import traceback
@@ -63,16 +72,22 @@ def process_directory(input_directory):
     error_file.close()
 
     headline_feature_set = get_feature_values(all_headlines)
+    """
+    headline_features_set is a list of all the features extracted from all headline
+    """
 
+    """
+    dict_content_score = dictionary of score of words in headline with their frequency of probability values
+    """
     for (score, count) in dict_content_score.items():
-        output_dict = {'content_score': score}
-        outcome = float(count) / len(dict_content_score)
-        headline_feature_set.append((output_dict, outcome))
+        output_dict = {'content_score': score}   # content_score with this score
+        outcome = float(count) / len(dict_content_score)  # probability of occurrance of that score
+        headline_feature_set.append((output_dict, outcome)) # add to headline feature set
 
     for (score, count) in dict_bleu.items():
-        output_dict = {'bleu_score': score}
-        outcome = float(count) / len(dict_content_score)
-        headline_feature_set.append((output_dict, outcome))
+        output_dict = {'bleu_score': score}     # bleu score and its frequency
+        outcome = float(count) / len(dict_content_score) # probability of this frequency
+        headline_feature_set.append((output_dict, outcome)) # add to feature set
 
     import json
     file = open('temp/sequence.txt', 'w')  # this file is missing --resolved
