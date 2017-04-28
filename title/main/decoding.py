@@ -84,7 +84,7 @@ def get_file_headings(file_path, headline_length=8):
         count += 1
         probab, sentence = heappop(heap)
         top_sentence_list.append(remove_tags_from_line(sentence))
-
+    print('\t\tReturning Top 10 sentences')
     return top_sentence_list
     """
     top_sentence_list = 10 generated title

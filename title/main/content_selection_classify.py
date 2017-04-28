@@ -162,7 +162,7 @@ def classify_new_file(file_path):
         top_25_words[word_with_tag] = value
         if len(dict_unique_words) > 25:
             break
-
+    print('\t\tReturning Top 25 Words')
     return top_25_words
     """
     top_25_words = a dictionary of word with tag and its value

@@ -30,6 +30,7 @@ def process_directory(input_dir, output_dir):
 
     """
     for file_name in os.listdir(input_dir):
+        print('\tGenerating Title for '+file_name)
         output_file = os.path.join(output_dir, '%s_processed.txt' % file_name.split('.')[0])
         with open(output_file, 'w') as out_file:
             headline, file_path = get_file_path(os.path.join(input_dir, file_name))
@@ -37,7 +38,7 @@ def process_directory(input_dir, output_dir):
             out_file.write('%s\n' % headline.strip())  # actual title
             sentences = '\n'.join(top_sentences)  # generated title
             out_file.write(sentences)
-
+        print('\t\tAll top 10 Title written in file')
 
 def generate_tilte(base):
     os.chdir('title/main/')
@@ -45,7 +46,7 @@ def generate_tilte(base):
 
     # os.chdir("../../")
     # in_path = base+'/data/result/test_input/'
-
+    print("Generating Title ....")
     seg_out_path = base + '/data/result/segmented/'  # files with tags in text
     out_path = base + '/data/result/test_output/'
 
